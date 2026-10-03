@@ -36,7 +36,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with a product number less than 2*
+*Three-digit numbers with digit product less than 2*
 
 > (Points 2) How many 3-digit numbers have a product of digits smaller than 2?
 >
@@ -83,11 +83,11 @@ The largest and smallest of A,B,C by implications
 
 > (Points 3) On three numbers A, B and C you have the following information: - if C is not the largest of the three, then the largest is A; - if A is not the smallest of the three, then the largest is B. What are the largest and smallest in order?
 >
-> - **(A)** B e C
-> - **(B)** A e C
-> - **(C)** C e B
-> - **(D)** B e A
-> - **(E)** C e A
+> - **(A)** B and C
+> - **(B)** A and C
+> - **(C)** C and B
+> - **(D)** B and A
+> - **(E)** C and A
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q02|src_kangourou_2017_cadet_semifinale__Q02]]
@@ -112,9 +112,9 @@ The largest and smallest of A,B,C by implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the list of the countries of the European Union.
+*Exercise cancelled*
 
-> (Point 3) Exercise canceled
+> (3 points)  EXERCISE CANCELLED
 
 **Answer:** annullato
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q03|src_kangourou_2017_cadet_semifinale__Q03]]
@@ -149,7 +149,7 @@ This is the list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times does Daria overtake Baldo by 12 km?
+How many times does Daria overtake Baldo in 12 km?
 
 > Grandfather Baldo and his granddaughter Daria run, in the same direction, for 12 km on a 400 m long athletics track, starting at the same moment from the same point. Both run at a constant speed; while Daria runs 20 m, Baldo runs 17. How many times during the race does Daria overtake Baldo?
 >
@@ -203,13 +203,13 @@ How many times does Daria overtake Baldo by 12 km?
 
 ![[src_kangourou_2017_cadet_semifinale__prob5.png]]
 
-> (Punkts 4) Rita dressed each of the six faces of a cube with cards of very different colours. Which of the images next to it does not agree with the other three and therefore certainly does not represent the cube covered by Rita?
+> (4 points) Rita dressed each of the six faces of a cube with cards of all different colours. Which of the images next to it does not agree with the other three and therefore certainly does not represent the cube covered by Rita?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** None of them .
+> - **(E)** None of them
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q05|src_kangourou_2017_cadet_semifinale__Q05]]
@@ -305,7 +305,7 @@ How many times does Daria overtake Baldo by 12 km?
 \end{document}
 ```
 
-> The school's courtyard is octagonal: it consists of 4 equilateral triangles and 4 non-equilateral isosceles, as shown in the figure. The distance from the centre of each of the peaks is 10 meters. What is the yard area in square metres?
+> The school's courtyard is octagonal: it is made by placing, alternating them, 4 equilateral triangles and 4 non-equilateral isosceles triangles, as shown in the figure. The distance from the central point to each of the vertices is 10 metres. What is the yard area in square metres?
 >
 > - **(A)** 100 (√2 + 1)
 > - **(B)** 125 (√3 + 1)
@@ -344,9 +344,9 @@ How many times does Daria overtake Baldo by 12 km?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining partition of 97531x1468 by 15*
+*Remainder of the division of 97531x1468 by 15*
 
-> (Points 5) Denotes with N the product of 97531 for 1468. What's the rest of the division of N by 15?
+> (Points 5) Denote by N the product of 97531 and 1468. What is the remainder of the division of N by 15?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -387,7 +387,7 @@ How many times does Daria overtake Baldo by 12 km?
 
 *Weight of sponge from 90% to 80% water*
 
-> (Points 5) A sponge is made up of 90% water and weighs 2 kg. After some of the water has evaporated, 80% of the sponge is water. What's his weight in pounds now?
+> (Points 5) A sponge is made up of 90% water and weighs 2 kg. After some of the water has evaporated, 80% of the sponge is water. What is its weight in kilograms now?
 >
 > - **(A)** 1,00
 > - **(B)** 1,10
@@ -430,15 +430,15 @@ How many times does Daria overtake Baldo by 12 km?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves by the Woman to return to the original box*
+*Minimum number of moves for the Queen to return to the starting square*
 
-> In the game of chess, the woman can move like a tower (i.e. vertically or horizontally) or like a spade (i.e. diagonally). On an infinite chessboard, a Woman in the first move moves like a Tower of a box, to the second as a Two-Boxed Tower, to the third as a 3-Boxed Tower and continues to move in alternate moves like an Alfiere and as a Tower, increasing with each move the length of her path of a box. What's the minimum number of moves that allows Donna to return to the original box?
+> (6 points) In the game of chess the Queen can move like a Rook (that is, vertically or horizontally) or like a Bishop (that is, diagonally). On an infinite chessboard a Queen on the first move moves like a Rook by one square, on the second like a Bishop by two squares, on the third like a Rook by 3 squares and continues to move on alternating moves like a Bishop and like a Rook, increasing on each move the length of her path by one square. What is the minimum number of moves that allows the Queen to return to the starting square?
 >
 > - **(A)** 4
 > - **(B)** 7
 > - **(C)** 8
 > - **(D)** 12
-> - **(E)** The return is impossible Questions answered openly
+> - **(E)** the return is impossible Open-answer questions
 
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q09|src_kangourou_2017_cadet_semifinale__Q09]]
 
@@ -467,7 +467,7 @@ How many times does Daria overtake Baldo by 12 km?
 
 *The largest spicy two-digit number *
 
-> We call a two-digit number piccante which is the sum of the sum of its digits and the product of its digits. Ad es. 89 is a spicy number because 89 = (8 + 9) + (8 × 9). What's the biggest spicy number?
+> We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8 × 9). What's the biggest spicy number?
 
 **Answer:** 99
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q10|src_kangourou_2017_cadet_semifinale__Q10]]
@@ -498,7 +498,7 @@ How many times does Daria overtake Baldo by 12 km?
 
 *Minimum of sufficient evidence given total correct answers*
 
-> (Points 5) 30 students took a test of 10 questions. To be sufficient, at least eight questions were required to be answered correctly. In all, the correct answers are 240. What is the minimum number of proofs that are sufficient?
+> (Points 5) 30 students took a test of 10 questions. To be sufficient, at least eight questions were required to be answered correctly. In all, the correct answers are 240. What is the minimum number of tests that are sufficient?
 
 **Answer:** 10
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q11|src_kangourou_2017_cadet_semifinale__Q11]]
@@ -532,7 +532,7 @@ How many times does Daria overtake Baldo by 12 km?
 
 *Minimum chocolates divided into classes 21 and 25*
 
-> To celebrate their birthday, the twins Lina and Nina want to bring sweets to school to give to classmates and classmates: so Mom bought chocolates and split them in two equal parts, half for Lina and half for Nina. On the day of the party in Lina's class, there are 21 in attendance, in Nina's class there are 25. Lina gives each of her companions the same number of chocolates and they don't get any better. The same thing happens to Nina. What's the smallest number of chocolates your mom could buy?
+> To celebrate their birthday, the twins Lina and Nina want to bring sweets to school to give to classmates and classmates: so Mom bought chocolates and split them in two equal parts, half for Lina and half for Nina. On the day of the party in Lina's class, there are 21 in attendance, in Nina's class there are 25. Lina gives each of her classmates the same number of chocolates and has none left over. The same thing happens to Nina. What is the smallest number of chocolates that Mom could have bought?
 
 **Answer:** 240
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q12|src_kangourou_2017_cadet_semifinale__Q12]]
@@ -594,7 +594,7 @@ How many times does Daria overtake Baldo by 12 km?
 
 *Length of route given two encounters (720 from A, 100 from B) *
 
-> (Points 6) Two athletes train by running, each at a constant speed different from the other, on a straight path between two ends A and B. They start simultaneously from A and B and, as soon as they reach the opposite end from where they started, they turn around and return to their starting point. At their first meeting they're 720 meters from A, the second they're 100 meters from B. Neither one outperforms the other. How many meters is the path?
+> (Points 6) Two athletes train by running, each at a constant speed different from the other, on a straight path between two ends A and B. They start simultaneously from A and B and, as soon as they reach the opposite end from where they started, they turn around and return to their starting point. At their first meeting they're 720 meters from A, at their second meeting they're 100 meters from B. Neither one overtakes the other. How many meters is the path?
 
 **Answer:** 2060
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q14|src_kangourou_2017_cadet_semifinale__Q14]]
@@ -623,9 +623,9 @@ How many times does Daria overtake Baldo by 12 km?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of N dividers, third and seventh product equal to N*
+*Number of divisors of N, third and seventh product equal to N*
 
-> (Points 6) I have listed all the divisors of a natural number N, including 1 and N, in ascending order. The product of the third and seventh divisors is N. Is it possible to determine how many divisors are listed? Write 9999 if the answer is no, the number of divisors if not.
+> (Points 6) I have listed all the divisors of a natural number N, including 1 and N, in ascending order. The product of the third and seventh divisors is N. Is it possible to determine how many divisors are listed? Write 9999 if the answer is no, the number of divisors otherwise.
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q15|src_kangourou_2017_cadet_semifinale__Q15]]
@@ -656,7 +656,7 @@ How many times does Daria overtake Baldo by 12 km?
 
 *Minimum full speed to prevent sinking of the boat*
 
-> (Points 7) Fifty kilometres from the port, Luigi discovers that his fishing boat has a fault, which so boards water at a rate of 2 tonnes every 5 minutes. Luigi knows that the boat will sink when he has taken 90 tonnes of water from here and he operates a pump that allows him to discharge 9 tonnes of water per hour. What is the minimum speed, in an integer number of miles per hour, that Louis must keep in order to reach the harbor without sinking the boat?
+> (Points 7) Fifty kilometres from the port, Luigi discovers that his fishing boat has a fault, which takes on water at a rate of 2 tonnes every 5 minutes. Luigi knows that the boat will sink when it has taken on 90 tonnes of water and he operates a pump that allows him to discharge 9 tonnes of water per hour. What is the minimum speed, in an integer number of km/h, that Luigi must keep in order to reach the harbor without sinking the boat?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q16|src_kangourou_2017_cadet_semifinale__Q16]]
@@ -685,9 +685,9 @@ How many times does Daria overtake Baldo by 12 km?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of alcohol guaranteed in A after transitions*
+*Percentage of alcohol guaranteed in A after pourings*
 
-> (Points 7) Two containers A and B have the same capacity. A is filled with alcohol; then a portion of the alcohol is poured into B and B is filled with water. Now you mix the contents of B and pour it into A that much enough to fill A again. After these operations, what percentage of alcohol can still be guaranteed to be present in A? (Do not enter the % symbol in the answer.)
+> (Points 7) Two containers A and B have the same capacity. A is filled with alcohol; then a portion of the alcohol is poured into B and B is filled with water. Now you mix the contents of B and pour enough of it into A to fill A again. After these operations, what percentage of alcohol can still be guaranteed to be present in A? (Do not enter the % symbol in the answer.)
 
 **Answer:** 75
 [[Quesiti/src_kangourou_2017_cadet_semifinale#q17|src_kangourou_2017_cadet_semifinale__Q17]]

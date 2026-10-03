@@ -43,7 +43,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangle area inscribed vs meta circle*
+*Area of inscribed equilateral triangle vs half circle*
 
 ![[src_kangourou_2008_benjamin_maggio__probb1.png]]
 
@@ -61,7 +61,7 @@ level: kangourou
 
 > In the figure, you see a circle with an equilateral triangle inscribed. Is the area of the triangle larger, smaller or equal to half that of the circle? Reason your claims. (see figure)
 
-**Answer:** minore
+**Answer:** smaller
 [[Quesiti/src_kangourou_2008_benjamin_maggio#qb1|src_kangourou_2008_benjamin_maggio__QB1]]
 
 
@@ -126,7 +126,7 @@ level: kangourou
 
 > Suppose you have randomly extracted ten integers greater than $0$. Can you always choose two so that their sum or their difference is a number divisible by $10$? If so, how? If not, why?
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2008_benjamin_maggio#qb3|src_kangourou_2008_benjamin_maggio__QB3]]
 
 
@@ -151,9 +151,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little palindrome peak divided by 27*
+*Smallest palindrome divisible by 27*
 
-> An Isabella number is a palindrome number (whole greater than zero) that is divisible by $27$. What's Isabella's smallest number? (Remember that a palindrome number is a number that can be read indifferently from right to left or from left to right, such as the numbers $6226$ or $97579$.)
+> An Isabella number is a (positive integer) palindrome number that is divisible by $27$. What is the smallest Isabella number? (Recall that a palindrome number is a number that can be read indifferently from right to left or from left to right, such as the numbers $6226$ or $97579$.)
 
 **Answer:** 999
 [[Quesiti/src_kangourou_2008_benjamin_maggio#qb4|src_kangourou_2008_benjamin_maggio__QB4]]
@@ -192,7 +192,7 @@ level: kangourou
 > 
 > What is the maximum number of flavors that can be present in the packages?
 
-**Answer:** 8 gusti
+**Answer:** 8 flavors
 
 [[Quesiti/src_kangourou_2008_benjamin_maggio#qb5|src_kangourou_2008_benjamin_maggio__QB5]]
 
@@ -218,9 +218,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*LIETI numbers <1000 (square divided by 7,8,9,10) *
+*LIETI numbers <1000 (square divisible by 7,8,9,10) *
 
 > Let's say an integer greater than zero is LIETO if its square (i.e. the product of the number itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all LIETI numbers less than $1000$.
 
-**Answer:** 420 e 840
+**Answer:** 420 and 840
 [[Quesiti/src_kangourou_2008_benjamin_maggio#qb6|src_kangourou_2008_benjamin_maggio__QB6]]

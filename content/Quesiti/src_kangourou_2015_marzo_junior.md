@@ -38,7 +38,7 @@ level: kangourou
 
 * which result*
 
-> One of the following numbers is the result of product 21.649 × 513.239. What kind? A) 11.111.111
+> One of the following numbers is the result of product 21.649 × 513.239. Which one? A) 11.111.111
 > 	
 > B) 111.111.111
 > 	
@@ -80,7 +80,7 @@ level: kangourou
 
 *how many handkerchiefs*
 
-> On a long rope in the garden they lie to dry some handkerchiefs and some pairs of socks. Between two handkerchiefs there is always at least one sock and between two socks there is at least one handkerchief. There are 29 drying heads. How many handkerchiefs are there? A) 11
+> On a long rope in the garden they lie to dry some handkerchiefs and some pairs of socks. Between two handkerchiefs there is always at least one sock and between two socks there is at least one handkerchief. There are 29 items hanging to dry. How many handkerchiefs are there? A) 11
 > 	
 > B) 13
 > 	
@@ -142,7 +142,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the underlying asset shall be reported in accordance with the following column:
+*value*
 
 ![[src_kangourou_2015_marzo_junior__prob3.png]]
 
@@ -164,9 +164,13 @@ The value of the underlying asset shall be reported in accordance with the follo
 \end{document}
 ```
 
-> The region within the square shown in the figure is bounded by a semicircle and two quarters of its circumference. The square has area 1. How much is the shaded area worth? A) π/8 B) 1/2
+> The region inside the square that appears shaded in the figure is bounded by a semicircle and by two quarter circles. The square has area 1. What is the area of the shaded region?
+> A) π/8	 	
+> B) 1/2	
 > 	
-> C) π/2 D) 1/4 E) π/4
+> C) π/2	 	
+> D) 1/4	 	
+> E) π/4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2015_marzo_junior#q03|src_kangourou_2015_marzo_junior__Q03]]
@@ -206,7 +210,7 @@ The value of the underlying asset shall be reported in accordance with the follo
 
 * how many more Anna*
 
-> Anna, Betta and Cinzia purchased a box containing 30 cookies: for the price, Anna provided 80 cents, Betta 50 cents and Cinzia 20. So they each took 10 cookies. If the cookies were divided in proportion to what each one paid, how many more would Anna have had? A) 10
+> Anna, Betta and Cinzia purchased a box containing 30 cookies: to pay for it, Anna provided 80 cents, Betta 50 cents and Cinzia 20. So they each took 10 cookies. If the cookies were divided in proportion to what each one paid, how many more would Anna have had? A) 10
 > 	
 > B) 9
 > 	
@@ -291,17 +295,27 @@ The value of the underlying asset shall be reported in accordance with the follo
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of unemployment over the period considered.
+*Units digit of 2015^2+2015^0+2015^1+2015^5*
 
-> What is the number of units of the number 20152 + 20150 + 20151 + 20155? A) 1
+> What is the units digit of the number 20152 + 20150 + 20151 + 20155?
+> A) 1	
+	
 > 	
-> B) 5
+> B) 5	
+	
 > 	
-> C) 6
+> C) 6	
+	
 > 	
-> D) 7
+> D) 7	
+	
 > 	
-> E) 9 A) B) C) D) E)
+> E) 9
+> A)
+> B)
+> C)
+> D)
+> E)
 >
 
 **Answer:** C
@@ -344,7 +358,7 @@ This is the total amount of unemployment over the period considered.
 
 > A class consists of 33 students, each of whom likes studying at least one of the subjects: Italian or Mathematics. Exactly 3 students like studying both Mathematics and Italian, and the number of students who like studying only Italian is double the number of those who like studying only Mathematics. How many students like studying Italian?
 >
-> (A) 15
+> A) 15
 > 	
 > B) 18	
 > 	
@@ -389,7 +403,7 @@ This is the total amount of unemployment over the period considered.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not square on the perfect cube*
+*Which is not a perfect square nor a perfect cube*
 
 > Which of the following integers is not a perfect square and is not a perfect cube? A) 613
 > 	
@@ -471,9 +485,18 @@ Total days **
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the values of the values of the values of the values of the values:
+*list of values*
 
-> If n is the number of right angles of a general convex pentagon, which of the following is the complete list of values that n can assume? (A polygon is said to contain all of the segments that contain two points.) A) 1, 2, 3. B) 0, 1, 2, 3, 4. C) 0, 1, 2, 3. D) 0, 1, 2. E) 1, 2. The questions from N. 11 al N. 20 is worth 4 points each.
+> If n is the number of right angles of a generic convex pentagon, which of the
+> following is the complete list of values that n can take? (A polygon is called con­
+> vex if, whenever it contains two points, it contains the whole segment that has them as
+> endpoints.)
+> A) 1, 2, 3.	
+> B) 0, 1, 2, 3, 4.	
+> C) 0, 1, 2, 3.	
+> D) 0, 1, 2.	
+> E) 1, 2.
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_junior#q10|src_kangourou_2015_marzo_junior__Q10]]
@@ -514,7 +537,7 @@ The following table shows the values of the values of the values of the values o
 
 *how many choices*
 
-> You are looking for a number of three digits ABC (A is the number of hundreds, B is the number of tens, C is the number of units) such that 1 ≤ A < B < C and the sum of the three numbers ABC, BCA and CAB is a number of three digits equal to each other (i.e. of the type DDD). How many choices do you have? A) 3
+> You are looking for a number of three digits ABC (A is the hundreds digit, B is the tens digit, C is the units digit) such that 1 ≤ A < B < C and the sum of the three numbers ABC, BCA and CAB is a number of three digits equal to each other (i.e. of the type DDD). How many choices do you have? A) 3
 > 	
 > B) 4
 > 	
@@ -588,7 +611,7 @@ The following table shows the values of the values of the values of the values o
 \end{document}
 ```
 
-> The rectangle in the figure is obtained by approximating 8 squares all on side 1. In a rectangle you can only move along the sides or diagonals of the individual squares. With this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (e.g. those marked)? A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6
+> The rectangle in the figure is obtained by placing 8 squares all of side 1 side by side. In a rectangle you can only move along the sides or diagonals of the individual squares. With this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (e.g. those marked)? A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_junior#q12|src_kangourou_2015_marzo_junior__Q12]]
@@ -628,15 +651,24 @@ The following table shows the values of the values of the values of the values o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ears of Trimi*
+*Trimi's ears*
 
-> Every inhabitant of a strange planet has some (possibly even more than two) ears. Three inhabitants, Imi, Dimi and Trimi, meet; no one else is present. He says, "I can see for eight hours". Tell me, I can see seven. Trimi says, "How strange! I can only see five. None of them can see their own ears, all of them see the ears of others, and all of them speak the truth. How many ears does Trimi have? A) 2
+> Each inhabitant of a strange planet has some (possibly even more than two) 
+> ears. Three inhabitants, Imi, Dimi and Trimi, meet: no one else is present. Imi 
+> says: "I can see 8 ears". Dimi says: "I can see 7". Trimi says: "How 
+> strange! I can see only 5". None of them can see their own ears, all 
+> see all the ears of the others and all tell the truth. How many ears does Trimi have?
+> A) 2	
+	
 > 	
-> B) 4
+> B) 4	
+	
 > 	
-> C) 5
+> C) 5	
+	
 > 	
-> D) 6
+> D) 6	
+	
 > 	
 > E) 7
 >
@@ -676,7 +708,7 @@ The following table shows the values of the values of the values of the values o
 
 *height h*
 
-> A container is shaped like a rectangular prism and the base is a square side 10 cm. The water is poured into the container up to a height of 1 cm; a 2 cm side stone cubet is then immersed (which therefore does not float and lies on the bottom with one of its faces). The cube is now surrounded by water and its upper face is water-filled. How much is h worth? A) 1,92 B) 1,93 C) 1,90 D) 1,91 E) 1,94
+> A container is shaped like a rectangular prism and the base is a square side 10 cm. The water is poured into the container up to a height of h cm; a 2 cm side stone cube is then immersed (which therefore does not float and lies on the bottom with one of its faces). The cube is now surrounded by water and its upper face is level with the water. What is the value of h? A) 1,92 B) 1,93 C) 1,90 D) 1,91 E) 1,94
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_junior#q14|src_kangourou_2015_marzo_junior__Q14]]
@@ -808,15 +840,16 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the results of the calculations:
+*min n*
 
-> The product of n consecutive positive integers, each of two digits, is divided by 2015. What 's the smallest possible value for n ? A) 3
+> The product of n consecutive positive integers, each of them two-digit, is divisible by 2015. What is the smallest possible value for n ?             
+> A) 3	
 > 	
-> B) 4
+> B) 4	
 > 	
-> C) 6
+> C) 6	
 > 	
-> D) 12
+> D) 12	
 > 	
 > E) 19
 
@@ -902,9 +935,9 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interi 3 digits with adjacent digits that differ by 3*
+*3-digit integers with adjacent digits that differ by 3*
 
-> How many positive integers of three significant digits are such that, if two adjacent digits are counted in each of them, they differ by 3? A) 12
+> How many positive integers of three significant digits are such that, any two adjacent digits in it differ by 3? A) 12
 > 	
 > B) 14
 > 	
@@ -947,7 +980,7 @@ The following table shows the results of the calculations:
 
 *n first, only one of n-2,n+2 first*
 
-> The statement If n is a prime integer, then one and only one of the integers n − 2 and n + 2 is prime is false. Which of the following values of n provides a counterexample? A) n = 11 B) n = 19 C) n = 21 D) n = 29 E) n = 37 Questions from N. 21 al N. 30 is worth 5 points each.
+> The statement If n is a prime integer, then one and only one of the integers n − 2 and n + 2 is prime is false. Which of the following values of n provides a counterexample? A) n = 11 B) n = 19 C) n = 21 D) n = 29 E) n = 37 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_junior#q20|src_kangourou_2015_marzo_junior__Q20]]
@@ -985,9 +1018,9 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 2 digits as the sum of 6 powers distinct from 2*
+*Two-digit numbers as the sum of 6 distinct powers of 2*
 
-> How many two-digit numbers can be represented as the sum of exactly six different powers (at a nonnegative integer) of 2 (including 20)? A) 0
+> How many two-digit numbers can be represented as the sum of exactly six different powers (with nonnegative integer exponent) of 2 (including 2^0)? A) 0
 > 	
 > B) 1
 > 	
@@ -1034,15 +1067,18 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of allowances that can be allocated to the total allowance.
+*arrangements*
 
-> Francesca has three different vocabularies and two different atlases and wants to align them all on one shelf. If you want to put all the vocabularies together and all the atlantics together, how many different possible alignments can you choose? A) 12
+> Francesca has three different dictionaries and two different atlases and wants to line them all up on
+> a shelf. If she wants to place the dictionaries all together and the atlases all together, among
+> how many different possible arrangements can she choose?
+> A) 12	
 > 	
-> B) 24
+> B) 24	
 > 	
-> C) 30
+> C) 30	
 > 	
-> D) 60
+> D) 60	
 > 	
 > E) 120
 
@@ -1106,7 +1142,7 @@ This is the total amount of allowances that can be allocated to the total allowa
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to:
+*central region*
 
 ![[src_kangourou_2015_marzo_junior__prob23.png]]
 
@@ -1128,13 +1164,22 @@ This appropriation is intended to cover expenditure relating to:
 \end{document}
 ```
 
-> The three circles in the figure identify seven regions, each within at least one of them. A number must be written in each region, so that it is the sum of the numbers written in the regions adjacent to it (two regions are considered adjacent if their borders have more than one point in common). In two of the regions the number has already been written. What number should be written in the central region marked by the point of application? A) 0
+> The three circles in the figure identify seven regions, each
+> inside at least one of them. In each region a number must be
+> written, so that it is the sum of the numbers
+> written in the regions adjacent to it (two regions are
+> considered adjacent if their borders have more than one
+> point in common). In two of the regions the number has already been
+> written. Which number must be written in the central region
+> marked by the question mark?
+> A) 0	
 > 	
-> B) - 3
+> B) - 3	
 > 	
-> C) 3
+> C) 3	
 > 	
-> D) - 6 E) 6
+> D) - 6	 	
+> E) 6
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_junior#q23|src_kangourou_2015_marzo_junior__Q23]]
@@ -1408,11 +1453,36 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime numbers A,B,C with AB<BC<CA*
+*How many triples of digits A,B,C with AB<BC<CA*
 
-> In the formulation of this question a type AB writing indicates the number of two significant digits, not necessarily distinct from each other, in which A is the number of decimal places and B is the number of units. How many different ways can you choose three digits A, B and C if you want to have AB < BC < CA? A) 84
-> 	
-> B) 120 C) 125 D) 201 E) 502 A B C X A B C Y A B C D E F 4 cm 5 cm 2 2
+> In the formulation of this question, a notation of the type AB indicates the number
+> of two significant digits, not necessarily distinct from each other, in which A is the digit
+> of the tens and B that of the units. In how many different ways is it possible to choose three digits
+> A, B and C if one wants to have AB < BC < CA?
+> A) 84
+	
+> B) 120	 	
+> C) 125	 	
+> D) 201	 	
+> E) 502
+> A
+> B
+> C
+> X
+> A
+> B
+> C
+> Y
+> A
+> B
+> C
+> D
+> E
+> F
+> 4 cm
+> 5 cm
+> 2
+> 2
 >
 
 **Answer:** B
@@ -1495,16 +1565,19 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum routes*
+*shortest paths*
 
-> A cube has sides of length 1. Starting from one of the peaks, an ant wants to return to you by walking only along the cube's tips and walking all of them at least once. How long are the shortest routes he can take? A) 12
-> 	
-> B) 14
-> 	
-> C) 15
-> 	
-> D) 16
-> 	
+> A cube has sides of length 1. Starting from one of the vertices, an ant wants
+> to return there by walking only along the edges of the cube and traversing all of them at least
+> once. How long are the shortest paths it can take?
+> A) 12	
+	
+> B) 14	
+	
+> C) 15	
+	
+> D) 16	
+	
 > E) 20
 
 **Answer:** D
@@ -1594,17 +1667,23 @@ The value of all the materials used shall be the sum of all the materials used.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many points *
+*how many points*
 
-> On a line are marked points, all different from each other: A and B are two of them. Counting all the segments that have as their extremes two of the points marked different from A and that contain A, you get 80. Counting all the segments that have as extremes two of the points marked different from B and that contain B, you get 90. How many dots are marked on the rectum? A) 20
-> 	
-> B) 22
-> 	
-> C) 80
-> 	
-> D) 90 E) Information is insufficient to answer
+> On a line, some points were marked, all distinct from one another: A and B are two of
+> them. Counting all the segments that have as endpoints two of the marked points different
+> from A and that contain A, one obtains 80. Counting all the segments that have as
+> endpoints two of the marked points different from B and that contain B, one obtains 90. How many
+> are the points marked on the line?
+> A) 20	
+	
+> B) 22	
+	
+> C) 80	
+	
+> D) 90
+> E) The information is insufficient to answer
 > 
-> I'm not sure I'm going to make it.
+> STRINGA JUNIOR 2015
 
 **Answer:** B
 [[Quesiti/src_kangourou_2015_marzo_junior#q30|src_kangourou_2015_marzo_junior__Q30]]

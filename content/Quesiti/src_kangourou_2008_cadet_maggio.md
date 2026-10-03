@@ -39,7 +39,7 @@ level: kangourou
 > 
 > Four years ago, voter turnout at 1 p.m. was $20\%$ of the eligible voters, and finally it was $70\%$.
 > 
-> This year the attendance recorded at 1 p.m. was $24\%$. What is the final outcome if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
+> This year the turnout recorded at 1 p.m. was $24\%$. What will the final turnout be if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
 
 **Answer:** 84%
 [[Quesiti/src_kangourou_2008_cadet_maggio#qc1|src_kangourou_2008_cadet_maggio__QC1]]
@@ -68,13 +68,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subtotal with sum/difference divisible by 10*
+*Subset with sum/difference divisible by 10*
 
 > Suppose you have randomly extracted ten positive integers: can you always choose some of them so that, by appropriately interpolating between the chosen sum or difference marks, the result of the operation is a number divisible by $10$?
 > 
 > If so, how? If not, why?
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2008_cadet_maggio#qc2|src_kangourou_2008_cadet_maggio__QC2]]
 
 
@@ -142,11 +142,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding an infinite set of imperfections*
+*Find an infinite IMPERFECT set*
 
-> Call a set $A$ of positive integers IMPERFECT such that: - it is composed of infinite numbers; - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
+> Call IMPERFECT a set $A$ of positive integers such that:
+> - it consists of infinitely many numbers;
+> - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
 > 
-> Find at least one perfect set.
+> Find at least one IMPERFECT set.
 
 **Answer:** {2^(2k+1)}
 [[Quesiti/src_kangourou_2008_cadet_maggio#qc4|src_kangourou_2008_cadet_maggio__QC4]]
@@ -175,11 +177,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal subset = odd (999 and 1000 elements) *
+*Even = odd subsets (999 and 1000 elements)*
 
-> A set of $999$ elements is given. It shows that its subsets of an odd number of elements are as many as those of an equal number of elements. It then shows that the same thing is true for a set of $1000$ elements.
+> A set of $999$ elements is given. Show that its subsets formed by an odd number of elements are as many as those formed by an even number of elements. Then show that the same thing is true for a set of $1000$ elements.
 > 
-> (Note: both the given set and the empty set are to be considered among the sub-sets, the empty set of which is obviously made up of an equal number of elements.)
+> (Note: both the given set and the empty set are to be counted among the subsets, the empty one obviously formed by an even number of elements.)
 
 **Answer:** dimostrazione
 [[Quesiti/src_kangourou_2008_cadet_maggio#qc5|src_kangourou_2008_cadet_maggio__QC5]]
@@ -209,7 +211,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T triangle area ratio by square C*
+*Ratio of area of triangle T to square C*
 
 ![[src_kangourou_2008_cadet_maggio__probc6.png]]
 

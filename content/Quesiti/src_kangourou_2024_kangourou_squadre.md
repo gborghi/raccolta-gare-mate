@@ -40,7 +40,7 @@ level: squadre
 
 *How many numbers are represented by the same figure*
 
-> The false code Sergio believes to have invented a secret code to identify the integers: if a number is odd, it represents it with a circle, if it is equal to a square; if a number is a multiple of 3, the circle or square that represents it is full, while it is empty otherwise. So Sergio represents the number 34567 with . But Sergio is mistaken: his criterion does not allow us to identify a number with certainty based on his representation. Including the number 34567, how many numbers are represented by the same figure? (Remember that 0 is an equal number and is divisible by 3.)
+> The false code Sergio believes to have invented a secret code to identify the integers: if a digit is odd, it represents it with a circle, if it is even with a square; if a digit is a multiple of 3, the circle or square that represents it is full, while it is empty otherwise. So Sergio represents the number 34567 with . But Sergio is mistaken: his criterion does not allow us to identify a number with certainty based on his representation. Including the number 34567, how many numbers are represented by the same figure? (Remember that 0 is an even digit and is divisible by 3.)
 
 **Answer:** 0108
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q01|src_kangourou_2024_kangourou_squadre__Q01]]
@@ -71,9 +71,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial total bags in the two containers*
+*Total marbles initially in the two containers*
 
-> One container A was full of red and one container B was full of blue. A device has removed a seed from A and a seed from B in pairs, a number of times, thus removing 2/3 of the seed from A and 3/5 of the seed from B. There are now a total of 3,668 bags left in the two containers. How many bags were there in the two containers at the start?
+> Red and blue marbles  
+> A container A was full of red marbles and a container B was full of blue marbles. A device  
+> removed in pairs one marble from A and one from B, for a certain number of times: in this way it removed  
+> 2/3 of the marbles that were in A and 3/5 of the marbles that were in B. Now in the two containers there are  
+> a total of 3,668 marbles left. How many marbles were there in total in the two containers  
+> at the beginning?
 
 **Answer:** 9956
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q02|src_kangourou_2024_kangourou_squadre__Q02]]
@@ -102,9 +107,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of figures of 10^100 minus 2024*
+*Sum of digits of 10^100 minus 2024*
 
-> Sum of the numbers Imagine you've done the 10 × 10 × 10 × ... × 10 where the factor 10 appears 100 times and subtract 2024 from the result you got. What is the sum of the numbers of the result you get?
+> Sum of the digits Imagine you've done the 10 × 10 × 10 × ... × 10 where the factor 10 appears 100 times and subtract 2024 from the result you got. What is the sum of the digits of the result you get?
 
 **Answer:** 0893
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q03|src_kangourou_2024_kangourou_squadre__Q03]]
@@ -165,9 +170,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most number with product figures of 90*
+*Largest number with digit product 90*
 
-> What is the greatest positive integer whose product is 90? (Write 0000 if you believe such a number does not exist.)
+> The largest  
+> What is the largest positive integer whose digits have product 90? (Write 0000 if you believe 
+> that such a number does not exist.)
 
 **Answer:** 0000
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q05|src_kangourou_2024_kangourou_squadre__Q05]]
@@ -200,7 +207,7 @@ level: squadre
 
 *Angle DKC on the semicircular *
 
-> The angle On a semicircular diameter AD and center M, points B and C are such that the angle CAD ̂ measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC cuts BD. How many degrees does the angle DKC ̂ measure?
+> The angle On a semicircle with diameter AD and center M, points B and C are such that the angle CAD ̂ measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC cuts BD. How many degrees does the angle DKC ̂ measure?
 
 **Answer:** 0070
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q06|src_kangourou_2024_kangourou_squadre__Q06]]
@@ -228,9 +235,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product current age Gianni and Lisa*
+Product of current ages of Gianni and Lisa*
 
-> Gianni and Lisa Gianni is two years older than Lisa. This year the product of their ages (in years) is the product of the ages of last year, increased by 27. Write the product of the current two ages.
+> Gianni and Lisa Gianni is two years older than Lisa. This year the product of their ages (in years) is the product of their ages last year, increased by 27. Write the product of the current two ages.
 
 **Answer:** 0195
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q07|src_kangourou_2024_kangourou_squadre__Q07]]
@@ -262,7 +269,7 @@ Product current age Gianni and Lisa*
 
 *Last four digits alignment sum 14*
 
-> In a 16-digit alignment, the fourth is 3 and the fifth is 5. In addition, the sum of three consecutive digits in the alignment, wherever they are, is 14. What is the sequence of the last four digits of the alignment?
+> In a 16-digit sequence, the fourth is 3 and the fifth from last is 5. In addition, the sum of three consecutive digits in the sequence, wherever they are, is 14. What is the sequence of the last four digits of the sequence?
 
 **Answer:** 3653
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q08|src_kangourou_2024_kangourou_squadre__Q08]]
@@ -293,9 +300,13 @@ Product current age Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cents for each spinning spindle*
+*Cents for each pin given the saving*
 
-> The organiser of a small soccer tournament, with teams of 7 players each, had decided to give each of the players of each team a souvenir spike for the cost of 1 euro. When he went to buy the pens, he found that their price had dropped by more than 10% in the meantime, saving a total of 6 euros 65 cents. How many cents did you pay each broom?
+> The pins
+> The organizer of a small five-a-side football tournament, with teams each made up of 7 players, had
+> decided to give each of the players of every team a souvenir pin costing 1 euro. When
+> he went to buy the pins, he discovered that in the meantime their price had decreased by more than
+> 10%: he thus saved a total of 6 euros and 65 cents. How many cents did he pay for each pin?
 
 **Answer:** 0081
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q09|src_kangourou_2024_kangourou_squadre__Q09]]
@@ -412,7 +423,7 @@ Product current age Gianni and Lisa*
 \end{document}
 ```
 
-> The shaded region The figure shows three concentric circles of center O on which two diameters are drawn perpendicular to each other; RO, QO and PO are the radii of the three circles. The RQ segment is half the length of the QP segment which in turn is 2/3 of the PO segment. The largest area of the circle is 1962 m2. How many square meters is the area of the shaded region?
+> The shaded region The figure shows three concentric circles of center O on which two diameters are drawn perpendicular to each other; RO, QO and PO are the radii of the three circles. The RQ segment is half the length of the QP segment which in turn is 2/3 of the PO segment. The area of the largest circle is 1962 m2. How many square meters is the area of the shaded region?
 
 **Answer:** 1417
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q10|src_kangourou_2024_kangourou_squadre__Q10]]
@@ -446,7 +457,7 @@ Product current age Gianni and Lisa*
 
 *N value given three sums 401,444,468*
 
-> Three cards There are three cards on the table and on each one is marked a number; the three numbers are positive integers, none greater than 30. Three friends play like this: they each take one of the three cards in sequence, noting the number shown on the card. Then the three cards are put back on the table and so a draw is made. After n rounds, each of the three friends sums up the n numbers he wrote down: the three sums are 401, 444, 468. How much is n?
+> Three cards There are three cards on the table and on each one is marked a number; the three numbers are positive integers, none greater than 30. Three friends play like this: they each take one of the three cards in sequence, noting the number shown on the card. Then the three cards are put back on the table and so a round is played. After n rounds, each of the three friends sums up the n numbers he wrote down: the three sums are 401, 444, 468. How much is n?
 
 **Answer:** 0101
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q11|src_kangourou_2024_kangourou_squadre__Q11]]
@@ -477,7 +488,7 @@ Product current age Gianni and Lisa*
 
 *Numbers 3 distinct digits increasing or decreasing*
 
-> Increasing or decreasing What are the positive integers of three digits (which are greater than 99), all distinct from each other, in which the digits are in increasing or decreasing order?
+> Increasing or decreasing How many positive integers of three digits are there (which are greater than 99), all distinct from each other, in which the digits are in increasing or decreasing order?
 
 **Answer:** 0204
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q12|src_kangourou_2024_kangourou_squadre__Q12]]
@@ -506,7 +517,7 @@ Product current age Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum euro per child, average of 4*
+*Maximum euro per child, average 4*
 
 > The rich man The 2024 children in a small town have an average of 4 euros per person. Each has at least one euro and half has at least two. What is the maximum amount of euros that one of those children could have?
 
@@ -590,11 +601,11 @@ Product current age Gianni and Lisa*
 
 ![[src_kangourou_2024_kangourou_squadre__prob15.png]]
 
-> The reflections An isosceles triangle OA0 A1 with an angle of 125 degrees is reflected along the side OA1 on the triangle OA1 A2; the latter is reflected along the side OA2 in the triangle OA2 A3 and so on. The figure shows the effect of the first two reflections. How many reflections do you get for the first time to get a triangle that overlaps the starting triangle? A0 A1 A2 A3 O
+> The reflections An isosceles triangle OA0 A1 with an angle of 125 degrees is reflected along the side OA1 on the triangle OA1 A2; the latter is reflected along the side OA2 in the triangle OA2 A3 and so on. The figure shows the effect of the first two reflections. How many reflections are needed to obtain for the first time a triangle that overlaps the starting triangle? A0 A1 A2 A3 O
 > 
 > Kangourou of Mathematics 2024 Kangourou Cup to teams Finals 1 Cervia, 3 May 2024
 >  
-> Securities and replies
+> Titles and answers
 
 **Answer:** 0072
 [[Quesiti/src_kangourou_2024_kangourou_squadre#q15|src_kangourou_2024_kangourou_squadre__Q15]]

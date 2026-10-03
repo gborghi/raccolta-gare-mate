@@ -36,15 +36,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of arrival of an index call*
+*Order of arrival of a race from clues*
 
-> Andrea, Bruno, Carlo, and Davide took part in a competition. Carlo came second; Bruno did not come first nor fourth and neither did Andrea. Who came first?
+> (2 points) Andrea, Bruno, Carlo and Davide took part in a race. Carlo arrived second;
+> Bruno did not arrive first or fourth and Andrea also did not arrive fourth. Who arrived first?
 >
-> - **(A)** Andres
+> - **(A)** Andrea
 > - **(B)** Bruno
-> - **(C)** Charles
-> - **(D)** David , please .
-> - **(E)** There's not enough data to establish it.
+> - **(C)** Carlo
+> - **(D)** Davide
+> - **(E)** There is not enough data to determine it.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q01|src_kangourou_2017_ecolier_semifinale__Q01]]
@@ -77,9 +78,10 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different five-digit number with sum of 42*
+*Different digit in a five-digit number with sum 42*
 
-> (Points 3) A five-digit number has four digits equal and the sum of the five digits is 42. What's the difference from the others?
+> (3 points) A five-digit number has four equal digits and the sum of the five digits is 42.
+> What is the digit that is different from the others?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -120,9 +122,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-French balloons of partial sums
+Francesca's balloons from partial sums
 
-> Three points: Five children stand in line, each holding several colored balloons in his left hand - 37 in all. To Andrew's right there are 14 balloons; to Catherine's right there are 32; to Eva's right there are 20 and to Daniel's right there are 8. How many balloons does Francesca have?
+> (3 points) Five children stand in line, each holding several colored balloons in his left hand - 37 in all. To Andrew's right there are 14 balloons; to Catherine's right there are 32; to Eva's right there are 20 and to Daniel's right there are 8. How many balloons does Francesca have?
 >
 > - **(A)** 4
 > - **(B)** 6
@@ -261,9 +263,14 @@ French balloons of partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most difference between two arrows*
+*Largest difference between two dart throws*
 
-> Five girls play arrows: each arrows two arrows at the same target composed of ten regions of different values, from 1 to 10. Every shot hits the target and an arrow falls in every region. By the end of the game, Ada has a total of 11 points, Bea has 4, Camilla has 7, Doris has 16, and Eva has 17. Which of the five made the two shots with the most points difference? I 'm going to tell you something .
+> (4 points) Five girls play darts: each throws two darts at the same target
+> made up of ten regions of different value, from 1 up to 10. All throws hit the target and in
+> each region one dart lands. At the end of the game Ada has 11 points in total, Bea has 4, Camilla
+> has 7, Doris has 16 and Eva has 17. Which of the five made the two throws with the largest
+> difference in points?
+> (A) Ada        (B) Bea         (C) Camilla         (D) Doris            (E) Eva
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q05|src_kangourou_2017_ecolier_semifinale__Q05]]
@@ -326,9 +333,9 @@ French balloons of partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the second child with age progression*
+*Age of the penultimate child with age in progression*
 
-> (Point 5) A father has five children: each of those born after the first was born exactly two years after the previous one. Today the age of the eldest son is twice that of the youngest. How old is the penultimate born today? (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
+> (Points 5) A father has five children: each of those born after the first was born exactly two years after the previous one. Today the age of the eldest son is twice that of the youngest. How old is the penultimate born today? (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q07|src_kangourou_2017_ecolier_semifinale__Q07]]
@@ -363,9 +370,9 @@ French balloons of partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of adults charged for theatre*
+*Minimum number of adults given the theatre takings*
 
-> Today, the theatre was attended by adults and children. The theater has 100 seats, but not all were occupied. Tickets for adults are €20, for children €10, and at the end of the show, the price was €1200. What is the minimum number of adults who may have been present at the show?
+> Today, the theatre was attended by adults and children. The theater has 100 seats, but not all were occupied. Tickets for adults are €20, for children €10, and at the end of the show, the takings were €1200. What is the minimum number of adults who may have been present at the show?
 >
 > - **(A)** 20
 > - **(B)** 21
@@ -448,7 +455,7 @@ French balloons of partial sums
 
 *Two numbers with a sum of 30 and a product of 56*
 
-> (Four points) The sum of two numbers is 30 and their product is 56. How much are the two numbers worth? (In the answer, the smallest is first indicated; e.g. If the two numbers are 5 and 8, you should write 0508.
+> (Four points) The sum of two numbers is 30 and their product is 56. What are the two numbers? (In the answer, indicate the smaller one first; e.g. If the two numbers are 5 and 8, you should write 0508.
 
 **Answer:** 0228
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q10|src_kangourou_2017_ecolier_semifinale__Q10]]
@@ -554,7 +561,18 @@ The number of the knight dancing with the lady 374
 
 ![[src_kangourou_2017_ecolier_semifinale__prob13.png]]
 
-> (Points 6) You can buy short strips of cardboard like the ones you see in the first figure at the cartel. Some are made up of three squares lined up, others are made up of five; the squares are all identical. Each strip, regardless of its length, costs one euro. Using strips like these, Giuliana wants to cover the five strips you see in the second figure, made up of 10, 12, 16, 18, and 20 squares aligned with the previous ones. The short strips you use must overlap perfectly with the ones you cover, so they must not overlap, and they must not overlap. How much will Juliana have to spend to make her plan come true?
+> (Points 6) In the stationery shop you can buy short strips of cardboard like 
+> the ones you see in the first figure: some consist of three small squares in a row, 
+> others of five; the small squares are all identical to each other. Each strip, 
+> regardless of its length, costs one euro. Using strips like these, Giuliana wants 
+> to cover the five strips that you see in the 
+> second figure, consisting of 10, 12, 16, 
+> 18 and 20 small squares in a row identical to the 
+> previous ones. The short strips she uses 
+> must overlap perfectly with 
+> those to be covered, therefore they must not 
+> protrude from them, and must not 
+> overlap each other. How many euros will Giuliana have to spend to carry out her plan?
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q13|src_kangourou_2017_ecolier_semifinale__Q13]]
@@ -584,7 +602,7 @@ The number of the knight dancing with the lady 374
 
 Minimum number of persons with 4 children and 2 fathers
 
-> (Points 8) In a room there are exactly four children, each with their own father, and exactly two fathers. What's the smallest number of people in the room that this could happen to?
+> (Points 8) In a room there are exactly four children, each with their own father, and exactly two fathers. What's the smallest number of people in the room for which this could happen?
 
 **Answer:** 0005
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q14|src_kangourou_2017_ecolier_semifinale__Q14]]
@@ -655,7 +673,7 @@ Minimum number of persons with 4 children and 2 fathers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with vertices at non-aligned data points*
+*Triangles with vertices at given non-collinear points*
 
 ![[src_kangourou_2017_ecolier_semifinale__prob15.png]]
 
@@ -672,9 +690,36 @@ Minimum number of persons with 4 children and 2 fathers
 \end{document}
 ```
 
-> (Points 8) How many triangles have the vertices in 3 of the points you see in the figure? (Note: a triangle cannot have vertices at three points aligned and, of the points in the figure, the 4 above and the 5 below are aligned.)
+> (Points 8) How many triangles have their vertices at 3 of the points that
+> you see in the figure? (Warning: a triangle cannot have vertices at three
+> collinear points and, of the points in the figure, the 4 above and the 5 below are collinear.)
 >  
-> Question No. The answer to question 6 does not appear to be the correct answer which is 8. B
+> Question No.
+> score
+> 2
+> 3
+> 3
+> 4
+> 4
+> 4
+> 5
+> 5
+> 6
+> 4
+> 4
+> 6
+> 6
+> 8
+> 8
+> answer
+> 0228
+> 0627
+> 0022
+> 0018
+> 0005
+> 0070
+> Among the answers to question 6 the correct answer, which is 8, does not appear.
+> B
 
 **Answer:** 0070
 [[Quesiti/src_kangourou_2017_ecolier_semifinale#q15|src_kangourou_2017_ecolier_semifinale__Q15]]

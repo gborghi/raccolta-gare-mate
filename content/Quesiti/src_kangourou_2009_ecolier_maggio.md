@@ -90,7 +90,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of cards remaining by two *
+*Minimum number of cards remaining after removing two *
 
 ![[src_kangourou_2009_ecolier_maggio__probe2.png]]
 
@@ -125,7 +125,7 @@ level: kangourou
 
 > (*7 points*) 15 cards are shown in the figure.
 > 
-> If a card (other than the first card at the top) disappears from the table, the cards that are in contact with it in the top row must also disappear. He pulled two cards so that the fewest possible cards remained: what is this number? (see figure)
+> If a card (other than the first card at the top) disappears from the table, the cards that are in contact with it in the row above must also disappear. He pulled two cards so that the fewest possible cards remained: what is this number? (see figure)
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2009_ecolier_maggio#qe2|src_kangourou_2009_ecolier_maggio__QE2]]
@@ -176,7 +176,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many ways to place 4 coins on a 4x4 chessboard
+*How many ways to place 4 coins on a 4x4 board*
 
 ![[src_kangourou_2009_ecolier_maggio__probe3.png]]
 
@@ -197,11 +197,12 @@ How many ways to place 4 coins on a 4x4 chessboard
 \end{document}
 ```
 
-> (*11 points*) You must place 4 identical coins in as many boxes as one chessboard $4 \times 4$ by following the following rules:
+> (*11 points*) You must place 4 identical coins in as many cells of a $4 \times 4$ board, respecting the following rules:
 > 
-> - if there is a coin in a box, each box with some vertex in common with it cannot contain coins.
+> - in no row and in no column can there be more than one coin;
+> - if there is a coin in a cell, every cell that shares any vertex with it cannot contain coins.
 > 
-> How many different ways can you do the project?
+> In how many different ways can you carry out the project?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2009_ecolier_maggio#qe3|src_kangourou_2009_ecolier_maggio__QE3]]
@@ -257,7 +258,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the three digits of the hexagon (grid) *
+*Product of the three numbers of the hexagon (grid) *
 
 > (*18 points*) Place in each of the shaded triangles of the grid in figure one of the six numbers 1, 2, 3, 4, 5, 6, using all of them and making the number appearing in each white triangle the product of the three numbers appearing in the three shaded triangles surrounding it.
 > 
@@ -289,7 +290,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 
 *Minimum time to ferry four boats*
 
-> (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one rudder is available. A boat may drag at most another boat, but in this case the movement of the two boats takes the slower boat's crossing time between the two. Once a cruise has been made, the rudder can return to the starting point only using one of the four boats. Find the shorter time (in minutes) to perform the operation, neglecting the time needed to attach and unload the boats and transfer them from one to the other.
+> (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one boatman is available. A boat may drag at most another boat, but in this case the convoy of the two boats takes the crossing time of the slower boat of the two. Once a crossing has been made, the boatman can return to the starting point only using one of the four boats. Find the minimum time (in minutes) to perform the operation, neglecting the time needed to attach and detach the boats and to transfer from one to the other.
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2009_ecolier_maggio#qe6|src_kangourou_2009_ecolier_maggio__QE6]]

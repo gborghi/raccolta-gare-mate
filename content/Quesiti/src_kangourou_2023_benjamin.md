@@ -47,7 +47,7 @@ level: kangourou
 
 ![[src_kangourou_2023_benjamin__prob1.png]]
 
-> Federico is inserting in the table you see next to all the integers from 1 to 40, following the order suggested by the figure. In the end, which of the following pieces will you be able to cut from the table? A)
+> Federico is inserting in the table you see next to all the integers from 1 to 40, following the order suggested by the figure. In the end, which of the following pieces will he be able to cut from the table? A)
 > 	
 > B)
 > 	
@@ -137,7 +137,7 @@ level: kangourou
 
 ![[src_kangourou_2023_benjamin__prob3.png]]
 
-> The figure shows how to construct each figure by approaching matches. With this technique, using exactly 7 matches, you can represent various integers, for example 8 or 15. What is the largest number that can be represented using 7 matches? A) 31
+> The figure shows how to construct each digit by placing matches side by side. With this technique, using exactly 7 matches, you can represent various integers, for example 8 or 15. What is the largest number that can be represented using 7 matches? A) 31
 > 	
 > B) 51
 > 	
@@ -185,7 +185,7 @@ level: kangourou
 
 ![[src_kangourou_2023_benjamin__prob4.png]]
 
-> Rosalia has a card with the shape and designs shown in the figure. If he folds it, which of the following cubes can he get? A)
+> Rosalia has a card with the shape and designs shown in the figure. If she folds it, which of the following cubes can she get? A)
 > 	
 > B)
 > 	
@@ -259,7 +259,7 @@ level: kangourou
 > 	
 > D) 9
 > 	
-> E) 10 9 10 11 12 12 22 23 33 12 20 21 28 12 20 21 29 12 21 22 30 12 21 22 31
+> E) 10
 >
 
 **Answer:** B
@@ -300,11 +300,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*non-visible scales*
+*non-visible steps*
 
 ![[src_kangourou_2023_benjamin__prob6.png]]
 
-> A staircase of equal height and depth rises from the bottom to the top of a cylindrical tank. In the figure that represents the situation, at least partly, nine steps are visible: how many steps are not visible? A) 9
+> A staircase with steps all of equal height and depth rises from the bottom to the top of a cylindrical tank. In the figure that represents the situation, at least partly, nine steps are visible: how many steps are not visible? A) 9
 > 	
 > B) 10
 > 	
@@ -351,7 +351,7 @@ level: kangourou
 
 ![[src_kangourou_2023_benjamin__prob7.png]]
 
-> Alice has the four pieces shown in this figure. Two of these can be combined to form the hexagon of the second figure. What kind? A) 1 e 2 B) 1 e 3 C) 2 e 3 D) 2 e 4 E) 1 e 4
+> Alice has the four pieces shown in this figure. Two of these can be combined to form the hexagon of the second figure. Which ones? A) 1 and 2 B) 1 and 3 C) 2 and 3 D) 2 and 4 E) 1 and 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2023_benjamin#q07|src_kangourou_2023_benjamin__Q07]]
@@ -391,7 +391,7 @@ level: kangourou
 
 ![[src_kangourou_2023_benjamin__prob8.png]]
 
-> On a clock (pictured left) a circle of grey cardboard with three holes was overlaid. Now the circle is rotated around its center. Which of the following sets of numbers can be seen after rotation? A) 2, 4 e 9 B) 1, 5, e 10 C) 4, 6 e 12 D) 3, 6, e 9 E) 5, 7, e 12
+> On a clock (pictured left) a circle of grey cardboard with three holes was overlaid. Now the circle is rotated around its center. Which of the following sets of numbers can be seen after rotation? A) 2, 4 and 9 B) 1, 5, and 10 C) 4, 6 and 12 D) 3, 6, and 9 E) 5, 7, and 12
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_benjamin#q08|src_kangourou_2023_benjamin__Q08]]
@@ -483,7 +483,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 * in how many ways*
 
-> Anna has 100 discs of different sizes. He wants to build a tower overlapping 99 disks so that each disk is smaller than the disk it's leaning on. How many different ways can you do that? A) 49
+> Anna has 100 discs of different sizes. She wants to build a tower overlapping 99 disks so that each disk is smaller than the disk it's leaning on. In how many different ways can she do that? A) 49
 > 	
 > B) 50
 > 	
@@ -491,7 +491,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > 	
 > D) 99
 > 	
-> E) 100 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 100 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_benjamin#q10|src_kangourou_2023_benjamin__Q10]]
@@ -555,7 +555,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2023_benjamin__prob11.png]]
 
-> The floor of a balcony is tiled with square tiles of three different sizes, arranged as shown in the figure. The length of the perimeter of the smallest squares is 80 cm. More often than not, the figure depicts a serpent that has been drawn on the floor. How long is the snake? A) 380 B) 400 C) 420 D) 440 E) 1680 1 2 3 4 1 2 3 4 5 6 7 8 9 10 11 12 1 5 7 ? 9 cm
+> The floor of a balcony is tiled with square tiles of three different sizes, arranged as shown in the figure. The length of the perimeter of the smallest squares is 80 cm. In the thicker line, the figure depicts a serpent that has been drawn on the floor. How long is the snake? A) 380 B) 400 C) 420 D) 440 E) 1680 1 2 3 4 1 2 3 4 5 6 7 8 9 10 11 12 1 5 7 ? 9 cm
 >
 
 **Answer:** C
@@ -593,7 +593,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2023_benjamin__prob12.png]]
 
-> Which of the four pieces on the left should be used to complete the puzzle? A) 1 e 2 B) 1 e 4 C) 2 e 3 D) 2 e 4 E) 3 e 4
+> Which of the four pieces on the left should be used to complete the puzzle? A) 1 and 2 B) 1 and 4 C) 2 and 3 D) 2 and 4 E) 3 and 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2023_benjamin#q12|src_kangourou_2023_benjamin__Q12]]
@@ -626,7 +626,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *in which group is 4*
 
-> Pamela divided the integers from 1 to 15 into five groups of three prime numbers. The sums of the numbers in each of the first four groups are in the order 25, 27, 30 and 31. In which group is the number 4 present? A) In the first. (B) In the second. C) In the third. D) In the fourth. E) On the fifth.
+> Pamela divided the integers from 1 to 15 into five groups of three numbers each. The sums of the numbers in each of the first four groups are in the order 25, 27, 30 and 31. In which group is the number 4 present? A) In the first. (B) In the second. C) In the third. D) In the fourth. E) In the fifth.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_benjamin#q13|src_kangourou_2023_benjamin__Q13]]
@@ -765,7 +765,7 @@ Who broke the window?
 
 ![[src_kangourou_2023_benjamin__prob16.png]]
 
-> The drawing shows a rectangle divided into five rectangles. Lucia wants to colour each rectangle of a single colour, chosen between red, yellow and blue, so that if two rectangles are in contact, they receive different colours. How many different ways can you accomplish your project? A) 3
+> The drawing shows a rectangle divided into five rectangles. Lucia wants to colour each rectangle of a single colour, chosen between red, yellow and blue, so that if two rectangles are in contact, they receive different colours. How many different ways can she accomplish her project? A) 3
 > 	
 > B) 4
 > 	
@@ -826,7 +826,7 @@ Who broke the window?
 
 ![[src_kangourou_2023_benjamin__prob17.png]]
 
-> Serena wants to replace two of the numbers in this grid so that the sum of the numbers in gray is equal to the sum of the numbers in white. What numbers do you have to swap places with? A) 1 e 11 B) 2 e 8 C) 3 e 7 D) 4 e 13 E) 7 e 13 4 2 3 1 1 3 5 2 13 7 4 6 8 11
+> Serena wants to replace two of the numbers in this grid so that the sum of the numbers in gray is equal to the sum of the numbers in white. What numbers do you have to swap places with? A) 1 and 11 B) 2 and 8 C) 3 and 7 D) 4 and 13 E) 7 and 13 4 2 3 1 1 3 5 2 13 7 4 6 8 11
 >
 
 **Answer:** E
@@ -878,7 +878,7 @@ Who broke the window?
 
 ![[src_kangourou_2023_benjamin__prob18.png]]
 
-> George stacked four bricks of different lengths in the order shown in the first figure. This rule has been given: to change the order of the bricks in the pile you can, in each single move, take a group of bricks (possibly all) from the top of the pile and roll them all together, placing them on the ones you haven't touched, as shown in the example in the figure to the left. What is the minimum number of moves that will allow them to stack them from the largest to the smallest (see last figure)? A) 2
+> George stacked four bricks of different lengths in the order shown in the first figure. This rule has been given: to change the order of the bricks in the pile you can, in each single move, take a group of bricks (possibly all) from the top of the pile and flip them all together, placing them on the ones you haven't touched, as shown in the example in the figure to the left. What is the minimum number of moves that will allow them to stack them from the largest to the smallest (see last figure)? A) 2
 > 	
 > B) 3
 > 	
@@ -928,11 +928,24 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-The winner of the contest
+*who wins*
 
 ![[src_kangourou_2023_benjamin__prob19.png]]
 
-> A beaver, a rabbit and a kangaroo are competing in a jump race along the circular path shown in the figure. They all start from the same circle marked with PARTENCE and all go in real time. At each jump the beaver lands on the first circle from which it jumped, the rabbit lands on the second and the kangaroo on the third. The winner is the one who lands at the point marked with ARRIVO in the fewest complete jumps. Who's winning? A) The beaver. (b) The rabbit. C) The kangaroo. D) The kangaroo and the rabbit. E) Kangaroo and beaver.
+> A beaver, a rabbit and a kangaroo have 
+> a jumping race along the circular path illu­
+> strated in the figure. They all start from the same small cir­
+> cle denoted with START and they all go in a clock­
+> wise direction. At each jump the beaver lands on the first 
+> small circle starting from the one from which it jumped, the 
+> rabbit lands on the second and the kangaroo on the third. 
+> Whoever lands on the point denoted with FINISH 
+> in the fewest number of complete jumps wins. Who wins?
+> A) The beaver.	
+> B) The rabbit.	
+> C) The kangaroo.
+> D) The kangaroo and the rabbit.   
+> E) The kangaroo and the beaver.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2023_benjamin#q19|src_kangourou_2023_benjamin__Q19]]
@@ -975,11 +988,11 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which full provision*
+*which arrangement completes*
 
 ![[src_kangourou_2023_benjamin__prob20.png]]
 
-> Martha must build a building by stacking cubes on the square table you see on the right. The number in each box indicates how many cubes she must stack on that box. On the left you can see the part of that building that Marta has already erected. Which of the five cubing arrangements you see in the answers allows you to complete the task? A)
+> Martha must build a building by stacking cubes on the square table you see on the right. The number in each box indicates how many cubes she must stack on that box. On the left you can see the part of that building that Marta has already erected. Which of the five cube arrangements you see in the answers allows you to complete the task? A)
 > 	
 > B)
 > 	
@@ -987,7 +1000,7 @@ The winner of the contest
 > 	
 > D)
 > 	
-> E) Questions from N. 21 al N. 30 is worth 5 points each.
+> E) Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2023_benjamin#q20|src_kangourou_2023_benjamin__Q20]]
@@ -1038,11 +1051,33 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which weights are lifted*
+*which weights rise*
 
 ![[src_kangourou_2023_benjamin__prob21.png]]
 
-> The toothed wheel marked with A shall start to rotate clockwise as indicated. What weights are moving up? A) 1 e 4. B) 2 e 3. C) 1 e 3. D) 2 e 4. E) It cannot be established. I have to say that I am not going to say anything.
+> The gear denoted with A starts rotating in a
+> clockwise direction, as indicated. Which weights move upwards?
+> A) 1 and 4.		
+> B) 2 and 3.		
+> C) 1 and 3.	
+> D) 2 and 4.		
+> E) It is not possible to determine it.
+> ARRIVAL
+> START
+> 1
+> 2
+> 3
+> 0
+> 1
+> 2
+> 1
+> 2
+> 3
+> A
+> 1
+> 2
+> 3
+> 4
 >
 
 **Answer:** C
@@ -1090,7 +1125,7 @@ The winner of the contest
 
 ![[src_kangourou_2023_benjamin__prob22.png]]
 
-> In each of the six rectangles that make up the pyramid you see in the figure Daniela wants to design geometric shapes so that each rectangle contains all the geometric shapes contained in the two rectangles just below and nothing else. Taking into account the shapes already inserted, what shapes should he draw in the rectangle at the centre of the lower level? A)
+> In each of the six rectangles that make up the pyramid you see in the figure Daniela wants to design geometric shapes so that each rectangle contains all the geometric shapes contained in the two rectangles just below and nothing else. Taking into account the shapes already inserted, what shapes should she draw in the rectangle at the centre of the lower level? A)
 > 	
 > B)
 > 	
@@ -1139,7 +1174,7 @@ The winner of the contest
 
 ![[src_kangourou_2023_benjamin__prob23.png]]
 
-> The alphabet of the state of Kangland consists of only 3 letters: K, G, R. On the side you see a crossword puzzle in the Kanglandic language. When fully resolved, it consists of 4 of the 5 words KKG, KGK, GRK, RGK and RGG. What word doesn't show up? (a) KGK B) KGK C) GRK D) RGK E) RGG
+> The alphabet of the state of Kangland consists of only 3 letters: K, G, R. On the side you see a crossword puzzle in the Kanglandic language. When fully resolved, it consists of 4 of the 5 words KKG, KGK, GRK, RGK and RGG. What word doesn't show up? A) KKG B) KGK C) GRK D) RGK E) RGG
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_benjamin#q23|src_kangourou_2023_benjamin__Q23]]
@@ -1181,11 +1216,11 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min equidistant pallets*
+*min equidistant posts*
 
 ![[src_kangourou_2023_benjamin__prob24.png]]
 
-> Four pallets were placed along a 120 m route in the positions indicated in the figure. What is the minimum number of pallets to be added so that the distance between one pallet and the next is the same throughout the entire route? A) 12
+> Four posts were placed along a 120 m route in the positions indicated in the figure. What is the minimum number of posts to be added so that the distance between one post and the next is the same throughout the entire route? A) 12
 > 	
 > B) 15
 > 	
@@ -1237,7 +1272,7 @@ The winner of the contest
 
 ![[src_kangourou_2023_benjamin__prob25.png]]
 
-> On the table is a tower of books all numbered the same from 1 to 50. Emma builds a new tower as follows: from the top of the starting tower she takes two books and places them on the table (without changing the order) as the base of the new tower; then from the top of what remains of the original tower she takes two more books and places them on top of the new tower; and so on, as suggested by the figure. Which of the following number pairs are on adjacent books in the new tower? A) 29 e 28 B) 34 e 35 C) 29 e 26 D) 31 e 33 E) 27 e 30
+> On the table is a tower of books all identical, numbered from 1 to 50. Emma builds a new tower as follows: from the top of the starting tower she takes two books and places them on the table (without changing the order) as the base of the new tower; then from the top of what remains of the original tower she takes two more books and places them on top of the new tower; and so on, as suggested by the figure. Which of the following number pairs are on adjacent books in the new tower? A) 29 and 28 B) 34 and 35 C) 29 and 26 D) 31 and 33 E) 27 and 30
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_benjamin#q25|src_kangourou_2023_benjamin__Q25]]
@@ -1312,7 +1347,7 @@ The winner of the contest
 
 ![[src_kangourou_2023_benjamin__prob26.png]]
 
-> Martino has three cards, each with a number on both faces. The card with 1 on one face returns 4 on the opposite face; the card with 2 on one face returns 5 on the other; the card with 3 on one face returns 6 on the other. By arranging the three cards on the table in every possible way and adding up the three numbers that appear, how many different sums can Martino get? A) 3
+> Martino has three cards, each with a number on both faces. The card with 1 on one face has 4 on the opposite face; the card with 2 on one face has 5 on the other; the card with 3 on one face has 6 on the other. By arranging the three cards on the table in every possible way and adding up the three numbers that appear, how many different sums can Martino get? A) 3
 > 	
 > B) 4
 > 	
@@ -1320,7 +1355,7 @@ The winner of the contest
 > 	
 > D) 6
 > 	
-> E) 10 24 m 30 m 66 m 2 2 3 4 49 50 49 50 47 48 1 1 1 4 2 5 3 6 Front Retro Paper 1 Paper 2 Paper 3
+> E) 10 24 m 30 m 66 m 2 2 3 4 49 50 49 50 47 48 1 1 1 4 2 5 3 6 Front Back Card 1 Card 2 Card 3
 >
 
 **Answer:** C
@@ -1356,7 +1391,7 @@ The winner of the contest
 
 *more expensive collection*
 
-> In a clothing store, two hats are sold for the same price as five skirts, three skirts for the same price as eight shirts and two shirts for the same price as three hats. Which of the following clothing collections costs the most? A. A hat and five skirts. B) A hat, three skirts and a hat. C) Eight skirts and six shirts. D) Thirty-seven caps. E) Three skirts and three hats.
+> In a clothing store, two hats are sold for the same price as five skirts, three skirts for the same price as eight shirts and two shirts for the same price as three hats. Which of the following clothing collections costs the most? A. A hat and five skirts. B) A hat, three skirts and a cap. C) Eight skirts and six shirts. D) Thirty-seven caps. E) Three skirts and three hats.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_benjamin#q27|src_kangourou_2023_benjamin__Q27]]
@@ -1396,16 +1431,21 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*movement of Sonia*
+*Sonia's move*
 
-> Sonia and Roberto have a bowl full of balls and they play like this. They can take turns choosing 1, 2, 3, 4 or 5 seeds from the bowl. Whoever takes the last ball (or the last ball) loses. At some point in the bowl game, there are 10 cards left and it's Sonia's turn: how many cards does she have to leave Roberto to be sure of winning? A) 9
-> 	
-> B) 8
-> 	
-> C) 7
-> 	
-> D) 6
-> 	
+> Sonia and Roberto have a bowl full of marbles and play as follows. In turn they may
+> take, at their choice, 1, 2, 3, 4 or 5 marbles from the bowl. Whoever of the two takes the last
+> marble (or the last marbles) loses. At a certain point in the game there are 10 marbles left
+> in the bowl and it is Sonia's turn: how many marbles must she leave to Roberto to be sure
+> of winning?
+> A) 9	
+	
+> B) 8	
+	
+> C) 7	
+	
+> D) 6	
+	
 > E) 5
 
 **Answer:** C
@@ -1445,9 +1485,9 @@ The winner of the contest
 
 ![[src_kangourou_2023_benjamin__prob29.png]]
 
-> The following four shapes are drawn on a square sheet whose vertices you can see. What shape has larger area? A) W.
+> The following four shapes are drawn on a grid of squares whose vertices we can see. What shape has larger area? A) W.
 > 	
-> (b) Rombo. C) Crown. D) Lamp. E) They all have the same area.
+> B) Rhombus. C) Crown. D) Lightning. E) They all have the same area.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_benjamin#q29|src_kangourou_2023_benjamin__Q29]]
@@ -1511,13 +1551,13 @@ The winner of the contest
 
 ![[src_kangourou_2023_benjamin__prob30.png]]
 
-> Andrea wants a path that crosses the maze shown in the figure from the point marked with Partance to the point marked with Arrivo. It can only move on horizontal or vertical lines and can only pass on white circles; it must also pass on all white circles and on each one only once. When he reaches the circle marked with X, what will be his next move? A) ↑
+> Andrea wants a path that crosses the maze shown in the figure from the point marked with "Partenza" to the point marked with "Arrivo". It can only move on horizontal or vertical lines and can only pass on white circles; it must also pass on all white circles and on each one only once. When he reaches the circle marked with X, what will be his next move? A) ↑
 > 	
 > B) ↓
 > 	
 > C) → D) ← E) There is no such path. W Rombo Corona Lamp
 >  
-> X Departure Arrival
+> X Partenza Arrivo
 >
 
 **Answer:** B

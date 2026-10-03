@@ -58,7 +58,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final product figure of the odd between 1 and 2012*
+*Last digit of the product of the odd numbers between 1 and 2012*
 
 > If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
 
@@ -149,7 +149,7 @@ level: kangourou
 
 *Minimum number of buttons to know which floor is located*
 
-> Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a button with keys from 0 to 99: pressing a button the elevator will reach the floor corresponding to the number shown on the key, but it will be occupied for a time that is not related in any way to the completed route. Considering that Maurizio can see through the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
+> Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a keypad with buttons from 0 to 99: pressing a button the elevator will reach the floor corresponding to the number shown on the key, but it will be occupied for a time that is not related in any way to the distance travelled. Considering that Maurizio can see through the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2012_cadet_finale#qc5|src_kangourou_2012_cadet_finale__QC5]]
@@ -178,11 +178,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Each polyhedron has two faces with the same number of beads*
+*Every polyhedron has two faces with the same number of edges*
 
 ![[src_kangourou_2012_cadet_finale__probc6.png]]
 
-> It shows that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of vertices. Are there polyhedra that do not have (at least) three faces with the same number of beads?
+> Prove that every polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces that have the same number of edges. Do there exist polyhedra that do not have (at least) three faces with the same number of edges?
 
 **Answer:** si
 [[Quesiti/src_kangourou_2012_cadet_finale#qc6|src_kangourou_2012_cadet_finale__QC6]]

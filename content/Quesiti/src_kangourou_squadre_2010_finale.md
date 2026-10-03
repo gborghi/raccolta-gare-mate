@@ -73,9 +73,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of whole septins with 2a^2+...=9*
+*Number of whole septets with 2a^2+...=9*
 
-> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By alternating pentagons into squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
 
 **Answer:** 2820
 [[Quesiti/src_kangourou_squadre_2010_finale#q02|src_kangourou_squadre_2010_finale__Q02]]
@@ -110,7 +110,7 @@ level: squadre
 
 *Years with the first two digits multiple of the last two*
 
-> Is Marco still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+> Is Marco still writing? Marco started writing the sequence of numbers 7, 36, 65, 94, ... where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Marco be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
 
 **Answer:** 0017
 [[Quesiti/src_kangourou_squadre_2010_finale#q03|src_kangourou_squadre_2010_finale__Q03]]
@@ -149,7 +149,7 @@ level: squadre
 
 *Number of zigzag paths on white boxes*
 
-> Last year, 32 players participated in a direct knockout tennis tournament. In the first stage each player faced another (there were 16 matches played in total) and the loser was eliminated. In the second stage each of the 16 winners faced another (there were a total of 8 matches played) and the loser was eliminated. So it went on until the fifth stage (the final). All matches (except, of course, the last one) were drawn. This year, there were many more requests for participation, all of which were accepted: look at 2009. The organising committee decided to draw a number of players, as few as possible, to be admitted directly to the second stage and to make the mechanism described above (number of players halfway through each stage) applicable from the second stage. How many games were played in total this year in that tournament?
+> Last year, 32 players participated in a direct knockout tennis tournament. In the first stage each player faced another (there were 16 matches played in total) and the loser was eliminated. In the second stage each of the 16 winners faced another (there were a total of 8 matches played) and the loser was eliminated. So it went on until the fifth stage (the final). All matches (except, of course, the last one) were drawn. This year, there were many more requests for participation, all of which were accepted: coincidentally, exactly 2009. The organising committee decided to draw a number of players, as few as possible, to be admitted directly to the second stage and to make the mechanism described above (number of players halved at each stage) applicable from the second stage. How many games were played in total this year in that tournament?
 
 **Answer:** 0296
 [[Quesiti/src_kangourou_squadre_2010_finale#q04|src_kangourou_squadre_2010_finale__Q04]]
@@ -182,9 +182,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers on the faces of the cube given 70 on the vertices*
+*Sum of numbers on the faces of the cube given 70 on the vertices*
 
-> Special subsets Consider the sum of the first 151 integers greater than zero. From all its sub-sets, you want to choose some so that the intersection between any two of those you have chosen is either a single number or a sequence of consecutive numbers (condition satisfied, for example, by both pairs of sub-sets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3, 4}), but not by pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many sub-sets can you pick at most?
+> The special subsets
+> Consider the set {1, 2, … , 151} of the first 151 integers greater than zero. Among all its
+> subsets, you want to choose some so that the intersection between any two of those you
+> have chosen consists of either a single number or a sequence of consecutive numbers (a condition
+> satisfied, for example, by both pairs of subsets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3,
+> 4}), but not by the pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many subsets can you
+> choose at most?
 
 **Answer:** 0014
 [[Quesiti/src_kangourou_squadre_2010_finale#q05|src_kangourou_squadre_2010_finale__Q05]]
@@ -254,7 +260,7 @@ level: squadre
 
 *Time of simultaneous re-ignition of three lamps*
 
-> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, plane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President bus, the Vice-President train and the Prime Minister air. What is the smallest number of city-to-city connections to meet all needs?
+> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, plane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President the bus, the Vice-President the train and the Prime Minister the plane. What is the smallest number of city-to-city connections to meet all needs?
 
 **Answer:** 1106
 [[Quesiti/src_kangourou_squadre_2010_finale#q07|src_kangourou_squadre_2010_finale__Q07]]
@@ -318,9 +324,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of forecast on a single digit and m^m *
+*Year of prediction on units digit age and m^m*
 
-> Disparate numbers Let's say a positive integer is disparate if divided by 6 gives the remainder 5 and divided by 8 gives the remainder 7. Find the first two odd numbers and write them in order (for example, if they were 65 and 86 you would write 6586).
+> Pesky numbers
+> We say that a positive integer is "pesky" if divided by 6 it gives remainder 5 and divided by 8 it gives
+> remainder 7. Find the first two pesky numbers and write them in order (for example, if they were 65 and
+> 86 you should write 6586).
 
 **Answer:** 2008
 [[Quesiti/src_kangourou_squadre_2010_finale#q09|src_kangourou_squadre_2010_finale__Q09]]
@@ -358,7 +367,7 @@ level: squadre
 
 *Minimum letters of the alphabet to identify 1 million*
 
-> What a demand! You're looking for all positive integers of four digits each of which has all of the following properties: - the digits that make it up must all be different from each other; - it must be a multiple of 5; - if you subtract the number of thousands, the number of three digits left must be a multiple of 9; - if you subtract the number of hundreds, the number of three digits left must be a multiple of 11; - if you subtract the number of tens, the number of three digits left must be a multiple of 7. Find their sum.
+> What demands! You're looking for all positive integers of four digits each of which has all of the following properties: - the digits that make it up must all be different from each other; - it must be a multiple of 5; - if you remove the thousands digit, the number of three digits left must be a multiple of 9; - if you remove the hundreds digit, the number of three digits left must be a multiple of 11; - if you remove the tens digit, the number of three digits left must be a multiple of 7. Find their sum.
 
 **Answer:** 0102
 [[Quesiti/src_kangourou_squadre_2010_finale#q10|src_kangourou_squadre_2010_finale__Q10]]
@@ -397,7 +406,7 @@ level: squadre
 
 *First hexagon with thickness > 130*
 
-> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that do not jump. This is how it is done: the person n to run the corridor from the beginning by skipping orderly n doors on n + 1 and changing the state of those that do not jump (i.e. opening those that find closed and closing those that find open). When even the thousandth person has completed his journey, how many doors will remain open?
+> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that he does not skip. This is how it is done: the person n runs the corridor from the beginning by skipping orderly n doors out of n + 1 and changing the state of those that he does not skip (i.e. opening those that he finds closed and closing those that he finds open). When even the thousandth person has completed his journey, how many doors will remain open?
 
 **Answer:** 0451
 [[Quesiti/src_kangourou_squadre_2010_finale#q11|src_kangourou_squadre_2010_finale__Q11]]
@@ -468,7 +477,7 @@ level: squadre
 
 *Minimum maximum element of S with square product*
 
-> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The runway is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The track is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the direction of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
 
 **Answer:** 1040
 [[Quesiti/src_kangourou_squadre_2010_finale#q13|src_kangourou_squadre_2010_finale__Q13]]
@@ -502,11 +511,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular perimeter in region 2010 m2 with 7 squares*
+*Perimeter of rectangles in a 2010 m2 region with 7 squares*
 
 ![[src_kangourou_squadre_2010_finale__prob14.png]]
 
-> The election of the mayor of Kangcity was held in the town of Peter and Max. The election of the mayor is underway. All cards delivered are valid and not white. For each integer k between 0 and 100, when k% of the cards have been scrutinised, the committee shall report the results of the vote until that time. When, for a certain number of whole numbers, n% of the ballots were voted on, Peter got 62% of the votes cast and Max 38%: this is the first time Peter is sure he is the new mayor. How much is n?
+> The mayoral election
+> In Kangcity, a runoff was held between Peter and Max for election to the office of mayor, and the counting of the ballots is underway. All the ballots submitted are valid and not blank. For every integer k between 0 and 100, when k% of the ballots have been counted, the electoral commission announces the outcome of the vote up to that moment. When, for a certain integer n, n% of the ballots have been counted, Peter has obtained 62% of the counted votes and Max 38%: this is the first moment at which Peter is sure of being the new mayor. What is the value of n?
 
 **Answer:** 0134
 [[Quesiti/src_kangourou_squadre_2010_finale#q14|src_kangourou_squadre_2010_finale__Q14]]
@@ -547,7 +557,7 @@ level: squadre
 
 > A fraction to be simplified
 >  
-> What is the value of the fraction 1001+1003+1005+...+1997+1999 1+3+5+...+997+999?
+> What is the value of the fraction (1001+1003+1005+...+1997+1999)/(1+3+5+...+997+999)?
 >  
 >  
 >  

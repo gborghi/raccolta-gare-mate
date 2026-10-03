@@ -35,7 +35,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the fraction 20x17 on sum of digits*
+*Value of the fraction 20x17 over the sum of its digits*
 
 > = A) 3,4 B) 17
 > 	
@@ -74,7 +74,7 @@ level: kangourou
 
 *87*
 
-> Luke likes to play with miniature trains, and he uses those on the H0 scale, that is, with a ratio of 1:87. Respecting the same ladder, he built a model, two centimeters tall, representing his brother. What's your brother's real height? A) 1,74 m B) 1,62 m C) 1,86 m D) 1,94 m E) 1,70 m
+> Luke likes to play with miniature trains, and he uses those on the H0 scale, that is, with a ratio of 1:87. Respecting the same scale, he built a model, two centimeters tall, representing his brother. What is his brother's real height? A) 1,74 m B) 1,62 m C) 1,86 m D) 1,94 m E) 1,70 m
 
 **Answer:** A
 [[Quesiti/src_kangourou_2017_student_marzo#q02|src_kangourou_2017_student_marzo__Q02]]
@@ -203,7 +203,7 @@ level: kangourou
 
 ![[src_kangourou_2017_student_marzo__prob5.png]]
 
-> Of the following five graph fragments, four come from the graph of the same parable. What's not on that chart? A)
+> Of the following five graph fragments, four come from the graph of the same parabola. Which one does not belong to that graph? A)
 > 	
 > B)
 > 	
@@ -273,7 +273,7 @@ level: kangourou
 
 ![[src_kangourou_2017_student_marzo__prob6.png]]
 
-> In the center circle O you see in the figure, the two diameters AB and CX are arranged so that OB = BC. What fraction of the area of the circle corresponds to the shaded part? A) 2/5 B) 1/3
+> In the circle with center O that you see in the figure, the two diameters AB and CX are arranged so that OB = BC. What fraction of the area of the circle corresponds to the shaded part? A) 2/5 B) 1/3
 > 	
 > C) 2/7 D) 3/8 E) 4/11 20 × 17 --------------------- 2 + 0 + 1 + 7 A B -4 -3 x y -2 -1 -1 -2 y x 1 2 3 4 x
 >
@@ -313,13 +313,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Manufacture from materials of any heading, except those of heading 8546.
+*Solid that can be built with 4 black-and-white sticks*
 
 ![[src_kangourou_2017_student_marzo__prob7.png]]
 
-> Each bar consists of 2 white and 2 black cubes, glued together to produce a parallel piped of 4 × 1 × 1 with two white cubes at one end and two black cubes at the other, as shown in Figure 1. Which of the following solids can be constructed with 4 bars? A) B) C)
+> Each stick is made of 2 white small cubes and 2 black ones, glued
+> together so as to obtain a parallelepiped of dimensions
+> 4 × 1 × 1 with two white small cubes at one end and two black at the other, as in the figure. Which of the following solids can be built with 4 sticks?
+> A)                 	
+>        B) 	   	
+>              C) 	
 > 	
-> D) E)
+>     D) 	
+> E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2017_student_marzo#q07|src_kangourou_2017_student_marzo__Q07]]
@@ -351,9 +357,9 @@ Manufacture from materials of any heading, except those of heading 8546.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Detailed quadrant of the graph of f*
+*Quadrant without points of the graph of f*
 
-> Is there a quadrant that doesn't contain points on the graph of the function f defined by f (x) = -3,5 x + 7 ? A) Sì, il I. B) Sì, il II. C) Yes, the third. D) Sì, il IV. E) No.
+> Is there a quadrant that doesn't contain points on the graph of the function f defined by f (x) = -3,5 x + 7 ? A) Yes, the first. B) Yes, the second. C) Yes, the third. D) Yes, the fourth. E) No.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_student_marzo#q08|src_kangourou_2017_student_marzo__Q08]]
@@ -393,7 +399,7 @@ Box with maximum probability of blue ball
 
 ![[src_kangourou_2017_student_marzo__prob9.png]]
 
-> Each of the boxes in the figure contains red balls and blue balls, in the number indicated on the side. Carlo must take a ball from one of the boxes without looking. What box does he have to fish the ball from to get the best chance of getting a blue ball? A) B) C) D) E)
+> Each of the boxes in the figure contains red balls and blue balls, in the number indicated on the side. Carlo must take a ball from one of the boxes without looking. From which box should he draw the ball to have the greatest probability of getting a blue ball? A) B) C) D) E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_student_marzo#q09|src_kangourou_2017_student_marzo__Q09]]
@@ -437,7 +443,7 @@ Box with maximum probability of blue ball
 > 	
 > C) g3 (x) = x4 D) g4 (x) = - x4
 > 	
-> E) g5 (x) = - x The questions from N. 11 al N. 20 is worth 4 points each.
+> E) g5 (x) = - x The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_student_marzo#q10|src_kangourou_2017_student_marzo__Q10]]
@@ -512,7 +518,7 @@ Box with maximum probability of blue ball
 \end{document}
 ```
 
-> Three circles of centers A, B, C and radii 3, 2 and 1, respectively, are two to two tangents. What is the area of the triangle ABC ? A) 6
+> Three circles of centers A, B, C and radii 3, 2 and 1, respectively, are pairwise tangent. What is the area of the triangle ABC ? A) 6
 > 	
 > B) 4√3 C) 3√2 D) 9
 > 	
@@ -559,11 +565,24 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest between p,q and given expressions*
+*The largest among p, q and given expressions*
 
-> We know that the number p is positive and less than 1 and that the number q is greater than 1. Which is the largest of the following numbers? A) p ∙ q B) p + q C) p / q D) p
+> It is known that the number p is positive and less than 1 and that the number q is greater than 1. 
+> Which is the largest among the following numbers?
+> A) p ∙ q	 	
+> B) p + q		
+> C) p / q	 	
+> D) p	
 > 	
-> E) 10 blue, 8 red 6 blue, 4 red 8 blue, 6 red 7 blue, 7 red 12 blue, 9 red A B C
+> E) q
+> 10 blue, 8 red
+> 6 blue, 4 red
+> 8 blue, 6 red
+> 7 blue, 7 red
+> 12 blue, 9 red
+> A
+> B
+> C
 >
 
 **Answer:** B
@@ -644,7 +663,7 @@ Box with maximum probability of blue ball
 
 ![[src_kangourou_2017_student_marzo__prob14.png]]
 
-> The faces of the polyhedron shown in the figure are all either square or triangular, arranged so that there are no two-square or two-triangle common spikes. If exactly six faces are squares, how many triangles are there? A) 5
+> The faces of the polyhedron shown in the figure are all either square or triangular, arranged so that there are no edges common to two squares or to two triangles. If exactly six faces are squares, how many triangles are there? A) 5
 > 	
 > B) 6
 > 	
@@ -689,7 +708,7 @@ Box with maximum probability of blue ball
 
 *Probability of composing 2017 with four tetrahedra*
 
-> We have four equal dice in the shape of a regular tetrahedron, perfectly balanced, that is, equal, having the numbers 0, 1, 2, 7 on all four faces. If we all throw the dice on a flat surface, what is the probability that we can compose the 2017 number using exactly one of the three faces visible for each dice? A) 1/256 B) 63/64 C) 81/256 D) 3/32 E) 29/32
+> We have four equal dice in the shape of a regular tetrahedron, perfectly balanced, that is, equal, having the numbers 0, 1, 2, 7 on their four faces. If we throw all four dice on a flat surface, what is the probability that we can compose the 2017 number using exactly one of the three faces visible for each die? A) 1/256 B) 63/64 C) 81/256 D) 3/32 E) 29/32
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_student_marzo#q15|src_kangourou_2017_student_marzo__Q15]]
@@ -781,7 +800,7 @@ Box with maximum probability of blue ball
 
 ![[src_kangourou_2017_student_marzo__prob17.png]]
 
-> Giulia has 2017 discs all the same size, 1009 black and the remaining white. It arranges them according to the square pattern shown in the figure, starting with a black disc in the upper left corner and alternating colors in each row and column. How many disks of each colour advance when Giulia has completed the largest square she can compose? A) 0
+> Giulia has 2017 discs all the same size, 1009 black and the remaining white. She arranges them according to the square pattern shown in the figure, starting with a black disc in the upper left corner and alternating colors in each row and column. How many disks of each colour are left over when Giulia has completed the largest square she can compose? A) 0
 > 	
 > B) 40 whites and 40 blacks C) 41 whites and 40 blacks D) 41 whites and 41 blacks E) 40 whites and 41 blacks
 
@@ -822,7 +841,7 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum numbers with two consecutive multiples of 7*
+*Minimum digits with two consecutive numbers whose digit sum is a multiple of 7*
 
 > Two consecutive positive integers are such that the sum of the digits of each of them is a multiple of 7. What is the minimum number of digits that the smaller of the two can have? A) 3
 > 	
@@ -892,9 +911,9 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of figures from the number conceived by Titti*
+*Sum of the digits of the number Titti thought of*
 
-> 20. Tits would like to be a good kangaroo, but lying to him is too much fun: so he makes sure that, in every line of his claims, two are true and one is false. His friend Pietro wants to guess the two-digit number that Titti thought up. Titti made the following statements in order: One of the digits is a 2. E greater than 50. E equal. E less than 30. E divisible by 3.  One of the digits is 7. STUDENT What is the sum of the digits of the number Titti thought? A) 9 B) 12 C) 13 D) 15 E) 17 Questions from N. 21 al N. 30 is worth 5 points each.
+> 20. Titti would like to be a good little kangaroo, but telling lies is too much fun for him: so he makes sure that, in every triple of his consecutive statements, two are true and one is false. His friend Pietro wants to guess the 2-digit number Titti thought of. Titti made, in order, the following statements: "One of the digits is a 2." "It is greater than 50." "It is even." "It is less than 30." "It is divisible by 3." "One of the digits is 7." STUDENT What is the sum of the digits of the number Titti thought of? A) 9 B) 12 C) 13 D) 15 E) 17 Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_student_marzo#q20|src_kangourou_2017_student_marzo__Q20]]
@@ -921,7 +940,7 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inteers such that by subtracting the last digit, give 1/14 *
+*Integers such that removing the last digit gives 1/14*
 
 > 21. How many positive integers are such that the number obtained by eliminating the last digit is 1/14 of the original number? A) 0 B) 1 C) 2 D) 3 E) 4
 
@@ -951,11 +970,11 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AD in square with perpendicular diagonal *
+*Length AD in quadrilateral with perpendicular diagonals *
 
 ![[src_kangourou_2017_student_marzo__prob22.png]]
 
-> 22. In the convex quadrilateral ABCD in the figure (not in the scale), the diagonals are perpendicular. The three-sided tables are known: AB = 2017, BC = 2018 and CCD = 2019. C What is the length of AD? A) 2016 B) 2018 C) √$2020^{2}$ - 4 D) √$2018^{2}$+ 2 E) 2020 2018 B A 2017
+> 22. In the convex quadrilateral ABCD in the figure (not in the scale), the diagonals are perpendicular. The lengths of three sides are known: AB = 2017, BC = 2018 and CD = 2019. C What is the length of AD? A) 2016 B) 2018 C) √$2020^{2}$ - 4 D) √$2018^{2}$+ 2 E) 2020 2018 B A 2017
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_student_marzo#q22|src_kangourou_2017_student_marzo__Q22]]
@@ -982,9 +1001,9 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a_2017 in recurring succession*
+*Value of a_2017 in a recursive sequence*
 
-> 23. Let's consider the an sequence defined by putting a1 = 2017 and, for each n, a(n + 1) = (an - 1) / year. This is the same as the previous year's report.
+> 23. Consider the sequence an defined by setting a1 = 2017 and, for every n, a(n + 1) = (an - 1) / an . Then a2017 = A) - 2017 B) -1 / 2016 C) 2016 / 2017 D) 1 E) 2017
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_student_marzo#q23|src_kangourou_2017_student_marzo__Q23]]
@@ -1012,11 +1031,11 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sectioned tetrahedral volume report*
+*Volume ratio of a sectioned tetrahedron*
 
 ![[src_kangourou_2017_student_marzo__prob24.png]]
 
-> 24. From a regular tetrahedron, a new solid is made by securing it with four planes, each passing through the midpoints of the three beams coming out of the same vertex, as shown in the figure. What is the ratio of the volume of the solvent thus obtained to that of the initial tetrahedron? A) 4/5 B) 3/4 C) 2/3 D) 1/2 E) 1/3
+> 24. From a regular tetrahedron a new solid is obtained by sectioning it with four planes, each passing through the midpoints of the three edges coming out of the same vertex, as in the figure. What is the ratio between the volume of the solid thus obtained and that of the initial tetrahedron? A) 4/5 B) 3/4 C) 2/3 D) 1/2 E) 1/3
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_student_marzo#q24|src_kangourou_2017_student_marzo__Q24]]
@@ -1043,7 +1062,7 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area rectangular triangle with perimeter 18*
+*Area of right triangle with perimeter 18*
 
 > 25. The sum of the lengths of the three sides of a right triangle is 18 and the sum of the squares of these lengths is 128. What is the area of the triangle? A) 18 B) 16 C) 12 D) 10 E) 9
 
@@ -1072,9 +1091,9 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distributed balls for maximum probability of winning*
+*Distributing balls for maximum probability of winning*
 
-> 26. You have to have five black balls and five white balls in five boxes with the only constraint that each box contains at least one ball. Your opponent must, without looking, STUDENT catch a ball from a box of his choice: if the ball is white he wins, if it is black you win. How do you distribute the balls in the boxes to get the best chance of winning? A) Put a white and a black ball in each box. B) Put all the black balls in three boxes and all the white balls in the other two. C) Put all the black balls in four boxes and all the white balls in the remaining box. D) Put a black ball in each box and add all the white balls in one of the boxes. E) Put a white ball in each box and add all the black balls in one of the boxes.
+> 26. You must arrange five black balls and five white balls in five boxes with the only constraint that each box contains at least one ball. Your opponent must, without looking, STUDENT draw a ball from a box of his choice: if the ball is white he wins, if it is black you win. How do you distribute the balls in the boxes to get the best chance of winning? A) Put a white and a black ball in each box. B) Put all the black balls in three boxes and all the white balls in the other two. C) Put all the black balls in four boxes and all the white balls in the remaining box. D) Put a black ball in each box and add all the white balls in one of the boxes. E) Put a white ball in each box and add all the black balls in one of the boxes.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_student_marzo#q26|src_kangourou_2017_student_marzo__Q26]]
@@ -1186,7 +1205,7 @@ Box with maximum probability of blue ball
 
 *Maximum truths around the round table*
 
-> 29. The inhabitants of one island are exactly 2017 and each of them is either a liar (always thinking) or a truthful (always telling the truth). On the island, a large lunch is organized for more than a thousand inhabitants, all seated around a single round table. Each of them says, "I am sitting between a liar and a liar". What is the maximum number of truthful people that can live on the island? A) 1683 B) 668 C) 670 D) 1344 E) 1343
+> 29. The inhabitants of one island are exactly 2017 and each of them is either a liar (always lies) or a truthful (always telling the truth). On the island, a large lunch is organized for more than a thousand inhabitants, all seated around a single round table. Each of them says, "I am sitting between a liar and a truthful person". What is the maximum number of truthful people that can live on the island? A) 1683 B) 668 C) 670 D) 1344 E) 1343
 
 **Answer:** A
 [[Quesiti/src_kangourou_2017_student_marzo#q29|src_kangourou_2017_student_marzo__Q29]]
@@ -1215,7 +1234,7 @@ Box with maximum probability of blue ball
 
 *Positive integers ABC such that (A+B)^C is a three-digit power of 2*
 
-> 30. How many three-digit positive integers ABC are there such that (A + B)C is simultaneously a three-digit number and an integer power of 2?
+> 30. How many three-digit positive integers ABC are there such that (A + B)^C is simultaneously a three-digit number and an integer power of 2?
 > (A) 15 (B) 16 (C) 18 (D) 20 (E) 21
 
 **Answer:** E

@@ -31,7 +31,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many holes remain after target cover*
+*How many holes remain after covering half*
 
 > There are eight holes in Matthew's garden. The gardener covers half of each hole with stones. How many holes are there in that garden after the gardener's job? A) 0               B) 4              C) 8              D) 16             E) 837
 
@@ -60,9 +60,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mmonths containing day 30*
+*Months containing day 30*
 
-> How many months in a solar year contains the 30th day? A) 6               B) 7              C) 9              D) 11              E) 12
+> How many months in a solar year contain the 30th day? A) 6               B) 7              C) 9              D) 11              E) 12
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_ecolier#q02|src_kangourou_2005_ecolier__Q02]]
@@ -100,7 +100,7 @@ level: kangourou
 
 ![[src_kangourou_2005_ecolier__prob3.png]]
 
-> There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos that you can change the box if you want each row and column in the table to contain exactly 2 kangaroos. A) 4               B) 3              C) 2              D) 1 E) 0
+> There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want each row and column in the table to contain exactly 2 kangaroos. A) 4               B) 3              C) 2              D) 1 E) 0
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_ecolier#q03|src_kangourou_2005_ecolier__Q03]]
@@ -134,7 +134,7 @@ level: kangourou
 
 *Minimum trips to fill tank by losing goal*
 
-> Daniel wants to fill a water tank for his turtle. The tank is filled with the contents of 4 buckets. Daniel fills the bucket with a fountain, but every time he travels from the fountain to the pool with the bucket full, he loses half the contents. What is the minimum number of trips, from the fountain to the pool, that will allow Daniel to fill the pool? A) 4               B) 5              C) 6              D) 7              E) 8
+> Daniel wants to fill a water tank for his turtle. The tank is filled with the contents of 4 buckets. Daniel fills the bucket at a tap, but every time he travels from the tap to the tank with the bucket full, he loses half the contents. What is the minimum number of trips, from the tap to the tank, that will allow Daniel to fill the tank? A) 4               B) 5              C) 6              D) 7              E) 8
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_ecolier#q04|src_kangourou_2005_ecolier__Q04]]
@@ -209,9 +209,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of children with sibling *
+*Minimum number of children with a brother and a sister*
 
-> Each child (male or female) of the Red Lords has at least one brother and one sister and the number of the Red Lords' children is the smallest that allows this to occur. How many children do Mr. Red have? A) 2             B) 3              C) 4               D) 5               E) 6
+> Each child (male or female) of Mr. and Mrs. Rossi has at least one brother and one sister and the number of the Rossi's children is the smallest that allows this to occur. How many children do Mr. and Mrs. Rossi have? A) 2             B) 3              C) 4               D) 5               E) 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_ecolier#q06|src_kangourou_2005_ecolier__Q06]]
@@ -273,7 +273,7 @@ level: kangourou
 \end{document}
 ```
 
-> Elisabeth had a rectangular chocolate tablet made of 1 cm x 1 cm squares. He ate some of these squares and the piece of chocolate that remains has the shape of the figure. How many squares are left? A) 66               B) 64              C) 62 D) 60               E) 58
+> Elisabeth had a rectangular chocolate tablet made of 1 cm x 1 cm squares. She ate some of these squares and the piece of chocolate that remains has the shape of the figure. How many squares are left? A) 66               B) 64              C) 62 D) 60               E) 58
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_ecolier#q07|src_kangourou_2005_ecolier__Q07]]
@@ -434,7 +434,7 @@ level: kangourou
 
 *Minimum segments to divide rectangle into squares*
 
-> On a piece of paper, you draw a rectangle 17 cm x 13 cm that I want to divide into squares of 1 cm side. I have a 20 cm long reel. What is the minimum number of segments I need to trace to reach my goal? A) 24 B) 28 C) 30 D) 32 E) 220
+> On a piece of paper, you draw a rectangle 17 cm x 13 cm that I want to divide into squares of 1 cm side. I have a 20 cm long ruler. What is the minimum number of segments I need to trace to reach my goal? A) 24 B) 28 C) 30 D) 32 E) 220
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_ecolier#q11|src_kangourou_2005_ecolier__Q11]]
@@ -569,7 +569,7 @@ level: kangourou
 
 ![[src_kangourou_2005_ecolier__prob15.png]]
 
-> Peter rotates a clockwise triangle from one position to the second (note the figure, where the initial position P, the one after 1 second and the one after 2 seconds are represented in the order). What will be the position of the triangle after 2005 seconds? A)               B)              C)               D)              E)
+> Peter rotates a triangle clockwise by one position per second (note the figure, where the initial position P, the one after 1 second and the one after 2 seconds are represented in the order). What will be the position of the triangle after 2005 seconds? A)               B)              C)               D)              E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_ecolier#q15|src_kangourou_2005_ecolier__Q15]]
@@ -658,7 +658,7 @@ level: kangourou
 
 *Minimum lift travel with a capacity of 150 kg*
 
-> The maximum capacity of an elevator is 150 kilograms. Four friends must use it to reach the tenth floor from the ground floor: three of them weigh 80 pounds each, while the fourth weighs 60 pounds. What is the minimum number of elevator trips to take the four friends to the desired plane? A) 1 B) 2 C) 3 D) 4             E) 7
+> The maximum capacity of an elevator is 150 kilograms. Four friends must use it to reach the tenth floor from the ground floor: three of them weigh 80 kilograms each, while the fourth weighs 60 kilograms. What is the minimum number of elevator trips to take the four friends to the desired floor? A) 1 B) 2 C) 3 D) 4             E) 7
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_ecolier#q17|src_kangourou_2005_ecolier__Q17]]
@@ -748,9 +748,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many games did Edward win by cards?
+How many games did Edward win at cards?
 
-> Edward, Susanna and Teresa are playing cards. At the end of each match, the winner gains 3 points, the second-placed 1 point while the third-placed does not gain points. After four games, Susanna has four points and Teresa has three. How many games has Edward won? A) 1 B) 2 C) 3 D) all 4 E) it is not possible to know.
+> Edward, Susanna and Teresa are playing cards. At the end of each match, the winner gains 3 points, the second-placed 1 point while the third-placed does not gain points. After four games, Susanna has 4 points and Teresa has 3. How many games has Edward won? A) 1 B) 2 C) 3 D) all four E) it is not possible to know.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_ecolier#q19|src_kangourou_2005_ecolier__Q19]]
@@ -783,11 +783,16 @@ How many games did Edward win by cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of each yard flooring 24x28*
+*Perimeter of each flowerbed in a 24x28 garden*
 
 ![[src_kangourou_2005_ecolier__prob20.png]]
 
-> The figure on the side shows a rectangular garden measuring 24 by 28 meters. The gardener has made six rectangular oak trees of identical size (colored in gray in the figure). What is the perimeter of each owl? A) 28 m               B) 30 m              C) 32 m D) 34 m               E) 36 m
+> The figure on the side shows a rectangular garden with dimensions 24 meters by 28
+> meters. The gardener has made six flowerbeds
+> rectangular of identical dimensions (colored in gray in the figure). What is the perimeter
+> of each flowerbed?
+> A) 28 m               B) 30 m              C) 32 m
+> D) 34 m               E) 36 m
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_ecolier#q20|src_kangourou_2005_ecolier__Q20]]
@@ -912,11 +917,11 @@ How many games did Edward win by cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cube allows the given development*
+*Which cube allows the given net*
 
 ![[src_kangourou_2005_ecolier__prob23.png]]
 
-> Only one of the following cubes admits the development shown on the right. What kind? A)                 B)                   C) D)                            E)
+> Only one of the following cubes admits the net shown on the right. Which one? A)                 B)                   C) D)                            E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_ecolier#q23|src_kangourou_2005_ecolier__Q23]]
@@ -956,7 +961,7 @@ How many games did Edward win by cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 100 whole with product 100*
+*Minimum sum of 100 integers with product 100*
 
 > The product of 100 integers greater than zero is equal to 100. What is the minimum value that the sum of these numbers can have? A) 100 B) 110 C) 118 D) 127 E) 199 5 1 4 3 2 1 2 3 4 5 Ecolier_05_D.qxp 21/02/2005 15.54 Page 9
 

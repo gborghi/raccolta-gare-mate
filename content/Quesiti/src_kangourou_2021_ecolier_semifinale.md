@@ -116,7 +116,7 @@ level: kangourou
 \end{document}
 ```
 
-> (2 points) In the figure you see a large triangle divided into 9 small triangles. Imagine that each small triangle represents a room and that the bars on its sides represent as many doors as one room to the adjacent ones. Starting from the room upstairs, how many rooms can you visit at most by passing once through each room you visit? A) 3
+> (2 points) In the figure you see a large triangle divided into 9 small triangles. Imagine that each small triangle represents a room and that the bars on its sides represent as many doors allowing passage from one room to the adjacent ones. Starting from the room at the top, how many rooms can you visit at most by passing once through each room you visit? A) 3
 >  
 > B) 4
 >  
@@ -158,7 +158,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Yellow tiles on the floor with red diagonal *
+*Yellow tiles on the floor with red diagonals *
 
 > (3 points) A square floor is tiled with square tiles all of the same size. The nine tiles along the diagonals are red, the others yellow. How many yellow tiles are there? A) 10
 >  
@@ -224,7 +224,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the four invisible numbers in the diagram*
+*Sum of the four invisible numbers in the diagram*
 
 ![[src_kangourou_2021_ecolier_semifinale__prob3.png]]
 
@@ -383,7 +383,7 @@ level: kangourou
 
 How many rabbits eat carrots today?
 
-> (4 points) Bianca has 20 rabbits: 9 of them eat carrots every day, the others only one day yes and one no, not necessarily all on the same day. They ate 16 rabbits yesterday. How many rabbits will eat carrots today? A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
+> (4 points) Bianca has 20 rabbits: 9 of them eat carrots every day, the others only one day yes and one no, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today? A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
 >  
 >  
 >  
@@ -425,9 +425,9 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to add numbers 1.8. to get 30*
+*How to add numbers 1..8 to get 30*
 
-> (5 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same additives in a different order should not be considered as a different way). A) 4
+> (5 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same addends in a different order should not be considered as a different way). A) 4
 >  
 > B) 6
 >  
@@ -469,9 +469,9 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max figures 1 in the first 15 digits of the alignment*
+*Max 1s in the first 15 digits of the alignment*
 
-> (5 points) Ada has 10,000 cards, each containing a different number from 1 to 10,000 included. It aligns them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number N. How many digits 1 can contain that number N at most? A) 11
+> (5 points) Ada has 10,000 cards, each containing a different number from 1 to 10,000 included. She arranges them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number N. At most how many digits 1 can that number N contain? A) 11
 >  
 > B) 12 C) 13 D) 14 E) 15
 
@@ -549,9 +549,9 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Other years of the 21st century with a total of 5 *
+*Other years of the 21st century with digit sum 5*
 
-> (4 points) The sum of the 2021 figures is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
+> (4 points) The sum of the digits of 2021 is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2021_ecolier_semifinale#q10|src_kangourou_2021_ecolier_semifinale__Q10]]
@@ -578,9 +578,9 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of one anguria in hectolitres (3 kg less than three anguries) *
+*Weight of one watermelon in hectograms (3 kg less than three watermelons) *
 
-> (4 points) One anguria weighs 3 kg less than three anguries. All anguries have the same weight. Which is it, in eights?
+> (4 points) One watermelon weighs 3 kg less than three watermelons. All watermelons have the same weight. Which is it, in hectograms?
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2021_ecolier_semifinale#q11|src_kangourou_2021_ecolier_semifinale__Q11]]
@@ -611,7 +611,7 @@ How many rabbits eat carrots today?
 
 *Matches won by Edward in the card game*
 
-> (6 points) Edward, Susanna and Teresa play cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
+> (6 points) Edward, Susanna and Teresa play cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has 4 points and Teresa has 3. How many games has Edward won?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2021_ecolier_semifinale#q12|src_kangourou_2021_ecolier_semifinale__Q12]]
@@ -640,7 +640,7 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum Martian to have two of the same type*
+*Minimum number of Martians to have two of the same type*
 
 > (6 points) Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
 
@@ -669,7 +669,7 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years since the last year = two consecutive integers approximated*
+*Years since the last year = two consecutive integers placed side by side*
 
 > (8 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 

@@ -31,9 +31,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of n in -2023..2023 with 1+4n multiple of 5*
+*How many n in -2023..2023 with 1+4n multiple of 5*
 
-> Multiple of 5 For how many integers n between  2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?
+> Multiple of 5 For how many integers n between -2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?
 
 **Answer:** 0809
 [[Quesiti/src_kangourou_2023_junior_squadre#q01|src_kangourou_2023_junior_squadre__Q01]]
@@ -97,9 +97,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three-digit MEDI numbers*
+*Sum of three-digit MEDI numbers*
 
-> Average Number For each 3-digit integer (therefore with the number of hundreds other than 0), consider the five numbers that are obtained by exchanging its digits (for example, for the number 120, the five numbers to be considered are: 102, 210, 201, 012 and 021; instead for the number 121 are: 211, 211, 121, 112 and 112, in this case not all distinct and one equal to the number considered). The number in question shall be said to be half if it is the average of the other five. How much is the sum of all the MID numbers?
+> Average Number For each 3-digit integer (therefore with the hundreds digit other than 0), consider the five numbers that are obtained by exchanging its digits (for example, for the number 120, the five numbers to be considered are: 102, 210, 201, 012 and 021; instead for the number 121 are: 211, 211, 121, 112 and 112, in this case not all distinct and one equal to the number considered). The number in question shall be said to be MEDIO if it is the average of the other five. How much is the sum of all the MID numbers?
 
 **Answer:** 7992
 [[Quesiti/src_kangourou_2023_junior_squadre#q03|src_kangourou_2023_junior_squadre__Q03]]
@@ -129,9 +129,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cards with four axes given probability *
+*Cards removed given probability four aces*
 
-> Four axes From a deck of 52 playing cards, some are removed, but none of the four axes are then left in the deck. At this point, the probability that, by extracting 4 cards from the remaining ones, the exact four axes will be extracted is 1/1.001. How many cards have been removed from the deck?
+> Four aces
+> From a deck of 52 playing cards, some are removed, but none of the four aces, which therefore
+> remain in the deck. At this point, the probability that, by drawing 4 cards from those remaining, the
+> four aces are drawn is 1/1,001. How many cards have been removed from the deck?
 
 **Answer:** 0038
 [[Quesiti/src_kangourou_2023_junior_squadre#q04|src_kangourou_2023_junior_squadre__Q04]]
@@ -162,7 +165,7 @@ level: squadre
 
 *Maximum n/10 with 2023 cubes ending in 1*
 
-> The cube of a positive integer n, we know that there are exactly 2,023 natural numbers less than or equal to n whose cube ends with the number 1. What's the maximum possible value for n/10?
+> For the cube of a positive integer n, we know that there are exactly 2,023 natural numbers less than or equal to n whose cube ends with the number 1. What's the maximum possible value for n/10?
 
 **Answer:** 2023
 [[Quesiti/src_kangourou_2023_junior_squadre#q05|src_kangourou_2023_junior_squadre__Q05]]
@@ -196,7 +199,7 @@ level: squadre
 
 *Now given the motion of the spider on the watch*
 
-> The spider On a bell tower there is a large traditional circular clock. Moving at a constant speed on its edge, at 06:00 a spider sets out in an anti-clockwise direction corresponding to the tip of the hour's clock, reaches the tip of the minute's clock, reverses the direction of travel and reaches, moving now clockwise, for the second time the tip of the minute's clock after 20 minutes from the first time. What time is it? (Write the answer using only 4 digits, without the two dots: for example at 07:56 write 0756.)
+> The spider On a bell tower there is a large traditional circular clock. Moving at a constant speed on its edge, at 06:00 a spider sets out in an anti-clockwise direction corresponding to the tip of the hour hand, reaches the tip of the minute hand, reverses the direction of travel and reaches, moving now clockwise, for the second time the tip of the minute hand after 20 minutes from the first time. What time is it? (Write the answer using only 4 digits, without the two dots: for example at 07:56 write 0756.)
 
 **Answer:** 0626
 [[Quesiti/src_kangourou_2023_junior_squadre#q06|src_kangourou_2023_junior_squadre__Q06]]
@@ -292,7 +295,7 @@ level: squadre
 \end{document}
 ```
 
-> The FE segment Observe the figure. ABCD is a square, segment AG is 81 and segment GF is 27. How long is the FE segment?
+> The segment FE Observe the figure. ABCD is a square, segment AG is 81 and segment GF is 27. How long is the segment FE?
 >  
 > F G D B A C E
 
@@ -323,9 +326,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 3 with several distinct divisors*
+*3-digit number with the most distinct divisors*
 
-> Different divisors Among the three-digit positive integers, one, let's call it n, has the most divisors all different from each other. How much is n?
+> Distinct divisors 
+> Among the (positive) three-digit integers, only one, let's call it n, has the largest number of divisors 
+> all different from each other. What is n?
 
 **Answer:** 0840
 [[Quesiti/src_kangourou_2023_junior_squadre#q08|src_kangourou_2023_junior_squadre__Q08]]
@@ -355,9 +360,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different alignments by deleting the letters ANCONA*
+*Different sequences by deleting letters from ANCONA*
 
-> WHEREAS, by removing at least one letter, but not all, from the word WHEREAS, and leaving the order of the remaining letters unchanged, how many different letter alignments can be obtained? (For example, A, NCO, ACOA are three of these alignments.)
+> ANCONA
+> By deleting at least one letter, but not all, from the word ANCONA, and leaving unchanged the order
+> of the remaining letters, how many different sequences of letters can be obtained? (For example, A,
+> NCO, ACOA are three of these sequences.)
 
 **Answer:** 0057
 [[Quesiti/src_kangourou_2023_junior_squadre#q09|src_kangourou_2023_junior_squadre__Q09]]
@@ -385,7 +393,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less than 6 consecutive, maximum product of 10 digits*
+*Less than 6 consecutive, maximum 10-digit product*
 
 > Six consecutive integers A 10-digit integer is the product of six consecutive positive integers and is the largest 10-digit integer that enjoys this property. Which is the smallest of the six consecutive integers?
 
@@ -416,9 +424,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full pairs of 10xy-x^2-9y^2=2023 *
+*Integer pairs 10xy-x^2-9y^2=2023*
 
-> An equality How many pairs (ordered) (x, y) of relative integers is the equality 10xy  x2  9y2 = 2023 satisfied?
+> An equality 
+> For how many (ordered) pairs (x, y) of relative integers is the equality  
+> 10xy – x2 – 9y2 = 2023 satisfied?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2023_junior_squadre#q11|src_kangourou_2023_junior_squadre__Q11]]
@@ -447,9 +457,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n/100 divisible by 75 with 75 dividers*
+*Minimum n/100 divisible by 75 with 75 divisors*
 
-> Divisable by 75 There are positive integers divisible by 75 that have exactly 75 divisors (positive). Be the smallest of them. How much is 100?
+> Divisible by 75 
+> There exist positive integers divisible by 75 that have exactly 75 (positive) divisors. Let n be the 
+> smallest of them. What is the value of n / 100?
 
 **Answer:** 0324
 [[Quesiti/src_kangourou_2023_junior_squadre#q12|src_kangourou_2023_junior_squadre__Q12]]
@@ -481,9 +493,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tables purchased today at discounted prices*
+*Tiles bought today given discount conditions*
 
-> On a base price of 50 cents for a box, a hardware store offers a discount of 5% for those who buy less than 36, a discount of 12% for those who buy between 36 and 55 (included), a discount of 20% for those who buy at least 56. Yesterday I bought some of these bags and got a 5% discount; today I bought others and got a 12% discount. If I had bought today's with yesterday's, I would have gotten a 20% discount on 3 euros and 90 cents. How many baskets did I buy today?
+> The tiles
+> On the base price of 50 cents for a tile, a hardware store applies a 5% discount
+> to those who buy fewer than 36, a 12% discount to those who buy a number between 36 and 55
+> (included), a 20% discount to those who buy at least 56. Yesterday I bought some of these tiles and
+> I got a 5% discount; today I bought more and I got a 12% discount. If I had
+> bought today's ones together with yesterday's ones, I would have gotten a 20% discount, saving 3
+> euros and 90 cents. How many tiles did I buy today?
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2023_junior_squadre#q13|src_kangourou_2023_junior_squadre__Q13]]
@@ -513,9 +531,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of the euro available from the account*
+*Maximum euros obtainable from the account*
 
-> The withdrawal on Caesar's bank account is 250 euros. On that account Caesar can operate as many times as he wants, but without going red and only in two ways: withdraw 150 euros or deposit 99. Caesar has no other money at his disposal right now. How many euros can you get the most out of your account?
+> The withdrawal
+> In Cesare's bank account there are 250 euros. On that account Cesare can make transactions as many times as he wants,
+> but without going into the red and only in two ways: withdraw 150 euros or deposit 99. At this moment
+> Cesare has no other money available. How many euros can he manage to obtain at most from the account?
 
 **Answer:** 0249
 [[Quesiti/src_kangourou_2023_junior_squadre#q14|src_kangourou_2023_junior_squadre__Q14]]
@@ -590,7 +611,7 @@ level: squadre
 \end{document}
 ```
 
-> The area of T I sides AB and AC of an acutangol T triangle are 15 and 13 cm respectively. Given that D is the foot of the height leading from the vertex A to the side BC, the area of the ADC triangle is 30 cm2. Knowing that the area of T is expressed by an integer number of square centimeters, how much is it worth?
+> The area of T I sides AB and AC of an acutangol T triangle are 15 and 13 cm respectively. Given that D is the foot of the altitude drawn from vertex A to side BC, the area of the ADC triangle is 30 cm2. Knowing that the area of T is expressed by an integer number of square centimeters, what is it?
 > 
 >  
 > Questions and solutions

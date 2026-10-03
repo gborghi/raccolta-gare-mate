@@ -65,7 +65,7 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of the grey and black triangles that have common vertices are on the same straight. (see figure)
+> Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of the grey and black triangles that have common vertices are on the same straight line. (see figure)
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2016_finale_cadet#qc1|src_kangourou_2016_finale_cadet__QC1]]
@@ -93,9 +93,9 @@ level: kangourou
 
 * frozen 2 kang with 2 euro *
 
-> The currency of Kangland is the kang. In Kangcity the euro-kang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
+> The currency of Kangland is the kang. In Kangcity the euro-kang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 
-**Answer:** si, 40
+**Answer:** yes, 40
 [[Quesiti/src_kangourou_2016_finale_cadet#qc2|src_kangourou_2016_finale_cadet__QC2]]
 
 
@@ -126,7 +126,7 @@ level: kangourou
 
 > The Fox student must, to be promoted, make a maximum of one mistake and take a closed-ended test. You can choose between two envelopes: - envelope A containing $7$ questions, each with $2$ answers, - envelope B containing $3$ questions, each with $6$ answers. Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
 
-**Answer:** busta B
+**Answer:** envelope B
 [[Quesiti/src_kangourou_2016_finale_cadet#qc3|src_kangourou_2016_finale_cadet__QC3]]
 
 
@@ -184,9 +184,9 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure, two circular coins are outlined on the edge of each of which there is a tack; the two coins touch each other correspondingly with the tacks. The diameter of coin A, the largest, is $18$ mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins are touched again in a tie). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
+> In the figure, two circular coins are outlined on the edge of each of which there is a notch; the two coins touch each other at the notches. The diameter of coin A, the largest, is $18$ mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins touch again at the notches). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
 
-**Answer:** 4 o 12
+**Answer:** 4 or 12
 [[Quesiti/src_kangourou_2016_finale_cadet#qc4|src_kangourou_2016_finale_cadet__QC4]]
 
 
@@ -227,7 +227,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units in the unit.
+*distance CD*
 
 ![[src_kangourou_2016_finale_cadet__probc5.png]]
 
@@ -246,7 +246,7 @@ This is the total number of units in the unit.
 \end{document}
 ```
 
-> In the figure you can see a semicircumference of $8$ diameter. The $A$ and $D$ points are the ends, the $B$ and $C$ points are two other points of the semicircle that are separated from $2$ by $A$ and $B$ respectively. What is the distance between $C$ and $D$? (see figure)
+> In the figure you see a semicircle with diameter $8$. Points $A$ and $D$ are its endpoints, points $B$ and $C$ are two other points on the semicircle that are $2$ away from point $A$ and from point $B$ respectively. How far is point $C$ from point $D$? (see figure)
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2016_finale_cadet#qc5|src_kangourou_2016_finale_cadet__QC5]]
@@ -274,7 +274,7 @@ This is the total number of units in the unit.
 
 *days of additional bridge *
 
-> In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceding and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
+> In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceded and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2016_finale_cadet#qc6|src_kangourou_2016_finale_cadet__QC6]]

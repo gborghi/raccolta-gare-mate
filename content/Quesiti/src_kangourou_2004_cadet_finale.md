@@ -35,7 +35,7 @@ level: kangourou
 
 ![[src_kangourou_2004_cadet_finale__probc1.png]]
 
-> In a wooden cube of 4 centimetres by side, a cube of 2 centimetres by side is cut to make the solid depicted on the right in the figure. Compared to the total surface area of the initial cube, how many square decimeters is the total outer surface area of the solid? (see figure)
+> In a wooden cube of 4 decimetres by side, a cube of 2 decimetres by side is cut to make the solid depicted on the right in the figure. Compared to the total surface area of the initial cube, how many square decimeters is the total outer surface area of the solid? (see figure)
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2004_cadet_finale#qc1|src_kangourou_2004_cadet_finale__QC1]]
@@ -61,7 +61,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min a with sum of a+...+9a at equal figures*
+*Min a with sum of a+...+9a having equal digits*
 
 > The number $a$ is a positive integer such that the sum $a + 2a + 3a + 4a + \ldots + 9a$ is a number in which all the digits are equal. What is the minimum value of $a$?
 
@@ -92,9 +92,9 @@ level: kangourou
 
 There's always a dominant team in the ring.
 
-> At the end of a volleyball tournament with only one round in Italian (where each team meets only once all the others), is there always at least one team $A$ that in the matches with each other $B$ or has won or defeated a team that has defeated $B$? Reason for the answer. (N.B. In volleyball, no match ends in a draw.
+> At the end of a volleyball tournament with a single round-robin (where each team meets only once all the others), is there always at least one team $A$ that in the matches with each other $B$ or has won or defeated a team that has defeated $B$? Justify your answer. (N.B. In volleyball, no match ends in a draw.
 
-**Answer:** si (punteggio max)
+**Answer:** yes (maximum score)
 [[Quesiti/src_kangourou_2004_cadet_finale#qc3|src_kangourou_2004_cadet_finale__QC3]]
 
 
@@ -119,9 +119,9 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five numbers from sums of two to two*
+*Five numbers from pairwise sums*
 
-> I wrote as many positive integers on five sheets. Adding them to two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
+> I wrote as many positive integers on five sheets. Adding them two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
 
 **Answer:** 3,11,14,17,25
 [[Quesiti/src_kangourou_2004_cadet_finale#qc4|src_kangourou_2004_cadet_finale__QC4]]
@@ -197,7 +197,7 @@ There's always a dominant team in the ring.
 \end{document}
 ```
 
-> The side of the square $ABCD$ in the figure measuring $6$ cm and the segments $AN$ and $CM$ measuring $2$ cm and $3$ cm respectively. How many degrees does the angle $NBM$ measure? (see figure)
+> The side of the square $ABCD$ in the figure measures $6$ cm and the segments $AN$ and $CM$ measure $2$ cm and $3$ cm respectively. How many degrees does the angle $NBM$ measure? (see figure)
 
 **Answer:** 45
 [[Quesiti/src_kangourou_2004_cadet_finale#qc5|src_kangourou_2004_cadet_finale__QC5]]
@@ -230,13 +230,13 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cross-sectional tiles on the 8x8 chessboard *
+*Max cross tiles on the 8x8 chessboard *
 
 ![[src_kangourou_2004_cadet_finale__probc6.png]]
 
-> We place in a square chessboard $8 \times 8$ symmetrical cross-shaped tiles such as the one in the figure, formed by the approximation of 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 chessboard boxes; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
+> We place in a square chessboard $8 \times 8$ symmetrical cross-shaped tiles such as the one in the figure, formed by placing together 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 chessboard boxes; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
 > 
-> How many cards can a chessboard hold? (see figure)
+> How many tiles can the chessboard hold at most? (see figure)
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2004_cadet_finale#qc6|src_kangourou_2004_cadet_finale__QC6]]

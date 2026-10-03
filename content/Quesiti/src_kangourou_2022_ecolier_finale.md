@@ -35,11 +35,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pages are missing (231 ... (*)
+*How many pages are missing (231 ... permutation)*
 
-> Which of the numbers listed in the answers can you type in the box on the left and in the box on the right respectively to correct the $2020 + \square = 2022 + \square$ equation?
+> Which numbers, among those listed in the answers, can you write respectively in the box on the left and in the box on the right to make the equality $2020 + \square = 2022 + \square$ correct?
 > 
-> A) 3 e 5 B) 4 e 1 C) 2 e 4 D) 7 e 2 E) 9 e 7
+> A) 3 and 5
+> B) 4 and 1
+> C) 2 and 4
+> D) 7 and 2
+> E) 9 and 7
 
 **Answer:** 0082
 [[Quesiti/src_kangourou_2022_ecolier_finale#q01|src_kangourou_2022_ecolier_finale__Q01]]
@@ -72,7 +76,7 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of distinct values as the sum of two from 1 to 2022*
+*Number of distinct values as the sum of two from 1 to 2022*
 
 > Giulio wants to open the black box containing the train. To do that, he takes one box at a time. What's the minimum number of boxes he can take off? (see figure)
 > 
@@ -110,7 +114,7 @@ How many pages are missing (231 ... (*)
 
 *Book thickness (figures and theoretical pages) *
 
-> Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and direction indicated by the arrow. What set of arrows allows the bee to reach the flower? (see figure)
+> Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and sense indicated by the arrow. What set of arrows allows the bee to reach the flower? (see figure)
 > 
 > A) $\rightarrow \rightarrow \downarrow \downarrow \downarrow$ B) $\downarrow \downarrow \rightarrow \downarrow \downarrow$ C) $\rightarrow \downarrow \rightarrow \downarrow \rightarrow$ D) $\rightarrow \downarrow \rightarrow \downarrow \downarrow \rightarrow$ E) $\downarrow \rightarrow \rightarrow \downarrow \downarrow \downarrow$
 
@@ -145,11 +149,15 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 3 digits with sum of first two = third*
+*3-digit numbers with the sum of the first two = the third*
 
-> You see a chessboard next to it with some gray balls on it. Rossella wants every row and every column of this chessboard to have 2 and no more than 2 pawns. What kind of pedal should you move on an empty cell? (see figure)
+> Next to it you see a chessboard on which there are some gray pawns. Rossella wants there to be 2 and no more than 2 pawns in each row and in each column of this chessboard. Which pawn must she move to an empty cell? (see figure)
 > 
-> A) A B) B C) C D) D E) E
+> A) A
+> B) B
+> C) C
+> D) D
+> E) E
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2022_ecolier_finale#q04|src_kangourou_2022_ecolier_finale__Q04]]
@@ -183,7 +191,7 @@ How many pages are missing (231 ... (*)
 
 *Total length of the gift package tape*
 
-> Mathematical kangaroo enjoys jumping along the straight line. He makes a long jump followed by two short jumps, as shown in the figure, and repeats this pattern several times. It starts at 0 and gets to 16. How many jumps does he make in all? (see figure)
+> Mathematical kangaroo enjoys jumping along the number line. He makes a long jump followed by two short jumps, as shown in the figure, and repeats this pattern several times. It starts at 0 and gets to 16. How many jumps does he make in all? (see figure)
 > 
 > A) 4 B) 7 C) 8 D) 9 E) 12
 
@@ -255,11 +263,15 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different squares in Figure *
+*How many different squares are in the figure*
 
-> There's no antithesis in Michele's postcard. On Chiara's postcard, the sun is visible. There's exactly two animals on Paola's card. The animals that appear in Luke and Nicholas' cards don't fly. What is Michele's card? (see figure)
+> There are no ducks in Michele's postcard. The sun is visible on Chiara's postcard. There are exactly two animals on Paola's postcard. The animals that appear on Luca's and Nicola's postcards do not fly. Which is Michele's postcard? (see figure)
 > 
-> (A) (Figure A) (B) (Figure B) (C) (Figure C) (D) (E) (Figure E)
+> A) (figure A)
+> B) (figure B)
+> C) (figure C)
+> D) (figure D)
+> E) (figure E)
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2022_ecolier_finale#q07|src_kangourou_2022_ecolier_finale__Q07]]
@@ -291,11 +303,15 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number did Alice add to the 0 in the queue*
+*To which number did Alice add the 0 at the end*
 
-> John built this tower. What image do you see when you look up at the tower? (see figure)
+> Giovanni built this tower. What image does he see when he looks at the tower from above? (see figure)
 > 
-> (A) (Figure A) (B) (Figure B) (C) (D) (Figure D) (E) (Figure E)
+> A) (figure A)
+> B) (figure B)
+> C) (figure C)
+> D) (figure D)
+> E) (figure E)
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2022_ecolier_finale#q08|src_kangourou_2022_ecolier_finale__Q08]]
@@ -364,11 +380,15 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the products of the 2-digit numbers *
+*Sum of the products of the digits of 2-digit numbers*
 
-> Every cell in the grid here on the side contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far comply with the following rule: if two cells have a side in common, they do not contain the same number. Which of the following pieces, inserted into the grid, allows you to continue to comply with the rule? (see figure)
+> Each cell of the grid shown here contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far follow the following rule: if two cells have a side in common they do not contain the same number. Which of the following pieces, inserted into the grid, allows the rule to continue to be respected? (see figure)
 > 
-> (a) (part A) (b) (part B) (c) (part C) (d) (d) (e) (e)
+> A) (piece A)
+> B) (piece B)
+> C) (piece C)
+> D) (piece D)
+> E) (piece E)
 
 **Answer:** 2025
 [[Quesiti/src_kangourou_2022_ecolier_finale#q10|src_kangourou_2022_ecolier_finale__Q10]]
@@ -405,7 +425,7 @@ How many pages are missing (231 ... (*)
 
 > Kangaroo mother's children are 2, 4, 5, 6, 8, 10 years old. Four of them are girls and their combined ages are 22. How old are the two boys?
 > 
-> A) 2 e 8 B) 4 e 5 C) 5 e 8 D) 6 e 8 E) 6 e 10
+> A) 2 and 8 B) 4 and 5 C) 5 and 8 D) 6 and 8 E) 6 and 10
 
 **Answer:** 0506
 [[Quesiti/src_kangourou_2022_ecolier_finale#q11|src_kangourou_2022_ecolier_finale__Q11]]
@@ -439,7 +459,7 @@ How many pages are missing (231 ... (*)
 
 *Time difference between cat and turtle (path) *
 
-> In the school yard, a few rows of chairs were lined up. Each row contains the same number of seats. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on your left and 5 on your right in your row. How many chairs have been put in the yard?
+> In the school yard, a few rows of chairs were lined up. Each row contains the same number of seats. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on his left and 5 on his right in his row. How many chairs have been put in the yard?
 > 
 > A) 24 B) 27 C) 32 D) 35 E) 36
 
@@ -474,9 +494,9 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers are 4 digits sum 4 and product 0*
+*How many 4-digit numbers have sum 4 and product 0*
 
-> Aladdin has a square rug. The carpet has an edge of dots distributed over two lines as the figure suggests, which however shows the carpet folded in part. Along each side of the carpet is the same number of dots: the one you see in the figure on the right side. How many are all over the dots on Aladdin's carpet? (see figure)
+> Aladdin has a square rug. The carpet has a border of dots distributed over two lines as the figure suggests, which however shows the carpet folded in part. Along each side of the carpet is the same number of dots: the one you see in the figure on the right side. How many dots are there in total on Aladdin's carpet? (see figure)
 > 
 > A) 20 B) 24 C) 28 D) 32 E) 36
 
@@ -513,7 +533,7 @@ How many pages are missing (231 ... (*)
 
 *Fourteenth term of the sum sequence*
 
-> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then he drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? (see figure)
+> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then she drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? (see figure)
 > 
 > A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
 
@@ -550,7 +570,7 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of sitting in a row with spaces open to each other*
+*Ways of sitting in a row with empty seats between them*
 
 > In the addition you see on the right 4 digits are not visible: $$\begin{array}{r} \square\,6\,3 \\ +\,\square\,\square\,\square \\ \hline 5\,7\,2 \end{array}$$ How much is their sum?
 > 
@@ -618,7 +638,7 @@ How many pages are missing (231 ... (*)
 \end{document}
 ```
 
-> On a table, there are nine tokens, white on one face and black on the other. The icons are arranged squarely over three rows and show their faces as shown in the figure. A game consists of trying to get all the tokens to show the same colour, white or black faces, performing only moves that consist of flipping all three tokens of the same line or column or diagonal, and being able to choose from move to move. What's the smallest number of moves to finish the game? (see figure)
+> On a table, there are nine tokens, white on one face and black on the other. The tokens are arranged in a square over three rows and show their faces as shown in the figure. A game consists of trying to get all the tokens to show the same colour, white or black faces, performing only moves that consist of flipping all three tokens of the same row or column or diagonal, and being able to choose from move to move. What's the smallest number of moves to finish the game? (see figure)
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2022_ecolier_finale#qe1|src_kangourou_2022_ecolier_finale__QE1]]
@@ -646,9 +666,9 @@ How many pages are missing (231 ... (*)
 
 *Time from A to B swimming with the same energy as the counter current*
 
-> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stephen enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
+> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stefano enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
 
-**Answer:** 2 minuti
+**Answer:** 2 minutes
 [[Quesiti/src_kangourou_2022_ecolier_finale#qe2|src_kangourou_2022_ecolier_finale__QE2]]
 
 
@@ -674,7 +694,7 @@ How many pages are missing (231 ... (*)
 
 *Sarah's position at the classification goal with Gino and Pino*
 
-> Three students per class of the school participate in a country marching race. In the final ranking, Sara is exactly in the middle of the ranking (i.e. there is the same number of participants who precede and follow her), while Gino follows her to 19th place and Pino follows her to 28th place. Knowing there were no equal, what place does Sara occupy?
+> Three students per class of the school participate in a cross-country race. In the final ranking, Sara is exactly in the middle of the ranking (i.e. there is the same number of participants who precede and follow her), while Gino follows her to 19th place and Pino follows her to 28th place. Knowing there were no ties, what place does Sara occupy?
 
 **Answer:** 17
 [[Quesiti/src_kangourou_2022_ecolier_finale#qe3|src_kangourou_2022_ecolier_finale__QE3]]
@@ -702,11 +722,11 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tasks containing bananas by weight *
+*Which boxes contain bananas by weight*
 
 ![[src_kangourou_2022_ecolier_finale__probe4.png]]
 
-> A fruit vendor only sells apples, bananas and oranges. He was ordered to compose five cassettes, none of which contained either apples or bananas. He used a total of four oranges, each weighing two and a half hectares; the total weight of the apples he used was three times that of the bananas he used. Here's the weight of the contents of the five boxes: box 1:8 kg, box 2:5 kg, box 3:6 kg, box 4:2 kg, box 5:16 kg. Which or which cassette contains bananas?
+> A greengrocer sells only apples, bananas and oranges. He received an order to compose 5 boxes, none of which contains both apples and bananas. He used a total of 4 oranges, each weighing two and a half hectograms; the total weight of the apples he used is three times that of the bananas he used. Here is the weight of the contents of the 5 boxes: box 1: 8 kg, box 2: 5 kg, box 3: 6 kg, box 4: 2 kg, box 5: 16 kg. Which box or boxes contain bananas?
 
 **Answer:** la 1 e la 4
 [[Quesiti/src_kangourou_2022_ecolier_finale#qe4|src_kangourou_2022_ecolier_finale__QE4]]
@@ -737,7 +757,7 @@ How many pages are missing (231 ... (*)
 
 > Giulia has calculated correctly how many Sundays there can be in three consecutive months. What are the possible outcomes?
 
-**Answer:** 12 o 13 o 14
+**Answer:** 12 or 13 or 14
 [[Quesiti/src_kangourou_2022_ecolier_finale#qe5|src_kangourou_2022_ecolier_finale__QE5]]
 
 
@@ -762,9 +782,9 @@ How many pages are missing (231 ... (*)
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cyclists have at least lied if sum and 36
+How many cyclists have at least lied if the sum is 36
 
-> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, obviously with a number between 1 and 10. The reporter sums up the answers you give him and gets 36. He concludes that some certainly lied - how many, at least?
+> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, obviously with a number between 1 and 10. The reporter sums up the answers given to him and gets 36. He concludes that some certainly lied - how many, at least?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2022_ecolier_finale#qe6|src_kangourou_2022_ecolier_finale__QE6]]

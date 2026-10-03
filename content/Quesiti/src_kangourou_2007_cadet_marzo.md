@@ -34,7 +34,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression value 4x4+4+4+4+4+4+4+4x4*
+*Expression value 4x4+4+4+4+4+4x4*
 
 > 4 x 4 + 4 + 4 + 4 + 4 + 4 x 4=? A) 96 B) 48 C) 100 D) 32 E) 384
 
@@ -68,7 +68,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In how many years Billy will be 10 years old
+In how many years will Billy be 10 years old
 
 > Two years ago, Anna was eight times her brother Billy's age. Anna is 10 years old today. How many years from now will Billy be 10? A) 4 B) 5 C) 6 D) 7 E) 8
 
@@ -177,9 +177,15 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After 4 days with 4 nipples (double) *
+*After how many days with 4 water lilies (doubling)*
 
-> You want to grow a nymph in a pond. Every day the crop doubles in size, and if a single nymph is harvested, the pond is full after 12 days. After how many days will the pond be full if four nymphs are brought in? A) 3 B) 4 C) 8 D) 10 E) 6
+> A water lily crop is to be grown in a pond. Each day the crop doubles its extent and if only one water lily is planted, after 12 days the pond is full. After how many days will the pond be full if 4 water lilies are
+> planted?
+> A) 3  
+> B) 4
+> C) 8
+> D) 10
+> E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_cadet_marzo#q05|src_kangourou_2007_cadet_marzo__Q05]]
@@ -220,13 +226,24 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which circle is blacker than white*
+*In which circle is there more black than white*
 
 ![[src_kangourou_2007_cadet_marzo__prob6.png]]
 
-> In which circle is the black part wider than the white? A) A B) B C) C D) D E) none of the four texts
+> In which circle is the black part more
+> extensive than the white one? 
+> A) A 
+> B) B 
+> C) C 
+> D) D 
+> E) none of the four
+> Testi_07.qxp  16-04-2007  12:05  Pagina 16
 > 
-> I'm going to pay. I'm going to pay. 17 17 Kang 2007 Kang
+> Pag. 
+> Pag. 17
+> 17
+> Kang 2007
+> Kang 2007
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_cadet_marzo#q06|src_kangourou_2007_cadet_marzo__Q06]]
@@ -261,11 +278,11 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Breaking length ABC...P*
+*Broken line ABC...P*
 
 ![[src_kangourou_2007_cadet_marzo__prob7.png]]
 
-> The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken ABC...OP line. How long is the broken ABC...OP? A) 48 B) 56 C) 96 D) 106 E) a value different from the previous one
+> The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken line ABC...OP. How long is the broken line ABC...OP? A) 48 B) 56 C) 96 D) 106 E) a value different from the previous one
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_cadet_marzo#q07|src_kangourou_2007_cadet_marzo__Q07]]
@@ -381,7 +398,7 @@ In how many years Billy will be 10 years old
 
 ![[src_kangourou_2007_cadet_marzo__prob10.png]]
 
-> We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3 Questions from N. 11 al N. 20 is worth 4 points each.
+> We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_cadet_marzo#q10|src_kangourou_2007_cadet_marzo__Q10]]
@@ -471,11 +488,38 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People in the classroom (boy/girl friends) *
+*People in the class (boy/girl friendships)*
 
-> In a mixed class the number of girls is three times less than that of boys. Each boy is exactly friends with four girls, while each girl is exactly friends with five boys (of course friendship is mutual). How many people are in that class? A) 21 B) 23 C) 27 D) 30 E) 33 A D and B C F G G H I L M N O P Texts_07.qxp 16-04-2007 12:05 Page 17
+> In a mixed class the number of girls is three less than that of the
+> boys. Each boy is friends with exactly four girls, while each
+> girl is friends with exactly five boys (naturally friendship is
+> mutual). How many people are there in that class?
+> A) 21
+> B) 23
+> C) 27
+> D) 30
+> E) 33
+> A
+> D
+> E
+> B
+> C
+> F
+> G
+> H
+> I
+> L
+> M
+> N
+> O
+> P
+> Testi_07.qxp  16-04-2007  12:05  Page 17
 > 
-> I'm going to pay. I'm going to pay. 18 18 Kang 2007 Kang 2007
+> Pag. 
+> Pag. 18
+> 18
+> Kang 2007
+> Kang 2007
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_cadet_marzo#q12|src_kangourou_2007_cadet_marzo__Q12]]
@@ -555,7 +599,7 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of consumers branded A hrs*
+*Fraction of consumers buying brand A now*
 
 > One survey revealed that two thirds of chocolate consumers in the country of Dolcezza buy brand A and one third buy brand B. A new survey, carried out after an advertising campaign for the B brand, found that 1/4 of consumers who previously preferred A now switched to B. The proportion of consumers now buying A is A) 5/12 B) 1/4 C) 7/12 D) 1/3 E) none of the above. 15.The ABC and CDE triangles in the figure are congruent and equilateral. If the ACE angle is 80 degrees, how many degrees does the ABE angle measure? A) 25 B) 30 C) 35 D) 40 E) 45
 
@@ -585,11 +629,11 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle ABE (conforming equilateral triangles) *
+*Angle ABE (congruent equilateral triangles)*
 
 ![[src_kangourou_2007_cadet_marzo__prob15.png]]
 
-> 15. Answer D) The angle ECB measures 140 degrees and, since BC=CE, the angle EBC measures 20 degrees: by way of difference, ABE measures 40 degrees.
+> 15. Answer D) The angle BCE measures 140 degrees and, since BC=CE, the angle EBC measures 20 degrees: by subtraction we get that ABE measures 40 degrees.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_cadet_marzo#q15|src_kangourou_2007_cadet_marzo__Q15]]
@@ -707,9 +751,28 @@ In how many years Billy will be 10 years old
 
 *Comparison of the volumes of the two cylinders*
 
-> You have a rectangular sheet of paper with a double side of the other. There are two cylinders that can be fastened exactly from the sheet, joining opposite sides of the sheet without overlapping. Call C1 the cylinder fastened to the sheet when approaching the short sides and C2 the cylinder fastened to the sheet when approaching the long sides and denote their volumes with V1 and V2 respectively. Which of the following is correct? V1 = 23 V2 D) V1 = V2 E) V2 = 23 V1 C A B E D Text_07.qxp 16-04-2007 12:05 Page 18
+> You have a rectangular sheet of paper with one side twice the other. There are
+> two cylinders that can be "wrapped" exactly by the sheet, joining opposite sides of the sheet without overlaps. Call C1 the cylinder wrapped
+> by the sheet when you bring the short sides together and C2 the one wrapped by the sheet when
+> you bring the long sides together and denote their volumes by V1 and V2 respectively. Which
+> of the following statements is correct?
+> A) V1 = 2 V2
+> B) V2 = 2 V1
+> C) V1 = 23 V2
+> D) V1 = V2
+> E) V2 = 23 V1
+> C
+> A
+> B
+> E
+> D
+> Testi_07.qxp  16-04-2007  12:05  Page 18
 > 
-> I'm going to pay. I'm going to pay. 19 19 Kang 2007 Kang
+> Pag. 
+> Pag. 19
+> 19
+> Kang 2007
+> Kang 2007
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_cadet_marzo#q18|src_kangourou_2007_cadet_marzo__Q18]]
@@ -794,7 +857,7 @@ In how many years Billy will be 10 years old
 
 ![[src_kangourou_2007_cadet_marzo__prob20.png]]
 
-> In the figure next to O is the centre of the KLMN square and the points on each side of the KLMN are chosen with the only constraint that the OA segment is perpendicular to the OD segment and the OB segment is perpendicular to the OC segment. If the side of the square is 2, what is the area of the shaded region? A) 1 B) 2 C) 2,5 D) 2,25 E) It is not possible to answer because it depends on the choice of points A and B. The questions from N. 21 al N. 30 is worth 5 points each.
+> In the figure next to O is the centre of the KLMN square and the points on each side of the KLMN are chosen with the only constraint that the OA segment is perpendicular to the OD segment and the OB segment is perpendicular to the OC segment. If the side of the square is 2, what is the area of the shaded region? A) 1 B) 2 C) 2,5 D) 2,25 E) It is not possible to answer because it depends on the choice of points A and B. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_cadet_marzo#q20|src_kangourou_2007_cadet_marzo__Q20]]
@@ -831,7 +894,7 @@ In how many years Billy will be 10 years old
 
 *How many numbers to list (calculator without 1) *
 
-> A malfunctioning calculator never shows the number 1. For example, if you type 3131, only the number 33 appears, no spaces. Mark typed a 6-digit number, but only the number 2007 appeared: how many numbers do I have to list to be sure of saying the number that Mark typed? A) 12 B) 13 C) 14 D) 15 E) 16
+> A malfunctioning calculator never shows the digit 1. For example, if you type 3131, only the number 33 appears, no spaces. Marco typed a 6-digit number, but only the number 2007 appeared: how many numbers do I have to list to be sure of saying the number that Marco typed? A) 12 B) 13 C) 14 D) 15 E) 16
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_cadet_marzo#q21|src_kangourou_2007_cadet_marzo__Q21]]
@@ -865,7 +928,7 @@ In how many years Billy will be 10 years old
 
 *Kilometres walked by Alfredo (up and down) *
 
-> Alfredo goes for a walk: the first stretch of road is flat, the second up. It's back the same way and takes two hours overall. Its speed is 4 km/h on flat land, 3 km/h up and 6 km/h down. How many miles has Alfredo walked? A) You cannot answer, because it depends on the length of the road in the plane. B) 6 C) 7.5 D) 8 E) 10
+> Alfredo goes for a walk: the first stretch of road is flat, the second up. He returns along the same road and takes two hours overall. His speed is 4 km/h on flat land, 3 km/h up and 6 km/h down. How many kilometres has Alfredo walked? A) You cannot answer, because it depends on the length of the flat stretch of road. B) 6 C) 7.5 D) 8 E) 10
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_cadet_marzo#q22|src_kangourou_2007_cadet_marzo__Q22]]
@@ -968,7 +1031,7 @@ In how many years Billy will be 10 years old
 
 *How many 4-digit self-descriptive numbers *
 
-> The first digit of a four-digit number is equal to the number of digits 0 of that number, the second digit is equal to the number of digits 1, the third digit is equal to the number of digits 2, and the fourth digit is equal to the number of digits 3. How many numbers are with this property? A) 0 B) 2 C) 3 D) 4 E) 5
+> The first digit of a four-digit number is equal to the number of digits 0 of that number, the second digit is equal to the number of digits 1, the third digit is equal to the number of digits 2, and the fourth digit is equal to the number of digits 3. How many numbers have this property? A) 0 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_cadet_marzo#q24|src_kangourou_2007_cadet_marzo__Q24]]
@@ -1001,7 +1064,7 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N+2 dividers (n first, n+1 with 3 dividers) *
+*Divisors of n+2 (n prime, n+1 with 3 divisors)*
 
 > Including between the divisors of a number the number itself and the unit, a positive integer n has two divisors while n + 1 has three. How many divisors of n + 2 are there? (a) 2 (b) 3 (c) 4 (d) 5 (e) depends on n
 
@@ -1043,7 +1106,7 @@ In how many years Billy will be 10 years old
 
 ![[src_kangourou_2007_cadet_marzo__prob26.png]]
 
-> On a table there are 9 cards, each of which has a number, as shown in the figure. Gigi and Piero each remove four cards: the sum of numbers written on the cards removed by Gigi is three times that of numbers written on the cards removed by Piero. What number is written on the paper that remains on the table? A) 4 B) 7 C) 14 D) 23 E) 24
+> On a table there are 9 cards, each of which has a number, as shown in the figure. Gigi and Piero each remove four cards: the sum of numbers written on the cards removed by Gigi is three times that of numbers written on the cards removed by Piero. What number is written on the card that remains on the table? A) 4 B) 7 C) 14 D) 23 E) 24
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_cadet_marzo#q26|src_kangourou_2007_cadet_marzo__Q26]]
@@ -1082,7 +1145,7 @@ In how many years Billy will be 10 years old
 
 ![[src_kangourou_2007_cadet_marzo__prob27.png]]
 
-> Five integers are written on a circumference so that no pair and no set of adjacent numbers gives a sum divisible by 3. How many of these numbers are divisible by 3? A) 0 B) 1 C) 2 D) 3 E) The data are insufficient to answer.
+> Five integers are written on a circumference so that no pair and no triple of adjacent numbers gives a sum divisible by 3. How many of these numbers are divisible by 3? A) 0 B) 1 C) 2 D) 3 E) The data are insufficient to answer.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_cadet_marzo#q27|src_kangourou_2007_cadet_marzo__Q27]]
@@ -1133,13 +1196,33 @@ In how many years Billy will be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max length of curve connected (arched tiles) *
+*Max length connected curve (tile arcs)*
 
 ![[src_kangourou_2007_cadet_marzo__prob28.png]]
 
-> The figure shows a square tile with a side length of 20 cm, with two decorative patterns in the shape of a quarter of a radius of 10 cm, centered on opposite vertices of the square. We're flooring with tiles like this on a square side area of 80 centimeters so that the arches connect to two by two. What is the length in centimeters of the longest connected curve that can form in this way? (a) 75 π B) 100 π C) 105 π D) 110 π E) 140 π 4 12 8 13 24 14 7 5 23 10 cm Texts_07.qxp 16-04-2007 12:05 Page 20
+> The figure shows a square tile with side 20
+> cm, with two decorative motifs in the shape of a quarter circle of radius 10 cm, centered at opposite vertices of the square. We tile with tiles like this a square surface with side 80 cm so that the arcs connect two by two. What is the length in centimeters of the
+> longest connected curve that can be formed in this way?
+> A) 75 π
+> B) 100 π
+> C) 105 π
+> D) 110 π
+> E) 140 π
+> 4
+> 12
+> 8
+> 13 24 14
+> 7
+> 5 23
+> 10 cm
+> 10 cm
+> Testi_07.qxp  16-04-2007  12:05  Page 20
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 2007 Kang
+> Pag. 
+> Pag. 21
+> 21
+> Kang 2007
+> Kang 2007
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_cadet_marzo#q28|src_kangourou_2007_cadet_marzo__Q28]]
@@ -1175,7 +1258,7 @@ In how many years Billy will be 10 years old
 
 *Numbers of three digits with property on sum of digits*
 
-> A three-digit integer is divided by 9: the sum of the digits of the quotient is less than 9 to the sum of the digits of the starting number. How many three-digit numbers have this property? A) 1 B) 2 C) 4 D) 5 E) 11
+> A three-digit integer is divided by 9: the sum of the digits of the quotient is 9 less than the sum of the digits of the starting number. How many three-digit numbers have this property? A) 1 B) 2 C) 4 D) 5 E) 11
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_cadet_marzo#q29|src_kangourou_2007_cadet_marzo__Q29]]

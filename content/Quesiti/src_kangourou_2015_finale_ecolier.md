@@ -32,7 +32,7 @@ level: kangourou
 
 *how many sums *
 
-> A strange ATM box can only deliver sums of money less than 1000 euros and only with 5, 10, 20 and 50 euro banknotes, all in equal quantities at each withdrawal. How many different amounts of money can be withdrawn from that ATM?
+> A strange ATM can only deliver sums of money less than 1000 euros and only with 5, 10, 20 and 50 euro banknotes, all in equal quantities at each withdrawal. How many different amounts of money can be withdrawn from that ATM?
 
 **Answer:** 11
 [[Quesiti/src_kangourou_2015_finale_ecolier#qe1|src_kangourou_2015_finale_ecolier__QE1]]
@@ -62,9 +62,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*If not adjusted with opposite face sum conditions*
+*Irregular die with conditions on the sum of opposite faces*
 
-> In a regular dice, the sum of the points on two opposite sides is always 7. Amedeus says he has constructed an irregular dice for which all three of the following facts occur: - there are faces with an odd number of points; - the sum of the points on two opposite faces is 7 if one of the two faces has an odd number of points; - the sum of the points on two opposite faces has 8 if one of the two faces has an equal number of points. Anna doesn't believe them. If you think Amedeo is right, point to one of the dice he may have built; if you think it is good for Anna not to believe him, explain why.
+> In a regular die the sum of the pips shown on two opposite faces is always 7. Amedeo says he has built an irregular die for which all three of the following facts hold:
+> - there are faces with an odd number of pips;
+> - the sum of the pips shown on two opposite faces is 7 if on one of the two there is an odd number of pips;
+> - the sum of the pips shown on two opposite faces is 8 if on one of the two faces there is an even number of pips.
+> Anna does not believe him. If you think Amedeo is right, indicate one of the dice he could have built; if you think Anna is right not to believe him, explain why.
 
 **Answer:** ha ragione Anna
 [[Quesiti/src_kangourou_2015_finale_ecolier#qe2|src_kangourou_2015_finale_ecolier__QE2]]
@@ -96,9 +100,9 @@ level: kangourou
 
 ![[src_kangourou_2015_finale_ecolier__probe3.png]]
 
-> Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead" logs. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvers (especially trains may retrograde) and signalling compatible with the station layout are allowed, but not the breaking of trains into groups of carriages. (see figure)
+> Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead-end" tracks. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvers (especially trains may reverse) and signalling compatible with the station layout are allowed, but not the breaking of trains into groups of carriages. (see figure)
 
-**Answer:** max 9 carrozze
+**Answer:** max 9 carriages
 [[Quesiti/src_kangourou_2015_finale_ecolier#qe3|src_kangourou_2015_finale_ecolier__QE3]]
 
 
@@ -126,7 +130,7 @@ level: kangourou
 
 > Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turns and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
 
-**Answer:** secondo (Paolo inizia)
+**Answer:** second (Paolo starts)
 [[Quesiti/src_kangourou_2015_finale_ecolier#qe4|src_kangourou_2015_finale_ecolier__QE4]]
 
 
@@ -152,9 +156,9 @@ level: kangourou
 
 *trials for potatoes*
 
-> Cecilia, who wants some potatoes, is in front of three identical vending machines: one for candy, one for potatoes, one for biscuits. She can't see the inside of any of the three, but she's told that the label on the product, applied to each of the three, is wrong for each of the three. Cecilia observes a gentleman in front of her who, putting a coin in one of the distributors, gets candy. How many tries will you have to make to get the potatoes?
+> Cecilia, who wants some potatoes, is in front of three identical vending machines: one for candy, one for potatoes, one for biscuits. She can't see the inside of any of the three, but she's told that the label on the product, applied to each of the three, is wrong for each of the three. Cecilia observes a gentleman in front of her who, putting a coin in one of the vending machines, gets candy. How many tries will she have to make to get the potatoes?
 
-**Answer:** al primo colpo
+**Answer:** on the first try
 [[Quesiti/src_kangourou_2015_finale_ecolier#qe5|src_kangourou_2015_finale_ecolier__QE5]]
 
 
@@ -179,9 +183,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many times does the last one crack in an hour*
+*how many times does the last one caw in an hour*
 
-> 51 corners are lined up on a suspended electrical cable. And when one of them crawls, its neighbour on the right and its neighbour on the left (or only one of the two, if the crankshaft is at one end of the two) take flight and after a minute they return to their place and crawle in turn. Start scratching the first horn in the line. After exactly one hour of this first crack, how many times will the last crack be?
+> 51 crows are lined up on a suspended electric wire. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, in the case where the crow is at one of the two ends) take flight and after exactly one minute they return to the place where they were and caw in turn. The first crow in the row starts cawing. After exactly one hour from this first caw, how many times will the last crow have cawed?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2015_finale_ecolier#qe6|src_kangourou_2015_finale_ecolier__QE6]]

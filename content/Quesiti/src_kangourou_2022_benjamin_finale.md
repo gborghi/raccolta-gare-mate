@@ -31,9 +31,9 @@ level: kangourou
 
 *Time from A to B swimming with the same energy as the counter current*
 
-> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stephen enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
+> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stefano enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
 
-**Answer:** 2 minuti
+**Answer:** 2 minutes
 [[Quesiti/src_kangourou_2022_benjamin_finale#qb1|src_kangourou_2022_benjamin_finale__QB1]]
 
 
@@ -91,9 +91,9 @@ level: kangourou
 
 The position of the Blue team with all the wrong forecasts
 
-> Claudio tried to guess the complete final standings of an eight-team tournament. Once the tournament was over, he discovered that he had miscalculated the forecast for each of the 8 positions in the rankings: except for the Azzurra team, which he had predicted would come last, to each of the others he assigned a better position than the team later obtained. Where's the Blue team at?
+> Claudio tried to guess the complete final standings of an eight-team tournament. Once the tournament was over, he discovered that he had got the prediction wrong for each of the 8 positions in the rankings: except for the Azzurra team, which he had predicted would come last, to each of the others he assigned a better position than the team later obtained. What position did the Blue team finish in?
 
-**Answer:** primo
+**Answer:** first
 [[Quesiti/src_kangourou_2022_benjamin_finale#qb3|src_kangourou_2022_benjamin_finale__QB3]]
 
 
@@ -120,7 +120,7 @@ The position of the Blue team with all the wrong forecasts
 
 How many cyclists have at least lied if sum and 36
 
-> $10$ cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, of course with a number between $1$ and $10$. The journalist sums up the answers he provides and gets $36$. He concludes that some certainly lied - how many, at least?
+> $10$ cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, of course with a number between $1$ and $10$. The journalist sums up the answers they provide and gets $36$. He concludes that some certainly lied - how many, at least?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2022_benjamin_finale#qb4|src_kangourou_2022_benjamin_finale__QB4]]
@@ -149,7 +149,7 @@ How many cyclists have at least lied if sum and 36
 
 *Number of equilateral triangles joining vertices of a cube*
 
-> Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
+> Of the triangles obtained by joining three vertices of the same cube, how many are equilateral?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2022_benjamin_finale#qb5|src_kangourou_2022_benjamin_finale__QB5]]

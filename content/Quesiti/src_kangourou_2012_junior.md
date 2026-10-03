@@ -36,7 +36,7 @@ level: kangourou
 
 *What shape has the largest area*
 
-> A number (in decimal form) has seven digits. Adding them together, we get 6. What is the product of these figures? A) 0 B) 1 C) 5 D) 6 E) A number different from the previous one
+> A number (in decimal form) has seven digits. Adding them together, we get 6. What is the product of these digits? A) 0 B) 1 C) 5 D) 6 E) A number different from the previous one
 
 [[Quesiti/src_kangourou_2012_junior#q01|src_kangourou_2012_junior__Q01]]
 
@@ -143,11 +143,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the quadrilateral from the median points of the triangle*
+*Area of the quadrilateral from the midpoints of a triangle*
 
-> When Alice wants to send a message to Bruno, she uses the following code, which Bruno knows well. First, transform each letter of the Italian alphabet into a number according to the following scheme: A = 01, B = 02, C = 03, ..., V = 20, Z = 21. So for each letter, double the number and add 9 to the result. The message is thus transformed into a sequence of numbers, separated by a dash, which is sent to Bruno. This morning Bruno received the following sequence: 25  19  29  36. What can be said about the word Alice sent to Bruno? A) The word is HELO B) The word is HELP C) The word is HERO D) It's a four-letter word different from the previous three E) The word doesn't exist because Alice made a mistake
+> When Alice wants to send a message to Bruno, she uses the following code,
+> which Bruno knows well. First, she transforms each letter of the Italian alphabet into a number according to the following scheme: A = 01, B = 02, C = 03,
+> …, V = 20, Z = 21. Then, for each letter, she doubles the number and adds 9
+> to the result. The message is thus transformed into a sequence of numbers,
+> separated by a hyphen, which is sent to Bruno. This morning Bruno has
+> received the following sequence: 25 – 19 – 29 – 36. What can be said about the
+> word sent by Alice to Bruno?
+> A) The word is HELO          B) The word is HELP             C) The word is HERO
+> D) It is a 4-letter word different from the previous three
+> E) The word does not exist, because Alice made a mistake
 > 
-> I'm going to pay. I'm going to pay. This is a list of the countries of the European Union.
+> Pag. 
+> Pag. 23
+> 23
+> Kang 2012
+> Kang 2012
 
 [[Quesiti/src_kangourou_2012_junior#q04|src_kangourou_2012_junior__Q04]]
 
@@ -384,7 +397,7 @@ level: kangourou
 
 *Perimeter of the KLM triangle of the midpoints*
 
-> ABC is a rectangular triangle whose catheters are 6 and 8 cm long. The points K, L, and M are the midpoints of its sides. How many centimeters is the perimeter of the KLM triangle? A) 10 B) 12 C) 15 D) 20 E) 24
+> ABC is a right triangle whose legs are 6 and 8 cm long. The points K, L, and M are the midpoints of its sides. How many centimeters is the perimeter of the KLM triangle? A) 10 B) 12 C) 15 D) 20 E) 24
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_junior#q08|src_kangourou_2012_junior__Q08]]
@@ -454,7 +467,7 @@ level: kangourou
 
 *Value of n which is 11 for 144 and 220 *
 
-> If you divide the numbers 144 and 220 by the same positive integer n, in both cases you get 11 remaining. How much is n ? A) 7 B) 11 C) 15 D) 19 E) 38 Questions from N. 11 al N. 20 is worth 4 points each.
+> If you divide the numbers 144 and 220 by the same positive integer n, in both cases you get remainder 11. What is n ? A) 7 B) 11 C) 15 D) 19 E) 38 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_junior#q10|src_kangourou_2012_junior__Q10]]
@@ -552,9 +565,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of arrival in the race*
+*Order of arrival in the running race*
 
-> Ada, Bice and Carla are challenging each other in a race. Before the start, four of their friends made the following predictions, one for each. If Bice comes second, Carla wins; If Bice comes third, Ada won't win; If Bice comes second or Carla wins. At the end of the race, all the predictions came true. What's the arrival order? A) Ada, Bice, Carla B) Ada, Carla, Bice C) Carla, Bice, Ada D) Bice, Carla, Ada E) Bice, Ada, Carla
+> Ada, Bice and Carla compete in a running race. Before the start, four of their friends made, one each, the following predictions.
+> "Ada or Bice will win"; "If Bice arrives second, Carla will win"; "If Bice arrives third, Ada will not win"; "Bice or Carla will arrive second". At the end of the
+> race all the predictions came true. What is the order of arrival?
+> A) Ada, Bice, Carla
+> B) Ada, Carla, Bice
+> C) Carla, Bice, Ada
+> D) Bice, Carla, Ada
+> E) Bice, Ada, Carla
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_junior#q12|src_kangourou_2012_junior__Q12]]
@@ -588,7 +608,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many centimetres and height of the table*
+*How many centimetres is the table tall*
 
 > There's a table in Andrea and Michele's room. If Andrea stands on the table and Michele stands on the floor, it's as if Andrea is 80 cm taller than Michele. If you change positions, it's as if Michele is 90 cm taller than Andrea. How tall is the table? A) 10 B) 75 C) 80 D) 85 E) 90
 
@@ -625,9 +645,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times did you cross it?
+*How many times did it come up tails*
 
-> Daniel and Mary are playing their candy by throwing a coin. If he comes head, Daniel must give Mary 2 candy; if he comes cross, Mary must give Daniel 3 candy. After 30 coin tosses, they both have the same number of candies they had when they started playing. How many times has the cross come? A) 6 B) 12 C) 18 D) 24 E) 30
+> Daniele and Maria gamble their candies by tossing a coin. If it comes up
+> heads, Daniele must give Maria 2 candies; if it comes up tails, Maria must give
+> Daniele 3 candies. After 30 tosses of the coin, both have the same
+> number of candies they had when they started playing. How many
+> times did it come up tails?
+> A) 6
+> B) 12
+> C) 18
+> D) 24
+> E) 30
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_junior#q14|src_kangourou_2012_junior__Q14]]
@@ -705,7 +734,7 @@ How many times did you cross it?
 
 *What is the exact time between the four clocks*
 
-> Roberta left for the holidays and lent her house to a friend. She warned her that there were four clocks in the house and that the time indicated was wrong for a clock of 2 minutes, another of 3 minutes, another of 4 minutes and the last of 5 minutes. Roberta, however, forgot to tell her friend which clock and to which direction to attribute each single error. When the friend enters the house, the first clock he sees indicates three minus six minutes, the second three minus three minutes, the third three and two minutes, and the last three and three minutes. What's the exact time? A) 3:00 B) 2:57 C) 2:58 D) 2:59 E) 3:01
+> Roberta left for the holidays and lent her house to a friend. She warned her that there were four clocks in the house and that the time indicated was wrong for a clock of 2 minutes, another of 3 minutes, another of 4 minutes and the last of 5 minutes. Roberta, however, forgot to tell her friend which clock and to which direction to attribute each single error. When the friend enters the house, the first clock she sees indicates three minus six minutes, the second three minus three minutes, the third three and two minutes, and the last three and three minutes. What's the exact time? A) 3:00 B) 2:57 C) 2:58 D) 2:59 E) 3:01
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_junior#q16|src_kangourou_2012_junior__Q16]]
@@ -766,7 +795,7 @@ How many times did you cross it?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Semi-circ-conference radius inscribed in the triangle*
+*Radius of the semicircle inscribed in the triangle*
 
 ![[src_kangourou_2012_junior__prob17.png]]
 
@@ -788,9 +817,9 @@ How many times did you cross it?
 \end{document}
 ```
 
-> The sides of the rectangular triangle you see in the figure are 5, 12, and 13 centimeters. How many centimeters does the radius of the inscribed semicircle measure? A) 7/3 B) 10/3 C) 12/3 D) 13/3 E) 17/3 6 cm 12 13 5
+> The sides of the right triangle you see in the figure are 5, 12, and 13 centimeters. How many centimeters does the radius of the inscribed semicircle measure? A) 7/3 B) 10/3 C) 12/3 D) 13/3 E) 17/3 6 cm 12 13 5
 > 
-> I'm going to pay. I'm going to pay. 25 25 Kang 2012
+> Pag. 25 Kang 2012
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_junior#q17|src_kangourou_2012_junior__Q17]]
@@ -871,7 +900,7 @@ How many times did you cross it?
 
 ![[src_kangourou_2012_junior__prob19.png]]
 
-> The region you see in the figure is obtained by approximating a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
+> The region you see in the figure is obtained by placing side by side a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_junior#q19|src_kangourou_2012_junior__Q19]]
@@ -906,7 +935,7 @@ How many times did you cross it?
 
 *Last digit other than 0 of the number 2^59 3^4 5^53*
 
-> What is the last digit other than 0 of the number 259 × 34 × 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 al N. 30 is worth 5 points each.
+> What is the last digit other than 0 of the number 259 × 34 × 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_junior#q20|src_kangourou_2012_junior__Q20]]
@@ -940,7 +969,7 @@ How many times did you cross it?
 
 *Value of k if 2012 = m^m (m^k - k) *
 
-> Anna found that, for an appropriate choice of positive integers m and k, we have 2012 = mm × (mk  k). How much is k? A) 2 B) 3 C) 4 D) 9 E) 11
+> Anna found that, for an appropriate choice of positive integers m and k, we have 2012 = m^m × (m^k – k). How much is k? A) 2 B) 3 C) 4 D) 9 E) 11
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_junior#q21|src_kangourou_2012_junior__Q21]]
@@ -1046,13 +1075,50 @@ How many times did you cross it?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the pentagon ABNMD after the bend*
+*Area of pentagon ABNMD’ after folding*
 
 ![[src_kangourou_2012_junior__prob23.png]]
 
-> Look at the figure. An ABCD rectangle of 4 cm × 16 cm shall be folded over itself along a MN straight line so that the C-top overlaps with the A-top. What is the area of the ABNMD pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57 2 4 2 3 3 6 1 A B C D M N D′ D N B A N M D C D C
+> Observe the figure. A rectangular sheet of paper
+> ABCD with dimensions 4 cm × 16 cm is folded
+> onto itself along a line MN in such a way
+> that vertex C comes to overlap vertex
+> A. What is the area in square centimeters of pentagon ABNMD'?           
+> A) 17
+> B) 27
+> C) 37
+> D) 47
+> E) 57
+> 2
+> 4
+> 2
+> 3
+> 3
+> 6
+> 1
+> A
+> B
+> C
+> D
+> M
+> N
+> D′
+> D
+> N
+> B
+> A
+> N
+> M
+> D
+> C
+> D
+> C
 > 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2012 Kang 2012
+> Pag. 
+> Pag. 26
+> 26
+> Kang 2012
+> Kang 2012
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_junior#q23|src_kangourou_2012_junior__Q23]]
@@ -1087,7 +1153,7 @@ How many times did you cross it?
 
 What is said about the lengths of the two trains?
 
-> Two G and H trains travel each at a constant speed. G takes 8 seconds to pass under a runway; shortly thereafter it meets H and the two trains are at least partially side by side for 9 seconds; finally H takes 12 seconds to pass under the same runway. What can be said about the length of the two trains? (A) G is twice the length of H (B) G and H are the same length C) H is one and a half times long G D) H is twice the length of G E) Information is insufficient to answer
+> Two G and H trains travel each at a constant speed. G takes 8 seconds to pass under a footbridge; shortly thereafter it meets H and the two trains are at least partially side by side for 9 seconds; finally H takes 12 seconds to pass under the same footbridge. What can be said about the length of the two trains? A) G is twice the length of H B) G and H are the same length C) H is one and a half times the length of G D) H is twice the length of G E) Information is insufficient to answer
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_junior#q24|src_kangourou_2012_junior__Q24]]
@@ -1161,7 +1227,7 @@ What is said about the lengths of the two trains?
 
 *What to conclude on a and b from conditions*
 
-> For two real numbers a and b we ask that both conditions a3 < b3 and a5 > b6 be verified. So we can conclude that A) a > 1 and b > 1. B) a > 1  e  0 < b < 1. C) 0 < a < 1  e  b > 1. D) 0 < a < 1  e  0 < b < 1. (e) the two requests are incompatible.
+> For two real numbers a and b we ask that both conditions a3 < b3 and a5 > b6 be verified. So we can conclude that A) a > 1 and b > 1. B) a > 1  and  0 < b < 1. C) 0 < a < 1  and  b > 1. D) 0 < a < 1  and  0 < b < 1. E) the two requests are incompatible.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_junior#q26|src_kangourou_2012_junior__Q26]]
@@ -1192,9 +1258,9 @@ What is said about the lengths of the two trains?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Littleest value of a maximum of six integers*
+*Smallest value of the maximum among six integers*
 
-> Six positive integers are assigned, all different from each other; for one and only one pair of these integers it happens that the minor is not a divisor of the major. What's the smallest possible value for the largest of these six integers? A) 18 B) 20 C) 36 D) 45 E) A number different from the previous one
+> Six distinct positive integers are given; for one and only one pair of these integers it happens that the smaller is not a divisor of the larger. What's the smallest possible value for the largest of these six integers? A) 18 B) 20 C) 36 D) 45 E) A number different from the previous one
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_junior#q27|src_kangourou_2012_junior__Q27]]
@@ -1264,7 +1330,7 @@ What is said about the lengths of the two trains?
 
 *Minimum number of unit fractions for 28/33*
 
-> What is the smallest number of additions of type 1/n, with positive integer n, such that the number 28/33 can be expressed as the sum of those additions? A) 2 B) 3 C) 4 D) 5 E) 285
+> What is the smallest number of addends of type 1/n, with positive integer n, such that the number 28/33 can be expressed as the sum of those addends? A) 2 B) 3 C) 4 D) 5 E) 285
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_junior#q29|src_kangourou_2012_junior__Q29]]
@@ -1314,9 +1380,25 @@ What is said about the lengths of the two trains?
 
 ![[src_kangourou_2012_junior__prob30.png]]
 
-> An equilateral triangle rotates around a square on side 1 starting from the position indicated by the figure and as shown in it. How long is the path taken from the top of the triangle that is marked in bold, when both the triangle and the point are first found in the initial position? A) 4π B) 28π/3 C) 8π D) 14π/3 E) 3π C Home S School B G Bible Games
+> An equilateral triangle rotates around a square with side 1 starting
+> from the position shown in the figure
+> and as shown in it. How
+> long is the path traveled by the vertex of the triangle that is marked in
+> bold, when both the triangle and
+> the point find themselves for the first time in the initial position?
+> A) 4π
+> B) 28π/3              C) 8π
+> D)14π/3                E)3π
+> C
+> Casa
+> S
+> Scuola
+> B
+> G
+> Biblio
+> Giochi
 > 
-> I'm not going to lie.
+> JUNIOR 2012 ANSWERS
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_junior#q30|src_kangourou_2012_junior__Q30]]

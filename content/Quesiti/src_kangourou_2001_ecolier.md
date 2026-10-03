@@ -84,7 +84,7 @@ level: kangourou
 
 *Sticks after breaking one *
 
-> Stephen has seven sticks of varying lengths. Break one in half. How many sticks does Stefano have now?
+> Stephen has seven sticks of varying lengths. He breaks one in half. How many sticks does Stephen have now?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -184,7 +184,7 @@ level: kangourou
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 7
-> - **(E)** 8 Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 3
+> - **(E)** 8 Kangourou 15 March 2001, category Ecolier. Page N. 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_ecolier#q04|src_kangourou_2001_ecolier__Q04]]
@@ -265,7 +265,7 @@ level: kangourou
 
 *Correct equality between operations*
 
-> Only one of the following equations is correct. What kind?
+> Only one of the following equations is correct. Which one?
 >
 > - **(A)** 12 : (4 + 8) = 11
 > - **(B)** 8 ⋅ 2 + 3 = 40
@@ -351,7 +351,7 @@ level: kangourou
 
 ![[src_kangourou_2001_ecolier__prob8.png]]
 
-> The drawing below represents the map of the neighborhood where Peter lives. Each block is a square whose sides measure 100 meters. What is the minimum distance that Peter must travel to school (if the width of the streets is considered negligible)? (A) 100 m. (B) 200 m. (C) 350 m. (D) 450 m. (E) 500 m. The questions from N. 9 al N. 16 is worth 4 points each.
+> The drawing below represents the map of the neighborhood where Peter lives. Each block is a square whose sides measure 100 meters. What is the minimum distance that Peter must travel to school (if the width of the streets is considered negligible)? (A) 100 m. (B) 200 m. (C) 350 m. (D) 450 m. (E) 500 m. The questions from N. 9 to N. 16 is worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_ecolier#q08|src_kangourou_2001_ecolier__Q08]]
@@ -392,7 +392,7 @@ Roberta's age when Cristina has the double
 > - **(B)** 2 years
 > - **(C)** 3 years
 > - **(D)** 4 years
-> - **(E)** Ten years. Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 4
+> - **(E)** 10 years. Kangourou 15 March 2001, category Ecolier. Page N. 4
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_ecolier#q09|src_kangourou_2001_ecolier__Q09]]
@@ -432,7 +432,7 @@ Roberta's age when Cristina has the double
 
 ![[src_kangourou_2001_ecolier__prob10.png]]
 
-> Marguerite put a big ribbon in her hair, just to the right. Now he's in front of a mirror. How many of the images presented below can you see in the mirror?
+> Marguerite put a big ribbon in her hair, just to the right. Now she's in front of a mirror. How many of the images presented below can she see in the mirror?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -474,9 +474,9 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most kangaroos with distinct candies*
+*Maximum kangaroo with distinct candies*
 
-> 20 candies are distributed among some kangaroos so that each kangaroo receives at least one candy and never two kangaroos have the same number of candies. How many kangaroos are at most present at the candy distribution?
+> 20 candies are distributed among some kangaroos so that each kangaroo receives at least one candy and never two kangaroos have the same number of candies. At most how many kangaroos are present at the candy distribution?
 >
 > - **(A)** 20
 > - **(B)** 10
@@ -607,10 +607,10 @@ How many more stamps does Arthur have?
 
 > Adam and Arthur collect stamps. At some point they have the same number of stamps. Then Adam gives Arthur half his collection for his birthday. At this point, Arthur has more stamps than Adam. Exactly, how much more?
 >
-> - **(A)** The double
-> - **(B)** the triple
-> - **(C)** the quadruple
-> - **(D)** the fifth
+> - **(A)** Twice
+> - **(B)** Three times
+> - **(C)** Four times
+> - **(D)** Five times
 > - **(E)** It depends on the number of stamps each holds.
 
 **Answer:** B
@@ -689,7 +689,7 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum firefighters for 11 squares*
+*Minimum matches for 11 squares*
 
 ![[src_kangourou_2001_ecolier__prob16.png]]
 
@@ -699,7 +699,7 @@ How many more stamps does Arthur have?
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** 6. The questions from N. 17 al N. Twenty-four is worth five points each.
+> - **(E)** 6. Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_ecolier#q16|src_kangourou_2001_ecolier__Q16]]
@@ -735,9 +735,9 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Caramel in the trash with the largest number *
+*Candies in the basket with the largest number *
 
-> I have three baskets, each containing 11 candies. I take a candy from each basket in the following order: left basket, center basket, right basket, center basket, left basket, center basket, right basket, center basket, and so on. When the central trash is empty, how many candy are left in the trash that contains the most?
+> I have three baskets, each containing 11 candies. I take a candy from each basket in the following order: left basket, center basket, right basket, center basket, left basket, center basket, right basket, center basket, and so on. When the central basket is empty, how many candies are left in the basket that contains the most?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -781,11 +781,15 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shoes remaining after the mile*
+*Pairs of shoes left after the centipedes*
 
 ![[src_kangourou_2001_ecolier__prob18.png]]
 
-> In the pet shoe supermarket, there are 12 pairs of shoes on each of the 10 shelves. The first customers at the store were 5,000 square feet. Three of them bought 30 pairs of shoes each; the other two only bought 5 pairs each. How many pairs of shoes are left on the shelves after the 5,000-foot visit?
+> In the animal shoe supermarket there are 12 pairs of
+> shoes on each of the 10 shelves. The first customers of the shop were
+> 5 centipedes. Three of them bought 30 pairs of shoes
+> each; the other two only 5 pairs each. How many pairs of shoes
+> remained on the shelves after the visit of the 5 centipedes?
 >
 > - **(A)** 10
 > - **(B)** 15
@@ -839,7 +843,7 @@ How many more stamps does Arthur have?
 > - **(B)** 18
 > - **(C)** 20
 > - **(D)** 21
-> - **(E)** 22. Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 6
+> - **(E)** 22. Kangourou 15 March 2001, category Ecolier. Page N. 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_ecolier#q19|src_kangourou_2001_ecolier__Q19]]
@@ -874,7 +878,7 @@ How many more stamps does Arthur have?
 
 *Three-digit numbers with a sum of 4*
 
-> How many three-digit numbers are significant whose sum is equal to four?
+> How many three-digit numbers whose digits sum to four?
 >
 > - **(A)** 10
 > - **(B)** 9
@@ -916,11 +920,11 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the canvas of Elsa*
+*Perimeter of Elsa's beach towel*
 
 ![[src_kangourou_2001_ecolier__prob21.png]]
 
-> Five friends spread their beachcloths out to form a large square (see figure next to it). Anna and Betty have their square-shaped fabrics of equal size, each with a perimeter of 720 cm. Carla, Debora, and Elsa have rectangular-shaped fabrics, which are also the same size. What's the perimeter of Elsa's canvas? (A) 600 cm (B) 560 cm (C) 440 cm (D) 360 cm (E) 300 cm.
+> Five friends spread their beach towels out to form a large square (see figure next to it). Anna and Betty have their square-shaped fabrics of equal size, each with a perimeter of 720 cm. Carla, Debora, and Elsa have rectangular-shaped fabrics, which are also the same size. What's the perimeter of Elsa's beach towel? (A) 600 cm (B) 560 cm (C) 440 cm (D) 360 cm (E) 300 cm.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_ecolier#q21|src_kangourou_2001_ecolier__Q21]]
@@ -958,7 +962,7 @@ How many more stamps does Arthur have?
 
 *When all the candles are off*
 
-> Zita has four candles. Each candle can stay lit for three hours before it goes out. Light two of the candles. After 30 minutes, a blast of wind turns off one, and an hour later, another blast of wind turns off the other. Zita then decides to light all four candles. How long after all the candles are off, if no wind blows?
+> Zita has four candles. Each candle can stay lit for three hours before it goes out. She lights two of the candles. After 30 minutes, a gust of wind blows out one, and an hour later, another gust of wind blows out the other. Zita then decides to light all four candles. How long after all the candles are off, if no wind blows?
 >
 > - **(A)** An hour and a half.
 > - **(B)** Two hours
@@ -998,9 +1002,11 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the loan.
+*Carlo's dollars*
 
-> Alexander has the same amount of money as Billy and Carlo. Billy has $10 more than Carlo. All in all, the three boys have $40. How many dollars does Carlo have?
+> Alessandro has the same amount of money as Billy and Carlo have together. Billy
+> has 10 dollars more than Carlo. In total the three boys have 40 dollars.
+> How many dollars does Carlo have?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -1063,7 +1069,7 @@ This is the total amount of the loan.
 > - **(B)** 4
 > - **(C)** 3
 > - **(D)** 1
-> - **(E)** none of the previous scores. Answers Ecolier category, 15 March 2001. Page No. 1 Answers Ecolier Category Competition of 15 March 2001
+> - **(E)** none of the previous scores.
 
 **Answer:** E
 

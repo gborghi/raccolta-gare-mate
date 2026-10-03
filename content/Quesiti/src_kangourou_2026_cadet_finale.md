@@ -120,7 +120,7 @@ level: kangourou
 
 > A rectangle $R$ is given. Externally to $R$, on each side a square is constructed. What can be said about the polygon whose vertices are the centers of the four squares?
 
-**Answer:** è un quadrato
+**Answer:** it is a square
 
 [[Quesiti/src_kangourou_2026_cadet_finale#qc4|src_kangourou_2026_cadet_finale__QC4]]
 
@@ -149,7 +149,7 @@ level: kangourou
 
 > Consider the integers from 1 to 2026 inclusive. You want to remove one so that the average of the remaining ones is an integer. List the numbers you can choose.
 
-**Answer:** 1 o 2026
+**Answer:** 1 or 2026
 
 [[Quesiti/src_kangourou_2026_cadet_finale#qc5|src_kangourou_2026_cadet_finale__QC5]]
 

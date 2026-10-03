@@ -85,7 +85,7 @@ level: kangourou
 \end{document}
 ```
 
-> (2 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is three times Bice's. Right now Ada is on top A while Bice is on top B. How many of the following statements are correct? Ada and Bice will never be together at summit B. Ada and Bice will never be together at C Summit. Ada and Bice will never be together at summit D. - Sometimes Ada and Bice will be together at summit A. Ada and Bice can't be together except at one of the summits. (A) 0 (none)
+> (2 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever changing direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is three times Bice's. Right now Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. A) 0 (none)
 >  
 > B) 1
 >  
@@ -181,7 +181,7 @@ level: kangourou
 
 *Four-digit number with the last digit shifted to the head, sum*
 
-> (3 points) Simona writes an integer of four digits, then raises her last digit and moves it head to the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
+> (3 points) Simona writes an integer of four digits, then removes its last digit and moves it to the head of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
 >  
 > B) 1
 >  
@@ -230,7 +230,7 @@ level: kangourou
 
 ![[src_kangourou_2022_student_semifinale__prob4.png]]
 
-> (4 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The area of the region in black is 20 4  π). With a configuration like this, what is the maximum value of the area of each of the two rectangles when the two rays vary? A) 40 B) 40√2
+> (4 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The area of the region in black is 20(4 – π). With a configuration like this, what is the maximum value of the area of each of the two rectangles as the two radii vary? A) 40 B) 40√2
 >  
 > C) 20 D) 40 / π E) None of the proposed numbers.
 
@@ -297,7 +297,7 @@ level: kangourou
 \end{document}
 ```
 
-> (4 points) The figure shows four radii 1 circumferences with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the black striped arches? A) 3π
+> (4 points) The figure shows four circles of radius 1 with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the thickened black arcs? A) 3π
 >  
 > B) 3π/2 C) 8π/3
 >  
@@ -379,7 +379,7 @@ level: kangourou
 
 Find n *
 
-> (5 points) Anna and Ernesto play as follows. On the table there are n cards numbered from 1 to n. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. You know the odds of Anna winning are 74%. How much is n? A) 8
+> (5 points) Anna and Ernesto play as follows. On the table there are n cards numbered from 1 to n. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. It is known that the probability that Anna wins is 74%. How much is n? A) 8
 >  
 > (B) 12 C) 20 D) 25 E) None of the above.
 
@@ -426,11 +426,11 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for how many times a1 is constant*
+* for how many a1 is constant*
 
-> (5 points) A sequence {a1, a2, a3, ...} of real numbers is defined inductively as follows: an+1 = an2 an2−2022 an+1 for n = 1, 2, ... . For how many values of a1 is succession constant?
+> (5 points) A sequence {a1, a2, a3, ...} of real numbers is defined inductively as follows: an+1 = an2 an2−2022 an+1 for n = 1, 2, ... . For how many values of a1 is the sequence constant?
 >  
-> (A) Infinite
+> A) Infinite
 >  
 > B) 4
 >  
@@ -571,7 +571,7 @@ Find n *
 \end{document}
 ```
 
-> (4 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
+> (4 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2022_student_semifinale#q10|src_kangourou_2022_student_semifinale__Q10]]
@@ -604,7 +604,7 @@ Find n *
 
 *minimum steps from 1 to 2022*
 
-> (5 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the road results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
+> (5 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2022_student_semifinale#q11|src_kangourou_2022_student_semifinale__Q11]]
@@ -635,9 +635,13 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equal board within*
+*edge equal to interior*
 
-> (5 points) Let's call a rectangle of full size m × n fair if the following happens: when it is divided into m squares on the unit side, the squares along the edge are as many as the remaining ones (i.e. those that are tightly inside). How many, if any, are equal rectangles? (A rectangle m × n shall be considered to be identical to the rectangle n × m; if you believe that there are infinitely many equal rectangles, answer 9999.)
+> (5 points) We call a rectangle with integer dimensions m × n fair if the following happens:
+> when it is divided into mn unit squares, the squares that lie along the edge are as many
+> as the remaining ones (that is, those that lie strictly inside). How many fair
+> rectangles are there, if any exist? (An m × n rectangle is to be considered identical to the n × m rectangle; if you believe that there
+> are infinitely many fair rectangles, answer 9999.)
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2022_student_semifinale#q12|src_kangourou_2022_student_semifinale__Q12]]
@@ -665,9 +669,9 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with x2+y and x+y2 both squared*
+*Couples (x,y) with x²+y and x+y² both squared*
 
-> (6 points) For how many pairs (x, y) of positive integers does it happen that both integers x2 + y and x + y2 are perfect squares? (Write 9999 if you think there are infinite pairs.)
+> (6 points) For how many pairs (x, y) of positive integers does it happen that both integers x² + y and x + y² are perfect squares? (Write 9999 if you think there are infinite pairs.)
 
 **Answer:** 0
 [[Quesiti/src_kangourou_2022_student_semifinale#q13|src_kangourou_2022_student_semifinale__Q13]]
@@ -700,11 +704,15 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last decimal point not less than 1/5^2022*
+*Last non-zero decimal digit of 1/5^2022*
 
-> (6 points) What is the last decimal digit other than 0 in number 1 52022 ?
+> (6 points) What is the last decimal digit different from 0 of the number 
+> 1
+> 52022 ?  
 >  
-> A B C
+> A 
+> B 
+> C
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2022_student_semifinale#q14|src_kangourou_2022_student_semifinale__Q14]]
@@ -738,13 +746,16 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
+*sum S(T)*
 
-> (6 points) For an ordered set of integers T = {a, b, c} put S(T) = a + b + c. By variation of all the ordered sets of integers T = {a, b, c} such that
->  
-> a4 + b4 = 28 + 2bc e 2ab = 7 + c4,
->  
-> What is the sum of all the numbers S(T?
+> (6 points) For an ordered triple of integers T = {a, b, c} let S(T) = a + b + c. As all
+> ordered triples of integers T = {a, b, c} vary such that
+>
+> a4 + b4 = 28 + 2bc
+> and
+>  2ab = 7 + c4,
+>
+> what is the sum of all the numbers S(T)?
 
 **Answer:** 0
 [[Quesiti/src_kangourou_2022_student_semifinale#q15|src_kangourou_2022_student_semifinale__Q15]]
@@ -773,9 +784,11 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of subscribers to the programme.
+*Numbers ABCDABCDABCD divisible by 2022*
 
-> (7 points) Any positive integer of 4 digits in decimal notation has the form ABCD, where the digits indicated by the letters may not be distinct and the digit A is different from 0. How many 12-digit integer numbers in the ABCDABCDABCD form are divisible by 2022?
+> (7 points) Every positive integer of 4 digits in decimal notation has the form ABCD, where
+> the digits indicated by the letters may not be distinct and the digit A is different from 0. How many
+> 12-digit integers of the form ABCDABCDABCD are divisible by 2022?
 
 **Answer:** 13
 [[Quesiti/src_kangourou_2022_student_semifinale#q16|src_kangourou_2022_student_semifinale__Q16]]
@@ -805,9 +818,12 @@ This is the total number of subscribers to the programme.
 <div class="qlang-split" data-lang="en"></div>
 
 
-I'm not going to say anything about it.
+*min sum |coeff|*
 
-> (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + √2 + √3 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
+> (7 points) Denote by P the set of polynomials with integer coefficients that have among their roots
+> the number 1 + √2 + √3 and such that their degree is as low as possible. For a polynomial P, denote
+> by s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P)
+> as P varies in P?
 
 **Answer:** 33
 [[Quesiti/src_kangourou_2022_student_semifinale#q17|src_kangourou_2022_student_semifinale__Q17]]
@@ -848,7 +864,7 @@ I'm not going to say anything about it.
 
 *how many *
 
-> (8 points) Let's say a positive integer n is perfect if it matches the square of the number of its divisors (positive integers, 1 and n included): for example, 4, which has three divisors, is not perfect. How many are perfect numbers?
+> (8 points) Let's say a positive integer n is perfectone if it equals the square of the number of its divisors (positive integers, 1 and n included): for example, 4, which has three divisors, is not perfectone. How many perfectone numbers are there?
 >  
 > 15 9 2 0 4 0 13 33 2
 

@@ -30,7 +30,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*product and sum with the same combined figure; possible figures*
+*product and sum with the same units digit; possible figures*
 
 > Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
 
@@ -90,9 +90,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*days of bridge added to holidays*
+*bridge days added to holidays*
 
-> In the strange Kang Republic, the year is divided into the same months as ours, with the same length, but the holidays are those whose number is divisible by $6$ or it is a prime number: the others are working days. If the holidays were to be added to each day of the week, i.e. a working day preceding and followed by a holiday, how many more holidays would there be in each year? (Remember that $1$ is not a prime number.)
+> In the strange republic of Kang the year is divided into the same months as ours, with the same length, but the holidays are those whose number is divisible by $6$ or is a prime number: the others are working days. If every "bridge" day were also added to the holidays, that is, a working day preceded and followed by a holiday, how many more holidays would there be in each year? (Remember that $1$ is not a prime number.)
 
 **Answer:** 23 o 24
 [[Quesiti/src_kangourou_2016_finale_benjamin#qb3|src_kangourou_2016_finale_benjamin__QB3]]
@@ -122,13 +122,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* is suitable for which? *
+*Which one is better?*
 
 > To be promoted, a Fox student must take a closed-answer test, answering all questions correctly. You can choose between two envelopes: - envelope A containing $5$ questions, each with $2$ answers, - envelope B containing $2$ questions, each with $6$ answers.
 > 
 > Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
-**Answer:** busta A
+**Answer:** envelope A
 [[Quesiti/src_kangourou_2016_finale_benjamin#qb4|src_kangourou_2016_finale_benjamin__QB4]]
 
 
@@ -155,7 +155,7 @@ level: kangourou
 
 * 2016m network circular park, plant every 8m, same type every 64m*
 
-> A circular park is surrounded by a network of $2016$ meters. Each $8$ meter of network has a plant and each $64$ meter the plants are of the same type. How many different types of plants can be on the network at most?
+> A circular park is surrounded by a fence of $2016$ meters. Each $8$ meters of fence has a plant and each $64$ meters the plants are of the same type. How many different types of plants can be along the fence at most?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2016_finale_benjamin#qb5|src_kangourou_2016_finale_benjamin__QB5]]
@@ -183,7 +183,7 @@ level: kangourou
 
 * frozen 2 kang with 2 euro *
 
-> The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
+> The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 
-**Answer:** si, 40
+**Answer:** yes, 40
 [[Quesiti/src_kangourou_2016_finale_benjamin#qb6|src_kangourou_2016_finale_benjamin__QB6]]

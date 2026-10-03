@@ -33,9 +33,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure has the greyest white area*
+*Which figure has the white area larger than the gray one*
 
-> A clock is 25 minutes behind and it's 7:40 a.m. What time does a clock that is 15 minutes ahead of you mark at the same time? A) 7:00 B) 7:15 C) 7:25 D) 7:55 E) 8:20
+> A clock is 25 minutes behind and shows 7:40. What time does a clock that is 15 minutes ahead show at the same moment?
+> A) 7:00
+> B) 7:15
+> C) 7:25
+> D) 7:55
+> E) 8:20
 
 [[Quesiti/src_kangourou_2012_benjamin#q01|src_kangourou_2012_benjamin__Q01]]
 
@@ -164,7 +169,7 @@ level: kangourou
 
 *Eta of chicks born on 24 February observed in March*
 
-> When in Milan it's five o'clock in the afternoon, in San Francisco it's eight o'clock in the morning the same day. When I'm in San Francisco at 9pm on a Sunday, what time is it in Milan? (a) 6 a.m. on Sundays (b) 6 p.m. on Sundays (c) noon on Sundays (d) midnight between Sunday and Monday (e) 6 a.m. on Monday
+> When in Milan it's five o'clock in the afternoon, in San Francisco it's eight o'clock in the morning the same day. When in San Francisco it's 9pm on a Sunday, what time is it in Milan? (a) 6 a.m. on Sundays (b) 6 p.m. on Sundays (c) noon on Sundays (d) midnight between Sunday and Monday (e) 6 a.m. on Monday
 
 [[Quesiti/src_kangourou_2012_benjamin#q05|src_kangourou_2012_benjamin__Q05]]
 
@@ -207,11 +212,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which scheme connecting the centres of the nearby hexagons*
+*Which pattern by joining the centres of neighbouring hexagons*
 
-> To the number 6, you add 3, then multiply the result by 2, and then you add 1. The number you get is the result of one of the following expressions. What kind? A) (6 + 3 × 2) + 1                  B) 6 + 3 × 2 + 1                   C) (6 + 3) × (2 + 1) D) (6 + 3) × 2 + 1                  E) 6 + 3 × (2 + 1) 6 m 3 m ? k a n g a r o o
+> To the number 6 add 3, then multiply the result by 2 and finally add 1. The number you get is the result of one of the following expressions. Which one?
+> A) (6 + 3 × 2) + 1                  B) 6 + 3 × 2 + 1                   C) (6 + 3) × (2 + 1)
+> D) (6 + 3) × 2 + 1                  E) 6 + 3 × (2 + 1)
+> 6 m
+> 3 m
+> ?
+> k
+> a
+> n
+> g
+> a
+> r
+> o
+> o
 > 
-> I'm going to pay. I'm going to pay. I'm not sure what I'm saying.
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2012
+> Kang 2012
 
 [[Quesiti/src_kangourou_2012_benjamin#q06|src_kangourou_2012_benjamin__Q06]]
 
@@ -288,7 +310,7 @@ level: kangourou
 
 ![[src_kangourou_2012_benjamin__prob8.png]]
 
-> Look at the figure. Starting from the position indicated for both currencies, the upper currency spins without slipping around the lower currency until it is in the new position indicated. What is the configuration of the two kangaroos? A) B) C) D) E) Depends on the speed of rotation
+> Look at the figure. Starting from the position indicated for both coins, the upper coin spins without slipping around the lower coin until it is in the new position indicated. What is the configuration of the two kangaroos? A) B) C) D) E) Depends on the speed of rotation
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_benjamin#q08|src_kangourou_2012_benjamin__Q08]]
@@ -322,7 +344,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much weight does the basket of the ball weigh*
+*How many kilos does the basket of the balloon weigh*
 
 > A balloon can lift a basket if it contains material weighing no more than 80 kilograms. Two balloons attached to the same basket can lift it if it contains material weighing no more than 180 kilograms. How many kilos does the basket weigh? A) 10 B) 20 C) 30 D) 40 E) 50
 
@@ -358,9 +380,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the basket given load-bearing balls*
+*Weight of the basket given balloons that lift loads*
 
-> Viviana and Cinzia went to visit her grandmother and gave her a gift of some apples and pears, for a total of 25 fruits. On the way home, Viviana ate one apple and three pears, while Cinzia ate three apples and two pears. When you get home, they find out they have as many apples as pears. How many pears did Grandma give them? A) 12 B) 13 C) 16 D) 20 E) 21 Questions from N. 11 al N. 20 is worth 4 points each.
+> Viviana and Cinzia went to visit their grandmother and were given
+> some apples and some pears, for a total of 25 fruits. During the return
+> journey home, Viviana ate one apple and three pears, while Cinzia ate
+> three apples and two pears. When they arrived home, they discovered they had with them as many
+> apples as pears. How many pears did their grandmother give them?
+> A) 12
+> B) 13
+> C) 16
+> D) 20
+> E) 21
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 [[Quesiti/src_kangourou_2012_benjamin#q10|src_kangourou_2012_benjamin__Q10]]
 
@@ -400,11 +432,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the sum of a number red and a number blue*
+*Color of the sum of a red number and a blue number*
 
-> Cecilia wrote all the integers from 1 to 100 using three colors and following this rule: 1 is red, 2 is blue, 3 is green, 4 is red again, 5 is blue again, 6 is green again, 7 is red again, and so on until 100. Se
+> Cecilia wrote all the integers from 1 to 100 using three colors and
+> following this rule: 1 is red, 2 is blue, 3 is green, 4 is red again, 5 is
+> blue again, 6 is green again, 7 is red again, and so on up to 100. If
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2012 Kang 2012 you choose two numbers between 1 and 50, one red and one blue, what color is the number that is their sum? A) It can be any of the three colors B) It can be either red or blue, but not green C) It can certainly be green D) It can certainly be red E) It can certainly be blue
+> Pag. 
+> Pag. 12
+> 12
+> Kang 2012
+> Kang 2012
+> two numbers are chosen between 1 and 50, one red and one blue, what color is the number that is their sum?  
+> A) It can be any one of the three colors     
+> B) It can be either red or blue, but not green 
+> C) Certainly green
+> D) Certainly red
+> E) Certainly blue
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_benjamin#q11|src_kangourou_2012_benjamin__Q11]]
@@ -482,11 +526,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which letter in the dice is not visible in the cube*
+*Which letter on the die is not visible in the cube*
 
 ![[src_kangourou_2012_benjamin__prob13.png]]
 
-> Lucia has eight dice. Each dice is assigned one and only one of the letters A, B, C, D, which is shown on each face of the dice. By approaching these eight dice, he constructed the cube you see in the figure: for every dice that makes it up, except for one, at least one face is visible, so the letter that was assigned to it. Keep in mind that if two dice have a face in common, the letters assigned to them are always different from each other. What letter was assigned to the dice that is not visible? (A) A (B) B (C) C (D) D (E) Can not be answered
+> Lucia has eight dice. Each die is assigned one and only one of the letters A, B, C, D, which is shown on each face of the dice. By placing these eight dice together, she constructed the cube you see in the figure: for every die that makes it up, except for one, at least one face is visible, so the letter that was assigned to it is visible. Keep in mind that if two dice have a face in common, the letters assigned to them are always different from each other. What letter was assigned to the dice that is not visible? (A) A (B) B (C) C (D) D (E) Can not be answered
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_benjamin#q13|src_kangourou_2012_benjamin__Q13]]
@@ -694,7 +738,7 @@ How many roads are missing on the seven-city map
 
 ![[src_kangourou_2012_benjamin__prob17.png]]
 
-> Both of the figures on this side are formed by drawing the same five pieces. One is a rectangle of 5 × 10 cm, the others are quarters of two different circles. How many centimeters is the difference between the greater and lesser of the two figures' perimeter? A) 2,5 B) 5 C) 10 D) 20 E) 30
+> Both of the figures on this side are formed by joining the same five pieces. One is a rectangle of 5 × 10 cm, the others are quarters of two different circles. How many centimeters is the difference between the greater and lesser of the two figures' perimeters? A) 2,5 B) 5 C) 10 D) 20 E) 30
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_benjamin#q17|src_kangourou_2012_benjamin__Q17]]
@@ -737,7 +781,7 @@ How many roads are missing on the seven-city map
 
 ![[src_kangourou_2012_benjamin__prob18.png]]
 
-> Hip and Hop frogs make each three jumps inside a pond, which contains three stones marked with the numbers 1, 2 and 3, following this rule: at the center of the segment traveled in each jump there must be one of the three stones. The figure on the left shows you Hop's path. In the figure to the right is marked the starting point of Hip, who jumps stones in the same order as Hop: what is his arrival point? A) A B) B C) C D) D E) E
+> Hip and Hop frogs make each three jumps inside a pond, which contains three stones marked with the numbers 1, 2 and 3, following this rule: at the center of the segment traveled in each jump there must be one of the three stones. The figure on the left shows you Hop's path. In the figure to the right is marked the starting point of Hip, who jumps the stones in the same order as Hop: what is her arrival point? A) A B) B C) C D) D E) E
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_benjamin#q18|src_kangourou_2012_benjamin__Q18]]
@@ -841,11 +885,46 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times the ball appears in the window*
+*How many times the ball appears at the window*
 
-> A rubber ball falls vertically from the roof of a ten-meter-high house, breaking through a wall. Each time the ball hits the ground, it bounces vertically to a height of 4/5 of the height from which it came. Along the fall line there is a window whose upper margin is 6 meters from the ground, 1 2 3 Start End Picture 1: Hop 1 2 3 Start Picture 2: Hip A B C D E start arrival Rana HOP Rana HIP start
+> A rubber ball falls vertically from the roof of a house 10 meters high,
+> grazing a wall. On each impact with the ground the ball bounces, always vertically, up to a height that is 4/5 of the height from which it came. Along
+> the line of fall there is a window whose upper edge is 6 meters from the ground,
+> 1
+> 2
+> 3
+> Start
+> End
+> Picture 1: Hop
+> 1
+> 2
+> 3
+> Start
+> Picture 2: Hip
+> A
+> B
+> C
+> D
+> E
+> start
+> finish
+> Frog HOP
+> Frog HIP
+> start
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2012 Kang 2012 while the lower one is 5 meters. Being inside the house, how many times does the ball appear at the window? A) 3 B) 4 C) 5 D) 6 E) 8 Questions from N. 21 al N. 30 is worth 5 points each.
+> Pag. 
+> Pag. 14
+> 14
+> Kang 2012
+> Kang 2012
+> while the lower one is at 5 meters. Standing inside the house, how many times
+> does the ball appear at the window?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> (E) 8
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_benjamin#q20|src_kangourou_2012_benjamin__Q20]]
@@ -890,7 +969,7 @@ How many roads are missing on the seven-city map
 
 ![[src_kangourou_2012_benjamin__prob21.png]]
 
-> Note the figure: a regular octagon-shaped sheet is folded in half on itself three times until a triangle is obtained (for each of these times the folding line is indicated). From the triangle a rectangular triangle is then cut, cutting along the indicated line. If the sheet is unfolded at this point, what is its shape? A) B) C) D) E)
+> Note the figure: a regular octagon-shaped sheet is folded in half on itself three times until a triangle is obtained (for each of these times the folding line is indicated). From the triangle a right triangle is then cut, cutting along the indicated line. If the sheet is unfolded at this point, what is its shape? A) B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_benjamin#q21|src_kangourou_2012_benjamin__Q21]]
@@ -1006,7 +1085,7 @@ How many roads are missing on the seven-city map
 
 *Mean age of twelve boys*
 
-> At a birthday party, there are twelve kids, and there's at least one for each of the six to 10-year-olds. Four of them are 6 years old and the most common age is 8. What is the average age of the twelve boys? A) 6,5 B) 7,5 C) 8,5 D) 9 E) 10
+> At a birthday party, there are twelve kids, and there's at least one for each age between 6 and 10 inclusive. Four of them are 6 years old and the most common age is 8. What is the average age of the twelve kids? A) 6,5 B) 7,5 C) 8,5 D) 9 E) 10
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_benjamin#q23|src_kangourou_2012_benjamin__Q23]]
@@ -1116,11 +1195,26 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which numbers are necessarily in consecutive vertices*
+*Which numbers necessarily in consecutive vertices*
 
-> We want to put all the integers from 1 to 12 (inclusive) in the vertices of a regular polygon of 12 sides, one in each vertex, so that, for each pair of vertices A B C D
+> We want to place all the integers from 1 to 12 (included) in the vertices of a regular 12-sided polygon, one in each vertex, so that, for every pair of con-
+> A
+> B
+> C
+> D
 > 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2012 Kang 2012 consecutive digits, the numbers entered therein differ by 1 or by 2. Which of the following numbers must necessarily be at consecutive vertices? A) 5 e 6 B) 9 e 10 C) 6 e 7 D) 8 e 10 E) 3 e 4
+> Pag. 
+> Pag. 15
+> 15
+> Kang 2012
+> Kang 2012
+> secutive vertices, the numbers placed in them differ by 1 or by 2. Which
+> among the following numbers must necessarily be in consecutive vertices?
+> A) 5 and 6
+> B) 9 and 10 
+> C) 6 and 7
+> D) 8 and 10
+> E) 3 and 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_benjamin#q25|src_kangourou_2012_benjamin__Q25]]
@@ -1154,7 +1248,7 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of square tables from table 6x7*
+*Minimum number of square boards from a 6x7 board*
 
 > Peter has a rectangular wooden board of 6 × 7 dm. He wants to cut it down so that you can only get square boards whose sides measure an integer number of decimeter. What is the minimum number of boards you'll have to get? A) 4 B) 5 C) 7 D) 9 E) 42
 
@@ -1196,7 +1290,7 @@ How many roads are missing on the seven-city map
 
 ![[src_kangourou_2012_benjamin__prob27.png]]
 
-> Some cells of a grid 4 × 4 were red in color. For each row, the number of red cells was indicated on the right; for each column, it was indicated at the bottom. Subsequently the colour was removed, but the numbers remained, giving rise to one of the following five numbered grids. What 's that ? A) B) C) D) E)
+> Some cells of a grid 4 × 4 were red in color. For each row, the number of red cells was indicated on the right; for each column, it was indicated at the bottom. Subsequently the colour was removed, but the numbers remained, giving rise to one of the following five numbered grids. Which one? A) B) C) D) E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_benjamin#q27|src_kangourou_2012_benjamin__Q27]]
@@ -1270,9 +1364,9 @@ How many roads are missing on the seven-city map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of b in civil numbers with sum of 912*
+*Value of b in house numbers with sum of 912*
 
-> The civil numbers of three friends' houses can be written using only three digits altogether: the major is abc, the second is bc and the third is c. The sum of the three numbers is 912. How much is b ? A) 5 B) 6 C) 7 D) 8 E) 0
+> The house numbers of three friends' houses can be written using only three digits altogether: the largest is abc, the second is bc and the third is c. The sum of the three numbers is 912. How much is b ? A) 5 B) 6 C) 7 D) 8 E) 0
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_benjamin#q29|src_kangourou_2012_benjamin__Q29]]

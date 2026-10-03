@@ -31,9 +31,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of two consecutive pages with a sum of 37*
+*Product of two consecutive pages with sum 37*
 
-> Anna Anna's book noted that the sum of the numbers on two consecutive pages of a book is 37. What is the product of these two numbers?
+> Anna's book 
+> Anna noticed that the sum of the numbers on two consecutive pages of a book is 37. What is the 
+> product of these two numbers?
 
 **Answer:** 342
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q01|src_kangourou_2017_squadre_ecolier_f__Q01]]
@@ -64,7 +66,7 @@ level: squadre
 
 *Difference between the largest and smallest sweet number*
 
-> Sweet numbers Call each number of three digits dolce (therefore with the first digit different from 0) such that the first digit is the sum of the other two: for example 431 is sweet because 4=3+1, while 412 is not. What's the difference between the largest and smallest of the sweet numbers?
+> Sweet numbers Call each number of three digits sweet (therefore with the first digit different from 0) such that the first digit is the sum of the other two: for example 431 is sweet because 4=3+1, while 412 is not. What's the difference between the largest and smallest of the sweet numbers?
 
 **Answer:** 889
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q02|src_kangourou_2017_squadre_ecolier_f__Q02]]
@@ -97,7 +99,7 @@ level: squadre
 
 *Time marked by Anna's counterclock*
 
-> Anna's wristwatch is traditional, so the hands move on a 12-hour dial. However, the hands are moving against the clock: for example, if it were now 8.35, in one hour it would be 7.35. Last Saturday at 6:17 p.m. his watch was at 7:17 p.m. - what time will it be today, Monday, at 2:17 p.m.? (Write in the order of time and minute, e.g. to indicate 8.35 write 0835.)
+> The clock goes backwards. Anna's wristwatch is traditional, so the hands move on a 12-hour dial. However, the hands are moving against the clock: for example, if it were now 8.35, in one hour it would be 7.35. Last Saturday at 6:17 p.m. her watch was at 7:17 p.m. - what time will it be today, Monday, at 2:17 p.m.? (Write in the order of time and minute, e.g. to indicate 8.35 write 0835.)
 
 **Answer:** 1117
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q03|src_kangourou_2017_squadre_ecolier_f__Q03]]
@@ -126,7 +128,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*More left in Ada and Gino*
+*Apples left to Ada and Gino*
 
 > Apples Ada and Gino bought many apples at the market, and on their way home they each ate one. If they bought twice as many, they'd have 25 more at home than they have. How many apples did Ada and Gino have left?
 
@@ -168,7 +170,7 @@ level: squadre
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob5.png]]
 
-> The multiplication table In the figure you see the top left of a multiplication table made up of 100 rows and 100 columns. Pippo cut a 22 piece of the table (not the part you see) and then covered the numbers that appeared in the boxes of the cut piece with the letters A, B, C, and D, arranged as in the figure to the right. You know that B gets from A summing up 78 and C gets from A summing up 45. How much is D?
+> The multiplication table In the figure you see the top left of a multiplication table made up of 100 rows and 100 columns. Pippo cut a 2x2 piece of the table (not the part you see) and then covered the numbers that appeared in the boxes of the cut piece with the letters A, B, C, and D, arranged as in the figure to the right. You know that B gets from A summing up 78 and C gets from A summing up 45. How much is D?
 
 **Answer:** 3634
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q05|src_kangourou_2017_squadre_ecolier_f__Q05]]
@@ -196,9 +198,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Within the ages Daniela is 16*
+*In how many years will Daniela turn 16*
 
-> Daniela's age At 16, Daniela will be five times as old as she was four years ago. How many years from now will Daniela be 16?
+> Daniela's age 
+> In 16 years Daniela will be five times the age she was four years ago. In how many years will Daniela 
+> turn 16?
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q06|src_kangourou_2017_squadre_ecolier_f__Q06]]
@@ -248,7 +252,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inner segments in square rectangle 40x30*
+*Inner segments in grid rectangle 40x30*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob7.png]]
 
@@ -261,7 +265,7 @@ level: squadre
 \end{document}
 ```
 
-> The square rectangle On a square sheet I re-traced a rectangle that has a base of 4 units and height of 3 units and the grid of squares to it inside. Among the segments of this grid of 1 unit length, those not on the edge of the rectangle are 17: vertically 9, horizontally 8. If I were to retract a rectangle with a base of 40 units and a height of 30 units in the same way, how many segments of length 1 unit inside the rectangle would I find?
+> The grid rectangle On a grid sheet I re-traced a rectangle that has a base of 4 units and height of 3 units and the grid of squares inside it. Among the segments of this grid of 1 unit length, those not on the edge of the rectangle are 17: vertically 9, horizontally 8. If I were to re-trace a rectangle with a base of 40 units and a height of 30 units in the same way, how many segments of length 1 unit inside the rectangle would I find?
 >  
 > 1 2 3 4 5 2 2 4 6 8 10 3 3 6 9 12 15 4 4 8 12 16 20 5 5 10 15 20 25 3
 
@@ -303,7 +307,7 @@ level: squadre
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob8.png]]
 
-> The coins After breaking the salvadanaio, Renato disposes the 1 euro coins following the pattern illustrated by the drawing, that is, so as to draw a square with a coin in the center. If he still has exactly enough coins to complete the next three figures, how many 1 euro coins are in Renato's savings bank?
+> The coins After breaking the savings bank, Renato arranges the 1 euro coins following the pattern illustrated by the drawing, that is, so as to draw a square with a coin in the center. If he still has exactly enough coins to complete the next three figures, how many 1 euro coins are in Renato's savings bank?
 
 **Answer:** 119
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q08|src_kangourou_2017_squadre_ecolier_f__Q08]]
@@ -335,7 +339,7 @@ level: squadre
 
 Holidays in 2017 (4 months, first minor)
 
-> Long holidays in Madagascar start at 1° of a certain month and last for 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many are the holiday days in 2017?
+> Long holidays in Madagascar start on the 1st of a certain month and last for 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many are the holiday days in 2017?
 
 **Answer:** 120
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q09|src_kangourou_2017_squadre_ecolier_f__Q09]]
@@ -367,9 +371,14 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most number of fish caught by Martina (linked sum) *
+*Largest number drawn by Martina (constrained sum)*
 
-> Martina Martina's tickets put eight tickets in a bag on each of which she wrote one of the numbers 40, 80, 100, 101, 190, 200, 260 and 292 without repeating numbers already written. Then he pulled four tickets out of his bag and observed that the sum of the numbers on the remaining tickets is exactly twice the sum of the numbers on the tickets he caught. What's the biggest number Martina caught?
+> Martina's tickets 
+> Martina put eight tickets in a bag, on each of which she wrote one of the numbers 40, 
+> 80, 100, 101, 190, 200, 260 and 292 without repeating numbers already written. Then she drew four tickets 
+> from the bag and observed that the sum of the numbers on the remaining tickets is exactly twice 
+> the sum of the numbers on the tickets she drew. What is the largest among the numbers 
+> drawn by Martina?
 
 **Answer:** 200
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q10|src_kangourou_2017_squadre_ecolier_f__Q10]]
@@ -397,9 +406,9 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number corresponds to how many times and written*
+*Which number corresponds to how many times it is written*
 
-> The numbers of Roberto Roberto wrote the numbers 4, 5, 1, 5, 2, 3, 5, 4, 5, 5, 2, 3, 1, 5, 4, 2. What number corresponds to how many times Roberto wrote it?
+> The numbers of Roberto Roberto wrote the numbers 4, 5, 1, 5, 2, 3, 5, 4, 5, 5, 2, 3, 3, 1, 5, 4, 2. What number corresponds to how many times Roberto wrote it?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q11|src_kangourou_2017_squadre_ecolier_f__Q11]]
@@ -432,7 +441,7 @@ Holidays in 2017 (4 months, first minor)
 
 *How many times do the digital clock entries match*
 
-> The digital clock A digital clock displays high day and month (e.g. 12:08 means 12 August) and in low hours and minutes (e.g. 13:15 means 1 p.m. and 15 minutes, or 1 1/4 of an afternoon). Every now and then, the writing at the top coincides with the one at the bottom: how many times does it happen in a year? (Remember that in digital clocks hours and minutes vary from 00:00 to 23:59.)
+> The digital clock A digital clock displays the day and month at the top (e.g. 12:08 means 12 August) and the hours and minutes at the bottom (e.g. 13:15 means 1 p.m. and 15 minutes, or 1 1/4 of an afternoon). Every now and then, the entry at the top coincides with the one at the bottom: how many times does it happen in a year? (Remember that in digital clocks hours and minutes vary from 00:00 to 23:59.)
 
 **Answer:** 276
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q12|src_kangourou_2017_squadre_ecolier_f__Q12]]
@@ -464,11 +473,11 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white cubes along the large cube's tips*
+*How many white cubes along the edges of the large cube*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob13.png]]
 
-> The cube Using white cubes and colored cubes, Luigi built the large cube you see in the figure. He put the white cubes along the ends of the big cube, but he didn't put them inside. How many white cubes did you use?
+> The cube Using white cubes and colored cubes, Luigia built the large cube you see in the figure. He put the white cubes along the edges of the big cube, but he didn't put them inside. How many white cubes did she use?
 
 **Answer:** 32
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q13|src_kangourou_2017_squadre_ecolier_f__Q13]]
@@ -502,7 +511,13 @@ Holidays in 2017 (4 months, first minor)
 
 *Working days still needed to clean up the park*
 
-> Park party After a big folk party, you have to clean a park. Yesterday three people worked for this, yesterday four people and today eight people work for this. A quarter of the park will be cleaned tonight, but starting tomorrow, only one person a day will be allowed to work. If all the people took the same time to clean portions of the park with the same area and worked all day, and the people who will work from tomorrow will do the same, how many more working days will it take for the park to be completely cleaned?
+> Party in the park 
+> After a big popular party, a park needs to be cleaned up. The day before yesterday 3 
+> people worked on this, yesterday 4 people and today 8 people are working. This evening a quarter of the park will remain to be cleaned, 
+> but starting tomorrow only 1 person per day will be able to work. If all the people took the same 
+> time to clean portions of the park with the same area and worked for the whole day, and the 
+> same will be done by the people who will work starting tomorrow, how many working days will still be needed 
+> for the park to be completely cleaned up?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2017_squadre_ecolier_f#q14|src_kangourou_2017_squadre_ecolier_f__Q14]]

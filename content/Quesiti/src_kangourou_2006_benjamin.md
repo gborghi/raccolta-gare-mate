@@ -33,7 +33,7 @@ level: kangourou
 
 *Number to be entered in 3x2005=2004+2006+...*
 
-> 3x2005 = 2004 + 2006 + … . Which of the following numbers do you need to replace in the dots to make the equality? A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
+> 3x2005 = 2004 + 2006 + … . Which of the following numbers do you need to substitute for the dots to make the equality? A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_benjamin#q01|src_kangourou_2006_benjamin__Q01]]
@@ -67,11 +67,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest number of 10 digits by attaching sheets*
+*Biggest 10-digit number by placing sheets side by side*
 
 ![[src_kangourou_2006_benjamin__prob2.png]]
 
-> Look at the figure: six numbers are written on as many sheets. By holding all six sheets together, you can form ten-digit numbers. Which one's the biggest? A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241 D) 7 568 413 092          E) 7 685 413 092
+> Look at the figure: six numbers are written on as many sheets. By placing all six sheets side by side, you can form ten-digit numbers. Which one's the biggest? A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241 D) 7 568 413 092          E) 7 685 413 092
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_benjamin#q02|src_kangourou_2006_benjamin__Q02]]
@@ -108,7 +108,7 @@ level: kangourou
 
 How many houses along the avenue with civic numbers
 
-> As we walk down Kangtown's main avenue, we notice that each house is assigned a (and only one) civic number, odd to those on the left, equal to those on the right. On the left side, the numbers go from 1 to 39; on the right side, they go from 2 to 34. How many houses are down the alley? A) 8 B) 36 C) 37 D) 38 E) 73
+> As we walk down Kangtown's main avenue, we notice that each house is assigned a (and only one) civic number, odd to those on the left, even to those on the right. On the left side, the numbers go from 1 to 39; on the right side, they go from 2 to 34. How many houses are along the avenue? A) 8 B) 36 C) 37 D) 38 E) 73
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_benjamin#q03|src_kangourou_2006_benjamin__Q03]]
@@ -194,11 +194,29 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The goal of a penny*
+*Half of a cent*
 
-> Half a cent is A) 0.5 B) 0.002 C) 0.005 D) 0.02 E) 0.05 5 7 2 68 41 309 500 crowns 1200 crowns Benjamin_06.qxp 20/02/2006 23.56 Page 10
+> Half of a cent is
+> A) 0.5
+> B) 0.002
+> C) 0.005
+> D) 0.02
+> E) 0.05
+> 5
+> 7
+> 2
+> 68
+> 41
+> 309
+> 500 crowns
+> 1200 crowns
+> Benjamin_06.qxp  20/02/2006  23.56  Page 10
 > 
-> I'm going to pay. I'm going to pay. 11 11 Kang 2006 Kang
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2006
+> Kang 2006
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_benjamin#q05|src_kangourou_2006_benjamin__Q05]]
@@ -227,7 +245,7 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure with a 150 degree angle of incision*
+*Figure with a 150 degree angle of the clock hands*
 
 ![[src_kangourou_2006_benjamin__prob6.png]]
 
@@ -260,9 +278,11 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of the difference with digits to be entered*
+*Minimum value of the difference with digits to be inserted*
 
-> Each time the symbol  appears in the expression 42−13, a figure must be inserted (not necessarily always the same); depending on the figures inserted, the resulting difference can take on different values. What 's the smallest of these values ? A) 3629        B) 3530     C) 2720           D) 2621          E) 2603
+> Each time the symbol ∇ appears in the expression
+> 4∇2∇−13∇∇, a digit must be inserted (not necessarily always the same one); depending on the digits inserted, the resulting difference can take different values. What is the smallest of these values?
+> A) 3629        B) 3530     C) 2720           D) 2621          E) 2603
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_benjamin#q07|src_kangourou_2006_benjamin__Q07]]
@@ -296,7 +316,7 @@ How many houses along the avenue with civic numbers
 
 ![[src_kangourou_2006_benjamin__prob8.png]]
 
-> Look at the figure. How many ways can we write the 2006 number by following the arrows? A) 5           B) 6           C) 7           D) 8           E) 9
+> Look at the figure. In how many ways can we write the number 2006 by following the arrows? A) 5           B) 6           C) 7           D) 8           E) 9
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_benjamin#q08|src_kangourou_2006_benjamin__Q08]]
@@ -370,7 +390,7 @@ How many houses along the avenue with civic numbers
 \end{document}
 ```
 
-> The figure shows a sheet of paper shaped like a regular hexagon. It is folded so that the three vertices indicated with a ball go exactly to the center of the hexagon and the others remain standing. What figure do you get? A) a six-pointed star B) a dodecahedron C) a hexagon D) a square E) a triangle
+> The figure shows a sheet of paper shaped like a regular hexagon. It is folded so that the three vertices indicated with a dot go exactly to the center of the hexagon and the others remain standing. What figure do you get? A) a six-pointed star B) a dodecagon C) a hexagon D) a square E) a triangle
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_benjamin#q09|src_kangourou_2006_benjamin__Q09]]
@@ -516,7 +536,7 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different sum of first 1000 even and odd*
+*Difference sum of first 1000 even and odd*
 
 > Consider only integers greater than 0. What is the difference between the sum of the first 1000 even numbers and the sum of the first 1000 odd numbers? A) 1                B) 200             C) 500           D) 1000           E) 2000
 
@@ -554,11 +574,11 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Run the track so that the dice return to the starting position*
+*Run the track so that the die returns to the starting position*
 
 ![[src_kangourou_2006_benjamin__prob13.png]]
 
-> A die is in the position indicated in the figure. How many complete turns of the track will it take for the dice, rotating each time with one face, to return to the exact starting position? (a) 1 (b) 2 (c) 3 (d) 4 (e) cannot be determined
+> A die is in the position indicated in the figure. How many complete turns of the track will it take for the die, rotating each time by one face, to return to the exact starting position? (a) 1 (b) 2 (c) 3 (d) 4 (e) cannot be determined
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_benjamin#q13|src_kangourou_2006_benjamin__Q13]]
@@ -657,9 +677,10 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time for two trains to be 140 km apart*
+*Time for two trains to be 140 km apart again*
 
-> Along a double-track railway line, two trains travel toward each other; one at a constant speed of 80 km/h, the other at
+> Along a double-track railway line two trains travel
+> towards each other, one at a constant speed of 80 km/h, the other at a
 > R
 > G
 > B
@@ -678,15 +699,20 @@ How many houses along the avenue with civic numbers
 > R
 > R
 > ?
+> Benjamin_06.qxp  20/02/2006  23.56  Page 12
 > 
-> Page 13
+> Pag. 
+> Pag. 13
+> 13
 > Kang 2006
-> Two cars are moving toward each other on a straight road at constant speeds of 60 km/h each. At this moment, they are 140 km apart. After they have crossed each other, how much time will pass until their distance becomes 140 km again, if they continue to travel at the same speed?
-> (A) 1 hour
-> (B) 2 hours
-> (C) 1.5 hours
-> (D) 2.5 hours
-> (E) 0.5 hour
+> Kang 2006
+> constant speed of 60 km/h. At this moment they are 140 km apart. After
+> how much time, after they have crossed, will their distance again
+> be 140 km, if they continue to travel at the same speed?
+> A) 1 hour      
+> B) 2 hours         C) an hour and a half         
+> D) two and a half hours          
+> E) half an hour
 
 **Answer:** B
 
@@ -834,9 +860,9 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of cuts per whole whole whole pieces all different*
+*Number of cuts for whole pieces all different*
 
-> I had a 15-meter long rope. By cutting it properly, I obtained pieces that were a whole number of feet in length. The number of pieces is as large as possible, consistent with the fact that there are not two of the same length. How many cuts did I make? A) 3 B) 4 C) 5 D) 6 E) 15.
+> I had a 15-meter long rope. By cutting it properly, I obtained pieces that were a whole number of meters in length. The number of pieces is as large as possible, consistent with the fact that there are not two of the same length. How many cuts did I make? A) 3 B) 4 C) 5 D) 6 E) 15.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_benjamin#q19|src_kangourou_2006_benjamin__Q19]]
@@ -888,11 +914,35 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of the five points on the segment OE*
+*Order of the five points on segment OE*
 
-> One OE segment is 2006 meters long. On it we identify three points A, B, C so that the segments OA and BE measure 1111 meters and the length of OC is 70% of OE. Starting from the O extreme, in what order are the five points? (a) OASB (b) OASB (c) OASB (d) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) A B Benjamin_06.qxp 20/02/2006 23.56 Page 13
+> A segment OE is 2006 meters long. On it we identify three
+> points A, B, C so that the segments OA and BE measure 1111 meters and the
+> length of OC is 70% of that of OE. Starting from the endpoint O,
+> in what order are the five points located?
+> A) OABCE      B) OACBE      C) OCBAE      D) OBCAE      E) OBACE
+> 1111111111
+> -111111111
+> +11111111
+> -1111111
+> +111111
+> -11111
+> +1111
+> -111
+> +11
+> -1
+> ---------------
+> ?   
+> A
+> B
+> Benjamin_06.qxp  20/02/2006  23.56  Page 13
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2006 Kang 2006 Questions from N. 21 al N. 30 is worth 5 points each.
+> Page 
+> Page 14
+> 14
+> Kang 2006
+> Kang 2006
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_benjamin#q20|src_kangourou_2006_benjamin__Q20]]
@@ -937,7 +987,7 @@ How many houses along the avenue with civic numbers
 
 ![[src_kangourou_2006_benjamin__prob21.png]]
 
-> In Figures 1 and 2 two quadrilaterals are represented, each constructed by approaching the same two equal isosceles triangles: the first is a parallelogram, the second a rombo. The perimeter of the parallelogram is 3 centimeters longer than the perimeter of each triangle; instead, the perimeter of the rim is 7 centimeters longer than that of each triangle. So the perimeter of each triangle is in centimeters, A) 3 B) 7 C) 11 D) 13 E) 16
+> In Figures 1 and 2 two quadrilaterals are represented, each constructed by approaching the same two equal isosceles triangles: the first is a parallelogram, the second a rhombus. The perimeter of the parallelogram is 3 centimeters longer than the perimeter of each triangle; instead, the perimeter of the rhombus is 7 centimeters longer than that of each triangle. So the perimeter of each triangle is in centimeters, A) 3 B) 7 C) 11 D) 13 E) 16
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_benjamin#q21|src_kangourou_2006_benjamin__Q21]]
@@ -1012,9 +1062,15 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turn in which one number equidistant from the other two *
+*Triple in which one number is equidistant from the other two*
 
-> Consider a semicircle with origin O and a point A above it: if the distance in centimetres of A from O is to, we'll say that a represents point A. Which of the following sets of three numbers represents three points of the semicircle one of which is the same distance from each of the other two? (a) 1/3; 1/4; 1/5 B) 12; 21; 32 C) 0,3; 0,7; 1,3 D) 1/8; 9/80; 1/10 E) None of the above
+> Consider a half-line with origin O and a point A on it:
+> if the distance in centimetres of A from O is a, we will say that a represents the point A. Which of the following sets of three numbers represents three
+> points of the half-line one of which has the same distance from each of the other two?
+> A) 1/3; 1/4; 1/5    
+> B) 12; 21; 32     
+> C) 0.3; 0.7; 1.3     
+> D) 1/8; 9/80; 1/10     E) none of the preceding
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_benjamin#q23|src_kangourou_2006_benjamin__Q23]]
@@ -1135,11 +1191,16 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stickers to be added to the 31st grid*
+*Toothpicks to add to the 31st grid*
 
 ![[src_kangourou_2006_benjamin__prob25.png]]
 
-> Bianca builds toaster grids by expanding the existing grids each time by adding new toaster grids, according to the pattern shown in the figure. How many hot dogs does Bianca have to add to the 30th grid to get the 31st? A) 124            B) 148             C) 61               D) 254            E) 120
+> Bianca builds grids of toothpicks
+> by enlarging each time the grid already present
+> with the addition of new toothpicks, according
+> to the pattern illustrated in the figure. How many toothpicks will Bianca have to add to the 30th
+> grid to obtain the 31st?
+> A) 124            B) 148             C) 61               D) 254            E) 120
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_benjamin#q25|src_kangourou_2006_benjamin__Q25]]
@@ -1213,7 +1274,7 @@ How many houses along the avenue with civic numbers
 \end{document}
 ```
 
-> What is the smallest number of points that you can subtract from the figure shown next to you so that there are not three left that are the vertices of any equilateral triangle? A) 2 B) 3 C) 4 D) 5 E) 6
+> What is the smallest number of points that you can remove from the figure shown next to you so that there are not three left that are the vertices of any equilateral triangle? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_benjamin#q26|src_kangourou_2006_benjamin__Q26]]

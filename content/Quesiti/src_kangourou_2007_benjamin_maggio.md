@@ -107,7 +107,7 @@ level: kangourou
 
 ![[src_kangourou_2007_benjamin_maggio__probb2.png]]
 
-> You can place 15 equal coins on a table so that they form an equilateral triangle (see figure), but you can't do that so that they form a square (one coin is missing). What's the minimum number of coins you can use to form a triangle or a square?
+> You can place 15 equal coins on a table so that they form an equilateral triangle (see figure), but you can't do that so that they form a square (one coin is missing). What's the minimum number of coins you can use to form both a triangle and a square?
 
 **Answer:** 36
 [[Quesiti/src_kangourou_2007_benjamin_maggio#qb2|src_kangourou_2007_benjamin_maggio__QB2]]
@@ -174,11 +174,11 @@ level: kangourou
 
 *Remaining molecule type (reactions with invariant) *
 
-> By reacting with each other, three types of $X$, $Y$ and $\text{Anti-X}$ molecules behave as follows: - if a molecule of $X$ meets one of $Y$, a molecule of $\text{Anti-X}$ is formed that replaces them; - if a molecule of $\text{Anti-X}$ meets one of $Y$, a molecule of $X$ is formed that replaces them; - if a molecule of $X$ and one of $\text{Anti-X}$ meet, they explode, explode and release energy.
+> By reacting with each other, three types of $X$, $Y$ and $\text{Anti-X}$ molecules behave as follows: - if a molecule of $X$ meets one of $Y$, a molecule of $\text{Anti-X}$ is formed that replaces them; - if a molecule of $\text{Anti-X}$ meets one of $Y$, a molecule of $X$ is formed that replaces them; - if a molecule of $X$ and one of $\text{Anti-X}$ meet, they explode, disappear and release energy.
 > 
 > Of course, no molecule reacts with molecules of the same type!
 > 
-> Four $X$ molecules, two $Y$ and five $\text{Anti-X}$ react with each other in such a way that one molecule is eventually left. Can we guess what kind of guy he is?
+> Four $X$ molecules, two $Y$ and five $\text{Anti-X}$ react with each other in such a way that one molecule is eventually left. Can we guess which type it is?
 > 
 > [Caution: if you are positive, you must show that no other result can be obtained; otherwise, you must indicate two procedures each of which allows one molecule to be produced and the two molecules produced are different].
 
@@ -244,7 +244,7 @@ level: kangourou
 
 *How many candies (combinations 3 = double 2) *
 
-> I have all the different candy in my pocket, and the number of ways I can choose three is twice the number of ways I can choose two. How many candies do I have in my pocket?
+> I have candies all different from each other in my pocket, and the number of ways I can choose three is twice the number of ways I can choose two. How many candies do I have in my pocket?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2007_benjamin_maggio#qb6|src_kangourou_2007_benjamin_maggio__QB6]]

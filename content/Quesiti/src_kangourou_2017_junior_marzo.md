@@ -99,7 +99,7 @@ level: kangourou
 
 ![[src_kangourou_2017_junior_marzo__prob2.png]]
 
-> Peter wrote the word KANGAROO on a glass sheet between them, then turned the sheet over with a pin on his right side and then turned it on his 180° plane. What does Peter see now? A)
+> Peter wrote the word KANGAROO on a transparent glass sheet, then flipped the sheet over pivoting on its right side and then rotated it in its plane by 180°. What does Peter see now? A)
 > 	
 > B)
 > 	
@@ -190,7 +190,7 @@ level: kangourou
 
 The probability that only one person will not receive the gift
 
-> Cristina bought four books to give to four friends, one each. He chose them by distributing each book to a precise friend, but then packed four completely identical gift packages. If he randomly delivers packages to his friends, what is the probability that only one of them will not receive the gift that was intended for him? A) 1/24 B) 1/8
+> Cristina bought four books to give to four friends, one each. She chose them by distributing each book to a precise friend, but then packed four completely identical gift packages. If she randomly delivers packages to his friends, what is the probability that only one of them will not receive the gift that was intended for him? A) 1/24 B) 1/8
 > 	
 > C) 1/4 D) 1/2 E) None of the above answers are correct.
 
@@ -231,11 +231,11 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Curve described from the centre of the wheel*
+*Curve described by the centre of the wheel*
 
 ![[src_kangourou_2017_junior_marzo__prob5.png]]
 
-> Which of the following figures shows the curve described from the centre of the wheel when the wheel runs along the indicated mountain ridge? A)
+> Which of the following figures shows the curve described by the centre of the wheel when the wheel runs along the indicated mountain ridge? A)
 > 	
 > B)
 > 	
@@ -279,7 +279,7 @@ The probability that only one person will not receive the gift
 
 *Who gets the biggest product and how much *
 
-> Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, from 1111. B) Bruno, from 1111. C) Anna, of 2222. D) Bruno, 2222. E) None of the above answers is correct.
+> Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, by 1111. B) Bruno, by 1111. C) Anna, by 2222. D) Bruno, by 2222. E) None of the above answers is correct.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_junior_marzo#q06|src_kangourou_2017_junior_marzo__Q06]]
@@ -352,16 +352,19 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro to extract at least 3 bags of the same colour*
+*Euros to draw at least 3 marbles of the same color*
 
-> In one bag there are 203 red balloons, 117 green balloons and 28 white balloons. The extraction of a ticket costs €1. How many euros must we be willing to spend if we want to be sure to extract at least three beads of the same colour? A) 3
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 28
-> 	
+> In a bag there are 203 red marbles, 117 green marbles and 28 white marbles. Drawing
+> a marble costs 1 euro. How many euros must we be willing to spend if we want
+> to be certain of drawing at least 3 marbles of the same color?
+> A) 3	
+	
+> B) 6	
+	
+> C) 7	
+	
+> D) 28	
+	
 > E) 203
 
 **Answer:** C
@@ -403,7 +406,7 @@ The probability that only one person will not receive the gift
 
 *During possible training with double speed*
 
-> A cyclist trains by completing four laps of a circuit. It always takes an entire number of minutes to complete a lap, but at each lap after the first lap, its average speed in that lap doubles compared to that held in the previous lap. Which of the following can be the length, in minutes, of your training? A) 41
+> A cyclist trains by completing four laps of a circuit. It always takes an entire number of minutes to complete a lap, but at each lap after the first lap, its average speed in that lap doubles compared to that held in the previous lap. Which of the following can be the duration, in minutes, of his training? A) 41
 > 	
 > B) 42
 > 	
@@ -457,7 +460,7 @@ The probability that only one person will not receive the gift
 
 ![[src_kangourou_2017_junior_marzo__prob10.png]]
 
-> Look at the figure. A white, gray and black circle with a radius of 1 cm (without stripes) on a straight line; K and L are the points of contact at the start and at the end respectively: they are 11 π cm apart. Which of the following pictures shows the circle on arrival? A)
+> Look at the figure. A white, gray and black circle with a radius of 1 cm rotates (without slipping) on a straight line; K and L are the points of contact at the start and at the end respectively: they are 11 π cm apart. Which of the following pictures shows the circle on arrival? A)
 > 	
 > B)
 > 	
@@ -467,7 +470,7 @@ The probability that only one person will not receive the gift
 > 	
 > E)
 >  
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_junior_marzo#q10|src_kangourou_2017_junior_marzo__Q10]]
@@ -509,7 +512,7 @@ The probability that only one person will not receive the gift
 
 *Duration of holiday after half rainy days*
 
-> During Gianna's vacation there were seven half days of rain. The dry rows were 6, the dry mornings were 5. How many days did Gianna's vacation last? A) 7
+> During Gianna's vacation there were seven half days of rain. The dry afternoons were 6, the dry mornings were 5. How many days did Gianna's vacation last? A) 7
 > 	
 > B) 8
 > 	
@@ -692,7 +695,7 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n with only one between n and n+20 in four digits*
+*How many n with only one between n and n+20 in four digits*
 
 > How many positive integers n are such that one and only one of the numbers n and n + 20 is a four-digit number? A) 19
 > 	
@@ -822,9 +825,9 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the ACD angle at the regular octave*
+*Measurement of the ACD angle in the regular octagon*
 
-> A, B, C, D are four consecutive vertices of a regular octagon. What is the median of the ACD angle ? A) 22°30’ B) 45° C) 90° D) 112°30’ E) 135°
+> A, B, C, D are four consecutive vertices of a regular octagon. What is the measure of the ACD angle ? A) 22°30’ B) 45° C) 90° D) 112°30’ E) 135°
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_junior_marzo#q17|src_kangourou_2017_junior_marzo__Q17]]
@@ -871,11 +874,11 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A-circuit in three-point system*
+*Circumference of A in a three-pulley system*
 
 ![[src_kangourou_2017_junior_marzo__prob18.png]]
 
-> A three-point system has the configuration you see in the figure. The straps are tight and the three discs A, B and C rotate without slipping. Every 5 rounds of A, B makes 4, every 7 rounds of C, B makes 6. The circumference of C is 30 cm. How many inches is A 's ? A) 27
+> A system of three pulleys has the configuration you see in the figure. The belts are tight and the three discs A, B and C rotate without slipping. Every 5 turns of A, B makes 4; every 7 turns of C, B makes 6. The circumference of C is 30 cm. How many centimeters is that of A? A) 27
 > 	
 > B) 28
 > 	
@@ -926,7 +929,7 @@ The probability that only one person will not receive the gift
 
 *How many buses exceed the car*
 
-> Every 3 minutes a bus departs from the airport directly to the city centre. A person can leave the airport at the same time as a bus leaves and travels to the city centre on the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses exceed the car, excluding the bus with which she left? A) 8
+> Every 3 minutes a bus departs from the airport directly to the city centre. A car leaves the airport at the same time as a bus leaves and travels to the city centre on the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses does the car overtake, excluding the bus with which it left? A) 8
 > 	
 > B) 9
 > 	
@@ -971,7 +974,7 @@ The probability that only one person will not receive the gift
 
 Height of Peter among four brothers
 
-> Four brothers are of different heights. Tobias is lower than Victor than he is taller than Peter. Oscar is lower than Peter than Tobiah is lower than Victor. Tobias is 184 cm tall and the average height of the four brothers is 178 cm. How tall is Peter? A) 160 cm B) 166 cm C) 172 cm D) 184 cm E) 190 cm I Questions from N. 21 al N. 30 is worth 5 points each.
+> Four brothers are of different heights. Tobias is shorter than Victor by the same amount as he is taller than Peter. Oscar is shorter than Peter by the same amount as Tobias is shorter than Victor. Tobias is 184 cm tall and the average height of the four brothers is 178 cm. How tall is Peter? A) 160 cm B) 166 cm C) 172 cm D) 184 cm E) 190 cm Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_junior_marzo#q20|src_kangourou_2017_junior_marzo__Q20]]
@@ -1060,9 +1063,9 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of four minors with product 882*
+*Sum of four ages of minors with product 882*
 
-> Four brothers are all minors and of different ages. The product of four ages is 882. What's their sum? A) 23
+> Four brothers are all underage and of different ages. The product of their four ages is 882. What's their sum? A) 23
 > 	
 > B) 25
 > 	
@@ -1108,7 +1111,7 @@ Height of Peter among four brothers
 
 *What numbers can be 286 in the sequence*
 
-> Seven positive integers a, b, c, d, e, f, g: (not necessarily different) are aligned in this order. Their sum is 2017 and, for any pair of adjacent numbers in the alignment, the difference between the major and the minor is 1. Which of these numbers could be equal to 286? (a) Only a or g.
+> Seven positive integers a, b, c, d, e, f, g: (not necessarily different) are aligned in this order. Their sum is 2017 and, for any pair of adjacent numbers in the alignment, the difference between the major and the minor is 1. Which of these numbers could be equal to 286? A) Only a or g.
 > 	
 > B) Only b or f.
 > 	
@@ -1150,7 +1153,7 @@ Height of Peter among four brothers
 
 *Probability of negative product by double-throwing *
 
-> The numbers that appear on the faces of an unmade dice are: -3, -2, -1, 0, 1, 2. If we draw the dice twice, what is the probability that the product of the two numbers we get is negative? A) 1 / 2 B) 1 / 3 C) 11 / 36 D) 13 / 36 E) 1 / 4
+> The numbers that appear on the faces of a fair die are: -3, -2, -1, 0, 1, 2. If we roll the die twice, what is the probability that the product of the two numbers we get is negative? A) 1 / 2 B) 1 / 3 C) 11 / 36 D) 13 / 36 E) 1 / 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_junior_marzo#q24|src_kangourou_2017_junior_marzo__Q24]]
@@ -1341,7 +1344,7 @@ Height of Peter among four brothers
 
 *Measure of the angle forgotten in the polygon*
 
-> Luisa had to sum the measurements in degrees of the interior angles of a convex polygon, but she forgot one of the angles and got 2017. What's the degree of the angle you forgot? A) 37 B) 53
+> Luisa had to sum the measurements in degrees of the interior angles of a convex polygon, but she forgot one of the angles and got 2017. What is the measure in degrees of the angle she forgot? A) 37 B) 53
 > 	
 > C) 97
 > 	
@@ -1388,7 +1391,7 @@ Height of Peter among four brothers
 
 How many dancers say hello after the turn
 
-> Thirty dancers are arranged in a circle and look toward the center of the circle. Under the command 'Turn!' some turn a quarter on their left and others turn a quarter on their right. At this point, those dancers who are looking at each other say "Hello!" and this word is spoken by 10 dancers. To the new command, all the dancers turn halfway around and, again, those dancers look each other in the face and say, "Hello!" This time, how many dancers are saying hello? A) 10
+> Thirty dancers are arranged in a circle and look toward the center of the circle. Under the command 'Turn!' some turn a quarter on their left and others turn a quarter on their right. At this point, those dancers who are looking at each other say "Hello!" and this word is spoken by 10 dancers. At the new command "Turn around!" all the dancers turn halfway around and, again, those dancers who are looking at each other say "Hello!" This time, how many dancers are saying hello? A) 10
 > 	
 > B) 20
 > 	
@@ -1476,7 +1479,7 @@ How many dancers say hello after the turn
 \end{document}
 ```
 
-> Look at the figure. A and B are two points of the center circumference M, the line for P and B is tangent to the circumference in B. The PA and MB segments have full length and the difference between the PB and PA length is 6. What are the possible values for the length of the MB segment ? A) 0
+> Look at the figure. A and B are two points on the circle with center M, the line through P and B is tangent to the circle at B. The PA and MB segments have integer length and the difference between the PB and PA length is 6. What are the possible values for the length of the MB segment ? A) 0
 > 	
 > B) 2
 > 	

@@ -65,7 +65,7 @@ level: squadre
 
 *sum of coefficients of the given functional polynomial*
 
-> A polynomial A polynomial P is such that P(x + 2020) = 2024  2x + 2P(2024) for every real value of x. What's the sum of the coefficients of P?
+> A polynomial P is such that P(x + 2020) = 2024 – 2x + 2P(2024) for every real value of x. What is the sum of the coefficients of P?
 
 **Answer:** 2030
 [[Quesiti/src_kangourou_2024_junior_squadre#q02|src_kangourou_2024_junior_squadre__Q02]]
@@ -141,7 +141,7 @@ level: squadre
 \end{document}
 ```
 
-> The paths. Look at the figure. Starting from point A, you want to return to A by traveling only segments present in the figure, not necessarily all, but without traveling more than once any segment (although you can go more than once for some end of the segments). How many different routes are possible?
+> The paths. Look at the figure. Starting from point A, you want to return to A by traveling only segments present in the figure, not necessarily all, but without traveling more than once any segment (although you can pass more than once through some endpoint of the segments). How many different routes are possible?
 
 **Answer:** 1458
 [[Quesiti/src_kangourou_2024_junior_squadre#q03|src_kangourou_2024_junior_squadre__Q03]]
@@ -173,7 +173,7 @@ level: squadre
 
 *Two three-digit numbers summed up, seven times the sum of the numbers *
 
-> Two integers Two positive integers of three digits each are written consecutively to each other in a certain order: this gives a six-digit number that turns out to be 7 times the product of the two starting numbers. How much is the sum of these two numbers?
+> Two positive integers of three digits each are written consecutively to each other in a certain order: this gives a six-digit number that turns out to be 7 times the product of the two starting numbers. How much is the sum of these two numbers?
 
 **Answer:** 0286
 [[Quesiti/src_kangourou_2024_junior_squadre#q04|src_kangourou_2024_junior_squadre__Q04]]
@@ -203,9 +203,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential area of rectangular triangles rectangle 18*
+*Difference of areas of right triangles with leg 18*
 
-> Rectangular triangles Consider all rectangular triangles whose smallest diameter is 18 cm and the other sides are an integer of centimetres. Consider the areas (in square centimeters) of these triangles: what is the difference, in square centimeters, between the largest and the smallest of them?
+> Right triangles  
+> Consider all right triangles whose shorter leg measures 18 cm and whose other sides measure an 
+> integer number of centimeters. Consider the areas (in square centimeters) of these triangles: what is the 
+> difference, in square centimeters, between the largest and the smallest of them?
 
 **Answer:** 0504
 [[Quesiti/src_kangourou_2024_junior_squadre#q05|src_kangourou_2024_junior_squadre__Q05]]
@@ -235,7 +238,7 @@ level: squadre
 
 *Root of N, perfect square from M with +3 digits*
 
-> The whole square M is a perfect square and has four digits, all less than 7. Adding 3 to every digit of M gives you another perfect square N. What's the square root of N?
+> The integer M is a perfect square and has four digits, all less than 7. Adding 3 to every digit of M gives you another perfect square N. What is the (positive) square root of N?
 
 **Answer:** 0067
 [[Quesiti/src_kangourou_2024_junior_squadre#q06|src_kangourou_2024_junior_squadre__Q06]]
@@ -267,9 +270,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum solution f^4 *
+*Integer part absolute value minimum solution f^4*
 
-> The whole part for every real number x put f(x) = x2 + 64x + 992. Whether α is the least of the solutions of the equation f(f(f(x)))) = 0: determine the whole part of the absolute value of α.
+> The integer part
+> For every real number x let f(x) = x2 + 64x + 992. Let α be the smaller of the solutions of the equation
+> f(f(f(f(x)))) = 0: determine the integer part of the absolute value of α.
 >  
 >  
 > A
@@ -306,9 +311,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N(S) of the hundreds, average of 100*
+*Maximum N(S) among the centini, average 100*
 
-> The hundreds Let's say a finite set S of positive integers is a hundred if  its elements are all distinct from each other,  it contains the number 2,024,  the average of its numbers is 100. For each of these sets of S, we denote with N(S) the largest number of S. When S varies between hundreds, which is the largest of the numbers N(S)? (If you think there are hundreds of sets of S with N(S) arbitrarily large, answer 9999.)
+> The centini  
+> Let us say that a finite set S of positive integers is a centino if 
+>  its elements are all distinct from one another, 
+> it contains the number 2,024, 
+> the average of its numbers is 100.  
+> For each such set S, let us denote by N(S) the largest of the numbers in S. As S varies among the 
+> centini, what is the largest of the numbers N(S)? (If you believe that there are centini sets S with N(S) 
+> arbitrarily large, answer 9999.)
 
 **Answer:** 3126
 [[Quesiti/src_kangourou_2024_junior_squadre#q08|src_kangourou_2024_junior_squadre__Q08]]
@@ -339,7 +351,7 @@ level: squadre
 
 *Numbers 12 digits 1,2,3 with adjacent differences 1*
 
-> Only 1, 2, 3 What are the positive integers of 12 digits, whose digits are only 1 and/or 2 and/or 3 and such that two adjacent digits differ by 1 anyway?
+> Only 1, 2, 3 How many positive integers of 12 digits, whose digits are only 1 and/or 2 and/or 3 and such that two adjacent digits differ by 1 anyway?
 
 **Answer:** 0128
 [[Quesiti/src_kangourou_2024_junior_squadre#q09|src_kangourou_2024_junior_squadre__Q09]]
@@ -368,9 +380,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum parallel-piped area of 500 cubes*
+*Minimum surface area of a rectangular parallelepiped made from 500 cubes*
 
-> Parallelpipedo A rectangular parallelpipedo was constructed by approaching 500 cubes on side 1, so that the area of its total surface is as small as possible. How much is this area worth?
+> Rectangular parallelepiped  
+> A rectangular parallelepiped was built by putting together 500 cubes with side 1, so that the area of 
+> its total surface is as small as possible. What is this area?
 
 **Answer:** 0400
 [[Quesiti/src_kangourou_2024_junior_squadre#q10|src_kangourou_2024_junior_squadre__Q10]]
@@ -434,9 +448,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the results of the calculations:
+*Result 2024*24 with binary operation*
 
-> Binary operation Of a * binary operation defined between real numbers it is known that x * x = 0 and x * (y * z) = (x * y) + z are however assigned three numbers x, y, z. What is the result of 2.024 * 24?
+> Binary operation  
+> About a binary operation * defined between real numbers it is known that 
+> x * x = 0 
+> and 
+>  x * (y * z) = (x * y) + z 
+> however three numbers x, y, z are assigned. What is the result of 2,024 * 24?
 
 **Answer:** 2000
 [[Quesiti/src_kangourou_2024_junior_squadre#q12|src_kangourou_2024_junior_squadre__Q12]]
@@ -465,9 +484,9 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum squared of two integers 29*
+*Minimum sum of squares of two integers summing to 29*
 
-> The sum of two nonnegative integers is 29 and the sum of their squares is the smallest possible. How much is this?
+> The sum of two nonnegative integers is 29 and the sum of their squares is the smallest possible. What is this sum?
 
 **Answer:** 0421
 [[Quesiti/src_kangourou_2024_junior_squadre#q13|src_kangourou_2024_junior_squadre__Q13]]
@@ -499,9 +518,9 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extractions ordered to remove 12 bags*
+*Extractions ordered to remove 12 marbles*
 
-> One bag contains 12 indistinguishable bags. Gaetano wants to take them all, not necessarily one at a time, but sometimes taking more than one at a time (e.g. he could take three together, then one, then again one, then seven, or even all twelve in a single shot). Taking into account the order in which Gaetano can incorporate the grains by extracting them, how many extractions are possible? Note: the order is important, e.g. (3, 1, 1, 7) is an extraction different from (1, 3, 1, 7).
+> One bag contains 12 indistinguishable marbles. Gaetano wants to take them all, not necessarily one at a time, but sometimes taking more than one at a time (e.g. he could take three together, then one, then again one, then seven, or even all twelve in a single shot). Taking into account the order in which Gaetano can group the marbles by extracting them, how many extractions are possible? Note: the order is important, e.g. (3, 1, 1, 7) is an extraction different from (1, 3, 1, 7).
 
 **Answer:** 2048
 [[Quesiti/src_kangourou_2024_junior_squadre#q14|src_kangourou_2024_junior_squadre__Q14]]
@@ -540,11 +559,11 @@ The following table shows the results of the calculations:
 
 *Maximum number of 3 digits with distinct conditions and factors*
 
-> Three digits Of a positive integer we know that it has three digits, that the sum of the digits of the units with that of the hundreds coincides with the number of the tens, that its factorization at first sees factors all different from each other and that it is the largest compatible with these constraints. What's the number?
+> Three digits Of a positive integer we know that it has three digits, that the sum of the digits of the units with that of the hundreds coincides with the tens digit, that its prime factorization has all distinct factors and that it is the largest compatible with these constraints. What's the number?
 > 
 > Kangourou of Mathematics 2024 Junior Cup to teams Final 1 Cervia, 5 May 2024
 >  
-> Securities and replies
+> Titles and answers
 
 **Answer:** 0781
 [[Quesiti/src_kangourou_2024_junior_squadre#q15|src_kangourou_2024_junior_squadre__Q15]]

@@ -81,7 +81,7 @@ How many more bricks in the right pyramid
 
 In which image there are more black than white kangaroos
 
-> Look at the figure. 43+53=104. The addition written by Gianna is correct, but her brother Luke, in spite, covered two of the figures written by Gianna with two opaque sheets. The two numbers covered are the same. What's the number? A) 2 B) 4 C) 5 D) 7 E) 8
+> Look at the figure. 43+53=104. The addition written by Gianna is correct, but her brother Luke, in spite, covered two of the digits written by Gianna with two opaque sheets. The two numbers covered are the same. What's the number? A) 2 B) 4 C) 5 D) 7 E) 8
 
 [[Quesiti/src_kangourou_2013_ecolier#q02|src_kangourou_2013_ecolier__Q02]]
 
@@ -145,7 +145,7 @@ In which image there are more black than white kangaroos
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden figure in the sum 5_ + 5_ = 104*
+*Hidden digit in the sum 5_ + 5_ = 104*
 
 > What is the largest number of triangles that you can spot in the figure? A) 9
 >        	
@@ -239,9 +239,9 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number of friends does not divide 36*
+*Which number of friends does not divide 36*
 
-> Daniel split 36 chocolates among his friends. He managed to give each friend the same amount, but this way he didn't even have a chocolate. Which of the following cannot be Daniel's number of friends? A) 2
+> Daniel split 36 chocolates among his friends. He managed to give each friend the same amount, but this way he didn't have even one chocolate left. Which of the following cannot be Daniel's number of friends? A) 2
 >      	
 > B) 3
 >           	
@@ -285,7 +285,7 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full weight of the broken mirror*
+*Missing piece of the broken mirror*
 
 > A rectangular mirror is broken: the figure shows you how it is cracked and where a piece is missing. Which of the following is missing? A) B)
 > 	
@@ -326,7 +326,7 @@ Who made the wrong statement on the number 325?
 
 *What part of the broken mirror is missing*
 
-> Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All his figures are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The number of units is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Charles D) Darius E) Ennio I Questions from N. 9 al N. 16 is worth 4 points each.
+> Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All its digits are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The units digit is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Carlo D) Darius E) Ennio Questions from N. 9 to N. 16 are worth 4 points each.
 
 [[Quesiti/src_kangourou_2013_ecolier#q08|src_kangourou_2013_ecolier__Q08]]
 
@@ -361,7 +361,7 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles are seen in Figure *
+*How many triangles can you see in the figure?*
 
 > A train car is occupied only by three families, each made up of a father, mother and three children, male or female. In two families there are twins and all the twins in that car are males. How many females at most, including mothers, are traveling in that car? A) 5
 >         	
@@ -482,9 +482,16 @@ How many siblings can you have by dividing 36 candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where Anna arrives following the turns.
+*Where does Anna arrive following the turns*
 
-> The figure represents the map of the city of Anna. Anna begins to walk in the point and direction indicated by the arrow: at each intersection she does not go straight, but turns right or left. Exactly, at the first intersection you meet turn right, turn second and third to left, turn fourth to right, turn fifth and sixth to left. Where's Anna coming from? A) B) 	           C)              D) E)
+> The figure represents the map of Anna's city. 
+> Anna starts walking at the point and in the direction 
+> indicated by the arrow: at each intersection she does not go straight, but turns 
+> right or left. Precisely, at the first intersection she encounters she turns right, at the second and third left, at the fourth 
+> right, at the fifth and sixth left. Where does Anna arrive? 
+>     A) 	
+>        B) 	           C)              D) 	
+>    E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2013_ecolier#q12|src_kangourou_2013_ecolier__Q12]]
@@ -554,7 +561,16 @@ Where Anna arrives following the turns.
 
 *Final order of the five jumping kangaroos*
 
-> Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Parttenza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first jumps three times, then L second jumps three times, then M third jumps two times, then N fourth jumps two times, and finally O jumps one time. When O also arrived, in what order are the five kangaroos? (a) the number of persons who have been identified in the report; (b) the number of persons who have been identified;
+> Five kangaroos K, L, M, N, and O have in front of them five large square tiles, aligned as shown in the figure. Each kangaroo starts from the position indicated 
+> with "Start", jumps in the direction of the arrow and at each jump lands on the first free tile it finds. They start in the order in which we have listed them: K first and makes 
+> three jumps, then L second and he too makes three jumps, then M third and makes two jumps, then N 
+> fourth and he too makes two jumps and finally O who makes only one jump. When O has also 
+> arrived, in what order are the five kangaroos?
+> A) OKMLN              	
+> B) OKLMN             	
+>  C) OMLKN              
+> D) OMLNK               	
+> E) OMKLN
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_ecolier#q14|src_kangourou_2013_ecolier__Q14]]
@@ -590,11 +606,18 @@ Where Anna arrives following the turns.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paid to be drawn to form a rectangle*
+*Piece to place next to it to form a rectangle*
 
-> By putting the piece right next to one of the ones listed in the answers, without overlap, you can form a rectangle. Which piece do you have to pick?
+> By placing the piece shown here next to one of those listed in the 
+> answers, without overlapping it, you can form a rectangle. Which piece 
+> must you choose?
 >     	
-> A) B) C) D) E) Departure
+> A) 	
+>          B) 	      	
+>          C) 	        	
+>       D) 	     	
+> E) 
+> Start
 >
 
 **Answer:** B
@@ -629,7 +652,7 @@ Where Anna arrives following the turns.
 
 Nadia's best friends (girls and boys)
 
-> At her birthday party, Nadia invited some friends, boys and girls. He doesn't know how many will accept the invitation, but he does know that the boys invited are more than the girls, that the invited boys named Franco are three and that they make up more than a third of the boys invited. How many of Nadia's friends, boys and girls, are going to be at the party? (a) 12 (b) 13 (c) 14 (d) 15 (e) 16 Questions from N. 17 al N. Twenty-four is worth five points each.
+> At her birthday party, Nadia invited some friends, boys and girls. She doesn't know how many will accept the invitation, but she does know that the boys invited are more than the girls, that the invited boys named Franco are three and that they make up more than a third of the boys invited. How many of Nadia's friends, boys and girls, are going to be at the party? (a) 12 (b) 13 (c) 14 (d) 15 (e) 16 Questions from N. 17 al N. Twenty-four is worth five points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_ecolier#q16|src_kangourou_2013_ecolier__Q16]]
@@ -706,9 +729,9 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Over the years produced figures > sum of figures*
+*In how many years product of digits > sum of digits*
 
-> Imagine that today is the first day of 2013 (i.e. last New Year): in how many years will we be for the first time in a year that the product of its numbers is greater than the sum of its numbers? A) 87 B) 102	               C) 98 D) 1
+> Imagine that today is the first day of 2013 (i.e. last New Year): in how many years will we be for the first time in a year that the product of its digits is greater than the sum of its digits? A) 87 B) 102	               C) 98 D) 1
 >           	
 > E) 103
 
@@ -742,7 +765,7 @@ Nadia's best friends (girls and boys)
 
 *Cat waking minutes in January*
 
-> Last January, Trippa slept for exactly three weeks. How many minutes were you awake in January? A) 24 × 3 × 24 × 60 B) 10 × 24 × 60	               	        C) 9 × 24 × 60 D) 24 × 24 × 60 E) 10 × 24 × 60 × 60
+> Last January, Trippa slept for exactly three weeks. How many minutes was it awake in January? A) 24 × 3 × 24 × 60 B) 10 × 24 × 60	               	        C) 9 × 24 × 60 D) 24 × 24 × 60 E) 10 × 24 × 60 × 60
 
 **Answer:** B
 [[Quesiti/src_kangourou_2013_ecolier#q19|src_kangourou_2013_ecolier__Q19]]
@@ -781,7 +804,7 @@ Nadia's best friends (girls and boys)
 
 *Maximum number of dominoes in a row*
 
-> Ennio has the dominoes that show you the figure. He wants to line them up by following the domino rule: the second square of each card must have the same number of points as the first square of the next card. How many can you line up, at most? A) 3
+> Ennio has the domino tiles shown in the figure. He wants to line them up by following the domino rule: the second square of each tile must have the same number of points as the first square of the next tile. How many can he line up, at most? A) 3
 >         	
 > B) 4
 > 	
@@ -870,7 +893,7 @@ Nadia's best friends (girls and boys)
 
 *How many moons on the stretched carpet*
 
-> Peter bought a carpet 60 centimeters long and 36 wide. The carpet has a design made up of squares all of the same size that contain either the sun or the moon, as shown in the figure, which shows only one end of the carpet (imagine the remaining part being rolled). When the carpet is completely stretched, how many moons can you see? A) 68
+> Peter bought a carpet 60 decimeters long and 36 wide. The carpet has a design made up of squares all of the same size that contain either the sun or the moon, as shown in the figure, which shows only one end of the carpet (imagine the remaining part being rolled). When the carpet is completely stretched, how many moons can you see? A) 68
 >         	
 > B) 67 C) 65 D) 63
 >        	
@@ -911,9 +934,9 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum additions of 0 and 1 with sum 2013*
+*Minimum addends of 0 and 1 with sum 2013*
 
-> Simone wrote some numbers using for each of them only the digits 0 and 1. The sum of the numbers he wrote is 2013 and he couldn't have got the same sum with a smaller number of additions each consisting only of the numbers 0 and 1. How many numbers did Simone write? A) 2
+> Simone wrote some numbers using for each of them only the digits 0 and 1. The sum of the numbers he wrote is 2013 and he couldn't have got the same sum with a smaller number of addends each consisting only of the digits 0 and 1. How many numbers did Simone write? A) 2
 >     	
 > B) 3
 >           	
@@ -960,7 +983,7 @@ Nadia's best friends (girls and boys)
 
 *Minimum number of pieces to form a full square*
 
-> Cristina has many pieces that are identical to the one in the figure and wants to draw some of them together, without overlapping them, so as to get a full square. What's the smallest number of pieces that allows you to reach your goal? A) 5 B) 9 C) 4 D) 16 E) It is not possible to achieve what Cristina wants.
+> Cristina has many pieces that are identical to the one in the figure and wants to place some of them side by side, without overlapping them, so as to get a full square. What's the smallest number of pieces that allows her to reach her goal? A) 5 B) 9 C) 4 D) 16 E) It is not possible to achieve what Cristina wants.
 >  
 > 60 dm 36 dm
 > 

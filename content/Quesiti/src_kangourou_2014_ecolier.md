@@ -36,7 +36,7 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob1.png]]
 
-> Look at the figure next to me. Only one of the circles below is the enlargement of its central part. What kind?
+> Look at the figure beside it. Only one of the circles below is the enlargement of its central part. Which one?
 
 [[Quesiti/src_kangourou_2014_ecolier#q01|src_kangourou_2014_ecolier__Q01]]
 
@@ -68,7 +68,7 @@ level: kangourou
 
 *Where to enter 3 to get the smallest number*
 
-> Giacomo wants to turn the number 2014 into a five-digit number by adding the number 3 to the already existing numbers. If you want to get the smallest number possible, where should you put the number 3? A) At the beginning B) Between 2 and 0 C) Between 0 and 1 D) Between 1 and 4 E) At the end
+> Giacomo wants to turn the number 2014 into a five-digit number by adding the digit 3 to the already existing digits. If you want to get the smallest number possible, where should you put the number 3? A) At the beginning B) Between 2 and 0 C) Between 0 and 1 D) Between 1 and 4 E) At the end
 
 [[Quesiti/src_kangourou_2014_ecolier#q02|src_kangourou_2014_ecolier__Q02]]
 
@@ -106,7 +106,7 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob3.png]]
 
-> Some rectangles, including a square, and some triangles, have been added or superimposed to form the five boxes you see. For which of them were identical pieces and in the same quantity used? A) 1 e  4	            B) 3 e 4 C) 1, 4 e 5	              D) 3, 4 e 5	        E) 1, 2, 4 e 5
+> Some rectangles, including a square, and some triangles, have been added or superimposed to form the five houses you see. For which of them were identical pieces and in the same quantity used? A) 1 and 4	            B) 3 and 4 C) 1, 4 and 5	              D) 3, 4 and 5	        E) 1, 2, 4 and 5
 
 [[Quesiti/src_kangourou_2014_ecolier#q03|src_kangourou_2014_ecolier__Q03]]
 
@@ -141,7 +141,7 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob4.png]]
 
-> The result of the subtraction indicated next to each of the points here is the same. Starting from the point where the result 0 corresponds, Maria wants to link it to the point where the result 1 corresponds, then she wants to link the latter to the point where the result 2 corresponds, and so on until the result 5. Which of the following patterns indicates the connections that Mary wants to make?
+> Each of the points here corresponds to the result of the subtraction indicated next to it. Starting from the point where the result 0 corresponds, Maria wants to link it to the point where the result 1 corresponds, then she wants to link the latter to the point where the result 2 corresponds, and so on until the result 5. Which of the following patterns indicates the connections that Maria wants to make?
 
 [[Quesiti/src_kangourou_2014_ecolier#q04|src_kangourou_2014_ecolier__Q04]]
 
@@ -223,11 +223,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where to place the shaft to form the shape*
+*Where to put the tile to form the shape*
 
 ![[src_kangourou_2014_ecolier__prob6.png]]
 
-> Franca's got the four tails you see right next to her. Using these scales, he wants to form the shape that is shown in each of the answers. Where do you want to put the bag ?
+> Franca has the four tiles you see next to it.
+> Using these tiles, she wants to form the shape shown in
+> each of the answers.
+> Where must she put the tile
+> ?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_ecolier#q06|src_kangourou_2014_ecolier__Q06]]
@@ -294,7 +298,7 @@ level: kangourou
 
 *Which square equals the black and white area*
 
-> Maria sits at the table with her mother Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest of the four? A) Enrica B) Maria C) Carlo D) Roberto E) It is not possible to reply without further information. Questions from n. 9 al n. 16 is worth 4 points each.
+> Maria sits at the table with her mother Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest of the four? A) Enrica B) Maria C) Carlo D) Roberto E) It is not possible to reply without further information. Questions from n. 9 to n. 16 are worth 4 points each.
 
 [[Quesiti/src_kangourou_2014_ecolier#q08|src_kangourou_2014_ecolier__Q08]]
 
@@ -333,7 +337,7 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob9.png]]
 
-> In each of the free-standing square boxes in the figure, Monica wants to write a number so that every number that appears is the product of the two numbers that are below it. What's the sum of the numbers Monica has to write? A) 8 B) 16
+> In each of the empty square cells remaining in the figure, Monica wants to write a number so that every number that appears is the product of the two numbers that are below it. What's the sum of the numbers Monica has to write? A) 8 B) 16
 > 	
 > C) 32 D) 64 E) 88
 
@@ -373,7 +377,7 @@ level: kangourou
 
 *View from the top of the solid of 8 cubes*
 
-> On a plate, there were initially some cookies. Sandro took half of it, then Chiara took half the rest and finally Mauro took half the ones Chiara left behind. There's six cookies left in the final cut. How many were there at the beginning? A) 12
+> On a plate, there were initially some cookies. Sandro took half of them, then Chiara took half the rest and finally Mauro took half of those left by Chiara. In the end, 6 cookies were left on the plate. How many were there at the beginning? A) 12
 > 	
 > B) 18
 > 	
@@ -477,7 +481,7 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob12.png]]
 
-> Paul plays the shot at the target. If he doesn't hit the target he gets 0 points, if he hits it he gets the score shown in the figure in the area where he hit it. After two throws, which of the following numbers cannot be the sum of the two scores he has scored? A) 60
+> Paul plays target shooting. If he doesn't hit the target he gets 0 points, if he hits it he gets the score shown in the figure in the area where he hit it. After two throws, which of the following numbers cannot be the sum of the two scores he has scored? A) 60
 > 	
 > B) 70
 > 	
@@ -527,7 +531,7 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob13.png]]
 
-> Initially Fulvia had white, gray and black discs in equal quantity. After he arranged a few of them as you see in the figure, he's got five left. In the figure you can see all the discs used by Fulvia. How many discs did you have at the beginning for each color? A) 5
+> Initially Fulvia had white, gray and black discs in equal quantity. After she arranged a few of them as you see in the figure, she's got five left. In the figure you can see all the discs used by Fulvia. How many discs did she have at the beginning for each color? A) 5
 > 	
 > B) 6
 > 	
@@ -569,15 +573,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blackheads did you have at the beginning as you move forward 5 *
+*How many black pieces did it have at the beginning, given that 5 are left over*
 
-> The Tim rabbit is very fond of carrots and carrots, but it follows an iron rule: every day, as you choose, it eats either 9 carrots, or 2 carrots, or 1 carrots and 4 carrots. For a week, Tim ate a total of 30 carrots. How many carrots did you eat in all that week? A) 6
+> Tim the rabbit is very fond of carrots and carob beans, but he follows a strict rule: every day,
+> at his choice, he eats either 9 carrots, or 2 carob beans, or 1 carob bean and 4 carrots. During one week Tim
+> ate 30 carrots in total. How many carob beans did he eat in total during that week?
+> A) 6	
+	
 > 	
-> B) 7
+> B) 7	
+	
 > 	
-> C) 8
+> C) 8	
+	
 > 	
-> D) 9
+> D) 9	
+	
 > 	
 > E) 10
 
@@ -672,7 +683,7 @@ level: kangourou
 > 	
 > E) 265 A) B) C) D) E) 30 50 70
 > 
-> Questions from n. 17 al n. Twenty-four is worth five points each.
+> Questions from n. 17 to n. 24 are worth five points each.
 
 [[Quesiti/src_kangourou_2014_ecolier#q16|src_kangourou_2014_ecolier__Q16]]
 
@@ -711,16 +722,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Requests showing green after the next rounds*
+*Counters showing green after successive rounds*
 
-> Henry has ten legs all the same: each face is red and the other green. He's placing them in a row on the table so they all show their red faces. After a minute, it's all over. After one more minute, only those of equal rank. After another minute, only the third, sixth and ninth turn. After another minute only the fourth and eighth turn and so on until, in the end, only the tenth turn. At this point, how many pedals show the green face? A) 1
-> 	
-> B) 3
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> Enrico has ten identical counters: each has one red face and the other green. He arranges them in
+> a row on the table so that they all show the red face. After one minute he turns them all over. After
+> another minute he turns over only those in even positions. After another minute he turns over only the third, the sixth and the
+> ninth. After another minute he turns over only the fourth and the eighth, and so on until, at the end, he turns
+> over only the tenth. At this point, how many counters show the green face?
+> A) 1	
+	
+> B) 3	
+	
+> C) 5	
+	
+> D) 6	
+	
 > E) 7
 
 **Answer:** B
@@ -797,11 +813,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exchanges to compose the word SEGEMENT*
+*Minimum exchanges to compose the word SEGMENTO*
 
 ![[src_kangourou_2014_ecolier__prob19.png]]
 
-> Anna has lined up some cards, each with a letter on it, as you can see in the picture. Making a move on these cards means swapping two of them. What is the minimum number of moves that allows you to compose the word SEGMENT? A) 2
+> Anna has lined up some cards, each with a letter on it, as you can see in the picture. Making a move on these cards means swapping two of them. What is the minimum number of moves that allows you to compose the word SEGMENTO? A) 2
 > 	
 > B) 3
 > 	
@@ -846,15 +862,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many black hairs in level 6 of the scheme*
+*How many black rhombi are in level 6 of the pattern*
 
 ![[src_kangourou_2014_ecolier__prob20.png]]
 
-> As of noon today, the clock on the bell tower, which until then had been running regularly, has failed: the clock has continued to move regularly, while the minute clock has started to rotate 12 times faster than it should. It's exactly 12:55 now. In which of the following positions are the two handles?
+> Starting from noon today, the clock of the bell tower, which until then had worked
+> regularly, has broken down: the hour hand has continued to move regularly,
+> while the minute hand has started to rotate 12 times faster than it should. Now
+> it is exactly 12:55. In which of the following positions are the two hands?
 > 	
-> A)
+>        A)	
 > 	
-> B) C) D) E)
+>   B)	
+>              C)	
+>         D)	 	
+>    E)
 
 [[Quesiti/src_kangourou_2014_ecolier#q20|src_kangourou_2014_ecolier__Q20]]
 
@@ -907,15 +929,36 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What toys Heinzi brought home given the coins
+*Which toys did Heinzi bring home given the coins*
 
 ![[src_kangourou_2014_ecolier__prob21.png]]
 
-> Michele went to a store and bought some of the toys you see in the picture, each of which is priced. He paid with three 50-euro tickets and got 20 euros left. As soon as he left, he changed his mind and returned to the store, changing one of the toys he had bought with another, also in the figure. What toys did he finally come home with? (a) The carriage and the aircraft.
+> Michele went to a shop and bought 
+> some of the toys you see 
+> in the figure, for each of which the 
+> price is indicated. He paid with 3 banknotes 
+> of 50 euros and got 20 euros in change. 
+> As soon as he left he changed his mind and went 
+> back to the shop having one 
+> of the toys he had bought exchanged for 
+> another one, also in the figure: in this 
+> way he received another 5 euros in change. With 
+> which toys did he end up coming back home?
+> A) The carriage and the plane.	
 > 	
-> (b) The carriage and bus. C) The carriage and the tram.
+> B) The carriage and the bus.
+> C) The carriage and the tram.	
 > 	
-> D) The motorcycle and the tram. E) Buses, motorcycles and trams. T E N M O G S E
+> D) The motorbike and the tram.
+> E) The bus, the motorbike and the tram.
+> T
+> E
+> N
+> M
+> O
+> G
+> S
+> E
 >
 
 [[Quesiti/src_kangourou_2014_ecolier#q21|src_kangourou_2014_ecolier__Q21]]
@@ -981,7 +1024,7 @@ What toys Heinzi brought home given the coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum lines for paring wagons at stations*
+*Minimum lines to level wagons at stations*
 
 ![[src_kangourou_2014_ecolier__prob22.png]]
 
@@ -1005,7 +1048,7 @@ What toys Heinzi brought home given the coins
 \end{document}
 ```
 
-> Look at the figure. The five points represent as many stations and the segments connecting them represent railway lines. The number next to each station indicates how many cars are present at that station. A locomotive serves between the various stations: at each station you can leave or pick up some wagons. If you start from a station where there are more cars, what is the least number of lines you can cross to ensure that at the end of your journey, you have the same number of cars at all stations? A) 3
+> Look at the figure. The five points represent as many stations and the segments connecting them represent railway lines. The number next to each station indicates how many cars are present at that station. A locomotive serves between the various stations: at each station it can leave or pick up some wagons. If it starts from the station where there are the most wagons, what is the least number of lines it needs to travel so that, at the end of its journeys, all stations have the same number of wagons? A) 3
 > 	
 > B) 4
 > 	
@@ -1119,7 +1162,7 @@ What toys Heinzi brought home given the coins
 >
 > What is the maximum number of small squares you can color?
 >
-> (A) 16
+> A) 16
 > 	
 > B) 18	
 > 	
@@ -1134,7 +1177,7 @@ What toys Heinzi brought home given the coins
 > 6
 > 7
 > 
-> CATERPILLAR ECOLIER 2014
+> STRINGA ECOLIER 2014
 
 **Answer:** D
 

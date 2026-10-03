@@ -74,7 +74,7 @@ level: squadre
 
 ![[src_kangourou_2014_squadre_a__prob2.png]]
 
-> Average grid In each of the boxes of a grid 100 × 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the top boxes. What number was entered in the fourth?
+> Average grid In each of the boxes of a grid 100 × 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the corner cells. What number was entered in the fourth?
 
 **Answer:** 892
 [[Quesiti/src_kangourou_2014_squadre_a#q02|src_kangourou_2014_squadre_a__Q02]]
@@ -105,9 +105,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rectangles n nearest to 1000 with straight lines *
+*Number of rectangles n closest to 1000 with lines*
 
-> 5 parallel lines and some parallel lines are drawn in the plane. Overall, n rectangles can be identified, each having sides on four of the lines drawn. We know that n is the number as close to 1000 as possible with these assumptions. How much is n?
+> Parallel lines and perpendicular lines          
+> In the plane, 5 parallel lines and some lines perpendicular to them are drawn (hence also 
+> parallel to each other). Overall, n rectangles can be identified, each having its sides on 
+> four of the drawn lines. It is known that n is the number as close as possible to 1000 under these 
+> assumptions. What is the value of n?
 
 **Answer:** 1050
 [[Quesiti/src_kangourou_2014_squadre_a#q03|src_kangourou_2014_squadre_a__Q03]]
@@ -136,9 +140,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dimension of swimming pool from East and North
+*Circular swimming pool diameter from East and North*
 
-> Luisa's swimming pool In a park there's a perfectly circular pool. Luisa dives from a point on the edge, swims eastward, and after 24 meters touches the edge again. From this new point on the edge, he swims north and after seven metres touches the edge again. How many meters does the swimming pool diameter measure?
+> Luisa's swimming pool In a park there's a perfectly circular pool. Luisa dives from a point on the edge, swims eastward, and after 24 meters touches the edge again. From this new point on the edge, she swims north and after seven metres touches the edge again. How many meters does the swimming pool diameter measure?
 
 **Answer:** 25
 [[Quesiti/src_kangourou_2014_squadre_a#q04|src_kangourou_2014_squadre_a__Q04]]
@@ -166,7 +170,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of positive integers (x,y) with x+3y=2014*
+*Number of pairs (x,y) of positive integers with x+3y=2014*
 
 > Equation in integers For how many ordered pairs (x,y) of positive integers do you have that x + 3y = 2014?
 
@@ -310,9 +314,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 0 in the coefficient R(25)/R(5) *
+*How many digits 0 in the quotient R(25)/R(5) *
 
-> How many digits of zero? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
+> How many digits 0? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2014_squadre_a#q08|src_kangourou_2014_squadre_a__Q08]]
@@ -345,7 +349,7 @@ level: squadre
 
 *Exchange tyres for equal consumption after several kilometres*
 
-> The rotation of the tyres A car assembles special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the timing of the replacement is the same for all four tyres, after how many kilometres will the four tyres have to be replaced from front to rear and vice versa?
+> The rotation of the tyres A car is fitted with special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the moment when they need to be replaced is the same for all four tyres, after how many kilometres will the four tyres have to be swapped from front to rear and vice versa?
 
 **Answer:** 1800
 [[Quesiti/src_kangourou_2014_squadre_a#q09|src_kangourou_2014_squadre_a__Q09]]
@@ -373,7 +377,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of figures of the difference of two large squares*
+*Sum of digits of the difference of two large squares*
 
 > What is the sum of the digits of the whole number 777.777.777.7772 - 222.222.222.2232 ?
 
@@ -446,7 +450,7 @@ level: squadre
 
 ![[src_kangourou_2014_squadre_a__prob12.png]]
 
-> The figure sketches a portion of a rectangular floor. For tiles, square tiles of the same size were used, broken in half to make triangular tiles that were only used along the edges. Along each of the short edges are 20 triangular tiles, along each of the long ones are 86 tiles. How many square tiles of those used ones are left intact?
+> The figure sketches a portion of a rectangular floor. To tile it, square tiles all of the same size were used, broken in half to make triangular tiles that were only used along the edges. Along each of the short edges are 20 triangular tiles, along each of the long ones are 86 tiles. How many square tiles of those used are left whole?
 
 **Answer:** 3334
 [[Quesiti/src_kangourou_2014_squadre_a#q12|src_kangourou_2014_squadre_a__Q12]]
@@ -480,7 +484,7 @@ level: squadre
 
 *Number on the third kilometre signal (digits exchanged) *
 
-> Miles signals Giulio is driving at a steady speed on a freeway. At some point, you notice that the two digits of the number on the kilometre signal you're passing are those of the signal you had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving you notice that the number present on the signal you are passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What's the number on the third mile?
+> Kilometre signals Giulio is driving at a steady speed on a freeway. At some point, he notices that the two digits of the number on the kilometre signal he is passing are those of the signal he had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving he notices that the number present on the signal he is passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What is the number on the third kilometre signal?
 
 **Answer:** 106
 [[Quesiti/src_kangourou_2014_squadre_a#q13|src_kangourou_2014_squadre_a__Q13]]
@@ -547,7 +551,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of four consecutive integers with product 358800*
+*Sum of four consecutive integers with product 358800*
 
 > Product and sum The product of four consecutive integers is 358,800. What's their sum?
 > 

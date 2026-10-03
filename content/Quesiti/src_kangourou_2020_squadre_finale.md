@@ -72,7 +72,7 @@ level: squadre
 
 *Number in place of 2020 of repeated odd sequences*
 
-> In place 2020 What is the number in place 2020 of the sequence 1, 3, 3, 5, 5, 5, 5, 5, 7, 7, ... where all and only the odd integers appear, in increasing order and each one a number of times equal to itself?
+> What is the number in position 2020 of the sequence 1, 3, 3, 3, 5, 5, 5, 5, 5, 7, 7, ... where all and only the odd integers appear, in increasing order and each one a number of times equal to itself?
 
 **Answer:** 0089
 [[Quesiti/src_kangourou_2020_squadre_finale#q02|src_kangourou_2020_squadre_finale__Q02]]
@@ -135,9 +135,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digits of the difference between sums of D and P*
+*First digits of the difference between the sums of D and P*
 
-> Dispose against even From the set of all integers between 1000 and 9999 included, imagine selecting the subset D of those whose digits are all odd and the subset P of those whose digits are all equal. Now imagine you add all the numbers in D and, separately, all the numbers in P. What are the first four digits to the left of the difference between the two sums?
+> Odd versus even
+> From the set of all integers between 1000 and 9999 inclusive, imagine selecting the subset
+> D of those whose digits are all odd and the subset P of those whose digits are all even. Now
+> imagine adding all the numbers in D and, separately, all the numbers in P. What are the first
+> four digits from the left of the difference between the two sums?
 
 **Answer:** 7498
 [[Quesiti/src_kangourou_2020_squadre_finale#q04|src_kangourou_2020_squadre_finale__Q04]]
@@ -170,7 +174,7 @@ level: squadre
 
 *Trees planted in March 2017*
 
-> Trees A March 2017 along an avenue were planted by trees, very far apart. In March 2018, another one was planted between each of the two adjacent ones. The same operation was repeated in March for the next two years. To date, 81 trees have been planted since March 2017 (in addition to the ones we are talking about, no others have been planted). How many trees were planted in March 2017?
+> Trees A March 2017 along an avenue trees were planted, very far apart. In March 2018, another one was planted between each of the two adjacent ones. The same operation was repeated in March for the next two years. To date, 81 trees have been planted since March 2017 (in addition to the ones we are talking about, no others have been planted). How many trees were planted in March 2017?
 
 **Answer:** 0011
 [[Quesiti/src_kangourou_2020_squadre_finale#q05|src_kangourou_2020_squadre_finale__Q05]]
@@ -235,9 +239,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late of the largest triangle with 2020 cm of wire*
+*Side of the largest triangle with 2020 cm of wire*
 
-> The largest triangle You can get an equilateral triangle of 3 cm side by approaching 9 equilateral triangles of 1 cm each side. By approximating a larger number of equilateral triangles, each on side 1, with the same criterion, larger equilateral triangles can be obtained. You want to cover with a rigid thread all the segments that appear in the figure obtained, but you only have 2020 cm of thread (which, if necessary, can be cut). How many centimeters is the length of the side of the largest triangle on which you can do this operation?
+> The largest triangle You can get an equilateral triangle of 3 cm side by placing 9 equilateral triangles of 1 cm each side. By placing a larger number of equilateral triangles, each of side 1, with the same criterion, larger equilateral triangles can be obtained. You want to cover with a rigid thread all the segments that appear in the figure obtained, but you only have 2020 cm of thread (which, if necessary, can be cut). How many centimeters is the length of the side of the largest triangle on which you can do this operation?
 
 **Answer:** 0036
 [[Quesiti/src_kangourou_2020_squadre_finale#q07|src_kangourou_2020_squadre_finale__Q07]]
@@ -273,7 +277,7 @@ level: squadre
 
 *Minimum line reversals for 2020 red tokens*
 
-> On a rectangular chessboard of 100 × 50 there are 5000 tokens, one on each box. Each token has a black face and a red face, and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to overturn a token you have to overturn all the tokens of the line or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
+> On a rectangular chessboard of 100 × 50 there are 5000 tokens, one on each square. Each token has a black face and a red face, and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to flip a token you have to flip all the tokens of the row or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
 
 **Answer:** 0022
 [[Quesiti/src_kangourou_2020_squadre_finale#q08|src_kangourou_2020_squadre_finale__Q08]]
@@ -320,7 +324,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the rectangular sheets of the window*
+*Height of the rectangular panes of the window*
 
 ![[src_kangourou_2020_squadre_finale__prob9.png]]
 
@@ -337,7 +341,12 @@ level: squadre
 \end{document}
 ```
 
-> The window The figure shows you the pattern of a semi-circular window closed with a window, made up of the glass plates that are highlighted. The bases (horizontal sides) of the plates are all the same length, one tenth of a centimeter in diameter. How many centimetres does the height of each rectangular plate measure?
+> The window 
+> The figure shows you the pattern of a semicircular window closed with 
+> a window, made up of the glass panes that are highlighted. 
+> The bases (horizontal sides) of the panes all have the same length, 
+> one tenth of the diameter, which measures 250 centimetres. How many centimetres 
+> does the height of each of the rectangular panes measure?
 
 **Answer:** 0075
 [[Quesiti/src_kangourou_2020_squadre_finale#q09|src_kangourou_2020_squadre_finale__Q09]]
@@ -366,9 +375,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of Sofia with (x-55)(x+55) cube of first*
+*Sofia's age with (x-55)(x+55) cube of a prime*
 
-> Sofia Sofia's age made a calculation: if you multiply the age (in years) she was 55 years old by the age she would be 55 years old if she was still alive, you get a number that is the cube of a prime number. How old is Sofia?
+> Sofia's age 
+> Sofia made a calculation: if she multiplies the age (in years) she had 55 years ago by the age she would have in 55 
+> years if she were still alive, she obtains a number that is the cube of a prime number. How old is Sofia?
 
 **Answer:** 0066
 [[Quesiti/src_kangourou_2020_squadre_finale#q10|src_kangourou_2020_squadre_finale__Q10]]
@@ -398,7 +409,7 @@ level: squadre
 
 *Value of a^3+b^3 given that a^3-b^3=485*
 
-> Sum of cubes Two positive integers a and b are such that a3  b3 = 485. How much is a3 + b3 ?
+> Sum of cubes Two positive integers a and b are such that a3 - b3 = 485. How much is a3 + b3 ?
 
 **Answer:** 0539
 [[Quesiti/src_kangourou_2020_squadre_finale#q11|src_kangourou_2020_squadre_finale__Q11]]
@@ -431,7 +442,7 @@ level: squadre
 
 *sum of the two wrong numbers in the progression*
 
-> Six whole numbers were written in arithmetic progression (i.e. the difference of each, except the first, with the previous one was always the same). In copying them, Sandro the Pasticcio not only forgot one, but he also mistook another. So he wrote, 11, 25, 32, 37, 46. What is the sum of the two numbers in the initial progression that Sandro misread or forgot?
+> Six whole numbers were written in arithmetic progression (i.e. the difference of each, except the first, with the previous one was always the same). In copying them, Sandro the scatterbrain not only forgot one, but he also mistook another. So he wrote, 11, 25, 32, 37, 46. What is the sum of the two numbers in the initial progression that Sandro got wrong or forgot?
 
 **Answer:** 0057
 [[Quesiti/src_kangourou_2020_squadre_finale#q12|src_kangourou_2020_squadre_finale__Q12]]
@@ -466,7 +477,7 @@ level: squadre
 
 *Maximum number of distinct tickets (5 squares 4 colours rotating) *
 
-> Tickets Rectangular tickets are used to identify each participant in a competition. One face is gray, equal for all; the other is divided into 5 aligned squares (congruents) which can be coloured with 4 different colours available; these colours can be used in any position, even partially (e.g. it is possible that only one colour is used in a ticket). There's no other marks on the tickets. How many participants can be admitted at most?
+> Tickets Rectangular tickets are used to identify each participant in a competition. One face is gray, equal for all; the other is divided into 5 aligned squares (congruent) which can be coloured with 4 different colours available; these colours can be used in any position, even partially (e.g. it is possible that only one colour is used in a ticket). There are no other marks on the tickets. How many participants can be admitted at most?
 
 **Answer:** 0544
 [[Quesiti/src_kangourou_2020_squadre_finale#q13|src_kangourou_2020_squadre_finale__Q13]]
@@ -498,7 +509,7 @@ level: squadre
 
 *How many safe deposit boxes for 44100*
 
-> The spoil A spoil of 44,100 gold coins is divided into bags: one of 1, one of 3, one of 5, one of 7 coins ... and so on. One of the bags is then placed in a safe, two of the remaining bags together in another safe, three of the remaining bags together in a third safe and so on. How many safe houses are in total?
+> The loot A loot of 44,100 gold coins is divided into bags: one of 1, one of 3, one of 5, one of 7 coins ... and so on. One of the bags is then placed in a safe, two of the remaining bags together in another safe, three of the remaining bags together in a third safe and so on. How many safes are there in total?
 
 **Answer:** 0020
 [[Quesiti/src_kangourou_2020_squadre_finale#q14|src_kangourou_2020_squadre_finale__Q14]]
@@ -535,7 +546,7 @@ level: squadre
 
 Maximum cost for roses and tulips 2020 chairs
 
-> Roses and tulips A politician organizes a party in a huge square where they are arranged in a circle 2020 chairs. The politician knows that all the seats will be occupied and that the participants will sit down so that every woman has at least one man by her side. He decides to give every woman a rose and every man a tulip, which he will order to a florist once the chairs are occupied. A rose costs him three euros, a tulip two euros. What is the maximum expenditure in euro that you may have to pay?
+> Roses and tulips A politician organizes a party in a huge square where they are arranged in a circle 2020 chairs. The politician knows that all the seats will be occupied and that the participants will sit down so that every woman has at least one man by her side. He decides to give every woman a rose and every man a tulip, which he will order to a florist once the chairs are occupied. A rose costs him three euros, a tulip two euros. What is the maximum expenditure in euro that he may have to pay?
 > 
 >  
 > Questions and solutions

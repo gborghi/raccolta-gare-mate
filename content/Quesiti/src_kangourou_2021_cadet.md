@@ -83,7 +83,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shadeed percentage of concentric circles*
+*Shaded percentage of concentric circles*
 
 ![[src_kangourou_2021_cadet__prob2.png]]
 
@@ -219,7 +219,7 @@ level: kangourou
 
 ![[src_kangourou_2021_cadet__prob5.png]]
 
-> Incrementing the five cards of the puzzle in the correct way results in a rectangle in which an operation is read. What is the result? A) –100 B) –8
+> By fitting the five puzzle tiles together in the correct way, you get a rectangle in which an operation can be read. What is the result? A) –100 B) –8
 > 	
 > C) –1
 > 	
@@ -275,7 +275,7 @@ level: kangourou
 
 ![[src_kangourou_2021_cadet__prob6.png]]
 
-> All the vessels represented in the answers are the same height and each has a capacity of 1 litre. We pour half a liter of water into each pot. In which vessel will the level reached by the water be higher? A)
+> All the vessels represented in the answers are the same height and each has a capacity of 1 litre. We pour half a liter of water into each vessel. In which vessel will the level reached by the water be the highest? A)
 > 	
 > B)
 > 	
@@ -366,7 +366,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 ![[src_kangourou_2021_cadet__prob8.png]]
 
-> A cube of 3 cm was obtained at the cost of white, gray and black cubes of 1 cm, as shown in the first figure. The other two pages show the two parts consisting of only white cubes and only black cubes. Which of the following figures could illustrate the part consisting of only grey cubes? A)
+> A cube with edge 3 cm was obtained by putting together white, grey and black cubes with edge 1 cm, as shown in the first figure. The other two figures show the two parts consisting of only white cubes and only black cubes. Which of the following figures could illustrate the part consisting of only grey cubes? A)
 > 	
 > B)
 > 	
@@ -418,7 +418,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 ![[src_kangourou_2021_cadet__prob9.png]]
 
-> A combination lock is made up of four bars, each of which is given in the order of 0 to 9. To obtain the correct combination, you need to turn each gear shown in the figure next to 180°. Which of the following is the correct combination of the lock? A)
+> A combination lock is made up of four gears, each of which shows the digits from 0 to 9 in order. To obtain the correct combination, you need to turn each gear shown in the figure next to 180°. Which of the following is the correct combination of the lock? A)
 > 	
 > B)
 > 	
@@ -467,7 +467,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 *Figures left after strip breaks*
 
-> A rectangular chocolate table is made up of many equal squares. Because it breaks two whole strips of squares and eats the 12 squares. Later, James breaks a whole strip of squares from what is left of the table and eats the 9 squares. How many chocolates are left on the board at the end? A) 72
+> A rectangular chocolate bar is made up of many equal squares. Nicola breaks two whole strips of squares and eats the 12 squares. Later, James breaks a whole strip of squares from what is left of the bar and eats the 9 squares. How many squares of chocolate are left on the bar at the end? A) 72
 > 	
 > B) 63
 > 	
@@ -475,7 +475,7 @@ Part of the grey cubes of the 3x3x3 cube
 > 	
 > D) 45
 > 	
-> E) 36 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 36 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_cadet#q10|src_kangourou_2021_cadet__Q10]]
@@ -511,7 +511,7 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of addition of four digits of numbers*
+*Sum of addition of four-digit numbers*
 
 ![[src_kangourou_2021_cadet__prob11.png]]
 
@@ -578,7 +578,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 *Weight of the empty vessel given two fillings*
 
-> A vessel filled with water for one fifth of its capacity weighs 560 g. The same vessel filled with water for four quintes weighs 740 g. What's the weight of the empty vase? (a) 60 g B) 112 g C) 180 g D) 300 g E) 500 g AB + CD 137 ADCB CBAD ? = + = 5 2 3 7 6 3 4 8 7 4 5 9 180 ° 9 7 0 4 0 8 1 5 1 9 2 6 0 7 8 2 1 8 9 3 2 9 0 4 0 8 6 1 1 9 7 2 2 0 8 3 3 7 8 1 4 8 9 2 5 9 0 3 7 3 2 5 8 4 3 6 9 5 4 7
+> A vessel filled with water for one fifth of its capacity weighs 560 g. The same vessel filled with water for four fifths weighs 740 g. What's the weight of the empty vessel? A) 60 g B) 112 g C) 180 g D) 300 g E) 500 g AB + CD 137 ADCB CBAD ? = + = 5 2 3 7 6 3 4 8 7 4 5 9 180 ° 9 7 0 4 0 8 1 5 1 9 2 6 0 7 8 2 1 8 9 3 2 9 0 4 0 8 6 1 1 9 7 2 2 0 8 3 3 7 8 1 4 8 9 2 5 9 0 3 7 3 2 5 8 4 3 6 9 5 4 7
 >
 
 **Answer:** E
@@ -623,9 +623,9 @@ Part of the grey cubes of the 3x3x3 cube
 
 > The large square in which the figure is enclosed has an area of 16 cm2, while each of the four small gray squares has an area of 1 cm2. What is the area in square centimetres of the black flower? A) 3
 > 	
-> B)  7----- 2
+> B) 7/2
 >  		
-> C) 4 D) E) 6
+> C) 4 D) 5 E) 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_cadet#q13|src_kangourou_2021_cadet__Q13]]
@@ -665,15 +665,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of overlap between axes*
+*Length of the overlap between planks*
 
 ![[src_kangourou_2021_cadet__prob14.png]]
 
-> Jacopo builds a new station in his garden, using 25 wooden axes, each 30 cm wide. It approaches them so that there is always the same slight overlap between the two axes of each pair of adjacent axes, as the figure showing a part of the station from above suggests: The total length of the new Jacopo station is 6.9 metres. What is the length in centimetres of the overlap between two adjacent axes? A) 2,4 B) 2,5
-> 	
+> Jacopo is building a new fence in his garden, using 25 wooden planks,
+> each of which is 30 cm wide. He places them side by side so that there is always the same
+> slight overlap between the two planks of every pair of adjacent planks, as suggested
+> by the figure showing a part of the fence seen from above:
+> The total length of Jacopo's new fence is 6.9 metres. What is the length
+> in centimetres of the overlap between two adjacent planks?
+> A) 2.4
+> B) 2.5
+>
 > C) 3
-> 	
-> D) 4,8 E) 5
+>
+> D) 4.8
+> E) 5
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_cadet#q14|src_kangourou_2021_cadet__Q14]]
@@ -720,7 +728,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 ![[src_kangourou_2021_cadet__prob15.png]]
 
-> Five identical rectangular triangles can be moved so that by approaching (without leaving interstities and without creating overlapping positions) their larger sharp angles form the star shown in the figure. With a larger number of triangles of the same type, a different star can be constructed by approaching (with the same precautions) the smaller sharp angles: how many triangles form such a star? A) 10
+> Five identical right triangles can be moved so that by approaching (without leaving gaps and without creating overlapping positions) their larger sharp angles form the star shown in the figure. With a larger number of triangles of the same type, a different star can be constructed by approaching (with the same precautions) the smaller sharp angles: how many triangles form such a star? A) 10
 > 	
 > B) 12
 > 	
@@ -907,7 +915,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 > In a box there are apples and pears: the number of apples is twice the number of pears. Cristina and Liliana divide the fruits so that Cristina has twice the number of fruits as Liliana. Which of the following is true? 11 ----- 2 h 1 P Q x 45°
 > 
-> A) Cristina took at least one pear. B) Cristina took twice as many apples as the number of pears. C) Cristina took twice as many apples as Liliana. D) Cristina took as many apples as Liliana took pears. E) Cristina took as many pears as Liliana took.
+> A) Cristina took at least one pear. B) Cristina took twice as many apples as the number of pears. C) Cristina took twice as many apples as Liliana. D) Cristina took as many apples as Liliana took pears. E) Cristina took as many pears as Liliana took apples.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_cadet#q19|src_kangourou_2021_cadet__Q19]]
@@ -947,7 +955,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 ![[src_kangourou_2021_cadet__prob20.png]]
 
-> Football balls from a few years ago were built with white hexagons and black pentagons next to each other as the figure suggests. There were 12 pentagons in total. How many hexagons were there? (A) 12 (B) 15 (C) 18 (D) 20 (E) 24 Questions from N. 21 al N. 30 is worth 5 points each.
+> Football balls from a few years ago were built with white hexagons and black pentagons next to each other as the figure suggests. There were 12 pentagons in total. How many hexagons were there? (A) 12 (B) 15 (C) 18 (D) 20 (E) 24 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_cadet#q20|src_kangourou_2021_cadet__Q20]]
@@ -993,7 +1001,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 ![[src_kangourou_2021_cadet__prob21.png]]
 
-> Three villages are connected by forest roads as the map suggests. The road from Palù to Colle passing through Due Fonti is 1 km longer than the direct road; the road from Palù to Due Fonti passing through Colle is 5 km longer than the direct road; the road from Colle to Due Fonti passing through Palù is 7 km longer than the direct road. How long is the shortest of the three villages? A) 1
+> Three villages are connected by forest roads as the map suggests. The road from Palù to Colle passing through Due Fonti is 1 km longer than the direct road; the road from Palù to Due Fonti passing through Colle is 5 km longer than the direct road; the road from Colle to Due Fonti passing through Palù is 7 km longer than the direct road. How many kilometres long is the shortest of the roads between the three villages? A) 1
 > 	
 > B) 2
 > 	
@@ -1040,7 +1048,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 *Unanswered questions given the score 100*
 
-> A test consists of 20 questions. Each correct answer is worth 7 points, each wrong answer is worth  4 points and each unanswered question is worth 0 points. Enrico took the test and scored 100 points. How many questions didn't you answer? A) 0
+> A test consists of 20 questions. Each correct answer is worth 7 points, each wrong answer is worth –4 points and each unanswered question is worth 0 points. Enrico took the test and scored 100 points. How many questions didn't he answer? A) 0
 > 	
 > B) 1
 > 	
@@ -1093,7 +1101,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 ![[src_kangourou_2021_cadet__prob23.png]]
 
-> The figure shows a pyramid with a triangular base constructed with 20 pallets of equal size. Each ball is colored with only one of the five colors that we denote with the letters A, B, C, D, E; they have exactly the same color 4 different balls. The following figures show three of the faces of the pyramid. What's the color of the ball at the center of the fourth face? A) A
+> The figure shows a pyramid with a triangular base constructed with 20 balls of equal size. Each ball is colored with only one of the five colors that we denote with the letters A, B, C, D, E; exactly 4 different balls have the same color. The following figures show three of the faces of the pyramid. What's the color of the ball at the center of the fourth face? A) A
 > 	
 > B) B
 > 	
@@ -1168,7 +1176,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 *Maximum number of tokens in the box (boxes) *
 
-> A box contains only green, red, blue and yellow tokens. However you fish out of the box • 27 tokens, there is always at least one green; • 25 tokens, there is always at least one red; • 22 tokens, there is always at least one blue; • 17 tokens, there is always at least one yellow. What's the maximum number of tokens a box could hold? A) 27
+> A box contains only green, red, blue and yellow tokens. Whatever tokens you draw from the box, • 27 tokens, there is always at least one green; • 25 tokens, there is always at least one red; • 22 tokens, there is always at least one blue; • 17 tokens, there is always at least one yellow. What is the maximum number of tokens the box could contain? A) 27
 > 	
 > B) 29
 > 	
@@ -1176,7 +1184,7 @@ Part of the grey cubes of the 3x3x3 cube
 > 	
 > D) 87
 > 	
-> E) 91 Colle Two sources Pollu D E C A B E D C A D C C B A D E A B B C D A E B C D C C D E A B D
+> E) 91 Colle Due Fonti Palù D E C A B E D C A D C C B A D E A B B C D A E B C D C C D E A B D
 >
 
 **Answer:** B
@@ -1216,7 +1224,7 @@ Part of the grey cubes of the 3x3x3 cube
 
 *sum of ABCDE2 figures with 2ABCDE x3 = ABCDE2*
 
-> If we multiply by 3 the six-digit number 2ABCDE we get the six-digit number ABCDE2. What is the sum of the numbers in this number? A) 24
+> If we multiply by 3 the six-digit number 2ABCDE we get the six-digit number ABCDE2. What is the sum of the digits of this number? A) 24
 > 	
 > B) 27
 > 	
@@ -1268,9 +1276,9 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-Crab that Bruno can't tell the color of
+Kangaroo whose color Bruno can't tell
 
-> 2021 kangaroos are in Indian queue and are numbered, according to their position in the queue, from 1 to 2021. Each kangaroo is either red or gray or blue and you pick three consecutive kangaroos in any stretch of the row and there's always one for each color. Bruno tries to guess the color of five kangaroos without seeing the line. These are his statements: kanguro 2 is gray; kanguro 20 is blue; kanguro 202 is red; kanguro 1002 is blue; kanguro 2021 is gray. Only one of the statements is wrong. What's the number of the kangaroo Bruno didn't guess the color of? A) 2
+> 2021 kangaroos are in Indian queue and are numbered, according to their position in the queue, from 1 to 2021. Each kangaroo is either red or gray or blue and you pick three consecutive kangaroos in any stretch of the row and there's always one for each color. Bruno tries to guess the color of five kangaroos without seeing the line. These are his statements: "kangaroo 2 is gray"; "kangaroo 20 is blue"; "kangaroo 202 is red"; "kangaroo 1002 is blue"; "kangaroo 2021 is gray". Only one of the statements is wrong. What's the number of the kangaroo Bruno didn't guess the color of? A) 2
 > 	
 > B) 20
 > 	
@@ -1321,7 +1329,7 @@ Crab that Bruno can't tell the color of
 
 ![[src_kangourou_2021_cadet__prob27.png]]
 
-> A parallel piped 3 × 4 × 5 is made up of 60 identical wood cubes, as the figure suggests. A termit digs a tunnel along the diagonal from P to Q that, as can be seen, does not intersect any of the spines of the cubes that are inside the parallelepiped. How many cubes does the thermite tunnel pass through? A) 8
+> A parallelepiped 3 × 4 × 5 is made up of 60 identical wood cubes, as the figure suggests. A termite digs a tunnel along the diagonal from P to Q that, as can be seen, does not intersect any of the edges of the cubes that are inside the parallelepiped. How many cubes does the termite tunnel pass through? A) 8
 > 	
 > B) 9
 > 	
@@ -1366,9 +1374,9 @@ Crab that Bruno can't tell the color of
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs made up of two thieves*
+*Pairs made up of two crooks*
 
-> There are 21 knights living in a city who always tell the truth and 2,000 crooks who always lie. With these 2021 people, one pollster composed 1010 couples, excluding one person. Then, in each couple, each person had to tell if the other was a knight or a con man. In this survey, 2,000 people were declared knights and 20 people were declared crooks. How many couples were made up of two crooks? A) 980 B) 985 C) 990 D) 995 E) 1000
+> There are 21 knights living in a city who always tell the truth and 2,000 crooks who always lie. With these 2021 people, one pollster composed 1010 couples, excluding one person. Then, in each couple, each person had to tell if the other was a knight or a crook. In this survey, 2,000 people were declared knights and 20 people were declared crooks. How many couples were made up of two crooks? A) 980 B) 985 C) 990 D) 995 E) 1000
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_cadet#q28|src_kangourou_2021_cadet__Q28]]
@@ -1413,7 +1421,7 @@ Turn where D meets F in the tournament
 
 ![[src_kangourou_2021_cadet__prob29.png]]
 
-> In a tournament, each of the six participating teams must meet each other exactly once. Each day the three meetings take place simultaneously: see in the picture which meeting will be broadcast each day by a television news channel. What turn will Team D meet Team F ? A) 1
+> In a tournament, each of the six participating teams must meet each other exactly once. Each day the three meetings take place simultaneously: see in the picture which meeting will be broadcast each day by a television news channel. In which round will Team D meet Team F? A) 1
 > 	
 > B) 2
 > 	
@@ -1489,7 +1497,7 @@ Turn where D meets F in the tournament
 
 ![[src_kangourou_2021_cadet__prob30.png]]
 
-> The drawing shows a quadrilateral divided into four smaller quadrilaterals sharing the K vertex. Each pair of points on one side of the large quadrilateral divides that side into three equal parts. The numbers within the small quadrants indicate the area. What is the area of the shaded quadrilateral? A) 4
+> The drawing shows a quadrilateral divided into four smaller quadrilaterals sharing the K vertex. Each pair of points on one side of the large quadrilateral divides that side into three equal parts. The numbers within the small quadrilaterals indicate their area. What is the area of the shaded quadrilateral? A) 4
 > 	
 > B) 5
 > 	

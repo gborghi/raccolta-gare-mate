@@ -37,7 +37,7 @@ level: kangourou
 
 *In how many years a year with two digits repeated*
 
-> A mushroom grows day by day. Licia photographed him every day from Monday to Friday. Which one of these photos was taken on Tuesday?
+> A mushroom grows day by day. Licia photographed it every day from Monday to Friday. Which one of these photos was taken on Tuesday?
 >
 > - **(A)** (Figure A)
 > - **(B)** (Figure B)
@@ -77,7 +77,7 @@ level: kangourou
 
 *Length of the path of the ant on the box*
 
-> Which of the following complete the mosaic on the side?
+> Which of the following completes the mosaic on the side?
 >
 > - **(A)** (Figure A)
 > - **(B)** (Figure B)
@@ -163,7 +163,7 @@ level: kangourou
 
 *White squares in the tenth square*
 
-> The squares in the answers were partially grey. In which of them is the colored part greater?
+> The squares in the answers are partially shaded. In which of them is the shaded part greater?
 >
 > - **(A)** (Figure A)
 > - **(B)** (Figure B)
@@ -202,15 +202,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to write 546 as the sum of multiples of 3*
+*Ways to write 546 as a sum of multiples of 3*
 
-> Sonia uses plaster on the floor to trace the large table you see on the side, then starts jumping from cell to cell. Start from the $1$ cell number and follow this rule: with each new jump, land in a cell with a number that is $3$ units greater than that of the cell from which you jumped. What's the number in the last cell you can land on?
+> Sonia draws with chalk on the floor the large table that you see on the side, then starts jumping from one cell to another. She starts from cell number $1$ and follows this rule: at each new jump, she lands in a cell with a number that is $3$ units greater than that of the cell from which she took the jump. What is the number present in the last cell on which she can land?
 >
 > - **(A)** $11$
 > - **(B)** $13$
 > - **(C)** $18$
 > - **(D)** $19$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $22$ (see figure)
 
 **Answer:** 0030
 [[Quesiti/src_kangourou_2020_ecolier_finale#q05|src_kangourou_2020_ecolier_finale__Q05]]
@@ -242,15 +242,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of Alda (month two years Charles) *
+*Alda's age (months years double Carlo's)*
 
-> With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. What kind?
+> With the six stickers you see on the side, you can compose different figures, but only one of those you see below. Which one?
 >
-> - **(A)** (Figure A)
-> - **(B)** (Figure B)
-> - **(C)** (Figure C)
-> - **(D)** (Figure D)
-> - **(E)** (Figure E) (see figure)
+> - **(A)** (figure A)
+> - **(B)** (figure B)
+> - **(C)** (figure C)
+> - **(D)** (figure D)
+> - **(E)** (figure E) (see figure)
 
 **Answer:** 0036
 [[Quesiti/src_kangourou_2020_ecolier_finale#q06|src_kangourou_2020_ecolier_finale__Q06]]
@@ -283,9 +283,9 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major Marta euro with 20 banknotes*
+*Maximum euros of Marta with 20 banknotes*
 
-> George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the face opposite the one with the ankle?
+> George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the face opposite the one with the duckling?
 >
 > - **(A)** (Figure A)
 > - **(B)** (Figure B)
@@ -324,15 +324,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lock code (digits equal to sum of 4x6) *
+*Padlock code (even digits sum 4x6)*
 
-> Francis has the following cards. He's going to use some of it to cover, completely and without overlapping, the grid you see below. If he wants to use as many cards of different sizes as possible, how many cards will Francis use in all?
+> Francesco has the following tiles. He will use some of them to cover, completely and without overlaps, the grid you see below. If he wants to use as many tiles of different sizes as possible, how many tiles will Francesco use in total?
 >
 > - **(A)** $3$
 > - **(B)** $4$
 > - **(C)** $5$
 > - **(D)** $6$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $7$ (see figure)
 
 **Answer:** 8880
 [[Quesiti/src_kangourou_2020_ecolier_finale#q08|src_kangourou_2020_ecolier_finale__Q08]]
@@ -365,15 +365,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimate segments to see 55 squares*
+*Minimum segments to see 55 squares*
 
-> Ash colors each region into which the circle you see is divided by either red or yellow or blue, so that the regions you touch receive different colors. The outermost region is red ash; after the entire drawing has been colored, how many regions are red?
+> Cinzia colors each region into which the circle you see on the side is divided either red, yellow, or blue, making sure that regions that touch each other receive different colors. Cinzia colors the outermost region red; after the whole drawing has been colored, how many regions turn out to be colored red?
 >
 > - **(A)** $2$
 > - **(B)** $3$
 > - **(C)** $4$
 > - **(D)** $5$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $6$ (see figure)
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2020_ecolier_finale#q09|src_kangourou_2020_ecolier_finale__Q09]]
@@ -405,15 +405,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many tallies was the payroll (contracts) *
+*How many thalers was the cauldron worth (contract)*
 
-> Luke looks up at the pyramid you see below. Which one of the pictures on the side do you see?
+> Luca looks from above at the pyramid that you see below. Which of the images shown here on the side does he see?
 >
-> - **(A)** (Figure A)
-> - **(B)** (Figure B)
-> - **(C)** (Figure C)
-> - **(D)** (Figure D)
-> - **(E)** (Figure E) (see figure)
+> - **(A)** (image A)
+> - **(B)** (image B)
+> - **(C)** (image C)
+> - **(D)** (image D)
+> - **(E)** (image E) (see figure)
 
 **Answer:** 0480
 [[Quesiti/src_kangourou_2020_ecolier_finale#q10|src_kangourou_2020_ecolier_finale__Q10]]
@@ -445,15 +445,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two numbers exchanged in the magic square*
+*Sum of the two numbers swapped in the magic square*
 
-> Notice the picture: Daniel tied his dog to the corner of a rectangular stake with sides measuring $7$ m and $5$ m. The length of the lever is $11$ m. There are $5$ bone-shaped toys in the positions you see in the figure: how many can be reached by the dog?
+> Look at the figure: Daniele has tied his dog to a pole one metre from the corner of a newsstand with a rectangular plan whose sides measure $7$ m and $5$ m. The leash is $11$ m long. There are $5$ bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog?
 >
 > - **(A)** $1$
 > - **(B)** $2$
 > - **(C)** $3$
 > - **(D)** $4$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $5$ (see figure)
 
 **Answer:** 0021
 [[Quesiti/src_kangourou_2020_ecolier_finale#q11|src_kangourou_2020_ecolier_finale__Q11]]
@@ -486,15 +486,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of four digits with the digits thousand one and three digits equal*
+*4-digit numbers with thousands digit 1 and three equal digits*
 
-> Martino builds a stake using poles, each one about a meter long. In the figure you see a length of $4$ meters. How many poles will Martino use to build a meter-long fence?
+> Martino builds a fence using poles, each one metre long. In the figure you see a fence $4$ metres long. How many poles will Martino use to build a fence $10$ metres long?
 >
 > - **(A)** $22$
 > - **(B)** $30$
 > - **(C)** $33$
 > - **(D)** $40$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $42$ (see figure)
 
 **Answer:** 0037
 [[Quesiti/src_kangourou_2020_ecolier_finale#q12|src_kangourou_2020_ecolier_finale__Q12]]
@@ -528,13 +528,13 @@ How to write 546 as the sum of multiples of 3*
 
 *Area of the grey star at the centre of the hexagons*
 
-> Look at the scale in the figure: whenever the rabbit goes down $3$ steps, the kangaroo goes down $7$ steps. What's the number of the steps on which they're meeting?
+> Look at the staircase in the figure: each time the rabbit goes down $3$ steps, the kangaroo goes up $7$ steps. What is the number of the step on which they will meet?
 >
 > - **(A)** $53$
 > - **(B)** $60$
 > - **(C)** $63$
 > - **(D)** $70$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $73$ (see figure)
 
 **Answer:** 0048
 [[Quesiti/src_kangourou_2020_ecolier_finale#q13|src_kangourou_2020_ecolier_finale__Q13]]
@@ -569,7 +569,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Number of tokens of Alessio (residues 1 2 3) *
 
-> The sum of three numbers is $50$. Cristina subtracts the same secret number from each of the three numbers and gets the numbers $24$, $13$ and $7$ as the results. Only one of the following is one of the first three numbers. What kind?
+> The sum of three numbers is $50$. Cristina subtracts the same secret number from each of the three numbers and gets the numbers $24$, $13$ and $7$ as the results. Only one of the following is one of the initial three numbers. Which one?
 >
 > - **(A)** $9$
 > - **(B)** $11$
@@ -608,15 +608,15 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-€ € € € € € € € € € € € € € € € € € € € € € € € € € €
+*Alfonso's Euro before the first trip (magic ferry)*
 
-> Amalia wants to build a crown using copies of the token you see on the right and wants that when two tokens share a side the corresponding numbers match. It has already laid down $3$ tokens with this criterion. What number will be found at the end of the triangle denoted by $X$?
+> Amalia wants to build a little crown using $10$ copies of the token you see on the right and wants that when two tokens share a side the corresponding numbers match. She has already arranged $3$ tokens according to this rule. Which number will end up in the triangle denoted by $X$?
 >
 > - **(A)** $1$
 > - **(B)** $2$
 > - **(C)** $3$
 > - **(D)** $4$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $5$ (see figure)
 
 **Answer:** 0042
 [[Quesiti/src_kangourou_2020_ecolier_finale#q15|src_kangourou_2020_ecolier_finale__Q15]]
@@ -646,11 +646,11 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many complete moves with 1000 spins (playing three per spine) *
+*How many complete moves with 1000 spins (playing three per pin) *
 
 ![[src_kangourou_2020_ecolier_finale__probe1.png]]
 
-> I'll play the following game with the spikes. I place a spike on the table; then, with each subsequent move, I attach the tips of three more spikes to the head of each of the spikes laid in the previous move, as suggested by the figure. If I have a box containing pins, how many complete moves can I make, including the one I put the first pin with?
+> I'll play the following game with the pins. I place a pin on the table; then, with each subsequent move, I attach the tips of three more pins to the head of each of the pins laid in the previous move, as suggested by the figure. If I have a box containing 1000 pins, how many complete moves can I make, including the one I put the first pin with?
 > 
 > (see figure)
 
@@ -681,7 +681,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Maximum four-pen bags with a maximum of two of the same colour*
 
-> Luisa has many pens: $29$ red, $13$ blue and $20$ black. He wants to pack bags containing $4$ pens, so that no bag contains more than two pens of the same color. How many bags can you pack?
+> Luisa has many pens: $29$ red, $13$ blue and $20$ black. She wants to pack bags containing $4$ pens, so that no bag contains more than two pens of the same color. How many bags can she pack?
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2020_ecolier_finale#qe2|src_kangourou_2020_ecolier_finale__QE2]]
@@ -709,7 +709,7 @@ How to write 546 as the sum of multiples of 3*
 
 *Minimum number of books on the shelf (position restrictions) *
 
-> Many books of different thicknesses are lined up on a shelf. To the left of the book most often there are $20$ books, to the right of the thinner one there are $22$. Between the thickest book and the thinnest one is the oldest book, different from both. What is the minimum number of books that can be lined up on the shelf?
+> Many books of different thicknesses are lined up on a shelf. To the left of the thickest book there are $20$ books, to the right of the thinner one there are $22$. Between the thickest book and the thinnest one is the oldest book, different from both. What is the minimum number of books that can be lined up on the shelf?
 
 **Answer:** 23
 [[Quesiti/src_kangourou_2020_ecolier_finale#qe3|src_kangourou_2020_ecolier_finale__QE3]]
@@ -785,7 +785,7 @@ How to write 546 as the sum of multiples of 3*
 \end{document}
 ```
 
-> Julia has to write a number in each white circle of the figure next to her. He wants to make sure that the sum of the four numbers he writes is equal to both the sum of the three numbers that will appear in the three circles connected by the dotted line, and the sum of the three numbers that will appear in the three circles connected by the dotted line. How much is the sum of the four numbers that Julia will write?
+> Julia has to write a number in each white circle of the figure next to her. She wants to make sure that the sum of the four numbers she writes is equal to both the sum of the three numbers that will appear in the three circles connected by the dashed line, and the sum of the three numbers that will appear in the three circles connected by the dotted line. How much is the sum of the four numbers that Julia will write?
 > 
 > (see figure)
 
@@ -847,7 +847,7 @@ How to write 546 as the sum of multiples of 3*
 > 
 > Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers.
 > 
-> As long as you fill in the grids (searching the number in a special position in the first one), no explanation is required.
+> As long as you fill in the grids (circling the number in a special position in the first one), no explanation is required.
 > 
 > (see figure)
 
@@ -898,7 +898,7 @@ How to write 546 as the sum of multiples of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the number of candlesticks per serving (two cuts) *
+*Sum of the numbers of the candles per serving (two cuts) *
 
 ![[src_kangourou_2020_ecolier_finale__probe6.png]]
 
@@ -922,7 +922,7 @@ How to write 546 as the sum of multiples of 3*
 \end{document}
 ```
 
-> On Rita's birthday cake, $12$ candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candlestick is on a single serving and the sum of the numbers on the candlesticks of each serving are all the same, what is the sum of the numbers on the candlesticks of each serving?
+> On Rita's birthday cake, $12$ candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candle is on a single serving and the sum of the numbers on the candles of each serving are all the same, what is the sum of the numbers on the candles of each serving?
 > 
 > (see figure)
 

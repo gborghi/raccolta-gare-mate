@@ -45,11 +45,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs removed from a 5x5x5 cube with columns*
+*Cubes removed from a 5x5x5 cube with columns*
 
 ![[src_kangourou_2014_marzo_student__prob1.png]]
 
-> From a cube of dimensions 5 × 5 × 5, obtained by approaching cubes of dimensions 1 × 1 × 1, some of the cubes are removed so as to obtain the solid in the figure, formed by a flat base of height 1 topped by columns, all of the same height 4. How many cubes have been removed in total? A) 56
+> From a cube of dimensions 5 × 5 × 5, obtained by placing together small cubes of dimensions 1 × 1 × 1, some of the cubes are removed so as to obtain the solid in the figure, formed by a flat base of height 1 topped by columns, all of the same height 4. How many cubes have been removed in total? A) 56
 > 	
 > B) 60
 > 	
@@ -94,16 +94,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three stages = 44, next to two digits *
+*Sum of three ages = 44, next with two equal digits*
 
-> Carla, Emilia and Giulia are all three years old today. Their combined ages are 44. What will be the sum of their ages the next time it's again a two-digit number? A) 55
-> 	
-> B) 66
-> 	
-> C) 77
-> 	
-> D) 88
-> 	
+> Carla, Emilia and Giulia all have their birthdays today. The sum of their ages 
+> is 44. What will the sum of their ages be the next time it is again a 
+> number made up of two equal digits?
+> A) 55	
+	
+> B) 66	
+	
+> C) 77	
+	
+> D) 88	
+	
 > E) 99
 
 **Answer:** C
@@ -141,13 +144,14 @@ level: kangourou
 
 *Calculation of a-3b given a/b*
 
-> If a b is equal , how much is 3b ? A)
+> If a b =     , what is the value of  a –3b ?
+> A)   	
 > 	
-> B) – 8
+> B) – 8	
 > 	
-> C) 6
+> C) 6	
 > 	
-> D)
+> D)	
 > 	
 > E) 8
 
@@ -187,7 +191,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when in the largest*
+*how many in the largest*
 
 > Three baskets of different sizes contain a total of 48 balls. The smallest basket contains half of the balls in the middle basket, and counting the balls in the smaller and larger baskets together, you get twice the number of balls in the middle basket. How many balls does the biggest basket contain? A) 16
 > 	
@@ -229,9 +233,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression value with powers of 2*
+*Value of an expression with powers of 2*
 
-> How much is it worth ? A) 2 2011 B) 2 2012 C) 2 2013 D) 1
+> What is the value of                                    ?
+> A) 2 2011	 	
+> B) 2 2012	 	
+> C) 2 2013		
+> D) 1	
 > 	
 > E) 2
 
@@ -374,7 +382,7 @@ level: kangourou
 > 	
 > C) Each friend sent at least one message.
 > 	
-> D) One of my friends sent at least 2 messages.
+> D) One of the friends sent at least 2 messages.
 > 	
 > E) A single friend sent more than 2 messages.
 
@@ -465,9 +473,9 @@ level: kangourou
 
 *Year with last digit > sum of first three, all different *
 
-> The 2014 number is made up of numbers all different from each other, and the last one is larger than the sum of the first three. How many years have passed since last year with this property? A) 5
+> The number 2014 is made up of digits all different from each other, and the last one is larger than the sum of the first three. How many years have passed since last year with this property? A) 5
 > 	
-> B) 215 C) 395 D) 485 E) A number different from the previous one. Questions from n. 11 al n. 20 is worth 4 points each.
+> B) 215 C) 395 D) 485 E) A number different from the previous ones. Questions from n. 11 to n. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2014_marzo_student#q10|src_kangourou_2014_marzo_student__Q10]]
@@ -553,7 +561,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is 2^k+1 and divisible by 5*
+*Which of 2^k+1 is divisible by 5*
 
 > Which of the following numbers is divisible by 5? A) 2100 + 1
 > 	
@@ -623,7 +631,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3, tangent rope: large beam *
+*3, tangent chord: large radius *
 
 ![[src_kangourou_2014_marzo_student__prob13.png]]
 
@@ -647,7 +655,7 @@ level: kangourou
 \end{document}
 ```
 
-> The radii of the two concentric circles in the figure have lengths which are in the ratio of 1: 3. AC is the diameter of the large circle; BC is a rope of the large circle tangent to the small circle. You know that the length of the AB segment is 12 cm. How many cm does the radius of the large circle measure? A) 13
+> The radii of the two concentric circles in the figure have lengths which are in the ratio of 1: 3. AC is the diameter of the large circle; BC is a chord of the large circle tangent to the small circle. You know that the length of the AB segment is 12 cm. How many cm does the radius of the large circle measure? A) 13
 > 	
 > B) 18
 > 	
@@ -692,9 +700,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turn a>b>c>1 with 1/a+1/b+1/c>1*
+*Terns a>b>c>1 with 1/a+1/b+1/c>1*
 
-> How many sets of integers (a, b, c) with a > b > c > 1 satisfy the inequality + + > 1? A) 0
+> How many sets of integers (a, b, c) with a > b > c > 1 satisfy the inequality 1/a + 1/b + 1/c > 1? A) 0
 > 	
 > B) 1
 > 	
@@ -735,9 +743,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Budgetary Control.
+*true inequality*
 
-> So both n is a positive integer and a, b, c are numbers other than 0. It is known that the two numbers ( 2)2n + 3 a2n + 2 b2n  1 c3n + 2 and ( 3)2n + 2 a4n + 1 b2n + 5 c3n  4 have the same sign. Which of the following inequalities must be true? A) a > 0 B) b > 0 C) c > 0 D) a <  0 E) b < 0
+> Let n be a positive integer and a, b, c be numbers different from 0. It is known that the two 
+> numbers (– 2)2n + 3 a2n + 2 b2n – 1 c3n + 2 and (– 3)2n + 2 a4n + 1 b2n + 5 c3n – 4 have the same sign. 
+> Which of the following inequalities must be true?
+> A) a > 0		
+> B) b > 0		
+> C) c > 0		
+> D) a < 0	
+> E) b < 0
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_marzo_student#q15|src_kangourou_2014_marzo_student__Q15]]
@@ -773,15 +788,17 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*6 weeks = n! The value of the underlying asset shall be reported in the following column:
+*6 weeks = n! seconds*
 
-> For what value of n is it true that 6 weeks is n? Seconds? (Remember that n! = n ∙ (n – 1) ∙ (n – 2) ∙ ... ∙ 3 ∙ 2 ∙ 1) A) 6
+> For which value of n is it true that 6 weeks are n! seconds? (Remember that 
+> n! = n ∙ (n – 1) ∙ (n – 2) ∙ ... ∙ 3 ∙ 2 ∙ 1)
+> A) 6	
 > 	
-> B) 7
+> B) 7	
 > 	
-> C) 8
+> C) 8	
 > 	
-> D) 10
+> D) 10	
 > 	
 > E) 12
 
@@ -825,17 +842,21 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the underlying asset shall be the sum of the underlying assets of the underlying asset.
+*value x*
 
 ![[src_kangourou_2014_marzo_student__prob17.png]]
 
-> The vertices of the cube in the figure are numbered from 1 to 8 so that, by adding the numbers on the four vertices of each face, the same result is always obtained when the face varies. Numbers 1, 4 and 6 have already been assigned to some versions: what value should x have ? A) 2
+> The vertices of the cube in the figure are numbered from 1 to 8 in such
+> a way that, by adding the numbers on the four vertices of each
+> face, the same result is always obtained as the face varies. The numbers 1, 4 and 6 have already been assigned to some ver­
+> tices: what value must x take?
+> A) 2	
 > 	
-> B) 3
+> B) 3	
 > 	
-> C) 5
+> C) 5	
 >     
-> D) 7
+> D) 7	
 > 	
 > E) 8
 
@@ -929,11 +950,11 @@ The water content of the product shall not exceed the water content of the produ
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided:
+*measure AD*
 
 ![[src_kangourou_2014_marzo_student__prob19.png]]
 
-> Look at the figure. The straight r passes through the vertex A of an ABCD rectangle. The distance from point C to the rectangle is 2, the distance from point D to r is 6. If the length of AD is twice that of AB, how much does AD measure? A) 10
+> Look at the figure. The straight r passes through the vertex A of an ABCD rectangle. The distance from point C to the line r is 2, the distance from point D to r is 6. If the length of AD is twice that of AB, how much does AD measure? A) 10
 > 	
 > B) 12
 > 	
@@ -978,17 +999,20 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value at *
+*value a*
 
-> a and b are two real numbers. The function f defined by f (x) = ax + b satisfies the equations f (f (f (1))) = 29 and f (f (f (0))) = 2. How much is it worth ? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
-> (e) 5 Questions from n. 21 al n. 30 is worth 5 points each.
+> a and b are two real numbers. The function f defined by  f (x) = ax + b  satisfies the
+> equalities f ( f ( f (1))) = 29  and  f ( f ( f (0))) = 2. What is the value of  a ?
+> A) 1	
+	
+> B) 2	
+	
+> C) 3	
+	
+> D) 4	
+	
+> E) 5
+> Questions from no. 21 to no. 30 are worth 5 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_marzo_student#q20|src_kangourou_2014_marzo_student__Q20]]
@@ -1120,7 +1144,7 @@ The following information is provided in the following table:
 \end{document}
 ```
 
-> In the PQRS rectangle, we call T the middle point of the RS side. We know that QT is perpendicular to the PR diagonal. What 's the ratio between the length of PQ and the length of QR ? A) 2 : 1 B) √3 : 1 C) 3 : 2 D) √2 : 1 E) 5 : 4
+> In the PQRS rectangle, we call T the middle point of the RS side. We know that QT is perpendicular to the PR diagonal. What is the ratio between the length of PQ and the length of QR ? A) 2 : 1 B) √3 : 1 C) 3 : 2 D) √2 : 1 E) 5 : 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_marzo_student#q22|src_kangourou_2014_marzo_student__Q22]]
@@ -1160,7 +1184,7 @@ The following information is provided in the following table:
 
 *how much gold*
 
-> In a kangaroo tribe there are nine special individuals, called Super Kangaroos, who are the only ones with golden or silver hair. For every random encounter of 3 Supercranes, the probability of none of them being silver is 2/3. How many are the golden supercranks? A) 1
+> In a kangaroo tribe there are nine special individuals, called Super Kangaroos, who are the only ones with golden or silver hair. For every random encounter of 3 Super Kangaroos, the probability of none of them being silver is 2/3. How many are the golden Super Kangaroos? A) 1
 > 	
 > B) 3
 > 	
@@ -1230,17 +1254,43 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*side*
 
 ![[src_kangourou_2014_marzo_student__prob24.png]]
 
-> As you can see in the figure, a square is embedded exactly between a straight (horizontal) and two equal circles tangent to the straight and tangent to each other. If the radius of the circles is 1, what's the side of the square? A)
+> As shown in the figure, a square is wedged
+> exactly between a (horizontal) line and two equal circles
+> tangent to the line and tangent to each other. If the radius of the
+> circles is 1, what is the measure of the side of the square?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C) D)
+> C) 
+> D) 	
 > 	
-> E) A D C B r P Q R S T 2---- 5 1---- 4 1---- 5 1---- 2 1 ----- √2
+> E) 
+> A
+> D
+> C
+> B
+> r
+> P
+> Q
+> R
+> S
+> T
+>  2---- 
+>  5
+>  1---- 
+>  4
+>  1---- 
+>  5
+>  1---- 
+>  2
+>   1
+> -----
+> √2
 >
 
 **Answer:** A
@@ -1279,7 +1329,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max <=100 distinct whole with product not divided by 54 *
+*Max <=100 distinct integers with product not divisible by 54 *
 
 > Thomas wants to choose positive integers, all different from each other and all not greater than 100, so that their product is not divisible by 54. How many numbers can he pick at most? A) 8
 > 	
@@ -1330,7 +1380,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *n because CZ=1 *
 
-> Two regular polygons, with sides of length 1, lie in semiplanes opposite to the straight containing their common side AB. One of them is a 15-sided polygon, ABCD... And the other one is a polygon with n sides, ABZY... . For what value of n is the length of the CZ segment equal to 1? A) 10
+> Two regular polygons, with sides of length 1, lie in half-planes on opposite sides of the line containing their common side AB. One of them is a 15-sided polygon, ABCD... and the other one is a polygon with n sides, ABZY... . For what value of n is the length of the CZ segment equal to 1? A) 10
 > 	
 > B) 12
 > 	
@@ -1374,15 +1424,18 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value of m*
+*values of m*
 
-> When all the factors (k, m, n) of positive integers that are equal to k = (2014 + m) / n = 10241/n + 1 are varied, how many different values can the number m take? (a) There is no such tender. B) 1
+> As all triples (k, m, n) of positive integers vary such that the equalities 
+> k = (2014 + m)1/n = 10241/n + 1 hold, how many different values can the number m take?
+> A) No such triple exists.             
+> B) 1	
 > 	
-> C) 2
+> C) 2	
 > 	
-> D) 3
+> D) 3	
 > 	
-> E) Infinite
+> E) Infinitely many
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_marzo_student#q27|src_kangourou_2014_marzo_student__Q27]]
@@ -1426,7 +1479,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2014_marzo_student__prob28.png]]
 
-> The figure shows a polygonal fracture whose vertices are all the midpoints of the vertices of a cube. We define, as duse, an inner angle formed by two sides of a polygon, which meet in a vertex, as the angle of measurement not exceeding 180° formed by the two sides in the plane containing them. What is the sum of the measurements in degrees of all the interior angles of the polygonal fracture in the figure? A) 720 B) 1080 C) 1200 D) 1440 E) 1800
+> The figure shows a polygonal chain whose vertices are all the midpoints of the edges of a cube. We define, as usual, an inner angle formed by two sides of a polygon, which meet in a vertex, as the angle of measurement not exceeding 180° formed by the two sides in the plane containing them. What is the sum of the measurements in degrees of all the interior angles of the polygonal chain in the figure? A) 720 B) 1080 C) 1200 D) 1440 E) 1800
 
 **Answer:** B
 [[Quesiti/src_kangourou_2014_marzo_student#q28|src_kangourou_2014_marzo_student__Q28]]
@@ -1463,7 +1516,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *Z->Z with x f(x)=(x-3)f(x+1): product f(4)...f(2014) *
 
-> Whether Z is the sum of the relative integers. The function f: Z Z satisfies the conditions f (4) = 6 and x ∙ f (x) = (x  3) ∙ f (x + 1) for every x belonging to Z. How much is f (4) ∙ f (7) ∙ f (10) ∙... ∙ f (2011) ∙ f (2014)? A) 2013 B) 2014 C) 2013∙ 2014
+> Let Z be the set of integers. The function f: Z Z satisfies the conditions f (4) = 6 and x ∙ f (x) = (x – 3) ∙ f (x + 1) for every x belonging to Z. How much is f (4) ∙ f (7) ∙ f (10) ∙... ∙ f (2011) ∙ f (2014)? A) 2013 B) 2014 C) 2013∙ 2014
 > 	
 > D) 2013! E) 2014!
 
@@ -1522,7 +1575,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > 	
 > E) 35
 > 
-> I'm going to be a student for 2014.
+> STRINGA STUDENT 2014
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_marzo_student#q30|src_kangourou_2014_marzo_student__Q30]]

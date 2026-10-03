@@ -28,9 +28,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* fair or advantageous for those *
+*fair or advantageous, for whom*
 
-> Andrea and Julius play dice as follows. Together they throw six dice (traditional, equals): if he throws 3 out of at least one dice, Andrew earns a euro from Julius; otherwise, Julius earns two euros from Andrew. Is it a fair game or is it advantageous for either of us? In this second case, for whom?
+> Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea earns one euro from Giulio; otherwise, Giulio earns two euros from Andrea. Is it a fair game or is it advantageous for one of the two? In this second possible case, for whom?
 
 [[Quesiti/src_kangourou_2023_student_finale#qs1|src_kangourou_2023_student_finale__QS1]]
 
@@ -61,7 +61,7 @@ Maximum number of liars on an island in 15 regions
 
 ![[src_kangourou_2023_student_finale__probs2.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person in my neighborhood who lies all the time". How many people can be at most lying all the time? (Two inhabitants mean neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person among my neighbours who lies all the time". What is the maximum possible number of inhabitants who always lie? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
 
 [[Quesiti/src_kangourou_2023_student_finale#qs2|src_kangourou_2023_student_finale__QS2]]
 
@@ -85,9 +85,9 @@ Maximum number of liars on an island in 15 regions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There is polyhedron with each triangular flat section*
+*There exists a polyhedron with every plane section a triangle*
 
-> Mark claims to have managed to build a polyhedron (not degenerate) such that each of its flat sections is a triangle (eventually degenerate). Can we believe him?
+> Mark claims to have managed to build a polyhedron (not degenerate) such that each of its plane sections is a triangle (possibly degenerate). Can we believe him?
 
 [[Quesiti/src_kangourou_2023_student_finale#qs3|src_kangourou_2023_student_finale__QS3]]
 
@@ -114,7 +114,7 @@ Maximum number of liars on an island in 15 regions
 
 Characterizing n with p^2+n divisible by 40, p prime>5*
 
-> If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What about$n$?
+> If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What can be said about $n$?
 
 [[Quesiti/src_kangourou_2023_student_finale#qs4|src_kangourou_2023_student_finale__QS4]]
 
@@ -141,7 +141,7 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of pairs of points between n points*
+*Number of pairs of points at maximum distance among n points*
 
 ![[src_kangourou_2023_student_finale__probs5.png]]
 
@@ -174,6 +174,6 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 *Inequality between sums of squares with non-increasing sequences*
 
-> Whether $n$ a fixed positive integer and $\{a_1, a_2, \ldots, a_n\}$, $\{b_1, b_2, \ldots, b_n\}$ two non-negative number sequences such as $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for each $k$ between $1$ and $n$ included. To show that it is not said to have $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$ but that this second inequality is certainly valid if both sequences are non-growing.
+> Let $n$ be a fixed positive integer and $\{a_1, a_2, \ldots, a_n\}$, $\{b_1, b_2, \ldots, b_n\}$ two sequences of non-negative numbers such that $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for each $k$ between $1$ and $n$ inclusive. Show that it is not necessarily true that $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$ but that this second inequality certainly holds if both sequences are non-increasing.
 
 [[Quesiti/src_kangourou_2023_student_finale#qs6|src_kangourou_2023_student_finale__QS6]]

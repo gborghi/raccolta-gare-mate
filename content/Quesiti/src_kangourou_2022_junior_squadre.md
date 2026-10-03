@@ -35,7 +35,7 @@ level: squadre
 
 *Total votes in favour in the referendum 252 voters*
 
-> A referendum was held in one country, with 252 votes in favour or against the construction of a cycle track. The percentage of votes in favour of the first 240 votes cast remained the same over the total when the remaining 12 votes were cast, of which 7 were in favour. How many votes were in favour?
+> A referendum was held in one country, with 252 voters in favour or against the construction of a cycle track. The percentage of votes in favour of the first 240 votes counted remained the same over the total when the remaining 12 votes were counted, of which 7 were in favour. How many votes were in favour?
 
 **Answer:** 0147
 [[Quesiti/src_kangourou_2022_junior_squadre#q01|src_kangourou_2022_junior_squadre__Q01]]
@@ -68,7 +68,7 @@ level: squadre
 
 *Time when the fast whale reverses course*
 
-> The whales Two whales swim side by side in a straight line at a speed of 6 km/h. At a certain moment one of the two accelerates at 10 km/h, travels a certain stretch then reverses the route and returns, always at 10 km/h, until meeting the other which instead has continued always at 6 km/h. If the whales separated at 9:15 a.m. and met at 11:00 a.m., what time did the fast whale reverse course? (Write the time without the two points, for example for 9:15 write 0915.)
+> The whales Two whales swim side by side in a straight line at a speed of 6 km/h. At a certain moment one of the two accelerates to 10 km/h, travels a certain stretch then reverses course and returns, always at 10 km/h, until meeting the other which instead has continued always at 6 km/h. If the whales separated at 9:15 a.m. and met at 11:00 a.m., what time did the fast whale reverse course? (Write the time without the two points, for example for 9:15 write 0915.)
 
 **Answer:** 1039
 [[Quesiti/src_kangourou_2022_junior_squadre#q02|src_kangourou_2022_junior_squadre__Q02]]
@@ -102,7 +102,7 @@ level: squadre
 
 *Number of sides n with minimum diameter sum 2022*
 
-> How many peaks? A positive integer is written at each vertex and at the center of a regular polygon of n sides (n equal). The n + 1 written numbers were chosen so that they were all different from each other and that, when the pairs of opposite vertices (i.e. aligned with the center) varied, the sum of the three aligned numbers (in the two vertices and in the center) was always the same and the least possible. With these assumptions, that sum turned out to be 2022. How much is n?
+> How many vertices? A positive integer is written at each vertex and at the center of a regular polygon of n sides (n even). The n + 1 written numbers were chosen so that they were all different from each other and that, when the pairs of opposite vertices (i.e. aligned with the center) varied, the sum of the three aligned numbers (in the two vertices and in the center) was always the same and the least possible. With these assumptions, that sum turned out to be 2022. How much is n?
 
 **Answer:** 2018
 [[Quesiti/src_kangourou_2022_junior_squadre#q03|src_kangourou_2022_junior_squadre__Q03]]
@@ -133,7 +133,7 @@ level: squadre
 
 *Maximum a+b+c with two quadratic equations*
 
-> The term of an ordered set of real numbers {a, b, c} we know that a2 + 2b2 = 100 + 2bc and that 2ab = 100 + c2. What is the highest possible value for the sum of a + b + c?
+> Of an ordered triple of real numbers {a, b, c} we know that a2 + 2b2 = 100 + 2bc and that 2ab = 100 + c2. What is the highest possible value for the sum of a + b + c?
 
 **Answer:** 0030
 [[Quesiti/src_kangourou_2022_junior_squadre#q04|src_kangourou_2022_junior_squadre__Q04]]
@@ -165,7 +165,7 @@ level: squadre
 
 *2022-th whole without digit 1 *
 
-> Without digit 1 If you write in ascending order (in decimal notation) all positive integers less than 10,000 in which the digit 1 does not appear, what is the number that occupies the 2022-but position?
+> Without digit 1 If you write in ascending order (in decimal notation) all positive integers less than 10,000 in which the digit 1 does not appear, what is the number that occupies the 2022-nd position?
 
 **Answer:** 3797
 [[Quesiti/src_kangourou_2022_junior_squadre#q05|src_kangourou_2022_junior_squadre__Q05]]
@@ -300,9 +300,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n for two prime numbers between them*
+*Minimum n for two numbers coprime to each other*
 
-> First among them Consider the set A of integers between 2 and 2022 included. You want to make sure that, by extracting random numbers from A, there are at least two prime numbers among these. What's the minimum possible value for n?
+> Coprime to each other  
+> Consider the set A of integers between 2 and 2022 inclusive. We want to be sure that, 
+> by drawing n numbers at random from A, among these n there are at least two coprime to each other. What is the minimum 
+> possible value for n?
 
 **Answer:** 1012
 [[Quesiti/src_kangourou_2022_junior_squadre#q07|src_kangourou_2022_junior_squadre__Q07]]
@@ -330,7 +333,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume octahedron with vertical centers of cubic faces*
+*Volume of octahedron with vertices at centers of cube faces*
 
 > The vertices of an octahedron are the centers of the faces of a cube of volume 8640. What is the volume of the octahedron?
 
@@ -370,9 +373,16 @@ level: squadre
 
 *Value of a^4+1/a^4 given (a-1/a)^2=3*
 
-> The sum of a number a you know is 3. How much is it worth ?
+> The sum  
+> Of a number a you know that  
+> 
+> 
+> 
+>  3. How much is  
 >  
->  ? In case the answer was not independent of the parameters at 0000, answer 0000.
+> 
+> ?  
+> If the answer is not independent of the values of the parameter a, answer 0000.
 
 **Answer:** 0110
 [[Quesiti/src_kangourou_2022_junior_squadre#q09|src_kangourou_2022_junior_squadre__Q09]]
@@ -401,9 +411,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of unbroken disjoint subset *
+*Pairs of non-empty disjoint subsets *
 
-> Couples Consider the non-empty subsets of a set of 5 elements and any couples of disjoint subsets that can be formed with them. How many different couples are there?
+> Pairs Consider the non-empty subsets of a set of 5 elements and any pairs of disjoint subsets that can be formed with them. How many different pairs are there?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_2022_junior_squadre#q10|src_kangourou_2022_junior_squadre__Q10]]
@@ -433,7 +443,7 @@ level: squadre
 
 *Central angle arithmetic progression pentagon *
 
-> The degree measurements of the interior angles of a convex pentagon are in arithmetic progression. What's the central number of the progression?
+> The degree measurements of the interior angles of a convex pentagon are in arithmetic progression. What is the middle term of the progression?
 
 **Answer:** 0108
 [[Quesiti/src_kangourou_2022_junior_squadre#q11|src_kangourou_2022_junior_squadre__Q11]]
@@ -474,17 +484,23 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits of n in the difference of 1/18*
+*Last 4 digits of n in the difference from 1/18*
 
-> Difference of 1/18 For every positive integer k from 1 to 
+> Difference from 1/18  
+> For every positive integer k from 1 onward let 
  
 > 
 > 
 
 
 
-. The sum of a1 + a2 + ... + a100 
-> The number of positive integers in the sample varies from the appropriate positive integer. Write the last 4 digits (thousands, hundreds, tens, units) of n.
+. The sum a1 + a2 + … + a100  
+> differs from  
+> 
+>  by  
+> 
+>  with n a suitable positive integer. Write the last 4 digits (thousands, hundreds, 
+> tens, units) of n.
 
 **Answer:** 3318
 [[Quesiti/src_kangourou_2022_junior_squadre#q12|src_kangourou_2022_junior_squadre__Q12]]
@@ -517,7 +533,7 @@ level: squadre
 
 *Sum of three-digit palindromes, first four digits *
 
-> Palindromes Calculate the sum of all positive integers three-digit palindromes (if greater than 100), and write the first four digits (left) of the result you get. (A number is said to be palindrome if it matches what you get by reading its digits in opposite order, from right to left; for example 454 is palindrome.)
+> Palindromes Calculate the sum of all positive integers three-digit palindromes (hence greater than 100), and write the first four digits (from the left) of the result you get. (A number is said to be palindrome if it matches what you get by reading its digits in opposite order, from right to left; for example 454 is palindrome.)
 
 **Answer:** 4950
 [[Quesiti/src_kangourou_2022_junior_squadre#q13|src_kangourou_2022_junior_squadre__Q13]]

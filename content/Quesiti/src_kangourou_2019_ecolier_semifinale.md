@@ -98,7 +98,7 @@ Minimum white cars to move to get the black car out
 
 ![[src_kangourou_2019_ecolier_semifinale__prob2.png]]
 
-> (Details 3) The figure shows the layout of a parking lot where some cars of different sizes are parked. At this time, it is possible to exit only from the exit shown on the left side and all cars can only move back and forth. What is the minimum number of white cars that you have to move to get the black mobile car out? A) 2
+> (Points 3) The figure shows the layout of a parking lot where some cars of different sizes are parked. At this time, it is possible to exit only from the exit shown on the left side and all cars can only move back and forth. What is the minimum number of white cars that you have to move to get the black car out? A) 2
 > 	
 > B) 3
 > 	
@@ -143,7 +143,7 @@ Minimum white cars to move to get the black car out
 
 *Age difference between Thomas and Mary given constraints*
 
-> (Points 3) George is 8 years younger than Paul; Paul is 11 years younger than Mary and George is 3 years younger than Thomas. What is the age, age difference between Thomas and Mary? A) 1
+> (Points 3) George is 8 years younger than Paul; Paul is 11 years older than Mary and George is 3 years younger than Thomas. What is the age difference, in years, between Thomas and Mary? A) 1
 > 	
 > B) 6
 > 	
@@ -189,7 +189,7 @@ Minimum white cars to move to get the black car out
 
 ![[src_kangourou_2019_ecolier_semifinale__prob4.png]]
 
-> (Doc. 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure the two sides were well matched. You got the triangle on the right. Which of the forms P, Q, R might have had the starting sheet? A) Only P B) Only Q C) Only R D) Only P and R E) All three
+> (Doc. 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure the two sides were well matched. She got the triangle on the right. Which of the shapes P, Q, R might have had the starting sheet? A) Only P B) Only Q C) Only R D) Only P and R E) All three
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q04|src_kangourou_2019_ecolier_semifinale__Q04]]
@@ -224,9 +224,9 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total length of the ribbon divided by one third*
+*Total length of the ribbon divided into thirds*
 
-> (Dots 4) Anna cuts a tape into four parts; she holds one part and gives the other three (one for each) to her friends Betta, Cinzia, and Donatella. The length of the part of Betta is one third of the length of that of Anna, the length of the part of Cinzia is one third of that of Betta and the length of the part of Donatella is one third of that of Cinzia. If the length of the piece of Cinderella is 3 meters, how many meters was the length of the tape before it was cut? A) 21 B) 30 C) 40 D) 54 E) 51
+> (Dots 4) Anna cuts a tape into four parts; she holds one part and gives the other three (one for each) to her friends Betta, Cinzia, and Donatella. The length of the part of Betta is one third of the length of that of Anna, the length of the part of Cinzia is one third of that of Betta and the length of the part of Donatella is one third of that of Cinzia. If the length of the piece of Cinzia is 3 meters, how many meters was the length of the tape before it was cut? A) 21 B) 30 C) 40 D) 54 E) 51
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q05|src_kangourou_2019_ecolier_semifinale__Q05]]
@@ -264,9 +264,21 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Money per bag given 42 bags divided among 41 people*
+*Coins per sack given 42 sacks divided among 41 people*
 
-> There Baba and his forty thieves steal 42 bags of gold coins: each bag contains the same number of coins and all the coins are identical. Then they divide the loot into equal parts. Each receives a complete bag and two gold coins. How many coins does each bag contain? A) 41 B) 42 C) 81 D) 82 E) 84 Exit P Q R
+> (Points 4) Ali Baba and his forty thieves steal 42 sacks of gold coins: each sack contains
+> the same number of coins and all the coins are identical. Then they divide the loot into equal parts.
+> Each of them receives one full sack and two gold coins. How many coins does each
+> sack contain?
+> A) 41
+> B) 42
+> C) 81
+> D) 82
+> E) 84
+> Exit
+> P
+> Q
+> R
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q06|src_kangourou_2019_ecolier_semifinale__Q06]]
@@ -310,7 +322,7 @@ Minimum white cars to move to get the black car out
 
 ![[src_kangourou_2019_ecolier_semifinale__prob7.png]]
 
-> (Documents 5) Filippo has 8 identical sheets of paper, but of different colours: he glues them onto a cardboard one after another, each at least partially overlapping with the previous one, so that the square in the figure (where the letters denote the colour of the sheet) is finally obtained. Which sheet did you paste first? A) b
+> (Points 5) Filippo has 8 identical sheets of paper, but of different colours: he glues them onto a cardboard one after another, each at least partially overlapping with the previous one, so that the square in the figure (where the letters denote the colour of the sheet) is finally obtained. Which sheet did he paste first? A) b
 > 	
 > B) d
 > 	
@@ -400,7 +412,7 @@ Minimum white cars to move to get the black car out
 > 	
 > D) 7
 > 	
-> E) 8 Questions to be answered
+> E) 8 Open-ended questions
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q09|src_kangourou_2019_ecolier_semifinale__Q09]]
@@ -433,11 +445,16 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cells can reach the foot in 5 movements*
+*How many cells can the token reach in 5 moves*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob10.png]]
 
-> (Points 4) A table game is played on the grid you see in the figure. The pedina cannot go over the black cells and, in one move, can only pass from one cell to an adjacent one (i.e. it has a side in common with it) without ever returning to a previously occupied cell. How many different cells can reach the peduncle if you start from the position in the figure and make 5 moves?
+> (4 points) A board game is played on the grid you see in the figure. The 
+> token cannot go on the black cells and, in one move, it can only go 
+> from one cell to an adjacent one (that is, one that has a side in common with it) 
+> without ever returning to a previously occupied cell. How many different 
+> cells can the token reach if it starts from the position in the figure and makes 5 
+> moves?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q10|src_kangourou_2019_ecolier_semifinale__Q10]]
@@ -466,9 +483,9 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many friends of Agnes dividing 121 salads
+How many friends of Agnes dividing 121 crackers
 
-> (Points 4) Agnese has 121 salads; she distributes them to her friends so that she and her friends have the same number of salads and more than one each. How many of Agnes' friends are there?
+> (Points 4) Agnese has 121 crackers; she distributes them to her friends so that she and her friends have the same number of crackers and more than one each. How many of Agnes' friends are there?
 
 **Answer:** 10
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q11|src_kangourou_2019_ecolier_semifinale__Q11]]
@@ -534,7 +551,7 @@ How many friends of Agnes dividing 121 salads
 
 Maximum sum of the first two cards with total sum of 35
 
-> (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (not one of which is a jolly or a figure) and arranged them so that the score of each card did not exceed that of the next card. Putting all the scores together, he gets 35. What is the maximum value of the sum of the scores of the first two cards?
+> (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (not one of which is a joker or a face card) and arranged them so that the score of each card did not exceed that of the next card. Putting all the scores together, she gets 35. What is the maximum value of the sum of the scores of the first two cards?
 
 **Answer:** 14
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q13|src_kangourou_2019_ecolier_semifinale__Q13]]
@@ -562,7 +579,7 @@ Maximum sum of the first two cards with total sum of 35
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Within how many hours the two tanks have the same amount of water*
+*In how many hours will the two tanks have the same amount of water*
 
 > At this moment one tank contains 100 litres of water and another tank contains 120 litres. From the first, water comes out at a rate of one litre per hour, while from the second, water comes out at a rate of three litres per hour. How many hours from now will the two tanks contain the same amount of water?
 
@@ -618,7 +635,7 @@ Maximum sum of the first two cards with total sum of 35
 
 *How many initial forms of cheese are given to mice over two days*
 
-> A cellar contains some whole forms of cheese. One day 36 mice invade the cellar and devour a total of 12 whole forms of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining forms. How many whole forms of cheese were there in the basement? a b h d c g f e
+> A cellar contains some whole forms of cheese. One day 36 mice invade the cellar and devour a total of 12 whole forms of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining forms. How many whole forms of cheese were there in the cellar? a b h d c g f e
 > 	
 > a 4 0 b  -
 > 	

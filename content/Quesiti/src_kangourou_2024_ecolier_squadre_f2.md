@@ -36,7 +36,7 @@ level: squadre
 
 *Adam's age with reversed year figures*
 
-> Adam's Age Today, May 5, 2024, is Adam's birthday and, by filling out a form in which he was required to indicate his year of birth, Adam mistakenly reversed the last two digits of the year. Thus, it turns out that Adam would be 30 years old. How old is Adam? The answer is 0075.
+> Adam's Age Today, May 5, 2024, is Adam's birthday and, by filling out a form in which he was required to indicate his year of birth, Adam mistakenly reversed the last two digits of the year. Thus, it turns out that Adam would be 30 years old. How old is Adam?
 
 **Answer:** 0075
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q01|src_kangourou_2024_ecolier_squadre_f2__Q01]]
@@ -68,9 +68,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most weekly number of 4 digits *
+*Largest 4-digit septimino number*
 
-> We say a 4-digit integer is weekly if it has the following property: the product of two of its digits is equal to the sum of 7 with the product of the other two. For example, the number 2701 is weekly: in fact 7 × 1 = 7 + 2 × 0. What's the largest number of weeks? The answer is 9877.
+> The septimino  
+> Let us say that a 4-digit integer is septimino if it has the following property:  
+> "the product of two of its digits is equal to the sum of 7 with the product of the other two." 
+> For example, the number 2701 is septimino: in fact 7 × 1 = 7 + 2 × 0. What is the largest of the 
+> septimino numbers? 
+> Answer: 9877.
 
 **Answer:** 9877
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q02|src_kangourou_2024_ecolier_squadre_f2__Q02]]
@@ -107,7 +112,7 @@ level: squadre
 
 *How many block numbers are divisible by 5*
 
-> 2024 times 2024 Consider the alignment of figures 202420242024...20242024 where the fourth order 2024 appears 2.024 times. Any block formed by any number of consecutive digits in this alignment and not beginning with 0, identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth, and so on, identifies the number 4.202.420). How many whole numbers, all different from each other, determined by allowable blocks, are divisible by 5? The answer is 6070.
+> 2024 times 2024 Consider the alignment of figures 202420242024...20242024 where the ordered quadruple 2024 appears 2.024 times. Any block formed by any number of consecutive digits in this alignment and not beginning with 0, identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth, and so on, identifies the number 4.202.420). How many whole numbers, all different from each other, determined by allowable blocks, are divisible by 5? Answer: 6070.
 
 **Answer:** 6070
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q03|src_kangourou_2024_ecolier_squadre_f2__Q03]]
@@ -137,9 +142,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro borrowed from the Salvadoran brother*
+*Euros taken by brother piggy bank*
 
-> Today in my dressing room there are 15 euros. Starting tomorrow, I'll give you three euros every day, but every day my brother will take four. When, at the end of a certain day, there will be 8 euros left in the savings account, how many euros will my brother have taken in? The answer is 0028.
+> In my piggy bank
+> Today in my piggy bank there are 15 euros. Starting tomorrow, every day I will put 3 euros in it, but
+> every day my brother will take 4 out. When, at the end of a certain day, there are
+> 8 euros left in the piggy bank, how many euros will my brother have taken in total?
+> Answer: 0028.
 
 **Answer:** 0028
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q04|src_kangourou_2024_ecolier_squadre_f2__Q04]]
@@ -170,9 +179,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 3 digits with average decimal places of the others*
+*Numbers of 3 digits with tens digit the mean of the others*
 
-> We call the mean of two numbers half their sum. How many three-digit integers (therefore with the number of hundreds different from 0) are such that the number of tens is the average of the other two digits? The answer is 0045. The solution.
+> We call the mean of two numbers half their sum. How many three-digit integers (therefore with the hundreds digit different from 0) are such that the tens digit is the average of the other two digits? The answer is 0045. The solution.
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q05|src_kangourou_2024_ecolier_squadre_f2__Q05]]
@@ -206,7 +215,7 @@ level: squadre
 
 *Of how many numbers does Elsa have to guess the sum*
 
-> Clotilde wrote all the whole numbers from 1 to 2,024, including each one on a different note. Then he had Sandro extract one of the 2,024 tickets and Chiara one of the 2,023 remaining tickets. Finally, she added the two numbers on the extracted tickets and asked Elsa to guess the amount she got. How many numbers do you have to guess Elsa out of? Answer: 4045.
+> Clotilde wrote all the whole numbers from 1 to 2,024, including each one on a different note. Then she had Sandro draw one of the 2,024 tickets and Chiara one of the 2,023 remaining tickets. Finally, she added the two numbers on the extracted tickets and asked Elsa to guess the sum she got. Among how many numbers must Elsa try to guess? Answer: 4045.
 
 **Answer:** 4045
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q06|src_kangourou_2024_ecolier_squadre_f2__Q06]]
@@ -259,7 +268,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The amount of fuel used shall be calculated on the basis of the following information:
+*Kilometres per litre of petrol*
 
 ![[src_kangourou_2024_ecolier_squadre_f2__prob7.png]]
 
@@ -281,7 +290,14 @@ The amount of fuel used shall be calculated on the basis of the following inform
 \end{document}
 ```
 
-> The gasoline with my car is at a gas station located in point A shown in the figure. Starting from A with only 6 liters of gasoline, I would stop at point B, which is 54 km from point C. Instead, with nine and a half litres, I would stop, always for lack of gasoline, at point D which is 23 km beyond point C. How many miles does my car travel with a gallon of gasoline? The answer is 0022.
+> Petrol  
+>  With my car I am at a petrol station that 
+> is located at point A shown in the figure. Starting from 
+> A with only 6 litres of petrol I would stop, for lack 
+> of petrol, at point B which is 54 km from point C. Instead with 9 and a half litres I would stop, again 
+> for lack of petrol, at point D which is 23 km beyond point C. How many kilometres does my 
+> car travel with one litre of petrol? 
+> Answer: 0022.
 
 **Answer:** 0022
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q07|src_kangourou_2024_ecolier_squadre_f2__Q07]]
@@ -311,9 +327,12 @@ The amount of fuel used shall be calculated on the basis of the following inform
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 10.99 with an equal sum of numbers *
+*How many numbers 10..99 with even digit sum*
 
-> For how many of the numbers between 10 and 99 (inclusive) does the sum of their two digits happen to be an equal number? The answer is 0045.
+> Even sum  
+> For how many of the numbers between 10 and 99 (included) does it happen that the sum of their two digits is an 
+> even number? 
+> Answer: 0045.
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q08|src_kangourou_2024_ecolier_squadre_f2__Q08]]
@@ -345,7 +364,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 
 *Maximum number of entries, sum of the last two 2024*
 
-> So many multiples I wrote an integer and then double that number, and then triple, quadruple, and so on until, adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. How many numbers could I have written at most? The answer is 0127.
+> So many multiples I wrote an integer and then double that number, and then triple, quadruple, and so on until, adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. How many numbers could I have written at most? Answer: 0127.
 
 **Answer:** 0127
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q09|src_kangourou_2024_ecolier_squadre_f2__Q09]]
@@ -376,7 +395,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 
 *Year first novel, sum of years 13804*
 
-> Novelist One has published seven novels, one every two years. Adding up the years in which his novels were published, you get 13,804. In what year did you publish your first novel? The answer is 1966.
+> A novelist has published seven novels, one every two years. Adding up the years in which his novels were published, you get 13,804. In what year did he publish his first novel? The answer is 1966.
 
 **Answer:** 1966
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q10|src_kangourou_2024_ecolier_squadre_f2__Q10]]
@@ -407,7 +426,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 
 *Numbers 1000..4000 with only odd digits*
 
-> Odd numbers How many integers between 1,000 and 4,000 are composed of odd numbers only? The answer is 0250.
+> Odd digits How many integers between 1,000 and 4,000 are composed of odd digits only? The answer is 0250.
 
 **Answer:** 0250
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q11|src_kangourou_2024_ecolier_squadre_f2__Q11]]
@@ -448,11 +467,24 @@ The amount of fuel used shall be calculated on the basis of the following inform
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First 4 minimum digits divisible by 3, seven plus *
+*First 4 digits smallest divisible by 3, seven addends*
 
-> Seven additions Consider the results of the 9 additions of seven additions 1 + 11 + 111 + 1.111 + 11.111 + 111.111 + 1.111.111 + 1.111.111 2 + 22 + 222 + 2.222 + 22.222 + 222.222 + 2.222.222 and so on up to 9 + 99 + 999 + 9.999 + 99.999 + 999.999 + 9.999.999. A B C D 54 km 23 km
+> Seven addends  
+> Consider the results of the 9 additions of seven addends  
+> 1 + 11 + 111 + 1,111 + 11,111 + 111,111 + 1,111,111 
+> 2 + 22 + 222 + 2,222 + 22,222 + 222,222 + 2,222,222 
+> and so on up to  
+> 9 + 99 + 999 + 9,999 + 99,999 + 999,999 + 9,999,999. 
+> A 
+> B 
+> C 
+> D 
+> 54 km 
+> 23 km 
 > 
-> So, out of these, determine the smallest one that's divisible by 3 and write the first four digits on the left. The answer is 3703.
+> Among these, determine the smallest that is divisible by 3 and write its first four digits from 
+> the left.   
+> Answer: 3703.
 
 **Answer:** 3703
 [[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q12|src_kangourou_2024_ecolier_squadre_f2__Q12]]

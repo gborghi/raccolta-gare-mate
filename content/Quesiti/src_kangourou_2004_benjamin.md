@@ -88,7 +88,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Latin square sheet
+*Card to be placed in the pattern (latin square)
 
 ![[src_kangourou_2004_benjamin__prob2.png]]
 
@@ -108,7 +108,7 @@ level: kangourou
 \end{document}
 ```
 
-> You 've got 16 cards: 4 spikes (P ), 4 flowers (F ), 4 cards (Q ), and 4 hearts (C). You have to place them in the pattern shown in the figure, one per square, so that in each row and in each column there is a card for each sign. You've already begun the work as shown in the figure. What paper do you have to put in the square where the question mark appears? A) P B) F C) Q D) C E) more than one choice is possible
+> You 've got 16 cards: 4 spades (P), 4 clubs (F), 4 diamonds (Q), and 4 hearts (C). You have to place them in the pattern shown in the figure, one per square, so that in each row and in each column there is a card for each sign. You've already begun the work as shown in the figure. Which card do you have to put in the square where the question mark appears? A) P B) F C) Q D) C E) more than one choice is possible
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_benjamin#q02|src_kangourou_2004_benjamin__Q02]]
@@ -169,7 +169,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*360000 seconds at several hours*
+*360000 seconds in how many hours*
 
 > 360 000 seconds is equivalent to A) 3 hours B) 6 hours C) 8 and a half hours D) 10 hours E) more than 10 hours
 
@@ -204,7 +204,7 @@ level: kangourou
 
 Weight of 1 apple and 1 orange *
 
-> 3 apples and 2 oranges weigh a total of 255 grams; 2 apples and 3 oranges weigh a total of 285 grams. All apples have the same weight and all oranges have the same weight. How many grams weigh one apple and one orange? A) 110 B) 108         C) 105        D) 104        E) 102
+> 3 apples and 2 oranges weigh a total of 255 grams; 2 apples and 3 oranges weigh a total of 285 grams. All apples have the same weight and all oranges have the same weight. How many grams do 1 apple and 1 orange weigh in total? A) 110 B) 108         C) 105        D) 104        E) 102
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_benjamin#q05|src_kangourou_2004_benjamin__Q05]]
@@ -250,11 +250,29 @@ Weight of 1 apple and 1 orange *
 <div class="qlang-split" data-lang="en"></div>
 
 
-Guess the number (true among friends)
+*Guessing the number (truth among friends)*
 
-> You have to guess a positive integer about which four of your friends are giving you the following information. Andrea: "The number is nine". Bruno: "The number is number one". Carl: "The number is even". Dario: "The number is 15". You know, between Andrea and Bruno, one of them is telling the truth. C F P Q C 5 cm
+> You must guess a positive integer about which four of your
+> friends give you the following information. Andrea: "The number is 9".
+> Bruno: "The number is prime". Carlo: "The number is even". Dario: "The
+> number is 15". You know that, between Andrea and Bruno, one of the two tells the truth
+> P
+> ? C
+> F P
+> Q
+> C
+> 5 cm
 > 
-> I'm going to pay. I'm going to pay. 11 11 Kang 2004 Kang 2004 and so on between Carlo and Dario. What's the number? A) 1 B) 2 C) 3 D) 9           E) 15
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2004
+> Kang 2004
+> and likewise between Carlo and Dario. What is the number?
+> A) 1
+> B) 2
+> C) 3   
+> D) 9           E) 15
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_benjamin#q06|src_kangourou_2004_benjamin__Q06]]
@@ -285,7 +303,7 @@ Guess the number (true among friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not a 2004 divider*
+*Which is not a divisor of 2004*
 
 > Which of the following is not a 2004 divider? A) 3 B) 4 C) 6 D) 8 E) 12
 
@@ -321,7 +339,7 @@ Guess the number (true among friends)
 
 Carrots eaten by the rabbit mother
 
-> The three members of a rabbit family ate a total of 73 carrots. His father ate five more carrots than his mother. Bunny's son ate 12 carrots. How many carrots did your mother eat? A) 27 B) 28 C) 31 D) 33          E) 56
+> The three members of a rabbit family ate a total of 73 carrots. The father ate 5 carrots more than the mother. Bunny the son ate 12 carrots. How many carrots did the mother eat? A) 27 B) 28 C) 31 D) 33          E) 56
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_benjamin#q08|src_kangourou_2004_benjamin__Q08]]
@@ -390,7 +408,7 @@ Carrots eaten by the rabbit mother
 
 ![[src_kangourou_2004_benjamin__prob10.png]]
 
-> A square cardboard of 6 centimeters on the side is used to build a box 1 centimeter high, as suggested by the figure (shaded squares are removed). How many cubic centimetres is the volume of the box? A) 16 B) 36 C) 30 D) 25 E) 24 Questions from N. 11 al N. 20 is worth 4 points each.
+> A square cardboard of 6 centimeters on the side is used to build a box 1 centimeter high, as suggested by the figure (shaded squares are removed). How many cubic centimetres is the volume of the box? A) 16 B) 36 C) 30 D) 25 E) 24 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_benjamin#q10|src_kangourou_2004_benjamin__Q10]]
@@ -435,13 +453,28 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure can you get without flipping *
+*Which figure can you not obtain without flipping*
 
 ![[src_kangourou_2004_benjamin__prob11.png]]
 
-> You have at your disposal two pieces of cardboard that are the same size as the ones in the figure, which you can approach, moving them in the plane as you like but not folding them. Which of the following figures can't you get? V = ? 6 6 --> A) B) C) D) E)
+> You have two pieces of cardboard identical
+> to each other like those in the figure, which you can place side by side,
+> moving them in the plane as you please but not flipping them. Which of the following figures can you not obtain?
+> V = ?
+> 6
+> 6
+> -->
+> A)
+> B)
+> C)
+> D)
+> E)
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2004 Kang 2004
+> Pag. 
+> Pag. 12
+> 12
+> Kang 2004
+> Kang 2004
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_benjamin#q11|src_kangourou_2004_benjamin__Q11]]
@@ -515,11 +548,11 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square code in the encrypted addition*
+*Digit of the square in the encrypted addition*
 
 ![[src_kangourou_2004_benjamin__prob13.png]]
 
-> To equal symbols correspond equal numbers, to different symbols correspond different numbers. In the displayed addition, what figure corresponds to the square? A) 9 B) 8 C) 7 D) 6 E) 5
+> To equal symbols correspond equal numbers, to different symbols correspond different numbers. In the displayed addition, what digit corresponds to the square? A) 9 B) 8 C) 7 D) 6 E) 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_benjamin#q13|src_kangourou_2004_benjamin__Q13]]
@@ -552,7 +585,7 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Min number of boxes per ball (MCD) *
+* Min number of boxes for balls (GCD) *
 
 > You got 108 red balls and 180 green balls. You want to distribute them in boxes, so that each box contains balls all of the same color and the number of balls is the same for each box. What's the minimum number of boxes you can run the operation? A) 288 B) 36 C) 18 D) 8 E) 2
 
@@ -693,13 +726,22 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Development of the cube with cutting edge*
+*Net of the cube with a cut-off vertex*
 
 ![[src_kangourou_2004_benjamin__prob17.png]]
 
-> A cube is cut to a vertex as shown in the figure. Which of the following figures corresponds to the development of the new solid thus obtained? + + =
+> A cube is cut at a vertex as shown in the figure. Which
+> of the figures below corresponds to the net of the
+> new solid thus obtained?
+> +
+> +
+> =
 > 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2004 Kang
+> Pag. 
+> Pag. 13
+> 13
+> Kang 2004
+> Kang 2004
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_benjamin#q17|src_kangourou_2004_benjamin__Q17]]
@@ -741,7 +783,7 @@ Carrots eaten by the rabbit mother
 
 ![[src_kangourou_2004_benjamin__prob18.png]]
 
-> Four snails crawled on a floor made of rectangular tiles all equal to each other. The figure shows the trace left by each of them. You know that the trail left by Fin is 25 centimetres long, the one left by Pin is 37 centimetres long and the one left by Rin is 38 centimetres long. How long is the trail left by the Tin snail? A) 27 B) 30          C) 35 D) 36          E) 40
+> Four snails crawled on a floor made of rectangular tiles all equal to each other. The figure shows the trace left by each of them. You know that the trail left by Fin is 25 decimetres long, the one left by Pin is 37 decimetres long and the one left by Rin is 38 decimetres long. How long is the trail left by the Tin snail? A) 27 B) 30          C) 35 D) 36          E) 40
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_benjamin#q18|src_kangourou_2004_benjamin__Q18]]
@@ -863,7 +905,7 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White/shaded area report*
+*White/shaded area ratio*
 
 ![[src_kangourou_2004_benjamin__prob21.png]]
 
@@ -900,7 +942,7 @@ Carrots eaten by the rabbit mother
 
 How many mushrooms did Stefania collect?
 
-> Stefania and Simonetta went to mushrooms and collected a total of 70. 5/9 of the mushrooms Stefania collects are pigs and 2/17 of the mushrooms Simonetta collects are eggs. How many mushrooms did Stefania collect? A)  27 B)  36 C)  45 D)  54        E)  9
+> Stefania and Simonetta went to mushrooms and collected a total of 70. 5/9 of the mushrooms mushrooms collected by Stefania are porcini and 2/17 of the mushrooms collected by Simonetta are ovoli. How many mushrooms did Stefania collect? A)  27 B)  36 C)  45 D)  54        E)  9
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_benjamin#q22|src_kangourou_2004_benjamin__Q22]]
@@ -949,7 +991,7 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second number in 9 boxes (sum of 21 bits) *
+*Second number in 9 boxes (sum of triples is 21) *
 
 ![[src_kangourou_2004_benjamin__prob23.png]]
 
@@ -966,7 +1008,7 @@ How many mushrooms did Stefania collect?
 \end{document}
 ```
 
-> In the figure, 9 boxes are aligned: the first contains the number 7 and the last contains the number 6. What number do we have to write in the second, if we want for every set of consecutive boxes, the sum of the numbers that appear to you to be 21? A) 7 B) 8 C) 6 D) 10 E) 21
+> In the figure, 9 boxes are aligned: the first contains the number 7 and the last contains the number 6. What number do we have to write in the second, if we want for every three consecutive boxes, the sum of the numbers that appear to you to be 21? A) 7 B) 8 C) 6 D) 10 E) 21
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_benjamin#q23|src_kangourou_2004_benjamin__Q23]]
@@ -1007,7 +1049,7 @@ How many mushrooms did Stefania collect?
 
 ![[src_kangourou_2004_benjamin__prob24.png]]
 
-> The figure shows some pearls (represented by circles) connected by strings (represented by segments). How many of these threads does it take to simply cut to get a necklace, made of a single ring, that contains all the pearls? A) 18 B) 19 C) 20 D) 21 E) It is impossible to obtain such a necklace by simply removing wires
+> The figure shows some pearls (represented by circles) connected by strings (represented by segments). How many of these threads is it enough to remove to get a necklace, made of a single ring, that contains all the pearls? A) 18 B) 19 C) 20 D) 21 E) It is impossible to obtain such a necklace by simply removing threads
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_benjamin#q24|src_kangourou_2004_benjamin__Q24]]
@@ -1086,11 +1128,11 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cubic from construction (3 views) *
+*Max cubes from construction (3 views) *
 
 ![[src_kangourou_2004_benjamin__prob26.png]]
 
-> Matthew stacked some cubes on top of each other, all of them equal to each other. It thus obtained a construction that, seen from the front, right and above, appears as shown by the figures (without taking into account the perspective). What's the maximum number of cubes Matteo could have used? A) 19          B) 20          C) 21         D) 22          E) 23
+> Matteo stacked some cubes on top of each other, all of them equal to each other. He thus obtained a construction that, seen from the front, right and above, appears as shown by the figures (without taking into account the perspective). What is the maximum number of cubes that Matteo could have used? A) 19          B) 20          C) 21         D) 22          E) 23
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_benjamin#q26|src_kangourou_2004_benjamin__Q26]]
@@ -1125,7 +1167,7 @@ How many mushrooms did Stefania collect?
 
 ![[src_kangourou_2004_benjamin__prob27.png]]
 
-> Consider the construction done by Matthew and illustrated in the preceding question. Now we ask you, what is the minimum number of cubes that Matteo could have used? (Naturally, any cube other than the base must rest on another cube.) A) 11          B) 12          C) 13          D) 15          E) 19
+> Consider the construction done by Matteo and illustrated in the preceding question. Now we ask you, what is the minimum number of cubes that Matteo could have used? (Naturally, any cube other than the base must rest on another cube.) A) 11          B) 12          C) 13          D) 15          E) 19
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_benjamin#q27|src_kangourou_2004_benjamin__Q27]]
@@ -1154,9 +1196,12 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dancing on the fourth night (progress) *
+*Mosquitoes on the fourth night (progression)*
 
-> A bat ate a total of 1,050 mosquitoes in four consecutive nights. Every night (starting at 2 a.m.) that bat ate 25 more mosquitoes than the night before. How many mosquitoes did you eat on the fourth night? A) 200       B) 225        C) 250        D) 275       E) 300
+> A bat ate a total of 1050 mosquitoes over four
+> consecutive nights. Each night (starting from the second) that
+> bat ate 25 mosquitoes more than on the previous night. How many mosquitoes did it eat on the fourth night?
+> A) 200       B) 225        C) 250        D) 275       E) 300
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_benjamin#q28|src_kangourou_2004_benjamin__Q28]]
@@ -1185,9 +1230,9 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zero in the ratio of (2004 units)/3*
+*Zeroes in the quotient of (2004 ones)/3*
 
-> Alfonso divided the number by 3 (i.e. the number formed from 2004 figures all equal to 1). How many zeros are in the quotient you got? A) 1002      B) 669        C) 668        D) 667       E) 665
+> Alfonso divided by 3 the number (i.e. the number formed from 2004 digits all equal to 1). How many zeros are in the quotient he got? A) 1002      B) 669        C) 668        D) 667       E) 665
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_benjamin#q29|src_kangourou_2004_benjamin__Q29]]
@@ -1240,9 +1285,28 @@ How many mushrooms did Stefania collect?
 
 ![[src_kangourou_2004_benjamin__prob30.png]]
 
-> A rectangular triangle is carved out of a sheet of paper, the catheters of which measure six and eight centimeters. The triangle is folded along a straight line to obtain a polygon. The figure illustrates a possible operation of this kind; the polygon is the shaded region. Which of the following numbers can express the area in square centimetres of the polygon obtained? A) 9           B) 12          C) 18          D) 24         E) 30 3 2 1 2004 1 ... 111 High right forehead
+> From a sheet of paper a right
+> triangle is cut out whose legs measure 6 and
+> 8 centimeters. The triangle is folded
+> along a straight line obtaining a polygon.
+> The figure illustrates one possible operation of
+> this kind; the polygon is the shaded
+> region. Which of the following numbers
+> can express the area, in square centimeters,
+> of the polygon obtained?
+> A) 9           B) 12          C) 18          D) 24         E) 30 
+> 3
+> 2
+> 1
+> 2004
+> 1
+> ...
+> 111
+> front
+> right
+> high
 > 
-> This is a very important issue.
+>  BENJAMIN 2004 SOLUTIONS
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_benjamin#q30|src_kangourou_2004_benjamin__Q30]]

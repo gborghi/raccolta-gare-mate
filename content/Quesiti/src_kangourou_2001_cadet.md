@@ -67,7 +67,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form of sheet folded twice*
+*Shape of the sheet folded twice*
 
 ![[src_kangourou_2001_cadet__prob1.png]]
 
@@ -83,17 +83,31 @@ level: kangourou
 > (E)
 >  
 >           
-> 4 3
+> 4
+> 3
 >  
 > (D)
 >           
-> 6 5 (C)
+> 6
+> 5 
+> (C)
 >         
-> 2 (B)
+> 2 
+> (B)
 >         
-> 3 2 ) A (
+> 3
+> 2
+>  )
+> A
+> (
 > 
-> Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 4 (A) 0 (B) 1 (C) 2 (D) 3 (E) 4.
+> Kangourou 15 March 2001, Cadet category.     Page N.
+> 4
+> (A) 0
+> (B) 1
+> (C) 2
+> (D) 3
+> (E) 4.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_cadet#q01|src_kangourou_2001_cadet__Q01]]
@@ -119,9 +133,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Other, of a kind used in the manufacture of foodstuffs
+*Boxes for packing the kangaroos*
 
-> 2. Roberta has to pack 10 wooden kangaroos in boxes. If 178 kangaroos are red and 121 are blue, how many boxes does Roberta need to pack them all, not mixing the two colors? (A) 13 (B) 18 (C) 24 (D) 30 (E) 31. Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 1
+> 2. Roberta has to pack wooden kangaroos into boxes of 10. If 178 kangaroos are red and 121 are blue, how many boxes does Roberta need to pack them all, without mixing the two colors? (A) 13 (B) 18 (C) 24 (D) 30 (E) 31. Kangourou 15 March 2001, Cadet category. Page No. 1
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_cadet#q02|src_kangourou_2001_cadet__Q02]]
@@ -154,7 +168,7 @@ Cutting off a ring to free them all
 
 ![[src_kangourou_2001_cadet__prob3.png]]
 
-> 3. By cutting off a single ring, can you free them all? A: yes, cutting A: yes, cutting B: yes, cutting C: yes, cutting D: no.
+> 3. By cutting off a single ring, can you free them all? (A) yes, cutting A (B) yes, cutting B (C) yes, cutting C (D) yes, cutting D (E) no.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_cadet#q03|src_kangourou_2001_cadet__Q03]]
@@ -180,9 +194,9 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Joanna's classmates*
+*Giovanna's female classmates in the class*
 
-> 4. Henry's classmates are seven more than his classmates. In the same class the number of boys is twice that of girls. How many companions does Joan have in Henry's class? (A) 6 (B) 7 (C) 8 (D) 9 (E) 10.
+> 4. Enrico's classmates are 7 more than the female classmates. In the same class the number of boys is twice that of the girls. How many female classmates does Giovanna, who is in the same class as Enrico, have? (A) 6 (B) 7 (C) 8 (D) 9 (E) 10.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_cadet#q04|src_kangourou_2001_cadet__Q04]]
@@ -210,7 +224,7 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*C road route compared to B road*
+*Route via C compared to route via B*
 
 ![[src_kangourou_2001_cadet__prob5.png]]
 
@@ -282,7 +296,7 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*COM angle given OND by 60 degrees*
+*COM angle given OND of 60 degrees*
 
 ![[src_kangourou_2001_cadet__prob7.png]]
 
@@ -325,7 +339,7 @@ Cutting off a ring to free them all
 
 *Time for the koala family together*
 
-> 8. A small koala eats the leaves of an entire eucalyptus tree in 10 hours. Both his father and mother eat twice as fast as he does. How long will the three members of the family together manage to eat all the leaves of the same tree? (A) two hours (B) three hours (C) four hours (D) five hours (E) six hours. Kangourou 15 March 2001, category Cadet. This item is not intended to be used.
+> 8. A small koala eats the leaves of an entire eucalyptus tree in 10 hours. Both his father and mother eat twice as fast as he does. How long will the three members of the family together manage to eat all the leaves of the same tree? (A) two hours (B) three hours (C) four hours (D) five hours (E) six hours. Kangourou 15 March 2001, category Cadet. Page N.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_cadet#q08|src_kangourou_2001_cadet__Q08]]
@@ -353,7 +367,7 @@ Cutting off a ring to free them all
 
 *Ratio of hexagon area and equilateral triangle*
 
-> 9. What is the ratio between the area of a regular hexagon on side 1 and the area of an equilateral triangle on side 3? 2 5 3 ( A ) (B) 2 (C) (D) (E) 1. 3 6 4
+> 9. What is the ratio between the area of a regular hexagon with side 1 and the area of an equilateral triangle with side 3? 2 5 3 ( A ) (B) 2 (C) (D) (E) 1. 3 6 4
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_cadet#q09|src_kangourou_2001_cadet__Q09]]
@@ -386,7 +400,7 @@ Cutting off a ring to free them all
 
 ![[src_kangourou_2001_cadet__prob10.png]]
 
-> 10. How many different paths are possible to go from point A to point B in the figure, if no point is allowed to be crossed more than once? (A) 3 (B) 6 (C) 7 (D) 8 (E) more than 10. The questions from N. 11 al N. 20 is worth 4 points each.
+> 10. How many different paths are possible to go from point A to point B in the figure, if no point is allowed to be crossed more than once? (A) 3 (B) 6 (C) 7 (D) 8 (E) more than 10. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_cadet#q10|src_kangourou_2001_cadet__Q10]]
@@ -415,7 +429,7 @@ Cutting off a ring to free them all
 
 *Intersections of four circumferences*
 
-> 11. The length of the side of a square placed on a plane is 1 cm. Each vertex of this square is the center of a radius of 1 cm, lying on the same plane. How many points in the plane do these circles intersect? (A) 6 (B) 8 (C) 10 (D) 12 (E) 14.
+> 11. The length of the side of a square placed on a plane is 1 cm. Each vertex of this square is the center of a circle of radius 1 cm, lying on the same plane. How many points in the plane do these circles intersect? (A) 6 (B) 8 (C) 10 (D) 12 (E) 14.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_cadet#q11|src_kangourou_2001_cadet__Q11]]
@@ -441,9 +455,9 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-The Night of Nicholas and Michele
+Nuts by Nicholas and Michele
 
-> 12. On each of the two tables there are 2001 nuts. Nicholas gets the nuts from one table, Michael gets the nuts from the other. In the first round, Nicholas takes one nut every three; then, in the second round, he takes one every five of the remaining. In the first round, Michele takes one nut every five; in the second round, one every three of the remaining ones. At this point, what is the situation? (A) Nicholas has 3/5 of Michael's nuts (B) Michael has 3/5 of Nicholas' nuts (C) Michael has 1 more nuts than Nicholas (D) Nicholas has 1 more nuts than Michael (E) Michael and Nicholas have the same number of nuts.
+> 12. On each of the two tables there are 2001 nuts. Nicholas gets the nuts from one table, Michael gets the nuts from the other. In the first round, Nicholas takes one nut every three; then, in the second round, he takes one every five of the remaining. In the first round, Michael takes one nut every five; in the second round, one every three of the remaining ones. At this point, what is the situation? (A) Nicholas has 3/5 of Michael's nuts (B) Michael has 3/5 of Nicholas' nuts (C) Michael has 1 more nut than Nicholas (D) Nicholas has 1 more nut than Michael (E) Michael and Nicholas have the same number of nuts.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_cadet#q12|src_kangourou_2001_cadet__Q12]]
@@ -541,7 +555,7 @@ The Night of Nicholas and Michele
 \end{document}
 ```
 
-> ABC is an equilateral triangle and B is the midpoint of the AD segment (v. (Figure 1). A point E is chosen in the same plane so that DE = AB. We know that the distance between C and E is the maximum possible. What is the size of the BED angle?
+> ABC is an equilateral triangle and B is the midpoint of the AD segment (see figure). A point E is chosen in the same plane so that DE = AB. We know that the distance between C and E is the maximum possible. What is the size of angle BED?
 >
 > - **(A)** 45°
 > - **(B)** 30°
@@ -673,7 +687,7 @@ The Night of Nicholas and Michele
 
 *Total turns when found*
 
-> Eros and Gianni are taking part in a track race. Each one runs at a constant speed: Eros makes 5 laps in 12 minutes; Gianni makes 3 laps in 10 minutes. Knowing that they started together from the starting line, after how many laps do they still cut the starting line together for the first time? It asks the total of the rounds taken by the two.
+> Eros and Gianni are taking part in a track race. Each one runs at a constant speed: Eros makes 5 laps in 12 minutes; Gianni makes 3 laps in 10 minutes. Knowing that they started together from the starting line, after how many laps do they still cross the starting line together for the first time? It asks the total of the laps taken by the two.
 >
 > - **(A)** 3
 > - **(B)** 43
@@ -820,11 +834,15 @@ The Night of Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most peak face product*
+*Maximum product of faces at a vertex*
 
 ![[src_kangourou_2001_cadet__prob19.png]]
 
-> In the accompanying figure, the development of a cube whose faces have been numbered from 1 to 6 is shown. When three faces determine a vertex of the cube, you multiply the numbers that appear on the faces by 8 numbers. Which is the greatest of them?
+> The figure alongside shows the net of a cube whose
+> faces have been numbered from 1 to 6. When three faces
+> determine a vertex of the cube, multiply together the
+> numbers that appear on the faces, thus obtaining 8
+> numbers.  Which is the largest of them?
 >
 > - **(A)** 40
 > - **(B)** 60
@@ -874,17 +892,27 @@ The Night of Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Network mesh with knots and leads*
+*Net meshes with knots and sinkers*
 
 ![[src_kangourou_2001_cadet__prob20.png]]
 
-> A fisherman builds a square mesh by himself. By cooking it, he made exactly 32 knots inside and put 28 plumbing pins on the perimeter of the network. How many shirts does that net have? (in the drawing there are 6 knots, 14 plugs and 12 shirts)
+> A fisherman builds a net with
+> square
+> meshes
+> by himself.
+> By sewing it
+> he
+> made
+> exactly 32 knots inside and put 28
+> sinkers on the perimeter of the net. How many meshes
+> does that net have? (in the drawing there are 6 knots, 14 sinkers and 12
+> meshes)
 >
 > - **(A)** 40
 > - **(B)** 45
 > - **(C)** 54
 > - **(D)** 60
-> - **(E)** 64. The questions from N. 21 al N. 30 is worth 5 points each.
+> - **(E)** 64. Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_cadet#q20|src_kangourou_2001_cadet__Q20]]
@@ -1020,7 +1048,7 @@ The Night of Nicholas and Michele
 
 *Sum of points on the surface of the talisman*
 
-> Maddalena builds a talisman by gluing seven dice to each other according to the following rule: two faces with the same number of dots are glued to each other. As she plays with her masterpiece, it slides into a bucket containing white paint. Taking out the talisman, Maddalena realizes that all the dots have disappeared. What was the sum of all the dots on the talisman's surface? (In a dice the sum of the points on opposite sides is always 7.)
+> Maddalena builds a talisman by gluing seven dice to each other according to the following rule: two faces with the same number of dots are glued to each other. As she plays with her masterpiece, it slides into a bucket containing white paint. Taking out the talisman, Maddalena realizes that all the dots have disappeared. What was the sum of all the dots on the talisman's surface? (In a die the sum of the points on opposite sides is always 7.)
 >
 > Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 6
 >
@@ -1064,7 +1092,7 @@ The Night of Nicholas and Michele
 
 *First digit of the minimum number with sum 2001*
 
-> What is the first digit of the smallest natural number whose sum is 2001?
+> What is the first digit of the smallest natural number the sum of whose digits is 2001?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -1112,13 +1140,13 @@ The Night of Nicholas and Michele
 
 ![[src_kangourou_2001_cadet__prob25.png]]
 
-> Next to it you have the view from the left and front of a building made by approaching small cubes. How many cubes were used? The minimum and maximum number of cubes compatible with the illustrations shown shall be required.
+> Next to it you have the view from the left and front of a building made by placing small cubes side by side. How many cubes were used? The minimum and maximum number of cubes compatible with the illustrations shown shall be required.
 >
-> - **(A)** 7 e 13
-> - **(B)** 8 e 13
-> - **(C)** 7 e 15
-> - **(D)** 7 e 16
-> - **(E)** 8 e 16.
+> - **(A)** 7 and 13
+> - **(B)** 8 and 13
+> - **(C)** 7 and 15
+> - **(D)** 7 and 16
+> - **(E)** 8 and 16.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_cadet#q25|src_kangourou_2001_cadet__Q25]]
@@ -1191,7 +1219,7 @@ The Night of Nicholas and Michele
 
 *Hexagons of the football *
 
-> A soccer ball is sewn with pieces of leather shaped like a regular pentagon or regular hexagon. Each pentagon is surrounded by five hexagons and each hexagon is surrounded by three pentagons and three hexagons. The ball has 12 pentagons. How many hexagons does he have?
+> A soccer ball is sewn with pieces of leather shaped like a regular pentagon or regular hexagon. Each pentagon is surrounded by five hexagons and each hexagon is surrounded by three pentagons and three hexagons. The ball has 12 pentagons. How many hexagons does it have?
 >
 > - **(A)** 60
 > - **(B)** 30
@@ -1233,7 +1261,7 @@ The Night of Nicholas and Michele
 
 *Number of children with a product age 1664*
 
-> The product of the ages of my children (in years) is 1664. The youngest is half the age of the oldest, and there are no twins. How many kids do I have?
+> The product of the ages of my children (in years) is 1664. The youngest is half the age of the oldest, and there are no twins. How many children do I have?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -1275,9 +1303,9 @@ The Night of Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Groupes bound by Federico-Daniel*
+*Groups bound by Federico-Daniel*
 
-> There are 10 kids in a class. Next Saturday, there's going to be a big rock concert at a club in town. How many different groups can the boys form, to attend the concert, if Federico will go to the concert only in case his companion Daniel goes too?
+> There are 10 kids in a class. Next Saturday, there's going to be a big rock concert at a club in town. How many different groups can the boys form, to attend the concert, if Federico will go to the concert only in case his classmate Daniel goes too?
 >
 > - **(A)** 512
 > - **(B)** 640
@@ -1323,7 +1351,7 @@ The Night of Nicholas and Michele
 
 The stones to be taken to win
 
-> Andrew and Nicholas play as follows: they take turns taking from a pile of stones some of these up to a maximum of 7. You're not allowed to take as many stones as your opponent took on the last move. He loses those who can't move. Starting with a bunch of 20 stones, how many stones does Andrea have to take on the first move if he wants to be sure of victory, knowing that he and Nicola will play the best they can?
+> Andrea and Nicola play as follows: they take turns taking from a pile of stones some of these up to a maximum of 7. You're not allowed to take as many stones as your opponent took on the last move. Whoever can't move loses. Starting with a bunch of 20 stones, how many stones does Andrea have to take on the first move if he wants to be sure of victory, knowing that he and Nicola will play the best they can?
 >
 > - **(A)** 1
 > - **(B)** 2

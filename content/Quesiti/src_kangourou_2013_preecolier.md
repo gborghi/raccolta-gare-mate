@@ -40,7 +40,7 @@ level: kangourou
 
 ![[src_kangourou_2013_preecolier__prob1.png]]
 
-> What numbers have been forgotten? A) 3 e 5 B) 4 e 8 C) 2 e 0 D) 6 e 9 E) 7 e 1
+> What numbers have been forgotten? A) 3 and 5 B) 4 and 8 C) 2 and 0 D) 6 and 9 E) 7 and 1
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_preecolier#q01|src_kangourou_2013_preecolier__Q01]]
@@ -121,7 +121,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Working with between 5 and 7 buttons*
+*Dress with between 5 and 7 buttons*
 
 ![[src_kangourou_2013_preecolier__prob3.png]]
 
@@ -210,7 +210,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cuttings to be added per 6 file wall*
+*Bricks to be added for a 6-row wall*
 
 ![[src_kangourou_2013_preecolier__prob5.png]]
 
@@ -249,7 +249,7 @@ level: kangourou
 
 ![[src_kangourou_2013_preecolier__prob6.png]]
 
-> The flooring in the figure was made with square tiles. The work must be completed by ticking the white part (inner cross) with tiles of the same type. How many tiles do you need to use? A) 5          B) 6          C) 7          D) 8          E) 9
+> The flooring in the figure was made with square tiles. The work must be completed by tiling the white part (inner cross) with tiles of the same type. How many tiles do you need to use? A) 5          B) 6          C) 7          D) 8          E) 9
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_preecolier#q06|src_kangourou_2013_preecolier__Q06]]
@@ -332,7 +332,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who is Barbara from the codes?
+Who is Barbara from the clues?
 
 ![[src_kangourou_2013_preecolier__prob8.png]]
 
@@ -349,7 +349,7 @@ Who is Barbara from the codes?
 > 	
 > E)
 > 
-> Problems from N. 9 al N. 16 is worth 4 points.
+> Problems from N. 9 to N. 16 are worth 4 points.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_preecolier#q08|src_kangourou_2013_preecolier__Q08]]
@@ -384,7 +384,7 @@ Who is Barbara from the codes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-More than Michele has now after exchanges
+Apples that Michele now has after exchanges
 
 > The father gives five apples to each of his three children. Anna gives three apples to Sonia and then Sonia gives half her apples to Michele. How many apples does Michele have now? A) 4
 > 	
@@ -431,7 +431,7 @@ Weight of a cat if George weighs 30 kg
 
 ![[src_kangourou_2013_preecolier__prob10.png]]
 
-> Look at the figure. George has two cats of the same weight. What's the weight of a cat if we know George weighs 30 pounds? A) 1 kg B) 2 kg C) 3 kg D) 4 kg E) 5 kg
+> Look at the figure. George has two cats of the same weight. What's the weight of a cat if we know George weighs 30 kilograms? A) 1 kg B) 2 kg C) 3 kg D) 4 kg E) 5 kg
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_preecolier#q10|src_kangourou_2013_preecolier__Q10]]
@@ -610,7 +610,7 @@ How many cubes did Peter use for the podium?
 
 ![[src_kangourou_2013_preecolier__prob14.png]]
 
-> Peter builds the illustrated podium. How many cubes did you use? A) 12
+> Peter builds the podium shown in the figure. How many cubes did he use? A) 12
 > 	
 > B) 18
 > 	
@@ -658,9 +658,9 @@ How many cubes did Peter use for the podium?
 >
 > (A) Anna
 > 	
-> (B) Beta
+> (B) Betta
 > 	
-> C) Caterina
+> (C) Caterina
 > 	
 > D) Daniela
 > 	
@@ -718,7 +718,7 @@ How many cubes did Peter use for the podium?
 > 	
 > E)
 > 
-> Problems from N. 17 al N. Twenty-four is worth five points.
+> Problems from N. 17 to N. 24 are worth five points.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2013_preecolier#q16|src_kangourou_2013_preecolier__Q16]]
@@ -751,7 +751,7 @@ How many cubes did Peter use for the podium?
 
 The brothers and sisters of Matthew
 
-> Isabella has three brothers and three sisters. How many brothers and sisters does your brother Matthew have? A) Three brothers and three sisters. B) Three brothers and four sisters. C) Two brothers and three sisters. D) Three brothers and two sisters. E) Two brothers and four sisters.
+> Isabella has three brothers and three sisters. How many brothers and sisters does her brother Matthew have? A) Three brothers and three sisters. B) Three brothers and four sisters. C) Two brothers and three sisters. D) Three brothers and two sisters. E) Two brothers and four sisters.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_preecolier#q17|src_kangourou_2013_preecolier__Q17]]
@@ -788,7 +788,7 @@ The brothers and sisters of Matthew
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragments obtained by exchanging 6 pairs *
+*Strawberries obtained by exchanging 6 pears*
 
 ![[src_kangourou_2013_preecolier__prob18.png]]
 
@@ -835,7 +835,7 @@ The brothers and sisters of Matthew
 
 ![[src_kangourou_2013_preecolier__prob19.png]]
 
-> Anna has a square sheet of paper as follows. From it he carves some pieces like the one shown in the second figure. How many pieces can he get ? A) 1 B) 2 C) 3 D) 4 E) 5
+> Anna has a square sheet of paper as follows. From it she cuts some pieces like the one shown in the second figure. How many pieces can he get ? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_preecolier#q19|src_kangourou_2013_preecolier__Q19]]
@@ -873,18 +873,20 @@ The brothers and sisters of Matthew
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flammable animals used for 10 households*
+*Matches used for 10 little houses*
 
 ![[src_kangourou_2013_preecolier__prob20.png]]
 
-> Sofia built a row of 10 houses using matches. In the figure you can see the beginning of the line. How many matches did Sofia use in total? A) 50
-> 	
-> B) 51
-> 	
-> C) 55
-> 	
-> D) 60
-> 	
+> Sofia built a row of 10 little houses using matches. In the figure you can see
+> the beginning of the row. How many matches did Sofia use in total?
+> A) 50	
+	
+> B) 51	
+	
+> C) 55	
+	
+> D) 60	
+	
 > E) 62
 
 **Answer:** B
@@ -980,7 +982,7 @@ The brothers and sisters of Matthew
 
 *Money made with four coins*
 
-> Anna has a five-cent coin, a ten-cent coin, a twenty-cent coin, and a fifty-cent coin. How many different sums of money can you make with these coins? A) 4
+> Anna has a five-cent coin, a ten-cent coin, a twenty-cent coin, and a fifty-cent coin. How many different sums of money can she make with these coins? A) 4
 > 	
 > B) 7
 > 	
@@ -1038,7 +1040,7 @@ How many stamps can Angela make
 
 ![[src_kangourou_2013_preecolier__prob23.png]]
 
-> Angela builds a large cube by gluing 27 white cubes between them. Then he paints all the faces of the great cube with green paint. So Angela removes a cube from four of the eight vertices of the cube, obtaining the object shown in the figure. When the paint is still fresh, timbra each of the new faces on a sheet of paper. How many of the following timb could have been done by Angela? A) 1
+> Angela builds a large cube by gluing 27 white cubes between them. Then Angela paints all the faces of the great cube with green paint. So Angela removes a cube from four of the eight vertices of the cube, obtaining the object shown in the figure. When the paint is still fresh, she stamps each of the new faces on a sheet of paper. How many of the following stamps could have been made by Angela? A) 1
 > 	
 > 	
 > B) 2
@@ -1090,7 +1092,7 @@ How many stamps can Angela make
 
 *Squares of chocolate left in the box*
 
-> A square box is filled with two equal layers of chocolate squares. Isabella ate all 20 squares of the upper layer along the edge of the box. How many square chocolates are left in the box? A) 16
+> A square box is filled with two equal layers of chocolate squares. Isabella ate all 20 squares of the upper layer along the edge of the box. How many chocolate squares are left in the box? A) 16
 > 	
 > B) 30
 > 	

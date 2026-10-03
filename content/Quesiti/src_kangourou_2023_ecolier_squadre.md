@@ -32,9 +32,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number without digit 1, product digit 40*
+*Maximum number without digit 1, product of digits 40*
 
-> The largest Mariella wrote every integer greater than zero in which the number 1 does not appear and such that the product of its digits is 40. What's the biggest number Mariella has ever written?
+> The largest Mariella wrote every integer greater than zero in which the number 1 does not appear and such that the product of its digits is 40. What is the biggest number written by Mariella?
 
 **Answer:** 5222
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q01|src_kangourou_2023_ecolier_squadre__Q01]]
@@ -66,7 +66,7 @@ level: squadre
 
 *How many of the first 2022 terms are odd*
 
-> Sequence The sequence of integers 6, 7, 14, 22, 37, 60, 98, ... follows the following rule: each term, starting with the third, is the sum of the two preceding it multiplied by 1. How many of the first 2022 numbers in the sequence are odd?
+> Sequence The sequence of integers 6, 7, 14, 22, 37, 60, 98, ... follows the following rule: each term, starting with the third, is the sum of the two preceding it increased by 1. How many of the first 2022 numbers in the sequence are odd?
 
 **Answer:** 0674
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q02|src_kangourou_2023_ecolier_squadre__Q02]]
@@ -98,7 +98,7 @@ level: squadre
 
 *Number to be added for the first palindrome >2023*
 
-> Palindrome A palindrome integer is a number that remains unchanged if its digits are read from right to left, rather than in the usual way, i.e. from left to right. 1991 is palindrome. The number 2023 is not palindrome: what number must be added to get the first palindrome integer greater than 2023?
+> Palindrome A palindrome integer is a number that remains unchanged if its digits are read from right to left, rather than in the usual way, i.e. from left to right: for example, 1991 is a palindrome. The number 2023 is not a palindrome: what number must be added to get the first palindrome integer greater than 2023?
 
 **Answer:** 0089
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q03|src_kangourou_2023_ecolier_squadre__Q03]]
@@ -126,9 +126,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of the three numbers given in pairs sums*
+*Maximum of the three numbers given the pairwise sums*
 
-> Three sums Franco wrote three numbers. By choosing two of the numbers Franco wrote, in three possible ways, and adding them together, you get 91, 100, and 109. What's the biggest number Franco ever wrote?
+> Three sums Franco wrote three numbers. By choosing two of the numbers Franco wrote, in three possible ways, and adding them together, you get 91, 100, and 109. What is the largest of the numbers Franco wrote?
 
 **Answer:** 0059
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q04|src_kangourou_2023_ecolier_squadre__Q04]]
@@ -161,7 +161,7 @@ level: squadre
 
 *Bottle price given promotion and savings*
 
-> Bottles A wine shop offers the following promotion: if a customer buys two bottles of the same price (which is always an integer of EUR), he can choose whether to pay the second bottle half its price or 23 EUR, whatever its price. Sofia chose the first option and thus saved 2 euros compared to what she would have spent if she had chosen the second. How many euros was the selling price for each of the bottles you bought?
+> Bottles A wine shop offers the following promotion: if a customer buys two bottles of the same price (which is always an integer of EUR), he can choose whether to pay the second bottle half its price or 23 EUR, whatever its price. Sofia chose the first option and thus saved 2 euros compared to what she would have spent if she had chosen the second. How many euros was the selling price for each of the bottles she bought?
 
 **Answer:** 0042
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q05|src_kangourou_2023_ecolier_squadre__Q05]]
@@ -193,7 +193,7 @@ level: squadre
 
 *Total matches of each tennis doubles player*
 
-> Four boys playing tennis against four girls. The dates are double (two boys against two girls) and every possible pair of boys plays once and only once against every possible pair of girls. How many meetings does each participant have in total?
+> Four boys playing tennis against four girls. The matches are doubles (two boys against two girls) and every possible pair of boys plays once and only once against every possible pair of girls. How many matches does each participant play in total?
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q06|src_kangourou_2023_ecolier_squadre__Q06]]
@@ -222,9 +222,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bonded box chocolate *
+*Chocolates per box with constraints*
 
-> Luisa's chocolates have four boxes, all containing the same number of chocolates. Overall, the chocolates are less than 180, but three boxes of any of the four contain more than 130. How many chocolates does each box contain?
+> The chocolates 
+> Luisa has four boxes, all containing the same number of chocolates. Overall the 
+> chocolates are fewer than 180, but any three boxes out of the four together contain more than 
+> 130. How many chocolates does each box contain?
 
 **Answer:** 0044
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q07|src_kangourou_2023_ecolier_squadre__Q07]]
@@ -285,7 +288,7 @@ level: squadre
 \end{document}
 ```
 
-> In the grid All integers between 1 and 9 included must be entered into the grid in the figure, one for each box, so that the sum of the numbers in three consecutive boxes, whatever they are, is divisible by 3. As you can see, numbers 7 and 9 have already been placed. How many different ways can you complete your enrolment?
+> In the grid All integers between 1 and 9 included must be entered into the grid in the figure, one for each box, so that the sum of the numbers in three consecutive boxes, whatever they are, is divisible by 3. As you can see, numbers 7 and 9 have already been placed. How many different ways can you complete the filling?
 
 **Answer:** 0024
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q08|src_kangourou_2023_ecolier_squadre__Q08]]
@@ -317,7 +320,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary lengths of rectangular interior segments*
+*Sum of lengths of interior segments of rectangle*
 
 ![[src_kangourou_2023_ecolier_squadre__prob9.png]]
 
@@ -350,9 +353,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres 0..10 with four digits 4*
+*Integers 0..10 with four digits 4*
 
-> Four 4 Michele noted that 7 can be obtained as 44: 4  4. How many of the eleven integers from 0 to 10 included can be obtained by writing for each exactly four times the number 4 and using appropriately some of the four operations (addition, subtraction, multiplication, division)?
+> Four 4 Michele noted that 7 can be obtained as 44 : 4 – 4. How many of the eleven integers from 0 to 10 included can be obtained by writing for each exactly four times the digit 4 and using appropriately some of the four operations (addition, subtraction, multiplication, division)?
 
 **Answer:** 0011
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q10|src_kangourou_2023_ecolier_squadre__Q10]]
@@ -383,9 +386,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes foreseen by grandmother without candlesticks*
+*Minutes foreseen by grandmother without candles*
 
-> The candles Licia leaves home to visit her grandmother and bring her her birthday cake. But when she reaches a third of the way, she realizes that she has forgotten the candles. She goes home, picks up the candles and leaves to go to her grandmother's, where she arrives exactly 34 minutes late. If he always walked at the same speed and didn't waste time at home picking up the candles, how many minutes would it take him to get to Grandma's if he hadn't forgotten the candles?
+> The candles Licia leaves home to visit her grandmother and bring her her birthday cake. But when she reaches a third of the way, she realizes that she has forgotten the candles. She goes home, picks up the candles and leaves to go to her grandmother's, where she arrives exactly 34 minutes late compared to the plan. If she always walked at the same speed and didn't waste time at home picking up the candles, how many minutes would she have taken to get to Grandma's if she hadn't forgotten the candles?
 
 **Answer:** 0051
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q11|src_kangourou_2023_ecolier_squadre__Q11]]
@@ -446,9 +449,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mix of [a,b,c] with data definition*
+*Mixture of [a,b,c] with given definition*
 
-> Mixtures Given three numbers [a, b, c] in this order, if c is different from 0 let's say their mix is the sum of a + b divided by c. For example, the mixture of [6, 4, 2] is 5. What is the mixture of [a, b, c] where a is the mixture of [2.023, 2.023, 2], b is equal to a and c is the mixture of [45, 32, 11]?
+> Mixtures Given three numbers [a, b, c] in this order, if c is different from 0 let's say their mixture is the sum of a + b divided by c. For example, the mixture of [6, 4, 2] is 5. What is the mixture of [a, b, c] where a is the mixture of [2.023, 2.023, 2], b is equal to a and c is the mixture of [45, 32, 11]?
 
 **Answer:** 0578
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q13|src_kangourou_2023_ecolier_squadre__Q13]]
@@ -478,9 +481,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*100 more than Claudia than Elena*
+*Cents more that Claudia has than Elena*
 
-> The extra cents Claudia has 64 20 cent coins and some 50 cent coins. Elena has 95 20-cent coins and some 50-cent coins. Claudia and Elena have the same number of coins, and the ones we've listed are the only coins they have. How many cents does Claudia have more than Elena?
+> The extra cents 
+> Claudia has 64 coins of 20 cents and some coins of 50 cents. Elena has 95 coins of 20 
+> cents and some coins of 50 cents. Claudia and Elena have the same number of coins and 
+> those we have indicated are the only coins they have. How many cents does Claudia have more than 
+> Elena?
 
 **Answer:** 0930
 [[Quesiti/src_kangourou_2023_ecolier_squadre#q14|src_kangourou_2023_ecolier_squadre__Q14]]
@@ -534,7 +541,7 @@ Weight of the word KANGOUROU given sums of letters *
 
 ![[src_kangourou_2023_ecolier_squadre__prob15.png]]
 
-> Weight In the word kangaroo every letter has a weight, equal letters have the same weight. The four letters KNGR together weigh 16, the three letters AOU together weigh 9, the four letters KANG together weigh 13, the letter R together weigh 5. How much does the word kangaroo weigh?
+> Weight In the word kangaroo every letter has a weight, equal letters have the same weight. The four letters KNGR together weigh 16, the three letters AOU together weigh 9, the four letters KANG together weigh 13, the letter R weighs 5. How much does the word kangaroo weigh?
 >  
 > 16 K N G R 13 K A N G 9 A O U 5 R Questions and solutions
 

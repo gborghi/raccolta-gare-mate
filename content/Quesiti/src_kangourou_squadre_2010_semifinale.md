@@ -39,7 +39,7 @@ level: squadre
 
 *Maximum number formatted with given digits (sum and product) *
 
-> Do you have a decent target? How about the question  Have you a good goal? of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, in which attempts to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes ? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
+> Do you have a decent target? As in the question "Do you have a good aim?" of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, into which you try to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes are there? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
 
 **Answer:** 0941
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q01|src_kangourou_squadre_2010_semifinale__Q01]]
@@ -75,7 +75,7 @@ level: squadre
 
 Maximum number of passengers with separate rows (occupations)
 
-> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By alternating pentagons into squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches a side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
 
 **Answer:** 0189
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q02|src_kangourou_squadre_2010_semifinale__Q02]]
@@ -108,9 +108,9 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of non-adjacent boxes on a chessboard 8x8*
+*Pairs of non-adjacent squares on a chessboard 8x8*
 
-> Is Marco still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+> Is Marco still writing? Marco started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Marco be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
 
 **Answer:** 1904
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q03|src_kangourou_squadre_2010_semifinale__Q03]]
@@ -188,7 +188,7 @@ Maximum number of passengers with separate rows (occupations)
 
 *Last two digits of the last sequence term q=p+p^2*
 
-> Special subsets Consider the sum of the first 151 integers greater than zero. From all its sub-sets, you want to choose some so that the intersection between any two of those you have chosen is either a single number or a sequence of consecutive numbers (condition satisfied, for example, by both pairs of sub-sets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3, 4}), but not by pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many sub-sets can you pick at most?
+> Special subsets Consider the set {1, 2, … , 151} of the first 151 integers greater than zero. From all its sub-sets, you want to choose some so that the intersection between any two of those you have chosen is either a single number or a sequence of consecutive numbers (condition satisfied, for example, by both pairs of sub-sets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3, 4}), but not by pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many sub-sets can you pick at most?
 
 **Answer:** 0092
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q05|src_kangourou_squadre_2010_semifinale__Q05]]
@@ -218,7 +218,7 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to correct 84 worked together*
+*Minutes to correct 84 papers together*
 
 > Find the fraction The numerator and denominator of a fraction are both integers greater than zero and their sum does not exceed 103; the value of the fraction is as high as possible compatible with the fact that it is strictly less than 1/3. Write in the order first the numerator and then the denominator of the fraction.
 
@@ -287,7 +287,7 @@ Maximum number of passengers with separate rows (occupations)
 
 Members of the association with double A of B and 64%
 
-> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, producing two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, producing two triangles and a pentagon. By suitably joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
 
 **Answer:** 0075
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q08|src_kangourou_squadre_2010_semifinale__Q08]]
@@ -317,9 +317,12 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum squares to be coloured to cover the grid 25x25*
+*Minimum squares to color to cover a 25x25 grid*
 
-> Let's say a positive integer is respectful if divided by 6 gives 5 and divided by 8 gives 7. Find the first two odd numbers and write them in the order (for example, if they were 65 and 86 you should write 6586).
+> Mischievous numbers
+> Let us say that a positive integer is "mischievous" if divided by 6 it gives remainder 5 and divided by 8 it gives
+> remainder 7. Find the first two mischievous numbers and write them in order (for example, if they were 65 and
+> 86 you should write 6586).
 
 **Answer:** 0048
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q09|src_kangourou_squadre_2010_semifinale__Q09]]
@@ -355,9 +358,18 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3005-digit book pages *
+*Book pages with 3005 written digits*
 
-> What a demand! You're looking for all positive integers of four digits each of which has all of the following properties: - the digits that make it up must all be different from each other; - it must be a multiple of 5; - if you subtract the number of thousands, the number of three digits left must be a multiple of 9; - if you subtract the number of hundreds, the number of three digits left must be a multiple of 11; - if you subtract the number of tens, the number of three digits left must be a multiple of 7. Find their sum.
+> What demands!   
+> You are looking for all positive integers of four digits each, every one of which enjoys all of the following 
+> properties: 
+> - the digits that compose it must all be different from one another; 
+> - it must be a multiple of 5;  
+> - if the thousands digit is removed, the three-digit number that remains must be a multiple of 9;   
+> - if the hundreds digit is removed, the three-digit number that remains must be a multiple of   
+>   11;  
+> - if the tens digit is removed, the three-digit number that remains must be a multiple of 7. 
+> Find their sum.
 
 **Answer:** 1028
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q10|src_kangourou_squadre_2010_semifinale__Q10]]
@@ -397,7 +409,7 @@ Members of the association with double A of B and 64%
 
 *Integer sums not expressed as sums of 5 and 7*
 
-> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that do not jump. This is how it is done: the person n to run the corridor from the beginning by skipping orderly n doors on n + 1 and changing the state of those that do not jump (i.e. opening those that find closed and closing those that find open). When even the thousandth person has completed his journey, how many doors will remain open?
+> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that he does not skip. This is how it is done: the person n runs the corridor from the beginning by skipping orderly n doors on n + 1 and changing the state of those that he does not skip (i.e. opening those that he finds closed and closing those that he finds open). When the thousandth person too has completed his journey, how many doors will remain open?
 
 **Answer:** 0114
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q11|src_kangourou_squadre_2010_semifinale__Q11]]
@@ -465,9 +477,9 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 4-digit ABBA numbers are multiplied by 11*
+*How many 4-digit ABBA numbers are multiples of 11*
 
-> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The runway is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The track is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q13|src_kangourou_squadre_2010_semifinale__Q13]]
@@ -499,9 +511,14 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Selling price of seasoned cheese with 15% profit*
+*Selling price of aged cheese with 15% profit*
 
-> The election of the mayor of Kangcity was held in the town of Peter and Max. The election of the mayor is underway. All cards delivered are valid and not white. For each integer k between 0 and 100, when k% of the cards have been scrutinised, the committee shall report the results of the vote until that time. When, for a certain number of whole numbers, n% of the ballots were voted on, Peter got 62% of the votes cast and Max 38%: this is the first time Peter is sure he is the new mayor. How much is n?
+> The election of the mayor
+> In Kangcity a runoff was held between Peter and Max for election to the office of mayor and the counting of the ballots is
+> underway. All ballots submitted are valid and not blank. For every integer k between 0 and 100, when k% of the ballots have been counted the electoral commission
+> announces the outcome of the vote up to that moment. When, for a certain integer n, n% of the
+> ballots have been counted, Peter obtained 62% of the counted votes and Max 38%: this is the
+> first moment at which Peter is sure of being the new mayor. What is the value of n?
 
 **Answer:** 1725
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q14|src_kangourou_squadre_2010_semifinale__Q14]]

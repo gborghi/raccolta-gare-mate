@@ -31,7 +31,7 @@ level: kangourou
 
 *Minimum pieces of the axle to be stored in the 1x1 square*
 
-> *(5 points) * A 10 metre spear shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the target?
+> *(5 points) * A 10 metre pole shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the goal?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2009_junior_maggio#qj1|src_kangourou_2009_junior_maggio__QJ1]]
@@ -58,9 +58,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 29^28+4 and first*
+*The number 29^28+4 is prime*
 
-> *(7 points) * The number $29^n + 4$ is prime? Justify the answer.
+> *(7 points)* Is the number $29^n + 4$ prime? Justify the answer.
 
 **Answer:** no
 [[Quesiti/src_kangourou_2009_junior_maggio#qj2|src_kangourou_2009_junior_maggio__QJ2]]
@@ -89,7 +89,7 @@ level: kangourou
 
 *Which sheets remain in the same position*
 
-> *(11 points) * It considers an ordered stack of 5998 sheets numbered from 1 (i.e. the first sheet at the top returns the number 1). Now build a new stack like this: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third, and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
+> *(11 points) * Consider an ordered stack of 5998 sheets numbered from 1 (i.e. the first sheet at the top has the number 1). Now build a new stack like this: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third, and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
 
 **Answer:** 2000
 [[Quesiti/src_kangourou_2009_junior_maggio#qj3|src_kangourou_2009_junior_maggio__QJ3]]
@@ -122,7 +122,7 @@ level: kangourou
 
 ![[src_kangourou_2009_junior_maggio__probj4.png]]
 
-> *(14 points) * An ant is free to move on the surface of a rectangular parallel-piped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a summit, it wants to reach the top of the antipod (i.e. the one farthest from it) by moving along the shortest path possible: how much path should it take? Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
+> *(14 points) * An ant is free to move on the surface of a rectangular parallel-piped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a vertex, it wants to reach the antipodal vertex (i.e. the one farthest from it) by moving along the shortest path possible: how much distance must it cover? Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
 
 **Answer:** sqrt8
 [[Quesiti/src_kangourou_2009_junior_maggio#qj4|src_kangourou_2009_junior_maggio__QJ4]]
@@ -182,11 +182,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Moving coins on 1000-acre (8x125 and 125x8) *
+*Moving coins on a 1000-gon (8x125 and 125x8)*
 
-> *(22 points) * On some vertices of a regular 1000-sided polygon there are some coins (each vertices may host none, one or more). One move consists of the following operations: choose two coins and move one to the adjacent clockwise and the other to the opposite clockwise. From the situation where there is exactly one coin at each summit, can a finite number of moves lead to: a) 8 piles of 125 coins each? (b) 125 heaps of eight coins each?
+> *(22 points)* At some vertices of a regular polygon with 1000 sides there are some coins (each vertex can host none, one or more than one). A move consists of the following operations: choose two coins and move one to the adjacent vertex in the clockwise direction and the other to the adjacent vertex in the counterclockwise direction. Starting from the situation in which there is exactly one coin at every vertex, is it possible to arrive with a finite number of moves at having:
+> a) 8 little piles of 125 coins each?
+> b) 125 little piles of 8 coins each?
 > 
-> It justifies both answers.
+> Justify both answers.
 
 **Answer:** si,no
 [[Quesiti/src_kangourou_2009_junior_maggio#qj6|src_kangourou_2009_junior_maggio__QJ6]]

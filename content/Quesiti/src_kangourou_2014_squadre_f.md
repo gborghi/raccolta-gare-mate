@@ -31,9 +31,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest first < 30 sum of two first*
+*Biggest prime < 30 sum of two primes*
 
-> What is the largest prime number less 30 that can be expressed as the sum of two prime numbers?
+> What is the largest prime number less than 30 that can be expressed as the sum of two prime numbers?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2014_squadre_f#q01|src_kangourou_2014_squadre_f__Q01]]
@@ -67,9 +67,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of white key figures to get 2014 with 6 keys*
+*Sum of white key digits to get 2014 with 6 keys*
 
-> The calculator Elena has a calculator with 15 keys: 10 are white and each returns one of the 10 digits (all the digits appear there), 5 are black and each returns one of the 5 symbols plus, minus, for, divided, equal (all these symbols appear there). To obtain the result of the product 2 by 3 by 15, press the seven keys (not necessarily different) 2, ×, 3, ×, 1, 5, =, after which the number 90 appears on the screen. As a result of another product, after pressing six keys Elena got the number 2014. What's the sum of the numbers on the white keys hit by Elena this time?
+> The calculator Elena has a calculator with 15 keys: 10 are white and each shows one of the 10 digits (all the digits appear there), 5 are black and each shows one of the 5 symbols plus, minus, times, divided, equal (all these symbols appear there). To obtain the result of the product 2 times 3 times 15, press the seven keys (not necessarily different) 2, ×, 3, ×, 1, 5, =, after which the number 90 appears on the screen. As a result of another product, after pressing six keys Elena got the number 2014. What's the sum of the digits on the white keys hit by Elena this time?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2014_squadre_f#q02|src_kangourou_2014_squadre_f__Q02]]
@@ -136,7 +136,7 @@ level: squadre
 \end{document}
 ```
 
-> Circle and square Look at the figure. A circle is inscribed in a square of 8 meters. What is the area, in square meters, of the shaded region? (Write the whole number nearest to the exact result.)
+> Circle and square Look at the figure. A circle is inscribed in a square of side 8 meters. What is the area, in square meters, of the shaded region? (Write the whole number nearest to the exact result.)
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2014_squadre_f#q03|src_kangourou_2014_squadre_f__Q03]]
@@ -166,7 +166,7 @@ level: squadre
 
 *Minimum positive sum with a^2+b^2=100*
 
-> Sum of squares You know that two integers of a and b are equal to a2 + b2 = 100 and that their sum is the smallest positive number compatible with this assumption. How much is their sum?
+> Sum of squares You know that two relative integers a and b are such that a2 + b2 = 100 and that their sum is the smallest positive number compatible with this assumption. How much is their sum?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2014_squadre_f#q04|src_kangourou_2014_squadre_f__Q04]]
@@ -198,9 +198,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum n bags to find the heaviest in 2 weights
+*Maximum n marbles to find the heaviest in 2 weighings*
 
-> In a day there are no beads that look identical. In reality n − 1 of them also have the same weight, while the remainder is slightly heavier than the others. Clara has a two-plate precision balance (i.e. it allows only to compare the weights of two groups of objects, placed one on a plate and one on the other): with a maximum of two weights it is able to identify the heaviest seed. What's the maximum possible value for n?
+> The indistinguishable marbles  
+> In an urn there are n marbles that appear identical. In reality n − 1 of them also have 
+> the same weight, while the remaining one is slightly heavier than the others. Clara has a precision 
+> two-pan balance (that is, it only allows comparing the weights of two groups of objects, placed one on one 
+> pan and one on the other): with at most two weighings she is able to identify the heaviest marble. 
+> What is the maximum possible value for n?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2014_squadre_f#q05|src_kangourou_2014_squadre_f__Q05]]
@@ -230,7 +235,7 @@ Maximum n bags to find the heaviest in 2 weights
 
 *Integral numbers 1-10000 not divisible by 2 or by 5 *
 
-> What are the integers between 1 and 10,000 (included) that are not divisible by 2 or by 5?
+> How many integers between 1 and 10,000 (included) are not divisible by 2 or by 5?
 
 **Answer:** 4000
 [[Quesiti/src_kangourou_2014_squadre_f#q06|src_kangourou_2014_squadre_f__Q06]]
@@ -290,7 +295,7 @@ Maximum n bags to find the heaviest in 2 weights
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle ABC given triangle DFI for similarities*
+*Area of triangle ABC given triangle DFI by similarity*
 
 ![[src_kangourou_2014_squadre_f__prob7.png]]
 
@@ -342,9 +347,9 @@ Maximum n bags to find the heaviest in 2 weights
 <div class="qlang-split" data-lang="en"></div>
 
 
-*age equal to sum of figures per year*
+*age equal to sum of digits of year*
 
-> Elena and her mother Elena and her mother were both born on January 1. In this year 2014, for each of them the number of years of age is the sum of the figures of their respective years of birth. How old was Elena's mother when Elena was born?
+> Elena and her mother Elena and her mother were both born on January 1. In this year 2014, for each of them the number of years of age is the sum of the digits of their respective years of birth. How old was Elena's mother when Elena was born?
 
 **Answer:** 18
 [[Quesiti/src_kangourou_2014_squadre_f#q08|src_kangourou_2014_squadre_f__Q08]]
@@ -376,7 +381,7 @@ Maximum n bags to find the heaviest in 2 weights
 
 *N=2014x2014 sum of n consecutive *
 
-> 2014 times 2014 The number writing = 20142014...2014 is obtained by writing 2014 consecutively 2014 times. What is the smallest integer n greater than or equal to 2 such that it is the sum of n consecutive positive integers?
+> 2014 times 2014 The number writing = 20142014...2014 is obtained by writing 2014 consecutively 2014 times. What is the smallest integer n greater than or equal to 2 such that N is the sum of n consecutive positive integers?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2014_squadre_f#q09|src_kangourou_2014_squadre_f__Q09]]
@@ -437,9 +442,12 @@ Maximum n bags to find the heaviest in 2 weights
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2014! The value of the product shall be calculated as follows:
+*2014! divisible by 2^a*19^b*
 
-> 2014! Let's say 2014! the product 1 × 2 × 3 × ... This is the total number of units of measurement for each of the following categories: Consider all pairs (a, b) of positive integers such as 2014! is divisible by 2a × 19b. What is the highest possible value for the sum of a + b?
+> 2014!    
+> Let 2014! denote the product 1 × 2 × 3 × ... × 2012 × 2013 × 2014 of the first 2014 positive integers. 
+> Consider all pairs (a, b) of positive integers such that 2014! is divisible by 2a × 19b. What is the 
+> highest possible value for the sum a + b?
 
 **Answer:** 2116
 [[Quesiti/src_kangourou_2014_squadre_f#q11|src_kangourou_2014_squadre_f__Q11]]
@@ -480,7 +488,7 @@ Maximum n bags to find the heaviest in 2 weights
 
 ![[src_kangourou_2014_squadre_f__prob12.png]]
 
-> Draw three dice so that the matching faces of two dice return the same points. How many different three-digit numbers can be indicated by the upper faces of the three dice when the alignments of the three dice comply with this request? (The numbers should be read as used from left to right: in the example in figure the number read is 125. Note that the faces of a regular dice are numbered by points from one to six and that the sum of the points on two opposite faces of any dice is 7.)
+> Place three dice so that the matching faces of two dice show the same points. How many different three-digit numbers can be indicated by the upper faces of the three dice when the alignments of the three dice comply with this request? (The numbers should be read as used from left to right: in the example in figure the number read is 125. Note that the faces of a regular die are numbered by points from one to six and that the sum of the points on two opposite faces of any die is 7.)
 
 **Answer:** 168
 [[Quesiti/src_kangourou_2014_squadre_f#q12|src_kangourou_2014_squadre_f__Q12]]

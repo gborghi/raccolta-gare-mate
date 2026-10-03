@@ -34,7 +34,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integral numbers between 2,009 and 19,03*
+*Integers between 2,009 and 19,03*
 
 > How many integers are there between 2,009 and 19,03 ? A) 16 B) 17 C) 14 D) 15 E) More than 17
 
@@ -103,7 +103,7 @@ level: kangourou
 \end{document}
 ```
 
-> The largest square in the figure, obtained by approximating 9 squares, contains the ABCD square in the given position. This, in turn, covers only one of the nine squares, the central one. What is the maximum number of squares that can be covered by the ABCD square if properly disposed of? A) 1 B) 2 C) 3 D) 4 E) 5
+> The largest square in the figure, obtained by placing 9 squares side by side, contains the ABCD square in the given position. This, in turn, covers only one of the nine squares, the central one. What is the maximum number of squares that can be covered by the ABCD square if it is placed appropriately? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q02|src_kangourou_2009_benjamin_marzo__Q02]]
@@ -139,7 +139,7 @@ level: kangourou
 
 Minimum number to be deleted for palindrome
 
-> By deleting some numbers from number 12323314, you want to get a number that doesn't change when read from right to left instead of left to right. What's the minimum number of digits you can reach your goal by deleting? A) 1 B) 2 C) 3 D) 4 E) 5
+> By deleting some digits from the number 12323314, you want to get a number that doesn't change when read from right to left instead of left to right. What is the minimum number of digits you must delete to reach your goal? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q03|src_kangourou_2009_benjamin_marzo__Q03]]
@@ -175,11 +175,18 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of two digits with more sparklers*
+*Two-digit number with the most toothpicks*
 
 ![[src_kangourou_2009_benjamin_marzo__prob4.png]]
 
-> The ten digits in the figure are constructed by appropriately joining all the same sparklers together. Between the two-digit numbers, I built the one that requires the use of the most spices. How many have I used? A) 10 B) 11 C) 12 D) 13 E) 14
+> The ten digits in the figure are built by suitably placing toothpicks that are all identical
+> to each other. Among the two-digit numbers, I have built
+> the one that requires the use of the greatest quantity of toothpicks. How many did I use?
+> A) 10
+> B) 11
+> C) 12
+> D) 13
+> E) 14
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q04|src_kangourou_2009_benjamin_marzo__Q04]]
@@ -227,13 +234,31 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Variation of perimeter approaching two E*
+*Perimeter change when placing two E's side by side*
 
 ![[src_kangourou_2009_benjamin_marzo__prob5.png]]
 
-> The letter E you see in the figure on the left was obtained by drawing 11 squares of 1 cm on the side. By joining two of these E equals as shown in the figure to the right, you get a new figure. The perimeter of this new figure, compared with that of the letter E, is A) shorter than 4 cm. B) Shorter than 2 cm. (c) equal. D) more than 2 cm long. E) more than 4 cm long. A B C D Texts_09.qxp 15-04-2009 20:25 Page 10
+> The letter "E" that you see in the figure on the left was
+> obtained by placing 11 squares of 1 cm side
+> side by side. By placing two of these identical "E"s as
+> indicated in the figure on the right, you get a new
+> figure. The perimeter of this new figure, compared to that of the letter "E", is
+> A) shorter by 4 cm.
+> B) Shorter by 2 cm.
+> C) equal.
+> D) longer by 2 cm.
+> E) longer by 4 cm.
+> A
+> B
+> C
+> D
+> Testi_09.qxp  15-04-2009  20:25  Page 10
 > 
-> I'm going to pay. I'm going to pay. 11 11 Kang 2009 Kang 2009
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2009
+> Kang 2009
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q05|src_kangourou_2009_benjamin_marzo__Q05]]
@@ -302,7 +327,7 @@ Minimum number to be deleted for palindrome
 
 *Length of bridge over the banks*
 
-> A bridge crosses a 120-meter-wide river and flows from each of the two banks for a quarter of its length. How long is the bridge? A) 150 B) 180 C) 210 D) 240 E) 270
+> A bridge crosses a 120-meter-wide river and overhangs each of the two banks for a quarter of its length. How long is the bridge? A) 150 B) 180 C) 210 D) 240 E) 270
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q07|src_kangourou_2009_benjamin_marzo__Q07]]
@@ -337,11 +362,11 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fat line length (squares of 3 measurements) *
+*Length of line in bold (squares of 3 measurements)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob8.png]]
 
-> The large rectangle in the figure is constructed by approximating squares of three different dimensions. The sides of each of the smallest squares measure 20 centimeters. How long is the line highlighted in bold? A) 380 B) 400 C) 420 D) 440 E) 1680
+> The large rectangle in the figure is constructed by placing squares of three different dimensions. The sides of each of the smallest squares measure 20 centimeters. How long is the line highlighted in bold? A) 380 B) 400 C) 420 D) 440 E) 1680
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q08|src_kangourou_2009_benjamin_marzo__Q08]]
@@ -376,9 +401,17 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pupils (German/English) *
+*Number of pupils (German/English)*
 
-> In a classroom, each student speaks at least one language between German and English. The German-speaking pupils are 15 and the English-speaking pupils are as many. At least six pupils speak both languages. So the number of students in that class is exactly 24. (b) up to 24, but may be less. (c) at least 24, but may be higher. D) up to 18 years, but may be less. E) at least 18, but it could be higher.
+> In a class, every pupil speaks at least one language among German and English. The
+> pupils who speak German are 15 and so are the pupils who speak
+> English. At least 6 pupils speak both languages. Therefore the number of pupils
+> in that class is
+> A) exactly 24.
+> B) at most 24, but it could be less.  
+> C) at least 24, but it could be more.                  
+> D) at most 18, but it could be less.       
+> E) at least 18, but it could be more.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q09|src_kangourou_2009_benjamin_marzo__Q09]]
@@ -412,9 +445,9 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of the division by 8 of 30!+17*
+*Remainder of the division by 8 of 30!+17*
 
-> Find the remainder of the division by 8 of the number 1 x 2 x 3 x ... x 29 x 30 + 17 A) 1 B) 17 C) 3 D) 7 E) 5 The questions from N. 11 al N. 20 is worth 4 points each.
+> Find the remainder of the division by 8 of the number 1 x 2 x 3 x ... x 29 x 30 + 17 A) 1 B) 17 C) 3 D) 7 E) 5 The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q10|src_kangourou_2009_benjamin_marzo__Q10]]
@@ -448,11 +481,16 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which weights do not have a single piece (parity) *
+*Which knots cannot be made with a single piece (parity)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob11.png]]
 
-> The figure shows five strings. Which of these cannot be done with a single piece of rope? A) All but II B) Only III, IV and V C) Only I, III and V D) All E) None
+> The figure shows five knots of
+> rope. Which of them cannot be
+> made with a single piece of rope?
+> A) All except II      B) Only III, IV and V
+> C) Only I, III and V       D) All
+> E) None
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q11|src_kangourou_2009_benjamin_marzo__Q11]]
@@ -508,9 +546,31 @@ Minimum number to be deleted for palindrome
 
 ![[src_kangourou_2009_benjamin_marzo__prob12.png]]
 
-> In the ABCD quadrilateral you see in the figure, the lengths of the sides in meters are as follows: l(AB) = 11, l(BC) = 7, l(CD) = 9, l(DA) = 3. Also, the angles in A and C are straight. What is the area of the quadrilateral in square meters? A) 30 B) 44 C) 48 D) 52 E) 60 I II III IV V A D C B Texts_09.qxp 15-04-2009 20:25 Page 11
+> In the quadrilateral ABCD that you see in the figure, the lengths
+> of the sides, in metres, are as follows: l(AB) = 11, l(BC) = 7, 
+> l(CD) = 9, l(DA) = 3. Moreover, the angles at A and at C are right angles.
+> What is, in square metres, the area of the quadrilateral? 
+> A) 30
+> B) 44
+> C) 48
+> D) 52
+> E) 60
+> I
+> II
+> III
+> IV
+> V
+> A
+> D
+> C
+> B
+> Testi_09.qxp  15-04-2009  20:25  Page 11
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2009 Kang
+> Pag. 
+> Pag. 12
+> 12
+> Kang 2009
+> Kang 2009
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q12|src_kangourou_2009_benjamin_marzo__Q12]]
@@ -619,7 +679,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Short side of the isoperimeter rectangle*
+*Short side of the isoperimetric rectangle*
 
 ![[src_kangourou_2009_benjamin_marzo__prob15.png]]
 
@@ -659,7 +719,7 @@ Minimum number to be deleted for palindrome
 
 *Minimum number of cubes to fill the box*
 
-> We have a box shaped like a rectangular parallel-piped with dimensions, in centimeters, 24 x 24 x 60. We want to fill it completely with indeformable cubes all equal, which we can choose the size of. What's the smallest number of cubes that's enough to accomplish the goal? A) 8 B) 20 C) 60 D) 720 E) 1440
+> We have a box shaped like a rectangular prism with dimensions, in centimeters, 24 x 24 x 60. We want to fill it completely with indeformable cubes all equal, which we can choose the size of. What's the smallest number of cubes that's enough to accomplish the goal? A) 8 B) 20 C) 60 D) 720 E) 1440
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q16|src_kangourou_2009_benjamin_marzo__Q16]]
@@ -694,7 +754,7 @@ Minimum number to be deleted for palindrome
 
 *Days to read the book (4 days, 25 Sundays) *
 
-> Carlo needs to read a 290-page book. She has scheduled her assignment as follows: She will read 4 pages every day, except Sunday, when she will always read 25. If he starts reading next Sunday and follows the schedule (so never skipping days), how many days will it take to finish the book? A) 5 B) 46 C) 40 D) 35 E) 41
+> Carlo needs to read a 290-page book. He has scheduled his assignment as follows: He will read 4 pages every day, except Sunday, when she will always read 25. If he starts reading next Sunday and follows the schedule (so never skipping days), how many days will it take to finish the book? A) 5 B) 46 C) 40 D) 35 E) 41
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q17|src_kangourou_2009_benjamin_marzo__Q17]]
@@ -739,11 +799,27 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who won the contest (sum of placements)
+*Who won the race (sum of placements)*
 
-> Alessia, Bruno, Celestina and Davide placed (not in this order) in the top four places of a race. The sum of the numbers of placements obtained by Alessia, Bruno and Davide is 6. The sum of the numbers of places obtained by Bruno and Celestina is also 6. Who won the race? A) Alessia or David, but the information does not allow us to determine which of the two. B) Bruno or Celestina, but the information does not allow us to determine which of the two. This is the first time I have seen this.
+> Alessia, Bruno, Celestina and Davide classified (not in this order) in the first four places of a race. The sum of the placement numbers
+> obtained by Alessia, Bruno and Davide is 6. Also the sum of the placement numbers obtained by Bruno and Celestina is 6. Who won the race?
+> A) Alessia or Davide, but the information does not allow to establish which of the two.
+> B) Bruno or Celestina, but the information does not allow to establish which of the two.
+> C) Bruno
+> D) Celestina
+> E) Davide
+> 12
+> 9
+> 8
+> 10
+> 9 cm
+> Testi_09.qxp  15-04-2009  20:25  Page 12
 > 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2009 Kang
+> Pag. 
+> Pag. 13
+> 13
+> Kang 2009
+> Kang 2009
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q18|src_kangourou_2009_benjamin_marzo__Q18]]
@@ -780,7 +856,7 @@ Who won the contest (sum of placements)
 
 *How many rectangular surfaces with 2009 tiles*
 
-> Henry has 2009 square tiles, all of them equal. Using them all at once, how many different rectangular surfaces can you tick? (Two surfaces shall be considered different only if the length of at least one of the two sides is different.)
+> Henry has 2009 square tiles, all of them equal. Using them all at once, how many different rectangular surfaces can he tile? (Two surfaces shall be considered different only if the length of at least one of the two sides is different.)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q19|src_kangourou_2009_benjamin_marzo__Q19]]
@@ -820,7 +896,7 @@ Who won the contest (sum of placements)
 
 *What number (two out of four true statements) *
 
-> Consider the following four statements concerning the same positive integer. It's divisible by 5. It's divisible by 11. It's divisible by 55. He's less than 10. You know two of them are true and the other two are false. So that number is A) 1 B) 5 C) 10 D) 11 E) 55 The questions from N. 21 al N. 30 is worth 5 points each.
+> Consider the following four statements concerning the same positive integer. It's divisible by 5. It's divisible by 11. It's divisible by 55. It's less than 10. You know two of them are true and the other two are false. So that number is A) 1 B) 5 C) 10 D) 11 E) 55 The questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q20|src_kangourou_2009_benjamin_marzo__Q20]]
@@ -898,7 +974,7 @@ Who won the contest (sum of placements)
 
 *Certain statement on the cards in the two boxes*
 
-> Eight cards numbered 1 to 8 are placed in two boxes, X and Y, so that the sum of the numbers shown on the cards is the same in the two boxes. There are three cards in the X box. Then we can say with certainty that A) Three of the cards in box Y have a odd number. B) Four of the cards in box Y have an equal number. C) The paper with the number 1 is not in the box Y. D) The card with the number 2 is in the box Y. E) The card with the number 5 is in box Y.
+> Eight cards numbered 1 to 8 are placed in two boxes, X and Y, so that the sum of the numbers shown on the cards is the same in the two boxes. There are three cards in the X box. Then we can say with certainty that A) Three of the cards in box Y have an odd number. B) Four of the cards in box Y have an even number. C) The card with the number 1 is not in the box Y. D) The card with the number 2 is in the box Y. E) The card with the number 5 is in box Y.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q22|src_kangourou_2009_benjamin_marzo__Q22]]
@@ -988,11 +1064,11 @@ Who won the contest (sum of placements)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded region (10 cm2) *
+*Area of the shaded region (10 cm square) *
 
 ![[src_kangourou_2009_benjamin_marzo__prob24.png]]
 
-> Look at the figure. ABCD is a square whose side measures 10 cm; the distance between N and M points is 6 cm. Each of the unshaded regions is an isosceles rectangle triangle or a square. The four triangles are equal to each other and so are the four squares. How much is the area of the shaded region in square centimetres? A) 42 B) 46 C) 48 D) 52 E) 58
+> Look at the figure. ABCD is a square whose side measures 10 cm; the distance between N and M points is 6 cm. Each of the unshaded regions is a right isosceles triangle or a square. The four triangles are equal to each other and so are the four squares. How much is the area of the shaded region in square centimetres? A) 42 B) 46 C) 48 D) 52 E) 58
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q24|src_kangourou_2009_benjamin_marzo__Q24]]
@@ -1031,7 +1107,7 @@ Who won the contest (sum of placements)
 
 ![[src_kangourou_2009_benjamin_marzo__prob25.png]]
 
-> Look at the figure. The three letters A, B and C represent the same number whose sums, for rows and columns, are those indicated (right for rows and bottom for columns). How much is A + B - C ? A) 5 B) 6 C) 7 D) 8 E) 9
+> Look at the figure. The three letters A, B and C represent as many numbers whose sums, for rows and columns, are those indicated (right for rows and bottom for columns). How much is A + B - C ? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q25|src_kangourou_2009_benjamin_marzo__Q25]]
@@ -1209,7 +1285,7 @@ Who won the contest (sum of placements)
 
 ![[src_kangourou_2009_benjamin_marzo__prob28.png]]
 
-> In a 4 x 2 table, two different positive integers are placed in the first row. Each subsequent row contains the sum and difference (major minus minor) of the two numbers written in the previous row: respectively, below the minor the sum is written and below the major the difference. In an 11 x 2 table constructed in the same way, the numbers in the last row are 64 and 96. What is the sum of the numbers in the first line? A) 4 B) 5 C) 10 D) 40 E) 80 29.In the village of Piedistrani each inhabitant has the longest left foot than the right foot: men longer than two numbers and women longer than one. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends, including an X acquaintance of ours who we know about the sex and shoe numbers, decide to associate and buy the shoes together, and then pair them together in the way that suits them. In doing so, each of you takes two shoes and one of the number 36 and one of the number 45 remain unused. We want to determine the maximum number of friends who might have agreed. This number A) is 8 if X is a male, is 9 if X is a female. (b) depends on both sex and number of right shoe of X. (c) depends only on the right shoe number of X. D) is 5 anyway. E) is 9 anyway.
+> In a 4 x 2 table, two different positive integers are placed in the first row. Each subsequent row contains the sum and difference (larger minus smaller) of the two numbers written in the previous row: respectively, below the smaller the sum is written and below the larger the difference. In an 11 x 2 table constructed in the same way, the numbers in the last row are 64 and 96. What is the sum of the numbers in the first line? A) 4 B) 5 C) 10 D) 40 E) 80 29.In the village of Piedistrani each inhabitant has left foot longer than the right foot: men by two sizes and women by one. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends, including an acquaintance of ours, X, whose sex and shoe sizes we know, decide to join together and buy the shoes all together, and then pair them together in the way that suits them. In doing so, each takes two shoes and one of the number 36 and one of the number 45 remain unused. We want to determine the maximum number of friends who might have agreed. This number A) is 8 if X is a male, is 9 if X is a female. B) depends on both sex and number of right shoe of X. C) depends only on the right shoe number of X. D) is 5 anyway. E) is 9 anyway.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q28|src_kangourou_2009_benjamin_marzo__Q28]]
@@ -1238,7 +1314,7 @@ Who won the contest (sum of placements)
 
 Maximum number of friends (footwear)
 
-> 29. Answer A) If the group is made up of only women, shoes of all numbers from 36 to 45 must have been purchased, and nine pairs were formed with the left shoe of a larger number on the right, so the group is made up of nine people. If there are men in the group, to avoid any further remains, the pairs of shoes of intermediate number between the two different feet of the same male must be excluded. This will allow for a maximum of eight people in the group.
+> 29. Answer A) If the group is made up of only women, shoes of all numbers from 36 to 45 must have been purchased, and nine pairs were formed with the left shoe of a larger number than the right, so the group is made up of nine people. If there are men in the group, to avoid any further remains, the pairs of shoes of intermediate number between the two different feet of the same male must be excluded. This will allow for a maximum of eight people in the group.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q29|src_kangourou_2009_benjamin_marzo__Q29]]
@@ -1328,7 +1404,7 @@ Maximum number of friends (footwear)
 \end{document}
 ```
 
-> We want to color the grid cells in the figure using the four different colors X, Y, Z, W, so that two cells that are in contact never receive the same color (two cells are considered to be in contact if they have at least one vertex in common). The figure shows that some colors have already been assigned. What colors can a shaded cell be colored with? A) Only Y. (b) Only Z. C) Only W. (D) Z or W. E) It is not possible to achieve colouration. 1 5 6 4 2 10 12 8 X Y Z W Y Y Testi_09.qxp 15-04-2009 20:25 Page 15
+> We want to color the grid cells in the figure using the four different colors X, Y, Z, W, so that two cells that are in contact never receive the same color (two cells are considered to be in contact if they have at least one vertex in common). The figure shows that some colors have already been assigned. What colors can the shaded cell be colored with? A) Only Y. B) Only Z. C) Only W. D) Indifferentemente Z or W. E) It is not possible to achieve colouration. 1 5 6 4 2 10 12 8 X Y Z W Y Y Testi_09.qxp 15-04-2009 20:25 Page 15
 > 
 > 2009 Category Benjamin For first and second year students of lower secondary school
 

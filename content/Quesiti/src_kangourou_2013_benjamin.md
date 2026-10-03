@@ -151,7 +151,7 @@ level: kangourou
 
 *Minimum number of turns to the right to go from A to B*
 
-> Natalia and Diana have a lot of cubes, all the same. With some of these cubes, Natalia built the cube you see in the figure on the left. Diana wants to build a cube identical to Natalia's, but for now she has managed to get the solid you see in the figure on the right (the cubes in unseen positions have already been all inserted). How many cubes do you need to complete the construction? A) 5 B) 6
+> Natalia and Diana have a lot of cubes, all the same. With some of these cubes, Natalia built the cube you see in the figure on the left. Diana wants to build a cube identical to Natalia's, but for now she has managed to get the solid you see in the figure on the right (the cubes in unseen positions have already been all inserted). How many cubes does she need to complete the construction? A) 5 B) 6
 >          	
 > C) 7
 >        	
@@ -243,7 +243,7 @@ level: kangourou
 
 ![[src_kangourou_2013_benjamin__prob6.png]]
 
-> Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Parteza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first and he jumps three times, L second and he jumps three times, M third and he jumps two times, N fourth and he jumps two times and finally O who jumps one time. When O also arrived, in what order are the five kangaroos? (A) OKMLN
+> Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Partenza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first and he jumps three times, L second and he jumps three times, M third and he jumps two times, N fourth and he jumps two times and finally O who jumps one time. When O also arrived, in what order are the five kangaroos? (A) OKMLN
 > 	
 > (b) OKLMN C) OMLKN D) OMLNK E) OMKLN
 
@@ -279,7 +279,7 @@ level: kangourou
 
 *Time of the fourth quarter-hour pill*
 
-> To heal himself, Michele must take pills, each one (from the second to the next) a quarter of an hour away from the previous one. He took the first one at 11:05. What time did you get the fourth? A) 11:40 B) 11:50 C) 11:55 D) 12:00	            	 E) 12:05
+> To heal himself, Michele must take pills, each one (from the second onward) a quarter of an hour away from the previous one. He took the first one at 11:05. What time did he take the fourth? A) 11:40 B) 11:50 C) 11:55 D) 12:00	            	 E) 12:05
 
 **Answer:** B
 [[Quesiti/src_kangourou_2013_benjamin#q07|src_kangourou_2013_benjamin__Q07]]
@@ -315,9 +315,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 20 and 30 divisible by the unit number *
+*Numbers between 20 and 30 divisible by its units digit *
 
-> The number 36 has the property of being divisible by its number of units: in fact 36 is divisible by 6. How many numbers between 20 and 30 have this property? A) 2
+> The number 36 has the property of being divisible by its units digit: in fact 36 is divisible by 6. How many numbers between 20 and 30 have this property? A) 2
 >         	
 > B) 3
 >  	
@@ -365,13 +365,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Started position at one third of the journey*
+*Hand position at one third of the journey*
 
 ![[src_kangourou_2013_benjamin__prob9.png]]
 
-> Yesterday afternoon, Simona took a bicycle trip, always keeping the same speed. On departure and arrival he looked at the clock, and he saw the images we show you in the diagram below.
+> Yesterday afternoon, Simona took a bicycle trip, always keeping the same speed. On departure and arrival she looked at the clock, and she saw the images we show you in the diagram below.
 >    
-> What was the position of the minute's edge when Simona was exactly one third of her journey? A)
+> What was the position of the minute hand when Simona was exactly one third of her journey? A)
 >  	
 > B)
 >  	
@@ -417,9 +417,18 @@ level: kangourou
 
 *How many figures have the same perimeter as the square sheet*
 
-> Cristina has many stitches identical to the one in the figure on the left. He wants to insert as many as possible into the rectangle 5×4 as you see in the figure on the right, made up of squares of the same size as the ones that form the brackets. The trays shall not overlap, even partially. How many can you put in? A) 2 B) 3 C) 4 D) 5 E) 6 Departure
+> Cristina has many tiles identical to the one in the figure on the left. She wants to fit as many as possible into the 
+> 5×4 rectangle that you see in the figure on the right, made 
+> up of small squares of the same size as those that make up the tiles. The 
+> tiles must not overlap, not even partially. How many can she 
+> fit at most?
+> A) 2	
+>        B) 3	 	
+>        C) 4               D) 5 	
+>   E) 6
+> Start
 > 
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 [[Quesiti/src_kangourou_2013_benjamin#q10|src_kangourou_2013_benjamin__Q10]]
 
@@ -538,7 +547,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight covering more than one point in the grid*
+*Piece that covers more points in the grid*
 
 ![[src_kangourou_2013_benjamin__prob12.png]]
 
@@ -589,7 +598,7 @@ level: kangourou
 
 ![[src_kangourou_2013_benjamin__prob13.png]]
 
-> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square foil that houses them? A) 2
+> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square sheet that houses them? A) 2
 >         	
 > B) 3
 >  	
@@ -634,7 +643,7 @@ level: kangourou
 
 *Fished if tripled would give 12 more *
 
-> Matteo went fishing. If he had caught three times the fish he caught, he would have caught 12 more. How many fish have you caught? A) 7
+> Matteo went fishing. If he had caught three times the fish he caught, he would have caught 12 more. How many fish did he catch? A) 7
 >         	
 > B) 6 C) 5
 >         	
@@ -727,9 +736,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Networks scored by the home team*
+*Goals scored by the home team*
 
-> In a football game, a lot of nets were scored. At the end of the first half, six of them had already been scored and the host team was in the lead; scoring three goals in the second half, the home team won the match. How many shots did the home team score? A) 3
+> In a football game, a lot of goals were scored. At the end of the first half, six of them had already been scored and the away team was in the lead; scoring three goals in the second half, the home team won the match. How many goals did the home team score in total? A) 3
 >         	
 > B) 4
 > 	
@@ -816,7 +825,7 @@ level: kangourou
 
 *Different numbers in the 4x4 grid with adjacent cells differing by 1*
 
-> In each cell of a grid 4 × 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ from 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers do you see in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
+> In each cell of a grid 4 × 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ by 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers appear in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_benjamin#q18|src_kangourou_2013_benjamin__Q18]]
@@ -921,19 +930,44 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image seen in front of the building of cubes*
+*Front view image of the building of small cubes*
 
 ![[src_kangourou_2013_benjamin__prob20.png]]
 
-> John built a square-plan building using cubes all equal to each other. For each cell in the base square, the figure indicates how many cubes the tower rises above that cell is made of. The figure also indicates what the front and rear of the building are in relation to this pattern. Looking at the building in front of you, what's the picture? A)
+> Giovanni built a building with a square base using small cubes all equal to each other. For each cell of the square
+> base, the figure indicates how many cubes the tower that
+> rises above that cell is made of. The figure also indicates which are the
+> front and the back of the building with respect to this diagram.
+> Looking at the building from the front, which image appears?
+> A) 	
 >                     	
-> B)
+> B) 	
 >                       	
-> C) D)
+> C) 	
+> D) 	
 >                     	
-> E) 3 4 2 3 2 3 3 1 2 2 1 3 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 2 1 2 1 1 1 1 1 2 1 1 1 2 2 1 2 2 2 2 2 2 3 3 3 1 2 2 1 2 1 2 1 2 3 3 1 2 2 3 3 3 3 3 1 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+> E) 
+> 3
+> 4
+> 2
+> 3
+> 2
+> 3
+> 3
+> 1
+> 2
+> 2
+> 1
+> 3
+> 1
+> 1
+> 2
+> 1
+> 2
+> BACK
+> FRONT
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_benjamin#q20|src_kangourou_2013_benjamin__Q20]]
@@ -971,13 +1005,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Logic with lies about the colours of the beans
+*Logic with liars about the colors of the marbles*
 
-> Andrea, Bruno and Carlo never tell the truth. Each of them has a red or green spleen. Andrea says: "My vagina and Bruno's are the same color. Bruno says: "My and Carlo's tiles are the same color. Carlo says: "Two of us have a red card, the other one has a green card". Which of the following statements is true? A) Andrea 's beak is green .
+> Andrea, Bruno and Carlo never tell the truth. Each of them has a marble that
+> is either red or green. Andrea says: My marble and Bruno's are the same
+> color. Bruno says: My marble and Carlo's are the same color. Carlo
+> says: Two of us have a red marble, the other has a green one. Which of the following
+> statements is true?
+> A) Andrea's marble is green .
 >            
-> B) Bruno's ball is green.
+> B) Bruno's marble is green. 	
 >     
-> C) Carlo's beak is red. D) Andrew's and Charles' balls are of a different colour. E) None of the above statements are true.
+> C) Carlo's marble is red. 
+> D) Andrea's and Carlo's marbles are of different colors.                                                                                     
+> E) None of the previous statements is true.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2013_benjamin#q21|src_kangourou_2013_benjamin__Q21]]
@@ -1025,7 +1066,7 @@ Logic with lies about the colours of the beans
 
 ![[src_kangourou_2013_benjamin__prob22.png]]
 
-> Charles and Paul have some features of a curved track, all of them equal to each other. Everyone wants to build a closed circuit, on which to run their own train. The figure shows the circular circuit that Charles built, using 8 tracks of track, and how Paul began to build his circuit. Paul wants to close his circuit by using as few pieces as possible. When finished, how many pieces will make up Paul's circuit? A) 11
+> Charles and Paul have some pieces of curved track, all of them equal to each other. Everyone wants to build a closed circuit, on which to run their own train. The figure shows the circular circuit that Charles built, using 8 track pieces, and how Paul began to build his circuit. Paul wants to close his circuit by using as few pieces as possible. When finished, how many pieces will make up Paul's circuit? A) 11
 >      	
 > B) 12
 > 	
@@ -1067,9 +1108,9 @@ Logic with lies about the colours of the beans
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of finalist cats (total) *
+*Minimum number of finalist cats (sets) *
 
-> There are 66 cats in the Miss Cat 2013 competition. Twenty-one were eliminated because they failed the rat test. Of the rest, 27 have at least two colors of hair and 32 have a white tail. All cats with at least two colors of hair and a white tail are in the final. So the smallest possible number of finalist cats is A) 5.
+> There are 66 cats in the Miss Cat 2013 competition. Twenty-one were eliminated because they failed the mouse-hunting test. Of the rest, 27 have at least two colors of hair and 32 have a white tail. All cats with at least two colors of hair and a white tail are in the final. So the smallest possible number of finalist cats is A) 5.
 >       	
 > B) 7. C) 13.
 >         	
@@ -1112,7 +1153,7 @@ Logic with lies about the colours of the beans
 
 *Maximum number of males with distance restriction*
 
-> Ten students, male and female, are in line. However you choose two males in a row, the number of students standing between those two males is different from 2. How many males can there be in line at most? A) 7
+> Ten students, male and female, are in line. However you choose two males in the line, the number of students standing between those two males is different from 2. How many males can there be in line at most? A) 7
 >         	
 > B) 6
 > 	
@@ -1159,11 +1200,11 @@ Logic with lies about the colours of the beans
 
 Boys giving left hand to a girl in a circle
 
-> 40 boys and 28 girls stand in a circle, hand in hand, all facing inside the circle. Boys who give a girl their right hand are 18. How many guys give their left hand to a girl? A) 18 B) 9
+> 40 boys and 28 girls stand in a circle, hand in hand, all facing inside the circle. Boys who give a girl their right hand are 18. How many boys give their left hand to a girl? A) 18 B) 9
 >      	
 > C) 28 D) 14
 >           	
-> E) 20 Charles Paul
+> E) 20 Carlo Paolo
 >
 
 **Answer:** A
@@ -1211,7 +1252,7 @@ Boys giving left hand to a girl in a circle
 
 ![[src_kangourou_2013_benjamin__prob26.png]]
 
-> In the picture you see four buttons: two of them show a happy face, the other two a sad face. If you press any of them, the face shown changes expression (from sad to happy or, from happy, sad) and the same goes for the faces that appear on the buttons adjacent to the one you pressed. You want to make all the faces cheerful, what's the minimum number of buttons you can hit the target by pressing? A) 2
+> In the picture you see four buttons: two of them show a happy face, the other two a sad face. If you press any of them, the face shown changes expression (from sad to happy or, from happy, sad) and the same goes for the faces that appear on the buttons adjacent to the one you pressed. You want to make all the faces cheerful, what is the minimum number of buttons you must press to reach the goal? A) 2
 >         	
 > B) 3
 >  	
@@ -1260,15 +1301,21 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most difference after 2013 on the trading floor*
+*Maximum difference after 2013 change operations on the triple*
 
-> The change operation on a number set consists of replacing each of the three numbers in the set with the sum of the other two. For example, the change operation transforms {3, 4, 6} into {10, 9, 7}; by applying change to this second change, the change is {16, 17, 19}. So let's start with the number {20, 1, 3} and then we're going to change 2013 times consecutively: what's the biggest difference between two numbers in the last number we get? A) 1
+> The change operation on a triple of numbers consists in replacing each of the
+> three numbers of the triple with the sum of the other two. For example, the change operation
+> transforms the triple {3, 4, 6} into the triple {10, 9, 7}; applying change to this second
+> triple gives the triple {16, 17, 19}.  We start from the triple {20, 1, 3} and apply
+> change 2013 times consecutively: what is the maximum difference between two numbers
+> of the last triple that we obtain?
+> A) 1	
 >         	
-> B) 2
+> B) 2	
 >  	
-> C) 17
+> C) 17	
 >           	
-> D) 19
+> D) 19	
 >       	
 > E) 2013
 
@@ -1307,15 +1354,19 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many odd numbers n with n-297 reversed*
+*How many strange numbers n with n-297 inverse*
 
-> A three-digit positive integer n is said to be odd if it has the following property: the number n  297 is still a three-digit positive integer and its digits are the same as n read in reverse order. How many odd numbers are there? A) 6
->          	
+> A positive integer n of three digits is called strange if it has the following
+> property: the number n – 297 is still a positive integer of three digits and its digits are the
+> same as those of n read in reverse order. How many strange numbers exist?
+> A) 6
+>
 > B) 7
->       	
+>
 > C) 10
->   	
-> D) 60 E) 70
+>
+> D) 60
+>                 E) 70
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_benjamin#q28|src_kangourou_2013_benjamin__Q28]]
@@ -1358,7 +1409,7 @@ Boys giving left hand to a girl in a circle
 
 ![[src_kangourou_2013_benjamin__prob29.png]]
 
-> Alice has four identical cubes, on each face of which a number is shown. A development of each of the cubes is shown in the upper left figure. Alice glues the four cubes to the solid 2×2×1 shown in the figure to the left below, warning that two faces can only match if the numbers shown on them are equal. Finally, Alice calculates the sum of the numbers on the visible faces of the solid. What's the highest amount you can get? A) 64 B) 56 C) 80 	            D) 70 E) 68
+> Alice has four identical cubes, on each face of which a number is shown. A net of each of the cubes is shown in the upper left figure. Alice glues the four cubes to the solid 2×2×1 shown in the figure to the left below, warning that two faces can only match if the numbers shown on them are equal. Finally, Alice calculates the sum of the numbers on the visible faces of the solid. What is the highest sum she can get? A) 64 B) 56 C) 80 	            D) 70 E) 68
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_benjamin#q29|src_kangourou_2013_benjamin__Q29]]
@@ -1400,7 +1451,7 @@ Boys giving left hand to a girl in a circle
 
 *Separate 2x2 cubes with 4 white and 4 black cubes*
 
-> How many different 2 cm side cubes can be obtained by approaching 4 white cubes and 4 black cubes, all of which are 1 cm side? (Two cubes shall be considered different if they cannot be obtained from each other by rotation.) A) 16
+> How many different 2 cm side cubes can be obtained by putting together 4 white cubes and 4 black cubes, all of which are 1 cm side? (Two cubes shall be considered different if they cannot be obtained from each other by rotation.) A) 16
 >         	
 > B) 9
 > 	
@@ -1410,7 +1461,7 @@ Boys giving left hand to a girl in a circle
 >  	
 > E) 6
 > 
-> I'm not going to lie to you.
+> BENJAMIN STRING 2013
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_benjamin#q30|src_kangourou_2013_benjamin__Q30]]

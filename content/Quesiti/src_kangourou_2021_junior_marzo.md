@@ -90,7 +90,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full chart of the temperature trend*
+*Faithful chart of the temperature trend*
 
 ![[src_kangourou_2021_junior_marzo__prob2.png]]
 
@@ -151,7 +151,7 @@ level: kangourou
 
 ![[src_kangourou_2021_junior_marzo__prob3.png]]
 
-> The figure shows three equal equilateral triangles and three possible paths starting from the top to the bottom right of each triangle, with lengths P, Q and R. Which of the following inequalities is correct? A) P < Q < R
+> The figure shows three equal equilateral triangles and three possible paths starting from the upper vertex and ending at the lower right vertex of each triangle, with lengths P, Q and R. Which of the following inequalities is correct? A) P < Q < R
 > 	
 > B) P < R < Q
 > 	
@@ -218,8 +218,8 @@ level: kangourou
 
 ![[src_kangourou_2021_junior_marzo__prob4.png]]
 
-> Two rectangles are joined as shown in the figure. For each rectangle, the number inside indicates its area in square centimeters; the top-left rectangle has height 6 cm. What is the height, in centimeters, of the bottom-right rectangle?
-> (A) 4
+> Six rectangles are joined as shown in the figure. For each rectangle, the number inside indicates its area in square centimeters; the top-left rectangle has height 6 cm. What is the height, in centimeters, of the bottom-right rectangle?
+> A) 4
 > 	
 > B) 5	
 > 	
@@ -274,7 +274,7 @@ level: kangourou
 
 *Final score of the handball match*
 
-> At the end of the first half of a handball match the score was 9  14, so the host team was in advantage of 5 nets. Respecting the instructions received from the coach during the interval, the home team in the second half dominated, scoring twice the opponents' net and thus winning the game by one net. What was the final score of the game? A) 20 – 19 B) 21 – 20 C) 22 – 21 D) 23 – 22 E) 24 – 23
+> At the end of the first half of a handball match the score was 9 – 14, so the away team was ahead by 5 goals. Respecting the instructions received from the coach during the interval, the home team in the second half dominated, scoring twice as many goals as the opponents and thus winning the game by one goal. What was the final score of the game? A) 20 – 19 B) 21 – 20 C) 22 – 21 D) 23 – 22 E) 24 – 23
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_junior_marzo#q05|src_kangourou_2021_junior_marzo__Q05]]
@@ -337,7 +337,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the hexagon consisting of six 5 cm2 frames*
+*Area of the hexagon consisting of six 5 cm2 rhombi*
 
 ![[src_kangourou_2021_junior_marzo__prob6.png]]
 
@@ -368,7 +368,7 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. Six congruent combs, each 5 cm2 in area, are joined together to form a star whose tips are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon? A) 36 B) 40 C) 45 D) 48 E) 60
+> Look at the figure. Six congruent rhombi, each 5 cm2 in area, are joined together to form a star whose tips are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon? A) 36 B) 40 C) 45 D) 48 E) 60
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_junior_marzo#q06|src_kangourou_2021_junior_marzo__Q06]]
@@ -487,7 +487,7 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. A rectangle of 30 cm perimeter is divided into four rectangles, one of which is a square of 9 cm2. How many centimeters does the perimeter of the ABCD rectangle measure ? A) 14 B) 16
+> Look at the figure. A rectangle of 30 cm perimeter is divided into four rectangles, one of which is a square with area 9 cm2. How many centimeters does the perimeter of the ABCD rectangle measure ? A) 14 B) 16
 > 	
 > C) 18 D) 21 E) 24
 
@@ -529,11 +529,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third triangle bounded by area/isosceles/straight*
+*Third triangle with constraints on area/isosceles/right*
 
 ![[src_kangourou_2021_junior_marzo__prob9.png]]
 
-> Alberto drew three triangles on a grid. Of these, just two have the same area, exactly two are isosceles and exactly two are rectangular triangles. In the figure to the right, two of the three triangles are shown. What could be the third? A)
+> Alberto drew three triangles on a grid. Of these, just two have the same area, exactly two are isosceles and exactly two are right triangles. In the figure to the right, two of the three triangles are shown. What could be the third? A)
 > 	
 > B)
 > 	
@@ -575,11 +575,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time until the last of the 10 candles is turned off*
+*Time until the last of the 10 candles goes out*
 
-> Tom has 10 candles all the same. Each is consumed in 20 minutes, uniformly along its height. He lights one; when there is only one tenth left, he lights another; when there is only one tenth left of the second, he lights a third, and so on until he lights them all. How long after the first one is turned on, will the last one go off? A) 3h and 10 min B) 3h and 2 min C) 3h D) 2h and 40 min E) 2h and 58 min
+> Tom has 10 candles all the same. Each is consumed in 20 minutes, uniformly along its height. He lights one; when there is only one tenth left, he lights another; when there is only one tenth left of the second, he lights a third, and so on until he lights them all. How long after the first one is lit, will the last one go off? A) 3h and 10 min B) 3h and 2 min C) 3h D) 2h and 40 min E) 2h and 58 min
 >  
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_junior_marzo#q10|src_kangourou_2021_junior_marzo__Q10]]
@@ -619,9 +619,9 @@ level: kangourou
 
 *Relation between A and B with A-A/10 = B/10*
 
-> Anna picked a number A and subtracted 1/10, Beatrice picked a number B and multiplied it by 1/10. Anna and Beatrice got the same result. So 9 cm2 A B C D
+> Anna picked a number A and subtracted 1/10, Beatrice picked a number B and multiplied it by 1/10. Anna and Beatrice got the same result. So
 > 
-> (A) certainly A < B. B) certainly A > B. (c) certainly A × B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
+> (A) certainly A < B. B) certainly A > B. C) certainly A × B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_junior_marzo#q11|src_kangourou_2021_junior_marzo__Q11]]
@@ -661,7 +661,7 @@ level: kangourou
 
 How to climb 8 steps by skipping 6
 
-> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The 6° step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest degree? A) 6
+> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The 6° step is rotten, so to avoid danger he must skip it. How many different ways can Amedeo reach the highest step? A) 6
 > 	
 > B) 7
 > 	
@@ -712,11 +712,11 @@ How to climb 8 steps by skipping 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in place of ? with equal sums on the circumferences*
+Number in place of ? with equal sums on the circles*
 
 ![[src_kangourou_2021_junior_marzo__prob13.png]]
 
-> Note the figure: each point where two circumferences intersect is covered by a circular label. Each label must contain one of the integers 1 to 6 and each of them must be used. Adding the numbers that appear along the individual circumferences must always yield the same result. Number 6 has already been entered. What number should be inserted in the question mark? A) 1
+> Note the figure: each point where two circles intersect is covered by a circular label. Each label must contain one of the integers 1 to 6 and each of them must be used. Adding the numbers that appear along the individual circles must always yield the same result. Number 6 has already been entered. What number should be inserted in place of the question mark? A) 1
 > 	
 > B) 2
 > 	
@@ -764,7 +764,7 @@ Number in place of ? with equal sums on the circumferences*
 
 *Integer amounts <2021 with remainder 5 divided by 6,7,8,9*
 
-> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the rest. For how many positive integers less than 2021, does the same thing happen, i.e. the rest of the four divisions is always 5? A) 4
+> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the remainder. For how many positive integers less than 2021, does the same thing happen, i.e. the remainder of the four divisions is always 5? A) 4
 > 	
 > B) 3
 > 	
@@ -772,7 +772,7 @@ Number in place of ? with equal sums on the circumferences*
 > 	
 > D) 1
 > 	
-> (e) no one
+> E) none
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_junior_marzo#q14|src_kangourou_2021_junior_marzo__Q14]]
@@ -921,17 +921,42 @@ Number in place of ? with equal sums on the circumferences*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum points for overtaking in the race*
+*Minimum number of points for overtakes in the race*
 
-> Five cars took part in a race, starting in the order shown below. Each time one car overtook another, it was awarded a point. Vehicles reached the finish in the following order: It is found that the number of points awarded globally was the minimum compatible with this information. What's this number? A) 10
+> Five cars participated in a race, starting in the order shown below.
+> Each time a car overtook another, it was awarded a point.
+> The cars reached the finish line in the following order:
+> It turns out that the number of points awarded overall was the minimum compatible
+> with this information. What is this number?
+> A) 10	
+	
 > 	
-> B) 9
+> B) 9	
+	
 > 	
-> C) 8
+> C) 8	
+	
 > 	
-> D) 7
+> D) 7	
+	
 > 	
-> E) 6 6 ? The following information shall be provided for the purposes of this Regulation:
+> E) 6
+> 6
+> ?
+> O
+> 67°
+> α
+> 32°
+> IV
+> V
+> I
+> II
+> III
+> IV
+> II
+> III
+> V
+> I
 >
 
 **Answer:** E
@@ -977,11 +1002,11 @@ Number in place of ? with equal sums on the circumferences*
 <div class="qlang-split" data-lang="en"></div>
 
 
-What's the number? in the 3x3 grid after 2x2 moves*
+Number at the ? in the 3x3 grid after 2x2 moves*
 
 ![[src_kangourou_2021_junior_marzo__prob18.png]]
 
-> In each cell of a square grid 3 × 3 the number 0 appears initially. One move is to increase by 1 all the numbers appearing in the four cells of one of the four grids 2 × 2 contained in the grid (e.g. the one shaded in the image on the left). After several moves, the situation is as shown in the image on the right, in which some cells have been covered. What number should be in the place of the question mark? A) 14
+> In each cell of a square grid 3 × 3 the number 0 appears initially. One move is to increase by 1 all the numbers appearing in the four cells of one of the four squares 2 × 2 contained in the grid (e.g. the one shaded in the image on the left). After several moves, the situation is as shown in the image on the right, in which some cells have been covered. What number should be in the place of the question mark? A) 14
 > 	
 > B) 15
 > 	
@@ -1071,7 +1096,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 
 ![[src_kangourou_2021_junior_marzo__prob20.png]]
 
-> The figure shows a sequence of eight boxes, in the first and last of which the number 2021 appears. Each empty box can be filled with a number so that, for an appropriate number a, the sum of the two numbers in two adjacent boxes is alternately a and a + 1, as shown in the figure. What 's the value of a ? A) 4041 B) 4042 C) 4043 D) 4044 E) 4045 Questions from N. 21 al N. 30 is worth 5 points each.
+> The figure shows a sequence of eight boxes, in the first and last of which the number 2021 appears. Each empty box can be filled with a number so that, for an appropriate number a, the sum of the two numbers in two adjacent boxes is alternately a and a + 1, as shown in the figure. What 's the value of a ? A) 4041 B) 4042 C) 4043 D) 4044 E) 4045 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_junior_marzo#q20|src_kangourou_2021_junior_marzo__Q20]]
@@ -1112,7 +1137,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 
 ![[src_kangourou_2021_junior_marzo__prob21.png]]
 
-> An ant rises from C to A along the CA side of the triangle and descends from A to B along the stairs, as shown in the figure. What is the relationship between the length of the climb and the length of the descent? A) 1
+> An ant rises from C to A along the CA side of the triangle and descends from A to B along the stairs, as shown in the figure. What is the ratio between the length of the climb and the length of the descent? A) 1
 > 	
 > B) 1 / 2 C) 1 / 3 D) √2 / 2 E) √3 / 3
 
@@ -1186,9 +1211,9 @@ What's the number? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of figures of N+2021 with N minimum sum of figures of 2021*
+*sum of digits of N+2021 with N minimum digit sum of 2021*
 
-> Whether N is the smallest positive integer whose sum (in decimal notation) is 2021. What is the sum of the digits of N + 2021? A) 10
+> Let N be the smallest positive integer whose digit sum (in decimal notation) is 2021. What is the sum of the digits of N + 2021? A) 10
 > 	
 > B) 2024 C) 2026 D) 28
 > 	
@@ -1232,11 +1257,22 @@ What's the number? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What information determines the color of the ball 2021*
+*Which piece of information determines the colour of ball 2021*
 
-> 2021 balls placed in line are numbered from 1 to 2021. Each ball is colored in one of these four colors: green, red, yellow, blue. In each corner of the balls with 18 47 13 ? 0 0 0 0 0 0 0 0 0 B C A 60° 75°
+> 2021 balls arranged in a row are numbered from 1 to 2021. Each ball is coloured in 
+> one of these four colours: green, red, yellow, blue. In every five consecutive balls there­
+> 18
+> 47
+> 13
+> ?
+> B
+> C
+> A
+> 60°
+> 75°
 > 
-> There's exactly one red, one yellow, and one blue ball. After each red ball, the next one is yellow. Consider the following additional information:
+> are exactly one red ball, one yellow ball and one blue ball. After every ball 
+> red, the next one is yellow. Consider the following additional information:
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_junior_marzo#q24|src_kangourou_2021_junior_marzo__Q24]]
@@ -1263,9 +1299,9 @@ What's the number? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit numbers with a product number of 1000*
+*Five-digit numbers with digit product 1000*
 
-> 25. Consider the positive integers that have five digits in decimal writing. How many of them are such that the product of their numbers is equal to 1,000? A) 10 B) 20 C) 30 D) 40 E) 60
+> 25. Consider the positive integers that have five digits in decimal writing. How many of them are such that the product of their digits is equal to 1,000? A) 10 B) 20 C) 30 D) 40 E) 60
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_junior_marzo#q25|src_kangourou_2021_junior_marzo__Q25]]
@@ -1292,9 +1328,9 @@ What's the number? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points by Henry in the play of the written word*
+*Points by Enrico in the play of the written word*
 
-> 26. Three boys wrote 10 words each. Each boy, for every word he wrote, gained three points if none of the other boys wrote the same word, gained one point if exactly one of the other boys wrote the same JUNIOR word, no point if the word was also written by the other two. When they compared the three scores they got, they found that they were all different. Paolo had the lowest score, 19 points, while Enrico's score was the highest. How many points did Henry get? A) 20 B) 21 C) 23 D) 24 E) 25
+> 26. Three boys wrote 10 words each. Each boy, for every word he wrote, gained three points if none of the other boys wrote the same word, gained one point if exactly one of the other boys wrote the same JUNIOR word, no point if the word was also written by the other two. When they compared the three scores they got, they found that they were all different. Paolo had the lowest score, 19 points, while Enrico's score was the highest. How many points did Enrico get? A) 20 B) 21 C) 23 D) 24 E) 25
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_junior_marzo#q26|src_kangourou_2021_junior_marzo__Q26]]
@@ -1322,7 +1358,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square large given the grey triangle*
+*Area of the large square given the grey triangle*
 
 ![[src_kangourou_2021_junior_marzo__prob27.png]]
 
@@ -1355,7 +1391,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 
 *Possible value of b with a,b squared and a-b prime*
 
-> 28. Each of the two numbers a and b, a > b, is the square of an integer. The difference at  b is a prime number. Which of the following numbers could be b ? A) 100 B) 144 C) 256 D) 900 E) 10.000 2
+> 28. Each of the two numbers a and b, a > b, is the square of an integer. The difference a - b is a prime number. Which of the following numbers could be b ? A) 100 B) 144 C) 256 D) 900 E) 10.000 2
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_junior_marzo#q28|src_kangourou_2021_junior_marzo__Q28]]
@@ -1384,11 +1420,11 @@ What's the number? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode to colour the 4x4 table in black with constraints*
+*Ways to colour the 4x4 table in black with constraints*
 
 ![[src_kangourou_2021_junior_marzo__prob29.png]]
 
-> 29. In Table 4 × 4 some cells must be painted black. The numbers to the right of each row and below each column specify how many black cells should be in the respective row or column. What are the different ways in which black cells can be placed in compliance with the prescriptions? A) 2 B) 3 C) 4 D) 5 E) In more than five ways.
+> 29. In Table 4 × 4 some cells must be painted black. The numbers to the right of each row and below each column specify how many black cells should be in the respective row or column. In how many different ways can the black cells be placed in compliance with the prescriptions? A) 2 B) 3 C) 4 D) 5 E) In more than five ways.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_junior_marzo#q29|src_kangourou_2021_junior_marzo__Q29]]

@@ -146,7 +146,7 @@ Probability of diamonds in box 9 after opening
 
 > Tomorrow is Saturday or Sunday or Monday. On what day did Charles' fifteenth birthday fall? A. Certainly on Monday. B) Certainly on Thursday. C) Certainly on Friday. D) Thursday or Friday, both being possible. E) Monday or Friday, both being possible. Answer: E). The solution. 1) can be either true or false. If 1) is false they must also be false 2) and 3); if 2) is false the day can be Saturday, Sunday or Monday; if 3) is false the day can be Monday, Tuesday, Wednesday or Thursday: the intersection is Monday. If 1) is true they must also be true 2) and 3); if 2) is true the day may be Tuesday, Wednesday, Thursday or Friday; if 3) is true the day may be Friday, Saturday or Sunday: the intersection is Friday.
 
-**Answer:** C o E
+**Answer:** C or E
 [[Quesiti/src_kangourou_2024_student_semifinale#q03|src_kangourou_2024_student_semifinale__Q03]]
 
 
@@ -173,7 +173,7 @@ Probability of diamonds in box 9 after opening
 
 *For the area of square with integer vertices cannot be 27*
 
-> 4. In the Cartesian plane, consider a square Q whose vertices have, each, both integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is a whole odd. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason.
+> 4. In the Cartesian plane, consider a square Q whose vertices each have both coordinates integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is an odd integer. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_student_semifinale#q04|src_kangourou_2024_student_semifinale__Q04]]
@@ -235,9 +235,15 @@ Birthday with true/false statements
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of three-digit product terms with more than zero *
+*Probability that the product of three numbers ends with more zeros*
 
-> (Points 4) Multiplying between them three randomly chosen numbers in the {38, 55, 68, 104, 175, 375}, what is the probability out of 100 that the product ends with the maximum number of zeros possible? A) 10 B) 15 C) 20 D) 25 E) 30 Answer: E). The solution. The factors of the six numbers are, in the order, 2 × 19, 5 × 11, 22 × 17, 23 × 13, 52 × 7, 53 × 3. The number of zeros is given by the highest exponent to which a high 2 × 5 can appear in the product; this exponent is clearly 3, which can be obtained by the following different choices of the trane: {104, 375, any of the remaining 4}, {38, 68, 375}, {55, 104, 175}, for a total of 6 out of 20 trane.
+> (Points 4) Multiplying together three numbers chosen at random from the set {38, 55, 68, 104, 175, 375}, 
+> what is the probability out of 100 that the product ends with the maximum possible number of zeros?  
+> A) 10          B) 15          C) 20           D) 25          E) 30 
+> Answer: E). Solution. The factorizations of the six numbers are, in order, 2 × 19, 5 × 11, 22 × 17, 23 × 13, 
+> 52 × 7, 53 × 3. The number of zeros is given by the highest exponent to which 2 × 5 can appear raised in the product; 
+> this exponent is clearly 3, obtainable with the following different choices of the triple: {104, 375, any 
+> one of the 4 remaining}, {38, 68, 375}, {55, 104, 175}, for a total of 6 triples out of 20.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2024_student_semifinale#q06|src_kangourou_2024_student_semifinale__Q06]]
@@ -287,7 +293,7 @@ Birthday with true/false statements
 
 Minimum number of students to cover all eight problems
 
-> Eight students faced the same individual test consisting of eight problems. Each problem was solved correctly by at least five students. What is the smallest value of n for which the following is true: there are n students such that each problem has been solved by at least one of them? A) 2 B) 3 C) 4 D) 5 E) 6 Answer: A). The solution. So N is the largest number of problems solved by a single student. It is clear that if N < 8, n must be at least 2 and that n = 2 is sufficient if N = 7. If N = 6, each of the remaining two problems must have been solved by 5 students, so at least one of these 5 must have solved both: still n = 2 is enough. If N = 5 each problem was solved by exactly 5 students (the correct answers must be at least 40); let's consider the three problems not solved by any student: in total they have to admit 15 solutions, so there must be one of the remaining 7 students who solved all three. It's clear that it can't be N < 5.
+> Eight students faced the same individual test consisting of eight problems. Each problem was solved correctly by at least five students. What is the smallest value of n for which the following is true: there are n students such that each problem has been solved by at least one of them? A) 2 B) 3 C) 4 D) 5 E) 6 Answer: A). Solution. Let N be the largest number of problems solved by a single student. It is clear that if N < 8, n must be at least 2 and that n = 2 is sufficient if N = 7. If N = 6, each of the remaining two problems must have been solved by 5 students, so at least one of these 5 must have solved both: still n = 2 is enough. If N = 5 each problem was solved by exactly 5 students (the correct answers must be at least 40); let's consider the three problems not solved by a given student: in total they have to admit 15 solutions, so there must be one of the remaining 7 students who solved all three. It's clear that it can't be N < 5.
 >  
 >  
 > In fact, it seems to me that in the latter case, there is a perfect symmetry that leads to having three students solve the problems that the student in question did not solve.
@@ -375,7 +381,7 @@ Minimum number of students to cover all eight problems
 
 Maximum number of redundant cameras on the road 1000m
 
-> (Points 6) A 1,000-meter straight road is monitored by n cameras, each covering exactly 10 meters to its left and 10 meters to its right, extremes included, but not covering any point off the road. The cameras are more than necessary, but they are arranged in such a way that even if one of them does not work, some stretches of the road will be discovered. What's the maximum possible value for n? A) 49 B) 50 C) 51 D) 74 E) 98 Answer: E). The solution. Let's count the cameras gradually along the way starting with 1. If the section covered by the k-exima intersects the section covered by the (k+2)-exima, the (k+1)-exima would be useless: then the sections covered by cameras with odd numbers are disjoint, so they cannot be more than 49. It must be n < 99 because otherwise there would be at least 50 odd tracts. It can be n = 98. It is sufficient to distribute the 98 cameras so that they are evenly spaced with the first and last at 10 meters from the end of the corresponding street: the distance between the k-eighth and the (k+2)-eighth camera is then 2 × 980 / 97 meters which, being greater than 20 meters, can only be covered by the (k+1)-eighth camera (analog reasoning to the ends).
+> (Points 6) A 1,000-meter straight road is monitored by n cameras, each covering exactly 10 meters to its left and 10 meters to its right, extremes included, but not covering any point off the road. The cameras are more than necessary, but they are arranged in such a way that even if one of them does not work, some stretches of the road would remain uncovered. What's the maximum possible value for n? A) 49 B) 50 C) 51 D) 74 E) 98 Answer: E). The solution. Let's number the cameras progressively along the road starting from 1. If the section covered by the k-th intersects the section covered by the (k+2)-th, the (k+1)-th would be useless: then the sections covered by cameras with odd numbers are disjoint, so they cannot be more than 49. It must be n < 99 because otherwise there would be at least 50 odd tracts. It can be n = 98. It is sufficient to distribute the 98 cameras so that they are evenly spaced with the first and last at 10 meters from the end of the corresponding street: the distance between the k-th and the (k+2)-th camera is then 2 × 980 / 97 meters which, being greater than 20 meters, can only be covered by the (k+1)-th camera (analog reasoning to the ends).
 >  
 > Open-ended questions
 
@@ -407,9 +413,12 @@ Maximum number of redundant cameras on the road 1000m
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (cd-ab)(c+d) with sum and inverse sum of zero*
+*Value of (cd-ab)(c+d) with sum and inverse sum both zero*
 
-> (Points 4) Four real numbers a, b, c, d all other than 0 are such that their sum is 0, as well as the sum of their inverse with the inverse of their product. How much is (cd  ab) c + d)? The answer is: 0001. The solution. From the second condition we get cd(a + b) + ab(c + d) =  1. From the first, being a + b =  (c + d), you get then that the number you're looking for is 1.
+> (Points 4) Four real numbers a, b, c, d all different from 0 are such that their sum is 0, as 
+> is the sum of their inverses with the inverse of their product. What is (cd – ab)(c + d)? 
+> Answer: 0001. Solution. From the second condition we get cd(a + b) + ab(c + d) = – 1. From the first, 
+> since a + b = – (c + d), we then get that the number sought is 1.
 
 **Answer:** 1
 [[Quesiti/src_kangourou_2024_student_semifinale#q10|src_kangourou_2024_student_semifinale__Q10]]
@@ -457,46 +466,31 @@ Maximum number of redundant cameras on the road 1000m
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Entire numbers between 0 and 10 expressed as four *
+*How many integers between 0 and 10 can be expressed with four 4s*
 
-> (Points 5) I want to express as many integers as possible using just the number 4 and exactly four times. I can approach the number 4 several times, use the four arithmetic operations, and arrange brackets in the ways that I think are appropriate. For example, I can write 0 = 4  A B C D E F G H a + b a + b + c a + b + c + d b + c + d + e c + d + e
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> 
-> 4 + 4  4, or 15 = 44/4 + 4, or 160 = (44  4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
+> (Points 5) I want to express as many integers as possible using only the digit 4 and 
+> exactly four times. I can place the digit 4 next to itself several times, use the four arithmetic 
+> operations and arrange parentheses in the ways I deem appropriate. For example I can write 0 = 4 – 
+> A 
+> B 
+> C 
+> D 
+> E 
+> F 
+> G 
+> H 
+> a 
+> a + b 
+> a + b + c 
+> a+b+c+d 
+> b+c+d+e 
+> c + d + e 
+> d + e 
+> e 
+> 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers between 0 and 10 inclusive 
+> can I express with this procedure?        
+> Answer: 0011. Solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4;  
+> 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
 **Answer:** 11
 [[Quesiti/src_kangourou_2024_student_semifinale#q11|src_kangourou_2024_student_semifinale__Q11]]
@@ -529,7 +523,7 @@ Maximum number of redundant cameras on the road 1000m
 
 *Maximum angles < 170 degrees in the convex polygon*
 
-> (Points 5) How many angles less than 170 degrees can a convex polygon have? The answer is 0035. The solution. The sum of the additions to 180 of the measurements in degrees of angles of a convex polygon shall be 360. On the other hand, on the basis of this consideration, it is clear that there is a polygon of 36 sides with 35 angles measuring less than 170 degrees.
+> (Points 5) How many angles less than 170 degrees can a convex polygon have at most? Answer: 0035. Solution. The sum of the complements to 180 of the measurements in degrees of angles of a convex polygon shall be 360. On the other hand, on the basis of this consideration, it is clear that there is a polygon of 36 sides with 35 angles measuring less than 170 degrees.
 
 **Answer:** 35
 [[Quesiti/src_kangourou_2024_student_semifinale#q12|src_kangourou_2024_student_semifinale__Q12]]
@@ -562,7 +556,7 @@ Maximum number of redundant cameras on the road 1000m
 
 *Minimum n with Sn+S(n-1)>2024 diagonal polygon*
 
-> (Points 6) Assigned to a polygon convex of n sides (n > 3), we use Sn to indicate the number of its diagonal. What is the smallest value of n such that Sn + Sn  1 > 2024? The answer is 0048. The solution. For every n > 3 we have Sn = n(n  3)/2, where Sn + Sn  1 = n2  4n + 2. In order to have n2  4n  2022 > 0 must be n > 2 + √2026. The first perfect square greater than 2026 is 2116 = 462.
+> (Points 6) Given a convex polygon with n sides (n > 3), we use Sn to indicate the number of its diagonals. What is the smallest value of n such that Sn + Sn-1 > 2024? Answer: 0048. Solution. For every n > 3 we have Sn = n(n-3)/2, from which Sn + Sn-1 = n2-4n+2. In order to have n2-4n-2022 > 0 we must have n > 2 + √2026. The first perfect square greater than 2026 is 2116 = 462.
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2024_student_semifinale#q13|src_kangourou_2024_student_semifinale__Q13]]
@@ -599,7 +593,7 @@ Maximum number of redundant cameras on the road 1000m
 
 *Minimum problems with distinct corrections/errors for 50*
 
-> (Points 6) A mathematical contest was presented with problems for 50 contestants. For each individual contestant, the correct answers given, the wrong ones and the ones not given were counted. There were no two competitors who provided both the same number of correct answers and the same number of incorrect answers. What's the smallest possible value for n? The answer is: 0009. The solution. In our assumptions, for 0 ≤ k ≤ n, the eligible data with exactly k correct answers are in the number of n  k + 1 (there may not be any unspecified answers). The sum of all these numbers in k is the sum of the integers from 1 to n + 1 included, i.e. $\frac{(n+1)(n+2)}{2}$ and this value must be at least 50. From $n^2 + 3n - 98 \ge 0$, with n integers, follows $n \ge 9$.
+> (Points 6) In a mathematical contest, n problems were given to 50 contestants. For each individual contestant, the correct answers given, the wrong ones and the ones not given were counted. There were no two competitors who provided both the same number of correct answers and the same number of incorrect answers. What's the smallest possible value for n? The answer is: 0009. The solution. In our assumptions, for 0 ≤ k ≤ n, the admissible papers with exactly k correct answers are n - k + 1 in number (there may not be any unspecified answers). The sum of all these numbers in k is the sum of the integers from 1 to n + 1 included, i.e. $\frac{(n+1)(n+2)}{2}$ and this value must be at least 50. From $n^2 + 3n - 98 \ge 0$, with n integers, follows $n \ge 9$.
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2024_student_semifinale#q14|src_kangourou_2024_student_semifinale__Q14]]
@@ -662,7 +656,7 @@ Maximum number of redundant cameras on the road 1000m
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with AnBnC area < 10 in a rectangular triangle*
+*Minimum n with AnBnC area < 10 in a right triangle*
 
 ![[src_kangourou_2024_student_semifinale__prob15.png]]
 
@@ -686,7 +680,7 @@ Maximum number of redundant cameras on the road 1000m
 \end{document}
 ```
 
-> (Points 6) A triangle ABC, rectangular in A and whose angle in B measures 60 degrees is given; that triangle has area 2024. With the following procedure two sequences of points are identified: A1, A2, A3, ... on the AC side and B1, B2, B3, ... on the BC side: • A1 is on the ABC angle beam, segment A1B1 is perpendicular to the BC side; • B2 is on the B1A1C angle beam, segment B2A2 is perpendicular to the AC side; • A3 is on the A2B2C angle beam, segment A3B3 is perpendicular to the BC side and so on. What is the smallest integer n such that the area of the AnBnC triangle is less than 10? The answer is: 0005. The solution. The triangles ABA1, A1BB1 and A1B1C are congruent, so the area of A1B1C is 1/3 of that of ABC. Since all AhBhC triangles are similar to ABC, the situation is repeated for each AhBhC triangle with respect to Ah-1Bh-1C and for n = 5 larea 2024/35 = 2024/243 of AnBnC becomes for the first time less than 10.
+> (Points 6) A triangle ABC, right-angled at A and whose angle in B measures 60 degrees is given; that triangle has area 2024. With the following procedure two sequences of points are identified: A1, A2, A3, ... on the AC side and B1, B2, B3, ... on the BC side: • A1 is on the ABC angle bisector, segment A1B1 is perpendicular to the BC side; • B2 is on the B1A1C angle bisector, segment B2A2 is perpendicular to the AC side; • A3 is on the A2B2C angle bisector, segment A3B3 is perpendicular to the BC side and so on. What is the smallest integer n such that the area of the AnBnC triangle is less than 10? The answer is: 0005. The solution. The triangles ABA1, A1BB1 and A1B1C are congruent, so the area of A1B1C is 1/3 of that of ABC. Since all AhBhC triangles are similar to ABC, the situation is repeated for each AhBhC triangle with respect to Ah-1Bh-1C and for n = 5 the area 2024/35 = 2024/243 of AnBnC becomes for the first time less than 10.
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2024_student_semifinale#q15|src_kangourou_2024_student_semifinale__Q15]]
@@ -730,9 +724,9 @@ Maximum number of redundant cameras on the road 1000m
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit integers with a coefficient of 7 per digit sum*
+*Two-digit integers with quotient 7 per digit sum*
 
-> (Points 7) What are the positive integers of two digits that, divided by the sum of their digits, give as a quotient 7 (and possibly a residual)? The answer is 0011. The solution. If the numbers in question are 10A + B, it must be (10A + B) / (A + B) = 7 + r / (A + B) with 0 ≤ r < A + B ≤ 18. Clearly this excludes that B is equal to 0. From 10A + B = 7A + 7B + r it follows immediately that r = 3(A  2B) must be divisible by 3: the possibilities (for now theoretical) for r are therefore 0, 3, 6, 9, 12, 15. Let's go through them, remembering that it has to be r < A + B = 3B + r/3 i.e. 2r < 9B: r = 0 involves A = 2B, so it leads to the integers 84, 63, 42, 21; A B C A1 B1
+> (Points 7) What are the positive integers of two digits that, divided by the sum of their digits, give as a quotient 7 (and possibly a residual)? The answer is 0011. The solution. If the numbers in question are 10A + B, it must be (10A + B) / (A + B) = 7 + r / (A + B) with 0 ≤ r < A + B ≤ 18. Clearly this excludes that B is equal to 0. From 10A + B = 7A + 7B + r it follows immediately that r = 3(A - 2B) must be divisible by 3: the possibilities (for now theoretical) for r are therefore 0, 3, 6, 9, 12, 15. Let's go through them, remembering that it has to be r < A + B = 3B + r/3 i.e. 2r < 9B: r = 0 involves A = 2B, so it leads to the integers 84, 63, 42, 21;
 > 
 > r = 3 involves A = 1 + 2B, so it leads to the integers 94, 73, 52, 31; r = 6 involves A = 2 + 2B, so it leads to the integers 83, 62 r = 9 involves A = 3 + 2B, so it leads to the whole 93 r = 12 and r = 15 do not leave any possibility.
 
@@ -767,9 +761,15 @@ Maximum number of redundant cameras on the road 1000m
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum consecutive integers whose cube sum and 2024*
+*Maximum consecutive integers whose sum of cubes is 2024*
 
-> (Points 7) Adding the cubes of some consecutive integers gives us a result of 2024. How many of these integers can be at most? The answer is 0011. The solution. A well-known theorem states that for every positive integer n, the sum of the cubes of the first positive integers coincides with the square of the sum of these first n integers. The sum of the first n positive integers is n  n + 1)/2: quickly finds then that 452 = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers 2 through 9, but also the cubes of integers 1 through 9. It is easy to see that this sequence of consecutive integers cannot be extended.
+> (7 points) By adding the cubes of some consecutive integers, the result is 2024. 
+> At most how many can these integers be? 
+> Answer: 0011. Solution. A well-known theorem states that, for every positive integer n, the sum of the cubes of the 
+> first n positive integers equals the square of the sum of these first n integers. The sum of the first n 
+> positive integers is n(n + 1)/2: one quickly finds then that 452 = 2025 is the sum of the cubes of the integers from 1 
+> to 9. Therefore 2024 is the sum of the cubes of the integers from 2 to 9, but also of the cubes of the integers from -1 to 9. It is easy 
+> to verify that this sequence of consecutive integers cannot be extended.
 
 **Answer:** 11
 [[Quesiti/src_kangourou_2024_student_semifinale#q17|src_kangourou_2024_student_semifinale__Q17]]
@@ -807,9 +807,20 @@ Maximum number of redundant cameras on the road 1000m
 <div class="qlang-split" data-lang="en"></div>
 
 
-*1/p prob red and green bags always different*
+*1/p probability red and green marbles always different*
 
-> In a box there are 1,016 red and 1,008 green bubbles. Do you calculate the probability that, if you randomly extract one seed at a time, after each extraction, the number of red seed remaining in the box will always remain different from the number of green seed remaining in the box? Write the number 1/p or, if it is not an integer, the integer nearest it. The answer is 0253. The solution. Let's calculate the probability of the complementary event C, that is, after some extraction, the green balls left in the box are as many as the red ones. Let's imagine doing the reverse operation, which is filling the box by drawing the seeds from the outside, which is equivalent to our purpose. If the first card entered is green, which happens with probability of 1.008/2.024, C is certainly occurring. Now let's say that the first card you put in is red and that C happens again. Consider the first time C occurs: the last insert must have been a green leaf. Since we only have red or green balls, the probability a priori that this was a green ball is still 1,008/2,024. So you have p = 1  2 × 1.008/2.024 = 8/2.024 = 1/253.
+> (Points 8) In a box there are 1,016 red marbles and 1,008 green marbles. Calculate the probability p
+> that, drawing one marble at a time at random, after each draw the number of red marbles remaining
+> in the box is always different from the number of green marbles remaining in the box? Write the
+> number 1/p or, if it is not an integer, the integer closest to it.
+> Answer: 0253. Solution. Let us calculate the probability of the complementary event C, that is, that after some
+> draws, the green marbles remaining in the box are as many as the red ones. Let us imagine performing
+> the inverse operation, that is, filling the box by drawing the marbles from outside, which is equivalent for our
+> purposes. If the first marble inserted is green, which happens with probability 1,008/2,024, certainly C
+> occurs. Suppose now that the first marble inserted is red and that C still occurs. Consider the
+> first time at which C occurs: the last insertion must have been of a green marble. Since we have only
+> red or green marbles, the a priori probability that that insertion was of a green marble is still
+> 1,008/2,024. Therefore we have p = 1 – 2 × 1,008/2,024 = 8/2,024 = 1/253.
 
 **Answer:** 253
 [[Quesiti/src_kangourou_2024_student_semifinale#q18|src_kangourou_2024_student_semifinale__Q18]]

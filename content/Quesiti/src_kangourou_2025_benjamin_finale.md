@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little whole number with sum of 100 *
+*Smallest integer with digit sum 100*
 
-> What is the smallest positive integer whose sum is $100$? Explain how you determined it.
+> What is the smallest positive integer whose digits sum to $100$? Explain how you determined it.
 
 **Answer:** 199999999999
 [[Quesiti/src_kangourou_2025_benjamin_finale#qb1|src_kangourou_2025_benjamin_finale__QB1]]
@@ -60,9 +60,9 @@ level: kangourou
 
 *Which finger is counted as 999*
 
-> On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index, $3$ middle, $4$ ring, $5$ short; then she turned back: $6$ ring, $7$ middle, $8$ index, $9$ thumb. Then it divides up: $10$ index, $11$ medium and so on, until it gets to $999$. What finger?
+> On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index, $3$ middle, $4$ ring, $5$ little finger; then she turned back: $6$ ring, $7$ middle, $8$ index, $9$ thumb. Then she started again: $10$ index, $11$ medium and so on, until it gets to $999$. What finger?
 
-**Answer:** medio
+**Answer:** middle
 [[Quesiti/src_kangourou_2025_benjamin_finale#qb2|src_kangourou_2025_benjamin_finale__QB2]]
 
 
@@ -101,9 +101,9 @@ level: kangourou
 > 
 > Alice and Bob take turns taking one of the coins at the far left or far right of the line. For example, if Alice starts by taking the coin from $50$ cents to the far right, then Bob can choose between the $50$ cents to the far left and the $10$ cents left at the far right. Alice chooses first and then alternates in the choice, respecting the rule in each row that is subsequently determined: this way Alice will eventually have taken four coins and Bob only three.
 > 
-> (a) If they both act to get the maximum amount of money possible, how many cents will Bob end up with?
+> (a) If they both act to get the **MAXIMUM** amount of money possible, how many cents will Bob end up with?
 > 
-> (b) If, on the other hand, they both act to obtain the minimum amount of money possible, how many cents will Bob end up with?
+> (b) If, on the other hand, they both act to obtain the **MINIMUM** amount of money possible, how many cents will Bob end up with?
 > 
 > (see figure)
 
@@ -131,9 +131,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of lamps on circular track*
+*Total number of streetlights on a circular path*
 
-> A circular park is surrounded by a path lit by lightning. Simona and Tania counted the lights, but separately, starting from different points and moving both in the same direction. What was the $20$-eighth lamp for Simona was the $7$-mo for Tania, what was the $7$-mo for Simona was the $94$-eighth for Tania. How many lights are there?
+> A circular park is surrounded by a path lit by streetlights. Simona and Tania counted the streetlights, but separately, starting from different points and both moving in the same direction. The one that was the $20$-th streetlight for Simona was the $7$-th for Tania, the one that was the $7$-th for Simona was the $94$-th for Tania. How many streetlights are there in total?
 
 **Answer:** 100
 [[Quesiti/src_kangourou_2025_benjamin_finale#qb4|src_kangourou_2025_benjamin_finale__QB4]]
@@ -213,7 +213,7 @@ Maximum red numbers sum of green and blue (1-9)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum riders on 4x4 grid with declarations*
+*Maximum knights on a 4x4 grid with statements*
 
 ![[src_kangourou_2025_benjamin_finale__probb6.png]]
 
@@ -237,9 +237,9 @@ Maximum red numbers sum of green and blue (1-9)
 \end{document}
 ```
 
-> On an island there are only Knights and Snatchers: Knights are people who always tell the truth, while Snatchers always lie, and everyone on the island knows who the Knights are and who the Snatchers are. Today, residents of the island are waiting in the King's reception hall. This room is a square side $4$ meters and is floored with $16$ square side bricks $1$ meters. Each person is standing on a brick, one person per brick. While they wait, each of the people says, "In the bricks next to mine, there are as many crooks as there are knights". How many knights can there be at most?
+> On an island there are only Knights and Knaves: Knights are people who always tell the truth, while Knaves always lie, and it is known to everyone on the island who the Knights are and who the Knaves are. Today $16$ inhabitants of the island are waiting in the King's reception hall. This hall is a square with side $4$ meters and is paved with $16$ square tiles with side $1$ meter. Each person waits standing on a tile, one person per tile. While they wait, each of the $16$ people declares: «In the tiles adjacent to mine there are as many knaves as knights». What is the maximum number of knights there can be?
 > 
-> **NOTE:** Two bricks are adjacent if they have an entire side in common.
+> **NOTE:** Two tiles are adjacent if they share a whole side.
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2025_benjamin_finale#qb6|src_kangourou_2025_benjamin_finale__QB6]]

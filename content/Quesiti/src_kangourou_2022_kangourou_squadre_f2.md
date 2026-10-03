@@ -32,9 +32,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of figures expressed as 123456789*
+*Sum of digits of expression with 123456789*
 
-> The expression Write the sum of the digits of the result of the following expression: (123.456.789) 2  123.455.789 × 123.456.789.
+> The expression  
+> Write the sum of the digits of the result of the following expression:  
+> (123,456,789)2 – 123,455,789 × 123,456,789.
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q01|src_kangourou_2022_kangourou_squadre_f2__Q01]]
@@ -71,7 +73,7 @@ level: squadre
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob2.png]]
 
-> The vertical side of a rectangle houses eight circular disks all of the same radius. Some discs are tangent to each other and/or tangent to the sides of the rectangle as shown in the figure. The upper side of the rectangle is 30√3.1 cm long. How many centimeters is each vertical side?
+> The vertical side of a rectangle houses eight circular disks all of the same radius. Some discs are tangent to each other and/or tangent to the sides of the rectangle as shown in the figure. The upper side of the rectangle is 30√3 1 cm long. How many centimeters is each vertical side?
 
 **Answer:** 0020
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q02|src_kangourou_2022_kangourou_squadre_f2__Q02]]
@@ -103,7 +105,7 @@ level: squadre
 
 *Minimum matches for the strongest by 2022*
 
-> The strongest Between 2022 tennis players whose skills are not known a priori, one wants to identify the strongest by playing only single matches. What's the minimum number of meetings that allows you to do that? (It is assumed that, in every single encounter, the strongest always wins and that, if A is stronger than B and B is stronger than C, then A is stronger than C.)
+> The strongest Among 2022 tennis players whose skills are not known a priori, one wants to identify the strongest by playing only single matches. What's the minimum number of meetings that allows you to do that? (It is assumed that, in every single encounter, the strongest always wins and that, if A is stronger than B and B is stronger than C, then A is stronger than C.)
 
 **Answer:** 2021
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q03|src_kangourou_2022_kangourou_squadre_f2__Q03]]
@@ -134,7 +136,7 @@ level: squadre
 
 *Minimum number with data residues for 3.7*
 
-> What's the smallest positive integer that divided by 3 gives rest 1, divided by 4 gives rest 2, divided by 5 gives rest 3, divided by 6 gives rest 4 and divided by 7 gives rest 5?
+> What's the smallest positive integer that divided by 3 gives remainder 1, divided by 4 gives remainder 2, divided by 5 gives remainder 3, divided by 6 gives remainder 4 and divided by 7 gives remainder 5?
 
 **Answer:** 0418
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q04|src_kangourou_2022_kangourou_squadre_f2__Q04]]
@@ -170,7 +172,7 @@ level: squadre
 
 *Minutes before the flight*
 
-> The plane Knowing that the plane carrying a life-saving medicine will land at a certain time, a medical car leaves the hospital to reach the airport at exactly that time. The plane arrives early: then a person leaving the airport with the medicine and goes to meet the medical car; after travelling 45 minutes, he delivers the medicine to the medical car which manages to deliver the medicine to the hospital 20 minutes earlier than originally planned. How many minutes in advance did the plane arrive? (Consider the speed of the car constantly and negligible times for the hand-stepping of the medicine.)
+> Knowing that the plane carrying a life-saving medicine will land at a certain time, a medical car leaves the hospital to reach the airport at exactly that time. The plane arrives early: then a person starts from the airport with the medicine and goes to meet the medical car; after travelling 45 minutes, he delivers the medicine to the medical car which manages to deliver the medicine to the hospital 20 minutes earlier than originally planned. How many minutes in advance did the plane arrive? (Consider the speed of the car constantly and negligible times for the handovers of the medicine.)
 
 **Answer:** 0055
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q05|src_kangourou_2022_kangourou_squadre_f2__Q05]]
@@ -232,13 +234,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of parallel piped given OE and angle 60°*
+*Parallelepiped volume given OE and 60° angle*
 
-> The volume A parallel-piped rectangle has a square base ABCD; the side face ABBA has a minor side AB and the acute angle formed by its diagonal measures 60 degrees. O said the intersection point of these diagonals and E the foot of the perpendicular leading from the vertex A to the diagonal BA, the segment OE measures 4√3 cm. How many cubic centimeters is the volume of the parallelepiped?
->  
->  
->  
-> 
+> The volume  
+> A rectangular parallelepiped has a square base ABCD; the lateral face ABB’A’ has shorter side AB and 
+> the acute angle formed by its diagonals measures 60 degrees. Let O be the intersection point of these 
+> diagonals and E the foot of the perpendicular drawn from vertex A to the diagonal BA’, the segment 
+> OE measures 4√3 cm. How many cubic centimeters is the volume of the parallelepiped? 
 > 2
 
 **Answer:** 4608
@@ -274,7 +276,7 @@ level: squadre
 
 *Minimum candidates for two with the same score*
 
-> Candidates A test consists of 10 questions numbered 1 to 10. A candidate receives a positive or negative score that matches the order number of the question, depending on whether he or she answers correctly or incorrectly, respectively. (For example, by correctly answering question n. 5 points will be earned, 5 points will be lost if the answer is incorrect or no answer is given.) To be sure that there are at least two candidates scoring the same score, how many candidates must be at least?
+> Candidates A test consists of 10 questions numbered 1 to 10. A candidate receives a positive or negative score that matches the order number of the question, depending on whether he or she answers correctly or incorrectly, respectively. (For example, by correctly answering question n. 5 you earn 5 points, while you lose 5 if you give a wrong answer or no answer.) To be sure that there are at least two candidates scoring the same score, how many candidates must be at least?
 
 **Answer:** 0057
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q08|src_kangourou_2022_kangourou_squadre_f2__Q08]]
@@ -310,7 +312,7 @@ level: squadre
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob9.png]]
 
-> The ELLE In the figure you can see the pattern of a region a L (with two parallel sides and straight convex inner angles): the segments AB, BC, CD and FA are 96, 72, 36 and 24 metres long respectively. What is the measurement in meters of the GH segment?
+> The ELLE In the figure you can see the diagram of an L-shaped region (with two parallel sides and straight convex inner angles): the segments AB, BC, CD and FA are 96, 72, 36 and 24 metres long respectively. What is the measurement in meters of the GH segment?
 
 **Answer:** 0035
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q09|src_kangourou_2022_kangourou_squadre_f2__Q09]]
@@ -371,9 +373,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with adjacent sums of perfect squares*
+*Minimum n with adjacent sums perfect squares*
 
-> Squares in pairs For some values of n, but not all, the sum of the first n positive integers can be ordered so that the sum of two integers that, in this new order, come to be adjacent is always a perfect square. Which is the smallest of the n values for which this happens?
+> Paired squares
+> For some values of n, but not for all, the set {1, 2, … , n} of the first n positive integers can be
+> ordered so that the sum of two integers that, in this new order, end up adjacent
+> is always a perfect square. What is the smallest among the values of n for which this happens?
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q11|src_kangourou_2022_kangourou_squadre_f2__Q11]]
@@ -403,9 +408,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of special numbers 1.100 whole mean*
+*Sum of special numbers 1..100 integer mean*
 
-> The average of the others Consider all integers from 1 to 100, 1 and 100 inclusive. Let's say that one of these integers is special if, by eliminating that number and no other, the mean of the remaining ones is an integer. How much is the sum of the special numbers?
+> The average of the others Consider all integers from 1 to 100, 1 and 100 inclusive. Let's say that one of these integers is special if, by eliminating that number and no other, the mean of the remaining ones is an integer. What is the sum of the special numbers?
 
 **Answer:** 0101
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q12|src_kangourou_2022_kangourou_squadre_f2__Q12]]
@@ -482,7 +487,7 @@ level: squadre
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob14.png]]
 
-> The number 2022 The positive integers are inserted, one per box, in an unlimited imaginary grid to the right and down, according to the diagram illustrated in the figure. In which box is the number 2022 entered? (Write the row and column that determine the box in the order, for example if they were the eighth row and the twentieth column you should write 0820.)
+> The number 2022 The positive integers are inserted, one per cell, in an unlimited imaginary grid to the right and down, according to the diagram illustrated in the figure. In which cell is the number 2022 entered? (Write the row and column that determine the cell in the order, for example if they were the eighth row and the twentieth column you should write 0820.)
 
 **Answer:** 0659
 [[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q14|src_kangourou_2022_kangourou_squadre_f2__Q14]]

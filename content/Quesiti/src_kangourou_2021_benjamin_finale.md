@@ -32,7 +32,7 @@ level: kangourou
 
 *Minutes to fill the first container of amoeba*
 
-> The amoeba are protozoa that reproduce in three minutes, that is, every three minutes each amoeba generates another identical one. No amoeba dies as long as it has room to reproduce. Two vessels of equal capacity initially contain one amoeba, the second eight amoeba. The second container is filled with amoeba after exactly three hours. How many minutes does it take to fill the first container?
+> Amoebas are protozoa that reproduce in three minutes, that is, every three minutes each amoeba generates another identical amoeba. No amoeba dies as long as it has room to reproduce. Two vessels of equal capacity initially contain one amoeba, the second eight amoebas. The second container is filled with amoebas after exactly three hours. How many minutes does it take to fill the first container?
 
 **Answer:** 189
 [[Quesiti/src_kangourou_2021_benjamin_finale#q01|src_kangourou_2021_benjamin_finale__Q01]]
@@ -145,11 +145,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimate of the number of cranberries by catch-recatch method*
+*Estimating the number of confetti with the capture-recapture method*
 
-> You have a bag of coriander and you'd like to know how many, at least roughly. Think of using the following strategy: - extract 50 and mark them with a mark, then put them back in the bag and mix all the candies so that the ones you've marked can be evenly distributed within the bag; - then extract 70 at random and find out that out of these 70, only two have been marked by you.
+> You have a bag of confetti and would like to know how many there are, at least approximately. You plan to use the following strategy:
+> - you take out 50 and mark them with a sign, then put them back in the bag and mix all the confetti so that the ones you marked can distribute themselves uniformly inside the bag;
+> - you then take out 70 at random and find that, among these 70, only two have been marked by you.
 > 
-> Based on this experiment, what is a reliable number for the coriander in the bag?
+> Based on this experiment, what is a reliable number for the confetti contained in the bag?
 
 **Answer:** 1750
 [[Quesiti/src_kangourou_2021_benjamin_finale#q04|src_kangourou_2021_benjamin_finale__Q04]]
@@ -205,7 +207,7 @@ level: kangourou
 
 *Minimum to be removed from 2..2021 without residual products*
 
-> Consider the set of integers from 2 to 2021 inclusive. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. How many do you want to take away?
+> Consider the set of integers from 2 to 2021 inclusive. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. How many do you need to take away, at minimum?
 
 **Answer:** 43
 [[Quesiti/src_kangourou_2021_benjamin_finale#q06|src_kangourou_2021_benjamin_finale__Q06]]

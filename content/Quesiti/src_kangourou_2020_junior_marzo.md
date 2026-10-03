@@ -75,7 +75,7 @@ The mother of the daughter of the mother of the mother
 
 *certain assertion*
 
-> Five different boxes of candy were emptied into one basket. Now, in this basket, there are 102 candy bars. Which of the following is certainly true? A) There were at least 20 candies in each box. B) At least one of the boxes contained more than 21 candies. C) At least one of the boxes contained less than 21 candies. D) There were more than 21 candies in each box. E) One of the boxes contained exactly 21 candies.
+> Five different boxes of candy were emptied into one basket. Now, in this basket, there are 102 candies. Which of the following is certainly true? A) There were at least 20 candies in each box. B) At least one of the boxes contained more than 21 candies. C) At least one of the boxes contained less than 21 candies. D) There were more than 21 candies in each box. E) One of the boxes contained exactly 21 candies.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_junior_marzo#q02|src_kangourou_2020_junior_marzo__Q02]]
@@ -108,7 +108,7 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less than 4 consecutive integers with sum of 2*
+*Least of 4 consecutive integers with sum 2*
 
 > The sum of four consecutive integers is 2. What's the least of these numbers? A) – 3 B) – 2
 > 	
@@ -214,7 +214,7 @@ The mother of the daughter of the mother of the mother
 
 *Cifters in two additions of two-digit numbers*
 
-> The figure outlines two additions in which the additions are two-digit positive integers. Each letter denotes a number and different letters denote different numbers. What is the result of the right addition? A) 79
+> The figure outlines two additions in which the addends are two-digit positive integers. Each letter denotes a digit and different letters denote different digits. What is the result of the right addition? A) 79
 > 	
 > B) 158 C) 869 D) 1418 E) 7979 A B + C D 7 9 A D + C D + A B + C B ? = =
 >
@@ -284,7 +284,7 @@ The mother of the daughter of the mother of the mother
 \end{document}
 ```
 
-> In the grid in the figure, formed by squaring all sides of 1, four points are highlighted in bold. Between triangles that have three of these four points as their vertices, what is the minimum area triangle that has area? A) 1/2 B) 1
+> In the grid in the figure, formed by adjoining squares all of side 1, four points are highlighted in bold. Among the triangles that have three of these four points as vertices, what is the area of the triangle with minimum area? A) 1/2 B) 1
 > 	
 > C) 3/2 D) 2
 > 	
@@ -326,7 +326,7 @@ The mother of the daughter of the mother of the mother
 
 *Triangles before cutting 3 squares diagonally*
 
-> Mary had 10 pieces of paper: some were squares, the remaining triangles. He cut three squares, each along one of the diagonals. Now if you count the vertices of the pieces of paper you find, you get 42. How many triangles did you have before you cut the three squares? A) 8
+> Mary had 10 pieces of paper: some were squares, the remaining triangles. She cut three squares, each along one of the diagonals. Now if she counts the vertices of the pieces of paper she has, she gets 42. How many triangles did she have before cutting the three squares? A) 8
 >  	
 > B) 7
 >  	
@@ -376,7 +376,7 @@ The mother of the daughter of the mother of the mother
 
 ![[src_kangourou_2020_junior_marzo__prob8.png]]
 
-> By sewing a single wooden stick, Martino obtained six and arranged them as shown in the fat segments in the figure. The vertices of the quadrilateral formed by the four shortest rods are each the middle point of one of the sides of the quadrilateral which has as vertices the ends of the two longest rods; these measure one 120 cm and the other 80 cm. What was the length, in centimeters, of the wand that Martino cut? A) 300 B) 370 C) 400 D) 410 E) 450
+> By sawing a single wooden stick, Martino obtained six and arranged them as shown in the bold segments in the figure. The vertices of the quadrilateral formed by the four shortest rods are each the middle point of one of the sides of the quadrilateral which has as vertices the ends of the two longest rods; these measure one 120 cm and the other 80 cm. What was the length, in centimeters, of the stick that Martino cut? A) 300 B) 370 C) 400 D) 410 E) 450
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_junior_marzo#q08|src_kangourou_2020_junior_marzo__Q08]]
@@ -461,7 +461,7 @@ Distance on the broken sign between three cities
 
 ![[src_kangourou_2020_junior_marzo__prob10.png]]
 
-> In each of the nine cells in the figure a number must be inserted so that 40 is the sum of the numbers inserted in the 8 cells arranged on the circumference and 13 is the sum of the numbers inserted in each trunk of aligned cells (a cell is always the central one). What number should be entered in the central cell? A) 3
+> In each of the nine cells in the figure a number must be inserted so that 40 is the sum of the numbers inserted in the 8 cells arranged on the circumference and 13 is the sum of the numbers inserted in each triple of aligned cells (a cell is always the central one). What number should be entered in the central cell? A) 3
 > 	
 > B) 5
 > 	
@@ -508,7 +508,7 @@ Distance on the broken sign between three cities
 
 *Effective day to start the 18-day visit*
 
-> Elena has to spend 18 consecutive days with her grandmother. She knows that Grandma has a habit of making cookies that she likes every Tuesday, Saturday and Sunday. On what day of the week should you start your visit with your grandmother? A) Monday B) Tuesday C) Friday D) Saturday E) Sunday Atown 3 km Betown 1 km Atown 6 km Betown 2 km ?
+> Elena has to spend 18 consecutive days with her grandmother. She knows that Grandma has a habit of making cookies that she likes every Tuesday, Saturday and Sunday. On what day of the week should she start her visit to her grandmother? A) Monday B) Tuesday C) Friday D) Saturday E) Sunday Atown 3 km Betown 1 km Atown 6 km Betown 2 km ?
 >
 
 **Answer:** D
@@ -586,9 +586,9 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 2010 and 2099 divided by square*
+*Numbers between 2010 and 2099 whose split gives a square*
 
-> If the symbol of multiplication is inserted between the second and third digits of the 2020 number, it graphically obtains 20 × 20: the result of the product thus indicated is a perfect square. For how many numbers between 2010 and 2099 does the same thing happen? A) 1
+> If the symbol of multiplication is inserted between the second and third digits of the number 2020, it graphically obtains 20 × 20: the result of the product thus indicated is a perfect square. For how many numbers between 2010 and 2099 does the same thing happen? A) 1
 > 	
 > B) 2
 > 	
@@ -633,11 +633,11 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the common vertex of 6 equilateral triangles*
+*Distance of the common vertex of 6 equal-area triangles*
 
 ![[src_kangourou_2020_junior_marzo__prob14.png]]
 
-> The figure shows a square of 81 m2, divided into six triangles all of the same area that have one of the peaks in common. How many meters is this summit from the bottom of the square? A) 3
+> The figure shows a square of area 81 m2, divided into six triangles all of the same area that have one of the vertices in common. How many meters is this vertex from the bottom side of the square? A) 3
 > 	
 > B) 5
 > 	
@@ -728,16 +728,24 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tyres at departure after transhipment*
+*Number of dinghies at the start after transfers*
 
-> Some tires go down a river, all carrying the same number of people. At a point A of the river one of the tyres is no longer usable: the people who were on it are distributed over the remaining tyres and thus each of the remaining tyres is found with one more person than the start. Shortly thereafter, three more tyres are no longer usable: the people on them are distributed to the remaining tyres and each of the remaining tyres is thus found with five more people than were present after the transhipment in point A. How many tires were left? A) 7
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 12
-> 	
+> Some dinghies go down a river, all carrying the same number of people. 
+> At a point A of the river one of the dinghies is no longer usable: the people who were 
+> on it are distributed among the remaining dinghies and in this way each of the 
+> remaining dinghies finds itself with one more person than at the start. Shortly after, 
+> another three dinghies are no longer usable: the people who were on them are 
+> distributed among the remaining dinghies and in this way each of the remaining dinghies 
+> finds itself with five more people than there were after the transfer 
+> carried out at point A. How many dinghies were there at the start?
+> A) 7	
+	
+> B) 9	
+	
+> C) 10	
+	
+> D) 12	
+	
 > E) 15
 
 **Answer:** C
@@ -787,21 +795,32 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the inclination of the fourth rectangular figure*
+*Overall size measurement of the fourth figure of rectangles*
 
 ![[src_kangourou_2020_junior_marzo__prob17.png]]
 
-> The four figures you see on the right can be formed by approaching the two different rectangles you see below. For the first three, one of the size measurements in centimetres is given. How many centimetres is the measurement of the fourth angle, indicated by the point of application? A) 50
+> The four figures you see on the right can be 
+> formed by placing side by side the two different rectangles that 
+> you see below. For the first three, one of the overall size measurements in centimetres is given. 
+> How many centimetres is the overall size measurement 
+> of the fourth, indicated with 
+> the question mark? 
+> A) 50	
 > 	
-> B) 52
+> B) 52	
 > 	
-> C) 54
+> C) 54	
 >     
-> D) 72
+> D) 72	
 > 	
-> E) 58 40 cm 32 cm 18 cm ? cm
+> E) 58
+> 40 cm
+> 32 cm
+> 18 cm
+> ? cm
 > 
-> 70° ?
+> 70°
+> ?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_junior_marzo#q17|src_kangourou_2020_junior_marzo__Q17]]
@@ -845,7 +864,7 @@ Distance on the broken sign between three cities
 
 ![[src_kangourou_2020_junior_marzo__prob18.png]]
 
-> The figure shows an equilateral triangle containing two squares: one side of one of the two and a vertex of the other are contained on two sides of the triangle, and the degree of one of the angles that have been formed is indicated. What is the degree measurement of the angle indicated by the point of application? A) 25
+> The figure shows an equilateral triangle containing two squares: one side of one of the two and a vertex of the other are contained on two sides of the triangle, and the degree of one of the angles that have been formed is indicated. What is the degree measurement of the angle indicated by the question mark? A) 25
 > 	
 > B) 30
 > 	
@@ -894,7 +913,7 @@ Distance on the broken sign between three cities
 
 *Distributor to which Luca must stop once*
 
-> Luke's car uses 1 liter of gasoline to travel 10 km and has a tank that can hold 40 of them. Luca started a 500-mile journey with 14 liters of gasoline in the tank. After traveling 55 km, he encounters a sign indicating the distances in kilometres, starting from the sign, of the five following gasoline distributors: 35, 45, 55, 75 and 95. Luca wants to stop just once to get gasoline. How many miles away is the dealer from which he will have to stop? A) 35
+> Luke's car uses 1 liter of gasoline to travel 10 km and has a tank that can hold 40 of them. Luca started a 520 km journey with 14 liters of gasoline in the tank. After traveling 55 km, he encounters a sign indicating the distances in kilometres, starting from the sign, of the five following gasoline distributors: 35, 45, 55, 75 and 95. Luca wants to stop just once to get gasoline. How many kilometres away is the distributor at which he will have to stop? A) 35
 > 	
 > B) 45
 > 	
@@ -938,11 +957,11 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that a 9-digit number is divisible by 18*
+Probability that a 9-digit number is divisible by 18
 
 > If you randomly order the digits from 1 to 9 (each taken once) to form a nine-digit integer, what is the probability that the resulting number is divisible by 18? A) 1/2 B) 4/9
 > 	
-> (C) 5/9 D) 1/3 E) 3/4 Questions from N. 21 al N. 30 is worth 5 points each.
+> C) 5/9 D) 1/3 E) 3/4 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2020_junior_marzo#q20|src_kangourou_2020_junior_marzo__Q20]]
@@ -983,7 +1002,7 @@ The probability that a 9-digit number is divisible by 18*
 > 	
 > B) Certainly 70. C) Certainly 74.
 > 	
-> D) Certainly 78 . E) The data on the problem are insufficient to establish it.
+> D) Certainly 78 . E) The data in the problem are insufficient to determine it.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2020_junior_marzo#q21|src_kangourou_2020_junior_marzo__Q21]]
@@ -1095,7 +1114,7 @@ The probability that a 9-digit number is divisible by 18*
 
 ![[src_kangourou_2020_junior_marzo__prob24.png]]
 
-> 24. Two identical rectangles measuring 3 cm × 9 cm are partially overlapping as shown in the figure. How many square centimetres is the area of the region on which they lie? A) 12 B) 13,5 C) 14 D) 15 E) 16
+> 24. Two identical rectangles measuring 3 cm × 9 cm are partially overlapping as shown in the figure. How many square centimetres is the area of the region where they overlap? A) 12 B) 13,5 C) 14 D) 15 E) 16
 
 **Answer:** D
 [[Quesiti/src_kangourou_2020_junior_marzo#q24|src_kangourou_2020_junior_marzo__Q24]]
@@ -1128,7 +1147,7 @@ The probability that a 9-digit number is divisible by 18*
 
 ![[src_kangourou_2020_junior_marzo__prob25.png]]
 
-> 25. The five vertices of a square base pyramid were randomly numbered from 1 to 5. For each triangle, the sum of the numbers assigned to its JUNIOR three vertices was calculated: for four of the faces the sums are 7, 8, 9 and 10. What's the sum for the fifth face? A) 11 B) 12 C) 13 D) 14 E) 15
+> 25. The five vertices of a square base pyramid were randomly numbered from 1 to 5. For each (triangular) face, the sum of the numbers assigned to its JUNIOR three vertices was calculated: for four of the faces the sums are 7, 8, 9 and 10. What's the sum for the fifth face? A) 11 B) 12 C) 13 D) 14 E) 15
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_junior_marzo#q25|src_kangourou_2020_junior_marzo__Q25]]
@@ -1155,9 +1174,9 @@ The probability that a 9-digit number is divisible by 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubets with exactly one painted face*
+*Small cubes with exactly one painted face*
 
-> 26. A large cube is obtained by assembling 64 identical cubes. Three of the faces of the large cube are painted. For how many of the cubes, at most, can one face be painted? A) 27 B) 28 C) 32 D) 34 E) 40 1 6 3
+> 26. A large cube is obtained by assembling 64 identical cubes. Three of the faces of the large cube are painted. For how many of the small cubes, at most, can exactly one face be painted? A) 27 B) 28 C) 32 D) 34 E) 40 1 6 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_junior_marzo#q26|src_kangourou_2020_junior_marzo__Q26]]
@@ -1225,7 +1244,7 @@ The probability that a 9-digit number is divisible by 18*
 \end{document}
 ```
 
-> 27. In each of the cells of the square grid in the figure a number must be inserted so that, when the rows and the 2 2 8 columns vary, the sum of the numbers that appear in the grid is always the same. Some numbers have already been entered. What number should you put in the gray cell? 7 A) 5 B) 6 C) 7 D) 8 E) 9
+> 27. In each of the cells of the square grid in the figure a number must be inserted so that, the sum of the numbers appearing in each row and each column is always the same. Some numbers have already been entered. What number should you put in the gray cell? 7 A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_junior_marzo#q27|src_kangourou_2020_junior_marzo__Q27]]
@@ -1252,9 +1271,9 @@ The probability that a 9-digit number is divisible by 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Whoever lost the second day on the iron arm
+*Who lost on the second day at arm wrestling*
 
-> 28. Aldo, Bruno and Carlo are challenging each other for several days in a row. Each day two of them meet while the third rests, waiting to face the winner the next day. The challenge lasts for several days and, at its end, it turns out that Aldo played 10 times, Bruno 15 and Carlo 17. Who lost the second day? A) Certainly Aldo. B) Certainly Bruno. C) Certainly Charles. D) They may have lost both Aldo and Bruno. E) They could have lost both Bruno and Carlo. This is a list of the countries of the European Union.
+> 28. Aldo, Bruno and Carlo challenge each other for several days in a row at arm wrestling. Each day two of them meet while the third rests, waiting to face the winner on the following day. The challenge lasts several days and, at its end, it turns out that Aldo played 10 times, Bruno 15 and Carlo 17. Who lost on the second day? A) Certainly Aldo. B) Certainly Bruno. C) Certainly Carlo. D) Either Aldo or Bruno could have lost. E) Either Bruno or Carlo could have lost. Kangourou 2020
 
 **Answer:** A
 [[Quesiti/src_kangourou_2020_junior_marzo#q28|src_kangourou_2020_junior_marzo__Q28]]
@@ -1286,7 +1305,7 @@ Whoever lost the second day on the iron arm
 
 ![[src_kangourou_2020_junior_marzo__prob29.png]]
 
-> 29. Look at the figure. A zigzag line starts at the end A of a semicircle diameter and ends at the end B after exactly four peaks on the semicircle. The four triangles that the line forms with the diameter are all isosceles. If, unlike B A as shown in the figure, all their angles at the base were the same size, how much would that size be in degrees? A) 60 B) 72 C) 75 D) 80 E) None of the above is the correct value.
+> 29. Look at the figure. A zigzag line starts at the end A of a semicircle diameter and ends at the end B after exactly four peaks on the semicircle. The four triangles that the line forms with the diameter are all isosceles. If, unlike what happens in the figure, all their angles at the base were the same size, how much would that size be in degrees? A) 60 B) 72 C) 75 D) 80 E) None of the above is the correct value.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2020_junior_marzo#q29|src_kangourou_2020_junior_marzo__Q29]]
@@ -1313,7 +1332,7 @@ Whoever lost the second day on the iron arm
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits less than 8 integers divisible by last digit*
+*sum of digits of the smallest of 8 integers divisible by last digit*
 
 > 30. Eight consecutive three-digit positive integers are such that each of them is divisible by its last digit. How much is the sum of the digits of the smallest of these eight integers? JUNIOR A) 10 B) 11 C) 12 D) 13 E) 14
 

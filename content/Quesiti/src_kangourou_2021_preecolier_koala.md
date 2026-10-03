@@ -35,7 +35,7 @@ level: kangourou
 
 ![[src_kangourou_2021_preecolier_koala__prob1.png]]
 
-> John rested on a table three equal black sticks. Without breaking them or bending them, he made one of the figures you see. What kind? (see figure)
+> John rested on a table three equal black sticks. Without breaking them or bending them, he made one of the figures you see. Which one? (see figure)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_preecolier_koala#q01|src_kangourou_2021_preecolier_koala__Q01]]
@@ -111,7 +111,7 @@ The longest of the five paths shown
 
 ![[src_kangourou_2021_preecolier_koala__prob3.png]]
 
-> Which is the longest of the five routes shown in Figure 5? (see figure)
+> Which is the longest of the five routes shown in the 5 figures? (see figure)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_preecolier_koala#q03|src_kangourou_2021_preecolier_koala__Q03]]
@@ -143,7 +143,7 @@ The longest of the five paths shown
 
 ![[src_kangourou_2021_preecolier_koala__prob4.png]]
 
-> Four squares of identical paper are positioned as shown. Michele wants to practice a hole that crosses all four squares, but he can only do so at one of the five points indicated. In which of them should Michael practice the drill? (see figure)
+> Four squares of identical paper are positioned as shown. Michele wants to practice a hole that crosses all four squares, but he can only do so at one of the five points indicated. In which of them should Michele practice the drill? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_preecolier_koala#q04|src_kangourou_2021_preecolier_koala__Q04]]
@@ -175,7 +175,7 @@ The longest of the five paths shown
 
 ![[src_kangourou_2021_preecolier_koala__prob5.png]]
 
-> Isabella wears this shirt and stands in front of a mirror. Which of these images do you see in the mirror? (see figure)
+> Isabella wears this shirt and stands in front of a mirror. Which of these images does she see in the mirror? (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_preecolier_koala#q05|src_kangourou_2021_preecolier_koala__Q05]]
@@ -253,7 +253,7 @@ The tallest of the five colorful towers.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* holding their right hand *
+*how many hold hands with their right hand*
 
 ![[src_kangourou_2021_preecolier_koala__prob7.png]]
 
@@ -291,7 +291,7 @@ The tallest of the five colorful towers.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Kangourou constellation with 20 stars in total
+Kangourou constellation with stars summing to 20
 
 ![[src_kangourou_2021_preecolier_koala__prob8.png]]
 
@@ -333,7 +333,7 @@ Kangourou constellation with 20 stars in total
 
 ![[src_kangourou_2021_preecolier_koala__prob9.png]]
 
-> Edward cut a tape as shown in the figure. How many pieces of tape did you get?
+> Edward cut a tape as shown in the figure. How many pieces of tape did he get?
 >
 > - **(A)** 9
 > - **(B)** 10
@@ -377,7 +377,7 @@ Kangourou constellation with 20 stars in total
 
 ![[src_kangourou_2021_preecolier_koala__prob10.png]]
 
-> Ronron's cat is walking on a wall. Start from point B and follow the direction of the arrows shown in the image. What point do you reach after walking exactly 20 meters?
+> Ronron's cat is walking on a wall. He starts from point B and follows the direction of the arrows shown in the image. At what point does he arrive after walking exactly 20 meters?
 >
 > - **(A)** In A
 > - **(B)** In B
@@ -461,16 +461,16 @@ Minimum number of flowers purchased to match the vessels
 <div class="qlang-split" data-lang="en"></div>
 
 
-Hiding word from code 3B 1D 4D 2B
+*Word hidden by the code 3B 1D 4D 2B*
 
 ![[src_kangourou_2021_preecolier_koala__prob12.png]]
 
-> Using the table in the figure, Tom can encode some words. For example, the word PIZZA has the code 2A 4A 1C 1C 2B. What word hides the code 3B 1D 4D 2B?
+> Using the table in the figure, Tom can encode some words. For example, the word PIZZA has the code «2A 4A 1C 1C 2B». Which word does the code «3B 1D 4D 2B» hide?
 >
 > - **(A)** MARE
-> - **(B)** Months
-> - **(C)** It is bad.
-> - **(D)** I'm not sure.
+> - **(B)** MESI
+> - **(C)** MALE
+> - **(D)** MIRA
 > - **(E)** MELA (see figure)
 
 **Answer:** E
@@ -503,7 +503,7 @@ Hiding word from code 3B 1D 4D 2B
 
 ![[src_kangourou_2021_preecolier_koala__prob13.png]]
 
-> Which of the five figures can you get by approaching these two shapes? (see figure)
+> Which of the five figures can you get by joining these two shapes? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_preecolier_koala#q13|src_kangourou_2021_preecolier_koala__Q13]]
@@ -537,7 +537,7 @@ Hiding word from code 3B 1D 4D 2B
 
 How many points less than Angela has Chiara totalled
 
-> Kangball is played like football, but each net is worth 2 points. In one game, Clara scored five goals and Angela nine. How many points less than Angela has Chiara totalled?
+> Kangball is played like football, but each goal is worth 2 points. In one game, Chiara scored 5 goals and Angela nine. How many points less than Angela has Chiara totalled?
 >
 > - **(A)** 4
 > - **(B)** 6
@@ -571,11 +571,11 @@ How many points less than Angela has Chiara totalled
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which one and Eva's house on the map
+Which is Eva's house on the map
 
 ![[src_kangourou_2021_preecolier_koala__prob15.png]]
 
-> The picture shows the five homes of five friends and their school. The school is the biggest building in the photo. To go to school, Doris and Ali pass by Leo's house. Eva is passing by Chloe's house. What's Eva's house? (see figure)
+> The picture shows the five homes of five friends and their school. The school is the biggest building in the photo. To go to school, Doris and Ali pass by Leo's house. Eva passes in front of Chloe's house. What's Eva's house? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_preecolier_koala#q15|src_kangourou_2021_preecolier_koala__Q15]]
@@ -647,7 +647,7 @@ Which one and Eva's house on the map
 
 ![[src_kangourou_2021_preecolier_koala__prob17.png]]
 
-> Mara built the figure side by side using four of the following five shapes. What form did Mara not use? (see figure)
+> Mara built the figure shown alongside using four of the following five shapes. Which shape did Mara not use? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_preecolier_koala#q17|src_kangourou_2021_preecolier_koala__Q17]]
@@ -675,11 +675,11 @@ Which one and Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fruits left after the magnet has been transformed*
+*Fruits left after the little witch's transformations*
 
 ![[src_kangourou_2021_preecolier_koala__prob18.png]]
 
-> A maggot enjoys turning fruit. Every time he has three apples, he turns them into one banana. Every time he has three bananas, he turns them into an apple. If you start with 4 apples and 5 bananas, what will you have left when you can no longer transform? (see figure)
+> A little witch has fun transforming fruits. Every time she has 3 apples she transforms them into 1 banana. Every time she has 3 bananas she transforms them into 1 apple. If she starts with 4 apples and 5 bananas, what will she have left when she reaches the point where she can no longer make transformations? (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_preecolier_koala#q18|src_kangourou_2021_preecolier_koala__Q18]]
@@ -717,12 +717,12 @@ Which one and Eva's house on the map
 
 ![[src_kangourou_2021_preecolier_koala__prob19.png]]
 
-> We put the five numbered cards you see below in the two boxes. The sum of the card numbers in the first box is equal to the card numbers in the second. What's the number of a card that's in the same box as the card 4?
+> We put the five numbered cards you see below in the two boxes. The sum of the card numbers in the first box is equal to the sum of the card numbers in the second. What's the number of a card that's in the same box as the card 4?
 >
-> - **(A)** Just the third .
-> - **(B)** Just the 5th.
-> - **(C)** Just the sixth.
-> - **(D)** Just the 5th or the 6th.
+> - **(A)** Just the 3.
+> - **(B)** Just the 5.
+> - **(C)** Just the 6.
+> - **(D)** Just the 5 or the 6.
 > - **(E)** It is impossible to determine (see figure)
 
 **Answer:** C
@@ -871,9 +871,9 @@ Which one and Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cuts of fruit eaten by Kangie in two weeks*
+*Pieces of fruit eaten by Kangie in two weeks*
 
-> On Mondays, Wednesdays and Fridays, Kangaroo Kangie eats only apples. On Tuesdays and Thursdays, he only eats mangoes. Eat two apples or three meals a day. He doesn't eat fruit on Saturday and Sunday. How many pieces of fruit does Kangie eat in two weeks?
+> On Mondays, Wednesdays and Fridays, Kangaroo Kangie eats only apples. On Tuesdays and Thursdays, he only eats mangoes. He eats either 2 apples or 3 mangoes a day. He doesn't eat fruit on Saturday and Sunday. How many pieces of fruit does Kangie eat in two weeks?
 >
 > - **(A)** 16
 > - **(B)** 18
@@ -917,7 +917,7 @@ It's a shelf that the puzzle can't fit on.
 
 ![[src_kangourou_2021_preecolier_koala__prob24.png]]
 
-> Saverio has five toys: a ball, a teddy bear, a train, a puzzle, and an automobile. He put them, one for each shelf, in a shelf with five shelves. The ball is higher than the teddy bear and lower than the car. The train is on the shelf just above the ball. Which shelf did you definitely not place the puzzle on?
+> Saverio has five toys: a ball, a teddy bear, a train, a puzzle, and a car. He put them, one for each shelf, in a shelf with five shelves. The ball is higher than the teddy bear and lower than the car. The train is on the shelf just above the ball. On which shelf did he definitely not place the puzzle?
 >
 > - **(A)** 1
 > - **(B)** 2

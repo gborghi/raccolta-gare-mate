@@ -61,9 +61,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of 2022 figures by number of 1011 units*
+*Sum of digits of 2022 times the number made of 1011 ones*
 
-> 1011 times the figure 1 The number 2022 is multiplied by the number consisting of 1011 times the figure 1. What is the sum of the figures in the result?
+> 1011 times the digit 1 
+> The number 2022 is multiplied by the number consisting of 1011 times the digit 1. What is the sum 
+> of the digits of the result?
 
 **Answer:** 6066
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q02|src_kangourou_2022_ecolier_squadre__Q02]]
@@ -95,7 +97,7 @@ level: squadre
 
 Time of three brothers, Bruno how many minutes
 
-> Three brothers, Antonio, Bruno, and Carlo, left home together to visit their grandmother. Carlo walked there and spent twice as much time as Bruno, who ran; Bruno spent twice as much time as Antonio, who rode his bicycle. Antonio arrived an hour ahead of Charles. How many minutes did it take Bruno to be at his grandmother's?
+> Three brothers, Antonio, Bruno, and Carlo, left home together to visit their grandmother. Carlo walked there and spent twice as much time as Bruno, who ran; Bruno spent twice as much time as Antonio, who rode his bicycle. Antonio arrived an hour ahead of Carlo. How many minutes did it take Bruno to be at his grandmother's?
 
 **Answer:** 0040
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q03|src_kangourou_2022_ecolier_squadre__Q03]]
@@ -127,9 +129,9 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 4 digits moving the first digit in the queue*
+*Number 4 digits moving the first digit to the end*
 
-> The first digit goes into the queue Simona writes an integer number of four digits, then lifts her first digit and moves it in the queue to the number (for example, if the number written was 1023 it would get 0231). Now Simona sums up the two numbers so obtained and realizes that the number she had written at the beginning is the largest that allows her to have as sum of the two still a four-digit number. What number did you write at the beginning?
+> The first digit goes to the end Simona writes an integer number of four digits, then removes its first digit and moves it to the end of the number (for example, if the number written was 1023 it would get 0231). Now Simona sums up the two numbers so obtained and realizes that the number she had written at the beginning is the largest that allows her to have as sum of the two still a four-digit number. What number had she written at the beginning?
 
 **Answer:** 9090
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q04|src_kangourou_2022_ecolier_squadre__Q04]]
@@ -160,7 +162,7 @@ Time of three brothers, Bruno how many minutes
 
 *sum of three-digit numbers with numerical conditions*
 
-> The numbers of Sandro Sandro wrote all the three-digit numbers such that the number of tens is twice that of the units and the sum of the three digits is divisible by 6. What is the sum of all the numbers Sandro wrote?
+> Sandro wrote all the three-digit numbers such that the number of tens is twice that of the units and the sum of the three digits is divisible by 6. What is the sum of all the numbers Sandro wrote?
 
 **Answer:** 4494
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q05|src_kangourou_2022_ecolier_squadre__Q05]]
@@ -191,7 +193,7 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many equivalent verniciable squares*
+*How many equivalent varnishable squares*
 
 ![[src_kangourou_2022_ecolier_squadre__prob6.png]]
 
@@ -230,9 +232,9 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time interval with the same figures >9*
+*Minimum time interval with the same digits >9*
 
-> A digital clock displays the time in an AB:CD format, from 00:00 to 23:59. If 10:01 is just struck, wait 9 minutes before the time shown is composed of the same digits, in a different order, and 9 minutes is absolutely the minimum time interval possible for this to happen (e.g. between 10:05 and the next first hour composed of the same digits, i.e. 10:50, the interval is 45 minutes, between 00:10 and 01:00 is 50 minutes). How many minutes is the smallest possible time interval ever greater than 9?
+> A digital clock displays the time in an AB:CD format, from 00:00 to 23:59. If 10:01 is just struck, wait 9 minutes before the time shown is composed of the same digits, in a different order, and 9 minutes is absolutely the minimum time interval possible for this to happen (e.g. between 10:05 and the next time composed of the same digits, i.e. 10:50, the interval is 45 minutes, between 00:10 and 01:00 is 50 minutes). How many minutes is the smallest possible time interval ever greater than 9?
 > 
 > 2
 
@@ -301,7 +303,7 @@ Time of three brothers, Bruno how many minutes
 \end{document}
 ```
 
-> In the figure you see 10 dots arranged like this: 1 in the first row, 2 in the second, 3 in the third and 4 in the fourth. Only one dot is inside, the other nine are on the edge. By increasing the lines in the figure and following the same criterion (each line next one more dot), when the dots inside will be 36, how many dots will be in total?
+> In the figure you see 10 dots arranged like this: 1 in the first row, 2 in the second, 3 in the third and 4 in the fourth. Only one dot is inside, the other nine are on the edge. By increasing the rows in the figure and following the same criterion (each next row one more dot), when the dots inside will be 36, how many dots will be in total?
 
 **Answer:** 0066
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q08|src_kangourou_2022_ecolier_squadre__Q08]]
@@ -330,9 +332,9 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different number on mirror and wall*
+*Difference in number on mirror and wall*
 
-> The mirror On a wall the number appears and in front of the wall there is a mirror. By reading the number visible in the mirror and calculating the difference with the number visible on the wall, what is the result?
+> The mirror On a wall the number  appears and in front of the wall there is a mirror. By reading the number visible in the mirror and calculating the difference with the number visible on the wall, what is the result?
 
 **Answer:** 3483
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q09|src_kangourou_2022_ecolier_squadre__Q09]]
@@ -361,9 +363,9 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cifres traded in dividends, minimum number *
+*Digits swapped in the dividend, minimum number*
 
-> The 5-digit quotient The quotient of division of 952,164 by 18 is a 5-digit Q number. You just have to swap two digits of the dividend so that the quotient in division by 18 decreases by 1,500. What is the smallest four-digit number that you can write using both the digits that have been exchanged and only them?
+> The 5-digit quotient The quotient of division of 952,164 by 18 is a 5-digit Q number. You just have to swap two digits of the dividend so that the quotient in division by 18 decreases by 1,500. What is the smallest four-digit number that you can write using both the digits that have been swapped and only them?
 
 **Answer:** 2225
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q10|src_kangourou_2022_ecolier_squadre__Q10]]
@@ -397,9 +399,9 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptographic subtraction, sum of letters *
+*Cryptarithmetic subtraction, sum of digits of letters *
 
-> The subtraction In this subtraction, different letters represent different numbers:
+> The subtraction In this subtraction, different letters represent different digits:
 >  
 > 7 Q 2 S T – P 3 R 9 6 = 2 2  2 2 2
 >  
@@ -434,7 +436,7 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignments of 1.9. with order constraints*
+*Alignments of 1..9 with order constraints*
 
 > The alignments We want to align all the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 so that they don't all appear in this order, but that anyway 1 precedes 2, 2 precedes 3, 3 precedes 4, 4 precedes 5, 5 precedes 6 and 6 precedes 7. How many ways can we do this? Attention: 1 must be before 2 but there could be other numbers between the two; the same for 2 and 3 and so on.
 
@@ -465,9 +467,12 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-€1 million after transferring to Cristina
+*Antonio's euros after transfers to Cristina*
 
-> At the moment Antonio and Cristina have the same number of euros, Biagio has 2,022. If Antonio and Biagio each gave Cristina half their euro, Cristina would triple the number of euros she has now. How many euros does Antonio have right now?
+> Antonio, Biagio and Cristina 
+> Right now Antonio and Cristina have the same number of euros, Biagio has 2,022. If Antonio 
+> and Biagio each gave Cristina half of their own euros, Cristina would triple the number of euros 
+> she has right now. How many euros does Antonio have right now?
 
 **Answer:** 0674
 [[Quesiti/src_kangourou_2022_ecolier_squadre#q13|src_kangourou_2022_ecolier_squadre__Q13]]
@@ -537,7 +542,7 @@ Time of three brothers, Bruno how many minutes
 
 *Mode of writing 40 as two odd and an even*
 
-> The sums that give 40 How many different ways can the number 40 be written as the sum of two odd integers and one even? (Note: the number 0 should not be considered as adding and two sums in which the additions are the same but in different order, should be considered as a single way.)
+> The sums that give 40 How many different ways can the number 40 be written as the sum of two odd integers and one even? (Note: the number 0 should not be considered as an addend and two sums in which the addends are the same but in different order, should be considered as a single way.)
 >  
 > 
 > 3

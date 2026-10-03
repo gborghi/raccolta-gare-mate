@@ -35,11 +35,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late of the rim given envelope with sides 12 and 16*
+*Side of the rhombus given an envelope with sides 12 and 16*
 
 ![[src_kangourou_2015_squadre_a__prob1.png]]
 
-> The envelope The figure shows how, by folding a sheet of paper in the shape of a roll, an envelope can be obtained. If the sides of the envelope thus obtained are 12 and 16 cm long, how many centimeters is the length of the rim side?
+> The envelope   
+>         The figure shows how, by suitably folding 
+> a sheet of paper in the shape of a rhombus, one can obtain an envelope. If the 
+> sides of the envelope thus obtained are 12 and 16 cm long, how many 
+> centimetres long is the side of the rhombus?
 
 **Answer:** 20
 [[Quesiti/src_kangourou_2015_squadre_a#q01|src_kangourou_2015_squadre_a__Q01]]
@@ -70,7 +74,7 @@ level: squadre
 
 *Multiple of 9 with four distinct odd digits*
 
-> Four odd numbers What are the multiples (positive integers) of 9 whose writing consists of four odd numbers all different from each other?
+> Four odd digits How many multiples (positive integers) of 9 are there whose writing consists of four odd digits all different from each other?
 
 **Answer:** 24
 [[Quesiti/src_kangourou_2015_squadre_a#q02|src_kangourou_2015_squadre_a__Q02]]
@@ -100,7 +104,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum number of polygon angles of the sides 168/169*
+*Minimum and maximum number of sides of a polygon with angles 168/169*
 
 > The angles of the polygon For a polygon consider the following property (P): each of its internal angles measures 168 or 169 degrees. Write in the order the minimum and maximum number of sides for a polygon having the property (P). Write 0000 if there are no polygons with the property (P).
 
@@ -137,11 +141,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measuring angle ABC with beam and angle condition*
+*Measuring angle ABC with bisector and angle condition*
 
 ![[src_kangourou_2015_squadre_a__prob4.png]]
 
-> The triangle Observe the figure (which does not necessarily respect the data, it is only indicative). The triangles ABC and AXY are rectangles in C and Y respectively, the segments AX and BX have the same length, the segment AX bisects the BAC angle and the measure of the angle AXY is 7 times that of the angle XBC. What is the measure in degrees of the angle ABC?
+> The triangle Observe the figure (which does not necessarily respect the data, it is only indicative). The triangles ABC and AXY are right-angled at C and Y respectively, the segments AX and BX have the same length, the segment AX bisects the BAC angle and the measure of the angle AXY is 7 times that of the angle XBC. What is the measure in degrees of the angle ABC?
 
 **Answer:** 36
 [[Quesiti/src_kangourou_2015_squadre_a#q04|src_kangourou_2015_squadre_a__Q04]]
@@ -172,9 +176,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of composing two teams of 6 pairs of twins*
+*Ways of composing two teams from 6 pairs of twins*
 
-> Twins in a race A weird class is made up of six pairs of twins. The 12 students are to be split into two teams of six elements each, who will compete in a competition, so that no team has either a student or a twin among its members. How many different ways can the two teams be composed?
+> Twins in a race A weird class is made up of six pairs of twins. The 12 students are to be split into two teams of six elements each, who will compete in a competition, so that no team has among its members both a student and his twin. How many different ways can the two teams be composed?
 
 **Answer:** 32
 [[Quesiti/src_kangourou_2015_squadre_a#q05|src_kangourou_2015_squadre_a__Q05]]
@@ -204,9 +208,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late max square table in ring of radius 8*
+*Max side of square tablet in ring of radius 8*
 
-> Using his game-trapper, Joseph can manufacture square wooden tablets of any size (reasonable), provided the side measures an integer number of centimeters. One of these tablets must be inserted inside a circular metal ring with a radius of 8 cm. How many centimeters is the side of the largest tablet Joseph can make for the purpose?
+> Using his jigsaw, Joseph can manufacture square wooden tablets of any size (reasonable), provided the side measures an integer number of centimeters. One of these tablets must be inserted inside a circular metal ring with a radius of 8 cm. How many centimeters is the side of the largest tablet Joseph can make for the purpose?
 
 **Answer:** 11
 [[Quesiti/src_kangourou_2015_squadre_a#q06|src_kangourou_2015_squadre_a__Q06]]
@@ -242,9 +246,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M+m sum of the odd numbers (CDU+UDC) *
+*Sum M+m of the impartial numbers (CDU+UDC odd)*
 
-> ) unbiased numbers Let's say with the CDU the three-digit number where C is the number of hundreds, D is the number of tens and U is the number of units. Let's say CDU is "fair" if it happens that C > D > U > 0 and all the digits of the sum CDU + UDC are odd. They are M and m respectively the largest and smallest of the odd numbers. How much is M + m? A B C X Y
+> )impartial numbers 
+>        Let CDU denote the three-digit number in which C is the hundreds digit, D the 
+> tens digit and U the units digit. We say that CDU is "impartial" if it happens that C > D > U > 0 and all 
+> the digits of the sum CDU + UDC are odd. Let M and m be respectively the largest and the 
+> smallest of the impartial numbers. What is M + m? 
+> A
+> B
+> C
+> X
+> Y
 
 **Answer:** 1785
 [[Quesiti/src_kangourou_2015_squadre_a#q07|src_kangourou_2015_squadre_a__Q07]]
@@ -276,9 +289,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major angle between tangents with two circumferences*
+*Major angle between tangents to two circles*
 
-> Two circles The centers of two circles of radius 1 meter are 3 meters apart. Consider any of the points at which the circumferences meet and, for each of them, trace the line to it tangent at that point. How many degrees does the largest of the four corners formed by these two lines measure?
+> Two circles The centers of two circles of radius 1 meter are 3 meters apart. Consider any of the points at which the circles meet and, for each of them, trace the line to it tangent at that point. How many degrees does the largest of the four angles formed by these two lines measure?
 
 **Answer:** 120
 [[Quesiti/src_kangourou_2015_squadre_a#q08|src_kangourou_2015_squadre_a__Q08]]
@@ -306,9 +319,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mattresses left after forming a cube*
+*Small bricks left after forming a cube*
 
-> The Cecilia bricks have 100 identical bricks: each has the shape of a 3 cm long, 2 cm wide and 1 cm high parallel-piped. After he approached some of them and formed a cube, how many of them remained?
+> The small bricks 
+>        Cecilia has 100 identical small bricks: each has the shape of a rectangular parallelepiped 3 cm long, 2 
+> cm wide and 1 cm high. After, by placing some of them side by side, she formed a cube, how many has she got left?
 
 **Answer:** 64
 [[Quesiti/src_kangourou_2015_squadre_a#q09|src_kangourou_2015_squadre_a__Q09]]
@@ -340,9 +355,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum network meters for dividing grassland into three*
+*Minimum net meters for dividing a lawn into three*
 
-> Dogs, cats and chickens An area of 900 square metres is fenced. The owner wants to let you run some dogs, some cats, and some chickens, but he wants to keep animals of different species from coming into contact with each other. He then decides to divide it into three rectangular parcels all of the same area, each separated from the others by a net. It wants to minimize the length of the network to be used (which can be cut in the most appropriate way). How many yards of network will he buy?
+> Dogs, cats and chickens A square lawn of area 900 m2 is fenced. The owner wants to let some dogs run, some cats, and some chickens, but he wants to keep animals of different species from coming into contact with each other. He then decides to divide it into three rectangular parcels all of the same area, each separated from the others by a net. He wants to minimize the length of the net to be used (which can be cut in the most appropriate way). How many metres of net will he need to buy?
 
 **Answer:** 50
 [[Quesiti/src_kangourou_2015_squadre_a#q10|src_kangourou_2015_squadre_a__Q10]]
@@ -376,7 +391,7 @@ level: squadre
 
 *Meter of routes from Ernesto back and forth*
 
-> Forward and backward To train, one day Ernesto decides to do an experiment: starting from a certain point on a straight road, he starts to take a step forward, then he takes two steps forward and one step backward, then three steps forward and two steps backward, then four steps forward and three steps backward and so on. An Ernesto's step is always exactly one meter long. When he reaches a distance of 80 meters from where he had left off, he decides to stop. How many yards did Ernesto walk before he stopped?
+> Forward and backward To train, one day Ernesto decides to do an experiment: starting from a certain point on a straight road, he starts to take a step forward, then he takes two steps forward and one step backward, then three steps forward and two steps backward, then four steps forward and three steps backward and so on. An Ernesto's step is always exactly one meter long. When he reaches a distance of 80 meters from the point where he had started, he decides to stop. How many meters did Ernesto walk before he stopped?
 
 **Answer:** 1640
 [[Quesiti/src_kangourou_2015_squadre_a#q11|src_kangourou_2015_squadre_a__Q11]]
@@ -406,7 +421,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume max parallel piped with two faces 24 and 30*
+*Volume max parallelepiped with two faces 24 and 30*
 
 > The lengths of the sides of a rectangular parallelepiped are expressed by integer numbers of centimeters. The areas of two faces are 24 and 30 square centimeters. How many cubic centimeters can the volume of the parallelepiped be worth at most?
 
@@ -437,9 +452,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits in the square of 99...9 (99 noni) *
+*Sum of digits of the square of 99...9 (99 nines)*
 
-> A number and its square Consider the number 999...999 in which the writing appears only the number 9 repeated 99 times. How much is the sum of the digits squared of this number?
+> A number and its square   
+>         Consider the number 999...999 in whose writing only the digit 9 appears, repeated 99 times. 
+> What is the sum of the digits of the square of this number?
 
 **Answer:** 891
 [[Quesiti/src_kangourou_2015_squadre_a#q13|src_kangourou_2015_squadre_a__Q13]]
@@ -473,11 +490,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the anagon in an equilateral triangle side 15*
+*Perimeter of a nonagon in an equilateral triangle with side 15*
 
 ![[src_kangourou_2015_squadre_a__prob14.png]]
 
-> In the figure an anagon is shaded entirely in an equilateral triangle on side 15. Each side of the triangle is parallel to some side of the triangle. As indicated, three of its sides have dimensions 1, 2 and 3 (the figure is not in scale). What is the perimeter of the nest?
+> The nonagon
+>         In the figure, a nonagon entirely contained in
+> an equilateral triangle with side 15 is shaded. Each side of the nonagon is parallel to
+> some side of the triangle. As indicated, three of its sides have lengths
+> 1, 2 and 3 (the figure is not to scale). What is the perimeter
+> of the nonagon?
 
 **Answer:** 39
 [[Quesiti/src_kangourou_2015_squadre_a#q14|src_kangourou_2015_squadre_a__Q14]]
@@ -512,17 +534,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of the N^11 division for 2015, N=2 mod 2015*
+*Remainder of the division of N^11 by 2015, N=2 mod 2015*
 
-> The division for 2015 A number divided by 2015 gives the remainder 2. What's the rest of Division 11 for 2015?
+> The division by 2015 
+>        A number  divided by 2015 gives remainder 2. What is the remainder of the division of 11 by 2015? 
+> Kangourou of Mathematics 2015 
+> Kangourou team Cup   
+> Semifinal round A 
+> Cervia, 9 May 2015 
 >  
 >  
->  
-> 
-> Kangourou of Mathematics 2015 Kangourou Team Cup Semifinal round at Cervia, 9 May 2015
->  
->  
-> Questions and solutions
+>                                               Questions and solutions
 
 **Answer:** 33
 [[Quesiti/src_kangourou_2015_squadre_a#q15|src_kangourou_2015_squadre_a__Q15]]

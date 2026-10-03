@@ -36,11 +36,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which the shaded area and the target of the total* appear
+*In which figure is the shaded area half of the total*
 
 ![[src_kangourou_2015_marzo_benjamin__prob1.png]]
 
-> In which of the following figures is the area of the shaded part half the total area? A) B) C) D) E)
+> In which of the following figures is the area of the shaded part half of the total area?
+>          A)		
+>          B)		
+>          C)		
+>           D)	
+>         E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q01|src_kangourou_2015_marzo_benjamin__Q01]]
@@ -197,7 +202,7 @@ level: kangourou
 
 *10 chickens, eggs in 10 days*
 
-> There are ten chickens in a chicken coop. Five of them each lay one egg a day while the others each lay one egg on alternate days. How many eggs do chickens make in a 10-day period? A) 75
+> There are ten chickens in a chicken coop. Five of them each lay one egg a day while the others each lay one egg on alternate days. How many eggs do the chickens lay in a 10-day period? A) 75
 > 	
 > B) 60
 > 	
@@ -290,7 +295,7 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_benjamin__prob6.png]]
 
-> The area of each of the squares composed of the figure is 4 cm2. What is the length of the line highlighted in the figure? A) 16 cm
+> The area of each of the squares making up the figure is 4 cm2. What is the length of the line highlighted in the figure? A) 16 cm
 > 	
 > B) 18 cm
 > 	
@@ -330,7 +335,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of thumb (balance sheet) *
+*How much does Dita weigh (balances) *
 
 ![[src_kangourou_2015_marzo_benjamin__prob7.png]]
 
@@ -373,7 +378,7 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_benjamin__prob8.png]]
 
-> With an enlargement lens, Peter examines this drawing piece by piece. Which of the following images never appears in the lens? A) B) C) D) E)
+> With a magnifying glass, Peter examines this drawing piece by piece. Which of the following images never appears in the lens? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q08|src_kangourou_2015_marzo_benjamin__Q08]]
@@ -405,7 +410,7 @@ level: kangourou
 
 *how many plants*
 
-> In John's garden there are only two types of plants: those of one type have 5 leaves, the other 2 leaves and 1 flower. Giovanni discovered that there are 32 leaves and 6 flowers in all. How many are all over the plants? A) 10             B) 12            C) 13             D) 15                E) 16
+> In John's garden there are only two types of plants: those of one type have 5 leaves, the other 2 leaves and 1 flower. John discovered that there are 32 leaves and 6 flowers in all. How many plants are there in all? A) 10             B) 12            C) 13             D) 15                E) 16
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q09|src_kangourou_2015_marzo_benjamin__Q09]]
@@ -450,9 +455,9 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_benjamin__prob10.png]]
 
-> Sara has four strips of paper all the same length. He glues two of them together so that they overlap by 10 cm and gets a single strip 50 cm long. Now he wants to paste the other two together so that they form a 56 cm long strip. How many centimeters does he have to overlay them? A) 4 cm B) 6 cm C) 7 cm D) 10 cm E) 12 cm 10 cm 10 cm 50 cm
+> Sara has four strips of paper all the same length. She glues two of them together so that they overlap by 10 cm and gets a single strip 50 cm long. Now she wants to paste the other two together so that they form a 56 cm long strip. How many centimeters does she have to overlay them? A) 4 cm B) 6 cm C) 7 cm D) 10 cm E) 12 cm 10 cm 10 cm 50 cm
 > 
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q10|src_kangourou_2015_marzo_benjamin__Q10]]
@@ -483,11 +488,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter is shown in 6 squares*
+*Perimeter of a figure with 6 squares*
 
 ![[src_kangourou_2015_marzo_benjamin__prob11.png]]
 
-> Thomas approaches six equal squares, one centimeter on each side, to form the figure you see in the drawing. How many centimeters does the perimeter of the figure built by Thomas measure? A) 9             B) 10               C) 11                D) 12              E) 13
+> Thomas places together six equal squares, one centimeter on each side, to form the figure you see in the drawing. How many centimeters does the perimeter of the figure built by Thomas measure? A) 9             B) 10               C) 11                D) 12              E) 13
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q11|src_kangourou_2015_marzo_benjamin__Q11]]
@@ -526,9 +531,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number given g/mm for the year*
+*Maximum sum of digits given dd/mm of the year*
 
-> Every evening Mary writes the date of the day (without the year) in numbers and then calculates the sum of the numbers written. For example, on March 19, write 19/03 and calculate 1 + 9 + 0 + 3 = 13. What is the largest number that can write this way during the year? A) 7
+> Every evening Mary writes the date of the day (without the year) in numbers and then calculates the sum of the digits written. For example, on March 19, she writes 19/03 and calculate 1 + 9 + 0 + 3 = 13. What is the largest number she can write this way during the year? A) 7
 > 	
 > B) 13
 > 	
@@ -575,7 +580,7 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_benjamin__prob13.png]]
 
-> The ABCD rectangle in the figure is formed by approaching 4 equal rectangles. If the length of BC is 1 cm, how long is AB? A) 4 cm B) 3 cm C) 2 cm D) 1 cm E) 0,5 cm
+> The ABCD rectangle in the figure is formed by placing 4 equal rectangles side by side. If the length of BC is 1 cm, how long is AB? A) 4 cm B) 3 cm C) 2 cm D) 1 cm E) 0,5 cm
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q13|src_kangourou_2015_marzo_benjamin__Q13]]
@@ -656,7 +661,7 @@ level: kangourou
 
 *min bottles*
 
-> There's only nine houses on Via del Salto, all on the same side of the road. At least one person lives in each house, and the total number of people living in a pair of adjacent houses never exceeds 6. A milkman must deliver one bottle of milk for every person living in Via del Salto. What's the minimum number of bottles you have to put on the truck to make sure you have enough? A) 23
+> There's only nine houses on Via del Salto, all on the same side of the road. At least one person lives in each house, and the total number of people living in a pair of adjacent houses never exceeds 6. A milkman must deliver one bottle of milk for every person living in Via del Salto. What's the minimum number of bottles he has to put on the truck to make sure you have enough? A) 23
 > 	
 > B) 25
 > 	
@@ -705,7 +710,7 @@ level: kangourou
 
 Summary of age and age of Lucia and mother
 
-> Both Lucia and her mother were born in January. Today, March 19, 2015, Lucia adds the year of her mother's birth to her mother's age and then adds her year of birth and her age to the result. What's your number? A) 4028 B) 4029 C) 4030 D) 4031 E) 4032 A B C D 1 cm
+> Both Lucia and her mother were born in January. Today, March 19, 2015, Lucia adds the year of her mother's birth to her mother's age and then adds her year of birth and her age to the result. What number does she get? A) 4028 B) 4029 C) 4030 D) 4031 E) 4032 A B C D 1 cm
 >
 
 **Answer:** C
@@ -882,7 +887,7 @@ Summary of age and age of Lucia and mother
 
 ![[src_kangourou_2015_marzo_benjamin__prob20.png]]
 
-> In a new version of the game of chess there is also a piece called Kang. The moves that Kang can make are only two: move 3 boxes vertically and 1 horizontally, or 3 boxes horizontally and 1 vertically, as shown in the figure. What is the minimum number of moves that will allow Kang to move from the current box to the one with A? A) 2
+> In a new version of the game of chess there is also a piece called Kang. The moves that Kang can make are only two: move 3 squares vertically and 1 horizontally, or 3 squares horizontally and 1 vertically, as shown in the figure. What is the minimum number of moves that will allow Kang to move from the current square to the one with A? A) 2
 > 	
 > B) 3
 > 	
@@ -890,7 +895,7 @@ Summary of age and age of Lucia and mother
 > 	
 > D) 5
 > 	
-> E) 6 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 6 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q20|src_kangourou_2015_marzo_benjamin__Q20]]
@@ -975,17 +980,32 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how much *
+*how much spent*
 
-> Joan bought three toys. For the first one, he paid a euro more than half of what he had. She bought the second toy by adding 2 euros to half of her remaining money and by adding 3 euros to half of what she had left after buying the first two toys she bought the third. That's how he spent all his money. How many euros did you spend on everything? A) 34
+> Giovanna bought 3 toys. For the first she paid 1 euro more than half
+> of the money she had. By adding 2 euros to half of the money she had left she
+> bought the second toy and by adding 3 euros to half of what she had left
+> after buying the first two toys she bought the third. In this way she
+> spent all the money she had.  How many euros did she spend in all?
+> A) 34	
 > 	
-> B) 36
+> B) 36	
 > 	
-> C) 45
+> C) 45	
 > 	
-> D) 65
+> D) 65	
 > 	
-> E) 100 red red blue x A X + X + Y Y ------------- Z Z Z
+> E) 100
+> red
+> red
+> blue
+> x
+> A
+> X
+> +            X
+> +       Y   Y
+> -------------
+> Z   Z   Z
 >
 
 **Answer:** A
@@ -1032,7 +1052,7 @@ Summary of age and age of Lucia and mother
 
 ![[src_kangourou_2015_marzo_benjamin__prob23.png]]
 
-> I want to cover a cube-shaped box with paper, no overlapping. So I drew on a piece of paper and cut out the figure you see here next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each side of the box into two squares. But by mistake, I drew 7 squares instead of 6. I must therefore remove one, but I want the paper not to break in two and in particular that there is no square connected only by one vertex to another. Which square can I delete? A) Only four. B) Only 7. C) Only 3 or 4. D) Only 3 or 7. E) Il 3, il 4 o il 7.
+> I want to cover a cube-shaped box with paper, no overlapping. So I drew on a piece of paper and cut out the figure you see here next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each side common to two squares. But by mistake, I drew 7 squares instead of 6. I must therefore remove one, but I want the paper not to break in two and in particular that there is no square connected only by one vertex to another. Which square can I delete? A) Only four. B) Only 7. C) Only 3 or 4. D) Only 3 or 7. E) 3, 4 or 7.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q23|src_kangourou_2015_marzo_benjamin__Q23]]
@@ -1173,7 +1193,7 @@ This is the maximum BD-AC *
 
 ![[src_kangourou_2015_marzo_benjamin__prob26.png]]
 
-> Mary writes a number on each side of the cube in the figure. It then assigns to each vertex of the cube the sum of the numbers written on the 3 faces containing that vertex (e.g., for vertex B it sums the numbers on the faces BCDA, BAEF and BFGC). The numbers that Mary gets for the vertices C, D and E are 14, 16 and 24 respectively. What number do you get for the F-summit ? A) 15
+> Mary writes a number on each face of the cube in the figure. It then assigns to each vertex of the cube the sum of the numbers written on the 3 faces containing that vertex (e.g., for vertex B it sums the numbers on the faces BCDA, BAEF and BFGC). The numbers that Mary gets for the vertices C, D and E are 14, 16 and 24 respectively. What number do you get for vertex F ? A) 15
 > 	
 > B) 19
 > 	
@@ -1322,7 +1342,7 @@ This is the maximum BD-AC *
 
 *the missing one*
 
-> Alberto scored four distinct points on a straight line and now, for each pair of points, he measures their distance. Of the six different numbers he gets, five are (in increasing order): 2, 3, 11, 12, 14. The missing one is under 14. What is it? A) 1
+> Alberto marked four distinct points on a straight line and now, for each pair of points, he measures their distance. Of the six different numbers he gets, five are (in increasing order): 2, 3, 11, 12, 14. The missing one is less than 14. What is it? A) 1
 > 	
 > B) 5
 > 	
@@ -1381,7 +1401,7 @@ This is the maximum BD-AC *
 > 	
 > E) 32
 > 
-> I'm going to take a look.
+> STRINGA BENJAMIN 2015
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_benjamin#q30|src_kangourou_2015_marzo_benjamin__Q30]]

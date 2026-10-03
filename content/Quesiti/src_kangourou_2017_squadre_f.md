@@ -67,7 +67,7 @@ level: squadre
 
 How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 
-> Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Peter have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children) does Grandma Anna have?
+> Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Pietro have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children of her children) does Grandma Anna have?
 
 **Answer:** 10
 [[Quesiti/src_kangourou_2017_squadre_f#q02|src_kangourou_2017_squadre_f__Q02]]
@@ -98,7 +98,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 
 *Dcba = double of abb with different digits*
 
-> Double denotes with a, b, c, d four different digits. If the four-digit dcba number is twice the three-digit abb number what is dcba?
+> Let a, b, c, d denote four different digits. If the four-digit dcba number is twice the three-digit abb number what is dcba?
 
 **Answer:** 1798
 [[Quesiti/src_kangourou_2017_squadre_f#q03|src_kangourou_2017_squadre_f__Q03]]
@@ -126,9 +126,9 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of n positive n with n^2+12 divisible by n+4*
+*Sum of positive n with n^2+12 divisible by n+4*
 
-> Whole division What is the sum of the positive integers n such that n2 + 12 is divisible by n + 4?
+> Whole division What is the sum of the positive integers n such that n^2 + 12 is divisible by n + 4?
 
 **Answer:** 37
 [[Quesiti/src_kangourou_2017_squadre_f#q04|src_kangourou_2017_squadre_f__Q04]]
@@ -156,9 +156,9 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blue dots given the probability of 9/11*
+*How many blue caps given the probability of 9/11*
 
-> Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the odds of blindly catching a blue cap are 9/11. How many blue caps are in the box?
+> Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the probability of blindly catching a blue cap are 9/11. How many blue caps are in the box?
 
 **Answer:** 225
 [[Quesiti/src_kangourou_2017_squadre_f#q05|src_kangourou_2017_squadre_f__Q05]]
@@ -198,7 +198,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 
 ![[src_kangourou_2017_squadre_f__prob6.png]]
 
-> Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul had forgotten the pattern of pressing the keys to unlock it. Just remember that the keys were the vertices of a parallelogram and were struck clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
+> Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul has forgotten the pattern with which he must press the keys to unlock it: Just remember that the keys were the vertices of a parallelogram and were to be pressed clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
 
 **Answer:** 176
 [[Quesiti/src_kangourou_2017_squadre_f#q06|src_kangourou_2017_squadre_f__Q06]]
@@ -230,7 +230,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 
 *Minimum surface area by gluing cubes 1, 8 and 27*
 
-> Three cubes I have glued three cubes of volume 1 cm3, 8 cm3 and 27 cm3 along their faces so that the total surface of the resulting solid is as small as possible. How many square inches does that area measure?
+> Three cubes I have glued three cubes of volume 1 cm3, 8 cm3 and 27 cm3 along their faces so that the total surface of the resulting solid is as small as possible. How many square centimeters does that area measure?
 
 **Answer:** 72
 [[Quesiti/src_kangourou_2017_squadre_f#q07|src_kangourou_2017_squadre_f__Q07]]
@@ -294,9 +294,13 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of subsets of 7 in arithmetic progression*
+*How many subsets of 7 in arithmetic progression*
 
-> Arithmetic progressions Consider the sum of the first 100 positive integers. From this set we form all subsets consisting of 7 numbers which, when ordered in increasing order, form an arithmetic progression (e.g. This is the first time I have heard of this. How many distinct sets of this form exist?
+> Arithmetic progressions
+> Consider the set of the first 100 positive integers. From this set we form all the
+> subsets consisting of 7 numbers that, when ordered in increasing order, form an
+> arithmetic progression (e.g. {1,2,3,4,5,6,7} or {5,8,11,14,17,20,23}). How many distinct sets
+> of this form exist?
 
 **Answer:** 784
 [[Quesiti/src_kangourou_2017_squadre_f#q09|src_kangourou_2017_squadre_f__Q09]]
@@ -327,9 +331,13 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wheat in the removed box (trip blue red) *
+*Marbles in the box taken away (blue triple red)*
 
-> I have five boxes, each containing a single color, red or blue. In the first box there are 112 seeds, in the second 105, in the third 100, in the fourth 115 and in the fifth 128. After Martino took away a box, the remaining 4 boxes have three times the number of blue beads as many red beads. How many balls were in the box that Martino took away?
+> Marbles
+> I have 5 boxes, each containing marbles of a single color, red or blue. In the first box there are
+> 112 marbles, in the second 105, in the third 100, in the fourth 115 and in the fifth 128. After
+> Martino took away one box, in the 4 remaining boxes the number of blue marbles is triple the
+> number of red marbles. How many marbles were there in the box taken away by Martino?
 
 **Answer:** 100
 [[Quesiti/src_kangourou_2017_squadre_f#q10|src_kangourou_2017_squadre_f__Q10]]
@@ -357,9 +365,10 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*United number of 1^3+2^3+...+2017^3*
+*Units digit of 1^3+2^3+...+2017^3*
 
-> Sum of cubes What is the unit number 13 + 23 + 33 + ... + 20163 + 20173 ?
+> Sum of cubes
+> What is the units digit of the number 13 + 23 + 33 + … + 20163 + 20173 ?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2017_squadre_f#q11|src_kangourou_2017_squadre_f__Q11]]
@@ -490,9 +499,11 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining partition by 9 of the large number*
+*Remainder of the division by 9 of the large number*
 
-> The rest of you find the rest in the division 9 of 122,333,444,455,555,666,666,777,788,888,999,999.
+> The remainder 
+> Find the remainder in the division by 9 of 
+> 122,333,444,455,555,666,666,777,777,788,888,888,999,999,999.
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2017_squadre_f#q13|src_kangourou_2017_squadre_f__Q13]]
@@ -524,9 +535,9 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of areas T and P with the same perimeter*
+*Ratio of areas T and P with the same perimeter*
 
-> The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them below; for example, to indicate the fraction 1/2 write 0102.
+> The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them in sequence; for example, to indicate the fraction 1/2 write 0102.
 
 **Answer:** 907
 [[Quesiti/src_kangourou_2017_squadre_f#q14|src_kangourou_2017_squadre_f__Q14]]

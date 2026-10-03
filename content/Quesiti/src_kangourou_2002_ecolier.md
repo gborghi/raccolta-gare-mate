@@ -33,11 +33,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table removed from figure Kangourou*
+*Tile removed from the Kangourou figure*
 
 ![[src_kangourou_2002_ecolier__prob1.png]]
 
-> Which of the square brackets shown below has been removed from the large figure on the right representing a kangaroo?
+> Which of the square tiles shown below has been 
+> removed from the large figure on the right representing a 
+> Kangourou?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_ecolier#q01|src_kangourou_2002_ecolier__Q01]]
@@ -70,11 +72,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Calculation of the alternate sum of 2
+*Calculation of the alternating sum of 2*
 
-> Do the following calculation: 2 + 2  2 + 2  2 + 2  2 + 2  2 + 2  2  2 + 2. How much do you get?
+> Perform the following calculation:  2 + 2 – 2 + 2 – 2 + 2 – 2 + 2 – 2 + 2. What do you get? 
 >  
-> A. 0 B. 2 C. 4 D. 12
+> A. 0 
+>    B. 2 
+>    C. 4 
+>     D. 12 
 >  
 > E. 20
 
@@ -118,15 +123,25 @@ Calculation of the alternate sum of 2
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of an orange melon*
+*Weight of a melon in oranges*
 
 ![[src_kangourou_2002_ecolier__prob3.png]]
 
-> On one plate of the scale shown in the figure, there are 6 oranges, equal to each other, and on the other, two melons, equal to each other. When we put another melon on the orange plate, exactly the same as the two
+> On one pan of the scale shown in the figure  
+> there are 6 oranges, equal to each other, and on the other 2 melons, 
+> equal to each other. When we put on the pan of the 
+> oranges another melon, exactly equal to the two 
 > 
-> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. The balance sheet is in balance. The weight of a melon is then:
+> Ecolier 2002. Page No. 
+> 2 
+> previous ones, the scale is in balance. The weight of a melon is then: 
 >  
-> A. The same as 2 oranges B. The same as 3 C oranges. The same as 4 D oranges. The same as 5 E oranges. The same as 6 oranges.
+> A. the same as 2 oranges 
+> B. the same as 3 oranges  
+> C. the same as 4 
+> oranges  
+> D. the same as 5 oranges  
+> E. the same as 6 oranges
 
 **Answer:** E
 [[Quesiti/src_kangourou_2002_ecolier#q03|src_kangourou_2002_ecolier__Q03]]
@@ -213,7 +228,7 @@ Heart rate in one hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different square and rectangular perimeter*
+*Difference between square and rectangle perimeters*
 
 ![[src_kangourou_2002_ecolier__prob5.png]]
 
@@ -271,9 +286,9 @@ Heart rate in one hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Books to be moved to level the sheets*
+*Books to be moved to level the shelves*
 
-> A bookstore is made up of three floors. On the upper floor there are four books, on the central floor nine and on the lower floor fourteen. I'm now placing a book on the lower level of the central one. How many books do I have to move from the bottom shelf to the top shelf so that the number of books is the same on each shelf?
+> A bookcase is made up of three shelves. On the upper shelf there are four books, on the central shelf nine and on the lower shelf fourteen. I now move a book from the lower shelf to the central one. How many books do I have to move from the bottom shelf to the top shelf so that the number of books is the same on each shelf?
 >  
 >  
 > A. 4 B. 5 C. 6 D. a number different from the previous ones
@@ -316,7 +331,7 @@ Heart rate in one hour
 
 Members of the club when boys = girls
 
-> Twelve boys and eight girls are members of the Kangourou Club in their town. Every week, two new girls and a new boy are accepted into the Club. How many members of the club on the day when the number of boys is equal to the number of girls?
+> Twelve boys and eight girls are members of the Kangourou Club in their town. Every week, two new girls and a new boy are accepted into the Club. How many members are there in the club on the day when the number of boys is equal to the number of girls?
 >  
 >  
 > A. 22 B. 24 C. 28 D. 32 E. 36
@@ -467,7 +482,7 @@ Members of the club when boys = girls
 
 *Mesopotamian writing number 124*
 
-> In Mesopotamia, in 2500 B.C., numbers were written as follows: the symbol appeared many times as many as the sixty, the symbol appeared many times as many as the tens minus the sixty, the symbol appeared many times as many as the units minus the sixty and the tens. For example, the number 72 was written like this. Which of the following scriptures represents the number 124?
+> In Mesopotamia, in 2500 B.C., numbers were written as follows: the symbol appeared many times as many as the sixties, the symbol appeared many times as many as the tens minus the sixties, the symbol appeared many times as many as the units minus the sixties and the tens. For example, the number 72 was written like this. Which of the following writings represents the number 124?
 
 **Answer:** E
 [[Quesiti/src_kangourou_2002_ecolier#q11|src_kangourou_2002_ecolier__Q11]]
@@ -497,9 +512,9 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Composition of the quadrant into four parts*
+*Breakdown of the clock face into four parts*
 
-> The dial of a clock is broken down into four parts. Taking these parts in an appropriate order and adding the numbers in each of them, four consecutive numbers are obtained. There is only one way to break down the quadrant if you want to get that result. What is it?
+> The dial of a clock is broken down into four parts. Taking these parts in an appropriate order and adding the numbers in each of them, four consecutive numbers are obtained. There is only one way to break down the clock face if you want to get that result. What is it?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2002_ecolier#q12|src_kangourou_2002_ecolier__Q12]]
@@ -530,11 +545,14 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who was born on 17 May
+*Who was born on May 17*
 
-> The dates of birth of Giovanna, Stefania, Susanna and Elena are (in odd order) March 3, May 17, July 20 and March 20. Stefania and Susanna were born in the same month, while Joan's and Susanna's birthdays fall in days with the same number. Who was born on May 17?
+> The birthdays of Giovanna, Stefania, Susanna and Elena are (in no particular 
+> order) March 3, May 17, July 20 and March 20. Stefania and Susanna 
+> were born in the same month, while Giovanna's birthday and Susanna's 
+> fall on days with the same number. Who was born on May 17? 
 >  
-> A. Joan B. I 'm not sure . I'm not sure. Elena and E. You can't answer that.
+> A. Giovanna   B. Stefania C. Susanna   D. Elena E. cannot be answered
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_ecolier#q13|src_kangourou_2002_ecolier__Q13]]
@@ -628,7 +646,7 @@ Who was born on 17 May
 
 ![[src_kangourou_2002_ecolier__prob15.png]]
 
-> From the window of her room, Carla looks at the wall of the house across the street. You can see that there's a rectangular flag, like the one in the picture, hanging in the wind. Carla watches the flag at different times. Assuming the flag is not torn by the force of the wind, which of the five images below Carla will she never see?
+> From the window of her room, Carla looks at the wall of the house across the street. She can see that there's a rectangular flag, like the one in the picture, hanging in the wind. Carla watches the flag at different times. Assuming the flag is not torn by the force of the wind, which of the five images below will Carla never see?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_ecolier#q15|src_kangourou_2002_ecolier__Q15]]
@@ -664,16 +682,18 @@ Who was born on 17 May
 <div class="qlang-split" data-lang="en"></div>
 
 
-What time does Matthew leave the house?
+*What time does Matteo leave home*
 
-> Martina leaves home at 6:55 a.m. to get to school at 7:32. Her friend Matteo only arrives at school at 7:45 a.m. although she lives closer to her at school and takes 12 minutes less to reach her. What time does Matteo leave the house?
+> Martina leaves home at 6:55 in the morning to arrive at school at 7:32. Her
+> friend Matteo arrives at school only at 7:45 even though he lives closer to her to
+> school and takes 12 minutes less to reach it. What time does he leave home
+> Matteo?
 >  
-> A. 7:07 B. At 7.20 C. 7: 25 A.M. At 7.30 E. At 7.33am
->  
->  
->  
->  
-> The questions from N. 17 al N. Twenty-four is worth five points each.
+> A. at 7:07
+> B. at 7:20       C. at 7:25
+>  D. at 7:30
+> E. at 7:33
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_ecolier#q16|src_kangourou_2002_ecolier__Q16]]
@@ -822,11 +842,11 @@ What time does Matthew leave the house?
 
 Who can't get 20
 
-> The numbers 1 through 9 are each written on a cardboard. Alexander has the cards with the numbers , Marta with the numbers and Federico with the numbers . Using their cards once and only once each and two of the four operations +, , ×, : (possibly twice the same), each of the three boys can achieve different results. Who can't ever get 20?
+> The numbers 1 through 9 are each written on a card. Alexander has the cards with the numbers , Marta with the numbers and Federico with the numbers . Using their cards once and only once each and two of the four operations +, –, ×, : (possibly twice the same), each of the three boys can achieve different results. Who can't ever get 20?
 >  
-> A. Just Alexander B. Just Marta C. Just Federico .
+> A. Just Alexander B. Just Marta C. Just Federico
 >                
-> D. Alexander and Martha E. Everyone can get 20
+> D. Alexander and Marta E. Everyone can get 20
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_ecolier#q19|src_kangourou_2002_ecolier__Q19]]
@@ -863,7 +883,7 @@ Who can't get 20
 
 *Minimum colours for the straw web*
 
-> Using colored straws (each straw has only one color), you propose to build a lattice like the one in the figure (in which each side of each square is made with only one straw). You don't want any strawberries coming into contact with strawberries of the same color. What's the minimum number of different colors that you can use to make your project?
+> Using colored straws (each straw has only one color), you propose to build a lattice like the one in the figure (in which each side of each square is made with only one straw). You don't want any straw coming into contact with straws of the same color. What's the minimum number of different colors that you can use to make your project?
 >  
 >  
 > A. 2 B. 3       C. 4     D. 5         E. 8
@@ -900,9 +920,9 @@ Who can't get 20
 
 *Matteo's arrival position *
 
-> Twenty-eight boys are taking part in a race. The number of boys who came after Matthew is twice the number of boys who came before Matthew. In what position did Matthew arrive?
+> Twenty-eight boys are taking part in a race. The number of boys who came after Matteo is twice the number of boys who came before Matteo. In what position did Matteo arrive?
 >  
-> A. 16th B. 17th C. Eighth D. Nine E. the tenth
+> A. 16th B. 17th C. Eighth D. Ninth E. the tenth
 
 **Answer:** E
 [[Quesiti/src_kangourou_2002_ecolier#q21|src_kangourou_2002_ecolier__Q21]]
@@ -936,7 +956,7 @@ Who can't get 20
 
 Kilometers to the next digit all different *
 
-> My car's meter indicates that we've traveled 187,569 miles, a number whose numbers are all different. After how many miles will it happen again, next time?
+> My car's meter indicates that we've traveled 187,569 kilometers, a number whose digits are all different. After how many kilometers will it happen again, next time?
 >  
 > A. 13776 B. 12431         C. 431           D. 21 E. 1
 

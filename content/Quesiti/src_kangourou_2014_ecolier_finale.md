@@ -71,7 +71,7 @@ level: kangourou
 
 > AS BT CU DV
 
-**Answer:** 3 o 4
+**Answer:** 3 or 4
 [[Quesiti/src_kangourou_2014_ecolier_finale#q02|src_kangourou_2014_ecolier_finale__Q02]]
 
 
@@ -98,7 +98,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum shifts for every boy to dance with every girl
+Minimum rounds for every boy to dance with every girl
 
 > AT BU CV DZ
 
@@ -157,7 +157,7 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scoyattolo empties 15 plates in four visits*
+*Squirrel empties 15 plates in four visits*
 
 > AV BZ CR DS
 

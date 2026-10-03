@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little number equal to all ten digits *
+*Smallest even number with all ten digits*
 
-> Elisa wrote the smallest number of even numbers in which all ten digits appear at least once in writing. What number did you write? Attention: the first digit cannot be 0!
+> Elisa wrote the smallest even number in whose writing all ten digits appear at least once. What number did she write? Careful: the first digit cannot be 0!
 
 **Answer:** 1023456798
 [[Quesiti/src_kangourou_2016_ecolier_finale#qe1|src_kangourou_2016_ecolier_finale__QE1]]
@@ -94,7 +94,7 @@ level: kangourou
 
 > Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
 
-**Answer:** 0, 2 e 4
+**Answer:** 0, 2 and 4
 [[Quesiti/src_kangourou_2016_ecolier_finale#qe3|src_kangourou_2016_ecolier_finale__QE3]]
 
 
@@ -122,7 +122,7 @@ I can run out of money.
 
 > The currency of Kangland is the kang. Eurokang exchange rate works like this: you get $1$ kang by paying $2$ euro, you get $1$ euro by paying $1$ kang and proportionally if you change lower value coins. In both currencies, the minimum value coin is the one-cent coin; any amount of money can be changed and the result of the change, if not expressed by an integer number of cents, is rounded to a cent for excess. If at first I change the euro into kang, then I change the kang made into euro, then I change the kang made into euro and I do this, can I run out of money?
 
-**Answer:** No, resto con 1 centesimo
+**Answer:** No, I am left with 1 cent
 [[Quesiti/src_kangourou_2016_ecolier_finale#qe4|src_kangourou_2016_ecolier_finale__QE4]]
 
 
@@ -149,7 +149,7 @@ I can run out of money.
 
 *Minimum number of comparisons to check the 5 heaviest *
 
-> On the table there are $100$ objects of very close weight (some may even have the same weight): they told me that the heaviest objects, listed in descending weight order, are A, B, C, D and E. I want to check the statement, but I only have a two-plate balance and there can only be one object on each plate, so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that allows me to check the statement?
+> On the table there are $100$ objects of very close weight (some may even have the same weight): they told me that the 5 heaviest objects, listed in descending weight order, are A, B, C, D and E. I want to check the statement, but I only have a two-plate balance and there can only be one object on each plate, so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that allows me to check the statement?
 
 **Answer:** 99
 [[Quesiti/src_kangourou_2016_ecolier_finale#qe5|src_kangourou_2016_ecolier_finale__QE5]]
@@ -185,5 +185,5 @@ I can run out of money.
 > 
 > Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
-**Answer:** la busta A
+**Answer:** envelope A
 [[Quesiti/src_kangourou_2016_ecolier_finale#qe6|src_kangourou_2016_ecolier_finale__QE6]]

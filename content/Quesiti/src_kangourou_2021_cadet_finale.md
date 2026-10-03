@@ -61,11 +61,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimate of the number of cranberries by catch-recatch method*
+*Estimate of the number of confetti by catch-recatch method*
 
-> You have a bag of coriander and you'd like to know how many, at least roughly. Think of using the following strategy: - extract $50$ from it and mark them with a mark, then put them back in the bag and mix all the coriander so that the ones you have marked can be evenly distributed within the bag; - then extract $70$ from it at random and find out that, of these $70$, only two have been marked by you.
+> You have a bag of confetti and you'd like to know how many, at least roughly. Think of using the following strategy: - extract $50$ from it and mark them with a mark, then put them back in the bag and mix all the confetti so that the ones you have marked can be evenly distributed within the bag; - then extract $70$ from it at random and find out that, of these $70$, only two have been marked by you.
 > 
-> Based on this experiment, what is a reliable number for the coriander in the bag?
+> Based on this experiment, what is a reliable number for the confetti in the bag?
 
 **Answer:** 1750
 [[Quesiti/src_kangourou_2021_cadet_finale#q02|src_kangourou_2021_cadet_finale__Q02]]
@@ -97,7 +97,7 @@ level: kangourou
 
 ![[src_kangourou_2021_cadet_finale__prob3.png]]
 
-> When you observe two spheres of different rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is $100$ times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+> When you observe two spheres of different radii from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is $100$ times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
 **Answer:** 1000000
 [[Quesiti/src_kangourou_2021_cadet_finale#q03|src_kangourou_2021_cadet_finale__Q03]]
@@ -126,7 +126,7 @@ level: kangourou
 
 *Minimum to be removed from 2..2021 without residual products*
 
-> Consider the set of integers from $2$ to $2021$ included. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. How many do you want to take away?
+> Consider the set of integers from $2$ to $2021$ included. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. What is the minimum number you need to take away?
 
 **Answer:** 43
 [[Quesiti/src_kangourou_2021_cadet_finale#q04|src_kangourou_2021_cadet_finale__Q04]]
@@ -167,7 +167,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different plane developments of a cube*
+*Number of different nets of a cube*
 
 ![[src_kangourou_2021_cadet_finale__prob5.png]]
 
@@ -184,7 +184,7 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see a plane development of a cube, that is, a possible plane approach of the sides of the cube so that you can reconstruct the cube by folding the figure along the common sides of the two sides appropriately. How many different planes of development between them has a cube, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
+> In the figure you see a net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that you can reconstruct the cube by folding the figure along the sides common to two faces. How many different nets does a cube have, considering two nets obtainable one from the other by rotations and/or reflections as identical? (see figure)
 
 **Answer:** 11
 [[Quesiti/src_kangourou_2021_cadet_finale#q05|src_kangourou_2021_cadet_finale__Q05]]
@@ -219,9 +219,9 @@ level: kangourou
 
 > You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by inserting, one for each box, all integers from $1$ to $m \times n$ so that the sum of the numbers inserted in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when:
 > 
-> a) $m = 2021$ e $n = 2020$?
+> a) $m = 2021$ and $n = 2020$?
 > 
-> b) $m = 2020$ e $n = 2021$?
+> b) $m = 2020$ and $n = 2021$?
 
-**Answer:** a)No b)Si
+**Answer:** a)No b)Yes
 [[Quesiti/src_kangourou_2021_cadet_finale#q06|src_kangourou_2021_cadet_finale__Q06]]

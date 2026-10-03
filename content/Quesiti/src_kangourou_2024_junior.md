@@ -37,7 +37,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a number fraction*
+*Value of a numerical fraction*
 
 > What 's the value of the fraction ? A) 0,01 B) 0,1
 > 	
@@ -88,7 +88,7 @@ level: kangourou
 
 ![[src_kangourou_2024_junior__prob2.png]]
 
-> In a particular high jump competition, the athlete for whom the ratio of jumped height to his height is greater wins. The figure, where the heights of the athletes are listed in ascents and the heights of the respective jumps performed are listed in order, describes the performance of the five athletes A, B, C, D, E. Who won the race? A) A B) B C) C D) D E) E
+> In a particular high jump competition, the athlete for whom the ratio of jumped height to his height is greater wins. The figure, where the x-axis shows the heights of the athletes and the y-axis shows the heights of the respective jumps performed, describes the performance of the five athletes A, B, C, D, E. Who won the race? A) A B) B C) C D) D E) E
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_junior#q02|src_kangourou_2024_junior__Q02]]
@@ -134,7 +134,7 @@ level: kangourou
 
 ![[src_kangourou_2024_junior__prob3.png]]
 
-> The figure shows a regular dice: all scores from 1 to 6 appear, one per face, and the sum of the scores on opposite faces is always 7. For each vertex of the cube, let's say its value is the sum of the points that appear on the three faces that compete with it: for example, the value of the vertex P is 1 + 2 + 3 = 6. Of the values of the Q, R and S vertices indicated, which is the highest? A) 7
+> The figure shows a regular dice: all scores from 1 to 6 appear, one per face, and the sum of the scores on opposite faces is always 7. For each vertex of the cube, let's say its value is the sum of the points that appear on the three faces that meet at it: for example, the value of the vertex P is 1 + 2 + 3 = 6. Of the values of the Q, R and S vertices indicated, which is the highest? A) 7
 > 	
 > B) 9
 > 	
@@ -180,7 +180,7 @@ level: kangourou
 
 *How many tiles touched by both legs*
 
-> On a long route of 2024 aligned tiles, a kangaroo enjoys jumping like this: he touches the first tiles with only one leg, the second with both legs, the third with only the other leg, the fourth with both legs, he completely jumps the fifth and then repeats this pattern until the last tiles. How many tiles have both legs touched? A) 674 B) 676 C) 804 D) 810 E) 1012
+> On a long route of 2024 aligned tiles, a kangaroo enjoys jumping like this: he touches the first tile with only one leg, the second with both legs, the third with only the other leg, the fourth with both legs, he completely jumps the fifth and then repeats this pattern until the last tile. How many tiles have both legs touched? A) 674 B) 676 C) 804 D) 810 E) 1012
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_junior#q04|src_kangourou_2024_junior__Q04]]
@@ -239,11 +239,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the shortest route by passing segments*
+*Length of the shortest route by retracing the segments*
 
 ![[src_kangourou_2024_junior__prob5.png]]
 
-> The figure shows the lengths in centimetres of six segments coming out of the same point. You want to cross the drawing with a pen, without ever pulling it off the sheet (so you can cross some segments). How many centimeters must be the shortest possible path of the tip of your pen? A) 14 B) 15 C) 16 D) 17 E) 18 2 x 0.24 -------------- 20 x 2.4 Athlete height Height skipped by the athlete A B C D E P R Q S 1 3 2 1 1 2
+> The figure shows the lengths in centimetres of six segments coming out of the same point. You want to trace over the drawing with a pen, without ever lifting it from the sheet (so you may retrace some segments). How many centimeters must be the shortest possible path of the tip of your pen? A) 14 B) 15 C) 16 D) 17 E) 18 2 x 0.24 -------------- 20 x 2.4 Athlete height Height jumped by the athlete A B C D E P R Q S 1 3 2 1 1 2
 >
 
 **Answer:** B
@@ -326,7 +326,7 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows a square containing four circles all of the same area, each tangent to two sides of the square and to two other circles. What is the relationship between the area of the black region and that of the grey region? A) 1 : 4 B) 1 : 3 C) 2 : 3 D) 3 : 4 E) π : 1
+> The figure shows a square containing four circles all of the same area, each tangent to two sides of the square and to two other circles. What is the ratio between the area of the black region and that of the grey region? A) 1 : 4 B) 1 : 3 C) 2 : 3 D) 3 : 4 E) π : 1
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_junior#q06|src_kangourou_2024_junior__Q06]]
@@ -363,7 +363,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of rectangle with perimeter 40 and front sides*
+*Maximum area of rectangle with perimeter 40 and prime sides*
 
 > The perimeter of a rectangle is 40 metres and the measurements in metres of its sides are expressed as prime integers. How many square meters can its area be at most? A) 99
 > 	
@@ -405,9 +405,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair of areas per circle inscribed and enclosed in a square*
+*Pair of areas for circle inscribed and circumscribed in a square*
 
-> Which of the following pairs (orders) of positive numbers can express the areas (in order) of the inscribed circle and the circumscribed circle in the same square? A) (3/2, 3) B) (π, 4π) C) (√π, π) D) (π, π2) E) (2/5, 3)
+> Which of the following pairs (ordered) of positive numbers can express the areas (in order) of the inscribed circle and the circumscribed circle in the same square? A) (3/2, 3) B) (π, 4π) C) (√π, π) D) (π, π2) E) (2/5, 3)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_junior#q08|src_kangourou_2024_junior__Q08]]
@@ -448,7 +448,7 @@ level: kangourou
 
 Sum of digits of the largest ABA palindrome multiple of 6
 
-> A three-digit palindrome number (positive integer) is of the form ABA, where A can be any number other than 0 and B any number (also coinciding with A). Consider that the largest of these numbers is also a multiple of 6: what is the sum of its digits worth? A) 12
+> A three-digit palindrome number (positive integer) is of the form ABA, where A can be any number other than 0 and B any number (also coinciding with A). Consider the largest of these numbers that is also a multiple of 6: what is the sum of its digits? A) 12
 > 	
 > B) 18
 > 	
@@ -492,7 +492,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 
 *Measure of the alpha angle (square and regular hexagon) *
 
-> The figure shows an ABCD square of center O and a regular exon, one of which is OC. What is the degree of the angle indicated by α? A) 105 B) 110 C) 115 D) 120 E) 125 Questions from N. 11 al N. 20 is worth 4 points each.
+> The figure shows an ABCD square of center O and a regular hexagon, one of whose sides is OC. What is the degree of the angle indicated by α? A) 105 B) 110 C) 115 D) 120 E) 125 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_junior#q10|src_kangourou_2024_junior__Q10]]
@@ -537,7 +537,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 
 *Minimum number of cards to move to correct equality*
 
-> The figure shows six cards on each of which one of the integers 1, 2, 3 is shown. Between the second and the third paper there is a product mark, and so also between the fourth and fifth. The number on the paper higher than the others should be interpreted as an exponent for the number on the paper preceding it: thus, at present, the operation indicated would be 23 × 11 × 23 = 2024, so the equality would be incorrect. You can move each paper hole only vertically, base to exponent or vice versa. What is the minimum number of cards you can move to correct the equality? A) 1
+> The figure shows six cards on each of which one of the integers 1, 2, 3 is shown. Between the second and the third card there is a product mark, and so also between the fourth and fifth. The number on the card higher than the others should be interpreted as an exponent for the number on the card preceding it: thus, at present, the operation indicated would be 2^3 × 11 × 2^3 = 2024, so the equality would be incorrect. You can move each single card only vertically, base to exponent or vice versa. What is the minimum number of cards you can move to correct the equality? A) 1
 >   	
 > B) 2
 > 	
@@ -643,7 +643,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 
 *Relation between black crown in Fig1 and black region in Fig2*
 
-> A white circle is superimposed on a gray circle which in turn is superimposed on a black circle as shown in Figure 1. In Figure 2 the same three figures appear tangent to each other, grey and white externally, and both internally black. The area of the black circular crown shown in Figure 1 is 7 times the area of the white circle. What is the relationship between the area of the black circular crown in Figure 1 and the area of the black region in Figure 2? A) 3 : 1 B) 4 : 3 C) 6 : 5 D) 7 : 6 E) 9 : 7
+> A white circle is superimposed on a gray circle which in turn is superimposed on a black circle as shown in Figure 1. In Figure 2 the same three circles appear tangent to each other, the grey and the white externally, and both internally to the black. The area of the black circular crown shown in Figure 1 is 7 times the area of the white circle. What is the ratio between the area of the black circular crown in Figure 1 and the area of the black region in Figure 2? A) 3 : 1 B) 4 : 3 C) 6 : 5 D) 7 : 6 E) 9 : 7
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_junior#q13|src_kangourou_2024_junior__Q13]]
@@ -679,12 +679,18 @@ Sum of digits of the largest ABA palindrome multiple of 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little number of n with S(n)>=100 (coefficients 2020../2424..) *
+*Smallest n with S(n)>=100 (quotients 2020../2424..)*
 
-> Consider the sum of the n additions
+> Consider the sum S(n) of the n addends 
 > 	
 > 	
-> + + the k-eighth by adding, for every k from 1 to n, is the quotient between the whole 2020...20 and the whole 2424...24, in writing of which 20 and 24 respectively appear k times. What is the smallest value of n such that we have S(n) ≥ 100? A) 100 B) 112 C) 120 D) 144 E) None of the above
+> +           +                             
+> the k-th addend, for each k from 1 to n, is the quotient between the integer 2020…20 and the integer 
+> 2424…24, in whose writing respectively 20 and 24 appear k times. What is 
+> the smallest value of n such that S(n) ≥ 100?
+> A) 100 	        B) 112 	
+> C) 120 	      D) 144	
+> E) None of the preceding
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_junior#q14|src_kangourou_2024_junior__Q14]]
@@ -722,7 +728,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 
 *Perimeter of triangle ABC from three segments parallel to the sides*
 
-> In the figure an ABC equilateral triangle and a point P within it are represented. From P, three segments are plotted parallel to the sides, each having the second end on one side of the triangle. The figure also indicates the lengths of the three segments. What 's the perimeter of the ABC triangle ? A) 22 B) 26
+> The figure shows an equilateral triangle ABC and a point P inside it. From P, three segments are drawn parallel to the sides, each having its other endpoint on a side of the triangle. The figure also indicates the lengths of the three segments. What is the perimeter of triangle ABC? A) 22 B) 26
 > 	
 > C) 33 D) 39 E) 44
 
@@ -764,7 +770,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 
 Product of the 8 external discs from the products of the squares*
 
-> Each of the 12 disks in the figure had a name written on it. Then all 12 numbers were deleted: now in each of the 5 squares that have their vertices covered by as many disks the product of the numbers that had been written in the respective disks was returned. How much is the product of the numbers that had been written on the eight outer disks, those marked in gray? A) 20 B) 40
+> Each of the 12 disks in the figure had a number written on it. Then all 12 numbers were deleted: now in each of the 5 squares that have their vertices covered by as many disks the product of the numbers that had been written in the respective disks was written. What is the value of the product of the numbers that had been written on the eight outer disks, those marked in gray? A) 20 B) 40
 > 	
 > C) 80 D) 120 E) 480
 
@@ -883,7 +889,7 @@ Product of the 8 external discs from the products of the squares*
 
 *Value of n (cube with one face = no painted face) *
 
-> I've approximated n3 identical cubes to each other (with a positive integer) and I've obtained a large cube. Then I painted the outer surface of the large cube; finally I again broke down the cube into the initial cubes. The number of cubes that have exactly a painted face coincides with the number of cubes that have no painted face. What 's number n ? A) 4
+> I've placed n^3 identical cubes to each other (with a positive integer) and I've obtained a large cube. Then I painted the outer surface of the large cube; finally I again broke down the cube into the initial cubes. The number of cubes that have exactly a painted face coincides with the number of cubes that have no painted face. What is the number n ? A) 4
 > 	
 > B) 6
 > 	
@@ -927,9 +933,9 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which quadrant contains no numbers used (multiple sums of 3) *
+*Which quadruple contains no numbers used (sums that are multiples of 3)*
 
-> Cristina placed 8 positive integers, all different from each other and chosen from the top 12, each in a vertex of a regular octagon so that, for each pair of adjacent vertices, the sum of the numbers that appear there turned out to be a multiple of 3. Which of the following four doesn't contain numbers that Cristina used? A) 1, 5, 9, 12 B) 3, 5, 7, 9 C) 1, 2, 11, 12 D) 5, 6, 7, 8 E) 3, 6, 9, 12
+> Cristina placed 8 positive integers, all different from each other and chosen from the first 12, each in a vertex of a regular octagon so that, for each pair of adjacent vertices, the sum of the numbers that appear there turned out to be a multiple of 3. Which of the following quadruples doesn't contain numbers that Cristina used? A) 1, 5, 9, 12 B) 3, 5, 7, 9 C) 1, 2, 11, 12 D) 5, 6, 7, 8 E) 3, 6, 9, 12
 
 **Answer:** E
 [[Quesiti/src_kangourou_2024_junior#q19|src_kangourou_2024_junior__Q19]]
@@ -968,11 +974,21 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of solid vertices A and B from the development plane*
+*Distance of vertices A and B of the solid from the plane net*
 
-> The figure on the left shows the development of the solid as shown in the figure on the right. The development consists of the approximation of four squares, all of which are 1 cm on the side, with two quarters of equilateral triangles. How many centimeters is the distance between the solids A and B shown in the figure? A) √5
-> 	
-> (b) (1 + √2) C) 5/2 D) (1 + √3) E) 2√2 Questions from N. 21 al N. 30 is worth 5 points each.
+> The figure on the left shows you the plane
+> net of the solid that appears in the figure on the right.
+> The net consists of the joining of
+> four squares all with side 1 cm with two sets
+> of four equilateral triangles. How many centimetres is the distance of vertices A and B of the
+> solid that are indicated in the figure?
+> A) √5
+>
+> B) (1 + √2)
+> C) 5/2
+> D) (1 + √3)
+> E) 2√2
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_junior#q20|src_kangourou_2024_junior__Q20]]
@@ -1040,7 +1056,7 @@ Product of the 8 external discs from the products of the squares*
 
 *Exponent of 17 in the factorization of n!*
 
-> For a certain positive integer n, Daria wrote the factorization into integers of n! = 1 × 2 × ... (n  1) × n: the prime integers are in increasing order and each appears as high as possible exponentially. Two spots have covered some of the prime integers and some exponents, particularly the 17 exponent. What's this exponent? A) 1
+> For a certain positive integer n, Daria wrote the prime factorization of n! = 1 × 2 × ... (n – 1) × n: the prime numbers are in increasing order and each appears raised to the highest possible exponent. Two spots have covered some of the prime integers and some exponents, particularly the exponent of 17. What's this exponent? A) 1
 > 	
 > B) 2
 > 	
@@ -1056,7 +1072,7 @@ Product of the 8 external discs from the products of the squares*
 > 	
 > D) 18
 > 	
-> E) 27 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. He also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes you can use to achieve your goal, how much is the difference B  A worth? A) 1
+> E) 27 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. She also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes she can use to achieve the goal, what is the value of the difference B – A? A) 1
 > 	
 > B) 3
 > 	
@@ -1106,7 +1122,7 @@ Product of the 8 external discs from the products of the squares*
 
 *Which statement Carlo cannot have made (true on other days) *
 
-> On alternate days, Charles tells the truth or lies all day long. In one newspaper, Carlo made exactly four of the following statements. Which one couldn't have done that day?
+> On alternate days, Charles tells the truth or lies all day long. On a certain day, Charles made exactly four of the following statements. Which one could he not have made that day?
 > 	
 > A) I lied yesterday and I will lie tomorrow.
 > 	
@@ -1175,7 +1191,7 @@ Product of the 8 external discs from the products of the squares*
 
 *Differential B-A of black cubes (three-colored 3x3x3 cube) *
 
-> 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. He also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes you can use to achieve your goal, how much is the difference B  A worth? A) 1 B) 3 C) 6 D) 7 E) 9 249 ·3 23 ·5 12 ·7 8 ·1 14 ·1 34 ·1 73 ·1 92 ·2 32 ·2 9· 31 ·3 7· 41 ·4 3· 47 22. On alternate days, Charles tells the truth or lies all day long. In a certain journal, Charles made exactly four of the following statements. Which cannot have
+> 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. She also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes she can use to achieve her goal, how much is the difference B - A worth? A) 1 B) 3 C) 6 D) 7 E) 9 249 ·3 23 ·5 12 ·7 8 ·1 14 ·1 34 ·1 73 ·1 92 ·2 32 ·2 9· 31 ·3 7· 41 ·4 3· 47 22. On alternate days, Charles tells the truth or lies all day long. On a certain day, Charles made exactly four of the following statements. Which cannot have
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_junior#q24|src_kangourou_2024_junior__Q24]]
@@ -1215,7 +1231,7 @@ Product of the 8 external discs from the products of the squares*
 
 *3)*
 
-> In the figure you see a square ABCD of 5 centimeters on the side. Each of the four segments it contains, parallel to the pair, has opposite ends and divides it into two trapezoids whose areas are in the ratio of 2 to 3. The CL segment and the DK segment are both 1 cm long. How many square centimetres is the area of the EFGH quadrilateral ? A) 25/29 B) 26/29 C) 24/29
+> In the figure you see a square ABCD of 5 centimeters on the side. Each of the four segments it contains, parallel in pairs, has its endpoints on opposite sides and divides it into two trapezoids whose areas are in the ratio of 2 to 3. The CL segment and the DK segment are both 1 cm long. How many square centimetres is the area of the EFGH quadrilateral ? A) 25/29 B) 26/29 C) 24/29
 > 	
 > D) 27/29 E) 28/29
 
@@ -1252,9 +1268,9 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of time at 4 km/h (run at three speeds) *
+*Fraction of time at 4 km/h (walk at three speeds) *
 
-> Matilde went for a walk. For the first half of the total time the employee walked at a speed of 2 km/h, then for half of the total route he kept the speed of 3 km/h and finally for the remaining time to complete the route he kept the speed of 4 km/h. For what fraction of the total time spent has the speed of 4 km/h been maintained? A) 1/14 B) 1/12 C) 1/7 D) 1/5 E) 1/4
+> Matilde went for a walk. For the first half of the total time he walked at a speed of 2 km/h, then for half of the total distance he kept the speed of 3 km/h and finally for the remaining time to complete the distance he kept the speed of 4 km/h. For what fraction of the total time spent has the speed of 4 km/h been maintained? A) 1/14 B) 1/12 C) 1/7 D) 1/5 E) 1/4
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_junior#q26|src_kangourou_2024_junior__Q26]]
@@ -1294,9 +1310,9 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of integers to be removed from 1.25 for two identical products*
+*Minimum number of integers to be removed from 1 to 25 for two identical products*
 
-> Consider the set of integers 1 to 25, including extremes. You want to remove some of them so that you can divide the sum of the remaining numbers into two subsets with this constraint: the product of the numbers belonging to one of the two must coincide with that of the numbers belonging to the other. What is the smallest number of integers that you can achieve? A) 4
+> Consider the set of integers 1 to 25, including extremes. You want to remove some of them so that you can divide the set of the remaining numbers into two subsets with this constraint: the product of the numbers belonging to one of the two must coincide with that of the numbers belonging to the other. What is the smallest number of integers by removing which you can achieve the goal? A) 4
 > 	
 > B) 5
 > 	
@@ -1340,11 +1356,18 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many strings of length between radius and diameter (20-gones) *
+*How many chords with length between the radius and the diameter (20-gon)*
 
-> On a circumference are marked 20 points, vertices of a regular 20-sided polygon. If for each pair of these points the rope is drawn which has them as ends, when are the lines drawn longer than the radius but less than the diameter of the circumference? A) 90
+> On a circle, 20 points are marked, vertices of a regular polygon with 20
+> sides. If for every pair of these points the chord that has them as endpoints is drawn, how
+> many of the drawn chords have length greater than the radius, but less than the diameter,
+> of the circle?
+> A) 90	
 > 	
-> B) 100 C) 120 D) 140 E) 160
+> B) 100	 	
+> C) 120	 	
+> D) 140	 	
+> E) 160
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_junior#q28|src_kangourou_2024_junior__Q28]]
@@ -1384,7 +1407,7 @@ Product of the 8 external discs from the products of the squares*
 
 *Little number of lines with assigned intersections*
 
-> We know that there are different lines in the plane and that one of them intersects exactly five lines, another one intersects exactly nine lines, and a third one intersects exactly 11. Which of the following is the smallest possible value for n ? A) 11
+> We know that there are n distinct lines in the plane and that one of them intersects exactly five lines, another one intersects exactly nine lines, and a third one intersects exactly 11. Which of the following is the smallest possible value for n ? A) 11
 > 	
 > B) 12
 > 	
@@ -1453,9 +1476,9 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For all pairs (m,n) the area of the OPQ triangle is 2024*
+*For how many pairs (m,n) the area of the OPQ triangle is 2024*
 
-> They are m and n positive integers with m < n. As illustrated in the figure, the three points P  (m, n), Q  (n, m) and O  (0, 0) are considered for an orthogonal Cartesian axis system. For how many pairs (m, n) is the area of the OPQ triangle 2024? A) 4
+> Let m and n be positive integers with m < n. As illustrated in the figure, the three points P ≡ (m, n), Q ≡ (n, m) and O ≡ (0, 0) are considered for an orthogonal Cartesian axis system. For how many pairs (m, n) is the area of the OPQ triangle 2024? A) 4
 > 	
 > B) 6
 > 	

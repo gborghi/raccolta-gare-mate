@@ -38,7 +38,7 @@ level: kangourou
 
 *The other two values of the row/column sums of Table 2x2*
 
-> The numbers 1, 2, 3 and 4 are written one for each cell in a 2x2 table. If the sums of the numbers written in each row and those of the numbers written in each column are calculated, two of the values obtained are 4 and 5. What are the other two? A) 6 e 6 B) 3 e 5 C) 4 e 5 D) 4 e 6 E) 5 e 6
+> The numbers 1, 2, 3 and 4 are written one for each cell in a 2x2 table. If the sums of the numbers written in each row and those of the numbers written in each column are calculated, two of the values obtained are 4 and 5. What are the other two? A) 6 and 6 B) 3 and 5 C) 4 and 5 D) 4 and 6 E) 5 and 6
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_marzo#q01|src_kangourou_2019_student_marzo__Q01]]
@@ -171,15 +171,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many beads has a pyramid with 23 triangular faces
+*How many edges does a pyramid with 23 triangular faces have*
 
-> How many beads does a pyramid have that has 23 triangular faces? A) 23
+> How many edges does a pyramid with 23 triangular faces have?
+> A) 23	
 > 	
-> B) 24
+> B) 24	
 > 	
-> C) 46
+> C) 46	
 > 	
-> D) 48 E) 69
+> D) 48 	 	
+> E) 69
 >
 
 **Answer:** C
@@ -217,11 +219,11 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cifres hidden in the three plates sum 11126*
+*Hidden digits in the three plates sum 11126*
 
 ![[src_kangourou_2019_student_marzo__prob5.png]]
 
-> Three four-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlaid. We know that the sum of the three numbers is 11126. What are the hidden numbers? A) 1, 4 e 7. B) 3, 3 e 3. C) 4, 5 e 6. D) 4, 5 e 7. (e) None of the preceding three.
+> Three four-digit numbers were each written on a plate. The figure shows how the plates are overlaid and the digits that remain visible. We know that the sum of the three numbers is 11126. What are the hidden digits? A) 1, 4 and 7. B) 3, 3 and 3. C) 4, 5 and 6. D) 4, 5 and 7. E) None of the preceding three.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_marzo#q05|src_kangourou_2019_student_marzo__Q05]]
@@ -258,9 +260,9 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last day with two to two different digits*
+*Last day with pairwise different digits*
 
-> Today's date can be written as 21/03/2019: the digits 0, 1 and 2 were used twice each. Which of the following numbers denotes the day on which two to two different digits were last used? A) 30
+> Today's date can be written as 21/03/2019: the digits 0, 1 and 2 were used twice each. Which of the following numbers denotes the day on which pairwise different digits were last used? A) 30
 > 	
 > B) 25
 > 	
@@ -305,9 +307,9 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the integer minimum with sum of 2019 digits*
+*First digit of the smallest integer with digit sum 2019*
 
-> Consider the smallest positive integer the sum of whose digits is 2019. What is the first significant number of that number (from left)? A) 2
+> Consider the smallest positive integer the sum of whose digits is 2019. What is the first significant digit of that number (from left)? A) 2
 > 	
 > B) 3
 > 	
@@ -354,11 +356,11 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image of the dice I can't see (probability dates) *
+*Which image of the die I can't see (probability given) *
 
 ![[src_kangourou_2019_student_marzo__prob8.png]]
 
-> The faces of an unusual dice contain only 1, 2 or 3 points; we know that the probability of a draw 1 is 1/2 and the probability of a draw 2 is 1/3. Which of the following images can I not see looking at this dice? A)
+> The faces of an unusual die contain only 1, 2 or 3 points; we know that the probability of getting 1 is 1/2 and the probability of getting 2 is 1/3. Which of the following images can I not see looking at this die? A)
 > 	
 > B)
 > 	
@@ -399,9 +401,9 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is equal to x*y=y-x associative*
+*Which equality holds for the associative operation x*y=y-x*
 
-> Michele wants to define a new operation on real numbers by putting x * y = y  x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equality must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
+> Michele wants to define a new operation on real numbers by putting x * y = y - x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equalities must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_student_marzo#q09|src_kangourou_2019_student_marzo__Q09]]
@@ -438,7 +440,7 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integes from 2^10 to 2^13 divisible by 210*
+*Integers from 2^10 to 2^13 divisible by 210*
 
 > How many of the integers from 210 to 213, extremes included, are divisible by 210? A) 2
 > 	
@@ -483,7 +485,7 @@ How many beads has a pyramid with 23 triangular faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum power of 3 divided by 7! + 8! + 9!
+Maximum power of 3 that divides 7! + 8! + 9!
 
 > The maximum power of 3 dividing the number 7! + 8! + 9! è A) 32.
 > 	
@@ -583,11 +585,11 @@ Maximum power of 3 divided by 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the parallel piped tank (heights 2.3,5) *
+*Volume of the parallelepiped tank (heights 2.3,5) *
 
 ![[src_kangourou_2019_student_marzo__prob13.png]]
 
-> A tank with the shape of a rectangular parallel piped contains 120 m3 of water, which only partially fills it. Depending on the face of the ground-based paralelepiped, the height of the water here is 2, 3 or 5 metres, as shown in the figures, which are not in scale. How many cubic meters is the volume of the tank? A) 160 B) 180 C) 200 D) 220 E) 240
+> A tank with the shape of a rectangular parallelepiped contains 120 m3 of water, which only partially fills it. Depending on the face of the parallelepiped resting on the ground, the height of the water is 2, 3 or 5 metres, as shown in the figures, which are not in scale. How many cubic meters is the volume of the tank? A) 160 B) 180 C) 200 D) 220 E) 240
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_marzo#q13|src_kangourou_2019_student_marzo__Q13]]
@@ -635,7 +637,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height and height of the man (three info with correct data) *
+*Age and height of the man (three info with correct data) *
 
 > The police have collected the following information, which is partly contradictory, about one man:
 > 	
@@ -645,11 +647,11 @@ Maximum power of 3 divided by 7! + 8! + 9!
 > 	
 > - is 29 years old and is 1.75 in height;
 > 	
-> - He's 29 years old and he's 1.70. It was subsequently found that for exactly three of these information, only one of the two data is correct. Then you can be sure that
+> - He's 29 years old and he's 1.70 m tall. It was subsequently found that for exactly three of these information, only one of the two data is correct. Then you can be sure that
 > 	
 > A) the man is 31 or 33 years old.
 > 	
-> (b) the man is 29 or 33 years old.
+> B) the man is 29 or 33 years old.
 > 	
 > C) the man is 29 years old and is less than 1.70 or more than 1.90.
 > 	
@@ -697,18 +699,24 @@ Maximum power of 3 divided by 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cm moves Q if P drops to 24 (carrots) *
+*By how many cm does Q move if P descends 24 (pulleys)*
 
 ![[src_kangourou_2019_student_marzo__prob15.png]]
 
-> The mechanism shown in the figure consists of three strings connected by two strings so that the string sections between one string and the other are vertical. If the end P of the rope moves 24 cm downward, how many centimetres upwards does the point Q move? A) 24
-> 	
-> B) 12
-> 	
-> C) 8
-> 	
-> D) 6
-> 	
+> The mechanism shown in the figure consists of three
+> pulleys connected to each other by two ropes in such a way
+> that the sections of rope between one pulley and the other are
+> vertical. If the end P of the rope moves
+> 24 cm downward, by how many centimeters does
+> point Q move upward?
+> A) 24	
+	
+> B) 12	
+	
+> C) 8	
+	
+> D) 6	
+	
 > E) 24/5
 
 **Answer:** D
@@ -754,7 +762,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 
 *Good integers with a maximum divisor of N-6*
 
-> We decided to call buono a positive integer N if its greatest divisor (excluding N itself) is N  6. How many positive integers are there? A) 1
+> We decided to call a positive integer good N if its greatest divisor (excluding N itself) is N - 6. How many positive integers "good" exist? A) 1
 > 	
 > B) 2
 > 	
@@ -798,9 +806,9 @@ Maximum power of 3 divided by 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Mary will win by fishing for the fruit candy
+The probability that Mary wins by drawing the fruit candy
 
-> Mary and John, in turn, fish for a candy from a bag containing 4 chocolate candies and one fruit. They decide whoever extracts the candy from the fruit wins. If John is the first to catch a candy, what are the odds that Mary will win? A) 2/5 B) 3/5
+> Mary and John take turns drawing a candy from a bag containing 4 chocolate candies and one fruit candy. They decide that whoever draws the fruit candy wins. If John is the first to draw a candy, what is the probability that Mary will win? A) 2/5 B) 3/5
 > 	
 > C) 1/2 D) 5/6 E) 1/3
 
@@ -879,7 +887,7 @@ The probability that Mary will win by fishing for the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum whole less the nested root of 20*
+*Largest integer less than the nested root of 20*
 
 > The largest integer smaller than √ 20 + √ 20 + √ 20 + √ 20 + √ 20 is A) 4.
 > 	
@@ -932,7 +940,7 @@ The probability that Mary will win by fishing for the fruit candy
 
 *Right result of (a+b)/c given two wrong results*
 
-> To calculate the value of , where a, b and c are three fixed positive integers, Giorgio types in the order on the keyboard a + b: c = and obtains as a result 11. Then he tries to type b + a: c = and, to his surprise, he gets 14. The calculator is programmed to calculate the divisions before the sums. If he had typed correctly a + b -------- c what would he have gotten? A) 1
+> To calculate the value of , where a, b and c are three fixed positive integers, Giorgio types in the order on the keyboard a + b: c = and obtains as a result 11. Then he tries to type b + a: c = and, to his surprise, he gets 14. At this point he understands that the calculator is programmed to calculate the divisions before the sums. If he had typed correctly a + b -------- c what would he have gotten? A) 1
 > 	
 > B) 2
 > 	
@@ -940,7 +948,7 @@ The probability that Mary will win by fishing for the fruit candy
 > 	
 > D) 4
 > 	
-> E) 5 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 5 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_marzo#q20|src_kangourou_2019_student_marzo__Q20]]
@@ -975,7 +983,7 @@ The probability that Mary will win by fishing for the fruit candy
 
 *Relation between sum a and product b of 1024 divisors*
 
-> If a is the sum of all the divisors (positive integers) of 1024 and b is their product, then A) (a  1)5 = b. B) (a + 1)5 = b. C) a5 = b. D) a5 – 1 = b.
+> If a is the sum of all the divisors (positive integers) of 1024 and b is their product, then A) (a – 1)5 = b. B) (a + 1)5 = b. C) a5 = b. D) a5 – 1 = b.
 > 	
 > E) a5 + 1= b.
 
@@ -1016,15 +1024,20 @@ The probability that Mary will win by fishing for the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which the equation has two solutions
+*For which a does the equation 2-|x|=ax have two solutions*
 
-> Equation 2     x  = ax has exactly two distinct solutions if and only if A is ≤ 1.
+> The equation 2 – | x | = ax  has exactly two distinct solutions if and only if
+> A) a ≤ 1.	
 > 	
-> B) –1 < a < 1.
+> B) –1 < a < 1.	
 > 	
-> C) a ≥ 1. D) a = 0.
+> C) a ≥ 1.	
+> D) a = 0.	
 > 	
-> E) a = 1 or a = 1. a + b -------- c
+> E) a = –1  or  a = 1.
+> a + b
+> -------- 
+>    c
 >
 
 **Answer:** B
@@ -1188,11 +1201,17 @@ The probability that Mary will win by fishing for the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of 8 straight axes by origin and parabola*
+*Product of the 8 abscissas of lines through the origin and parabola*
 
-> Four lines passing through the origin and two to two distinct lines intersect the equation parabola y = x2  2 determining 8 points all distinct from each other. What is the value of the product of these eight points? A) Only 16. B) Only  16. C) Only eight. D) Only  8.
+> Four lines passing through the origin and pairwise distinct intersect the parabola with
+> equation y = x2 – 2, determining 8 points all distinct from one another. What can the
+> product of the abscissas of these 8 points be?
+> A) Only 16.	
+> B) Only – 16.	
+> C) Only 8.	
+> D) Only – 8.	
 >    
-> E) It can take on several distinct values.
+> E) It can take several distinct values.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_student_marzo#q25|src_kangourou_2019_student_marzo__Q25]]
@@ -1228,17 +1247,18 @@ The probability that Mary will win by fishing for the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many integers z with z^2z-3 is the first
+*How many integers z with |z^2-2z-3| prime*
 
-> How many are the relative integers for which z2  2z  3z is a prime number? A) 1
+> How many relative integers z are there for which |z2 – 2z – 3| is a prime number?
+> A) 1	
 > 	
-> B) 2
+> B) 2	
 > 	
-> C) 3
+> C) 3	
 > 	
-> D) 4
+> D) 4	
 > 	
-> E) Infinite
+> E) Infinitely many
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_student_marzo#q26|src_kangourou_2019_student_marzo__Q26]]
@@ -1357,7 +1377,7 @@ How many integers z with z^2z-3 is the first
 
 *Value of a_2019 in succession (square sum +1) *
 
-> The first element a1 of the sequence a1, a2, a3, ... is equal to 49. For each n > 1, the number an+1 is the square of the number obtained by adding 1 to the sum of the numbers of an. For example, a2 = (4 + 9 + 1)2 = 196. How much is it worth in 2019 ? A) 121 B) 25
+> The first element a1 of the sequence a1, a2, a3, ... is equal to 49. For each n > 1, the number an+1 is the square of the number obtained by adding 1 to the sum of the digits of an. For example, a2 = (4 + 9 + 1)2 = 196. What is the value of a2019 ? A) 121 B) 25
 > 	
 > C) 64
 > 	
@@ -1462,7 +1482,7 @@ How many integers z with z^2z-3 is the first
 
 ![[src_kangourou_2019_student_marzo__prob30.png]]
 
-> Each box of the square in the figure must contain a number (and only one) so that each row and column contains one and only once each of the numbers 1, 2, 3, 4 and 5 and that the sum of the numbers in each of the three regions in which the square is divided by the polygons in bold is always the same. What number should be entered in the box in the upper right corner? A) 1
+> Each box of the square in the figure must contain a number (and only one) so that each row and column contains one and only once each of the numbers 1, 2, 3, 4 and 5 and that the sum of the numbers in each of the three regions in which the square is divided by the polylines in bold is always the same. What number should be entered in the box in the upper right corner? A) 1
 > 	
 > B) 2
 > 	
@@ -1470,7 +1490,7 @@ How many integers z with z^2z-3 is the first
 > 	
 > D) 4
 > 	
-> E) 5 2 ?
+> E) 5
 >
 
 **Answer:** C

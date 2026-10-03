@@ -30,9 +30,10 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
+*How many terms in the sum 1-3+5-7+... = 2013*
 
-> The sum of this year The sum of 1  3 + 5  7 + 9  ... is 2013. How many addons are there?
+> This year's sum     
+> The sum 1 – 3 + 5 – 7 + 9 – … equals 2013. How many terms are there?
 
 **Answer:** 2013
 [[Quesiti/src_kangourou_2013_squadre_f#q01|src_kangourou_2013_squadre_f__Q01]]
@@ -74,7 +75,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 
 ![[src_kangourou_2013_squadre_f__prob2.png]]
 
-> The numbered triangle A table of numbers looks like a triangle: in the figure you see a part of it. The last row is made up of integers from 1 to 10 inclusive; each number that appears in each row, up to the last row, is the sum of the two numbers that, in the next row, are one immediately to its left and the other immediately to its right. What is the only number that makes up the first line?
+> The numbered triangle A table of numbers looks like a triangle: in the figure you see a part of it. The last row is made up of integers from 1 to 10 inclusive; each number that appears in each row, up to the second-to-last row, is the sum of the two numbers that, in the next row, are one immediately to its left and the other immediately to its right. What is the only number that makes up the first line?
 
 **Answer:** 2816
 [[Quesiti/src_kangourou_2013_squadre_f#q02|src_kangourou_2013_squadre_f__Q02]]
@@ -103,9 +104,12 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle ABC with square ABCO row inscribed *
+*Angle ABC with rhombus ABCO inscribed*
 
-> A triangle ABC is inscribed in a centre circumference O such that the quadrilateral ABCO (its vertices are listed here in the anti-clockwise direction) is a triangle. How many degrees does the angle ABC measure?
+> The rhombus                
+> A triangle ABC is inscribed in a circle with center O in such a way that the quadrilateral 
+> ABCO (its vertices are listed here in counterclockwise order) is a rhombus. How many degrees does 
+> the angle ABC measure?
 
 **Answer:** 120
 [[Quesiti/src_kangourou_2013_squadre_f#q03|src_kangourou_2013_squadre_f__Q03]]
@@ -134,9 +138,11 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*without squares in cubes*
+*without squares or cubes*
 
-> Sequence 2, 3, 5, 6, 7, 10, ... contains all positive integers that are neither perfect squares nor perfect cubes. What number is 2013th in this sequence?
+> Without squares and without cubes      
+> The sequence 2, 3, 5, 6, 7, 10, … contains all positive integers that are neither perfect squares nor 
+> cubes. Which number occupies the 2013th position in this sequence?
 
 **Answer:** 2067
 [[Quesiti/src_kangourou_2013_squadre_f#q04|src_kangourou_2013_squadre_f__Q04]]
@@ -239,7 +245,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 \end{document}
 ```
 
-> A rectangle and a triangle. Watch the figure. KLM is a rectangle, each of the points P, Q, R and S is the middle point of the side of the rectangle on which it lies and T is the middle point of RS. If the area of the KLM rectangle is 70 square centimetres, how many square centimetres is the area of the PQT triangle?
+> A rectangle and a triangle. Watch the figure. KLM is a rectangle, each of the points P, Q, R and S is the middle point of the side of the rectangle on which it lies and T is the middle point of RS. If the area of the KLM rectangle is 70 square decimetres, how many square centimetres is the area of the PQT triangle?
 
 **Answer:** 1750
 [[Quesiti/src_kangourou_2013_squadre_f#q05|src_kangourou_2013_squadre_f__Q05]]
@@ -270,7 +276,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 
 *ABCD number with 4*ABCD = DCBA*
 
-> Read on the contrary What is the number of four significant digits ABCD (therefore with the number A of thousands other than 0) such that 4 × ABCD = DCBA?
+> Read backwards What is the four-digit number ABCD (with the thousands digit A different from 0) such that 4 × ABCD = DCBA?
 
 **Answer:** 2178
 [[Quesiti/src_kangourou_2013_squadre_f#q06|src_kangourou_2013_squadre_f__Q06]]
@@ -301,7 +307,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 
 *Numbers abc with a divisible by b and b by c*
 
-> Figure divides figure How many are the (positive) numbers of three digits (significant) abc such that a is divisible by b and b is divisible by c?
+> Digit divides digit How many are the (positive) numbers of three digits (significant) abc such that a is divisible by b and b is divisible by c?
 
 **Answer:** 44
 [[Quesiti/src_kangourou_2013_squadre_f#q07|src_kangourou_2013_squadre_f__Q07]]
@@ -339,7 +345,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 
 How many minutes has Emma walked (solar time)
 
-> There's only one road from Louis' house to Emma's. Every morning Luigi leaves his home by car and arrives at Emma's house at 9:00 a.m. On the morning of 28 October, Emma forgot that during the night the transition from legal time to solar time had taken place: she presented herself at 8.00 at the door of the house and, not seeing Luigi coming, she walked along the road going to meet Luigi's car. After a while she met the car that was going to pick her up: immediately Luigi stopped and reversed the march, Emma got on and the two arrived at Luigi's house 12 minutes early than usual. Louis drives at constant speed and no time was lost in the operation of reversing the march and taking Emma aboard. How many minutes did Emma walk?
+> There's only one road from Luigi's house to Emma's. Every morning Luigi leaves his home by car and arrives at Emma's house at 9:00 a.m.: she is ready and he takes her by car to his own house. On the morning of 28 October, Emma forgot that during the night the transition from legal time to solar time had taken place: she presented herself at 8.00 at the door of the house and, not seeing Luigi coming, she walked along the road going to meet Luigi's car. After a while she met the car that was going to pick her up: immediately Luigi stopped and reversed the march, Emma got on and the two arrived at Luigi's house 12 minutes early than usual. Luigi drives at constant speed and no time was lost in the operation of reversing the march and taking Emma aboard. How many minutes did Emma walk?
 
 **Answer:** 54
 [[Quesiti/src_kangourou_2013_squadre_f#q08|src_kangourou_2013_squadre_f__Q08]]
@@ -394,7 +400,7 @@ How many minutes has Emma walked (solar time)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACB angle from two isosceles triangles on the AB side*
+*Angle ACB from two isosceles triangles on side AB*
 
 ![[src_kangourou_2013_squadre_f__prob9.png]]
 
@@ -420,7 +426,12 @@ How many minutes has Emma walked (solar time)
 \end{document}
 ```
 
-> The angle In the triangle ABC shown in the figure, the points M and on the side AB are determined so that the segment A is as long as the segment AC and the segment BM is as long as the segment BC. The MC angle is 41 degrees. How many degrees does the ACB angle measure?
+> The angle      
+> In the triangle ABC in the figure, the points M and  on side AB are 
+> determined in such a way that the segment A is as long as the 
+> segment AC and the segment BM is as long as the segment BC. 
+> The angle MC measures 41 degrees. How many degrees does the angle 
+> ACB measure?
 
 **Answer:** 98
 [[Quesiti/src_kangourou_2013_squadre_f#q09|src_kangourou_2013_squadre_f__Q09]]
@@ -449,9 +460,11 @@ How many minutes has Emma walked (solar time)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient C of x2 in the product (1-x)...(1-10x) *
+*Coefficient C of x^2 in the product (1-x)...(1-10x)*
 
-> The coefficient by rotating the product (1  x) 1  2x) 1  3x) ... (1  10x) and collecting similar terms you get an expression of the type A + Bx + Cx2 + Dx3 +... + Mx10. How much is C?
+> The coefficient  
+> Expanding the product  (1 – x)(1 – 2x)(1 – 3x) … (1 – 10x)  and collecting like terms gives 
+> an expression of the form  A + Bx + Cx2 + Dx3 +… + Mx10. What is the value of C?
 
 **Answer:** 1320
 [[Quesiti/src_kangourou_2013_squadre_f#q10|src_kangourou_2013_squadre_f__Q10]]
@@ -483,9 +496,9 @@ How many minutes has Emma walked (solar time)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black cubes visible on the parallel piped 2013*
+*Black cubes visible on the parallelepiped 2013*
 
-> White cubes and black cubes We have a lot of white and black cubes, all of the same size, and we want to make a parallel piped formed from 2013 cubes so that, in each of the three directions, each parallel to a spike, there's more than one cubes and alternate white cubes and black cubes. If we start by placing a black cube on one of the eight vertices of the parallelepiped, how many of the black cubes will be visible on the outer surface of the parallelepiped?
+> White cubes and black cubes We have a lot of white and black cubes, all of the same size, and we want to make a parallelepiped formed from 2013 cubes so that, in each of the three directions, each parallel to an edge, there's more than one cubes and alternate white cubes and black cubes. If we start by placing a black cube on one of the eight vertices of the parallelepiped, how many of the black cubes will be visible on the outer surface of the parallelepiped?
 
 **Answer:** 742
 [[Quesiti/src_kangourou_2013_squadre_f#q11|src_kangourou_2013_squadre_f__Q11]]
@@ -514,9 +527,9 @@ How many minutes has Emma walked (solar time)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inter closer to 1000(x-y) between two sums *
+*Integer closest to 1000(x-y) between two sums*
 
-> You know that x is equal to 12/1 + 22/3 + 32/5 + ... + 102/19 and y is equal to 12/3 + 22/5 + 32/7 + ... + 102/21. What's the nearest integer to 1000(x  y) ?
+> You know that x is equal to 12/1 + 22/3 + 32/5 + ... + 102/19 and y is equal to 12/3 + 22/5 + 32/7 + ... + 102/21. What's the nearest integer to 1000(x - y) ?
 
 **Answer:** 5238
 [[Quesiti/src_kangourou_2013_squadre_f#q12|src_kangourou_2013_squadre_f__Q12]]
@@ -544,9 +557,9 @@ How many minutes has Emma walked (solar time)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of dividers by square in 2013*
+*Number of divisors of 2013 squared*
 
-> This year on the square How many distinct divisors, including 1 and itself, has the number 20132 ?
+> This year squared How many distinct divisors, including 1 and itself, does the number 2013^2 have?
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2013_squadre_f#q13|src_kangourou_2013_squadre_f__Q13]]
@@ -581,7 +594,7 @@ How many minutes has Emma walked (solar time)
 
 *Numbers with two final zeros produced by 7 consecutive <26*
 
-> Two zeros at the end How many are such numbers that: - their writing ends exactly with two zeros (i.e. the last two digits are zero, but not the thirdlast); - are they expressible as the product of seven consecutive positive integers all less than 26?
+> Two zeros at the end How many are such numbers that: - their writing ends exactly with two zeros (i.e. the last two digits are zero, but not the third-to-last); - are they expressible as the product of seven consecutive positive integers all less than 26?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2013_squadre_f#q14|src_kangourou_2013_squadre_f__Q14]]
@@ -613,7 +626,7 @@ How many minutes has Emma walked (solar time)
 
 *Measuring the AVC angle of the pentagonal pyramid*
 
-> The pentagonal pyramid The base of a V-vertical pyramid is a regular ABCDE pentagon and its five faces are equilateral triangles. What is the measure in degrees of the angle of AVC?
+> The pentagonal pyramid The base of a pyramid with vertex V is a regular pentagon ABCDE and its five faces are equilateral triangles. What is the measure in degrees of the angle AVC?
 >  
 >  
 > 

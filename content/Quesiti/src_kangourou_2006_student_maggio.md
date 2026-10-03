@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of absolute values on numbered circumference*
+*Minimum sum of absolute values on numbered circle*
 
-> Let's denote with $n$ an integer greater than 1 and assume that $n$ points of a circumference are numbered from 1 to $n$ in a completely random order. For each pair (not ordered) of adjacent points the absolute value of the difference of the two corresponding numbers is taken into account; all the absolute values thus obtained are therefore added. What is the minimum amount of this sum?
+> Let's denote with $n$ an integer greater than 1 and assume that $n$ points of a circle are numbered from 1 to $n$ in a completely random order. For each pair (not ordered) of adjacent points the absolute value of the difference of the two corresponding numbers is taken into account; all the absolute values thus obtained are therefore added. What is the minimum value of this sum?
 
 **Answer:** 2n-2
 [[Quesiti/src_kangourou_2006_student_maggio#qs1|src_kangourou_2006_student_maggio__QS1]]
@@ -63,7 +63,7 @@ level: kangourou
 
 > They are $p$ and $q$ two prime numbers, different from each other and both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily different from each other)? If the answer is yes, it gives a reason, if the answer is no, it gives a counterexample.
 
-**Answer:** e vero
+**Answer:** yes
 [[Quesiti/src_kangourou_2006_student_maggio#qs2|src_kangourou_2006_student_maggio__QS2]]
 
 
@@ -90,7 +90,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Longer and shorter diagonal difference in the 9-zone
+Longer and shorter diagonal difference in the 9-gon
 
 ![[src_kangourou_2006_student_maggio__probs3.png]]
 
@@ -130,13 +130,13 @@ Longer and shorter diagonal difference in the 9-zone
 
 > All points on a plane are colored either red or blue and there's at least one red dot and at least one blue dot. Consider the two configurations proposed below.
 > 
-> a. Each radius of one centimeter lying on the plane contains exactly one blue dot.
+> a. Each circumference of radius one centimeter lying on the plane contains exactly one blue dot.
 > 
-> b. Each radius of one centimeter lying on the plane contains exactly two blue dots.
+> b. Each circumference of radius one centimeter lying on the plane contains exactly two blue dots.
 > 
 > Is it possible that a)? Is it possible that b)? Reason for your answers.
 
-**Answer:** a no, b si
+**Answer:** a no, b yes
 [[Quesiti/src_kangourou_2006_student_maggio#qs4|src_kangourou_2006_student_maggio__QS4]]
 
 
@@ -162,7 +162,7 @@ Longer and shorter diagonal difference in the 9-zone
 
 *E=N?*
 
-> Four $a, b, c, d$ integers, with $a$ non-zero, are chosen so that the $E$ set of positive integers $n$ such that $an + b$ divides $cn + d$ is not finite. Can the set $E$ be different from the set $\mathbb{N}$ of positive integers? Reason for the answer.
+> Four $a, b, c, d$ integers, with $a$ non-zero, are chosen so that the $E$ set of positive integers $n$ such that $an + b$ divides $cn + d$ is not finite. Can the set $E$ be different from the set $\mathbb{N}$ of positive integers? Justify your answer.
 
 **Answer:** no
 [[Quesiti/src_kangourou_2006_student_maggio#qs5|src_kangourou_2006_student_maggio__QS5]]
@@ -195,7 +195,7 @@ Longer and shorter diagonal difference in the 9-zone
 
 ![[src_kangourou_2006_student_maggio__probs6.png]]
 
-> An equilateral triangle of the side $n$ ($n$ integer greater than 1) is divided into $n^2$ small equilateral triangles using segments parallel to the sides, as suggested by the figure. All points on the network (vertices of triangles) thus made are initially associated with the number 0, except for the four points marked with $\bullet$, to which the number 1 is associated. We want to make sure that all of the above points, including the last four, end up being associated with the number 0 after performing a finite number of moves, each of which is exclusively of the following type: add 1 or $-1$ simultaneously to each of the numbers at the four vertices of any rope that is formed by the union of two of the $n^2$ equilateral triangles small. For what values of $n$ can the project be implemented (and with what strategy)? (see figure)
+> An equilateral triangle of the side $n$ ($n$ integer greater than 1) is divided into $n^2$ small equilateral triangles using segments parallel to the sides, as suggested by the figure. All points on the network (vertices of triangles) thus made are initially associated with the number 0, except for the four points marked with $\bullet$, to which the number 1 is associated. We want to make sure that all of the above points, including the last four, end up being associated with the number 0 after performing a finite number of moves, each of which is exclusively of the following type: add 1 or $-1$ simultaneously to each of the numbers at the four vertices of any rhombus that is formed by the union of two of the $n^2$ equilateral triangles small. For what values of $n$ can the project be implemented (and with what strategy)? (see figure)
 
-**Answer:** solo n dispari
+**Answer:** only odd n
 [[Quesiti/src_kangourou_2006_student_maggio#qs6|src_kangourou_2006_student_maggio__QS6]]

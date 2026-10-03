@@ -93,7 +93,7 @@ level: kangourou
 
 *from how many years*
 
-> The sum of the numbers for 2023 is 7. How many years from now, for the first time in a year, will the sum of the numbers still be seven? A) 7
+> The sum of the digits of 2023 is 7. In how many years will we, for the first time, be in a year whose digits also sum to 7? A) 7
 > 	
 > B) 8
 > 	
@@ -142,7 +142,7 @@ level: kangourou
 
 ![[src_kangourou_2023_ecolier__prob3.png]]
 
-> The figure shows the dial of a clock and what Sarah sees after she overlaps it with a dark circle with two holes. Now Sara rotates the circle around her center. Which of these number pairs can you possibly see in the holes after rotation? A) 4 e 9 B) 5 e 9 C) 5 e 10 D) 6 e 9 E) 7 e 12
+> The figure shows the dial of a clock and what Sarah sees after she overlaps it with a dark circle with two holes. Now Sara rotates the circle around its center. Which of these number pairs can you possibly see in the holes after rotation? A) 4 and 9 B) 5 and 9 C) 5 and 10 D) 6 and 9 E) 7 and 12
 
 **Answer:** B
 [[Quesiti/src_kangourou_2023_ecolier#q03|src_kangourou_2023_ecolier__Q03]]
@@ -181,7 +181,7 @@ level: kangourou
 
 ![[src_kangourou_2023_ecolier__prob4.png]]
 
-> Alice has the four pieces of cardboard you see in the figure: with two of them she can form the square here on the side. What are they? A) 1 e 2 B) 1 e 3 C) 1 e 4 D) 3 e 4 E) 2 e 4
+> Alice has the four pieces of cardboard you see in the figure: with two of them she can form the square here on the side. What are they? A) 1 and 2 B) 1 and 3 C) 1 and 4 D) 3 and 4 E) 2 and 4
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_ecolier#q04|src_kangourou_2023_ecolier__Q04]]
@@ -238,7 +238,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minutes with exactly two powerings*
+*minutes with exactly two lights on*
 
 ![[src_kangourou_2023_ecolier__prob5.png]]
 
@@ -292,17 +292,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided for the purposes of this Regulation:
+*image seen*
 
 ![[src_kangourou_2023_ecolier__prob6.png]]
 
-> Charles drew drawings on a transparent sheet and then folded it along the drawn line as shown in the figure. Which of these images did you see after the bend? A)
+> Carlo made some drawings on a transparent sheet and then 
+> folded it along the dashed line as shown in the figure.
+> Which of these images did he see after folding? 
+> A)	
 >  	
-> B)
+>             B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+>             D) 	
 > 	
 > 	
 > E)
@@ -350,7 +353,7 @@ The following information shall be provided for the purposes of this Regulation:
 
 ![[src_kangourou_2023_ecolier__prob7.png]]
 
-> Anna has four discs of different sizes. He wants to construct a tower by overlapping 3 disks so that each disc is smaller than the disc on which it rests. How many ways can you do that? A) 1
+> Anna has four discs of different sizes. She wants to construct a tower by overlapping 3 disks so that each disc is smaller than the disc on which it rests. How many ways can she do that? A) 1
 > 	
 > B) 2
 > 	
@@ -403,7 +406,7 @@ The following information shall be provided for the purposes of this Regulation:
 
 ![[src_kangourou_2023_ecolier__prob8.png]]
 
-> On the black circle Daniel glued the two grey figures you see on his right, not cutting them, but in some cases partially overlapping them. Which of these figures can't have gotten it? A)
+> On the black circle Daniel glued the two grey figures you see on his right, not cutting them, but in some cases partially overlapping them. Which of these figures could he not have obtained? A)
 > 	
 > B)
 >    	
@@ -411,7 +414,7 @@ The following information shall be provided for the purposes of this Regulation:
 >   	
 > D)
 > 	
-> E) Questions from N. 9 al N. 16 is worth 4 points each.
+> E) Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_ecolier#q08|src_kangourou_2023_ecolier__Q08]]
@@ -451,7 +454,7 @@ The following information shall be provided for the purposes of this Regulation:
 
 ![[src_kangourou_2023_ecolier__prob9.png]]
 
-> Piera wants to cover the shape drawn here on the side with the five shapes that appear in the answers. What shape will cover the point pointed arrow? A) B) C)
+> Piera wants to cover the shape drawn here on the side with the five shapes that appear in the answers. What shape will cover the point indicated by the arrow? A) B) C)
 > 	
 > D) E)
 
@@ -490,11 +493,19 @@ The following information shall be provided for the purposes of this Regulation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*weight set aside *
+*weight set aside*
 
 ![[src_kangourou_2023_ecolier__prob10.png]]
 
-> Robi has a two-armed bodyweight of 1, 2, 3, 4, 5 and 6 kg. Robi puts five of the six weights on the scale as the figure suggests and sets aside the remainder. The balance is in balance. What weight did you set aside? A) The one of 1 kg. B) The two-kilogram. C) The three-pound one. D) The 4 kg. E) It cannot be established with certainty.
+> Robi has a two-pan balance and six weights:
+> of 1, 2, 3, 4, 5 and 6 kg. Robi puts five of the six
+> weights on the balance as suggested by the figure and sets aside the one left over. The balance
+> is in equilibrium. Which weight did he set aside?
+> A) The 1 kg one.
+> B) The 2 kg one.
+> C) The 3 kg one.
+> D) The 4 kg one.
+> E) It is not possible to determine it with certainty.
 >
 
 **Answer:** A
@@ -538,7 +549,7 @@ The following information shall be provided for the purposes of this Regulation:
 
 ![[src_kangourou_2023_ecolier__prob11.png]]
 
-> Ada has a numbered line 60 cm long; most of the tiles indicating millimeters and centimeters are missing on it. However, Ada can measure segments that are 10, 20, 30, 40, 50, or 60 centimeters long with a single measurement. Which of the following can be your line? A)
+> Ada has a numbered line 60 cm long; most of the marks indicating millimeters and centimeters are missing on it. However, Ada can measure segments that are 10, 20, 30, 40, 50, or 60 centimeters long with a single measurement. Which of the following can be her line? A)
 > 	
 > B)
 > 	
@@ -583,7 +594,7 @@ The following information shall be provided for the purposes of this Regulation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when west of Route B*
+*how many west of B Street*
 
 ![[src_kangourou_2023_ecolier__prob12.png]]
 
@@ -632,9 +643,9 @@ The following information shall be provided for the purposes of this Regulation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when with 2*
+*how many with 2*
 
-> Eight cars are in line at the port to board a ferry. Every car has two or three people. In total, these people are 19. How many cars exactly have two people in them? A) 2
+> Eight cars are in line at the port to board a ferry. Every car has two or three people. In total, these people are 19. How many cars contain exactly 2 people? A) 2
 > 	
 > B) 3
 > 	
@@ -688,7 +699,7 @@ The following information shall be provided for the purposes of this Regulation:
 
 ![[src_kangourou_2023_ecolier__prob14.png]]
 
-> A subway line has 6 stations A, B, C, D, E, F. The train stops at each station and, when it reaches one of the two terminals, reverses the heading. A motorist started his service shift at station B and his first stop was at station C. What station will be its 96th stop? A) A
+> A subway line has 6 stations A, B, C, D, E, F. The train stops at each station and, when it reaches one of the two terminals, reverses the heading. A driver started his service shift at station B and his first stop was at station C. What station will be his 96th stop? A) A
 > 	
 > B) B
 > 	
@@ -740,7 +751,7 @@ The following information shall be provided for the purposes of this Regulation:
 
 ![[src_kangourou_2023_ecolier__prob15.png]]
 
-> Luisa wants to color the circles in the figure so that each time two circles are connected by a segment, the two circles have different colors. What's the smallest number of colors you can get? A) 2
+> Luisa wants to color the circles in the figure so that each time two circles are connected by a segment, the two circles have different colors. What is the smallest number of colors she needs? A) 2
 > 	
 > B) 3
 > 	
@@ -804,21 +815,39 @@ The following information shall be provided for the purposes of this Regulation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*order of paintings*
+*order of the paintings*
 
 ![[src_kangourou_2023_ecolier__prob16.png]]
 
-> Sandra walks through a two-story maze from the entrance to the exit, never returning to her steps. In what order will you see the paintings on the wall? A)
+> Sandra crosses a maze on two floors from the entrance to the exit, without ever retracing
+> her steps. In what order will she see the paintings on the walls?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C)	
 >  	
-> D)
+> D) 	
 > 	
-> E) Street A Street B West East South North A B C D and F Entrance Exit Floor ground floor First floor
+> E) 
+> Route A
+> Route B
+> West
+> East
+> South
+> North
+> A
+> B
+> C
+> D
+> E
+> F
+> Entrance
+> Exit
+> Ground floor
+> First floor
 > 
-> The questions from N. 17 al N. Twenty-four is worth five points each.
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** A
 [[Quesiti/src_kangourou_2023_ecolier#q16|src_kangourou_2023_ecolier__Q16]]
@@ -917,7 +946,7 @@ The following table shows the number of species of kangaroos:
 
 ![[src_kangourou_2023_ecolier__prob18.png]]
 
-> Rebecca folds a square sheet of paper twice, as shown in the figure, where the stretched sections indicate the folding line. Then cut the angle along the segment indicated in the square you got. Finally he opens the sheet of paper. What figure will appear? A)
+> Rebecca folds a square sheet of paper twice, as shown in the figure, where the dashed segments indicate the folding line. Then cut the angle along the segment indicated in the square you got. Finally she opens the sheet of paper. What figure will appear? A)
 > 	
 > B)
 > 	
@@ -965,7 +994,7 @@ The following table shows the number of species of kangaroos:
 
 *how many different *
 
-> Elisa, Mario and Nicola always enter the dining room one at a time. Elisa is never the first, Mario is never the second and Nicholas is never the third. How many different orders can they enter? A) 1
+> Elisa, Mario and Nicola always enter the dining room one at a time. Elisa is never the first, Mario is never the second and Nicola is never the third. How many different orders can they enter? A) 1
 > 	
 > B) 2
 > 	
@@ -1057,9 +1086,9 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*blue bags of Adam*
+*blue balls of Adam*
 
-> Adam and Eve have 9 balls per head: some are red, others are blue, and overall, the red balls are 8. Eva has a number of blue balls that is twice the number of her red balls. How many blue balls does Adam have?
+> Adam and Eve have 9 balls each: some are red, others are blue, and overall, the red balls are 8. Eve has a number of blue balls that is twice the number of her red balls. How many blue balls does Adam have?
 
 - A) 3
 - B) 4
@@ -1104,11 +1133,22 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* order to obtain the result*
+*order to obtain the result*
 
 ![[src_kangourou_2023_ecolier__prob22.png]]
 
-> Elsa has two cars. In each case, you can enter a square sheet of paper: from the machine R, the rotating sheet 90° comes out clockwise, as shown in the first figure; instead, the machine S prints this image on the sheet: (a) RRS B) RRS C) RRS D) RRS E) RRS
+> Elsa has two "machines". Into each of them she can insert a square sheet of paper:
+> out of machine R comes the sheet rotated 90° clockwise, as the first figure
+> shows; on the other hand machine S stamps this image on the sheet:
+> , so that the sheet
+> when it comes out looks as shown in the second figure
+> In what order must Elsa operate the two machines to obtain the result shown
+> below?
+> A) SRR 		
+> B) RSR 		
+> C) RSS 		
+> D) RRS 		
+> E) SRS
 
 **Answer:** B
 [[Quesiti/src_kangourou_2023_ecolier#q22|src_kangourou_2023_ecolier__Q22]]
@@ -1154,7 +1194,7 @@ The following table shows the number of species of kangaroos:
 
 ![[src_kangourou_2023_ecolier__prob23.png]]
 
-> In each of the circles in the figure, Elena wrote an integer number chosen from 1 to 7, using all of them. He made sure that whenever two circles are at the ends of a bar, the sum of the numbers in them is the number written next to the bar. What number did you write in the shadowy circle? A) 1
+> In each of the circles in the figure, Elena wrote an integer number chosen from 1 to 7, using all of them. She made sure that whenever two circles are at the ends of a bar, the sum of the numbers in them is the number written next to the bar. What number did she write in the shaded circle? A) 1
 > 	
 > B) 2
 > 	
@@ -1213,7 +1253,7 @@ The following table shows the number of species of kangaroos:
 
 ![[src_kangourou_2023_ecolier__prob24.png]]
 
-> Maria blacked out exactly 5 boxes in a grid 4 × 4. Then he challenged five of his friends to guess which boxes he blacked out. Their answers are those given below. After looking at their drawings, Mary says, "One of you guessed all the boxes and each of the others just 4 boxes". What's the correct answer? A) B)
+> Maria blacked out exactly 5 boxes in a 4 × 4 grid. Then she challenged five of her friends to guess which boxes she blacked out. Their answers are those given below. After looking at their drawings, Maria says, "One of you guessed all the boxes and each of the others just 4 boxes". What's the correct answer? A) B)
 > 	
 > C)
 > 	

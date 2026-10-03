@@ -93,15 +93,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression value with repunit (11...1) *
+*Value of an expression with repunits (11...1)*
 
-> It 's easy to check how much is it worth ? A) 5
+> It is easy to verify that 	 	
+>    What is the value of                          ?
+> A) 5	
 > 	
-> B) 9
+> B) 9	
 >  	
-> C) 11
+> C) 11	
 > 	
-> D) 55
+> D) 55	
 > 	
 > E) 99
 
@@ -142,7 +144,7 @@ level: kangourou
 
 ![[src_kangourou_2013_cadet__prob3.png]]
 
-> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square foil that houses them? A) 2 B) 3 C) 4 D) 5 E) 6
+> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square sheet that houses them? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_cadet#q03|src_kangourou_2013_cadet__Q03]]
@@ -273,11 +275,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimize advanced cells by cutting pieces *
+*Minimum cells left over when cutting out pieces*
 
 ![[src_kangourou_2013_cadet__prob6.png]]
 
-> Anna has a square square sheet of paper like the one shown in the picture. By cutting along the lines drawn in the square, he cuts out some pieces that, possibly after being rotated in the plane or space, are superimposed on the one shown to the right. What is the minimum number of square cells that can advance after this operation? A) 0 B) 2	                 C) 4 D) 6 E) 8
+> Anna has a square sheet of graph paper like 
+> the one shown in the figure. By cutting along the lines drawn in the square she cuts out some pieces which, possibly 
+> after having been rotated in the plane or in space, can be superimposed on the one shown on the right. What is the minimum 
+> number of square cells that can be left over after 
+> this operation?
+> A) 0	
+>       B) 2	                 C) 4	
+>           D) 6	
+>       E) 8
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_cadet#q06|src_kangourou_2013_cadet__Q06]]
@@ -314,17 +324,23 @@ Minimize advanced cells by cutting pieces *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of digits sum with product number 24*
+*Sum of digits of the smallest number with digit product 24*
 
-> Rosa wants to find a positive integer whose product is 24. What is the sum of the numbers of the smallest number Rosa can find? A) 6
+> Rosa wants to find a positive integer whose digits have product 24. What
+> is the sum of the digits of the smallest number that Rosa can find?
+> A) 6	
+	
 > 	
-> B) 8
+> B) 8	
+	
 > 	
-> C) 9
+> C) 9	
+	
 > 	
-> D) 10
+> D) 10	
+	
 > 	
-> E) 11
+>  E) 11
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_cadet#q07|src_kangourou_2013_cadet__Q07]]
@@ -357,7 +373,7 @@ Minimize advanced cells by cutting pieces *
 
 *What average of children is not possible for 5 households*
 
-> The average number of children in 5 households cannot be A) 0.2. B) 1,2. C) 2,2. D) 2,4. E) 2,5.
+> The average number of children in 5 households cannot be A) 0,2. B) 1,2. C) 2,2. D) 2,4. E) 2,5.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_cadet#q08|src_kangourou_2013_cadet__Q08]]
@@ -441,7 +457,7 @@ Lisa's turn when Marco reaches her (source)
 
 *Sum of three integers from coupled products 14,10,35*
 
-> Three positive integers, multiplied by two to two, yield 14, 10, and 35. How much is their sum? A) 10
+> Three positive integers, multiplied two at a time, yield 14, 10, and 35. How much is their sum? A) 10
 > 	
 > B) 12
 > 	
@@ -524,7 +540,7 @@ Lisa's turn when Marco reaches her (source)
 
 The youngest of five girls by birth
 
-> Anna, Betta, Cinzia, Dina and Elisa have given us their dates of birth by mixing them: 20/02/2001, 12/03/2000, 20/03/2001, 12/04/2000 and 23/04/2001. Hannah and Zinthia were born on the same day of different months; and Dinah and Elisha were born on the same day of different months. Which is the youngest of the five girls? (A) Anna B) Betta C) Cinzia D) Dina E) Elisa α β γ δ
+> Anna, Betta, Cinzia, Dina and Elisa have given us their dates of birth by mixing them: 20/02/2001, 12/03/2000, 20/03/2001, 12/04/2000 and 23/04/2001. Anna and Cinzia were born on the same day of different months; and Dina and Elisa were born on the same day of different months. Which is the youngest of the five girls? (A) Anna B) Betta C) Cinzia D) Dina E) Elisa α β γ δ
 >
 
 **Answer:** B
@@ -558,7 +574,7 @@ The youngest of five girls by birth
 
 *Smaller angles of trapezoid with perimeter 5 and full sides*
 
-> The perimeter of a trapezoid is 5 and the lengths of its sides are expressed by integers. How many degrees do the two smaller corners of the trapezoid measure? (a) Both 30. B) Both 60. (c) Both 45. D) One 30 and the other 45. E) One 45 and the other 90.
+> The perimeter of a trapezoid is 5 and the lengths of its sides are expressed by integers. How many degrees do the two smaller angles of the trapezoid measure? A) Both 30. B) Both 60. C) Both 45. D) One 30 and the other 45. E) One 45 and the other 90.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2013_cadet#q13|src_kangourou_2013_cadet__Q13]]
@@ -594,11 +610,11 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which plane development does not form a cube*
+*Which net does not form a cube*
 
 ![[src_kangourou_2013_cadet__prob14.png]]
 
-> One and only one of the following development planes cannot be folded to form a cube. What kind? A) B)
+> One and only one of the following nets cannot be folded to form a cube. Which one? A) B)
 >          	
 > C) D)
 > 	
@@ -639,9 +655,9 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of impossible gaps between consecutive integers*
+*Impossible percentage of odd numbers among consecutive integers*
 
-> Luigi wrote some consecutive integers. Which of the following cannot be the percentage of odd numbers in written numbers? A) 40
+> Luigi wrote some consecutive integers. Which of the following cannot be the percentage of odd numbers among the numbers written? A) 40
 > 	
 > B) 45
 > 	
@@ -702,7 +718,7 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertices with minimum y/x ratio in the rectangle*
+*Vertex with minimum y/x ratio in the rectangle*
 
 ![[src_kangourou_2013_cadet__prob16.png]]
 
@@ -721,7 +737,7 @@ The youngest of five girls by birth
 \end{document}
 ```
 
-> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the right of the y-axis. For each of the vertices, we calculate the relationship between its y coordinate and its x coordinate. For which of the four points is this ratio the minimum? A) A B) B C) C D) D E) depends on the rectangle.
+> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the right of the y-axis. For each of the vertices, we calculate the ratio between its y coordinate and its x coordinate. For which of the four points is this ratio the minimum? A) A B) B C) C D) D E) depends on the rectangle.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2013_cadet#q16|src_kangourou_2013_cadet__Q16]]
@@ -755,9 +771,9 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference between consecutive numbers with figures for 2013*
+*Maximum difference between consecutive numbers with the digits of 2013*
 
-> I wrote all the four-digit numbers on the board that contained the same numbers as in 2013, arranging them in increasing order. What's the biggest difference between two consecutive numbers in this sequence? A) 702 B) 703 C) 693 D) 793 E) 198
+> I wrote all the four-digit numbers on the board that contain the same digits as 2013, arranging them in increasing order. What's the biggest difference between two consecutive numbers in this sequence? A) 702 B) 703 C) 693 D) 793 E) 198
 
 **Answer:** A
 [[Quesiti/src_kangourou_2013_cadet#q17|src_kangourou_2013_cadet__Q17]]
@@ -800,7 +816,7 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cells not intersected by diagonal 6x10 grid *
+*Cells not intersected by diagonals in a 6x10 grid*
 
 ![[src_kangourou_2013_cadet__prob18.png]]
 
@@ -814,7 +830,7 @@ The youngest of five girls by birth
 \end{document}
 ```
 
-> In the grid 6×8 shown in Figure 24 cells are not intersected by any of the two diagonals. If we trace the diagonals of a grid 6×10 how many cells are not intersected by any of the two diagonals? A) 28          B) 29          C) 30          D) 31            E) 32
+> In the grid 6×8 shown in the figure there are 24 cells are not intersected by any of the two diagonals. If we trace the diagonals of a grid 6×10 how many cells are not intersected by any of the two diagonals? A) 28          B) 29          C) 30          D) 31            E) 32
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_cadet#q18|src_kangourou_2013_cadet__Q18]]
@@ -870,15 +886,36 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image from the rear of the cube building*
+*Image from the back of the building of small cubes*
 
 ![[src_kangourou_2013_cadet__prob19.png]]
 
-> John built a square-plan building using cubes all equal to each other. For each cell in the base square, the figure indicates how many cubes the tower rises above that cell is made of. The figure also indicates what the front and rear of the building are in relation to this pattern. Looking at the building from the back, what's the image that appears? 4 2 3 2 3 3 1 2 2 1 3 1 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 2 1 1 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+> Giovanni built a building with a square base using small cubes all equal to each other. For each cell of the square base, the figure indicates how many cubes the tower rising above that cell is made of. The figure also indicates which are the front and the back of the building with respect to this diagram. Looking at the building from the back, which image appears?
+> 4
+> 2
+> 3
+> 2
+> 3
+> 3
+> 1
+> 2
+> 2
+> 1
+> 3
+> 1
+> 1
+> 2
+> 1
+> 2
+> BACK
+> FRONT
 > 
-> A)
+>         A)
 > 	
-> B) C) D) E)
+>          B) 		
+>         C) 		
+>           D)	 	
+>          E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_cadet#q19|src_kangourou_2013_cadet__Q19]]
@@ -928,7 +965,7 @@ The youngest of five girls by birth
 > 	
 > C) 76 D) 21
 > 	
-> E) 42 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 42 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2013_cadet#q20|src_kangourou_2013_cadet__Q20]]
@@ -965,7 +1002,7 @@ The youngest of five girls by birth
 
 *How many exchange operations to make 2013 appear*
 
-> The change operation on a number set consists of replacing each of the three numbers in the set with the sum of the other two. For example, the change operation transforms {3, 4, 6} into {10, 9, 7}; by applying change to this second change, the change {16, 17, 19}. Let's start from the tray {1, 2, 3}; how many times do we have to apply change consecutively because in the tray the number 2013 appears? A) 8 B) 9 C) 10 D) 2013 E) 2013 will never appear.
+> The change operation on a triple of numbers consists of replacing each of the three numbers in the triple with the sum of the other two. For example, the change operation transforms {3, 4, 6} into {10, 9, 7}; by applying change to this second triple, we obtain the triple {16, 17, 19}. Let's start from the triple {1, 2, 3}; how many times do we have to apply change consecutively for the number 2013 to appear in the triple? A) 8 B) 9 C) 10 D) 2013 E) 2013 will never appear.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_cadet#q21|src_kangourou_2013_cadet__Q21]]
@@ -1051,15 +1088,19 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum trees of 20 trees without 3 trees of two trees*
+*Maximum maples among 20 trees without 3 trees between two maples*
 
-> A gardener plans to plant 20 trees (peas and logs) along the riverfront promenade. He wants between two hedges, wherever they are, there never to be exactly three trees. How many of the 20 trees the gardener will plant will be acorns at most? A) 8
+> A gardener plans to plant 20 trees (maples and lindens) along the walkway 
+> that runs alongside the river. He wants that between two maples, in whatever position they are, there are 
+> never exactly three trees. At most how many, of the 20 trees that the gardener 
+> will plant, could be maples? 
+> A) 8	
 > 	
-> B) 10
+> B) 10	
 > 	
-> C) 12
+> C) 12	
 > 	
-> D) 14
+> D) 14	
 > 	
 > E) 16
 
@@ -1102,7 +1143,7 @@ The youngest of five girls by birth
 
 *Number of competitors in the field race*
 
-> Andrea and Daniel took part in a country race. In the order of arrival Andrew precedes a number of contestants twice that of those who precede Daniel and Daniel precedes a number of contestants that is one and a half times the number of those who precede Andrew. Andrea came twenty-first: how many competitors were there? A) 31
+> Andrea and Daniele took part in a cross-country race. In the order of arrival Andrea precedes a number of contestants twice that of those who precede Daniele and Daniele precedes a number of contestants that is one and a half times the number of those who precede Andrea. Andrea came twenty-first: how many competitors were there? A) 31
 > 	
 > B) 41
 > 	
@@ -1148,7 +1189,7 @@ The youngest of five girls by birth
 
 ![[src_kangourou_2013_cadet__prob25.png]]
 
-> Four cars enter a roundabout at the same time, each from different entrances, as shown in the figure. Each car makes less than a full lap around the round and each car comes out of a different exit from each other. How many different ways can this happen? A) 9           B) 12          C) 15          D) 24           E) 81
+> Four cars enter a roundabout at the same time, each from different entrances, as shown in the figure. Each car makes less than a full lap around the roundabout and each car comes out of a different exit from each other. How many different ways can this happen? A) 9           B) 12          C) 15          D) 24           E) 81
 
 **Answer:** A
 [[Quesiti/src_kangourou_2013_cadet#q25|src_kangourou_2013_cadet__Q25]]
@@ -1189,7 +1230,7 @@ The youngest of five girls by birth
 
 *Number of lines intersected by c*
 
-> There were a few lines drawn in the plan. The straight a intersects exactly three lines (different from itself) and the straight b intersects exactly four lines. The exact number n of lines intersected by line c is neither three nor four. Which of the following is number n ? A) 2
+> There were a few lines drawn in the plane. The straight a intersects exactly three lines (different from itself) and the straight b intersects exactly four lines. The exact number n of lines intersected by line c is neither three nor four. Which of the following is number n ? A) 2
 > 	
 > B) 5
 > 	
@@ -1197,7 +1238,7 @@ The youngest of five girls by birth
 > 	
 > D) 7
 > 	
-> E) No one.
+> E) none.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2013_cadet#q26|src_kangourou_2013_cadet__Q26]]
@@ -1232,11 +1273,17 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of first 2013 terms of succession of products*
+*Sum of the first 2013 terms of a sequence of products*
 
-> A sequence of numbers begins with these five terms: 1,  1,  1, 1,  1. Each term after the fifth is equal to the product of the two preceding it. For example, the sixth term is the product of the fourth and fifth. What is the sum of the first 2013 terms of this succession? A) – 1006 B) – 671 C) 0
+> A sequence of numbers begins with these five terms: 1, – 1, – 1, 1, – 1. 
+> Each term after the fifth is equal to the product of the two that precede it. For example the sixth term is the product of the fourth and the fifth. What is the sum of the first 
+> 2013 terms of this sequence?
+> A) – 1006	
+> B) – 671		
+> C) 0	
 > 	
-> D) 671 E) 1007
+> D) 671	 	
+> E) 1007
 
 **Answer:** B
 [[Quesiti/src_kangourou_2013_cadet#q27|src_kangourou_2013_cadet__Q27]]
@@ -1274,11 +1321,11 @@ The youngest of five girls by birth
 
 *Relation between perfect square and perfect cube numbers up to 2013^6*
 
-> Consider all integers from 1 to 20136 (extremes included): among them some numbers are perfect squares, others are perfect cubes. Denotes with Q the number of perfect squares and with C the number of perfect cubes from 1 to 20136: then A) Q = C. B) 2Q = 3C.
+> Consider all integers from 1 to 2013^6 (extremes included): among them some numbers are perfect squares, others are perfect cubes. Denote with Q the number of perfect squares and with C the number of perfect cubes from 1 to 2013^6: then A) Q = C. B) 2Q = 3C.
 > 	
 > C) 3Q = 2C.
 > 	
-> D) Q 3 = C 2. E) None of the previous reports is correct.
+> D) Q 3 = C 2. E) None of the previous relations is correct.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_cadet#q28|src_kangourou_2013_cadet__Q28]]
@@ -1351,11 +1398,17 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Properties of small numbers (sum of the three major divisors) *
+*Property of small numbers (sum of the three largest divisors)*
 
-> Let's say a positive integer N is small if it's smaller than the sum of its three major divisors (naturally excluding N itself). Which of the following statements is true? A) Every small number is divisible by 4. B) Every small number is divisible by 5. C) Every small number is divisible by 6. D) Every small number is divisible by 7. E) There are no small numbers.
+> We say that a positive integer N is small if it is smaller than the sum
+> of its three largest divisors (naturally excluding N itself). Which of the following statements is true?
+> A) Every small number is divisible by 4.          
+> B) Every small number is divisible by 5.        
+> C) Every small number is divisible by 6.         
+> D) Every small number is divisible by 7.      
+> E) There are no small numbers.
 > 
-> This is a list of the countries of the European Union.
+> STRINGA CADET 2013
 
 **Answer:** C
 [[Quesiti/src_kangourou_2013_cadet#q30|src_kangourou_2013_cadet__Q30]]

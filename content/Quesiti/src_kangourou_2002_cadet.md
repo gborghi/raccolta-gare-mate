@@ -83,15 +83,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little wheel wheels*
+*Turns of the small wheel*
 
 ![[src_kangourou_2002_cadet__prob2.png]]
 
-> In a car there are two toothed wheels arranged like those in the figure. The radius of the largest wheel is 3 times the radius of the other. What happens to the smaller wheel if the larger one turns against the clock (i.e. in the opposite direction to that of the clock hands)?
->  
-> A. It's a turn around time B. It 's three turns C-clockwise . It's three turns against time.
->  
-> D. It 's nine turns E-clockwise . It's nine laps ahead of schedule.
+> In a machine there are two gear wheels arranged like those in the figure. The
+> radius of the larger wheel is 3 times the radius of the other. What happens to the
+> smaller wheel if the larger one makes one turn in a counterclockwise direction (that is, in the direction
+> opposite to that of the hands of a clock)?
+> 
+> A.  it makes one turn in a clockwise direction
+> B.  it makes three turns in a clockwise direction
+> C.  it makes three turns in a counterclockwise direction
+> 
+> D.  it makes nine turns in a clockwise direction
+> E. it makes nine turns in a counterclockwise direction.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_cadet#q02|src_kangourou_2002_cadet__Q02]]
@@ -139,7 +145,7 @@ level: kangourou
 >  
 >  
 > 
-> Kangourou Italy 2002, category of Cadet. This item is not intended to be used.
+> Kangourou Italy 2002, category Cadet.
 >  
 > 2
 
@@ -222,9 +228,9 @@ level: kangourou
 
 *Shaded fraction of the rectangle*
 
-> Look at the figure. K, L, M, N are the mean points of the rectangle ABCD; similarly O, P, R, S are the mean points of the sides of the KLMN quadrilateral. What fraction of the area of the ABCD rectangle is shaded?
+> Look at the figure. K, L, M, N are the midpoints of the rectangle ABCD; similarly O, P, R, S are the midpoints of the sides of the KLMN quadrilateral. What fraction of the area of the ABCD rectangle is shaded?
 >                                      
-> A. 5 3         B. 3 2     C. 6 5        D. 4 3          E. 7 5 .
+> A. 3/5         B. 2/3     C. 5/6        D. 3/4          E. 5/7 .
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_cadet#q05|src_kangourou_2002_cadet__Q05]]
@@ -255,7 +261,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression with the highest score*
+*Expression with the highest result*
 
 > Which of the following expressions gives the greatest result?
 >  
@@ -391,14 +397,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False claim on animals*
+*False statement about animals*
 
-> Fabio, Giulia, Mauro and Nadia each own one animal. Their animals are a dog, a canary, a cat and a red fish. Mauro's animal has hair; Fabio's has 4 legs; Nadia has a bird and both Julia and Mauro do not own cats. Which of the following is false?
+> Fabio, Giulia, Mauro and Nadia each own only one animal. Their animals 
+>     are a dog, a canary, a cat and a goldfish. Mauro's animal has      
+>     fur; Fabio's has 4 legs; Nadia has a small bird and both Giulia and Mauro do not    
+>     own cats. Which of the following statements is false? 
 >  
 > 
-> Kangourou Italy 2002, category of Cadet. This item is not intended to be used.
+> Kangourou Italia 2002, Cadet category.     Page No.  
 >  
-> 3 A. Fabio has a dog B. Nadia has a C-canary. Julia has a D-fish. Fabio has an E cat. Mauro has a dog.
+> 3 
+>      A. Fabio has a dog  
+> B. Nadia has a canary 
+> C. Giulia has a fish 
+> D. Fabio has a cat  
+> E. Mauro has a dog
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_cadet#q09|src_kangourou_2002_cadet__Q09]]
@@ -436,7 +450,7 @@ Maximum number of plums
 > A box of apples costs 2 euros, a box of pears costs 3 euros and a box of plums costs 4 euros. If eight boxes of fruit cost 23 euros, how many of them, at most, can contain plums? A. 1          B. 2          C. 3          D. 4          E. 5.
 >  
 >  
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2002_cadet#q10|src_kangourou_2002_cadet__Q10]]
@@ -505,9 +519,9 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Persons on board before shipwreck*
+*People on board before the shipwrecked people*
 
-> One ship collects 30 wrecks at sea. Supplies on board before the encounter would have been sufficient for 60 days, but only become sufficient for 50 days once the shipwrecked people set foot on the ship. Assuming that all people on board consume the same amount of food, how many people were on board before the shipwreck?
+> A ship picks up 30 shipwrecked people at sea. Supplies on board before the encounter would have been sufficient for 60 days, but only become sufficient for 50 days once the shipwrecked people set foot on the ship. Assuming that all people on board consume the same amount of food, how many people were on board before the shipwreck?
 >  
 > A. 15 B. 40 C. 110 D. 140 E. 150.
 
@@ -546,7 +560,7 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total tops with blue eyes*
+*Total mice with blue eyes*
 
 > A certain colony is 25% white and 75% black. Among white mice, 50% have blue eyes while among black mice only 20% have blue eyes. Knowing that 99 mice have blue eyes, how many mice does the colony consist of?
 >  
@@ -608,10 +622,10 @@ Maximum number of plums
 >  
 > B. 15 / 4 C. π / 2 D. 5
 >   
-> E. 5 2 .
+> E. 5/2 .
 >  
 > 
-> Kangourou Italy 2002, category of Cadet. This item is not intended to be used.
+> Kangourou Italy 2002, Cadet category.
 >  
 > 4
 
@@ -645,11 +659,14 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the weights of the five boys*
+*Sum of the weights of the five boys*
 
-> Five guys climb pairs on a scale in every possible combination. The weight of beds is, in kilograms: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding up the weights of the five boys gets
+> Five boys get on a scale in pairs in all possible combinations. 
+> The weights read are, in kg: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding the weights 
+> of the five boys gives 
 >  
-> A. 225 kg       B. 230 kg C. 239 kg    D. 240 kg      E. 247 kg
+> A. 225 kg       B. 230 kg  
+>  C. 239 kg    D. 240 kg      E. 247 kg
 
 **Answer:** C
 [[Quesiti/src_kangourou_2002_cadet#q15|src_kangourou_2002_cadet__Q15]]
@@ -849,17 +866,17 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds on a moving scale upwards*
+*Seconds on an ascending escalator*
 
-> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by climbing the steps of a moving ladder when it is not running; he takes 60 seconds when the ladder is running, but he lets himself be carried without moving. How many seconds does it take if the ladder is running and at the same time he climbs the stairs?
+> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by climbing the steps of an escalator when it is not running; he takes 60 seconds when the escalator is running, but he lets himself be carried without moving. How many seconds does it take if the escalator is running and at the same time he climbs the stairs?
 >  
 > A. 36             B. 75 C. 45 D. 30 E. 50
 > 
-> Kangourou Italy 2002, category of Cadet. This item is not intended to be used.
+> Kangourou Italy 2002, category Cadet.
 >  
 > 5
 >  
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_cadet#q20|src_kangourou_2002_cadet__Q20]]
@@ -890,7 +907,7 @@ Minimum coins on the 2x9 grid
 
 *Minimum divisors of n divisible by 21 and 9 *
 
-> A positive integer n is divisible by 21 and by 9. What is the minimum number of positive integers that must have n (1 and n inclusive)?
+> A positive integer n is divisible by 21 and by 9. What is the minimum number of positive divisors that n must have (1 and n inclusive)?
 >  
 > A. 3           B. 4           C. 5           D. 6           E. 7.
 
@@ -943,9 +960,9 @@ Minimum coins on the 2x9 grid
 
 *Distinct pieces with three out of five colours*
 
-> A game consists of pieces in the shape of an equilateral triangle, each divided into three equal parts, each colored with different colors (see. Figure, where three pieces are present and where equal numbers correspond to equal colours). If there are 5 colours available and the game contains all possible combinations of these colours, how many distinct pieces must the game consist of? Watch your step. The pieces may be rotated: therefore two pieces using the colours 1, 2, 3 such as those indicated in the figure with (*) and (**) shall be considered equal, but different from the piece indicated with (***).
+> A game consists of pieces in the shape of an equilateral triangle, each divided into three equal parts, each colored with different colors (see. Figure, where three pieces are present and where equal numbers correspond to equal colours). If there are 5 colours available and the game contains all possible combinations of these colours, how many distinct pieces must the game consist of? Attention. The pieces may be rotated: therefore two pieces using the colours 1, 2, 3 such as those indicated in the figure with (*) and (**) shall be considered equal, but different from the piece indicated with (***).
 >  
-> A. 20         B. 125          C. 60          D. 30          E. 3 5 3 .
+> A. 20         B. 125          C. 60          D. 30          E. 35
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_cadet#q22|src_kangourou_2002_cadet__Q22]]
@@ -977,9 +994,9 @@ Minimum coins on the 2x9 grid
 
 *Day of the week of the 20th of the month*
 
-> In the same month, three Sundays fell into equal days. What day of the week was the 20th of that month?
+> In the same month, three Sundays fell on even days. What day of the week was the 20th of that month?
 >  
-> A. Monday B. Tuesday C. Wednesday D. Thursday E. I'm going to be there on Saturday.
+> A. Monday B. Tuesday C. Wednesday D. Thursday E. Saturday.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_cadet#q23|src_kangourou_2002_cadet__Q23]]
@@ -1028,7 +1045,7 @@ Minimum coins on the 2x9 grid
 > A. 7 and 5 are not in the same sector B. 8 and 4 are in the same sector C. 12 and 3 are not in the same sector D. 11, 1 and 5 are in the same sector E. 2, 11 and 9 are in the same sector.
 >  
 > 
-> Kangourou Italy 2002, category of Cadet. This item is not intended to be used.
+> Kangourou Italy 2002, category Cadet.
 >  
 > 6
 
@@ -1063,7 +1080,7 @@ Minimum coins on the 2x9 grid
 
 *Most intersections of lines and circles*
 
-> In the plane, draw two different circumferences and three different directions. What is the maximum number of points where at least two of these geometric entities intersect?
+> In the plane, draw two different circles and three different lines. What is the maximum number of points where at least two of these geometric entities intersect?
 >  
 > A. 18        B. 17        C. 16        D. 15        E. 14.
 
@@ -1101,9 +1118,16 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle to the point of application after folding*
+*Angle with the question mark after folds*
 
-> By folding a square sheet of paper you get a pentagon: first the sheet was folded, making a pin in the top C, so as to carry the sides BC and DC on the AC diagonal and then folded the shape thus obtained so as to carry the top C on top A (v. (Figure 1). What is the width of the angle marked with the point of application?
+> By folding a square sheet of paper
+> a pentagon was obtained: first the sheet was
+> folded, pivoting
+> on vertex C, so as to
+> bring sides BC and DC onto
+> diagonal AC, and then the shape thus obtained was
+> folded so as to bring vertex C onto vertex A (see
+> figure). What is the measure of the angle marked with the question mark?
 >  
 > A. 104°      B. 106°30’      C. 108°      D. 112°30’      E. 114°30’.
 
@@ -1139,9 +1163,9 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubets with a single painted face*
+*Small cubes with a single painted face*
 
-> A cube with a side length of 5 cm is made up of side cubes of 1 cm. Let's take three rows of cubes as shown in the figure and dip the remaining solid in a paint jug. How many cubes have one painted face?
+> A cube with a side length of 5 cm is made up of small cubes of 1 cm. Let's take three rows of cubes as shown in the figure and dip the remaining solid in a paint jug. How many cubes have one painted face?
 >  
 > A. 30 B. 26 C. 40        D. 48         E. 24.
 
@@ -1177,7 +1201,7 @@ Minimum coins on the 2x9 grid
 
 *sum of all numbers with digits 1,2,3,4*
 
-> Consider the sum of all 4-digit integers formed by the digits 1, 2, 3, 4, no repetition. The sum of all the numbers in this set is
+> Consider the set of all 4-digit integers formed by the digits 1, 2, 3, 4, no repetition. The sum of all the numbers in this set is
 >  
 > A. 55550         B. 99990 C. 66660        D. 100000 E. 98760.
 

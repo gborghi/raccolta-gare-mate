@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible 53 people with 11 strokes each*
+*Possible 53 people with 11 handshakes each*
 
-> There are 53 people at a party. Is it possible that each of them shake hands with exactly 11 other guests? Justify the answer.
+> There are 53 people at a party. Is it possible that each of them shakes hands with exactly 11 other guests? Justify the answer.
 
 **Answer:** No
 [[Quesiti/src_kangourou_2003_student_finale#qs1|src_kangourou_2003_student_finale__QS1]]
@@ -94,11 +94,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inscribed/excribed circle beam hypotenuse*
+*Hypotenuse from inradius/exradius*
 
 ![[src_kangourou_2003_student_finale__probs3.png]]
 
-> Determine the length of the hypotenuse of a right triangle $T$ by: - the radius $r$ of the circumference inscribed in $T$; - the radius $R$ of the outer circumference at $T$, to which the hypotenuse of $T$ and the extensions of the two catets of $T$ are tangent.
+> Determine the length of the hypotenuse of a right triangle $T$ knowing:
+> - the radius $r$ of the circle inscribed in $T$;
+> - the radius $R$ of the circle external to $T$, to which the hypotenuse of $T$ and the extensions of the two legs of $T$ are tangent.
 
 **Answer:** R-r
 [[Quesiti/src_kangourou_2003_student_finale#qs3|src_kangourou_2003_student_finale__QS3]]
@@ -125,9 +127,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of completing an album with 5 digits*
+*Probability of completing an album with 5 stickers*
 
-> A small album contains four individual copies. By purchasing five at random, what is the probability (expressed by a number between $0$ and $1$) of completing the album?
+> A small album holds 4 stickers that are sold individually. Buying five at random, what is the probability (expressed as a number between $0$ and $1$) of completing the album?
 
 **Answer:** 15/64
 [[Quesiti/src_kangourou_2003_student_finale#qs4|src_kangourou_2003_student_finale__QS4]]
@@ -155,7 +157,7 @@ level: kangourou
 
 *Now with overlapping hands*
 
-> The dial of a clock only returns the 12 numbers corresponding to the hours; its three hands (hour, first minute, second minute) move continuously. At this moment (we're in the morning) the second hand indicates exactly one of the 12 numbers and in less than half an hour, the hour hand and the first minute hand will overlap exactly. What time is it?
+> The dial of a clock only shows the 12 numbers corresponding to the hours; its three hands (hour, first minute, second minute) move continuously. At this moment (we're in the morning) the second hand indicates exactly one of the 12 numbers and in less than half a second, the hour hand and the first minute hand will overlap exactly. What time is it?
 
 **Answer:** 9h49'5"
 [[Quesiti/src_kangourou_2003_student_finale#qs5|src_kangourou_2003_student_finale__QS5]]
@@ -186,5 +188,5 @@ level: kangourou
 
 > An examination committee shall be composed of seven members. The evidence texts shall be kept in a safe which can be closed with two-to-two different locks. How many locks must be used and how many keys must be given to each Commissioner in total if each group of four Commissioners is to be able to open the safe, but no group of three is?
 
-**Answer:** 35 lucchetti 20 chiavi
+**Answer:** 35 locks, 20 keys
 [[Quesiti/src_kangourou_2003_student_finale#qs6|src_kangourou_2003_student_finale__QS6]]

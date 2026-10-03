@@ -106,7 +106,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The final figure is 1! + 2! +... + 2002!
+The last digit of 1! + 2! +... + 2002!
 
 > For every positive integer n, let's put it with n! The product of all positive integers less than or equal to n, each taken only once (e.g. we have 4! = 24). Determine the last digit (decimal representation) of the number 1! + 2! + 3! + … + 2002!
 >  
@@ -144,7 +144,7 @@ The final figure is 1! + 2! +... + 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third digit integers with at least two equal *
+*Three-digit integers with at least two equal digits*
 
 > How many positive integers are represented decimally by three significant digits of which at least two are equal?
 >  
@@ -187,9 +187,9 @@ The final figure is 1! + 2! +... + 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product ab with MCD 3 and coefficient 4/10*
+Product ab with GCD 3 and quotient 4/10*
 
-> Let a and b be two positive integers whose maximum common divisor is 3. Knowing that the coefficient a/b is 4/10, what is the product a·b worth?
+> Let a and b be two positive integers whose greatest common divisor is 3. Knowing that the quotient a/b is 4/10, what is the product a·b worth?
 >  
 > A. 18 B. 10
 >  
@@ -198,7 +198,7 @@ Product ab with MCD 3 and coefficient 4/10*
 > E. 90
 >  
 > 
-> Student of the year 2002. This item is not intended to be used. 2
+> Student 2002. Page N. 2
 
 **Answer:** E
 [[Quesiti/src_kangourou_2002_student#q04|src_kangourou_2002_student__Q04]]
@@ -227,11 +227,12 @@ Product ab with MCD 3 and coefficient 4/10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spieces of a prism with 2002 vertices*
+*Edges of a prism with 2002 vertices*
 
-> A prism has 2002 vertices. What's the number of his claws?
+> A prism has 2002 vertices. What is the number of its edges? 
 >  
-> A. 3003 B. 1001     C. 2002      D. 4002       E. 2001
+> A. 3003 
+>    B. 1001     C. 2002      D. 4002       E. 2001
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_student#q05|src_kangourou_2002_student__Q05]]
@@ -266,7 +267,7 @@ Product ab with MCD 3 and coefficient 4/10*
 
 *Reduction in the volume of melting ice*
 
-> When frozen, water increases its volume by 1 / 11. How much less ice does the volume decrease when water returns?
+> When frozen, water increases its volume by 1 / 11. By how much does the volume of ice decrease when, melting, it returns to water?
 >  
 > A. 1 / 11 B. 1 / 10 C. 1 / 12 D. 1 / 13 E. 1 / 14
 
@@ -348,11 +349,11 @@ Product ab with MCD 3 and coefficient 4/10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Percentage of glasses with water at 45°C
+Percentage of glass with water at 45°
 
 ![[src_kangourou_2002_student__prob8.png]]
 
-> A basic cylindrical glass partially filled with water and tilted to 45° is shown in the figure. What percentage of the glass contains water?
+> A cylindrical glass with base partially filled with water and tilted to 45° is shown in the figure. What percentage of the glass contains water?
 >  
 > A. less than 25% B. 25% C. 33% D. 33,333%
 >  
@@ -513,7 +514,7 @@ Percentage of glasses with water at 45°C
 
 ![[src_kangourou_2002_student__prob11.png]]
 
-> The side figure shows 4 triangles with areas Ai (i = 0, 1, 2, 3). The triangle of area A0 is rectangular, the other three are equilateral. Then it is necessary:
+> The side figure shows 4 triangles with areas Ai (i = 0, 1, 2, 3). The triangle of area A0 is right-angled, the other three are equilateral. Then it is necessary:
 >  
 >  
 > A. A1 + A2 =A3 B. (A1 )2 + (A2 )2 = (A3 )2
@@ -564,7 +565,7 @@ Percentage of glasses with water at 45°C
 
 ![[src_kangourou_2002_student__prob12.png]]
 
-> The abstract sculpture seen in the figure next to it was obtained by removing a rectangular parallel piped from a solid that was originally a cube. The volume of the original cube was 512 dm3. What is the total area of the sculpture?
+> The abstract sculpture seen in the figure next to it was obtained by removing a rectangular parallelepiped from a solid that was originally a cube. The volume of the original cube was 512 dm3. What is the total area of the sculpture?
 >  
 >  
 > A. 320 dm2 B. 336 dm2 C. 384 dm2 D. 468 dm2
@@ -606,13 +607,20 @@ Percentage of glasses with water at 45°C
 <div class="qlang-split" data-lang="en"></div>
 
 
-Name of the son of John
+*Name of Giovanni's son*
 
-> Peter and his son and John and his son are present at a fishing race. Peter caught as many fish as his son. John, on the other hand, caught three times as many fish as his son. Together they caught 35 fish. Peter's son's name is Luke. What is John's son's name?
+> At a fishing competition there are Pietro with his son and Giovanni with his 
+> son. Pietro caught as many fish as his son caught. Giovanni instead 
+> caught triple the number of fish of his son. Together they caught 
+> 35 fish. Pietro's son is called Luca. What is the name of Giovanni's 
+> son? 
 >  
-> A. the information provided is contradictory B. John C. Peter
+> A. the information provided is contradictory 
+> B. Giovanni 
+> C. Pietro
 >  
-> D. I'm not sure. There's not enough information to answer.
+> D. Luca 
+> E. there is not enough information to answer
 
 **Answer:** C
 [[Quesiti/src_kangourou_2002_student#q13|src_kangourou_2002_student__Q13]]
@@ -651,7 +659,7 @@ Name of the son of John
 
 *Matches drawn in the tournament*
 
-> Ten teams participate in a football tournament (each team plays all the others once and only once). At the end of each match, the winning team receives 3 points and the losing team receives 0 points. Adding up the total points from the ten teams, you get 130. How many matches ended in a draw?
+> Ten teams participate in a football tournament (each team plays all the others once and only once). At the end of each match, the winning team receives 3 points and the losing team receives 0 points; in case of a draw, 1 point is awarded to both teams. Adding up the total points from the ten teams, you get 130. How many matches ended in a draw?
 >  
 > A. 1 B. 2 C. 3 D. 4 E. 5
 
@@ -693,13 +701,13 @@ Name of the son of John
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduce expenses by three amendments*
+*Reduce expenses with three modifications*
 
-> A change to an installation in an industrial process can reduce production costs by 50%; a different change can reduce production costs by 40%, while a third change can reduce production costs by 10%. What percentage would production costs be reduced if we introduced the three independent amendments at the same time?
+> By making a modification to an installation in an industrial process can reduce production costs by 50%; a different modification can reduce production costs by 40%, while a third modification allows a reduction of production costs by 10%. What percentage would production costs be reduced if we introduced the three modifications, which are independent of each other, at the same time?
 >  
 > A. 100 % B. 73 % C. 92 % D. 87 % E. 67 %
 > 
-> Student of the year 2002. This item is not intended to be used. 4
+> Student 2002. Page N. 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_student#q15|src_kangourou_2002_student__Q15]]
@@ -742,7 +750,7 @@ Name of the son of John
 
 ![[src_kangourou_2002_student__prob16.png]]
 
-> How much does the angle formed by segments AB and BC measure, knowing that A, B and C are the midpoints of the cubes?
+> How much does the angle formed by segments AB and BC measure, knowing that A, B and C are the midpoints of the cube's edges?
 >  
 > A. 90°
 >  
@@ -791,7 +799,7 @@ Name of the son of John
 
 ![[src_kangourou_2002_student__prob17.png]]
 
-> Some objects of four types, A, B, C, D, arranged on three scales, as shown in the figure, balance them. How many C-type objects do a B-type object weigh ?
+> Some objects of four types, A, B, C, D, arranged on three scales, as shown in the figure, keep them in equilibrium. How many C-type objects balance a B-type object ?
 >  
 >  
 >  
@@ -850,7 +858,7 @@ Name of the son of John
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of circles in the triangle*
+*Radius r of circles in the triangle*
 
 ![[src_kangourou_2002_student__prob18.png]]
 
@@ -869,7 +877,7 @@ Name of the son of John
 \end{document}
 ```
 
-> The 'triangle' in the figure on the side is formed by circles of the same radius r. The height of the triangle is 2. What 's the size of the r-ray ?
+> The 'triangle' in the figure on the side is formed by circles of the same radius r. The height of the triangle is 2. What is the radius r ?
 >  
 >  
 > A. 1 / (1 + √ 3) B. 2 / (1 + √ 3) C. 2 / (2 + √ 3)
@@ -914,7 +922,7 @@ Name of the son of John
 
 *Time for Achilles and the turtle*
 
-> Achilles' fast-footed chases the turtle that walks slowly in front of him. The initial distance between them is 990 meters. The speed of Achilles is 10 meters per second, the speed of the turtle is 1 meter every 10 seconds. How long before Achilles reaches the turtle?
+> Fast-footed Achilles chases the turtle that walks slowly in front of him. The initial distance between them is 990 meters. The speed of Achilles is 10 meters per second, the speed of the turtle is 1 meter every 10 seconds. How long before Achilles reaches the turtle?
 >  
 > A. 1 minute and 40 seconds B. 990 seconds
 >  
@@ -976,7 +984,7 @@ Name of the son of John
 >  
 >  
 > 
-> Student of the year 2002. This item is not intended to be used. 5 Questions from N. 21 al N. 30 is worth 5 points.
+> Student 2002. Page N. 5. Questions from N. 21 to N. 30 are worth 5 points.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_student#q20|src_kangourou_2002_student__Q20]]
@@ -1013,7 +1021,7 @@ Name of the son of John
 
 *Non-degenerate triangles of 10 points *
 
-> There are exactly ten points in the plan. Five of these are on a straight line and no other straight line contains more than two points between those data. How many non-degenerate triangles have three of the ten data points as vertices?
+> There are exactly ten points in the plane. Five of these are on a straight line and no other straight line contains more than two points among the given points. How many non-degenerate triangles have three of the ten given points as vertices?
 >  
 > A. 20 B. 50 C. 70 D. 100 E. 110
 
@@ -1050,9 +1058,9 @@ Name of the son of John
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum k with 2001^k divided by 2002!
+Maximum k such that 2001^k divides 2002!
 
-> Consider the issue of 2002! = 1 ⋅ 2 ⋅ 3 ⋅ … ⋅ 2002. Clearly 2001 divides 2002! Since 2002! = 2000! ⋅ 2001 ⋅ 2002. The maximum value k such that 2001k divides 2002! is equal to
+> Consider the number 2002! = 1 ⋅ 2 ⋅ 3 ⋅ … ⋅ 2002. Clearly 2001 divides 2002! since 2002! = 2000! ⋅ 2001 ⋅ 2002. The maximum value k such that 2001^k divides 2002! is equal to
 >  
 > A. 101 B. 71 C. 69 D. 2 E. 1
 
@@ -1096,13 +1104,13 @@ Maximum k with 2001^k divided by 2002!
 
 *People in the two groups (cancelled) *
 
-> Two groups of friends form a guild of more than 27 people for mountain trips. The first trip involved all but 12 people from the second group, and in this trip the people from the first group were more than twice as many as those from the second group. On the second trip all but 10 people from the first group took part, and on this trip the people from the second group were more than 9 times as many as the first group. How many people are in each of the two groups?
+> Two groups of friends form a group of more than 27 people for mountain trips. The first trip involved all but 12 people from the second group, and in this trip the people from the first group were more than twice as many as those from the second group. On the second trip all but 10 people from the first group took part, and on this trip the people from the second group were more than 9 times as many as the first group. How many people are in each of the two groups?
 >  
-> A. 12 e 18
+> A. 12 and 18
 >  
 > B. 11 e 17 C. 10 e 20 D. 13 e 15
 >  
-> E. It is not possible to reply without further information.
+> E. It is not possible to answer without further information.
 
 [[Quesiti/src_kangourou_2002_student#q23|src_kangourou_2002_student__Q23]]
 
@@ -1136,9 +1144,9 @@ Maximum k with 2001^k divided by 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-conforming triangles in the decagon*
+*Non-congruent triangles in the decagon*
 
-> How many non-conforming triangles have three of the vertices of a regular decagon as vertices?
+> How many non-congruent triangles have three of the vertices of a regular decagon as vertices?
 >  
 > A. 6 B. 7 C. 8 D. 9 E. None of the above answers are correct.
 
@@ -1201,7 +1209,7 @@ Maximum k with 2001^k divided by 2002!
 
 ![[src_kangourou_2002_student__prob25.png]]
 
-> The circumference of the figure on the side has the centre at the point O and the unit radius. The radiant measurement of each of the angles α, β and γ is less than π. If the area of Region A is 4 1 12 5 − π and the area of Region B is 2 1 4 − π, then the area of Region C is:
+> The circle in the figure on the side has its centre at the point O and unit radius. The radian measure of each of the angles α, β and γ is less than π. If the area of Region A is 4 1 12 5 − π and the area of Region B is 2 1 4 − π, then the area of Region C is:
 >  
 > A. 4 π B. 3 π C. 3 2π
 >  
@@ -1210,7 +1218,7 @@ Maximum k with 2001^k divided by 2002!
 >  
 >  
 > 
-> Student of the year 2002. This item is not intended to be used. 6
+> Student 2002. Page N. 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_student#q25|src_kangourou_2002_student__Q25]]
@@ -1244,9 +1252,9 @@ Maximum k with 2001^k divided by 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies with sums of 2 digits up to 10^2002*
+*Integers with digit sum 2 up to 10^2002*
 
-> How many integers between 1 and 102002 have the sum of the digits equal to 2? A. 2007006 B. 2005003 C. 2003001 D. 2005002
+> How many integers between 1 and 10^2002 have the sum of the digits equal to 2? A. 2007006 B. 2005003 C. 2003001 D. 2005002
 >  
 > E. None of the above answers are correct.
 
@@ -1323,7 +1331,7 @@ Maximum k with 2001^k divided by 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres to be replaced per solution at 42%*
+*Litres to be replaced for a 42% solution*
 
 > There are 21 liters of a solution with 18% alcohol in one container. How many liters of this liquid do you have to replace with a solution of 90% alcohol to get a solution of 42% alcohol?
 >  
@@ -1386,10 +1394,37 @@ Maximum k with 2001^k divided by 2002!
 
 *Value of the sum of cyclic fractions*
 
-> a, b, c are three numbers such that a + b + c = 7 and 10 7 a c 1 c b 1 b a 1 = + + + + . How much is it worth ? b a c a c b c b a = + + + + +
+> a, b, c are three numbers such that a + b + c = 7 and  
+> 10
+> 7
+> a
+> c
+> 1
+> c
+> b
+> 1
+> b
+> a
+> 1
+> =
+> .   
+> What is the value of 
+> ?
+> b
+> a
+> c
+> a
+> c
+> b
+> c
+> b
+> a
+> =
 >  
 >  
-> A. 19 / 10 B. 17 / 10 C. 9 / 7 D. 3 / 2 E. 10 / 7
+> A. 19 / 10 B. 17 / 10 C. 9 / 7 
+> D. 3 / 2 
+> E. 10 / 7
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_student#q29|src_kangourou_2002_student__Q29]]
@@ -1456,7 +1491,7 @@ Maximum k with 2001^k divided by 2002!
 
 ![[src_kangourou_2002_student__prob30.png]]
 
-> The image next to it represents a table game in which the boxes on the three circumferences have been numbered from A1 to A25, from B1 to B12 and from C1 to C18. A sheet is initially placed in box A1 and can be moved to other boxes according to the following rule: at each step the sheet can be moved to a box two positions apart, on the same circumference, in any direction (for example, an admissible sequence is as follows: C5 → C3 → C1 = A22 → A20 → A18 → A20); but it is not possible to move the sheet directly from C2 to A23. How many boxes are inaccessible for any sequence of moves, starting, as stated, from box A1?
+> The image next to it represents a table game in which the cells on the three circles have been numbered from A1 to A25, from B1 to B12 and from C1 to C18. A token is initially placed in cell A1 and can be moved to other boxes according to the following rule: at each step the token can be moved to a cell two positions apart, on the same circumference, in any direction (for example, an admissible sequence is as follows: C5 → C3 → C1 = A22 → A20 → A18 → A20); but it is not possible to move the token directly from C2 to A23. How many cells are inaccessible for any sequence of moves, starting, as stated, from box A1?
 >  
 > A. 0 B. 6 C. 15 D. 27
 >  

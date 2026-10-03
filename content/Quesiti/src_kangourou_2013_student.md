@@ -70,11 +70,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of the circle inscribed in the regular octagon*
+*Radius of the circle inscribed in the regular octagon*
 
 ![[src_kangourou_2013_student__prob2.png]]
 
-> The regular octagon in the figure has 10 cm long sides. How many centimetres does the radius of the circle inscribed in the regular octagon formed by the diagonals parallel to each side measure? A) 10
+> The regular octagon in the figure has 10 cm long sides. How many centimetres does the radius of the circle inscribed in the regular octagon formed by the diagonals parallel to some side measure? A) 10
 > 	
 > B) 7,5
 > 	
@@ -111,7 +111,7 @@ level: kangourou
 
 *Number of edges of a prism with 2013 faces*
 
-> If a prism has, in total, 2013 faces, how many beads does it have? A) 2011 B) 2013 C) 4022 D) 4024 E) 6033
+> If a prism has, in total, 2013 faces, how many edges does it have? A) 2011 B) 2013 C) 4022 D) 4024 E) 6033
 
 [[Quesiti/src_kangourou_2013_student#q03|src_kangourou_2013_student__Q03]]
 
@@ -186,7 +186,7 @@ level: kangourou
 
 *How many years before 2013 with four consecutive digits*
 
-> In 2013, it has the property that the number that identifies it is made up of four consecutive digits. How many years have passed since the last time a year enjoyed this same property? A) 467 B) 527 C) 581 D) 693 E) 990
+> The year 2013 has the property that the number that identifies it is made up of four consecutive digits. How many years have passed since the last time a year enjoyed this same property? A) 467 B) 527 C) 581 D) 693 E) 990
 
 [[Quesiti/src_kangourou_2013_student#q05|src_kangourou_2013_student__Q05]]
 
@@ -217,11 +217,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*F#2031)-F#2013) value by linear function*
+*Value of f(2031)-f(2013) for a linear function*
 
-> Whether f is a linear function such that f (2013)  f (2001) = 100. How much is f (2031)  f (2013) ? A) 75
+> Let f be a linear function such that f (2013) – f (2001) = 100. What is the value of 
+> f (2031) – f (2013) ?
+> A) 75	
 > 	
-> B) 100 C) 120 D) 150 E) 180
+> B) 100	 	
+> C) 120	 	
+> D) 150	 	
+> E) 180
 
 [[Quesiti/src_kangourou_2013_student#q06|src_kangourou_2013_student__Q06]]
 
@@ -315,7 +320,7 @@ level: kangourou
 
 *Minimum number captured by the fourth hero*
 
-> Six superheroes capture 20 villains. The first superhero catches one, the second two, and the third three; the fourth catches more villains than each of his five colleagues. What's the minimum number of villains that must have captured the fourth superhero? A) 7
+> Six superheroes capture 20 villains. The first superhero catches one, the second two, and the third three; the fourth catches more villains than each of his five colleagues. What's the minimum number of villains that the fourth superhero must have captured? A) 7
 > 	
 > B) 6
 > 	
@@ -364,7 +369,7 @@ level: kangourou
 
 ![[src_kangourou_2013_student__prob9.png]]
 
-> Inside the transparent cube in the figure is a non-transparent ABCDS pyramid, whose top S is the middle point of one of the cube's spikes. For each of its faces, you can look at the cube from the direction perpendicular to it: which of the following figures can never appear? A)
+> Inside the transparent cube in the figure is a non-transparent ABCDS pyramid, whose top S is the middle point of one of the cube's edges. For each of its faces, you can look at the cube from the direction perpendicular to it: which of the following figures can never appear? A)
 > 	
 > B) C) D) E)
 
@@ -443,11 +448,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pentagons and made the ring*
+*How many pentagons is the ring made of*
 
 ![[src_kangourou_2013_student__prob11.png]]
 
-> Richard has plastic sheets all the same to each other, shaped like a regular pentagon. It adheres to them by gluing the sides without overlapping, so as to create a circular construction as in the figure. How many pieces did you put together? A) 8
+> Richard has plastic tiles all identical to each other, shaped like a regular pentagon. He joins them by gluing the sides without overlapping, so as to create a circular construction as in the figure. How many pieces did he glue together? A) 8
 > 	
 > B) 9
 > 	
@@ -489,15 +494,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer numbers n with n/3 and 3n both in three digits*
+*How many integers n with n/3 and 3n both three-digit*
 
-> How many positive integers n are there such that y3n are both three-digit integers? A) 12
+> How many positive integers n exist such that      and 3n are both integers of 
+> three digits?
+> A) 12	
 > 	
-> B) 33
+> B) 33	
 > 	
-> C) 34
+> C) 34	
 > 	
-> D) 100 E) 300
+> D) 100	 	
+> E) 300
 
 [[Quesiti/src_kangourou_2013_student#q12|src_kangourou_2013_student__Q12]]
 
@@ -537,7 +545,7 @@ level: kangourou
 
 ![[src_kangourou_2013_student__prob13.png]]
 
-> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent only tiles that have more than one point covered by the carpet. What figure cannot be obtained? A)
+> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. What figure cannot be obtained? A)
 >     	
 > B) C) D) E)
 
@@ -578,19 +586,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Denial of the statement on f(x) equal to x equal*
+*Negation of the statement about f(x) even for x even*
 
-> For a function f defined on the set of integers and integers, consider the following statement: For every equal x, f (x) is equal. Which of the following statements is the negation of this statement?
+> For a function f defined on the set of integers and with integer values, consider 
+> the following statement:   “For every even x, f (x) is even.”  
+> Which of the following statements is the negation of this statement?
 > 	
-> A) For every even x, f (x) is odd.
+> A) For every even x, f (x) is odd.	
 > 	
-> B) For every odd x, f (x) is equal. n {{{ 3
+> B) For every odd x, f (x) is even.	
+>  n 
+> {{{ 	
+>  3
 > 
-> C) For every odd x, f (x) is odd.
+> C) For every odd x, f (x) is odd.	  
 > 	
-> D) There exists a number x such that f (x) is odd
+> D) There exists an even number x such that f (x) is odd     
 > 	
-> E) There is an odd number x such that f (x) is equal.
+> E) There exists an odd number x such that f (x) is even.
 
 [[Quesiti/src_kangourou_2013_student#q14|src_kangourou_2013_student__Q14]]
 
@@ -697,7 +710,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of f(f(x)))=0 from the graph*
+*Solutions of f(f(f(x)))=0 from the graph*
 
 ![[src_kangourou_2013_student__prob16.png]]
 
@@ -723,7 +736,7 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see the graph of a real function f defined over the entire real axis, which is made up of two semirettes and a segment that connects them. How many distinct solutions does the equation f (f (f (x))) = 0 have ? A) 4
+> In the figure you see the graph of a real function f defined over the entire real axis, which is made up of two half-lines and a segment that connects them. How many distinct solutions does the equation f (f (f (x))) = 0 have ? A) 4
 > 	
 > B) 3
 > 	
@@ -890,7 +903,7 @@ level: kangourou
 
 *Minimum cards for 3 with the same sum of digits*
 
-> In a box there are 900 cards numbered from 100 to 999 (each number on one and one card only). Francesca fishes the cards and, for each one, calculates the sum of the numbers shown on the card. What is the minimum number of cards you need to fish to make sure you have at least 3 cards for which the sum of the digits is the same? A) 51
+> In a box there are 900 cards numbered from 100 to 999 (each number on one and one card only). Francesca fishes the cards and, for each one, calculates the sum of the digits of the number shown on the card. What is the minimum number of cards you need to fish to make sure you have at least 3 cards for which the sum of the digits is the same? A) 51
 > 	
 > B) 52
 > 	
@@ -938,19 +951,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the own funds of the institution.
+*f(2013) for f periodic with period 5*
 
-> Whether f is the real function defined on the whole real axis by the following properties: • f is periodic of period 5; • the law describing the restriction of f to the interval [2, 3[ is f (x) = x2 . How much is f (2013)? A) 0
+> Let f be the real function defined on the whole real axis by the following properties:
+>      •   f is periodic with period 5;
+>      •   the rule that describes the restriction of f to the interval [–2, 3[ is f (x) = x2 .
+> What is the value of f (2013)?
+> A) 0	
 > 	
-> B) 1
+> B) 1	
 > 	
-> C) 2
+> C) 2	
 > 	
-> D) 4
+> D) 4	
 > 	
 > E) 9
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_student#q20|src_kangourou_2013_student__Q20]]
@@ -987,7 +1004,7 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with x<=y and xy=5(x+y) *
+*Pairs (x,y) with x<=y and xy=5(x+y)*
 
 > For how many pairs (x, y) of integers such that x ≤ y, is xy = 5 (x + y) ? A) 4
 > 	
@@ -1087,9 +1104,9 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many lines are plotted in the plan*
+*How many lines are plotted in the plane*
 
-> There were a few lines drawn in the plan. The straight a intersects exactly three lines (different from itself) and the straight b intersects exactly four lines. The exact number of lines intersected by the straight c is neither three nor four. How many lines are in the plan? A) 4
+> There were a few lines drawn in the plane. The line a intersects exactly three lines (different from itself) and the line b intersects exactly four lines. The exact number of lines intersected by the line c is neither three nor four. How many lines are in the planee? A) 4
 > 	
 > B) 5
 > 	
@@ -1134,15 +1151,17 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Real pairs (x,y) with x^2+y^2 = x = x = x
+*Real pairs (x,y) with x^2+y^2=|x|+|y|*
 
-> How many pairs (x, y) of real numbers are solutions to the equation x 2 + y 2 =? A) 1
+> How many pairs (x, y) of real numbers are solutions of the equation 
+> x 2 + y 2 = |x| + |y|?
+> A) 1	
 > 	
-> B) 5
+> B) 5	
 > 	
-> C) 8
+> C) 8	
 > 	
-> D) 9
+> D) 9	
 > 	
 > E) Infinite
 
@@ -1180,11 +1199,18 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of f^2013(n) = 1 with f halving*
+*Solutions of f^2013(n)=1 with f halving*
 
-> Whether f is the function defined on the sum of the natural numbers by: f (n) = n / 2 if n is equal, f (n) = (n  1) / 2 if n is odd. For every positive integer k, be f k (n) = f (f (...f (n)...))), i.e. f applied k times. How many solutions does the equation f 2013(n) = 1 have? A) 0
-> 	
-> This is a list of the countries of the European Economic Area.
+> Let f be the function defined on the set of natural numbers by:
+> f (n) = n / 2 if n is even,    f (n) = (n – 1) / 2 if n is odd.
+> For every positive integer k, let f k (n) = f (f (...f (n)...))), that is, f applied k times.
+> How many solutions does the equation f 2013(n) = 1 have?
+> A) 0
+>
+> B) 4026
+> C) 22012
+> D) 22013
+> E) Infinite
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_student#q25|src_kangourou_2013_student__Q25]]
@@ -1268,7 +1294,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n digits with sum of 1..n of three equal digits*
+*Sum of digits of n where sum 1..n has three equal digits*
 
 > n is an integer such that the sum of the first n positive integers is a three-digit number all equal to each other. What's the sum of the digits of n? A) 6
 > 	
@@ -1323,15 +1349,15 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 
 *nature of the two individuals*
 
-> There are only two types of people living on the Magi and Witches Island: Magi (who always tell the truth) and Witches (who always lie). I met two individuals who live on the island and asked the highest if they were both magicians: from his answer I could not infer what nature they were, and so I asked the lowest if his neighbor was a magician. His answer made me understand the nature of each of them: what was it?
+> There are only two types of people living on the Magicians and Witches Island: Magicians (who always tell the truth) and Witches (who always lie). I met two individuals who live on the island and asked the taller if they were both magicians: from his answer I could not infer what nature they were, and so I asked the shorter if his neighbor was a magician. His answer made me understand the nature of each of them: what was it?
 > 	
-> A) They were both magicians.
+> A) They were both Magicians.
 > 	
-> B) They were both witches.
+> B) They were both Witches.
 > 	
-> C) The highest was a wizard and the lowest a witch.
+> C) The taller was a Magician and the shorter a Witch.
 > 	
-> D) The highest was a Witch and the lowest a Wizard.
+> D) The taller was a Witch and the shorter a Magician.
 >   
 > 	
 > E) The information given is not sufficient to answer.
@@ -1370,7 +1396,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 
 *Value a100 with a_{m+n}=a_m+a_n+mn*
 
-> Giuliana wrote an algorithm to generate a sequence of numbers: a1 = 1, am + n = am + an + mn, with m and n natural numbers. How much is a hundred ? A) 100 B) 1000 C) 2012 D) 4950 E) 5050
+> Giuliana wrote an algorithm to generate a sequence of numbers: a1 = 1, am + n = am + an + mn, with m and n natural numbers. What is a100 ? A) 100 B) 1000 C) 2012 D) 4950 E) 5050
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_student#q29|src_kangourou_2013_student__Q29]]
@@ -1431,7 +1457,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 > Five cars enter a roundabout simultaneously from five different directions, as shown in the figure.
 > Each car travels a distance less than one full lap, and no two cars exit in the same direction.
 > In how many different ways can the group of five cars leave the roundabout?
-> (A) 24
+> A) 24
 > 	
 > B) 44	
 > 	

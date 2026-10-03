@@ -37,7 +37,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of the two unknowns in Table 2x2*
+*Larger of the two unknowns in the 2x2 table*
 
 > In the cells of a 2 x 2 table, the numbers 3 and 4 and two unknown numbers are written (one per cell). You know the sum of the numbers in one row is 5, the sum of the numbers in the other row is 10, and the sum of the numbers in one column is 9. Which is the larger of the two unknown numbers? A) 5 B) 6 C) 7 D) 8 E) 3
 
@@ -110,7 +110,7 @@ level: kangourou
 
 *How many cells remain after deletion (33x21) *
 
-> In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is equal. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
+> In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is even. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q03|src_kangourou_2008_student_marzo__Q03]]
@@ -145,7 +145,7 @@ level: kangourou
 
 *How many prime p such that p^4+1 is prime *
 
-> How many prime numbers p have the property that p4+1 is also prime? (Remember that 1 is not a prime number.) A) None B) 1 C) 2 D) 3 E) Infinite
+> How many prime numbers p have the property that p^4+1 is also prime? (Remember that 1 is not a prime number.) A) None B) 1 C) 2 D) 3 E) Infinitely many
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q04|src_kangourou_2008_student_marzo__Q04]]
@@ -298,7 +298,7 @@ level: kangourou
 \end{document}
 ```
 
-> A isosceles triangle ABC (CA = CB) is given. The D-point on side AB is such that AD = AC and DB = DC (see figure). So the measurement of the ACB angle is A) 98° B) 100° C) 104° D) 108° E) 110°
+> An isosceles triangle ABC (CA = CB) is given. The point D on side AB is such that AD = AC and DB = DC (see figure). So the measurement of the ACB angle is A) 98° B) 100° C) 104° D) 108° E) 110°
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_student_marzo#q06|src_kangourou_2008_student_marzo__Q06]]
@@ -334,9 +334,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first essay (parity) *
+*Sum of cards from the first wise man (parity) *
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man read? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q07|src_kangourou_2008_student_marzo__Q07]]
@@ -384,7 +384,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordination d of point D on the circle*
+*y-coordinate d of point D on the circle*
 
 ![[src_kangourou_2008_student_marzo__prob8.png]]
 
@@ -401,7 +401,7 @@ level: kangourou
 \end{document}
 ```
 
-> In the circle drawn in the figure, AB is a diameter. Determine the order d of point D. A) 3 B) C) 4 D) 5 E) 6
+> In the circle drawn in the figure, AB is a diameter. Determine the y-coordinate d of point D. A) 3 B) C) 4 D) 5 E) 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q08|src_kangourou_2008_student_marzo__Q08]]
@@ -471,7 +471,7 @@ level: kangourou
 
 *Pairs of digits for 2__8 divisible by 3*
 
-> You want to put a digit in every empty place of the 2_8 alignment so you get a four-digit number divisible by 3. How many choices do you have for the (ordered) pair of digits to enter? A) 29 B) 30 C) 19 D) 20 E) 33 Questions from N. 11 al N. 20 is worth 4 points each.
+> You want to put a digit in every empty place of the 2_ _8 alignment so you get a four-digit number divisible by 3. How many choices do you have for the (ordered) pair of digits to enter? A) 29 B) 30 C) 19 D) 20 E) 33 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_student_marzo#q10|src_kangourou_2008_student_marzo__Q10]]
@@ -530,11 +530,42 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number to exclude for three pairs equals *
+*Which number to exclude for three equal-sum pairs*
 
-> You have the following seven numbers: 9; 0; 5; 5; 4; 1; 3. Using six of them you want to form three pairs so that the sum of the numbers of each pair is always the same. What number do you have to rule out? A) 5 B) 0 C) 3 D) 4 E) 5 2 √3 1 4 1 2 2 9 5 4 1 3 A D B C X Y A(-2, 0) B(8, 0) D(0, d) Texts_08.qxp 9-03-2008 14:56 Page 29
+> You have the following seven numbers:  –9 ; 0 ; –5 ; 5 ; –4 ; –1 ; –3. Using six of
+> them you want to form three pairs in such a way that the sum of the numbers of each pair is always the same. Which number must you exclude? 
+> A) 5
+> B) 0
+> C) –3
+> D) –4
+> E) –5
+> 2 √3
+> 1
+> 4
+> 1
+> 2
+> 2
+> 9
+> 5
+> 4
+> 1
+> 3
+> A
+> D
+> B
+> C
+> X
+> Y
+> A(-2, 0)
+> B(8, 0)
+> D(0, d)
+> Testi_08.qxp  9-03-2008  14:56  Pagina 29
 > 
-> I'm going to pay. I'm going to pay. 30 30 Kang 2008 Kang
+> Pag. 
+> Pag. 30
+> 30
+> Kang 2008
+> Kang 2008
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_student_marzo#q11|src_kangourou_2008_student_marzo__Q11]]
@@ -569,11 +600,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal length AB of the parallel piped *
+*Diagonal length AB of the parallelepiped *
 
 ![[src_kangourou_2008_student_marzo__prob12.png]]
 
-> The length of the beam of each of the cubes in the figure is 1. What is the length of the AB segment? A) B) 7 C) D) E)
+> The length of the edge of each of the cubes in the figure is 1. What is the length of the AB segment? A) B) 7 C) D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_student_marzo#q12|src_kangourou_2008_student_marzo__Q12]]
@@ -646,9 +677,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Single coloured crabs (inclusion and exclusion) *
+*Kangaroos of a single colour (inclusion-exclusion)*
 
-> Matilde drew 36 kangaroos using three distinct colors. The white was used for 25 kangaroos, the red for 28 and the black for 20. Only five kangaroos were used in all three colors. How many of the designed kangaroos are of the same color? A) 0 B) 4 C) 12 D) 31 E) It is not possible to establish it.
+> Matilde drew 36 kangaroos using three distinct colours. White was
+> used for 25 kangaroos, red for 28 and black for 20. Only for 5 kangaroos were all three colours used. How many of the
+> drawn kangaroos are of a
+> single colour? 
+> A) 0
+> B) 4
+> C) 12
+> D) 31               
+> E) It is not possible to determine it.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q14|src_kangourou_2008_student_marzo__Q14]]
@@ -756,9 +795,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of parallel pipes in the forehead. The value of the underlying assets shall be calculated on the basis of the following information:
+*Volume of a parallelepiped with edges in geometric progression*
 
-> The lengths of the tips of a rectangular parallel-piped, measured in centimetres, are integers and form a geometric progression of the ratio q = 2. Which of the following measures, in cubic centimetres, can represent the volume of the solid? (a) 120 (b) 188 (c) 350 (d) 500 (e) None
+> The lengths of the edges of a rectangular parallelepiped, measured in
+> centimetres, are integers and form a geometric progression with
+> ratio q = 2. Which of the following measurements, in cubic centimetres, can represent the volume of the solid?
+> A) 120 
+> B) 188 
+> C) 350 
+> D) 500      E) None
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_student_marzo#q16|src_kangourou_2008_student_marzo__Q16]]
@@ -904,7 +949,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of three hill points*
+*Probability of three collinear points*
 
 ![[src_kangourou_2008_student_marzo__prob19.png]]
 
@@ -920,7 +965,13 @@ level: kangourou
 \end{document}
 ```
 
-> Three points are chosen at random from the grid to the side. What are the odds that they're hilly? A) B) C) D) E)
+> Three points are chosen at random from the grid shown. What is the
+> probability that they are collinear? 
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q19|src_kangourou_2008_student_marzo__Q19]]
@@ -963,7 +1014,7 @@ level: kangourou
 
 ![[src_kangourou_2008_student_marzo__prob20.png]]
 
-> Four identical dice are drawn as shown in the figure. The faces of each dice are numbered from 1 to 6, but the dice are not standard, meaning the sum of the points of two opposite faces is not necessarily 7. What is the sum of the points of the six faces each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23 Questions from N. 21 al N. 30 is worth 5 points each.
+> Four identical dice are drawn as shown in the figure. The faces of each dice are numbered from 1 to 6, but the dice are not standard, meaning the sum of the points of two opposite faces is not necessarily 7. What is the sum of the points of the six faces each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q20|src_kangourou_2008_student_marzo__Q20]]
@@ -1002,7 +1053,7 @@ level: kangourou
 
 *Probability of returning to the starting point*
 
-> A pedal placed at the center of a 5 x 5 square grid is moved with horizontal or vertical steps of width one, determined by the simultaneous throwing of a pair of dice, a red and a blue. The red dice move the foot of a step to the right if an even number comes out and to the left if an odd number comes out, the blue dice move the foot of a step up if an even number comes out and down if an odd number comes out. What are the chances that after two throws the pedal will be back to its starting point? A) B) C) D) E)
+> A token placed at the center of a 5 x 5 square grid is moved with horizontal or vertical steps of width one, determined by the simultaneous throwing of a pair of dice, a red and a blue. The red die moves the token one step to the right if an even number comes out and to the left if an odd number comes out, the blue die moves the token one step up if an even number comes out and down if an odd number comes out. What is the probability that after two throws the token will be back at its starting point? A) B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_student_marzo#q21|src_kangourou_2008_student_marzo__Q21]]
@@ -1035,9 +1086,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product of the two divisions of 3^32-1 between 75 and 85
+Product of the two divisors of 3^32-1 between 75 and 85
 
-> The number 332  1 has exactly two divisors (integers) both greater than 75 and less than 85. How much is the product of these two dividers? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
+> The number 3^32 - 1 has exactly two divisors (integers) both greater than 75 and less than 85. How much is the product of these two divisors? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_student_marzo#q22|src_kangourou_2008_student_marzo__Q22]]
@@ -1219,7 +1270,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 
 *Value of k such that a_k=2008 (success) *
 
-> Let it be a succession. It is known that a1 = 0 and that, for n ≥ 0, we have an+1 = an + (-1)n. n. If ak = 2008, then the value of k is A) 2008 B) 2009 C) 4017 D) 4018 E) none of the four indicated.
+> Let {an} be a sequence. It is known that a1 = 0 and that, for n ≥ 0, we have an+1 = an + (-1)n. n. If ak = 2008, then the value of k is A) 2008 B) 2009 C) 4017 D) 4018 E) none of the four indicated.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_student_marzo#q25|src_kangourou_2008_student_marzo__Q25]]
@@ -1392,7 +1443,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 \end{document}
 ```
 
-> The ABCD square has the length side 1 and M is the middle point of AB. The area of the shaded region is A) 1/14 B) 1/16 C) /18 D) 1/13 E) a different value from the previous ones.
+> The square ABCD has side length 1 and M is the midpoint of AB. The area of the shaded region is A) 1/14 B) 1/16 C) 1/18 D) 1/13 E) a different value from the previous ones.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_student_marzo#q27|src_kangourou_2008_student_marzo__Q27]]
@@ -1465,7 +1516,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bars for 61 octages *
+*How many bars for 61 octagons *
 
 ![[src_kangourou_2008_student_marzo__prob29.png]]
 

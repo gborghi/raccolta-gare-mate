@@ -81,9 +81,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the sum shall be the sum of the following:
+*Value of the sum 1/10+1/100+1/1000*
 
-> The sum + + is A) B) C) D) E)
+> The sum       +        +           equals
+> A)          	
+> B)            	
+> C)               	
+>       D)             	
+>     E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2016_student_marzo#q02|src_kangourou_2016_student_marzo__Q02]]
@@ -158,13 +163,17 @@ The value of the sum shall be the sum of the following:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to:
+*Integers between 2015x2017 and 2016x2016*
 
-> How many integers exist that are narrowly larger than 2015 ∙ 2017 and narrowly smaller than 2016 ∙ 2016? A) 0
+> How many integers are there strictly greater than 2015 ∙ 2017 and strictly less 
+> than 2016 ∙ 2016?
+> A) 0	
 > 	
-> B) 1
+> B) 1	
 > 	
-> C) 2015 D) 2016 E) 2017
+> C) 2015		
+> D) 2016		
+> E) 2017
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_student_marzo#q04|src_kangourou_2016_student_marzo__Q04]]
@@ -225,11 +234,11 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reflect log by exchanging x and y coordinates*
+*Reflected logo exchanging x and y coordinates*
 
 ![[src_kangourou_2016_student_marzo__prob5.png]]
 
-> In the image on the right you can see how I put the Kangourou logo on the xy floor. If for each point in the plane I exchange between them the x and y coordinates, which of the following images do I get for the Kangourou logo?
+> In the image on the right you can see how I put the Kangourou logo on the xy plane. If for each point in the plane I exchange between them the x and y coordinates, which of the following images do I get for the Kangourou logo?
 >  
 > A) B) C) D) E) 1---- 10 1 ------ 100 1 -------- 1000 3 ------ 111 111 -------- 1110 111 -------- 1000 3 -------- 1000 3 -------- 1110
 >
@@ -270,15 +279,18 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum plans to delimit a restricted region in space*
+*Minimum number of planes needed to bound a bounded region in space*
 
-> In the three-dimensional space, I want to draw up plans and at least have a limited number of them in the regions that they delimit. What is the minimum number of plans I can use to achieve my purpose? A) 3
+> In three-dimensional space I want that, by drawing planes, among the regions that they 
+> bound there is at least one bounded one. What is the minimum number of planes with which 
+> I can achieve my goal? 
+> A) 3	
 > 	
-> B) 4
+> B) 4	
 > 	
-> C) 5
+> C) 5	
 > 	
-> D) 6
+> D) 6	
 > 	
 > E) 7
 
@@ -520,7 +532,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *2*
 
-> a, b, c, and d are strictly positive integers that satisfy the chain of equations a + 2 = b − 2 = c ∙ 2 = d: 2. Establish which is the largest of the four numbers. A) a
+> a, b, c, and d are strictly positive integers that satisfy the chain of equations a + 2 = b − 2 = c ∙ 2 = d : 2. Establish which is the largest of the four numbers. A) a
 > 	
 > B) b
 > 	
@@ -648,9 +660,13 @@ This appropriation is intended to cover expenditure relating to:
 
 *Value of x4 in the tower of exponents x_{n+1}=x_n^{x_n}*
 
-> We build a sequence of numbers by putting x1 = 2 and xn+1 = xn for every n ≥ 1. How much is x4 worth? A) 2 B) 2
+> We build a sequence of numbers by setting x1 = 2  and  xn+1 = xn    for every  n ≥ 1. 
+> What is the value of x4?
+> A) 2    	 	
+> B) 2 	
 > 	
-> C) 2 D) 2
+> C) 2    	 	
+> D) 2	
 > 	
 > E) 2
 
@@ -686,9 +702,9 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CAM angle in a rectangle with BC diagonal end*
+*CAM angle in a rectangle with BC half diagonal*
 
-> In an ABCD rectangle the length of the side BC is half the length of the diagonal. If M is a point on the CD side such that AM and MC have the same length. What is the size of the CAM angle ? A) 12° 30’ B) 15° C) 27° 30’ D) 42° 30’
+> In an ABCD rectangle the length of the side BC is half the length of the diagonals. If M is a point on the CD side such that AM and MC have the same length. What is the size of the CAM angle ? A) 12° 30’ B) 15° C) 27° 30’ D) 42° 30’
 > 	
 > E) None of the above.
 
@@ -730,7 +746,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *2016 area rectangles cut into 56 whole squares*
 
-> Diana cuts a 2016 area rectangle into 56 equal square pieces. We know that measurements on both sides of the rectangle and sides of the squares are integers. How many different rectangles between them can Diana perform this operation for? A) 2
+> Diana cuts a rectangle of area 2016 into 56 equal square pieces. We know that the measurements of both the sides of the rectangle and the side of the squares are integers. How many different rectangles can Diana perform this operation on? A) 2
 > 	
 > B) 4
 > 	
@@ -779,7 +795,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *How many liars out of 7 in a circle that declare themselves liars*
 
-> You're making a trip to the Island of the Sincere and the Liar, where every resident is either Sincere (always telling the truth) or Liar (always thinking). Meets seven of them, sitting in a circle around a lighthouse, and each of them declares  I am sitting between two Liars!. How many of them are actually liars? A) 3
+> You're making a trip to the Island of the Sincere and the Liar, where every resident is either Sincere (always telling the truth) or Liar (always lying). You meet seven of them, sitting in a circle around a campfire, and each of them declares "I am sitting between two Liars!". How many of them are actually liars? A) 3
 > 	
 > B) 4
 > 	
@@ -823,7 +839,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *Value a+b with two real and symmetrical root squares*
 
-> The two equations x2 + ax + b = 0 and x2 + bx + a = 0 have both real roots. We know that the sum of the squares of the roots of the first equation is equal to the sum of the squares of the roots of the second and that a ≠ b. The value of a + b A) is 0. B) è  −2. C) è  4. D) è  −4. E) cannot be determined.
+> The two equations x2 + ax + b = 0 and x2 + bx + a = 0 have both real roots. We know that the sum of the squares of the roots of the first equation is equal to the sum of the squares of the roots of the second and that a ≠ b. The value of a + b A) is 0. B) is  −2. C) is  4. D) is  −4. E) cannot be determined.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_student_marzo#q17|src_kangourou_2016_student_marzo__Q17]]
@@ -893,9 +909,9 @@ This appropriation is intended to cover expenditure relating to:
 \end{document}
 ```
 
-> The perimeter of the square drawn in Figure 4 is 4; what is the perimeter of the equilateral triangle? A) 4
+> The perimeter of the square drawn in the figure is 4; what is the perimeter of the equilateral triangle? A) 4
 > 	
-> B) 3+√3 C) 3
+> B) 3+√3		C) 3
 > 	
 > D) 3+√2 E) 4+√3 xn 23 24 211 216 2768
 >
@@ -944,9 +960,9 @@ This appropriation is intended to cover expenditure relating to:
 
 > Each of the ten circles in the figure is assigned a value of 0, 1 or 2, but only the three values marked in the figure are known. You know that the sum of the numbers in the vertices of any white triangle is divisible by 3 whereas the sum of the numbers in the vertices of any black triangle is not. What values can be assigned to the circle marked with the question mark? A) Only 0.
 > 	
-> B) Only one. C) Only two. D) Only 0 or 1.
+> B) Only 1. C) Only 2. D) Only 0 or 1.
 > 	
-> E) 0 o 1 o 2.
+> E) 0 or 1 or 2.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_student_marzo#q19|src_kangourou_2016_student_marzo__Q19]]
@@ -1026,7 +1042,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *Real solutions of (x^2-4x+5)^{x^2+x-30}=1 *
 
-> How many distinct real solutions does the equation admit (x2 − 4x + 5) = 1 ? A) 1
+> How many distinct real solutions does the equation (x2 − 4x + 5) = 1 admit? A) 1
 > 	
 > B) 2
 > 	
@@ -1069,7 +1085,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *Report of quadrilateral areas/circle with inscribed circle*
 
-> A circle is inscribed in a quadrilateral (i.e. the four sides of the quadrilateral are tangent to its circumference). The ratio of the perimeter of the quadrilateral to the length of the circumference is 4: 3. What is the relationship between the area of the quadrilateral and that of the circle? A) 4 : π B) 3√2 : π C) 16 : 9 D) π : 3 E) 4 : 3
+> A circle is inscribed in a quadrilateral (i.e. the four sides of the quadrilateral are tangent to its circumference). The ratio of the perimeter of the quadrilateral to the length of the circumference is 4: 3. What is the ratio between the area of the quadrilateral and that of the circle? A) 4 : π B) 3√2 : π C) 16 : 9 D) π : 3 E) 4 : 3
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_student_marzo#q22|src_kangourou_2016_student_marzo__Q22]]
@@ -1191,9 +1207,9 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of P from A, center of triangle rectangle*
+*Distance of P from A, incenter of right triangle*
 
-> In a right triangle ABC, straight to A, the blades of the acute angles intersect at a point P. If the distance of P from the hypotenuse is √8, what is the distance of P from A? A) 8
+> In a right triangle ABC, right-angled at A, the angle bisectors of the acute angles intersect at a point P. If the distance of P from the hypotenuse is √8, what is the distance of P from A? A) 8
 > 	
 > B) 3
 > 	
@@ -1231,7 +1247,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible sum of three three-digit numbers with 1.9*
+*Impossible sum of three three-digit numbers with 1..9*
 
 > Using one and only one time all the digits from 1 to 9 were written three numbers of three digits each. Which of the following numbers cannot be the sum of the three numbers? A) 1500 B) 1503 C) 1512 D) 1521 E) 1575
 
@@ -1272,7 +1288,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *Volume of the sixth pyramid in the sectioned cube*
 
-> By connecting an inner point of a cube to each of the vertices of the cube by segments, the cube is sequenced into 6 pyramids. The volumes of five of these pyramids are 2, 5, 10, 11, and 14. What is the volume of the sixth pyramid? A) 1
+> By connecting an inner point of a cube to each of the vertices of the cube by segments, the cube is divided into 6 pyramids. The volumes of five of these pyramids are 2, 5, 10, 11, and 14. What is the volume of the sixth pyramid? A) 1
 > 	
 > B) 4
 > 	
@@ -1325,7 +1341,7 @@ This appropriation is intended to cover expenditure relating to:
 
 ![[src_kangourou_2016_student_marzo__prob27.png]]
 
-> A rectangular strip of paper with vertices A, B, C and D, 5 cm wide and 50 cm long, has a clear face and the other dark. Cristina bends the strip, light side against light side, so that the tip B overlaps the midpoint M of the CD side. Bend it a second time, always on the clear side, so that the D-top coincides with the middle N-point on the AB-side. How many square centimetres does the area of the clear part of the strip still visible in the figure measure? A) 50
+> A rectangular strip of paper with vertices A, B, C and D, 5 cm wide and 50 cm long, has a clear face and the other dark. Cristina folds the strip, light side against light side, so that the vertex B overlaps the midpoint M of the CD side. Fold it a second time, always on the clear side, so that the vertex D coincides with the midpoint N of the AB side. How many square centimetres does the area of the clear part of the strip still visible in the figure measure? A) 50
 > 	
 > B) 60
 > 	
@@ -1363,7 +1379,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first divides the sum of 1..n but does not add to it*
+*p divides the sum 1..n but not the addends*
 
 > Anna chose a positive integer n and wrote the sum of all positive integers from 1 to n. A certain prime number p divides that sum, but does not divide any of the addends. Which of the following values can be n + p ? A) 217 B) 221 C) 229 D) 245 E) 269
 
@@ -1450,7 +1466,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves for 5x5 chessboard with consecutive triple*
+*Minimum moves for 5x5 checkerboard with consecutive triple*
 
 ![[src_kangourou_2016_student_marzo__prob29.png]]
 
@@ -1479,7 +1495,7 @@ This appropriation is intended to cover expenditure relating to:
 \end{document}
 ```
 
-> Imagine a square divided into 25 equal cells. Initially, all cells are white. With each move, you can change the color of the cells of a block of three cells in a row or column: each white cell becomes dark and vice versa. Is it possible to turn the square into a colorful chessboard as shown in the figure and if so, what is the minimum number of moves needed? A) Yes and the minimum number is less than 10.
+> Imagine a square divided into 25 equal cells. Initially, all cells are white. With each move, you can change the color of the cells of a block of three cells in a row or column: each white cell becomes dark and vice versa. Is it possible to turn the square into a colored checkerboard as shown in the figure and if so, what is the minimum number of moves needed? A) Yes and the minimum number is less than 10.
 > 	
 > B) Yes, and the minimum number is 10.
 > 	
@@ -1533,7 +1549,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sixth N divider with six divisors, product of five 648*
+*Sixth divisor of N with 6 divisors, product of five 648*
 
 > The positive integer N has exactly 6 distinct (positive) divisors, including 1 and N itself. The product of five of them is 648. Which of the following numbers is the sixth divisor of N ? A) 4
 > 	

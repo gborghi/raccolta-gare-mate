@@ -67,9 +67,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is not the case with the manufacturer's products.
+*result*
 
-> My calculator divides instead of multiplying and subtracts instead of adding. If I type (12 x 3) + (4 x 2) what do I get? A) 2 B) 6 C) 12 D) 24 E) 30
+> My calculator divides instead of multiplying and subtracts instead of adding. If I type (12 x 3) + (4 x 2), what result do I get? 
+> A) 2
+> B) 6
+> C) 12
+> D) 24
+> E) 30
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_cadet#q02|src_kangourou_2011_cadet__Q02]]
@@ -102,7 +107,7 @@ This is not the case with the manufacturer's products.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Within minutes the clock shows again 0.1,1.2*
+*In how many minutes will the clock show the digits 0, 1, 1, 2 again?*
 
 > My digital clock just went off from 8:10 to 8:11. In how many minutes will it again show an hour of the digits 0, 1, 1, 2 arranged in some order? A) 40 B) 45 C) 50 D) 55 E) 60
 
@@ -202,7 +207,7 @@ This is not the case with the manufacturer's products.
 
 Score of the game won by the Kang team
 
-> In a football tournament, the Kang team collectively scored three goals on one goal. In doing so, he won one game, drew one and lost one. What was the score of the game you won? A) 3 - 0 B) 2 - 0 C) 1 - 0 D) 3 - 1 E) 2 - 1
+> In a football tournament, the Kang team collectively scored three goals and conceded one. In doing so, he won one game, drew one and lost one. What was the score of the game it won? A) 3 - 0 B) 2 - 0 C) 1 - 0 D) 3 - 1 E) 2 - 1
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_cadet#q05|src_kangourou_2011_cadet__Q05]]
@@ -416,7 +421,7 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to make the figure at L * symmetrical
+*How many ways to make the L-shaped figure symmetrical
 
 ![[src_kangourou_2011_cadet__prob10.png]]
 
@@ -431,7 +436,7 @@ Score of the game won by the Kang team
 \end{document}
 ```
 
-> The drawing shows a ELLE formed by four equal squares. You want to add a square so you get a shape that's symmetrical to some straight line. How many ways can the goal be achieved? A) 1 B) 2 C) 3 D) 4 E) 0 Questions from N. 11 al N. 20 is worth 4 points each.
+> The drawing shows an L formed by four equal squares. You want to add a square so you get a shape that's symmetrical to some straight line. How many ways can the goal be achieved? A) 1 B) 2 C) 3 D) 4 E) 0 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_cadet#q10|src_kangourou_2011_cadet__Q10]]
@@ -462,9 +467,14 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the assets of the institution.
+*Value of (2011x2.011)/(201.1x20.11)*
 
-> This is the total amount of the loan.
+> equals
+> A) 0.01
+> B) 0.1
+> C) 1
+> D) 10
+> E) 100
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_cadet#q11|src_kangourou_2011_cadet__Q11]]
@@ -534,7 +544,7 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many F-points give DEF triangle area 1 *
+*How many F points give a right DEF triangle area 1 *
 
 > On the board, Nadia has mapped a DE segment of length 2. How many different F points can you mark on the board if you want the DEF triangle to be rectangular and have area 1? A) 2 B) 4 C) 6 D) 8 E) 10
 
@@ -620,7 +630,7 @@ This is the total value of the assets of the institution.
 
 ![[src_kangourou_2011_cadet__prob15.png]]
 
-> Each region of the map you see in the figure should be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must be given different colors. Three regions have already been assigned colour. What colour shall be assigned to the region marked with X? A) Only red B) Only blue C) Only green D) Only yellow E) Anything between blue and red
+> Each region of the map you see in the figure should be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must be given different colors. Three regions have already been assigned colour. What colour shall be assigned to the region marked with X? A) Only red B) Only blue C) Only green D) Only yellow E) Either blue or red
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_cadet#q15|src_kangourou_2011_cadet__Q15]]
@@ -754,11 +764,11 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which development of the cube corresponds to the black line*
+*Which net of the cube corresponds to the black line*
 
 ![[src_kangourou_2011_cadet__prob18.png]]
 
-> We built a cube from its development on a cross-cut cardboard like the one drawn next to it. Then we draw a black line on the surface of the cube that divides it into two identical parts (see figure). If we go back to the development of the cube, which of the figures shown below will we see on the cardboard?
+> We built a cube from its net on a cardboard cut into a cross like the one drawn next to it. Then we drew a black line on the surface of the cube that divides it into two identical parts (see figure). If we go back to the net of the cube, which of the figures shown below will we see on the cardboard?
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_cadet#q18|src_kangourou_2011_cadet__Q18]]
@@ -899,7 +909,7 @@ This is the total value of the assets of the institution.
 
 ![[src_kangourou_2011_cadet__prob20.png]]
 
-> The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes obtained by approaching five equal squares, having the same side as the chessboard boxes. Two of the shapes have already been placed on the chessboard: you want to place a third on the empty boxes so that you can't insert any of the other shapes without overlapping. Which of the five forms below should you use? (Warning: shapes can be turned and/or rotated, but they must always be inserted so that their sides match the sides of the boxes). The questions from N. 21 al N. 30 is worth 5 points each 21. The five-digit number 24X8Y is divisible by 4, 5 and 9. How much is X + Y? A) 13 B) 10 C) 9 D) 5 E) 4
+> The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes obtained by placing five equal squares side by side, having the same side as the chessboard cells. Two of the shapes have already been placed on the chessboard: you want to place a third on the empty cells so that you can't insert any of the other shapes without overlapping. Which of the five forms below should you use? (Warning: shapes can be turned and/or rotated, but they must always be inserted so that their sides match the sides of the cells). The questions from N. 21 to N. 30 is worth 5 points each 21. The five-digit number 24X8Y is divisible by 4, 5 and 9. How much is X + Y? A) 13 B) 10 C) 9 D) 5 E) 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_cadet#q20|src_kangourou_2011_cadet__Q20]]
@@ -934,7 +944,7 @@ This is the total value of the assets of the institution.
 
 *X+Y if 24X8Y is divisible by 4,5,9*
 
-> The five digit number $24X8Y$ is divisible by $4$, $5$ and $9$. How much is$X + Y$?
+> The five digit number $24X8Y$ is divisible by $4$, $5$ and $9$. What is $X + Y$?
 >
 > - **(A)** 13
 > - **(B)** 10
@@ -978,11 +988,11 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which set of rods does not have a regular hexagon*
+*Which set of edges does not give a regular hexagon*
 
 ![[src_kangourou_2011_cadet__prob22.png]]
 
-> You can cut a cube with a plane so that the section is a regular hexagon. This can be done in 4 different ways and in any case the drying plane intersects 6 different cube branches. Each branch of the cube in the figure is marked by a letter: of the following six branches, which one cannot be affected by a cut giving rise to a regular hexagon? A) k, j, d, a, f, h B) k, l, a, b, e, g C) c, b, h, f, i, l D) g, j, i, c, d, e E) i, k, e, g, a, c
+> You can cut a cube with a plane so that the section is a regular hexagon. This can be done in 4 different ways and in any case the cutting plane intersects 6 different cube edges. Each edge of the cube in the figure is marked by a letter: of the following six sets of edges, which one cannot be affected by a cut giving rise to a regular hexagon? A) k, j, d, a, f, h B) k, l, a, b, e, g C) c, b, h, f, i, l D) g, j, i, c, d, e E) i, k, e, g, a, c
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_cadet#q22|src_kangourou_2011_cadet__Q22]]
@@ -1042,11 +1052,42 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who lies between Ida Mara Olga
+*Who is lying among Ida, Mara, Olga*
 
-> Ida, Mara, and Olga are sitting in the garden each on a chair. Ida says: I am more than twice as far away from Mara as I am from Olga. Mara says, "I'm more than twice as far away from Olga as I am from Ida". Olga says: I am more than twice as far away from Mara as I am from Ida. At least two of them are telling the truth. Who's lying? A) A) B) Mara C) Olga D) None of them E) There is no way to establish it A) B) C) D) E) a b c d i j k l and h g f Texts_11Mat.qxp 19-05-2011 21:24 Page 19
+> Ida, Mara and Olga are sitting in the garden each on a stool. Ida
+> says: "I am farther from Mara by more than twice the distance I am from Olga".
+> Mara says: "I am farther from Olga by more than twice the distance I am from
+> Ida". Olga says: "I am farther from Mara by more than twice the distance I am
+> from Ida". At least two of them are telling the truth. Who is lying?
+> A) Ida 
+> B) Mara
+> C) Olga
+> D) None of them
+> E) There is no way to determine it
+> A)
+> B)
+> C)
+> D)
+> E)
+> a
+> b
+> c
+> d
+> i
+> j
+> k
+> l
+> e
+> h
+> g
+> f
+> Testi_11Mat.qxp  19-05-2011  21:24  Page 19
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 201 Kang 2011
+> Pag. 
+> Pag. 20
+> 20
+> Kang 201
+> Kang 2011
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_cadet#q23|src_kangourou_2011_cadet__Q23]]
@@ -1080,9 +1121,17 @@ Who lies between Ida Mara Olga
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many shots did Michele take?
+*How many shots did Michele take*
 
-> Michele played point-and-shoot. 25% of his shots went unmarked; with the shots that went unmarked, he hit only 5, 8 and 10, hitting 8 and 10 the same number of times. If he scored 99 points in total, how many shots did Michele take? A) 10 B) 12 C) 16 D) 20 E) 24
+> Michele played target shooting. 25% of his shots did not hit the target;
+> with the shots that did hit the target, he hit only the 5, the 8 and the 10, hitting the 8 and the
+> 10 the same number of times. If he scored 99 points in total, how many shots did
+> Michele take?
+> A) 10
+> B) 12
+> C) 16
+> D) 20
+> E) 24
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_cadet#q24|src_kangourou_2011_cadet__Q24]]
@@ -1122,11 +1171,23 @@ How many shots did Michele take?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which friend lives on Curva Street (not straight) *
+*Which friend lives on Curved street (not straight)*
 
 ![[src_kangourou_2011_cadet__prob25.png]]
 
-> During a road trip by car on a rough road, Michela drew the sketch you see in the picture: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, the streets of Arccia, Righello and Chiodo are all straight. Fourth Avenue is Curva Street. Which one of the four friends lives on Curva Street? A) Angela B) White C) Clear D) Donated E) Can not be deduced from the sketch available
+> During a car trip on a bumpy
+> road, Michela drew the sketch
+> you see in the figure: it indicates the houses of
+> her four friends, the streets where they live and the
+> intersections between these streets. In reality, however, Arrow street,
+> Ruler street and Nail street are all
+> straight streets. The fourth street is Curved street. Which
+> of the four friends lives on Curved street?
+> A) Angela
+> B) Bianca
+> C) Chiara
+> D) Donata             
+> E) It cannot be deduced from the sketch available
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_cadet#q25|src_kangourou_2011_cadet__Q25]]
@@ -1197,7 +1258,7 @@ How many shots did Michele take?
 
 True statement about the ages of Eva and Rita
 
-> Eva and Rita are two teachers on duty. Seven years ago, Eve's age was a multiple of eight, and eight years from now, she'll be a multiple of seven. Eight years ago Rita's age was a multiple of 7 and in seven years it will be a multiple of 8. Which of the following statements can be true? A) Rita is two years older than Eva B) Rita is one year older than Eva C) Rita and Eva are the same age D) Rita is one year younger than Eva E) Rita is two years younger than Eva
+> Eva and Rita are two working teachers. Seven years ago, Eva's age was a multiple of eight, and eight years from now, it will be a multiple of seven. Eight years ago Rita's age was a multiple of 7 and in seven years it will be a multiple of 8. Which of the following statements can be true? A) Rita is two years older than Eva B) Rita is one year older than Eva C) Rita and Eva are the same age D) Rita is one year younger than Eva E) Rita is two years younger than Eva
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_cadet#q27|src_kangourou_2011_cadet__Q27]]
@@ -1244,11 +1305,29 @@ True statement about the ages of Eva and Rita
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum whole value of the cryptanalytic expression*
+*Minimum integer value of the crittaritmetic expression*
 
-> In the expression, each letter represents a number different from zero; equal letters represent equal numbers and different letters represent different numbers. What is the smallest integer value that this expression can assume? (• indicates the product.) A) 1 B) 2 C) 3 D) 5 E) 7 K•A • N• G• O • U• R • O • U G • I • O • C• O Donata Chiara Bianca Angela Testi_11Mat.qxp 19-05-2011 21:24
+> In the expression
+> each letter represents a digit other than zero; equal letters represent equal digits and
+> different letters represent different digits. What is the smallest integer value that this expression can take? ( "•" indicates the product.)
+> A) 1
+> B) 2
+> C)3
+> D) 5
+> E) 7
+> K•A • N• G• O • U• R • O • U
+> G •I • O • C• O
+> Donata
+> Chiara
+> Bianca
+> Angela
+> Testi_11Mat.qxp  19-05-2011  21:24  Page 20
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 201 Kang 2011
+> Pag.
+> Pag. 21
+> 21
+> Kang 201
+> Kang 2011
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_cadet#q28|src_kangourou_2011_cadet__Q28]]

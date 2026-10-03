@@ -86,7 +86,7 @@ level: kangourou
 
 *In how many angles identical to epsilon the plane is distributed*
 
-> (Points 3) By tracing in a plane 5 semicircles all originating in the same point O, we divided the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by approximating (with vertices at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plan be divided? A) 12 B) 15 C) 18 D) 20 E) 24
+> (Points 3) By tracing in a plane 5 half-lines all originating in the same point O, we divided the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by placing together (with vertex at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plane be divided? A) 12 B) 15 C) 18 D) 20 E) 24
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_benjamin_semif#q02|src_kangourou_2019_benjamin_semif__Q02]]
@@ -124,13 +124,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which location and in the middle of the corridor (links) *
+*Which room is in the center of the corridor (constraints)*
 
-> The five venues of an amateur chess and bridge club all overlook the same side of a hallway: besides the chess hall and the bridge hall, there is a library, a bar and a restaurant. It is known that the library borders on the chess room but not the bar, the restaurant room borders both the bridge room and the bar and that the latter is not at either end of the hall. Which restaurant is in the middle of the hallway? A) The library
-> 	
-> B) The chess room
-> 	
-> C) The restaurant room D) The bridge room E) The bar
+> (3 points) The five rooms of an amateur chess and bridge club all face the same side of a 
+> corridor: besides the chess room and the bridge room, there are a library, a bar and a dining room. 
+> It is known that the library is adjacent to the chess room but not to the bar, the dining room is adjacent both to the 
+> bridge room and to the bar, and that the latter is not at either of the two ends of the corridor. Which room 
+> is located in the center of the corridor?
+> A) The library	
+	
+> B) The chess room	
+	
+> C) The dining room
+> D) The bridge room	 	
+> E) The bar
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_benjamin_semif#q03|src_kangourou_2019_benjamin_semif__Q03]]
@@ -193,9 +200,9 @@ level: kangourou
 
 > (Points 4) From a cardboard we carved a seven-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to separate from this polygon another polygon (like this one, not regular or even convex) with a different number of sides. Which of the following polygons can't be detached? A) A pentagon
 > 	
-> (b) A hexagon
+> B) A hexagon
 > 	
-> C) One octagon
+> C) An octagon
 > 	
 > D) A decagon
 > 	
@@ -344,7 +351,7 @@ level: kangourou
 
 *Minimum number of days for which the second proposal is suitable*
 
-> (Points 5) Maria is looking for work and has to consider two different salary proposals: the first proposal for a fixed daily wage of EUR 100 for each working day; the second one for a wage that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
+> (Points 5) Maria is looking for work and has to consider two different salary proposals: the first proposal provides a fixed daily wage of EUR 100 for each working day; the second one provides a wage that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
 > 	
 > B) 10 C) 11 D) 12 E) 20
 
@@ -465,7 +472,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) Approaching six equilateral triangles equals a regular hexagon. Assume that the starting equilateral triangles are each divided into three triangles (equal) with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always triangles of equal colour. How many different hexagonal decorations could you get? A) 6
+> (Points 6) By placing six equal equilateral triangles side by side, you get a regular hexagon. Assume that the starting equilateral triangles are each divided into three (equal) small triangles with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always small triangles of the same colour. How many different hexagonal decorations could you get? A) 6
 > 	
 > B) 5
 > 	
@@ -506,9 +513,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units of measurement for each unit of measurement.
+*Digit in the 2019th position of the sequence 20189102...*
 
-> (Points 4) Alternatively approaching the numbers 2018 and 9102 you can get a sequence of numbers as long as you want: 20189102201891022018910220189102201891022018910220189102201201201220189102201... What is the figure that is at the 2019-th place of this sequence (if you start with 2018)?
+> (4 points) By placing the numbers 2018 and 9102 alternately side by side, one can obtain a sequence of digits as long as one wishes:
+> 20189102201891022018910220189102201891022018910220189102…
+> What is the digit that is found in the 2019th position of this sequence (if one starts with 2018)?
 
 **Answer:** 63
 [[Quesiti/src_kangourou_2019_benjamin_semif#q10|src_kangourou_2019_benjamin_semif__Q10]]
@@ -536,9 +545,10 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M value is a two digit number with M*k=2331*
+*Value of M two-digit number with M*k=2331*
 
-> David wrote a two-digit positive integer M (significant). He noted that, when many people ask for another positive integer less than M, he gets the number 2331. How much is M ?
+> (5 points) Davide wrote a positive integer M with two (significant) digits. He noticed that, by multi­
+> plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M ?
 
 **Answer:** 63
 [[Quesiti/src_kangourou_2019_benjamin_semif#q11|src_kangourou_2019_benjamin_semif__Q11]]
@@ -570,7 +580,7 @@ This is the total number of units of measurement for each unit of measurement.
 
 *sum of numbers at the vertices of the lower face of the cube*
 
-> Luisa wrote some numbers on the tips of a cube. If you count the sum of the numbers that are in the vertices of the face you see on the right, you get 14, if you count the numbers that are in the vertices of the face you see on the left, you get 22; if you count the numbers that are in the vertices of the top face, you get 18. What's the sum of the numbers at the top of the bottom face?
+> Luisa wrote some numbers at the vertices of a cube. If you count the sum of the numbers that are in the vertices of the face you see on the right, you get 14, if you count the numbers that are in the vertices of the face you see on the left, you get 22; if you count the numbers that are in the vertices of the top face, you get 18. What is the sum of the numbers at the vertices of the bottom face?
 
 **Answer:** 18
 [[Quesiti/src_kangourou_2019_benjamin_semif#q12|src_kangourou_2019_benjamin_semif__Q12]]
@@ -601,7 +611,7 @@ This is the total number of units of measurement for each unit of measurement.
 
 *How many minutes to fill the tank with 10 taps*
 
-> (Points 6) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and enough) are needed to fill the tank?
+> (Points 6) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes are necessary (and sufficient) to fill the tank?
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2019_benjamin_semif#q13|src_kangourou_2019_benjamin_semif__Q13]]
@@ -628,9 +638,10 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little whole number not equal, not square, not prime, not mult3*
+*Smallest integer that is not even, not a square, not prime, not a multiple of 3*
 
-> (Points 6) What is the smallest positive integer that is not equal, is not a perfect square, is not a prime number and is not a multiple of 3?
+> (6 points) What is the smallest positive integer that is not even, is not a perfect square, is not a 
+> prime number and is not a multiple of 3?
 
 **Answer:** 35
 [[Quesiti/src_kangourou_2019_benjamin_semif#q14|src_kangourou_2019_benjamin_semif__Q14]]
@@ -661,9 +672,9 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which paper has not been fished (residues mod 3.4,5) *
+*Which card has not been drawn (residues mod 3,4,5) *
 
-> From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What paper hasn't been caught? Give 9999 as an answer if you think it's impossible to establish for sure.
+> From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What card hasn't been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2019_benjamin_semif#q15|src_kangourou_2019_benjamin_semif__Q15]]
@@ -691,9 +702,9 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of rectangle R divided by 4 rectangles*
+*Perimeter of rectangle R divided into 4 rectangles*
 
-> (Points 7) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeter of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
+> (Points 7) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2019_benjamin_semif#q16|src_kangourou_2019_benjamin_semif__Q16]]
@@ -746,7 +757,7 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major pedals on the 21-axle with all different distances*
+*Maximum counters on the 21-gon with all different distances*
 
 ![[src_kangourou_2019_benjamin_semif__prob17.png]]
 
@@ -771,7 +782,10 @@ This is the total number of units of measurement for each unit of measurement.
 \end{document}
 ```
 
-> (Points 7) In the figure you see a regular polygon of 21 sides. Andrea has a lot of pedals that she wants to place on the vertices of this polygon so that, for each pair of pedal-covered vertices, the distances between the vertices are all different. How many pedals can he place?
+> (7 points) In the figure you see a regular polygon with 21 sides. Andrea has many counters
+> that he wants to place on the vertices of this polygon in such a way that, for every pair of
+> vertices covered by counters, the distances between the vertices are all different. What is the maximum number of counters
+> he can place?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2019_benjamin_semif#q17|src_kangourou_2019_benjamin_semif__Q17]]

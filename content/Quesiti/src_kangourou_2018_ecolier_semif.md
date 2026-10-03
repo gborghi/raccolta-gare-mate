@@ -73,7 +73,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta de Roberta today given condition on future sum*
+*Roberta's age today given condition on future sum*
 
 > In one year's time the sum of the ages of Ambrogio, Chiara and Roberta will be 8 years higher than the sum of the ages of Ambrogio and Chiara today. How old is Roberta today? A) 5
 > 	
@@ -124,17 +124,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the maximum number of rods in 2018*
+*First digit of the largest number with the sticks of 2018*
 
 ![[src_kangourou_2018_ecolier_semif__prob3.png]]
 
-> Simone wrote the 2018 issue using several identical sticks, as you can see in the figure. Now reuse all these sticks so you write as many numbers as possible. What is the first digit to the left of that new number? A)
+> (3 points) Simone wrote the number 2018 using several identical sticks, as you can see in the figure. Now he reuses all these sticks to write the largest possible number. What is the leftmost digit of this new number?
+> A) 	
 > 	
-> B)
+> B)	
 > 	
-> C)
+> C)	
 > 	
-> D)
+> D)	
 > 	
 > E)
 
@@ -225,7 +226,7 @@ level: kangourou
 
 Price of the gift item given total expenditure of EUR 25
 
-> A shop offers this promotion: if you buy four items at four different prices, you will get a fifth item of your choice as long as it is lower than the prices of each item purchased. Each item is priced at an integer of EUR and there are items of all sizes priced between EUR 1 and EUR 30. Stefano brought home five items at a cost of 25 euros in total and chose as a gift the one with the highest possible price compared to what he paid. What is the price in euros for the item you gave as a gift? A) 2 B) 3
+> A shop offers this promotion: if you buy four items at four different prices, you will get a fifth item of your choice as long as it is lower than the prices of each item purchased. Each item is priced at an integer of EUR and there are items of all prices between EUR 1 and EUR 30. Stefano brought home five items at a cost of 25 euros in total and chose as a gift the one with the highest possible price compared to what he paid. What is the price in euros of the item he received as a gift? A) 2 B) 3
 > 	
 > C) 4
 > 	
@@ -266,9 +267,17 @@ Price of the gift item given total expenditure of EUR 25
 <div class="qlang-split" data-lang="en"></div>
 
 
-What six-digit number could Mary not have written?
+*Which six-digit number could Maria not have written*
 
-> Maria has six cards: three of them have the same number R, two of them have the same number S other than R and one of them has a number T different from R and S. By approaching them, Mary formed the largest six-digit number she could. You don't know the three digits, but you can be sure that one of the following numbers is not the one Mary wrote. What kind? (a) RRRSST (b) TRRRSSC) SSRRRT (d) RRRSST (e) RRRTSS
+> (4 points) Maria has six cards: on three of them the same digit R appears, on two of them the same
+> digit S different from R and on one of them a digit T different from R and from S. By placing them side by side, Maria formed
+> the largest six-digit number she could. You do not know the three digits, but you can be certain that one
+> of the following numbers is not the one written by Maria. Which one?
+> A) RRRSST
+> B) TRRRSS
+> C) SSRRRT
+> D) RRRSTS
+> E) RRRTSS
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_ecolier_semif#q06|src_kangourou_2018_ecolier_semif__Q06]]
@@ -357,11 +366,18 @@ What six-digit number could Mary not have written?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Missing maps for castle of 11 floors having 10
+*Missing cards for an 11-storey castle having enough for 10*
 
 ![[src_kangourou_2018_ecolier_semif__prob8.png]]
 
-> (Points 5) Look at the three card castles in the figure. For the first one (which is one floor) two cards are needed, for the second one (which is two floors) seven cards are needed, for the third one (which is three floors) fifteen cards are needed. Giuliana found out that she has exactly as many cards as she needs to build a 10-story castle, but she would like to build an 11-story castle. A) 21          B) 23          C) 32           D) 35           E) 37
+> (5 points) Observe the three card castles in the figure. To build
+> the first one (which is one storey high) two cards are needed, to build
+> the second one (which is two storeys high) 7 cards are needed, to build the
+> third one (which is three storeys high) 15 cards are needed. Giuliana has discovered
+> that she has exactly as many cards as are needed to build
+> a 10-storey castle, but she would like to build an 11-storey
+> castle: how many cards is she missing?
+> A) 21          B) 23          C) 32           D) 35           E) 37
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_ecolier_semif#q08|src_kangourou_2018_ecolier_semif__Q08]]
@@ -405,11 +421,11 @@ Missing maps for castle of 11 floors having 10
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What kind of sheet can be made up of the mosaic shown*
+*Which tile can make up the mosaic shown*
 
 ![[src_kangourou_2018_ecolier_semif__prob9.png]]
 
-> (Points 6) Look at the figure: a mosaic was made by placing all the same pieces together without overlapping (not even partial) and without leaving holes. Which of the following can be the one in the mosaic? A)
+> (Points 6) Look at the figure: a mosaic was made by placing all the same pieces together without overlapping (not even partial) and without leaving holes. Which of the following tiles can be the one repeated in the mosaic? A)
 > 	
 > 	
 > B)
@@ -491,7 +507,7 @@ Maximum number of polygons with 41 matches
 
 *New sum by swapping two digits between 345 and 921*
 
-> By choosing a number 345 and a number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. How much is the new sum?
+> By choosing a digit of the number 345 and a digit of the number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. How much is the new sum?
 
 **Answer:** 1293
 [[Quesiti/src_kangourou_2018_ecolier_semif#q11|src_kangourou_2018_ecolier_semif__Q11]]
@@ -521,7 +537,7 @@ Maximum number of polygons with 41 matches
 
 *How many pipes to open to fill the pool in 6 hours*
 
-> (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-duty one, would open to fill it in six hours?
+> (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-capacity one, should be opened to fill it in six hours?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2018_ecolier_semif#q12|src_kangourou_2018_ecolier_semif__Q12]]
@@ -551,9 +567,9 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number advances in equality with 7 numbers*
+*Which number is left over in the equation with 7 numbers*
 
-> (Points 6) In each of the spaces (denoted by three dots) of the equation ... + ... + ... = ... + ... + ... ... enter one and only one of the seven numbers 1, 3, 4, 5, 7, 11, 15, so that all but one of them are used and the operation is correct. What number is ahead of you?
+> (Points 6) In each of the spaces (denoted by three dots) of the equation ... + ... + ... = ... + ... + ... ... enter one and only one of the seven numbers 1, 3, 4, 5, 7, 11, 15, so that all but one of them are used and the operation is correct. Which number is left over?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2018_ecolier_semif#q13|src_kangourou_2018_ecolier_semif__Q13]]
@@ -582,9 +598,11 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Top points of 4 squares in the rectangle 100x60*
+*Vertex points of 4 squares in a 100x60 rectangle*
 
-> (Documents 8) Approaching, without overlapping, 6,000 squares all equal to each other can yield a rectangle whose base consists of 100 squares. How many points of this rectangle are simultaneously vertices of 4 of the 6,000 squares that make up it?
+> (8 points) By placing side by side, without overlapping them, 6,000 squares all equal to each other, one can obtain a
+> rectangle whose base is made up of 100 squares. How many points of such a rectangle are
+> simultaneously vertices of 4 of the 6,000 squares that compose it?
 
 **Answer:** 5841
 [[Quesiti/src_kangourou_2018_ecolier_semif#q14|src_kangourou_2018_ecolier_semif__Q14]]
@@ -622,11 +640,16 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum waiting time to know the time from the outlet*
+*Maximum waiting minutes to know the time from the chimes*
 
-> The clock on a bell tower beats at the time of each hour a number of times corresponding to the numerical value of the hour itself (from 1 to 12) and beats only once at the time of each quarter of an hour, half an hour and three quarters of an hour. At night, you hear a whistle. Based on the facts alone, how many minutes at most does it take to know for sure what time it is?
+> (Points 8) The clock of a bell tower strikes at the stroke of every hour a number of chimes corresponding to the numerical value of the hour itself (from 1 to 12) and strikes a single chime at the stroke of every quarter of an hour, every half hour and every three quarters of an hour. At night one hears a single chime. Based only on the chimes, how many minutes at most must one wait to know with certainty what time it is?
 > 
-> 0012 1293 0003 0004 5841 0090
+> 0012
+> 1293
+> 0003
+> 0004
+> 5841
+> 0090
 
 **Answer:** 90
 [[Quesiti/src_kangourou_2018_ecolier_semif#q15|src_kangourou_2018_ecolier_semif__Q15]]

@@ -108,9 +108,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Alice's number exceeds Barbara's
+*Probability that Alice's number exceeds Barbara's*
 
-> (Points 3) Alice and Barbara randomly and separately select an integer between 1 and 2018. The two numbers are then compared. What is the probability that the number Alice chose is greater than the number Barbara chose? This appropriation is intended to cover expenditure relating to the implementation of the programme.
+> (3 points) Alice and Barbara choose at random and separately an integer between 1 and 2018. 
+> The two numbers are then compared.  What is the probability that the number chosen by Alice is 
+> greater than the one chosen by Barbara?
+> A) 2019/4036            B) 2017/4036            C) 2017/4038          	 D) 1/2
+> E) None of the above.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_student_semif#q02|src_kangourou_2018_student_semif__Q02]]
@@ -145,9 +149,9 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reported cubic volume/regular tetrahedron entered *
+*Ratio of cube volume / inscribed regular tetrahedron*
 
-> (Points 3) In a cube is inscribed a regular tetrahedron whose edges are diagonal to the faces of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
+> (Points 3) In a cube is inscribed a regular tetrahedron whose edges are diagonals of the faces of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
 > 	
 > B) 3
 > 	
@@ -184,7 +188,7 @@ The probability that Alice's number exceeds Barbara's
 
 *How many prime r sums of two prime numbers with equal sums *
 
-> (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits r coincides with the sum of the digits p plus the sum of the digits q. How many possible prime r numbers are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
+> (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_student_semif#q04|src_kangourou_2018_student_semif__Q04]]
@@ -214,7 +218,7 @@ The probability that Alice's number exceeds Barbara's
 
 *Value m+n with 2^m-2^n=240*
 
-> (Points 4) m and n are two positive integers such that 2m - 2n = 240. How much is m + n ? A) 10 B) 11 C) 15 D) 16 E) None of the above numbers are correct.
+> (Points 4) m and n are two positive integers such that 2^m - 2^n = 240. How much is m + n ? A) 10 B) 11 C) 15 D) 16 E) None of the above numbers are correct.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_student_semif#q05|src_kangourou_2018_student_semif__Q05]]
@@ -242,7 +246,7 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For integers n the number n/(n-10) and integers *
+*For how many integers n is the number n/(n-10) an integers *
 
 > (Points 4) For how many integers n is the number n/(n - 10) an integer? (A) 4 (B) 5 (C) 7 (D) 8 (E) Infinite
 
@@ -272,9 +276,10 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of the countries of the European Economic Area.
+*What is 2019*2018^2 - 2018*2019^2 not divisible by*
 
-> (Points 5) The number 201920182 - 201820192 is not divisible by A) 99 B) 101 C) 121 D) 1001 10001
+> (5 points) The number 201920182 - 201820192 is not divisible by
+> A) 99            B) 101          C) 121           D) 1001           10001
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_student_semif#q07|src_kangourou_2018_student_semif__Q07]]
@@ -304,9 +309,12 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the figure 1 is between 1 and 10^7*
+*Probability that the digit 1 appears between 1 and 10^7*
 
-> (Points 5) Imagine that in a bag there are all the integers between 1 and 107 (extremes included) and to extract one of these numbers at random. This p the probability that in its representation (decimal) the figure 1 will be A) p < 35% B) 35% ≤ p < 40% C) 40% ≤ p < 45% D) 45% ≤ p < 50% E) p ≥ 50%
+> (5 points) Imagine that in a bag there are all the integers between 1 and 107 (inclusive) and that
+> one of these numbers is drawn at random. Let p be the probability that in its (decimal) representation
+> the digit 1 appears; then
+> A) p < 35%    B) 35% ≤ p < 40%      C) 40% ≤ p < 45%      D) 45% ≤ p < 50%     E) p ≥ 50%
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_student_semif#q08|src_kangourou_2018_student_semif__Q08]]
@@ -371,9 +379,9 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio length of strings / shorter piece (discs) *
+*Ratio length of rope / shorter piece (discs) *
 
-> (Dots 4) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the relationship between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
+> (Dots 4) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2018_student_semif#q10|src_kangourou_2018_student_semif__Q10]]
@@ -402,9 +410,12 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of scoring the first given string p>=one=0,999*
+*Probability of scoring the first penalty given p>=one=0.999*
 
-> Mark must throw three hard kicks. Knowing yourself, you know that the probability of scoring is the same in all three and that the probability of scoring in at least one of the three is 0.999. What's the likelihood that he'll score when he draws the first line? (Include decimal places after the comma up to the fourth: e.g. If the probability is 0.81, write the answer as 8100.)
+> (Points 5) Marco has to take three penalty kicks. Knowing himself, he knows that the probability of scoring is 
+> the same in all three and that the probability of scoring in at least one of the three is 0.999. What is the probability that 
+> he manages to score when he takes the first penalty kick? (Indicate the decimal digits after the decimal point up to the fourth: for 
+> example, if the probability were 0.81 write the answer as 8100.)
 
 **Answer:** 9000
 [[Quesiti/src_kangourou_2018_student_semif#q11|src_kangourou_2018_student_semif__Q11]]
@@ -434,7 +445,7 @@ This is a list of the countries of the European Economic Area.
 
 *How many polynomials x^3+bx^2+cx+4 with p(2)=0 and b,c in [-2018,2018]*
 
-> (Points 5) Whether p (x) = x3 + bx2 + cx + 4, with b and c relative integers included between - 2018 and 2018, extremes included. For how many different polynomials p (x) do we have p (2) = 0 ?
+> (Points 5) Let p (x) = x3 + bx2 + cx + 4, with b and c integers between - 2018 and 2018, extremes included. For how many different polynomials p (x) do we have p (2) = 0 ?
 
 **Answer:** 2019
 [[Quesiti/src_kangourou_2018_student_semif#q12|src_kangourou_2018_student_semif__Q12]]
@@ -462,7 +473,7 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 1 and 9999 with the sum of the first two digits = two more*
+*Numbers between 1 and 9999 with the sum of the first two digits = the other two*
 
 > (Points 6) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
 
@@ -497,7 +508,7 @@ This is a list of the countries of the European Economic Area.
 
 *Values m and n with 46 new ticket types*
 
-> (Points 6) A railway company operates a line with m stations. He then builds other n's, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, how much are they worth, in order, m and n? (For example, if m = 25 and n = 4, write 2504.)
+> (Points 6) A railway company operates a line with m stations. It then has n more built, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, what are the values of m and n, in order? (For example, if m = 25 and n = 4, write 2504.)
 
 **Answer:** 1102
 [[Quesiti/src_kangourou_2018_student_semif#q14|src_kangourou_2018_student_semif__Q14]]
@@ -526,9 +537,11 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the ABP triangle with perpendicular tangents*
+*Area of triangle ABP with perpendicular tangents*
 
-> (Points 6) Two centers α and β of centers A and B have radii of 10 and 20 respectively and the two centers are 10√2. P is a point on β such that the α tangent semicircles from P are perpendicular to each other. How much is the area of the ABP triangle?
+> (6 points) Two circles α and β with centers A and B respectively have radii 
+> 10 and 20 respectively, and the two centers are 10√2 apart. Let P be a point on β such that the rays tangent to α 
+> starting from P are perpendicular to each other. What is the area of triangle ABP?
 
 **Answer:** 100
 [[Quesiti/src_kangourou_2018_student_semif#q15|src_kangourou_2018_student_semif__Q15]]
@@ -556,9 +569,9 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many whole ternes (a,b,c) are ordered with a*b*c=45000*
+*How many integer triples (a,b,c) are ordered with a*b*c=45000*
 
-> (Points 7) For how many ordered ternes (a, b, c) of relative integers does a × b × c = 45,000?
+> (Points 7) For how many ordered triples (a, b, c) of relative integers does a × b × c = 45,000?
 
 **Answer:** 3600
 [[Quesiti/src_kangourou_2018_student_semif#q16|src_kangourou_2018_student_semif__Q16]]
@@ -588,9 +601,9 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of n sides of the garden near 2019*
+*Number of sides n of the ortho-polygon close to 2019*
 
-> (Points 7) An ortho-polygon in the plane is an unwoven polygon such that each pair of consecutive sides consists of sides perpendicular to each other. A n-sided ortho-polygon is known that, by numbering its sides from 1 in one of the two possible vertices, the length of each side corresponds to the number assigned to the side itself; it is also known that n is the whole as close as possible to 2019. How much is n ?
+> (Points 7) An ortho-polygon in the plane is a non-self-intersecting polygon such that every pair of consecutive sides consists of sides perpendicular to each other. About an ortho-polygon with n sides it is known that, numbering its sides starting from 1 in one of the two possible directions, the length of each side corresponds to the number assigned to the side itself; it is also known that n is the integer as close as possible to 2019. What is the value of n?
 
 **Answer:** 2016
 [[Quesiti/src_kangourou_2018_student_semif#q17|src_kangourou_2018_student_semif__Q17]]
@@ -629,11 +642,21 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n for which two integers have sum/diff div for 100*
+*Minimum n for which two integers have sum/diff divisible by 100*
 
-> (Points 8) It is to be ensured that, whatever positive integers are chosen, at least two of them have a sum or a difference of which is divisible by 100. What's the smallest value of n that allows us to have this certainty?
+> (Points 8) We want to be certain that, however n positive integers are chosen, pairwise
+> distinct, among them there are at least two whose sum or whose difference is divisible by 100. What
+> is the smallest value of n that allows us to have this certainty?
 > 
-> 0005 9000 2019 0669 1102 0100 3600 2016 0052
+> 0005
+> 9000
+> 2019
+> 0669
+> 1102
+> 0100
+> 3600
+> 2016
+> 0052
 
 **Answer:** 52
 [[Quesiti/src_kangourou_2018_student_semif#q18|src_kangourou_2018_student_semif__Q18]]

@@ -31,9 +31,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Higher figure sum on digital watch*
+*Highest digit sum on digital watch*
 
-> Anna and her watch Anna enjoys calculating the sum of the digits that appear on her digital watch: for example, if the clock indicates 21:17, Anna gets 11. What is the highest amount Anna can get?
+> Anna and her watch Anna enjoys calculating the sum of the digits that appear on her digital watch: for example, if the clock indicates 21:17, Anna gets 11. What is the highest sum Anna can get?
 
 **Answer:** 24
 [[Quesiti/src_kangourou_2011_squadre_finale#q01|src_kangourou_2011_squadre_finale__Q01]]
@@ -62,9 +62,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of straight lines parallel to the ends of a cube*
+*Pairs of skew lines among the edges of a cube*
 
-> How many pairs of straight sghembe (i.e. not lying on the same plane) can be formed, choosing the straight lines from those on which the spikes of a cube lie?
+> The edges of a cube    
+> How many pairs of skew lines (that is, not lying in the same plane) can be formed, 
+> choosing the lines from those on which the edges of a cube lie?
 
 **Answer:** 24
 [[Quesiti/src_kangourou_2011_squadre_finale#q02|src_kangourou_2011_squadre_finale__Q02]]
@@ -95,9 +97,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PAPA number in the digit sum A+AP+APP=PQA*
+*The number PAPA in the cryptarithm A+AP+APP=PQA*
 
-> The sum encrypted In the sum encrypted A + AP + APP = PQA, the letters A, P and Q each indicate one digit; different letters indicate different digits. What's your dad's number?
+> The cryptarithm
+> In the cryptarithm
+> A + AP + APP = PQA
+> the letters A, P and Q each denote a digit; different letters denote different digits. What number is
+> PAPA?
 
 **Answer:** 5454
 [[Quesiti/src_kangourou_2011_squadre_finale#q03|src_kangourou_2011_squadre_finale__Q03]]
@@ -131,7 +137,7 @@ level: squadre
 
 *Number of tournament players with 100 matches*
 
-> The tennis tournament A tennis tournament proceeds by direct elimination. Two players face each other: the winner goes on, the loser is eliminated. At each stage the matches are decided by lottery: if, in any stage, the number of players is odd, the last remaining at the end of the lottery automatically proceeds to the next stage. In fact, to determine the winner, a total of 100 matches must be played. How many players are taking part in the tournament?
+> The tennis tournament A tennis tournament proceeds by direct elimination. Two players face each other: the winner goes on, the loser is eliminated. At each stage the pairings are decided by drawing lots: if, in any stage, the number of players is odd, the last remaining at the end of the lottery automatically proceeds to the next stage. All things considered, to determine the winner, a total of 100 matches must be played. How many players are taking part in the tournament?
 
 **Answer:** 101
 [[Quesiti/src_kangourou_2011_squadre_finale#q04|src_kangourou_2011_squadre_finale__Q04]]
@@ -161,9 +167,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets without consecutive numbers (>=2 elements) *
+*Subsets without consecutive numbers (>=2 elements)*
 
-> &ient consecutive numbers Either A the sum of the first 11 positive integers, i.e. A = {1, 2, 3,..., 10, 11}. How many subsets of A, made up of at least two elements, do not contain two consecutive numbers?
+> &iente consecutive numbers 
+> Let A be the set consisting of the first 11 positive integers, that is, A = {1, 2, 3,…, 10, 11}. How many 
+> subsets of A, consisting of at least two elements, do not contain two consecutive 
+> numbers?
 
 **Answer:** 221
 [[Quesiti/src_kangourou_2011_squadre_finale#q05|src_kangourou_2011_squadre_finale__Q05]]
@@ -192,9 +201,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square root 6 digits by 27 with digit bindings*
+*Square root of 6-digit multiple of 27 with digit constraints*
 
-> The perfect square A six-digit integer is a perfect square, it's a multiple of 27, its unit number is 0, and that of the hundreds is 5. How much is its square root worth?
+> The perfect square A six-digit integer is a perfect square, it's a multiple of 27, its units digit is 0, and that of the hundreds is 5. What is its square root?
 
 **Answer:** 450
 [[Quesiti/src_kangourou_2011_squadre_finale#q06|src_kangourou_2011_squadre_finale__Q06]]
@@ -225,9 +234,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible numbers within 9 km on contacylometers (figures 1.2) *
+*Possible numbers after 9 km on the odometer (digits 1,2)*
 
-> Mark's car The meter in Mark's car has six digits. Marco is driving and notices that at this time on his meter a number is only numbered 1 and 2 and that the number that will appear in 9 kilometres will still be numbered 1 and 2. How many numbers could show up within 9 kilometers?
+> Marco's car 
+> The odometer of Marco's car has 6 digits. Marco is driving and notices that right now 
+> his odometer shows a number made up only of the digits 1 and 2, and that the number that 
+> will appear in 9 kilometers will still be made up only of the digits 1 and 2. How many numbers 
+> could appear in 9 kilometers?
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2011_squadre_finale#q07|src_kangourou_2011_squadre_finale__Q07]]
@@ -257,9 +270,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers containing block 2011 * 7 digits
+*7-digit numbers containing block 2011*
 
-> &numbers of 7 digits How many positive integers of 7 significant digits (i.e. the first digit of which is not 0) contain the 2011 block of digits as part of their decimal representation (it is understood that the block numbers must appear consecutively)?
+> How many positive integers of 7 significant digits (i.e. the first digit of which is not 0) contain the 2011 block of digits as part of their decimal representation (it is understood that the block digits must appear consecutively)?
 
 **Answer:** 3700
 [[Quesiti/src_kangourou_2011_squadre_finale#q08|src_kangourou_2011_squadre_finale__Q08]]
@@ -290,9 +303,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes more than happy than Marco*
+*Minutes more for Felice than Marco*
 
-> The two runners Two runners, Marco and Felice, must make a common route: Marco from point A to point B, Felice from point B to point A. They start at the same moment and each keeps their speed constant. When Mark is halfway through, Felix has an hour and a half to get there; when Felix is halfway through, Mark has three-quarters of an hour to get there. How many more minutes does it take Felice than Marco to complete the journey?
+> The two runners Two runners, Marco and Felice, must make a common route: Marco from point A to point B, Felice from point B to point A. They start at the same moment and each keeps their speed constant. When Marco is halfway through, Felix has an hour and a half to get there; when Felix is halfway through, Marco has three-quarters of an hour to get there. How many more minutes does it take Felice than Marco to complete the journey?
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2011_squadre_finale#q09|src_kangourou_2011_squadre_finale__Q09]]
@@ -330,7 +343,7 @@ level: squadre
 
 *Minimum maid trips with unfavourable elevator*
 
-> A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green plane is sure to be taken to the plane they want. The person entering the elevator in a red plane is taken to a plane of the same colour as the one he selected, but not necessarily in the selected plane; in any case, the elevator changes plane. From whatever floor you call, the elevator will arrive as soon as you're free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow you to reach your destination?
+> A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green floor is sure to be taken to the floor they want. The person entering the elevator on a red floor is taken to a floor of the same colour as the one he selected, but not necessarily to the selected floor; in any case, the elevator changes floor. From whatever floor you call, the elevator will arrive as soon as it is free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow her to achieve her goal?
 
 **Answer:** 29
 [[Quesiti/src_kangourou_2011_squadre_finale#q10|src_kangourou_2011_squadre_finale__Q10]]
@@ -359,9 +372,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little integer that cannot be written as a*b+c distinct digits*
+*Smallest integer that cannot be written as a*b+c with distinct digits*
 
-> The smallest number What is the smallest integer greater than 1 that cannot be written in the form a × b + c where a, b and c are all different digits from each other?
+> The smallest number What is the smallest integer greater than 1 that cannot be written in the form a × b + c where a, b and c are all distinct digits?
 
 **Answer:** 70
 [[Quesiti/src_kangourou_2011_squadre_finale#q11|src_kangourou_2011_squadre_finale__Q11]]
@@ -391,9 +404,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of grandfather Angelo with conditions of multiples*
+*Age of grandfather Angelo with conditions of multiples*
 
-> Angelo Nonno Angelo, who is not yet centenarian, today says: My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5. How old is Grandpa Angelo today?
+> Grandpa Angelo, who is not yet centenarian, today says: "My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5." How old is Grandpa Angelo today?
 
 **Answer:** 61
 [[Quesiti/src_kangourou_2011_squadre_finale#q12|src_kangourou_2011_squadre_finale__Q12]]
@@ -422,7 +435,7 @@ level: squadre
 
 *N value with 2^n = 134217728*
 
-> A power of two. You know that 2n is equal to 134,217,728. How much is n ?
+> A power of two. You know that 2^n is equal to 134,217,728. What is n ?
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2011_squadre_finale#q13|src_kangourou_2011_squadre_finale__Q13]]
@@ -455,7 +468,7 @@ level: squadre
 
 *Probability of two out of three births on the same day of the week*
 
-> Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the comma).
+> Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the decimal point).
 
 **Answer:** 3877
 [[Quesiti/src_kangourou_2011_squadre_finale#q14|src_kangourou_2011_squadre_finale__Q14]]

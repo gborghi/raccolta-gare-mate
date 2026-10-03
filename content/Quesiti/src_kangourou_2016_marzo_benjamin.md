@@ -40,9 +40,9 @@ level: kangourou
 
 *part of each slice*
 
-> Michael cuts a pizza into four equal slices. Then cut each of these four slices into three equal slices. What part of the total is each resulting slice? A) One third
+> Michael cuts a pizza into four equal slices. Then he cuts each of these four slices into three equal slices. What part of the total is each resulting slice? A) One third
 > 	
-> (b) A quarter
+> B) A quarter
 > 	
 > C) One seventh D) One eighth
 > 	
@@ -86,7 +86,7 @@ level: kangourou
 
 ![[src_kangourou_2016_marzo_benjamin__prob2.png]]
 
-> A 10 cm long thread is folded into equal parts as shown in the figure. If the wire is cut where indicated by the lines drawn, how many centimeters are the resulting three pieces of wire? A) 2, 3, 5 B) 2, 2, 6 C) 1, 4, 5 D) 1, 3, 6 E) 3, 3, 4
+> A 10 cm long thread is folded into equal parts as shown in the figure. If the thread is cut where indicated by the dashed lines, how many centimeters are the resulting three pieces of wire? A) 2, 3, 5 B) 2, 2, 6 C) 1, 4, 5 D) 1, 3, 6 E) 3, 3, 4
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_marzo_benjamin#q02|src_kangourou_2016_marzo_benjamin__Q02]]
@@ -130,7 +130,7 @@ level: kangourou
 
 ![[src_kangourou_2016_marzo_benjamin__prob3.png]]
 
-> Lisa fixed some postcards on her refrigerator door using 8 robust magnets (the black circles in the picture). How many magnets can you remove without any of the cards falling to the ground? A) 2
+> Lisa fixed some postcards on her refrigerator door using 8 robust magnets (the black circles in the picture). How many magnets can she remove without any of the cards falling to the ground? A) 2
 > 	
 > B) 3
 > 	
@@ -239,7 +239,7 @@ level: kangourou
 \end{document}
 ```
 
-> Claudio draws a square on a side of 10 centimetres. Then it joins the midpoints of the sides forming a smaller square, as shown in the figure. How many square centimetres is the area of the smallest square? A) 10
+> Claudio draws a square with side 10 centimetres. Then he joins the midpoints of the sides forming a smaller square, as shown in the figure. How many square centimetres is the area of the smallest square? A) 10
 > 	
 > B) 20
 > 	
@@ -335,11 +335,11 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*exchanges of posts required*
+*exchanges of cutlery required*
 
 ![[src_kangourou_2016_marzo_benjamin__prob7.png]]
 
-> Alice knows that every seat at the table must have the knife to the right and the fork to the left of the plate. If the table is fitted as shown in the drawing, how many exchanges of seats is enough to make the correct arrangement of the seats? A) 1
+> Alice knows that every seat at the table must have the knife to the right and the fork to the left of the plate. If the table is fitted as shown in the drawing, how many exchanges of cutlery is enough to make the correct arrangement of the cutlery? A) 1
 > 	
 > B) 2
 > 	
@@ -390,7 +390,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2016_marzo_benjamin__prob8.png]]
 
-> Thomas and John want to build two parallel pipes by approaching the same number of identical cubes. In the first figure you see the construction carried out by Thomas while in the second you see the lower level of the construction of John. How many levels will John's building have? A) 2
+> Thomas and John want to build two parallelepipeds by placing side by side the same number of identical cubes. In the first figure you see the construction carried out by Thomas while in the second you see the lower level of the construction of John. How many levels will John's building have? A) 2
 > 	
 > B) 3
 > 	
@@ -438,7 +438,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*when with the right ear on the pillow*
+*how many with the right ear on the pillow*
 
 ![[src_kangourou_2016_marzo_benjamin__prob9.png]]
 
@@ -488,17 +488,20 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to:
+*how many in March 2020*
 
-> In the Kangaroo Country, the kangaroo population doubles every June; every December, one kangaroo, in agreement with the others, emigrates. Today there are three kangaroos in the Kangaroo Country. How many kangaroos will there be in March 2020? A) 23
-> 	
-> B) 24
-> 	
-> C) 27
-> 	
-> D) 30
-> 	
-> (E) 33 Questions from N. 11 al N. 20 is worth 4 points each.
+> In the country of the Kangaroos the kangaroo population doubles every June; every December one kangaroo, in agreement with the others, emigrates. Today there are 3 kangaroos in the country 
+> of the kangaroos. How many kangaroos will there be in March 2020?
+> A) 23	
+	
+> B) 24	
+	
+> C) 27	
+	
+> D) 30	
+	
+> E) 33
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_marzo_benjamin#q10|src_kangourou_2016_marzo_benjamin__Q10]]
@@ -632,7 +635,7 @@ This appropriation is intended to cover expenditure relating to:
 
 ![[src_kangourou_2016_marzo_benjamin__prob13.png]]
 
-> Five squirrels A, B, C, D, and E stand on a straight branch on which there are 6 glands (denoted in the figure with an asterisk). At the same moment the squirrels begin to run at the same speed toward the nearest gland. As soon as a squirrel grabs its gland, it begins to run toward the nearest new gland. What squirrel can grab two glands? A) A
+> Five squirrels A, B, C, D, and E stand on a straight branch on which there are 6 acorns (denoted in the figure with an asterisk). At the same moment the squirrels begin to run at the same speed toward the nearest acorn. As soon as a squirrel grabs its acorn, it begins to run toward the nearest new acorn. What squirrel can grab two acorns? A) A
 > 	
 > B) B
 > 	
@@ -678,7 +681,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *how many boys*
 
-> There are 30 students in a class. They were settled in pairs so that exactly every boy has a girl next to him and exactly half of the girls have a boy next to them. How many kids are in the class? A) 25
+> There are 30 students in a class. They were lined up in pairs so that exactly every boy has a girl next to him and exactly half of the girls have a boy next to them. How many boys are in the class? A) 25
 > 	
 > B) 20
 > 	
@@ -722,7 +725,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *minimum sum*
 
-> A strip of paper has the number 2581953764. Gianni cuts the strip into two dots, getting three numbers, then adds those three numbers. What's the least amount you can get? A) 2675 B) 2975 C) 2978 D) 4217 E) 4298
+> A strip of paper has the number 2581953764. Gianni cuts the strip at two points, getting three numbers, then adds those three numbers. What is the smallest sum he can get? A) 2675 B) 2975 C) 2978 D) 4217 E) 4298
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_marzo_benjamin#q15|src_kangourou_2016_marzo_benjamin__Q15]]
@@ -760,7 +763,7 @@ This appropriation is intended to cover expenditure relating to:
 
 ![[src_kangourou_2016_marzo_benjamin__prob16.png]]
 
-> Fulvio's from the hairdresser. Looking in the mirror you see the clock with the hands in this position. What position would you have been if you'd looked in the mirror 10 minutes ago? A) B) C) D) E)
+> Fulvio's from the hairdresser. Looking in the mirror he sees the clock with the hands in this position. What position would you have been if you'd looked in the mirror 10 minutes ago? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_marzo_benjamin#q16|src_kangourou_2016_marzo_benjamin__Q16]]
@@ -800,7 +803,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *how many days*
 
-> Ophelia bought cat food to feed her four cats for 12 days. On his way home, he found two stray cats and brought them home. If you give each cat the same food ration every day as when it made the purchase, how many days will the stock last? A) 8
+> Ophelia bought cat food to feed her four cats for 12 days. On her way home, she found two stray cats and brought them home. If she gives each cat the same food ration every day as when she made the purchase, how many days will the stock last? A) 8
 > 	
 > B) 7
 > 	
@@ -847,17 +850,24 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided for the purposes of this Regulation:
+*digit N*
 
-> I wrote an odd number divisible by 3 using only the digits 1, 2, 3, 4, 5, 6, 7 and then I replaced each of its digits with a letter so that equal letters represent equal numbers and different letters represent different numbers. The word "Benjamin" came out. What number corresponds to N? A) 1
+> I wrote an odd number divisible by 3 using only the digits 1, 2, 3, 4, 5, 6, 7
+> and then I replaced each of its digits with a letter so that equal letters represent equal digits and different letters represent different digits. The word
+> BENJAMIN came out. Which digit corresponds to N?
+> A) 1	
+	
 > 	
-> B) 2
+> B) 2	
+	
 > 	
-> C) 3
+> C) 3	
+	
 > 	
-> D) 5
+> D) 5	
+	
 > 	
-> E) 7
+> E) 7 
 >
 
 **Answer:** D
@@ -948,11 +958,11 @@ This is the main reason why we have to make a decision.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* thick environment*
+*thick outline*
 
 ![[src_kangourou_2016_marzo_benjamin__prob20.png]]
 
-> The rectangle ABCD has a perimeter of 30 cm. Three other rectangles have their centre at the vertices A, B and D and sides parallel to those of ABCD (see figure). The sum of the perimeters of the latter is 20 cm. How many centimeters is the outline drawn in a very thick drawing? A) 35
+> The rectangle ABCD has a perimeter of 30 cm. Three other rectangles have their centre at the vertices A, B and D and sides parallel to those of ABCD (see figure). The sum of the perimeters of the latter is 20 cm. How many centimeters is the outline drawn with a thick line? A) 35
 > 	
 > B) 40
 > 	
@@ -960,7 +970,7 @@ This is the main reason why we have to make a decision.
 > 	
 > D) 50
 > 	
-> E) It is impossible to establish. The questions from N. 21 al N. 30 is worth 5 points each.
+> E) It is impossible to establish. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_marzo_benjamin#q20|src_kangourou_2016_marzo_benjamin__Q20]]
@@ -999,11 +1009,16 @@ This is the main reason why we have to make a decision.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*form deployed*
+*unfolded shape*
 
 ![[src_kangourou_2016_marzo_benjamin__prob21.png]]
 
-> Anna folds a round sheet of paper in half, then folds it again in half, and then one last time, as shown in the figure. To finish, he cuts the resulting spike along the drawn line and baskets the pieces of paper that fall apart from his work. What shape will the remaining part take once deployed? A)	                 B) C) D)
+> Anna folds a round sheet of paper in half, then folds it in half again and then one last time, as the figure shows.
+> Finally she cuts the resulting "wedge" along the dashed line and throws away the paper scraps that come off her work.
+> What shape will the remaining part take once unfolded?
+>         A)	                 B)	
+>            C) 	
+>     D)	
 > 	
 > E)
 
@@ -1106,7 +1121,7 @@ This is the main reason why we have to make a decision.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max 5x5 square cutting shafts *
+*Max tiles cut from a 5x5 square *
 
 ![[src_kangourou_2016_marzo_benjamin__prob23.png]]
 
@@ -1122,7 +1137,7 @@ This is the main reason why we have to make a decision.
 \end{document}
 ```
 
-> What is the maximum number of slices such as the one in the figure (possibly overturned) that can be cut from a square 5×5? A) 2
+> What is the maximum number of tiles such as the one in the figure (possibly overturned) that can be cut from a square 5×5? A) 2
 > 	
 > B) 4
 > 	
@@ -1171,7 +1186,7 @@ This is the main reason why we have to make a decision.
 
 *how many tables*
 
-> Luigi started a small restaurant. His friend James gave him some square tables and chairs. If Luigi wanted to use each of these tables in isolation and put four chairs per table, he would need six more chairs. If he wanted to bring the tables together in pairs and put six chairs per double table, four chairs would advance him. How many tables did James give to Louis ? A) 8
+> Luigi started a small restaurant. His friend James gave him some square tables and chairs. If Luigi wanted to use each of these tables in isolation and put four chairs per table, he would need six more chairs. If he wanted to bring the tables together in pairs and put six chairs per double table, he would have four chairs left over. How many tables did James give to Luigi ? A) 8
 > 	
 > B) 10
 > 	
@@ -1224,7 +1239,7 @@ This is the main reason why we have to make a decision.
 
 ![[src_kangourou_2016_marzo_benjamin__prob25.png]]
 
-> Using so many identical equilateral triangle-shaped tiles, Clara wants to build a larger equilateral triangle. In the figure, you can see how he arranged the first cards. What is the minimum number of tiles to be added to complete the work? A) 5
+> Using so many identical equilateral triangle-shaped tiles, Clara wants to build a larger equilateral triangle. In the figure, you can see how she arranged the first tiles. What is the minimum number of tiles to be added to complete the work? A) 5
 > 	
 > B) 9
 > 	
@@ -1273,7 +1288,7 @@ This is the main reason why we have to make a decision.
 
 ![[src_kangourou_2016_marzo_benjamin__prob26.png]]
 
-> A cube was composed by adjoining 8 cubes of equal sides, some white and some black. Five of the faces of the cube are shown in the figure. Which of the following is the sixth?
+> A cube was composed by adjoining 8 small cubes of equal sides, some white and some black. Five of the faces of the cube are shown in the figure. Which of the following is the sixth?
 >  
 > A) B)
 > 	
@@ -1323,7 +1338,7 @@ This is the main reason why we have to make a decision.
 
 ![[src_kangourou_2016_marzo_benjamin__prob27.png]]
 
-> Cristina has already written a number in five of the 10 circles you see in the figure. Now she wants to write a number in each remaining circle so that the sum of the 3 numbers in the circles that are on the same side of the pentagon doesn't change anyway she chooses the side. What number should you write in the circle marked with X ? A) 7
+> Cristina has already written a number in five of the 10 circles you see in the figure. Now she wants to write a number in each remaining circle so that the sum of the 3 numbers in the circles that are on the same side of the pentagon doesn't change no matter which side she chooses. What number should she write in the circle marked with X ? A) 7
 > 	
 > B) 8
 > 	
@@ -1369,15 +1384,17 @@ This is the main reason why we have to make a decision.
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the number of samples of the samples:
+*digit A*
 
-> The letters A, B, C represent three different digits. Adding the digits of the three-digit ABA number gives the two-digit BC number. Adding the figures of this last number gives the number (one digit) B. What is the number represented by the letter A ? A) 4
+> The letters A, B, C represent three different digits. Adding the digits of the 
+> three-digit number ABA gives the two-digit number BC. Adding the digits of this latter number gives the (one-digit) number B. Which digit does the letter A represent?
+> A) 4	
 > 	
-> B) 5
+> B) 5	
 > 	
-> C) 6
+> C) 6	
 > 	
-> D) 8
+> D) 8	
 > 	
 > E) 9
 >
@@ -1472,11 +1489,26 @@ The following table shows the number of samples of the samples:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the own funds of the institution.
+*min sum*
 
-> Two three-digit numbers have all six different digits. The first digit of the second number is twice the last digit of the first. What's the smallest number you can get by adding two numbers of this kind? A) 552 B) 546 C) 301 D) 535 E) 537
+> Two three-digit numbers have all six digits different. The first digit of the second
+> number is twice the last digit of the first. What is the smallest number that can be
+> obtained by adding two numbers of this type?
+> A) 552	 	
+> B) 546	 	
+> C) 301	 	
+> D) 535	 	
+> E) 537
 > 
-> A category X X X X B
+> category
+> A
+> X
+> X
+> X
+> B
+> C
+> D
+> E
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_marzo_benjamin#q30|src_kangourou_2016_marzo_benjamin__Q30]]

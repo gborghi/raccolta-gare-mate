@@ -31,7 +31,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies 1-2018 multiples of both 20 and 14*
+*Integers 1-2018 multiples of both 20 and 14*
 
 > Between 1 and 2018 How many integers between 1 and 2018 are multiples of both 20 and 14?
 
@@ -66,7 +66,7 @@ level: squadre
 
 *Train length and timing of the two-way train*
 
-> A train traveling at constant speed, a train crosses two tunnels. The first is 980 meters long, and it takes 30 seconds from the train's head entering it to the tail leaving it. The second is 790 meters long, and it takes 25 seconds from when the train head enters to when the tail leaves. How long is the train?
+> Traveling at constant speed, a train crosses two tunnels. The first is 980 meters long, and it takes 30 seconds from the train's head entering it to the tail leaving it. The second is 790 meters long, and it takes 25 seconds from when the train head enters to when the tail leaves. How long is the train?
 
 **Answer:** 160
 [[Quesiti/src_kangourou_2018_squadre_a#q02|src_kangourou_2018_squadre_a__Q02]]
@@ -96,9 +96,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible alignments 1 to 14 with condition max/min*
+*Possible arrangements 1 to 14 with condition max/min*
 
-> Laura's sequences Laura wants to write in sequence all integers from 1 to 14 inclusive so that, for each number in the sequence, it happens to be greater or less than all the numbers that follow it. How many possible alignments can you choose?
+> Laura's sequences Laura wants to write in sequence all integers from 1 to 14 inclusive so that, for each number in the sequence, it happens to be greater or less than all the numbers that follow it. How many possible arrangements can she choose?
 
 **Answer:** 8192
 [[Quesiti/src_kangourou_2018_squadre_a#q03|src_kangourou_2018_squadre_a__Q03]]
@@ -162,7 +162,7 @@ level: squadre
 \end{document}
 ```
 
-> Three colors Cristina has three colors to color the six squares where the strip you see in the figure is divided. It is not obliged to use the same quantity or even to use all three, but it must ensure that adjacent squares receive different colors. How many different ways can you color the strip? Note: colours that can be obtained from each other by rotating the strip correspond to only one way.
+> Three colors Cristina has three colors to color the six squares where the strip you see in the figure is divided. She is not obliged to use the same quantity or even to use all three, but it must ensure that adjacent squares receive different colors. How many different ways can you color the strip? Note: colours that can be obtained from each other by rotating the strip correspond to only one way.
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2018_squadre_a#q04|src_kangourou_2018_squadre_a__Q04]]
@@ -229,7 +229,7 @@ level: squadre
 
 *Value a*b*b given that b/a = a,b decimal *
 
-> Two digits Of two digits a and b (both non-zero) we know that b/a = a,b (a,b denotes a non-integer number in decimal notation). What is the value of × b × b?
+> Two digits Of two digits a and b (both non-zero) we know that b/a = a,b (a,b denotes a non-integer number in decimal notation). What is the value of a × b × b?
 >  
 >  
 > 
@@ -296,7 +296,7 @@ level: squadre
 
 *Maximum common divisors of two three-digit integers*
 
-> Common divisors How many common divisors can have at most two different three-digit positive integers? (Both 1 and the number itself must be included among the divisors of each number.)
+> Common divisors At most how many common divisors can two different three-digit positive integers have? (Both 1 and the number itself must be included among the divisors of each number.)
 
 **Answer:** 24
 [[Quesiti/src_kangourou_2018_squadre_a#q08|src_kangourou_2018_squadre_a__Q08]]
@@ -324,9 +324,10 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the difference in products close to 20182018*
+*Result of the difference of products close to 20182018*
 
-> What a difference! What is the result of 20.182.017 × 20.182.019  20.182.015 × 20.182.021?
+> What a difference!
+> What is the result of 20,182,017 × 20,182,019 – 20,182,015 × 20,182,021?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2018_squadre_a#q09|src_kangourou_2018_squadre_a__Q09]]
@@ -391,7 +392,7 @@ Difference between max and min 5 digit palindromes divided by 45
 
 *one and 36 more than the average of the other two *
 
-> Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees wider than the average of the other two. How many degrees can the widest of the three angles be measured at most?
+> Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees larger than the average of the other two. How many degrees can the widest of the three angles be measured at most?
 
 **Answer:** 95
 [[Quesiti/src_kangourou_2018_squadre_a#q11|src_kangourou_2018_squadre_a__Q11]]
@@ -423,7 +424,7 @@ Difference between max and min 5 digit palindromes divided by 45
 
 *Rectangular perimeter after folding of the canvas*
 
-> The canvas A canvas is a rectangle of three meters by two. By folding it repeatedly a few times, always along the straight line passing through the center and parallel to the side that is shorter at the time of folding, a rectangle with an area of 7,500 cm2 is obtained. How many centimetres does the perimeter of this last rectangle measure?
+> The canvas A canvas is a rectangle of three meters by two. By folding it repeatedly a few times, always along the straight line passing through the center and parallel to the side that is shorter at the time of folding, a rectangle with an area of 7,500 cm2 is obtained. How many centimetres does the perimeter of this latter rectangle measure?
 
 **Answer:** 350
 [[Quesiti/src_kangourou_2018_squadre_a#q12|src_kangourou_2018_squadre_a__Q12]]
@@ -455,11 +456,11 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope length AB with three tangent circles, area 18pi*
+*Chord length AB with three tangent circles, area 18pi*
 
 ![[src_kangourou_2018_squadre_a__prob13.png]]
 
-> Three circles Look at the figure: the three circles are two to two tangents and the AB rope of the large circle is tangent to the two inner circles. If the area of the grey figure obtained by removing the two inner circles from the large circle is 18π cm2, how many centimetres is the length of the rope?
+> Three circles Look at the figure: the three circles are pairwise tangent and the chord AB of the large circle is tangent to the two inner circles. If the area of the grey figure obtained by removing the two inner circles from the large circle is 18π cm2, how many centimetres is the length of the chord?
 
 **Answer:** 12
 [[Quesiti/src_kangourou_2018_squadre_a#q13|src_kangourou_2018_squadre_a__Q13]]
@@ -487,9 +488,10 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of the values 1 to 2 to 2 to 2 to 2 plus 4 to 2 plus... up to 100^2*
+*Value of the sum 1^2-2^2-3^2+4^2+... up to 100^2*
 
-> What is the sum of 12  22  32 + 42 + 52  62  72 + 82 + ... + 972  982  992 + 1002 ?
+> One hundred powers 
+> What is the value of the sum      12 – 22 – 32 + 42 +52 – 62 – 72 + 82 + … + 972 – 982 – 992 + 1002 ?
 
 **Answer:** 100
 [[Quesiti/src_kangourou_2018_squadre_a#q14|src_kangourou_2018_squadre_a__Q14]]
@@ -529,16 +531,22 @@ Sum of the values 1 to 2 to 2 to 2 to 2 plus 4 to 2 plus... up to 100^2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of decimal places and units of 2^2019*
+*Tens and units digits of 2^2019*
 
-> Decades and units What is the number of decades and the number of units in 2019? A B
-> 
+> Tens and units
+> What are, in order, the tens digit and the units digit of 22019 ?
+> A
+> B
+>
 > 1
 >  
 >  
-> Kangourou of Mathematics 2018 Kangourou Cup to teams Semifinal round in Cervia, 3 May 2018
+> Kangourou of Mathematics 2018
+> Kangourou Team Cup
+> Semifinal round A
+> Cervia, 3 May 2018
 >  
-> Questions and developments
+> Questions and solutions
 
 **Answer:** 88
 [[Quesiti/src_kangourou_2018_squadre_a#q15|src_kangourou_2018_squadre_a__Q15]]

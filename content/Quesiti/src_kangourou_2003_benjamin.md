@@ -106,9 +106,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies between 2.09 and 15.3*
+*Integers between 2.09 and 15.3*
 
-> How many integers are between 2.09 and 15.3? A) 13 B) 14 C) 11 D) 12 E) are infinite
+> How many integers are between 2.09 and 15.3? A) 13 B) 14 C) 11 D) 12 E) infinite
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_benjamin#q03|src_kangourou_2003_benjamin__Q03]]
@@ -180,7 +180,7 @@ level: kangourou
 
 ![[src_kangourou_2003_benjamin__prob5.png]]
 
-> The sum of the numbers in each of the two rings in the figure shall be 55. Which number should be replaced with the letter X? A) 9 B) 10 C) 13 D) 16 E) 17
+> The sum of the numbers in each of the two rings in the figure shall be 55. Which number should replace the letter X? A) 9 B) 10 C) 13 D) 16 E) 17
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q05|src_kangourou_2003_benjamin__Q05]]
@@ -231,9 +231,30 @@ level: kangourou
 
 *Simplification of the fraction with 2003*
 
-> 2003 + 2003 + 2003 + 2003 + 2003 = ? 2003 + 2003 A) 2003 B) 1/3 C) 3 D) 5/2 E) 6009 9 9 X 8 7 13 2 Y 14 11
+> 2003 + 2003 + 2003 + 2003 + 2003 
+> = ?
+> 2003 + 2003
+> A) 2003
+> B) 1/3
+> C) 3
+> D) 5/2
+> E) 6009
+> 9
+> 9
+> X
+> 8
+> 7
+> 13
+> 2
+> Y
+> 14
+> 11
 > 
-> I'm going to pay. I'm going to pay. 11 11 Kang 2003 Kang
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2003
+> Kang 2003
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_benjamin#q06|src_kangourou_2003_benjamin__Q06]]
@@ -345,9 +366,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*New middle age of the team*
+*New average age of the team*
 
-> The average age of a football team's players on the pitch (number 11) at the start of a match is 23. At the start of the second half two players, both aged 26, are replaced by a 20-year-old and a 21-year-old. After these replacements, what's the new average age of the team? A) 21,5 B) 21 C) 20 D) 22,5 E) 22
+> The average age of a football team's players on the pitch (11 players) at the start of a match is 23. At the start of the second half two players, both aged 26, are replaced by a 20-year-old and a 21-year-old. After these replacements, what's the new average age of the team? A) 21,5 B) 21 C) 20 D) 22,5 E) 22
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_benjamin#q09|src_kangourou_2003_benjamin__Q09]]
@@ -387,7 +408,7 @@ level: kangourou
 
 ![[src_kangourou_2003_benjamin__prob10.png]]
 
-> How many of the triangles, as shown in the figure next to each other, have an area equal to that of each of the 6 squares (equals) that, when approached, form the rectangle? A) 3 B) 5 C) 6 D) 7 E) 8 Questions from N. 11 al N. 20 is worth 4 points each.
+> How many of the triangles, that can be identified in the figure alongside, have an area equal to that of each of the 6 squares (equals) that, when approached, form the rectangle? A) 3 B) 5 C) 6 D) 7 E) 8 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_benjamin#q10|src_kangourou_2003_benjamin__Q10]]
@@ -420,7 +441,7 @@ level: kangourou
 
 Date 2003 minutes after 20.03 *
 
-> What date is 2003 minutes after 8:03 p.m. on March 20, 2003? A) 21-03-2003 B) 22-03-2003 C) 23-03-2003 D) 21-04-2003 E) 22-04-2003
+> What date is 2003 minutes after 20:03 on March 20, 2003? A) 21-03-2003 B) 22-03-2003 C) 23-03-2003 D) 21-04-2003 E) 22-04-2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q11|src_kangourou_2003_benjamin__Q11]]
@@ -459,11 +480,21 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different results by adding two numbers*
+*Different results when adding two numbers*
 
-> By choosing in every possible way two different numbers between 1, 2, 3, 4, 5 and adding them together, how many different results can we get? A) 5 B) 6 C) 7 D) 8 E) 9
+> Choosing in all possible ways two different numbers among 1, 2, 3, 4, 5 and
+> adding them, how many different results can we obtain?
+> A) 5         
+> B) 6           
+> C) 7            
+> D) 8            
+> E) 9
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2003 Kang
+> Pag. 
+> Pag. 12
+> 12
+> Kang 2003
+> Kang 2003
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_benjamin#q12|src_kangourou_2003_benjamin__Q12]]
@@ -504,7 +535,7 @@ Date 2003 minutes after 20.03 *
 
 ![[src_kangourou_2003_benjamin__prob13.png]]
 
-> The rectangle in the figure is constructed by approximating 7 squares, some of which indicate the size of the side. The square A is the larger area, while the square B is the smaller area. How many squares like B can be contained, without overlapping, in square A? (a) 16 (b) 25 (c) 36 (d) 49 (e) cannot be answered without further information
+> The rectangle in the figure is constructed by placing 7 squares side by side, for some of which the side length is indicated. Square A is the one with the larger area, while square B is the one with the smaller area. How many squares like B can be contained, without overlapping, in square A? (a) 16 (b) 25 (c) 36 (d) 49 (e) cannot be answered without further information
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q13|src_kangourou_2003_benjamin__Q13]]
@@ -537,9 +568,9 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blues of Elizabeth*
+*Elizabeth's blue beads*
 
-> Elizabeth has 20 different colored beads: yellow, green, blue, and black. 17 balls are not green, 5 are black, 12 are not yellow. How many are Elizabeth's blue balls? A) 3 B) 4 C) 5 D) 8 E) 15
+> Elizabeth has 20 beads of different colors: yellow, green, blue, and black. 17 beads are not green, 5 are black, 12 are not yellow. How many blue beads does Elizabeth have? A) 3 B) 4 C) 5 D) 8 E) 15
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q14|src_kangourou_2003_benjamin__Q14]]
@@ -575,9 +606,18 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Red-tape trees*
+*Trees with the red ribbon*
 
-> There are 46 trees along the road from Louis' house to the pool. Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. Allandata marked the first tree and then the second of each pair of trees she encountered; on her return she marked the first tree and then the third of each trunk of trees she encountered. After that, how many trees have the red ribbon? A) 16 B) 23 C) 24 D) 30 E) 31
+> Along the road from Luigi's house to the pool there are 46 trees. Going
+> from home to the pool and back, Luigi marked some trees with a
+> red ribbon as follows. On the way there he marked the first tree and then the second of every pair of trees he encountered; on the way back instead he
+> marked the first tree and then the third of every triplet of trees he
+> encountered. After that, how many trees have the red ribbon?
+> A) 16
+> B) 23
+> C) 24
+> D) 30
+> E) 31
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_benjamin#q15|src_kangourou_2003_benjamin__Q15]]
@@ -657,11 +697,22 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum paths on the cube from A to B*
+*Shortest paths on the cube from A to B*
 
-> How many different paths of smaller length are possible that, along the sides of the cube, connect the vertex A to its opposite vertex B? (see figure) A) 4 B) 6 C) 3 D) 12 E) 16 A B 3 2
+> How many possible different paths of shortest
+> length are there that, traveling along the edges of the cube, join vertex A to its opposite B? (see figure)
+> A) 4        
+> B) 6          C) 3           D) 12           E) 16
+> A
+> B
+> 3
+> 2
 > 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2003 Kang
+> Pag. 
+> Pag. 13
+> 13
+> Kang 2003
+> Kang 2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q17|src_kangourou_2003_benjamin__Q17]]
@@ -692,9 +743,9 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible to build tape*
+*Impossible house to build*
 
-> Let's build a little house from the side-by-side drawing on a cardboard. What little house is impossible ? A) B) C) D)               E)
+> Let's build a little house from the drawing alongside reproduced on a cardboard. What little house is impossible ? A) B) C) D)               E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q18|src_kangourou_2003_benjamin__Q18]]
@@ -728,7 +779,7 @@ Date 2003 minutes after 20.03 *
 
 *Triangle certainly not achievable*
 
-> We have a regular hexagon, we pick three vertices at random, and we consider the triangle identified by these three vertices. This triangle is certainly not A) rectangle B) equilateral C) isosceles non-equilateral D) octagonal E) acutangol non-equilateral
+> We have a regular hexagon, we pick three vertices at random, and we consider the triangle identified by these three vertices. This triangle is certainly not A) right triangle B) equilateral C) isosceles non-equilateral D) obtuse E) acute non-equilateral
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_benjamin#q19|src_kangourou_2003_benjamin__Q19]]
@@ -764,7 +815,7 @@ Date 2003 minutes after 20.03 *
 
 *Area of the grey triangle in the octagon*
 
-> The regular octagon in the figure has an area of 36 m2. How much is the area of the grey triangle? A) 12 m2 B) 18 m2 C) 9 m2 D) 4 m2 E) 6 m2 The questions from N. 21 al N. 30 is worth 5 points each.
+> The regular octagon in the figure has an area of 36 m2. How much is the area of the grey triangle? A) 12 m2 B) 18 m2 C) 9 m2 D) 4 m2 E) 6 m2 The questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_benjamin#q20|src_kangourou_2003_benjamin__Q20]]
@@ -803,11 +854,22 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height x of water in the glass*
+*Height x of the water in the glass*
 
-> A 10 cm high transparent cylindrical glass is partially filled with water. You can see the glass in two positions. What is the x-height of the water in the image on the right? A) 3 cm B) 4 cm C) 5 cm D) 6 cm E) 7 cm
+> A transparent cylindrical glass 10 cm high is partially filled
+> with water. You can see the glass in two positions. What is the height x
+> of the water in the image on the right?
+> A) 3 cm
+> B) 4 cm
+> C) 5 cm
+> D) 6 cm
+> E) 7 cm
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2003 Kang
+> Pag. 
+> Pag. 14
+> 14
+> Kang 2003
+> Kang 2003
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_benjamin#q21|src_kangourou_2003_benjamin__Q21]]
@@ -838,9 +900,9 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table not feasible in the table*
+*Tile not feasible in the table*
 
-> Walter decides to put all the integers from 0 to 109 in a table, following the criterion suggested by the figure next to it. Which of the following tables cannot be included in Walter's number table? A)              B)                 C)                D)              E)
+> Walter decides to put all the integers from 0 to 109 in a table, following the criterion suggested by the figure next to it. Which of the following tiles cannot possibly be part of Walter's number table? A)              B)                 C)                D)              E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q22|src_kangourou_2003_benjamin__Q22]]
@@ -875,7 +937,7 @@ Date 2003 minutes after 20.03 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Treads of rods forming a triangle*
+*Sets of sticks forming a triangle*
 
 > You've got six sticks that are 1cm, 2cm, 3cm, 2001cm, 2002cm and 2003cm long. You have to choose three of these and form a triangle (which doesn't reduce to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5 D) 6 E) 20
 
@@ -1011,11 +1073,46 @@ Red dragons in the trench
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the sum on the right with the symbols *
+*Result of the sum on the right with the symbols*
 
-> Each symbol corresponds to one and only one of the digits 0, 1, 2, ..., 9 and to different symbols correspond different digits. You know the result of the sum on the left. What's the result of the sum on the right? A)  6 B)  7 C) 8 D) 9 E) 13 65 68 67 78 45 59 59 63 43 56 2 0 0 3 = ? A B 1 cm 1 cm 100 cm 100 cm + + = +
+> Each symbol corresponds to one and only
+> one of the digits 0, 1, 2, ..., 9 and to different
+> symbols correspond different digits. You know
+> the result of the sum on the left. What is the
+> result of the sum on the right?   
+> A)  6    
+> B)  7       
+> C) 8    
+> D) 9
+> E) 13
+> 65
+> 68
+> 67
+> 78
+> 45
+> 59
+> 59
+> 63
+> 43
+> 56
+> 2 0 0 3
+> = ?
+> A
+> B
+> 1 cm
+> 1 cm
+> 100 cm
+> 100 cm
+> +
+> +
+> =
+> +
 > 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2003 Kang
+> Pag. 
+> Pag. 15
+> 15
+> Kang 2003
+> Kang 2003
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_benjamin#q26|src_kangourou_2003_benjamin__Q26]]
@@ -1048,7 +1145,7 @@ Red dragons in the trench
 
 *Area of the triangular coloured part*
 
-> The figure on the side consists of five equal isosceles rectangles. Find the area of the colored part. A) 20 cm2 B) 25 cm2 C) 35 cm2 D) 45 cm2 E) cannot be determined
+> The figure on the side consists of five equal isosceles right triangles. Find the area of the colored part. A) 20 cm2 B) 25 cm2 C) 35 cm2 D) 45 cm2 E) cannot be determined
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_benjamin#q27|src_kangourou_2003_benjamin__Q27]]
@@ -1085,7 +1182,15 @@ Red dragons in the trench
 
 *Number of blue pencils*
 
-> Anna has a box of nine pencils. At least one of these is blue. Anyway, at least four of those pencils have the same color, and at least five of those pencils at most three have the same color. What's the number of the blue pencils? (a) 2 (b) 3 (c) 4 (d) 1 (e) cannot be determined
+> Anna has a box with 9 pencils. At least one of these is blue. However,
+> if she takes 4 of those pencils, at least two have the same colour, and however
+> if she takes 5 of those pencils, at most three have the same colour. What is the number
+> of blue pencils?
+> A) 2
+> B) 3
+> C) 4
+> D) 1
+> E) it cannot be determined
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_benjamin#q28|src_kangourou_2003_benjamin__Q28]]
@@ -1162,9 +1267,9 @@ Red dragons in the trench
 
 *Days to the next divisible date 10001*
 
-> 2003 is a prime number. Today is 20-03-2003: by removing the dashes that separate the day from the month from the year (and the spaces in relation to it), we would write 2003-2003, and this number is divisible by 10001. How many days will pass before the next date, which, following the same criteria, would be represented by a number still divisible by 10001? A) 365 B) 366 C) 396 D) 397 E) none of the above answers
+> 2003 is a prime number. Today is 20-03-2003: by removing the dashes that separate the day from the month from the year (and the related spaces), we would write 20032003, and this number is divisible by 10001. How many days will pass before the next date, which, following the same criteria, would be represented by a number still divisible by 10001? A) 365 B) 366 C) 396 D) 397 E) none of the above answers
 > 
-> Comments on the level of Benjamin I and II average
+> Commented answers Benjamin level I and II middle school
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_benjamin#q30|src_kangourou_2003_benjamin__Q30]]

@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MALE number given MELA minimum with distinct digits*
+*Minimum MALE number given MELA with distinct digits*
 
-> *(5 points) * The letters of the word "MALE" are all distinct from each other. He makes each letter of this word correspond to a digit so that the word "BLE" represents the smallest number of four digits all distinct from each other. While maintaining this choice of numbers, what number is represented by the word "MALE"?
+> *(5 points)* The letters of the word "MALE" are all distinct from each other. Match each letter of this word with a digit so that the word "MALE" represents the smallest four-digit number with all digits distinct from each other. Keeping this choice of digits, what number is represented by the word "MALE"?
 
 **Answer:** 1320
 [[Quesiti/src_kangourou_2006_benjamin_finale#qb1|src_kangourou_2006_benjamin_finale__QB1]]
@@ -142,9 +142,9 @@ level: kangourou
 \end{document}
 ```
 
-> *(11 points) * Note the figure: $ABCD$ is a square, $M$ is the mean point of $AB$ and $N$ is the mean point of $BC$. The segments $AN$ and $BM$ cross in $Y$. What is the angle $NYC$? (see figure)
+> *(11 points) * Note the figure: $ABCD$ is a square, $M$ is the midpoint of $AB$ and $N$ is the midpoint of $BC$. The segments $AN$ and $BM$ cross in $Y$. What is the angle $NYC$? (see figure)
 
-**Answer:** 90 gradi
+**Answer:** 90 degrees
 [[Quesiti/src_kangourou_2006_benjamin_finale#qb3|src_kangourou_2006_benjamin_finale__QB3]]
 
 
@@ -169,9 +169,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with digits that differ by at least 4*
+*3-digit numbers with digits that differ by at least 4*
 
-> *(14 points) * How many 3-digit numbers (significant, i.e. the first digit of which is not 0) are such that 2 of them are not less than 4?
+> *(14 points)* How many 3-digit numbers are there (significant, that is, whose first digit is not 0), such that any 2 of them taken together do not differ by less than 4?
 
 **Answer:** 18
 [[Quesiti/src_kangourou_2006_benjamin_finale#qb4|src_kangourou_2006_benjamin_finale__QB4]]
@@ -200,11 +200,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of colours for spikes of the circle*
+*Minimum number of colours for sectors of the circle*
 
 ![[src_kangourou_2006_benjamin_finale__probb5.png]]
 
-> *(18 points) * A circle has been divided into a number of points (at least 4), for example as shown in Figure 1. You've been asked to color the inside of each spike so that between two spikes of the same color there are always at least two of different color, but you don't know the number of spikes in the circle (in the figure there are 5, just an example). What is the smallest number of colors that guarantees you'll succeed regardless of the number of spots? (see figure)
+> *(18 points) * A circle has been divided into a number of sectors (at least 4), for example as shown in Figure 1. You've been asked to color the inside of each sector so that between two sectors of the same color there are always at least two of different color, but you don't know the number of sectors in the circle (in the figure there are 5, just an example). What is the smallest number of colors that guarantees you'll succeed regardless of the number of sectors? (see figure)
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2006_benjamin_finale#qb5|src_kangourou_2006_benjamin_finale__QB5]]
@@ -239,7 +239,7 @@ level: kangourou
 
 ![[src_kangourou_2006_benjamin_finale__probb6.png]]
 
-> *(22 points) * In the side operation each letter represents a digit; equal letters represent equal numbers and different letters represent different numbers; furthermore, no letter represents the digit 0. How much is the result worth?
+> *(22 points) * In the side operation each letter represents a digit; equal letters represent equal digits and different letters represent different digits; furthermore, no letter represents the digit 0. What is the result?
 > 
 > $$\begin{array}{r} ORE \\ + ORE \\ + ORE \\ \hline VIVE \end{array}$$
 

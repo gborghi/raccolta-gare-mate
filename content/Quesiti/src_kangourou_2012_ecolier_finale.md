@@ -31,7 +31,7 @@ level: kangourou
 
 *How many kids in the class are in line*
 
-> All the boys in Louis and Michele's class lined up. Behind Luigi are 16 boys, and Michael is one of them. There are 14 boys in front of Michele, and Luigi is one of them. Between Luigi and Michele there are 7 boys (without counting Luigi and Michele). How many kids are in that class?
+> All the boys in Luigi and Michele's class lined up. Behind Luigi are 16 boys, and Michele is one of them. There are 14 boys in front of Michele, and Luigi is one of them. Between Luigi and Michele there are 7 boys (without counting Luigi and Michele). How many kids are in that class?
 
 **Answer:** 23
 [[Quesiti/src_kangourou_2012_ecolier_finale#qe1|src_kangourou_2012_ecolier_finale__QE1]]
@@ -59,7 +59,7 @@ level: kangourou
 
 *What time was the photo taken with four watches*
 
-> In one photograph, four clocks appear: one marks 4:45, another 5:05, another at 5:25, and the last at 5:40. It is known that when the photograph was taken, two of them were stationary, while the other two, while marching at the right speed, were one 20 minutes ahead and the other 20 minutes back. What time was the photo taken?
+> In one photograph, four clocks appear: one marks 4:45, another 5:05, another marks 5:25, and the last at 5:40. It is known that when the photograph was taken, two of them were stationary, while the other two, while running at the correct speed, were one 20 minutes ahead and the other 20 minutes behind. What time was the photo taken?
 
 **Answer:** 5:05
 [[Quesiti/src_kangourou_2012_ecolier_finale#qe2|src_kangourou_2012_ecolier_finale__QE2]]
@@ -114,7 +114,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final product figure of the odd between 1 and 2012*
+*Last digit of the product of odd numbers between 1 and 2012*
 
 > If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
 
@@ -148,7 +148,7 @@ level: kangourou
 
 ![[src_kangourou_2012_ecolier_finale__probe5.png]]
 
-> The figure, drawn on a square sheet, represents a kangaroo. You want to cut it so you only get triangles. What's the minimum number of triangles you can get? (see figure)
+> The figure, drawn on grid paper, represents a kangaroo. You want to cut it so you only get triangles. What's the minimum number of triangles you can get? (see figure)
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2012_ecolier_finale#qe5|src_kangourou_2012_ecolier_finale__QE5]]

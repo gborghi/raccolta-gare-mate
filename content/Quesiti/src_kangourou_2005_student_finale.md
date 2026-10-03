@@ -31,13 +31,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the regular exaggeration into 8 equal parts*
+*To divide the regular hexagon into 8 equal parts*
 
 ![[src_kangourou_2005_student_finale__probs1.png]]
 
 > In the figure you see a regular hexagon. Can you divide it into eight equal-sized parts? In the case of a negative answer, you must give reasons for this, and in the case of an affirmative answer, explain directly on the figure the subdivision you propose, accompanied by any clarifications you deem appropriate. (see figure)
 
-**Answer:** Si
+**Answer:** Yes
 [[Quesiti/src_kangourou_2005_student_finale#qs1|src_kangourou_2005_student_finale__QS1]]
 
 
@@ -61,9 +61,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of development coefficients of (2x-y+z) ^8*
+*Sum of expansion coefficients of (2x-y+z) ^8*
 
-> What is the algebraic sum of all the coefficients (each with its own sign) of $(2x - y + z)^8$ development?
+> What is the algebraic sum of all the coefficients (each with its own sign) of the expansion of $(2x - y + z)^8$?
 
 **Answer:** 256
 [[Quesiti/src_kangourou_2005_student_finale#qs2|src_kangourou_2005_student_finale__QS2]]
@@ -125,7 +125,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cross angle with centre and circus centre symmetrical *
+*Obtuse angle with incenter and circumcenter symmetric*
 
 ![[src_kangourou_2005_student_finale__probs3.png]]
 
@@ -162,7 +162,7 @@ level: kangourou
 \end{document}
 ```
 
-> The centers of the inscribed circumference and the circumference of the circumference of an octagonal triangle are symmetrical to one of its sides. What is the degree of the curved angle?
+> The centers of the inscribed circle and of the circumscribed circle of an obtuse triangle are symmetric with respect to one of its sides. How many degrees does the obtuse angle measure?
 
 **Answer:** 108 gradi
 [[Quesiti/src_kangourou_2005_student_finale#qs3|src_kangourou_2005_student_finale__QS3]]
@@ -189,9 +189,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Product of factories not squared but divided by 50! *
+*Product of the factorials is not a square but it is divided by 50!*
 
-> For each positive integer $n$, "factor of $n$"  is said and the symbol $n!$  indicates the product of all integers from $1$ to $n$ included, each considered once and only once (so you have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). It shows that the $1! \times 2! \times \cdots \times 99! \times 100!$ product of the factors of the first 100 positive integers is not a perfect square, but its quotient with $50!$ is.
+> For every positive integer $n$, the "factorial of $n$" is defined — and denoted by the symbol $n!$ — as the product of all the integers from $1$ to $n$ inclusive, each considered once and only once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). Show that the product $1! \times 2! \times \cdots \times 99! \times 100!$ of the factorials of the first 100 positive integers is not a perfect square, but its quotient by $50!$ is.
 
 **Answer:** dimostrazione
 [[Quesiti/src_kangourou_2005_student_finale#qs4|src_kangourou_2005_student_finale__QS4]]
@@ -224,9 +224,9 @@ level: kangourou
 
 ![[src_kangourou_2005_student_finale__probs5.png]]
 
-> Consider a chessboard $7 \times 7$ from which the 4 corner boxes have been removed; call each configuration of 5 its cross-arranged boxes Greek cross so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). It shows that it is possible to have 45 integers (not necessarily all different from each other) on the remaining 45 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive. (Suggest: identify a conveniently small $S$ set of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
+> Consider a chessboard $7 \times 7$ from which the 4 corner boxes have been removed; call each configuration of 5 its cross-arranged boxes Greek cross so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). Show that it is possible to have 45 integers (not necessarily all different from each other) on the remaining 45 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive. (Suggest: identify a conveniently small $S$ set of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2005_student_finale#qs5|src_kangourou_2005_student_finale__QS5]]
 
 
@@ -251,9 +251,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Location of the midpoints between two outer circumferences*
+*Locus of the midpoints between two external circles*
 
-> There shall be $\alpha$ and $\beta$ two planar circumferences, each external to the circle identified by the other. Describe the location of the mean points of the $[A, B]$ segments as the $A$ point in $\alpha$ and the $B$ point in $\beta$ vary.
+> There shall be $\alpha$ and $\beta$ two coplanar circles, each external to the circle determined by the other. Describe the locus of the midpoints of the segments $[A, B]$ as the $A$ point in $\alpha$ and the $B$ point in $\beta$ vary.
 
-**Answer:** corona circolare
+**Answer:** circular annulus
 [[Quesiti/src_kangourou_2005_student_finale#qs6|src_kangourou_2005_student_finale__QS6]]

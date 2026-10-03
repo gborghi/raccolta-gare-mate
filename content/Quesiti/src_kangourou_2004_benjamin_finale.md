@@ -31,9 +31,9 @@ level: kangourou
 
 The family of the pirates ends Tuesday/Wednesday.
 
-> You are shipwrecked on the beach of Mirabilandia which is inhabited by two pirate families: that of the Sincere (who always tell the truth) and that of the Liars (who always lie). You meet two pirates by the name of Tuesday and Wednesday and you'd like to know for each of them which family they belong to. On Tuesday he says "we belong to two different families", but on Wednesday he says "it's not true!" What's your conclusion?
+> You are shipwrecked on the beach of Mirabilandia which is inhabited by two pirate families: that of the Sincere (who always tell the truth) and that of the Liars (who always lie). You meet two pirates by the name of Tuesday and Wednesday and you'd like to know for each of them which family they belong to. Tuesday says "we belong to two different families", but Wednesday replies "it's not true!" What's your conclusion?
 
-**Answer:** Martedi sincero
+**Answer:** Tuesday is sincere
 [[Quesiti/src_kangourou_2004_benjamin_finale#qb1|src_kangourou_2004_benjamin_finale__QB1]]
 
 
@@ -60,9 +60,9 @@ The family of the pirates ends Tuesday/Wednesday.
 
 Who wins the rope-cutting game
 
-> Stephen and John have a red rope and a blue one (over 20 centimeters long). They intend to play as follows: in turn they will cut from one of the ends of one of the two strings a piece that must be $4$ centimeters long if the player chooses the red string or $5$ centimeters if the player chooses the blue string. He will lose the first of the two who will no longer be able to cut, that is, he will find himself with the red rope less than $4$ centimetres long and the blue rope less than $5$ centimetres long. He's going to start the game Stefano. How, by knowing the length of the two ropes, can we know from the beginning whether Stephen or John will win?
+> Stephen and John have a red rope and a blue one (over 20 centimeters long). They intend to play as follows: in turn they will cut from one of the ends of one of the two strings a piece that must be $4$ centimeters long if the player chooses the red string or $5$ centimeters if the player chooses the blue string. He will lose the first of the two who will no longer be able to cut, that is, he will find himself with the red rope less than $4$ centimetres long and the blue rope less than $5$ centimetres long. Stephen will start the game. How, by knowing the length of the two ropes, can we know from the beginning whether Stephen or John will win?
 
-**Answer:** parita tagli
+**Answer:** parity of cuts
 [[Quesiti/src_kangourou_2004_benjamin_finale#qb2|src_kangourou_2004_benjamin_finale__QB2]]
 
 
@@ -88,7 +88,7 @@ Who wins the rope-cutting game
 
 *Inclusions between sets of quadrilaterals*
 
-> Consider all the possible quadrilaterals in the plan. Name $A$ the set of all quadrilaterals having at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals having at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals having the four sides of the same length; $D$ the set of all quadrilaterals having at least one pair of parallel opposite sides of the same length. Some of these sets contain one or more of the others. For each set it specifies any other sets it contains.
+> Consider all the possible quadrilaterals in the plane. Name $A$ the set of all quadrilaterals having at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals having at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals having the four sides of the same length; $D$ the set of all quadrilaterals having at least one pair of parallel opposite sides of the same length. Some of these sets contain one or more of the others. For each set, specify any other sets it contains.
 
 **Answer:** C in D,B; D in A
 [[Quesiti/src_kangourou_2004_benjamin_finale#qb3|src_kangourou_2004_benjamin_finale__QB3]]
@@ -116,11 +116,11 @@ Who wins the rope-cutting game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late min/max of the tiled Q square*
+*Min/max side of the tiled Q square*
 
 ![[src_kangourou_2004_benjamin_finale__probb4.png]]
 
-> A square $Q$ is tiled by $34$ smaller squares, on which only $33$ is known to measure $1$ cm. What are the minimum and maximum possible values for the length of the side of the square $Q$?
+> A square $Q$ is tiled by $34$ smaller squares, of which only $33$ are known to have side $1$ cm. What are the minimum and maximum possible values for the length of the side of the square $Q$?
 
 **Answer:** min 7 max 17
 [[Quesiti/src_kangourou_2004_benjamin_finale#qb4|src_kangourou_2004_benjamin_finale__QB4]]
@@ -153,7 +153,7 @@ Who wins the rope-cutting game
 
 *How many regular pairs in a watch*
 
-> It is 9.00 on the large clock at the entrance to Mirabilandia Park: I observe that on the dial all the numbers included in the arc between the two hands, proceeding clockwise, are smaller than the numbers $9$ and $12$ that are at both ends. I call **regular pair** any subset formed by two different numbers from the $\{1, 2, 3, \ldots, 12\}$ set that, like $\{9, 12\}$: - delimit at least one arc containing only minor numbers of both numbers in the pair and - do not denote two consecutive hours.
+> It is 9.00 on the large clock at the entrance to Mirabilandia Park: I observe that on the dial all the numbers included in the arc between the two hands, proceeding clockwise, are smaller than the numbers $9$ and $12$ that are at both ends. I call **regular pair** any subset formed by two different numbers from the $\{1, 2, 3, \ldots, 12\}$ set that, like $\{9, 12\}$: - delimit at least one arc containing only numbers smaller than both numbers in the pair and - do not denote two consecutive hours.
 > 
 > How many regular pairs (if I don't take into account the order in which I write the two numbers)?
 
@@ -181,9 +181,9 @@ Who wins the rope-cutting game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum ice cost spending all *
+*Minimum price of a popsicle spending everything*
 
-> I have €$8{,}22$ with which I want to buy two sweets for each of my friends: they can be ice cream or chocolate, but all my friends prefer to have an ice cream and a chocolate and I intend to satisfy as many of them as possible. Chocolates are all the same price as ice cream, and each chocolate costs more than a cent of an ice cream. How much should an ice cream cost at least, if I spend exactly the amount available?
+> I have $8{,}22$ euros with which I want to buy two treats for each of my $9$ friends: they can be popsicles or chocolates, but all my friends prefer to have a popsicle and a chocolate and I intend to satisfy as many of them as possible. The chocolates all have the same price as do the popsicles and each chocolate costs $6$ cents more than a popsicle. What must a popsicle cost at least, if I spend exactly the available amount?
 
 **Answer:** 43
 [[Quesiti/src_kangourou_2004_benjamin_finale#qb6|src_kangourou_2004_benjamin_finale__QB6]]

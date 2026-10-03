@@ -36,11 +36,11 @@ level: kangourou
 
 *Unadjusted data with opposite sum conditions*
 
-> In a regular dice, the sum of the points on two opposite sides is always $7$. Amedeo says that he has constructed an irregular dice for which all three of the following facts occur: - there are faces with an odd number of points; - the sum of the points on two opposite faces is $7$ if an odd number of points appears on one of the two faces; - the sum of the points on two opposite faces is $8$ if an equal number of points appears on one of the two faces.
+> In a regular die, the sum of the points on two opposite sides is always $7$. Amedeo says that he has constructed an irregular die for which all three of the following facts occur: - there are faces with an odd number of points; - the sum of the points on two opposite faces is $7$ if an odd number of points appears on one of the two faces; - the sum of the points on two opposite faces is $8$ if an even number of points appears on one of the two faces.
 > 
 > Anno doesn't believe him. If you think Amedeo is right, point to one of the dice he may have built; if you think it's good for Anno not to believe him, explain why.
 
-**Answer:** ha ragione Anna
+**Answer:** Anna is right
 [[Quesiti/src_kangourou_2015_finale_benjamin#qb1|src_kangourou_2015_finale_benjamin__QB1]]
 
 
@@ -66,9 +66,9 @@ level: kangourou
 
 *first or second? *
 
-> Sandro and Paolo play the following game: there are $8$ tokens on the table; you play in turns and, when it's your turn, you can take $1$, $2$ or $3$ tokens; the last one who manages to take some tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
+> Sandro and Paolo play the following game: there are $8$ tokens on the table; you play in turns and, when it's your turn, you can take $1$, $2$ or $3$ tokens; the last one who manages to take some tokens wins. Sandro wants to win at any cost. Should he play first or let Paolo start?
 
-**Answer:** secondo (Paolo inizia)
+**Answer:** second (Paolo starts)
 [[Quesiti/src_kangourou_2015_finale_benjamin#qb2|src_kangourou_2015_finale_benjamin__QB2]]
 
 
@@ -98,9 +98,9 @@ level: kangourou
 
 ![[src_kangourou_2015_finale_benjamin__probb3.png]]
 
-> Kang is a station on a single track line. In the figure you can see the pattern of Kang's tracks, each of which is indicated in length: the running track is the upper one, while the lower track starts and ends with two trunks mort. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is $19$ meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
+> Kang is a station on a single track line. In the figure you can see the pattern of Kang's tracks, each of which is indicated in length: the running track is the upper one, while the lower track starts and ends with two dead-end sidings. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is $19$ meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
 
-**Answer:** max 13 carrozze
+**Answer:** max 13 carriages
 [[Quesiti/src_kangourou_2015_finale_benjamin#qb3|src_kangourou_2015_finale_benjamin__QB3]]
 
 
@@ -126,11 +126,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The measurement shall be carried out in accordance with the methodology set out in Annex II.
+*measure of angle ABC*
 
 ![[src_kangourou_2015_finale_benjamin__probb4.png]]
 
-> The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
+> The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
 
 **Answer:** 45 gradi
 [[Quesiti/src_kangourou_2015_finale_benjamin#qb4|src_kangourou_2015_finale_benjamin__QB4]]
@@ -157,9 +157,9 @@ The measurement shall be carried out in accordance with the methodology set out 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many times the last in an hour*
+*how many times the last one in an hour*
 
-> $51$ corners are aligned on a suspended electrical cable. And when one of them crawls, its neighbour on the right and its neighbour on the left (or just one of the two, if the crankshaft is at one end of the two) take flight and after a minute they return to their place and crawle in turn. Start scratching the first horn in the line. After exactly one hour of this first crack, how many times will the last crack be?
+> $51$ crows are lined up on a suspended electric wire. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, in the case where the crow is at one of the two ends) take flight and after exactly one minute return to the place where they were and caw in turn. The first crow in the row starts cawing. After exactly one hour from this first caw, how many times will the last crow have cawed?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2015_finale_benjamin#qb5|src_kangourou_2015_finale_benjamin__QB5]]
@@ -194,5 +194,5 @@ The measurement shall be carried out in accordance with the methodology set out 
 > 
 > (Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode, but not the $2+2$ mode.)
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2015_finale_benjamin#qb6|src_kangourou_2015_finale_benjamin__QB6]]

@@ -34,9 +34,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N for discount k% limited to 4 entries*
+*Maximum N for k% discount limited to 4 admissions*
 
-> Discount The management of a museum intends to grant a discount of k% on the price of the entrance ticket to groups of k people who will purchase a cumulative ticket. However, it does not want the amount of the discount to exceed the equivalent of 4 free entries for each group of people. What's the greatest possible value of N?
+> The discount
+> The management of a museum, to launch a promotional campaign, intends to grant a discount of
+> k% on the entrance ticket price to groups of k people who purchase a
+> cumulative ticket. However, it does not want the amount of the discount to exceed the equivalent of 4 free admissions for
+> each group of people: it must therefore impose the limitation that k does not exceed a certain integer N. What
+> is the largest possible value of N?
 
 **Answer:** 0020
 [[Quesiti/src_kangourou_2020_junior_finale#q01|src_kangourou_2020_junior_finale__Q01]]
@@ -253,7 +258,7 @@ level: kangourou
 \end{document}
 ```
 
-> The longest in an ABC triangle the measure of AB is 123 that of BC is 27 and that of CA is 120. Consider the two points D and E that divide the AB side into three segments of equal length. What is the length of the longest of the CD and EC segments? (Answer by writing the nearest whole).
+> In a triangle ABC the measure of AB is 123, that of BC is 27 and that of CA is 120. Consider the two points D and E that divide the AB side into three segments of equal length. What is the length of the longest of the segments CD and CE? (Answer by writing the nearest whole).
 
 **Answer:** 0081
 [[Quesiti/src_kangourou_2020_junior_finale#q05|src_kangourou_2020_junior_finale__Q05]]
@@ -283,9 +288,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of birth of the chicken (diophantine system) *
+*Birth year of the ancestor (Diophantine system)*
 
-> My grandfather My grandfather's birth year number has the following peculiarity: it is divisible by 2, by 3 if you take 1, by 5 if you take 2, by 7 if you take 3, and by 11 if you take 4. What year was my grandfather born, knowing that he was always a good Christian?
+> My ancestor
+> The number of the birth year of one of my ancestors has the following peculiarity: it is divisible by 2, by
+> 3 if you subtract 1 from it, by 5 if you subtract 2 from it, by 7 if you subtract 3 from it and by 11 if you subtract 4 from it. What is
+> the birth year of my ancestor, knowing that he was always a good Christian?
 
 **Answer:** 1522
 [[Quesiti/src_kangourou_2020_junior_finale#q06|src_kangourou_2020_junior_finale__Q06]]
@@ -389,9 +397,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest sum n with d(n) *s(n) = 96*
+*Sum of integers n with d(n)*s(n)=96*
 
-> Divisors For a positive integer n we denote with d(n) the number of its divisors and with s(n) their sum (e.g. d(8) = 4 because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Determine the sum of all integers such that n = 96.
+> Divisors
+> For a positive integer n let d(n) denote the number of its divisors and let s(n) denote their sum (for
+> example d(8) = 4 because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Determine the sum of all
+> integers n such that d(n) × s(n) = 96.
 
 **Answer:** 0076
 [[Quesiti/src_kangourou_2020_junior_finale#q09|src_kangourou_2020_junior_finale__Q09]]
@@ -421,9 +432,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the flexible numbers AB*
+*Sum of the flexible numbers AB*
 
-> Flexible numbers Let's say a two-digit (positive) integer AB is flexible if, when added to (A + B) 2, that is, squared of the sum of its digits, it gives the resulting number BA. How much is the sum of all the flexible numbers?
+> Flexible numbers Let's say a two-digit (positive) integer AB is flexible if, when added to (A + B) 2, that is, to the square of the sum of its digits, it gives the resulting number BA. How much is the sum of all the flexible numbers?
 
 **Answer:** 0027
 [[Quesiti/src_kangourou_2020_junior_finale#q10|src_kangourou_2020_junior_finale__Q10]]
@@ -455,9 +466,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extreme sums of eligible first readjustments *
+*Sum of the extreme sums of the admissible reorderings of primes*
 
-> Rearranged prime Consider the 9 smallest prime integers of two digits (significant). A rearrangement of these numbers is said to be admissible if the difference between the greater and the lesser of its two consecutive numbers is a power of 2. For each eligible reorganisation, add up the first and last number of the reorganisation; then add up all the sums thus obtained from the variation of all eligible reorganisations. What value do you get?
+> Reordered primes
+> Consider the 9 smallest two-digit (significant) prime integers. A reordering of them is
+> said to be admissible if the difference between the largest and the smallest of two of its consecutive numbers is a
+> power of 2. For each admissible reordering, add the first and the last number of the
+> reordering; then add all the sums thus obtained as all admissible reorderings
+> vary. What value do you get?
 
 **Answer:** 0220
 [[Quesiti/src_kangourou_2020_junior_finale#q11|src_kangourou_2020_junior_finale__Q11]]
@@ -488,7 +504,7 @@ level: kangourou
 
 *sum of six powers of the roots of the equation*
 
-> The roots Consider all solutions of the equation x6  16x4 + 16x2 = 1 and raise to the sixth each of them. Then add up the results obtained. How much do you get?
+> The roots Consider all solutions of the equation x6 – 16x4 + 16x2 = 1 and raise to the sixth each of them. Then add up the results obtained. How much do you get?
 
 **Answer:** 6662
 [[Quesiti/src_kangourou_2020_junior_finale#q12|src_kangourou_2020_junior_finale__Q12]]
@@ -521,9 +537,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times did Martino win in 7 days?
+*How many times did Martino win in 7 days*
 
-> At the casino, Martino plays in a casino. He developed a method that consisted of playing 5 times in a row one euro on the first day, 5 times in a row 5 € on the second day, 5 times in a row 25 € on the third day, 5 times in a row 125 € on the fourth day and so on, continuing to multiply the bet by 5 until the seventh day. If he wins a game, he's given the bet twice the same bet, while if he loses, he loses the bet. He's never seen him win or lose. After 7 days of playing, Martino earned €22,066. How many times have you won in the last seven days?
+> At the casino
+> Martino plays in a casino. He has developed a method that consists of playing 5 times in a row
+> one euro the first day, 5 times in a row 5 € the second day, 5 times in a row 25 € the third day, 5 times
+> in a row 125 € the fourth day and so on, continuing to multiply the stake by 5 until the seventh day.
+> If he wins a game, he gets back the stake plus 2 times the stake itself, while if he loses, he loses the
+> stake. No day saw him always win and no day saw him always lose. After 7
+> days of play Martino has earned 22,066 €. How many times did he win in these 7 days?
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2020_junior_finale#q13|src_kangourou_2020_junior_finale__Q13]]
@@ -552,9 +574,11 @@ How many times did Martino win in 7 days?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ternes {a,b,c} with b mean of a and c *
+*How many triples {a,b,c} with b the average of a and c*
 
-> The mean be S = {1, 2, 3, ..., 100, 101} the sum of the first one hundred and one natural numbers. How many terns {a, b, c} with a < c exist in S such that b = (a + c)/2?
+> The average
+> Let S = {1, 2, 3, …, 100, 101} be the set of the first one hundred and one natural numbers. How many triples {a, b, c}
+> with a < c exist in S such that b = (a + c)/2?
 
 **Answer:** 2500
 [[Quesiti/src_kangourou_2020_junior_finale#q14|src_kangourou_2020_junior_finale__Q14]]
@@ -597,7 +621,7 @@ How many times did Martino win in 7 days?
 
 ![[src_kangourou_2020_junior_finale__prob15.png]]
 
-> The hat I built a straight circular cone-shaped paper hat, 32 cm high. Now I reverse the tip of the cone inside so that the upper edge that remains visible is still a circumference (see figure). How many centimeters must the plane of this circumference be separated from the base plane of the cone if I want the volume of the solid between the base plane and the surface of the cap overturned to be 3/4 of that of the original cone?
+> The hat I built a straight circular cone-shaped paper hat, 32 cm high. Now I fold the tip of the cone inside so that the upper edge that remains visible is still a circumference (see figure). How many centimeters must the plane of this circumference be separated from the base plane of the cone if I want the volume of the solid between the base plane and the surface of the overturned hat to be 3/4 of that of the original cone?
 > 
 >  
 > Questions and solutions

@@ -57,7 +57,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle ABC (shaded area) *
+*Area of triangle ABC (shaded region)*
 
 ![[src_kangourou_2007_student_marzo__prob1.png]]
 
@@ -81,7 +81,13 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure, O is the center of the circle and the area of the shaded area is. What is the area of the triangle ABC? A) B) 2 C) 5 D) 4 E)
+> In the figure, O is the center of the circle and the area of the shaded
+> region is      . What is the area of triangle ABC?
+> A)           
+> B) 2       
+> C) 5    
+> D) 4     
+> E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_student_marzo#q01|src_kangourou_2007_student_marzo__Q01]]
@@ -156,7 +162,7 @@ level: kangourou
 
 *How many questions in the questionnaire (80%)*
 
-> For an entrance exam, a student must correctly answer at least 80% of the questions on a questionnaire. So far, Peter has examined 15 questions. He has not answered 5 of them, but he is sure that he has answered the other 10 exactly. If you answer all the remaining questions correctly, you will get exactly 80% of the correct answers. How many questions are in the questionnaire? A) 20 B) 25 C) 30 D) 35 E) 40
+> For an entrance exam, a student must correctly answer at least 80% of the questions on a questionnaire. So far, Peter has examined 15 questions. He has not answered 5 of them, but he is sure that he has answered the other 10 exactly. If he answers all the remaining questions correctly, he will get exactly 80% of the answers right. How many questions are in the questionnaire? A) 20 B) 25 C) 30 D) 35 E) 40
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_student_marzo#q03|src_kangourou_2007_student_marzo__Q03]]
@@ -188,9 +194,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many separate dividers has 10^n *
+*How many distinct divisors has 10^n *
 
-> How many distinct divisors does 10n have, if you also count 1 and 10n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
+> How many distinct divisors does 10^n have, if you also count 1 and 10^n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_student_marzo#q04|src_kangourou_2007_student_marzo__Q04]]
@@ -234,11 +240,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a rectangular triangle (41 gones) *
+*Right triangle probability (41-gon)*
 
-> If you randomly select three of the vertices of a regular polygon of 41 sides, what is the probability that the triangle they have identified will be rectangular? A) 3/41 B) 1/41 C) 1/2 D) 6/41 E) None of the previous B A C O X Texts_07.qxp 16-04-2007 12:07 Page 28
+> Three of the vertices of a regular 41-sided polygon are chosen at random; what is the probability that the triangle they determine is a right triangle?
+> A)  3/41 
+> B) 1/41
+> C) 1/2
+> D) 6/41
+> E) None of the above
+> B
+> A
+> C
+> O
+> X
+> Testi_07.qxp  16-04-2007  12:07  Page 28
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 2007 Kang
+> Pag. 
+> Pag. 29
+> 29
+> Kang 2007
+> Kang 2007
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_student_marzo#q05|src_kangourou_2007_student_marzo__Q05]]
@@ -300,7 +321,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of lengths of the two semi-conference routes*
+*Ratio of lengths of the two semicircle routes*
 
 ![[src_kangourou_2007_student_marzo__prob6.png]]
 
@@ -328,7 +349,7 @@ level: kangourou
 \end{document}
 ```
 
-> The AE segment is divided into 4 equal parts by the points B, C and D. A semicircular of diameter AE shall be drawn above the AE segment while two semicirculars of diameter AD and DE shall be drawn below the same segment respectively (v. (Figure 1). Consider the path from A to E along the upper semicircle and the path along the junction of the two lower semicircles: what is the ratio of the lengths of the two paths, taken in the order? A) 1:2 B) 2:3 C) 1:1 D) 3:2 E)2:1
+> The AE segment is divided into 4 equal parts by the ordered points B, C and D. A semicircle of diameter AE is drawn above the AE segment while two semicircles of diameter AD and DE are drawn below the same segment respectively (v. (Figure 1). Consider the path from A to E along the upper semicircle and the path along the junction of the two lower semicircles: what is the ratio of the lengths of the two paths, taken in the order? A) 1:2 B) 2:3 C) 1:1 D) 3:2 E)2:1
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_student_marzo#q06|src_kangourou_2007_student_marzo__Q06]]
@@ -400,11 +421,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to anchor the door sections (cunnel) *
+*How to hinge the sections of the door (tunnel)*
 
 ![[src_kangourou_2007_student_marzo__prob8.png]]
 
-> Of the four walls that delimit a cone, the two sides (opposite) are vertical while the floor and ceiling are parallel to each other, but not perpendicular to the side walls: consequently the vertical section is not a rectangle, but a parallelogram which, observed from the entrance, presents the lowest part on the right. In the middle of the cone, a barrier door is to be constructed which consists of two sections, upper and lower, open one independently of the other. Looking at the entrance, how are the two sections to be anchored? A) Both on the left side. B) Both on the right side. C) The upper one on the left side and the lower one on the right side. D) The upper one on the right side and the lower one on the left side. E) The project is not feasible.
+> Of the four walls that delimit a tunnel, the two
+> side walls (opposite) are vertical while floor and ceiling are parallel to each other, but not perpendicular to the
+> side walls: consequently the vertical section is not
+> a rectangle, but a parallelogram which, observed from the entrance, has its lowest part on the right. At
+> the middle of the tunnel a bulkhead door is to be built consisting of two sections, upper and lower, openable independently of each other. Looking from the entrance, how should the two
+> sections be hinged?
+> A) Both on the left side.
+> B) Both on the right side.
+> C) The upper one on the left side and the lower one on the right side.
+> D) The upper one on the right side and the lower one on the left side.
+> E) The project cannot be carried out.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_student_marzo#q08|src_kangourou_2007_student_marzo__Q08]]
@@ -447,11 +478,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 2 digits with (sum) squared=sum squared*
+*How many 2-digit numbers with (sum)^2=sum of squares*
 
-> How many positive integers of two significant digits have the following property: is the square of the sum of the digits equal to the sum of the squares of the digits? A) 4 B) 9 C) 10 D) 11 E) 12 A B C D Text_07.qxp 16-04-2007 12:07 Page 29
+> How many positive integers with two significant digits have the following
+> property: the square of the sum of the digits is equal to the sum of the squares of the digits?
+> A) 4
+> B) 9
+> C) 10
+> D) 11
+> E) 12
+> A
+> B
+> C
+> D
+> Testi_07.qxp  16-04-2007  12:07  Page 29
 > 
-> I'm going to pay. I'm going to pay. 30 30 Kang 2007 Kang
+> Pag. 
+> Pag. 30
+> 30
+> Kang 2007
+> Kang 2007
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_student_marzo#q09|src_kangourou_2007_student_marzo__Q09]]
@@ -488,7 +534,7 @@ level: kangourou
 
 ![[src_kangourou_2007_student_marzo__prob10.png]]
 
-> Note the figure: A spider with mathematical skills has woven a spiderweb made up of straight segments, all of whose lengths are whole numbers. How much is x? A) 11 B) 13 C) 15 D) 17 E) 19 Questions from N. 11 al N. 20 is worth 4 points each.
+> Note the figure: A spider with mathematical skills has woven a spiderweb made up of straight segments, all of whose lengths are whole numbers. What is the value of x? A) 11 B) 13 C) 15 D) 17 E) 19 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_student_marzo#q10|src_kangourou_2007_student_marzo__Q10]]
@@ -523,7 +569,7 @@ level: kangourou
 
 *How many times a child divides his mother*
 
-> Thomas was born on the day his mother turned 20 and so they celebrate their birthday together. If they both live long enough, how many times will Thomas' age (in years) be a divider of his mother's age? A) 4 B) 5 C) 6 D) 7 E) 8
+> Thomas was born on the day his mother turned 20 and so they celebrate their birthday together. If they both live long enough, how many times will Thomas' age (in years) be a divisor of his mother's age? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_student_marzo#q11|src_kangourou_2007_student_marzo__Q11]]
@@ -684,13 +730,40 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (two semicircles) *
+*Area of the shaded region (two semicircles)*
 
 ![[src_kangourou_2007_student_marzo__prob15.png]]
 
-> Consider yourself two semicircles drawn as in the figure. The length of the 4 CD string is parallel to the diameter AB of the larger semicircle and tangent to the smaller semicircle. The area of the shaded plane region in the figure is A) π B) 1,5 π C) 2 π D) 3 π E) the information is not sufficient to determine it. Which is the largest of these eight numbers? A) 4 B) 8 C) 9 D) 11 E) none of the values indicated x 9 5 5 17 A B C D Texts_07.qxp 16-04-2007 12:07 Page 30
+> Consider two semicircles drawn as in the figure.
+> The chord CD, of length 4, is parallel to the diameter AB of the
+> larger semicircle and is tangent to the smaller semicircle. The area of the shaded region of the plane in the figure is
+> A) π
+> B) 1.5 π
+> C) 2 π
+> D) 3 π
+> E) the information is not sufficient to determine it  
+> 16.The sum of five consecutive integers is equal to that of the three consecutive integers immediately following. What is the largest of these eight numbers?
+> A) 4 
+> B) 8
+> C) 9
+> D) 11
+> E) none of the indicated values
+> x
+> 9
+> 5
+> 5
+> 17
+> A
+> B
+> C
+> D
+> Testi_07.qxp  16-04-2007  12:07  Page 30
 > 
-> I'm going to pay. I'm going to pay. 31 31 Kang 2007 Kang
+> Pag. 
+> Pag. 31
+> 31
+> Kang 2007
+> Kang 2007
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_student_marzo#q15|src_kangourou_2007_student_marzo__Q15]]
@@ -716,7 +789,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grandest of 8 numbers (5 consecutive = 3 following) *
+*Greatest of 8 numbers (5 consecutive = 3 following) *
 
 > 16. Answer D . If x is the first of the integers considered we have 5 x + (1+2+3+4) = 3 x +(5+6+7) so 2x = 8 and the number required is x +7 = 11.
 
@@ -752,9 +825,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Knights and Liars (at least one liar)
+*Knights and liars (at least one liar)*
 
-> An island is inhabited only by knights and liars. All knights always tell the truth and all liars always tell the lie. A resident of the island, who we will indicate with A, when asked whether he and another resident of the island, called B, are knights or liars, answers that at least one of them is a liar. Which of the following statements is true? A and B are both liars C A and B are both knights D A is a liar and B is a knight E A is a knight and B is a liar
+> An island is inhabited only by knights and liars. All knights always
+> tell the truth and all liars always tell falsehoods. An inhabitant of the island, whom we will denote by A, when asked whether he and another inhabitant of the island,
+> called B, are knights or liars, answers that at least one of the two is a liar. Which of the following statements is true?
+> A) A cannot make such a statement    
+> B) A and B are both liars   
+> C) A and B are both knights
+> D) A is a liar and B is a knight 
+> E) A is a knight and B is a liar
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_student_marzo#q17|src_kangourou_2007_student_marzo__Q17]]
@@ -788,9 +868,9 @@ Knights and Liars (at least one liar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points at full coordinates on the sphere r=3*
+*Points with integer coordinates on the sphere r=3*
 
-> Consider a sphere of radius 3 centered at the origin of an orthogonal three-axis Cartesian system. How many points are on the surface of the sphere that have all the whole coordinates? A) 30 B) 24 C) 12 D) 6 E) 3
+> Consider a sphere of radius 3 centered at the origin of an orthogonal three-axis Cartesian system. How many points are on the surface of the sphere that have all integer coordinates? A) 30 B) 24 C) 12 D) 6 E) 3
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_student_marzo#q18|src_kangourou_2007_student_marzo__Q18]]
@@ -818,7 +898,7 @@ Knights and Liars (at least one liar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Graph of the function f in tracts*
+*Graph of the function f piecewise*
 
 ![[src_kangourou_2007_student_marzo__prob19.png]]
 
@@ -858,9 +938,9 @@ Knights and Liars (at least one liar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vasses travelled by Marco (constant speed) *
+*Lanes swum by Marco (constant speed) *
 
-> Marco and George go to the pool; they dive together and each swims at a constant speed. At the end of the eighth pool Mark reaches George for the first time and overtakes him; if they stop swimming simultaneously, but at the two opposite ends of the pool, which of the following can be the number of pools that Marco has traveled through? A) 36 B) 41 C) 30 D) 40 E) 27 Questions from N. 21 al N. 30 is worth 5 points each.
+> Marco and George go to the pool; they dive together and each swims at a constant speed. At the end of the eighth pool Marco reaches George for the first time and overtakes him; if they stop swimming simultaneously, but at the two opposite ends of the pool, which of the following can be the number of lanes that Marco has swum? A) 36 B) 41 C) 30 D) 40 E) 27 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_student_marzo#q20|src_kangourou_2007_student_marzo__Q20]]
@@ -889,9 +969,12 @@ Knights and Liars (at least one liar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reverse function g (f(g(x))=x) *
+*Inverse function g (f(g(x))=x)*
 
-> If and f (g (x)) = x, then g (x) = A) B) C) D) E) other function
+> If   
+> and f (g (x)) = x, then g (x)=
+> A)                  B)       
+> C)                   D)                 E) another function
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_student_marzo#q21|src_kangourou_2007_student_marzo__Q21]]
@@ -923,9 +1006,15 @@ Knights and Liars (at least one liar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is not x(x+1) for whole x*
+*Which number is not x(x+1) for integer x*
 
-> Which of the following numbers can't be written as x? A) 870 B) 110 C) 90 D) 60 E) 30
+> Which of the following numbers cannot be written as              with x
+> an integer?
+> A) 870   
+> B) 110  
+> C) 90  
+> D) 60  
+> E) 30
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_student_marzo#q22|src_kangourou_2007_student_marzo__Q22]]
@@ -1009,9 +1098,9 @@ Knights and Liars (at least one liar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities to which x^2+ax+2007 has integer roots*
+*How many values of a such that x^2+ax+2007 has integer roots*
 
-> How many real a are such that the quadratic equation x 2 + ax + 2007 = 0 has two whole solutions? A) 3 B) 4 C) 6 D) 8 E) None of the other answers are correct
+> How many real a are such that the quadratic equation x^2 + ax + 2007 = 0 has two integer solutions? A) 3 B) 4 C) 6 D) 8 E) None of the other answers are correct
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_student_marzo#q24|src_kangourou_2007_student_marzo__Q24]]
@@ -1118,11 +1207,11 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chapter 100 cells above (spiral 12345) *
+*Number 100 cells above (spiral 12345) *
 
 ![[src_kangourou_2007_student_marzo__prob27.png]]
 
-> The sequence numbers 1234512345123451 ... fill the cells on a sheet with a spiral type law, starting from the cell marked (v. (Figure 1). What figure do you find on the cell that is exactly 100 cells above that shaded one? A) 1 B) 2 C) 3 D) 4 E) 5
+> The sequence numbers 1234512345123451 ... fill the cells on a sheet with a spiral type law, starting from the cell marked (see figure). What digit do you find on the cell that is exactly 100 cells above that shaded one? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_student_marzo#q27|src_kangourou_2007_student_marzo__Q27]]
@@ -1157,9 +1246,17 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max sequence length of odd numbers*
+*Max length of a sequence of spiteful numbers*
 
-> A positive integer of 5 digits is called a disposable number if it cannot be expressed as the product of two integers of 3 digits each. How long can a sequence of consecutive numbers that are all odd be at most? (a) 11 (b) 49 (c) 51 (d) 101 (e) a value different from the previous one
+> A positive 5-digit integer is called a "spiteful number" if it cannot
+> be expressed as the product of two integers of 3 digits each. How long can
+> a sequence of consecutive numbers that are all
+> spiteful be at most?
+> A) 11
+> B) 49
+> C) 51
+> D) 101
+> E) a value different from the previous ones
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_student_marzo#q28|src_kangourou_2007_student_marzo__Q28]]
@@ -1261,7 +1358,7 @@ How to exchange gifts without one's own (5 friends)
 
 The probability of Carlo winning (given in turns)
 
-> Anna, Linda and Carlo play by throwing a single dice. Anna wins if she gets 1, 2 or 3, Linda wins if she gets 4 or 5, and Carlo only wins if he gets 6. The turn goes from Anna to Linda to Carlo and again to Anna, etc., until one of the players wins. The probability of Charles winning is A) 1/6 B) 1/8 C) 1/11 D) 1/13 E) 1/18 1 2 3 5 2 3 4 5 4 1 1 2 1 3 5 4 3 2 2 1 5 4 3
+> Anna, Linda and Carlo play by throwing a single dice. Anna wins if she gets 1, 2 or 3, Linda wins if she gets 4 or 5, and Carlo only wins if he gets 6. The turn goes from Anna to Linda to Carlo and again to Anna, etc., until one of the players wins. The probability of Carlo winning is A) 1/6 B) 1/8 C) 1/11 D) 1/13 E) 1/18 1 2 3 5 2 3 4 5 4 1 1 2 1 3 5 4 3 2 2 1 5 4 3
 > 
 >  
 > 1 Student category For students of the last two years of secondary school

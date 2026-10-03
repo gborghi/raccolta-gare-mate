@@ -121,7 +121,7 @@ level: kangourou
 
 *Number closest to 2,015 x 510.2 *
 
-> Which of the following numbers is closest to the product 2,015 x 510,2? A) 0,1 B) 1
+> Which of the following numbers is closest to the product 2.015 x 510.2? A) 0.1 B) 1
 > 	
 > C) 10 D) 100 E) 1000
 
@@ -209,7 +209,7 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows the plane development of a cube with numbered faces. For each pair of opposite faces, Paul added the two numbers that appear on the faces. What are the three sums he got? A) 6, 7, 8 B) 6, 6, 9 C) 5, 6, 10 D) 4, 7, 10 E) 4, 6, 11
+> The figure shows the net of a cube with numbered faces. For each pair of opposite faces, Paul added the two numbers that appear on the faces. What are the three sums he got? A) 6, 7, 8 B) 6, 6, 9 C) 5, 6, 10 D) 4, 7, 10 E) 4, 6, 11
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_cadet#q04|src_kangourou_2015_marzo_cadet__Q04]]
@@ -379,7 +379,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* mirror that coincides with UV*
+* edge that coincides with UV*
 
 ![[src_kangourou_2015_marzo_cadet__prob7.png]]
 
@@ -412,7 +412,7 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> The figure shows the plane development of a triangular-based prism. Which beam matches the UV beam when you fold the development to reconstruct the prism? A) WV B) XW C) XY
+> The figure shows the plane net of a triangular-based prism. Which edge coincides with the edge UV when you fold the net to reconstruct the prism? A) WV B) XW C) XY
 > 	
 > D) QR E) RS
 
@@ -488,11 +488,20 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what region*
+*which region*
 
 ![[src_kangourou_2015_marzo_cadet__prob9.png]]
 
-> When the Ciop squirrel descends to the ground, it never moves more than five meters from its tree trunk. In addition, it is always kept at a distance of at least five metres from the dog's cage. In the figures following the rectangle he represents the dog's cottage and the tree's curvilinear axis: in which of them does the shaded region plausibly describe the area of the ground where Ciop can move? A) B) C) D) E)
+> When the squirrel Ciop comes down to the ground, he never goes more than 5 metres away from the
+> trunk of his tree. Moreover, he always keeps at least 5 metres away from the
+> dog's house. In the following figures the rectangle represents the dog's house
+> and the curved hexagon the tree: in which of them does the shaded region describe in a
+> plausible way the area of the ground in which Ciop can move?
+>          A)		
+>          B)  	
+>          C)  	
+>          D) 	 	
+>         E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_cadet#q09|src_kangourou_2015_marzo_cadet__Q09]]
@@ -581,9 +590,9 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *not two born on the same day/month: number of pupils*
 
-> In a classroom, there are no two boys born on the same day of the week or two girls born in the same month. If another boy or girl were added to the class, at least one of the two conditions would no longer be true. How many students is the class? A) 18 B) 19
+> In a classroom, there are no two boys born on the same day of the week or two girls born in the same month. If another boy or girl were added to the class, at least one of the two conditions would no longer be true. How many students are in the class? A) 18 B) 19
 > 	
-> C) 20 D) 24 E) 25 P Q R S T U V W X Y
+> C) 20 D) 24 E) 25
 >
 
 **Answer:** B
@@ -627,7 +636,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2015_marzo_cadet__prob12.png]]
 
-> The figure represents three squares on side 1 and is symmetrical to the straight line found on the common side of the two lower squares. What is the grey area? A)
+> The figure represents three squares of side 1 and is symmetrical about the straight line identified by the common side of the two lower squares. What is the grey area? A)
 > 	
 > B)
 > 	
@@ -676,7 +685,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *min number of +*
 
-> Each asterisk in the equation 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 = 0 is to be replaced by a + or a  so that the equation is corrected. What is the minimum number of asterisks to be replaced by the + sign? A) 1
+> Each asterisk in the equation 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 * 2 * 0 * 1 * 5 = 0 is to be replaced by a + or a – so that the equation is correct. What is the minimum number of asterisks to be replaced by the + sign? A) 1
 > 	
 > B) 2
 > 	
@@ -717,9 +726,9 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* of how many cm rises the pool level*
+*by how many cm the pool level rises*
 
-> During a storm, 15 litres of water per square meter fell. How many centimetres has the water level of an outdoor pool risen? A) 150 B) 0,15 C) 15
+> During a storm, 15 litres of water per square meter fell. How many centimetres has the water level of an outdoor pool risen? A) 150 B) 0.15 C) 15
 > 	
 > D) 1.5 E) depends on the size of the pool
 
@@ -756,7 +765,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*possible sheets *
+*possible leaves*
 
 > A bush has 10 branches; on each branch there are 5 leaves or 2 leaves and 1 flower. Which of the following can be the number of leaves in the bush? A) 45
 > 	
@@ -801,7 +810,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *failed media*
 
-> The average score of students who passed a math test is 6. He passed the test exactly 60 percent of the students, and their average score is 8. What is the average score of the students who did not pass the test? A) 1
+> The average score of students who passed a math test is 6. Exactly 60 percent of the students passed the test, and their average score is 8. What is the average score of the students who did not pass the test? A) 1
 > 	
 > B) 2
 > 	
@@ -889,7 +898,7 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> One of the corners of a square has been folded so as to bring the top to the center of the square. The area of the irregular pentagon thus formed (see figure) and that of the square are consecutive integers. What's the area of the square? A) 2
+> One of the corners of a square has been folded so as to bring the vertex to the center of the square. The area of the irregular pentagon thus formed (see figure) and that of the square are consecutive integers. What's the area of the square? A) 2
 > 	
 > B) 4
 > 	
@@ -1091,7 +1100,7 @@ The manufacturer shall provide the manufacturer with the following information:
 > 	
 > D) 3
 > 	
-> E) 4 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 4 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2015_marzo_cadet#q20|src_kangourou_2015_marzo_cadet__Q20]]
@@ -1176,7 +1185,7 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> Rosa wants to write a number in each of the seven limited regions in the drawing. Let's say two regions are neighbouring if they have a part of the contour in common. In each region the number to be written must be the sum of all the numbers written in the regions adjacent to it. As you can see, Rosa has already entered two numbers. What number should you write in the central region? A) 1
+> Rosa wants to write a number in each of the seven bounded regions in the drawing. Let's say two regions are neighbouring if they have a part of the contour in common. In each region the number to be written must be the sum of all the numbers written in the regions adjacent to it. As you can see, Rosa has already entered two numbers. What number should she write in the central region? A) 1
 > 	
 > B) - 2
 > 	
@@ -1220,7 +1229,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *major number*
 
-> Five positive integers (not necessarily all different) are inscribed on five cards. For each pair of cards, Peter calculates the sum of the numbers written on them. The different totals you get are only three: 57, 70 and 83. What's the biggest number on the cards? A) 35 B) 42
+> Five positive integers (not necessarily all different) are inscribed on five cards. For each pair of cards, Peter calculates the sum of the numbers written on them. The different totals he gets are only three: 57, 70 and 83. What's the biggest number on the cards? A) 35 B) 42
 > 	
 > C) 48 D) 53 E) 82
 
@@ -1361,11 +1370,11 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min pieces per cubic inch *
+*min pieces per cubic lattice*
 
 ![[src_kangourou_2015_marzo_cadet__prob25.png]]
 
-> Charles has seven pieces of iron wire each 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm and 7 cm long. He wants to use some of them to build, without cutting them or overlaying them (not even partially), a cubic lattice with long spines
+> Charles has seven pieces of iron wire each 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm and 7 cm long. He wants to use some of them to build, without cutting them or overlaying them (not even partially), a cubic lattice with edges of length
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_cadet#q25|src_kangourou_2015_marzo_cadet__Q25]]
@@ -1392,9 +1401,9 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of the values of the values of the samples.
+*angle PQR*
 
-> 26. In a PQRS trapezoid the sides PQ and SR are parallel and PQ is triple SR; furthermore SR ^ and SP are equal and the angle RSP measures 120° (120 degrees). What is the dimension of the angle ^ PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
+> 26. In a trapezoid PQRS the sides PQ and SR are parallel and PQ is three times SR; moreover SR ^ and SP are equal and the angle RSP measures 120° (120 degrees). What is the measure of the angle ^ PQR? A) 15° B) 22°30’ C) 25° D) 30° E) 45°
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_cadet#q26|src_kangourou_2015_marzo_cadet__Q26]]
@@ -1423,7 +1432,7 @@ This is the sum of the values of the values of the samples.
 
 *the missing one*
 
-> 27. Alberto drew five points on a straight line and now, for each pair of points, the distance between them. Of the ten different numbers you get, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
+> 27. Alberto drew five points on a straight line and now, for each pair of points, measures the distance between them. Of the ten different numbers he gets, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_cadet#q27|src_kangourou_2015_marzo_cadet__Q27]]
@@ -1452,7 +1461,7 @@ This is the sum of the values of the values of the samples.
 
 *max attempts*
 
-> 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luke telling me the number is seven digits. I don't know what number I forgot to write down, or what position it might be in. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
+> 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luca telling me the number is seven digits. I don't know which digit I forgot to write down, or in what position it might be. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_cadet#q28|src_kangourou_2015_marzo_cadet__Q28]]
@@ -1481,7 +1490,7 @@ This is the sum of the values of the values of the samples.
 
 *greater remainder*
 
-> 29. Maria divides 2015 subsequently by 1, 2, 3 and so on up to 1000 inclusive. He writes down the remains of each division. What's the largest remainder he finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
+> 29. Maria divides 2015 subsequently by 1, 2, 3 and so on up to 1000 inclusive. She writes down the remainders of each division. What's the largest remainder she finds? A) 15 B) 215 C) 671 D) 1007 E) None of the above.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_cadet#q29|src_kangourou_2015_marzo_cadet__Q29]]
@@ -1510,7 +1519,7 @@ This is the sum of the values of the values of the samples.
 
 *how many ways*
 
-> 30. I mean, color each positive integer according to the following three rules: Each number is either red or blue. The sum of two different red numbers is always a red number. The sum of two different blue numbers is always a blue number. How many different ways can I make these colors? A) 0 B) 2 C) 4 D) 6
+> 30. I intend to color each positive integer according to the following three rules: Each number is either red or blue. The sum of two different red numbers is always a red number. The sum of two different blue numbers is always a blue number. In how many different ways can I make these colorings? A) 0 B) 2 C) 4 D) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_cadet#q30|src_kangourou_2015_marzo_cadet__Q30]]

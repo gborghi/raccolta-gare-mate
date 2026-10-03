@@ -116,7 +116,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Documents 3) The eye in the figure is made up of two quarters of the circumference of each of the lengths 1 and the circle C of the largest possible radius contained in the region bounded by them. How long is the circumference of C? A) 2 B) π - 1 C) 3√2 - 2 D) 4√2 - π E) A number different from the previous ones.
+> (Points 3) The eye in the figure is made up of two quarter-circles each of length 1 and the circle C of the largest possible radius contained in the region bounded by them. How long is the circumference of C? A) 2 B) π - 1 C) 3√2 - 2 D) 4√2 - π E) A number different from the previous ones.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_junior_semif#q02|src_kangourou_2018_junior_semif__Q02]]
@@ -192,7 +192,12 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 3) The four points A, B, C and D are marked on a square sheet of paper (see section below). Henry wants to identify a figure that is either an equilateral triangle, or a square, or a circle whose edge passes through all four points. So the figure can be A) either an equilateral triangle or a square, but not a circle. (b) a square, but not an equilateral triangle or a circle. (c) is a square or a circle, but not an equilateral triangle. (d) any of the following: (e) none of those listed.
+> (3 points) On a sheet of squared paper (you can see a portion of it in the figure) four points A, B, C, D are marked. Enrico wants to identify a figure that is an equilateral triangle, or a square, or a circle whose boundary passes through all four points. Then the figure could be
+> A) either an equilateral triangle, or a square, but not a circle.
+> B) a square, but not an equilateral triangle nor a circle.
+> C) either a square, or a circle, but not an equilateral triangle.
+> D) any one of those listed.
+> E) none of those listed.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_junior_semif#q03|src_kangourou_2018_junior_semif__Q03]]
@@ -226,9 +231,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Alice's number exceeds Barbara's
+*Probability that Alice's number exceeds Barbara's*
 
-> (Points 4) Alice and Barbara randomly and separately select an integer between 1 and 2018. The two numbers are then compared. What is the probability that the number Alice chose is greater than the number Barbara chose? This appropriation is intended to cover expenditure relating to the implementation of the programme.
+> (4 points) Alice and Barbara each choose at random and independently an integer between 1 and 2018. 
+> The two numbers are then compared. What is the probability that the number chosen by Alice is larger 
+> than the one chosen by Barbara?
+> A) 2019/4036	
+> B) 2017/4036		
+> C) 2017/4038		
+> D) 1/2
+> E) None of the above.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_junior_semif#q04|src_kangourou_2018_junior_semif__Q04]]
@@ -262,9 +274,9 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reported cubic volume/regular tetrahedron entered *
+*Ratio of cube volume / inscribed regular tetrahedron *
 
-> (Points 4) A regular tetrahedron is inscribed in a cube whose edges are diagonal to the sides of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
+> (Points 4) A regular tetrahedron is inscribed in a cube whose edges are diagonals of the faces of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
 > 	
 > B) 3
 > 	
@@ -303,9 +315,9 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A figure in A111...11 of 2019 digits divisible by 7*
+*Digit A in A111...11 of 2019 digits divisible by 7*
 
-> (Points 4) The number of 2019 digits (in decimal notation) A111...11, where A is a digit and the remaining 2018 digits are all 1, is divisible by 7. What's the number A? A) 2
+> (Points 4) The number of 2019 digits (in decimal notation) A111...11, where A is a digit and the remaining 2018 digits are all 1, is divisible by 7. Which digit is A? A) 2
 > 	
 > B) 3              C) 4
 > 	
@@ -351,7 +363,7 @@ The probability that Alice's number exceeds Barbara's
 
 *How many prime r sums of two prime numbers with equal sums *
 
-> (Points 5) A prime r is the sum of two prime p and q. It also happens that the sum of the digits r coincides with the sum of the digits p plus the sum of the digits q. How many possible prime r numbers are in this situation? (Warning: 1 is not a prime number!) A) Only 1
+> (Points 5) A prime number r is the sum of two prime numbers p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? (Warning: 1 is not a prime number!) A) Only 1
 > 	
 > B) Exactly 2
 > 	
@@ -393,7 +405,7 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For integers n the number n/(n-10) and integers *
+*For how many integers n is the number n/(n-10) an integers *
 
 > (Points 5) For how many integers n is the number n/(n - 10) an integer? A) 4
 > 	
@@ -440,9 +452,17 @@ The probability that Alice's number exceeds Barbara's
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of the countries of the European Economic Area.
+*What is 2019*2018^2 - 2018*2019^2 not divisible by*
 
-> (Points 6) The number 201920182 - 201820192 is not divisible by A) 99 B) 101 C) 121 D) 1001 E) 10001 A B C D
+> (6 points) The number 201920182 - 201820192 is not divisible by
+> A) 99	 	
+> B) 101		
+> C) 121           D) 1001		
+> E) 10001
+> A
+> B
+> C
+> D
 > 
 > Open-ended questions
 
@@ -504,7 +524,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 
 *M-N between odd sum and even sum less than 1000*
 
-> (Points 5) M is the sum of the odd positive integers less than 1000 and N is the sum of the positive integers strictly less than 1000. How much is M-N ?
+> (Points 5) M is the sum of the odd positive integers less than 1000 and N is the sum of the even positive integers strictly less than 1000. How much is M-N ?
 
 **Answer:** 500
 [[Quesiti/src_kangourou_2018_junior_semif#q11|src_kangourou_2018_junior_semif__Q11]]
@@ -533,9 +553,9 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio length of strings / shorter piece (discs) *
+*Ratio length of rope / shorter piece (discs) *
 
-> (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the relationship between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
+> (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2018_junior_semif#q12|src_kangourou_2018_junior_semif__Q12]]
@@ -564,9 +584,12 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of scoring the first given string p>=one=0,999*
+*Probability of scoring the first penalty given p>=one=0.999*
 
-> Mark must take three hard kicks. Knowing yourself, you know that the probability of scoring is the same in all three and that the probability of scoring in at least one of the three is 0.999. What's the likelihood that he'll score when he draws the first line? (Include decimal places after the comma up to the fourth: e.g. If the probability is 0.81, write the answer as 8100.)
+> (Points 6) Marco has to take three penalty kicks. Knowing himself, he knows that the probability of scoring is 
+> the same in all three and that the probability of scoring in at least one of the three is 0.999. What is the probability that 
+> he manages to score when he takes the first penalty kick? (Indicate the decimal digits after the decimal point up to the fourth: for 
+> example, if the probability were 0.81 write the answer as 8100.)
 
 **Answer:** 9000
 [[Quesiti/src_kangourou_2018_junior_semif#q13|src_kangourou_2018_junior_semif__Q13]]
@@ -594,9 +617,9 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many whole pairs (a,b) in [2018,2018] with 2a+b+6=0*
+*How many integer pairs (a,b) in [-2018,2018] with 2a+b+6=0*
 
-> (Points 6) For how many different pairs (a, b) of relative integers between - 2018 and 2018, extremes included, is 2a + b + 6 = 0?
+> (Points 6) For how many different ordered pairs (a, b) of integers between - 2018 and 2018, endpoints included, is 2a + b + 6 = 0?
 
 **Answer:** 2019
 [[Quesiti/src_kangourou_2018_junior_semif#q14|src_kangourou_2018_junior_semif__Q14]]
@@ -628,7 +651,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 
 *Minimum value among those assigned to mean points*
 
-> (Points 6) Each point P of the whole-coordinate plane is assigned a nonnegative integer which is the average of the four numbers assigned to the four points 1 to P. The item (2018, 2018) is assigned the number 2018. What is the smallest of the values that appear among those assigned to the P variable?
+> (Points 6) Each point P of the plane with integer coordinates is assigned a nonnegative integer which is the average of the four numbers assigned to the four points at distance 1 from P. The item (2018, 2018) is assigned the number 2018. What is the smallest of the values that appear as P varies?
 
 **Answer:** 2018
 [[Quesiti/src_kangourou_2018_junior_semif#q15|src_kangourou_2018_junior_semif__Q15]]
@@ -656,7 +679,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 1 and 9999 with the sum of the first two digits = two more*
+*Numbers between 1 and 9999 with the sum of the first two digits = the other two*
 
 > (Points 7) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
 
@@ -691,7 +714,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 
 *Values m and n with 46 new ticket types*
 
-> (Points 7) A railway company operates a line with m stations. He then builds other n's, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, how much are they worth, in order, m and n? (For example, if m = 25 and n = 4, write 2504.)
+> (Points 7) A railway company operates a line with m stations. It then has n more built, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, what are, in order, the values of m and n? (For example, if m = 25 and n = 4, write 2504.)
 
 **Answer:** 1102
 [[Quesiti/src_kangourou_2018_junior_semif#q17|src_kangourou_2018_junior_semif__Q17]]
@@ -729,9 +752,9 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many whole ternes (a,b,c) are ordered with a*b*c=45000*
+*How many ordered triples (a,b,c) of integers satisfy a*b*c=45000*
 
-> (Points 8) For how many ordered sets (a, b, c) of relative integers does a × b × c = 45,000 occur?
+> (Points 8) For how many ordered sets (a, b, c) of integers does a × b × c = 45,000 occur?
 > 
 > 1296 0500 0005 9000 2019 2018 0669 1102 3600
 

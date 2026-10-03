@@ -30,7 +30,7 @@ level: kangourou
 
 *Spheres passing through three non-aligned points in space*
 
-> Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smaller be determined?
+> Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smallest be determined?
 
 [[Quesiti/src_kangourou_2012_student_finale#q01|src_kangourou_2012_student_finale__Q01]]
 
@@ -56,11 +56,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fire of dice with the sum of exposed faces equal to 2012*
+*Row of dice with the sum of exposed faces equal to 2012*
 
 ![[src_kangourou_2012_student_finale__prob2.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. It joins two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
+> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. He glues two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
 
 [[Quesiti/src_kangourou_2012_student_finale#q02|src_kangourou_2012_student_finale__Q02]]
 
@@ -85,9 +85,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colors of 20 sheets with sum rule*
+*Colors of 20 tiles with sum rule*
 
-> Twenty cards are numbered with integers from $1$ to $20$. We want to colour each card of a single color, white or black, so that the following rule is observed: if two (different) cards of numbers $m$ and $n$ have the same color and $m + n < 21$, then the number card $m + n$ must also have that color. How many different ways can we assign colors?
+> Twenty tiles are numbered with integers from $1$ to $20$. We want to colour each tile of a single color, white or black, so that the following rule is observed: if two (different) tiles of numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile numbered $m + n$ must also have that color. How many different ways can we assign colors?
 
 [[Quesiti/src_kangourou_2012_student_finale#q03|src_kangourou_2012_student_finale__Q03]]
 
@@ -114,11 +114,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Each polyhedron has two faces with the same number of beads*
+*Each polyhedron has two faces with the same number of edges*
 
 ![[src_kangourou_2012_student_finale__prob4.png]]
 
-> It shows that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of vertices. Are there any polyhedra that don't have three faces with the same number of beads?
+> Show that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of edges. Are there any polyhedra that don't have three faces with the same number of edges?
 
 [[Quesiti/src_kangourou_2012_student_finale#q04|src_kangourou_2012_student_finale__Q04]]
 
@@ -143,9 +143,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-totals with multiple sums of n between n integers *
+*Subset with sum a multiple of n among n integers*
 
-> Demonstrate that, however positive integers are assigned $n \geq 1$, some of them can always be chosen so that their sum is a multiple of $n$.
+> Prove that, however $n \geq 1$ positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
 
 [[Quesiti/src_kangourou_2012_student_finale#q05|src_kangourou_2012_student_finale__Q05]]
 
@@ -169,8 +169,8 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite family of nearly disjoint unnumerable subsets*
+*Infinite family of nearly disjoint uncountable subsets*
 
-> We denote the sum of positive integers with $\mathbb{N}$. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be biunivocal with $\mathbb{N}$, the elements of which are subsets of $\mathbb{N}$ two to two quasi-disjoint.
+> We denote by $\mathbb{N}$ the set of positive integers. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be biunivocal with $\mathbb{N}$, the elements of which are subsets of $\mathbb{N}$ pairwise almost disjoint.
 
 [[Quesiti/src_kangourou_2012_student_finale#q06|src_kangourou_2012_student_finale__Q06]]

@@ -104,7 +104,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 
 *Weight of labels yet to be prepared*
 
-> One company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24, or 16. Each pack must bear a label indicating the net weight of the contents; labels indicating 630 grams and other indicating 360 grams have already been prepared. What weights will the labels still have to indicate?
+> One company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24, or 16 pieces. Each pack must bear a label indicating the net weight of the contents; labels indicating 630 grams and others indicating 360 grams have already been prepared. What weights will the labels still have to indicate?
 
 **Answer:** 810,540
 [[Quesiti/src_kangourou_2009_benjamin_maggio#qb2|src_kangourou_2009_benjamin_maggio__QB2]]
@@ -132,9 +132,9 @@ How many ways to place 4 coins on a 4x4 chessboard
 
 From which pizza to choose the largest slice
 
-> In a festicciola there are four circular-shaped pizzas: one has a radius $8$ cm and is cut into 3 equal slices between them, a second has a radius $10$ cm and is cut into 4 equal slices between them, a third has a radius $12$ cm and is cut into 6 equal slices between them, the fourth has a radius $14$ cm and is cut into 8 equal slices between them. You only have one slice and you want to eat as much pizza as possible. Which slice is best for you?
+> At a little party there are four circular-shaped pizzas: one has a radius $8$ cm and is cut into 3 equal slices between them, a second has a radius $10$ cm and is cut into 4 equal slices between them, a third has a radius $12$ cm and is cut into 6 equal slices between them, the fourth has a radius $14$ cm and is cut into 8 equal slices between them. You only have one slice and you want to eat as much pizza as possible. From which pizza should you choose the slice?
 
-**Answer:** raggio 10
+**Answer:** radius 10
 [[Quesiti/src_kangourou_2009_benjamin_maggio#qb3|src_kangourou_2009_benjamin_maggio__QB3]]
 
 
@@ -188,7 +188,7 @@ From which pizza to choose the largest slice
 
 *Minimum time to ferry four boats*
 
-> Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one rudder is available. One boat may tow another boat at most, but in this case the traffic of the two boats takes the slower boat's crossing time between the two. Once a cruise has been made, the rudder can return to the starting point only using one of the four boats. Find the shorter time (in minutes) to perform the operation, neglecting the time needed to hook and unload boats and transfer from one to the other.
+> Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one rudder is available. One boat may tow another boat at most, but in this case the convoy of the two boats takes the crossing time of the slower boat of the two. Once a crossing has been made, the boatman can return to the starting point only using one of the four boats. Find the minimum time (in minutes) to perform the operation, neglecting the time needed to hook and unhook the boats and transfer from one to the other.
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2009_benjamin_maggio#qb5|src_kangourou_2009_benjamin_maggio__QB5]]
@@ -214,9 +214,9 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who has won the most hands at the Chinese mortar?
+*Who won more hands in rock-paper-scissors*
 
-> In each hand of the Chinese death game each of the two players simultaneously pronounces one of the three words *card*, *forbici*, *sax*: stone-beat card, scissors-beat card and stone-beat scissors. Marco and Flora played 10 hands, none of which ended in a draw (i.e. the words spoken in each hand were always different). Marco used 3 times stone, 6 times scissors and 1 time paper; Flora instead used 2 times stone, 4 times scissors and 4 times paper. We don't know in what order the words were spoken. Who won the most hands and how many hands did they win?
+> In each hand of the game of rock-paper-scissors, each of two players simultaneously says to the other one of the three words *paper*, *scissors*, *rock*: paper beats rock, scissors beats paper, and rock beats scissors. Marco and Flora played 10 hands, none of which ended in a tie (that is, the words said in each individual hand were always different). Marco used rock 3 times, scissors 6 times, and paper 1 time; Flora instead used rock 2 times, scissors 4 times, and paper 4 times. We do not know in what order the words were said. Who won more hands, and how many hands did they win?
 
 **Answer:** Marco 7
 [[Quesiti/src_kangourou_2009_benjamin_maggio#qb6|src_kangourou_2009_benjamin_maggio__QB6]]

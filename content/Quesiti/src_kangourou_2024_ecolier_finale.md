@@ -31,7 +31,7 @@ level: kangourou
 
 *What is the result of Marco (always 1089) *
 
-> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press the digit 0, otherwise it leaves it unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result?
+> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, he puts the digit 0 in front of this difference, otherwise he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What is the result?
 
 **Answer:** 1089
 [[Quesiti/src_kangourou_2024_ecolier_finale#qe1|src_kangourou_2024_ecolier_finale__QE1]]
@@ -83,7 +83,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of keys and arrangement between four friends*
+*Minimum number of keys and arrangement among four friends*
 
 ![[src_kangourou_2024_ecolier_finale__probe2.png]]
 
@@ -110,7 +110,7 @@ level: kangourou
 \end{document}
 ```
 
-> Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to your own home that each of you must leave to your friends, considering them as a whole? And how are the left keys to be arranged?
+> Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to their own home that each of them must leave to their friends, considering them as a whole? And how are the left keys to be arranged?
 
 **Answer:** 1
 [[Quesiti/src_kangourou_2024_ecolier_finale#qe2|src_kangourou_2024_ecolier_finale__QE2]]
@@ -136,9 +136,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the gas empty flask*
+*Weight of the empty gas cylinder*
 
-> A liquid gas can is full and weighs 28 kilos. Initially, half of the content is consumed. After some time, half of the remaining contents are consumed, and at that point the weight of the pump and the remaining ones have dropped to 10 pounds. How many pounds does the empty flask weigh?
+> A cylinder of liquid gas is full and weighs 28 kilograms. Initially half of the contents is used. After some time half of the remaining contents is used, and at that point the weight of the cylinder with what remains has dropped to 10 kilograms. How many kilograms does the empty cylinder weigh?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2024_ecolier_finale#qe3|src_kangourou_2024_ecolier_finale__QE3]]
@@ -166,7 +166,7 @@ level: kangourou
 
 *The meaning of KAB* can be deduced
 
-> In the strange language of Kangland, the words yes and no are translated into KAB and BAK, but not necessarily in this order. You meet a person you can trust who speaks both Italian and Kangal and ask them: Is it true that KAB means 'yes'? The person replies: KAB. Can you tell if KAB means yes or no?
+> In the strange language of Kangland, the words "yes" and "no" are translated into KAB and BAK, but not necessarily in this order. You meet a person you can trust who speaks both Italian and Kanglandish and ask them: Is it true that KAB means 'yes'? The person replies: KAB. Can you tell if KAB means "yes" or "no"?
 
 **Answer:** no
 [[Quesiti/src_kangourou_2024_ecolier_finale#qe4|src_kangourou_2024_ecolier_finale__QE4]]
@@ -195,7 +195,7 @@ level: kangourou
 
 What numbers could Bruno have written (maximum sum)
 
-> Alice wrote a three-digit integer (if greater than 99), Bruno wrote a two-digit integer (if greater than 9) and Carla a one-digit integer. The case decided that the six digits that make up the three numbers should all be different from each other and that the sum of the three numbers should be as large as possible under these conditions. What are the numbers that Bruno could have written?
+> Alice wrote a three-digit integer (thus greater than 99), Bruno wrote a two-digit integer (thus greater than 9) and Carla a one-digit integer. The case decided that the six digits that make up the three numbers should all be different from each other and that the sum of the three numbers should be as large as possible under these conditions. What are the numbers that Bruno could have written?
 
 **Answer:** 86,85,84,76,75,74
 [[Quesiti/src_kangourou_2024_ecolier_finale#qe5|src_kangourou_2024_ecolier_finale__QE5]]
@@ -222,9 +222,9 @@ What numbers could Bruno have written (maximum sum)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of 8 objects with different adjacent *
+*Colourings of 8 objects with different adjacent colours *
 
-> Eight objects are aligned. They need to be painted four in red, three in blue and one in yellow, but so that adjacent objects receive different colors. How many different colours are eligible?
+> Eight objects are aligned. They need to be painted four in red, three in blue and one in yellow, but so that adjacent objects receive different colors. How many different colourings are admissible?
 
 **Answer:** 14
 [[Quesiti/src_kangourou_2024_ecolier_finale#qe6|src_kangourou_2024_ecolier_finale__QE6]]

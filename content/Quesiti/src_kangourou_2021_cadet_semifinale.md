@@ -99,7 +99,7 @@ level: kangourou
 
 *Minimum minutes to cross the Tibetan Bridge*
 
-> (3 points) On their way back from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can cross at a time; it is dark and therefore a stack is required for crossing, but they only have one that can accommodate two people and they cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed? A) 24
+> (3 points) On their way back from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can cross at a time; it is dark and therefore a flashlight is required for crossing, but they only have one that can accommodate two people and they cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed? A) 24
 >  
 > B) 27
 >  
@@ -292,24 +292,31 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining by 9 of the number approaching 21.0*
+*Remainder when dividing by 9 the number formed by placing 21..0 side by side*
 
-> (4 points) What is the remainder of the division by 9 of the number 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 10 , obtained by approximating the numbers of the first 22 natural numbers in descending order? A) 0
+> (4 points) What is the remainder of the division by 9 of the number 
+> 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0, 
+> obtained by placing side by side the digits of the first 22 natural numbers in decreasing order? 
+> A) 0  
 >  
-> B) 2
+> B) 2   
 >  
-> C) 4
+> C) 4   
 >  
-> D) 6
+> D) 6   
 >  
-> E) 8
+> E) 8 
 >  
 > X
 >  
-> 13 5 10
+>  13
+> 5 
+>  10
 >  
 >  
-> 7 12 4
+> 7 
+>  12
+> 4 
 >  
 >  
 > 1
@@ -394,13 +401,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the loan.
+*Sum 2+5+8+...+2021*
 
-> (5 points) What is the sum of 2 + 5 + 8 + ... + 2021? A) 681750 B) 681751
+> (5 points) What is the value of the sum 2 + 5 + 8 + ... + 2021? 
+> A) 681750   
+> B) 681751  
 >  
-> C) 681752
+> C) 681752  
 >  
-> D) 681753
+> D) 681753  
 >      
 > E) 681754
 
@@ -439,7 +448,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 3 writing 2021 as the sum of five digits*
+*How many digits 3 writing 2021 as the sum of five numbers*
 
 > (5 points) Julius wants to write 2021 as the sum of five positive integers that have no digits other than 3 and 5. How many digits of 3 are there in all five numbers? A) 2
 >  
@@ -496,15 +505,24 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential A2021-A2020 of circular crowns*
+*Difference A2021-A2020 of the circular rings*
 
-> (6 points) We denote with an the area of the circular crown bounded by two enclosed and enclosed circumferences to a regular polygon of n sides, each of length 1. What is the difference between A2021 − A2020? A)   B)  
+> (6 points) Let An denote the area of the circular ring bounded by the two circles
+> inscribed in and circumscribed about a regular polygon with n sides, each of length 1.
+> What is the value of the difference A2021 − A2020?
+> A) 
+> 
+>    
+> B) 
+> 
 >  
-> C)  
+> C) 
+> 
 >  
-> D)  
->  
-> E) 0
+> D) 
+> 
+>   
+> E) 0 
 >  
 >  
 > Open-ended questions
@@ -537,7 +555,7 @@ This is the total amount of the loan.
 
 Max tosses to make sure a number goes out 3 times
 
-> (4 points) What is the maximum number of times it may be necessary to roll a dice for at least one number to come out 3 times?
+> (4 points) What is the maximum number of times it may be necessary to roll a die for at least one number to come out 3 times?
 
 **Answer:** 13
 [[Quesiti/src_kangourou_2021_cadet_semifinale#q10|src_kangourou_2021_cadet_semifinale__Q10]]
@@ -564,7 +582,7 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years since the last year = two consecutive integers approximated*
+*Years since the last year = two consecutive integers placed side by side*
 
 > (5 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
@@ -626,7 +644,7 @@ Max tosses to make sure a number goes out 3 times
 
 *The smallest sum of two numbers with nine digits *
 
-> (6 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest amount you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
+> (6 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest sum you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 
 **Answer:** 356
 [[Quesiti/src_kangourou_2021_cadet_semifinale#q13|src_kangourou_2021_cadet_semifinale__Q13]]
@@ -696,11 +714,17 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Forwarding of the P-point of the groove*
+*Advancement of point P of the track*
 
 ![[src_kangourou_2021_cadet_semifinale__prob15.png]]
 
-> (6 points) The figure sketches the rim of a half-circle whose wheels have a radius of 1/π meters with a centre distance of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
+> (6 points) The figure schematizes the side of a tracked vehicle whose wheels have a radius
+> of 1/π meters with a distance between centers of 3 meters. The
+> lower part of the track is in contact with a
+> regular flat ground and P denotes the point at the middle
+> of the currently upper part of the track. If the
+> vehicle advances by 20 centimeters, by how many centimeters does
+> point P advance, relative to the ground?
 
 **Answer:** 40
 [[Quesiti/src_kangourou_2021_cadet_semifinale#q15|src_kangourou_2021_cadet_semifinale__Q15]]
@@ -808,7 +832,7 @@ Max tosses to make sure a number goes out 3 times
 \end{document}
 ```
 
-> (7 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. When choosing the appropriate room to leave, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
+> (7 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. When choosing the appropriate room to start from, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
 
 **Answer:** 9901
 [[Quesiti/src_kangourou_2021_cadet_semifinale#q17|src_kangourou_2021_cadet_semifinale__Q17]]

@@ -39,9 +39,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most representative number code digits*
+*Largest number from digit code representation*
 
-> The greatest Sergio believes that he has invented a secret code to identify the integers: if a number is odd, he represents it with a circle, if it is equal to a square; if a number is a multiple of 3, the circle or square that represents it is full, while it is empty otherwise. So Sergio represents the number 3456 with . But Sergio is mistaken: his criterion does not allow us to identify a number with certainty based on his representation. The representation also provides other numbers: which is the largest of them? The answer is 9876.
+> The largest  
+> Sergio believes he has invented a secret code to identify integers: if a digit is odd, 
+> he represents it with a small circle, if it is even with a square; if a digit is a multiple of 3, the circle 
+> or the square that represents it is filled, while it is empty otherwise. Thus Sergio represents the 
+> number 3456 with 
+> . But Sergio is mistaken: his criterion does not allow one to identify with 
+> certainty a number starting from its representation. The representation 
+>  provides 
+> also other numbers: what is the largest of them?  
+> Answer: 9876.
 
 **Answer:** 9876
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q01|src_kangourou_2024_ecolier_squadre__Q01]]
@@ -77,7 +86,7 @@ level: squadre
 
 *How many star numbers between 2000 and 3000*
 
-> Numbers star Call number star any number between 2000 and 3000 that has the following property: the difference between the largest and smallest of two adjacent digits is always the same, even if it varies from number to number. These are examples of stellar numbers 2024 and 2345: in the first case the difference between the largest and the smallest of two adjacent digits is always 2, in the second case it is always 1. How many are the star numbers, including the two we gave as an example? Attention: 2222 is not a star number because between two adjacent digits there is no greater than the other. The answer is 0019.
+> Star numbers Call a star number any number between 2000 and 3000 that has the following property: the difference between the largest and smallest of two adjacent digits is always the same, even if it varies from number to number. These are examples of star numbers 2024 and 2345: in the first case the difference between the largest and the smallest of two adjacent digits is always 2, in the second case it is always 1. How many are the star numbers, including the two we gave as an example? Attention: 2222 is not a star number because between two adjacent digits there is no greater than the other. Answer: 0019.
 
 **Answer:** 0019
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q02|src_kangourou_2024_ecolier_squadre__Q02]]
@@ -109,7 +118,7 @@ level: squadre
 
 *Grams of yellow per 220 grams of green*
 
-> The paint To obtain 700 grams of paint of a certain green gradation, 140 grams of blue, 210 grams of yellow and 350 grams of white must be mixed. To get 220 grams of paint of the same green grade, how many grams of yellow do you need to use? The answer is 0066.
+> The paint To obtain 700 grams of paint of a certain green gradation, 140 grams of blue, 210 grams of yellow and 350 grams of white must be mixed. To get 220 grams of paint of the same green grade, how many grams of yellow do you need to use? Answer: 0066.
 
 **Answer:** 0066
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q03|src_kangourou_2024_ecolier_squadre__Q03]]
@@ -144,7 +153,7 @@ level: squadre
 
 Number of Aldo and Cristina, sum of 99 difference max
 
-> Aldo and Cristina Cristina wrote an integer number of two digits (so no less than 10). Aldo also wrote a two-digit number: Aldo's numbers are the same as Cristina's, Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 99 and their difference is the largest possible in this situation. Write Aldo's number followed by Cristina's number, that is, if Aldo's number is XY and Cristina's number is ZW, write XYZW Answer: 8118.
+> Aldo and Cristina Cristina wrote an integer number of two digits (so no less than 10). Aldo also wrote a two-digit number: Aldo's digits are the same as Cristina's, Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 99 and their difference is the largest possible in this situation. Write Aldo's number followed by Cristina's number, that is, if Aldo's number is XY and Cristina's number is ZW, write XYZW Answer: 8118.
 
 **Answer:** 8118
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q04|src_kangourou_2024_ecolier_squadre__Q04]]
@@ -194,7 +203,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of yellow beads given 25 green beads*
+*Maximum yellow marbles given 25 green ones*
 
 ![[src_kangourou_2024_ecolier_squadre__prob5.png]]
 
@@ -210,9 +219,15 @@ Number of Aldo and Cristina, sum of 99 difference max
 \end{document}
 ```
 
-> The yellow beads In the figure you can see the beginning of a very long strip, divided into numbered boxes, starting with the first, with the natural numbers. First I put a green card in all boxes numbered with a number divisible by six, then I put a red card in all boxes not already occupied by a green card and numbered with a one, two, three, four, five, six, seven...
+> The yellow marbles  
+> In the figure you see the beginning of a very long strip, divided into 
+> numbered cells, starting from the first, with the natural numbers. First of all I placed a green marble in all the cells numbered with a number divisible by 6; then 
+> I placed a red marble in all the cells not already occupied by a green marble and numbered with a 
+> 1 2 3 4 5 6 7 … 
 > 
-> Number divisible by 4, finally I put a yellow card in all the empty boxes. The green balls are 25. How many yellow balls can be at most? The answer is 0104.
+> number divisible by 4; finally I placed a yellow marble in all the cells still empty. The green marbles 
+> are 25. What is the maximum possible number of yellow marbles? 
+> Answer: 0104.
 
 **Answer:** 0104
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q05|src_kangourou_2024_ecolier_squadre__Q05]]
@@ -244,7 +259,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 
 *sum of the two smallest multiples, sum 2024*
 
-> The multiples I wrote an integer and then double that number, and then triple, quadruple, quintuple, and finally six times. Adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. What's the sum of the first two numbers I wrote (i.e. the two smaller ones)? The answer is 0552.
+> The multiples I wrote an integer and then double that number, and then triple, quadruple, quintuple, and finally six times. Adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. What's the sum of the first two numbers I wrote (i.e. the two smaller ones)? Answer: 0552.
 
 **Answer:** 0552
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q06|src_kangourou_2024_ecolier_squadre__Q06]]
@@ -275,9 +290,9 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of five integers with ternary binding *
+*Minimum sum of five integers with triple constraint *
 
-> Five numbers Five integers greater than zero are all different from each other. However you choose three of the five numbers, their sum is greater than the sum of the other two. What is the smallest possible value for the sum of these five numbers? The answer is 0035.
+> Five numbers Five integers greater than zero are all different from each other. However you choose three of the five numbers, their sum is greater than the sum of the other two. What is the smallest possible value for the sum of these five numbers? Answer: 0035.
 
 **Answer:** 0035
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q07|src_kangourou_2024_ecolier_squadre__Q07]]
@@ -316,7 +331,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 
 ![[src_kangourou_2024_ecolier_squadre__prob8.png]]
 
-> Clock The clock of a waiting room indicates hours and minutes and is updated every minute. Now it's just updated and looks like the figure. How many minutes have passed since the last time the clock was updated and showed an hour of writing by changing only the position of the figures in the figure? The answer is 0962.
+> Clock The clock of a waiting room indicates hours and minutes and is updated every minute. Now it's just updated and looks like the figure. How many minutes have passed since the last time the clock was updated and showed a time that is written by changing only the position of the digits shown in the figure? Answer: 0962.
 
 **Answer:** 0962
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q08|src_kangourou_2024_ecolier_squadre__Q08]]
@@ -350,7 +365,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 
 *Larger number without digit 1, product 20*
 
-> The greatest Rossella wrote every integer that does not contain the number 1 and is such that the product of its digits is 20. What is the greatest number Rossella has ever written? Attention: if the number you found has less than four digits, to answer you have to put the number 0 at the first of the four places, but this should not be considered as the number you found. The answer is 0522.
+> The greatest Rossella wrote every integer that does not contain the digit 1 and is such that the product of its digits is 20. What is the greatest of the numbers written by Rossella? Attention: if the number you found has less than four digits, to answer you have to put the digit 0 in the first of the four places, but this should not be considered as a digit of the number you found. The answer is 0522.
 
 **Answer:** 0522
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q09|src_kangourou_2024_ecolier_squadre__Q09]]
@@ -382,7 +397,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 
 *Grams weight of each item in the box*
 
-> In the box, a metal box contains 500 objects all of the same weight. The weight of the full box is three times the total weight of all items; that of the empty box is 50 kilograms. How many grams does each object weigh? The answer is 0050.
+> In the box, a metal box contains 500 objects all of the same weight. The weight of the full box is three times the total weight of all items; that of the empty box is 50 kilograms. How many grams does each object weigh?
 
 **Answer:** 0050
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q10|src_kangourou_2024_ecolier_squadre__Q10]]
@@ -412,9 +427,9 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 2 digits with product of digits 1 *
+*Two-digit numbers with one-digit digit product*
 
-> Single digit What are the integers of two digits (hence greater than 9 and less than 100) such that the product of their digits is a single digit number? The answer is 0032.
+> Single digit What are the integers of two digits (hence greater than 9 and less than 100) such that the product of their digits is a single digit number? **Answer:** 0032
 
 **Answer:** 0032
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q11|src_kangourou_2024_ecolier_squadre__Q11]]
@@ -444,9 +459,9 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number with remainder equal to the quotient for 45*
+*Maximum number with remainder equal to the quotient by 45*
 
-> Quotient and remainder The number 46, if you divide by 45, gives you a remainder of 1, equal to the quotient. What is the largest integer that, divided by 45, gives a residual equal to the quotient? The answer is 2024. The solution.
+> Quotient and remainder The number 46, if you divide by 45, gives you a remainder of 1, equal to the quotient. What is the largest integer that, divided by 45, gives a remainder equal to the quotient? The answer is 2024. The solution.
 
 **Answer:** 2024
 [[Quesiti/src_kangourou_2024_ecolier_squadre#q12|src_kangourou_2024_ecolier_squadre__Q12]]

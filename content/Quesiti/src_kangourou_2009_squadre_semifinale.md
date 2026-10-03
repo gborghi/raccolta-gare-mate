@@ -30,9 +30,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate results by throwing 6 reds and 5 greens into the box*
+*Distinct outcomes when throwing 6 red and 5 green into a box*
 
-> Each pedal is exactly in a few boxes and there is no more than one in each box;
+> each token lies exactly inside some cell and there is no more than one in each cell;
 
 **Answer:** 42
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q01|src_kangourou_2009_squadre_semifinale__Q01]]
@@ -93,11 +93,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shine the disc in the flag with cross*
+*Radius of the disc in the flag with a cross*
 
 ![[src_kangourou_2009_squadre_semifinale__prob3.png]]
 
-> From any free box you can reach any other free box only by going vertically or horizontally over other free boxes, without overstepping the pedals. What's the maximum number of pawns you can have on the chessboard?
+> from any remaining free square one can reach every other free square, only by moving 
+> vertically or horizontally onto other free squares, without jumping over pieces. 
+> What is the maximum number of pieces that you can place on the board?
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q03|src_kangourou_2009_squadre_semifinale__Q03]]
@@ -129,7 +131,7 @@ level: squadre
 
 ![[src_kangourou_2009_squadre_semifinale__prob4.png]]
 
-> 4. The flag without the circle In the figure (which is not in scale) you see a colored rectangular flag of white and gray whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. A white cross with parallel side arms appears on the flag, the measurements of which are determined as shown in the figure (exactly as in the previous question, but the circle is no longer there). What is the value in square centimetres of the area of the
+> 4. The flag without the circle In the figure (which is not to scale) you see a coloured rectangular flag of white and gray whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. A white cross with parallel side arms appears on the flag, the measurements of which are determined as shown in the figure (exactly as in the previous question, but the circle is no longer there). What is the value in square centimetres of the area of the
 
 **Answer:** 21570
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q04|src_kangourou_2009_squadre_semifinale__Q04]]
@@ -156,9 +158,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum 8x8 chessboard pads with constraints*
+*Maximum pieces on an 8x8 board with constraints*
 
-> 5. The chessboard You have a chessboard 8 × 8 (such as that of a lady or a chess player) and 50 pawns. You want to put the pawns on the chessboard so that:
+> 5. The chessboard You have available an 8 × 8 board (like the one used for checkers or chess) and 50 pieces. You want to arrange the pieces on the board so that:
 
 **Answer:** 21
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q05|src_kangourou_2009_squadre_semifinale__Q05]]
@@ -189,7 +191,7 @@ level: squadre
 
 Nights lived by her mother before Martina.
 
-> Before Martina Martina was born on 9 May last year at noon. His mother was born on May 9, 1983, always at noon. How many nights did Martina's mother live before Martina was born?
+> Before Martina Martina was born on 9 May last year at noon. Her mother was born on May 9, 1983, always at noon. How many nights did Martina's mother live before Martina was born?
 
 **Answer:** 9132
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q06|src_kangourou_2009_squadre_semifinale__Q06]]
@@ -220,7 +222,7 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertical points encountered by the diagonal rectangle 350x210*
+*Vertices encountered by the diagonal of the 350x210 rectangle*
 
 > Millimeter paper On a sheet of millimeter paper, where a square grid of one millimeter of side is present, a rectangle of 350 × 210 millimetres with sides parallel to the lines already on the sheet and vertices coinciding with vertices of the squares is shown. How many vertices of squares does each of the diagonals of this rectangle meet?
 
@@ -317,7 +319,7 @@ Nights lived by her mother before Martina.
 
 *Equal and odd probability with two dice tricked*
 
-> Two identical dice (each with faces numbered 1 to 6, as duse) are tricked: by throwing any one of them, the face with the number 1 can never come out and the probability that one of the remaining faces will come out is proportional to the number shown on the face. So, if we're going to run them, how many chances out of 100 are there that one of the faces will return an even number and the other one will return an odd number?
+> Two identical dice (each with faces numbered 1 to 6, as usual) are loaded: by throwing any one of them, the face with the number 1 can never come out and the probability that one of the remaining faces will come out is proportional to the number shown on the face. When throwing them, how many chances out of 100 are there that one of the faces will show an even number and the other one will show an odd number?
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q10|src_kangourou_2009_squadre_semifinale__Q10]]
@@ -350,13 +352,13 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tips with two and no more than two different digits *
+*Milestone markers with two and no more than two different digits*
 
-> Two cities A and B are connected by a 999-kilometre-long railway. Along the railway, one kilometre apart, there are chips indicating the distance from A and B in the order, of the type
+> Two cities A and B are connected by a 999-kilometre-long railway. Along the railway, one kilometre apart, there are milestone markers indicating the distance from A and B in the order, of the type
 >  
 > [0, 999] (in A),   [1, 998],   [2, 997],   … ,  [998, 1],   [999, 0] (in B).
 >  
-> How many of these chips host two and no more than two different digits?
+> How many of these milestone markers have two and no more than two different digits?
 
 **Answer:** 40
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q11|src_kangourou_2009_squadre_semifinale__Q11]]
@@ -387,9 +389,13 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Name of the telescopic product (1-2/n) *
+*Denominator of the telescoping product (1-2/n)*
 
-> A product of 98 factors Express the value of the following product (1  2/3) × (1  2/4) × (1  2/5) ×...× (1  2/99) × (1  2/100) by a fraction that is numerator and denominator of positive integers and is reduced to the minimum terms. Write the denominator of the fraction.
+> A product of 98 factors 
+> Express the value of the following product 
+> (1 –  2/3) × (1 – 2/4) × (1 – 2/5) ×…× (1 – 2/99) × (1 – 2/100) 
+> as a fraction whose numerator and denominator are positive integers and which is reduced to 
+> lowest terms. Write the denominator of the fraction.
 
 **Answer:** 4950
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q12|src_kangourou_2009_squadre_semifinale__Q12]]
@@ -436,11 +442,11 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in the cell? of the arrow grille*
+Number in the cell ? of the arrow grid*
 
 ![[src_kangourou_2009_squadre_semifinale__prob13.png]]
 
-> The grid shown in the figure is an irregular grid in some of the boxes of which numbers already appear. You must fill out the remaining boxes using only integers from 1 to 9 included (one per box) and complying with all the following rules: - the grey boxes must contain only odd numbers, the white boxes must contain only even numbers; - no number may appear more than once in the same row; - no number may appear more than once in the same column; - in each row and in each column in which the arrow appears, the sum of the numbers starting from the arrow box in the direction indicated by the arrow must be equal to the number indicated in the box before the arrow. What number must you enter in the box indicated by the question mark?
+> The grid shown in the figure is an irregular grid in some of whose cells numbers already appear. You must fill the remaining cells using only integers from 1 to 9 included (one per cell) and complying with all the following rules: - the grey cells must contain only odd numbers, the white cells must contain only even numbers; - no number may appear more than once in the same row; - no number may appear more than once in the same column; - in each row and in each column in which the arrow appears, the sum of the numbers starting from the arrow cell in the direction indicated by the arrow must be equal to the number indicated in the cell before the arrow. What number must you enter in the cell indicated by the question mark?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q13|src_kangourou_2009_squadre_semifinale__Q13]]
@@ -475,9 +481,18 @@ Number in the cell? of the arrow grille*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Faces and shoulders of a square-base antiprism*
+*Faces and edges of an antiprism with square bases*
 
-> An antiprism is a solid with the following properties: • it has two square bases lying on parallel planes; • the center of each base is on the perpendicular leading from the center of the other and each side of each base is parallel to a diagonal of the other; • the side faces are triangles obtained by joining each vertex of each base with the two vertices of the other closest to it. How many faces (including the bases) and how many shoulders does an antiprism have? Write in the order first the number of faces, then the number of beads (for example, if the faces are 6 and the beads 11, write 0611).
+> The antiprism 
+> We call antiprism a solid with the following properties: 
+> • it has two square bases that lie on parallel planes;  
+> • the center of each base lies on the perpendicular drawn from the center of the other and each side of 
+> each base is parallel to a diagonal of the other;  
+> • the lateral faces are triangles obtained by joining each vertex of each base with the 
+> two vertices of the other closest to it.  
+> How many faces (including the bases) and how many edges does an antiprism have? Write in order first the 
+> number of faces, then that of the edges (for example, if the faces were 6 and the edges 11, 
+> write 0611).
 
 **Answer:** 1016
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q14|src_kangourou_2009_squadre_semifinale__Q14]]
@@ -510,12 +525,15 @@ Number in the cell? of the arrow grille*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last figure of 2^2009+3^2009+5^2009+7^2009*
+*Last digit of 2^2009+3^2009+5^2009+7^2009*
 
-> The last digit What is the number 22009 + 32009 + 52009 + 72009?
+> The last digit
+> With which digit does the number 22009  + 32009 + 52009  + 72009 end?
 > 
 >  
-> Kangourou of Mathematics 2009 Kangourou team cup - semi-final Mirabilandia, 9 May 2009
+> Kangourou of Mathematics 2009
+> Kangourou Team Cup - semifinal
+> Mirabilandia,  9 May 2009
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q15|src_kangourou_2009_squadre_semifinale__Q15]]

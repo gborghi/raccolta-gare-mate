@@ -68,9 +68,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late LM rectangle with equal angles of similarity*
+*Side LM of a rectangle from equal angles in similarity*
 
-> The side of Marco's rectangle has drawn an ABCD square of 54 millimeters of side. On the AB side he then located the E point 3 millimeters away from A. Elena drew a KLM rectangle whose side KL is 5 millimeters long and observed that the size of the ACE and KML angles is the same. How many millimeters is the length of the LM side of the rectangle drawn by Elena?
+> The side of the rectangle  
+> Marco drew a square ABCD with a side of 54 millimetres. On side AB he then identified the point E  
+> 3 millimetres away from A. Elena drew a rectangle KLM whose side KL is 5 millimetres long and  
+> observed that the measure of the angles ACE and KML is the same. How many millimetres long is the side LM of the  
+> rectangle drawn by Elena?
 
 **Answer:** 175
 [[Quesiti/src_kangourou_2013_squadre_a#q02|src_kangourou_2013_squadre_a__Q02]]
@@ -112,7 +116,7 @@ level: squadre
 >  
 > 1 – 2 + 3 – 4 + 5 – 6 + 7 – 8 + 9 – 10
 >  
-> You are free to insert all the parentheses you want (even more types, one internally to the other) in the positions you want, as long as you do not get multiplication between the contents of two pairs of parentheses: for example you can write [1  (2 + 3  4)] + ..., but not (1  2 + 3)(  4 + 5  6) +... . In accordance with this rule, what is the highest number you can get as a result of the expression?
+> You are free to insert all the parentheses you want (even more types, one internally to the other) in the positions you want, as long as you do not get multiplication between the contents of two pairs of parentheses: for example you can write [1 – (2 + 3 – 4)] + ..., but not (1 – 2 + 3)( – 4 + 5 – 6) +... . In accordance with this rule, what is the highest number you can get as a result of the expression?
 
 **Answer:** 45
 [[Quesiti/src_kangourou_2013_squadre_a#q03|src_kangourou_2013_squadre_a__Q03]]
@@ -143,9 +147,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of water in two-cubic clessid *
+*Volume of water in the two-cube hourglass*
 
-> How much water? The figure shows you a water wheel made using two identical cubes. The clessidra has water to run continuously for 4 minutes; when all the water is in one of the two cubes, that cube is exactly half full. If water falls for 20 seconds without interruption, the water level in the bottom cube rises exactly 1 centimeter. What is the volume of water in the hydraulic fluid in cubic centimetres?
+> How much water?
+> The figure shows a water hourglass built using two identical cubes. The hourglass
+> has enough water to run continuously for 4 minutes; when the water is all in one of the
+> two cubes, that cube is exactly half full. If the water falls for 20 seconds without
+> interruption, the water level in the lower cube rises by exactly 1 centimeter. What is,
+> in cubic centimeters, the volume of the water in the hourglass?
 
 **Answer:** 6912
 [[Quesiti/src_kangourou_2013_squadre_a#q04|src_kangourou_2013_squadre_a__Q04]]
@@ -178,7 +187,7 @@ level: squadre
 
 *Distance from the base of the pyramid cutting plane*
 
-> Pyramid trunk You have a straight pyramid with a square base 66 centimeters high; you want to cut the pyramid with a plane parallel to its base by breaking it into a smaller pyramid and a pyramid trunk so that the volume of the pyramid trunk is 26 times that of the small pyramid. How far from the base, in centimeters, should the plane used for cutting be?
+> Truncated pyramid You have a straight pyramid with a square base 66 centimeters high; you want to cut the pyramid with a plane parallel to its base by breaking it into a smaller pyramid and a truncated pyramid so that the volume of the truncated pyramid is 26 times that of the small pyramid. How far from the base, in centimeters, should the plane used for cutting be?
 
 **Answer:** 44
 [[Quesiti/src_kangourou_2013_squadre_a#q05|src_kangourou_2013_squadre_a__Q05]]
@@ -210,9 +219,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves to remove all the pins*
+*Minimum number of moves to remove all the counters*
 
-> Piles of pedals Marco has formed two piles of pedals on the table, the first of 75 and the second of 81, and wants to do the following solo. At each turn you can only do one of the following: (a) remove 4 pins from the first pile; (b) remove 5 pins from the second pile; (c) remove one pin from each of the two piles. What is the minimum number of moves by which Mark can remove all the pads from the table? Write [0000] if you feel that Marco cannot finish the game.
+> Piles of counters     
+> Marco has formed two piles of counters on the table, the first with 75 counters and the second with 81, and he wants to play the 
+> following solitaire. On each turn he can make one and only one of the following moves: a) remove 4 counters from the 
+> first pile; b) remove 5 counters from the second pile; c) remove one counter from each of the two piles. 
+> What is the minimum number of moves by making which Marco can remove all the counters from the table? 
+> Write [0000] if you believe that Marco cannot finish the game.
 
 **Answer:** 41
 [[Quesiti/src_kangourou_2013_squadre_a#q06|src_kangourou_2013_squadre_a__Q06]]
@@ -242,9 +256,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers on the sides of the cube, vertices=1001*
+*sum of numbers on the faces of the cube, vertices=1001*
 
-> The numbered cube A positive integer is written on each side of a cube; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers that are written on the faces?
+> The numbered cube A positive integer is written on each face of a cube; each vertex of the cube is assigned the number that is the product of the numbers written on the faces that have that vertex in common. The sum of all the numbers assigned to the vertices is 1001. What is the sum of all the numbers that are written on the faces?
 
 **Answer:** 31
 [[Quesiti/src_kangourou_2013_squadre_a#q07|src_kangourou_2013_squadre_a__Q07]]
@@ -276,7 +290,7 @@ level: squadre
 
 *Sum of 8x8 chess numbers with boundary differences*
 
-> The sum In each box of a chessboard 8 × 8 is written an integer; the numbers written in two boxes that have a common side always differ by 1. On the chessboard, both number 3 and number 17 appear. What is the sum of all the numbers that appear on the chessboard?
+> The sum In each cell of an 8 × 8 chessboard an integer is written; the numbers written in two cells that have a common side always differ by 1. On the chessboard, both number 3 and number 17 appear. What is the sum of all the numbers that appear on the chessboard?
 
 **Answer:** 640
 [[Quesiti/src_kangourou_2013_squadre_a#q08|src_kangourou_2013_squadre_a__Q08]]
@@ -306,7 +320,7 @@ level: squadre
 
 *Three-digit numbers with A+B other than C*
 
-> +on all How many three-digit (significant) ABC numbers are such that A + B is different from C?
+> How many three-digit (with nonzero leading digit) ABC numbers are such that A + B is different from C?
 
 **Answer:** 855
 [[Quesiti/src_kangourou_2013_squadre_a#q09|src_kangourou_2013_squadre_a__Q09]]
@@ -347,7 +361,7 @@ level: squadre
 
 ![[src_kangourou_2013_squadre_a__prob10.png]]
 
-> The figure suggests the pattern of a square park. On its sides are planted trees equidistant, the same number of trees on all sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small square, indicated in gray, whose area is 1/365 of the area of the square. How many trees are along the entire perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
+> The figure suggests the pattern of a square park. On its sides are planted trees equidistant, the same number of trees on all sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small square (plaza), indicated in gray, whose area is 1/365 of the area of the square. How many trees are along the entire perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
 
 **Answer:** 56
 [[Quesiti/src_kangourou_2013_squadre_a#q10|src_kangourou_2013_squadre_a__Q10]]
@@ -387,7 +401,7 @@ level: squadre
 >  
 > 123456789101112...1920
 >  
-> Now he wants to erase exactly 20 of the numbers written and get a new number by adding the remaining ones (without changing the order). What are the first four digits of the greatest number you can get?
+> Now she wants to erase exactly 20 of the digits written and get a new number by placing the remaining ones (without changing the order). What are the first four digits of the greatest number you can get?
 
 **Answer:** 9561
 [[Quesiti/src_kangourou_2013_squadre_a#q11|src_kangourou_2013_squadre_a__Q11]]
@@ -418,7 +432,7 @@ level: squadre
 
 *Measure the angle of BAD in the isosceles triangle section*
 
-> The segmented triangle Marco is able to segment an isosceles triangle ABC (AB=AC) along the segment connecting the vertex A to a point D on the opposite side, so that the angle of the sides AC and AD is 33o and the triangle ABD is isosceles with AB = BD. What is the degree of the BAD angle?
+> The segmented triangle Marco is able to segment an isosceles triangle ABC (AB=AC) along the segment connecting the vertex A to a point D on the opposite side, so that the angle of the sides AC and AD is 33° and the triangle ABD is isosceles with AB = BD. What is the measure, in degrees, of the BAD angle?
 
 **Answer:** 71
 [[Quesiti/src_kangourou_2013_squadre_a#q12|src_kangourou_2013_squadre_a__Q12]]
@@ -458,7 +472,7 @@ level: squadre
 
 ![[src_kangourou_2013_squadre_a__prob13.png]]
 
-> The magic discs. Look at the figure. Gianna wants to insert, one in each box, all the digits from 1 to 9 in the available boxes so that the sum of the digits inserted inside each of the disks is always the same and is the smallest possible, and that also the number obtained by approaching the 9 digits written is the smallest possible. What are the first four digits entered from the left?
+> The magic discs. Look at the figure. Gianna wants to insert, one in each box, all the digits from 1 to 9 in the available boxes so that the sum of the digits inserted inside each of the disks is always the same and is the smallest possible, and that also the number obtained by juxtaposing the 9 digits written is the smallest possible. What are the first four digits inserted from the left?
 
 **Answer:** 8371
 [[Quesiti/src_kangourou_2013_squadre_a#q13|src_kangourou_2013_squadre_a__Q13]]
@@ -488,9 +502,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at 126th place in the sequence of single digits *
+*Number in the 126th position of the sequence of only even digits*
 
-> Only even digits From sequence 1, 2, 3, 4, 5, 6, of positive integers, eliminate all and only those to write which need to use at least one odd digit. You have two, four, six, eight, twenty, twenty-two. Which number is 126th in this new sequence?
+> Only even digits  
+> From the sequence 1, 2, 3, 4, 5 , 6, … of positive integers, eliminate all and only those for whose writing it is 
+> necessary to use at least one odd digit. There remain, in order: 2, 4, 6, 8, 20, 22, … . Which 
+> number occupies the 126th position in this new sequence?
 
 **Answer:** 2002
 [[Quesiti/src_kangourou_2013_squadre_a#q14|src_kangourou_2013_squadre_a__Q14]]

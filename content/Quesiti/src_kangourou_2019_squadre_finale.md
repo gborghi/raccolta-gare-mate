@@ -34,7 +34,7 @@ level: squadre
 
 *Result of the fractional telescopic product*
 
-> Lexpression What is the result of the following expression 6/3 × 9/6 × 12/9 × ... × (3n + 3)/(3n) × ... × 2019/2016 ?
+> What is the result of the following expression 6/3 × 9/6 × 12/9 × ... × (3n + 3)/(3n) × ... × 2019/2016 ?
 
 **Answer:** 0673
 [[Quesiti/src_kangourou_2019_squadre_finale#q01|src_kangourou_2019_squadre_finale__Q01]]
@@ -70,11 +70,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alpha angle between the equally spaced lists*
+*Alpha angle between equally spaced strips*
 
 ![[src_kangourou_2019_squadre_finale__prob2.png]]
 
-> The lists shown in the figure to the right show a lining of wooden lists, all of the same thickness; 12 of these are moved to one end (symmetrically as the other figure suggests) so that they can be glued to the center of symmetry of the lining, distributing them so that the measurement of the angle between each list and the one following it (clockwise) is constant. How many degrees does the angle denoted by α measure?
+> The figure to the right shows a frame made of wooden strips, all of the same thickness; 12 of these are bevelled at one end (symmetrically as the other figure suggests) so that they can be glued to the center of symmetry of the frame, distributing them so that the measurement of the angle between each strip and the one following it (clockwise) is constant. How many degrees does the angle denoted by α measure?
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2019_squadre_finale#q02|src_kangourou_2019_squadre_finale__Q02]]
@@ -106,7 +106,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lock code with the entries *
+*Lock code from the directions*
 
 > The lock The code for opening a lock is made up of four different digits. Compared to that code, each of the following four numbers 6427 4271 6412 2671 has two digits in the correct position, one in the incorrect position and one not present. What's the code?
 
@@ -154,7 +154,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Routes from A to B on the cube shafts*
+*Paths from A to B along the edges of the cube*
 
 ![[src_kangourou_2019_squadre_finale__prob4.png]]
 
@@ -173,7 +173,9 @@ level: squadre
 \end{document}
 ```
 
-> From A to B, look at the cube in the figure. You want to go from A to B by moving along the ends of the cube without ever going back over the same summit. How many different ways can you do that?
+> From A to B 
+> Look at the cube in the figure. You want to go from A to B by moving along the edges of the 
+> cube without ever passing through the same vertex twice. In how many different ways can you do this?
 
 **Answer:** 0016
 [[Quesiti/src_kangourou_2019_squadre_finale#q04|src_kangourou_2019_squadre_finale__Q04]]
@@ -202,7 +204,7 @@ level: squadre
 
 *How many factors 55 to get 5^55*
 
-> How many factors of 55 do you have to multiply to get a result of 5 high at 55 ?
+> How many factors of 55 do you have to multiply to get a result of 5 to the power of 55 ?
 
 **Answer:** 0625
 [[Quesiti/src_kangourou_2019_squadre_finale#q05|src_kangourou_2019_squadre_finale__Q05]]
@@ -233,9 +235,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Jumps out of the house after 2019 kangaroo jumps*
+*Jumps out of the house after 2019 jumps kangaroo jumps*
 
-> The kangaroo One day a kangaroo makes a northward jump out of his house and returns home with a southward jump; the next day he makes two northward jumps and returns home with two southward jumps; the next day he again makes three northward jumps and returns home with three southward jumps, and so on for a few days. Right now, counting all the jumps he's made since day one, he's made 2019. How many jumps is it from home?
+> The kangaroo One day a kangaroo makes a northward jump out of his house and returns home with a southward jump; the next day he makes two northward jumps and returns home with two southward jumps; the next day he again makes three northward jumps and returns home with three southward jumps, and so on for a few days. Right now, counting all the jumps he's made since day one, he's made 2019. How many jumps away from home is he?
 
 **Answer:** 0039
 [[Quesiti/src_kangourou_2019_squadre_finale#q06|src_kangourou_2019_squadre_finale__Q06]]
@@ -271,7 +273,7 @@ level: squadre
 
 *Probability of bags containing the initial *
 
-> Ada and Bice Ada and Bice have two bags of identical content: one bag for each of the five colors A, B, C, D and E. Ada randomly picks a pie from her bag and inserts it into Bice's, immediately after Bice picks a pie randomly from her bag and inserts it into Ada's. Now the two bags have five bags each again. What is the probability that the contents of the bags are equivalent to the original? (Write the probability as a fraction of integers p/q reduced to minimum terms and write in the order p and q; for example, if the answer was 7/9, write [0709].)
+> Ada and Bice Ada and Bice have two bags of identical content: one marble for each of the five colors A, B, C, D and E. Ada randomly picks a marble from her bag and inserts it into Bice's, immediately after Bice picks a marble randomly from her bag and inserts it into Ada's. Now the two bags have five marbles each again. What is the probability that the contents of the bags are equivalent to the original? (Write the probability as a fraction of integers p/q reduced to minimum terms and write in the order p and q; for example, if the answer was 7/9, write [0709].)
 >  
 > α
 
@@ -302,9 +304,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of prime factors of 12345*
+*Sum of prime factors of 12345*
 
-> First factors One of the first factors of 12345 is a number greater than 500. What is the sum of all its prime factors?
+> Prime factors One of the prime factors of 12345 is a number greater than 500. What is the sum of all its prime factors?
 
 **Answer:** 0831
 [[Quesiti/src_kangourou_2019_squadre_finale#q08|src_kangourou_2019_squadre_finale__Q08]]
@@ -340,7 +342,7 @@ level: squadre
 
 ![[src_kangourou_2019_squadre_finale__prob9.png]]
 
-> The folded circle A circular segment of a circle of radius 9 is folded inside the circle so that the arc passes through the centre O of the circumference as shown in the figure. Which integer is closest to the length of the outline of the resulting figure that is highlighted continuously?
+> The folded circle A circular segment of a circle of radius 9 is folded inside the circle so that the arc passes through the centre O of the circumference as shown in the figure. Which integer is closest to the length of the outline of the resulting figure that is highlighted with a solid line?
 
 **Answer:** 0053
 [[Quesiti/src_kangourou_2019_squadre_finale#q09|src_kangourou_2019_squadre_finale__Q09]]
@@ -457,7 +459,7 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum diagonals for irrigation of 4x4 mesh *
+*Minimum diagonals to stiffen a 4x4 grid *
 
 ![[src_kangourou_2019_squadre_finale__prob12.png]]
 
@@ -479,7 +481,7 @@ Minimum number of women in parliament 300 MPs
 \end{document}
 ```
 
-> The lattice A lattice is an assembly of bars articulated at their junction points. When its threads are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 × 4 square mesh mesh that contains none to make it rigid?
+> The lattice A lattice is an assembly of bars articulated at their junction points. When its cells are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 × 4 square mesh mesh that contains none to make it rigid?
 
 **Answer:** 0007
 [[Quesiti/src_kangourou_2019_squadre_finale#q12|src_kangourou_2019_squadre_finale__Q12]]
@@ -539,9 +541,9 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For quantities n being n-2019 and n+6000 squares*
+*For how many n are both n-2019 and n+6000 squares*
 
-> Perfect squares For how many positive integers n happens that both n  2019 and n + 6000 are perfect squares?
+> Perfect squares For how many positive integers n does it happen that both n - 2019 and n + 6000 are perfect squares?
 
 **Answer:** 0007
 [[Quesiti/src_kangourou_2019_squadre_finale#q14|src_kangourou_2019_squadre_finale__Q14]]
@@ -597,9 +599,9 @@ Minimum number of women in parliament 300 MPs
 
 ![[src_kangourou_2019_squadre_finale__prob15.png]]
 
-> Alice Alice composes bracelets of black and white beads, which begin and end with stoppers, following this rule: think of a number, divide it by two and if she doesn't get the remainder she inserts a black bead, if she gets the remainder she inserts a white bead; then she repeats the operation on the quotient she obtained with the previous division and goes on until she gets as quozient 1: at this point she inserts a white bead (and adds the closing stopper). For example, down here you can see the result on the left if you think 5, and the result on the right if you think 6:
+> Alice Alice composes bracelets of black and white beads, which begin and end with stoppers, following this rule: think of a number, divide it by two and if she gets no remainder she inserts a black bead, if she gets a remainder she inserts a white bead; then she repeats the operation on the quotient she obtained with the previous division and goes on until she gets as quotient 1: at this point she inserts a white bead (and adds the closing stopper). For example, down here you can see the result on the left if you think 5, and the result on the right if you think 6:
 >  
-> (the non-circular shape on the left represents the stop he put on before starting work, the one on the right represents the stop he put on at the end). Alice has a random number generator that she can ask to provide numbers with a predetermined number of digits (significant). If you want to be sure you can make a bracelet with at least 20 beads, what is the minimum number of digits you need? O
+> (the non-circular shape on the left represents the stopper she put on before starting work, the one on the right represents the stopper she put on at the end). Alice has a random number generator that she can ask to provide numbers with a predetermined number of digits (significant). If she wants to be sure she can make a bracelet with at least 20 beads, what is the minimum number of digits she must ask for? O
 > 
 > 1
 >  

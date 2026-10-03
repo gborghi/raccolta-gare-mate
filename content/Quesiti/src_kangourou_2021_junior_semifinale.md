@@ -44,9 +44,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cross the bridge at night with a stack, minimum time*
+*Cross the bridge at night with a flashlight, minimum time*
 
-> (2 points) On their return from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a stack is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed? A) 24
+> (2 points) On their return from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a flashlight is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed? A) 24
 >  
 > B) 27
 >  
@@ -185,9 +185,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the sum 2+5+8+...+2021*
+*Units digit of the sum 2+5+8+...+2021*
 
-> (4 points) What is the value of the units of the sum 2 + 5 + 8 + ... + 2021? A) 0
+> (4 points) What is the units digit of the sum 2 + 5 + 8 + ... + 2021? A) 0
 >  
 > B) 1
 >  
@@ -282,7 +282,7 @@ level: kangourou
 
 *Sub-sets of S consecutively a,b,c with a perfect square sum*
 
-> (4 points) Consider the set S = {1, 2, 3, ..., 29, 30}. Denotes with K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, you have b = a + 1 and you have c = b + 1? A) 0
+> (4 points) Consider the set S = {1, 2, 3, ..., 29, 30}. Denote by K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, b = a + 1 and c = b + 1? A) 0
 >  
 > B) 1
 >  
@@ -442,19 +442,26 @@ level: kangourou
 
 *sum of diameters impossible*
 
-> (6 points) Using high-precision tools, a single square of 10 cm on the side can be cut into circles such that, when their diameters are added together in centimetres, they are obtained. j)  15. h)  10 π.
+> (6 points) Using high-precision instruments, from a single square with a side of 10 cm one can
+> cut out some circles such that, adding their diameters in centimetres, one obtains
+> i)  20.
+>  j)  15.
+>     h)  10 π.
 >  
-> k)  2021. Which of the foregoing claims is false? A) La i).
+> k)  2021.
+> Which of the previous statements is false?
+> A) The i).
 >  
-> B) La j).
+> B) The j).
 >  
-> C) La h).
+> C) The h).
 >  
-> D) La k). E) None of them.
+> D) The k).
+>            E) None.
 >  
 >  
 >  
-> Open-ended questions
+> Open-answer questions
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_junior_semifinale#q09|src_kangourou_2021_junior_semifinale__Q09]]
@@ -485,9 +492,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pizza chips eaten between 2/3 and 3/4 *
+*Slices of pizza eaten between 2/3 and 3/4*
 
-> (4 points) A pizza was cut into less than 10 slices all of the same size. Mark ate some of them: more but less than the whole pizza. How many slices did you eat?
+> (4 points) A pizza was cut into fewer than 10 slices all of the same size. Marco ate 
+> some of them: in total more than 
+> 
+>  but less than 
+> 
+>  of the whole pizza. How many slices did he eat?
 
 **Answer:** 0005
 [[Quesiti/src_kangourou_2021_junior_semifinale#q10|src_kangourou_2021_junior_semifinale__Q10]]
@@ -560,11 +572,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Forwarding of the P-point of the beam if half forward 20 cm*
+*Advancement of point P of the track if the vehicle advances 20cm*
 
 ![[src_kangourou_2021_junior_semifinale__prob12.png]]
 
-> (5 points) The figure outlines the rim of a half-circle whose wheels have a radius of 1/π meters with a centre distance of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
+> (5 points) The figure schematizes the side 
+> of a tracked vehicle whose wheels have a radius 
+> of 1/π meters with a distance between centers of 3 meters. The 
+> lower part of the track is in contact with a 
+> regular flat ground and P denotes the point at the middle 
+> of the currently upper part of the track. If the vehicle advances by 20 centimeters, by how many centimeters 
+> does point P advance, relative to the ground?
 
 **Answer:** 0040
 [[Quesiti/src_kangourou_2021_junior_semifinale#q12|src_kangourou_2021_junior_semifinale__Q12]]
@@ -652,7 +670,7 @@ level: kangourou
 \end{document}
 ```
 
-> (6 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. When choosing the appropriate room to leave, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
+> (6 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By choosing appropriately the room to start from, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
 
 **Answer:** 9901
 [[Quesiti/src_kangourou_2021_junior_semifinale#q13|src_kangourou_2021_junior_semifinale__Q13]]
@@ -723,7 +741,7 @@ level: kangourou
 
 > (6 points) Using only the digits 0 and 1, Thomas constructs an alignment of more than five digits starting with 1001 and satisfying the following conditions:
 >  
-> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Please dial 9999 if you believe they are not uniquely determined.
+> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Write 9999 if you believe they are not uniquely determined.
 
 **Answer:** 1001
 [[Quesiti/src_kangourou_2021_junior_semifinale#q15|src_kangourou_2021_junior_semifinale__Q15]]
@@ -751,9 +769,10 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining by dividing by 5 the product of the 5-digit numbers*
+*Remainder when dividing by 5 the product of the 5-digit numbers*
 
-> (7 points) If you multiply all positive integers by 5 that are not divisible by 5 and divide by 5 the result, what do you get?
+> (7 points) If you multiply together all the positive integers with 5 digits that are not divisible by 5 and divide
+> the result by 5, what remainder do you get?
 
 **Answer:** 0001
 [[Quesiti/src_kangourou_2021_junior_semifinale#q16|src_kangourou_2021_junior_semifinale__Q16]]
@@ -788,7 +807,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of prime of the form (m^2+m+1)/n*
+*How many primes of the form (m^2+m+1)/n*
 
 > (7 points) What are the prime numbers of the form
 > 
@@ -852,7 +871,7 @@ level: kangourou
 
 ![[src_kangourou_2021_junior_semifinale__prob18.png]]
 
-> (8 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the semicircles delimiting the angle: M and N are the two tangent points to the horizontal semicircle. The lines for A and B are parallel and tangent to the small and the large circumference respectively. The radius of the small circumference is √12. If AM is long 3, how long is AB?
+> (8 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the rays delimiting the angle: M and N are the two tangent points to the horizontal ray. The lines for A and B are parallel and tangent to the small and the large circle respectively. The radius of the small circle is √12. If AM is long 3, how long is AB?
 >  
 > Answers
 >  

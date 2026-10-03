@@ -31,9 +31,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n with n-2012 and n+2012 both in 4 digits*
+*How many n such that n-2012 and n+2012 both in 4 digits*
 
-> How many positive integers n are such that both n  2012 and n + 2012 are four-digit numbers?
+> How many positive integers n are such that both n - 2012 and n + 2012 are four-digit numbers?
 
 **Answer:** 4976
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q01|src_kangourou_2012_squadre_semifinale__Q01]]
@@ -62,9 +62,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square of the AC catheter in the rectangular triangle*
+*Square of the leg AC in the right triangle*
 
-> The right triangle the ABC triangle is a right triangle in A. The circumference with center in A and passing through B intersects the hypotenuse BC at point D: the BD segment is 20 cm long and the DC segment is 16 cm long. How much is the square of the length of the AC catheter?
+> The right triangle the ABC triangle is a right triangle in A. The circumference with center in A and passing through B intersects the hypotenuse BC at point D: the BD segment is 20 cm long and the DC segment is 16 cm long. How much is the square of the length of the leg AC?
 
 **Answer:** 936
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q02|src_kangourou_2012_squadre_semifinale__Q02]]
@@ -169,7 +169,7 @@ level: squadre
 
 *Number written the first time given difference 14789*
 
-> By adding two 1, Stephen wrote a number and then added a 1 before his digits and another 1 after his digits (for example, if he had written 17 the first time, he would have written 1171). If you make the difference between the number written the second time and the number written the first time, you get 14789. What number did you write the first time?
+> By adding two "1"s, Stephen wrote a number and then added a 1 before his digits and another 1 after his digits (for example, if he had written 17 the first time, he would have written 1171). If you make the difference between the number written the second time and the number written the first time, you get 14789. What number did he write the first time?
 
 **Answer:** 532
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q04|src_kangourou_2012_squadre_semifinale__Q04]]
@@ -200,7 +200,7 @@ level: squadre
 
 *First four digits of the sum of numbers with digits 1-4*
 
-> A very long sum Sum all the four-digit numbers that can be formed using only the numbers 1, 2, 3 and 4, even repeated. What are the first four digits of the result you get?
+> A very long sum Sum all the four-digit numbers that can be formed using only the digits 1, 2, 3 and 4, even repeated. What are the first four digits of the result you get?
 
 **Answer:** 7110
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q05|src_kangourou_2012_squadre_semifinale__Q05]]
@@ -230,9 +230,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular dimensions cut into 15 equal squares*
+*Dimensions of a rectangle cut into 15 equal squares*
 
-> Rectangles and squares A rectangle of 112 cm perimeter is cut into three parallel strips and each of these strips is cut into five parts: thus, without any excesses, fifteen squares are all equal between them. What are the dimensions (in centimeters) of the rectangle? (Write down below the major followed by the minor.)
+> Rectangles and squares A rectangle of 112 cm perimeter is cut into three parallel strips and each of these strips is cut into five parts: thus, without any excesses, fifteen squares are all equal between them. What are the dimensions (in centimeters) of the rectangle? (Write down below the larger followed by the smaller.)
 
 **Answer:** 3521
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q06|src_kangourou_2012_squadre_semifinale__Q06]]
@@ -264,7 +264,11 @@ level: squadre
 
 *00*
 
-> The clock A traditional electric clock has a 12-hour dial and the hands, one for hours and the other for minutes, both move at a rate of one degree (degree 0 corresponds to the radius that connects the hands to the point marked with 12). Right now, the bidding was made at 8:00. In how many seconds for the first time the two lancetes will be overlapping?
+> The clock
+> A traditional electric clock has a 12-hour dial and the hands, one for the hours and the other for the
+> minutes, both move in jumps of one degree (degree 0 corresponds to the radius connecting the
+> pivot of the hands to the point marked 12). At this instant the hands have just jumped to
+> 8:00. In how many seconds will the two hands be overlapping for the first time?
 
 **Answer:** 2610
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q07|src_kangourou_2012_squadre_semifinale__Q07]]
@@ -295,9 +299,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed needed in Giulia in the remaining km*
+*Speed needed by Giulia in the remaining km*
 
-> Giulia wants to ride a bicycle from a friend who is 18 km away from her. They agreed on the time of the visit by telephone, assuming that Julia would take an hour to make the trip. The first 5 km of the road, however, are in a slight climb and, after having traveled them, Giulia realizes that she has pedalled at an average speed of only 10 km/h. If you do not want to be late and if you want to keep a constant speed for the remaining kilometres, how many kilometres per hour must this speed be?
+> Giulia wants to ride her bicycle to a friend's house who is 18 km away from her. They agreed on the time of the visit by telephone, assuming that Julia would take an hour to make the trip. The first 5 km of the road, however, are in a slight climb and, after having traveled them, Giulia realizes that she has pedalled at an average speed of only 10 km/h. If she does not want to be late and if she wants to keep a constant speed for the remaining kilometres, how many kilometres per hour must this speed be?
 
 **Answer:** 26
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q08|src_kangourou_2012_squadre_semifinale__Q08]]
@@ -326,9 +330,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangles with vertices of the cube*
+*Right triangles with vertices of the cube*
 
-> Cube and triangles Assigned a cube, how many different rectangular triangles can be identified that have as vertices three of the vertices of the cube?
+> Cube and triangles Assigned a cube, how many different right triangles can be identified that have as vertices three of the vertices of the cube?
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q09|src_kangourou_2012_squadre_semifinale__Q09]]
@@ -357,7 +361,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 200 to 999 with unit number *decine=hundreds*
+*Numbers 200 to 999 with units digit*tens digit=hundreds*
 
 > How many integers between 200 and 999 are such that, multiplying the number of units by the number of tens, we get the number of hundreds?
 
@@ -388,9 +392,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much did Carlo spend (average friends 82)
+How much did Charles spend (average friends 82)
 
-> Shopping Carlo and eight of his friends bought some items. Charles' friends spent an average of 82 euros each; Charles spent an average of 64 euros more than Charles and his eight friends. How much did Carlo spend?
+> Shopping Carlo and eight of his friends bought some items. Charles' friends spent an average of 82 euros each; Charles spent 64 euros more than the average of what Charles and his eight friends spent. How much did Charles spend?
 
 **Answer:** 154
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q11|src_kangourou_2012_squadre_semifinale__Q11]]
@@ -422,7 +426,7 @@ How much did Carlo spend (average friends 82)
 
 *Visitors after Paul by number of digits *
 
-> A very visited park At the entrance to a park there is a turntable that counts the entrances, since its foundation. After Paul's entrance, the turret marks 31879564, which is a number made up of numbers all different from each other: the next time the number of entrances will still be made up of numbers all different from each other, how many visitors will have entered after Paul?
+> A very visited park At the entrance to a park there is a turnstile that counts the entrances, since its foundation. After Paul's entrance, the turnstile reads 31879564, which is a number made up of digits all different from each other: the next time the number of entrances will still be made up of digits all different from each other, how many visitors will have entered after Paul?
 
 **Answer:** 38
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q12|src_kangourou_2012_squadre_semifinale__Q12]]
@@ -452,9 +456,9 @@ How much did Carlo spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Recovery given product 71685 with figures exchanged*
+*Revenue given product 71685 with digits exchanged*
 
-> Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the number of tens is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
+> Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the tens digit is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
 
 **Answer:** 531
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q13|src_kangourou_2012_squadre_semifinale__Q13]]
@@ -483,9 +487,9 @@ How much did Carlo spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inter n with the same remainder divided by 1059,1417,2312*
+*Integer n with the same remainder dividing 1059,1417,2312*
 
-> If you divide 1059, 1417 and 2312 by a certain integer greater than 1, you always get the same remainder. What's the number n?
+> If you divide 1059, 1417 and 2312 by a certain integer n greater than 1, you always get the same remainder. What's the number n?
 
 **Answer:** 179
 [[Quesiti/src_kangourou_2012_squadre_semifinale#q14|src_kangourou_2012_squadre_semifinale__Q14]]

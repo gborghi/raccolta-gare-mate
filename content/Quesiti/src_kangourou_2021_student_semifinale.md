@@ -43,7 +43,7 @@ level: kangourou
 
 *one single true statement in euro of Lisa*
 
-> (2 points) If any of the following three statements
+> (2 points) If of the following three statements
 >  
 > (a) Lisa has more than 2021 euros (b) Lisa has less than 2021 euros (c) Lisa has at least 1 euro one and only one is true, which of the following claims is definitely false? A) Lisa has 2021 euros.
 >  
@@ -136,7 +136,7 @@ level: kangourou
 
 *Sequential sub-sets with perfect square sum*
 
-> Consider the set S = {1, 2, 3, ..., 29, 30}. Denotes with K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, you have b = a + 1 and you have c = b + 1? A) 0
+> Consider the set S = {1, 2, 3, ..., 29, 30}. Denote by K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, b = a + 1 and c = b + 1? A) 0
 >  
 > B) 1
 >  
@@ -188,13 +188,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential round coronal areas of regular polygons*
+*Difference of areas of circular annuli of regular polygons*
 
-> (4 points) We denote with an area of the circular crown bounded by two circumferences, inscribed and bounded by a regular polygon of n sides, each of length 1. What is the difference between A2021 − A2020? A)   B)  
+> (4 points) Let An denote the area of the circular annulus bounded by the two circles,
+> inscribed in and circumscribed about a regular polygon with n sides, each of length 1.
+> What is the value of the difference A2021 − A2020?
+> A) 
+> 
+>    
+> B) 
+> 
 >  
-> C)  
+> C) 
+> 
 >  
-> D)  
+> D) 
+> 
 >  
 > E) 0
 
@@ -288,7 +297,7 @@ The following table shows the results of the calculations:
 
 *Solution of the equation in (x^3-76) given x=5*
 
-> (4 points) Knowing that, for a suitable set of real numbers a, b, c, the equation a(x3  76)8 + b(x3  76)4 + c = 0 admits the solution x = 5, which of the following numbers definitely solves the same equation? A) 125
+> (4 points) Knowing that, for a suitable set of real numbers a, b, c, the equation a(x3 – 76)8 + b(x3 – 76)4 + c = 0 admits the solution x = 5, which of the following numbers definitely solves the same equation? A) 125
 >  
 > B) – 5
 >  
@@ -340,15 +349,22 @@ The following table shows the results of the calculations:
 
 *sum of diameters impossible*
 
-> (5 points) Using high-precision tools, a single square of 10 cm on the side can be cut into circles such that, added together, their diameters in centimetres are obtained. j)  15. h)  10 π.
+> (5 points) Using high-precision instruments, from a single square with a side of 10 cm one can
+> cut out some circles such that, adding their diameters in centimetres, one obtains
+> i)  20.  
+> j)  15.  
+> h)  10 π. 
 >  
-> k)  2021. Which of the foregoing claims is false? A) La i).
+> k)  2021. 
+> Which of the previous statements is false? 
+> A) The i). 
 >  
-> B) La j).
+> B) The j). 
 >  
-> C) La h).
+> C) The h). 
 >  
-> D) La k). E) None of them.
+> D) The k). 
+>            E) None.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_student_semifinale#q07|src_kangourou_2021_student_semifinale__Q07]]
@@ -438,7 +454,7 @@ The following table shows the results of the calculations:
 
 *Minimum L of the 1xL rectangle divided by area constraints*
 
-> (6 points) A rectangle of dimension 1×L is divided into four rectangles by two segments parallel to each side. Of these four rectangles, one has area at least 2 and each of the others has area at least 1. What's the smallest possible value for L? A) 5 B) 6 C) 3√3 + 1 D) 4√3 E) A value different from the previous ones
+> (6 points) A rectangle of dimension 1×L is divided into four rectangles by two segments parallel to one of the sides. Of these four rectangles, one has area at least 2 and each of the others has area at least 1. What's the smallest possible value for L? A) 5 B) 6 C) 3√3 + 1 D) 4√3 E) A value different from the previous ones
 >  
 >  
 >  
@@ -476,11 +492,17 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Forwarding of the P-point of the groove*
+*Advancement of point P of the track*
 
 ![[src_kangourou_2021_student_semifinale__prob10.png]]
 
-> (4 points) The figure sketches the rim of a half-circle whose wheels have a radius of 1/π meters with a distance from the centers of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
+> (4 points) The figure schematizes the side of a tracked vehicle whose wheels have a radius
+> of 1/π meters with a distance between centers of 3 meters. The
+> lower part of the track is in contact with a
+> regular flat ground and P denotes the point at the middle
+> of the currently upper part of the track. If the
+> vehicle advances by 20 centimeters, by how many
+> centimeters does point P advance, relative to the ground?
 
 **Answer:** 0040
 [[Quesiti/src_kangourou_2021_student_semifinale#q10|src_kangourou_2021_student_semifinale__Q10]]
@@ -556,7 +578,7 @@ The following table shows the results of the calculations:
 
 > (5 points) Using only the digits 0 and 1, Thomas constructs an alignment of more than five digits starting with 1001 and satisfying the following conditions:
 >  
-> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Please dial 9999 if you believe they are not uniquely determined.
+> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Write 9999 if you believe they are not uniquely determined.
 
 **Answer:** 1001
 [[Quesiti/src_kangourou_2021_student_semifinale#q12|src_kangourou_2021_student_semifinale__Q12]]
@@ -586,7 +608,7 @@ The following table shows the results of the calculations:
 
 *Remaining by dividing by 5 the product of the 5-digit numbers*
 
-> (6 points) If you multiply all the positive integers of 5 digits that are not divisible by 5 and divide by 5 the result, what do you get?
+> (6 points) If you multiply all the positive integers of 5 digits that are not divisible by 5 and divide by 5 the result, what remainder do you get?
 
 **Answer:** 0001
 [[Quesiti/src_kangourou_2021_student_semifinale#q13|src_kangourou_2021_student_semifinale__Q13]]
@@ -625,7 +647,7 @@ The following table shows the results of the calculations:
 
 *Maximum gap between the two balances with 2021 items*
 
-> (6 points) We have two accuracy balances that give the weight in grams of the objects placed on the respective plates: we are going to zero them. We align 2021 objects in order of non-increasing weight and place one object at a time, starting from the first, on one of the two balances in accordance with the following rules: • one must never remove from either of the two balances an object previously placed; • at each step, if the weight indicated by the two balances is the same one can place the turn object on either of the two, otherwise it must be placed on the balance indicating the lesser weight. If each object weighs an integer (positive) of grams and their total weight is 4040 grams, when we have placed all 2021 objects, what is the biggest difference that could arise between the two indicated weights?
+> (6 points) We have two precision balances that give the weight in grams of the objects placed on the respective plates: we zero them. We align 2021 objects in order of non-increasing weight and place one object at a time, starting from the first, on one of the two balances in accordance with the following rules: • one must never remove from either of the two balances an object previously placed; • at each step, if the weight indicated by the two balances is the same one can place the object of the turn on either of the two, otherwise it must be placed on the balance indicating the lesser weight. If each object weighs an integer (positive) of grams and their total weight is 4040 grams, when we have placed all 2021 objects, what is the biggest difference that could arise between the two indicated weights?
 
 **Answer:** 0000
 [[Quesiti/src_kangourou_2021_student_semifinale#q14|src_kangourou_2021_student_semifinale__Q14]]
@@ -658,9 +680,9 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of prime of the form (m^2+m+1)/n*
+*How many primes of the form (m^2+m+1)/n*
 
-> (6 points) What are the prime numbers of the form
+> (6 points) How many prime numbers are there of the form
 > 
 >  
 > 
@@ -740,7 +762,7 @@ The following table shows the results of the calculations:
 \end{document}
 ```
 
-> (7 points) An equilateral triangle on side n is divided into equilateral triangles on side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By selecting appropriately the room from which to depart, the maximum number of rooms that can be visited by passing once from each room visited is as close as possible to 2021. How much is n?
+> (7 points) An equilateral triangle of side n is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By selecting appropriately the room from which to depart, the maximum number of rooms that can be visited by passing through each visited room only once is as close as possible to 2021. How much is n?
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2021_student_semifinale#q16|src_kangourou_2021_student_semifinale__Q16]]
@@ -780,7 +802,7 @@ The following table shows the results of the calculations:
 
 ![[src_kangourou_2021_student_semifinale__prob17.png]]
 
-> (7 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the semicircles delimiting the angle: M and N are the two tangent points to the horizontal semicircle. The lines for A and B are parallel and tangent to the small and the large circumference respectively. The radius of the small circumference is √12. If AM is 3 how long is AB?
+> (7 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the rays delimiting the angle: M and N are the two tangent points to the horizontal ray. The lines for A and B are parallel and tangent to the small and the large circle respectively. The radius of the small circle is √12. If AM is 3 how long is AB?
 
 **Answer:** 0027
 [[Quesiti/src_kangourou_2021_student_semifinale#q17|src_kangourou_2021_student_semifinale__Q17]]
@@ -820,9 +842,9 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of requests for the product of tern out of 98 numbers*
+*Minimum number of requests for the product of triples out of 98 numbers*
 
-> (8 points) 98 numbers are arranged on a circumference, each equal to 1 or  1 (without excluding that they are all equal to each other). You want to know their product without being able to see them: for the purpose you can ask, for how many dice you want, the product of the numbers that form a dice of consecutive numbers (regardless of how they appear on the circumference). What's the smallest number of questions you can ask?
+> (8 points) 98 numbers are arranged on a circumference, each equal to 1 or -1 (without excluding that they are all equal to each other). You want to know their product without being able to see them: for the purpose you can ask, for as many triples as you want, the product of the numbers that form a triple of consecutive numbers (regardless of how they appear on the circumference). What's the smallest number of questions you can ask?
 >  
 > Answers
 >  

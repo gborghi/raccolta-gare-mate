@@ -57,11 +57,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Determine the VD slope of the rectangular base pyramid*
+*Determine the edge VD of the pyramid with a rectangular base*
 
 ![[src_kangourou_2019_student_finale__probs2.png]]
 
-> A rectangular-based pyramid is known for the lengths of three of the four oblique vertices connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $VA = 90\text{ m}$; $VB = 70\text{ m}$; $VC = 20\text{ m}$. Is it possible to determine the length of the $VD$ beam? If yes, it determines that length; if not, it identifies the measurements of two pyramids that meet the problem data where the length of the $VD$ beam is different.
+> For a pyramid with a rectangular base, the lengths of three of the four oblique edges that join the vertex $V$ to the vertices $A$, $B$, $C$, $D$ of the base are known: $VA = 90\text{ m}$; $VB = 70\text{ m}$; $VC = 20\text{ m}$. Is it possible to determine the length of the edge $VD$? If so, determine that length; if not, find the measurements of two pyramids that satisfy the data of the problem in which the length of the edge $VD$ is different.
 
 **Answer:** 60 m
 [[Quesiti/src_kangourou_2019_student_finale#qs2|src_kangourou_2019_student_finale__QS2]]
@@ -87,7 +87,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-After how many years the full moon returns on the same day (cycle 28g)
+After how many years the full moon returns on the same day (cycle 28 days)
 
 > On a certain day in a certain month in one of the next 10 years, there will be a full moon. If the lunar cycle was exactly 28 days long, after how many years at most would there again be a full moon for the first time on the same day of the same month? (If, for example, it happens the following year, you should answer: after 1 year.)
 
@@ -143,11 +143,11 @@ After how many years the full moon returns on the same day (cycle 28g)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Location of the AEF circus (acute triangle) *
+*Locating the circumcenter of AEF (acute triangle)*
 
 ![[src_kangourou_2019_student_finale__probs5.png]]
 
-> $ABC$ is an orthocentric triangle $H$, with the side $AB$ longer than the side $AC$; denotes with $E$ the symmetrical point of $C$ with respect to the height of $A$ and with $F$ the intersection of the passing line for $E$ and $H$ with the passing line for $A$ and $C$. On the basis of these data alone, you provide a location (relative to the elements given by the problem) of the circumcenter of the $AEF$ triangle.
+> $ABC$ is an acute triangle with orthocenter $H$, with side $AB$ longer than side $AC$; denote by $E$ the reflection of $C$ across the altitude drawn from $A$ and by $F$ the intersection of the line through $E$ and $H$ with the line through $A$ and $C$. On the basis of these data alone, provide a location (relative to the elements given by the problem) of the circumcenter of triangle $AEF$.
 
 [[Quesiti/src_kangourou_2019_student_finale#qs5|src_kangourou_2019_student_finale__QS5]]
 
@@ -177,14 +177,14 @@ After how many years the full moon returns on the same day (cycle 28g)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstration of ethogonal flooring criticism*
+*Critique of the proof about tiling with heptagons*
 
 ![[src_kangourou_2019_student_finale__probs6.png]]
 
-> Consider the following statement with further demonstration. Does everything convince you? Justify your answer.
+> Consider the following statement with the subsequent proof. Does it all convince you? Justify your answer.
 > 
-> **AFFIRMATION** It is not possible to float the inside of a circle with convex hexagons (not reduced to a point) so that each vertex of each hexagon belongs to exactly three hexagons (floating means covering the figure so that each point falling inside a tile belongs to it alone).
+> **STATEMENT** It is not possible to tile the interior of a circle with convex heptagons (not reduced to a point) in such a way that every vertex of every heptagon belongs to exactly three heptagons ("to tile" means to cover the figure so that every point that falls in the interior of a tile belongs only to it).
 > 
-> *Demonstration.* Suppose absurdly that it is (theoretically) possible. The internal angles of each hexagon would average $\dfrac{5 \times 180}{7}$ degrees; on the other hand, three hexagons would converge at each vertex, so the average angle measurement in a vertex would be $\dfrac{2 \times 180}{3} \neq \dfrac{5 \times 180}{7}$.
+> *Proof.* Suppose for contradiction that it is (theoretically) possible. The interior angles of every heptagon would measure on average $\dfrac{5 \times 180}{7}$ degrees; on the other hand, at every vertex three heptagons would meet, hence the average measure of the angles at a vertex would be $\dfrac{2 \times 180}{3} \neq \dfrac{5 \times 180}{7}$.
 
 [[Quesiti/src_kangourou_2019_student_finale#qs6|src_kangourou_2019_student_finale__QS6]]

@@ -34,9 +34,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres between -20,16 and 3,17*
+*Integers between -20,16 and 3,17*
 
-> How many integers are there between −20.16 and 3.17? A) 16 B) 17 C) 20 D) 23 E) 24
+> How many integers are there between −20,16 and 3,17? A) 16 B) 17 C) 20 D) 23 E) 24
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_cadet_marzo#q01|src_kangourou_2016_cadet_marzo__Q01]]
@@ -108,7 +108,7 @@ level: kangourou
 
 * resulting in the sum of 26*
 
-> Instead of adding 26 to a certain number, Rita subtracted it and got  14. What number would you get if you actually added up 26? A) 12 B) 14 C) 36 D) 38 E) 40
+> Instead of adding 26 to a certain number, Rita subtracted it and got -14. What number would she have got if she had actually added 26? A) 12 B) 14 C) 36 D) 38 E) 40
 
 **Answer:** D
 [[Quesiti/src_kangourou_2016_cadet_marzo#q03|src_kangourou_2016_cadet_marzo__Q03]]
@@ -146,7 +146,7 @@ level: kangourou
 
 ![[src_kangourou_2016_cadet_marzo__prob4.png]]
 
-> Consider the two shaded corners in the figure. How many degrees does their sum measure? A) 150 B) 180 C) 270 D) 320 E) 360
+> Consider the two shaded angles in the figure. How many degrees does their sum measure? A) 150 B) 180 C) 270 D) 320 E) 360
 
 **Answer:** C
 [[Quesiti/src_kangourou_2016_cadet_marzo#q04|src_kangourou_2016_cadet_marzo__Q04]]
@@ -219,11 +219,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what drawing*
+*which drawing*
 
 ![[src_kangourou_2016_cadet_marzo__prob6.png]]
 
-> Gianni points to a square cardboard with triangles drawn along her lower chin and then points it again along her right chin, as shown in the figure. Which of the five drawings do you see in the drawn outline? A) B) C) D) E) ?
+> Gianni flips a square cardboard on which some
+> triangles are drawn along its lower edge and then flips it again
+> along the right edge, as the figure shows you.
+> Which of the five drawings does he see in the dashed outline?
+> A)
+> B)
+> C)
+> D)
+>           E) 
+> ?
 >
 
 **Answer:** C
@@ -313,7 +322,7 @@ level: kangourou
 
 ![[src_kangourou_2016_cadet_marzo__prob8.png]]
 
-> The figure shows a rectangle with a minor side measuring 10 cm, two tangent circumferences, each tangent to three sides of the rectangle, and four segments, each connecting a vertex of the rectangle with the middle point of the opposite major side. How many square centimeters measure the overall gray-colored surface? A) 50
+> The figure shows a rectangle with a minor side measuring 10 cm, two tangent circles, each tangent to three sides of the rectangle, and four segments, each connecting a vertex of the rectangle with the middle point of the opposite major side. How many square centimeters measure the overall grey-colored surface? A) 50
 > 	
 > B) 80
 > 	
@@ -357,7 +366,7 @@ level: kangourou
 
 *number not possible*
 
-> Alessio has two strings, one 1 meter long and the other 2 meters long. The cuts and all the pieces of rope you get are the same length. Which of the following cannot be the total number of pieces of rope obtained? A) 6
+> Alessio has two strings, one 1 meter long and the other 2 meters long. He cuts them and all the pieces of rope he gets are the same length. Which of the following cannot be the total number of pieces of rope obtained? A) 6
 > 	
 > B) 8
 > 	
@@ -509,7 +518,7 @@ level: kangourou
 
 *how much blue to remove*
 
-> Piera has 49 blue pearls and one red. If you want 90% of the pearls to be blue, how many blue pearls do you need and just take them off? A) 4
+> Piera has 49 blue pearls and one red. If she wants 90% of the pearls to be blue, how many blue pearls does she need to remove? A) 4
 > 	
 > B) 8
 > 	
@@ -622,11 +631,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of the official languages of the European Union.
+*image never seen*
 
 ![[src_kangourou_2016_cadet_marzo__prob15.png]]
 
-> Anna glued some cubes together and obtained the solid shown in the figure. It rotates so you can see it from different angles. Which of the following images will you never see? A) B) C) E)
+> Anna glued some small cubes together and obtained the solid 
+> shown in the figure. She rotates it so that she can observe it from different 
+> angles. Which of the following images will she never be able to see? 
+>        A)	 	
+>        B)	 	
+>        C)	             	   	
+>              E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2016_cadet_marzo#q15|src_kangourou_2016_cadet_marzo__Q15]]
@@ -717,7 +732,7 @@ This is a list of the official languages of the European Union.
 
 ![[src_kangourou_2016_cadet_marzo__prob17.png]]
 
-> A 3 cm wide strip of paper is clear on one face and dark on the other. Mary bends the strip as shown in the figure (the trapezoids, dark, are identical). How long is the strip of paper? A) 36
+> A 3 cm wide strip of paper is light on one face and dark on the other. Mary folds the strip as shown in the figure (the trapezoids, dark, are identical). How long is the strip of paper? A) 36
 > 	
 > B) 48
 > 	
@@ -763,9 +778,9 @@ This is a list of the official languages of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*after how many seconds it reaches *
+*after how many seconds he reaches *
 
-> Two kangaroos Sal and Tino start jumping at the same moment, from the same starting line and in the same direction and direction. They make a leap per second: each Sal jump is 6 meters long, while Tino's first jump is 1 meter long, the second 2, the third 3 and so on. After how many seconds does Tino reach Sal? A) 10
+> Two kangaroos Sal and Tino start jumping at the same moment, from the same starting line and in the same direction. They make a leap per second: each Sal jump is 6 meters long, while Tino's first jump is 1 meter long, the second 2, the third 3 and so on. After how many seconds does Tino reach Sal? A) 10
 > 	
 > B) 11
 > 	
@@ -819,7 +834,7 @@ This is a list of the official languages of the European Union.
 
 ![[src_kangourou_2016_cadet_marzo__prob19.png]]
 
-> I had seven ordinary dice, so that the sum of the dots on each pair of opposite faces is 7. I glued them so that on the faces that you come across against each other there are the same number of dots, so I got the solid figure. How many dots are there on the surface of such a solid? A) 24
+> I had seven ordinary dice, that is, such that the sum of the dots on each pair of opposite faces is 7. I glued them so that on the faces that you come across against each other there are the same number of dots, so I got the solid figure. How many dots are there on the (external) surface of such a solid? A) 24
 > 	
 > B) 90
 > 	
@@ -871,7 +886,7 @@ This is a list of the official languages of the European Union.
 > 	
 > C) 15
 > 	
-> (D) 16 E) The situation described can never occur. The questions from N. 21 al N. 30 is worth 5 points each.
+> D) 16 E) The situation described can never occur. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2016_cadet_marzo#q20|src_kangourou_2016_cadet_marzo__Q20]]
@@ -957,7 +972,7 @@ This is a list of the official languages of the European Union.
 
 What does Paul think?
 
-> Peter's watch is 10 minutes behind, but he thinks it's 5 minutes ahead. Paul's watch is 5 minutes ahead, but he thinks it's 10 minutes behind. Both look at their watch at the same time: Peter thinks it's 12:00. What time do you think it's Paul? A) 11:30 B) 11:45 C) 12:00 D) 12:30 E) 12:45
+> Peter's watch is 10 minutes behind, but he thinks it's 5 minutes ahead. Paul's watch is 5 minutes ahead, but he thinks it's 10 minutes behind. Both look at their watch at the same time: Peter thinks it's 12:00. What time does Paul think it is? A) 11:30 B) 11:45 C) 12:00 D) 12:30 E) 12:45
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_cadet_marzo#q22|src_kangourou_2016_cadet_marzo__Q22]]
@@ -993,9 +1008,9 @@ What does Paul think?
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when with two ice cream*
+*how many with two ice creams*
 
-> Twelve girls went to an ice cream parlor together, each eating an average of one and a half ice cream. Two girls didn't eat ice cream; the others ate one or two. How many girls ate two ice cream? A) 2
+> Twelve girls went to an ice cream parlor together, each eating an average of one and a half ice creams. Two girls didn't eat ice creams; the others ate one or two. How many girls ate two ice creams? A) 2
 > 	
 > B) 5
 > 	
@@ -1043,16 +1058,21 @@ What does Paul think?
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*divisor*
 
-> Red Hood goes to bring sweets to Grandma and two other old ladies she calls Grandma. He comes out with a basket full of candy. As soon as she enters each of the grandmother's houses, the Wicked Wolf steals half the candy in the basket. Red Hood leaves every grandmother the same number of candy and when he leaves the last house the basket is empty. Which of the following numbers certainly divides the number of candy she left with? A) 4
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
+> Little Red Riding Hood goes to bring treats to her grandmother and to two other elderly ladies
+> whom she calls grandmother. She leaves with a basket full of treats. Just before she enters
+> each of the grandmothers' houses, the Big Bad Wolf steals half of the treats that at that
+> moment are in the basket. Little Red Riding Hood leaves each grandmother the same number of treats and when she leaves the last house the basket is empty. Which of the following
+> numbers certainly divides the number of treats she started with?
+> A) 4	
+	
+> B) 5	
+	
+> C) 6	
+	
+> D) 7	
+	
 > E) 9
 
 **Answer:** E
@@ -1100,7 +1120,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2016_cadet_marzo__prob25.png]]
 
-> The figure shows a cube of 64 cubes, of which exactly one, the one shown, is gray. At dawn of each day, starting tomorrow, all cubes adjacent to a grey cubet will turn grey (two cubes are adjacent if they have a face in common). How many grey cubes will there be after tomorrow night? A) 11
+> The figure shows a cube of 64 cubes, of which exactly one, the one shown, is gray. At dawn of each day, starting tomorrow, all cubes adjacent to a grey small cube will turn grey (two cubes are adjacent if they have a face in common). How many grey cubes will there be the evening of the day after tomorrow? A) 11
 > 	
 > B) 13
 > 	
@@ -1148,7 +1168,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 > Some positive integers, all distinct, are written on the board. The product of the two smallest is 16; the product of the two largest is 225. What is the sum of the numbers written on the board?
 >
-> (A) 38
+> A) 38
 > 	
 > B) 42	
 > 	
@@ -1198,11 +1218,11 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*third summit in order*
+*third vertex in order*
 
 ![[src_kangourou_2016_cadet_marzo__prob27.png]]
 
-> Aldo drew the pentagon of vertices A, B, C, D, and E as you see in the figure. He then drew five circles, each centered on a vertex, so that if two circles center on adjacent vertices, they are tangent externally. Finally, he listed the vertices in increasing order of length of the circles in which they are centered. What is the third summit on that list? A) A
+> Aldo drew the pentagon of vertices A, B, C, D, and E as you see in the figure. He then drew five circles, each centered on a vertex, so that if two circles center on adjacent vertices, they are tangent externally. Finally, he listed the vertices in increasing order of the radii of the circles centered on them. What is the third vertex on that list? A) A
 > 	
 > B) B
 > 	
@@ -1249,7 +1269,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max whole at the summit*
+*max integer at the summit*
 
 ![[src_kangourou_2016_cadet_marzo__prob28.png]]
 
@@ -1292,7 +1312,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *how many passengers*
 
-> A train has five carriages, each carrying at least one passenger. We'll say "nearby" two passengers if they're in the same carriage or in adjacent carriages. Each passenger has exactly 5 or 10 neighbors. How many passengers are on the train? A) 13
+> A train has five carriages, each carrying at least one passenger. We'll say "nearby" two passengers if they're in the same carriage or in adjacent carriages. Each passenger has exactly 5 or 10 neighbours. How many passengers are on the train? A) 13
 > 	
 > B) 15
 > 	
@@ -1340,7 +1360,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2016_cadet_marzo__prob30.png]]
 
-> A cube of spin 3 consists of 15 black cubes and 12 white cubes. The figure shows five of the six faces of the cube. Which of the following figures (excluding rotations) is seen on the sixth face? A)
+> A cube of edge 3 consists of 15 black cubes and 12 white cubes. The figure shows five of the six faces of the cube. Which of the following figures (up to rotations) is seen on the sixth face? A)
 > 	
 > B) C) D) E)
 >

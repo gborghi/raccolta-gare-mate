@@ -93,7 +93,7 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows a circumference of which the segments $AB$, $BC$ and $CD$ are three strings. The $M$, $N$ and $K$ points are their respective mean points. The angle $CKN$ is $75°$. How many degrees does the angle $NMB$ measure? (see figure)
+> The figure shows a circumference of which the segments $AB$, $BC$ and $CD$ are three chords. The $M$, $N$ and $K$ points are their respective midpoints. The angle $CKN$ is $75°$. How many degrees does the angle $NMB$ measure? (see figure)
 
 **Answer:** 75
 [[Quesiti/src_kangourou_2014_finale_student#qs1|src_kangourou_2014_finale_student__QS1]]
@@ -122,9 +122,9 @@ level: kangourou
 
 *Location of points within distance 3 with modified metric*
 
-> In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the axis of the axis. In the formula, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than $3$ from the point $(2, 1)$?
+> In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the x-axis. In the formula, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than $3$ from the point $(2, 1)$?
 
-**Answer:** quadrato+segmento
+**Answer:** square+segment
 [[Quesiti/src_kangourou_2014_finale_student#qs2|src_kangourou_2014_finale_student__QS2]]
 
 
@@ -153,7 +153,7 @@ level: kangourou
 
 > Consider the following two-player game, where players take turns and the first player is determined by a random draw. The game starts with two piles of coins. On a player's turn, they discard one pile and split the remaining pile into two new piles (each containing at least one coin). The player who cannot make a move loses. Discuss the existence of winning strategies.
 
-**Answer:** strategia parita
+**Answer:** parity strategy
 
 [[Quesiti/src_kangourou_2014_finale_student#qs3|src_kangourou_2014_finale_student__QS3]]
 
@@ -181,7 +181,7 @@ level: kangourou
 
 * for n quantities of m*
 
-> A natural number $n$ is broken down into $2014$ prime factors (not necessarily all distinct from each other). Each prime factor is added to $1$ and the new $2014$ numbers obtained are multiplied by each other, resulting in a $m$ number. Is it possible that for some natural number $n$, $n$ divides the number $m$ thus obtained? If the answer is no, provide an appropriate justification. If yes, specify for how many natural numbers $n$ $n$ divides $m$.
+> A natural number $n$ is broken down into $2014$ prime factors (not necessarily all distinct from each other). Each prime factor is added to $1$ and the new $2014$ numbers obtained are multiplied by each other, resulting in a number $m$. Is it possible that for some natural number $n$, $n$ divides the number $m$ thus obtained? If the answer is no, provide an appropriate justification. If yes, specify for how many natural numbers $n$ $n$ divides $m$.
 
 **Answer:** 336
 [[Quesiti/src_kangourou_2014_finale_student#qs4|src_kangourou_2014_finale_student__QS4]]
@@ -210,7 +210,7 @@ level: kangourou
 
 *Minimum n black boxes on 8x8 grid with adjacency*
 
-> $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
+> $n$ squares of an $8 \times 8$ grid are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
 
 **Answer:** 20
 [[Quesiti/src_kangourou_2014_finale_student#qs5|src_kangourou_2014_finale_student__QS5]]
@@ -239,9 +239,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To have succession with infinites 1 and non-1 in an infinite matrix*
+*Arranging a sequence with infinitely many 1s and non-1s in an infinite matrix*
 
 > Consider a sequence of $\{a_n\}$, $n = 1, 2, \ldots$ integers such that $a_n = 1$ for infinite indexes $n$ and $a_n \neq 1$ for infinite indexes $n$ are obtained. Establish whether it is always possible to arrange (all and only) the terms of the $\{a_n\}$ succession into an "infinite matrix" $[a_{i,j}]$, $i = 1, 2, 3, \ldots$, $j = 1, 2, 3, \ldots$ so that: - for each $i$ $a_{i,j} = 1$ is obtained if and only if $j \geq i$; - for each $i$, $j$ and $k$ with $j < k$, even in the original succession the position occupied by the term $a_{i,j}$ precedes that occupied by the term $a_{i,k}$ (as is now the case in the $i$ row of the matrix).
 
-**Answer:** si possibile
+**Answer:** yes, it is possible
 [[Quesiti/src_kangourou_2014_finale_student#qs6|src_kangourou_2014_finale_student__QS6]]

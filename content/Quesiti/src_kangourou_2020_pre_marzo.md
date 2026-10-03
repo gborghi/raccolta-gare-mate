@@ -135,11 +135,11 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right way to approach the pieces of the puzzle*
+*Right way to fit the pieces of the puzzle*
 
 ![[src_kangourou_2020_pre_marzo__prob3.png]]
 
-> Bianca put together the kangaroo puzzle wrong. Which of the following is the correct way to approach the pieces of the puzzle?
+> Bianca put together the kangaroo puzzle wrong. Which of the following is the correct way to fit the pieces of the puzzle?
 >
 > (see figure)
 >
@@ -231,11 +231,11 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image seen by overlapping the holes in the cartons*
+*Image seen by overlapping the cardboard with holes*
 
 ![[src_kangourou_2020_pre_marzo__prob5.png]]
 
-> Lilly has two cards the same size. There are four holes in card A. Lilly puts the A card right over the B card. Which of the following images do you see?
+> Lilly has two pieces of cardboard the same size. There are four holes in card A. Lilly puts cardboard A right over cardboard B. Which of the following images do you see?
 >
 > (see figure)
 >
@@ -383,11 +383,11 @@ Drawing with 3 black triangles and less than 4 squares
 >
 > (see figure)
 >
-> - **(A)** One is blue, two is yellow and three is red.
-> - **(B)** One is yellow, two is red and three is blue.
-> - **(C)** One is red, two is blue, and three is yellow.
+> - **(A)** 1 is blue, 2 is yellow and 3 is red.
+> - **(B)** 1 is yellow, 2 is red and 3 is blue.
+> - **(C)** 1 is red, 2 is blue and 3 is yellow.
 > - **(D)** 1 is yellow, 2 is blue and 3 is red.
-> - **(E)** One is blue, two is red and three is yellow.
+> - **(E)** 1 is blue, 2 is red and 3 is yellow.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2020_pre_marzo#q08|src_kangourou_2020_pre_marzo__Q08]]
@@ -423,7 +423,7 @@ Drawing with 3 black triangles and less than 4 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight that completes the figure*
+*Piece that completes the figure*
 
 ![[src_kangourou_2020_pre_marzo__prob9.png]]
 
@@ -519,11 +519,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Construction using more than one cube*
+*Construction using more cubes*
 
 ![[src_kangourou_2020_pre_marzo__prob11.png]]
 
-> The five constructions you see below were made by approaching the same cubes face versus face. Which one of them did we use the most cubes in?
+> The five constructions you see below were made by placing identical cubes face to face. Which one of them did we use the most cubes in?
 >
 > (see figure)
 >
@@ -667,7 +667,7 @@ Where to draw the twelfth village house
 
 ![[src_kangourou_2020_pre_marzo__prob14.png]]
 
-> Anna wants to write the numbers $1, 2, 3, 4, 5$ and $6$, each in one of the six squares in the figure. He wants it to be $10$ both the sum of the numbers in the blue squares and the sum of the numbers in the yellow squares. What number do you have to write in the question mark?
+> Anna wants to write the numbers $1, 2, 3, 4, 5$ and $6$, each in one of the six squares in the figure. She wants it to be $10$ both the sum of the numbers in the blue squares and the sum of the numbers in the yellow squares. What number does she have to write in the box with the question mark?
 >
 > (see figure)
 >
@@ -711,11 +711,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The appearance of the paper after two turns*
+*The appearance of the paper after two flips*
 
 ![[src_kangourou_2020_pre_marzo__prob15.png]]
 
-> There's this paper on the table. It is flipped along its upper side and then along its left side, as shown in the drawing. Which of these looks like paper after the two moves?
+> There's this paper on the table. It is flipped along its upper side and then along its left side, as shown in the drawing. Which of these looks like the paper after the two moves?
 >
 > (see figure)
 >
@@ -758,11 +758,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of biscuits to be baked for 5 grandchildren*
+*Minimum number of cookies to bake for 5 grandchildren*
 
 ![[src_kangourou_2020_pre_marzo__prob16.png]]
 
-> My grandmother baked cookies. He wants to give all the cookies he's going to cook to his grandchildren and he wants to give each grandchild the same number of cookies. What's the minimum number of biscuits you'll still have to fry?
+> Grandma baked $12$ cookies. She wants to give all the cookies she will bake to her $5$ grandchildren and she wants to give each grandchild the same number of cookies. What is the minimum number of cookies she will have to bake additionally?
 >
 > - **(A)** $0$
 > - **(B)** $1$
@@ -809,7 +809,7 @@ Where to draw the twelfth village house
 
 ![[src_kangourou_2020_pre_marzo__prob17.png]]
 
-> Luigi wants to put these nine cards on a table. He wants the cards placed in each row and in each column to show the three different shapes and the three different shape numbers. As you can see, he's already put three. Which of the following cards should you put in the grey box?
+> Luigi wants to put these nine cards on a table. He wants the cards placed in each row and in each column to show the three different shapes and the three different numbers of shapes. As you can see, he's already put three. Which of the following cards should he put in the grey box?
 >
 > (see figure)
 >
@@ -857,7 +857,7 @@ Where to draw the twelfth village house
 
 ![[src_kangourou_2020_pre_marzo__prob18.png]]
 
-> Two identical trains, each with $31$ carriages, travel in opposite directions. When the $19$ carriages of the two trains are adjacent, which carriage is adjacent to the $12$ carriage of the first train?
+> Two identical trains, each with $31$ carriages, travel in opposite directions. When carriage number $19$ of the two trains are adjacent, which carriage is adjacent to carriage number $12$ of the first train?
 >
 > (see figure)
 >
@@ -961,9 +961,9 @@ Where to draw the twelfth village house
 >
 > - **(A)** Man A
 > - **(B)** Man B
-> - **(C)** The man C
+> - **(C)** Man C
 > - **(D)** Man D
-> - **(E)** The Man and
+> - **(E)** Man E
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_pre_marzo#q20|src_kangourou_2020_pre_marzo__Q20]]
@@ -1086,9 +1086,9 @@ Where to draw the twelfth village house
 >
 > - **(A)** Only $5$
 > - **(B)** Only $3$
-> - **(C)** $2$ o $3$ o $4$
+> - **(C)** $2$ or $3$ or $4$
 > - **(D)** Only $1$ or $3$
-> - **(E)** $1$ o $3$ o $5$
+> - **(E)** $1$ or $3$ or $5$
 
 **Answer:** E
 [[Quesiti/src_kangourou_2020_pre_marzo#q22|src_kangourou_2020_pre_marzo__Q22]]
@@ -1126,7 +1126,7 @@ Where to draw the twelfth village house
 
 ![[src_kangourou_2020_pre_marzo__prob23.png]]
 
-> On each of the sides of a cube, six different numbers chosen from the numbers between $1$ and $9$ were written, one number on each side. The sums of the numbers on each pair of opposite faces are equal. Which of the following numbers is inscribed on the face opposite the face with the number $5$?
+> On each of the faces of a cube, six different numbers chosen from the numbers between $1$ and $9$ were written, one number on each face. The sums of the numbers on each pair of opposite faces are equal. Which of the following numbers is inscribed on the face opposite the face with the number $5$?
 >
 > - **(A)** $5$
 > - **(B)** $6$
@@ -1167,11 +1167,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial bags of John after two exchanges*
+*Giovanni's initial marbles after two exchanges*
 
 ![[src_kangourou_2020_pre_marzo__prob24.png]]
 
-> John and Stephen are exchanging balls. First John gives to Stephen as many baskets as he has; then Stephen gives to John as many baskets as John has after the first trade. After these two exchanges both have $4$ bills. How many balls did John have in the beginning?
+> Giovanni and Stefano exchange marbles. First Giovanni gives Stefano as many marbles as Stefano has; then Stefano gives Giovanni as many marbles as Giovanni has after the first exchange. After these two exchanges they both have $4$ marbles. How many marbles did Giovanni have at the beginning?
 >
 > - **(A)** $2$
 > - **(B)** $3$

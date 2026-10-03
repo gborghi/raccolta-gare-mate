@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of a square of sides 1,4,7,8*
+*Maximum area of a quadrilateral of sides 1,4,7,8*
 
-> The sides of a quadrilateral measure $1, 4, 7, 8$. What's your maximum area?
+> The sides of a quadrilateral measure $1, 4, 7, 8$. What can its area be, at most?
 
 **Answer:** 18
 [[Quesiti/src_kangourou_2018_student_finale#q01|src_kangourou_2018_student_finale__Q01]]
@@ -58,9 +58,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cards are discarded given probability 1/1001 of the 4 axes*
+*How many cards are discarded given probability 1/1001 of the 4 aces*
 
-> From a standard 52-card deck, Chiara discarded some cards, making sure all four axes remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four axes is $\frac{1}{1001}$, how many cards did you throw away?
+> From a standard 52-card deck, Chiara discarded some cards, making sure all four aces remained in the remaining deck. Now extract four cards randomly from this reduced deck. If the probability of drawing exactly the four aces is $\frac{1}{1001}$, how many cards did she throw away?
 
 **Answer:** 38
 [[Quesiti/src_kangourou_2018_student_finale#q02|src_kangourou_2018_student_finale__Q02]]
@@ -116,11 +116,11 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate that a 20-digit number with 11 one is non-square*
+*Demonstrate that a 20-digit number with 11 ones is not a square*
 
-> It shows that a 20-digit (decimal) integer whose first 11 digits (left) are all $``1"$ cannot be a perfect square.
+> Show that a 20-digit (decimal) integer whose first 11 digits (left) are all $``1"$ cannot be a perfect square.
 
-**Answer:** non quadrato (dim.)
+**Answer:** not a square (proof)
 [[Quesiti/src_kangourou_2018_student_finale#q04|src_kangourou_2018_student_finale__Q04]]
 
 
@@ -145,11 +145,11 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate the existence of a circle with exactly n knots *
+*Demonstrate the existence of a circle with exactly n lattice points *
 
-> Imagine the plane as a square sheet (all on the same side) boundless in every direction and call **node** each vertex of each square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
+> Imagine the plane as a square sheet (all with the same side length) boundless in every direction and call **node** each vertex of each square. Prove that for every $n$ there exists a circle containing exactly $n$ nodes inside.
 
-**Answer:** esiste sempre (dim.)
+**Answer:** it always exists (proof)
 [[Quesiti/src_kangourou_2018_student_finale#q05|src_kangourou_2018_student_finale__Q05]]
 
 
@@ -176,11 +176,11 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Characterization of the convex equilateral polygons *
+*Characterize convex equilateral rhombic polygons*
 
 ![[src_kangourou_2018_student_finale__prob6.png]]
 
-> Call each convex equilateral polygon **rumbus** if it is possible to dial it with a finite number of rumbes having the same side of the polygon. It shall characterize as explicitly as possible all convex equilateral polygons.
+> Call **rhombic** every convex equilateral polygon if it is possible to tile it with a finite number of rhombi having the same side as the polygon. Characterize in the most explicit way possible all convex equilateral rhombic polygons.
 
 **Answer:** lati a coppie paralleli
 [[Quesiti/src_kangourou_2018_student_finale#q06|src_kangourou_2018_student_finale__Q06]]

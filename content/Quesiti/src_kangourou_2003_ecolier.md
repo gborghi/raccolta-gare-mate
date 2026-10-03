@@ -34,9 +34,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the underlying asset shall be the sum of the underlying assets of the underlying asset.
+*Value of 0+1+2+3+4-3-2-1-0*
 
-> How much is 0 plus 1 plus 2 plus 3 plus4-3-2-1-0 equal ? A) 0 B) 2 C) 4 D) 10 E)16
+> What is the value of  0+1+2+3+4-3-2-1-0 = ?
+> A) 0
+> B) 2
+> C) 4
+> D) 10
+> E)16
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_ecolier#q01|src_kangourou_2003_ecolier__Q01]]
@@ -142,7 +147,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Images with three quarters of hearts*
+*Image with three quarters of hearts*
 
 ![[src_kangourou_2003_ecolier__prob4.png]]
 
@@ -180,7 +185,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 
 Hours and minutes of sleep by Martino
 
-> Anna falls asleep at 9:30 p.m. and wakes up at 6:45. His brother Martino slept an hour and 50 minutes more. How many hours and minutes did Martino sleep? (A) 30 h 5 min B) 11 h 35 min C) 11 h 5 min D) 9 h 5 min E) 8 h 35 min
+> Anna falls asleep at 9:30 p.m. and wakes up at 6:45. Her brother Martino slept an hour and 50 minutes more. How many hours and minutes did Martino sleep? A) 30 h 5 min B) 11 h 35 min C) 11 h 5 min D) 9 h 5 min E) 8 h 35 min
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_ecolier#q05|src_kangourou_2003_ecolier__Q05]]
@@ -252,9 +257,23 @@ Hours and minutes of sleep by Martino
 \end{document}
 ```
 
-> In the figure the distances are: AC=10m, BD=15m, AD=22m. Find the BC distance. A) 1m;    B) 2m;   C) 3m;      D) 4m;    E) 5m A B C D 20 16 13 11 ?
+> In the figure the distances are: AC=10m,
+> BD=15m, AD=22m. Find the distance BC.
+> A) 1m;    B) 2m;   C) 3m;      D) 4m;    E) 5m
+> A
+> B
+> C
+> D
+> 20
+> 16
+> 13
+> 11
+> ?
 > 
-> I'm going to pay. I'm going to pay. 6 Kang 2003 Kang
+> Pag. 
+> Pag. 6
+> Kang 2003
+> Kang 2003
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_ecolier#q06|src_kangourou_2003_ecolier__Q06]]
@@ -328,11 +347,22 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of germs by flower proportions*
+*Number of gerberas from the flower proportions*
 
 ![[src_kangourou_2003_ecolier__prob8.png]]
 
-> The table below shows the proportions between the quantities of different types of flowers that are present in the botanical garden. Stephen asked the gardener and found that there were 35 azaleas, 50 irises, and 85 roses in the garden. What is the number of herbs grown in the garden? A) 95 B) 100 C) 105 D) 110 E) 115 Questions from N. 9 al N. 16 is worth 4 points each.
+> The table alongside shows the proportions between the quantities of different types of flowers
+> that are present in the botanical garden.
+> Stefano asked the gardener and discovered that
+> there are 35 azaleas, 50 irises and 85 roses in the
+> garden. What is the number of gerberas
+> cultivated in the garden?
+> A)  95
+> B)  100
+> C)  105
+> D)  110
+> E)  115
+> Questions from No. 9 to No. 16 are worth 4 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_ecolier#q08|src_kangourou_2003_ecolier__Q08]]
@@ -369,11 +399,20 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blue cubes inside the brick *
+*Blue small cubes inside the brick*
 
 ![[src_kangourou_2003_ecolier__prob9.png]]
 
-> Cristina constructed the "cotton" of the figure using cubes of the same size, each colored entirely red or entirely blue. The outer surface of the "cotton" is completely red, but all the cubes used for the interior are blue. How many blue cubes did Cristina use ? A)  12 B)  24 C)  36 D)  40 E)  48
+> Cristina built the "brick" in the figure using
+> small cubes of the same size, each colored entirely
+> red or entirely blue. The outer surface of the "brick" is
+> completely red, but all the small cubes used for the inside
+> are blue. How many blue small cubes did Cristina use?
+> A)  12
+> B)  24
+> C)  36
+> D)  40
+> E)  48
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_ecolier#q09|src_kangourou_2003_ecolier__Q09]]
@@ -450,9 +489,23 @@ How many apples did Mark pick?
 
 *Cost of a basketball*
 
-> Simonetta wants to buy basketballs, all equal to each other. If she bought five balls, she'd have 10 euros left in her wallet. If he buys seven, he should ask for a loan of 22 euros. How much does a basketball cost? (a) 11 (b) 16 (c) 22 (d) 26 (e) 32 azaleas rose iris gerber
+> Simonetta wants to buy some basketballs, all the same as each other. If
+> she bought five balls, she would have 10 euros left in her wallet. If she bought seven, she would have to ask for a loan of 22 euros. How many euros does one
+> basketball cost?
+> A)  11
+> B)  16
+> C)  22
+> D)  26
+> E)  32
+> azaleas
+> irises
+> roses
+> gerberas
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2003 Kang
+> Page 
+> Page 7
+> Kang 2003
+> Kang 2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_ecolier#q11|src_kangourou_2003_ecolier__Q11]]
@@ -488,11 +541,19 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form of the third parallel-pipedal brick*
+*Shape of the third brick of the rectangular parallelepiped*
 
 ![[src_kangourou_2003_ecolier__prob12.png]]
 
-> Fiorella constructed a parallel-piped rectangle using 3 irregular-shaped "mattons", each shaped by approaching 4 equal cubes (see figure). Two of these "mattons" can be seen in the figure. What is the shape of the third "cotton" (indicated by a stroke)? A) B) C) D) E)
+> Fiorella built a rectangular parallelepiped
+> using 3 "bricks" of irregular shape, each formed
+> by placing 4 equal small cubes side by side (see the figure). Two of these "bricks" can be seen in the figure. What shape
+> does the third "brick" have (indicated by a dashed line)?
+> A)
+> B)
+> C)
+> D)
+> E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_ecolier#q12|src_kangourou_2003_ecolier__Q12]]
@@ -565,9 +626,9 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of digital clock figures*
+*Maximum sum of digits on a digital clock*
 
-> Matthew enjoys calculating the sum of the digits he reads on his digital clock (for example, if the clock shows 21:17, then Matthew finds 11). What's the maximum amount you can find? A) 24 B) 36 C) 19 D) 25 E) 23
+> Matthew enjoys calculating the sum of the digits he reads on his digital clock (for example, if the clock shows 21:17, then Matthew finds 11). What is the maximum sum he can find? A) 24 B) 36 C) 19 D) 25 E) 23
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_ecolier#q14|src_kangourou_2003_ecolier__Q14]]
@@ -653,7 +714,7 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangular plates per room*
+*How many triangular tiles for the room*
 
 ![[src_kangourou_2003_ecolier__prob16.png]]
 
@@ -665,9 +726,21 @@ How many apples did Mark pick?
 \end{document}
 ```
 
-> We have a triangular room each of whose sides measure six meters and some triangular marble slabs each of whose sides measure one meter. How many of these plates do you need to floor the room? A) 6 B) 36 C) 120 D) 35 E) 18
+> We have a triangular room each of
+> whose sides measures 6 m and some triangular marble tiles
+> each of whose sides measures 1 m.
+> How many of these tiles are needed to pave the room?
+> A) 6
+> B) 36
+> C) 120
+> D) 35
+> E) 18 
 > 
-> I'm going to pay. I'm going to pay. 8 Kang 2003 Kang 2003 Questions from N. 17 al N. Twenty-four is worth five points each.
+> Page 
+> Page 8
+> Kang 2003
+> Kang 2003
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_ecolier#q16|src_kangourou_2003_ecolier__Q16]]
@@ -735,9 +808,16 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Related price of puppy/bear*
+*Puppy/teddy bear price ratio*
 
-> In a toy store, the price for one puppy and three cubs is the same as for three cubs and two cubs. All puppies are the same price and all bears are the same price. So: a) a puppy is twice as expensive as a teddy bear b) a teddy bear is twice as expensive as a puppy c) puppies and teddy bears have the same price d) a teddy bear is three times more expensive than a teddy bear e) none of the above claims are correct
+> In a toy store the price for one puppy and three teddy bears is
+> the same as for three puppies and two teddy bears. All puppies have the
+> same price and all teddy bears have the same price. Therefore:
+> A) a puppy is twice as expensive as a teddy bear 
+> B) a teddy bear is twice as expensive as a puppy
+> C) puppies and teddy bears have the same price
+> D) a teddy bear is three times as expensive as a puppy
+> E) none of the previous statements is correct
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_ecolier#q18|src_kangourou_2003_ecolier__Q18]]
@@ -777,7 +857,7 @@ How many apples did Mark pick?
 
 ![[src_kangourou_2003_ecolier__prob19.png]]
 
-> The figure on the side was drawn on a single façade of a non-transparent sheet of paper and then cut to make a house. Which of the boxes below is the one so obtained? A) B) C) D) E)
+> The figure on the side was drawn on a single face of a non-transparent sheet of paper and then cut out to make a little house. Which of the little houses below is the one so obtained? A) B) C) D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_ecolier#q19|src_kangourou_2003_ecolier__Q19]]
@@ -815,11 +895,20 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many large sweets were bought*
+*How many large sweets did he buy*
 
-> There are three types of candy: large, medium and small. Each large dessert costs 4 euros, each medium 2 euros and each small 1 euro. Clemente buys 10 candies, at least one per type, and pays 16 euros. How many big candies did Clemente buy? A) 3 B) 2 C) 1 D) 0 E) it is not possible to establish
+> There are 3 types of sweets: large, medium and small. Each large sweet
+> costs 4 euros, each medium one 2 euros and each small one 1 euro. Clemente buys 10 sweets, at least one of each type, and pays 16 euros. How many large sweets did Clemente purchase?
+> A) 3
+> B) 2
+> C) 1
+> D) 0
+> E) it cannot be determined
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2003 Kang
+> Pag. 
+> Pag. 9
+> Kang 2003
+> Kang 2003
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_ecolier#q20|src_kangourou_2003_ecolier__Q20]]
@@ -859,7 +948,7 @@ How many apples did Mark pick?
 
 ![[src_kangourou_2003_ecolier__prob21.png]]
 
-> A barcode consists of 17 black and white bars (of course alternating: the first bar and the last bar are necessarily black). Black bars are of two types: wide or thin. The number of white bars is greater than 3 than the number of wide black bars. So the number of thin black bars is A) 1 B) 2 C) 3 D) 4 E) 5
+> A barcode consists of 17 black and white bars (of course alternating: the first bar and the last bar are necessarily black). Black bars are of two types: wide or thin. The number of white bars is greater by 3 than the number of wide black bars. So the number of thin black bars is A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** ANNULLATO
 [[Quesiti/src_kangourou_2003_ecolier#q21|src_kangourou_2003_ecolier__Q21]]
@@ -973,9 +1062,9 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product number of A (2003 units) for 2003
+Digits of the product of A (2003 units) by 2003
 
-> Let's indicate with A the number 11111...1111 formed from 2003 figures all equal to 1. Let's multiply A by 2003. How many digits does this number have? A) 2003 B) 2004 C) 2005 D) 2006 E ) 2008 1 2 3 4
+> Let's indicate with A the number 11111...1111 formed from 2003 digits all equal to 1. Let's multiply A by 2003. How many digits does this number have? A) 2003 B) 2004 C) 2005 D) 2006 E ) 2008 1 2 3 4
 > 
 > Answers commented at elementary Ecolier level IV and V
 

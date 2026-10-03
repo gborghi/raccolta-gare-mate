@@ -41,17 +41,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information is provided by the manufacturer:
+*final number*
 
 ![[src_kangourou_2015_marzo_ecolier__prob1.png]]
 
-> Perform the operations above each arrow in order. What number should be written in the last cloud? A) 6
+> Carry out in order the operations indicated above each arrow. What number should be written 
+> in the last little cloud? 
+> A) 6	
 > 	
-> B) 7
+> B) 7	
 > 	
-> C) 8
+> C) 8	
 > 	
-> D) 10
+> D) 10	
 > 	
 > E) 15
 
@@ -134,7 +136,7 @@ The following information is provided by the manufacturer:
 
 ![[src_kangourou_2015_marzo_ecolier__prob3.png]]
 
-> The figure shows two additions, but two of the four additions are each covered by a triangle and a third addendum is covered by a square. The two numbers covered by the two triangles are equal to each other. What's the number covered by the square? A) 2
+> The figure shows two additions, but two of the four addends are each covered by a triangle and a third addend is covered by a square. The two numbers covered by the two triangles are equal to each other. What's the number covered by the square? A) 2
 > 	
 > B) 3
 > 	
@@ -190,7 +192,7 @@ The following information is provided by the manufacturer:
 
 ![[src_kangourou_2015_marzo_ecolier__prob4.png]]
 
-> There's a couple of sheets on the table. Some are circular, some are square, some are triangular, as shown in the figure. If you want to leave only the same-shaped sheets on the table, what is the smallest number of sheets you can carry? A) 4            B) 9             C) 6             D) 8             E) 10 2 0 + 1 5 x − ? 4 7 9
+> There's a couple of sheets on the table. Some are circular, some are square, some are triangular, as shown in the figure. If you want to leave only the same-shaped sheets on the table, what is the smallest number of sheets you need to remove? A) 4            B) 9             C) 6             D) 8             E) 10 2 0 + 1 5 x − ? 4 7 9
 >
 
 **Answer:** B
@@ -280,13 +282,24 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of vehicles registered in the Union.
+*path*
 
 ![[src_kangourou_2015_marzo_ecolier__prob6.png]]
 
-> On a circumference, nine points are marked and numbered. Starting from point 1, James has drawn the segment linking him to point 3, then he has drawn the segment linking point 3 to point 5: the figure shows you what James has done so far. Now James intends to continue in this way in tracing the segments, skipping a point each time, and stopping when he returns again to point 1. Which of the following routes will James have to trace?
+> On a circle, 9 points are marked and numbered. Starting
+> from point 1, Giacomo drew the segment joining it
+> to point 3, then he drew the segment joining point 3
+> to point 5: the figure shows you what Giacomo has done up to
+> now.  Now Giacomo intends to continue in this way in
+> drawing the segments, skipping one point each time, and stopping
+> when he has returned again to point 1. Among the following paths, which is the one that
+> Giacomo will have to draw?
 >      
-> A) B) C) D) E)
+>          A)		
+>           B)		
+>          C)		
+>         D)	 	
+>        E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q06|src_kangourou_2015_marzo_ecolier__Q06]]
@@ -316,7 +329,7 @@ This is the total number of vehicles registered in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when they are on the island *
+*how many are on the island*
 
 ![[src_kangourou_2015_marzo_ecolier__prob7.png]]
 
@@ -369,9 +382,9 @@ This is the total number of vehicles registered in the Union.
 
 ![[src_kangourou_2015_marzo_ecolier__prob8.png]]
 
-> Looking at my umbrella from above, as shown in the figure next to it, you read the word KANGAROO (Cangaroo). Which of the following figures might represent my umbrella? A) B) C) D) E) R A G N A K O O
+> Looking at my umbrella from above, as shown in the figure next to it, you read the word KANGAROO (Kangaroo). Which of the following figures might represent my umbrella? A) B) C) D) E) R A G N A K O O
 > 
-> The questions from N. 9 al N. 16 is worth 4 points each.
+> The questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q08|src_kangourou_2015_marzo_ecolier__Q08]]
@@ -406,7 +419,7 @@ This is the total number of vehicles registered in the Union.
 
 ![[src_kangourou_2015_marzo_ecolier__prob9.png]]
 
-> Bruno wants to break down the region determined by the dark contour in Figure 1 into triangles all equal to the one shown in Figure 2. How many triangles will you get? A) 8               B) 12                 C) 14                  D) 15                  E) 16
+> Bruno wants to break down the region determined by the dark contour in Figure 1 into triangles all equal to the one shown in Figure 2. How many triangles will he get? A) 8               B) 12                 C) 14                  D) 15                  E) 16
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q09|src_kangourou_2015_marzo_ecolier__Q09]]
@@ -445,7 +458,7 @@ This is the total number of vehicles registered in the Union.
 
 *how many bananas are given*
 
-> Carlo had seven apples and two bananas. He gave Gianni two apples, and he gave him some bananas. Now the number of apples and the number of bananas that Charles has are the same. How many bananas did Gianni give Carlo? A) 2
+> Carlo had seven apples and two bananas. He gave Gianni two apples, and in exchange he gave him some bananas. Now the number of apples and the number of bananas that Carlo has are the same. How many bananas did Gianni give Carlo? A) 2
 > 	
 > B) 3
 > 	
@@ -490,7 +503,7 @@ This is the total number of vehicles registered in the Union.
 
 ![[src_kangourou_2015_marzo_ecolier__prob11.png]]
 
-> Sarah had many grey cubes and many white cubes. He built the large cube you see in the figure so that two cubes of the same color never had any faces in common. How many white cubes did you use? A) 10           B) 12            C) 13            D) 14            E) 15
+> Sarah had many grey cubes and many white cubes. She built the large cube you see in the figure so that two cubes of the same color never had any faces in common. How many white cubes did she use? A) 10           B) 12            C) 13            D) 14            E) 15
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q11|src_kangourou_2015_marzo_ecolier__Q11]]
@@ -522,9 +535,14 @@ This is the total number of vehicles registered in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This item is intended to record the information provided by the manufacturer.
+*position*
 
-> In a race involving 30 competitors, Gennaro outperformed himself by three more. How did Gennaro rank himself? A) 14-mo B) 13-mo C) 11-mo D) 12-mo E) 7-mo
+> In a competition in which 30 contestants took part, Gennaro beat 3 contestants more than the number who beat him. What was Gennaro's ranking?
+> A) 14th	
+> B) 13th	
+> C) 11th	
+> D) 12th	
+> E) 7th
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q12|src_kangourou_2015_marzo_ecolier__Q12]]
@@ -564,7 +582,7 @@ This item is intended to record the information provided by the manufacturer.
 
 *how many ways*
 
-> Stefano has four models: a truck, a car, a ship and a train. He wants to line them up so that both the ship and the train come after the car. How many different ways can you align your toys? A) 4
+> Stefano has four models: a truck, a car, a ship and a train. He wants to line them up so that both the ship and the train come after the car. In how many different ways can he line up his toys? A) 4
 > 	
 > B) 8
 > 	
@@ -630,15 +648,32 @@ This item is intended to record the information provided by the manufacturer.
 
 ![[src_kangourou_2015_marzo_ecolier__prob14.png]]
 
-> There is a cycling track in the park such as the one shown in the figure, 6 points of which are indicated by many other letters. Peter starts from the point S moving in the direction indicated by the arrow: at the first intersection he finds he turns right, at the second he turns left, at the third he turns right, at the fourth he turns left and so on, alternating the choice of right with the choice of left. Although going back many times from the point S, there is one point (and only one) through which, in doing so, Peter never passes: what is it? A) A
+> In the park there is a cycle path like the one shown
+> in the figure, 6 points of which are indicated by as many
+> letters. Pietro starts from point S moving in the
+> direction indicated by the arrow: at the first intersection he
+> finds he turns right, at the second he turns left, at the third
+> right, at the fourth left, and so on, alternating the choice
+> of right with the choice of left. Although he passes again many
+> times through point S, there is one point (and only one) through which,
+> doing so, Pietro never passes: which one is it?
+> A) A	
 > 	
-> B) B
+> B) B	
 > 	
-> C) C
+> C) C	
 > 	
-> D) D
+> D) D	
 > 	
-> E) Figure 1 Figure 2 B and C D A S
+> E) E
+> Figure 1
+> Figure 2
+> B
+> E
+> C
+> D
+> A
+> S
 >
 
 **Answer:** D
@@ -683,17 +718,29 @@ This item is intended to record the information provided by the manufacturer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of messages.
+*total messages*
 
 ![[src_kangourou_2015_marzo_ecolier__prob15.png]]
 
-> The figure shows you five chickens, each of which has some black spots on its back. Two cocksuckers are friends if and only if the numbers of their blackheads differ from one another. Today is the feast of the chickens: each sends a message of greetings to each of her friends. How many total messages did the cocksuckers send today? A) 2
+> The figure shows you five ladybugs: each
+> of them has some black spots on its back. Two
+> ladybugs are friends if and only if the numbers
+> of their black spots differ by one. Today
+> is the ladybugs' party: each one sends a
+> greeting message to each of its friends.
+> How many messages in total were sent
+> today by the ladybugs?
+> A) 2	
+	
 > 	
-> B) 4
+> B) 4	
+	
 > 	
-> C) 6
+> C) 6	
+	
 > 	
-> D) 8
+> D) 8	
+	
 > 	
 > E) 9
 
@@ -730,11 +777,17 @@ This is the total number of messages.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is equal to*
+*to which equal*
 
 ![[src_kangourou_2015_marzo_ecolier__prob16.png]]
 
-> The figure you're looking at is made by bringing together a few squares that are all the same. Mary managed to break it into three pieces, all of them equal, possibly after turning someone over. Which of the following is equal to the three pieces? (A) B) C) D) E) Questions from N. 17 al N. Twenty-four is worth five points each.
+> The figure you see is obtained by placing next to each other some 
+> small squares that are all identical. Maria managed to break it into three pieces, all equal to each other, possibly after having flipped some of them. Which of the 
+> following are the three pieces equal to?
+>                A)	
+>             B)                    C)     	
+>           D)             	        E) 
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q16|src_kangourou_2015_marzo_ecolier__Q16]]
@@ -812,7 +865,7 @@ This is the total number of messages.
 \end{document}
 ```
 
-> I want to cover a cube-shaped box with paper without overlapping. So I drew on a piece of paper and cut out the figure you see right next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each common side to two squares. But by mistake, I drew 7 squares instead of 6. So I have to eliminate one of them, but I want the paper not to break in two and in particular there is no square connected only by one vertex to another. What's the number of the square that you want to eliminate? A) 1
+> I want to cover a cube-shaped box with paper without overlapping. So I drew on a piece of paper and cut out the figure you see right next to it (composed of squares all equal to each other and equal to the faces of the box), which I'll then fold along each side common to two squares. But by mistake, I drew 7 squares instead of 6. So I have to eliminate one of them, but I want the paper not to break in two and in particular there is no square connected only by one vertex to another. What's the number of the square that you want to eliminate? A) 1
 > 	
 > B) 2
 > 	
@@ -866,7 +919,7 @@ This is the total number of messages.
 
 ![[src_kangourou_2015_marzo_ecolier__prob18.png]]
 
-> In the figure you can see three transparent square sheets, each divided into 9 squares and on each one some of the squares are annexed. The three sheets must be superimposed so that they appear as a single square: they can be rotated as desired, but not reversed. You want as many squares that look black as possible when they're overlapped. What's this number? A) 5            B) 6           C) 7             D) 8              E) 9 1 2 3 4 5 6 7
+> In the figure you can see three transparent square sheets, each divided into 9 squares and on each one some of the squares are blackened. The three sheets must be superimposed so that they appear as a single square: they can be rotated as desired, but not reversed. You want as many squares that look black as possible when they're overlapped. What's this number? A) 5            B) 6           C) 7             D) 8              E) 9 1 2 3 4 5 6 7
 >
 
 **Answer:** D
@@ -954,7 +1007,7 @@ This is the total number of messages.
 \end{document}
 ```
 
-> Each of the nine segments in the figure must be coloured by dividing the colours between red, green and blue, so that in each triangle the three sides are given different colours. As you can see, three segments have already been assigned colours in the figure. What color can the segment marked with x be? A) Only blue.
+> Each of the nine segments in the figure must be coloured choosing among the colours red, green and blue, so that in each triangle the three sides are given different colours. As you can see, three segments have already been assigned colours in the figure. What color can the segment marked with x be? A) Only blue.
 > 	
 > B) Only green.
 > 	
@@ -1005,7 +1058,7 @@ The sum of John's sum
 
 ![[src_kangourou_2015_marzo_ecolier__prob20.png]]
 
-> Aldo has ten disks numbered 0 to 9, like the ones in the figure. He gives three to John, four to Luke, three to Anna and asks each of them to multiply the numbers on the disks he has received: the result is 0 for John, 72 for Luke and 90 for Anna. What 's the sum of the numbers on the plates that John received ? A) 11
+> Aldo has ten disks numbered 0 to 9, like the ones in the figure. He gives three to John, four to Luke, three to Anna and asks each of them to multiply the numbers on the disks he has received: the result is 0 for John, 72 for Luke and 90 for Anna. What is the sum of the numbers on the disks that John received ? A) 11
 > 	
 > B) 12
 > 	
@@ -1122,7 +1175,7 @@ The sum of John's sum
 \end{document}
 ```
 
-> The points you see marked in the figure are the 16 vertices of nine squares that, when approached, form a square. Dividing 4 of these 16 points from time to time can create different squares, even of different areas. What's the maximum number of squares you can get, that have all different areas? A) 2 B) 3 C) 4	               D) 5 E) 6
+> The points you see marked in the figure are the 16 vertices of nine squares that, placed side by side, form a square. Choosing 4 of these 16 points each time, you can form different squares, even of different areas. What's the maximum number of squares you can get, that have all different areas? A) 2 B) 3 C) 4	               D) 5 E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q22|src_kangourou_2015_marzo_ecolier__Q22]]
@@ -1156,7 +1209,7 @@ The sum of John's sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of figures *
+*sum of digits *
 
 > The product of the digits of an integer is 15. What's their sum? A) 2
 > 	
@@ -1206,11 +1259,24 @@ The sum of John's sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who's next on Saturday?
+*who more on Saturday*
 
-> During the weekend, Saturday and Sunday, five friends cooked cookies: Anna cooked 24, Bruno 25, Caesar 26, David 27, and Elisa 28. When they arrived on Sunday evening, one of them had twice as many biscuits as he had cooked on Saturday night, another three times, another four times, another five times, and another six times. Who else cooked up until Saturday night? A) Anna B) Bruno C) Caesar D) David E) Elisa red red blue x
+> During the weekend, Saturday and Sunday, five friends baked some
+> cookies: Anna baked 24, Bruno 25, Cesare 26, Davide 27 and Elisa 28. By
+> Sunday evening, one of them had in total twice as many cookies as he or she had
+> baked by Saturday evening, another three times as many, another four times as many, another five times
+> as many and another six times as many. Who had baked the most by Saturday evening?  
+> A) Anna		
+> B) Bruno	
+> C) Cesare	
+> D) Davide	
+> E) Elisa
+> red
+> red
+> blue
+> x
 > 
-> This appropriation is intended to cover expenditure relating to the implementation of the programme.
+> ECOLIER STRING 2015
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_ecolier#q24|src_kangourou_2015_marzo_ecolier__Q24]]

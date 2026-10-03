@@ -31,7 +31,7 @@ level: kangourou
 
 Who came last in the race?
 
-> 1. Five friends challenged each other in a race. Lelio arrived before Mario, CADET Vincenzo after Gianni, Mario before Gianni and Edoardo before Vincenzo. Who came last? A) Vincent B) Mario C) Lelio D) Gianni E) Edward
+> 1. Five friends challenged each other in a race. Lelio arrived before Mario, CADET Vincenzo after Gianni, Mario before Gianni and Edoardo before Vincenzo. Who came last? A) Vincenzo B) Mario C) Lelio D) Gianni E) Edoardo
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_cadet_marzo#q01|src_kangourou_2019_cadet_marzo__Q01]]
@@ -118,9 +118,9 @@ Who came last in the race?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number of salads halved by trade*
+*Initial number of pretzels halved by the exchanges*
 
-> 4. Five friends went on a trip, each with a bag of salads; each of them gave each other a salads, and they all ate all the gifted salads and no one else. So the total number of lettuces they had at the beginning was halved: what was that number? A) 20 B) 24 C) 30 D) 40 E) 60
+> 4. Five friends went on a trip, each with a bag of pretzels; each of them gave one pretzel to each of the others and everyone ate all the pretzels received as gifts and no others. In this way the total number of pretzels they had at the beginning was halved: what was this number? A) 20 B) 24 C) 30 D) 40 E) 60
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_cadet_marzo#q04|src_kangourou_2019_cadet_marzo__Q04]]
@@ -185,9 +185,9 @@ Who came last in the race?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pages if the figure 4 appears 16 times*
+*Number of pages if the digit 4 appears 16 times*
 
-> 6. Giulia wrote a thesis numbering the pages from 1. Overall, in page numbering, the number 4 appears exactly 16 times. Which of the following can be the page number of the thesis? A) 84 B) 58 C) 64 D) 52 E) 48
+> 6. Giulia wrote a thesis numbering the pages from 1. Overall, in page numbering, the number 4 appears exactly 16 times. Which of the following can be the number of pages of the thesis? A) 84 B) 58 C) 64 D) 52 E) 48
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_marzo#q06|src_kangourou_2019_cadet_marzo__Q06]]
@@ -246,9 +246,9 @@ Who came last in the race?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of whole isosceles triangles with perimeter of 60*
+*Number of integer-sided isosceles triangles with perimeter of 60*
 
-> 8. Nicola wants to draw an isosceles triangle whose sides are a CADET integer of centimeters long and whose perimeter measures 60 cm. How many different ways do you have to carry out your project? A) 13 B) 14 C) 15 D) 16 E) more than 16
+> 8. Nicola wants to draw an isosceles triangle whose sides are a CADET integer of centimeters long and whose perimeter measures 60 cm. How many different ways does he have to carry out his project? A) 13 B) 14 C) 15 D) 16 E) more than 16
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_marzo#q08|src_kangourou_2019_cadet_marzo__Q08]]
@@ -276,7 +276,7 @@ Who came last in the race?
 
 *How many chocolates are left after the last day*
 
-> 9. Elizabeth received a large box of 60 chocolates as a gift. On Monday he ate a tenth, on Tuesday he ate a ninth of the remaining, on Wednesday he ate an eighth of the remaining and so on until the day he ate half the chocolate left over the day before. How many chocolates are left after that day? A) 3 B) 8 C) 4 D) 2 E) 6
+> 9. Elizabeth received a large box of 60 chocolates as a gift. On Monday she ate a tenth, on Tuesday he ate a ninth of the remaining, on Wednesday he ate an eighth of the remaining and so on until the day he ate half the chocolates left over the day before. How many chocolates are left after that day? A) 3 B) 8 C) 4 D) 2 E) 6
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_cadet_marzo#q09|src_kangourou_2019_cadet_marzo__Q09]]
@@ -369,7 +369,7 @@ What are the three hidden digits given sum 10126*
 
 ![[src_kangourou_2019_cadet_marzo__prob12.png]]
 
-> 12. Viviana drew several identical rectangles adjacent to each other; then she joined the vertices of some of them together, as in the drawing, forming a triangle with a base of 6 cm and height measuring 10 cm and 6 cm respectively; finally she shaded the parts of the outer rectangles to the triangle. How many square centimetres is the 10 cm shaded region? A) 10 B) 12 C) 14 D) 15 E) 21
+> 12. Viviana drew several identical rectangles adjacent to each other; then she joined the vertices of some of them together, as in the drawing, forming a triangle with a base of 6 cm and height measuring 10 cm and 6 cm respectively; finally she shaded the parts of the rectangles outside the triangle. How many square centimetres is the shaded region? A) 10 B) 12 C) 14 D) 15 E) 21
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_marzo#q12|src_kangourou_2019_cadet_marzo__Q12]]
@@ -397,7 +397,7 @@ What are the three hidden digits given sum 10126*
 
 *How many cats in the store give fractions*
 
-> 13. Michele has a small pet shop: he currently has 24 animals: dogs, cats, parrots and turtles. Of these 1/8 are dogs, 3/4 are not CADET turtles and 2/3 are not parrots. How many cats are in Michele's store? A) 4 B) 5 C) 6 D) 7 E) 8
+> 13. Michele has a small pet shop: he currently has 24 animals: dogs, cats, parrots and turtles. Of these 1/8 are dogs, 3/4 are not turtles and 2/3 are not parrots. How many cats are in Michele's store? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_cadet_marzo#q13|src_kangourou_2019_cadet_marzo__Q13]]
@@ -498,7 +498,7 @@ What are the three hidden digits given sum 10126*
 
 *How many hugs does Enza exchange (knowledge graph) *
 
-> 15. Anna, Bella, Chiara, Dora and Enza are at a party, each hugging exactly one of the girls she knows among the other four. Anna changes one hug, Bella changes two, Clara changes three and Dora changes four. How many hugs does Enza exchange? A) 1 B) 2 C) 3 D) 4 E) 0
+> 15. Anna, Bella, Chiara, Dora and Enza are at a party, each hugging exactly one of the girls she knows among the other four. Anna exchanges one hug, Bella exchanges two, Chiara exchanges three and Dora exchanges four. How many hugs does Enza exchange? A) 1 B) 2 C) 3 D) 4 E) 0
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_marzo#q15|src_kangourou_2019_cadet_marzo__Q15]]
@@ -531,7 +531,7 @@ What are the three hidden digits given sum 10126*
 
 ![[src_kangourou_2019_cadet_marzo__prob16.png]]
 
-> 16. Catherine folded a square sheet of paper exactly in half twice, then made two half-cuts of the folded sheet as shown in the drawing. How many of these figures are squared? A) 3 B) 4 C) 5 D) 6 E) 8
+> 16. Catherine folded a square sheet of paper exactly in half twice, then made two cuts in the middle of the folded sheet as shown in the drawing. How many of the pieces thus obtained are squares? A) 3 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_cadet_marzo#q16|src_kangourou_2019_cadet_marzo__Q16]]
@@ -557,9 +557,9 @@ What are the three hidden digits given sum 10126*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which of the last five rounds he scored *
+*In how many of the last five shots did she score *
 
-> 17. Luisa is playing basketball. In the first series of 20 rounds, Luisa went out in 55% of the cases. By adding five more launches, the percentage of completion increased to 56%. How many of the last five shots did you score? A) 1 B) 2 C) 3 D) 4 E) 5
+> 17. Luisa is playing basketball. In a first series of 20 shots, Luisa scored in 55% of the cases. Adding five more shots, her scoring percentage increased to 56%. How many of the last five shots did she score? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_cadet_marzo#q17|src_kangourou_2019_cadet_marzo__Q17]]
@@ -587,7 +587,7 @@ What are the three hidden digits given sum 10126*
 
 How many euros will Pierino have after selling all of them?
 
-> 18. Pierino spent all his savings to buy 50 bottles of orange at the supermarket, paying €1 each, with the intention of selling them all at the same price, higher than the cost. After reselling 40 bottles, he already has 10 euros more than his initial savings. How many euros will Pierino have in his pocket after he resells all the bottles? A) 70 B) 75 C) 80 D) 90 E) 100
+> 18. Pierino spent all his savings to buy 50 bottles of orangeade at the supermarket, paying €1 each, with the intention of selling them all at the same price, higher than the cost. After resold 40 bottles, he already has 10 euros more than his initial savings. How many euros will Pierino have in his pocket after he resells all the bottles? A) 70 B) 75 C) 80 D) 90 E) 100
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_marzo#q18|src_kangourou_2019_cadet_marzo__Q18]]
@@ -662,7 +662,7 @@ How many euros will Pierino have after selling all of them?
 
 *N value with diameter for 7 and 23*
 
-> We divided a circumference into N arcs of equal length. Starting from one of them and going clockwise, we have marked the ends of the arcs with integers from 1 to N (included). The diameter that goes by 7 goes by 23. How much is N ? A) 30
+> We divided a circumference into N arcs of equal length. Starting from one of them and going clockwise, we have marked the ends of the arcs with integers from 1 to N (included). The diameter passing through 7 also passes through 23. What is N ? A) 30
 > 	
 > B) 32
 > 	
@@ -670,7 +670,7 @@ How many euros will Pierino have after selling all of them?
 > 	
 > D) 36
 > 	
-> E) 38 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 38 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_marzo#q20|src_kangourou_2019_cadet_marzo__Q20]]
@@ -718,7 +718,7 @@ How many euros will Pierino have after selling all of them?
 
 ![[src_kangourou_2019_cadet_marzo__prob21.png]]
 
-> In the grid in the figure each cell has a side as long as a match. Starting with the match shown in the figure and moving towards the headline of the matches, Alice realised a closed path, arranging the matches along some of the drawn sides. For some of the cells, the number of matches that Alice has placed around the cell is indicated. What's the minimum number of matches Alice could have used? A) 12
+> In the grid in the figure each cell has a side as long as a match. Starting with the match shown in the figure and moving in the tail-to-head direction of the matches, Alice realised a closed path, arranging the matches along some of the drawn sides. For some of the cells, the number of matches that Alice has placed around the cell is indicated. What's the minimum number of matches Alice could have used? A) 12
 > 	
 > B) 14
 > 	
@@ -762,7 +762,7 @@ How many euros will Pierino have after selling all of them?
 
 *Initial ratio between the heights of the two candles*
 
-> Carlo has two candles of different heights. The first candle lasts six hours, the second one eight hours. He lights them both at the same time and three hours later the candles are the same height. What was the relationship between the height of the first candle and that of the second candle before it was lit? A) 4 : 3 B) 8 : 5 C) 5 : 4 D) 3 : 5 E) 7 : 3
+> Carlo has two candles of different heights. The first candle lasts six hours, the second one eight hours. He lights them both at the same time and three hours later the candles are the same height. What was the ratio between the height of the first candle and that of the second candle before they were lit? A) 4 : 3 B) 8 : 5 C) 5 : 4 D) 3 : 5 E) 7 : 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_cadet_marzo#q22|src_kangourou_2019_cadet_marzo__Q22]]
@@ -813,19 +813,32 @@ How many euros will Pierino have after selling all of them?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of green cane in the 3x3 grid*
+*Minimum number of green straws in the 3x3 grid*
 
 ![[src_kangourou_2019_cadet_marzo__prob23.png]]
 
-> Lia has many canes, all of the same length but of four different colors, including green. With them, he wants to build a 3x3 grid like the one next to it, so that each cell is bounded by four different colored straws, but the green straws are the least possible. What's the smallest number of green strawberries you can use? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) 7 2 1 0 3 2 0 3
+> Lia has many straws, all of the same length but
+> of four different colors, among which green. With them she wants
+> to build a 3 x 3 grid like the one beside it, so that
+> each cell is bounded by four straws of four different colors,
+> but the green straws are as few as possible. What is
+> the smallest number of green straws that she can use?
+> A) 3	
+	
+> B) 4	
+	
+> C) 5	
+	
+> D) 6	
+	
+> E) 7
+> 2
+> 1
+> 0
+> 3
+> 2
+> 0
+> 3
 >
 
 **Answer:** C
@@ -860,9 +873,9 @@ How many euros will Pierino have after selling all of them?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much did Rita have before she bought (reports) *
+*How much did Rita have before she bought (ratios) *
 
-> When Rita and Flora compared their savings, the ratio between Rita's and Flora's was 5:3 Rita later bought a tablet for 160 euros and the ratio of the two friends' savings became 3: 5. How many euros did Rita have before she bought it? A) 250 B) 200 C) 220 D) 430 E) 420
+> When Rita and Flora compared their savings, the ratio between Rita's and Flora's was 5:3. Rita later bought a tablet for 160 euros and the ratio of the two friends' savings became 3: 5. How many euros did Rita have before she bought it? A) 250 B) 200 C) 220 D) 430 E) 420
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_cadet_marzo#q24|src_kangourou_2019_cadet_marzo__Q24]]
@@ -902,11 +915,11 @@ How many euros will Pierino have after selling all of them?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which development of the cube the line is closed*
+*For which net of the cube is the line closed*
 
 ![[src_kangourou_2019_cadet_marzo__prob25.png]]
 
-> Each of the figures below shows the development of a cube on whose surface a line has been drawn. Only one of the developments happens that once the cube is reconstructed, the traced line appears closed. What kind? A)
+> Each of the figures below shows the net of a cube on whose surface a line has been drawn. For only one of the nets does it happen that, once the cube is reconstructed, the traced line appears closed. Which one? A)
 > 	
 > B)
 > 	
@@ -1005,7 +1018,7 @@ How many euros will Pierino have after selling all of them?
 
 ![[src_kangourou_2019_cadet_marzo__prob27.png]]
 
-> Matthew painted each of the eight circles in the figure with a color chosen from red, yellow, and blue, making sure that no pair of circles directly connected by a segment received the same color. What pair of circles necessarily painted the same color? A) 5 e 8 B) 1 e 6 C) 2 e 7 D) 4 e 5 E) 3 e 6
+> Matthew painted each of the eight circles in the figure with a color chosen from red, yellow, and blue, making sure that no pair of circles directly connected by a segment received the same color. What pair of circles has necessarily been painted the same color? A) 5 and 8 B) 1 and 6 C) 2 and 7 D) 4 and 5 E) 3 and 6
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_cadet_marzo#q27|src_kangourou_2019_cadet_marzo__Q27]]
@@ -1046,7 +1059,7 @@ How many euros will Pierino have after selling all of them?
 
 Maximum number of teams with no more than 250 matches
 
-> A chess tournament is open to teams of three players. Each player is expected to meet each player from all the other teams. For organisational reasons, no more than 250 matches may be played in total. What is the maximum number of squires that can be admitted to the tournament? A) 11
+> A chess tournament is open to teams of three players. Each player is expected to meet each player from all the other teams. For organisational reasons, no more than 250 matches may be played in total. What is the maximum number of teams that can be admitted to the tournament? A) 11
 > 	
 > B) 10
 > 	
@@ -1095,7 +1108,7 @@ Maximum number of teams with no more than 250 matches
 
 ![[src_kangourou_2019_cadet_marzo__prob29.png]]
 
-> In the figure you see a square ABCD: P, Q and R are the mean points of its sides DA, BC and CD respectively. What fraction of the square ABCD is shaded? A) 3/4 B) 5/8
+> In the figure you see a square ABCD: P, Q and R are the midpoints of its sides DA, BC and CD respectively. What fraction of the square ABCD is shaded? A) 3/4 B) 5/8
 > 	
 > C) 1/2 D) 7/16 E) 3/8
 
@@ -1142,7 +1155,7 @@ Maximum number of teams with no more than 250 matches
 
 *White fraction of the surface of the cube (black interior) *
 
-> Lucia obtained a cube by attaching 64 cubes all of the same size, 32 white and 32 black, and made all the non-visible cubes (i.e. those inside the cube) black. What fraction of the surface of the cube appears white? A) 3/4 B) 4/7
+> Lucia obtained a cube by attaching 64 small cubes all of the same size, 32 white and 32 black, and made all the non-visible cubes (i.e. those inside the cube) black. What fraction of the surface of the cube appears white? A) 3/4 B) 4/7
 > 	
 > C) 5/12 D) 2/3 E) It is not possible to establish A P D B Q C R
 >

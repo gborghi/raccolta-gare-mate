@@ -41,7 +41,7 @@ level: kangourou
 
 ![[src_kangourou_2016_preecolier_marzo__prob1.png]]
 
-> Not one of the letters written on this tablet is present in the word KOALA. What kind? (see figure)
+> Only one of the letters written on this tablet is not present in the word KOALA. Which one? (see figure)
 >
 > - **(A)** R
 > - **(B)** L
@@ -79,9 +79,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many strings are drawn in Figure *
+*How many chords are drawn in the figure *
 
-> In the figure, some strings are drawn. How many? (see figure)
+> In the figure, some chords are drawn. How many? (see figure)
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -121,7 +121,7 @@ level: kangourou
 
 How many matches in Michele's house
 
-> Michele has built a small house with some matches. You can see it in the picture. How many did you use? (see figure)
+> Michele has built a small house with some matches. You can see it in the picture. How many did he use? (see figure)
 >
 > - **(A)** 19
 > - **(B)** 18
@@ -201,7 +201,7 @@ How many matches in Michele's house
 
 What point Gianni can reach in the maze
 
-> In the figure, you see a maze. Gianni is in O. From there it can only reach one of the points A, B, C, D or E. What kind? (see figure)
+> In the figure, you see a maze. Gianni is in O. From there he can only reach one of the points A, B, C, D or E. Which one? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -281,7 +281,7 @@ What point Gianni can reach in the maze
 
 *How many houses number 25 to 57 including*
 
-> On Via Lunga the houses are numbered: 1, 2, 3, and so on. The postmaster must deliver at least one letter to each house from number 25 to number 57, including. How many houses do you have to visit?
+> On Via Lunga the houses are numbered: 1, 2, 3, and so on. The postman must deliver at least one letter to each house from number 25 to number 57, including. How many houses do you have to visit?
 >
 > - **(A)** 31
 > - **(B)** 32
@@ -319,9 +319,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which construction and obtained with 10 cubes*
+*Which construction is obtained with 10 cubes*
 
-> Only one of these constructions is achieved by approaching 10 cubes. What kind? (see figure)
+> Only one of these constructions is obtained by putting together 10 cubes. Which one? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -361,7 +361,7 @@ What point Gianni can reach in the maze
 
 *Group of stones on the step indicated*
 
-> Sofia wants to put some stones on every step of the ladder. The rocks can be white or black. The figure shows you how he arranged the stones on the first five steps. Which group of rocks will take the step indicated by the question mark? (see figure)
+> Sofia wants to put some stones on every step of the ladder. The stones can be white or black. The figure shows you how she arranged the stones on the first five steps. Which group of stones will she put on the step indicated by the question mark? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -402,7 +402,7 @@ What point Gianni can reach in the maze
 
 *Maximum white non-contact eggs in the box*
 
-> Lisa has some chickens that have made white eggs and brown eggs. He put six eggs in the egg-carrying box you see in the picture so that two white eggs never come into contact with each other. How many white eggs did he put in the box? (see figure)
+> Lisa has some chickens that have made white eggs and brown eggs. She put six eggs in the egg-carrying box you see in the picture so that two white eggs never come into contact with each other. How many white eggs could she have put at most in the box? (see figure)
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -442,7 +442,7 @@ What point Gianni can reach in the maze
 
 Minimum number of doors from A to B in the doll house
 
-> The figure represents a doll house seen from above (after removing the roof) with rooms and doors opening in each room: you can go from each room to any other room. Emma's doll has to go from room A to room B. What's the smallest number of doors she'll have to go through? (see figure)
+> The figure represents a doll house seen from above (after removing the roof) with rooms and doors opening in each room: you can go from each room to any other room. The doll Emma has to go from room A to room B. What's the smallest number of doors she'll have to go through? (see figure)
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -482,7 +482,7 @@ Minimum number of doors from A to B in the doll house
 
 The number of rooms where the light was off, 18 windows lit.
 
-> On one floor of a building there are twelve rooms: each room has two windows and a lighthouse. Last night, all the shutters were up and eighteen windows were lit. How many rooms on that floor were the lights off?
+> On one floor of a building there are twelve rooms: each room has two windows and a lamp. Last night, all the shutters were up and eighteen windows were lit. How many rooms on that floor had the lights off?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -520,9 +520,9 @@ The number of rooms where the light was off, 18 windows lit.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs with a difference of less than 15 between 7.13,20.30*
+*Pairs with a difference of less than 15 between 7,13,20,30*
 
-> Angela wants to choose two of the numbers 7, 13, 20, and 30 so that the difference between the largest and smallest of the ones she's chosen is less than 15. How many different pairs of numbers can he choose?
+> Angela wants to choose two of the numbers 7, 13, 20, and 30 so that the difference between the largest and smallest of the ones she's chosen is less than 15. How many different pairs of numbers can she choose?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -560,15 +560,15 @@ The number of rooms where the light was off, 18 windows lit.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Word read by Mary along the way
+*Word read by Maria along the path*
 
-> The figure shows you the pattern of the route that Mary takes to get from point 1 to point 2. If, as she walks, Mary sees only the letters that appear to her right, what word will she read when she arrives? (see figure)
+> The figure shows you the diagram of the path that Maria follows to go from point 1 to point 2. If, while walking, Maria sees only the letters that appear on her right, which word will she have read when she arrives? (see figure)
 >
 > - **(A)** KNAO
-> - **(B)** Other goods
+> - **(B)** KNGO
 > - **(C)** KNR
-> - **(D)** Agriculture
-> - **(E)** I'm not sure.
+> - **(D)** AGRO
+> - **(E)** KAO
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_preecolier_marzo#q14|src_kangourou_2016_preecolier_marzo__Q14]]
@@ -642,7 +642,7 @@ Sum of Gino and Gina's age in four years
 
 *Which of the five watches is broken*
 
-> One of the five watches you see is broken. What kind? (see figure)
+> One of the five watches you see is broken. Which one? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -680,9 +680,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Composition not obtained from Luisa's cuttings*
+*Composition not obtainable with Luisa's tiles*
 
-> Luisa has some stitches like the one shown in the picture. You can rotate them, but don't break or overlap. If you approach them according to these rules, you can get four of the five compositions below. Which one can't get it? (see figure)
+> Luisa has some tiles like the one shown in the figure. She can rotate them, but not break or overlap them. If she places them side by side according to these rules, she can obtain four of the five compositions below. Which of them can she not obtain? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -762,7 +762,7 @@ Sum of Gino and Gina's age in four years
 
 *Squares to be added for the smallest square*
 
-> Aldo's got a lot of squares all the same. By the time he reached six, he had built the frame you see in the figure. How many squares do you have to add if you want to complete the table so you get the smallest possible square? (see figure)
+> Aldo's got a lot of squares all the same. By placing six of them side by side, he built the tile you see in the figure. How many squares do you have to add if you want to complete the tile so you get the smallest possible square? (see figure)
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -801,9 +801,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of knuckles among five sparrows*
+*How many chirps in total among five sparrows*
 
-> In the figure, you can see five sparrows on a string: some looking to the right, others to the left. Each eyelid passes once towards each other eyelid that is on the side where it looks: for example, the second eyelid passes only once. How many whistles can be heard in total? (see figure)
+> In the figure you see five sparrows perched on a wire: some look to the right, others to the left. Each sparrow chirps once toward every other sparrow that is on the side where it is looking: for example the second sparrow chirps only once. How many chirps can be heard in total? (see figure)
 >
 > - **(A)** 6
 > - **(B)** 12
@@ -841,9 +841,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flower on which no cookware is laid*
+*Flower on which no ladybird lands*
 
-> In the figure you see four dots: for each, the number of dots on the right wing is different from that on the left. Each of them will lie on a flower that has as many leaves as the difference between the number of dots on its wings and has as many petals as the sum of these two numbers. Which one of the flowers you see in the picture will not have a little chick on it? (see figure)
+> In the figure you see four ladybirds: for each of them the number of spots on the right wing is different from that on the left wing. Each of them will land on a flower that has as many leaves as the difference between the numbers of spots on its wings and has as many petals as the sum of these two numbers. On which of the flowers that you see in the figure will no ladybird land? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -964,7 +964,7 @@ Sum of Gino and Gina's age in four years
 
 *Maximum boxes with equal sum, data numbers*
 
-> Silvia wrote each of the numbers 1, 5, 8, 9, 10, 12, and 15 on a leaflet (a leaflet for each number). He then put the sheets in some boxes (at least one per box): the sum of the numbers written on the sheets contained in the individual boxes is the same for all boxes. How many can the boxes be, at most?
+> Silvia wrote each of the numbers 1, 5, 8, 9, 10, 12, and 15 on a slip of paper (a slip for each number). She then put the slips in some boxes (at least one per box): the sum of the numbers written on the sheets contained in the individual boxes is the same for all boxes. How many can the boxes be, at most?
 >
 > - **(A)** 1
 > - **(B)** 2

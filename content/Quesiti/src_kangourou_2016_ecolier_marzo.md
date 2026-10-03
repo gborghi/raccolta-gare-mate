@@ -274,7 +274,7 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob6.png]]
 
-> Five children each have a square, a triangle, and a circle. All these objects are made of opaque paper. Each child has partially overlapped its three objects: the figure shows you what you see at the end. How many kids put the triangle above (not necessarily subito above) the square? A) 0
+> Five children each have a square, a triangle, and a circle. All these objects are made of opaque paper. Each child has partially overlapped its three objects: the figure shows you what you see at the end. How many children put the triangle above (not necessarily immediately above) the square? A) 0
 > 	
 > B) 1
 > 	
@@ -325,7 +325,7 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob7.png]]
 
-> The mouse wants to get out of the maze. How many different routes can you take if you don't want to go through the same passage more than once? A) 2
+> The mouse wants to get out of the maze. How many different routes can it take if it doesn't want to go through the same passage more than once? A) 2
 > 	
 > B) 4
 > 	
@@ -415,7 +415,7 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob9.png]]
 
-> Which of the following statements on the figure is correct? A) The number of circles is equal to the square. B) There are fewer circles than triangles. C) The number of circles is twice that of triangles. D) There are more squares than triangles. E) The number of triangles is twice that of circles.
+> Which of the following statements on the figure is correct? A) The number of circles is equal to that of the squares. B) There are fewer circles than triangles. C) The number of circles is twice that of triangles. D) There are more squares than triangles. E) The number of triangles is two more than that of the circles.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2016_ecolier_marzo#q09|src_kangourou_2016_ecolier_marzo__Q09]]
@@ -449,9 +449,9 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden numbers on two folders, total 32*
+*Hidden numbers on two cards, total 32*
 
-> Sara has two posters; she wrote a number on each face of each poster. The sum of the numbers written on the first card is equal to the sum of the numbers written on the second. Also, the sum of the four numbers is 32. Sara put the two cards on the table, and now we see numbers 5 and 12. What are the numbers on the faces of the two billboards we don't see? A)  7 e 0 B) 8 e 1 C) 6 e 3 D) 9 e 2 E) 11 e 4
+> Sara has two cards; she wrote a number on each face of each card. The sum of the numbers written on the first card is equal to the sum of the numbers written on the second. Also, the sum of the four numbers is 32. Sara put the two cards on the table, and now we see numbers 5 and 12. What are the numbers on the faces of the two cards we don't see? A)  7 and 0 B) 8 and 1 C) 6 and 3 D) 9 and 2 E) 11 and 4
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_ecolier_marzo#q10|src_kangourou_2016_ecolier_marzo__Q10]]
@@ -486,7 +486,7 @@ Within days the kangaroo will be 8 weeks old*
 
 *New sum by replacing 201 with 102*
 
-> Nino sums up seven numbers and gets 2016. One of the numbers that adds up is 201. If I wrote 102 instead of 201, what would you get? A) 1815 B) 1914 C) 1917 D) 2115 E) 2118
+> Nino sums up seven numbers and gets 2016. One of the numbers that adds up is 201. If he wrote 102 instead of 201, what would he get? A) 1815 B) 1914 C) 1917 D) 2115 E) 2118
 >
 
 **Answer:** C
@@ -532,7 +532,7 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob12.png]]
 
-> Lara first drew an equilateral triangle. Then he added the middle points on each side and got a smaller triangle that blacked out. Then she repeated the operation on every white triangle she had left. The figure shows the outcome of the first three steps of this procedure.
+> Lara first drew an equilateral triangle. Then she joined the midpoints of each side and got a smaller triangle that she blackened. Then she repeated the operation on every white triangle she had left. The figure shows the outcome of the first three steps of this procedure.
 > 	
 > 	
 > 	
@@ -588,19 +588,19 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What tables to choose to form a square*
+*Which tiles to choose to form a square*
 
 ![[src_kangourou_2016_ecolier_marzo__prob13.png]]
 
-> We have the five tables in the figure at our disposal. We want to bring some of them together (without leaving holes or overlapping) to form a square. Which ones do we have to choose? A) 1, 3 e 5
+> We have the five tiles in the figure at our disposal. We want to bring some of them together (without leaving holes or overlapping) to form a square. Which ones do we have to choose? A) 1, 3 and 5
 > 	
-> B) 1, 2 e 5
+> B) 1, 2 and 5
 > 	
-> C) 1, 4 e 5
+> C) 1, 4 and 5
 > 	
-> D) 3, 4 e 5
+> D) 3, 4 and 5
 > 	
-> E) 2, 3 e 5
+> E) 2, 3 and 5
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_ecolier_marzo#q13|src_kangourou_2016_ecolier_marzo__Q13]]
@@ -636,15 +636,17 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*gumps exceed the noses by 18*
+*paws exceed noses by 18*
 
-> I have some dogs. Their legs are 18 times larger than their noses. How many dogs do I have? A) 4
+> I have some dogs: the number of their paws exceeds the number of their noses by 18. 
+> How many dogs do I have?
+> A) 4	
 > 	
-> B) 5
+> B) 5	
 > 	
-> C) 6
+> C) 6	
 > 	
-> D) 8
+> D) 8	
 > 	
 > E) 9
 
@@ -714,7 +716,7 @@ Within days the kangaroo will be 8 weeks old*
 \end{document}
 ```
 
-> Nadia plans to insert only the numbers 1, 2, 3 into each cell of the table in the figure and to do so so that in each row and column these three numbers appear exactly once. He's already started writing some numbers. What's the sum of the numbers he has to write in the cells marked with X and Y? A) 2
+> Nadia plans to insert only the numbers 1, 2, 3 into each cell of the table in the figure and to do so so that in each row and column these three numbers appear exactly once. She's already started writing some numbers. What's the sum of the numbers she has to write in the cells marked with X and Y? A) 2
 > 	
 > B) 3
 > 	
@@ -796,7 +798,7 @@ Maximum squares certainly occupied by 8 out of 11 coins
 \end{document}
 ```
 
-> Nicholas has an aisle divided into 11 squares, as shown in the figure. Put 8 coins in 8 consecutive squares, one in each square, without leaving empty squares between two coins. What is the maximum number of squares in which we can be sure there is a coin? A) 1
+> Nicholas has a strip divided into 11 squares, as shown in the figure. He puts 8 coins in 8 consecutive squares, one in each square, without leaving empty squares between two coins. What is the maximum number of squares in which we can be sure there is a coin? A) 1
 > 	
 > B) 3
 > 	
@@ -806,7 +808,7 @@ Maximum squares certainly occupied by 8 out of 11 coins
 > 	
 > E) 6 ? 1 2 3 4 5 1 2 X Y
 > 
-> The questions from N. 17 al N. Twenty-four is worth five points each.
+> The questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2016_ecolier_marzo#q16|src_kangourou_2016_ecolier_marzo__Q16]]
@@ -843,11 +845,11 @@ Maximum squares certainly occupied by 8 out of 11 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design by rolling the paper on the upper side*
+*Design by flipping the card on the upper side*
 
 ![[src_kangourou_2016_ecolier_marzo__prob17.png]]
 
-> If we roll a piece of paper around its right side we see this drawing: What drawing do we see, instead, if we roll the same piece of paper around its top side? A)
+> If we flip a card around its right side we see this drawing: What drawing do we see, instead, if we flip the same card around its top side? A)
 > 	
 > B) C) D) 	                   E)
 
@@ -1044,13 +1046,13 @@ How many pears if there are 25 apples on the trees
 
 *Arrival order from 4 forecasts with 2 accurate each*
 
-> Four cyclists A, B, C, D took part in a race. Before the race, four friends had predicted their arrival order: CDBA according to Rocco, DABC according to Salvo, CBAD according to Tino, BACD according to Vito. In these forecasts the exact position of each cyclist's arrival has been guessed at least twice. What was the order of arrival? (a) DCBA
+> Four cyclists A, B, C, D took part in a race. Before the race, four friends had predicted their arrival order: CDBA according to Rocco, DABC according to Salvo, CBAD according to Tino, BACD according to Vito. In these forecasts the exact position of each cyclist's arrival has been guessed at least twice. What was the order of arrival? A) DCBA
 > 	
-> (b) DACB
+> B) DACB
 > 	
 > C) CABD
 > 	
-> (d) BADC
+> D) BADC
 > 	
 > E) ABCD
 >
@@ -1097,7 +1099,7 @@ How many pears if there are 25 apples on the trees
 
 ![[src_kangourou_2016_ecolier_marzo__prob22.png]]
 
-> Livia wants to put five plates on the table, in order of increasing weight. He has already arranged the plates Q, R, S and T in the desired order: T weighs the most. Where do you want to put plate Z? A) To the left of plate Q.
+> Livia wants to put five plates on the table, in order of increasing weight. She has already arranged the plates Q, R, S and T in the desired order: T weighs the most. Where should plate Z be placed? A) To the left of plate Q.
 > 	
 > B) Between plate Q and plate R. C) Between plate R and plate S.
 > 	
@@ -1147,7 +1149,7 @@ How many pears if there are 25 apples on the trees
 
 ![[src_kangourou_2016_ecolier_marzo__prob23.png]]
 
-> Matthew built a bar with 27 bricks: then he divided it into two bars so that the length of one is twice that of the other. Then he took each of these bars and divided them the same way and repeated the operation as long as possible. Which of the following bars did you never get? A) B) C)
+> Matthew built a bar with 27 bricks: then he divided it into two bars so that the length of one is twice that of the other. Then he took each of these bars and divided them the same way and repeated the operation as long as possible. Which of the following bars did he never get? A) B) C)
 > 	
 > D)
 > 	
@@ -1200,19 +1202,31 @@ How many pears if there are 25 apples on the trees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wherever the passer turned his head, more cinguettii*
+*Which sparrow turned its head, more chirps*
 
 ![[src_kangourou_2016_ecolier_marzo__prob24.png]]
 
-> In the figure, you can see five sparrows on a string: some looking to the right, others to the left.
+> In the figure you see five sparrows perched on a wire: some look to the right, others to the
+> left.
 >    	
-> Angelo Bruno Chicco Donato Elio Every sparrow snaps as many times as the sparrows are on the side where it looks: for example Donato snaps three times. Then one of the sparrows turns his head from the opposite side. Again, each sparrow blinks as many times as the sparrows are on the side where it looks. Now the total number of cinguettii is greater than the first time. Which passenger turned his head? (A) Angel
+> Angelo	
+>     Bruno	
+>   Chicco	
+> Donato		
+> Elio
+> Each sparrow chirps as many times as there are sparrows on the side where it is
+> looking: for example Donato chirps three times. Then one of the sparrows turns its head to the
+> opposite side. Again each sparrow chirps as many times as there are sparrows on
+> the side where it is looking. Now the total number of chirps is greater than that
+> of the first time.  Which sparrow turned its head?
+> A) Angelo	
 > 	
-> B) Bruno
+> B) Bruno	
 > 	
-> C) Chicken D) Donated
+> C) Chicco	
+> D) Donato	
 > 	
-> E) Helium
+> E) Elio
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_ecolier_marzo#q24|src_kangourou_2016_ecolier_marzo__Q24]]

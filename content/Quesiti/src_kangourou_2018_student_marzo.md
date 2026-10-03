@@ -81,7 +81,7 @@ In which room is Renata coming through the doors?
 
 ![[src_kangourou_2018_student_marzo__prob2.png]]
 
-> The drawing shows Renata's house, in a single square. Entering through the porch, Renata crosses every door in the house once and for all. Which room is he in at the end of the path? A) 1
+> The drawing shows Renata's house, on a single floor. Entering through the porch, Renata crosses every door in the house once and only once. Which room is she in at the end of the path? A) 1
 > 	
 > B) 2
 > 	
@@ -127,7 +127,7 @@ In which room is Renata coming through the doors?
 
 *How many stones can Maciste get (+4 per shot) *
 
-> Maciste initially has seven stones and a hammer that breaks any stone into exactly five smaller stones. What number of stones can you get, among the following? A) 17
+> Maciste initially has seven stones and a hammer that breaks any stone into exactly five smaller stones. What number of stones can he get, among the following? A) 17
 > 	
 > B) 20
 > 	
@@ -172,9 +172,9 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-prime and non-dive 2-digit integers for 2,3,5*
+*Non-prime 2-digit integers not divisible by 2,3,5*
 
-> How many positive integers of two digits that are not prime and are not divisible by 2, 3, or 5? A) 2
+> How many positive two-digit integers are there that are not prime and are not divisible by 2, 3, or 5? A) 2
 > 	
 > B) 3
 > 	
@@ -420,15 +420,15 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the parallel piped given areas A,B,C of the faces*
+*Volume of the parallelepiped given areas A,B,C of the faces*
 
-> In a parallel-piped rectangle three faces that have a vertex in common have areas A, B and C respectively. What's the volume of the parallelepiped? (A) ABC
+> In a rectangular parallelepiped three faces that have a vertex in common have areas A, B and C respectively. What's the volume of the parallelepiped? (A) ABC
 > 	
-> (b) √ ABC
+> B) √ ABC
 > 	
 > C) √ AB + BC + CA
 >  
-> (d) √ ABC
+> D) √ ABC
 > 	
 > E) 2 (A + B + C)
 
@@ -469,7 +469,7 @@ In which room is Renata coming through the doors?
 
 ![[src_kangourou_2018_student_marzo__prob10.png]]
 
-> The figure shows two rectangles inclined relative to the vertical of 40 degrees and 30 degrees. How many degrees does the angle a measure? A) 105 B) 120 C) 130 D) 135 E) A value different from the previous ones. The questions from N. 11 al N. 20 is worth 4 points each.
+> The figure shows two rectangles inclined relative to the vertical of 40 degrees and 30 degrees. How many degrees does the angle a measure? A) 105 B) 120 C) 130 D) 135 E) A value different from the previous ones. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_student_marzo#q10|src_kangourou_2018_student_marzo__Q10]]
@@ -614,7 +614,7 @@ In which room is Renata coming through the doors?
 
 ![[src_kangourou_2018_student_marzo__prob13.png]]
 
-> We pour water into a jar in constant quantities over time until it is filled. The graph below shows, depending on time t, the water level h in the vessel. Of the following, what can the shape of the vessel be? A) B) C) D) E)
+> We pour water into a jar in constant quantities over time until it is filled. The graph below shows, as a function of time t, the water level h in the vessel. Of the following, what can the shape of the vessel be? A) B) C) D) E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_student_marzo#q13|src_kangourou_2018_student_marzo__Q13]]
@@ -651,15 +651,21 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pairs (m,n) with squared17-m squared17+n) = 20
+*How many pairs (m,n) with |sqrt17-m|+sqrt(17+n)=20*
 
-> How many ordered pairs (m, n) of strictly positive integers solve the equation? A) 0
+> How many ordered pairs (m, n) of strictly positive integers solve the equation
+> |√ 17 - m| + √ 17 + n = 20?
+> A) 0	
+	
 > 	
-> B) 10
+> B) 10	
+	
 > 	
-> C) 15
+> C) 15	
+	
 > 	
-> D) 19
+> D) 19	
+	
 > 	
 > E) 20
 
@@ -699,7 +705,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 
 *Which number does not divide 18^2017+18^2018*
 
-> Which of the following is not a divisor of 182017 + 182018 ? A) 8
+> Which of the following is not a divisor of 18^2017 + 18^2018 ? A) 8
 > 	
 > B) 18
 > 	
@@ -805,11 +811,11 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the octahedron inscribed in the cube of the beam 1*
+*Volume of the octahedron inscribed in the cube of edge 1*
 
 ![[src_kangourou_2018_student_marzo__prob17.png]]
 
-> An octahedron is inserted into a cube of a spike 1 so that the vertices of the octahedron coincide with the centers of the faces of the cube. What is the volume of the octahedron? A) 1/3 B) 1/4
+> An octahedron is inscribed in a cube of edge 1 so that the vertices of the octahedron coincide with the centers of the faces of the cube. What is the volume of the octahedron? A) 1/3 B) 1/4
 > 	
 > C) 1/5 D) 1/6 E) 1/8
 
@@ -873,7 +879,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 
 ![[src_kangourou_2018_student_marzo__prob19.png]]
 
-> 19. From a strip of paper, we cut a regular pentagon. We rotate it 21 degrees clockwise, with the center as a pin, showing the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon overlaps exactly with the shaft? A) B) C) D) E)
+> 19. From a strip of paper, we cut a regular pentagon. We rotate it 21 degrees counterclockwise, with the center as a pivot: the figure shows the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon overlaps exactly with the hole left behind? A) B) C) D) E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_student_marzo#q19|src_kangourou_2018_student_marzo__Q19]]
@@ -900,9 +906,9 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of f(0) + f(1) + f(2) + f(3) with f(x+y) = f(x) f(y) *
+*Value of f(0)+f(1)+f(2)+f(3) with f(x+y)=f(x)f(y)*
 
-> 20. Whether f is a function such that f (x + y) = f (x) f (y) for all integers x and y. If f (1) = 1/2, what is f (0) + f (1) + f (2) + f (3)? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Zoning in accordance with the opinion of the Standing Committee on Planning and Zoning.
+> 20. Let f be a function such that f (x + y) = f (x) f (y) for all integers x and y. If f (1) = 1/2, what is the value of f (0) + f (1) + f (2) + f (3)? A) 1/8 B) 3/2 C) 5/2 D) 15/8 E) 6 Kangourou 2018 page 29
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_student_marzo#q20|src_kangourou_2018_student_marzo__Q20]]
@@ -935,7 +941,7 @@ Sum of Nadia cards if sum of products and before*
 
 ![[src_kangourou_2018_student_marzo__prob21.png]]
 
-> 21. Of the five cards shown in the figure, Nadia took three and Roberto two. Each of them makes the product of the numerical values of their cards. Adding up the two numbers, they find that the sum is a prime number. What's the sum of Nadia's card numbers? A) 12 B) 13 C) 15 D) 17 E) 18
+> 21. Of the five cards shown in the figure, Nadia takes three and Roberto two. Each of them makes the product of the numerical values of their cards. Adding up the two numbers, they find that the sum is a prime number. What's the sum of Nadia's card numbers? A) 12 B) 13 C) 15 D) 17 E) 18
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_student_marzo#q21|src_kangourou_2018_student_marzo__Q21]]
@@ -964,7 +970,7 @@ Sum of Nadia cards if sum of products and before*
 
 *Coordinates of fourth point A on parabola and circumference*
 
-> 22. A 0xy orthogonal Cartesian system is fixed in the plane. If the parabola of equation y = $x^{2}$+px + q is such that a) it intersects the axes x and y at three distinct points; b) the circumference passing through the three points above intersects the parabola at a fourth point A distinct from the previous three points, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
+> 22. A 0xy orthogonal Cartesian system is fixed in the plane. If the parabola of equation y = $x^{2}$+px + q is such that a) it intersects the axes x and y at three distinct points; b) the circle passing through the three points above intersects the parabola at a fourth point A distinct from the previous three points, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_student_marzo#q22|src_kangourou_2018_student_marzo__Q22]]
@@ -997,7 +1003,7 @@ Sum of Nadia cards if sum of products and before*
 
 ![[src_kangourou_2018_student_marzo__prob23.png]]
 
-> 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 so that the sum of the four vertices on each square is the same for all squares. Tops 1 and 5 have already been numbered. What number distinguishes the vertex marked with x ? A) 2 B) 3 C) 4 D) 6 E) Numbering cannot be carried out.
+> 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 so that the sum of the four vertices on each square is the same for all squares. Vertices 1 and 5 have already been numbered. What number distinguishes the vertex marked with x ? A) 2 B) 3 C) 4 D) 6 E) Numbering cannot be carried out.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_student_marzo#q23|src_kangourou_2018_student_marzo__Q23]]
@@ -1083,9 +1089,9 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who is the tallest if only one of the brothers lies?
+*Who is the tallest if only one of the brothers is lying*
 
-> 26. Four brothers, marked with A, B, C, and D, are all of different heights. They make the following statements: - A: I am neither the highest nor the lowest; - B: I am not the lowest; - C: I am the highest; - D: I am the lowest. If only one of them thinks, who's the tallest? (A) A B B C C D D E) The information is not sufficient to answer.
+> 26. Four brothers, denoted by A, B, C and D, all have different heights. They make the following statements: - A: I am neither the tallest nor the shortest; - B: I am not the shortest; - C: I am the tallest; - D: I am the shortest. If one and only one of them is lying, who is the tallest? A) A B) B C) C D) D E) The information is not sufficient to answer.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_student_marzo#q26|src_kangourou_2018_student_marzo__Q26]]
@@ -1114,7 +1120,7 @@ Who is the tallest if only one of the brothers lies?
 
 The probability that the sum of the three maximum values is 18*
 
-> 27. Alberta throws three six-sided dice (numbered 1 to 6) and writes on a sheet the highest number she gets. He throws the three dice two more times, always writing down the highest of the numbers he gets, and then he adds up the three numbers he wrote. What is the probability that the sum is 18? A) 1 --- 69 B) C) D) E)
+> 27. Alberta throws three six-sided dice (numbered 1 to 6) and writes on a sheet the highest number she gets. She throws the three dice two more times, always writing down the highest of the numbers she gets, and then she adds up the three numbers he wrote. What is the probability that the sum is 18? A) 1 --- 69 B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_student_marzo#q27|src_kangourou_2018_student_marzo__Q27]]
@@ -1209,7 +1215,7 @@ The probability that the sum of the three maximum values is 18*
 \end{document}
 ```
 
-> 28. ABCDEF is a regular hexagon. G is the middle point of AB. H and I are the intersection points of the GD and GE segments with FC respectively. What is the relationship between the area of the GIF triangle and that of the IHDE trapezoid? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
+> 28. ABCDEF is a regular hexagon. G is the middle point of AB. H and I are the intersection points of the GD and GE segments with FC respectively. What is the ratio between the area of the GIF triangle and that of the IHDE trapezoid? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_student_marzo#q28|src_kangourou_2018_student_marzo__Q28]]
@@ -1238,7 +1244,7 @@ The probability that the sum of the three maximum values is 18*
 
 *Second and tenth digits of factor 15 *
 
-> 29. Francis has calculated 1×2× ...×15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 e 0 B) 7 e 4 C) 4 e 8 D) 9 e 2 E) 3 e 8
+> 29. Francis has calculated 1×2× ...×15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 and 0 B) 7 and 4 C) 4 and 8 D) 9 and 2 E) 3 and 8
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_student_marzo#q29|src_kangourou_2018_student_marzo__Q29]]
@@ -1267,7 +1273,7 @@ The probability that the sum of the three maximum values is 18*
 
 *Number of participants in the given probability field 1/2*
 
-> 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40 percent. The probability that a delegation of two participants chosen will usually consist of a girl and a boy is exactly 1/2. How many people are in the camp? A) 20 B) 24 C) 36 D) 38
+> 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40 percent. The probability that a delegation of two participants chosen at random consists of a girl and a boy is exactly 1/2. How many people are in the camp? A) 20 B) 24 C) 36 D) 38
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_student_marzo#q30|src_kangourou_2018_student_marzo__Q30]]

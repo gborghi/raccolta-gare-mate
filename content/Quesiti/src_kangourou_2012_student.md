@@ -43,7 +43,7 @@ level: kangourou
 
 *Look at the dial of the watch with different hands*
 
-> On a given day, the water level (measured in centimetres) in a port has risen and fallen relative to the average annual quota, reported as 0, according to the diagram in figure. For how many hours that day, the water level was at least 30 cm. above the mean? A) 5 B) 6 C) 7 D) 9 E) 13
+> On a given day, the water level (measured in centimetres) in a port has risen and fallen relative to the average annual level, reported as 0, according to the diagram in figure. For how many hours that day, the water level was at least 30 cm. above the mean? A) 5 B) 6 C) 7 D) 9 E) 13
 
 [[Quesiti/src_kangourou_2012_student#q01|src_kangourou_2012_student__Q01]]
 
@@ -72,9 +72,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gold with water level above 30 cm from the chart*
+*Hours with water level above 30 cm from the graph*
 
-> The number is equal to A) 1. B)       . C)     . D)       . E) 2.
+> The number            is equal to
+> A) 1.
+> B)       .
+> C)     .
+> D)       .
+> E) 2.
 
 [[Quesiti/src_kangourou_2012_student#q02|src_kangourou_2012_student__Q02]]
 
@@ -105,9 +110,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rectangles with area 60 and whole sides*
+*Number of rectangles with area 60 and integer sides*
 
-> In a list of five numbers, the first one is 2 and the last one is 12. The product of the first three numbers is 30, the product of the three power plants is 90, and the product of the last three is 360. What's the number in the middle of the list? A) 3 B) 4 C) 5 D) 6 E) 10
+> In a list of five numbers, the first is 2 and the last is 12. The product of the
+> first three numbers is 30, the product of the three middle ones is 90 and the product of the
+> last three is 360. What is the number in the middle of the list?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 10
 
 [[Quesiti/src_kangourou_2012_student#q03|src_kangourou_2012_student__Q03]]
 
@@ -169,7 +181,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the nested root square
+*Value of the nested root sqrt(2 sqrt2)*
 
 > Two sides of a quadrilateral measure 1 cm and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimeters does the perimeter of the quadrilateral measure? A) 8 B) 9 C) 10 D) 11 E) 12
 
@@ -264,7 +276,7 @@ level: kangourou
 
 Maximum positive integer n with n^200 < 5^300 *
 
-> The maximum positive integer n for which n200 < 5300 is A) 5. B) 6. C) 8. D) 11. (E) 12.
+> The maximum positive integer n for which n^200 < 5^300 is A) 5. B) 6. C) 8. D) 11. (E) 12.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_student#q07|src_kangourou_2012_student__Q07]]
@@ -295,9 +307,14 @@ Maximum positive integer n with n^200 < 5^300 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What function satisfies a given report*
+*Which function satisfies a given relation*
 
-> Determine which of the following functions is fulfilled in report A) B) C) D) E)
+> Determine which of the following functions satisfies the relation 
+> A)  
+> B)  
+> C)  
+> D)  
+> E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_student#q08|src_kangourou_2012_student__Q08]]
@@ -330,9 +347,9 @@ Maximum positive integer n with n^200 < 5^300 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winks on real x with x^3<64<x^2*
+*Links on real x with x^3<64<x^2*
 
-> A real number x satisfies the inequalities x3 < 64 < x2. Which of the following statements on x is correct? A) 0 < x < 64 B) -8 < x < 4 C) x > 8 D) -4 < x < 8 E) x < -8
+> A real number x satisfies the inequalities x^3 < 64 < x^2. Which of the following statements on x is correct? A) 0 < x < 64 B) -8 < x < 4 C) x > 8 D) -4 < x < 8 E) x < -8
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_student#q09|src_kangourou_2012_student__Q09]]
@@ -391,7 +408,7 @@ Maximum positive integer n with n^200 < 5^300 *
 \end{document}
 ```
 
-> The five-pointed star in the figure is regular. What is the degree of the angle indicated by α ? A) 24 B) 30 C) 36 D) 45 E) 72 Questions from N. 11 al N. 20 is worth 4 points each.
+> The five-pointed star in the figure is regular. What is the degree of the angle indicated by α ? A) 24 B) 30 C) 36 D) 45 E) 72 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_student#q10|src_kangourou_2012_student__Q10]]
@@ -498,11 +515,21 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum percentage of the group that made all trips*
+*Minimum percentage of the group that took all the trips*
 
-> The set of solutions to the dissection of \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\\\\\\\\\\\\\\\\\\\\\\\ B) (-3, 3) . C) (-∞, -3). D) (-3, +∞) . (e) the sum of all real numbers. α
+> The solution set of the inequality   |x| + |x-3| > 3   is
+> A) (-∞, 0) » (3,+∞).
+> B) (-3, 3) . 
+> C) (-∞, -3).
+> D) (-3, +∞) .
+> E) the set of all real numbers.
+> α
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 2012 Kang
+> Pag. 
+> Pag. 29
+> 29
+> Kang 2012
+> Kang 2012
 
 [[Quesiti/src_kangourou_2012_student#q13|src_kangourou_2012_student__Q13]]
 
@@ -535,7 +562,7 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Girls/boys average grade ratio*
+*Boys/girls average grade ratio*
 
 > School scores in Slovakia are awarded by five grades, from 1 (best) to 5. One test didn't go well and the average grade was 4. The boys scored slightly higher than the girls, with an average score of 3.6 against 4.2 of the girls. Which of the following statements about that class is correct? A) Boys are twice as many as girls B) Boys are four times as many as girls C) Girls are twice as many as boys D) Girls are four times as many as boys E) Boys are as many as girls
 
@@ -572,11 +599,11 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area three-square area union region and triangle in sheath *
+*Area of the union region of three squares and a triangle in a flowerbed *
 
 ![[src_kangourou_2012_student__prob15.png]]
 
-> In a square wall of 16 m on the side is inscribed the region shown in the figure, which is a union of three squares and a rectangular triangle. How much is the area of this region in square meters? A) 114 B) 130 C) 144 D) 160 E) 186
+> In a square flowerbed of 16 m on the side is inscribed the region shown in the figure, which is a union of three squares and a right triangle. How much is the area of this region in square meters? A) 114 B) 130 C) 144 D) 160 E) 186
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_student#q15|src_kangourou_2012_student__Q15]]
@@ -610,7 +637,7 @@ True statement for x with x3<64<x2*
 
 *Post sold twice with total number 857*
 
-> All seats in the front row, numbered consecutively from 1. An additional ticket to one of these places was mistakenly sold. We know that the sum of the number of seats marked on the tickets sold for the first row is 857: what is the number of the place for which two tickets were sold? A) 4 B) 16 C) 25 D) 37 E) 42
+> All seats in the front row of a cinema were sold, numbered consecutively from 1. By mistake, an additional ticket for one of these seats was sold. We know that the sum of the number of seats marked on the tickets sold for the first row is 857: what is the number of the seat for which two tickets were sold? A) 4 B) 16 C) 25 D) 37 E) 42
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_student#q16|src_kangourou_2012_student__Q16]]
@@ -651,7 +678,7 @@ True statement for x with x3<64<x2*
 
 ![[src_kangourou_2012_student__prob17.png]]
 
-> Look at the figure. A rectangle of ABCD paper measuring 4 cm × 16 cm shall be folded over itself along a MN straight line so that the C-top overlaps with the A-top. What is the area of the ABNMD pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57
+> Look at the figure. A rectangle of ABCD paper measuring 4 cm × 16 cm shall be folded over itself along a MN straight line so that the vertex C overlaps with the vertex A. What is the area of the ABNMD' pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_student#q17|src_kangourou_2012_student__Q17]]
@@ -764,7 +791,7 @@ True statement for x with x3<64<x2*
 
 ![[src_kangourou_2012_student__prob19.png]]
 
-> The clock in the figure is rectangular in shape; as used, the hands move at a constant angular speed. What is the distance between 1 and 2 measured on the dial in centimetres if the distance between 8 and 10 is 12 centimetres? A) 3 B) 2 C) 4 D) 2 + E) 12 - 3
+> The clock in the figure is rectangular in shape; as usual, the hands move at a constant angular speed. What is the distance between 1 and 2 measured on the dial in centimetres if the distance between 8 and 10 is 12 centimetres? A) 3 B) 2 C) 4 D) 2 + E) 12 - 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_student#q19|src_kangourou_2012_student__Q19]]
@@ -800,7 +827,7 @@ True statement for x with x3<64<x2*
 
 *sum of parallel straight intersections with parabola *
 
-> At the end of an algebra lesson, the equation parabola y = x2 and 2012 lines parallel to the equation line y = x remain on the board, each of which intersects the parabola in two points. The sum of the axes of the intersection points of the lines with the parabola is A) 0. B) 1. C) 1006. D) 2012. E) a different number. The questions from N. 21 al N. 30 is worth 5 points each.
+> At the end of an algebra lesson, the equation parabola y = x2 and 2012 lines parallel to the equation line y = x remain on the board, each of which intersects the parabola in two points. The sum of the abscissas of the intersection points of the lines with the parabola is A) 0. B) 1. C) 1006. D) 2012. E) a different number. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_student#q20|src_kangourou_2012_student__Q20]]
@@ -832,9 +859,14 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum function with absolute values*
+*Minimum of a function with absolute values*
 
-> What is the smallest value that the function A) 1 B) 1/2 C) 1/4 D) 1/503 E) 1/2012 can assume
+> What is the smallest value that the function can take  
+> A) 1
+> B) 1/2
+> C) 1/4
+> D) 1/503
+> E) 1/2012
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_student#q21|src_kangourou_2012_student__Q21]]
@@ -1015,7 +1047,7 @@ True statement for x with x3<64<x2*
 
 ![[src_kangourou_2012_student__prob24.png]]
 
-> An equilateral triangle rotates around a square on side 1 starting from the position indicated by the figure and as shown in it. How long is the path taken from the top of the triangle that is marked in bold, when both the triangle and the point meet for the first time in the initial position? A) 4π B) 28π/3              C) 8π D)14π/3                E)3π
+> An equilateral triangle rotates around a square of side 1 starting from the position indicated by the figure and as shown in it. How long is the path taken by the vertex of the triangle that is marked in bold, when both the triangle and the point meet for the first time in the initial position? A) 4π B) 28π/3              C) 8π D)14π/3                E)3π
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_student#q24|src_kangourou_2012_student__Q24]]
@@ -1086,7 +1118,7 @@ True statement for x with x3<64<x2*
 
 *Number of zeros in real 50 with 522 negative products*
 
-> You have a set of 50 real numbers (not necessarily two to two distinct ones). If you multiply two numbers of the whole in every possible way (excluding the order of factors), you get exactly 522 times a negative product. How many of those 50 numbers are equal to zero? A) 1 B) 3 C) 7 D) 11 E) 2 or 5
+> You have a set of 50 real numbers (not necessarily pairwise distinct). If you multiply two numbers of the set in every possible way (excluding the order of factors), you get exactly 522 times a negative product. How many of those 50 numbers are equal to zero? A) 1 B) 3 C) 7 D) 11 E) 2 or 5
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_student#q26|src_kangourou_2012_student__Q26]]
@@ -1250,11 +1282,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pairs of both pairs*
+*both crazy pairs*
 
-> In Wonderland, every cat is either wise or crazy. If a wise cat finds himself in a room with three crazy cats, he immediately goes crazy too. On the other hand, if a mad cat comes to a room with three wise cats, the wise cats immediately declare him mad. Three cats enter an empty room one after another; after a fourth cat has entered, the first cat that had entered comes out; after a fifth cat has entered, the second cat comes out, and so on, so that there are never more than four cats in the room. When 2012 comes in, for the first time, one cat is declared insane by the other three. Which of these couples can be made up of cats who, once they enter the room, are both crazy? (a) The first and the 2011th B) The second and the 2010th C) The third and the 2009th D) The fourth and the last E) The second and the 2011th
+> In Wonderland every cat is either wise or crazy. If a wise
+> cat finds itself in a room together with three crazy cats, it immediately becomes crazy too. If instead a crazy cat finds itself in a room with three wise cats, the wise cats immediately declare it crazy. Three cats enter one after another into an empty room; after
+> a fourth cat has entered, the first cat that had entered leaves; after
+> a fifth cat has entered the second leaves, and so on, so that in the room
+> there are never more than four cats. When the 2012th cat enters, for the
+> first time a cat is declared crazy by the other three. Which of these
+> pairs can consist of cats that, once they have entered the room, both turn out to be crazy?
+> A) The first and the 2011th
+> B) The second and the 2010th
+> C) The third and the 2009th
+> D) The fourth and the last
+> E) the second and the 2011th
 > 
-> I'm not a student.
+> STUDENT ANSWERS 2012
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_student#q30|src_kangourou_2012_student__Q30]]

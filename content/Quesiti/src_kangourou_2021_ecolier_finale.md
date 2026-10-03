@@ -36,9 +36,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 2 digits with an even and an odd *
+*2-digit numbers with one even and one odd digit*
 
-> In the figure you see a large triangle divided into nine small triangles. Imagine that each small triangle represents a room, and that the bars on its sides represent as many doors as one room to the adjacent ones. Starting from the room upstairs, how many rooms can you visit at most by passing once through each room you visit?
+> In the figure you see a large triangle divided into nine small triangles. Imagine that each small triangle represents a room, and that the bars on its sides represent as many doors allowing you to pass from one room to the adjacent ones. Starting from the top room, how many rooms can you visit at most by passing once through each room you visit?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -198,7 +198,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final zeros of the product of peers between 1 and 101*
+*Final zeros of the product of even numbers between 1 and 101*
 
 > Using each of the digits 1, 2, 3, 4, each one and only once, you can construct 24 different numbers (all of 4 digits). If you put these 24 numbers in order from smallest to largest (and so the smallest is in position 1, the largest is in position 24) in which position is the number $3142$?
 >
@@ -272,7 +272,7 @@ level: kangourou
 \end{document}
 ```
 
-> Bianca has 20 rabbits: she feeds nine of them carrots every day, the others only one day yes and one no, not necessarily all on the same day. They ate 16 rabbits yesterday. How many rabbits will eat carrots today?
+> Bianca has 20 rabbits: she feeds nine of them carrots every day, the others only one day yes and one no, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today?
 >
 > - **(A)** 9
 > - **(B)** 13
@@ -311,7 +311,7 @@ level: kangourou
 
 *How many pallets (two red and green numbers) *
 
-> You have to add up some of the eight natural numbers from 1 to 8 so that you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same additives in a different order should not be considered as a different way).
+> You have to add up some of the eight natural numbers from 1 to 8 so that you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same addends in a different order should not be considered as a different way).
 >
 > - **(A)** 4
 > - **(B)** 6
@@ -350,9 +350,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 100 whole with product 100*
+*Minimum sum of 100 integers with product 100*
 
-> Ada has 10,000 cards, each with a different number from 1 to 10,000 included. It aligns them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number $N$. How many digits 1 can contain that number $N$ at most?
+> Ada has 10,000 cards, each with a different number from 1 to 10,000 included. She aligns them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number $N$. How many digits 1 can contain that number $N$ at most?
 >
 > - **(A)** 11
 > - **(B)** 12
@@ -396,7 +396,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little chocolate milk (box 18) *
+*Side of the small chocolate (box 18)*
 
 > If any of the following three statements
 >
@@ -405,10 +405,10 @@ level: kangourou
 > one and only one is true, which of the following is definitely false?
 >
 > - **(A)** Lisa has 2021 euros.
-> - **(B)** Lisa has no euro.
+> - **(B)** Lisa has no euros.
 > - **(C)** Lisa has a thousand euros.
 > - **(D)** Claim (c) is false.
-> - **(E)** The statement c) is true.
+> - **(E)** Statement (c) is the true one.
 
 **Answer:** 0002
 [[Quesiti/src_kangourou_2021_ecolier_finale#q09|src_kangourou_2021_ecolier_finale__Q09]]
@@ -436,7 +436,7 @@ level: kangourou
 
 *Maximum of five consecutive years with sum of 2020*
 
-> The sum of the 2021 figures is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
+> The sum of the digits of 2021 is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
 
 **Answer:** 0406
 [[Quesiti/src_kangourou_2021_ecolier_finale#q10|src_kangourou_2021_ecolier_finale__Q10]]
@@ -462,9 +462,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter up and back (hill) *
+*Metres uphill and back (hill)*
 
-> A watermelon weighs three pounds less than three watermelons. All anguries have the same weight. Which is it, in eights?
+> A watermelon weighs 3 kilos less than three watermelons. All watermelons have the same weight: what is it, in hectograms?
 
 **Answer:** 0350
 [[Quesiti/src_kangourou_2021_ecolier_finale#q11|src_kangourou_2021_ecolier_finale__Q11]]
@@ -492,7 +492,7 @@ level: kangourou
 
 *Packs of 5 biscuits per 100 biscuits with minimum number *
 
-> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
+> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
 
 **Answer:** 0006
 [[Quesiti/src_kangourou_2021_ecolier_finale#q12|src_kangourou_2021_ecolier_finale__Q12]]
@@ -519,9 +519,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 4 digits with a thousand 1 and at least 3 digits equal to *
+*4-digit numbers with thousands digit 1 and at least 3 equal digits*
 
-> Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
+> Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. At minimum, how many Martians must get on a space shuttle to make sure there are at least two of the same type?
 
 **Answer:** 0037
 [[Quesiti/src_kangourou_2021_ecolier_finale#q13|src_kangourou_2021_ecolier_finale__Q13]]
@@ -549,7 +549,7 @@ level: kangourou
 
 How old is Anna (50 years 50 months ...)
 
-> The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since this last happened?
+> The number 2021 is formed by joining two consecutive integers in increasing order. How many years have passed since this last happened?
 
 **Answer:** 0056
 [[Quesiti/src_kangourou_2021_ecolier_finale#q14|src_kangourou_2021_ecolier_finale__Q14]]
@@ -576,9 +576,9 @@ How old is Anna (50 years 50 months ...)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hundred-year pairs of two-digit numbers *
+*How many centenarian pairs of two-digit numbers *
 
-> Returning from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a stack is needed for crossing, but they only have one that can fit two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together, they do it at the slowest speed?
+> Returning from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a flashlight is needed for crossing, but they only have one that can fit two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together, they do it at the slowest speed?
 
 **Answer:** 0005
 [[Quesiti/src_kangourou_2021_ecolier_finale#q15|src_kangourou_2021_ecolier_finale__Q15]]

@@ -64,9 +64,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Topoles in the pockets of the giant*
+*Mice in the pockets of the giant*
 
-> In a giant's jacket there are 585 pockets, in each pocket live 3 mice, and each mouse is accompanied by 5 little mice. How many mice live in that giant's jacket? A) (585:3):5      B) (585×3):5     C) (585×5):3    D) 585×3×5      E) 585×(5+3)
+> In a giant's jacket there are 585 pockets, in each pocket live 3 mice, and each mouse is accompanied by 5 little mice. How many little mice live in that giant's jacket? A) (585:3):5      B) (585×3):5     C) (585×5):3    D) 585×3×5      E) 585×(5+3)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2000_studenti#q02|src_kangourou_2000_studenti__Q02]]
@@ -97,7 +97,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*More than 5 consecutive years with sum of 2000*
+*More than 5 consecutive numbers with sum of 2000*
 
 > The sum of five consecutive numbers is 2000. The largest of these numbers is: A) 490 B) 475 C) 471 D) 423 E) 402
 
@@ -166,7 +166,7 @@ level: kangourou
 
 *Quantities 2 and 5 to make 2000*
 
-> The year 2000: the number 2000 is obtained by multiplying only two and five. How many of each type are needed? (a) two two and five five B) three two and three five C) three two and four five D) four two and three five E) four two and four five
+> The year 2000: the number 2000 is obtained by multiplying only two and five. How many of each type are needed? A) 2 twos and 5 fives  B) 3 twos and 3 fives  C) 3 twos and 4 fives  D) 4 twos and 3 fives  E) 4 twos and 4 fives
 
 **Answer:** D
 [[Quesiti/src_kangourou_2000_studenti#q05|src_kangourou_2000_studenti__Q05]]
@@ -233,7 +233,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less than 7 consecutive odd times with the sum of 119*
+*Smallest of 7 consecutive odd numbers with sum 119*
 
 > The sum of seven consecutive odd numbers is 119. The smallest of these numbers is A) 11 B) 13 C) 15 D) 17 E) 19
 
@@ -269,11 +269,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fetus length around the box*
+*Length of ribbon around the box*
 
 ![[src_kangourou_2000_studenti__prob8.png]]
 
-> The birthday gift box for Baby Roo, the son of Kanga Roo, is 10 cm × 10 cm × 30 cm and has been bound with a golden fetus as shown. What's the length of the fetus? The length of the fetus for the knot may be considered negligible. A) 2 m    B) 2 m 40 cm    C) 2 m 60 cm    D) 3 m     E) 2 m 50 cm
+> The gift box for the birthday of Baby Roo, the son
+> of Kanga Roo, has dimensions 10 cm × 10 cm × 30 cm and was
+> tied with a golden ribbon as in the figure. What is the
+> length of the ribbon? The length of the ribbon for the
+> knot can be considered negligible.
+> A) 2 m    B) 2 m 40 cm    C) 2 m 60 cm    D) 3 m     E) 2 m 50
+> cm
 
 **Answer:** B
 [[Quesiti/src_kangourou_2000_studenti#q08|src_kangourou_2000_studenti__Q08]]
@@ -306,7 +312,7 @@ level: kangourou
 
 *Bicycle rental time with barter*
 
-> Charlie rents his flaming bicycle to his friends in the following way: for two tablespoons of chocolate four hours and for 12 candy bars three hours. Mike gives Charlie one tablespoon of chocolate and four candy bars. How long can you ride Charlie's bike? A) an hour and a half B) 1 hour C) 2 hours D) 3 hours E) 4 hours
+> Charlie rents his flaming bicycle to his friends in the following way: for two bars of chocolate four hours and for 12 candy bars three hours. Mike gives Charlie one bar of chocolate and four candies. How long can you ride Charlie's bike? A) an hour and a half B) 1 hour C) 2 hours D) 3 hours E) 4 hours
 
 **Answer:** D
 [[Quesiti/src_kangourou_2000_studenti#q09|src_kangourou_2000_studenti__Q09]]
@@ -338,7 +344,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Take 4 digits for a minimum number of 3 digits*
+*Remove 4 digits for a minimum number of 3 digits*
 
 > What are the four digits that must be removed from the number 4921508 without changing the order, to get the smallest three-digit number possible? A) 4,9,2,1 B) 4,2,1,0 C) 1,5,0,8 D) 4,9,2,5 E) 4,9,5,8)
 
@@ -405,9 +411,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major between A..E with equal displacement*
+*Largest among A..E with shifted equalities*
 
-> If A + 1 = B + 2 = C  3 = D + 4 = E  5 what is the greatest? A) A B) B C) C D) D E) E
+> If  A + 1 = B + 2 = C – 3 = D + 4 = E – 5  which is the largest?
+> A) A  
+> B) B  
+> C) C  
+> D) D  
+> E) E
 
 **Answer:** E
 [[Quesiti/src_kangourou_2000_studenti#q12|src_kangourou_2000_studenti__Q12]]
@@ -471,7 +482,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares in figure 10 of the ladder*
+*Squares in a figure with 10 steps*
 
 ![[src_kangourou_2000_studenti__prob13.png]]
 
@@ -540,11 +551,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The longest gap between five gardens
+*Longest hedge among five gardens*
 
 ![[src_kangourou_2000_studenti__prob14.png]]
 
-> Five neighbors have identical rectangular terrain. Each of them planted a hedge (shown in the figure with a continuous stretch) on its soil to protect the flowering part of the garden. Who used a longer hedge? A) Mr. Al B) Mr. Ben C) Mr. (c) Mr. Mr E. Other
+> Five neighbors have identical rectangular plots of land. Each of them planted a hedge (indicated
+> in the figure by a continuous line) on their own plot to protect the part of the garden with the flowers.
+> Who used a longer hedge?
+> A) Mr. Ale  
+> B) Mr. Ben  
+> C) Mr. Cod  
+> D) Mr. Dag  
+> E) Mr. Eld
 
 **Answer:** C
 [[Quesiti/src_kangourou_2000_studenti#q14|src_kangourou_2000_studenti__Q14]]
@@ -617,7 +635,7 @@ When they all get back together at the club
 
 *Time to wash 3 elephants together*
 
-> Kang Circus elephant trainer takes 40 minutes to wash an elephant. Your young son takes two hours to do the same job. How long will it take the trainer and his son to wash three elephants if they work together? (A) 30 minutes. (b) 45 minutes. (c) 60 minutes. (d) 90 minutes. E) 100 minutes.
+> Kang Circus elephant trainer takes 40 minutes to wash an elephant. His young son takes two hours to do the same job. How long will it take the trainer and his son to wash three elephants if they work together? A) 30 minutes. B) 45 minutes. C) 60 minutes. D) 90 minutes. E) 100 minutes.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2000_studenti#q16|src_kangourou_2000_studenti__Q16]]
@@ -668,7 +686,7 @@ When they all get back together at the club
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of areas of triangles in figure*
+*Sum of the areas of triangles in the figure*
 
 ![[src_kangourou_2000_studenti__prob17.png]]
 
@@ -825,9 +843,15 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Conversion of double-double-double-double-taller *
+*Doubloon-ducat-thaler conversion*
 
-> 800 doubles are worth 100 dukes. 100 doubles are equal to 250 tallies. How many duchies have the same value as 100 tallies? A) 2 B) 5 C) 10 D) 25 E) 50
+> 800 doubloons have the same value as 100 ducats. 100 doubloons have the same value as 250 thalers.
+> How many ducats have the same value as 100 thalers?
+> A) 2  
+> B) 5  
+> C) 10  
+> D) 25  
+> E) 50
 
 **Answer:** B
 [[Quesiti/src_kangourou_2000_studenti#q21|src_kangourou_2000_studenti__Q21]]
@@ -860,9 +884,16 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lessons left after eating layers*
+*Sugar cubes left after layers eaten*
 
-> Mama Clara buys a box of sugar in the pots. Cristina eats the surface layer, i.e. 77 pollen; of what remains she eats the lateral layer, which consists of 55 pollen; finally Cristina eats the frontal layer. How many tiles are left in the box? A) 203 B) 256 C) 295 D) 300 E) 3
+> Mamma Chiara buys a box of sugar cubes. Cristina eats the top layer,
+> that is 77 sugar cubes; of what remains she eats the side layer, which consists of 55 sugar cubes; finally
+> Cristina eats the front layer. How many sugar cubes are left in the box?
+> A) 203  
+> B) 256  
+> C) 295  
+> D) 300  
+> E) 3
 
 **Answer:** D
 [[Quesiti/src_kangourou_2000_studenti#q22|src_kangourou_2000_studenti__Q22]]
@@ -897,7 +928,7 @@ Waiting for mother kangaroo at the tree
 
 *Minimum number of judges on average 5.625*
 
-> In a dance competition, all the judges cast their vote for the candidates with full votes. The average of all scores for a candidate was 5,625. What is the minimum number of judges for this to be possible? A) 2 B) 6 C) 8 D) 10 E) 12
+> In a dance competition, all the judges cast their vote for the candidates with integer votes. The average of all scores for a candidate was 5.625. What is the minimum number of judges for this to be possible? A) 2 B) 6 C) 8 D) 10 E) 12
 
 **Answer:** C
 [[Quesiti/src_kangourou_2000_studenti#q23|src_kangourou_2000_studenti__Q23]]
@@ -934,7 +965,7 @@ Waiting for mother kangaroo at the tree
 
 ![[src_kangourou_2000_studenti__prob24.png]]
 
-> The figure represents a long strip of paper divided into 2000 triangles, with the lines drawn. Suppose that the strip can be folded along the lines drawn, in the order indicated by the numbers, so that the right side of the strip always retains its horizontal position and that the folded portion from the left overlaps the triangle immediately adjacent to the right. What position will the A, B and C vertices be in after 1999 folding?
+> The figure represents a long strip of paper divided into 2000 triangles, with the dashed lines. Suppose that the strip can be folded along the lines drawn, in the order indicated by the numbers, so that the right side of the strip always retains its horizontal position and that the folded portion from the left overlaps the triangle immediately adjacent to the right. What position will the A, B and C vertices be in after 1999 folding?
 
 **Answer:** E
 [[Quesiti/src_kangourou_2000_studenti#q24|src_kangourou_2000_studenti__Q24]]
@@ -967,9 +998,16 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the coin between the boxes*
+*Position of the coin among the boxes*
 
-> There are three boxes and three objects: a coin, a shell, and a penis. Each box contains one and only one object: the green box is to the left of the blue box; the coin is to the left of the peel; the red box is to the right of the shell; the peel is to the right of the red box; in which box is the coin? A) in the red box B) in the green box C) in the blue box D) we cannot know E) the conditions are impossible to verify
+> There are three boxes and three objects: a coin, a shell and a pea. Each box contains one
+> and only one object: the green box is to the left of the blue box; the coin is to the left of the
+> pea; the red box is to the right of the shell; the pea is to the right of the red box; in
+> which box is the coin?
+> A) in the red box  B) in the green box 
+> C) in the blue box  
+> D) we cannot know  
+> E) the conditions are impossible to be verified
 
 **Answer:** A
 [[Quesiti/src_kangourou_2000_studenti#q25|src_kangourou_2000_studenti__Q25]]
@@ -1006,7 +1044,7 @@ Waiting for mother kangaroo at the tree
 
 *Value of KANGAROO with distinct digits*
 
-> If each letter corresponds to a different number, then KANGAROO + 10000 × AROO  10000 × KANG ("×" indicates the ordinary multiplication) is A) AROOAROO B) AROOKANG C) KANGKANG D) KANGAROO E) KAGANROO
+> If each letter corresponds to a different digit, then KANGAROO + 10000 × AROO – 10000 × KANG ("×" indicates the ordinary multiplication) is A) AROOAROO B) AROOKANG C) KANGKANG D) KANGAROO E) KAGANROO
 
 **Answer:** A
 [[Quesiti/src_kangourou_2000_studenti#q26|src_kangourou_2000_studenti__Q26]]
@@ -1123,7 +1161,7 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies between 100 and 999 with different digits*
+*Integers between 100 and 999 with different digits*
 
 > How many whole numbers between 100 and 999 have all the different digits? A) 864 B) 684 C) 648 D) 486 E) 468
 
@@ -1158,7 +1196,7 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angles of 30 degrees in the diagonal of the hexagon*
+*Angles of 30 degrees in the diagonals of the hexagon*
 
 > Let's take a regular hexagon and draw all its diagonals. How many angles of 30° do we see? A) 4 B) 6 C)12 D) 24 E) 36
 

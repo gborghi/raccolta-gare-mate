@@ -44,7 +44,7 @@ level: kangourou
 
 ![[src_kangourou_2017_benjamin_marzo__prob1.png]]
 
-> Four cards are aligned like this: Which of these alignments can't you get by trading two cards instead? A) B)
+> Four cards are aligned like this: Which of these alignments can't you get by swapping the positions of just two cards? A) B)
 > 	 	
 > C)
 > 	
@@ -160,9 +160,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 1111x3333 given as 1111x1111*
+*Value of 1111x3333 given 1111x1111*
 
-> I'm telling you that 1111 is equal to 1234321. So how much is 1111 × 3333? A) 3692963 B) 3698963 C) 3456543 D) 3579753 E) 3702963
+> I tell you that 1111 × 1111 = 1234321. Then what is 1111 × 3333?
+> A) 3692963	
+> B) 3698963	
+> C) 3456543	
+> D) 3579753 	
+> E) 3702963
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q04|src_kangourou_2017_benjamin_marzo__Q04]]
@@ -254,7 +259,7 @@ level: kangourou
 
 € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € €
 
-> Joan has 20 euros. Each of her four sisters has 10 euros. How many euros does Giovanna have to give to each of her sisters so that each of the five girls has the same amount of money? A) 2
+> Joan has 20 euros. Each of her four sisters has 10 euros. How many euros does Joan have to give to each of her sisters so that each of the five girls has the same amount of money? A) 2
 > 	
 > B) 4
 > 	
@@ -301,7 +306,7 @@ level: kangourou
 
 *brothers/sisters of Maria and Martino*
 
-> Maria has the same number of brothers and sisters; her brother Martino has twice the number of sisters. How many children are there in their family? A) 4
+> Maria has the same number of brothers and sisters; her brother Martino has twice as many sisters as brothers. How many children are there in their family? A) 4
 > 	
 > B) 6
 > 	
@@ -352,7 +357,7 @@ level: kangourou
 
 ![[src_kangourou_2017_benjamin_marzo__prob8.png]]
 
-> Three rhinoceroses, Jane, Kate and Leila, are wandering the savannah. Jane walks in front, Leila walks in the middle, and Kate closes the line. Jane weighs 500 pounds more than Kate. Kate weighs 1,000 pounds less than Leila. If the size of the figures gives an idea of the weight of the animals, which of the following pictures shows Jane, Kate and Leila in the correct order? A)
+> Three rhinoceroses, Jane, Kate and Leila, are wandering the savannah. Jane walks in front, Leila walks in the middle, and Kate closes the line. Jane weighs 500 kg more than Kate. Kate weighs 1,000 kg less than Leila. If the size of the figures gives an idea of the weight of the animals, which of the following pictures shows Jane, Kate and Leila in the correct order? A)
 > 	
 > B) C)
 > 	
@@ -455,7 +460,7 @@ How Beppe had folded the sheet given the hole
 > 	
 > D)
 > 	
-> E) Questions from N. 11 al N. 20 is worth 4 points each.
+> E) Questions from N. 11 to N. 20 is worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q10|src_kangourou_2017_benjamin_marzo__Q10]]
@@ -494,7 +499,7 @@ How Beppe had folded the sheet given the hole
 
 *Sixth face of the dice with equal opposite sums*
 
-> A special dice has a number on each face. The sums of the numbers on opposite sides are all the same. Five of the six numbers are 5, 6, 9, 11, and 14. What's the number on the sixth face? A) 4
+> A special die has a number on each face. The sums of the numbers on opposite faces are all the same. Five of the six numbers are 5, 6, 9, 11, and 14. What's the number on the sixth face? A) 4
 > 	
 > B) 7
 > 	
@@ -543,15 +548,25 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shares by cutting into 9 and 8 parts*
+*Pieces of string by cutting at points into 9 and 8 parts*
 
-> Simone intends to divide a piece of spaghetti into nine pieces of the same length and marks the points where she must cut it with a blue pin. Barbara intends to divide the same piece of spaghetti into eight pieces of the same length and, in turn, marks the points where she must cut it with a red pin. Charles comes in and cuts the sponge wherever he finds any marks of pebble. How many pieces of spaghetti does Carlo get? A) 15
+> Simone intends to divide a piece of string into nine pieces of the same length 
+> and marks the points where he must cut it with a blue marker.
+> Barbara intends to divide the same piece of string into eight pieces of the same 
+> length and, in turn, marks the points where she must cut it with a red marker.
+> Carlo arrives and cuts the string at all the points where he finds marker marks. How many pieces 
+> of string does Carlo obtain?
+> A) 15	
+	
 > 	
-> B) 16
+> B) 16	
+	
 > 	
-> C) 17
+> C) 17	
+	
 > 	
-> D) 18
+> D) 18	
+	
 > 	
 > E) 19
 >
@@ -594,11 +609,11 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lightness of 2 and 3 seated data couch*
+*Armchair width given 2 and 3 seat sofas*
 
 ![[src_kangourou_2017_benjamin_marzo__prob13.png]]
 
-> The Modern Mobili store sells 2 and 3 seat chairs and sofas made of the same modular elements, as shown in the figure. Including the arms, the width of a two-seater sofa is 160 cm, that of a three-seater sofa is 220 cm. Including the arms, how many inches wide is the armchair? A) 60
+> The Modern Mobili store sells armchairs and 2 and 3 seat sofas made of the same modular elements, as shown in the figure. Including the arms, the width of a two-seater sofa is 160 cm, that of a three-seater sofa is 220 cm. Including the arms, how many centimeters wide is the armchair? A) 60
 > 	
 > B) 80
 > 	
@@ -646,7 +661,7 @@ How Beppe had folded the sheet given the hole
 
 ![[src_kangourou_2017_benjamin_marzo__prob14.png]]
 
-> Milena made the construction you see next to the 1 dm side cubes and now wants to put it in a rectangular box. Which of the following are the dimensions of the smallest box you can use? A) 3 × 4 × 4 B) 3 × 5 × 5 C) 3 × 4 × 5 D) 4 × 4 × 4 E) 4 × 4 × 5
+> Milena made the construction you see next to it by gluing 1 dm side cubes and now wants to put it in a box with rectangular faces. Which of the following are the dimensions of the smallest box you can use? A) 3 × 4 × 4 B) 3 × 5 × 5 C) 3 × 4 × 5 D) 4 × 4 × 4 E) 4 × 4 × 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q14|src_kangourou_2017_benjamin_marzo__Q14]]
@@ -683,7 +698,7 @@ How Beppe had folded the sheet given the hole
 
 *Maximum number of 7 digits by deleting 24 digits*
 
-> Tom writes all the numbers from 1 to 20 on the same line and gets the 31-digit number: 1234567891011121314151617181920. Then delete 24 of the 31 digits so that the number that remains written (leaving the digits in the order in which they are) is as large as possible. What number is this? A) 9671819 B) 9567892 C) 9781920 D) 9912345 E) 9818192
+> Tom writes all the numbers from 1 to 20 on the same line and gets the 31-digit number: 1234567891011121314151617181920. Then he deletes 24 of the 31 digits so that the number that remains written (leaving the digits in the order in which they are) is as large as possible. What number is this? A) 9671819 B) 9567892 C) 9781920 D) 9912345 E) 9818192
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q15|src_kangourou_2017_benjamin_marzo__Q15]]
@@ -789,17 +804,36 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Km routes on Thursday, 2 km more per day, total 70*
+*Km travelled on Thursday, 2 km more each day, total 70*
 
-> Paul left on Monday for a 5-day mountain trip. Every day from Monday to Friday he walked two kilometers more than the previous day, running a total of 70 kilometers. How many miles did you walk on Thursday? A) 12
-> 	
-> B) 13
-> 	
-> C) 14
-> 	
-> D) 15
-> 	
-> E) 16 couch with 3 seats Couch with 2 seats Seat 220 cm 160 cm ? What is this ? 812 184
+> Paolo left on Monday for a 5-day hiking trip in the mountains. Every day from Monday
+> to Friday he walked 2 km more than the previous day, covering a total of 70 km. How many
+> kilometres did he travel on Thursday?
+> A) 12	
+	
+> B) 13 	
+	
+> C) 14	
+	
+> D) 15	
+	
+> E) 16 
+> 3-seater sofa
+> 2-seater sofa
+> Armchair
+> 220 cm
+> 160 cm
+> ?
+> DAD
+> BHD
+> ABD
+> AHD
+> HAB
+> 414
+> 124
+> ?
+> 812
+> 184
 >
 
 **Answer:** E
@@ -976,7 +1010,7 @@ How Beppe had folded the sheet given the hole
 \end{document}
 ```
 
-> In the image you see a figure formed by overlapping three squares so that the overlapping parts are square. The first side has a length of 2 cm, the second side has a length of 4 cm and a vertex in the centre of the first square, the last side has a length of 6 cm and a vertex in the centre of the second square. How many centimetres square does the figure have an area? A) 32
+> In the image you see a figure formed by overlapping three squares so that the overlapping parts are square. The first has a side of length 2 cm, the second has a side of length 4 cm and a vertex in the centre of the first square, the last has a side of length 6 cm and a vertex in the centre of the second square. How many square centimetres is the area of the figure? A) 32
 > 	
 > B) 51
 > 	
@@ -984,7 +1018,7 @@ How Beppe had folded the sheet given the hole
 > 	
 > D) 56
 > 	
-> E) 48 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 48 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q20|src_kangourou_2017_benjamin_marzo__Q20]]
@@ -1019,11 +1053,18 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-Manufacture from materials of any heading, except those of heading 8546.
+*Solid constructible with 9 bars 2 gray 1 white*
 
 ![[src_kangourou_2017_benjamin_marzo__prob21.png]]
 
-> Raphael has bars, each made up of two gray cubes and a white one glued together, like the one shown in the figure. Which of the following solids can you build with 9 of these bars? A) B) ….. C) …. D) E)
+> Raffaele has some bars, each made of 2 gray cubes and one white cube
+> glued together, like the one shown in the figure.
+> Which of the following solids can he build with 9 of these bars?
+> A) 	
+>                  B)	
+>     …..      C) 	
+> ….          D) 	
+>               E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q21|src_kangourou_2017_benjamin_marzo__Q21]]
@@ -1082,7 +1123,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of entering 1.5. with major rules below/right*
+*Ways to insert 1..5 with greater-than rules below/right*
 
 ![[src_kangourou_2017_benjamin_marzo__prob22.png]]
 
@@ -1153,7 +1194,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 
 ![[src_kangourou_2017_benjamin_marzo__prob23.png]]
 
-> In the first left triangle a kangaroo was drawn. The kangaroo in the second triangle is the first's symmetry to the common side of the first and second triangles. The kangaroo in the third triangle is symmetrical to the second relative to the side common to the second and third triangles. If the same is done, which of the two sections is the image shown in the grey triangle? A) B) C) D) E)
+> In the first left triangle a kangaroo was drawn. The kangaroo in the second triangle is the first's symmetry to the common side of the first and second triangles. The kangaroo in the third triangle is symmetrical to the second relative to the side common to the second and third triangles. If the same is done, which of the following is the image shown in the grey triangle? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q23|src_kangourou_2017_benjamin_marzo__Q23]]
@@ -1190,7 +1231,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimate different results by multiplying 5 numbers by 2 or 3*
+*Minimum different results by multiplying 5 numbers by 2 or 3*
 
 > Monica has to choose 5 different numbers so that, if you multiply some by 2 and the others by 3, the different results you get are as few as possible. What's this number? A) 1
 > 	
@@ -1241,11 +1282,11 @@ Manufacture from materials of any heading, except those of heading 8546.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Changes in the face of kangaroos
+Exchange moves of kangaroos looking at each other
 
 ![[src_kangourou_2017_benjamin_marzo__prob25.png]]
 
-> A video game begins with eight kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more trades. How many moves will Angelo make? A) 2
+> A video game begins with eight kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more swaps. How many moves will Angelo make? A) 2
 > 	
 > B) 10
 > 	
@@ -1293,7 +1334,7 @@ Changes in the face of kangaroos
 
 *5 with a red, 6 with a blue*
 
-> A bag contains only red and blue tokens. Any way we extract 5 jets at least one is red; any way we extract 6 at least one is blue. What is the maximum number of tokens that can be contained in the bag? A) 11
+> A bag contains only red and blue tokens. Any way we extract 5 tokens at least one is red; any way we extract 6 at least one is blue. What is the maximum number of tokens that can be contained in the bag? A) 11
 > 	
 > B) 10
 > 	
@@ -1383,11 +1424,20 @@ Changes in the face of kangaroos
 <div class="qlang-split" data-lang="en"></div>
 
 
-The order in which the three girls take the balls
+*Order in which the three girls take the marbles*
 
-> Alice loves even numbers, Bianca loves numbers divisible by 3, Clelia loves numbers divisible by 5. A basket contains eight balls, each with a number written on it: each of the three girls passes in front of you at different times and, among the balls still present, takes all those with the numbers she loves. Finally Alice collected the beans with numbers 32 and 52, White the beans with numbers 24, 33 and 45, and Clelia the beans with numbers 20, 25 and 35. In what order did the three girls come through the trash? (a) Alice, Clelia, White B) Clelia, White C) White Alice, Clelia D) White, Clelia, Alice
-> 	
-> E) Clelia, Alice and Bianca
+> Alice loves even numbers, Bianca loves numbers divisible by 3, Clelia loves numbers divisible
+> by 5. A basket contains 8 marbles on each of which a number is written: each of the three
+> girls passes by it at different times and, among the marbles still present, takes all those with
+> the numbers she loves. In the end Alice has collected the marbles with the numbers 32 and 52, Bianca those
+> with the numbers 24, 33 and 45 and Clelia those with the numbers 20, 25 and 35. In what order did the three girls
+> pass by the basket?
+>       A) Alice, Clelia, Bianca
+> B) Clelia, Bianca, Alice
+>       C) Bianca, Alice, Clelia
+> D) Bianca, Clelia, Alice
+>
+>       E) Clelia, Alice, Bianca
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_benjamin_marzo#q28|src_kangourou_2017_benjamin_marzo__Q28]]
@@ -1474,7 +1524,7 @@ The order in which the three girls take the balls
 \end{document}
 ```
 
-> Sarah wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 4
+> Sara wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 4
 > 	
 > B) 5
 > 	
@@ -1527,7 +1577,7 @@ The order in which the three girls take the balls
 
 ![[src_kangourou_2017_benjamin_marzo__prob30.png]]
 
-> Giulia has four pencils of different colours and wants to use them (all or part) to colour the map of an island in four regions, as shown in the figure. He doesn't want two neighboring regions to be the same color. How many ways can you color the map of the island? A) 12
+> Giulia has four pencils of different colours and wants to use them (all or part) to colour the map of an island divided into four regions, as shown in the figure. She doesn't want two neighboring regions to be the same color. How many ways can you color the map of the island? A) 12
 > 	
 > B) 18
 > 	

@@ -38,9 +38,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is not a factor for 200013-2013*
+*Which number is not a factor of 200013-2013*
 
-> Number 200013  2013 is not divisible by A) 2
+> Number 200013 – 2013 is not divisible by A) 2
 > 	
 > B) 3.
 > 	
@@ -113,7 +113,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does it pay with the offer of pancakes*
+*How much does he pay with the corn cob offer*
 
 > Only three numbers chosen appropriately between 2, 4, 16, 25 and 125 have the product of 1000. What's their sum? A) 70
 > 	
@@ -159,7 +159,7 @@ level: kangourou
 
 *sum of three numbers whose product is 1000*
 
-> Rita and a friend play naval battle on a 5×5 grid. Rita has already arranged two ships, one one cell and one two cell, as shown in the figure. He needs to fix another ship that covers exactly three cells in a row, aligned horizontally or vertically. If two ships can't have anything in common, how many ways can you fix the three-cell ship? A) 4
+> Rita and a friend play naval battle on a 5×5 grid. Rita has already arranged two ships, one one cell and one two cell, as shown in the figure. She needs to place another ship that covers exactly three cells in a row, aligned horizontally or vertically. If two ships can't have anything in common, how many ways can she place the three-cell ship? A) 4
 > 	
 > B) 5
 > 	
@@ -247,13 +247,21 @@ level: kangourou
 
 *Power of two obtained from 4^15+8^10*
 
-> What 's the sum of 415 plus 810 ? A) 210
+> What is the value of the sum  415 + 810 ?
+> A) 210	
 > 	
-> B) 215
+> B) 215	
 > 	
-> C) 220
+> C) 220	
 > 	
-> D) 230 E) 231 1{{{ 4 1{{{ 2 1{{{ 3
+> D) 230	
+>         E) 231 
+>  1{{{ 
+>  4
+>  1{{{ 
+>  2
+>  1{{{ 
+>  3
 >
 
 [[Quesiti/src_kangourou_2013_junior#q06|src_kangourou_2013_junior__Q06]]
@@ -296,7 +304,7 @@ level: kangourou
 
 ![[src_kangourou_2013_junior__prob7.png]]
 
-> Look at the figure: the side surface of a cube was painted white and gray, and now the cube looks as if it were obtained by approaching white cubes and grey cubes, all of the same size. Which of the following can be a plane development of the painted cube? A)
+> Look at the figure: the side surface of a cube was painted white and gray, and now the cube looks as if it were obtained by placing white cubes and grey cubes side by side, all of the same size. Which of the following can be a net of the painted cube? A)
 > 	
 > B)
 > 	
@@ -413,9 +421,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression is the largest *
+*Which expression is the largest*
 
-> Which of the following numbers is the largest? A) 20 • B) 13 C) D) 3 E) Questions from N. 11 al N. 20 is worth 4 points each.
+> Which is the largest among the following numbers?
+> A) 20 • 	 	
+> B)        • 13	
+> C)         •		
+> D)	
+> • 3	
+> E)  
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 [[Quesiti/src_kangourou_2013_junior#q10|src_kangourou_2013_junior__Q10]]
 
@@ -490,7 +505,7 @@ level: kangourou
 
 ![[src_kangourou_2013_junior__prob11.png]]
 
-> Look at the figure. O is the center of circumference and the segment BC is as long as the radius; x and y are the degrees measurements of the indicated sharp angles. Which of the following reports is necessarily true? A) 2x = 3y
+> Look at the figure. O is the center of the circle and the segment BC is as long as the radius; x and y are the measures in degrees of the indicated acute angles. Which of the following relations is necessarily true? A) 2x = 3y
 > 	
 > B) x + y = 90° C) x = 2y D) x + 2y = 180° E) x = y y x M y x M y x M y x M y x M y x M 13 √ 20 √ 20 √ 13 √ 201 √ 2013 √ A B O C x y
 >
@@ -597,7 +612,7 @@ level: kangourou
 
 ![[src_kangourou_2013_junior__prob13.png]]
 
-> Look at the figure. The points P and Q are opposite vertices of a regular hexagon, while the points R and S are the midpoints of the two opposite sides parallel to the PQ segment. The area of the section is 60 square metres. What is the product of the length (in meters) of PQ for the length (in meters) of RS? A) 40 B) 50 C) 60 D) 100 E) None of the above.
+> Look at the figure. The points P and Q are opposite vertices of a regular hexagon, while the points R and S are the midpoints of the two opposite sides parallel to the PQ segment. The area of the hexagon is 60 square metres. What is the product of the length (in meters) of PQ for the length (in meters) of RS? A) 40 B) 50 C) 60 D) 100 E) None of the above.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_junior#q13|src_kangourou_2013_junior__Q13]]
@@ -690,7 +705,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertices with minimum y/x ratio in the rectangle*
+*Vertex with minimum y/x ratio in the rectangle*
 
 ![[src_kangourou_2013_junior__prob15.png]]
 
@@ -708,7 +723,7 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the left of the y-axis. For each of the vertices, we calculate the relationship between its y-coordinate and its x-coordinate. For which of the four points is this ratio the minimum? A) A
+> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the left of the y-axis. For each of the vertices, we calculate the ratio between its y-coordinate and its x-coordinate. For which of the four points is this ratio the minimum? A) A
 > 	
 > B) B
 > 	
@@ -751,7 +766,7 @@ level: kangourou
 
 *Year of birth of mother Enrica with product age 2013*
 
-> It's Mother Enrica's birthday today. Multiplying his age by that of his only son gets 2013. What year was Mother Enrica born? A) 1981 B) 1982 C) 1953 D) 1952 E) None of the above.
+> It's Mother Enrica's birthday today. Multiplying her age by that of her only son gets 2013. What year was Mother Enrica born? A) 1981 B) 1982 C) 1953 D) 1952 E) None of the above.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2013_junior#q16|src_kangourou_2013_junior__Q16]]
@@ -838,7 +853,7 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. In the PQS triangle, the SPQ angle measures 59° and the PSQ angle measures 60°; in the QRS triangle, the SQR angle measures 61° and the QRS angle measures 60°. Which of the following segments is longer? A) PS
+> Look at the figure. In the PQS triangle, the SPQ angle measures 59° and the PSQ angle measures 60°; in the QRS triangle, the SQR angle measures 61° and the QRS angle measures 60°. Which of the following segments is the longest? A) PS
 > 	
 > B) RS C) QS D) QR E) PQ
 
@@ -889,7 +904,7 @@ level: kangourou
 
 *Equal sets of five consecutive integers*
 
-> Let's say a set of five consecutive positive integers is equal if there are three of those numbers whose sum is equal to the sum of the other two. How many different sets of equals exist? A) 0
+> Let's say a set of five consecutive positive integers is fair if there are three of those numbers whose sum is equal to the sum of the other two. How many different fair sets exist? A) 0
 > 	
 > B) 1
 > 	
@@ -897,7 +912,7 @@ level: kangourou
 > 	
 > D) 3
 > 	
-> E) 4 P Q R S 60° 61° 60° 59° ^ ^ ^ ^
+> E) 4
 >
 
 **Answer:** C
@@ -933,11 +948,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many steps from A to B along the arrows*
+*How many paths from A to B along the arrows*
 
 ![[src_kangourou_2013_junior__prob19.png]]
 
-> Look at the figure. How many different paths do you go from A to B by moving along the arrows and respecting their direction? A) 6 B) 8 C) 9 D) 10 E) 12
+> Look at the figure. How many different paths allow you to go from A to B by moving along the arrows and respecting their direction? A) 6 B) 8 C) 9 D) 10 E) 12
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_junior#q19|src_kangourou_2013_junior__Q19]]
@@ -978,17 +993,17 @@ level: kangourou
 
 *Correct statement on number with equal sum and odd product*
 
-> You're looking for a six-digit number with this property: the sum of its digits is equal and the product its digits are odd. Which of the following is correct?
+> You're looking for a six-digit number with this property: the sum of its digits is even and the product of its digits is odd. Which of the following is correct?
 > 	
-> (a) The even numbers must be two or four.
+> A) The even digits must be two or four.
 > 	
 > B) There is no such number.
 > 	
-> C) The odd numbers are odd numbers.
+> C) The odd digits are odd in number.
 > 	
 > D) The six digits must all be different from each other.
 > 	
-> E) None of the above claims are correct. The questions from N. 21 al N. 30 is worth 5 points each.
+> E) None of the above claims are correct.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_junior#q20|src_kangourou_2013_junior__Q20]]
@@ -1026,15 +1041,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of division by 5 of (factor sum)^2*
+*Remainder of the division by 5 of (sum of factorials)^2*
 
-> For every integer n from 1 onwards we denote with n ! the product 1 × 2 × 3 × ... × (n  1) × n (called the factor of n). Let's divide the number by 1. + 2! + 3! + ... + 100!) 2 times 5: what's the rest? A) 0
+> For every integer n from 1 onward let us denote by n ! the product 
+> 1 × 2 × 3 × ... × (n – 1) × n (it is called the factorial of n). 
+> We divide the number (1! + 2! + 3! + ... + 100!)2 by 5: what is the remainder?
+> A) 0	
 > 	
-> B) 1
+> B) 1	
 > 	
-> C) 2
+> C) 2	
 > 	
-> D) 3
+> D) 3	
 > 	
 > E) 4
 
@@ -1076,7 +1094,7 @@ level: kangourou
 
 ![[src_kangourou_2013_junior__prob22.png]]
 
-> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent only tiles that have more than one point covered by the carpet. What figure cannot be obtained? A) B) C) D) E)
+> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. What figure cannot be obtained? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2013_junior#q22|src_kangourou_2013_junior__Q22]]
@@ -1121,11 +1139,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum m with angles of m2, m3, m... around O*
+Minimum m with angles m, 2m, 3m... around O*
 
 ![[src_kangourou_2013_junior__prob23.png]]
 
-> Look at the figure. Some triangles (five in our case) have the O vertex in common and for each of them there are two adjacent triangles with which it has a side in common. When triangles vary, the smallest of the angles in O measures m degrees, where m is a positive integer; the other angles measure 2m, 3m, 4m degrees and so on. What's the smallest value of m that makes it possible to make an approximation of triangles with all these properties? A) 1
+> Look at the figure. Some triangles (five in our case) have the O vertex in common and for each of them there are two adjacent triangles with which it has a side in common. When triangles vary, the smallest of the angles in O measures m degrees, where m is a positive integer; the other angles measure 2m, 3m, 4m degrees and so on. What's the smallest value of m that makes it possible to arrange triangles with all these properties? A) 1
 > 	
 > B) 2
 > 	
@@ -1169,7 +1187,7 @@ Minimum m with angles of m2, m3, m... around O*
 
 *Number to the right of the comma of 1/1024000*
 
-> If the number is written in decimal notation with the smallest possible number of digits, how many digits are there to the right of the comma? A) 10
+> If the number 1/1024000 is written in decimal notation with the smallest possible number of digits, how many digits are there to the right of the decimal point? A) 10
 > 	
 > B) 1024000 C)13 D) 14 E) 1024
 
@@ -1213,7 +1231,7 @@ Minimum m with angles of m2, m3, m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Car speed in front of the caravan after 100 hours*
+*Car speed at the head of the caravan after 100 hours*
 
 > In a strange driving resistance competition, all cars are expected to run on the same road starting at point A. The first car starts from A and maintains a constant speed of 50 km/h. From that moment on, every hour a car starts and each car maintains a constant speed of 1 km/h higher than that of the previous car. The last car leaves 50 hours after the first (and therefore travels at 100 km/h). What is the speed of the car that is in front of the caravan 100 hours after the first car leaves? A) 50 km/h
 > 	
@@ -1263,7 +1281,7 @@ Minimum m with angles of m2, m3, m... around O*
 
 *Maximum whole fractions with integers from 1 to 22*
 
-> Using all integers between 1 and 22 included, one numbered and one denominated, one can form 11 fractions. How many of these fractions can have an integer value at most? A) 7
+> Using each of the integers from 1 to 22 exactly once, placing one as numerator and another as denominator, one can form 11 fractions. At most how many of these fractions can have an integer value? A) 7
 > 	
 > B) 8
 > 	
@@ -1312,7 +1330,7 @@ Minimum m with angles of m2, m3, m... around O*
 
 *Minimum of sums of neighbours on circumference*
 
-> Each of the integers from 1 to 10 is written on a circumference, in a completely random order (therefore not necessarily following a rotating line). Then, to each of the numbers written, the two numbers adjacent to it are added, thus obtaining ten new numbers. What is the greatest possible value for the smallest of these numbers? A) 14
+> Each of the integers from 1 to 10 is written on a circle, in a completely random order (therefore not necessarily following a direction of rotation). Then, to each of the numbers written, the two numbers adjacent to it are added, thus obtaining ten new numbers. What is the greatest possible value for the smallest of these numbers? A) 14
 > 	
 > B) 15
 > 	
@@ -1407,7 +1425,7 @@ Minimum m with angles of m2, m3, m... around O*
 
 ![[src_kangourou_2013_junior__prob29.png]]
 
-> The full cube in the figure is cut along the plane passing through the three vertices B, D and E adjacent to A. Similarly, the cube is also cut along the seven floors that pass through the three vertices adjacent to each of the other seven vertices. Once the sectional parts of the cube are separated, which of the following figures represents the cube part containing the center of the cube itself? (a) (b) (c) (d) (e) None of the above. 1 {{{{{{{{{{{ 1024000
+> The full cube in the figure is cut along the plane passing through the three vertices B, D and E adjacent to A. Similarly, the cube is also cut along the seven planes that pass through the three vertices adjacent to each of the other seven vertices. Once the sectional parts of the cube are separated, which of the following figures represents the cube part containing the center of the cube itself? A) B) C) D) E) None of the above. 1 {{{{{{{{{{{ 1024000
 >
 
 **Answer:** A

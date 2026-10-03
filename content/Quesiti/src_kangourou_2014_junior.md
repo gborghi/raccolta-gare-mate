@@ -39,7 +39,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*As early as possible as the third Thursday of March*
+*Earliest possible date of the third Thursday of March*
 
 > A large cargo ship can carry up to 12,500 containers of a certain type. If aligned one after the other, these 12,500 containers all equal each other cover a distance of about 75 km. Which of the following numbers is closest to the length in metres of one of those containers? A) 6
 > 	
@@ -129,7 +129,7 @@ level: kangourou
 
 ![[src_kangourou_2014_junior__prob3.png]]
 
-> If a, b and c denote in the order the lengths (in the same unit of torque) of the three lines in the figure, which of the following is correct? A) a < b < c
+> If a, b and c denote in the order the lengths (in the same unit of measurement) of the three lines in the figure, which of the following is correct? A) a < b < c
 > 	
 > B) a < c < b
 > 	
@@ -170,15 +170,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number equidistant from 2/3 and 4/5 on the straight*
+*Number equidistant from 2/3 and 4/5 on the number line*
 
-> Which of the following numbers is included in e ? A)
+> Which of the following numbers lies between      and       ?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
 > E)
 
@@ -235,7 +236,7 @@ level: kangourou
 
 How many years ago did the last figure exceed the sum of the others?
 
-> In writing the 2014 issue, the last digit is greater than the sum of the remaining three digits. How many years have passed since last year, before that, when this same circumstance occurred? A) 1
+> In writing the number 2014, the last digit is greater than the sum of the remaining three digits. How many years have passed since the last year, before this, when this same circumstance occurred? A) 1
 > 	
 > B) 3
 > 	
@@ -283,11 +284,11 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Large area of the axis (double side) *
+*Area of the large hexagon (double side) *
 
 ![[src_kangourou_2014_junior__prob6.png]]
 
-> The length of the sides of the large regular axis in the figure is twice the length of the sides of the small regular axis. The area of the small hexagon is 4 cm2. How many square centimetres is the area of the large hexagon? A) 16
+> The length of the sides of the large regular hexagon in the figure is twice the length of the sides of the small regular hexagon. The area of the small hexagon is 4 cm2. How many square centimetres is the area of the large hexagon? A) 16
 > 	
 > B) 14
 > 	
@@ -385,7 +386,7 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Coordinates of a vertex of the square with diagonal on the x-axis*
 
-> Referred to an ordinary system of orthogonal Cartesian axes, the position of a square is such that one of its diagonals lies on the axis of the axes. The coordinates of the two vertices on this axis are given by the pairs (1,0) and (5,0). Which of the following pairs gives the coordinates of one of the remaining vertices? A) (2, 0) B) (2, 3) C) (2, – 6) D) (3, 5) E) (3, – 1)
+> Referred to an ordinary system of orthogonal Cartesian axes, the position of a square is such that one of its diagonals lies on the x-axis. The coordinates of the two vertices on this axis are given by the pairs (–1,0) and (5,0). Which of the following pairs gives the coordinates of one of the remaining vertices? A) (2, 0) B) (2, 3) C) (2, – 6) D) (3, 5) E) (3, – 1)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2014_junior#q08|src_kangourou_2014_junior__Q08]]
@@ -421,7 +422,7 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Adult to youth ratio from data reports*
 
-> In one village the ratio of the number of adult males to the number of adult females is 2:3, while the ratio of the number of adult females to the number of young females is 8:1. What is the relationship between the number of adults (men and women) and the number of young people? A) 5:1 B) 10:3 C) 13:1 D) 12:1 E) 40:3
+> In one village the ratio of the number of adult males to the number of adult females is 2:3, while the ratio of the number of adult females to the number of young people is 8:1. What is the ratio between the number of adults (men and women) and the number of young people? A) 5:1 B) 10:3 C) 13:1 D) 12:1 E) 40:3
 
 **Answer:** E
 [[Quesiti/src_kangourou_2014_junior#q09|src_kangourou_2014_junior__Q09]]
@@ -464,7 +465,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter for the valves to turn down (mcm) *
+*Meters for the valves to come back down (mcm)*
 
 ![[src_kangourou_2014_junior__prob10.png]]
 
@@ -472,7 +473,7 @@ How many years ago did the last figure exceed the sum of the others?
 > 	
 > C) 12,6 D) 25,2 E) 37,8
 > 
-> Questions from n. 11 al n. 20 is worth 4 points each.
+> Questions from n. 11 to n. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_junior#q10|src_kangourou_2014_junior__Q10]]
@@ -558,11 +559,11 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which frame is closest to the floor*
+*Which painting is closest to the floor*
 
 ![[src_kangourou_2014_junior__prob12.png]]
 
-> Paul hung five large rectangular paintings on the walls. For each of them he planted a nail 2.5 m from the floor and used a 2 m long rope, hanging the painting as shown in the figure. Which of the following paintings is closest to the floor? (The measurements indicate, in order, the width and height of the frame in centimetres.) A) 60×40
+> Paul hung five large rectangular paintings on the walls. For each of them he planted a nail 2.5 m from the floor and used a 2 m long rope, hanging the painting as shown in the figure. Which of the following paintings is closest to the floor? (The measurements indicate, in order, the width and height of the painting in centimetres.) A) 60×40
 > 	
 > B) 120×50
 > 	
@@ -674,9 +675,9 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Head and tail crocodile length including *
+*Crocodile length including head and tail*
 
-> A crocodile's tail is one-third of its total length. The head is 93 cm long, exactly like a quarter of the crocodile's length if you don't count the tail. How long is the crocodile, including head and tail? A) 558 B) 496 C) 490 D) 372 E) 186
+> A crocodile's tail is one-third of its total length. The head is 93 cm long, exactly a quarter of the crocodile's length if you don't count the tail. How long is the crocodile, including head and tail? A) 558 B) 496 C) 490 D) 372 E) 186
 
 **Answer:** A
 [[Quesiti/src_kangourou_2014_junior#q14|src_kangourou_2014_junior__Q14]]
@@ -716,11 +717,11 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number opposite to 14 on the prime face dice*
+*Number opposite to 14 on the die with prime faces*
 
 ![[src_kangourou_2014_junior__prob15.png]]
 
-> The figure shows a dice with unusually numbered faces. However, the sum of the two numbers appearing on opposite faces is always the same. The invisible numbers are all prime numbers. What's the number opposite to 14? A) 11
+> The figure shows a die with unusually numbered faces. However, the sum of the two numbers appearing on opposite faces is always the same. The invisible numbers are all (integer) prime numbers. What's the number opposite to 14? A) 11
 > 	
 > B) 13
 > 	
@@ -772,13 +773,13 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Minutes of running at an average speed of 5 km/h*
 
-> Julius wants to ride a bike. Until this moment he walked 8 km at a speed of 4 km/h. From now on, he starts running at twice his speed. How many minutes does he have to run if he wants his average speed to be 5 km/h? A) 15 B) 20
+> Giulio wants to do some exercise. Until this moment he walked 8 km at a speed of 4 km/h. From now on, he starts running at twice his speed. How many minutes does he have to run if he wants his average speed to be 5 km/h? A) 15 B) 20
 > 	
 > C) 30
 > 	
 > D) 35
 > 	
-> E) 40 2 √ 2 √
+> E) 40
 >
 
 **Answer:** E
@@ -816,9 +817,9 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) where x divides y+1 and y divides x+1*
+*Pairs (x,y) where x divides y+1 and y divides x+1*
 
-> How many pairs (orders) (x, y) of positive integers are such that x divides y + 1 and y divides x + 1? A) 1
+> How many (ordered) pairs (x, y) of positive integers are such that x divides y + 1 and y divides x + 1? A) 1
 > 	
 > B) 2
 > 	
@@ -866,7 +867,7 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Win-loss difference in chess (40 matches, 25 points) *
 
-> In a tournament, a chess player played 40 games earning 25 points: one point for each game won, half for each match drawn and zero for each game lost. What's the difference between the number of games you won and the number of games you lost? A) 5
+> In a tournament, a chess player played 40 games earning 25 points: one point for each game won, half for each game drawn and zero for each game lost. What's the difference between the number of games he won and the number of games he lost? A) 5
 > 	
 > B) 7
 > 	
@@ -916,7 +917,7 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Cost of an umbrella before the discount*
 
-> Anna, Bice and Chiara wanted to buy, one for each, three identical umbrellas. However, Anna lacked a third of the money needed, Bice a quarter and Chiara a fifth. When the payback period came, the price of those umbrellas fell by 9.40 euros each, the three girls combined their savings to buy the three umbrellas. He hasn't even moved a penny. How much did an umbrella cost before the discount? A) 12
+> Anna, Bice and Chiara wanted to buy, one for each, three identical umbrellas. However, Anna lacked a third of the money needed, Bice a quarter and Chiara a fifth. When the sale period came, the price of those umbrellas fell by 9.40 euros each, the three girls combined their savings to buy the three umbrellas. Not even a penny was left over. How much did an umbrella cost before the discount? A) 12
 > 	
 > B) 16
 > 	
@@ -961,15 +962,19 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product pqr with p+1/(q+1/r) = 25/19*
+*Product pqr with p+1/(q+1/r)=25/19*
 
-> Three positive integers p, q, and r are such that p + = . How much is the product worth ? A) 6
+> Three positive integers p, q and r are such that  p +                =         . 
+> What is the value of the product pqr ?
+> A) 6	
 > 	
-> B) 10
+> B) 10	
 > 	
-> C) 18 D) 36
+> C) 18
+> D) 36	
 > 	
-> E) 42 Questions from n. 21 al n. 30 is worth 5 points each.
+> E) 42
+> Questions from no. 21 to no. 30 are worth 5 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_junior#q20|src_kangourou_2014_junior__Q20]]
@@ -1009,15 +1014,16 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of N×U×(M+E+R+O) =33 with distinct digits*
+*Solutions of N×U×(M+E+R+O)=33 with distinct digits*
 
-> Consider the equation N × U × (M + E + R + O) = 33, where each letter represents an unknown. The eligible values for unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many solutions are eligible under these criteria? (Each solution is an ordered set of digits.)
+> Consider the equation  N × U × ( M + E + R + O ) = 33, where each letter represents an unknown. The admissible values for the unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many admissible solutions are there based on these criteria? (Each solution is an ordered sextuple of digits.)
+> A) 12	
 > 	
-> B) 24
+> B) 24	
 > 	
-> C) 30
+> C) 30	
 > 	
-> D) 48
+> D) 48	
 > 	
 > E) 60
 
@@ -1069,11 +1075,11 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimize segments so that each circle has the same grade*
+*Minimize segments so that each circle has the same degree*
 
 ![[src_kangourou_2014_junior__prob22.png]]
 
-> Look at the figure. Clara wants to add the smallest possible number of segments with two circles at the ends so as to obtain the following result: from each of the seven circles the same number of segments starts. What's the least number of segments you have to trace? A) 4
+> Look at the figure. Clara wants to add the smallest possible number of segments with two circles at the ends so as to obtain the following result: from each of the seven circles the same number of segments starts. What's the least number of segments she has to draw? A) 4
 > 	
 > B) 5
 > 	
@@ -1127,7 +1133,7 @@ How many years ago did the last figure exceed the sum of the others?
 
 ![[src_kangourou_2014_junior__prob23.png]]
 
-> The figure shows the same cube seen from two different points. The cube is formed by approaching 27 cubes, some black and some white. How many of the 27 cubes can be black at most? A) 5
+> The figure shows the same cube seen from two different points. The cube is formed by placing 27 small cubes side by side, some black and some white. How many of the 27 cubes can be black at most? A) 5
 > 	
 > B) 7
 > 	
@@ -1260,7 +1266,7 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Triangles (cube vertices) not contained in any face*
 
-> Assigned a cube, consider all triangles whose vertices are vertices of the cube. How many of these triangles are not contained in any side of the cube? A) 16
+> Assigned a cube, consider all triangles whose vertices are vertices of the cube. How many of these triangles are not contained in any face of the cube? A) 16
 > 	
 > B) 24
 > 	
@@ -1354,7 +1360,7 @@ How many years ago did the last figure exceed the sum of the others?
 \end{document}
 ```
 
-> A circle with centre O appears in the figure. The point P is external to it, the straight PT is tangent to it at point T and the straight PB is the receiver of the TPA angle. What is the measurement in degrees of the angle TBP ? (A) 30° B) 45° C) 60° D) 75° E) Depends on the location of the point P.
+> A circle with centre O appears in the figure. The point P is external to it, the straight PT is tangent to it at point T and the straight PB is the bisector of the TPA angle. What is the measurement in degrees of the angle TBP ? A) 30° B) 45° C) 60° D) 75° E) Depends on the location of the point P.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2014_junior#q27|src_kangourou_2014_junior__Q27]]
@@ -1399,15 +1405,15 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last number of the first half of the permutations of 1.7.*
+*Last number of the first half of the permutations of 1..7.*
 
-> Consider the sum of all the seven-digit numbers that can be formed using each of the seven digits 1, 2, 3, ..., 7. Now put these numbers in ascending order and break the list exactly in half. What is the last number of the first half? A) 3765421
+> Consider the set of all the seven-digit numbers that can be formed using each of the seven digits 1, 2, 3, ..., 7. Now put these numbers in ascending order and break the list exactly in half. What is the last number of the first half? A) 3765421
 > 	
 > B) 4123567
 > 	
 > C) 4352617
 >               
-> D) A number different from the previous E) It is impossible to split the list exactly in half because it consists of a number of odd numbers. P A T B O
+> D) A number different from the previous E) It is impossible to split the list exactly in half because it consists of an odd number of numbers. P A T B O
 >
 
 **Answer:** D
@@ -1543,15 +1549,27 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the 2014 lineup *
+*How many liars are there in the row of 2014 people*
 
-> There are 2014 people in line. Each of them is either a liar or a rider. Every one of them saith, There are more liars before me than horsemen behind me. How many liars are in line? A) 0
+> There are 2014 people in a row. Each of them is either a liar (always lies) or 
+> a knight (always tells the truth). Each of them states: "There are more liars 
+> in front of me than knights behind me". How many liars are there in the row? 
+> A) 0	
 > 	
-> B) 1
+> B) 1	
 > 	
-> C) 1007 D) 1008 E) 2014 A B C M E F D
+> C) 1007		
+> D) 1008		
+> E) 2014
+> A
+> B
+> C
+> M
+> E
+> F
+> D
 > 
-> I'm going to take a look.
+> STRINGA JUNIOR 2014
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_junior#q30|src_kangourou_2014_junior__Q30]]

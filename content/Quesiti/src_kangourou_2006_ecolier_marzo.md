@@ -111,7 +111,7 @@ level: kangourou
 
 ![[src_kangourou_2006_ecolier_marzo__prob3.png]]
 
-> You can see the coins in your purse next door. A milkshake costs 10 cents. How many different ways can you set the amount to pay for it? (Consider two coins of equal value indistinguishable.) A) 1 B) 2 C) 3 D) 4 E) 5
+> You can see the coins in your purse beside you. A lollipop costs 10 cents. How many different ways can you make up the amount to pay for it? (Consider two coins of equal value indistinguishable.) A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q03|src_kangourou_2006_ecolier_marzo__Q03]]
@@ -148,7 +148,7 @@ level: kangourou
 
 ![[src_kangourou_2006_ecolier_marzo__prob4.png]]
 
-> In the drawing next to it are represented nine tokens arranged in triangles. You want to make a square, what's the minimum number of tokens you can move? A) 1 B) 2 C) 3 D) 4 E) 5
+> In the drawing next to it are represented nine tokens arranged in a triangle. You want to make a square, what's the minimum number of tokens you can move? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q04|src_kangourou_2006_ecolier_marzo__Q04]]
@@ -195,11 +195,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max triangular stamps on 10 envelopes with binding*
+*Max triangular stamps on 10 envelopes with a constraint*
 
-> The Gennaro post has two stamps that you can use indifferently: one in the shape of a square and the other in a triangle. You must cancel the stamps placed on ten envelopes using only one stamp for each envelope. How many triangular stamps can you make at most, if you want three of those envelopes taken anyway, at least one not to have the triangular stamp? A) 3 B) 0 C) 2 D) 4 E) 8 1 2 2 2 2 2 2 5 5 10 20 50 Ecolier_06.qxp 21/02/2006 0.07 Page 5
+> The postman Gennaro has two stamps that he can use interchangeably:
+> one shaped like a square and the other like a triangle. He must cancel the stamps placed on ten envelopes using only one stamp per envelope. How many
+> triangular stamps can he apply at most, if he wants that, no matter which
+> three of those envelopes are taken, at least one does not have the triangular stamp?
+> A) 3 
+> B) 0
+> C) 2
+> D) 4 
+> E) 8
+> 1
+> 5
+> 5
+> 10
+> 20
+> 50
+> Ecolier_06.qxp  21/02/2006  0.07  Page 5
 > 
-> I'm going to pay. I'm going to pay. 6 Kang 2006 Kang 2006
+> Pag. 
+> Pag. 6
+> Kang 2006
+> Kang 2006
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q05|src_kangourou_2006_ecolier_marzo__Q05]]
@@ -237,11 +255,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which road is the shortest *
+*Which road is the shortest*
 
 ![[src_kangourou_2006_ecolier_marzo__prob6.png]]
 
-> The four roads we propose to you have been drawn between two points: A B C D Which of them is the shortest? A) A) B) B) C) C) D) E) The four roads are the same length.
+> Between two points, the four roads we propose to you have been drawn:
+> A 
+> B 
+> C 
+> D
+> Which of them is the shortest?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) The four roads have the same length.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q06|src_kangourou_2006_ecolier_marzo__Q06]]
@@ -275,11 +303,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exit gate through triangular rooms*
+*Exit door by crossing triangular rooms*
 
 ![[src_kangourou_2006_ecolier_marzo__prob7.png]]
 
-> A kangaroo enters the building where we see the plant next to it. If you want to cross only triangular-shaped rooms, you have to exit the building from door A to B b C c D d E and
+> A kangaroo enters the building whose
+> floor plan we see on the side. If
+> it wants to cross exclusively
+> rooms of triangular shape, it will have
+> to exit the building through door
+> A) a           B) b           C) c
+> D) d           E) e
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q07|src_kangourou_2006_ecolier_marzo__Q07]]
@@ -317,7 +351,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small number of 10 digits with sheets *
+*Smallest 10-digit number with sheets *
 
 ![[src_kangourou_2006_ecolier_marzo__prob8.png]]
 
@@ -361,7 +395,7 @@ level: kangourou
 
 ![[src_kangourou_2006_ecolier_marzo__prob9.png]]
 
-> In the figure on the side you can see a "numbered flower". Mary separates all the petals with numbers that, divided by 6, give 2 remaining. How much is the sum of the numbers on the petals that Mary pulled off? A) 46 B) 66 C) 84 D) 86 E) 114
+> In the figure on the side you can see a "numbered flower". Mary separates all the petals with numbers that, divided by 6, give remainder 2. How much is the sum of the numbers on the petals that Mary pulled off? A) 46 B) 66 C) 84 D) 86 E) 114
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q09|src_kangourou_2006_ecolier_marzo__Q09]]
@@ -411,11 +445,33 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children in the family of Pietro*
+*How many children in Pietro's family*
 
-> Peter has exactly one brother and his sister Catherine has as many brothers as she has sisters. How many children (both male and female) were in Peter's family? A) 2 B) 3 C) 4 D) 5 E) 6 a b c d and 309 41 68 5 7 2 Ecolier_06.qxp 21/02/2006 0.07 Page 6
+> Pietro has exactly one brother and his sister Caterina has as many
+> brothers as sisters. How many children (boys and girls) are there in
+> Pietro's family?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
+> a
+> b
+> c
+> d
+> e
+> 309
+> 41
+> 68
+> 5
+> 7
+> 2
+> Ecolier_06.qxp  21/02/2006  0.07  Page 6
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2006 Kang 2006
+> Pag. 
+> Pag. 7
+> Kang 2006
+> Kang 2006
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q10|src_kangourou_2006_ecolier_marzo__Q10]]
@@ -448,11 +504,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Map for a four-tiered castle*
+*Cards for a four-tiered castle*
 
 ![[src_kangourou_2006_ecolier_marzo__prob11.png]]
 
-> Stefania is building card castles. In the figure you can observe the castles of one, two and three levels that he has built so far. How many cards will Stefania have to use to build an entire four-tiered castle? A) 11          B) 24          C) 25          D) 26          E) 27
+> Stefania is building card castles. In the figure you can observe the castles of one, two and three levels that she has built so far. How many cards will Stefania have to use to build an entire four-tiered castle? A) 11          B) 24          C) 25          D) 26          E) 27
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q11|src_kangourou_2006_ecolier_marzo__Q11]]
@@ -520,7 +576,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 ![[src_kangourou_2006_ecolier_marzo__prob13.png]]
 
-> The figure shows a puzzle obtained by joining various cards; some of them have the shape of four of the five figures shown below. Compared to the figures represented, the cards may be rotated or drawn, but not overturned. Which figure wasn't used to compose the puzzle?
+> The figure shows a puzzle obtained by joining various tiles; some of them have the shape of four of the five figures shown below. Compared to the figures represented, the tiles may be rotated or translated, but not overturned. Which figure wasn't used to compose the puzzle?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q13|src_kangourou_2006_ecolier_marzo__Q13]]
@@ -593,7 +649,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat development of the cube with two holes*
+*Net of the cube with two holes*
 
 ![[src_kangourou_2006_ecolier_marzo__prob15.png]]
 
@@ -633,9 +689,18 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between Blue and Dan (bear curves) *
+*Distance between Blu and Dan (crows on a beam)*
 
-> Four crows are crouched on a beam. Their names are Ala, Blue, Cra and Dan. The wing is exactly halfway between Blue and Cra. The distance between Blue and Wing is the same as the distance between Cra and Dan. Wing's four meters from Dan. What's the distance between Blue and Dan? A) 5 m B) 6 m C) 7 m D) 8 m E) 9 m Questions from N. 17 al N. Twenty-four is worth five points each.
+> Four crows are perched on a beam. Their names are Ala,
+> Blu, Cra and Dan. Ala is perched exactly halfway between Blu and Cra. The
+> distance between Blu and Ala is equal to that between Cra and Dan. Ala is 4
+> metres from Dan. What distance is there between Blu and Dan?
+> A) 5 m
+> B) 6 m
+> C) 7 m
+> D) 8 m
+> E) 9 m
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q16|src_kangourou_2006_ecolier_marzo__Q16]]
@@ -668,9 +733,9 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number changes to 81x7=623*
+*What digit to change in 81x7=623*
 
-> The writing 81x7 = 623 describes a wrong operation. However, one can correct the error by changing only one figure: which one? A) 1 B) 2 C) 3 D) 6 E) 7
+> The expression 81x7 = 623 describes an incorrect operation. However, one can correct the error by changing only one digit: which one? A) 1 B) 2 C) 3 D) 6 E) 7
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q17|src_kangourou_2006_ecolier_marzo__Q17]]
@@ -710,7 +775,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 ![[src_kangourou_2006_ecolier_marzo__prob18.png]]
 
-> The small circles in the figure represent as many cities. Each segment connecting two circles represents a railway line connecting the corresponding cities and the number closest to it indicates the euro cost of the ticket for that route. Paolo arranged the trip to get from A to B spending as little as possible. How much did you spend? A) 80 B) 90 C)100 D) 110 E) 180
+> The small circles in the figure represent as many cities. Each segment connecting two circles represents a railway line connecting the corresponding cities and the number closest to it indicates the euro cost of the ticket for that route. Paolo arranged the trip to get from A to B spending as little as possible. How much did he spend? A) 80 B) 90 C)100 D) 110 E) 180
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q18|src_kangourou_2006_ecolier_marzo__Q18]]
@@ -882,7 +947,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 *How to choose sheets with a difference of 3 digits*
 
-> I wrote all the four-digit integers on as many green sheets (one number for each sheet). And then I wrote all the whole numbers of a single digit on as many yellow sheets (a number for each sheet). How many ways can I choose two sheets of different colors if I want the difference between the two numbers written on them to be a 3-digit number? A) 9                B) 17                 C) 24                 D) 36             E) 45
+> I wrote all the four-digit integers on as many green sheets (one number for each sheet). And then I wrote all the single-digit integers on as many yellow sheets (a number for each sheet). How many ways can I choose two sheets of different colors if I want the difference between the two numbers written on them to be a 3-digit number? A) 9                B) 17                 C) 24                 D) 36             E) 45
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q22|src_kangourou_2006_ecolier_marzo__Q22]]
@@ -989,7 +1054,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 ![[src_kangourou_2006_ecolier_marzo__prob24.png]]
 
-> Miriam has hung in the ceiling of her room the mobile shown in the figure. Bars and pendants of identical shape have the same weight, and the entire structure is in perfect equilibrium. Each square-shaped pendant weighs 30 grams. What is the weight of each circular pendant?
+> Miriam has hung from the ceiling of her room the mobile shown in the figure. Bars and pendants of identical shape have the same weight, and the entire structure is in perfect equilibrium. Each square-shaped pendant weighs 30 grams. What is the weight of each circular pendant?
 >
 > (A) 10 (B) 20 (C) 30 (D) 40 (E) 50
 >

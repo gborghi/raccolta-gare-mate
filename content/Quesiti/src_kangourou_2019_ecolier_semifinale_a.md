@@ -31,9 +31,10 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products numbered <45 with sum of 12 *
+*Product of digits of a number <45 with digit sum 12*
 
-> The product of the digits The sum of the digits of a number less than 45 is 12. What's the product of your numbers?
+> The product of the digits 
+> The sum of the digits of a number less than 45 is 12. What is the product of its digits?
 
 **Answer:** 0027
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q01|src_kangourou_2019_ecolier_semifinale_a__Q01]]
@@ -67,7 +68,7 @@ level: kangourou
 
 *Maximum M-N between bags of candy*
 
-> Four bags contain a total of 100 candies. They are lined up (left to right) from the most full to the most empty; the one on the left contains 42 candies, the one on the right contains 7 and no bag contains the same number of candies as another. If M is the number of candies in the second left-hand bag and N is the number of candies in the second right-hand bag, how much can M  N be worth at most?
+> Four bags contain a total of 100 candies. They are lined up (left to right) from the fullest to the emptiest; the one on the left contains 42 candies, the one on the right contains 7 and no bag contains the same number of candies as another. If M is the number of candies in the second left-hand bag and N is the number of candies in the second right-hand bag, how much can M - N be worth at most?
 
 **Answer:** 0031
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q02|src_kangourou_2019_ecolier_semifinale_a__Q02]]
@@ -96,9 +97,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of exact weights with data weights*
+*Maximum number of exact weighings with given weights*
 
-> The scale I have a scale of two plates and weights, one for each of these sizes: 1, 2, 5, 10 and 50 grams. What's the maximum number of weights I can do?
+> The balance 
+> I have a two-pan balance and some weights, one for each of these sizes: 1, 2, 5, 10 and 50 grams. 
+> What is the maximum number of exact weighings I can do?
 
 **Answer:** 0055
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q03|src_kangourou_2019_ecolier_semifinale_a__Q03]]
@@ -128,9 +131,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to attach 4 2019 cards*
+*Ways to arrange 4 cards of 2019*
 
-> Rita has 4 numbered cards on each of which is one of the four digits of 2019 and the figure 9 is underlined, so as not to confuse it with 6. How many ways can you approach the cards if you want to get a significant four-digit number (i.e. you can't write using just three digits)?
+> Rita has 4 numbered cards on each of which is one of the four digits of 2019 and the figure 9 is underlined, so as not to confuse it with 6. In how many ways can she arrange the cards if you want to get a four-digit number with significant digits (i.e. one that cannot be written using only three digits)?
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q04|src_kangourou_2019_ecolier_semifinale_a__Q04]]
@@ -161,7 +164,7 @@ level: kangourou
 
 *Cat residue meters when the dog arrives*
 
-> My dog and my cat are in the garden, the first 100 meters from the door, the second 80 meters. I called them, and they rushed to the door. The dog runs twice as fast as the cat. When the dog arrived at the door, how many yards did the cat have to walk?
+> My dog and my cat are in the garden, the first 100 meters from the door, the second 80 meters. I called them, and they rushed to the door. The dog runs twice as fast as the cat. When the dog arrived at the door, how many meters did the cat still have to cover?
 
 **Answer:** 0030
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q05|src_kangourou_2019_ecolier_semifinale_a__Q05]]
@@ -194,7 +197,7 @@ level: kangourou
 
 *Palindrome 4 digits from palindrome 3 digits plus 2019*
 
-> Added to 2019 A palindrome number is a number equal to the number that you get by reading its digits from right to left. For example, 8, 44, 131, 2002 are palindromic numbers whereas 2019 is not. There's a 3-digit palindrome number that adds up to 2019 gives a palindrome number: find this 4-digit palindrome number.
+> Added to 2019 A palindrome number is a number equal to the number that you get by reading its digits from right to left. For example, 8, 44, 131, 2002 are palindromic numbers whereas 2019 is not. There's a 3-digit palindrome number that added to 2019 gives a palindrome number: find this 4-digit palindrome number.
 
 **Answer:** 2332
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q06|src_kangourou_2019_ecolier_semifinale_a__Q06]]
@@ -222,9 +225,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of the three numbers with sum 2019*
+*Largest of the three numbers with sum 2019*
 
-> Three integers The sum of three positive integers is 2019. If you subtract the same number from each of them, you get the numbers 931, 721 and 301. What is the largest of the three numbers added together?
+> Three integers The sum of three positive integers is 2019. If you subtract the same number from each of them, you get the numbers 931, 721 and 301. What is the largest of the three numbers?
 
 **Answer:** 0953
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q07|src_kangourou_2019_ecolier_semifinale_a__Q07]]
@@ -255,7 +258,7 @@ level: kangourou
 
 Members of the smaller gorilla family
 
-> In a forest in the Congo, there are three mountain gorilla families, 44 of them together. The smallest family has seven members less than the largest and four fewer than the middle family. How many are the smallest family members?
+> In a forest in the Congo, there are three mountain gorilla families, 44 of them together. The smallest family has seven fewer members than the largest and four fewer than the middle family. How many members are there in the smallest family?
 
 **Answer:** 0011
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q08|src_kangourou_2019_ecolier_semifinale_a__Q08]]
@@ -284,9 +287,9 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total kilometres travelled by Mario (descent jump) *
+*Total kilometres travelled by Mario (ascent descent) *
 
-> In three hours Mario went up to a shelter and without stopping he went down the valley. It went up to an average speed of 4 km/h and down to 12 km/h. How many miles has Mario walked back and forth?
+> In three hours Mario went up to a shelter and without stopping he went down the valley. He went up at an average speed of 4 km/h and down at 12 km/h. How many kilometres, in total, did Mario walk there and back?
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q09|src_kangourou_2019_ecolier_semifinale_a__Q09]]
@@ -353,7 +356,7 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of dividing 50 apples with constraints*
+*Ways of dividing 50 apples with constraints*
 
 > Alice, Bianca and Claudia want to split 50 apples (without cutting them) so that Alice gets at least 14, Bianca gets at least 9, and Claudia gets 12 or 15. How many different ways can they do that?
 
@@ -385,9 +388,9 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes in which the figure 5 appears on the watch*
+*Minutes in which the digit 5 appears on the clock*
 
-> Digital clock A digital clock indicates the time in 24-hour format: for example, if it is 4:20 p.m., it indicates 16:20. Over the course of a full day (24 hours), for how many minutes does the figure 5 appear on the clock?
+> Digital clock A digital clock indicates the time in 24-hour format: for example, if it is 4:20 p.m., it indicates 16:20. Over the course of a full day (24 hours), for how many minutes does the digit 5 appear on the clock?
 
 **Answer:** 0450
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q12|src_kangourou_2019_ecolier_semifinale_a__Q12]]
@@ -451,7 +454,7 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most difference between consecutive numbers selected*
+*Maximum difference between consecutive numbers selected*
 
 > 100 numbers Mattia randomly selects 100 whole numbers all different from each other, each greater than 0 (and different from 0) and less than 2019 (and different from 2019) and puts them in increasing order. What is the maximum value of the difference between one of the numbers chosen and the one preceding it in the order?
 
@@ -513,9 +516,9 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many legs does a gouroucan have?
+How many legs does a gurocan have?
 
-> The gurocan is a fantastic animal that all the kids in the schools of Kangaroo know well. Some of them were asked: How many legs do 14 cats, one chicken and 17 gurokan have in total? Charles answered 108, Linda 130, Mary 164, Nina 196 and Olivier 262. One (or one) of them answered correctly. So how many legs does a gouroucan have?
+> The gurocan is a fantastic animal that all the kids in the schools of Kangaroo know well. Some of them were asked: How many legs do 14 cats, one chicken and 17 gurocan have in total? Charles answered 108, Linda 130, Mary 164, Nina 196 and Olivier 262. One (or another) of them answered correctly. So how many legs does a gurocan have?
 >  
 > 1 2 3 4 A 2
 >  

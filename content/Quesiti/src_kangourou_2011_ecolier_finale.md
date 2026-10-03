@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*All hours possible if the clock changes 0 and 8 showing 20.08*
+*All possible times if a clock swaps 0 and 8 showing 20.08*
 
-> Carlo's digital clock is flawed: sometimes, but not always, instead of the figure $0$ it shows the figure $8$ and vice versa. If Carlo reads the$20.08$clock, what time could it actually be? Write down as many hours as you can.
+> Carlo's digital clock is faulty: sometimes, but not always, instead of the digit $0$ it shows the digit $8$ and vice versa. If Carlo reads $20.08$ on the clock, what time could it really be? Write all possible times.
 
 **Answer:** 20.00, 20.08
 [[Quesiti/src_kangourou_2011_ecolier_finale#qe1|src_kangourou_2011_ecolier_finale__QE1]]
@@ -58,9 +58,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cifra A if 4A=CB and 4B=A*
+*Digit A if 4A=CB and 4B=A*
 
-> The three letters $A$, $B$ and $C$ each represent one digit and different letters represent different digits. You know that$A + A + A + A = CB$and that$B + B + B + B = A$. What is the figure represented by $A$?
+> The three letters $A$, $B$ and $C$ each represent one digit and different letters represent different digits. You know that$A + A + A + A = CB$and that$B + B + B + B = A$. What is the digit represented by $A$?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2011_ecolier_finale#qe2|src_kangourou_2011_ecolier_finale__QE2]]
@@ -87,7 +87,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number instead of x because it adds up to the constant extremes*
+*Number instead of x because the sum at the extremes is constant*
 
 > Next to each $\bullet$ point in the figure a number must be written so that the sum of the numbers written at the ends of each segment is always the same regardless of the segment. Two numbers have already been written. What number should be written instead of $x$ and why? (see figure)
 
@@ -176,7 +176,7 @@ level: kangourou
 
 Minutes of Julius and minutes with the two brothers
 
-> Paul and Julius are two brothers: they live in the same house and attend the same school. They walk to school on the same route and, when they are not together on the route, each one keeps his pace constant: from home to school Paolo, the youngest, takes $16$ minutes, Giulio takes $12$. One day Julius said to Paul, "Go to school, I'll meet you, and then we'll walk together in your footsteps". Paul leaves, and after a minute, Julius too. How many minutes will it take Julius to get to school? How many minutes will the two brothers walk together?
+> Paul and Julius are two brothers: they live in the same house and attend the same school. They walk to school on the same route and, when they are not together on the route, each one keeps his pace constant: from home to school Paul, the youngest, takes $16$ minutes, Julius takes $12$. One day Julius said to Paul, "Go to school, I'll meet you, and then we'll walk together at your pace". Paul leaves, and after a minute, Julius too. How many minutes will it take Julius to get to school? How many minutes will the two brothers walk together?
 
 **Answer:** 15; 12
 [[Quesiti/src_kangourou_2011_ecolier_finale#qe6|src_kangourou_2011_ecolier_finale__QE6]]

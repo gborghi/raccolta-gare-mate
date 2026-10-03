@@ -92,7 +92,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ae segment in isosceles trapezoid with triangle *
+*AE segment in isosceles trapezoid with triangle *
 
 ![[src_kangourou_2023_kangourou_squadre__prob2.png]]
 
@@ -118,7 +118,7 @@ level: squadre
 \end{document}
 ```
 
-> The ABCD trapezoid in the figure is isosceles; the shaded DEF triangle is also isosceles and its area is one quarter of the trapezoid area. The greater base and the lesser base of the ABCD trapezoid measure 220 and 180 cm respectively. How many centimeters is the AE segment?
+> The ABCD trapezoid in the figure is isosceles; the shaded DEF triangle is also isosceles and its area is one quarter of the trapezoid area. The major base and the minor base of the ABCD trapezoid measure 220 and 180 cm respectively. How many centimeters is the AE segment?
 
 **Answer:** 0070
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q02|src_kangourou_2023_kangourou_squadre__Q02]]
@@ -152,7 +152,7 @@ level: squadre
 
 *Minimum summer camp entries, allowance*
 
-> The summer camp Marco and his brother enrolled in a summer camp. The weekly cost of enrolling a child in this camp is €60, but if a family enrolls more than one child, they are entitled to the reduced allowance of €54 per child from the second. The first week's enrollment has raised €3,000 and more than half of those enrolled are single children. What is the minimum number of applicants?
+> Marco and his brother enrolled in a summer camp. The weekly cost of enrolling a child in this camp is €60, but if a family enrolls more than one child, they are entitled to the reduced fee of €54 per child from the second. The first week's enrollment has raised €3,000 and more than half of those enrolled are single children. What is the minimum number of applicants?
 
 **Answer:** 0051
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q03|src_kangourou_2023_kangourou_squadre__Q03]]
@@ -184,7 +184,7 @@ level: squadre
 
 *Length of two runners circular track*
 
-> Circular track Paul and Gino train to run along a circular track. They start at the same point, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the runway?
+> Circular track Paul and Gino train to run along a circular track. They start at the same point, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the track?
 
 **Answer:** 0250
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q04|src_kangourou_2023_kangourou_squadre__Q04]]
@@ -213,7 +213,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insertions SUDOKU 2x3 grid with U-link *
+*Insertions SUDOKU 2x3 grid with U constraint *
 
 > SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 × 3 so that no row and no column host both letters U. How many different insertions are possible?
 
@@ -252,7 +252,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Frequents of fitness conditions groups*
+*Gym attendees given conditions groups*
 
 > In a gym, the attendees of a gym are divided into groups of equal number, each followed by an instructor. By hiring 10 more instructors, each group could be reduced by 5 units; instead, by hiring 20 more, each group could be reduced by 8 units. How many people are in the gym?
 >  
@@ -296,7 +296,7 @@ level: squadre
 
 ![[src_kangourou_2023_kangourou_squadre__prob7.png]]
 
-> The area of the square A square is divided into six flat figures as shown in the figure. Those in white are two isosceles rectangular triangles, a square and a parallelogram; one of the two in black is an isosceles rectangle triangle, the other (which has only one point in common with the previous one) is divisible into two isosceles rectangles. The area of the portion of the square remaining white is 99 cm2. How many square centimetres is the area of the original square?
+> The area of the square A square is divided into six flat figures as shown in the figure. Those in white are two isosceles right triangles, a square and a parallelogram; one of the two in black is an isosceles right triangle, the other (which has only one point in common with the previous one) is divisible into two isosceles right triangles. The area of the portion of the square remaining white is 99 cm2. How many square centimetres is the area of the original square?
 
 **Answer:** 0176
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q07|src_kangourou_2023_kangourou_squadre__Q07]]
@@ -330,7 +330,7 @@ level: squadre
 
 *Minimum students correct three questions*
 
-> The three questions A number of students were asked the same three questions. 1260 of them answered the first question correctly, representing exactly 70% of the total. The percentage of students who answered correctly to the second is 79%, the percentage of students who answered correctly to the third is 53%. The students who answered all three questions correctly are the least compatible with these percentages. How many are there?
+> The three questions A number of students were asked the same three questions. 1260 of them answered the first question correctly, representing exactly 70% of the total. The percentage of students who answered correctly to the second is 79%, the percentage of students who answered correctly to the third is 53%. The students who answered all three questions correctly are the minimum compatible with these percentages. How many are there?
 
 **Answer:** 0036
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q08|src_kangourou_2023_kangourou_squadre__Q08]]
@@ -463,7 +463,7 @@ level: squadre
 
 *Minimum of 100 numbers in a circle, adjacent mean*
 
-> One hundred numbers in a circle On a circle are written 100 numbers, each of which is the arithmetic mean of the two adjacent to it. One of them is 2,023, and there are no more. How much is the smallest?
+> One hundred numbers in a circle On a circle are written 100 numbers, each of which is the arithmetic mean of the two adjacent to it. One of them is 2,023, and there are no greater ones. How much is the smallest?
 
 **Answer:** 2023
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q12|src_kangourou_2023_kangourou_squadre__Q12]]
@@ -494,7 +494,7 @@ level: squadre
 
 *500-th term not square or perfect cube*
 
-> The 500th term Think of ordering in increasing succession all positive integers that are neither perfect squares nor perfect cubes. What's the 500th anniversary of the succession?
+> The 500th term Think of ordering in increasing succession all positive integers that are neither perfect squares nor perfect cubes. What is the 500th term of the sequence?
 
 **Answer:** 0528
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q13|src_kangourou_2023_kangourou_squadre__Q13]]
@@ -525,7 +525,7 @@ level: squadre
 
 *Product of n digits with 3n=ABCDE1*
 
-> The triple of n Sia n is a six digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the numbers of n?
+> The triple of n. Let n be a six digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the digits of n?
 
 **Answer:** 2240
 [[Quesiti/src_kangourou_2023_kangourou_squadre#q14|src_kangourou_2023_kangourou_squadre__Q14]]
@@ -562,7 +562,7 @@ level: squadre
 
 *06*
 
-> The clock A traditional clock with 12 hours and the hours and minutes mark 8 and 6 minutes. How many degrees does the least angle between the two hands measure? a b c d
+> The clock A traditional clock with 12 hours and the hour and minute hands mark 8 and 6 minutes. How many degrees does the smallest angle between the two hands measure? a b c d
 > 
 >  
 > Questions and solutions

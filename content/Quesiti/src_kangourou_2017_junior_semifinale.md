@@ -35,7 +35,7 @@ level: kangourou
 
 *Middle angle in a 10-sided convex polygon*
 
-> 2x > 130 2) x < 100 3) 3x > 50 4) x > 20 5) x > 15 two are true and three are false, what are the real ones? (A) La 1) e la 3). (B) La 2) e la 3). (C) La 2) e la 4). (D) La 2) e la 5). (E) La 4) e la 5).
+> 2x > 130 2) x < 100 3) 3x > 50 4) x > 20 5) x > 15 two are true and three are false, what are the real ones? (A) 1) and 3). (B) 2) and 3). (C) 2) and 4). (D) 2) and 5). (E) 4) and 5).
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_junior_semifinale#q01|src_kangourou_2017_junior_semifinale__Q01]]
@@ -64,7 +64,7 @@ level: kangourou
 
 *Minimum road with short river bridge*
 
-> 2. Kangcity is located 2 km east and 2 km north of Kangtown and the two towns are separated by a 1 km wide river running from south to north. We want to build a road that crosses the river on a short bridge as much as possible and that, if this demand is met, is the shortest possible. How many miles will the road be? (B) 2√2 (C) √3+1 (D) √5 + 1 (A) 4 (E) 3
+> 2. Kangcity is located 2 km east and 2 km north of Kangtown and the two towns are separated by a 1 km wide river running from south to north. We want to build a road that crosses the river on a bridge as short as possible and that, if this demand is met, is the shortest possible. How many kilometers will the road be? (B) 2√2 (C) √3+1 (D) √5 + 1 (A) 4 (E) 3
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_junior_semifinale#q02|src_kangourou_2017_junior_semifinale__Q02]]
@@ -132,7 +132,7 @@ level: kangourou
 > (Point 4) Train X travels the entire route between two cities without stopping during the journey (in particular without making intermediate stops). The Y train follows the same route by making a mid-way stop of 5 minutes and taking 5 minutes more than X for the entire journey. So, what?
 >
 > - **(A)** At some point along the route, the speed of Y is greater than the speed of X.
-> - **(B)** the maximum speed touched by Y is greater than that touched by X.
+> - **(B)** the maximum speed reached by Y is greater than that reached by X.
 > - **(C)** the maximum speed reached by the two trains is the same.
 > - **(D)** the average speed on the entire route is the same for the two trains.
 > - **(E)** None of the above claims are correct.
@@ -169,9 +169,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of impossible additions by sum of cubes 2017*
+*Number of impossible terms for sum of cubes 2017*
 
-> (Points 4) A sum of positive integer cubes is 2017. Which of the following cannot be the number of additions?
+> (Points 4) A sum of positive integer cubes is 2017. Which of the following cannot be the number of terms?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -215,9 +215,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate approaches of two glued dice*
+*Distinct arrangements of two glued dice*
 
-> You have two classic dice of equal size, with faces numbered 1 to 6, one red and one green. You want to stick them together by completely matching one face to another, so that the adhering faces give different scores. How many different approaches can you make? (Two approximations are to be considered different if they cannot be obtained from each other by rotations of the solids formed by the pair of glued dice.)
+> You have two classic dice of equal size, with faces numbered 1 to 6, one red and one green. You want to stick them together by completely matching one face to another, so that the adhering faces give different scores. How many different arrangements can you make? (Two arrangements are to be considered different if they cannot be obtained from each other by rotations of the solids formed by the pair of glued dice.)
 >
 > - **(A)** 30
 > - **(B)** 60
@@ -261,9 +261,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible number of matches of the battery tournament*
+*Possible number of matches of the pool tournament*
 
-> (Points 5) The number of participants in a mega tennis tournament has been set so that the tournament can be organised as follows. All participants are divided into batches of 5 players each. The overall winners of the individual batches are still divided into batches of 5 players each and so on until they have only 2 batches of 5 players each whose winners face each other in the final. In each battery, each player faces each other once and only once. What is the total number of matches to be played in the tournament?
+> (Points 5) The number of participants in a mega tennis tournament has been set so that the tournament can be organised as follows. All participants are divided into pools of 5 players each. The overall winners of the individual batches are still divided into pools of 5 players each and so on until they have only 2 pools of 5 players each whose winners face each other in the final. In each pool, each player faces each other once and only once. What is the total number of matches to be played in the tournament?
 >
 > - **(A)** 501
 > - **(B)** 601
@@ -404,13 +404,13 @@ level: kangourou
 
 *Minimum games played by Carlo*
 
-> Arthur, Bruno, and Carlo play cards. Two of them start playing a game; the winner then plays a game with the partner who is watching, and so they continue for some time: the game is such that no game can end in a draw. When they stop, it turns out Arturo played 17 games and Bruno played 23. What's the minimum number of games Carlo must have played?
+> Arthur, Bruno, and Carlo play cards. Two of them start playing a game; the winner then plays a game with the partner who is watching, and so they continue for some time: the game is such that no game can end in a draw. When they stop, it turns out Arthur played 17 games and Bruno played 23. What's the minimum number of games Carlo must have played?
 >
 > - **(A)** 12
 > - **(B)** 14
 > - **(C)** 16
 > - **(D)** 18
-> - **(E)** 20 Questions Answered
+> - **(E)** 20 Open-ended questions
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_junior_semifinale#q09|src_kangourou_2017_junior_semifinale__Q09]]
@@ -465,7 +465,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region drawn with strings equal to the radius*
+*Area region drawn with chords equal to the radius*
 
 ![[src_kangourou_2017_junior_semifinale__prob10.png]]
 
@@ -493,7 +493,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) In the figure you see a circle of area 600. AB is a diameter and the DB and BC strings are as long as the radius. What is the value of the area in question?
+> (Points 6) In the figure you see a circle of area 600. AB is a diameter and the DB and BC chords are as long as the radius. What is the area of the shaded region?
 
 **Answer:** 0100
 [[Quesiti/src_kangourou_2017_junior_semifinale#q10|src_kangourou_2017_junior_semifinale__Q10]]
@@ -550,9 +550,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of the 15 partition of a product*
+*Remainder of the division by 15 of a product*
 
-> (Points 9) Denotes with N the product of 97532 for 1468. What's the rest of the division of N by 15?
+> (Points 9) Denotes with N the product of 97532 for 1468. What is the remainder of the division of N by 15?
 
 **Answer:** 0011
 [[Quesiti/src_kangourou_2017_junior_semifinale#q12|src_kangourou_2017_junior_semifinale__Q12]]
@@ -579,9 +579,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ray inscribed in rectangular triangle*
+*Radius inscribed in a right triangle*
 
-> (Points 12) In a right triangle the length of the hypotenuse is less than 4 at the sum of the lengths of the catheters. How long is the radius of the inscribed circle?
+> (Points 12) In a right triangle the length of the hypotenuse is 4 less than the sum of the lengths of the legs. How long is the radius of the inscribed circle?
 
 **Answer:** 0002
 [[Quesiti/src_kangourou_2017_junior_semifinale#q13|src_kangourou_2017_junior_semifinale__Q13]]
@@ -644,7 +644,7 @@ level: kangourou
 
 *Maximum of x1^2+x2^2 for whole-root equation*
 
-> (Points 12) The equation x2  mx + 10 = 0 has two distinct integer solutions x1 ≠ x2. What is the maximum value that the expression x1 2 + x2 2 can take?
+> (Points 12) The equation x2 – mx + 10 = 0 has two distinct integer solutions x1 ≠ x2. What is the maximum value that the expression x1^2 + x2^2 can take?
 
 **Answer:** 0101
 [[Quesiti/src_kangourou_2017_junior_semifinale#q15|src_kangourou_2017_junior_semifinale__Q15]]
@@ -672,7 +672,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum numbers divisible by sums for 2017*
+*Minimum numbers divisible by 2017 with divisible sums*
 
 > (Points 15) We have 2017 positive integers such that the sum of two of them, however chosen, is divisible by 2017. At the very least, how many of them should be divisible by 2017?
 
@@ -702,9 +702,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum given by MCD 3 and mcm 1800*
+*Minimum sum given GCD 3 and LCM 1800*
 
-> (Points 15) Two positive integers have 3 as their maximum common divisor and 1800 as their minimum common multiple. What is the minimum value that their sum can have?
+> (Points 15) Two positive integers have 3 as their greatest common divisor and 1800 as their least common multiple. What is the minimum value that their sum can have?
 
 **Answer:** 0147
 [[Quesiti/src_kangourou_2017_junior_semifinale#q17|src_kangourou_2017_junior_semifinale__Q17]]
@@ -775,11 +775,53 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 5 cap disorders*
+*Probability of derangement of 5 hats*
 
-> (Points 18) The wardrobe returns 5 hats to the 5 gentlemen who had deposited them at the entrance. What are the odds that no one gets their hat? Write first the numerator and then the denominator of the fraction reduced to the minimum terms expressing the probability: e.g. If it's 7/12, write 0712. A B P C M N A D C B
+> (Points 18) The cloakroom attendant randomly returns 5 hats to the 5 gentlemen who had deposited them 
+> at the entrance. What is the probability that no one receives his own hat? 
+> Write first the numerator and then the denominator of the fraction reduced to its lowest terms that expresses the prob-
+> ability: for example, if it were 7/12 write 0712.
+> A
+> B
+> P
+> C
+> M
+> N
+> A
+> D
+> C
+> B
 > 
-> Question No. This appropriation is intended to cover the expenditure incurred in connection with the implementation of the budget of the European Union.
+> Question No.
+> score
+> 2
+> 3
+> 3
+> 4
+> 4
+> 4
+> 5
+> 5
+> 9
+> 6
+> 9
+> 9
+> 12
+> 12
+> 12
+> 15
+> 15
+> 18
+> answer
+> 0100
+> 2018
+> 0011
+> 0002
+> 0220
+> 0101
+> 2017
+> 0147
+> 1130
 
 **Answer:** 1130
 [[Quesiti/src_kangourou_2017_junior_semifinale#q18|src_kangourou_2017_junior_semifinale__Q18]]

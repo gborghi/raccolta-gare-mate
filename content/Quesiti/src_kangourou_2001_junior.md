@@ -86,7 +86,7 @@ level: kangourou
 
 > Students A, B, C, D, E, and F are in the Indian queue. We know that: 1) D is between E and F; 2) C is between D and E; 3) B is between C and D; 4) A is between B and C. Which of the following statements is true?
 >
-> Kangourou 15 March 2001. Junior class. This item is not intended to be used. 2
+> Kangourou 15 March 2001. Junior class. Page N. 2
 >
 > - **(A)** A is at one end (right or left) of the row
 > - **(B)** A is the second from one of the ends
@@ -127,7 +127,7 @@ level: kangourou
 
 *Diagonal length d of the polygon*
 
-> One of the diagonal d divides a polygon of 31 cm perimeter into two polygons of 21 cm and 30 cm perimeter respectively. So the length of d is
+> One of the diagonals d divides a polygon of 31 cm perimeter into two polygons of 21 cm and 30 cm perimeter respectively. So the length of d is
 >
 > - **(A)** 5 cm
 > - **(B)** 10 cm
@@ -170,7 +170,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs to be added to form a cube*
+*Cubes to be added to form a cube*
 
 ![[src_kangourou_2001_junior__prob4.png]]
 
@@ -216,13 +216,13 @@ level: kangourou
 
 *True claim with MCD(m,35)>10*
 
-> m is a positive integer such that MCD (m, 35) > 10. Which of the following is certainly true?
+> m is a positive integer such that GCD (m, 35) > 10. Which of the following is certainly true?
 >
 > - **(A)** the decimal representation of m has at least three digits
 > - **(B)** m is a multiple of 35.
 > - **(C)** m is divisible by 15
 > - **(D)** 35 is a multiple of m.
-> - **(E)** m is divisible by 5 or by 7, but not by both Note: MCD (a, b) indicates the maximum common divisor between a and b.
+> - **(E)** m is divisible by 5 or by 7, but not by both Note: GCD (a, b) indicates the maximum common divisor between a and b.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_junior#q05|src_kangourou_2001_junior__Q05]]
@@ -301,15 +301,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minor firsts of 2001 with sum of 2 figures *
+*Primes less than 2001 with digit sum 2*
 
-> What are the prime numbers of 2001 whose sum is equal to 2?
+> How many prime numbers less than 2001 have a digit sum equal to 2?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** More than four. Kangourou 15 March 2001. Junior class. This item is not intended to be used. 3
+> - **(E)** more than four. Kangourou 15 March 2001. Junior Category. Page N. 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_junior#q07|src_kangourou_2001_junior__Q07]]
@@ -388,7 +388,7 @@ level: kangourou
 \end{document}
 ```
 
-> The perimeter of the polygon depicted on the side (the three angles indicated are straight) is:
+> The perimeter of the polygon depicted on the side (the three angles indicated are right angles) is:
 >
 > - **(A)** 38 cm
 > - **(B)** 41 cm
@@ -430,7 +430,7 @@ level: kangourou
 
 *Minimum number with 0 and 1 divisible by 225*
 
-> How many digits does the decimal representation of the smallest positive integer that can be written using the only digits 0 and 1, and that is divisible by 225 contain?
+> How many digits does the decimal representation of the smallest positive integer that can be written using only the digits 0 and 1, and that is divisible by 225 contain?
 >
 > - **(A)** 10
 > - **(B)** 11
@@ -481,7 +481,7 @@ Cutting a ring to free them
 > - **(B)** Yes, by cutting B
 > - **(C)** Yes, by cutting C
 > - **(D)** Yes, by cutting D
-> - **(E)** no. The questions from N. 11 al N. 20 is worth 4 points each.
+> - **(E)** no. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_junior#q10|src_kangourou_2001_junior__Q10]]
@@ -517,7 +517,7 @@ Cutting a ring to free them
 
 *Values of d with a+b=cd and a+b+c=12*
 
-> a, b, c and d are positive integers such that a + b = c d and a + b + c = 12. How many different possible values can it assume ?
+> a, b, c and d are positive integers such that a + b = c d and a + b + c = 12. How many different possible values can d assume?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -567,7 +567,7 @@ Cutting a ring to free them
 > - **(B)** 35°
 > - **(C)** 40°
 > - **(D)** 45°
-> - **(E)** 50°. Kangourou 15 March 2001. Junior class. This item is not intended to be used. 4
+> - **(E)** 50°. Kangourou 15 March 2001. Junior class. Page N. 4
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_junior#q12|src_kangourou_2001_junior__Q12]]
@@ -596,7 +596,7 @@ Cutting a ring to free them
 
 *Late hours in one week*
 
-> A clock lags by X minutes every Y hour. How many hours, in terms of X and Y, will you delay that clock in a week?
+> A clock lags by X minutes every Y hours. How many hours, in terms of X and Y, will that clock be delayed in a week?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_junior#q13|src_kangourou_2001_junior__Q13]]
@@ -632,9 +632,13 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure on research and technological developments in the field of biotechnology.
+*Francs left to Gaspare*
 
-> Gaspare had 400 francs and had to buy 100 chocolate bars at the cost of 4 francs each. At the grocery store, he found that for every six tablespoons of chocolate he had in his cart, a new tablet was added to the box for free. How many francs did Gaspare have left when he left the supermarket, knowing that he bought nothing but chocolate?
+> Gaspare had 400 francs and had to buy 100 bars of chocolate at
+> a cost of 4 francs each. At the supermarket he discovered that for every 6 bars of
+> chocolate that he had in the cart, a new bar was added
+> free of charge at the checkout. How many francs were left to Gaspare on leaving the
+> supermarket, knowing that besides the chocolate he bought nothing else?
 >
 > - **(A)** 52
 > - **(B)** 56
@@ -708,7 +712,7 @@ This appropriation is intended to cover expenditure on research and technologica
 > - **(B)** 12 cm2
 > - **(C)** 15 cm2
 > - **(D)** 18 cm2
-> - **(E)** 20 inches square.
+> - **(E)** 20 cm².
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_junior#q15|src_kangourou_2001_junior__Q15]]
@@ -922,9 +926,11 @@ This appropriation is intended to cover expenditure on research and technologica
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number not available with alternate characters*
+*Number not obtainable with alternating signs*
 
-> In expression 2 * 4 * 6 * 8 * 10 * 12 * 14 the " + " or "  " mark may be replaced by each asterisk. What number cannot be the result of any of these expressions ?
+> In the expression 2 * 4 * 6 * 8 * 10 * 12 * 14 each asterisk can be
+> replaced by the " + " sign or the " – " sign. Which number cannot be the result
+> of any of these expressions?
 >
 > - **(A)** 0
 > - **(B)** 4
@@ -966,13 +972,13 @@ This appropriation is intended to cover expenditure on research and technologica
 
 *n given the remainder of 999:n*
 
-> In division 999: n, where n is a natural number of two digits (significant), the rest is 3. Then the rest of the 2001 division:
+> In division 999: n, where n is a natural number of two digits (significant), the remainder is 3. Then the remainder of the division 2001 : n is
 >
 > - **(A)** 3
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 7
-> - **(E)** 9. The questions from N. 21 al N. 30 is worth 5 points each.
+> - **(E)** 9. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_junior#q20|src_kangourou_2001_junior__Q20]]
@@ -1072,7 +1078,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Q value in relation to p and c*
+*Value of q as a function of p and c*
 
 ![[src_kangourou_2001_junior__prob22.png]]
 
@@ -1097,7 +1103,7 @@ Candies eaten by Cristina
 \end{document}
 ```
 
-> An ABC rectangle triangle as in the figure, with AB = c, AX = p and XC = q, represents a terrain. Jenny and Vicky walk at the same speed in opposite directions on the edge of the ground, both starting at the same moment from position X. The two girls meet in B. What's the value of q as a function of p and c?
+> A right triangle ABC as in the figure, with AB = c, AX = p and XC = q, represents a terrain. Jenny and Vicky walk at the same speed in opposite directions on the edge of the ground, both starting at the same moment from position X. The two girls meet in B. What's the value of q as a function of p and c?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_junior#q22|src_kangourou_2001_junior__Q22]]
@@ -1167,7 +1173,7 @@ Candies eaten by Cristina
 
 *Total 102 empty boxes given *
 
-> I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102 B 64 C 118 D 115 E cannot be answered. .
+> I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102     (B) 64      (C) 118     (D) 115        (E) cannot be answered. .
 >  
 > (E)
 >         
@@ -1191,7 +1197,7 @@ Candies eaten by Cristina
 >  
 > c p c p pc c p + + + + +
 > 
-> Kangourou 15 March 2001. Junior class. This item is not intended to be used. 6
+> Kangourou 15 March 2001. Junior class. Page N. 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_junior#q23|src_kangourou_2001_junior__Q23]]
@@ -1224,9 +1230,9 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the sum of powers*
+*Units digit of the sum of powers*
 
-> This is the same as in the case of a = 1997 1998 + 1998 1999 + 1999 2000 + 2000 2001. The number of units of a is
+> Let a = 1997 1998 + 1998 1999 + 1999 2000 + 2000 2001. The units digit of a is
 >
 > - **(A)** 0
 > - **(B)** 2
@@ -1267,7 +1273,7 @@ Candies eaten by Cristina
 
 ![[src_kangourou_2001_junior__prob25.png]]
 
-> ABCDEFGH is a 2 cm side cube. P, Q and R are the mean points of AD, GH and BF respectively. What is the area of the PQR triangle?
+> ABCDEFGH is a cube with side 2 cm. P, Q and R are the midpoints of AD, GH and BF respectively. What is the area of the PQR triangle?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_junior#q25|src_kangourou_2001_junior__Q25]]
@@ -1317,7 +1323,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sections 5 cm long in the grid*
+*Segments 5 cm long in the grid*
 
 ![[src_kangourou_2001_junior__prob26.png]]
 
@@ -1333,7 +1339,7 @@ Candies eaten by Cristina
 \end{document}
 ```
 
-> In the side grid, the distance between two adjacent points is 1 cm both horizontally and vertically. Combine two points to form a 5 cm long segment. How many of these segments can be traced in the grid?
+> In the side grid, the distance between two adjacent points is 1 cm both horizontally and vertically. Join two points to form a 5 cm long segment. How many of these segments can be traced in the grid?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -1372,9 +1378,9 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies decreasing by 14 times*
+*Integers decreasing by 14 times*
 
-> We cancel out the number of units of a positive integer and notice that the number decreases by 14 times. How many integers have this property?
+> We delete the units digit of a positive integer and notice that the number decreases by 14 times. How many integers have this property?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -1419,7 +1425,7 @@ Candies eaten by Cristina
 
 ![[src_kangourou_2001_junior__prob28.png]]
 
-> If A is the area of the square (on side 4) and B is the total area of the six semicircles as shown in the figure, then the value of A  B is
+> If A is the area of the square (with side 4) and B is the total area of the six semicircles as shown in the figure, then the value of A – B is
 >
 > - **(A)** 8
 > - **(B)** 16 – 3π
@@ -1460,7 +1466,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of tiles 2x8 with dominoes*
+*Ways to tile 2x8 with dominoes*
 
 > How many different ways can a rectangular floor of size 2 × 8 be tiled using rectangular tiles of size 1 × 2 (without overlapping)?
 >
@@ -1505,13 +1511,13 @@ Candies eaten by Cristina
 
 *Compositions of 30 into three positive integers*
 
-> How many different ways can the number 30 be broken down as the sum of three strictly positive integers? (Two breakdowns are equal if they differ only in the order of the additives.)
+> How many different ways can the number 30 be decomposed as the sum of three strictly positive integers? (Two breakdowns are equal if they differ only in the order of the addends.)
 >
 > - **(A)** 105
 > - **(B)** 75
 > - **(C)** 81
 > - **(D)** 362
-> - **(E)** 101. . This is the total number of participants in the contested competition.
+> - **(E)** 101
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_junior#q30|src_kangourou_2001_junior__Q30]]

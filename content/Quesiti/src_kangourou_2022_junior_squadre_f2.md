@@ -35,9 +35,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of a match with a dice, num+den
+The probability of a match with a die, num+den
 
-> With the dice Alice and Bice each have a traditional dice and play the following game. Everyone throws their own dice. If they get the same number, Alice wins; if they get different numbers, Alice throws her dice again: if now the two numbers coincide, Bice wins, if instead they are still different, the match ends in a draw. Express the probability that the match will end in a draw in the form of a fraction reduced to the minimum deadlines. What is the sum of the numerator and denominator of this fraction?
+> With the dice Alice and Bice each have a traditional die and play the following game. Everyone throws their own die. If they get the same number, Alice wins; if they get different numbers, Alice throws her die again: if now the two numbers coincide, Bice wins, if instead they are still different, the match ends in a draw. Express the probability that the match will end in a draw in the form of a fraction reduced to the lowest terms. What is the sum of the numerator and denominator of this fraction?
 
 **Answer:** 0061
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q01|src_kangourou_2022_junior_squadre_f2__Q01]]
@@ -65,9 +65,10 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of dividers equal to 20^22*
+*How many even divisors does 20^22 have*
 
-> Equal factors How many divisors (positive integers) of the number 2022 are equal numbers?
+> Even factors  
+> How many of the (positive integer) divisors of the number 2022 are even numbers?
 
 **Answer:** 1012
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q02|src_kangourou_2022_junior_squadre_f2__Q02]]
@@ -99,11 +100,14 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle shaded hexagonal area*
+*Area of the shaded hexagon in a triangle*
 
 ![[src_kangourou_2022_junior_squadre_f2__prob3.png]]
 
-> On the sides of the triangle shown in the figure are highlighted some points (vertical included). On each side, two adjacent points are 5 cm apart. How many square centimetres is the area of the shaded axis?
+> The hexagon  
+> On the sides of the triangle in the figure, some points are marked (vertices included). 
+> On each individual side, two contiguous points are 5 cm apart. How many square 
+> centimeters is the area of the shaded hexagon?
 
 **Answer:** 0120
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q03|src_kangourou_2022_junior_squadre_f2__Q03]]
@@ -134,9 +138,9 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Caramel in the sixth bag with bindings*
+*Candy in the sixth bag with constraints*
 
-> Sara distributes 150 candies in 10 bags. Each bag (starting with the second) contains more candy than the previous one. Eventually, Sara realizes that the number of candy she put in the tenth bag is not more than double the number of candy she put in the first. How many candy did you put in the sixth bag? If the answer is not unambiguous, write 0000.
+> Sara distributes 150 candies in 10 bags. Each bag (starting with the second) contains more candies than the previous one. Eventually, Sara realizes that the number of candies she put in the tenth bag is not more than double the number of candies she put in the first. How many candies did she put in the sixth bag? If the answer is not unambiguous, write 0000.
 
 **Answer:** 0016
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q04|src_kangourou_2022_junior_squadre_f2__Q04]]
@@ -166,9 +170,13 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 1 in the sum of 2023 add *
+*How many digits 1 in the sum of 2023 addends*
 
-> 2023 Additional Consider the following sum 8 + 98 + 998 + 9.998 + ... + 9.999. ... .998 where the 2023 additions are obtained by pressing the digit 8 respectively 0, 1, 2, 3, ..., 2022 digits 9. How many digits of 1 appear in the result?
+> 2023 addends 
+> Consider the following sum  
+> 8 + 98 + 998 + 9,998 + … + 9,999. … .998 
+> where the 2023 addends are obtained by prefixing the digit 8 with respectively 0, 1, 2, 3, …, 2022 digits 
+> 9. How many digits 1 appear in the result?
 
 **Answer:** 2019
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q05|src_kangourou_2022_junior_squadre_f2__Q05]]
@@ -274,11 +282,11 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of the King from b6 to e4 without going back*
+*Moves of the King from b6 to e4 without going back*
 
 ![[src_kangourou_2022_junior_squadre_f2__prob8.png]]
 
-> In the game of chess the king can move on the chessboard only one box at a time, horizontally, vertically or in one of the two diagonal directions. The King wants to go from b6 to e4 without ever going back (so, with reference to the figure, moving horizontally from left to right, vertically from top to bottom, diagonally from left to right from top to bottom). How many different ways can you do that?
+> In the game of chess the king can move on the chessboard only one square at a time, horizontally, vertically or in one of the two diagonal directions. The King wants to go from b6 to e4 without ever going back (so, with reference to the figure, moving horizontally from left to right, vertically from top to bottom, diagonally from left to right from top to bottom). How many different ways can you do that?
 
 **Answer:** 0025
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q08|src_kangourou_2022_junior_squadre_f2__Q08]]
@@ -309,7 +317,7 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most embassies, triangle-free graph *
+*Maximum embassies, triangle-free graph*
 
 > Embassies On a distant planet there are exactly 30 nations, rather contentious among themselves: in fact, there are no three nations that have diplomatic relations with each other (each with each of the other two). If A is related to B, then B is also related to A and in A there is an embassy of B and in B there is an embassy of A. How many embassies could there be on that planet?
 
@@ -341,7 +349,7 @@ The probability of a match with a dice, num+den
 
 *The last three digits of 7^9999*
 
-> What are the last three digits (hundreds, tens, units) of the number 79999?
+> What are the last three digits (hundreds, tens, units) of the number 7^9999?
 
 **Answer:** 0143
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q10|src_kangourou_2022_junior_squadre_f2__Q10]]
@@ -370,9 +378,11 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most parallel pipes from 4 non-planar points*
+*Maximum parallelepipeds from 4 non-coplanar points*
 
-> Parallelpipeds Four non-planar points are assigned in space so that the maximum number of parallelpipeds, all different from each other, are at the summits of these four points. What's this number?
+> The parallelepipeds 
+> Four non-coplanar points in space are assigned in such a way that the number of 
+> parallelepipeds, all different from one another, among whose vertices there are these 4 points, is maximum. What is this number?
 
 **Answer:** 0029
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q11|src_kangourou_2022_junior_squadre_f2__Q11]]
@@ -405,7 +415,7 @@ The probability of a match with a dice, num+den
 
 *Minimum whole 4 digits divided by 7 remaining 1*
 
-> Divisions by 7 Imagine that, dividing by 7 a positive integer, you get the remaining 1. If the quotient of this first division is not divisible by 7, imagine that the rest of the division by 7 of this quotient is still 1 and so on until, after a finite number of steps, the quotient is divisible by 7. What's the smallest positive four-digit integer you could have started from?
+> Divisions by 7 Imagine that, dividing by 7 a positive integer, you get remainder 1. If the quotient of this first division is not divisible by 7, imagine that the remainder of the division by 7 of this quotient is still 1 and so on until, after a finite number of steps, the quotient is divisible by 7. What's the smallest positive four-digit integer you could have started from?
 
 **Answer:** 1030
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q12|src_kangourou_2022_junior_squadre_f2__Q12]]
@@ -437,7 +447,7 @@ The probability of a match with a dice, num+den
 
 *Mode of tracing segments, each grade point 2*
 
-> Seven points on a circumference are marked and named seven distinct points. How many different ways can segments be plotted, each of which has two of these points for extremes, so that each of the seven points is an extreme of exactly two segments?
+> Seven points on a circle, seven distinct points are marked and named. How many different ways can segments be plotted, each of which has two of these points as endpoints, so that each of the seven points is an endpoint of exactly two segments?
 
 **Answer:** 0465
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q13|src_kangourou_2022_junior_squadre_f2__Q13]]
@@ -473,7 +483,7 @@ The probability of a match with a dice, num+den
 
 ![[src_kangourou_2022_junior_squadre_f2__prob14.png]]
 
-> In the square in the figure you see a square divided into four triangles. The grey one has an area of 432√5  720 cm2 and the three white triangles are equivalent to each other. How many centimeters is the side of the square?
+> In the figure you see a square divided into four triangles. The grey one has an area of 432√5 – 720 cm2 and the three white triangles are equivalent to each other. How many centimeters is the side of the square?
 
 **Answer:** 0024
 [[Quesiti/src_kangourou_2022_junior_squadre_f2#q14|src_kangourou_2022_junior_squadre_f2__Q14]]
@@ -542,9 +552,13 @@ The probability of a match with a dice, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N<10000 for N *
+*How many n<10000 with M||n divisible by n*
 
-> Written right How many positive integers n less than 10,000 have this property: whatever the positive integer M is, if you write the digits of n to the right of those of M, the number obtained by approaching the two numbers is divisible by n. (Both for M and for n the notation used is the decimal.) 8
+> Written on the right 
+> How many positive integers n less than 10,000 have this property: whatever 
+> the positive integer M, if the digits of n are written to the right of those of M, the number obtained by placing 
+> the two numbers side by side is divisible by n. (For both M and n the notation used is decimal.)  
+> 8
 >  
 >  
 >  
@@ -573,13 +587,13 @@ The probability of a match with a dice, num+den
 >  
 >  
 > 1
->  
->  
->  
->  
-> a b c d e f g h
+> a b
+> c
+> d e
+> f
+> g h
 > 
-> 3
+> 3 
 >  
 >  
 > Questions and solutions

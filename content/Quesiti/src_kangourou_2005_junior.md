@@ -35,9 +35,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Total students with Elena 50ma from both sides
+Total students with Elena 50th from both sides
 
-> At Kangourou 2004, Elena in her school placed 50th. His place is 50th even from the bottom of the standings. How many students from that school took part in the competition? A) 99 B) 75 C) 103 D) 100 E) 101
+> At Kangourou 2004, Elena in her school placed 50th. Her place is 50th even from the bottom of the standings. How many students from that school took part in the competition? A) 99 B) 75 C) 103 D) 100 E) 101
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_junior#q01|src_kangourou_2005_junior__Q01]]
@@ -73,7 +73,7 @@ Total students with Elena 50ma from both sides
 
 *Number of males with mixed pairs*
 
-> To perform a task, the 18 students in a class are divided into pairs and the pairs are numbered from 1 to 9. Couples marked with an equal number are made up of a male and a female, while couples marked with an odd number are made up only of males. How many males are in that class? A) 10 B) 11 C) 12 D) 14 E) 18
+> To perform a task, the 18 students in a class are divided into pairs and the pairs are numbered from 1 to 9. Couples marked with an even number are made up of a male and a female, while couples marked with an odd number are made up only of males. How many males are in that class? A) 10 B) 11 C) 12 D) 14 E) 18
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_junior#q02|src_kangourou_2005_junior__Q02]]
@@ -106,9 +106,16 @@ Total students with Elena 50ma from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum coins to be minted at a power station*
+*Maximum coins tangent to a central one*
 
-> 10 euro coins are placed on the table. Taking one of these coins, how many coins are there at most that you can place around it so that they touch it, but there are no overlapping coins? A) 5 B) 6 C) 7 D) 8 E) 9
+> 10 one-euro coins are arranged on the table. Having taken one of these
+> coins, what is the maximum number of coins that can be arranged
+> around it so that they touch it, but there are no overlaps between coins? 
+> A) 5       
+> B) 6         
+> C) 7          
+> D) 8             
+> E) 9
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_junior#q03|src_kangourou_2005_junior__Q03]]
@@ -153,13 +160,28 @@ Total students with Elena 50ma from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary measurements of 10 small aligned circles*
+*Sum of the measures of 10 small aligned circles*
 
 ![[src_kangourou_2005_junior__prob4.png]]
 
-> The large circumference in the figure is 10 m long. The 10 small circles have their centers aligned on a diameter of the large circle. The two smallest outer circumferences are tangent internally to the larger circumference; each of the other is tangent externally to the two adjacent to it. What is the sum of the measurements of the small circles? A) 1 m B) 5 m C) 10 m D) 100 m E) depends on the diameter of the individual junior_05_D.qxp 21/02/2005 16.13 Page 22
+> The large circle in the figure is 10 m long.
+> The 10 small circles have their centers aligned on a diameter of the large circle. The
+> two outermost small circles are internally tangent to the large circle;
+> each of the others is externally tangent to the
+> two adjacent to it. What is the sum of the
+> measures of the small circles?
+> A) 1 m
+> B) 5 m
+> C) 10 m
+> D) 100 m
+> E) it depends on the diameter of the individual circles
+> junior_05_D.qxp  21/02/2005  16.13  Page 22
 > 
-> I'm going to pay. I'm going to pay. 23 23 Kang 2005 Kang
+> Pag. 
+> Pag. 23
+> 23
+> Kang 2005
+> Kang 2005
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_junior#q04|src_kangourou_2005_junior__Q04]]
@@ -355,7 +377,7 @@ Total students with Elena 50ma from both sides
 \end{document}
 ```
 
-> The figure shows three semicirculars with a radius of 2 cm; the centers E and F of the two lower semicirculars, which are tangent, are the orthogonal projections of the points A and B respectively at the intersection of the upper semicircular with the other two. What is the area of the shaded region in cm2? A) 2π B) 7    C) 2π+1 D) 8       E) 2π+2
+> The figure shows three semicircles with a radius of 2 cm; the centers E and F of the two lower semicircles, which are tangent, are the orthogonal projections of the points A and B respectively at the intersection of the upper semicircle with the other two. What is the area of the shaded region in cm2? A) 2π B) 7    C) 2π+1 D) 8       E) 2π+2
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_junior#q08|src_kangourou_2005_junior__Q08]]
@@ -437,11 +459,31 @@ Total students with Elena 50ma from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs m,n with m2=n2+17 *
+*Pairs of integers m,n with m^2=n^2+17*
 
-> How many pairs of positive integers m, n (with m > n) are such that m 2 = n 2 + 17? A) none B) one C) two D) four E) infinite 21 16 27 x E A B F junior_05_D.qxp 21/02/2005 16.13 Page 23
+> How many pairs of positive integers m, n (with m > n) are there such
+> that m 2 = n 2 + 17?
+> A) none
+> B) one
+> C) two
+> D) four
+> E) infinitely many 
+> 21
+> 16
+> 27
+> x
+> E
+> A
+> B
+> F
+> junior_05_D.qxp  21/02/2005  16.13  Page 23
 > 
-> I'm going to pay. I'm going to pay. 24 24 Kang 2005 Kang 2005 Questions from N. 11 al N. 20 is worth 4 points each.
+> Page 
+> Page 24
+> 24
+> Kang 2005
+> Kang 2005
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_junior#q10|src_kangourou_2005_junior__Q10]]
@@ -479,11 +521,11 @@ Total students with Elena 50ma from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Top of the dice in the final position*
+*Top face of the die in the final position*
 
 ![[src_kangourou_2005_junior__prob11.png]]
 
-> The sum of the points on the opposite sides of a dice is always 7. A dice rolls along the path shown in the figure. In the initial position (S) on the upper face of the dice, it reads 3. What do you read on the upper face when the dice are in the final position (F)? A) 2 B) 3 C) 4 D) 5 E) 6
+> The sum of the points on the opposite faces of a die is always 7. A die rolls along the path shown in the figure. In the initial position (S) on the upper face of the dice, it reads 3. What do you read on the upper face when the die is in the final position (F)? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_junior#q11|src_kangourou_2005_junior__Q11]]
@@ -520,7 +562,7 @@ Total students with Elena 50ma from both sides
 
 *Minimum balls extracted by sum of 18*
 
-> In a day there are 17 balls numbered 1 to 17. You have the option to extract a single number of balls of your choice. If you want to be sure that among the balls you extracted, there are at least two whose sum is 18, how many do you need to extract? A) 8 B) 10 C) 11 D) 12 E) 17
+> In an urn there are 17 balls numbered 1 to 17. You have the option to perform a single extraction of a number of balls of your choice. If you want to be sure that among the balls you extracted, there are at least two whose sum is 18, how many do you need to extract? A) 8 B) 10 C) 11 D) 12 E) 17
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_junior#q12|src_kangourou_2005_junior__Q12]]
@@ -560,7 +602,7 @@ Total students with Elena 50ma from both sides
 
 *A claim that the alternating liar cannot make*
 
-> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't have? A) The number of my friends is a prime number. B) My friends are as many as my friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my friends, three are older than me.
+> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't he have made? A) The number of my friends is a prime number. B) I have as many male friends as female friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my male and female friends, three are older than me.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_junior#q13|src_kangourou_2005_junior__Q13]]
@@ -627,7 +669,7 @@ Total students with Elena 50ma from both sides
 \end{document}
 ```
 
-> A rectangle is divided into 4 smaller rectangles by two segments parallel to the sides. If, as shown in the figure, two rectangles have an area of 4 cm2 and 12 cm2 respectively, which of the following pairs of numbers can express the area in cm2 of the remaining two rectangles? A) 3 e 10 B) 5 e 15 C) 6 e 16 D) 3 e 16 E) 6 e 9
+> A rectangle is divided into 4 smaller rectangles by two segments parallel to the sides. If, as shown in the figure, two rectangles have an area of 4 cm2 and 12 cm2 respectively, which of the following pairs of numbers can express the area in cm2 of the remaining two rectangles? A) 3 and 10 B) 5 and 15 C) 6 and 16 D) 3 and 16 E) 6 and 9
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_junior#q14|src_kangourou_2005_junior__Q14]]
@@ -710,7 +752,7 @@ Total students with Elena 50ma from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of ten corners on five lines per P*
+*sum of ten angles on five lines through P*
 
 ![[src_kangourou_2005_junior__prob16.png]]
 
@@ -750,11 +792,11 @@ Total students with Elena 50ma from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most common segment of two strands *
+*Maximum segments of the common stretch of two wires*
 
 ![[src_kangourou_2005_junior__prob17.png]]
 
-> Two pieces of iron wire are shown in the figure. Each is made up of segments each 10 cm long. One of the two pieces is partially superimposed on the other so that they have a feature in common. What is the maximum number of segments that make up this feature? A) 7 B) 5 C) 4 D) 3 E) 1
+> Two pieces of iron wire are shown in the figure. Each is made up of segments each 10 cm long. One of the two pieces is partially superimposed on the other so that they have a stretch in common. What is the maximum number of segments that make up this stretch? A) 7 B) 5 C) 4 D) 3 E) 1
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_junior#q17|src_kangourou_2005_junior__Q17]]
@@ -791,7 +833,7 @@ Total students with Elena 50ma from both sides
 
 Maximum KANGOUROU number with bell code *
 
-> The 7 letter sequence AGONKRU is associated with a sequence of 7 digits all different from each other, arranged in ascending order up to the figure corresponding to the letter N and decreasing from there onwards. Each chosen sequence is a code respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 859763473 B) 987654354 C) 569784384 D) 859673473 E) 569783483
+> The 7 letter sequence AGONKRU is associated with a sequence of 7 digits all different from each other, arranged in ascending order up to the digit corresponding to the letter N and decreasing from there onwards. Each chosen sequence is a code respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 859763473 B) 987654354 C) 569784384 D) 859673473 E) 569783483
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_junior#q18|src_kangourou_2005_junior__Q18]]
@@ -922,7 +964,7 @@ Maximum KANGOUROU number with bell code *
 
 *Number of different bus results in 19 minutes*
 
-> At a bus stop only bus A (usually every 3 minutes) and bus B (usually every 5 minutes) pass. If I'm at a stop exactly 19 minutes and count the total number of buses passing in the meantime, how many different results can I get? A) 1 B) 2 C) 3 D) 4 E) 5
+> At a bus stop only bus A (regularly every 3 minutes) and bus B (regularly every 5 minutes) pass. If I'm at the stop exactly 19 minutes and count the total number of buses passing in the meantime, how many different results can I get? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_junior#q21|src_kangourou_2005_junior__Q21]]
@@ -963,7 +1005,7 @@ Maximum KANGOUROU number with bell code *
 
 ![[src_kangourou_2005_junior__prob22.png]]
 
-> 14 volume 1 cubes are stacked as shown in Figure 1. The resulting construction is enclosed in a pyramid, as shown in the figure. What's the volume of this pyramid? A) 64 B) 32 C) D) E)
+> 14 volume 1 cubes are stacked as shown in the figure. The resulting construction is enclosed in a pyramid, as shown in the figure. What's the volume of this pyramid? A) 64 B) 32 C) D) E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_junior#q22|src_kangourou_2005_junior__Q22]]
@@ -990,11 +1032,11 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not the development of an octahedron (cancelled) *
+*Which is not the net of an octahedron (cancelled) *
 
 ![[src_kangourou_2005_junior__prob23.png]]
 
-> Which of the following is not the development of an octahedron?
+> Which of the following is not the net of an octahedron?
 
 [[Quesiti/src_kangourou_2005_junior#q23|src_kangourou_2005_junior__Q23]]
 
@@ -1042,7 +1084,7 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Short radius of small square circumference*
+*Radius of small circle in square*
 
 ![[src_kangourou_2005_junior__prob24.png]]
 
@@ -1059,7 +1101,7 @@ Maximum KANGOUROU number with bell code *
 \end{document}
 ```
 
-> The figure represents a square and two circles. The square is surrounded by the large circumference, which has a radius of 1 and is tangent externally to the small circumference, which is tangent to two sides of the square. What is the radius of the small circumference? A)                 B) C) D) E)
+> The figure represents a square and two circles. The square is circumscribed about the large circle, which has a radius of 1 and is tangent externally to the small circle, which is tangent to two sides of the square. What is the radius of the small circle? A)                 B) C) D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_junior#q24|src_kangourou_2005_junior__Q24]]
@@ -1127,11 +1169,50 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total n integers satisfying two inequalities*
+*How many integers n satisfy two inequalities*
 
-> How many positive integers n satisfy both inequalities 2000 < < 2005? A) 1 B) 2 C) 3 D) 4 E) 5 2 3 2 64 () 1 + n 3 64 3 32 2 2 3 − 4 2 1 + 2 2 2 − 2 3 4 + 1 2 − junior_05_D.qxp 21/02/2005 16.13 Page 26
+> How many positive integers n satisfy both inequalities 2000 <
+> < 2005?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
+> 2
+> 3
+> 2
+> 64
+> (
+> )
+> 1
+> +
+> n
+> n
+> 3
+> 64
+> 3
+> 32
+> 2
+> 2
+> 3 −
+> 4
+> 2
+> 1 +
+> 2
+> 2
+> 2 −
+> 2
+> 3
+> 4 +
+> 1
+> 2 −
+> junior_05_D.qxp  21/02/2005  16.13  Page 26
 > 
-> I'm going to pay. I'm going to pay. 27 27 Kang 2005 Kang
+> Pag. 
+> Pag. 27
+> 27
+> Kang 2005
+> Kang 2005
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_junior#q25|src_kangourou_2005_junior__Q25]]
@@ -1173,7 +1254,7 @@ Maximum KANGOUROU number with bell code *
 
 ![[src_kangourou_2005_junior__prob26.png]]
 
-> A rectangle is divided into two regions by the broken ABCD, as shown in the figure. The segments AB, BC and CD are parallel to the sides of the rectangle and their lengths in metres are respectively 30, 24 and 10. E is a point on the upper side of the rectangle such that the area of each of the trapezoids into which AE divides the rectangle coincides with that of the initial region containing the same vertices of the rectangle. How far is E to D in meters? A) 8 B) 12 C) 13 D) 14 E) 16
+> A rectangle is divided into two regions by the polygonal line ABCD, as shown in the figure. The segments AB, BC and CD are parallel to the sides of the rectangle and their lengths in metres are respectively 30, 24 and 10. E is a point on the upper side of the rectangle such that the area of each of the trapezoids into which AE divides the rectangle coincides with that of the initial region containing the same vertices of the rectangle. How far is E from D in meters? A) 8 B) 12 C) 13 D) 14 E) 16
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_junior#q26|src_kangourou_2005_junior__Q26]]
@@ -1205,9 +1286,9 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit dividers of 102^2*
+*Four-digit divisors of 102^2*
 
-> How many 4-digit divisors (positive integers) does the number 1022 have? A) 2 B) 3 C) 4 D) 5 E) 6
+> How many 4-digit divisors (positive integers) does the number 102^2 have? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_junior#q27|src_kangourou_2005_junior__Q27]]
@@ -1243,11 +1324,11 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded triangle area in the matching fish*
+*Shaded triangle area in the matchstick fish*
 
 ![[src_kangourou_2005_junior__prob28.png]]
 
-> 10 matches of equal length are arranged in such a way as to represent a fish, as shown in the figure. The area of the region occupied by the fish is 24. How much is the area of the shaded triangle, delimited using the segment drawn in the figure between two of the fish's "vertices"? A) 1 B) C) 2 D) E)
+> 10 matches of equal length are arranged in such a way as to represent a fish, as shown in the figure. The area of the region occupied by the fish is 24. How much is the area of the shaded triangle, delimited using the segment drawn in the figure between two of the fish's "vertices"? A) 1 B) 3/2 C) 2 D) 5/2 E) 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_junior#q28|src_kangourou_2005_junior__Q28]]
@@ -1283,7 +1364,7 @@ Maximum KANGOUROU number with bell code *
 
 ![[src_kangourou_2005_junior__prob29.png]]
 
-> How many ways can you choose, on a traditional 8x8 chessboard, a pair of boxes, a white and a black, so that those boxes don't lie on the same line or on the same column? A) 56      B) 5040     C) 720 D) 672         E) 768
+> How many ways can you choose, on a traditional 8x8 chessboard, a pair of squares, a white and a black, so that those squares don't lie on the same row or on the same column? A) 56      B) 5040     C) 720 D) 672         E) 768
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_junior#q29|src_kangourou_2005_junior__Q29]]
@@ -1367,7 +1448,7 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CPE angle with three adjacent squares*
+*Angle CPE with three squares placed side by side*
 
 ![[src_kangourou_2005_junior__prob30.png]]
 
@@ -1397,7 +1478,36 @@ Maximum KANGOUROU number with bell code *
 \end{document}
 ```
 
-> Three squares are aligned as shown in the figure. The segments AE and CH intersect at point P. What's the size of the CPE angle? A) 30° B) 45° C) 60° D) 50° E) 40° A E C D B X X H G F E A D B C P ? The Commission has decided to extend the period of validity of this Regulation to the following areas:
+> Three squares are placed side by side
+> as in the figure. The segments AE and
+> CH intersect at point P.
+> What is the measure of angle CPE ?
+> A) 30° 
+> B) 45°
+> C) 60° 
+> D) 50°
+> E) 40°
+> A
+> E
+> C
+> D
+> B
+> X
+> X
+> H
+> G
+> F
+> E
+> A
+> D
+> B
+> C
+> P
+> ?
+> 3
+> 5
+> 6
+> junior_05_D.qxp  21/02/2005  16.13  Page 27
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_junior#q30|src_kangourou_2005_junior__Q30]]

@@ -37,9 +37,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Price of 9 pieces 3_72.98
+Price of 9 pieces 3_72,98
 
-> I bought 9 pieces of the same product, but I don't know what I have to pay because one of the numbers on the payment request sheet is stained and you only see the word 3 72.98. What's the number under the black spot?
+> I bought 9 pieces of the same product, but I don't know what I have to pay because one of the numbers on the payment request sheet is stained and you only see the digits 3 72,98. What's the number under the black spot?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -110,7 +110,7 @@ Price of 9 pieces 3_72.98
 \end{document}
 ```
 
-> (Points 3) To get the logo in the figure I divided into 4 equal parts one side of an equilateral triangle, then I drew four lines parallel to the other sides passing through the three dividing points, and finally I blacked out the rim and the triangles you see in the figure. What fraction of the starting triangle is occupied by the white M?
+> (Points 3) To get the logo in the figure I divided into 4 equal parts one side of an equilateral triangle, then I drew four lines parallel to the other sides passing through the three dividing points, and finally I blacked out the rhombus and the triangles you see in the figure. What fraction of the starting triangle is occupied by the white M?
 >
 > - **(A)** 7/11
 > - **(B)** 2/3
@@ -184,7 +184,7 @@ Price of 9 pieces 3_72.98
 \end{document}
 ```
 
-> The figure shows a square sheet on which 16 points are drawn, which are vertices of 9 squares corresponding to a side of 1 cm. You can plot various triangles using points as vertices. How many square centimeters is the area of the widest triangle you can trace this way?
+> The figure shows a square sheet on which 16 points are drawn, which are vertices of 9 congruent squares with side 1 cm. You can plot various triangles using points as vertices. How many square centimeters is the area of the largest triangle you can trace this way?
 >
 > - **(A)** 3
 > - **(B)** 3,5
@@ -232,7 +232,7 @@ The largest and smallest of A,B,C by implications
 > 	
 > - if A is not the largest of the three, then the largest is C;
 > 	
-> - if C is not the smallest of the three, then the largest is B. What are the largest and smallest in order? (A) B e C                    	 (B) A e C (C) C e B (D) B e A (E) A e B
+> - if C is not the smallest of the three, then the largest is B. What are the largest and smallest in order? (A) B and C                    	 (B) A and C (C) C and B (D) B and A (E) A and B
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q04|src_kangourou_2017_benjamin_semifinale__Q04]]
@@ -288,18 +288,38 @@ The largest and smallest of A,B,C by implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Collections of figures available in the game JUMP*
+*Collections of stickers obtainable in the game JUMP*
 
-> (Points 4) In the JUMP board game each player leaves the box with the inscription INICIO and at each move can jump one or two boxes moving forward and with the last jump he must get exactly into the box FINE, otherwise he loses. In each box there is a figure and the player collects all the figures on which they land. What is the collection of figurines you can obtain?
+> (Points 4) In the board game JUMP each player starts from the square labeled START and on each move
+> can jump one or two squares, always moving forward, and with the last jump must land exactly
+> on the square END, otherwise they lose. In each square there is a sticker and the player collects all the stickers
+> on which they land.
+> START
+> a
+> n
+> n
+> s
+> s
+> s
+> a
+> s
+> n
+> n
+> a
+> END
+> Among the following collections of stickers, which ones can they obtain?
 >
-> (1) n n s s s         	 (2) a n n s (3)  n n s
+> (1) n n s s s         	 (2) a n n s
+> (3)  n n s
 >
-> (4) to paragraphs 5 to 5 (Note: the figures in the collections are not in the order in which they were collected.)
+> (4) a a n s
+> (5) n n s s
+> (Note: the stickers in the collections are not ordered according to the order in which they are collected.)
 >
-> - **(A)** Just one and three.
-> - **(B)** Just two and five.
-> - **(C)** Just one, four and five.
-> - **(D)** All but 4 (E) All
+> - **(A)** Only 1 and 3
+> - **(B)** Only 2 and 5
+> - **(C)** Only 1, 4 and 5
+> - **(D)** All except 4 (E) All
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q05|src_kangourou_2017_benjamin_semifinale__Q05]]
@@ -335,9 +355,9 @@ The largest and smallest of A,B,C by implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of inserting 1.5. with chain of inequalities*
+*Ways of inserting 1..5 with chain of inequalities*
 
-> (Points 4) You want to insert in each of the spaces marked by the dots one of the numbers 1, 2, 3, 4, 5 so that each number is used only once and that the inequalities: ... < ... > ... < ... < .... They're all true. How many ways can you do that?
+> (Points 4) You want to insert in each of the spaces marked by the dots one of the numbers 1, 2, 3, 4, 5 so that each number is used only once and that the inequalities: ... < ... > ... < ... < .... are all true. How many ways can you do that?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -431,13 +451,13 @@ How many times does Daria overtake Baldo on the track?
 
 ![[src_kangourou_2017_benjamin_semifinale__prob8.png]]
 
-> Rita covered each of the six faces of a cube with cards of different colors. Which of the images next to it is not in agreement with the other three and therefore certainly does not represent the cube wrapped by Rita?
+> (5 points) Rita covered each of the six faces of a cube with cards of different colors. Which of the images next to it is not in agreement with the other three and therefore certainly does not represent the cube covered by Rita?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** None of them .
+> - **(E)** None of them
 
 **Answer:** C
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q08|src_kangourou_2017_benjamin_semifinale__Q08]]
@@ -481,7 +501,7 @@ How many times does Daria overtake Baldo on the track?
 > - **(B)** 13
 > - **(C)** 6
 > - **(D)** 24
-> - **(E)** 11 Questions Answered
+> - **(E)** 11 Open-ended questions
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q09|src_kangourou_2017_benjamin_semifinale__Q09]]
@@ -512,7 +532,7 @@ How many times does Daria overtake Baldo on the track?
 
 Tickets sold together with number 374 (650 tickets)
 
-> Charles decided to sell the lottery tickets to a charity. It has 650 tickets numbered from 1 to 650 and sells the first ticket (the one with the number 1) together with the last one (the one with the number 650), the second one with the penultimate one and so on. What's the number of the ticket that Carlo sells along with the number 374 ticket?
+> Charles decided to sell the lottery tickets in pairs for a charity. It has 650 tickets numbered from 1 to 650 and sells the first ticket (the one with the number 1) together with the last one (the one with the number 650), the second one with the penultimate one and so on. What's the number of the ticket that Charles sells along with the number 374 ticket?
 
 **Answer:** 277
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q10|src_kangourou_2017_benjamin_semifinale__Q10]]
@@ -543,7 +563,7 @@ Tickets sold together with number 374 (650 tickets)
 
 *Small spicy two-digit number *
 
-> (Points 5) We call a two-digit number piccante which is the sum of the sum of its digits and the product of its digits. Ad es. 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What's the smallest spicy number?
+> (Points 5) We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What's the smallest spicy number?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q11|src_kangourou_2017_benjamin_semifinale__Q11]]
@@ -570,9 +590,9 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural sum with remainder equal to quotient 6*
+*Natural sum with remainder equal to quotient divided by 6*
 
-> (Points 5) What is the sum of all the natural numbers that divided by 6 gives a residual equal to the quotient?
+> (Points 5) What is the sum of all the natural numbers that divided by 6 give a remainder equal to the quotient?
 
 **Answer:** 105
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q12|src_kangourou_2017_benjamin_semifinale__Q12]]
@@ -600,9 +620,12 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-* slower than a fifth *
+*return one fifth slower*
 
-> Stephania leaves home on foot to visit a friend in a nearby town, stops by her for an hour and returns home. For fatigue, on return every hour of walking it covers a distance less than one fifth of that covered in an hour of walking. In this way, returning home generally takes an hour longer than usual. How many hours have you been away from home?
+> (6 points) Stefania leaves home on foot to visit a friend in a nearby city, stays with her 
+> for an hour and returns home. Because of tiredness, on the return trip in every hour of walking she covers a distance less by one 
+> fifth than the one covered in an hour of walking on the way there. In this way, returning home she takes overall 
+> one hour more than on the way there. For how many hours was she away from home?
 
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q13|src_kangourou_2017_benjamin_semifinale__Q13]]
 
@@ -631,7 +654,7 @@ Tickets sold together with number 374 (650 tickets)
 
 4 children, 2 fathers, 2 uncles and nephews
 
-> (Points 6) In one room there are exactly four children, each with their father, exactly two fathers and exactly two uncles each with a grandson. What's the smallest number of people in the room that this could happen to?
+> (Points 6) In one room there are exactly four children, each with their father, exactly two fathers and exactly two uncles each with a nephew. What's the smallest number of people in the room that this could happen to?
 
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q14|src_kangourou_2017_benjamin_semifinale__Q14]]
 
@@ -658,9 +681,9 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer minimum that multiplied by 2017,316 by an integer*
+*Smallest integer that multiplied by 2017,316 gives an integer*
 
-> The March competition took place on 16-3-2017. What is the smallest positive integer multiplied by the (non-integer) number 2017,316 giving an integer?
+> The March competition took place on 16-3-2017. What is the smallest positive integer that multiplied by the (non-integer) number 2017,316 gives an integer?
 
 **Answer:** 250
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q15|src_kangourou_2017_benjamin_semifinale__Q15]]
@@ -689,9 +712,9 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs of each cube built by Paola and Giovanna*
+*Cubes of each cube built by Paola and Giovanna*
 
-> (Points 7) Pietro, Paola and Giovanna have a total of 2017 cubes, all of the same size. Approaching more than half of it, Peter constructed a large cube and said to Paola and Joan: 'I could have built a larger cube but this way, using all but the remaining cubes, you can construct a cube each and your two cubes will be of the same size. How many cubes will each of the two cubes be made of?
+> (Points 7) Pietro, Paola and Giovanna have a total of 2017 cubes, all of the same size. Putting together more than half of them, Pietro constructed a large cube and said to Paola and Giovanna: 'I could have built a larger cube but this way, using all and only the remaining cubes, you can construct a cube each and your two cubes will be of the same size”. How many cubes will each of the two cubes be made of?
 
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q16|src_kangourou_2017_benjamin_semifinale__Q16]]
 
@@ -720,7 +743,7 @@ Tickets sold together with number 374 (650 tickets)
 
 *First four digits of the multiple sequence of 17 or 23*
 
-> (Points 7) A sequence of 2017 digits is such that any number of two digits that can be obtained by approaching two consecutive digits of the sequence (in the order in which they appear) is a multiple of 17 or 23. The last digit of the sequence is 1. What are the first four digits of the sequence?
+> (Points 7) A sequence of 2017 digits is such that any number of two digits that can be obtained by placing two consecutive digits side by side of the sequence (in the order in which they appear) is a multiple of 17 or 23. The last digit of the sequence is 1. What are the first four digits of the sequence?
 
 [[Quesiti/src_kangourou_2017_benjamin_semifinale#q17|src_kangourou_2017_benjamin_semifinale__Q17]]
 

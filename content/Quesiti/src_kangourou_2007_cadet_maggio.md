@@ -64,7 +64,7 @@ level: kangourou
 
 ![[src_kangourou_2007_cadet_maggio__probc2.png]]
 
-> The diagonals divide the quadrilateral in the figure into four triangles, of which three indicate the areas ($2$, $3$ and $1$ respectively). What is the area of the fourth triangle (in relation to the same unit of measurement)? (see figure)
+> The diagonals divide the quadrilateral in the figure into four triangles, three of which have the areas indicated ($2$, $3$ and $1$ respectively). What is the area of the fourth triangle (in relation to the same unit of measurement)? (see figure)
 
 **Answer:** 1,5
 [[Quesiti/src_kangourou_2007_cadet_maggio#qc2|src_kangourou_2007_cadet_maggio__QC2]]
@@ -126,9 +126,9 @@ level: kangourou
 
 ![[src_kangourou_2007_cadet_maggio__probc4.png]]
 
-> Is it possible to place $21$ rectangular tiles, the sides of which measure $1$ cm and $3$ cm, on a chessboard $8 \times 8$ made up of side squares $1$ cm so that there are no tiles coming from the grid or partially overlapping? In the case of a yes answer, it shows with a drawing how you would arrange the tiles, in the case of a negative answer it explains why it is not possible.
+> Is it possible to place $21$ rectangular tiles, the sides of which measure $1$ cm and $3$ cm, on a chessboard $8 \times 8$ made up of squares of side $1$ cm so that there are no tiles protruding from the grid or partially overlapping? In the case of a yes answer, show with a drawing how you would arrange the tiles; in the case of a negative answer, explain why it is not possible.
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2007_cadet_maggio#qc4|src_kangourou_2007_cadet_maggio__QC4]]
 
 
@@ -155,9 +155,9 @@ level: kangourou
 
 *How many bridges (rectangular grid diagonal) *
 
-> A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one side kilometer. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be gained, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
+> A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one kilometer per side. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be forded, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
 
-**Answer:** 32 (e 30)
+**Answer:** 32 (and 30)
 [[Quesiti/src_kangourou_2007_cadet_maggio#qc5|src_kangourou_2007_cadet_maggio__QC5]]
 
 
@@ -184,7 +184,7 @@ level: kangourou
 
 Sum of the first six decimal places of 2^2007/7*
 
-> What is the sum of the first six digits after the comma of the division by $7$ of $2^{2007}$?
+> What is the sum of the first six digits after the decimal point of the division by $7$ of $2^{2007}$?
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2007_cadet_maggio#qc6|src_kangourou_2007_cadet_maggio__QC6]]

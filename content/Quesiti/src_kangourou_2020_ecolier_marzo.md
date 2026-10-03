@@ -45,7 +45,7 @@ level: kangourou
 
 ![[src_kangourou_2020_ecolier_marzo__prob1.png]]
 
-> A mushroom grows day by day. Licia photographed him every day from Monday to Friday. Which one of these photos was taken on Tuesday? A)
+> A mushroom grows day by day. Licia photographed it every day from Monday to Friday. Which one of these photos was taken on Tuesday? A)
 > 	
 > B)
 > 	
@@ -89,11 +89,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which part completes the mosaic*
+*Which tile completes the mosaic*
 
 ![[src_kangourou_2020_ecolier_marzo__prob2.png]]
 
-> Which of the following complete the mosaic on the side? A)
+> Which of the following tiles completes the mosaic on the side? A)
 > 	
 > B)
 > 	
@@ -133,7 +133,7 @@ What shape does Antonio get by shadowing the results?
 
 ![[src_kangourou_2020_ecolier_marzo__prob3.png]]
 
-> In each grid cell you see here next to it, an operation is indicated. Antonio shadows all cells containing an operation resulting in 20. Which of the following forms does it take? A)                       B)                       C) D)                         E)
+> In each grid cell you see here next to it, an operation is indicated. Antonio shades all cells containing an operation resulting in 20. Which of the following forms does it take? A)                       B)                       C) D)                         E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q03|src_kangourou_2020_ecolier_marzo__Q03]]
@@ -171,11 +171,11 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square has the major gray part*
+*Which square has the largest gray part*
 
 ![[src_kangourou_2020_ecolier_marzo__prob4.png]]
 
-> The squares in the answers were partially grey. In which of them is the colored part greater? A)
+> The squares in the answers have been partially colored grey. In which of them is the colored part greater? A)
 > 	
 > B)
 > 	
@@ -236,7 +236,7 @@ What shape does Antonio get by shadowing the results?
 
 ![[src_kangourou_2020_ecolier_marzo__prob5.png]]
 
-> Sonia uses plaster on the floor to draw the large table you see on the side, then starts jumping from cell to cell. It starts from cell number 1 and follows this rule: with every new jump, it lands in a cell with a number that is 3 units larger than the cell from which it jumped. What's the number in the last cell you can land on? A) 11
+> Sonia uses chalk to draw on the floor the large table you see on the side, then starts jumping from cell to cell. She starts from cell number 1 and follows this rule: with every new jump, she lands in a cell with a number that is 3 units larger than the cell from which she jumped. What's the number in the last cell she can land on? A) 11
 > 	
 > B) 13
 > 	
@@ -279,11 +279,11 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is composed of the six adhesives*
+*Which figure is composed of the six stickers*
 
 ![[src_kangourou_2020_ecolier_marzo__prob6.png]]
 
-> With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. What kind? A) B) C) D) E)
+> With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. Which one? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q06|src_kangourou_2020_ecolier_marzo__Q06]]
@@ -322,17 +322,20 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which adhesives and opposes the cube anathrocoll*
+*Which sticker is opposite the duckling on the cube*
 
 ![[src_kangourou_2020_ecolier_marzo__prob7.png]]
 
-> George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the opposite face to the one with the ankle? A)
+> Giorgio glues six stickers with pictures 
+> of animals, each on one face of a cube.
+> The figure on the side shows the cube in two different positions. Which sticker is on the face opposite the one with the duckling?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C)	
 > 	
-> D)
+> D) 	
 > 	
 > E)
 
@@ -376,11 +379,11 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sheets of different sizes to cover the grid*
+*How many tiles of different sizes to cover the grid*
 
 ![[src_kangourou_2020_ecolier_marzo__prob8.png]]
 
-> Francis has the following cards: He will use some to cover, completely and without overlapping, the grid you see below. If he wants to use as many cards of different sizes as possible, how many cards will Francis use in all? A) 3
+> Francesco has the following tiles: He will use some to cover, completely and without overlapping, the grid you see below. If he wants to use as many tiles of different sizes as possible, how many tiles will Francesco use in all? A) 3
 > 	
 > B) 4
 > 	
@@ -388,7 +391,7 @@ What shape does Antonio get by shadowing the results?
 > 	
 > D) 6
 > 	
-> E) 7 Questions from N. 9 al N. 16 is worth 4 points each.
+> E) 7 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q08|src_kangourou_2020_ecolier_marzo__Q08]]
@@ -436,7 +439,7 @@ What shape does Antonio get by shadowing the results?
 
 ![[src_kangourou_2020_ecolier_marzo__prob9.png]]
 
-> Ash colours each region into which the circle you see is divided by either red or yellow or blue, so that the regions you touch receive different colours. The outermost region is red ash; after the entire drawing has been colored, how many regions are red? A) 2
+> Cinzia colours each region into which the circle you see is divided by either red or yellow or blue, so that regions that touch each other receive different colours. Cinzia colours the outermost region red; after the entire drawing has been coloured, how many regions are red? A) 2
 > 	
 > B) 3
 > 	
@@ -489,10 +492,10 @@ What image does Luke see looking at the pyramid from above
 
 ![[src_kangourou_2020_ecolier_marzo__prob10.png]]
 
-> Luke looks up at the pyramid you see below.
+> Luke looks down at the pyramid you see below.
 >          
 > 	
-> A) B)
+> A)	B)
 > 	
 > C)
 > 	
@@ -537,7 +540,7 @@ What image does Luke see looking at the pyramid from above
 
 ![[src_kangourou_2020_ecolier_marzo__prob11.png]]
 
-> Notice the picture: Daniel tied his dog to a meter from the corner of a rectangular plant with sides measuring 7 m and 5 m. The lever is 11 m long. There are 5 bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog? A) 1 B) 2 C) 3 D) 4 E) 5
+> Notice the picture: Daniel tied his dog to a meter from the corner of a rectangular newsstand with sides measuring 7 m and 5 m. The leash is 11 m long. There are 5 bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q11|src_kangourou_2020_ecolier_marzo__Q11]]
@@ -575,11 +578,11 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many poles for a 10 m long strap*
+*How many poles for a 10-meter-long fence*
 
 ![[src_kangourou_2020_ecolier_marzo__prob12.png]]
 
-> Martino builds a stake using poles like this, each one a meter long. In the figure, you see a four-meter-long stitch. How many poles will Martino use to build a 10-meter-long fence? A) 22 B) 30 C) 33 D) 40 E) 42
+> Martino builds a fence using poles like this, each one a meter long. In the figure, you see a four-meter-long fence. How many poles will Martino use to build a 10-meter-long fence? A) 22 B) 30 C) 33 D) 40 E) 42
 
 **Answer:** E
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q12|src_kangourou_2020_ecolier_marzo__Q12]]
@@ -677,7 +680,7 @@ What image does Luke see looking at the pyramid from above
 > 	
 > D) 17
 > 	
-> (E) 23 1 11 4 metres
+> E) 23
 >
 
 **Answer:** A
@@ -719,7 +722,7 @@ What image does Luke see looking at the pyramid from above
 
 ![[src_kangourou_2020_ecolier_marzo__prob15.png]]
 
-> Amalia wants to build a crown using 10 copies of the token you see on the right and she wants when two tokens share a side the corresponding numbers match. He's already placed three tokens with this criterion. Which number will be in the end of the X-denoted triangle? A) 1 B) 2
+> Amalia wants to build a crown using 10 copies of the token you see on the right and she wants when two tokens share a side the corresponding numbers match. She has already placed 3 tokens with this criterion. Which number will be in the end of the X-denoted triangle? A) 1 B) 2
 > 	
 > C) 3
 > 	
@@ -763,17 +766,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which combination of stacks forms a square*
+*Which combination of matchsticks forms a square*
 
 ![[src_kangourou_2020_ecolier_marzo__prob16.png]]
 
-> Guido has two types of stakes: short, each measuring 1 cm, and long, each measuring 3 cm. With which of the combinations suggested in the answers can you build a square without breaking any stakes, or overlapping parts of two stakes? A) 5 short and 2 long
+> Guido has two types of matchsticks: short ones, which measure 
+> 1 cm each, and long ones, which measure 3 cm each. 
+> With which of the combinations suggested in the answers 
+> can he build a square, without breaking any matchstick, nor overlapping parts of two matchsticks?
+> A) 5 short and 2 long	
 > 	
-> B) 7 short and 3 long
+> B) 7 short and 3 long	
 > 	
-> C) 6 shorts D) 4 shorts and 2 longs
+> C) 6 short 
+> D) 4 short and 2 long	
 > 	
-> (e) 6 long questions from N. 17 al N. Twenty-four is worth five points each.
+> E) 6 long
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q16|src_kangourou_2020_ecolier_marzo__Q16]]
@@ -819,7 +828,7 @@ What image does Luke see looking at the pyramid from above
 
 ![[src_kangourou_2020_ecolier_marzo__prob17.png]]
 
-> If you look at a standard dice, you see that for each of the three pairs of opposite faces, the total number of dots on the two opposite faces is 7. The drawing shows a standard dice that was placed in the first box of a six-box strip and then rolled right along the strip. When the dice reach the last box, what will be the total number of dots on the three faces indicated by question marks? A) 6
+> If you look at a standard die, you see that for each of the three pairs of opposite faces, the total number of dots on the two opposite faces is 7. The drawing shows a standard die that was placed in the first box of a six-box strip and then rolled right along the strip. When the die reaches the last box, what will be the total number of dots on the three faces indicated by question marks? A) 6
 > 	
 > B) 7
 > 	
@@ -937,9 +946,20 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Names of the three girls (terms with a correct name) *
+*Names of the three girls (triples with one correct name)*
 
-> You have to guess the names of three girls sitting on a bench, in the order they're sitting. You know that in each of the following name tags, Chiara, Elisa, Rosa Chiara, Laura, Maria Anna, Laura, Rosa appears only one correct name and is in the correct position. What are the names of the three girls sitting on the bench in order? (a) Anna, Elisa, Maria B) Anna, Laura, Maria C) Clear, Laura, Rosa D) Clear, Elisa, Maria E) Anna, Laura, Rosa
+> You must guess the names of three girls sitting on a bench, in the order in which
+> they are sitting. You know that in each of the following triples of names
+> Chiara, Elisa, Rosa
+> Chiara, Laura, Maria
+> Anna, Laura, Rosa
+> only one name is correct and it is in the correct position.
+> What are, in order, the names of the three girls sitting on the bench?
+> A) Anna, Elisa, Maria	
+> B) Anna, Laura, Maria	
+> C) Chiara, Laura, Rosa
+> D) Chiara, Elisa, Maria	
+> E) Anna, Laura, Rosa
 
 **Answer:** A
 [[Quesiti/src_kangourou_2020_ecolier_marzo#q19|src_kangourou_2020_ecolier_marzo__Q19]]
@@ -1038,7 +1058,7 @@ What image does Luke see looking at the pyramid from above
 
 ![[src_kangourou_2020_ecolier_marzo__prob21.png]]
 
-> Gianna has some pictures of parrots. He only wants to paint the head, tail, and wings of each parrot red, blue, or green so that all three colors appear on each parrot. It colours a parrot's head red, wings green, and tail blue. How many other parrots can you color so they're all different colors? A) 2
+> Gianna has some pictures of parrots. She only wants to paint the head, tail, and wings of each parrot red, blue, or green so that all three colors appear on each parrot. She colours a parrot's head red, wings green, and tail blue. How many other parrots can you color so they're all different colors? A) 2
 > 	
 > B) 4
 > 	

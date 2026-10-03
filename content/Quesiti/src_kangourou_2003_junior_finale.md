@@ -39,7 +39,7 @@ level: kangourou
 
 *Which words denote three consecutive integers*
 
-> We indicate with: - $s$ any positive integer divisible by 6; - $e$ any positive integer equal to not divisible by 6; - $t$ any positive integer divisible by 3 that has not already been indicated with $s$ or with $e$; - $x$ any positive integer of the remaining ones.
+> We indicate with: - $s$ any positive integer divisible by 6; - $e$ any even positive integer that is not divisible by 6; - $t$ any positive integer divisible by 3 that has not already been indicated with $s$ or with $e$; - $x$ any positive integer of the remaining ones.
 > 
 > Which of the following six words $$\text{ese} \quad \text{ete} \quad \text{exe} \quad \text{ets} \quad \text{exs} \quad \text{ext}$$ can correspond to three consecutive integers?
 
@@ -69,7 +69,7 @@ level: kangourou
 
 *Minimum difference between simultaneous numbers*
 
-> Cristina and Roberta start counting at the same instant and with the same frequency. Cristina has two in two growing from 110 (110, 112, 114, $\ldots$), while Roberta has five in five growing from 953 (953, 948, 943, $\ldots$). How different will the two closest numbers they will utter at the same time be?
+> Cristina and Roberta start counting at the same instant and with the same frequency. Cristina counts in twos increasing from 110 (110, 112, 114, $\ldots$), while Roberta counts in fives decreasing from 953 (953, 948, 943, $\ldots$). How different will the two closest numbers they will utter at the same time be?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2003_junior_finale#qj2|src_kangourou_2003_junior_finale__QJ2]]
@@ -113,7 +113,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the max circle inscribed in the mythological triangle*
+*Area of the max circle inscribed in the curvilinear triangle*
 
 ![[src_kangourou_2003_junior_finale__probj3.png]]
 
@@ -133,7 +133,7 @@ level: kangourou
 \end{document}
 ```
 
-> The figure represents a mystilinear triangle $PQR$. Its outline consists of a segment $PR$ of length 2 and two arcs of circumference $PQ$ and $QR$ of centers $R$ and $P$ respectively. How much is the area of the largest circle that can be inscribed in a triangle? (see figure)
+> The figure represents a mystilinear triangle $PQR$. Its outline consists of a segment $PR$ of length 2 and two arcs of circumference $PQ$ and $QR$ of centers $R$ and $P$ respectively. How much is the area of the largest circle that can be inscribed in the triangle? (see figure)
 
 **Answer:** 9pi/16
 [[Quesiti/src_kangourou_2003_junior_finale#qj3|src_kangourou_2003_junior_finale__QJ3]]
@@ -161,7 +161,7 @@ level: kangourou
 
 *Speed ratio of two cyclists*
 
-> Two cyclists run on a circular track each at a constant speed. If they run in the same direction, every ten minutes the fastest rider reaches the other; if they run in opposite directions, they meet every two minutes. What is the relationship between the speed of the fastest rider and the speed of the slowest rider?
+> Two cyclists run on a circular track each at a constant speed. If they run in the same direction, every ten minutes the fastest rider reaches the other; if they run in opposite directions, they meet every two minutes. What is the ratio between the speed of the fastest rider and the speed of the slowest rider?
 
 **Answer:** 3/2
 [[Quesiti/src_kangourou_2003_junior_finale#qj4|src_kangourou_2003_junior_finale__QJ4]]
@@ -189,7 +189,7 @@ level: kangourou
 
 *Triangle area with three parallel inner triangles*
 
-> For a point fixed internally to a rectangular triangle the parallels to the sides are drawn. These are $a$, $b$ and $c$ the areas of the three rectangular triangles that are thus identified. How much is the area of the starting triangle?
+> For a point fixed internally to a right triangle the parallels to the sides are drawn. These are $a$, $b$ and $c$ the areas of the three right triangles that are thus identified. How much is the area of the starting triangle?
 
 **Answer:** (a+b+c)^2
 [[Quesiti/src_kangourou_2003_junior_finale#qj5|src_kangourou_2003_junior_finale__QJ5]]

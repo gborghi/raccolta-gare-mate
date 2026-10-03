@@ -79,7 +79,7 @@ level: kangourou
 
 *Trajectory of the vertex A in two rotations of the rectangle*
 
-> (Points 3) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled from summit A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
+> (Points 3) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled by vertex A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous ones
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_junior_semifinale#q02|src_kangourou_2019_junior_semifinale__Q02]]
@@ -124,7 +124,7 @@ level: kangourou
 > 	
 > D) 4
 > 	
-> (E) All
+> E) All
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_junior_semifinale#q03|src_kangourou_2019_junior_semifinale__Q03]]
@@ -193,9 +193,13 @@ The probability that a 4-digit palindrome is divisible by 7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which whole area cube shaft in the cut*
+*Which edge of the cube gives an integer area in the cut*
 
-> Cutting a cube with a plane that passes through two of its opposite vertices and the midpoints of two opposite vertices that do not contain those vertices gives a quadrilateral whose area, in square centimeters, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the cube's tips? (A) 1 B) √ 8 C) √ 12 D) √ 27 E) None
+> (Points 4) Cutting a cube with a plane that passes through two of its opposite vertices and through the midpoints of two opposite edges that do not contain those vertices yields a quadrilateral whose area, in square centimeters, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the edges of the cube?
+> A) 1                 B) √8	 	
+> C) √12	
+> D) √27  	
+> E) None
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_junior_semifinale#q05|src_kangourou_2019_junior_semifinale__Q05]]
@@ -259,7 +263,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where the ball folds the left edge of the grid 4x2019*
+Where the ball hits the left edge of the grid 4x2019*
 
 ![[src_kangourou_2019_junior_semifinale__prob6.png]]
 
@@ -283,7 +287,7 @@ Where the ball folds the left edge of the grid 4x2019*
 \end{document}
 ```
 
-> (Points 4) In Figure A, B, C, D and E, the 5 points of contact between the left vertical edge of a rectangular grid 4×2019 and the horizontal segments delimiting the square cells of that grid are indicated (from the top). A ball (shaped points!) is thrown from the point E towards the inside of the grid at an angle of 45 degrees (as opposed to the sides of the grid) and bounces regularly whenever it hits the edges of the grid: the figure suggests the initial trajectory of the ball. When the ball hits the left edge of the grid for the first time, where does it hit it? A) A B) B
+> (Points 4) In Figure A, B, C, D and E, the 5 points of contact between the left vertical edge of a rectangular grid 4×2019 and the horizontal segments delimiting the square cells of that grid are indicated (from the top). A ball (shaped points!) is thrown from the point E towards the inside of the grid at an angle of 45 degrees (with respect to the sides of the grid) and bounces regularly whenever it hits the edges of the grid: the figure suggests the initial trajectory of the ball. When the ball hits the left edge of the grid for the first time, where does it hit it? A) A B) B
 > 	
 > C) C D) D E) E
 
@@ -323,9 +327,9 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the hundreds of 2019xN given the 3N and 5N dividers*
+*Hundreds digit of 2019xN given the divisors of 3N and 5N*
 
-> (Points 5) Of a positive integer N we know that the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the number of hundreds of the 2019 number × N? Note: The divisors of a number include 1 and the number itself. A) 1
+> (Points 5) Of a positive integer N we know that the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the hundreds digit of the number 2019 × N? Note: The divisors of a number include 1 and the number itself. A) 1
 > 	
 > B) 3
 > 	
@@ -375,9 +379,9 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central number in alignment 1-17 with sums squared*
+*Central number in alignment 1-17 with square sums*
 
-> (Points 5) The integers from 1 to 17 included have been aligned so that the sum of two consecutive numbers is always a perfect square (and of course in the alignment each appears once and only once). What number is in the centre of the alignment? A) 3               B) 4
+> (Points 5) The integers from 1 to 17 inclusive have been aligned so that the sum of two consecutive numbers is always a perfect square (and of course in the alignment each appears once and only once). What number is in the centre of the alignment? A) 3               B) 4
 > 	
 > C) 14 D) 13 E) 12 (72019)2 - (72017)2 ----------------------------- (72018)2 - (72016)2 A B C D E
 
@@ -414,9 +418,17 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate sums with additions 3 and 5 (link) *
+*How many distinct sums with addends 3 and 5 (constraints)*
 
-> (Points 6) How many sums of all the different ones can be obtained by adding up at least two integers and at most nine integers, each of which is either 3 or 5, if you want there to be no more than six additions equal to 3 and no more than three additions equal to 5? A) 23 B) 25 C) 28 D) 26 E) 27 Questions to be answered
+> (Points 6) How many sums all different from each other can be obtained by adding at least two
+> integers and at most nine integers, each of which is either 3 or 5, if we want there to be no more than six
+> addends equal to 3 and no more than three addends equal to 5?
+> A) 23
+> B) 25
+> C) 28
+> D) 26
+> E) 27
+> Open-ended questions
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_junior_semifinale#q09|src_kangourou_2019_junior_semifinale__Q09]]
@@ -443,9 +455,10 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of 3-digit n with decimal place and prime factors equal to *
+*How many 3-digit n with tens digit half the units digit and prime factors of the same parity*
 
-> (Points 4) How many positive integers are n of three significant digits such that the decimal number of n is half that of the units and the prime factors of n are all equal?
+> (4 points) How many positive integers n with three significant digits are there such that the tens
+> digit of n is half of the units digit and the prime factors of n all have the same parity?
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q10|src_kangourou_2019_junior_semifinale__Q10]]
 
@@ -475,7 +488,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 *Maximum k by hanging a digit to the right of N to get kN*
 
-> (Points 5) To the (decimal) notation of a positive integer N I added a figure outside: thus I obtained a number (with a figure more than N) that is k times N, with k integers. What 's the maximum value of k ?
+> (Points 5) To the (decimal) notation of a positive integer N I added a digit to the right: thus I obtained a number (with one digit more than N) that is k times N, with k an integer. What 's the maximum value of k ?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2019_junior_semifinale#q11|src_kangourou_2019_junior_semifinale__Q11]]
@@ -505,7 +518,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 *Fourth number of the geometric sequence from 6 to 192*
 
-> (Points 5) A sequence of 6 integers begins with 6 and ends with 192 and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. How much is number four?
+> (Points 5) A sequence of 6 integers begins with 6 and ends with 192 and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. What is the fourth number?
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q12|src_kangourou_2019_junior_semifinale__Q12]]
 
@@ -533,9 +546,12 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of parallel-piped beads with an octahedral volume of 150 *
+*Maximum sum of edges of a rectangular parallelepiped with octahedron volume 150*
 
-> (Points 6) In each parallel-piped rectangle the centers of the six faces are the vertices of an octahedron. If the measures of the parallel-pipedal shoulders are each expressed in an integer number of centimetres and the volume of the octahedron is 150 cm3, what is the maximum value of the sum of the measures of the parallel-pipedal shoulders?
+> (6 points) In every rectangular parallelepiped the centers of the six faces are the vertices of an octahedron. If 
+> the measures of the edges of the parallelepiped are each expressed by an integer number of centimeters 
+> and the volume of the octahedron is 150 cm3, what can the sum of the measures of the 
+> edges of the parallelepiped be at most?
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q13|src_kangourou_2019_junior_semifinale__Q13]]
 
@@ -565,9 +581,14 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many voters lied in the two cities of the referendum
+*How many voters lied in the two towns of the referendum*
 
-> (Parliament adopted the legislative resolution) In two cities, A with 8,400 voters and B with 6,900 voters, immediately after the vote, each voter was asked how they voted: in both cities half of the responses received were Yes and half were NO. However, it turned out that in A SI won with 70% of the vote while in B NO always won with 70% of the vote. If, consistent with the results obtained, in A as few voters as possible lied and in B as many as possible, how many voters have lied overall in the two cities?
+> (Points 6) In Kanglandia a referendum was held. In two small towns, A with 8,400 voters and B with
+> 6,900 voters, right after the vote every voter was asked how they had voted: in both
+> towns half of the answers obtained were "YES" and half were "NO". After the count, however, it
+> turned out that in A "YES" won with 70% of the votes while in B "NO" won always with 70%
+> of the votes. If, compatibly with the results obtained, in A the smallest possible number of
+> voters lied and in B the largest, how many voters lied altogether in the two towns?
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q14|src_kangourou_2019_junior_semifinale__Q14]]
 
@@ -595,7 +616,7 @@ How many voters lied in the two cities of the referendum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exchanges for reds twice as white (gettons) *
+*Minimum exchanges for reds twice as white (tokens) *
 
 > (Points 6) There are two token-changers: one provides three red tokens for one white, the other five white tokens for one red. I am starting with only 4 white tokens: what is the smallest number of exchanges that allows me to get twice as many red tokens as white tokens?
 
@@ -626,9 +647,13 @@ How many voters lied in the two cities of the referendum
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum score Giraffe (geometric vs arithmetic)
+*Minimum score Giraffes (geometric vs arithmetic)*
 
-> (Points 7) The Kangaroos and the Giraffes faced each other in a basketball game. The match lasted four times: at the end of the first the teams were tied, but in the end the Kangaroos won with a margin of victory. The Crab scores, individually considered in the four times, are in geometric progression, while those of the Giraffe are in arithmetic progression. What's the minimum score for the total score at the end of the Giraffe game?
+> (7 points) The Kangaroos team and the Giraffes team faced each other in a basketball
+> game. The game lasted four quarters: at the end of the first the teams were tied, but in the end
+> the Kangaroos won by a one-point margin. The Kangaroos' scores, considered individually in the
+> four quarters, are in geometric progression, while those of the Giraffes are in arithmetic progression.
+> What is the minimum possible value for the total score achieved at the end of the game by the Giraffes?
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q16|src_kangourou_2019_junior_semifinale__Q16]]
 
@@ -673,13 +698,13 @@ Minimum score Giraffe (geometric vs arithmetic)
 > 	
 > (a) each white cell is adjacent to a black cell;
 > 	
-> (b) either two blackened cells are selected, they can be connected by a sequence
+> (b) however two blackened cells are chosen, they can be connected by a sequence
 > 	
 > 	
-> order of black cells starting with one of the two and terminating with the other, each
+> ordered sequence of black cells starting with one of the two and terminating with the other, each
 > 	
 > 	
-> (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to get the purpose?
+> (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to achieve the goal?
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q17|src_kangourou_2019_junior_semifinale__Q17]]
 
@@ -717,10 +742,21 @@ Minimum score Giraffe (geometric vs arithmetic)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of the two brake pads of the reel*
+*Minimum sum of the two break marks of the ruler*
 
-> Enrica had a reel with more than five ticks, numbered in sequence: she accidentally broke it in two with the breaking point on her horse between the two ticks. By chance, the sum of the numbers on both sides is the same. What is the minimum value of the sum of the numbers denoting the two horse-drawn ticks whose reel has been broken?
+> (Points 8) Enrica had a ruler with more than five marks, numbered in sequence: accidentally
+> she broke it into two parts with the breaking point between two marks. By chance, the
+> sum of the numbers present on the two parts is the same. What must the sum of the
+> numbers denoting the two marks between which the ruler broke be at minimum?
 > 
-> 0001 0019 0048 0902 7200 0008 0074 4040 0029
+> 0001
+> 0019
+> 0048
+> 0902
+> 7200
+> 0008
+> 0074
+> 4040
+> 0029
 
 [[Quesiti/src_kangourou_2019_junior_semifinale#q18|src_kangourou_2019_junior_semifinale__Q18]]

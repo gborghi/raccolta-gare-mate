@@ -49,7 +49,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two triangles with two sides of equal height are congruent?*
+*Two triangles with two sides and a height equal are congruent?*
 
 ![[src_kangourou_2024_student_finale__probs1.png]]
 
@@ -99,9 +99,9 @@ level: kangourou
 
 *City of air operations on the first day of the second month*
 
-> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which he operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
+> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan–Cagliari and Milan–Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which it operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
 
-**Answer:** si, Cagliari
+**Answer:** yes, Cagliari
 [[Quesiti/src_kangourou_2024_student_finale#qs2|src_kangourou_2024_student_finale__QS2]]
 
 
@@ -132,7 +132,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student_finale__probs3.png]]
 
-> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not verticals. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); instead, what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
+> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not vertices. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); instead, what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
 
 **Answer:** 0
 [[Quesiti/src_kangourou_2024_student_finale#qs3|src_kangourou_2024_student_finale__QS3]]
@@ -195,13 +195,13 @@ Are there any perfectly square ABBA palindromes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length XE with uncertainty of radius 4 and YD=3*
+*Length XE with incircle radius 4 and YD=3*
 
 ![[src_kangourou_2024_student_finale__probs5.png]]
 
-> either $ABC$ a triangle and $O$ the center of its inscribed circumference $\gamma$. The $|FG|$ symbol shall indicate the length of the $F$ and $G$ end segments. They shall be: - $D$ the middle point of the $BC$ side, - $Y$ the point of contact between $\gamma$ and $BC$ side, - $E$ the point of the $BC$ side such that $|AB| + |BE| = |AC| + |CE|$, - $X$ the point of intersection of the $AE$ segment with $\gamma$ nearest to $A$.
+> Let $ABC$ be a triangle and $O$ the center of its inscribed circle $\gamma$. The $|FG|$ symbol shall indicate the length of the segment with endpoints $F$ and $G$. Let: - $D$ the midpoint of side $BC$, - $Y$ the point of contact between $\gamma$ and side $BC$, - $E$ the point on side $BC$ such that $|AB| + |BE| = |AC| + |CE|$, - $X$ the point of intersection of segment $AE$ with $\gamma$ closest to $A$.
 > 
-> If the radius of $\gamma$ is $4$ and $|YD| = 3$, how much is $|XE|$?
+> If the radius of $\gamma$ is $4$ and $|YD| = 3$, what is $|XE|$?
 
 **Answer:** 10
 [[Quesiti/src_kangourou_2024_student_finale#qs5|src_kangourou_2024_student_finale__QS5]]
@@ -231,5 +231,5 @@ Are there any perfectly square ABBA palindromes?
 
 > There are no fixed holidays in the Kanglandia calendar, but under a trade union agreement, a company is obliged to declare a "holiday for all" every day that is a birthday for at least one employee. The date of birth of an employee shall not be taken into account when he is hired. Suppose that the years are all $365$ days and that the Kangland births are evenly distributed throughout the year. A company wants to maximize the total number of working days of its employees over the course of a year, but it must determine in advance the number of employees to be hired. How many employees should you hire? (Note: the annual total working days with $1$ employee would be $364$, with $2$ would be $2 \times 363$ if birthdays fell on different days, $2 \times 364$ if they fell on the same day.)
 
-**Answer:** 364 o 365
+**Answer:** 364 or 365
 [[Quesiti/src_kangourou_2024_student_finale#qs6|src_kangourou_2024_student_finale__QS6]]

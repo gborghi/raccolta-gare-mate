@@ -43,7 +43,7 @@ level: kangourou
 
 ![[src_kangourou_2008_junior_marzo__prob1.png]]
 
-> There are 5 frames (numbered 1 to 5), each containing some vowels as shown in the figure. By appropriately removing some vowels from some frames, it is possible to make sure that each frame contains only one voice, and that different frames contain different vowels. What's the vocal left in box number two? A) A B) E C) I D) O E) U
+> There are 5 frames (numbered 1 to 5), each containing some vowels as shown in the figure. By appropriately removing some vowels from some boxes, it is possible to make sure that each box contains only one vowel, and that different boxes contain different vowels. What's the vowel left in box number two? A) A B) E C) I D) O E) U
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q01|src_kangourou_2008_junior_marzo__Q01]]
@@ -80,7 +80,7 @@ level: kangourou
 
 *First year with total children > parent *
 
-> The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded because of a defect to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
+> The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded down to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q02|src_kangourou_2008_junior_marzo__Q02]]
@@ -114,7 +114,7 @@ level: kangourou
 
 ![[src_kangourou_2008_junior_marzo__prob3.png]]
 
-> To celebrate the arrival of the New Year, Alfredo wore a T-shirt with the writing on the front. He then sat down in front of a mirror, his hands upside down and his feet up. His friend Nicholas stands beside him, standing (on his feet) and looking in the mirror. What writing does Nicholas see in the mirror?
+> To celebrate the arrival of the New Year, Alfredo wore a T-shirt with the writing on the front. He then stood in front of a mirror, upside down on his hands with his feet up. His friend Nicholas stands beside him, standing (on his feet) and looking in the mirror. What writing does Nicholas see in the mirror?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q03|src_kangourou_2008_junior_marzo__Q03]]
@@ -178,11 +178,47 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities between A..E are different from 6*
+*How many among A..E are different from 6*
 
-> The numbers A, B, C, D, E are defined as follows A = 2−(−4), B = (−2)(−3), C = 2−8, D = 0−(−6) and E = (−12):(−2) How many of them are different from 6 ? A) 0 B) 1 C) 2 D) 4 E) 5 I and I U and I
+> The numbers A, B, C, D, E are defined as follows
+> A = 2−(−4),    B = (−2)(−3),    C = 2−8,    D = 0−(−6)   and    E = (−12):(−2)
+> How many of them are different from 6 ?
+> A) 0
+> B) 1
+> C) 2
+> D) 4
+> E) 5
+> I
+> E
+> I
+> U
+> E
+> I
+> E
+> U
+> O
+> A
+> E
+> I
+> O
+> U
+> 1
+> 2
+> 3
+> 4
+> 5
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_08.qxp  9-03-2008  14:56  Page 22
 > 
-> I'm going to pay. I'm going to pay. 23 23 Kang 2008 Kang 2008
+> Pag. 
+> Pag. 23
+> 23
+> Kang 2008
+> Kang 2008
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q04|src_kangourou_2008_junior_marzo__Q04]]
@@ -280,9 +316,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum letters to be removed in alphabetical order*
+*Minimum letters to remove for alphabetical order*
 
-> What is the minimum number of letters in the word KANGOUROU, eliminating the remaining letters in alphabetical order? A) 1 B) 2 C) 3 D) 4 E) 5
+> What is the minimum number of letters of the word KANGOUROU that must be removed so that the remaining letters are in alphabetical order?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q06|src_kangourou_2008_junior_marzo__Q06]]
@@ -319,7 +360,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chapter corresponding to K in OK+KO=WOW*
+*Digit corresponding to K in OK+KO=WOW*
 
 ![[src_kangourou_2008_junior_marzo__prob7.png]]
 
@@ -395,7 +436,7 @@ level: kangourou
 
 ![[src_kangourou_2008_junior_marzo__prob9.png]]
 
-> A face of a cube is cut along its two diagonals. Which of the following is not a development plan of such a cube? A) 1 e 3 B) 1 e 5 C) 3 e 4 D) 3 e 5         E) 2 e 4
+> A face of a cube is cut along its two diagonals. Which of the following is not a development plan of such a cube? A) 1 and 3 B) 1 and 5 C) 3 and 4 D) 3 and 5         E) 2 e 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q09|src_kangourou_2008_junior_marzo__Q09]]
@@ -488,7 +529,7 @@ level: kangourou
 
 Sum of age of three older cousins
 
-> Seven cousins were born on the same day, but in seven years. Adding the ages of the three youngest today, we get 42. What is the sum of the present ages of the three oldest? A) 51 B) 54 C) 57 D) 60 E) 63
+> Seven cousins were born on the same day, but in seven consecutive years. Adding the ages of the three youngest today, we get 42. What is the sum of the present ages of the three oldest? A) 51 B) 54 C) 57 D) 60 E) 63
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q11|src_kangourou_2008_junior_marzo__Q11]]
@@ -525,9 +566,9 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first essay (parity) *
+*Sum of cards from the first wise man (parity) *
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man read? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q12|src_kangourou_2008_junior_marzo__Q12]]
@@ -560,7 +601,7 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of additions per sum of 100*
+*Minimum number of addends for sum 100*
 
 > You only have the numbers 3, 8, 13, 18, 23, 28, 33, 48, 53, 68. What is the minimum number of them whose sum is exactly 100? A) 5 B) 3 C) 4 D) 6 E) It is impossible to obtain 100
 
@@ -596,7 +637,7 @@ Sum of age of three older cousins
 
 *How many digits 9 in product 99*n*
 
-> Whether n is the whole number 999...999, where only the figure 9 appears for 2008 times. How often does 9 appear in product 99 n? A) 2007 B) 2006 C) 2008 D) 2 E) 1
+> Let n be the whole number 999...999, where only the digit 9 appears for 2008 times. How many times does the digit 9 appear in product 99 n? A) 2007 B) 2006 C) 2008 D) 2 E) 1
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_junior_marzo#q14|src_kangourou_2008_junior_marzo__Q14]]
@@ -632,11 +673,11 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*HG length (parallel strings in circumference) *
+*HG length (parallel chords in a circle) *
 
 ![[src_kangourou_2008_junior_marzo__prob15.png]]
 
-> Look at the figure. The ABCD rectangle intersects the circumference at points E, F, G, H. In meters, AE's length is 4, EF's length is 5, and DH's length is 3. How much is the length of HG in meters? A) 6 B) 22/3 C) 20/3 D) 8 E) A value different from the previous ones.
+> Look at the figure. The ABCD rectangle intersects the circle at points E, F, G, H. In meters, AE's length is 4, EF's length is 5, and DH's length is 3. How much is the length of HG in meters? A) 6 B) 22/3 C) 20/3 D) 8 E) A value different from the previous ones.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_junior_marzo#q15|src_kangourou_2008_junior_marzo__Q15]]
@@ -670,7 +711,7 @@ Sum of age of three older cousins
 
 *sum of difference in digits of 2-digit numbers*
 
-> For every two-digit number, we subtract the unit number from the decimal number. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
+> For every two-digit number, we subtract the units digit from the tens digit. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q16|src_kangourou_2008_junior_marzo__Q16]]
@@ -729,13 +770,42 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded part area between two regular hexagons*
+*Area of the shaded part between two regular hexagons*
 
 ![[src_kangourou_2008_junior_marzo__prob17.png]]
 
-> The two hexagons shown in the figure are regular and the parallelogram area is 1. How much is the shaded area ? A) B) C) D) E) E) 12 23 7 12 3 7 17 36 1 2 A B C D H and G F Texts_08.qxp 9-03-2008 14:56 Page 24
+> The two hexagons shown in the figure are
+> regular and the area of the parallelogram is 1.
+> What is the area of the shaded part?
+> A) 
+> B) 
+> C) 
+> D) 
+> E) 12
+> 23
+> 7
+> 12
+> 3
+> 7
+> 17
+> 36
+> 1
+> 2
+> A
+> B
+> C
+> D
+> H
+> E
+> G
+> F
+> Testi_08.qxp  9-03-2008  14:56  Page 24
 > 
-> I'm going to pay. I'm going to pay. 25 25 Kang 2008 Kang
+> Pag. 
+> Pag. 25
+> 25
+> Kang 2008
+> Kang 2008
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_junior_marzo#q17|src_kangourou_2008_junior_marzo__Q17]]
@@ -768,9 +838,9 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum cancellable figures from 2008 to 2008 sum 2008
+Maximum cancellable digits from 2008...2008 sum 2008
 
-> The number 20082008...2008 is 1000 digits. I want to delete some of them, so that the sum of the remaining numbers is 2008. How many can I erase? A) 260 B) 564 C) 500 D)601 E) 746
+> The number 20082008...2008 is made up of 1000 digits. I want to delete some of them, so that the sum of the remaining digits is 2008. How many can I erase? A) 260 B) 564 C) 500 D)601 E) 746
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_junior_marzo#q18|src_kangourou_2008_junior_marzo__Q18]]
@@ -842,9 +912,15 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real pairs with sum=product=report*
+*Real pairs with sum=product=ratio*
 
-> How many pairs of real numbers are equal to each other, the sum of the two numbers, the product of the two numbers, and the ratio between the first and second numbers? A) 0 B) 1 C) 2 D) 4 E) 8 Questions from N. 21 al N. 30 is worth 5 points each.
+> How many (ordered) pairs of real numbers are there such that the sum of the two numbers, the product of the two numbers and the ratio of the first to the second number are all equal to each other?
+> A) 0
+> B) 1
+> C) 2
+> D) 4
+> E) 8 
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q20|src_kangourou_2008_junior_marzo__Q20]]
@@ -880,7 +956,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 
 *6 digit numbers with digit = sum of two previous ones*
 
-> For an integer of 6 significant digits (in decimal representation), consider the following property: each digit from the third to the next is the sum of the two digits that precede it (count the digits from left to right). How many numbers have this property? A) 3 B) 1 C) 2 D) 4 E) 6
+> For an integer of 6 significant digits (in decimal representation), consider the following property: each digit from the third onwards is the sum of the two digits that precede it (count the digits from left to right). How many numbers have this property? A) 3 B) 1 C) 2 D) 4 E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q21|src_kangourou_2008_junior_marzo__Q21]]
@@ -913,9 +989,14 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubets with at least two different coloured faces*
+*Small cubes with at least two faces of different colors*
 
-> One large cube, built by adjoining 27 small cubes, has three faces painted red and the other three painted blue. How many small cubes have at least two differently painted faces? (A) 13 B) 12 C) 14 D) 16 E) Depends on how the faces of the large cube have been assigned colours.
+> A large cube, built by putting together 27 small cubes, has three faces painted red and the other three painted blue. How many of the small cubes have at least two faces painted in different colors?
+> A) 13
+> B) 12
+> C) 14
+> D) 16
+> E) It depends on how the colors were assigned to the faces of the large cube.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_junior_marzo#q22|src_kangourou_2008_junior_marzo__Q22]]
@@ -962,11 +1043,29 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of k by k! The following information is provided for in Part A of this Annex:
+*Value of k from k! factorized*
 
-> For every positive integer n greater than or equal to 2 , we get n ! = 1.2.3. ... .(n-1). n. You know , for a whole k , you get k ! = 215 . 36 . 53 . 72 . 11 . 13. How much is k? A) 13 B) 14 C) 15 D) 16 E) 17 A Q B C P Text_08.qxp 9-03-2008 14:56 Page 25
+> For every positive integer n greater than or equal to 2 we set
+> n ! = 1.2.3. ... .(n-1). n.
+> It is known that for an integer k we have   k ! = 215 . 36 . 53 . 72 . 11 . 13. 
+> What is the value of k?
+> A) 13
+> B) 14
+> C) 15
+> D) 16
+> E) 17
+> A
+> Q
+> B
+> C
+> P
+> Testi_08.qxp  9-03-2008  14:56  Page 25
 > 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2008 Kang 2008
+> Pag. 
+> Pag. 26
+> 26
+> Kang 2008
+> Kang 2008
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q23|src_kangourou_2008_junior_marzo__Q23]]
@@ -1003,11 +1102,19 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of highlighted arc (three tangent circles) *
+*Length of highlighted arc (three tangent circles)*
 
 ![[src_kangourou_2008_junior_marzo__prob24.png]]
 
-> In the figure three outer two-to-two tangent circles are represented; the beams are as indicated. What is the length of the radius of circumference 1 detected in the graph? A) B) C) D) E)
+> The figure shows three circles
+> tangent externally two by two; the radii are as
+> indicated. How long is the arc of the circle of
+> radius 1 highlighted in bold?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_junior_marzo#q24|src_kangourou_2008_junior_marzo__Q24]]
@@ -1047,11 +1154,11 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*B+D value on the development of the octahedron*
+*B+D value on the net of the octahedron*
 
 ![[src_kangourou_2008_junior_marzo__prob25.png]]
 
-> The eight equilateral triangles adjacent to each other as shown in the figure form a flat development of a regular octahedron. Each triangle is distinguished by a number or a letter. Each of the five letters indicates one and only one between the numbers 2, 4, 6, 7 and 8 and different letters indicate different numbers, so that the resulting octahedron has this property: when the vertices vary, the sum of the numbers on the four faces that compete in a vertex is always the same. How much is the sum of B+D? A) 6 B) 7 C) 8 D) 9 E) 10
+> The eight equilateral triangles adjacent to each other as shown in the figure form a plane net of a regular octahedron. Each triangle is distinguished by a number or a letter. Each of the five letters indicates one and only one between the numbers 2, 4, 6, 7 and 8 and different letters indicate different numbers, so that the resulting octahedron has this property: when the vertices vary, the sum of the numbers on the four faces that meet at a vertex is always the same. How much is the sum of B+D? A) 6 B) 7 C) 8 D) 9 E) 10
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_junior_marzo#q25|src_kangourou_2008_junior_marzo__Q25]]
@@ -1084,9 +1191,9 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product of the two divisions of 3^32-1 between 75 and 85
+Product of the two divisors of 3^32-1 between 75 and 85
 
-> The number 332  1 has exactly two divisors (integers) both greater than 75 and less than 85. How much is the product of these two dividers? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
+> The number 3^32 - 1 has exactly two divisors (integers) both greater than 75 and less than 85. What is the product of these two divisors? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q26|src_kangourou_2008_junior_marzo__Q26]]
@@ -1157,9 +1264,9 @@ Product of the two divisions of 3^32-1 between 75 and 85
 
 ![[src_kangourou_2008_junior_marzo__prob27.png]]
 
-> A 3-pyramid is formed by the superposition of the 3 planes of spheres (all equal to each other) shown in the figure. Similarly, for every positive integer n, an n-pyramid can be made. Consider an 8-pyramid and assume that all its outer spheres are painted black and all others are painted white (a sphere is considered external when it is in contact with the regular tetrahedron surrounded by the pyramid). What shape do the white-painted spheres form? A) A 3-pyramid B) A 4-pyramid C) A 5-pyramid D) A 6-pyramid E) A 7-pyramid 2π 3 3π 2 π 2 5π 3 5π 4 2 3 1 ? A B C 5 D 9 3 E Texts_08.qxp 9-03-2008 14:56 Page 26
+> A 3-pyramid is formed by the superposition of the 3 planes of spheres (all equal to each other) shown in the figure. Similarly, for every positive integer n, an n-pyramid can be made. Consider an 8-pyramid and assume that all its outer spheres are painted black and all others are painted white (a sphere is considered external when it is in contact with the regular tetrahedron circumscribed about the pyramid). What shape do the white-painted spheres form? A) A 3-pyramid B) A 4-pyramid C) A 5-pyramid D) A 6-pyramid E) A 7-pyramid 2π 3 3π 2 π 2 5π 3 5π 4 2 3 1 ? A B C 5 D 9 3 E Texts_08.qxp 9-03-2008 14:56 Page 26
 > 
-> I'm going to pay. I'm going to pay. 27 27 Kang 2008 Kang 2008
+> Pag. Pag. 27 27 Kang 2008 Kang 2008
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q27|src_kangourou_2008_junior_marzo__Q27]]
@@ -1202,7 +1309,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum diagonal without points in common (4x4)*
+*Maximum diagonals without points in common (4x4)*
 
 ![[src_kangourou_2008_junior_marzo__prob28.png]]
 
@@ -1214,7 +1321,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 \end{document}
 ```
 
-> Look at the figure. A square 4x4 is broken down into 16 squares 1x1. What is the maximum number of diagonals of the individual 1x1 squares that can be plotted, if you want different diagonals to have no points in common (not even the points at the ends)? A) 8 B) 9 C) 10 D) 11 E) 12
+> Look at the figure. A square 4x4 is broken down into 16 squares 1x1. What is the maximum number of diagonals of the individual 1x1 squares that can be drawn, if you want different diagonals to have no points in common (not even the points at the ends)? A) 8 B) 9 C) 10 D) 11 E) 12
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_junior_marzo#q28|src_kangourou_2008_junior_marzo__Q28]]
@@ -1252,7 +1359,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 
 *How many jump sequences 1m/3m by 10m*
 
-> Kangaroos can only move by jumping and can only jump from a meter or three meters. Kang wants to move ten meters straight. How many possible jump sequences do you have? (Consider two different sequences in different order, such as {1,3,3,3} and {3,3,3,1}). A) 28 B) 26 C) 35 D) 55 E) 56
+> The kangaroo Kang can only move by jumping and can only jump one meter or three meters. Kang wants to move ten meters straight. How many possible jump sequences allow it to do so? (Consider two different sequences in different order, such as {1,3,3,3} and {3,3,3,1}). A) 28 B) 26 C) 35 D) 55 E) 56
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_junior_marzo#q29|src_kangourou_2008_junior_marzo__Q29]]

@@ -36,11 +36,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter report in the two regions*
+*Perimeter ratio in the two regions*
 
 ![[src_kangourou_2002_junior__prob1.png]]
 
-> The figure represents a regular hexagon divided into two regions. What is the relationship between the perimeter of the shaded region and that of the complementary region?
+> The figure represents a regular hexagon divided into two regions. What is the ratio between the perimeter of the shaded region and that of the complementary region?
 >  
 > A. 1      B. 1 / 2   C. 1 / ð   D. 1 / 4 E. cannot be answered without further information
 
@@ -97,17 +97,30 @@ level: kangourou
 
 ![[src_kangourou_2002_junior__prob2.png]]
 
-> Matthew examines his family tree where only males are listed and where the arrows point to the father's lineage to their respective children. What is the name of Matthew's grandfather's brother's son's brother's brother's son?
+> Matteo examines his own family tree where   
+>      only the males are shown and where the arrows  
+>      indicate the direction from the father to the respective sons.  
+>      What is the name of the son of the brother of the grandfather of the   
+>      brother of Matteo's father?   
 >  
-> A. Mark B. Alex C. I 'm going to tell you . This is not a problem.
->  
->  
->  
->  
->  
-> E. No one from the previous one Angelo Tommaso Bruno Roberto Marco Giovanni Alex Enrico Matteo Riccardo
+> A. Marco 
+> B. Alex 
+> C. Tommaso 
+> D. Roberto  
+> E. none of the above 
+> Angelo 
+> Tommaso 
+> Bruno 
+> Roberto
+> Marco 
+> Giovanni 
+> Alex 
+> Enrico 
+> Matteo 
+> Riccardo 
 > 
-> Junior year 2002. This item is not intended to be used. 2
+> Junior 2002. Page No.  
+> 2
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_junior#q02|src_kangourou_2002_junior__Q02]]
@@ -224,9 +237,9 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest piece in square*
+*Longest broken line on the square*
 
-> Whether the length of the longest broken line, formed by segments having the ends at the vertices of a square on side 1, which can be traced without ever pulling the pen off the sheet and without twice traversing any segment (it is allowed to pass more than once for some vertices). Which of the following numbers is closest to l?
+> Let l be the length of the longest broken line, formed by segments having the ends at the vertices of a square of side 1, which can be traced without ever pulling the pen off the sheet and without twice traversing any segment (it is allowed to pass more than once for some vertices). Which of the following numbers is closest to l?
 >  
 > A. 4        B. 3            C. 5,4      D. 5,8         E. 6,8
 
@@ -263,7 +276,7 @@ The meeting point of Jack and Susanna.
 
 *Difference between maximum and minimum of 3 digits*
 
-> What's the difference between the largest and smallest positive integers, each made up of exactly three digits meaning two to two different numbers?
+> What's the difference between the largest and smallest positive integer, each made up of exactly three significant digits, all different from each other?
 >  
 > A. 899 B. 885 C. 800 D. 100 E. None of the above values
 
@@ -335,11 +348,17 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final zeroes in the product of the first half of 2002 *
+*Trailing zeros in the product of the first 2002 primes*
 
-> An integer is said to be prime if it is greater than or equal to 2 and if it admits as positive integers only 1 and itself (there are infinite prime numbers). With how many zeros does the decimal representation of the product of the first prime numbers of 2002 end?
+> An integer is called "prime" if it is greater than or equal to 2 and if it admits as  
+> positive integer divisors only 1 and itself (there exist infinitely many prime numbers). With how many 
+> zeros does the decimal representation of the product of the first 2002 prime numbers end? 
 >  
-> A. 0 B. 1 C. 10 D. 20 E. 100
+> A. 0  
+> B. 1  
+> C. 10  
+> D. 20  
+> E. 100
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_junior#q08|src_kangourou_2002_junior__Q08]]
@@ -429,7 +448,7 @@ The meeting point of Jack and Susanna.
 > B. Frank lies at least sometimes, but it's not always C. Franco always tells the truth, D. Franco sometimes tells the truth, but he doesn't always tell it E. Franco said nothing .
 >  
 >  
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_junior#q10|src_kangourou_2002_junior__Q10]]
@@ -488,13 +507,41 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum of roots S*
+*Value of the sum S of roots*
 
-> Whether S = 2 5 1 5 6 1 6 7 1 + + + + . So S is A. 3 B. 2 7 −
+> Let S =
+> 2
+> 5
+> 1
+> 5
+> 6
+> 1
+> 6
+> 7
+> 1
+> .  Then S equals 
+> A. 3 
+> B. 
+> 2
+> 7 −
 >   
-> C. 2 5 2 6 2 7 + + −
+> C. 
+> 2
+> 5
+> 2
+> 6
+> 2
+> 7
+> +
+> +
+> −
 >   
-> D. 1 E. 2 7 1 −
+> D. 1 
+> E. 
+> 2
+> 7
+> 1
+> −
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_junior#q11|src_kangourou_2002_junior__Q11]]
@@ -642,7 +689,7 @@ The meeting point of Jack and Susanna.
 
 ![[src_kangourou_2002_junior__prob14.png]]
 
-> A rectangular ABCD trapezoid in D and C, having a base greater than AD, has a perimeter of length 16. If the lengths of the sides are all expressed by integers, how long is the BC side?
+> A rectangular ABCD trapezoid in D and C, having longer base AD, has a perimeter of length 16. If the lengths of the sides are all expressed by integers, how long is the BC side?
 >  
 > A. 1 B. 2 C. 3 D. 4 E. 5
 
@@ -762,7 +809,7 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Girls originating in the group*
+*Girls originally in the group*
 
 > From a group of boys and girls, 15 girls leave. At this point, for every girl who stays, there are exactly two boys. After a while 45 boys leave the group: now for each boy who remains there are 5 girls. How many girls were originally in the group?
 >  
@@ -925,7 +972,7 @@ The meeting point of Jack and Susanna.
 
 *Seconds on a moving scale upwards*
 
-> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by walking up the stairs of a moving ladder when it is not in operation; he takes 60 seconds when the ladder is in operation, but he lets himself be carried without moving. How many seconds does it take if the ladder is running and at the same time he climbs the stairs?
+> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by walking up the stairs of a escalator when it is not in operation; he takes 60 seconds when the escalator is in operation, but he lets himself be carried without moving. How many seconds does it take if the escalator is running and at the same time he climbs the stairs?
 >  
 > A. 36 B. 75 C. 45 D. 30 E. 50 Questions from N. 21 al N. 30 is worth 5 points each.
 
@@ -961,9 +1008,9 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible area of the perimeter rectangle 32*
+*Possible area of the rectangle with perimeter 32*
 
-> The centimeter measurements of the sides of a rectangle are integers and its perimeter is 32. Which of the following numbers corresponds to its area (in cm2)?
+> The centimeter measurements of the sides of a rectangle are integers and its perimeter is 32. Which of the following numbers can coincide with its area (in cm2)?
 >  
 > A. 24 B. 48 C. 76 D. 192 E. 384
 
@@ -1003,7 +1050,7 @@ The meeting point of Jack and Susanna.
 
 *Minimum trucks for 50 boxes*
 
-> We have to transport 50 boxes at the same time using trucks weighing 1,200 kilograms each. The first weighs 150 kg, the second 151 kg, the third 152 kg and so on until the last weighs 199 kg. What is the minimum number of trucks sufficient to carry out the transport?
+> We have to transport 50 boxes at the same time using trucks with a capacity of 1,200 kg each. The first weighs 150 kg, the second 151 kg, the third 152 kg and so on until the last weighs 199 kg. What is the minimum number of trucks sufficient to carry out the transport?
 >  
 > A. 9 B. 10 C. 8 D. 7 E. 6
 
@@ -1050,7 +1097,7 @@ The meeting point of Jack and Susanna.
 
 ![[src_kangourou_2002_junior__prob23.png]]
 
-> Assigned a triangle ABC, it is divided into 4 polygons S1, S2, S3, S4 by choosing two points D and E, respectively on the AB side and the BC side, as shown in Figure 1. Is it possible to choose D and E so that the four polygons have the same area?
+> Assigned a triangle ABC, it is divided into 4 polygons S1, S2, S3, S4 by choosing two points D and E, respectively on the AB side and the BC side, as shown in the figure. Is it possible to choose D and E so that the four polygons have the same area?
 >  
 > A. No, whatever the ABC triangle is
 >  
@@ -1070,7 +1117,7 @@ The meeting point of Jack and Susanna.
 >  
 >  
 >  
-> D. Yes, but only if ABC is an octagonal triangle
+> D. Yes, but only if ABC is an obtuse triangle
 >  
 >  
 >  
@@ -1114,7 +1161,7 @@ The meeting point of Jack and Susanna.
 
 *Mean annual use of the hotel*
 
-> The average capacity utilisation of a hotel is 88% during the three summer months and 44% during the remaining months of the year. What is the average exploitation for the whole year?
+> The average capacity utilisation of a hotel is 88% during the three summer months and 44% during the remaining months of the year. What is the average utilisation for the whole year?
 >  
 > 
 > Junior year 2002. This item is not intended to be used. 6 A. 55 %
@@ -1155,9 +1202,9 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle between broken handles*
+*Angle between broken hands*
 
-> An earthquake damaged the clock dial of the tower, which is circular in shape. Surprisingly, the handles were re-woven intact and now are arranged along two straight segments, one connecting the number 11 to the number three and the other the number one to the number eight. How wide is the smallest of the two corners they determine?
+> An earthquake damaged the clock dial of the tower, which is circular in shape. Surprisingly, the hands remained intact and now are arranged along two straight segments, one connecting the number 11 to the number three and the other the number one to the number eight. How wide is the smallest of the two corners they determine?
 >  
 > A. 70° B. 75° C. 80° D. 85° E. 90°
 
@@ -1241,7 +1288,7 @@ The meeting point of Jack and Susanna.
 
 ![[src_kangourou_2002_junior__prob27.png]]
 
-> In the figure on the side, however, two points chosen, provided that they are adjacent horizontally or vertically, are 1 metre apart. How much is the area of the common part of the triangle and the square indicated?
+> In the figure on the side, any two points chosen, provided that they are adjacent horizontally or vertically, are 1 metre apart. How much is (in square metres) the area of the common part of the triangle and the square indicated?
 >  
 >  
 >  
@@ -1409,7 +1456,7 @@ The meeting point of Jack and Susanna.
 >  
 > A. 10 B. 45 C. 50 D. 80 E. 90
 > 
-> Junior answers 2002. This item is not intended to be used. 1 Kangourou Italy Competition of 21 March 2002 Junior category For secondary and tertiary students Solutions
+> Junior answers 2002. Page No. 1 Kangourou Italy Competition of 21 March 2002 Junior category For second and third year high school students Solutions
 >  
 >  
 > The correct answer is indicated in square brackets after the question number.

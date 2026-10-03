@@ -36,9 +36,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edge edges with only one side painted red*
+*Edge cells with only one side painted red*
 
-> (2 points) Silvia painted the edge of a square chessboard 8×8 red. How many of the 64 boxes have one side painted red and no more than one? A) 16
+> (2 points) Silvia painted the edge of a square chessboard 8×8 red. How many of the 64 cells have one side painted red and no more than one? A) 16
 >  
 > B) 20 C) 24 D) 28 E) 32
 
@@ -79,7 +79,7 @@ level: kangourou
 
 *Now in Rome when dinner has been served (closed hours) *
 
-> When in Rome it's 1:00, in Mexico City it's 6:00. During the flight that took off at 2 p.m. from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock was ticking at 6 p.m. What time was it in Rome when dinner was served? A) 16:00 B) 17:50
+> When in Rome it's 13:00, in Mexico City it's 6:00. During the flight that took off at 14:00 from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock showed 18:00 What time was it in Rome when dinner was served? A) 16:00 B) 17:50
 >  
 > C) 18:30
 >  
@@ -124,7 +124,7 @@ level: kangourou
 
 *Mode in which Chiara can program the 7 repetitions*
 
-> (3 points) The teacher assigned this task to Chiara: she must memorize the same poem seven times. The teacher also recommended: Until you have finished this task, you must repeat the poem at least twice a day. How many different ways can Chiara program to do her job? Attention: repeating the poem 2 times on the first day and 5 times on the second or 5 times on the first day and 2 times on the second are two different ways. A) 5
+> (3 points) The teacher assigned this task to Chiara: she must memorize the same poem seven times. The teacher also recommended: "Until you have finished this task, you must repeat the poem at least twice a day." How many different ways can Chiara program to do her job? Attention: repeating the poem 2 times on the first day and 5 times on the second or 5 times on the first day and 2 times on the second are two different ways. A) 5
 >  
 > B) 6 C) 7 D) 8 E) 9
 
@@ -162,13 +162,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many side cubes 1cm in the large cube*
+*How many 1 cm edge cubes are in the large cube*
 
 ![[src_kangourou_2022_ecolier_semifinale__prob4.png]]
 
-> (4 points) In the figure you can see a large-format cube approaching a 3 cm side cube, 4 cubes each on a 2 cm side and several other cubes, each on a 1 cm side, without leaving holes. How many of these 1 cm side cubes are there? A) 26
+> (4 points) In the figure you see a large cube formed by placing together a cube
+> with edge 3 cm, 4 cubes each with edge 2 cm and several other cubes, each with
+> edge 1 cm, without leaving holes. How many are these 1 cm edge cubes?
+> A) 26
 >  
-> B) 36 C) 48 D) 66 E) 82
+> B) 36  
+> C) 48  
+> D) 66  
+> E) 82
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q04|src_kangourou_2022_ecolier_semifinale__Q04]]
@@ -207,7 +213,7 @@ level: kangourou
 
 ![[src_kangourou_2022_ecolier_semifinale__prob5.png]]
 
-> (4 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
+> (4 points) The company Palloni Gonfiati has ordered a stamp bearing its name. The figure shows five stamps that were delivered to it, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only 5. B) Only 1. C) Only 2 and 5. D) Only 3 and 4. E) Only 4 and 5.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q05|src_kangourou_2022_ecolier_semifinale__Q05]]
@@ -244,13 +250,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bacquet in the same group as the 6-package bag*
+*Bag in the same group as the one with 6 marbles*
 
-> (4 points) Roberto has nine bags containing 1, 2, 3, 4, 5, 6, 9, 13, 17 bags respectively. He wants to collect the bags in groups of three so that in each of the three resulting groups there is the same number of bags. Which of the following bags must be placed in the same group as the six-pack? A) The two-piece.
+> (4 points) Roberto has nine bags containing respectively 1, 2, 3, 4, 5, 6, 9, 13, 17 
+> marbles. He wants to collect the bags into groups of three so that in each of the three resulting groups there 
+> is the same number of marbles. Which of the following bags must he put in the same group as the 
+> bag with 6 marbles? 
+> A) The one with 2 marbles. 
 >  
-> B) The three-piece. C) The four-piece. D) The nine-beaded one.
+> B) The one with 3 marbles.  
+> C) The one with 4 marbles.  
+> D) The one with 9 marbles. 
 >  
-> E) The one with the 13 bucks.
+> E) The one with 13 marbles.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q06|src_kangourou_2022_ecolier_semifinale__Q06]]
@@ -291,7 +303,7 @@ level: kangourou
 
 ![[src_kangourou_2022_ecolier_semifinale__prob7.png]]
 
-> (5 points) Between 6:00 a.m. and 12:00 a.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
+> (5 points) Between 6:00 a.m. and 12:00 p.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
 >  
 > B) 11 C) 10 D)6
 >  
@@ -329,11 +341,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extra hectograms for 5 to 6 metres of flooring *
+*Extra hectograms for a 5 to 6 metre flowerbed*
 
-> (5 points) 50 hectograms (5 kilograms) of fertilizer are needed to fertilise a 5 metre-square-square-foot flower bed. Which of the following numbers expresses how many extra hectograms of fertilizer are needed to fertilise a 6 metre square wooden fence in the same way? A) 10
+> (5 points) To fertilise a square flowerbed with a side of 5 metres, 50 hectograms (that is
+> 5 kilograms) of fertiliser are needed. Which of the following numbers expresses how many hectograms of fertiliser
+> more are needed to fertilise in the same way a square flowerbed with a side of 6 metres?
+> A) 10  
 >  
-> B) 20 C) 22 D) 60 E) 72
+> B) 20  
+>  C) 22  
+>  D) 60  
+>  E) 72
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q08|src_kangourou_2022_ecolier_semifinale__Q08]]
@@ -379,7 +397,7 @@ level: kangourou
 
 *Unit number of final product 2021-2029*
 
-> (6 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. It proceeds on the eight numbers remaining the same by getting seven and so on, until there is only one number left on the sheet. What is the unit number of this number? A) 0
+> (6 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining in the same way, obtaining seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
 >  
 > B) 2 C) 4
 >  
@@ -494,7 +512,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of (number*10) divided by 6 with number=2 mod 6*
+*Remainder of (number*10) divided by 6 with number=2 mod 6*
 
 > (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
 
@@ -528,7 +546,7 @@ level: kangourou
 
 *Distance between oases A and B with two camels*
 
-> (6 points) In the desert, two oases A and B are at the ends of a long straight track. A camel starts from A to B at the same time as another camel starts from B to A; the two camels travel along the track at a constant speed: one travels 4 km per hour, the other travels 2 km per hour. After an hour of meeting, the fastest camel reaches its destination. How many miles apart are the two oases?
+> (6 points) In the desert, two oases A and B are at the ends of a long straight track. A camel starts from A to B at the same time as another camel starts from B to A; the two camels travel along the track at a constant speed: one travels 4 km per hour, the other travels 2 km per hour. After an hour of meeting, the fastest camel reaches its destination. How many kilometers apart are the two oases?
 
 **Answer:** 12
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q12|src_kangourou_2022_ecolier_semifinale__Q12]]
@@ -560,11 +578,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Detail mileage with petrol in the tank*
+*Kilometers to be traveled with gasoline in the tank*
 
 ![[src_kangourou_2022_ecolier_semifinale__prob13.png]]
 
-> (6 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many miles can the car go?
+> (6 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many kilometers can the car go?
 
 **Answer:** 250
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q13|src_kangourou_2022_ecolier_semifinale__Q13]]
@@ -595,7 +613,7 @@ level: kangourou
 
 *Maximum product of two two-digit numbers with 1,2,3,4*
 
-> (8 points) Luigi used the four digits 1, 2, 3, 4 (each once) to write two two-digit numbers so that the product of those numbers is as high as possible. What number did you get as a product?
+> (8 points) Luigi used the four digits 1, 2, 3, 4 (each once) to write two two-digit numbers so that the product of those numbers is as high as possible. What number did he get as a product?
 
 **Answer:** 1312
 [[Quesiti/src_kangourou_2022_ecolier_semifinale#q14|src_kangourou_2022_ecolier_semifinale__Q14]]
@@ -639,7 +657,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient number of 111,222,555 divided by 111*
+*Digits of the quotient of 111,222,555 divided by 111*
 
 > (8 points) The number 111,222,333,444,555 (each of the digits 1 to 5 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 >  

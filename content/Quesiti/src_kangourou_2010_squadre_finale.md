@@ -35,7 +35,7 @@ level: squadre
 
 *Home-school distance from differences in speed*
 
-> From home to school From home to school I always walk, always leaving at the same time. If I walk at 4 km/h, I arrive 5 minutes late at the start of classes, but if I walk at 5 km/h, I arrive 10 minutes before the start of classes. How many yards from my house is the school?
+> From home to school From home to school I always walk, always leaving at the same time. If I walk at 4 km/h, I arrive 5 minutes late at the start of classes, but if I walk at 5 km/h, I arrive 10 minutes before the start of classes. How many metres is the school from my house?
 
 **Answer:** 5000
 [[Quesiti/src_kangourou_2010_squadre_finale#q01|src_kangourou_2010_squadre_finale__Q01]]
@@ -66,9 +66,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integressive septins with 2a^2+b^2+...+g^2=9*
+*Integer septuples with 2a^2+b^2+...+g^2=9*
 
-> An equation with many unknowns We call a set of 7 numbers: two septins are equal if and only if they have equal numbers in the corresponding positions, that is, if their first two numbers are equal, their second two and so on until their seventh two. How many different septs of relative integers (a, b, c, d, e, f, g) are such that 2a2 + b2 + c2 + d2 + e2 + f2 + g2 = 9 ?
+> An equation with many unknowns                
+> We call a "septuple" an ordered set of 7 numbers: two septuples are equal if and only if they have 
+> equal numbers in the corresponding positions, that is, if their first two numbers are equal, their 
+> second two, and so on up to their seventh two. How many different septuples of relative integers 
+> (a, b, c, d, e, f, g) are there such that  2a2 + b2 + c2 + d2 + e2  + f2 + g2 = 9  ?
 
 **Answer:** 2820
 [[Quesiti/src_kangourou_2010_squadre_finale#q02|src_kangourou_2010_squadre_finale__Q02]]
@@ -131,9 +135,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-8 white chessboard zigzag roads
+Zigzag paths of 8 white squares on a chessboard
 
-> The chessboard In an ordinary chessboard 8 × 8 (32 white boxes and 32 alternating vertical and horizontal black boxes), we call walk to zig-zag a set of 8 white boxes, one for each row, such that, for each row from the second row to the 8th, the box in that row has in common a vertex with the one in the previous row. How many different zigzag paths can you find?
+> The chessboard On an ordinary 8 × 8 chessboard (32 white squares and 32 black squares alternating horizontally and vertically), we call "zigzag path" a set of 8 white squares, one for each row, such that, for each row from the second to the eighth, the square in that row shares a vertex with the one in the previous row. How many different zigzag paths can you find?
 
 **Answer:** 296
 [[Quesiti/src_kangourou_2010_squadre_finale#q04|src_kangourou_2010_squadre_finale__Q04]]
@@ -165,7 +169,7 @@ level: squadre
 
 *sum of numbers on faces given sum of vertices 70*
 
-> Faces and vertices On each side of a cube we wrote a strictly positive integer. On each summit we wrote the product of the three numbers written on the faces that compete at that summit. The sum of the numbers written on the vertices is 70. What's the sum of the numbers on the faces?
+> Faces and vertices On each face of a cube we wrote a strictly positive integer. On each vertex we wrote the product of the three numbers written on the faces that meet at that vertex. The sum of the numbers written on the vertices is 70. What's the sum of the numbers on the faces?
 
 **Answer:** 14
 [[Quesiti/src_kangourou_2010_squadre_finale#q05|src_kangourou_2010_squadre_finale__Q05]]
@@ -199,11 +203,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the side cube 6 *
+*Volume of the cuboctahedron from a cube with side 6*
 
 ![[src_kangourou_2010_squadre_finale__prob6.png]]
 
-> We have a six-centimeter cube on the side. Fixed a vertex, let's consider the plane that passes through the midpoints of each of the three opposing vertices: this plane divides the cube into two solids, one of which is a pyramid with a vertex in that vertex. For each vertex of the cube, we eliminate the pyramid obtained this way: it remains a solid convex with faces that are squares or triangles (called a cubehedron). How many cubic centimeters does its volume measure?
+> The cuboctahedron
+> We have a cube with a side of 6 centimeters. Having fixed a vertex, consider the plane that passes through the
+> midpoints of each of the three edges that meet there: this plane cuts the cube into two
+> solids, one of which is a pyramid with its vertex at the edge in question. For every
+> vertex of the cube, we remove the pyramid obtained in this way: what remains is a
+> convex solid with faces that are squares or triangles (called a cuboctahedron).
+> How many cubic centimeters does its volume measure?
 
 **Answer:** 180
 [[Quesiti/src_kangourou_2010_squadre_finale#q06|src_kangourou_2010_squadre_finale__Q06]]
@@ -239,7 +249,7 @@ level: squadre
 
 *Time of simultaneous re-ignition of three lamps*
 
-> Three intermittent lamps are lit every two minutes, one every two and a half minutes and the third every three minutes. Each of the three, when turned on, stays on for a minute and a half. The moment my digital clock, which marks the minutes but not the seconds, turns to 10:38, all three lights go out simultaneously. What time will my watch mark when the three of them turn on together for the first time ? N.B. expression they turn on every x minutes means between one turning on and the next re-turning on, x minutes pass. (To indicate, for example, 10:38, write 1038.)
+> Three intermittent lamps are lit, one every two minutes, one every two and a half minutes and the third every three minutes. Each of the three, when turned on, stays on for a minute and a half. The moment my digital clock, which marks the minutes but not the seconds, turns to 10:38, all three lights go out simultaneously. What time will my clock mark when the three of them turn on together for the first time ? N.B. The expression "they turn on every x minutes" means between one turning on and the next re-turning on, x minutes pass. (To indicate, for example, 10:38, write 1038.)
 
 **Answer:** 1106
 [[Quesiti/src_kangourou_2010_squadre_finale#q07|src_kangourou_2010_squadre_finale__Q07]]
@@ -341,9 +351,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year in which unit number eta = unit number m^m*
+*Year in which units digit of age = units digit of m^m*
 
-> Princess Cunegonda Princess Cunegonda was born on 1 January 1992. A fairy, who happened to be passing by near the cradle where Cunegonda had just been born, made the following prediction: In the first year m in which the number of Cunegonda's age units will be equal to the number of mm units, something wonderful will happen in Cunegonda. Then the prediction came true. What year?
+> Princess Cunegonda Princess Cunegonda was born on 1 January 1992. A fairy, who happened to be passing by near the cradle where Cunegonda had just been born, made the following prediction: In the first year m in which the units digit of Cunegonda's age will be equal to the units digit of m^m, something wonderful will happen to Cunegonda. Then the prediction came true. What year?
 
 **Answer:** 2008
 [[Quesiti/src_kangourou_2010_squadre_finale#q09|src_kangourou_2010_squadre_finale__Q09]]
@@ -375,9 +385,10 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum letters of the alphabet for one million calves*
+*Minimum alphabet letters for a million triples*
 
-> A strange country has exactly one million people who speak a language with a very rich alphabet. Each inhabitant of that country has a surname, a name, and a nickname whose first three letters are different from each other. You know that you can identify each of the inhabitants using only the initials, in order, surname, first name and last name. How many letters of the alphabet used in that country must be at least?
+> An alphabet with many letters                    
+> A strange country has exactly one million inhabitants who speak a language with a very rich alphabet. Each inhabitant of that country has a surname, a first name and a nickname whose three initial letters are different from each other. You know that it is possible to identify each of the inhabitants using only the initial letters, in order, of the surname, the first name and the nickname. What is the minimum number of letters of the alphabet used in that country?
 
 **Answer:** 102
 [[Quesiti/src_kangourou_2010_squadre_finale#q10|src_kangourou_2010_squadre_finale__Q10]]
@@ -410,7 +421,7 @@ level: squadre
 
 *First hexagon with crown thickness > 130*
 
-> The thickness of the hexagon We call the thickness of a regular hexagon the thickness of the circular crown bounded by the circumference to it circumscribed and by that to it inscribed (i.e. the difference between the greater and lesser of the two rays). Now let's imagine a sequence of regular hexagons, the first on side one, the second on side two, the third on side three, and so on. What place in the sequence does the first of these hexagons, whose thickness exceeds 130, occupy?
+> The thickness of the hexagon We call the thickness of a regular hexagon the thickness of the circular crown bounded by the circumference to it circumscribed and by that to it inscribed (i.e. the difference between the greater and lesser of the two radii). Now let's imagine a sequence of regular hexagons, the first with side one, the second with side two, the third with side three, and so on. What place in the sequence does the first of these hexagons, whose thickness exceeds 130, occupy?
 
 **Answer:** 971
 [[Quesiti/src_kangourou_2010_squadre_finale#q11|src_kangourou_2010_squadre_finale__Q11]]
@@ -552,14 +563,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most students with 3 problems and <=1 in common*
+*Maximum number of students with 3 problems and <=1 in common*
 
 > Mathematics Examination Some students have taken the math exam. The professor had prepared eight different problems, all of the same difficulty, and he managed to assign three to each student so that there were no students with more than one problem in common. What is the maximum number of students who have taken the exam?
 > 
 >  
 > Kangourou of Mathematics 2010 Kangourou team cup - final Mirabilandia, 9 May 2010
 >  
-> Questions and answers
+> Questions
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2010_squadre_finale#q15|src_kangourou_2010_squadre_finale__Q15]]

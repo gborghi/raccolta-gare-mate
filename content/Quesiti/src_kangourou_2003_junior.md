@@ -44,7 +44,7 @@ level: kangourou
 
 ![[src_kangourou_2003_junior__prob1.png]]
 
-> From a circular cake a slice of the type indicated in the figure is cut (naturally the "top" of the slice is at the "center" of the cake). Knowing that the slice represents 15% of the entire cake, how many degrees is the angle indicated by the question mark? A) 30° B) 45° C) 54° D) 15° E) 20°
+> From a circular cake a slice of the type indicated in the figure is cut (naturally the "vertex" of the slice is at the "center" of the cake). Knowing that the slice represents 15% of the entire cake, how many degrees is the angle indicated by the question mark? A) 30° B) 45° C) 54° D) 15° E) 20°
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q01|src_kangourou_2003_junior__Q01]]
@@ -74,9 +74,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second diameter of the wool with quadruple area*
+*Diameter of the second flowerbed with four times the area*
 
-> A circular awning has a diameter of 1.2 m and nearby there is another circular awning whose area is 4 times the area of the first awning. What's the diameter of this second shell? A)  2,4 m B)  3,6 m C)  4,8 m D)  6,4 m       E)  9,6 m
+> A circular flowerbed has a diameter of 1.2 m and nearby there is another circular flowerbed whose area is 4 times the area of the first flowerbed. What is the diameter of this second flowerbed?
+> A)  2.4 m
+> B)  3.6 m
+> C)  4.8 m
+> D)  6.4 m       E)  9.6 m
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_junior#q02|src_kangourou_2003_junior__Q02]]
@@ -228,11 +232,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Type of triangle with angles x,2x,3x*
+*Type of triangle with angles x,2x,3x*
 
-> In an ABC triangle the angle in C is triple the angle in A and the angle in B is double the angle in A. So the triangle ABC is A) equilateral B) non-equilateral isosceles C) octahedral D) rectangle E) non-equilateral acutangol r s a to 15%
+> In a triangle ABC the angle at C is three times the angle at A and the angle at B
+> is twice the angle at A. Then the triangle ABC is
+> A) equilateral
+> B) isosceles but not equilateral  
+> C) obtuse
+> D) right
+> E) acute but not equilateral
+> r
+> s
+> a
+> a
+> a
+> 15%
 > 
-> I'm going to pay. I'm going to pay. 23 23 Kang 2003 Kang
+> Pag. 
+> Pag. 23
+> 23
+> Kang 2003
+> Kang 2003
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_junior#q05|src_kangourou_2003_junior__Q05]]
@@ -376,11 +396,11 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which module and the fourth (parallellepiped) *
+*Which module is the fourth (parallelepiped) *
 
 ![[src_kangourou_2003_junior__prob9.png]]
 
-> Using 4 modules, each made up of 4 cubes, a parallel piped was constructed as shown in the figure. Three of the four modules are clearly visible while only one face of the fourth (black). What's the fourth form? A) B) C) D) E)
+> Using 4 modules, each made up of 4 cubes, a parallelepiped was constructed as shown in the figure. Three of the four modules are clearly visible while only one face of the fourth (colored black). Which module is the fourth? A) B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q09|src_kangourou_2003_junior__Q09]]
@@ -426,11 +446,29 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*X in the cryptographic sum XX+YY+ZZ=ZYX*
+*Digit X in the cryptarithmetic sum XX+YY+ZZ=ZYX*
 
-> In the sum shown next to each of the letters X,Y,Z, it represents a non-zero number. If the three digits are distinct from each other, then the letter X stands for: A) 1 B) 2 C) 7 D) 8 E) 9 XX YY ZZ ------ ZYX fig. 1 Fig. 2
+> In the sum shown alongside, each of the letters X,Y,Z represents a non-zero digit. If the three digits are distinct from one another, then
+> the letter X stands for:                                           
+> A) 1
+> B) 2
+> C) 7    
+> D) 8
+> E) 9
+> XX
+> YY
+> ZZ
+> ------
+> ZYX
+> fig. 1
+> fig. 2
 > 
-> I'm going to pay. I'm going to pay. 24 24 Kang 2003 Kang 2003 Questions from N. 11 al N. Twenty-one is worth four points each.
+> Pag. 
+> Pag. 24
+> 24
+> Kang 2003
+> Kang 2003
+> Questions from No. 11 to No. 21 are worth 4 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_junior#q10|src_kangourou_2003_junior__Q10]]
@@ -613,9 +651,15 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table capacity by percentages*
+*Tray capacity from percentages*
 
-> When a tank is filled except that it contains 30% more liters than when it is filled only 30%. How many liters does the tank contain when it's full? A) 60 B) 75 C) 90 D) 100 E) 120
+> When a tray is filled except for 30% it contains 30 liters
+> more than when it is filled only to 30%. How many liters does the tray contain when it is full?
+> A) 60
+> B) 75
+> C) 90
+> D) 100
+> E) 120
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_junior#q13|src_kangourou_2003_junior__Q13]]
@@ -688,7 +732,7 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential grey/black areas (4 squares) *
+*Difference between grey and black areas (4 squares)*
 
 ![[src_kangourou_2003_junior__prob15.png]]
 
@@ -759,11 +803,49 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the telescopic product up to 2003*
+*Value of the telescoping product up to 2003*
 
-> The value of the expression is equal to A) 2004 B) 2003 C) 2002 D) 1002 E) 1001 11 9 7 5 ?? ? ?? ? ? ? ? ?? ? ?? ? ? ? ?? ? ?? ? ? 2003 1 1 3 1 1 2 1 1
+> The value of the expression 
+> is equal to
+> A) 2004
+> B) 2003
+> C) 2002
+> D) 1002
+> E) 1001
+> 11
+> 9
+> 7
+> 5
+> ??
+> ?
+> ??
+> ? ?
+> ?
+> ?
+> ??
+> ?
+> ??
+> ? ?
+> ?
+> ??
+> ?
+> ??
+> ? ?
+> 2003
+> 1
+> 1
+> 3
+> 1
+> 1
+> 2
+> 1
+> 1
 > 
-> I'm going to pay. I'm going to pay. 25 25 Kang 2003 Kang
+> Pag. 
+> Pag. 25
+> 25
+> Kang 2003
+> Kang 2003
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_junior#q16|src_kangourou_2003_junior__Q16]]
@@ -796,7 +878,7 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4 semicircle tangent circle beam*
+*Radius of circle tangent to 4 semicircles*
 
 ![[src_kangourou_2003_junior__prob17.png]]
 
@@ -831,9 +913,13 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of all 2003 numerical numbers*
+*Sum of all numbers from the digits of 2003*
 
-> Let's consider all the four-digit integers we can get by using each of the four digits of the 2003 number. Putting all these numbers together, what number do you get? A)   5005 B)  5555 C)  16665        D)  1110          E)  15555
+> Consider all (positive integer) 4-digit numbers obtainable by using each time the 4 digits of the number 2003. By adding all these numbers, what
+> number is obtained?
+> A)   5005    
+> B)  5555   
+> C)  16665        D)  1110          E)  15555
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_junior#q18|src_kangourou_2003_junior__Q18]]
@@ -860,9 +946,9 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of product figures 2003*A*
+*Sum of digits of the product 2003*A*
 
-> Let's use A to indicate the number 11111... 1111 formed from 2003 figures all equal to 1. What is the sum of the 2003 product figures for A ? A) 10000     B) 10015     C)  10020       D) 10030      E)  20032
+> Let's use A to indicate the number 11111... 1111 formed from 2003 digits all equal to 1. What is the sum of the digits of the product of 2003 and A ? A) 10000     B) 10015     C)  10020       D) 10030      E)  20032
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_junior#q19|src_kangourou_2003_junior__Q19]]
@@ -897,9 +983,18 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the sheet folded diagonally *
+*Side of the rhombus from a sheet folded along the diagonal*
 
-> A rectangular sheet of paper measuring 6 cm x 12 cm is folded along its diagonal. The two non-overlapping parts are cut off and the sheet is then reopened to form a roll. What is the length of the side of the rim? A) 3.5 cm B) 7.35 cm C) 7.5 cm D) 7.85 cm E) 8.1 cm I Questions from N. 21 al N. 30 is worth 5 points each.
+> A rectangular sheet of paper measuring 6 cm x
+> 12 cm is folded along its diagonal. The two non-overlapping
+> parts are cut away and then the sheet is unfolded,
+> thus obtaining a rhombus. What is the length
+> of the side of the rhombus?
+> A) 3.5       cm
+> B) 7.35 cm
+> C) 7.5 cm
+> D) 7.85 cm       E) 8.1 cm
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q20|src_kangourou_2003_junior__Q20]]
@@ -933,7 +1028,7 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of ADE and ABC triangle areas (similar) *
+*Ratio of ADE and ABC triangle areas (similar)*
 
 ![[src_kangourou_2003_junior__prob21.png]]
 
@@ -999,13 +1094,45 @@ Type of triangle with angles x,2x,3x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*OPCQ rectangular area (inscribed circle) *
+*Area of rectangle OPCQ (inscribed circle)*
 
 ![[src_kangourou_2003_junior__prob22.png]]
 
-> The rectangle ABCD has an area of 36 cm2. A circle with center at the point O is inscribed in the triangle ABD. What is the area of the OPCQ rectangle? A) 24 cm2 B) 6 ? (c) 18 cm2 D) 12 cm2 E) It cannot be determined because it depends on the ratio of the lengths of the sides of the rectangle. 2 1 2 ? 1 3 ? 2 5 ? 2 7 ? 5 Q C O P B 26 10 15 9
+> Rectangle ABCD has area 36 cm2. A circle
+> with center at point O is inscribed in triangle ABD.
+> What is the area of rectangle OPCQ ?
+> A) 24 cm2
+> B) 6 ? ?cm2
+> C) 18 cm2
+> D) 12 
+> cm2
+> E) It cannot be determined, as it depends on the
+> ratio between the lengths of the sides of the rectangle.
+> 2
+> 1
+> 2 ?
+> 1
+> 3 ?
+> 2
+> 5 ?
+> 2
+> 7 ?
+> 5
+> Q
+> C
+> O
+> P
+> B
+> 26
+> 10
+> 15
+> 9
 > 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2003 Kang
+> Pag. 
+> Pag. 26
+> 26
+> Kang 2003
+> Kang 2003
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q22|src_kangourou_2003_junior__Q22]]
@@ -1079,9 +1206,9 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of second largest number of the first*
+*Probability that the second number is greater than the first*
 
-> In a box, 2003 tickets numbered from 1 to 2003 are placed. A ticket is drawn at random and then a second is drawn, without the first extract being reintroduced. At this point, the numbers of the extracted tickets are read in the order. So the probability that the second of the two numbers is greater than the first is A) more than 1/2 B) 1/2 C) between 1/3 and 1/2 D) 1/3 E) less than 1/3.
+> In a box, 2003 tickets numbered from 1 to 2003 are placed. A ticket is drawn at random and then a second is drawn, without the first drawn ticket being put back. At this point, the numbers of the drawn tickets are read in order. So the probability that the second of the two numbers is greater than the first is A) more than 1/2 B) 1/2 C) between 1/3 and 1/2 D) 1/3 E) less than 1/3.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_junior#q24|src_kangourou_2003_junior__Q24]]
@@ -1149,7 +1276,7 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max consecutive integers with sum of non-divisible digits 5*
+*Max consecutive integers whose digit sum is not divisible by 5*
 
 > What is the greatest number of consecutive integers greater than 0 such that for none of them the sum of the digits is divisible by 5 ? A) 4 B) 5 C) 6 D) 7 E) 8
 
@@ -1188,7 +1315,7 @@ How many kids are telling the truth?
 
 *What conclusions about books can be false*
 
-> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. (c) The number of physics books is not more than 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) I took nine books in a row, at least six of which are mathematical.
+> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. C) The number of physics books is at most 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) Given 9 books placed consecutively, at least 6 of them are mathematics books.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_junior#q27|src_kangourou_2003_junior__Q27]]
@@ -1273,7 +1400,7 @@ How many kids are telling the truth?
 
 ![[src_kangourou_2003_junior__prob29.png]]
 
-> The squares of a 2x3 chessboard are colored white or black as in Figure 1. Determine the minimum number of moves necessary to move from the configuration of Figure 1 to the configuration of Figure 2 if each move complies with the following rules: 1.- Only one and only one pair of adjacent boxes (i.e. two boxes having one side in common) must be changed in colour; 2.- black turns green, green turns white, white turns black. A) 3 B) 5 C) 6 D) 8 E) 9
+> The squares of a 2x3 chessboard are colored white or black as in Figure 1. Determine the minimum number of moves necessary to move from the configuration of Figure 1 to the configuration of Figure 2 if each move complies with the following rules: 1.- Only one and only one pair of adjacent squares (i.e. two squares having one side in common) must be changed in colour; 2.- black turns green, green turns white, white turns black. A) 3 B) 5 C) 6 D) 8 E) 9
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q29|src_kangourou_2003_junior__Q29]]
@@ -1311,11 +1438,11 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of '1' in numbers up to 7 binary digits*
+*How many '1's in numbers up to 7 binary digits*
 
-> Let's write all integers greater than or equal to 0 with a maximum of 7 digits all equal to 0 or 1. How many 1 have we used? A) 128 B) 288 C) 448 D) 512 E) 896 Fig. 1 Fig. 2
+> Let's write all integers greater than or equal to 0 with a maximum of 7 digits all equal to 0 or 1. How many "1" have we used? A) 128 B) 288 C) 448 D) 512 E) 896 Fig. 1 Fig. 2
 > 
-> Answers commented at JUNIOR level 2a and 3a above
+> Answers commented at JUNIOR level 2nd and 3rd year of high school
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q30|src_kangourou_2003_junior__Q30]]

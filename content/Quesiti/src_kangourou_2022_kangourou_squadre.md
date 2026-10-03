@@ -37,7 +37,7 @@ level: squadre
 
 *Fixed process number difference max-min digits*
 
-> The difference Choose four non-equal digits, form the largest and smallest number (both positive integers) and calculate the difference between the two (for example, if you chose the digits 0, 7, 2 and 1, you should calculate 7.210  127 = 7.083). Repeat the operation with the four digits of the number you have obtained (if it is less than four digits, press the necessary zeros) and proceed as follows. From now on, you'll always get the same number. What kind?
+> The difference Choose four non-equal digits, form the largest and smallest number (both positive integers) and calculate the difference between the two (for example, if you chose the digits 0, 7, 2 and 1, you should calculate 7.210 - 127 = 7.083). Repeat the operation with the four digits of the number you have obtained (if it is less than four digits, put the necessary zeros in front) and proceed as follows. From a certain point onwards, you'll always get the same number. What kind?
 
 **Answer:** 6174
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q01|src_kangourou_2022_kangourou_squadre__Q01]]
@@ -85,7 +85,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square strip number given black perimeter*
+*Number of strips of a square given black perimeter*
 
 ![[src_kangourou_2022_kangourou_squadre__prob2.png]]
 
@@ -102,7 +102,14 @@ level: squadre
 \end{document}
 ```
 
-> A square is divided into an odd number of vertical stripes all of the same width and colour, alternating stripes of gray and black. The number of gray strips is one greater than that of black strips (see example with 3 strips in figure). It is known that the fraction of perimeter of the square that delimits the totality of the black stripes is the whole perimeter. How many strips is the square divided into?
+> The striped square  
+> A square is divided into an odd number of vertical strips all of the same width 
+> and colored, in alternating strips, gray and black. The number of gray strips is one greater 
+> than that of the black strips (see the example with 3 strips in the figure). It is known that the fraction of 
+> the perimeter of the square that borders all the black strips is 
+> 
+>  of the entire perimeter. Into how many 
+> strips is the square divided?
 
 **Answer:** 0025
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q02|src_kangourou_2022_kangourou_squadre__Q02]]
@@ -173,7 +180,7 @@ level: squadre
 
 ![[src_kangourou_2022_kangourou_squadre__prob4.png]]
 
-> The gift in the picture shows a gift package tied with a ribbon. The box is in the shape of a rectangular parallel-piped: the length and width of the base differ by 5.5 cm, the height is shorter by 5 cm than the smaller of the two dimensions of the base. The part of the tape used for the knot and filament is a total length of 47 cm and the total length of the tape is 162 cm. What is the height of the box in millimetres?
+> The gift in the picture shows a gift package tied with a ribbon. The box is in the shape of a rectangular parallelepiped: the length and width of the base differ by 5.5 cm, the height is shorter by 5 cm than the smaller of the two dimensions of the base. The part of the tape used for the knot and the bow is a total length of 47 cm and the total length of the tape is 162 cm. What is the height of the box in millimetres?
 
 **Answer:** 0105
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q04|src_kangourou_2022_kangourou_squadre__Q04]]
@@ -242,7 +249,7 @@ level: squadre
 
 *Value n because 1/n multiplied by 2022*
 
-> The denominator If we add the denominator to the numerator and the denominator of the 1/3 fraction, we get 4/6 = 2/3 which is twice the fraction from which we started. If we want the fraction 1/n to be multiplied by 2022, by performing a similar operation, how much should n be? C V
+> The denominator. If we add the denominator to the numerator and the denominator of the 1/3 fraction, we get 4/6 = 2/3 which is twice the fraction from which we started. If we want the fraction 1/n to be multiplied by 2022, by performing a similar operation, how much should n be? C V
 > 
 >  
 > 2
@@ -275,11 +282,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Pyramidal trunk mirrors with 2022 faces
+*Edges of a truncated pyramid with 2022 faces*
 
 ![[src_kangourou_2022_kangourou_squadre__prob7.png]]
 
-> In the figure, you see a pyramidal trunk that has six faces and 12 spines. Imagine a pyramidal trunk with 2022 faces: how many beads does it have?
+> The edges
+> In the figure you see a truncated pyramid that has 6 faces and 12 edges. Imagine a
+> truncated pyramid with 2022 faces: how many edges must it have?
 
 **Answer:** 6060
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q07|src_kangourou_2022_kangourou_squadre__Q07]]
@@ -310,9 +319,9 @@ Pyramidal trunk mirrors with 2022 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum diameter sum of the 2022 sides of the polygon*
+*Minimum diameter sum of a 2022-sided polygon*
 
-> A positive integer is written at each of the vertices and at the center of a regular polygon of 2022 sides. The 2023 numbers written are all different from each other and, when the pairs of opposite vertices (i.e. aligned with the center) vary, the sum of the three aligned numbers (in the two vertices and in the center) is always the same and is the least possible with these presuppositions. How much is this?
+> A positive integer is written at each of the vertices and at the center of a regular polygon of 2022 sides. The 2023 numbers written are all different from each other and, when the pairs of opposite vertices (i.e. aligned with the center) vary, the sum of the three aligned numbers (in the two vertices and in the center) is always the same and is the least possible with these presuppositions. What is the value of this sum?
 
 **Answer:** 2026
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q08|src_kangourou_2022_kangourou_squadre__Q08]]
@@ -351,7 +360,7 @@ Pyramidal trunk mirrors with 2022 faces
 
 ![[src_kangourou_2022_kangourou_squadre__prob9.png]]
 
-> The area As suggested by the figure, a rectangular strip of paper ABCD is folded so that point A overlaps point C. We call E the point on the AB side from which the bend starts. If the angle is 30° and the area of the triangle ECB is 15 cm2, how many square centimetres is the area of the rectangle ABCD?
+> As suggested by the figure, a rectangular strip of paper ABCD is folded so that point A overlaps point C. We call E the point on the AB side from which the fold starts. If the angle measures 30° and the area of the triangle ECB is 15 cm2, how many square centimetres is the area of the rectangle ABCD?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q09|src_kangourou_2022_kangourou_squadre__Q09]]
@@ -466,7 +475,7 @@ Pyramidal trunk mirrors with 2022 faces
 \end{document}
 ```
 
-> The angle In the ABC triangle in the figure the side AB is longer than either of the other two. M and N are two points on the AB side such that AN is as long as AC and BM is as long as BC. The angle is 40 degrees. How many degrees is the angle ?
+> The angle In the ABC triangle in the figure the side AB is longer than either of the other two. M and N are two points on the AB side such that AN is as long as AC and BM is as long as BC. The angle MCN is 40 degrees. How many degrees is the angle ACB?
 
 **Answer:** 0100
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q11|src_kangourou_2022_kangourou_squadre__Q11]]
@@ -496,9 +505,9 @@ Pyramidal trunk mirrors with 2022 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 10..9999 with strictly increasing numbers*
+*Numbers 10..9999 with strictly increasing digits*
 
-> What are the integers between 10 and 9999 whose digits are arranged in a strictly increasing order? (Two-digit numbers are NOT to be thought of as 4-digit numbers whose first two digits are 0, e.g. 23 is acceptable)
+> How many integers are there between 10 and 9999 whose digits are arranged in a strictly increasing order? (Two-digit numbers are NOT to be thought of as 4-digit numbers whose first two digits are 0, e.g. 23 is acceptable)
 
 **Answer:** 0246
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q12|src_kangourou_2022_kangourou_squadre__Q12]]
@@ -549,7 +558,7 @@ Pyramidal trunk mirrors with 2022 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ed length in triangle divided rectangle*
+*Length ED in partitioned right triangle*
 
 ![[src_kangourou_2022_kangourou_squadre__prob13.png]]
 
@@ -606,7 +615,7 @@ Pyramidal trunk mirrors with 2022 faces
 
 How to distribute 16 tokens in 6 bags
 
-> Gettoni Marta must distribute 16 identical tokens to each other in 6 different bags so that at least two tokens end up in each bag. How many different ways can you do that? (Two ways are different if the contents of at least one bag are different.)
+> Tokens Marta must distribute 16 identical tokens in 6 different bags so that at least two tokens end up in each bag. How many different ways can you do that? (Two ways are different if the contents of at least one bag are different.)
 
 **Answer:** 0126
 [[Quesiti/src_kangourou_2022_kangourou_squadre#q14|src_kangourou_2022_kangourou_squadre__Q14]]
