@@ -92,7 +92,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di numeri interi autoreferenziali e M * minimo
+*Sequenze di interi autoreferenziali e M minimale*
 
 > Let $(a_n)_{n \in \mathbb{N}}$ essere una sequenza di numeri interi. Definire $a_n^{(0)} = a_n$ per ogni numero naturale $n$. Per ogni numero intero $M \ge 0$, definire $$a_n^{(M+1)} = a_{n+1}^{(M)} - a_n^{(M)}, \quad \forall n \in \mathbb{N}.$$ Diciamo $(a_n)_{n \in \mathbb{N}}$ è $(M+1)$-auto-referenziale se esistono numeri naturali fissi $k_1$ e $k_2$ in modo tale che $$a_{n+k_1}^{(M)} = a_{a_n^{(M+1)}+k_2}^{(M)}, \quad \forall n \in \mathbb{N}.$$ (a) Esiste una sequenza di numeri interi in modo tale che il più piccolo $M$ per il quale è $M$-auto-referenziale è $M = 2022$? b) Esiste una sequenza di numeri interi positivi in stretta crescita che è $M$-auto-referenziale con il più piccolo di tali $M = 2022$?
 

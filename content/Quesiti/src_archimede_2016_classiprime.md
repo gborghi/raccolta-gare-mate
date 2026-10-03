@@ -87,7 +87,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Prodotto m*n dati MCD=6 e mcm=3150*
+*Prodotto m·n dati MCD=6 e mcm=3150*
 
 > Dati due numeri interi positivi m e n, sappiamo che MCD(m, n) = 6 e che
 > mcm(m, n) = 3150. Quanto vale il prodotto m · n?

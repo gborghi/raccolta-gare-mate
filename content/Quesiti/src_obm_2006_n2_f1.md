@@ -239,7 +239,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'età di Neto nel 2006 data la sua età e l'anno di nascita del 1994
+*L'età di Neto nel 2006 data la sua età nel 1994 e la somma dell'anno di nascita*
 
 > Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma degli anni di nascita è $3844$. Nel 2006, Neto sarà:
 > 

@@ -236,7 +236,7 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Sets E(x)={ent(k/x): k in N*} of integer parts; characterize reals alpha,beta whose sets have empty intersection (P-cap) or union N* (P-cup); Beatty-type theorems via a geometric lattice argument*
+*Sets E(x)={ent(k/x): k in N∗} of integer parts; characterize reals alpha,beta whose sets have empty intersection (P-cap) or union N∗ (P-cup); Beatty-type theorems via a geometric lattice argument*
 
 > Problem 3: Intersections and reunions.
 > 
@@ -355,7 +355,7 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insiemi E(x)={ent(k/x): k in N*} di parti integri; caratterizzare i reali alfa,beta i cui insiemi hanno intersezione vuota (P-cap) o unione N* (P-cup); teoremi di tipo Beatty tramite un argomento di reticola geometrica*
+*insiemi E(x)={ent(k/x): k in N∗} di parti integri; caratterizzare i reali alfa,beta i cui insiemi hanno intersezione vuota (P-cap) o unione N∗ (P-cup); teoremi di tipo Beatty tramite un argomento di reticola geometrica*
 
 > Problema 3: intersezioni e riunioni.
 > 

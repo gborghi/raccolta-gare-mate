@@ -241,7 +241,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer terms (x,y,z) with 1≤x≤y≤z such that (x-1)
+*Triples of integers (x,y,z) with 1≤x≤y≤z such that (x-1)(y-1)(z-1) divides xyz-1*
 
 > Write all the $(x, y, z)$ terns of integers $x$, $y$, $z$ with $1 \le x \le y \le z$ such that the product $(x-1)(y-1)(z-1)$ is a divisor of $xyz - 1$ (the product of $x$ for $y$ for $z$, minus 1).
 > 

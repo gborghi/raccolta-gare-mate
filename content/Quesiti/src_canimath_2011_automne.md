@@ -41,7 +41,7 @@ level: Coupe Animath Automne
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Quadratic f with f(t)=f(f(f(t)))=0, show f(0)*f(1)=0*
+*Quadratic f with f(t)=f(f(f(t)))=0, show f(0)×f(1)=0*
 
 > Let $a$, $b$ be two real numbers and $f$ the function from $\mathbb{R}$ to $\mathbb{R}$ which to $x$ associates $x^2 + ax + b$. Suppose that there exists a real number $t$ such that $f(t) = f(f(f(t))) = 0$. Show that $f(0) \times f(1) = 0$.
 
@@ -55,7 +55,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratico f con f(t)=f(f(f(t)))=0, mostrare f(0) *f(1)=0*
+*Quadratico f con f(t)=f(f(f(t)))=0, mostrare f(0) ×f(1)=0*
 
 > $a$, $b$ siano due numeri reali e $f$ la funzione da $\mathbb{R}$ a $\mathbb{R}$ che a $x$ associa $x^2 + ax + b$. Supponiamo che esista un numero reale $t$ tale che $f(t) = f(f(f(t))) = 0$. Mostra che $f(0) \times f(1) = 0$.
 
@@ -96,7 +96,7 @@ level: Coupe Animath Automne
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find all f from R* to R* with x f(x/2) - f(2/x) = 1*
+*Find all f from R∗ to R∗ with x f(x/2) - f(2/x) = 1*
 
 > Find all functions $f : \mathbb{R}^* \to \mathbb{R}^*$ that satisfy $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ for every nonzero real number $x$.
 
@@ -109,7 +109,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le f da R * a R * con x f(x/2) - f(2/x) = 1*
+*Ricerca tutte le f da R × a R × con x f(x/2) - f(2/x) = 1*
 
 > Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}^*$ che soddisfano $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ per ogni numero reale non zero $x$.
 

@@ -137,7 +137,7 @@ level: China Mathematical Competition
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Minimum of |OP|*|OQ| for perpendicular radii on an ellipse*
+*Minimum of |OP|×|OQ| for perpendicular radii on an ellipse*
 
 > Given points $P$, $Q$ on an ellipse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) satisfying $OP \perp OQ$, the minimum value of $|OP| \times |OQ|$ is \_\_\_\_.
 
@@ -152,7 +152,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di ∆OP di * di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
+*Minimum di ∆OP di × di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
 
 > Se si considerano i punti $P$, $Q$ su un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) che soddisfano $OP \perp OQ$, il valore minimo di $|OP| \times |OQ|$ è \_\_\_\__.
 
@@ -166,7 +166,7 @@ level: China Mathematical Competition
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Range of k so that lg(kx) - 2*lg(x+1) = 0 has exactly one real root*
+*Range of k so that lg(kx) - 2×lg(x+1) = 0 has exactly one real root*
 
 > Suppose that the equation $\lg(kx) - 2\lg(x + 1) = 0$ has exactly one real root. Then the range of $k$ is \_\_\_\_.
 
@@ -181,7 +181,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Range di k in modo che lg(kx) - 2*lg(x+1) = 0 abbia esattamente una radice reale*
+*Range di k in modo che lg(kx) - 2×lg(x+1) = 0 abbia esattamente una radice reale*
 
 > Supponiamo che l'equazione $\lg(kx) - 2\lg(x + 1) = 0$ abbia esattamente una radice reale. Quindi l'intervallo di $k$ è \_\_\_\___.
 

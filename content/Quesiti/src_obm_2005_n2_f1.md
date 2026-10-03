@@ -327,7 +327,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-switch" data-default="en"></div>
 
 
-*When is addition distributive over multiplication: a+(b*c)=(a+b)*(a+c)*
+*When is addition distributive over multiplication: a+(b×c)=(a+b)×(a+c)*
 
 > Let $a$, $b$ and $c$ be real numbers. By the distributive property of multiplication with respect to addition, it is true that $a\times(b+c)=(a\times b)+(a\times c)$. The distributivity of addition with respect to multiplication, that is, $a+(b\times c)=(a+b)\times(a+c)$, is not always true, but it holds if and only if:
 > A) $a=b=c=\dfrac{1}{3}$ or $a=0$
@@ -346,7 +346,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quando l'addizione è distributiva sulla moltiplicazione: a+(b*c)=(a+b)*(a+c)*
+*Quando l'addizione è distributiva sulla moltiplicazione: a+(b×c)=(a+b)×(a+c)*
 
 > $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione rispetto all'addizione, è vero che $a\times(b+c)=(a\times b)+(a\times c)$. La distributività dell'addizione rispetto alla moltiplicazione, cioè $a+(b\times c)=(a+b)\times(a+c)$, non è sempre vera, ma vale solo se: A) $a=b=c=\dfrac{1}{3}$ o $a=0$ B) $a=b=c$ C) L'uguaglianza non si verifica mai D) $a+b+c=1$ o $a=0$ E) $a+b+c=0$
 

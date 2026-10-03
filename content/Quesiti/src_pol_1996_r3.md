@@ -69,7 +69,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*For positive a_i and x_i each summing to 1, prove 2*sum_{i<j} x_i x_j <= (n-2)/(n-1) + sum a_i x_i^2/(1-a_i), and determine equality cases.*
+*For positive a_i and x_i each summing to 1, prove 2×sum_{i<j} x_i x_j <= (n-2)/(n-1) + sum a_i x_i^2/(1-a_i), and determine equality cases.*
 
 > Let $a_1, a_2, \ldots, a_n$ be positive numbers with the sum 1.
 > 
@@ -88,7 +88,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i positivi a_i e x_i ogni somma a 1, provare 2*sum_{i<j} x_i x_j <= (n-2)/(n-1) + somma a_i x_i^2/(1-a_i), e determinare i casi di uguaglianza.*
+*Per i positivi a_i e x_i ogni somma a 1, provare 2×sum_{i<j} x_i x_j <= (n-2)/(n-1) + somma a_i x_i^2/(1-a_i), e determinare i casi di uguaglianza.*
 
 > $a_1, a_2, \ldots, a_n$ siano numeri positivi con la somma 1.
 > 

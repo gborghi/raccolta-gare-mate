@@ -511,7 +511,7 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Distinguished from the total number of dividers in the * chain
+*Distinct terms a|b|c|12 chain of divisors*
 
 > How many sets of natural numbers are distinct from each other (a, b, c) such that the number a is a divisor of b, the number b is a divisor of c and the number c is a divisor of 12?
 >

@@ -83,7 +83,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+*Foosball tournament, minimum goal difference with the mathematicians winning*
 
 > Marco, Fabrizio and Giovanni, three mathematicians, challenge a group of four physicists to a ballilla football tournament (consisting of a number of matches) in which the group that scored the most total goals eventually wins. In each match, physicists score 2 more goals than they had in the previous one, starting with 1 goal in the first. Knowing that the total number of goals scored by physicists and mathematicians is 330 and that it is the mathematicians who award themselves the victory in the tournament, determine the minimum gap of goals that may have occurred.
 >

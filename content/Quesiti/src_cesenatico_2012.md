@@ -108,7 +108,7 @@ level: nazionale
 <div class="qlang-switch" data-default="it"></div>
 
 
-*coppie {a,b} con xa*xb quadrato perfetto*
+*coppie {a,b} con xa·xb quadrato perfetto*
 
 > Sia x1, x2, x3, . . . la successione definita per ricorrenza come segue:
 > (
@@ -129,7 +129,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pairs {a,b} with xa*xb perfect square*
+*pairs {a,b} with xa·xb perfect square*
 
 > Whether x1, x2, x3, . . . the sequence defined by recurrence as follows: (x1 = 4 xn+1 = x1x2x3 · · xn + 5 for n ≥1. (The first terms of the sequence are then x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . ) Find all the pairs of positive integers {a, b} such that xaxb is a perfect square.
 

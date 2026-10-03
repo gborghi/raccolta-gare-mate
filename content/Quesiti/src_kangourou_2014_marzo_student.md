@@ -304,7 +304,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quante cifre ha (2^22)^5*(5^55)^2*
+*Quante cifre ha (2^22)^5×(5^55)^2*
 
 > Quante cifre ha il risultato del prodotto  (2 22 )5 ∙ (5 55 )2 ?
 > A) 22	
@@ -326,7 +326,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits has (2^22) ^5*(5^55) ^2*
+*How many digits has (2^22) ^5×(5^55) ^2*
 
 > What is the result of the product (2 22 )5 ∙ (5 55 )2 ? A) 22
 > 	

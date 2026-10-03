@@ -117,7 +117,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max \MN \MN \AB\AB \B \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D \D
+*Rapporto massimo |MN|/|AB| per la corda AB della parabola con angolo fisso AFB = pi/3*
 
 > Il punto di mira e la direzione della parabola $y^2 = 2px$ ($p > 0$) siano rispettivamente $F$ e $l$. $A$ e $B$ sono punti in movimento della parabola che soddisfano $\angle AFB = \frac{\pi}{3}$. La proiezione di $M$ il punto medio del segmento $AB$ su $l$ deve essere $N$. Il valore massimo di $\frac{|MN|}{|AB|}$ è quindi __________.
 
@@ -262,7 +262,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca a, b le condizioni indicate su f(x)=dichiarazione(x+1)
+*Trova a, b date le condizioni su f(x)=|lg(x+1)|*
 
 > Supponiamo che $f(x) = |\lg(x + 1)|$ e i numeri reali $a$, $b$ ($a < b$) soddisfino $f(a) = f\!\left(-\dfrac{b+1}{b+2}\right)$, $f(10a + 6b + 21) = 4\lg 2$. Trova i valori di $a$, $b$.
 

@@ -111,7 +111,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i numeri interi positivi n con n+2008
+*Trova gli interi positivi n con n+2008 | n²+2008 e n+2009 | n²+2009*
 
 > Trova tutti gli integri positivi $n$ in modo tale che entrambi $n + 2008$ dividano $n^2 + 2008$ e $n + 2009$ dividono $n^2 + 2009$.
 

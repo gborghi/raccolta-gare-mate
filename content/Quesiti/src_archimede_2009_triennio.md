@@ -343,7 +343,7 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second figure of the product (10^4+1)
+*Second digit of the product (10^4+1)(10^2+1)(10+1)*
 
 > What's the second digit, starting from the left, of the number (104 + 1) ((102 + 1) ((10 + 1))?
 >

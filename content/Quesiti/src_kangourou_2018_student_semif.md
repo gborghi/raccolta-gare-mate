@@ -260,7 +260,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Per cosa non e divisibile 2019*2018^2 - 2018*2019^2*
+*Per cosa non e divisibile 2019×2018^2 - 2018×2019^2*
 
 > (Punti 5) Il numero 201920182 - 201820192 non è divisibile per
 > A) 99            B) 101          C) 121           D) 1001           10001
@@ -276,7 +276,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is 2019*2018^2 - 2018*2019^2 not divisible by*
+*What is 2019×2018^2 - 2018×2019^2 not divisible by*
 
 > (5 points) The number 201920182 - 201820192 is not divisible by
 > A) 99            B) 101          C) 121           D) 1001           10001
@@ -553,7 +553,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quante terne ordinate (a,b,c) interi con a*b*c=45000*
+*Quante terne ordinate (a,b,c) interi con a×b×c=45000*
 
 > (Punti 7) Per quante terne ordinate (a, b, c) di numeri interi relativi accade che 
 > a × b × c = 45.000?
@@ -569,7 +569,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integer triples (a,b,c) are ordered with a*b*c=45000*
+*How many integer triples (a,b,c) are ordered with a×b×c=45000*
 
 > (Points 7) For how many ordered triples (a, b, c) of relative integers does a × b × c = 45,000?
 

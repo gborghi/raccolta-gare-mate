@@ -593,7 +593,7 @@ level: OBM Nível 2
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find x+y given x^3+y^3=9 and x^2*y+xy^2=6*
+*Find x+y given x^3+y^3=9 and x^2×y+xy^2=6*
 
 > Determine $x + y$, where $x$ and $y$ are real numbers satisfying
 > $$x^3 + y^3 = 9 \quad \text{and} \quad x^2 y + x y^2 = 6.$$
@@ -611,7 +611,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova x+y dato x^3+y^3=9 e x^2*y+xy^2=6*
+*Trova x+y dato x^3+y^3=9 e x^2×y+xy^2=6*
 
 > Determinare $x + y$, dove $x$ e $y$ sono numeri reali che soddisfano $$x^3 + y^3 = 9 \quad \text{and} \quad x^2 y + x y^2 = 6.$$
 > 

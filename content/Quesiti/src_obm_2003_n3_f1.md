@@ -500,7 +500,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Divide {2,3,5,7,11,13,17} into groups A,B with A-B=1; find digit sum of A*B*
+*Divide {2,3,5,7,11,13,17} into groups A,B with A-B=1; find digit sum of A×B*
 
 > Divide the numbers $2, 3, 5, 7, 11, 13$, and $17$ into two groups with products $A$ and $B$, such that $A - B = 1$. The sum of the digits of $A \cdot B$ is:
 > 
@@ -517,7 +517,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*dividere {2,3,5,7,11,13,17} nei gruppi A,B con A-B=1; trovare la somma digitali di A*B*
+*dividere {2,3,5,7,11,13,17} nei gruppi A,B con A-B=1; trovare la somma digitali di A×B*
 
 > Dividere i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi con i prodotti $A$ e $B$, in modo tale che $A - B = 1$. La somma delle cifre di $A \cdot B$ è:
 > 

@@ -188,7 +188,7 @@ level: nazionale
 <div class="qlang-switch" data-default="it"></div>
 
 
-*valore di (11*8)+13*
+*valore di (11•8)+13*
 
 > Sta scritto
 > Come è stato predetto nel terribile libro Necronomicon dell’arabo pazzo Abdul Alhazred, quando per l’Uomo arriverà l’Ultimo

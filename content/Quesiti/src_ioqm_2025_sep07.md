@@ -478,7 +478,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*MTAI parallelogramma con area 40/41 e MI=1/MT; meno diagonale MA al quadrato è uguale a/b; trovare
+*Parallelogramma MTAI con area 40/41 e MI=1/MT; il quadrato della diagonale minore MA è uguale a a/b; trova |a-b|*
 
 > $MTAI$ è un parallelogramma di unità quadrate di superficie $\dfrac{40}{41}$ tale che $MI = 1/MT$. Se $d$ è la lunghezza minima possibile della diagonale $MA$ e $d^2 = \dfrac{a}{b}$, dove $a, b$ sono interi positivi con $\gcd(a, b) = 1$, trovare $|a - b|$.
 

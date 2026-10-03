@@ -172,7 +172,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Circle internally tangent to another, chord tangent at C, midpoint M of arc, foot N of perpendicular; prove AC*CB = 2r*MN.*
+*Circle internally tangent to another, chord tangent at C, midpoint M of arc, foot N of perpendicular; prove AC×CB = 2r×MN.*
 
 > The circle $\Gamma_1$, with radius $r_1$, is internally tangent to the circle $\Gamma_2$ at $S$. The chord $AB$ of $\Gamma_2$ is tangent to $\Gamma_1$ at $C$. Let $M$ be the midpoint of the arc $\overarc{AB}$ (not containing $S$), and let $N$ be the foot of the perpendicular from $M$ to the line $AB$. Prove that $AC \cdot CB = 2 r_1 \cdot MN$. (Posed by Ye Zhonghao)
 
@@ -190,7 +190,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo interamente tangente ad un altro, tangente di corda a C, punto medio M di arco, piede N di perpendicolare; prova AC*CB = 2r*MN.*
+*Circolo interamente tangente ad un altro, tangente di corda a C, punto medio M di arco, piede N di perpendicolare; prova AC×CB = 2r×MN.*
 
 > Il cerchio $\Gamma_1$, con raggio $r_1$, è tangente internamente al cerchio $\Gamma_2$ a $S$. L'accordo $AB$ di $\Gamma_2$ è tangente a $\Gamma_1$ a $C$. Il $M$ deve essere il punto medio dell'arco $\overarc{AB}$ (non contenente $S$), e il $N$ deve essere il piede della perpendicolare da $M$ alla linea $AB$. Prove che $AC \cdot CB = 2 r_1 \cdot MN$. (Posato da Ye Zhonghao)
 
@@ -240,7 +240,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Sequence a_n = n*sqrt5 - floor(n*sqrt5); compute max and min over a_1..a_2009.*
+*Sequence a_n = n×sqrt5 - floor(n×sqrt5); compute max and min over a_1..a_2009.*
 
 > For positive integer $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Compute the maximum value and the minimum value of $a_1, a_2, \ldots, a_{2009}$. (For real number $x$, $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.) (Posed by Wang Zhixiong)
 
@@ -257,7 +257,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_n = n*sqrt5 - piano(n*sqrt5); calcolo max e min su a_1..a_2009.*
+*Sequenza a_n = n×sqrt5 - piano(n×sqrt5); calcolo max e min su a_1..a_2009.*
 
 > Per un intero positivo $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Calcolare il valore massimo e il valore minimo di $a_1, a_2, \ldots, a_{2009}$. (Per il numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.) (Posizionato da Wang Zhixiong)
 

@@ -15,7 +15,7 @@ level: biennio
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quante cifre ha il numero 2^3*5^4*10^5*
+*Quante cifre ha il numero 2^3·5^4·10^5*
 
 > Quante cifre ha il numero 23 · 54 · 105?
 >
@@ -35,7 +35,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits has the number 2^3*5^4*10^5*
+*How many digits has the number 2^3·5^4·10^5*
 
 > How many digits does the number 23 54 105 have?
 >

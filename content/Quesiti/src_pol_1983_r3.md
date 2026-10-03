@@ -125,7 +125,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Given three plane unit vectors a1,a2,a3, show one can choose c1,c2,c3 in {-1,1} so that the length of c1*a1+c2*a2+c3*a3 is at least 2.*
+*Given three plane unit vectors a1,a2,a3, show one can choose c1,c2,c3 in {-1,1} so that the length of c1×a1+c2×a2+c3×a3 is at least 2.*
 
 > On the plane are given unit vectors $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Show that one can choose numbers $c_1, c_2, c_3 \in \{-1, 1\}$ such that the length of the vector $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ is at least $2$.
 
@@ -139,7 +139,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dati tre vettori di unità di piano a1,a2,a3, mostrare che si può scegliere c1,c2,c3 in {-1,1} in modo che la lunghezza di c1*a1+c2*a2+c3*a3 sia almeno 2.*
+*Dati tre vettori di unità di piano a1,a2,a3, mostrare che si può scegliere c1,c2,c3 in {-1,1} in modo che la lunghezza di c1×a1+c2×a2+c3×a3 sia almeno 2.*
 
 > Sul piano sono dati i vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Mostra che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ in modo che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
 

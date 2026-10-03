@@ -154,7 +154,7 @@ level: OBM Nível 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Tiling m x n board with 4-square and 3-square pieces; minimize m*n*
+*Tiling m x n board with 4-square and 3-square pieces; minimize m×n*
 
 > The figure below shows two types of pieces: Type 1, with $4$ squares, and Type 2, with $3$ squares. A board with $m$ rows and $n$ columns is tiled, without overlapping, by pieces of Type 1 with the exception of $3$ squares. The same board is also tiled, without overlapping, by pieces of Type 2 with the exception of $2$ squares. The pieces may be rotated but cannot extend outside the board. What is the smallest possible value of the product $m \times n$?
 
@@ -170,7 +170,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tagliare la scheda m x n con pezzi quadrati e quadrati; ridurre al minimo la m *n *
+*Tagliare la scheda m x n con pezzi quadrati e quadrati; ridurre al minimo la m ×n*
 
 > La figura seguente mostra due tipi di pezzi: tipo 1, con $4$ quadrati, e tipo 2, con $3$ quadrati. Una tabella con righe $m$ e colonne $n$ è cartigliata, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione dei quadrati $3$. La stessa lavagna è inoltre incollata, senza sovrapposizioni, con pezzi di tipo 2, ad eccezione dei quadrati $2$. I pezzi possono essere rotati ma non possono estendersi al di fuori della lavagna. Qual è il minimo valore possibile del prodotto $m \times n$?
 

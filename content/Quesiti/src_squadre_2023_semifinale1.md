@@ -177,7 +177,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore di 2023^3-3*2022^3+3*2021^3-2020^3*
+*Valore di 2023^3-3·2022^3+3·2021^3-2020^3*
 
 > Sporcarsi le mani
 > Goemetrikon: «Mi unirò a voi se dimostrerete di non aver paura di sporcarvi le mani. . . nel fare i conti. Mi sapreste

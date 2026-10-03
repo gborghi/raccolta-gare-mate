@@ -931,7 +931,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Somma cifre del prodotto 2003*A*
+*Somma cifre del prodotto 2003×A*
 
 > Indichiamo con A il numero 11111… 1111 formato da 2003 cifre tutte uguali a 1. Qual è la somma delle cifre del prodotto di 2003 per A ?
 > A) 10000     B) 10015     C)  10020       D) 10030      E)  20032
@@ -946,7 +946,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the product 2003*A*
+*Sum of digits of the product 2003×A*
 
 > Let's use A to indicate the number 11111... 1111 formed from 2003 digits all equal to 1. What is the sum of the digits of the product of 2003 and A ? A) 10000     B) 10015     C)  10020       D) 10030      E)  20032
 

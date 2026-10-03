@@ -142,7 +142,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove non due numeri interi a, b soddisfare (a+b)
+*Dimostra che non esistono due interi a, b che soddisfano (a+b)(a^2+b^2)=2001*
 
 > Indicare che non esistono due integri $a$ e $b$ tali da $(a+b)(a^2+b^2)=2001$.
 

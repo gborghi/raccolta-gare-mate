@@ -144,7 +144,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore di 2023^3-3*2022^3+3*2021^3-2020^3*
+*Valore di 2023^3-3×2022^3+3×2021^3-2020^3*
 
 > Non scrivibilità
 > Goemetrikon è un abile samaterai che alterna la fidata katana alla risoluzione di quesiti matematici. L’ultimo che

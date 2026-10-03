@@ -421,7 +421,7 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to make the L-shaped figure symmetrical
+*In how many ways can the L-shaped figure be made symmetric*
 
 ![[src_kangourou_2011_cadet__prob10.png]]
 

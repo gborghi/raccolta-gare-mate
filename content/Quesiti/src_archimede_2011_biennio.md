@@ -79,7 +79,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Carlin for a gearbox
+*Rewards for a Baiocco from exchange chains*
 
 > Let ABC be a triangle with an acute angle. We build a rectangle that has a side that matches AB and contains the point C on the side opposite AB. We do the same construction starting from the BC side and the CA side, so we get three rectangles. So surely the three rectangles have:
 >

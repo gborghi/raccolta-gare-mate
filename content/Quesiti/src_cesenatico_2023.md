@@ -119,7 +119,7 @@ level: nazionale
 <div class="qlang-switch" data-default="it"></div>
 
 
-*CE*ED massimo iff B,O,E,D conciclici*
+*CE·ED massimo iff B,O,E,D conciclici*
 
 ![[src_cesenatico_2023__prob4.png]]
 
@@ -142,7 +142,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CE *ED maximum if B,O,E,D conical *
+*CE ·ED maximum if B,O,E,D conical*
 
 ![[src_cesenatico_2023__prob4.png]]
 

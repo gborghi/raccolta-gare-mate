@@ -460,7 +460,7 @@ The time of Deborah's arrival at Calde
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of product dividers of all n* dividers
+*Number of divisors of the product of all divisors of n*
 
 > You have a natural number greater than 1. The product of all its divisors (including 1 and the number itself) is equal to the fifth power of this number. How many divisors does this number have?
 

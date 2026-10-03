@@ -295,7 +295,7 @@ level: OBM Nível 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Value of 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
+*Value of 2011×2011^2 + 2011×2003^2 - 16×2011×2007^2*
 
 > What is the value of the expression $2011 \cdot 2011^{2} + 2011 \cdot 2003^{2} - 16 \cdot 2011 \cdot 2007^{2}$?
 > 

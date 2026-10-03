@@ -1381,7 +1381,7 @@ The meeting point of Jack and Susanna.
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Somma di n*2^n da 2 a 10*
+*Somma di n·2^n da 2 a 10*
 
 > Quanto vale la somma  2 ·  22 + 3 ·  23 + 4 ·  24 + … + 10 ·  210  ? 
 >  
@@ -1399,7 +1399,7 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n*2^n from 2 to 10*
+*sum of n·2^n from 2 to 10*
 
 > What is the sum of 2 · 22 + 3 · 23 + 4 · 24 + ... + 10 · 210 ?
 >  

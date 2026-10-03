@@ -163,7 +163,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni reali che soddisfano
+*Trova tutte le funzioni reali che soddisfano f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano l'equazione

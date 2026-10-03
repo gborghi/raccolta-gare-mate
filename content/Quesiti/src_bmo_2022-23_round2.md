@@ -59,7 +59,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione della scheda da movimenti; trovare tutti i n* validi
+*Permutazione sulla lavagna tramite mosse; trova tutti gli n validi*
 
 > Per un numero intero $n > 1$, i numeri $1, 2, 3, \ldots, n$ sono scritti in ordine su una lavagna. Le seguenti mosse sono possibili: (i) Prendi tre numeri adiacenti $x, y, z$ la cui somma è un multiple di 3 e sostituirli con $y, z, x$. (ii) Prendi due numeri adiacenti $x, y$ e sostituirli con $y, x$. Trova tutte le $n$ in modo tale che l'elenco iniziale possa essere trasformato in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
 

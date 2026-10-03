@@ -151,7 +151,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Radice 99-esima del prodotto divisori di 2^8*3^10*
+*Radice 99-esima del prodotto divisori di 2^8×3^10*
 
 > La prova di Otenusa
 > Il maestro Isoshilo è molto severo e sta tenendo da ore Otenusa sotto gli effetti di un’illusione tramite
@@ -168,7 +168,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*99-eighth root of the product dividers of 2^8*3^10*
+*99-eighth root of the product dividers of 2^8×3^10*
 
 > Otenusa's test Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of number 28310. How long is it?
 

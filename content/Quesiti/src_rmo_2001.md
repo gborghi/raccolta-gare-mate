@@ -179,7 +179,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i lati del triangolo x,y,z \ \ provex2\y−z) +y2\z−x) +z2\x−y)
+*Per i lati di un triangolo x,y,z dimostrare |x²(y−z)+y²(z−x)+z²(x−y)| < xyz*
 
 > Se $x, y, z$ sono i lati di un triangolo, dimostrare che $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
 

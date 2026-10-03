@@ -248,7 +248,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Prove the sequence floor(2^n*sqrt(2008))+floor(2^n*sqrt(2009)) has infinitely many odd and even terms*
+*Prove the sequence floor(2^n×sqrt(2008))+floor(2^n×sqrt(2009)) has infinitely many odd and even terms*
 
 > For positive integer $n$, let $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Prove that there are infinitely many odd numbers and even numbers in the sequence $f_1, f_2, \ldots$ ($\lfloor x \rfloor$ represents the biggest integer that does not exceed $x$.) (Posed by Zuming Feng)
 
@@ -264,7 +264,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove the sequence floor(2^n*sqrt(2008))+floor(2^n*sqrt(2009)) ha infiniti termini odd e even*
+*Prove the sequence floor(2^n×sqrt(2008))+floor(2^n×sqrt(2009)) ha infiniti termini odd e even*
 
 > Per un intero positivo $n$, $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Prove che ci sono infiniti numeri odd e numeri pari nella sequenza $f_1, f_2, \ldots$ ($\lfloor x \rfloor$ rappresenta il più grande numero intero che non supera $x$.) (Posato da Zuming Feng)
 

@@ -57,7 +57,7 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La lambda massima così cubica con i coefficienti positivi non ha radice con \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+*Lambda massimo affinché una cubica con coefficienti positivi non abbia radici con |Im|>=lambda|Re|*
 
 > Trova il numero reale massimo $\lambda$ che soddisfa la seguente condizione: per tutti i numeri reali positivi $p, q, r, s$ e per un numero complesso $z = a + bi$ ($a, b \in \mathbb{R}$) tale che $|b| \geq \lambda|a|$, $pz^3 + 2qz^2 + 2rz + s \neq 0$.
 

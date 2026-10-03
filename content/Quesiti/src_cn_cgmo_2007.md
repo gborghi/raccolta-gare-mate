@@ -32,7 +32,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un intero positivo m è buono se m è uguale a n diviso per il numero di divisori di n, per un intero positivo n. Prove 1,...,17 sono buone e 18 non è.
+*Un intero positivo m è buono se m è uguale a n diviso per il numero di divisori di n, per qualche intero positivo n. Dimostra che 1,...,17 sono buoni e 18 non lo è.*
 
 > Un intero positivo $m$ è chiamato buono, se c'è un intero positivo $n$ tale che $m$ è il quotiente di $n$ sul numero di divisori interi positivi di $n$ (inclusi 1 e $n$ stesso). Provare che $1, 2, \cdots, 17$ sono numeri buoni e che 18 non è un buon numero.
 

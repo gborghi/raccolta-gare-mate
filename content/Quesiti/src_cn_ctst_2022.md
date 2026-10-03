@@ -354,7 +354,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze reali a_i, b_j: numero di coppie con un numero di coppie con
+*Successioni reali a_i, b_j: limita il numero di coppie con |a_i+b_j−ij|≤m*
 
 > Lasciate che $m$ e $n$ siano integri positivi con $m \ge n \ge 2022$. Prova che per i numeri reali $a_1, a_2, \ldots, a_n$, $b_1, b_2, \ldots, b_n$, il numero delle coppie ordinate $(i, j)$ con $1 \le i, j \le n$ soddisfacente $|a_i + b_j - ij| \le m$ non supera $3n\sqrt{m \ln n}$.
 

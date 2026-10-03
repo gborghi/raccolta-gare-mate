@@ -127,7 +127,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Cifra mancante in frase con divisione 71*/17 resto 14*
+*Cifra mancante in frase con divisione 71∗/17 resto 14*
 
 > Nella seguente frase (presa da una nota canzone dell’isola Kenoncè) una
 > cifra non è leggibile ed è sostituita da un asterisco:
@@ -152,7 +152,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full figure in sentence with division 71*/17 remaining 14*
+*Full figure in sentence with division 71∗/17 remaining 14*
 
 > In the following sentence (taken from a well-known Kenoncè song) a figure is unreadable and is replaced by an asterisk: 71 gatti, in line for 17, with the rest of 14 Knowing that the sentence is correct from a mathematical point of view, find the missing figure. A 1 B 2 C 6 D 0 E 3 F data are insufficient to answer
 

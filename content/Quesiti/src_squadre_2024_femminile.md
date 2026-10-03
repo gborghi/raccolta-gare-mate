@@ -165,7 +165,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Somma n*a_n^2024 con a_n opposto somma divisori propri*
+*Somma n×a_n^2024 con a_n opposto somma divisori propri*
 
 > La generosità di Zenonigata
 > Zenonigata è talmente ossessionato da Lupin/3 che ha promesso che, quando lo catturerà, regalerà ai colleghi tanti
@@ -181,7 +181,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum n*a_n^2024 with a_n opposite sum of proper divisors*
+*sum n×a_n^2024 with a_n opposite sum of proper divisors*
 
 > The generosity of Zenonigata Zenonigata is so obsessed with Lupin/3 that he has promised that when he captures him, he will give to his colleagues as many MathYen as the sum of the digits of the sum of the digits of the sum of the digits of 20232024. How many MathYen are there?
 

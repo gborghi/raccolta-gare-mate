@@ -264,7 +264,7 @@ level: triennio
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Ordinare radici 2*2^(1/6), radice 5, 11^(1/3)*
+*Ordinare radici 2×2^(1/6), radice 5, 11^(1/3)*
 
 > Mettere in ordine crescente i tre numeri 2
 > 6√
@@ -283,7 +283,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordinate roots 2 *2^1/6), roots 5, 11^1/3) *
+*Ordinate roots 2 ×2^1/6), roots 5, 11^1/3)*
 
 > Put the three numbers in increasing order 2 6√ 2, √ 5, 3√
 

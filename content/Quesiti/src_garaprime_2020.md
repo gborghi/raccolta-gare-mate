@@ -15,7 +15,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*mcm di tre numeri 6^x*10^y*15^z*
+*mcm di tre numeri 6^x·10^y·15^z*
 
 > Quanto vale il minimo comune multiplo dei tre numeri a = 69 ·103 ·153,
 > b = 63 · 109 · 153, e c = 63 · 103 · 159?
@@ -37,7 +37,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*mcm of three digits 6^x*10^y*15^z*
+*mcm of three digits 6^x·10^y·15^z*
 
 > What is the minimum common multiple of three numbers a = 69 · 103 · 153, b = 63 · 109 · 153, and c = 63 · 103 · 159? A 66 · 106 · 156 B 69 · 109 · 159 C 68 · 108 · 158 D 67 · 107 · 157 E 65 · 105 · 155 F 64 · 104 · 154
 

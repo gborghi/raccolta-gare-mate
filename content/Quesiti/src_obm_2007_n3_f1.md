@@ -862,7 +862,7 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Recurrence a_{n+1}=2*digitsum(a_n)+1, a_1=1; find a_31+...+a_35*
+*Recurrence a_{n+1}=2×digitsum(a_n)+1, a_1=1; find a_31+...+a_35*
 
 > Let $\{a_n\}$ be a sequence in which each term is defined as double the sum of the digits of the previous term, plus one unit. For example, if $a_n=234$, then $a_{n+1}=2(2+3+4)+1$.
 > 
@@ -881,7 +881,7 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Recurrence a_{n+1}=2*digitsum(a_n)+1, a_1=1; trovare a_31+...+a_35*
+*Recurrence a_{n+1}=2×digitsum(a_n)+1, a_1=1; trovare a_31+...+a_35*
 
 > $\{a_n\}$ sia una sequenza in cui ogni termine è definito come doppio della somma dei numeri del termine precedente, più una unità. Per esempio, se $a_n=234$, allora $a_{n+1}=2(2+3+4)+1$.
 > 

@@ -141,7 +141,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rota cubica con 1 ≤a ≤b ≤c ≥0: 0: 0
+*Radice cubica con 1≤a≤b≤c≥0: |λ|≤1*
 
 > $a, b, c$ siano tre numeri reali come $1 \le a \le b \le c \ge 0$. Prove che se $\lambda$ è una radice dell'equazione cubica $x^3 + ax^2 + bx + c = 0$ (reale o complessa), allora $|\lambda| \le 1$.
 

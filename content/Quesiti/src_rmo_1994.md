@@ -221,7 +221,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza (1+a)
+*Dimostrare la disuguaglianza (1+a)(1+b)(1+c) >= 8(1-a)(1-b)(1-c)*
 
 > Se $a$, $b$ e $c$ sono numeri reali positivi come $a + b + c = 1$, dimostrare che $$(1+a)(1+b)(1+c) \ge 8(1-a)(1-b)(1-c).$$
 

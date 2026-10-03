@@ -464,7 +464,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Resto di (numero*10) diviso 6 con numero=2 mod 6*
+*Resto di (numero×10) diviso 6 con numero=2 mod 6*
 
 > (4 punti) Se un numero intero diviso per 6 dà resto 2, che resto si ottiene moltiplicando quel 
 > numero per 10 e dividendo il risultato ottenuto sempre per 6?
@@ -480,7 +480,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of (number*10) divided by 6 with number=2 mod 6*
+*Remainder of (number×10) divided by 6 with number=2 mod 6*
 
 > (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
 

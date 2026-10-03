@@ -402,7 +402,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Number of distinct products P=S*E*I*Z in a SEIPZ-type cryptarithm with nonzero digits*
+*Number of distinct products P=S×E×I×Z in a SEIPZ-type cryptarithm with nonzero digits*
 
 > All the digit-letters are non-null. Cancelling repeated terms gives $Z=S^3\times I^2$. Since $Z$ is a single digit, $I^2=4$ or $I^2=9$; the second case is impossible (it would force $5\cdot I=1$), so the only possibilities are $(S,I)=(1,2),(1,3)$ or $(2,1)$. With $E$ different from $I$ and $S$ there are $7$ options for $E$ in each case. Building a table of possible products $P=S\times E\times I\times Z$ and excluding combinations giving $Z$ equal to a letter already chosen, the distinct possible values of $P$ are $6,10,12,14,15,16,18,20,21,24,28$ and $36$, that is $12$ distinct values. How many distinct values can $P$ take? [Answer key value: $12$.]
 
@@ -417,7 +417,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di prodotti distinti P=S*E*I*Z in un criptaritmo di tipo SEIPZ con cifre non zero*
+*Numero di prodotti distinti P=S×E×I×Z in un criptaritmo di tipo SEIPZ con cifre non zero*
 
 > Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà $Z=S^3\times I^2$. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere $P$? [Valore della chiave di risposta: $12$.]
 

@@ -1057,7 +1057,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Cifre del prodotto m*n dati logaritmi*
+*Cifre del prodotto m×n dati logaritmi*
 
 > Siano m e n due numeri interi positivi tali che  log 10 m = 12.3… e  log 10 =15.4…
 > . Quante cifre ha il prodotto m⋅ n?
@@ -1078,7 +1078,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product number m*n logarithmic data*
+*Product number m×n logarithmic data*
 
 > Let m and n be two positive integers such that log 10 m = 12.3... and log 10 n = 15.4... How many digits does the product m⋅n have?
 >

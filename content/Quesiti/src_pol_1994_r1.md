@@ -226,7 +226,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se
+*Se b|a^3, c|b^3, a|c^3 allora abc divide (a+b+c)^13*
 
 > $a, b, c$ siano integri positivi come $b \mid a^3$, $c \mid b^3$ e $a \mid c^3$. Prove che $abc \mid (a + b + c)^{13}$.
 

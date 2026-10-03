@@ -529,7 +529,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore di M numero a due cifre con M*k=2331*
+*Valore di M numero a due cifre con M×k=2331*
 
 > (Punti 5) Davide ha scritto un numero intero positivo M di due cifre (significative). Ha notato che, molti­
 > plicandolo per un altro intero positivo minore di M, ottiene il numero 2331. Quanto vale M ?
@@ -545,7 +545,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of M two-digit number with M*k=2331*
+*Value of M two-digit number with M×k=2331*
 
 > (5 points) Davide wrote a positive integer M with two (significant) digits. He noticed that, by multi­
 > plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M ?

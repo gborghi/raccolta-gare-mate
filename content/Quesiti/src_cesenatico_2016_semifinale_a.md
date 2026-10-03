@@ -191,7 +191,7 @@ level: nazionale
 <div class="qlang-switch" data-default="it"></div>
 
 
-*128*(p1+...+p35) sottoinsiemi somma pari*
+*128·(p1+...+p35) sottoinsiemi somma pari*
 
 > [⋆]Pari o dispari?
 > Arthur e Square sono arrivati sulla Sezione D’Oro, la nave del presidente galattico Jacob Googolplex, uno strano
@@ -217,7 +217,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*128*(p1+...+p35) sub-sets equal to *
+*128·(p1+...+p35) sub-sets equal to*
 
 > Couple or odd? Arthur and Square have arrived at the Golden Section, the ship of Galactic President Jacob Googolplex, a strange two-headed alien. They like to play this game with each other. Selecting a positive integer n, the first head lists all possible subsets of {1,2,...,n}, shouting one by one the numbers present in each of them. For example, if n is equal to 2, it screams One! Two of them! One of them! Two!, because the subsets are {1,2}, {1,2}. The second head stops him as he is shouting one of these numbers (choosing randomly from all the elements in the sequence with the same probability), and wins if it comes from a subset whose sum of the elements is equal. Determined by his chances of victory, Team Race 2016  Semifinal A  Problem Tests  1/3
 > 
@@ -337,7 +337,7 @@ The remaining sum alpha_i^4 mod 2243 (roots)
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore AB*CF+BC*AD+AC*BE (ortocentro)*
+*Valore AB·CF+BC·AD+AC·BE (ortocentro)*
 
 > [⋆]Burocrazia Bogon
 > I Bogon hanno catturato Trillion! Arthur può liberarla con un ordine presidenziale di rilascio firmato da Jacob, ma

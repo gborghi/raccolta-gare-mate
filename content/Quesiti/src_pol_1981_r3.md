@@ -152,7 +152,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*For a tetrahedron of volume V with S the sum of squares of its edge lengths, prove V <= S*sqrt(S)/(72*sqrt(3)).*
+*For a tetrahedron of volume V with S the sum of squares of its edge lengths, prove V <= S×sqrt(S)/(72×sqrt(3)).*
 
 > In a tetrahedron of volume $V$ the sum of the squares of the lengths of its edges equals $S$. Prove that
 > $$V \le \frac{S\sqrt{S}}{72\sqrt{3}}.$$
@@ -167,7 +167,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un tetraedro di volume V con S la somma dei quadrati delle sue lunghezze di bordo, provare V <= S*sqrt(S)/(72*sqrt(3)).*
+*Per un tetraedro di volume V con S la somma dei quadrati delle sue lunghezze di bordo, provare V <= S×sqrt(S)/(72×sqrt(3)).*
 
 > In un tetraedro di volume $V$ la somma dei quadrati delle lunghezze dei suoi bordi è uguale a $S$. Provare che $$V \le \frac{S\sqrt{S}}{72\sqrt{3}}.$$
 

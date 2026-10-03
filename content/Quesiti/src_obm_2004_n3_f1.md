@@ -310,7 +310,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta f(0) di una funzione interiore che soddisfa f(n) - n+1)
+*Valore f(0) di una funzione intera che soddisfa f(n)-(n+1)(2-n)=(n+3)^2.*
 
 > La funzione $f$, definita sui numeri interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$ per ogni numero intero $n$. Quanto è $f(0)$?
 > 

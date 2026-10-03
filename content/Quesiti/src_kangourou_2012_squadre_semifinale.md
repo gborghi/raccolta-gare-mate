@@ -344,7 +344,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Numeri 200-999 con cifra unita*decine=centinaia*
+*Numeri 200-999 con cifra unita×decine=centinaia*
 
 > umeri speciali 
 > Quanti numeri interi compresi fra 200 e 999 sono tali che, moltiplicando la cifra delle unità per 
@@ -361,7 +361,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 200 to 999 with units digit*tens digit=hundreds*
+*Numbers 200 to 999 with units digit×tens digit=hundreds*
 
 > How many integers between 200 and 999 are such that, multiplying the number of units by the number of tens, we get the number of hundreds?
 

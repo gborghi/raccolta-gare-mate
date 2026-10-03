@@ -456,7 +456,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Frazioni m/n ridotte con m*n=18!*
+*Frazioni m/n ridotte con m·n=18!*
 
 > Distrazioni
 > Henri e Smale Perelman, i due fratelli più grandi di Ron, raramente seguono le lezioni e piuttosto si dedicano
@@ -476,7 +476,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduced fractions m/n with m*n=18!*
+*Reduced fractions m/n with m·n=18!*
 
 > Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing to the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and so m·n = 18!.
 

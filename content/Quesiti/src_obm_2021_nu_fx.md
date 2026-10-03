@@ -68,7 +68,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni C2 che soddisfano f(t)2=f(t√2) per tutte le t* reali
+*Trova tutte le funzioni C² che soddisfano f(t)²=f(t√2) per ogni t reale*
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ della classe $C^2$ (cioè $f$ è doppio differenziabile con la seconda derivata continua) in modo tale che $$f(t)^2 = f(t\sqrt{2})$$ per ogni reale $t$.
 

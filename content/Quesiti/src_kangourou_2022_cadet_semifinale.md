@@ -752,7 +752,7 @@ How many cherries did Donatella eat
 <div class="qlang-switch" data-default="it"></div>
 
 
-*probabilita che vinca Anna *100*
+*probabilita che vinca Anna ×100*
 
 > (8 punti) Anna ed Ernesto giocano nel modo seguente. Sul tavolo ci sono 6 carte coperte, 
 > numerate da 1 a 6. Anna ne gira una e poi Ernesto ne gira un’altra. Si moltiplicano quindi i numeri 

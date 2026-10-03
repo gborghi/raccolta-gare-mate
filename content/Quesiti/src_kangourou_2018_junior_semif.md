@@ -427,7 +427,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Per cosa non e divisibile 2019*2018^2 - 2018*2019^2*
+*Per cosa non e divisibile 2019×2018^2 - 2018×2019^2*
 
 > (Punti 6) Il numero 201920182 - 201820192 non è divisibile per
 > A) 99	 	
@@ -452,7 +452,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is 2019*2018^2 - 2018*2019^2 not divisible by*
+*What is 2019×2018^2 - 2018×2019^2 not divisible by*
 
 > (6 points) The number 201920182 - 201820192 is not divisible by
 > A) 99	 	
@@ -726,7 +726,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quante terne ordinate (a,b,c) interi con a*b*c=45000*
+*Quante terne ordinate (a,b,c) interi con a×b×c=45000*
 
 > (Punti 8) Per quante terne ordinate (a, b, c) di numeri interi relativi accade che 
 > a × b × c = 45.000? 
@@ -752,7 +752,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ordered triples (a,b,c) of integers satisfy a*b*c=45000*
+*How many ordered triples (a,b,c) of integers satisfy a×b×c=45000*
 
 > (Points 8) For how many ordered sets (a, b, c) of integers does a × b × c = 45,000 occur?
 > 

@@ -355,7 +355,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Piu piccolo intero non scrivibile come a*b+c cifre distinte*
+*Piu piccolo intero non scrivibile come a×b+c cifre distinte*
 
 > Il numero più piccolo 
 > Qual è il più piccolo numero intero maggiore di 1 che non può essere scritto nella forma   
@@ -372,7 +372,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest integer that cannot be written as a*b+c with distinct digits*
+*Smallest integer that cannot be written as a×b+c with distinct digits*
 
 > The smallest number What is the smallest integer greater than 1 that cannot be written in the form a × b + c where a, b and c are all distinct digits?
 

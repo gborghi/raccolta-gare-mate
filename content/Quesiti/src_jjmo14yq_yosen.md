@@ -15,7 +15,7 @@ level: JJMO Yosen
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Count integer triples with a*b and b*c both even*
+*Count integer triples with a×b and b×c both even*
 
 > Find how many triples $(a,b,c)$ of integers with $1 \le a,b,c \le 5$ are such that both $a \times b$ and $b \times c$ are even.
 
@@ -32,7 +32,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli interi con a*b e b*c entrambi pari*
+*Contare i tripli interi con a×b e b×c entrambi pari*
 
 > Trova quante triples $(a,b,c)$ di numeri interi con $1 \le a,b,c \le 5$ sono tali che sia $a \times b$ che $b \times c$ siano pari.
 

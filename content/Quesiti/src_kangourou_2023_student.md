@@ -577,7 +577,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Somma cifre di N con N!=6!*7!*
+*Somma cifre di N con N!=6!×7!*
 
 > Per un intero positivo n, il fattoriale di n, denotato con n!, è definito come il prodot­
 > to di tutti gli interi da 1 a n. Qual è la somma delle cifre di N se N!=6! × 7! ? 
@@ -601,7 +601,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of N digits with N!=6!*7!*
+*sum of N digits with N!=6!×7!*
 
 > For a positive integer n, the factorial of n, denoted by n!, is defined as the product of all integers from 1 to n. What is the sum of the digits of N if N!=6! × 7! ? A) 1
 > 	
@@ -999,7 +999,7 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Divisori di 2^20*3^23 che non dividono 2^10*3^20*
+*Divisori di 2^20×3^23 che non dividono 2^10×3^20*
 
 > Quanti diversi numeri interi positivi sono divisoori di 220 323, ma non sono divisori 
 > di 210 320 ?
@@ -1023,7 +1023,7 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisors of 2^20*3^23 that do not divide 2^10*3^20*
+*Divisors of 2^20×3^23 that do not divide 2^10×3^20*
 
 > How many different positive integers are divisors of 220 323, but are not divisors 
 > of 210 320 ?

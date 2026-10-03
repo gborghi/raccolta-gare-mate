@@ -153,7 +153,7 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find largest lambda with |lambda*xy+yz| <= sqrt(5)/2 on unit sphere*
+*Find largest lambda with |lambda×xy+yz| <= sqrt(5)/2 on unit sphere*
 
 > Find the largest positive number $\lambda$ such that
 > $$|\lambda xy + yz| \le \frac{\sqrt{5}}{2},$$
@@ -170,7 +170,7 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find largest lambda with |lambda*xy+yz| <= sqrt(5)/2 on unit sphere*
+*Find largest lambda with |lambda×xy+yz| <= sqrt(5)/2 on unit sphere*
 
 > Find the largest positive number $\lambda$ such that
 > $$|\lambda xy + yz| \le \frac{\sqrt{5}}{2},$$

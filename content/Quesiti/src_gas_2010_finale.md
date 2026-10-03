@@ -292,7 +292,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Prodotto a*b con poligoni regolari aggiunti e angolo minimo*
+*Prodotto a×b con poligoni regolari aggiunti e angolo minimo*
 
 > Al Perimetro del Mondo
 > Bourbakossa è infine riuscito a sottrarre la Mappa del Perimetro del Mondo al π-rata Sao Feng e la sta studiando
@@ -315,7 +315,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product a*b with added regular polygons and minimum angle*
+*Product a×b with added regular polygons and minimum angle*
 
 > At the World Perimeter Bourbakossa has finally managed to extract the World Perimeter Map from the π-rat Sao Feng and is studying it comfortably on his ship. By rotating and moving the various moving parts of the Map, Bourbakossa makes a regular hexagon appear. He then adds all the regular pentagons he can to it externally, so that they all have a side in common with the figure above, without overlapping; he repeats the procedure on the pentagons by appearing all the possible squares, and on the squares by adding all the possible equilateral triangles, always so that there are no overlapping with what has already been built. Both the number of regular polygons that make up the final figure and b the degree measure of the smallest non-zero angle that is formed between any two sides with a common vertex. How much is ab worth?
 
@@ -685,7 +685,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Prodotto a*b con a^2-b^2 quadrato perfetto minimo, cifre scambiate*
+*Prodotto a×b con a^2-b^2 quadrato perfetto minimo, cifre scambiate*
 
 > Il cane con le chiavi
 > Dopo l’ennesimo voltafaccia, Jack Disparrow è rinchiuso in una cella dell’Olandese Secante. Immancabilmente
@@ -706,7 +706,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product a*b with a^2-b^2 perfect square minimum, figures exchanged*
+*Product a×b with a^2-b^2 perfect square minimum, figures exchanged*
 
 > The dog with the keys. After the second time, Jack Disparrow is locked up in a dried-up Dutch cell. Spiffy, the dog with the keys, inevitably shows up, and Jack tries to lure him unsuccessfully. Out of the darkness of the cell emerges Bill Turing, who explains: "The dog answers only to those who know the magic numbers a and b and pronounces their product. I'll give you some clues: a is a positive integer of two distinct digits; b is obtained from a by exchanging the digits; the difference a2 −b2 is a perfect square and is also the least possible. What number must Jack pronounce to attract Spiffy?
 

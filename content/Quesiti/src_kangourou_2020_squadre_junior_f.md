@@ -379,7 +379,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Somma interi n con d(n)*s(n)=96*
+*Somma interi n con d(n)×s(n)=96*
 
 > Divisori 
 > Per un intero positivo n denotiamo con d(n) il numero dei suoi divisori e con s(n) la loro somma (ad 
@@ -397,7 +397,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of integers n with d(n)*s(n)=96*
+*Sum of integers n with d(n)×s(n)=96*
 
 > Divisors
 > For a positive integer n let d(n) denote the number of its divisors and let s(n) denote their sum (for

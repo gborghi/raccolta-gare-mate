@@ -911,7 +911,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Count pairs of integers (x, y) satisfying sqrt(x - sqrt(x+23)) = 2*sqrt(2) - y.*
+*Count pairs of integers (x, y) satisfying sqrt(x - sqrt(x+23)) = 2×sqrt(2) - y.*
 
 > How many pairs of integers $(x, y)$ satisfy the equation $\sqrt{x - \sqrt{x+23}} = 2\sqrt{2} - y$?
 >
@@ -932,7 +932,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di integri (x, y) che soddisfano sqrt(x - sqrt(x+23)) = 2*sqrt(2) - y.*
+*Contare coppie di integri (x, y) che soddisfano sqrt(x - sqrt(x+23)) = 2×sqrt(2) - y.*
 
 > Quante coppie di integri $(x, y)$ soddisfano l'equazione $\sqrt{x - \sqrt{x+23}} = 2\sqrt{2} - y$?
 >

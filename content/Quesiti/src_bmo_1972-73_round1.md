@@ -130,7 +130,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dischi triangolari equilaterali congruenti che formano un esagono equangolare converso; n* valido
+*Dischi triangolari equilateri congruenti che formano un esagono equiangolo convesso; n valido*
 
 > Si dispone di un gran numero di dischi equilaterali triangolari congruenti su un tavolo e si desidera mettere insieme i dischi $n$ per creare un esagono equangolare convexo (cioè un angolo interno di ciascuna $120^\circ$).
 > 

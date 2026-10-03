@@ -42,7 +42,7 @@ level: OBM Nível 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Two intersecting circles, tangent lines define P and Q; given PB*QB=640 and QB*AB=1000 find AB*
+*Two intersecting circles, tangent lines define P and Q; given PB×QB=640 and QB×AB=1000 find AB*
 
 > (Part A) Two circles $C_1$ and $C_2$ intersect at points $A$ and $B$. The tangent to $C_1$ at $A$ cuts $C_2$ again at point $P$, and the tangent to $C_2$ at $A$ cuts $C_1$ again at point $Q$. Knowing that $PB \cdot QB = 640$ and $QB \cdot AB = 1000$, determine the length of segment $AB$.
 
@@ -56,7 +56,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che si intersecano, linee tangenti che definiscono P e Q; dato PB*QB=640 e QB*AB=1000 trovi AB*
+*Due cerchi che si intersecano, linee tangenti che definiscono P e Q; dato PB×QB=640 e QB×AB=1000 trovi AB*
 
 > (Parte A) Due cerchi $C_1$ e $C_2$ si intersecano ai punti $A$ e $B$. La tangente di $C_1$ a $A$ taglia di nuovo $C_2$ al punto $P$, e la tangente di $C_2$ a $A$ taglia di nuovo $C_1$ al punto $Q$. Sapendo che $PB \cdot QB = 640$ e $QB \cdot AB = 1000$, determinare la lunghezza del segmento $AB$.
 
@@ -69,7 +69,7 @@ level: OBM Nível 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Triangle inscribed in circle with given angles; random interior point X, probability X is closer to B than to A or C; find p*q*
+*Triangle inscribed in circle with given angles; random interior point X, probability X is closer to B than to A or C; find p×q*
 
 > (Part A) Three points $A$, $B$ and $C$ are marked on the boundary of a circle in such a way that $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ and $m(\widehat{ACB}) = 40^\circ$. A point $X$ is chosen at random in the interior of the circle. The probability that, among $A$, $B$ or $C$, the point $X$ is closer to $B$ is $\frac{p}{q}$, where $p$ and $q$ are coprime integers. How much is $p \cdot q$?
 
@@ -83,7 +83,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo inciso in cerchio con angoli dati; punto interno casuale X, probabilità X è più vicino a B che a A o C; trovare p*q*
+*Triangolo inciso in cerchio con angoli dati; punto interno casuale X, probabilità X è più vicino a B che a A o C; trovare p×q*
 
 > (Parte A) Tre punti $A$, $B$ e $C$ sono contrassegnati sul confine di un cerchio in modo tale che $m(\widehat{BAC}) = 60^\circ$, $m(\widehat{ABC}) = 80^\circ$ e $m(\widehat{ACB}) = 40^\circ$. Un punto $X$ viene scelto a caso all'interno del cerchio. La probabilità che, tra $A$, $B$ o $C$, il punto $X$ sia più vicino a $B$ è $\frac{p}{q}$, dove $p$ e $q$ sono integri coprimi. Quanto è $p \cdot q$?
 

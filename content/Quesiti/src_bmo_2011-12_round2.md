@@ -116,7 +116,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri a,b,c,d: condizione di divisibilità per tutti i n * positivi
+*Interi a,b,c,d: condizione di divisibilità per ogni n positivo*
 
 > Mostrare che se $a$, $b$, $c$, $d$ sono interi e $a$ è un divisore di $b^n + c^n + d^n - b - c - d$ per tutti gli interi positivi $n$, allora $a$ divide $b + c + d$.
 

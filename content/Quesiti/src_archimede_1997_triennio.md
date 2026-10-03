@@ -902,7 +902,7 @@ The probability of 13 being mined in one city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of product (1+1/a)
+*Minimum of the product (1+1/a)(1+1/b) with a+b=1*
 
 > If a, b are positive real numbers such that a + b = 1, the minimum possible value for the product (1 + 1/a) · (1 + 1/b) is
 >

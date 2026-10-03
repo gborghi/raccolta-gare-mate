@@ -743,7 +743,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quanti valori di O*T*T*O (crittoaritmo)*
+*Quanti valori di O×T×T×O (crittoaritmo)*
 
 > Nell’uguaglianza 
 > lettere diverse
@@ -767,7 +767,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many values of O*T*T*O (alphametic) *
+*How many values of O×T×T×O (alphametic)*
 
 > In the equality, different letters represent different numbers, whereas equal letters represent equal numbers. How many different values can the O•T•T•O product take? A) 1 B) 2 C) 3 D) 4 E) 5
 

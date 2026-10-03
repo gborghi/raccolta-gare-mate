@@ -100,7 +100,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Numero di divisori positivi di 5*4*3*2*
+*Numero di divisori positivi di 5·4·3·2*
 
 > Quanti divisori positivi ha il numero 5·4·3·2? (Tra i divisori di un numero devono
 > essere contati anche 1 e il numero stesso.)
@@ -121,7 +121,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of positive divisors of 5*4*3*2*
+*Number of positive divisors of 5·4·3·2*
 
 > How many positive divisors does the number 5·4·3·2 have? (The divisors of a number must also include 1 and the number itself.)
 >
@@ -644,7 +644,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum row plus column * Chess buttons
+*Tokens on a chessboard sum row plus column*
 
 > In a chessboard 8 × 8 the rows and columns are numbered from 1 to 8. On each box Mauro supports tokens according to this rule: look at the number of rows and columns corresponding to the box, add them up and put on the box as many tokens as the result of the sum. How many tokens does it support in all?
 >

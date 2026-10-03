@@ -84,7 +84,7 @@ level: nazionale
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Prodotto PA*PC nel trapezio isoscele (angoli)*
+*Prodotto PA×PC nel trapezio isoscele (angoli)*
 
 > [⋆]Il pianeta scomparso
 > “All’interno del trapezio ABCD, il pianeta tu troverai”. Il maestro Yoneda, parlando per inversioni, indica a Obi-Van
@@ -103,7 +103,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Produced PA*PC in the isosceles trapezoid (angles) *
+*Produced PA×PC in the isosceles trapezoid (angles)*
 
 > The missing planet within the ABCD trapezoid, the planet you will find. Master Yoneda, speaking by inversion, points to Obi-Van Kampenobi the location of the planet Rudino. The trapezoid is isosceles. Bases AB and CD 32 and 18, respectively, are long. At a point P such that PAD = PBA and PDA = PCD, the planet is located.  Obi-Van discovers from his friend TEX that the area of the ABP triangle is 192. How much is the product of PA and PC lengths?
 
@@ -296,7 +296,7 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Prodotto XZ*YW (proiezioni, DF=114)*
+*Prodotto XZ×YW (proiezioni, DF=114)*
 
 > Aiutami, Obi-Van!
 > “Aiutami, Obi-Van Kampenobi, sei la mia unica speranza: risolvi questo problema di geometria!”. Il droide cilindrico
@@ -318,7 +318,7 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product XZ*YW (projections, DF=114) *
+*Product XZ×YW (projections, DF=114)*
 
 > Help me out, Obi-Van! Help me, Obi-Van Kampenobi, you are my only hope: solve this problem of geometry! The four-dimensional cylindrical droid R2 ×D2 continues Princess Liea's request for help by transmitting the problem data: If ABC is a triangle, with BAC = 40° and ABC = 100°. Whether D is any point on the beam coming out of A. So X, Y, the projections of D on AB, AC, respectively. Then E, F are the intersection points (different from B, C) of the circumference circumscribed at ABD and the circumference circumscribed at ADC with the BC straight respectively. For example, if the projection of E on the AC and Z on the F on the AB, calculate the product of the lengths of the XZ and Y W segments, knowing that the DF segment measures 114.
 
@@ -838,7 +838,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Prodotto pentagoni*triangoli (solido facce miste)*
+*Prodotto pentagoni×triangoli (solido facce miste)*
 
 > Non è una luna, quella...
 > Gl’ingegneri del Prim’Ordine (usando la leggendaria logica del Prim’Ordine) stanno studiando una forma alternativa

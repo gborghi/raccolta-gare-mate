@@ -259,7 +259,7 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi non vuoti A,B di {1,...,n}; un sottoinsieme D di A+B con D+D in 2(A+B) e \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+*Sottoinsiemi non vuoti A,B di {1,...,n}; un sottoinsieme D di A+B con D+D in 2(A+B) e |D| almeno |A||B|/(2n)*
 
 > Che $n$ sia un intero positivo e $A$, $B$ siano sottosette non vuote di $\{1,2,\ldots,n\}$. Prove che esiste un sottogruppo $D$ di $A+B$ tale che $$D+D\subseteq 2(A+B), \quad \text{and} \quad |D|\ge\frac{|A|\cdot|B|}{2n},$$ in cui $|X|$ indica il numero di elementi di un insieme finito $X$.
 
