@@ -3,7 +3,7 @@
 // abilità, paese) with an AND/OR (TUTTI/QUALSIASI) toggle, rendering matches
 // into a sortable table.
 
-import { makeRowMatcher, loadSynonyms, queryNeedsMeta, type RowFields } from "./searchBoolean"
+import { makeRowMatcher, loadSynonyms, queryNeedsMeta, markResultCount, type RowFields } from "./searchBoolean"
 
 interface Q {
   href: string
@@ -309,6 +309,7 @@ async function init() {
     table.style.display = active ? "" : "none"
     if (!active) {
       pager.innerHTML = ""
+      markResultCount(count, null, "")
       return
     }
     const q = filter.trim().toLowerCase()
@@ -353,6 +354,7 @@ async function init() {
       pages > 1
         ? `<strong>${total}</strong> quesiti — ${start + 1}–${start + pageRows.length} (pag. ${page}/${pages})`
         : `<strong>${total}</strong> quesiti`
+    markResultCount(count, total, filter.trim())
     const cols: [keyof Q, string][] = [
       ["country", "Stato"],
       ["competition", "Gara"],
