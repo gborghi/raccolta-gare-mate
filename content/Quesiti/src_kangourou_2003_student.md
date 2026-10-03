@@ -506,7 +506,7 @@ How to cover a chessboard with dominoes
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore espressione radici nidificate 1+2003*2005*
+*Valore espressione radici nidificate 1+2003×2005*
 
 > A) 2000
 > B) 2001 
@@ -524,7 +524,7 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nested root expression value 1+2003*2005*
+*Nested root expression value 1+2003×2005*
 
 > A) 2000 B) 2001 C) 2002 D) 2003 E) 2004
 

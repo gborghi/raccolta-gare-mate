@@ -380,7 +380,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quale uguaglianza vale per operazione x*y=y-x associativa*
+*Quale uguaglianza vale per operazione x∗y=y-x associativa*
 
 > Michele vuole definire una nuova operazione sui numeri reali ponendo x * y = y – x. 
 > Se a, b e c soddisfano l’uguaglianza (a * b) * c = a * (b * c), quale delle uguaglianze 
@@ -401,7 +401,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which equality holds for the associative operation x*y=y-x*
+*Which equality holds for the associative operation x∗y=y-x*
 
 > Michele wants to define a new operation on real numbers by putting x * y = y - x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equalities must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
 

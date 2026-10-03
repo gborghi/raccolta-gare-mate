@@ -772,7 +772,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Minimo fattore per rendere 18*k potenza sesta*
+*Minimo fattore per rendere 18×k potenza sesta*
 
 > Lisa vuole moltiplicare 18 per un numero, in modo che il risultato sia contemporaneamente un quadrato
 > perfetto e un cubo perfetto. Qual è il più piccolo numero che può usare Lisa?
@@ -794,7 +794,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum factor to make 18*k power six*
+*Minimum factor to make 18×k power six*
 
 > Lisa wants to multiply 18 by a number, so the result is both a perfect square and a perfect cube. What's the smallest number Lisa can use?
 >

@@ -364,7 +364,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Zeri finali del prodotto n*m dati MCD e mcm*
+*Zeri finali del prodotto n·m dati MCD e mcm*
 
 > Di due numeri interi n e m sappiamo che il Massimo Comune Divisore
 > è 2 · 34 · 5 mentre il Minimo Comune Multiplo è 23 · 37 · 52 · 7. Con quanti zeri

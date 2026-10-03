@@ -1,8 +1,6 @@
 {
-  "_comment": "Redirect per URL scomparsi (Kangourou: finali a squadre separate dalle finali individuali, vault 03/10/2026 21:05). pages: gara scomparsa -> gara successore (pagina di redirect scritta da scripts/write-redirects.mjs, conserva #qNN). atoms: quesiti spostati da una gara (anche ancora esistente) -> nuova gara#qNN (atomRouter.inline.ts per le pagine esistenti).",
+  "_comment": "Redirect per URL scomparsi (Kangourou: finali a squadre separate dalle finali individuali, vault 03/10/2026 21:05; aggiornato col vault 22:09: 2018/2019_ecolier_finale tornate gare individuali reali con QE1-6, nuovi Q01-Q04/Q06 in 2018_junior_finale e Q01-Q02 in 2021_ecolier/junior_finale). pages: gara scomparsa -> gara successore (pagina di redirect scritta da scripts/write-redirects.mjs, conserva #qNN). atoms: quesiti spostati da una gara (anche ancora esistente) -> nuova gara#qNN (atomRouter.inline.ts, solo se l'anchor non esiste sulla pagina). Nessuna voce punta via da un anchor reale.",
   "pages": {
-    "src_kangourou_2018_ecolier_finale": "src_kangourou_2018_squadre_ecolier_f",
-    "src_kangourou_2019_ecolier_finale": "src_kangourou_2019_squadre_ecolier_f",
     "src_kangourou_2020_junior_finale": "src_kangourou_2020_squadre_junior_f"
   },
   "atoms": {
@@ -24,11 +22,6 @@
       "q15": "src_kangourou_2018_squadre_ecolier_f#q15"
     },
     "src_kangourou_2018_junior_finale": {
-      "q01": "src_kangourou_2018_squadre_junior_f#q01",
-      "q02": "src_kangourou_2018_squadre_junior_f#q02",
-      "q03": "src_kangourou_2018_squadre_junior_f#q03",
-      "q04": "src_kangourou_2018_squadre_junior_f#q04",
-      "q06": "src_kangourou_2018_squadre_junior_f#q06",
       "q07": "src_kangourou_2018_squadre_junior_f#q07",
       "q08": "src_kangourou_2018_squadre_junior_f#q08",
       "q09": "src_kangourou_2018_squadre_junior_f#q09",
@@ -107,8 +100,6 @@
       "q15": "src_kangourou_2020_squadre_junior_f#q15"
     },
     "src_kangourou_2021_ecolier_finale": {
-      "q01": "src_kangourou_2021_squadre_ecolier_f#q01",
-      "q02": "src_kangourou_2021_squadre_ecolier_f#q02",
       "q07": "src_kangourou_2021_squadre_ecolier_f#q07",
       "q08": "src_kangourou_2021_squadre_ecolier_f#q08",
       "q09": "src_kangourou_2021_squadre_ecolier_f#q09",
@@ -120,8 +111,6 @@
       "q15": "src_kangourou_2021_squadre_ecolier_f#q15"
     },
     "src_kangourou_2021_junior_finale": {
-      "q01": "src_kangourou_2021_squadre_junior_f#q01",
-      "q02": "src_kangourou_2021_squadre_junior_f#q02",
       "q07": "src_kangourou_2021_squadre_junior_f#q07",
       "q08": "src_kangourou_2021_squadre_junior_f#q08",
       "q09": "src_kangourou_2021_squadre_junior_f#q09",

@@ -382,7 +382,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Radice 99-esima del prodotto divisori di 2^10*3^8*
+*Radice 99-esima del prodotto divisori di 2^10×3^8*
 
 > Indecisione triangolare
 > Il brillante Sekante ha un unico sogno: quando sarà Grandin si costruirà una magnifica reggia. Ha perfino
@@ -399,7 +399,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*99-th root of the product dividers of 2^10*3^8*
+*99-th root of the product dividers of 2^10×3^8*
 
 > The brilliant Sekante has only one dream: when he becomes Grandin he will build himself a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 57 mat-ken and another side of 75 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
 

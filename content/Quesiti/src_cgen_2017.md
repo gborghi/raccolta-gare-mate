@@ -15,7 +15,7 @@ level: Concours Général
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Finite subsets A of C of 'type S' (any two elements z1, z2 satisfy z1*z2 = z1^2 + z2^2); study of b(A), the smallest modulus strictly greater than 1 of an element of A (or infinity); examples, the lattices Z[j] and related sets, and determination of all possible values of b(A).*
+*Finite subsets A of C of 'type S' (any two elements z1, z2 satisfy z1×z2 = z1^2 + z2^2); study of b(A), the smallest modulus strictly greater than 1 of an element of A (or infinity); examples, the lattices Z[j] and related sets, and determination of all possible values of b(A).*
 
 > A finite subset $\mathscr{A}$ of $\mathbb{C}$ (the set of complex numbers) is said to be of type $S$ if, for any two elements $z_1$ and $z_2$ of $\mathscr{A}$, the product $z_1 z_2$ is equal to the sum $z_1^2 + z_2^2$ of their squares.
 > 
@@ -76,7 +76,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi finiti A di C di 'tipo S' (ogni due elementi z1, z2 soddisfano z1*z2 = z1^2 + z2^2); studio di b(A), il minimo modulo strettamente maggiore di 1 di un elemento di A (o infinito); esempi, i reticoli Z[j] e insiemi correlati, e determinazione di tutti i possibili valori di b(A).*
+*Sottoinsiemi finiti A di C di 'tipo S' (ogni due elementi z1, z2 soddisfano z1×z2 = z1^2 + z2^2); studio di b(A), il minimo modulo strettamente maggiore di 1 di un elemento di A (o infinito); esempi, i reticoli Z[j] e insiemi correlati, e determinazione di tutti i possibili valori di b(A).*
 
 > Un sottoinsieme finito $\mathscr{A}$ di $\mathbb{C}$ (l'insieme dei numeri complessi) si dice di tipo $S$ se, per ogni coppia di elementi $z_1$ e $z_2$ appartenenti a $\mathscr{A}$, il prodotto $z_1 z_2$ è uguale alla somma $z_1^2 + z_2^2$ dei loro quadrati.
 > 
@@ -226,7 +226,7 @@ level: Concours Général
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Triangles in space E with integer-coordinate vertices in an orthonormal frame. Preliminary results on the foot of an altitude and rationality, irrationality of sqrt(n) for non-square n, and arithmetic of sums of three squares. Then study of which triangles (equilateral, isosceles 3-3-2 and 2-2-3) admit a similar copy with all integer vertices, via the tangent of angles having the form r*sqrt(k) with k square-free.*
+*Triangles in space E with integer-coordinate vertices in an orthonormal frame. Preliminary results on the foot of an altitude and rationality, irrationality of sqrt(n) for non-square n, and arithmetic of sums of three squares. Then study of which triangles (equilateral, isosceles 3-3-2 and 2-2-3) admit a similar copy with all integer vertices, via the tangent of angles having the form r×sqrt(k) with k square-free.*
 
 > \textbf{3 Problem 3: In space, all integers.}
 > 
@@ -284,7 +284,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli nello spazio E con vertici di coordinate interi in un quadro ortonormale. Risultati preliminari sul piano di un'altitudine e della razionalità, dell'irrazionalità di sqrt(n) per n non quadrati e dell'aritmetica delle somme di tre quadrati. Poi studiare quali triangoli (equilaterali, isosceles 3-3-2 e 2-2-3) ammettere una copia simile con tutti i vertici interi, attraverso la tangenza di angoli con la forma r*sqrt(k) con k libero da quadrato.*
+*Triangoli nello spazio E con vertici di coordinate interi in un quadro ortonormale. Risultati preliminari sul piano di un'altitudine e della razionalità, dell'irrazionalità di sqrt(n) per n non quadrati e dell'aritmetica delle somme di tre quadrati. Poi studiare quali triangoli (equilaterali, isosceles 3-3-2 e 2-2-3) ammettere una copia simile con tutti i vertici interi, attraverso la tangenza di angoli con la forma r×sqrt(k) con k libero da quadrato.*
 
 > \textbf{3 Problema 3: nello spazio, tutti gli enti.}
 > 

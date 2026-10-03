@@ -428,7 +428,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Risultato 2024*24 con operazione binaria*
+*Risultato 2024∗24 con operazione binaria*
 
 > Operazione binaria  
 > Di un’operazione binaria * definita tra numeri reali si sa che 
@@ -448,7 +448,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result 2024*24 with binary operation*
+*Result 2024∗24 with binary operation*
 
 > Binary operation  
 > About a binary operation * defined between real numbers it is known that 

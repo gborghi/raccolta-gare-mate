@@ -15,7 +15,7 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Convex quadrilateral, minimizing f(P)=PA*BC+PD*CA+PC*AB; concyclicity at the minimum and a numeric minimum.*
+*Convex quadrilateral, minimizing f(P)=PA×BC+PD×CA+PC×AB; concyclicity at the minimum and a numeric minimum.*
 
 > (50 marks) As shown in Fig. 1, $ABCD$ is a convex quadrilateral with $\angle B + \angle D < 180^\circ$, and $P$ is a moving point on the plane. Let
 > $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$
@@ -39,7 +39,7 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*quadrilaterale convex, riducendo al minimo f(P)=PA*BC+PD*CA+PC*AB; conciclicità al minimo e numero minimo.*
+*quadrilaterale convex, riducendo al minimo f(P)=PA×BC+PD×CA+PC×AB; conciclicità al minimo e numero minimo.*
 
 > (50 marchi) Come mostrato alla figura. 1, $ABCD$ è un quadrilaterale convex con $\angle B + \angle D < 180^\circ$, e $P$ è un punto in movimento sul piano. Indicare che $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$ (1) Provare che $P$, $A$, $B$, $C$ sono conciclici quando $f(P)$ raggiunge il minimo. (2) Supponiamo che il punto $E$ si trovi sull'arco $\overset{\frown}{AB}$ del cerchio circoscritto $O$ di $\triangle ABC$, soddisfacendo $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$, inoltre $DA$, $DC$ sono tangenti a $\odot O$, $AC = \sqrt{2}$. Trova il minimo di $f(P)$.
 

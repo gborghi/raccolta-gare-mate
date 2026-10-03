@@ -15,7 +15,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Cifre 1 nella rappresentazione binaria di 255*257*
+*Cifre 1 nella rappresentazione binaria di 255·257*
 
 > Sia n = 255 · 257. Nella rappresentazione binaria di n quante sono le
 > cifre uguali a 1?
@@ -37,7 +37,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure 1 in the binary representation of 255*257*
+*Figure 1 in the binary representation of 255·257*
 
 > Whether n = 255 · 257. In the binary representation of n, how many digits are equal to 1? A 16 B 1 C 2 D 4 E 8 F 7
 
@@ -380,7 +380,7 @@ level: Classi Prime
 <div class="qlang-switch" data-default="it"></div>
 
 
-*PIN 41a9b divisibile per 312, prodotto a*b*
+*PIN 41a9b divisibile per 312, prodotto a·b*
 
 > Sappiamo che il PIN del bancomat di Claudia è un numero di 5 cifre della forma
 > n = 41a9b, dove a e b indicano le cifre che non conosciamo. Sappiamo però che
@@ -404,7 +404,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PIN 41a9b divided by 312, produced a*b*
+*PIN 41a9b divided by 312, produced a·b*
 
 > We know that Claudia's ATM PIN is a 5-digit number of the form n = 41a9b, where a and b indicate the numbers we don't know. But we know that n is divisible by 312. How much is the product a · b? A 24 B 36 C 12 D 10 E 64 F not determined by the data provided alone
 

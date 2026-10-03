@@ -282,7 +282,7 @@ level: PRMO
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Least natural number n such that f(n*pi+x)=f(x) for all real x*
+*Least natural number n such that f(n×pi+x)=f(x) for all real x*
 
 > Let $f(x) = \sin\frac{x}{3} + \cos\frac{3x}{10}$ for all real $x$. Find the least natural number $n$ such that $f(n\pi + x) = f(x)$ for all real $x$.
 
@@ -295,7 +295,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre naturale minimo n tale che f(n*pi+x)=f(x) per tutte le x reali*
+*Nombre naturale minimo n tale che f(n×pi+x)=f(x) per tutte le x reali*
 
 > Let $f(x) = \sin\frac{x}{3} + \cos\frac{3x}{10}$ per tutti i $x$ reali. Trova il numero naturale minimo $n$ tale da $f(n\pi + x) = f(x)$ per tutti i $x$ reali.
 

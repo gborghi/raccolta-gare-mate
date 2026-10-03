@@ -354,7 +354,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa delle reciprocità della sequenza con ricorrenza (3-a_{n+1})
+*Somma dei reciproci di una successione con ricorrenza (3-a_{n+1})(6+a_n)=18*
 
 > $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ è una sequenza di numeri che soddisfa $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ e $a_0 = 3$. Quindi $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ equivale a ___.
 

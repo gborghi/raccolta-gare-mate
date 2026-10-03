@@ -124,7 +124,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non ci sono numeri interi positivi p,q con ➡️
+*Nessun intero positivo p,q con |sqrt(2)-p/q| ≤ 1/(4q²)*
 
 > Prove che non è possibile trovare integri positivi $p$ e $q$ con la proprietà che $$\left|\sqrt{2} - \frac{p}{q}\right| \leq \frac{1}{4q^2}.$$
 

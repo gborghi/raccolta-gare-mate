@@ -15,7 +15,7 @@ level: OBM Nível 2
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Which option is a divisor of 3^5*4^4*5^3*
+*Which option is a divisor of 3^5×4^4×5^3*
 
 > Which of the alternatives is a divisor of $3^5 \cdot 4^4 \cdot 5^3$?
 >
@@ -36,7 +36,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che opzione è un divisore di 3^5*4^4*5^3*
+*Che opzione è un divisore di 3^5×4^4×5^3*
 
 > Quale delle alternative è un divisore di $3^5 \cdot 4^4 \cdot 5^3$?
 >

@@ -395,7 +395,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Ultima cifra di 2019*N dati i divisori di 2N e 3N*
+*Ultima cifra di 2019×N dati i divisori di 2N e 3N*
 
 > (Punti 6) Il doppio di un numero intero positivo N ha 6 diversi divisori interi; invece il triplo di N ha 4 
 > diversi divisori interi. Qual è l’ultima cifra del numero 2019×N ? 
@@ -423,7 +423,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit of 2019*N given the divisors of 2N and 3N*
+*Last digit of 2019×N given the divisors of 2N and 3N*
 
 > (Points 6) The double of a positive integer N has 6 different positive divisors; whereas the triple of N has 4 different positive divisors. What is the last digit of the number 2019×N? Note: The divisors of a number include 1 and the number itself. A) 1
 > 	
@@ -447,7 +447,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore di M numero a due cifre con M*k=2331*
+*Valore di M numero a due cifre con M×k=2331*
 
 > (Punti 4) Davide ha scritto un numero intero positivo M di due cifre (significative). Ha notato che, molti­
 > plicandolo per un altro intero positivo minore di M, ottiene il numero 2331. Quanto vale M?
@@ -463,7 +463,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of M two-digit number with M*k=2331*
+*Value of M two-digit number with M×k=2331*
 
 > (4 points) Davide wrote a positive integer M with two (significant) digits. He noticed that, by multi­
 > plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M?

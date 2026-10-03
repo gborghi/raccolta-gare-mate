@@ -150,7 +150,7 @@ level: OBM Nível 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Football game balanced iff m <= phi*n, using f(n)=2n-f(r)+r*
+*Football game balanced iff m <= phi×n, using f(n)=2n-f(r)+r*
 
 > Professor Piraldo has a peculiar way of judging football (soccer) games in which many goals are scored. A game with a score of $m$ goals to $n$ goals, $m \ge n$, is called \emph{balanced} when $m \le f(n)$, and \emph{unbalanced} when $m > f(n)$, where $f$ is the function defined by $f(0) = 0$ and, for $n \ge 1$, $f(n) = 2n - f(r) + r$, where $r$ is the largest integer such that $r \le n$ and $f(r) \le n$.
 > 
@@ -166,7 +166,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di calcio bilanciato se m <= phi*n, utilizzando f(n)=2n-f(r)+r*
+*Gioco di calcio bilanciato se m <= phi×n, utilizzando f(n)=2n-f(r)+r*
 
 > Il professore Piraldo ha un modo peculiare di giudicare le partite di calcio (calcio) in cui vengono segnati molti gol. Un gioco con un punteggio di $m$ obiettivi a $n$ obiettivi, $m \ge n$, è chiamato \emph{balanced} quando $m \le f(n)$, e \emph{unbalanced} quando $m > f(n)$, dove $f$ è la funzione definita da $f(0) = 0$ e, per $n \ge 1$, $f(n) = 2n - f(r) + r$, dove $r$ è il più grande intero tale che $r \le n$ e $f(r) \le n$.
 > 

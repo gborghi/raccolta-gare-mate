@@ -141,7 +141,7 @@ level: CAMP Selection Camp
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Functional equation with iterate exponent b*f(a)*
+*Functional equation with iterate exponent b×f(a)*
 
 > Find all functions $f$ defined on the positive integers and taking positive integer values such that, for all positive integers $a, b$,
 > $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$
@@ -159,7 +159,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale con esponente iterato b*f(a)*
+*Equazione funzionale con esponente iterato b×f(a)*
 
 > Trova tutte le funzioni $f$ definite sui numeri interi positivi e prendi valori di numeri interi positivi in modo tale che, per tutti i numeri interi positivi $a, b$, $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$ si mantenga, dove $f^{k}(n)$ indica l'iterata moltiplicata $k$ $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$ ($f$ applicata $k$ volte).
 

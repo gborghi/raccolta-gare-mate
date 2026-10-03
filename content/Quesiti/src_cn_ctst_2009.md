@@ -65,7 +65,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande lambda(n) per la somma quadrata vs. la somma quadrata di squadre
+*Trova il più grande lambda(n) per la disuguaglianza tra somma dei quadrati e quadrato della somma*
 
 > Con un numero intero $n \geq 2$, trovare il più grande $\lambda(n)$ con la seguente proprietà: se una sequenza di numeri reali $a_0, a_1, a_2, \ldots, a_n$ soddisfa $$0 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n,$$ $$a_i \geq \frac{1}{2}(a_{i+1} + a_{i-1}), \quad i = 1, 2, \ldots, n-1,$$, allora $$\left(\sum_{i=1}^{n} a_i\right)^2 \geq \lambda(n) \sum_{i=1}^{n} a_i^2.$$
 

@@ -72,7 +72,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Coppie (a,b) con a+b=283*353 e b divide a*
+*Coppie (a,b) con a+b=283×353 e b divide a*
 
 > Due interi positivi $a$ e $b$ sono tali che la loro somma è uguale al prodotto dei due numeri primi 283 e 353. Per quali coppie $(a, b)$ si ha che $b$ divide $a$?
 
@@ -87,7 +87,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with a+b=283*353 and b divides a*
+*Pairs (a,b) with a+b=283×353 and b divides a*
 
 > Two positive integers $a$ and $b$ are such that their sum is equal to the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
 

@@ -202,7 +202,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sui reali con f * annidato
+*Equazione funzionale sui reali con f annidata*
 
 > Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che, per tutti i numeri reali $x$ e $y$, $$f\left(x^2 + xy + y^2\right) = 2x^2 f(y) + 2x f\bigl(f(y)\bigr) + f\left(-x^2 - xy^2\right) + f\left(y^2\right).$$
 

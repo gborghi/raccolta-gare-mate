@@ -69,7 +69,7 @@ level: RMO
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find all three-digit numbers (abc)_10 with (abc)_10 = (abc)_b * (acb)_b*
+*Find all three-digit numbers (abc)_10 with (abc)_10 = (abc)_b × (acb)_b*
 
 > Find all three-digit natural numbers of the form $(abc)_{10}$ such that $(abc)_{10} = (abc)_b \cdot (acb)_b$. (Here $(abc)_{10}$ is the number in base 10.)
 
@@ -83,7 +83,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri a tre cifre (abc)_10 con (abc)_10 = (abc)_b * (acb)_b*
+*Ricerca tutti i numeri a tre cifre (abc)_10 con (abc)_10 = (abc)_b × (acb)_b*
 
 > Trovare tutti i numeri naturali a tre cifre della forma $(abc)_{10}$ in modo tale che $(abc)_{10} = (abc)_b \cdot (acb)_b$. (Qui $(abc)_{10}$ è il numero nella base 10.)
 

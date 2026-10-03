@@ -35,7 +35,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-referential answer to (n-1)
+*Self-referential answer n to (n-1)(n-2)+2*
 
 > The most prestigious mathematical race for rat in the Caribbean is the Big Whoop Cup, which this year will be played on May 7, 1726. Captain Jack Disparrow, aided by his loyal friend Master Gibbs, approaches Turtle to recruit a new crew for his ship, the Pearl of Truth. To the next candidate π-rate who presents himself with the drunken air, Jack asks: If n is the answer to this question, how much does (n−1)(n−2)+2?. What will theπrate have to answer to be admitted into Jack's clutch?
 

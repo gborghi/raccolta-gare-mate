@@ -404,7 +404,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Soluzioni intere di 3i^2+2j^2=77*6^2012*
+*Soluzioni intere di 3i^2+2j^2=77·6^2012*
 
 > Il quarto esercizio di Dotto
 > (punti 40)
@@ -421,7 +421,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integressive solutions of 3i^2+2j^2=77*6^2012*
+*Integressive solutions of 3i^2+2j^2=77·6^2012*
 
 > The fourth exercise of Dotto (points 40) This time Dotto considers the equation 3i2 + 2j2 = 77 · 62012 and determines how many integer solutions (i, j) it has. How many are there?
 

@@ -69,7 +69,7 @@ level: INMO
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Set with rational a^2+bc implies a*sqrt(M) rational for all elements*
+*Set with rational a^2+bc implies a×sqrt(M) rational for all elements*
 
 > Let $A$ be a set of real numbers such that $A$ has at least four elements. Suppose $A$ has the property that $a^2 + bc$ is a rational number for all distinct numbers $a, b, c$ in $A$. Prove that there exists a positive integer $M$ such that $a\sqrt{M}$ is a rational number for every $a$ in $A$.
 
@@ -83,7 +83,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set con a^2+bc razionale implica un *sqrt(M) razionale per tutti gli elementi*
+*Set con a^2+bc razionale implica un ×sqrt(M) razionale per tutti gli elementi*
 
 > $A$ sia un insieme di numeri reali tale che $A$ abbia almeno quattro elementi. Supponiamo che $A$ abbia la proprietà che $a^2 + bc$ è un numero razionale per tutti i numeri distinti $a, b, c$ in $A$. Prova che esiste un intero positivo $M$ tale che $a\sqrt{M}$ sia un numero razionale per ogni $a$ in $A$.
 

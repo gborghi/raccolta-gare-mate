@@ -485,7 +485,7 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Resto di 4*7^23+3^11 diviso 101*
+*Resto di 4·7^23+3^11 diviso 101*
 
 > La seconda prova
 > [50]
@@ -503,7 +503,7 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of 4 *7^23+3^11 divided by 101 *
+*Remaining of 4 ·7^23+3^11 divided by 101*
 
 > The second test [50] For the competitors in the TreAngoli tournament who survived the first test, it is now time to address the second question. They must determine the remainder of the whole division between 4·723 +311 and 101. What is it?
 

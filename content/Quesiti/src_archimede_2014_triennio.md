@@ -226,7 +226,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary root value less reciprocal sums, eq. The value of the underlying assets shall be the sum of the underlying assets of the institution.
+*Value of sum of roots minus sum of reciprocals, symmetric eq.*
 
 > Knowing that the equation 2x4 + 5x3 −21x2 + 5x + 2 = 0 has 4 real solutions a, b, c, d, how much is a + b + c + d −  1 a + 1 b + 1 c + 1 d? (A) −7, (B) 21 5 , (C) 10 21, (D) 5 2, (E) 0.
 

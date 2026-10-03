@@ -65,7 +65,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni f tali che
+*Trova tutte le f con f(x^2+f(y))=y+f(x)^2*
 f(x² + f(y)) = y + f(x)²*
 
 > Sia R l'insieme di tutti i numeri reali. Determinare tutte le funzioni f : R → R tali che

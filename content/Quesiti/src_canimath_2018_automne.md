@@ -217,7 +217,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find all functions f: R*→R satisfying af(x/y)+af(x/z)−f(x)f((y+z)/2)≥a²*
+*Find all functions f: R∗→R satisfying af(x/y)+af(x/z)−f(x)f((y+z)/2)≥a²*
 
 > Let $a \in \mathbb{R}$. Find all functions $f : \mathbb{R}^* \to \mathbb{R}$ such that, for all $x, y, z \in \mathbb{R}^*$,
 > $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
@@ -232,7 +232,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni f: R *→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
+*Ricerca tutte le funzioni f: R∗→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
 
 > Let $a \in \mathbb{R}$. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
 

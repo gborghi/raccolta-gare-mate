@@ -839,7 +839,7 @@ level: OBM Nível 2
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Sequence a_{n+1}=2*(digit sum of a_n)+1, sum of terms 31 to 35*
+*Sequence a_{n+1}=2×(digit sum of a_n)+1, sum of terms 31 to 35*
 
 > Let $\{a_n\}$ be a sequence in which each term is defined as double the sum of the digits of the previous term, plus one unit. For example, if $a_n = 234$, then $a_{n+1} = 2(2 + 3 + 4) + 1$. If $a_1 = 1$, the value of $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ is equal to:
 > 
@@ -855,7 +855,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_{n+1}=2*(somma a_n) +1, somma dei termini da 31 a 35*
+*Sequenza a_{n+1}=2×(somma a_n) +1, somma dei termini da 31 a 35*
 
 > $\{a_n\}$ sia una sequenza in cui ogni termine è definito come doppio della somma dei numeri del termine precedente, più una unità. Per esempio, se $a_n = 234$, allora $a_{n+1} = 2(2 + 3 + 4) + 1$. Se $a_1 = 1$, il valore di $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ è uguale a:
 > 

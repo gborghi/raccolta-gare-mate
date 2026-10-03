@@ -26,7 +26,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -60,7 +60,7 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0104
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -76,6 +76,131 @@ level: squadre
 
 **Answer:** 0104
 [[Quesiti/src_kangourou_2021_squadre_ecolier_f#q02|src_kangourou_2021_squadre_ecolier_f__Q02]]
+
+
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Numero di labrador (tutti tranne 28, 19, 13)*
+
+> I cani
+> Federico ha un allevamento di cani in cui tiene solo tre tipi di cani: bracchi, labrador e spaniel. Attualmente tutti i cani tranne $28$ sono bracchi, tutti i cani tranne $19$ sono labrador e tutti i cani tranne $13$ sono spaniel. Quanti sono i labrador?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0011
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Number of Labradors (all except 28, 19, 13)*
+
+> The dogs
+> Federico has a dog breeding farm where he keeps only three types of dogs: pointers, labradors and spaniels. Currently all the dogs except $28$ are pointers, all the dogs except $19$ are labradors and all the dogs except $13$ are spaniels. How many labradors are there?
+
+**Answer:** 0011
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q03|src_kangourou_2021_squadre_ecolier_f__Q03]]
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Calcolatrice con uno zero in più: somma 4640 invece di 2021*
+
+> La calcolatrice
+> Per sommare due numeri, Giulio ha usato una calcolatrice. Digitando uno dei due, per errore ha aggiunto uno zero alla fine: così ha ottenuto come somma $4640$ mentre, se avesse digitato correttamente entrambi i numeri, avrebbe ottenuto $2021$. Quale era il più grande dei due numeri corretti?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 1730
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Calculator with an extra zero: sum 4640 instead of 2021*
+
+> The calculator
+> To add two numbers, Giulio used a calculator. While typing one of the two, he mistakenly added a zero at the end: so he got the sum $4640$ while, if he had typed both numbers correctly, he would have gotten $2021$. What was the larger of the two correct numbers?
+
+**Answer:** 1730
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q04|src_kangourou_2021_squadre_ecolier_f__Q04]]
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Perimetro della figura di sei rettangoli in una piastrella di area 18*
+
+![[src_kangourou_2021_squadre_ecolier_f__prob5.png]]
+
+> Piastrelle
+> Qui vedete una piastrella quadrata in cui è inserita una figura ottenuta accostando sei rettangoli di identiche dimensioni. L'area del quadrato è $18$ cm$^2$. Quanti centimetri misura il perimetro della figura inserita?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 0016
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Perimeter of the figure of six rectangles in a tile of area 18*
+
+![[src_kangourou_2021_squadre_ecolier_f__prob5.png]]
+
+> Tiles
+> Here you see a square tile in which a figure obtained by placing six rectangles of identical dimensions side by side is inserted. The area of the square is $18$ cm$^2$. How many centimeters is the perimeter of the inserted figure?
+
+**Answer:** 0016
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q05|src_kangourou_2021_squadre_ecolier_f__Q05]]
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Partite nella fase a gironi: 8 gironi da 4, andata e ritorno*
+
+> Partite
+> Nella fase a gironi della Coppa dei Campioni ci sono $8$ gironi, in ognuno dei quali giocano $4$ squadre. Ogni squadra incontra ciascuna altra squadra del suo girone due volte. Quante partite vengono giocate in tutto durante la fase a gironi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 0096
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Matches in the group stage: 8 groups of 4, home and away*
+
+> Matches
+> In the group stage of the Champions Cup there are $8$ groups, in each of which $4$ teams play. Each team meets each other team in its group twice. How many matches are played in total during the group stage?
+
+**Answer:** 0096
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q06|src_kangourou_2021_squadre_ecolier_f__Q06]]
 
 
 
@@ -95,7 +220,7 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0111
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -129,7 +254,7 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0110
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -164,7 +289,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0002
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -198,7 +323,7 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0406
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -231,7 +356,7 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0350
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -266,7 +391,7 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0006
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -299,7 +424,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -330,7 +455,7 @@ level: squadre
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0056
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -364,7 +489,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0005
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
 
 
 <div class="qlang-split" data-lang="en"></div>

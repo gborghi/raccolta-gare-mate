@@ -206,7 +206,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore a*b*b dato b/a = a,b decimale*
+*Valore a×b×b dato b/a = a,b decimale*
 
 > Due cifre 
 > Di due cifre a e b (entrambe non nulle) si sa che b/a = a,b  (a,b denota un numero non intero in 
@@ -227,7 +227,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a*b*b given that b/a = a,b decimal *
+*Value a×b×b given that b/a = a,b decimal*
 
 > Two digits Of two digits a and b (both non-zero) we know that b/a = a,b (a,b denotes a non-integer number in decimal notation). What is the value of a × b × b?
 >  

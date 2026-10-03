@@ -24,7 +24,7 @@ level: squadre
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -53,7 +53,7 @@ level: squadre
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -65,6 +65,120 @@ level: squadre
 > What is the largest integer n such that $4^{27} + 4^{1025} + 4^n$ is a perfect square?
 
 [[Quesiti/src_kangourou_2021_squadre_junior_f#q02|src_kangourou_2021_squadre_junior_f__Q02]]
+
+
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Quante frazioni ridotte N/D<1 con N+D=2021*
+
+> “Frazioni dell'anno”
+> Chiamiamo “frazione dell'anno” una frazione di interi positivi $N/D$ minore di $1$, ridotta ai minimi termini e tale che la somma $N + D$ valga $2021$. Quante sono le frazioni dell'anno?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*How many reduced fractions N/D<1 with N+D=2021*
+
+> "Fractions of the year"
+> We call "fraction of the year" a fraction of positive integers $N/D$ less than $1$, reduced to lowest terms and such that the sum $N + D$ equals $2021$. How many fractions of the year are there?
+
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q03|src_kangourou_2021_squadre_junior_f__Q03]]
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Area nera comune a due scacchiere 8×8 sovrapposte ruotate di 45°*
+
+> La scacchiera
+> Su un foglio viene disegnata una scacchiera quadrata tradizionale di $8 \times 8$ celle quadrate, ciascuna di area $\sqrt2 + 1$, a colori bianco e nero alternati. Sopra di essa viene disegnata una seconda scacchiera identica alla prima, concentrica ma ruotata di $45$ gradi. Qual è l'area della regione i cui punti erano neri nel primo disegno e rimangono neri nel secondo?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Common black area of two overlapping 8×8 chessboards rotated by 45°*
+
+> The chessboard
+> On a sheet of paper a traditional square chessboard of $8 \times 8$ square cells is drawn, each of area $\sqrt2 + 1$, with alternating white and black colors. On top of it a second chessboard identical to the first is drawn, concentric but rotated by $45$ degrees. What is the area of the region whose points were black in the first drawing and remain black in the second?
+
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q04|src_kangourou_2021_squadre_junior_f__Q04]]
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Pile di 12 gettoni (6 rossi, 3 verdi, 3 gialli) senza colori uguali a contatto*
+
+> I gettoni
+> Matteo ha $6$ gettoni rossi, $3$ gettoni verdi e $3$ gettoni gialli e gettoni dello stesso colore sono indistinguibili. Vuole costruire una pila collocandoli uno sull'altro con l'unico vincolo che gettoni dello stesso colore non siano mai a contatto. Quante diverse pile (di $12$ gettoni l'una) può formare? (Due pile si ritengono diverse se in qualche piano è diverso il colore dei gettoni ospitati.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Stacks of 12 tokens (6 red, 3 green, 3 yellow) with no equal colors touching*
+
+> The tokens
+> Matteo has $6$ red tokens, $3$ green tokens and $3$ yellow tokens, and tokens of the same color are indistinguishable. He wants to build a stack by placing them one on top of another with the only constraint that tokens of the same color are never touching. How many different stacks (of $12$ tokens each) can he form? (Two stacks are considered different if at some level the color of the tokens placed there is different.)
+
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q05|src_kangourou_2021_squadre_junior_f__Q05]]
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Primo di 25 dispari consecutivi con somma 25^3*
+
+> Dispari consecutivi
+> Il numero $25^3$ è esprimibile come somma di $25$ interi dispari consecutivi. Qual è il primo di essi?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*First of 25 consecutive odd numbers with sum 25^3*
+
+> Consecutive odd numbers
+> The number $25^3$ can be expressed as the sum of $25$ consecutive odd integers. What is the first of them?
+
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q06|src_kangourou_2021_squadre_junior_f__Q06]]
 
 
 
@@ -84,7 +198,7 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -117,7 +231,7 @@ level: squadre
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -149,7 +263,7 @@ level: squadre
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -181,7 +295,7 @@ level: squadre
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -214,7 +328,7 @@ level: squadre
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -249,7 +363,7 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -283,7 +397,7 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -314,7 +428,7 @@ level: squadre
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -348,7 +462,7 @@ level: squadre
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
 
 
 <div class="qlang-split" data-lang="en"></div>

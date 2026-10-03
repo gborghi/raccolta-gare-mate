@@ -424,7 +424,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*2014! divisibile per 2^a*19^b*
+*2014! divisibile per 2^a×19^b*
 
 > 2014!    
 > Indichiamo con 2014! il prodotto 1 × 2 × 3 × ... × 2012 × 2013 × 2014 dei primi 2014 interi positivi. 
@@ -442,7 +442,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2014! divisible by 2^a*19^b*
+*2014! divisible by 2^a×19^b*
 
 > 2014!    
 > Let 2014! denote the product 1 × 2 × 3 × ... × 2012 × 2013 × 2014 of the first 2014 positive integers. 

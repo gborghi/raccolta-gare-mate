@@ -59,7 +59,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2014° termine di sequenza in cui ogni termine è la somma di cubetti di cifre di * precedenti
+*2014º termine della successione in cui ogni termine è la somma dei cubi delle cifre del precedente*
 
 > Il primo termine di una sequenza è 2014. Ogni termine successivo è la somma dei cubi dei numeri del termine precedente. Qual è il termine $2014^{\text{th}}$ della sequenza?
 

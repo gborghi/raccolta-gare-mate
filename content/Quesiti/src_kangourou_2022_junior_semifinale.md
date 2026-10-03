@@ -732,7 +732,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer coefficient polynomials with roots 1+√2, min sum
+*Integer-coefficient polynomials with root 1+√2, minimum sum |coeff|*
 
 > (7 points) Indicate with P the set of polynomials with integer coefficients that have 1 + √2 among their roots and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) as P varies in P?
 

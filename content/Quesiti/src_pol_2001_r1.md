@@ -152,7 +152,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-switch" data-default="en"></div>
 
 
-*From a + b*sqrt(2001) = (x + y*sqrt(2001))^2000 prove a >= 44b.*
+*From a + b×sqrt(2001) = (x + y×sqrt(2001))^2000 prove a >= 44b.*
 
 > The integers $a, b, x, y$ satisfy the equality
 > $$a + b\sqrt{2001} = \left(x + y\sqrt{2001}\right)^{2000}.$$
@@ -168,7 +168,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Da un + b*sqrt(2001) = (x + y*sqrt(2001))^2000 dimostrare un >= 44b.*
+*Da un + b×sqrt(2001) = (x + y×sqrt(2001))^2000 dimostrare un >= 44b.*
 
 > I numeri interi $a, b, x, y$ soddisfano l'uguaglianza $$a + b\sqrt{2001} = \left(x + y\sqrt{2001}\right)^{2000}.$$ Prove che $a \ge 44b$.
 
@@ -293,7 +293,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-switch" data-default="en"></div>
 
 
-*n-tuple of positive integers is admissible if each k up to 2*sum has a {-2..2}-coefficient representation; find the maximum of the sum.*
+*n-tuple of positive integers is admissible if each k up to 2×sum has a {-2..2}-coefficient representation; find the maximum of the sum.*
 
 > An $n$-tuple $(c_1, c_2, \ldots, c_n)$ of positive integers is called admissible if each positive integer $k$ not exceeding $2(c_1 + c_2 + \cdots + c_n)$ can be represented in the form
 > $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$
@@ -309,7 +309,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n-tuple di integri positivi è ammissibile se ogni k fino a 2 * somma ha una rappresentazione del coefficiente {-2..2}; trovare il massimo della somma.*
+*n-tuple di integri positivi è ammissibile se ogni k fino a 2 × somma ha una rappresentazione del coefficiente {-2..2}; trovare il massimo della somma.*
 
 > Un $n$-tuple $(c_1, c_2, \ldots, c_n)$ di numeri interi positivi è ammissibile se ogni intero positivo $k$ non superiore a $2(c_1 + c_2 + \cdots + c_n)$ può essere rappresentato nella forma $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$ Per ogni $n$ si trova il valore massimo possibile di $c_1 + \cdots + c_n$ se $(c_1, \ldots, c_n)$ è ammissibile.
 

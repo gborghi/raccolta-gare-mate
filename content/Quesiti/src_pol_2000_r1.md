@@ -151,7 +151,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-switch" data-default="en"></div>
 
 
-*X inside right triangle (angle C = 90), P,Q,R projections onto BC,CA,AB; prove AR*RB = BP*PC + AQ*QC iff X on AB.*
+*X inside right triangle (angle C = 90), P,Q,R projections onto BC,CA,AB; prove AR×RB = BP×PC + AQ×QC iff X on AB.*
 
 > A point $X$ lies inside or on the boundary of the triangle $ABC$ with $\angle C = 90^\circ$. Points $P, Q, R$ are the projections of $X$ onto $BC$, $CA$, $AB$ respectively. Prove that the equality $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ holds if and only if $X$ lies on the side $AB$.
 
@@ -165,7 +165,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*X all'interno del triangolo rettangolo (angolo C = 90), proiezioni P,Q,R su BC,CA,AB; dimostrare AR*RB = BP*PC + AQ*QC se X su AB.*
+*X all'interno del triangolo rettangolo (angolo C = 90), proiezioni P,Q,R su BC,CA,AB; dimostrare AR×RB = BP×PC + AQ×QC se X su AB.*
 
 > Un punto $X$ si trova all'interno o sul confine del triangolo $ABC$ con $\angle C = 90^\circ$. I punti $P, Q, R$ sono le proiezioni di $X$ rispettivamente su $BC$, $CA$ e $AB$. Prova che l'uguaglianza $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ è valida se e solo se $X$ si trova sul lato $AB$.
 

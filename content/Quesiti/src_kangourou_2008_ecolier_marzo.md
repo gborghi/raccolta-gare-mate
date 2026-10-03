@@ -15,7 +15,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quale simbolo rende vera 1+1*1-2=100*
+*Quale simbolo rende vera 1+1∗1-2=100*
 
 > Considera l’uguaglianza 1 + 1 ∗1 – 2 = 100.
 > Quale fra i segni o le cifre che seguono devi sostituire al simbolo ∗
@@ -36,7 +36,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which symbol makes 1+1*1-2=100 true*
+*Which symbol makes 1+1∗1-2=100 true*
 
 > Consider the equality 1 + 1 ∗1 – 2 = 100.
 > Which of the following signs or digits must you substitute for the symbol ∗

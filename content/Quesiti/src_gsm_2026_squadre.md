@@ -189,7 +189,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Piu grande k con k*117 quadrato sotto 10000*
+*Piu grande k con k×117 quadrato sotto 10000*
 
 > Sia n la somma dei numeri 53 e 64. Qual è il più grande numero intero che, moltiplicato per n, produce un quadrato perfetto inferiore di 10000?
 

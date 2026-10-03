@@ -170,7 +170,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCDEF esagonale convex con angolo A+C+E=360° e (AB/BC)
+*Esagono convesso ABCDEF con angolo A+C+E=360 deg e (AB/BC)(CD/DE)(EF/FA)=1; dimostrare (AB/BF)(FD/DE)(EC/CA)=1.*
 
 > Un esagono converso $ABCDEF$ soddisfa $$\angle A + \angle C + \angle E = 360^\circ \quad \text{and} \quad \frac{AB}{BC} \cdot \frac{CD}{DE} \cdot \frac{EF}{FA} = 1.$$ Prove che $$\frac{AB}{BF} \cdot \frac{FD}{DE} \cdot \frac{EC}{CA} = 1.$$
 

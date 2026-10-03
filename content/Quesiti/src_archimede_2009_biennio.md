@@ -15,7 +15,7 @@ level: biennio
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Divisore di 3^5*4^4*5^3 tra opzioni date*
+*Divisore di 3^5·4^4·5^3 tra opzioni date*
 
 > Quale dei seguenti numeri è un divisore di 35 · 44 · 53?
 >
@@ -36,7 +36,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diverter of 3^5*4^4*5^3 between options given*
+*Diverter of 3^5·4^4·5^3 between options given*
 
 > Which of the following numbers is a divisor of 35 · 44 · 53?
 >

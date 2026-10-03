@@ -15,7 +15,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Risultato di 2004-4*200*
+*Risultato di 2004-4×200*
 
 > Qual è il risultato di   2004 −4 x 200?
 > A) 400800   B) 400000  C) 1204      D)  1200     E)  2804
@@ -1008,7 +1008,7 @@ How many kangaroos have told the truth?
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Somma a+b con a*b=10000 e non div 10*
+*Somma a+b con a×b=10000 e non div 10*
 
 > Se a e b sono numeri interi strettamente positivi, nessuno dei
 > quali è divisibile per 10 e se a x b = 10000, allora la somma a +b vale
@@ -1025,7 +1025,7 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum a+b with a*b=10000 and not divided by 10*
+*sum a+b with a×b=10000 and not divided by 10*
 
 > If a and b are strictly positive integers, none of which is divisible by 10 and if a x b = 10000, then the sum of a + b is A) 1024 B) 641 C) 1258 D) 2401 E) 1000
 

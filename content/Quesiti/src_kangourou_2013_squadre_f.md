@@ -257,7 +257,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Numero ABCD con 4*ABCD = DCBA*
+*Numero ABCD con 4×ABCD = DCBA*
 
 > Letto al contrario 
 > Qual è il numero di quattro cifre significative ABCD (dunque con la cifra A delle migliaia diversa 
@@ -274,7 +274,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABCD number with 4*ABCD = DCBA*
+*ABCD number with 4×ABCD = DCBA*
 
 > Read backwards What is the four-digit number ABCD (with the thousands digit A different from 0) such that 4 × ABCD = DCBA?
 

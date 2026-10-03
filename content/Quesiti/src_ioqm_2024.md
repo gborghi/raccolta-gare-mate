@@ -727,7 +727,7 @@ level: IOQM
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Product mn where area of pedal triangle DEF is m*sqrt(n) for isogonal point*
+*Product mn where area of pedal triangle DEF is m×sqrt(n) for isogonal point*
 
 > In a triangle $ABC$, a point $P$ in the interior of $ABC$ is such that
 > $$\angle BPC - \angle BAC = \angle CPA - \angle CBA = \angle APB - \angle ACB.$$
@@ -743,7 +743,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione mn in cui l'area del triangolo pedale DEF è m*sqrt(n) per il punto isogonale*
+*Produzione mn in cui l'area del triangolo pedale DEF è m×sqrt(n) per il punto isogonale*
 
 > In un triangolo $ABC$, un punto $P$ all'interno di $ABC$ è tale che $$\angle BPC - \angle BAC = \angle CPA - \angle CBA = \angle APB - \angle ACB.$$ supponga $\angle BAC = 30^\circ$ e $AP = 12$. Il $D, E, F$ deve essere il piede delle perpendicolari da $P$ a $BC, CA, AB$ rispettivamente. Se $m\sqrt{n}$ è l'area del triangolo $DEF$ dove $m, n$ sono numeri interi con $n$ primo, qual è il valore del prodotto $mn$?
 

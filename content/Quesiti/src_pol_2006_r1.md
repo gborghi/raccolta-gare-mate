@@ -285,7 +285,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Concave quadrilateral ABCD with interior angle at A greater than 180 and AB*CD=AD*BC; P symmetric to A wrt BD; prove angle PCB=angle ACD.*
+*Concave quadrilateral ABCD with interior angle at A greater than 180 and AB×CD=AD×BC; P symmetric to A wrt BD; prove angle PCB=angle ACD.*
 
 > In a concave quadrilateral $ABCD$ the interior angle at $A$ is greater than $180^\circ$ and $AB \cdot CD = AD \cdot BC$. Point $P$ is symmetric to $A$ with respect to $BD$. Prove that $\angle PCB = \angle ACD$.
 
@@ -299,7 +299,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale concavo con angolo interno superiore a A 180 e AB *CD=AD*BC; P simmetrico a A wrt BD; prova angolo PCB=angolo ACD.*
+*ABCD quadrilaterale concavo con angolo interno superiore a A 180 e AB ×CD=AD×BC; P simmetrico a A wrt BD; prova angolo PCB=angolo ACD.*
 
 > In un quadrilaterale concavo $ABCD$ l'angolo interno a $A$ è maggiore di $180^\circ$ e $AB \cdot CD = AD \cdot BC$. Il punto $P$ è simmetrico a $A$ rispetto a $BD$. Dimostra che $\angle PCB = \angle ACD$.
 

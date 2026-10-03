@@ -15,7 +15,7 @@ level: Concours Général
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Functional equation f(2x)=2f(x)^2-1 with f(0)=1; show f(x)=cos(x*sqrt(2a)) using trig substitution and limits.*
+*Functional equation f(2x)=2f(x)^2-1 with f(0)=1; show f(x)=cos(x×sqrt(2a)) using trig substitution and limits.*
 
 > Problem 1: Analysis. The goal of the exercise is to find the functions $f$ defined on $\mathbb{R}$, taking values in the interval $[-1,1]$, satisfying for every real $x$ the relation $f(2x) = 2f(x)^2 - 1$, such that $f(0) = 1$ and such that $\frac{1-f(x)}{x^2}$ admits a limit as $x$ tends to $0$, which will be denoted $a$. Recall that every $x$ in $[-1,1]$ can be written in a unique way as $x = \cos(\theta)$ with $\theta$ in $[0,\pi]$.
 > 
@@ -37,7 +37,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(2x)=2f(x)^2-1 con f(0)=1; mostrare f(x)=cos(x*sqrt(2a)) utilizzando la sostituzione dei trigini e i limiti.*
+*Equazione funzionale f(2x)=2f(x)^2-1 con f(0)=1; mostrare f(x)=cos(x×sqrt(2a)) utilizzando la sostituzione dei trigini e i limiti.*
 
 > Problema 1: analisi. L'obiettivo dell'esercizio è quello di trovare le funzioni $f$ definite su $\mathbb{R}$, prendendo valori nell'intervallo $[-1,1]$, soddisfacendo per ogni $x$ reale la relazione $f(2x) = 2f(x)^2 - 1$, in modo tale che $f(0) = 1$ e in modo tale che $\frac{1-f(x)}{x^2}$ ammetta un limite come $x$ tende a $0$, che sarà indicato $a$. Ricordiamo che ogni $x$ in $[-1,1]$ può essere scritto in modo unico come $x = \cos(\theta)$ con $\theta$ in $[0,\pi]$.
 > 

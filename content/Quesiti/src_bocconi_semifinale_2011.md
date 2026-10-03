@@ -306,7 +306,7 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nadia's current age from a series of family relationships.
+*Current age of Nadia from a series of family relationships.*
 
 > Desiderio, Nadia's father, is 58. Jacob (Nadia's brother) is 27 years old, while her mother, Fausta, is 22 years older than her daughter. When Desiderio is twice Jacob's age, Fausta and Nadia will be 100 years old. How old is Nadia today?
 

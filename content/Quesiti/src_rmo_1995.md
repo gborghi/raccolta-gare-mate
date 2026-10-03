@@ -140,7 +140,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ineguaglianza triangolare: a^2+b^2+c^2 > sqrt(3) max{a^2^2-b^2
+*Disuguaglianza triangolare: a^2+b^2+c^2 > sqrt(3) max{|a^2-b^2|,|b^2-c^2|,|c^2-a^2|}*
 
 > Mostrare che per qualsiasi triangolo $ABC$, la seguente disuguaglianza è vera: $$a^2 + b^2 + c^2 > \sqrt{3} \max\{|a^2 - b^2|,\, |b^2 - c^2|,\, |c^2 - a^2|\},$$ dove $a$, $b$, $c$ sono, come al solito, i lati del triangolo.
 

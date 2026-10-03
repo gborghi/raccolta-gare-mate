@@ -15,7 +15,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Prove an inequality involving sums of i*x_i and x_i^i for n nonnegative reals.*
+*Prove an inequality involving sums of i×x_i and x_i^i for n nonnegative reals.*
 
 > Prove that for all nonnegative real numbers $x_1, x_2, \ldots, x_n$ ($n \ge 2$) the following inequality holds:
 > $$\sum_{i=1}^{n} i x_i \le \binom{n}{2} + \sum_{i=1}^{n} x_i^i.$$
@@ -30,7 +30,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una disuguaglianza che coinvolge somme di i*x_i e x_i per n reali non negativi.*
+*Prove una disuguaglianza che coinvolge somme di i×x_i e x_i per n reali non negativi.*
 
 > Prove che per tutti i numeri reali non negativi $x_1, x_2, \ldots, x_n$ ($n \ge 2$) è valida la seguente disuguaglianza: $$\sum_{i=1}^{n} i x_i \le \binom{n}{2} + \sum_{i=1}^{n} x_i^i.$$
 
@@ -99,7 +99,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*If 2^n*a+b is a perfect square for all natural n, show a=0.*
+*If 2^n×a+b is a perfect square for all natural n, show a=0.*
 
 > Suppose that $a$ and $b$ are integers such that $2^n a + b$ is a perfect square for all $n \in \mathbb{N}$. Show that $a = 0$.
 
@@ -113,7 +113,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se 2^n*a+b è un quadrato perfetto per tutte le n naturali, mostrare a=0.*
+*Se 2^n×a+b è un quadrato perfetto per tutte le n naturali, mostrare a=0.*
 
 > Supponiamo che $a$ e $b$ siano integri in modo tale che $2^n a + b$ sia un quadrato perfetto per tutti $n \in \mathbb{N}$. Mostrare che $a = 0$.
 
@@ -126,7 +126,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-switch" data-default="en"></div>
 
 
-*In parallelogram ABCD, K on BC and L on CD with BK*AD=DL*AB; DK and BL meet at P. Prove angle DAP = angle BAC.*
+*In parallelogram ABCD, K on BC and L on CD with BK×AD=DL×AB; DK and BL meet at P. Prove angle DAP = angle BAC.*
 
 > Points $K$ and $L$ are taken on the sides $BC$ and $CD$ of a parallelogram $ABCD$, respectively, such that $BK \cdot AD = DL \cdot AB$. The segments $DK$ and $BL$ meet at point $P$. Prove that $\angle DAP = \angle BAC$.
 
@@ -140,7 +140,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel parallelo ABCD, K su BC e L su CD con BK*AD=DL*AB; DK e BL si incontrano a P. Indicare l'angolo DAP = angolo BAC.
+*Nel parallelogramma ABCD, K su BC e L su CD con BK×AD=DL×AB; DK e BL si incontrano in P. Dimostra che angle DAP = angle BAC.*
 
 > I punti $K$ e $L$ sono presi sui lati $BC$ e $CD$ di un parallelo $ABCD$, rispettivamente, in modo tale che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano al punto $P$. Prove che $\angle DAP = \angle BAC$.
 

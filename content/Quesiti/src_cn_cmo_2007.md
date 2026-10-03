@@ -194,7 +194,7 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la più piccola n≥9 tale che qualsiasi numero intero permetta b∈{4,7} con la somma di 9
+*Trova il più piccolo n≥9 tale che qualsiasi interi permettano b∈{4,7} con 9|somma*
 
 > Trovare il più piccolo intero positivo $n \geq 9$ che soddisfi che per qualsiasi gruppo di numeri interi $a_1, a_2, \cdots, a_n$, esiste sempre $b_1, b_2, \cdots, b_n \in \{4, 7\}$ tale che $9 \mid (a_1 b_1 + a_2 b_2 + \cdots + a_n b_n)$.
 

@@ -263,7 +263,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Prime p; sequence a_{n+1}=a_n+p*floor(p-th root of a_n); show some term is a p-th power of an integer.*
+*Prime p; sequence a_{n+1}=a_n+p×floor(p-th root of a_n); show some term is a p-th power of an integer.*
 
 > A prime number $p$ is given. A sequence of positive integers $a_1, a_2, \ldots$ satisfies the relation
 > $$a_{n+1} = a_n + p \left\lfloor \sqrt[p]{a_n} \right\rfloor \quad \text{for } n = 1, 2, 3 \ldots$$
@@ -279,7 +279,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo p; sequenza a_{n+1}=a_n+p*floor(p-th radice di a_n); mostrare qualche termine è una p-th potenza di un intero.*
+*Primo p; sequenza a_{n+1}=a_n+p×floor(p-th radice di a_n); mostrare qualche termine è una p-th potenza di un intero.*
 
 > Si dà un numero primo $p$. Una sequenza di interi positivi $a_1, a_2, \ldots$ soddisfa la relazione $$a_{n+1} = a_n + p \left\lfloor \sqrt[p]{a_n} \right\rfloor \quad \text{for } n = 1, 2, 3 \ldots$$ Mostra che c'è un termine in questa sequenza che è la potenza $p$- di un intero.
 

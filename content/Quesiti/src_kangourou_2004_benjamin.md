@@ -15,7 +15,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Riscrivere (10*100)*(20*80) come prodotto*
+*Riscrivere (10×100)×(20×80) come prodotto*
 
 > (10  x 100)  x (20 x 80) = 
 > A)  20000 x 80000       B)  2000 x 8000
@@ -33,7 +33,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rewrite (10*100) *(20*80) as a product*
+*Rewrite (10×100) ×(20×80) as a product*
 
 > (10  x 100)  x (20 x 80) = A)  20000 x 80000       B)  2000 x 8000 C)  2000 x 80000 D)  20000 x 8000 E)  2000 x 800
 
@@ -88,7 +88,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Card to be placed in the pattern (latin square)
+*Card to put in the diagram (latin square)*
 
 ![[src_kangourou_2004_benjamin__prob2.png]]
 

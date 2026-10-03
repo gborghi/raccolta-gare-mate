@@ -160,7 +160,7 @@ level: China Western Mathematical Olympiad
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Maximum of PA*PB+PC for point P on perimeter of isosceles right triangle*
+*Maximum of PA×PB+PC for point P on perimeter of isosceles right triangle*
 
 > In an isosceles right triangle $\triangle ABC$, $CA = CB = 1$, and $P$ is an arbitrary point on the perimeter of $\triangle ABC$. Find the maximum value of $PA \cdot PB + PC$.
 
@@ -177,7 +177,7 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo di PA*PB+PC per il punto P sul perimetro di triangolo rettangolare delle isosceles*
+*Massimo di PA×PB+PC per il punto P sul perimetro di triangolo rettangolare delle isosceles*
 
 > In un triangolo rettangolare di uguali dimensioni $\triangle ABC$, $CA = CB = 1$ e $P$ è un punto arbitrario sul perimetro di $\triangle ABC$. Trova il valore massimo di $PA \cdot PB + PC$.
 

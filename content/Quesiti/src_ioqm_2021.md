@@ -150,7 +150,7 @@ level: IOQM
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Positive reals x,y,z with three quadratic constraints; find p+q where expression equals p*sqrt(q)*
+*Positive reals x,y,z with three quadratic constraints; find p+q where expression equals p×sqrt(q)*
 
 > Let $x, y, z$ be positive real numbers such that $x^2 + y^2 + z^2 = 49$, $xy + yz + zx = 36$ and $x^2 + \sqrt{3}xy + z^2 = 25$. If the value of $2xy + \sqrt{3}yz + sx$ can be written as $p\sqrt{q}$ where $p, q$ are integers and $q$ is not divisible by any prime number, find $p + q$.
 
@@ -164,7 +164,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi x,y,z con tre restrizioni quadratiche; trovare p+q dove l'espressione è uguale a p*sqrt(q)*
+*Reali positivi x,y,z con tre restrizioni quadratiche; trovare p+q dove l'espressione è uguale a p×sqrt(q)*
 
 > $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 49$, $xy + yz + zx = 36$ e $x^2 + \sqrt{3}xy + z^2 = 25$. Se il valore di $2xy + \sqrt{3}yz + sx$ può essere scritto come $p\sqrt{q}$ dove $p, q$ sono numeri interi e $q$ non è divisibile da un numero primo, trovare $p + q$.
 

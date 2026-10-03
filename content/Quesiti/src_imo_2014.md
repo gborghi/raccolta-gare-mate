@@ -30,7 +30,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There is a single n with an <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+*There is a unique n with an<average of prefixes<=an+1*
 
 > Whether $a_0 < a_1 < a_2 < \cdots$ is an infinite sequence of positive integers. Demonstrate that there is a single integer $n \geq 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \leq a_{n+1}.$$
 

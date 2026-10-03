@@ -263,7 +263,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*valore di (12*7)+17*
+*valore di (12•7)+17*
 
 > Calcolo alieno
 > I seguaci del Grande Cthulhu per essere pronti al Caos dell’Ultimo Giorno hanno completamente cambiato le usuali regole di
@@ -283,7 +283,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value of (12*7) + 17*
+*value of (12•7) + 17*
 
 > The followers of the Great Cthulhu to be ready for the Chaos of the Last Day completely changed the usual rules of calculation on natural numbers. The addition has been replaced by an operation denoted by tale which for each a,b ∈N, has ab = a+b+1, whereas, instead of multiplication, an operation has been adopted, denoted by •, such that 0•0 = 1, and that for each a,b,c ∈N, has a•b = b•a and also that a•bc) = (a•b)(a•c). According to the Necronomicon, only 12•7)17 days remain until Cthulhu wakes up: how many days would that be?
 

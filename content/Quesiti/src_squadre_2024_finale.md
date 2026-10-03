@@ -247,7 +247,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-switch" data-default="it"></div>
 
 
-*1000*BC con circonferenza per D,E,S tangente a BC*
+*1000×BC con circonferenza per D,E,S tangente a BC*
 
 > Sbirciando problemi
 > Vennma arriva vicino alla piscina per incontrare Fredmath, ma si distrae notando che ci sono un po’ di persone che
@@ -266,7 +266,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*1000*BC with circumference for D,E,S tangent to BC*
+*1000×BC with circumference for D,E,S tangent to BC*
 
 > Looking for trouble, Vennma arrives near the pool to meet Fredmath, but is distracted by noticing that there are a few people chatting about the drain. He can peek at a sheet where he reads: Given ABC a triangle with AB = 1 and AC = 2, both Γ its circumscribed circumference, of center O. The intersections of height from A and AO extension with Γ are D and S respectively. In addition, AO intersects the BC straight into E. Knowing that the circumference passing through D,E,S is the straight line BC, determine 1000 BC". Vennma approaches the group and exclaims "Beh, but it's easy, the
 
@@ -558,7 +558,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spectre of the polynomial (x-2)
+*Spectrum of the polynomial (x-2)(x+2)(x^2+x+1)(x^2-x+1)*
 
 > Vennma thinks: BarbaAlberta is hiding something: I can't have seen World War I planes fly over us. Then check with Dafnne undercover until you find the combination lock in BarbaAlberta's cabin, bearing the inscription the spectrum of (x−2)(x+2)(x2 +x+1)(x2 −x+1). Heat, the spectrum of a polynomial with integer coefficients for a ghost pirate! exclaims Dafnne. Vennma reflects: I am sure that the spectrum is an integer number and, adding up the spectra of all polynomials of a polynomial p, you get exactly the value of the polynomial p calculated in its degree! Then Dafnne points out: Certainly! And the polynomials that are children of p(x) are those that have whole coefficients that divide the polynomial and whose degree divides the degree of p(x). Surprisingly, each monic polynomial is a child of its own. What is the combination of the BarbaAlberta cabin lock?
 

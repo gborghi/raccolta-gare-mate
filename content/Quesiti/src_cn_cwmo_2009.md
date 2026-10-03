@@ -232,7 +232,7 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare la lambda più piccola con il limite.
+*Trova il più piccolo lambda(n) che limita |a_k| in termini di max(|a_1|,|a_n|)*
 
 > $a_1, a_2, \ldots, a_n$ ($n \geq 3$) siano numeri reali che soddisfino $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$, in modo che per qualsiasi $k \in \{1, 2, \ldots, n\}$ si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
 

@@ -561,7 +561,7 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of whole solutions of ∆x ∆+2 ∆y ∆=4022
+*Number of integer solutions of |x|+2|y|=4022*
 
 > Another adventure is over and the village is unmistakably gathering for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions of the equation x x x + 2 y = 4022. How many pigs were needed?
 > 

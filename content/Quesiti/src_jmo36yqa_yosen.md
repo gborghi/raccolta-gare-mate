@@ -365,7 +365,7 @@ level: JMO Yosen
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find minimum z for positive integers x,y,z with x^y*y^z=2^{20x+20y} and y/20 integer, z/20 not*
+*Find minimum z for positive integers x,y,z with x^y×y^z=2^{20x+20y} and y/20 integer, z/20 not*
 
 > Let $x$, $y$, $z$ be positive integers satisfying $x^y \cdot y^z = 2^{20x + 20y}$. Given that $\dfrac{y}{20}$ is an integer and $\dfrac{z}{20}$ is not an integer, find the minimum possible value of $z$.
 
@@ -380,7 +380,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo z per gli integri positivi x,y,z con x^y*y^z=2^{20x+20y} e y/20 integri, z/20 non*
+*Ricerca il minimo z per gli integri positivi x,y,z con x^y×y^z=2^{20x+20y} e y/20 integri, z/20 non*
 
 > Lasciate che $x$, $y$, $z$ siano integri positivi che soddisfino $x^y \cdot y^z = 2^{20x + 20y}$. Dato che $\dfrac{y}{20}$ è un numero intero e $\dfrac{z}{20}$ non è un numero intero, trovare il valore minimo possibile di $z$.
 

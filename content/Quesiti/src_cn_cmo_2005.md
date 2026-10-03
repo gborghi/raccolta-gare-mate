@@ -169,7 +169,7 @@ level: China Mathematical Olympiad
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find all non-negative integer solutions of 2^x - 3^y*5^z*7^w = 1*
+*Find all non-negative integer solutions of 2^x - 3^y×5^z×7^w = 1*
 
 > Find all non-negative integer solutions $(x, y, z, w)$ of the following equation
 > $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$
@@ -186,7 +186,7 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali non negative di 2^x - 3^y*5^z*7^w = 1*
+*Ricerca tutte le soluzioni integrali non negative di 2^x - 3^y×5^z×7^w = 1*
 
 > Trovare tutte le soluzioni di numeri interi non negativi $(x, y, z, w)$ della seguente equazione $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$ (Posizionato da Chen Yonggao)
 

@@ -362,7 +362,7 @@ Time for the last km with km on the fastest route
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quadrati perfetti di almeno tre cifre fino a 2010*2011*
+*Quadrati perfetti di almeno tre cifre fino a 2010·2011*
 
 > Quanti sono i quadrati perfetti di almeno tre cifre, minori o uguali di 2010 · 2011?
 >
@@ -383,7 +383,7 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares of at least three digits until 2010*2011*
+*Perfect squares of at least three digits until 2010·2011*
 
 > How many perfect squares of at least three digits less than or equal to 2010 · 2011?
 >

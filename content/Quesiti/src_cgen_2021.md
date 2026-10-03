@@ -60,7 +60,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Peter's Weights: per una sequenza finita di n reals si definisce il suo peso come il più grande dei valori del tipo di somma parziale assoluta.
+*Piccoli pesi: per una successione finita di n numeri reali si definisce il suo peso come il più grande dei valori di tipo somma parziale assoluta |x_1|,|x_1+x_2|,...,|x_1+...+x_n|; Isabelle minimizza il peso su tutti gli ordinamenti (valore I), Clara usa un algoritmo greedy (valore C); confronta I e C.*
 
 > Problemi 1: "Peteits weights" (piccoli pesi). Per ogni numero intero $n$ maggiore o uguale a $2$ e per ogni sequenza finita di $n$ reale $(x_1,x_2,\ldots,x_n)$, si chiama peso della sequenza il più grande dei valori $|x_1|,|x_1+x_2|,\ldots,|x_1+x_2+\cdots+x_n|$. Per esempio, per $n=4$ e $(x_1,x_2,x_3,x_4)=(4,4,0,-9)$, il peso della sequenza è uguale a $8$, perché $|x_1|=4$, $|x_1+x_2|=8$, $|x_1+x_2+x_3|=8$ e $|x_1+x_2+x_3+x_4|=1$. Per $(x_1,x_2,x_3,x_4)=(-9,4,0,4)$, il peso è uguale a $9$, perché $|x_1|=9$, $|x_1+x_2|=5$, $|x_1+x_2+x_3|=5$ e $|x_1+x_2+x_3+x_4|=1$. Si nota che le due sequenze finite di cui sopra sono formate dai medesimi numeri in un ordine diverso e che hanno pesi diversi.
 > 

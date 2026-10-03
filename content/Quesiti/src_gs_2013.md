@@ -558,7 +558,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Minimo prodotto p*q di primi con tre condizioni di primalita*
+*Minimo prodotto p×q di primi con tre condizioni di primalita*
 
 > Calcoli alla Barriera, V
 > (punti 50)
@@ -575,7 +575,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product p *q of prime with three conditions of prime*
+*Minimum product p ×q of prime with three conditions of prime*
 
 > Calculations at the Barrier, V (points 50) Near the Barrier, it's cold and nothing happens. To warm up, the Night's Watchers complicate the calculations. For example, Edd lAddolorato writes all possible pairs (p, q) of prime numbers (then greater than 1) such that
 

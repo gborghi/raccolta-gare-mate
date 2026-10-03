@@ -159,7 +159,7 @@ level: kangourou
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Terzo di cinque numeri consecutivi con somma 10*2018*
+*Terzo di cinque numeri consecutivi con somma 10×2018*
 
 > La somma di cinque numeri consecutivi è 102018. Qual è il terzo dei cinque numeri?
 > A) 102013	 	
@@ -178,7 +178,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third of five consecutive numbers with the sum of 10*2018*
+*Third of five consecutive numbers with the sum of 10×2018*
 
 > The sum of five consecutive numbers is 102018. What's the third of the five numbers? A) 102013 B) 52017 C) 102017 D) 22018 E) 2 × 102017
 
@@ -892,7 +892,7 @@ How many trains to or from Z between 40 trains and 5 cities
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Numero di cifre del risultato 10^2018*(10^2018-1)/9*
+*Numero di cifre del risultato 10^2018×(10^2018-1)/9*
 
 > Determina quante cifre ha il risultato dell’operazione 102018 × (102018 - 1) × 1/9. 
 > A) 2017	  	

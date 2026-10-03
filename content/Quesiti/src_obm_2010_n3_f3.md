@@ -31,7 +31,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano f(a+b)=f(ab) per a,b* irrazionale
+*Trova tutte le funzioni reali che soddisfano f(a+b)=f(ab) per a,b irrazionali*
 
 > Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo tale che $$f(a+b)=f(ab)$$ per tutte le $a,b$ irrazionali.
 

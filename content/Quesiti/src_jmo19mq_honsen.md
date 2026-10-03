@@ -75,7 +75,7 @@ level: JMO Honsen
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Find all triples (n1,n2,n3) of positive integers with b1*b2=b3*
+*Find all triples (n1,n2,n3) of positive integers with b1×b2=b3*
 
 > Let $k \ge 2$ be an integer, let $n_1, n_2, n_3$ be positive integers, and let $a_1, a_2, a_3$ be integers each satisfying $1 \le a_i \le k-1$. Define
 > $$b_i = a_i \sum_{j=0}^{n_i} k^j \quad (i = 1, 2, 3).$$
@@ -91,7 +91,7 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i triples (n1,n2,n3) di numeri interi positivi con b1*b2=b3*
+*Ricerca tutti i triples (n1,n2,n3) di numeri interi positivi con b1×b2=b3*
 
 > Che $k \ge 2$ sia un intero, che $n_1, n_2, n_3$ sia un intero positivo e che $a_1, a_2, a_3$ sia un intero che soddisfa $1 \le a_i \le k-1$. Definire $$b_i = a_i \sum_{j=0}^{n_i} k^j \quad (i = 1, 2, 3).$$ Trovare tutti i triples $(n_1, n_2, n_3)$ in modo tale che $b_1 b_2 = b_3$.
 

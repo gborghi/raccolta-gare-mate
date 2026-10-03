@@ -63,7 +63,7 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali concomitanti in esagono converso con lati e angoli uguali
+*Diagonali concorrenti in un esagono convesso con lati uguali e somma degli angoli*
 
 > In un esagono converso $ABCDEF$ tutti i lati hanno la stessa lunghezza e $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$ Prove che le diagonali $AD$, $BE$ e $CF$ sono simultanee.
 

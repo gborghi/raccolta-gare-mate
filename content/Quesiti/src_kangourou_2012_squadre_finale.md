@@ -80,7 +80,7 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Numero di cifre di 8^5 * 5^17 * 7^3*
+*Numero di cifre di 8^5 × 5^17 × 7^3*
 
 > La moltiplicazione 
 > Da quante cifre è formato il numero 85 × 517 × 73?
@@ -96,7 +96,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits of 8^5 * 5^17 * 7^3 *
+*Number of digits of 8^5 × 5^17 × 7^3*
 
 > Multiplication How many digits does the number 8^5 × 5^17 × 7^3 have?
 
@@ -300,7 +300,7 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Valore prodotto (2012-0)*...*(0-2012)*
+*Valore prodotto (2012-0)×...×(0-2012)*
 
 > Quanti fattori! 
 > Trovate il valore del seguente prodotto 
@@ -316,7 +316,7 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the product (2012-0)*...*(0-2012)*
+*Value of the product (2012-0)×...×(0-2012)*
 
 > So many factors!
 > Find the value of the following product

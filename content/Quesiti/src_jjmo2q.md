@@ -15,7 +15,7 @@ level: JJMO
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Evaluate 103*103 minus 97*97*
+*Evaluate 103×103 minus 97×97*
 
 > Find the value of
 > $$103 \times 103 - 97 \times 97.$$
@@ -30,7 +30,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare 103*103 meno 97*97*
+*Evaluare 103×103 meno 97×97*
 
 > Trova il valore di $$103 \times 103 - 97 \times 97.$$
 
@@ -292,7 +292,7 @@ level: JJMO
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Fill-in dialogue: triples and the operation a*b mod 10*
+*Fill-in dialogue: triples and the operation a∗b mod 10*
 
 > Fill in the blanks $\boxed{\text{(a)}}$ through $\boxed{\text{(h)}}$. Here, each of $\boxed{\text{(a)}}$ and $\boxed{\text{(b)}}$ is a triple of integers; $\boxed{\text{(c)}}$ and $\boxed{\text{(d)}}$ are single-digit positive integers; $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(h)}}$ are nonnegative integers; and $\boxed{\text{(g)}}$ is several integers.
 > 
@@ -326,7 +326,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dialogo di riempimento: triples e l'operazione a*b mod 10*
+*Dialogo di riempimento: triples e l'operazione a∗b mod 10*
 
 > Riempire i vuoti $\boxed{\text{(a)}}$ fino a $\boxed{\text{(h)}}$. Qui, ciascuno di $\boxed{\text{(a)}}$ e $\boxed{\text{(b)}}$ è un triplo di interi; $\boxed{\text{(c)}}$ e $\boxed{\text{(d)}}$ sono interi positivi a una cifra; $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(h)}}$ sono interi non negativi; e $\boxed{\text{(g)}}$ sono diversi interi.
 > 

@@ -312,7 +312,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-switch" data-default="en"></div>
 
 
-*Integer n such that n*2^n has 2008 more divisors than n; find digit sum of n*
+*Integer n such that n×2^n has 2008 more divisors than n; find digit sum of n*
 
 > The integer $n$ is such that $n \cdot 2^n$ has $2008$ more divisors than $n$. The sum of the digits of $n$ is equal to:
 > 
@@ -328,7 +328,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra n tale che n*2^n abbia 2008 più divisori di n; trovare la somma di n*
+*Integra n tale che n×2^n abbia 2008 più divisori di n; trovare la somma di n*
 
 > Il numero intero $n$ è tale che $n \cdot 2^n$ ha $2008$ più divisori di $n$. La somma delle cifre di $n$ è uguale a:
 > 

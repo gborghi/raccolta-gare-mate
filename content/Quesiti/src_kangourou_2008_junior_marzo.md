@@ -613,7 +613,7 @@ Sum of age of three older cousins
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Quante cifre 9 nel prodotto 99*n*
+*Quante cifre 9 nel prodotto 99×n*
 
 > Sia n il numero intero 999…999, dove compare solo la cifra “9” per 2008
 > volte. Quante volte compare la cifra “9” nel prodotto 99 n?
@@ -633,7 +633,7 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 9 in product 99*n*
+*How many digits 9 in product 99×n*
 
 > Let n be the whole number 999...999, where only the digit 9 appears for 2008 times. How many times does the digit 9 appear in product 99 n? A) 2007 B) 2006 C) 2008 D) 2 E) 1
 

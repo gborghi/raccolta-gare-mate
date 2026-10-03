@@ -185,7 +185,7 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parabola y^2=2px, tangente attraverso P incontra l'asse y a Q; dato che \\\displaystyle \\\mathbb {\\displaystyle \mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb}}}} }
+*Parabola y^2=2px, la tangente passante per P incontra l'asse y in Q; dati |FP|=2,|FQ|=1 trova OP·OQ.*
 
 > [Paper di prova A, problema 6] In un sistema di coordinate rettangolare piatto $xOy$, il focus della parabola $\Gamma:y^2=2px\ (p>0)$ è $F$. Fare una linea tangente a $\Gamma$ che attraversa il punto $P$ (diverso da $O$) su $\Gamma$ e che incroci l'asse $y$ al punto $Q$. Se $|FP|=2$, $|FQ|=1$, allora il prodotto di punti dei vettori $\overrightarrow{OP}$ e $\overrightarrow{OQ}$ è ______.
 
@@ -1318,7 +1318,7 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-10: Γ grafico di y = 1/ da fare; P nel primo quadrante, Q nel secondo quadrante, PQ tangente a parte di Γ nel secondo quadrante a Q; min di \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+*B-10: grafico Γ di y=1/|x|; P nel primo quadrante, Q nel secondo quadrante, PQ tangente alla parte di Γ nel secondo quadrante in Q; min di |PQ|.*
 
 > [Test Paper B, Problem 10] (20 marks) In un sistema di coordinate rettangolare piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. I punti $P,Q$ su $\Gamma$ devono soddisfare: $P$ è nel primo quadrante, $Q$ è nel secondo quadrante e la linea $PQ$ è tangente alla parte di $\Gamma$ nel secondo quadrante al punto $Q$. Trova il minimo di $|PQ|$.
 

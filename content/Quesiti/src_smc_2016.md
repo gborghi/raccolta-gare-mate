@@ -377,7 +377,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un quadrato ha vertici a (0,0),(1,0),(1,1),(0,1). Quanti dei cinque grafici elencati attraversano esattamente due vertici del quadrato?
+*Un quadrato ha i vertici in (0,0),(1,0),(1,1),(0,1). Quanti dei cinque grafici elencati passano esattamente per due vertici del quadrato?*
 
 > Un quadrato ha vertici $(0,0)$, $(1,0)$, $(1,1)$ e $(0,1)$. I grafici delle seguenti equazioni sono disegnati sullo stesso insieme di assi come il quadrato: $x^2 + y^2 = 1$, $y = x + 1$, $y = -x^2 + 1$, $y = x$, $y = \dfrac{1}{x}$. Quanti dei grafici passano esattamente attraverso due vertici del quadrato?
 >

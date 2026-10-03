@@ -144,7 +144,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Frazioni m/n ridotte con 0<m/n<1 e m*n=20!*
+*Frazioni m/n ridotte con 0<m/n<1 e m·n=20!*
 
 > Distrazioni
 > Henri e Smale Perelman, i due fratelli più grandi di Ron, raramente seguono le lezioni e piuttosto si dedicano
@@ -163,7 +163,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduced fractions m/n with 0<m/n<1 and m*n=20!*
+*Reduced fractions m/n with 0<m/n<1 and m·n=20!*
 
 > Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and hence m·n = 20!.
 

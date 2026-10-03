@@ -10,6 +10,72 @@ level: kangourou
 
 
 
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_probabilita,skill_stima"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Stima dei coriandoli nel sacchetto con cattura e ricattura*
+
+> Hai un sacchetto di coriandoli e vorresti sapere quanti sono, almeno approssimativamente. Pensi di usare la seguente strategia:
+>
+> - ne estrai $50$ e li contraddistingui con un segno, quindi li rimetti nel sacchetto e mescoli tutti i coriandoli in modo che quelli che hai contrassegnato si possano distribuire uniformemente all'interno del sacchetto;
+> - ne estrai quindi $70$ a caso e scopri che, fra questi $70$, solo due sono stati contrassegnati da te.
+>
+> Sulla base di questo esperimento, qual è un numero attendibile per i coriandoli contenuti nel sacchetto?
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** 1750
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Estimating the confetti in the bag using capture and recapture*
+
+> You have a bag of confetti and you would like to know how many there are, at least approximately. You think of using the following strategy:
+>
+> - you take out $50$ and mark them with a sign, then put them back in the bag and mix all the confetti so that the ones you marked can distribute uniformly inside the bag;
+> - you then randomly take out $70$ and find that, among these $70$, only two were marked by you.
+>
+> Based on this experiment, what is a reliable number for the confetti contained in the bag?
+
+**Answer:** 1750
+[[Quesiti/src_kangourou_2021_junior_finale#q01|src_kangourou_2021_junior_finale__Q01]]
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Rapporto dei volumi di due sfere che appaiono uguali a distanze 1:100*
+
+> Osservando da lontano due sfere di raggi diversi, esse ti appaiono della stessa grandezza (come, ad esempio, potrebbe accadere per il sole e per la luna). Tuttavia, la distanza della più grande da te è $100$ volte la distanza della più piccola (assumi che le distanze siano stimate tra te e i centri delle sfere). Quanto vale il rapporto fra il volume della più grande e il volume della più piccola?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+**Risposta:** 1.000.000
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Ratio of the volumes of two spheres that appear equal at distances 1:100*
+
+> Observing two spheres of different radii from a distance, they appear to you to be the same size (as, for example, could happen with the sun and the moon). However, the distance of the larger one from you is $100$ times the distance of the smaller one (assume that the distances are measured between you and the centers of the spheres). What is the ratio between the volume of the larger one and the volume of the smaller one?
+
+**Answer:** 1,000,000
+[[Quesiti/src_kangourou_2021_junior_finale#q02|src_kangourou_2021_junior_finale__Q02]]
+
+
+
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_estremalita,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>

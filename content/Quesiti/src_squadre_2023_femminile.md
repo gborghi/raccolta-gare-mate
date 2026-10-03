@@ -505,7 +505,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Coppie ordinate (a,b) in 1-2023 con mcm=7*MCD*
+*Coppie ordinate (a,b) in 1-2023 con mcm=7×MCD*
 
 > Un minion davvero mignon
 > Kelvin sta portando il raggio restringente nel locale di sicurezza, che è una stanza con le pareti a specchio. La
@@ -529,7 +529,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs ordered (a,b) in 1-2023 with mcm=7*MCD*
+*Pairs ordered (a,b) in 1-2023 with mcm=7×MCD*
 
 > A really cute little Kelvin is taking the restrictive beam into the security room, which is a room with mirrored walls. The layout of the room is such an ABCD quadrilateral ! ABC is 90°! CDA = 90°, BCD = 36°, BC = 2,8m and BD = 1,8m. Kelvin is in the A-top and playing with the restricting beam accidentally shoots by pointing at the BC side, parallel to the floor and the beam, after hitting once the BC wall and once the CD wall, returns to the A-point, closing a triangular path and narrowing the failed Kelvin. What is the total length of the radius in cm?
 

@@ -29,7 +29,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte coppie (m,n) con m
+*Infiniti coppie (m,n) con m|n²+1 e n|m²+1?*
 
 > Esistono infinite coppie di integri positivi $(m, n)$ in modo tale che sia $m$ divida $n^2 + 1$ che $n$ divida $m^2 + 1$?
 
