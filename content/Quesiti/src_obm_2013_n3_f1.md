@@ -29,7 +29,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'anno successivo dopo il 2013 i cui numeri sono di nuovo 0,1,2,3 in qualche ordine*
@@ -61,7 +61,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Acquisto di un computer oggi rispetto a dopo un aumento del prezzo del 5% e uno sconto del 5%*
@@ -93,7 +93,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regola di divisibilità errata per 7 (somma a numeri): frequenza corretta per i moltipli di 7 sotto 100*
@@ -124,7 +124,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra 1..n con un dato conteggio di multipli di 5 e 6, multipli massimi di 7*
@@ -155,7 +155,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserimento di colonna di boustropedone del 1..2013; colonna 2 contiene 50, colonna 4 contiene 100, trova colonna di 1000*
@@ -187,7 +187,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di (a+b)^2/(ab) data (a+2b)/b = (a+b)/a*
@@ -219,7 +219,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto a A; D punto medio di AC; BD=3DC, AC=2; ritrovare l'ipotenusa*
@@ -259,7 +259,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo di numeri interi dispari in righe di lunghezza crescente; che riga contiene 2013*
@@ -296,7 +296,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di modi per scegliere tre bordi di sciacquatura in coppia di un cubo*
@@ -329,7 +329,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca x+y dato x^3+y^3=9 e x^2y + x y^2 = 6*
@@ -361,7 +361,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo di triangoli equilaterali tra cinque punti coplanari*
@@ -393,7 +393,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo attraverso A..E, diametro AB perpendicolare al CD dell'accordo, angolo BCE=35; angolo DAE*
@@ -429,7 +429,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Billiard: velocità minima per la palla di Jade per incontrare un colpo di palla a 60 km/h, 30 gradi, palle a 50 cm di distanza *
@@ -468,7 +468,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Almeno n in modo che la composizione a n volte di f sia uguale all'identità su S={1..9}*
@@ -504,7 +504,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità che f ((k), la potenza perfetta più grande non superiore a k, sia un quadrato perfetto*
@@ -537,7 +537,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Catenata in zigzag di segmenti uguali tra due linee attraverso A; angolo B1AB2=1 grado, massimo n*
@@ -570,7 +570,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Corsa delle pulci: salti di m e n cm (m<n) che si incontrano per primo a 1 m; conteggio di coppie (m,n) *
@@ -601,7 +601,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scatola con un numero diverso di palle bianche
@@ -632,7 +632,7 @@ Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero più vicino al numero di cifre di 3^400*
@@ -665,7 +665,7 @@ Numero più vicino al numero di cifre di 3^400*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi k<2013 con numeri interi a,b,c che soddisfano a^2+b+c=b^2+c+a=c^2+a+b=k*
@@ -695,7 +695,7 @@ Numero più vicino al numero di cifre di 3^400*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * Trapezoide ABCD, AB di direzione BAD=74, angolo B82, ABC=P su CD con AD+DP=PC+CB=AB; trovare angolo APB*
@@ -726,7 +726,7 @@ Numero più vicino al numero di cifre di 3^400*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 4 cifre con cifre distinte evitando 1 in unità, 2 in decine, 3 in centinaia, 4 in migliaia*
@@ -758,7 +758,7 @@ Numero più vicino al numero di cifre di 3^400*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova y dove x,y sono interi positivi e x(x+2+4+6+...+4024)=2013^y*
@@ -791,7 +791,7 @@ Numero più vicino al numero di cifre di 3^400*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maxime soluzioni reali di p(x)=k per un polinomio pari con coefficienti non negativi*
@@ -824,7 +824,7 @@ Numero più vicino al numero di cifre di 3^400*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume del cubo formato da otto vertici di un dodedeedro regolare di bordo 1*

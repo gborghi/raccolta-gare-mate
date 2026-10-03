@@ -33,7 +33,7 @@ level: nazionale
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total 10 areas of triangular intersections (p+q) *
@@ -70,7 +70,7 @@ level: nazionale
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lay circle in the lock (area = r*perim/2) *
@@ -105,7 +105,7 @@ level: nazionale
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of 1/3 (power) *
@@ -141,7 +141,7 @@ level: nazionale
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term sum <=25 not covered by two to two*
@@ -177,7 +177,7 @@ level: nazionale
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seconds for meeting on circumference (marathon) *
@@ -217,7 +217,7 @@ level: nazionale
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume region closest to the white fan (cube) *
@@ -252,7 +252,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flat height of the 3 high points (4 tangent spheres) *
@@ -286,7 +286,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple concatenated numbers of 11*
@@ -331,7 +331,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABCD product (nested radicals) *
@@ -366,7 +366,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different angles of a triangle (rectangles) *
@@ -400,7 +400,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nine number product (system) *
@@ -434,7 +434,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year with the same figures in 2013 factoring*
@@ -469,7 +469,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of Stregauss sending from the Leper (5 dice, p+q)
@@ -503,7 +503,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sit at the table (head restraints) *
@@ -539,7 +539,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Days in a year (holidays other than birthdays) *
@@ -579,7 +579,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now when the sum Ghiro exceeds 2012/2013*
@@ -616,7 +616,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flowers lost for each rose (icosahedron+race) *
@@ -650,7 +650,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Days since its foundation (periodic meetings, 487 openings) *
@@ -690,7 +690,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min decapitations d(2013) with d polynomial *
@@ -725,7 +725,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum 2^a 3^b with a+b in 0.9. (last 4 digits) *
@@ -759,7 +759,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of (a*b) *(c*d) with x*y=x+y-xy*
@@ -796,7 +796,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate prime numbers dividing m (winning mixtures) *
@@ -830,7 +830,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *M+m true witnesses at the round table (implication) *
@@ -872,7 +872,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Growth modes in 6 steps (multiple chain, 12!)*

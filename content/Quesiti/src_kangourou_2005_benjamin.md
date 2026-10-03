@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the securities issued by the issuer.
@@ -66,7 +66,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number is not a multiple of 3*
@@ -104,7 +104,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum kangaroo movements 2 per row and column*
@@ -141,7 +141,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Female name initials*
@@ -178,7 +178,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form length of path on cubic surface*
@@ -219,7 +219,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2005% of 200* calculated
@@ -256,7 +256,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of chocolates divided by remainder 8*
@@ -293,7 +293,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple common library shelves*
@@ -330,7 +330,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Liter of water to be added per syrup ratio*
@@ -368,7 +368,7 @@ This is the total value of the securities issued by the issuer.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who's definitely involved in the theft?
@@ -436,7 +436,7 @@ Who's definitely involved in the theft?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area partly grown as vegetables in the garden*
@@ -491,7 +491,7 @@ Who's definitely involved in the theft?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum locks to be opened for 50 coins
@@ -531,7 +531,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which rectangle is in position I*
@@ -567,7 +567,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of five consecutive integers summed 2005*
@@ -600,7 +600,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which cube allows the given development*
@@ -673,7 +673,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum banknote sequence for €585*
@@ -714,7 +714,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of shaded areas of five circles*
@@ -757,7 +757,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of dividers of 100*
@@ -798,7 +798,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lightness of the road by perimeter difference*
@@ -864,7 +864,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between number of triangles and squares*
@@ -922,7 +922,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of digits less than 208359*
@@ -960,7 +960,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many hours a day the sign is true*
@@ -996,7 +996,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of handshakes between 12 adjacent students*
@@ -1032,7 +1032,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region shaded by equilateral triangles*
@@ -1069,7 +1069,7 @@ Minimum locks to be opened for 50 coins
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many of the seven dwarfs lie
@@ -1103,7 +1103,7 @@ How many of the seven dwarfs lie
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Months beginning and ending on the same day of the week*
@@ -1150,7 +1150,7 @@ How many of the seven dwarfs lie
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Readable in the mirror on the digital clock*
@@ -1193,7 +1193,7 @@ How many of the seven dwarfs lie
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rearrange plantations at mountain level curves*
@@ -1231,7 +1231,7 @@ How many of the seven dwarfs lie
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sitting at the right end of the bench*
@@ -1273,7 +1273,7 @@ How many of the seven dwarfs lie
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure requiring a segment to be passed (Euler) *

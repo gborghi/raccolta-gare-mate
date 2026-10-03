@@ -33,7 +33,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
@@ -75,7 +75,7 @@ Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di lunghezza in g/cm.*
@@ -120,7 +120,7 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque enti 2,5,6,9,14 riordinati in modo che la somma delle prime tre è uguale alla somma delle ultime tre; trova il numero medio.*
@@ -163,7 +163,7 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Qual'espressione è uguale 2017 - 1/2017?*
@@ -205,7 +205,7 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce di distanza. Quanti chilometri circa è lontana la galassia?
@@ -252,7 +252,7 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli in un diagramma collegato da segmenti di linea; trovare il numero minimo di colori necessari in modo che due cerchi adiacenti non condividano un colore.*
@@ -299,7 +299,7 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova k tale che sqrt(2)+sqrt(8)+sqrt(18)=sqrt(k).*
@@ -341,7 +341,7 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
@@ -386,7 +386,7 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un rettangolo n×(n+1) è cartigliato da rettangoli k×(k+1) per k=1 a 8; trovare n.*
@@ -436,7 +436,7 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso in tre rettangoli più piccoli congruenti, ciascuno simile a quello grande; trovare il rapporto di lato più lungo a lato più breve.*
@@ -488,7 +488,7 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; somma = 8 volte la differenza. Indicare l'età di persona più anziana.*
@@ -538,7 +538,7 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il quadrato e il decagono regolare condividono un bordo; un lato del quadrato esteso incontra il bordo esteso del decagono; trovare angolo x.*
@@ -591,7 +591,7 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente uno è colpevole e gli altri tre dicono la verità. Chi è colpevole?
@@ -643,7 +643,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un diagramma, tutti gli angoli (punti) segnati sono uguali a x gradi; trovare x.*
@@ -691,7 +691,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *PQRS quadrato con PT=1, QU=2, RV=3, SW=4 dove T,U,V,W si trovano sui bordi; TUVW costituisce un quadrilaterale con una superficie della metà della PQRS. Trova PQ.*
@@ -739,7 +739,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli rettangolari all'interno di un quadrato; i lati perpendicolari di un triangolo più grande sono 15 e 20; trovare area di quadrilaterali ombrati.*
@@ -786,7 +786,7 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono tutti uguali. Trova il conto originale di Claire.
@@ -833,7 +833,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media aritmetica A e la media geometrica G di x>y positiva soddisfano A:G=5:4. Trova x:y.*
@@ -882,7 +882,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il raggio del cerchio 1 tocca tre lati del rettangolo 2×4; la diagonale interseca il cerchio a P e Q. Trova la lunghezza di accordo PQ.*
@@ -930,7 +930,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza quadrata del bordo PQRS 1; quattro archi di quartiere (TRU centrato S, VPW centrato Q); trovare il perimetro della regione ombreggiata.*
@@ -975,7 +975,7 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
@@ -1019,7 +1019,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Octogono regolare e quadrato inciso formato da quattro diagonali; bordi quadrati hanno lunghezza 1. Trova area di ottagone.*
@@ -1066,7 +1066,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parabola y=x^2 riflessa nella riga y=x+2; trovare l'equazione della parabola riflessa.*
@@ -1111,7 +1111,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di n linee rette nel piano in cui ciascuna linea incontra esattamente altre 10; quale valore non può essere n?*
@@ -1158,7 +1158,7 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N nonagone regolare; ad ogni vertice un segmento di linea perpendicolare produce un nonagone S più piccolo (ombra). Trova area(S)/area(N).*

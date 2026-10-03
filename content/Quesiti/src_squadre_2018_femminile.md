@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year of birth with sum of figures equal to age in 2017*
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of natural mcm dividers from 1 to 30*
@@ -109,7 +109,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter x circle inscribed in triangle isosceles*
@@ -157,7 +157,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six-by-six chessboard routes with movements in the upper right corner*
@@ -204,7 +204,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of diagonal squares of the faces of a rhombohedron*
@@ -251,7 +251,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Added flower map with equal probability of same seed*
@@ -289,7 +289,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers after 2018 entries of 15*
@@ -324,7 +324,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of marks + to obtain 1 from 1..2018 with max additions*
@@ -367,7 +367,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Given that it changes, number most likely at the third launch*
@@ -417,7 +417,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance with polynomial roots, a^8+b^8*
@@ -518,7 +518,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordered pairs of symptoms with transient implication*
@@ -574,7 +574,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *False term index in the modified Fibonacci sequence*
@@ -612,7 +612,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial volume of parallel piped that becomes cube*
@@ -648,7 +648,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of candidates among delegations with declarations*
@@ -682,7 +682,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *8x8 chessboard routes with right-hand moves *
@@ -732,7 +732,7 @@ level: squadre
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle area with beam and condition AD=BD+DC*
@@ -774,7 +774,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 10 distinct digits divisible by 11111*
@@ -821,7 +821,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length EF with equilateral triangles outside quadrilateral*
@@ -857,7 +857,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Compositions of 14 with last odd term*
@@ -891,7 +891,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Routes on a 6x6 chessboard with no return to the boxes visited*
@@ -961,7 +961,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficients a,b,c of degrees 11,12,13 in product of polynomials*
@@ -996,7 +996,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of tetrahedron with triangle development 60-50-50*
@@ -1042,7 +1042,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum on products of non-zero digits, energy power*
@@ -1085,7 +1085,7 @@ level: squadre
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of parallel-piped shadow 20x40x60*

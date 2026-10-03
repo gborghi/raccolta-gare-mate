@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di N con p(n)>2 per tutte le n>N, funzione di potenza*
@@ -57,7 +57,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Serie di potenza che soddisfano un'equazione differenziale; valutare una serie*
@@ -89,7 +89,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Constante C>0 che limita una somma di radici k-th su log x*
@@ -119,7 +119,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrice invertibile C in M_2(Z) con le formule CAC^{-1} indicate*
@@ -148,7 +148,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cavaliere ubriaco su una tavola infinita; la probabilità di raggiungere una cellula specifica dopo il 2023 si muove*
@@ -176,7 +176,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le coppie (c,d) in R^2 in modo tale che esista una sequenza con una data ricorrenza di reali positivi*

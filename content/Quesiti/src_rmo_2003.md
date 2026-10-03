@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con AB=AC, angolo retto in A; prova angolo MAN=45°*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove C(n,7) meno pavimento(n/7) divisibile per 7 per n>7*
@@ -80,7 +80,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove min di tre espressioni ≤1/4 e max ≥2/9 quando a+b+c=1*
@@ -109,7 +109,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli ordinati di numeri interi non negativi con x≤y≤z, x+y+z≤100*
@@ -138,7 +138,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto interno P con uguali rapporti di distanze vertex-side; trovare valore comune*
@@ -167,7 +167,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find all real a tale che x2+(a-2) x+1=3 di cui xx di cui ha esattamente tre soluzioni reali distinte*
@@ -197,7 +197,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca due sottogruppi non vuoti A,B di {1,...,10} che riducono al minimo il prodotto A)/prod(B) *

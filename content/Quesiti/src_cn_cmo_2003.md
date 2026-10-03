@@ -26,7 +26,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Collinearità del circondocentro, dell'incentro, del vertice se le aree sono uguali*
@@ -58,7 +58,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximum elements in set S of positive integers with GCD conditions*
@@ -91,7 +91,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il lambda minimo per la somma dei cosini dato il prodotto della restrizione di tangenti*
@@ -119,7 +119,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli interi (a,m,n) con a^n+203 divisibile da a^m+1*
@@ -152,7 +152,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
@@ -185,7 +185,7 @@ Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza per quattro punti sul cerchio unitario con ab+cd=1*

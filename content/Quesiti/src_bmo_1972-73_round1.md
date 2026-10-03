@@ -30,7 +30,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo variabile che tocca due cerchi fissi; PQ attraverso punto fisso*
@@ -63,7 +63,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *9 punti in unità quadrata; triangolo di superficie non superiore a 1/8*
@@ -94,7 +94,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La corda sopra la superficie dell'emisfero sul cilindro non si trova in piano*
@@ -127,7 +127,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dischi triangolari equilaterali congruenti che formano un esagono equangolare converso; n* valido
@@ -162,7 +162,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme infinito di integri 2^k - 3 senza fattore primo comune*
@@ -197,7 +197,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di ragazzi a ragazze rispetto alla probabilità di essere d'accordo con l'insegnante*
@@ -231,7 +231,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'aspettativa di vita di un draconiano di 70 anni da un modello di tavolo vita*
@@ -265,7 +265,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrice di compagnia di una mappa Mobius; prodotto e condizioni per T^n = I*
@@ -298,7 +298,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre linee parametrizzate sono simultanee; trovare punto di simultanea*
@@ -329,7 +329,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafica di flusso per la stampa di integri a,b,c con c^2 = a^2 - b^2*
@@ -369,7 +369,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cilindri grossi, uno a rotoli sull'altro; ottenere il theta dot dall'ODE*

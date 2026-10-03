@@ -31,7 +31,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadrilaterali convexi con condizioni di rapporto e parallelismo; trovare il rapporto in termini di lambda*
@@ -66,7 +66,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con ricorrenza della funzione a pavimento; trovare forma chiusa in termini di n e c*
@@ -97,7 +97,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero minimo di punti in modo che l'insieme abbia un heptagono convex e ogni pentagono convex contenga un punto interno*
@@ -132,7 +132,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza reale unica che soddisfa il limite e la ricorrenza; dimostrare il legame con i termini*
@@ -167,7 +167,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la somma delle reciprocità squadrata di inequità data da numeri interi in aumento rigoroso con somma delle reciprocità al massimo 1*
@@ -196,7 +196,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove tutti, se non finiti, molti integri positivi sono somme del 2004 di integri rigorosamente in aumento con catena di divisibilità*

@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, circoncentro, punti sul raggio DO; trovare angolo BAC*
@@ -59,6 +59,7 @@ level: JMO Honsen
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione di numeri dispari definita dalla coprimialità; limitazione |a_n - 2n|*
 
 > Una successione $a_1, a_2, \ldots$ costituita da interi positivi dispari soddisfa, per ogni numero naturale $n$, la seguente condizione:
@@ -66,8 +67,6 @@ level: JMO Honsen
 > Il più piccolo intero dispari maggiore di $a_{n+1}$ e coprimo con $a_n$ è $a_{n+2}$.
 > 
 > Si dimostri che esiste un intero positivo $C$ tale che $|a_n - 2n| \leq C$ vale per ogni intero positivo $n$.
-
-
 
 [[Quesiti/src_jmo36hq_honsen#q02|src_jmo36hq_honsen__Q02]]
 
@@ -93,7 +92,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *M-gon regolare, n vertici rossi e n vertici blu, nessuna distanza corrispondente tra rosso e blu; trovare min m*
@@ -126,7 +125,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali con f(x^2+f(y) ^2) +2f(x) y=f(x+f(y)) ^2*
@@ -159,7 +158,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto P al di fuori del piano con prodotti uguali; i circoncircoli incontrano il piano in un triangolo simile a T*

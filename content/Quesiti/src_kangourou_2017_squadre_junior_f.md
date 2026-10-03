@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little odd number of 3 digits divisible by 11 by binding *
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many grandchildren does Grandma Anna have (cousins)
@@ -92,7 +92,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 100 and integers z with z^2+12 divisible by z+4*
@@ -130,7 +130,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *parallelograms on the keyboard*
@@ -162,7 +162,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many blue dots given the probability of 9/11*
@@ -195,7 +195,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum euro in the jacket with pocket restrictions*
@@ -228,7 +228,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of subsets of 7 in arithmetic progression*
@@ -291,7 +291,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square sum of trapezoidal areas S1 and S4 in the hexagons*
@@ -352,7 +352,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *United number of 1^3+2^3+...+2017^3*
@@ -386,7 +386,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of areas T and P with the same perimeter*
@@ -417,7 +417,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number ending in 2017 for 123*
@@ -449,7 +449,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum surface area by gluing cubes 1, 8 and 27*
@@ -483,7 +483,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum tokens and modes in non-adjacent 8x2 grid*
@@ -513,7 +513,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies 1-1000 without dividers 3, 5, 7*
@@ -575,7 +575,7 @@ How many grandchildren does Grandma Anna have (cousins)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of possible check-in boxes in the walk*

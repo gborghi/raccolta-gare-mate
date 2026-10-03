@@ -29,7 +29,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova sqrt(AB) dove 19AB è un quadrato perfetto, cifre A, B*
@@ -62,7 +62,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il termine 2003 della sequenza oscillante 1,2,3,4,5,4,3,2,1,2,...*
@@ -97,7 +97,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le cellule segnate del conte Camila su una lavagna in stile 4x4 Minesweeper
@@ -130,7 +130,7 @@ Le cellule segnate del conte Camila su una lavagna in stile 4x4 Minesweeper
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
@@ -166,7 +166,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordine di magnitudo stimato del volume terrestre in metri cubi*
@@ -203,7 +203,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare la somma infinita dei numeri di Fibonacci diviso per potenze di 2*
@@ -236,7 +236,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'equazione di y=x^2-5x+9 dopo una rotazione di 180 gradi circa l'origine*
@@ -269,7 +269,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova n in un club da tennis con n giocatori a sinistra, 2n a destra, dato il rapporto di vittoria 3:4*
@@ -306,7 +306,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il raggio del cerchio C3 tangente a due linee parallele e a due cerchi C1,C2*
@@ -343,7 +343,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale sequenza NON si descrive autologicamente*
@@ -378,7 +378,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(21,12) da equazioni funzionali che definiscono f su coppie di integri positivi*
@@ -411,7 +411,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la posizione del primo non primo in sequenza di numeri 2 meno di due successivi più grandi*
@@ -448,7 +448,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Puzzle logico sulla narrazione della verità in lingua straniera con "KAB"/"BAK" che significa sì/no*
@@ -481,7 +481,7 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isabele, Nicole.
@@ -514,7 +514,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *dividere {2,3,5,7,11,13,17} nei gruppi A,B con A-B=1; trovare la somma digitali di A*B*
@@ -551,7 +551,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del triangolo BFG all'interno del quadrato ABCD con triangolo equilaterale BEF del lato 1*
@@ -588,7 +588,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta gli ospiti alla festa che riceve 77 piatti di 4 tipi che servono diversi numeri di persone*
@@ -621,7 +621,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di domande di sì/no per trovare il numero impar scelto da Carlinha fino a 100*
@@ -654,7 +654,7 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal ponte
@@ -691,7 +691,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la somma di N espressibile come 9 numeri interi consecutivi e come 11 numeri interi consecutivi*
@@ -726,7 +726,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare pavimento di (3^2001+2^2001)/(3^2000+2^2000) *
@@ -767,7 +767,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le affermazioni vere sul triangolo T e sui triangoli derivati T' e sqrt(T) *
@@ -804,7 +804,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo dopo le operazioni del 2003: sostituire la cifra con il suo quadrato o doppio (selezionare il massimo) *
@@ -843,7 +843,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare tutte le funzioni reali che soddisfano f(x)(f(x) -x) = 0 per tutte le x*
@@ -876,7 +876,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca angolo DAE nel triangolo ABC con AB=20, AC=21,BC=29 e D,E su BC*

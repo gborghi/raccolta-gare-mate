@@ -33,7 +33,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many AB numbers with 12xAB = 21xBA*
@@ -72,7 +72,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage increase to recover the original price*
@@ -110,7 +110,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the data numbers is not rational*
@@ -152,7 +152,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of two data objects density and weight difference*
@@ -195,7 +195,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remains and divisibility by 7*
@@ -237,7 +237,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which integers a/b + c/d = (a+c)/(b+d) *
@@ -276,7 +276,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of first digit less than second digit*
@@ -332,7 +332,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A grey area with a tangent arc in an equilateral triangle*
@@ -387,7 +387,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of two females giving birth to twins*
@@ -428,7 +428,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second target speed for an overall average of 30 km/h*
@@ -471,7 +471,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many true statements on consecutive odd numbers*
@@ -512,7 +512,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which trunk is not geometrical progression*
@@ -551,7 +551,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of digits in the square of a large number*
@@ -595,7 +595,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of high school pupils by class fractions*
@@ -639,7 +639,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many knights out of four inhabitants from the answers*
@@ -679,7 +679,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *There are tetrahedra with equilateral base and rational volume*
@@ -719,7 +719,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum amount not payable with coins of 8 and 11 *

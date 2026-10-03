@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso p^n come somma di una rampa*
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli reali che soddisfano tre equazioni simmetriche*
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per riassemblare la griglia 11x11 da pezzi a forma di L*
@@ -118,7 +118,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo di tangente attraverso il punto medio di BC incontra nuovamente il circolo; prova rapporto prodotto*
@@ -155,7 +155,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con regole di dimezzamento/arrotondamento; colpisce ogni numero intero positivo?*
@@ -192,7 +192,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rana su 1000 pad di lili; trovare n per esattamente una rana rimanente *

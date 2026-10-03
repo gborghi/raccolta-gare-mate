@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo bisettore tangente a circolo, prova angolo A=90*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra la disuguaglianza con tre differenti valori positivi abc*
@@ -82,7 +82,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri interi positivi soddisfano le condizioni del rapporto, dimostrano d >= b + f *
@@ -109,7 +109,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 paesi, lingue minime in modo che ogni 20 condividano una *
@@ -136,7 +136,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolare, struttura incentrata, prova BA=BC*
@@ -164,7 +164,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'esistenza e la non esistenza di progressione armonica in aumento stretto*

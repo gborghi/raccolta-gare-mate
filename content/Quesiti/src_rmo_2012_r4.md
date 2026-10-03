@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radius di un cerchio iscritto in un quadrato unitario tangente a due archi quadranti laterali e a un lato*
@@ -57,7 +57,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che abc divide (a+b+c)^7 date le condizioni di divisibilità a b b b b b b b c c c c c c c a 2*
@@ -84,7 +84,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta coppie {A,B} di sottoinsiemi di {1,...,11} con A != B e una data intersezione*
@@ -113,7 +113,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo con E su BC (BE=2EC) e F punto medio di AC, trovare BQ/QF dove BF incontra AE*
@@ -143,7 +143,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi il sistema simmetrico 1/(xy)=x/z+1, 1/(yz)=y/x+1, 1/(zx)=z/y+1 per i reali positivi*

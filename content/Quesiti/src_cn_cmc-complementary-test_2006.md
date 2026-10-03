@@ -32,7 +32,7 @@ level: China Mathematical Competition (Complementary Test)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Elisse con foci B0, B1 lati di taglio triangolare; la costruzione di arco iterata produce punti conciclici*
@@ -66,7 +66,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min pezzi da rimuovere dalla lavagna 7x8 per rompere tutti i gruppi 5 in fila*
@@ -102,7 +102,7 @@ level: China Mathematical Competition (Complementary Test)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Risolvere un sistema di quattro equazioni simmetriche di potenza-somma in x,y,z,w*

@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo di intersezione della linea retta più corta; mostra che la linea non retta è più corta*
@@ -58,7 +58,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la somma delle disuguaglianze di x/(y+z) >= 3/2 per i reali positivi*
@@ -87,7 +87,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un sottoinsieme di 5 elementi che riunisce ciascuno dei 50 grandi sottoinsiemi di un insieme finito*
@@ -116,7 +116,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova che 19 per 8^n + 17 è composto per tutti gli integri non negativi n*
@@ -145,7 +145,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova l'identità che coinvolge i coefficienti binomiali e le potenze di due reali*
@@ -180,7 +180,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Costo percorso sulle superfici di cono e sfere; prova la lunghezza di VP*

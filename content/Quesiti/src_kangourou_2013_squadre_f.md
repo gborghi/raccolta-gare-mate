@@ -27,7 +27,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
@@ -67,7 +67,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at the top of the sum triangle (base row 1-10) *
@@ -100,7 +100,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle ABC with square ABCO row inscribed *
@@ -131,7 +131,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *without squares in cubes*
@@ -199,7 +199,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQT triangle area in a rectangle with midpoints*
@@ -265,7 +265,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABCD number with 4*ABCD = DCBA*
@@ -296,7 +296,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers abc with a divisible by b and b by c*
@@ -334,7 +334,7 @@ How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many minutes has Emma walked (solar time)
@@ -391,7 +391,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ACB angle from two isosceles triangles on the AB side*
@@ -446,7 +446,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficient C of x2 in the product (1-x)...(1-10x) *
@@ -480,7 +480,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black cubes visible on the parallel piped 2013*
@@ -511,7 +511,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inter closer to 1000(x-y) between two sums *
@@ -541,7 +541,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of dividers by square in 2013*
@@ -576,7 +576,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers with two final zeros produced by 7 consecutive <26*
@@ -608,7 +608,7 @@ How many minutes has Emma walked (solar time)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measuring the AVC angle of the pentagonal pyramid*

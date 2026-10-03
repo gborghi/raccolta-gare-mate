@@ -27,7 +27,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A odd number of three digits with the sum of the digits 12*
@@ -56,7 +56,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Luke's age given the family relationship system*
@@ -87,7 +87,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Put 2 matches to form 7 squares*
@@ -118,7 +118,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Day of the third millennium for 10/10/10*
@@ -147,7 +147,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum positive integer divisible by 16 times the sum of its digits*
@@ -181,7 +181,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete year 2010 addition with figures 18*
@@ -214,7 +214,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting the squares in a figure*
@@ -245,7 +245,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the maximum value of SEX in the addition TER+TER=SEX*
@@ -275,7 +275,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Products of fractions in irreducible form*
@@ -307,7 +307,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reducible fraction from continuous cradled fraction*
@@ -340,7 +340,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate a figure into two overlapping parts*
@@ -371,7 +371,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times do snails form a right angle between noon and 6 a.m. *
@@ -400,7 +400,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number key with sequence operations*
@@ -429,7 +429,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nando's age by root system*
@@ -460,7 +460,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of the number 2010 in numerical spiral*
@@ -493,7 +493,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equality between two fractions using figures 09*
@@ -524,7 +524,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum side of the square carved in cardboard*
@@ -555,7 +555,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of high 5 digits at high power*

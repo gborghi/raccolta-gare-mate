@@ -31,7 +31,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi infiniti con somme zero e termini non zero*
@@ -63,7 +63,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli equilaterali sull'ipotenusa; intersezione dei ceviani è uguale al prodotto dei segmenti*
@@ -96,7 +96,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colonizzare Marte: le agenzie alternano viaggi; determinano quale agenzia non può fallire prima*
@@ -131,7 +131,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre realtà distinte che soddisfano il sistema ciclico; dimostrare che tutte si trovano in (-1,1) *
@@ -158,7 +158,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *1 ×2024 gioco da tavolo: Ana e Banana quadrati di colore; trovare min k per Ana per garantire tutto verde*
@@ -190,7 +190,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita con il più piccolo non-divisore; dimostrare che ogni intero positivo appare*

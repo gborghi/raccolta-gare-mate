@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esmeralda risolve bx=a invece di ax=b; la sua radice è la radice corretta meno 60; trova m+n dalla radice corretta m+sqrt(n) *
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi che si intersecano, linee tangenti che definiscono P e Q; dato PB*QB=640 e QB*AB=1000 trovi AB*
@@ -80,7 +80,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo inciso in cerchio con angoli dati; punto interno casuale X, probabilità X è più vicino a B che a A o C; trovare p*q*
@@ -107,7 +107,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi di 5 elementi di {1,...,20} che, in ordine crescente, hanno differenze consecutive superiori a 1,2,3,4*
@@ -134,7 +134,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzioni definite ricorrentemente f,g su enti interi non negativi; contare n in [0,2015] con f(n) = 0*
@@ -161,7 +161,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema 1/(ab)=b+2c, 1/(bc)=2c+3a, 1/(ca)=3a+b; (a+b+c)^3=p/q, trovare p+q*
@@ -188,7 +188,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i colori distinti di una scacchiera 2015x37 ottenuti con i pulsanti di inversione delle righe/colonne*
@@ -215,7 +215,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma ABCD (AB=8, BC=4); cerchio attraverso A,C, punto medio M di BC, tangente ad AD, incontra CD a P; trovare MP*
@@ -242,7 +242,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero più piccolo a>1 tale che a^(2^n)-1 è un multiple di 2015 per qualche numero intero positivo n*

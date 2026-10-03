@@ -34,7 +34,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una barra rettangolare di lunghezza 7 e larghezza a è collocata diagonalmente all'interno di una scatola rettangolare 6 per 5; scoprire quali larghezze a sono ammissibili.*
@@ -83,7 +83,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Capacità di una borsa di monete: M più grande in modo che ogni importo da 1 a M possa essere versato, prima senza cambiamento e poi con cambiamento; ottimizzare le denominazioni.*
@@ -152,7 +152,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sulle radici m di unità U_m, studiare l'esistenza di f: U_{2n} -> U_{2n} con f(f(z))=z^2; analizzare i casi per n e costruire soluzioni per n odd.*

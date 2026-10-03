@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il prodotto mn con m+n=90 e m,n coprimo*
@@ -58,7 +58,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area ombrata all'interno di un decagono regolare di area 1*
@@ -91,7 +91,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles: piedi di perpendicolari dal punto interno; trovare AB*
@@ -122,7 +122,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media di triples 2021 volte produce numeri interi; massimizza la somma iniziale*
@@ -153,7 +153,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Imballare quattro tipi di blocchi di L-tetracube in una scatola 2x2x4*
@@ -184,7 +184,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i valori distinti di f tra f  1)..f  10^10) *
@@ -213,7 +213,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Centroidi ACP e ABQ coincidono; trovare BC*
@@ -244,7 +244,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta 17 doppi con due torri di alimentazione entrambe 1 mod 17*
@@ -273,7 +273,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Completare il 2021x2021 con 1,2,3, quindi ogni 2x2 è pari a 8; contare mod 100*
@@ -302,7 +302,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conciclica D,B,C,E con punto interno P e angoli uguali; trovare BP/CP*
@@ -331,7 +331,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa massima/minima di tre abbinamenti su tutti i tuppi; divisori di M-m*
@@ -367,7 +367,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Monete su tavolo 7x7, quattro operazioni di diffusione; massimizzazione del totale delle monete*

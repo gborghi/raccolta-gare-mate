@@ -25,7 +25,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bruno and Carlo can have a common day off (sports programmes) *
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Determine the VD slope of the rectangular base pyramid*
@@ -84,7 +84,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 After how many years the full moon returns on the same day (cycle 28g)
@@ -112,7 +112,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Criterion for divisibility by 11 of 5^a+4^b+3^c*
@@ -140,7 +140,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Location of the AEF circus (acute triangle) *
@@ -174,7 +174,7 @@ After how many years the full moon returns on the same day (cycle 28g)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstration of ethogonal flooring criticism*

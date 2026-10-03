@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti medi quadrilaterali ciclici danno quattro triangoli con circumradii uguali*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione ricursiva su numeri interi positivi: dimostrare f(n) = n infinitamente spesso*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reals suddivisi in due sottogruppi: trovare elementi vicini nello stesso sottogruppo*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri a,b,c,d: condizione di divisibilità per tutti i n * positivi

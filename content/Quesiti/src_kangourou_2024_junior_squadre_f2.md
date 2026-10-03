@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum ABC with mean divisible permutations of 60*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum and minimum length of distribution network*
@@ -94,7 +94,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-sets without two consecutive elements, at least 2 *
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of first pair elements (a,b) whole roots*
@@ -159,7 +159,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most subgrids score 10x10*
@@ -193,7 +193,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value f(0) recursive function of McCarthy *
@@ -278,7 +278,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle area ABCD from area triangle EHK*
@@ -353,7 +353,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First four digits max n with n^2+2024n squared*
@@ -384,7 +384,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of N (1001 units) divided by 1001*
@@ -419,7 +419,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of exactly a visible red face*
@@ -451,7 +451,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum subset elements equal to sums of 1.100*
@@ -483,7 +483,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Percentage of area S with respect to area T triangle 3.4,5
@@ -516,7 +516,7 @@ Percentage of area S with respect to area T triangle 3.4,5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of cube vertices with first coordinates 0*
@@ -550,7 +550,7 @@ Percentage of area S with respect to area T triangle 3.4,5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cards show a white face after 2024 moves
@@ -591,7 +591,7 @@ How many cards show a white face after 2024 moves
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining original object number, deletions*

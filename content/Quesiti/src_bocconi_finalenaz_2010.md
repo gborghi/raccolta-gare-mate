@@ -33,7 +33,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Four watches: what time is it now?
@@ -72,7 +72,7 @@ Four watches: what time is it now?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flamme trees to be removed to remove all squares*
@@ -107,7 +107,7 @@ Four watches: what time is it now?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extraordinary numbers readable in the sequence of numbers 1234567*
@@ -141,7 +141,7 @@ Four watches: what time is it now?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The usual decoupage: cut the figure into two equal parts*
@@ -175,7 +175,7 @@ Four watches: what time is it now?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 One step towards culture: how many books does the library of Calde have?
@@ -212,7 +212,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 2, 0, 1, 0: how many other numbers of 2, 3, 4 digits? *
@@ -248,7 +248,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Aligned: place integers 2-8 on segments with sum of 12*
@@ -280,7 +280,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parallelograms consisting of three beams of parallel lines*
@@ -313,7 +313,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eleven: an integer equal to 11 times the sum of its digits*
@@ -350,7 +350,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Balance with true addition*
@@ -387,7 +387,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum cycling distance in three and a half hours*
@@ -420,7 +420,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum+difference+product+coefficient of two integers = 450*
@@ -453,7 +453,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Laura's first figure to earn at least €15*
@@ -486,7 +486,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Products of consecutive numbers: quantities divisible by 3*
@@ -519,7 +519,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Salvadanai: single values from sums in pairs marked*
@@ -552,7 +552,7 @@ One step towards culture: how many books does the library of Calde have?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangular garden with double corner enclosure: minimum perimeter*

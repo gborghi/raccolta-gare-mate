@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *train crossing conditions*
@@ -79,7 +79,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The measurement shall be carried out in accordance with the methodology set out in Annex II.
@@ -129,7 +129,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *values of n*
@@ -158,7 +158,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of making N+1 kang >Mode for N kang*
@@ -187,7 +187,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *total number of cracks in one hour*
@@ -216,7 +216,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of parallel lines on the sides per 100 regions*

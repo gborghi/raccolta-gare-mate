@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *5^6 as the sum of N plus 5*
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many coins Luisa and leaving home (three expenses) *
@@ -93,7 +93,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Blue cubes in contact with red ones in the box 5x6x7*
@@ -126,7 +126,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *9 with a 90-digit number *
@@ -157,7 +157,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular triangle perimeter with an integer catheter 11*
@@ -192,7 +192,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of RETI values in AMO+AMO+AMO=RETI (max and min) *
@@ -222,7 +222,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the six Fibonacci numbers (first 4, last 47) *
@@ -252,7 +252,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Percentage of pensioners in the city
@@ -284,7 +284,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit increasing numbers*
@@ -315,7 +315,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs with sums between 1 and 103*
@@ -350,7 +350,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Books received from B and D between four schools*
@@ -420,7 +420,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A-F distance between two squares with areas 23 and 777*
@@ -491,7 +491,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of N first factor in the encrypted product*
@@ -527,7 +527,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible first-second pairs in the menu*
@@ -574,7 +574,7 @@ Percentage of pensioners in the city
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couple (x,y) with x^2+y^2-16y=2017*

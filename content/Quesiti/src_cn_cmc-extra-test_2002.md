@@ -29,7 +29,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcenter, orthocenter, rapporto MH+NH su OH*
@@ -64,7 +64,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubico con tre radici reali, massimizzare l'espressione data*
@@ -94,7 +94,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Programmazione della Coppa del Mondo: piani di sostituzione del conteggio *

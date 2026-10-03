@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Products numbered <45 with sum of 12 *
@@ -62,7 +62,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum M-N between bags of candy*
@@ -93,7 +93,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of exact weights with data weights*
@@ -125,7 +125,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to attach 4 2019 cards*
@@ -156,7 +156,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cat residue meters when the dog arrives*
@@ -189,7 +189,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Palindrome 4 digits from palindrome 3 digits plus 2019*
@@ -219,7 +219,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the three numbers with sum 2019*
@@ -250,7 +250,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Members of the smaller gorilla family
@@ -281,7 +281,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total kilometres travelled by Mario (descent jump) *
@@ -316,7 +316,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of cells C2 C3 D3 in the grid 2/5/10*
@@ -350,7 +350,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of dividing 50 apples with constraints*
@@ -382,7 +382,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes in which the figure 5 appears on the watch*
@@ -416,7 +416,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tickets sold for each boy*
@@ -448,7 +448,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most difference between consecutive numbers selected*
@@ -510,7 +510,7 @@ Members of the smaller gorilla family
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many legs does a gouroucan have?

@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Strategia vincente in un gioco di chiamate di numero fino a n *
@@ -55,7 +55,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare le funzioni che soddisfano una doppia disuguaglianza funzionale*
@@ -82,7 +82,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro cerchi tangenti ai lati del triangolo si incontrano in un punto*
@@ -109,7 +109,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Band di larghezza sqrt(2) che copre quattro punti del piano*
@@ -138,7 +138,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alfa irrazionale tale che beta in A(alfa) implica che beta/alfa è un intero*

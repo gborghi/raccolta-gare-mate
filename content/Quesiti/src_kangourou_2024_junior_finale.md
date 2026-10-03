@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *More are reducing or non-reducing fractions (1..12) *
@@ -72,7 +72,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two triangles with two sides and equal height are congruent*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Establish which city the aircraft operates in (calendar, cafe) *
@@ -148,7 +148,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of N(P) for a pentagon*
@@ -177,7 +177,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of lines to cover the vertices of the squares*
@@ -204,7 +204,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 There are four perfect square ABBA palindromes.

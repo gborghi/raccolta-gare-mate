@@ -48,7 +48,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una famiglia di cerchi reciprocamente tangenti uguali allineati lungo una semilinea; la linea tangente taglia i cerchi, le lunghezze degli accordi e una collinearità*
@@ -108,7 +108,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Studio della superficie z^2 = x(x-1) - y(y-1): sezioni piane, asse di simmetria, natura della superficie e condizione razionale/intera*
@@ -163,7 +163,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Studio del limite di lambda_n (proporzione di AD all'interno dei cerchi): calcoli integrali, disuguaglianze e convergenza*
@@ -207,7 +207,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Studiare la condizione (C_1): tradurla attraverso p=2n-1, q=2k-1 in p^2-q^2=16a^2 e caratterizzare le soluzioni attraverso somme di due quadrati*
@@ -279,7 +279,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che prime sono somme di due quadrati: un insieme finito di triplici S, una procedura di discesa iterativa, un punto fisso e un algoritmo di decomposizione esplicito*
@@ -345,7 +345,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ritorno al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni divisore primo n^2+1 è la somma di due quadrati, infinità, e razionalità di L(n,k) *

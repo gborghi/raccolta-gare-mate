@@ -29,7 +29,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo delle 12 somme/prodotti pari a 1*
@@ -63,7 +63,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di versare latte e tè per fare due buoni tè di latte
@@ -97,7 +97,7 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i triplici interi positivi dal sistema ciclico gcd*
@@ -124,7 +124,7 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso angolo HJK utilizzando angolo BCA nel triangolo acuto*
@@ -157,7 +157,7 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min sorveglianza totale per sopprimere qualsiasi ribellione di n*

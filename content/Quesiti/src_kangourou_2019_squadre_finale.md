@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the fractional telescopic product*
@@ -67,7 +67,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alpha angle between the equally spaced lists*
@@ -103,7 +103,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lock code with the entries *
@@ -151,7 +151,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Routes from A to B on the cube shafts*
@@ -197,7 +197,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many factors 55 to get 5^55*
@@ -230,7 +230,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Jumps out of the house after 2019 kangaroo jumps*
@@ -266,7 +266,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of bags containing the initial *
@@ -299,7 +299,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total of prime factors of 12345*
@@ -333,7 +333,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the outline of the folded circle*
@@ -366,7 +366,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quite power with 1 or 6 as a unit *
@@ -399,7 +399,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of women in parliament 300 MPs
@@ -454,7 +454,7 @@ Minimum number of women in parliament 300 MPs
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum diagonals for irrigation of 4x4 mesh *
@@ -506,7 +506,7 @@ Minimum number of women in parliament 300 MPs
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum mean of three consecutive integers divisible by 6!*
@@ -536,7 +536,7 @@ Minimum number of women in parliament 300 MPs
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For quantities n being n-2019 and n+6000 squares*
@@ -590,7 +590,7 @@ Minimum number of women in parliament 300 MPs
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of digits per bracelet of 20 beads*

@@ -27,7 +27,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi m (pari) e n (odd) con 1/m+1/n=4/2001*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico, lunghezze uguali CD=CP=DQ; prova angolo CAD=40°*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n che soddisfano una condizione di divisibilità di somma minima*
@@ -112,7 +112,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggiate le modalità di stretta di mano simultanea per 12 persone al tavolo circolare*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori di f(2001) per aumentare la funzione che soddisfa l'equazione funzionale*

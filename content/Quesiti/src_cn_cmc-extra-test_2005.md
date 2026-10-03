@@ -28,7 +28,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente triangolare, incentro ed eccentro via DE DF*
@@ -59,7 +59,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di funzione simmetrica data la limitazione lineare sui reali positivi*
@@ -90,7 +90,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa della funzione del pavimento che comprende una parte frazionaria della radice quadrata*

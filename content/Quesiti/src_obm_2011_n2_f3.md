@@ -30,7 +30,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Griglia di somma magica 3x3 con moltipli di 3*
@@ -61,7 +61,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti medi quadrilaterali convex formano triangolo isosceles*
@@ -88,7 +88,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
@@ -115,7 +115,7 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conto massimo di interi positivi con tutte le somme del sottogruppo di elementi distinti non divisibili da qualsiasi quadrato perfetto*
@@ -142,7 +142,7 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il triangolo equilaterale del lato 2√3 copre almeno 16 punti su 1000 in unità quadrata*
@@ -169,7 +169,7 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non N naturale a 2 k cifre soddisfa la simmetria I(N)=I(N) e P(N)=P(N*

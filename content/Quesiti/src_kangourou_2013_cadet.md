@@ -41,7 +41,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region shaded in divided equilateral triangle*
@@ -90,7 +90,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression value with repunit (11...1) *
@@ -135,7 +135,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many grey regions have the same perimeter as the sheet*
@@ -176,7 +176,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Candle still lit after 55 minutes*
@@ -229,7 +229,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *193*
@@ -270,7 +270,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimize advanced cells by cutting pieces *
@@ -311,7 +311,7 @@ Minimize advanced cells by cutting pieces *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of digits sum with product number 24*
@@ -352,7 +352,7 @@ Minimize advanced cells by cutting pieces *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What average of children is not possible for 5 households*
@@ -390,7 +390,7 @@ Minimize advanced cells by cutting pieces *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Lisa's turn when Marco reaches her (source)
@@ -436,7 +436,7 @@ Lisa's turn when Marco reaches her (source)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of three integers from coupled products 14,10,35*
@@ -480,7 +480,7 @@ Lisa's turn when Marco reaches her (source)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of delta angle from data angles*
@@ -519,7 +519,7 @@ Lisa's turn when Marco reaches her (source)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The youngest of five girls by birth
@@ -553,7 +553,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smaller angles of trapezoid with perimeter 5 and full sides*
@@ -591,7 +591,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which plane development does not form a cube*
@@ -636,7 +636,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of impossible gaps between consecutive integers*
@@ -699,7 +699,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vertices with minimum y/x ratio in the rectangle*
@@ -752,7 +752,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum difference between consecutive numbers with figures for 2013*
@@ -797,7 +797,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cells not intersected by diagonal 6x10 grid *
@@ -867,7 +867,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image from the rear of the cube building*
@@ -915,7 +915,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the KLMN quadrilateral on the grid*
@@ -960,7 +960,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many exchange operations to make 2013 appear*
@@ -999,7 +999,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of digits of the 5-digit number given sum of 52713*
@@ -1048,7 +1048,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum trees of 20 trees without 3 trees of two trees*
@@ -1097,7 +1097,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of competitors in the field race*
@@ -1141,7 +1141,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distinct modes of exit of four cars from the roundabout*
@@ -1184,7 +1184,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of lines intersected by c*
@@ -1229,7 +1229,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of first 2013 terms of succession of products*
@@ -1269,7 +1269,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between perfect square and perfect cube numbers up to 2013^6*
@@ -1311,7 +1311,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible order in which the pancakes are eaten*
@@ -1348,7 +1348,7 @@ The youngest of five girls by birth
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Properties of small numbers (sum of the three major divisors) *

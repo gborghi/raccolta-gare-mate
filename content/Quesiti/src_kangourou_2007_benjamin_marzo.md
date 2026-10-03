@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the input data for each of the following categories:
@@ -65,7 +65,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number divisible by the sum of its digits*
@@ -98,7 +98,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What section X to order cars*
@@ -135,7 +135,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tower height of 1000 cubes*
@@ -187,7 +187,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is true on P1 and P2 (parallelogram) *
@@ -234,7 +234,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Short sequence of machinery A,B*
@@ -270,7 +270,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the other rectangle (cut square) *
@@ -304,7 +304,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result by removing 5 letters and reversing *
@@ -340,7 +340,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Overlay area of two squares*
@@ -389,7 +389,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Conclusion on truthful and liars (3 inhabitants) *
@@ -449,7 +449,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black holes on the diagonal (grid 4x4) *
@@ -508,7 +508,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total lengths of the two segments (27 cm tape) *
@@ -550,7 +550,7 @@ This is the total value of the input data for each of the following categories:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where the robot stops in the grid
@@ -588,7 +588,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the letter C (cryptogram) *
@@ -649,7 +649,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grid size if 9 coloured squares*
@@ -700,7 +700,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little inscribed square area (picture time) *
@@ -749,7 +749,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Euro to the second-placed player (double prizes) *
@@ -788,7 +788,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the broken ABC...P*
@@ -827,7 +827,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to contain the group (partition) *
@@ -863,7 +863,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total time with at least a 2-digit time (clock) *
@@ -920,7 +920,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares with 2 common vertices with ABCD*
@@ -962,7 +962,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Box position for maximum opening of the door*
@@ -1001,7 +1001,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum squares per axis of symmetry*
@@ -1038,7 +1038,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times a 4-digit number exceeds that of 2*
@@ -1077,7 +1077,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential perimeter figures B and A (stripe) *
@@ -1138,7 +1138,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number thought by Elisa (unknown operations) *
@@ -1179,7 +1179,7 @@ Where the robot stops in the grid
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number on the face? (closed data) *
@@ -1220,7 +1220,7 @@ Number on the face? (closed data) *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to draw a parallel triangle at a distance 1*
@@ -1258,7 +1258,7 @@ Number on the face? (closed data) *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square ABCD (shaded part 1) *
@@ -1317,7 +1317,7 @@ Number on the face? (closed data) *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *False proposition on the sum of 4 consecutive odd numbers*

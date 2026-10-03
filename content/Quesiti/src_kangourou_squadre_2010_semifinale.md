@@ -34,7 +34,7 @@ level: squadre
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number formatted with given digits (sum and product) *
@@ -70,7 +70,7 @@ level: squadre
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of passengers with separate rows (occupations)
@@ -105,7 +105,7 @@ Maximum number of passengers with separate rows (occupations)
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of non-adjacent boxes on a chessboard 8x8*
@@ -146,7 +146,7 @@ Maximum number of passengers with separate rows (occupations)
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area covered by exactly two adhesives on the board*
@@ -183,7 +183,7 @@ Maximum number of passengers with separate rows (occupations)
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last two digits of the last sequence term q=p+p^2*
@@ -215,7 +215,7 @@ Maximum number of passengers with separate rows (occupations)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes to correct 84 worked together*
@@ -249,7 +249,7 @@ Maximum number of passengers with separate rows (occupations)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interest sum equal to n in the chain of inequalities*
@@ -282,7 +282,7 @@ Maximum number of passengers with separate rows (occupations)
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Members of the association with double A of B and 64%
@@ -314,7 +314,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum squares to be coloured to cover the grid 25x25*
@@ -352,7 +352,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *3005-digit book pages *
@@ -392,7 +392,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer sums not expressed as sums of 5 and 7*
@@ -427,7 +427,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 4 digits that is square and perfect cube*
@@ -462,7 +462,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many 4-digit ABBA numbers are multiplied by 11*
@@ -496,7 +496,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Selling price of seasoned cheese with 15% profit*
@@ -535,7 +535,7 @@ Members of the association with double A of B and 64%
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit square code with remainder 1 from 2 to 9*

@@ -29,7 +29,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many red cards are in the bottom bracket*
@@ -64,7 +64,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Four queens who don't threaten each other in the mini chessboard.
@@ -99,7 +99,7 @@ Four queens who don't threaten each other in the mini chessboard.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Addition with eight digit tokens 0,1,1,2,6,9,6 equal to 2011*
@@ -130,7 +130,7 @@ Four queens who don't threaten each other in the mini chessboard.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many times does Jacob press the computer button?
@@ -161,7 +161,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many unused cubes were used to build the pyramid*
@@ -194,7 +194,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the figure into three overlapping parts*
@@ -227,7 +227,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of moves in the empty box puzzle*
@@ -260,7 +260,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the two numbers chosen is the largest*
@@ -293,7 +293,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of consecutive natural numbers already calculated by Debora*
@@ -324,7 +324,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many km/h from fifth to first city*
@@ -353,7 +353,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n for which the sum of the first n odd numbers gives four equal digits*
@@ -382,7 +382,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between the median points of the trapezoid bases*
@@ -411,7 +411,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two three-digit numbers whose product is 222.222*
@@ -440,7 +440,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequential years compatible with sum of the digits dividing*
@@ -469,7 +469,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance BC in the triangle with equal medians*
@@ -502,7 +502,7 @@ How many times does Jacob press the computer button?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Professor Renato's age from the Fibonacci sequence
@@ -537,7 +537,7 @@ Professor Renato's age from the Fibonacci sequence
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of barrier AB on the round island*

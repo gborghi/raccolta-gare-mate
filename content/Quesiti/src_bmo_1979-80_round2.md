@@ -29,7 +29,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedri che condividono una vertice; centro uguale al centroide; confronta i volumi*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri primi in una sequenza di numeri interi definita*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dimostrare una disuguaglianza per i numeri reali con condizione di uguaglianza*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Torneo di ponte: ogni coppia è avversaria esattamente una volta

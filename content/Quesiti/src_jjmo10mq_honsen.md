@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono con base quadrata; prova triangolo inciso in cerchio*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *moltipli a 7 cifre di 7 stabili sotto tutti i riordini a cifre*
@@ -84,7 +84,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *operazione di stampaggio della griglia; trovare il minimo a,b dato N monete iniziali*
@@ -115,7 +115,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, costruzione circumcentrale; prova angolo PMQ = 90°*
@@ -144,7 +144,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Segna di carte ripetute; trova la più piccola n in modo che la somma k-th sia sempre pari*

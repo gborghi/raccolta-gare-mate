@@ -30,7 +30,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioca su k-gon regolare con numeri interi; trova tutti i k dove B vince sempre*
@@ -61,7 +61,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *5 persone, tutte somme di età in coppia distinte; trovare la differenza minima di età tra il più anziano e il più giovane*
@@ -88,7 +88,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con quadrilaterali conciclici; dimostrare che quattro punti associati sono conciclici*
@@ -119,7 +119,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *operazione della scheda nera con divisori; dimostra che il numero iniziale riappare*
@@ -150,7 +150,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In circolo i punti tangenti e i punti di mezzo definiscono le linee; dimostrare la concordanza di AX, BY, CZ*

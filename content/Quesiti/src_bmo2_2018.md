@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente a BC attraverso M incontra AB; dimostra AB = BP = 2BM*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa costringere Alice a mangiare tutto
@@ -84,7 +84,7 @@ Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa cost
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la somma dei quadrati da m+1 a 2m non è mai un quadrato perfetto*
@@ -117,7 +117,7 @@ Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa cost
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Assorbimento di funzioni con f^2018 interi; domande di esistenza sui valori interi*

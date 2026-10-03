@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which expression and definitely odd function*
@@ -72,7 +72,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Telescopic product of increasing base logarithms*
@@ -117,7 +117,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum notebooks of different colours, power of 2*
@@ -158,7 +158,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Around area inscribed in triangle 2-3-4*
@@ -199,7 +199,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real pairs with x^2k+y^2k=(xy)^k*
@@ -261,7 +261,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle perimeter by the theorem of the biset *
@@ -322,7 +322,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number divides p(169)-p(1) by integer polynomial *
@@ -368,7 +368,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of solutions of a square system*
@@ -410,7 +410,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The difference is zero in 2000! in base 10 and base 5*
@@ -450,7 +450,7 @@ The difference is zero in 2000! in base 10 and base 5*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Increasing order of 3^33, 4^30, 5^25
@@ -492,7 +492,7 @@ Increasing order of 3^33, 4^30, 5^25
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of radioactive bananas with probability given*
@@ -535,7 +535,7 @@ Increasing order of 3^33, 4^30, 5^25
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of monomers in product of two trinomials*
@@ -586,7 +586,7 @@ Increasing order of 3^33, 4^30, 5^25
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of Z-sheets to cover a 5x5 grid*

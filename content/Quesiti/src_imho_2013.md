@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri l'identità del prodotto di espansione per interi positivi*
 
 > Si dimostri che per ogni coppia di interi positivi $k$ e $n$, esistono $k$ interi positivi $m_1, m_2, \ldots, m_k$ (non necessariamente distinti) tali che
 > $$1 + \frac{2^k - 1}{n} = \left(1 + \frac{1}{m_1}\right)\left(1 + \frac{1}{m_2}\right)\cdots\left(1 + \frac{1}{m_k}\right).$$
-
-
 
 [[Quesiti/src_imho_2013#q01|src_imho_2013__Q01]]
 
@@ -63,6 +62,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Configurazione colombiana di 4027 punti; determinare il minimo k tale che esistano k rette*
 
 > Una configurazione di $4027$ punti nel piano si dice colombiana se è composta da $2013$ punti rossi e $2014$ punti blu, e nessuna terna di punti è allineata. Tracciando alcune rette, il piano viene suddiviso in diverse regioni. Un insieme di rette si dice buono per una configurazione colombiana se sono soddisfatte le seguenti due condizioni:
@@ -73,8 +73,6 @@ level: IMO
 > \end{itemize}
 >
 > Determinare il minimo valore di $k$ tale che, per ogni configurazione colombiana di $4027$ punti, esista un insieme buono di $k$ rette.
-
-
 
 [[Quesiti/src_imho_2013#q02|src_imho_2013__Q02]]
 
@@ -100,13 +98,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza excritta a ABC opposta a A tangente a BC; si dimostri che l'angolo è retto*
 
 > La circonferenza exinscritta del triangolo $ABC$ opposta al vertice $A$ sia tangente al lato $BC$ nel punto $A_1$. Si definiscano analogamente i punti $B_1$ su $CA$ e $C_1$ su $AB$ usando le circonferenze exinscritte opposte rispettivamente ai vertici $B$ e $C$. Si supponga che il circocentro del triangolo $A_1B_1C_1$ giaccia sulla circonferenza circoscritta al triangolo $ABC$. Si dimostri che il triangolo $ABC$ è rettangolo.
 > 
 > La circonferenza exinscritta del triangolo $ABC$ opposta al vertice $A$ è la circonferenza tangente al segmento $BC$, alla semiretta $AB$ oltre $B$ e alla semiretta $AC$ oltre $C$. Le circonferenze exinscritte opposte ai vertici $B$ e $C$ si definiscono analogamente.
-
-
 
 [[Quesiti/src_imho_2013#q03|src_imho_2013__Q03]]
 
@@ -130,11 +127,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo acutangolo con ortocentro; allineamento di X, Y, H*
 
 > Sia $ABC$ un triangolo acutangolo di ortocentro $H$, e sia $W$ un punto sul lato $BC$, strettamente compreso tra $B$ e $C$. Siano $M$ e $N$ i piedi delle altezze da $B$ e $C$, rispettivamente. Sia $\omega_1$ la circonferenza circoscritta al triangolo $BWN$, e sia $X$ il punto su $\omega_1$ tale che $WX$ sia un diametro della circonferenza $\omega_1$. Sia $\omega_2$ la circonferenza circoscritta al triangolo $CWM$, e sia $Y$ il punto su $\omega_2$ tale che $WY$ sia un diametro della circonferenza $\omega_2$. Si dimostri che i punti $X$, $Y$ e $H$ sono allineati.
-
-
 
 [[Quesiti/src_imho_2013#q04|src_imho_2013__Q04]]
 
@@ -164,6 +160,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale sui razionali positivi con f(x) = x*
 
 > Sia $\mathbb{Q}_{>0}$ l'insieme dei numeri razionali positivi. Sia $f : \mathbb{Q}_{>0} \to \mathbb{R}$ una funzione che soddisfa le seguenti tre condizioni:
@@ -173,8 +170,6 @@ level: IMO
 > \item[(iii)] esiste un numero razionale $a > 1$ tale che $f(a) = a$.
 > \end{itemize}
 > Si dimostri che $f(x) = x$ per ogni $x \in \mathbb{Q}_{>0}$.
-
-
 
 [[Quesiti/src_imho_2013#q05|src_imho_2013__Q05]]
 
@@ -201,13 +196,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Etichettature belle dei punti di una circonferenza; si dimostri che M = N + 1*
 
 > Sia $n \ge 3$ un intero positivo, e si consideri una circonferenza su cui siano segnati $n + 1$ punti equidistanti. Si considerino tutti i bollature dei questi punti con i numeri $0, 1, \ldots, n$, in modo che ciascun numero venga utilizzato esattamente una volta; due tali bollature si considerano uguali se una si ottiene dall'altra mediante una rotazione della circonferenza. Una bollatura si dice bella se, per ogni quaterna di numeri $a < b < c < d$ con $a + d = b + c$, la corda che unisce i punti contrassegnati da $a$ e $d$ non si interseca con la corda che unisce i punti contrassegnati da $b$ e $c$.
 > 
 > Sia $M$ il numero di etichettature belle, e sia $N$ il numero delle coppie ordinate $(x, y)$ di interi positivi tali che $x + y \le n$ e $\gcd(x, y) = 1$. Si dimostri che
 > $$M = N + 1.$$
-
-
 
 [[Quesiti/src_imho_2013#q06|src_imho_2013__Q06]]

@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il primo intero n>1 la cui media della somma di quadrati è un quadrato perfetto*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli non congruenti con lati interi e perimetro 1994*
@@ -85,7 +85,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Accordi di angolo uguale in un cerchio: prove AR(AP+AR)=AQ(AQ+AS)*
@@ -112,7 +112,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i quadrati perfetti modulo 2^n*

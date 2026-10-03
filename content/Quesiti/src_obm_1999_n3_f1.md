@@ -28,7 +28,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Capacità del camion: i mattoni contati con sacchi di sabbia*
@@ -61,7 +61,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ospiti alberghieri: massimo non si mangia più di tre carni*
@@ -94,7 +94,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grasshopper che salta lungo una linea, raggiunge il punto 5m da A*
@@ -127,7 +127,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radici di quadratico: trovare a-b dati prodotti e condizioni di somma*
@@ -161,7 +161,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo ABCD diviso in quattro rettangoli più piccoli, area *
@@ -196,7 +196,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Palla di calcio: contare le cuciture dai pentagoni e dagli esagoni*
@@ -229,7 +229,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Retro più grande meno radice più piccola di un dato quadratico*
@@ -262,7 +262,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valori interi di x che rendono (x+99)/(x+19) un intero*
@@ -294,7 +294,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Range di x soddisfacente cos x = 1/4 con 0 < x < 90*
@@ -327,7 +327,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La spesa di Pedro in quattro negozi, trovare l'importo iniziale *
@@ -362,7 +362,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione f(f(n)))=16 con soluzioni pieziose f, conteggiamento *
@@ -395,7 +395,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Restante di 11111...1 (1999 cifre) diviso per 7*
@@ -428,7 +428,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Side ABCD quadrato 40cm, circolo circonscritto tangente a corda*
@@ -461,7 +461,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di angoscia sull'incircolo di un triangolo, il rapporto d'arco dà angolo*
@@ -494,7 +494,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra x che forma un triangolo acuto con lati 12, 10, x*
@@ -527,7 +527,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di regione dilimitata da due accordi e arco in un cerchio unitario*
@@ -560,7 +560,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto di reticola più vicino alla linea y = (101/3)x - 4 attraverso l'origine*
@@ -593,7 +593,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie di numeri interi positivi (x,y) con 2x+3y=101*
@@ -626,7 +626,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi 10-1000 con cifre rigorosamente in aumento*
@@ -658,7 +658,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La malattia del serbatoio uccide i pesci gialli; ritrovare la percentuale di mortalità*
@@ -690,7 +690,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il rapporto di età di Maria nel 1996 e nel 2002*
@@ -723,7 +723,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria del punto medio in quadrato: area AEF triangolare in percentuale*
@@ -757,7 +757,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Terra triangolare retta divisa da parete parallele, trovare lunghezza BM*
@@ -791,7 +791,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Total di cifre quando si scrivono 2^1999 e 5^1999 fianco a fianco*
@@ -824,7 +824,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min tira dalla scatola per garantire 10 palle dello stesso colore*

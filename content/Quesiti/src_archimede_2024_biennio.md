@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers from 1 to 1000 multiplied by 5, 6 and 9*
@@ -75,7 +75,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers needed to write 100^200+738*
@@ -119,7 +119,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum boxes for 3 three-coloured tickets*
@@ -160,7 +160,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Container capacity by difference of 75% to 20%*
@@ -203,7 +203,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *One-thousandth decimal place of 3/7*
@@ -246,7 +246,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to choose two books of different genres*
@@ -287,7 +287,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *30*
@@ -336,7 +336,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max-min difference at the sum pyramid sum sum*
@@ -381,7 +381,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ROT angle with height and width in isosceles triangle*
@@ -424,7 +424,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-digit pins with four identical and one different*
@@ -476,7 +476,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle perimeter of two heights and one side *
@@ -520,7 +520,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of 5 dice with first product*
@@ -565,7 +565,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible opponent score in the double play*
@@ -608,7 +608,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Islands with a single bridge (divisibility between 2 and 51) *
@@ -671,7 +671,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *TEF triangle area from rectangular triangle areas*
@@ -719,7 +719,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of returning to the summit after 3 km on the triangle*

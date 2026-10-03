@@ -28,7 +28,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi interi a per i quali un quadratico ha radici pari con valore assoluto inferiore a 1000*
@@ -57,7 +57,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semicircolo con punti C, D, tangente a B incontra CD a P; linea PO incontra CA e AD; prova OE = OF*
@@ -87,7 +87,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare la somma dei valori del pavimento di un'espressione minimizzata su k*
@@ -117,7 +117,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limminum n quindi ogni sequenza di numeri interi positivi sommata al 2007 ha termini consecutivi sommati a 30*
@@ -148,7 +148,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli primi (a,b,c) con 0<a<b<c<100 e a+1,b+1,c+1 in progressione geometrica*
@@ -180,7 +180,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la somma ciclica di a^k/(a+b) ≥ 3/2 per abc=1 e per l'intero k≥2*

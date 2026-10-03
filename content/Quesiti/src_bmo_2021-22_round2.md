@@ -32,7 +32,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i k con infiniti k-numeri*
@@ -66,7 +66,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni che soddisfano 2yf(f(y) +x) =f(x+1) f(2y) *
@@ -93,7 +93,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le caselle di visualizzazione possono essere suddivise in due pile regolari non vuote*
@@ -124,7 +124,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove Q su BC e la linea AT passa attraverso Q*

@@ -27,7 +27,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimuovere 10 cifre da un numero lungo per massimizzare il valore rimanente*
@@ -59,7 +59,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Domenica consecutiva in quattro mesi di un anno non bisestivo*
@@ -97,7 +97,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli equalaterali che condividono le vertici ABC ed EFG; trovare il perimetro e la frazione dell'area ombreggiata*
@@ -131,7 +131,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais possa essere pagato con scatole esatte
@@ -169,7 +169,7 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Costruzione con 1000 piani: trovare i piani serviti da tutti e quattro gli ascensori, e esattamente da quattro*
@@ -211,7 +211,7 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il tavolo quadrato più piccolo a piastrelle da un pezzo simile a L-tromino*

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi n<2017 per i quali un triangolo isosceles rettangolare con vertici di coordinate interi ha esattamente n punti reticolari sul suo perimetro.*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per la sequenza a_n uguale alla media su k=1..n del piano(n/k), provare a_{n+1}>a_n infinitamente spesso e decidere se a_{n+1}<a_n infinitamente spesso.*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In ABCD quadrilaterale ciclico con diagonali che si incontrano a P e raggi AD, BC che si incontrano a Q, il bisettore dell'angolo BQA incontra AC a R e il bisettore dell'angolo APD incontra AD a S; dimostrare RS parallelo a CD.*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una cassaforte ha bisogno di un codice a 3 cifre; una sonda risponde Fallo se nessuna cifra è corretta, altrimenti Chiudi (anche quando tutte sono corrette); trova il minor numero di tentativi in una strategia ottimale che garantisca che il codice sia conosciuto.*

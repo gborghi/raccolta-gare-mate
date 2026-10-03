@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcentro di PAB, prova OP perpendicolare a CD*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni sui razionali con due equazioni funzionali*
@@ -82,7 +82,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che la doppia somma di a_m a_n/(m+n) non è negativa*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi f_n(x)=2x per la sequenza di radice quadrata ricorsiva*
@@ -138,7 +138,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summe uguali di segmenti di bordi laterali pari/pari su piramide regolare a 2 n-gon*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prova (k^3)! divisibile da (k!)^(k^2+k+1)*

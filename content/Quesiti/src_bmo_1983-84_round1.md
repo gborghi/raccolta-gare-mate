@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I cerchi di AQR, BRP, CPQ formano un triangolo simile a ABC*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coefficienti binomiali mod 3: i rimanenti 1 superano i rimanenti 2*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riconesta la disuguaglianza dei prodotti e la disuguaglianza del rapporto ciclico con cinque variabili*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le soluzioni dell'equazione del pavimento in intervallo [1, N]*
@@ -147,7 +147,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area curva della superficie del cono obliquo sopra l'ellisse è uguale a VA/AC volte l'area dell'ellisse*
@@ -174,7 +174,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione di divisibilità implica l'esistenza di un numero intero y con due proprietà di divisibilità*
@@ -204,7 +204,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un quadrilaterale con un cerchio inciso, quattro quantità associate sono uguali*

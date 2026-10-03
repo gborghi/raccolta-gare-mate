@@ -30,7 +30,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con punti medi, perpendicolari, conciclicità e uguale rapporto*
@@ -59,7 +59,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie prime (p,q) con pq che divide 5^p + 5^q*
@@ -86,7 +86,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare m-gon convex con esattamente due angoli acuti in (2s+1)-gon regolare*
@@ -113,7 +113,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare la somma dei cubi di numeri reali con distanza in coppia almeno 1*
@@ -144,7 +144,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le n per le quali i bordi e le diagonali di n-gon convex possono essere colorati con n colori in modo che ogni 3 colori formino un triangolo*
@@ -172,7 +172,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'esistenza di un insieme di n elementi in cui tutte le medie del sottogruppo sono composti coprimi in coppia*

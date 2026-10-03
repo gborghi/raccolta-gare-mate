@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rider meal price reports*
@@ -57,7 +57,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Members of two choirs with a common part*
@@ -86,7 +86,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple number of another with the same digits*
@@ -117,7 +117,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of stones subject to weight restrictions*
@@ -147,7 +147,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Medium weighted lethal cocktail*
@@ -180,7 +180,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *T-shirts for monkeys at the zoo (I) *
@@ -230,7 +230,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Point of the trapezoid farthest from the diagonal meeting*
@@ -281,7 +281,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total cylinder surface area*
@@ -313,7 +313,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of points of the star *
@@ -345,7 +345,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Long side difference of folded sheet*
@@ -379,7 +379,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the letter W with Pick's theorem*
@@ -414,7 +414,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exponent n which makes power of 2 a square*
@@ -444,7 +444,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of separate birthdays*
@@ -473,7 +473,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n of 4 digits with a given shape square*
@@ -505,7 +505,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number between 1000 and 9999 with digits other than the multiples of 1792*
@@ -538,7 +538,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of enclosures inscribed between avenues*
@@ -571,7 +571,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *T-shirts for monkeys (II) counting *
@@ -607,7 +607,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shorter course on the cylinder surface*
@@ -643,7 +643,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit number with a power of 14 to 30 digits *
@@ -677,7 +677,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of megaliths per given length*
@@ -714,7 +714,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following table shows the number of players in the table:
@@ -753,7 +753,7 @@ The following table shows the number of players in the table:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Shortest path triangular billiards with bounces
@@ -788,7 +788,7 @@ Shortest path triangular billiards with bounces
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *T-shirts for monkeys (III) counting *
@@ -833,7 +833,7 @@ Shortest path triangular billiards with bounces
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Prophecy by Agnes Nutter, true/false and divisibility

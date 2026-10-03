@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Home-school distance from differences in speed*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integressive septins with 2a^2+b^2+...+g^2=9*
@@ -95,7 +95,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years 2011-2410 with first two multiple digits of the last *
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 8 white chessboard zigzag roads
@@ -160,7 +160,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers on faces given sum of vertices 70*
@@ -196,7 +196,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the side cube 6 *
@@ -234,7 +234,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time of simultaneous re-ignition of three lamps*
@@ -303,7 +303,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result sum with fractions in two brackets*
@@ -338,7 +338,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year in which unit number eta = unit number m^m*
@@ -372,7 +372,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum letters of the alphabet for one million calves*
@@ -405,7 +405,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First hexagon with crown thickness > 130*
@@ -438,7 +438,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of pairs with internal integer sum 1999*
@@ -470,7 +470,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum maximum element with perfect square product*
@@ -507,7 +507,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular perimeter in region 2010 m2 with 7 squares*
@@ -549,7 +549,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most students with 3 problems and <=1 in common*

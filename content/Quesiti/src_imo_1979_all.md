@@ -27,7 +27,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove numerator p of alternating harmonic sum divisible by 1979*
@@ -58,14 +58,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *bordo superiore e bordo inferiore tutti dello stesso colore*
 
 > Nota. Un percorso di n salti è una sequenza di vertici (P₀, ..., Pₙ) tale che
 > (i) P₀ = A, Pₙ = E;
 > (ii) per ogni i, 0 ≤ i ≤ n−1, Pi è diverso da E;
 > (iii) per ogni i, 0 ≤ i ≤ n−1, Pi e Pi+1 sono adiacenti.
-
-
 
 [[Quesiti/src_imo_1979_all#q02|src_imo_1979_all__Q02]]
 
@@ -86,7 +85,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fixed point equidistant from two points moving on circles*
@@ -112,7 +111,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find points R maximizing ratio (QP+PA)/QR in plane
@@ -139,7 +138,7 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find a with nonneg x_k satisfying three power-sum relations*
@@ -172,7 +171,7 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *prove formula for count of n-jump paths*

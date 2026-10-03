@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi con tangente comune: dimostrare i triangoli di superficie uguale MNP e MNQ*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il minimo di x^2+4xy+4y^2+2z^2 dato xyz=32*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca dei numeri interi positivi p,q che soddisfano una determinata equazione piano/radicale*
@@ -112,7 +112,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un insieme di 10 elementi in cui non ci sono 6 elementi sommati divisibili per 6; che dire di 11?*

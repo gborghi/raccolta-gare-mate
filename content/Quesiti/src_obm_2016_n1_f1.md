@@ -31,7 +31,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare (2016^2-1)/2015.*
@@ -65,7 +65,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area del più grande quadrato ABCD in una figura.*
@@ -98,7 +98,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri a cinque cifre con cifre odd distinte; legati a case senza giornale.*
@@ -133,7 +133,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri sulle vertici di un solido in modo che ogni faccia abbia la somma uguale; totale di tutti i vertici.*
@@ -168,7 +168,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Giochi/ragazze che leggono riviste settimanali; a che data diventano uguali.*
@@ -204,7 +204,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quali lettere (O, B, M) possono apparire nella cella ombrata di una griglia 3x3.*
@@ -240,7 +240,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimo numero di pezzi uguali divisibili tra 2, 3 o 5 persone.*
@@ -274,7 +274,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La posizione di Josias in fila data la proporzione tra persone prima e dopo di lui.*
@@ -309,7 +309,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo di lati interi con perimetro 58 e superficie quadrata; trovare lato di quadrato.*
@@ -346,7 +346,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sborra i punti da una figura di 12 punti in modo che non siano rimasti quattro punti che formino una configurazione proibita.*
@@ -383,7 +383,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le persone in fila si alternano a dire la verità e a mentire; contare i bugiardi.
@@ -417,7 +417,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione tra superficie totale verde e superficie totale rossa dopo aver tagliato un cubo dipinto in 8. *
@@ -452,7 +452,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lista di 10 numeri divisi in numeri odd/even x,y; relazione tra coppie di parità uguale e miscela; max x.*
@@ -488,7 +488,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa/media delle classi di matematica e di portoghese per le classi A e B; quali dichiarazioni sono false.*
@@ -525,7 +525,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di movimenti singoli per riorganizzare una griglia di tokeni colorati in un obiettivo.*
@@ -561,7 +561,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Paginazione del libretto: collegare i numeri delle pagine nella parte anteriore/retro di un foglio.*
@@ -597,7 +597,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza totale di una catena/colletto di 20 anelli collegati.*
@@ -636,7 +636,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di una regione grigia in un quadrato con segmenti segnalati uguali (AB=BC=CD=AE=EG=GH=2).*
@@ -673,7 +673,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Costo di viaggio di 6000 dividiti tra amici; tre drop out aumentando ogni quota di 100; trovare numero/costo.*
@@ -708,7 +708,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i prodotti distinti P da un puzzle di numeri con numeri non zero e Z=S^3 x I^2.*

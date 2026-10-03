@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Le bisettrici degli angoli e l'asse di un lato si incontrano in un punto*
 
 > Consideriamo il quadrilatero convesso $ABCD$. Il punto $P$ si trova all'interno di $ABCD$. Siano verificate le seguenti uguaglianze tra rapporti:
 > $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$
 > Si dimostri che le seguenti tre rette si incontrano in un punto: la bisettrice interna dell'angolo $\angle ADP$, la bisettrice interna dell'angolo $\angle PCB$ e l'asse del segmento $AB$.
-
-
 
 [[Quesiti/src_imho_2020#q01|src_imho_2020__Q01]]
 
@@ -61,12 +60,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza per reali con somma 1 e a≥b≥c≥d≥0*
 
 > I numeri reali $a, b, c, d$ sono tali che $a \ge b \ge c \ge d > 0$ e $a + b + c + d = 1$. Si dimostri che
 > $$(a + 2b + 3c + 4d) a^a b^b c^c d^d < 1.$$
-
-
 
 [[Quesiti/src_imho_2020#q02|src_imho_2020__Q02]]
 
@@ -94,6 +92,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Pietre di peso da 1 a 4n divise in due mucchi uguali*
 
 > Sono presenti $4n$ sassolini di peso $1, 2, 3, \ldots, 4n$. Ogni sassolino è colorato con uno dei $n$ colori, e per ciascun colore ci sono esattamente quattro sassolini. Si dimostri che è possibile disporre i sassolini in due mucchi in modo che siano soddisfatte entrambe le seguenti condizioni:
@@ -101,8 +100,6 @@ level: IMO
 > \item I pesi totali dei due mucchi siano uguali.
 > \item Ogni mucchio contenga esattamente due sassolini di ciascun colore.
 > \end{itemize}
-
-
 
 [[Quesiti/src_imho_2020#q03|src_imho_2020__Q03]]
 
@@ -128,13 +125,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Funivie su un monte; trovare n in modo che tutte le carte siano uguali*
 
 > Esiste un intero $n > 1$. Esistono $n^2$ stazioni su una pendenza di un monte, tutte a quote diverse. Ognuna delle due compagnie di funivie, $A$ e $B$, gestisce $k$ funivie; ciascuna funivia consente di passare da una stazione a un'altra posta a quota più alta (senza fermate intermedie). Le $k$ funivie della compagnia $A$ hanno $k$ punti di partenza diversi e $k$ punti di arrivo diversi, e una funivia che parte da una quota più alta termina anch'essa a una quota più alta. Le stesse condizioni valgono per $B$. Diciamo che due stazioni sono collegate da una compagnia se si può partire dalla stazione più bassa e raggiungere quella più alta utilizzando una o più funivie della stessa compagnia (non sono consentiti altri spostamenti tra le stazioni).
 > 
 > Determinare il più piccolo intero positivo $k$ per cui si può garantire che esistano due stazioni collegate da entrambe le compagnie.
-
-
 
 [[Quesiti/src_imho_2020#q04|src_imho_2020__Q04]]
 
@@ -160,13 +156,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Mazzo di carte: la media aritmetica uguaglia la media geometrica sulle coppie*
 
 > Si ha un mazzo di $n > 1$ carte. Su ciascuna carta è scritto un numero intero positivo. Il mazzo ha la proprietà che la media aritmetica dei numeri su ciascuna coppia di carte è anche la media geometrica dei numeri su qualche insieme di una o più carte.
 > 
 > Per quali $n$ si deduce che i numeri sulle carte sono tutti uguali?
-
-
 
 [[Quesiti/src_imho_2020#q05|src_imho_2020__Q05]]
 
@@ -196,6 +191,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Costante positiva c tale che una retta separi S da ciascun punto*
 
 > Si dimostri che esiste una costante positiva $c$ tale che la seguente affermazione sia vera:
@@ -205,7 +201,5 @@ level: IMO
 > (Una retta $\ell$ separa un insieme di punti $S$ se qualche segmento che congiunge due punti in $S$ interseca $\ell$.)
 > 
 > \textit{Nota.} Risultati più deboli con $cn^{-1/3}$ sostituito da $cn^{-\alpha}$ potranno essere valutati con punteggio in base al valore della costante $\alpha > 1/3$.
-
-
 
 [[Quesiti/src_imho_2020#q06|src_imho_2020__Q06]]

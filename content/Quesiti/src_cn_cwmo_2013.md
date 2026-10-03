@@ -26,7 +26,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare buoni set di grado n; dimostrare la ricorrenza di tipo Fibonacci*
@@ -55,7 +55,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sosteniamo la disuguaglianza della somma per i reali in [0,1]*
@@ -84,7 +84,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line tangenti a cerchio; dimostrare CD = CE tramite bisettori angolari*
@@ -116,7 +116,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lingue e diagonali di lato di n-gon regolare con somma triangolare uguale*
@@ -147,7 +147,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare tutti gli integri positivi a divisione a^n - n^a per 2^n - n^2*

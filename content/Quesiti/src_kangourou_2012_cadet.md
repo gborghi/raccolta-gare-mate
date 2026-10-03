@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How much does a chocolate bar cost*
@@ -65,7 +65,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In a few minutes, the launch will be in the northwest.
@@ -103,7 +103,7 @@ In a few minutes, the launch will be in the northwest.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which letter produces the most pieces with a cut*
@@ -139,7 +139,7 @@ In a few minutes, the launch will be in the northwest.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many heads does the dragon have after the cuts?
@@ -173,7 +173,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the five digits with product 5*
@@ -213,7 +213,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which expression is invariant by replacing 8*
@@ -254,7 +254,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Longer route from A to B without repeating sidewalks*
@@ -296,7 +296,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to choose vertices without cutting triangles*
@@ -338,7 +338,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What shape does not come with two cuts on folded sheet*
@@ -380,7 +380,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What and the white block of the paralelepiped*
@@ -425,7 +425,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of two 4-digit numbers with digits 1-8*
@@ -467,7 +467,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the peas flour before variation*
@@ -507,7 +507,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the central cell with sums of 100,200,300*
@@ -546,7 +546,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure of the angle in A of the starry pentagon*
@@ -585,7 +585,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Any number on paper with more than 100*
@@ -673,7 +673,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of triangles cut from the equilateral triangle*
@@ -736,7 +736,7 @@ How many heads does the dragon have after the cuts?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of mice seen by Leo*
@@ -771,7 +771,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between Anna and Louis on the mobile sidewalk*
@@ -809,7 +809,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum perimeter of the magic square after the statements*
@@ -846,7 +846,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What positions are occupied on the same side of the cube*
@@ -897,7 +897,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of the tower by rolling the five cubes*
@@ -957,7 +957,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between area of CMN triangle and square ABCD*
@@ -1014,7 +1014,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which numbers are definitely adjacent in the circle*
@@ -1051,7 +1051,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the shaded parallelogram*
@@ -1088,7 +1088,7 @@ Maximum number of mice seen by Leo*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many people were dancing at that moment?
@@ -1135,7 +1135,7 @@ How many people were dancing at that moment?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of three-digit numbers with the odd property *
@@ -1175,7 +1175,7 @@ How many people were dancing at that moment?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most stories that start on odd pages*
@@ -1211,7 +1211,7 @@ How many people were dancing at that moment?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many distinct positions of the rotating equilateral triangle*
@@ -1247,7 +1247,7 @@ How many people were dancing at that moment?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which length cannot have the folded and cut barrel*
@@ -1290,7 +1290,7 @@ How many people were dancing at that moment?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the centre cell of the 3x3 grid with products*

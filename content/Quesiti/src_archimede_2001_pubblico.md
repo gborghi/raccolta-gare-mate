@@ -27,7 +27,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * inscribed circles and squares, radius greater than 200*
@@ -57,7 +57,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The position of the planet (15.30) in the pair numbering
@@ -88,7 +88,7 @@ The position of the planet (15.30) in the pair numbering
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *full maximum perimeter *
@@ -135,7 +135,7 @@ The position of the planet (15.30) in the pair numbering
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The measurement shall be carried out in accordance with the following conditions:
@@ -211,7 +211,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *crossword of prime numbers and products*
@@ -250,7 +250,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * in how many ways*
@@ -279,7 +279,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *decimal digits after 1000 moves*
@@ -308,7 +308,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *units and divisions, maximum number of heaps*
@@ -343,7 +343,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum known term*
@@ -375,7 +375,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum cone radius*
@@ -403,7 +403,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *length of the minor segment*
@@ -432,7 +432,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum number to make 1000*
@@ -461,7 +461,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bisexual years with a sum of 6 digits between 0 and 7000*
@@ -490,7 +490,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum base area*
@@ -521,7 +521,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *probability of up to 5 consecutive points*
@@ -551,7 +551,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *relationship between areas*
@@ -583,7 +583,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *last 4 digits *
@@ -614,7 +614,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *count quadrupled in 20 years, last 4 digits after 20000*
@@ -645,7 +645,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many are *
@@ -675,7 +675,7 @@ The measurement shall be carried out in accordance with the following conditions
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *third radius *

@@ -54,7 +54,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bomba con serratura di combinazione: sequenza più breve di clic su una ruota che attraversano tutte le combinazioni*
@@ -133,7 +133,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di eliminazione dei token per due giocatori su una riga utilizzando set di compensazione; analizzare le strategie vincenti e la periodicità*
@@ -218,7 +218,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Schedule di pizzaiolo singoli n pizze (una alla volta) per essere pronte vicino all'orario 0; ridurre al minimo la penalità totale ponderata di anticipo/trasto*
@@ -293,7 +293,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare le monete di cioccolato contraffatte (di massa diversa) con un equilibrio di due pannelli; pesi minimi nel peggiore dei casi in base a varie informazioni*
@@ -380,7 +380,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I signori feudali possedono castelli in un regno; zone d'influenza attraverso le regioni più vicine; nemici giurati e signori machiavelli; analizzano le configurazioni tra regni segmento/disco/quadrato*
@@ -485,7 +485,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relazioni vicine; ogni mossa lungo un bordo costa 1; ridurre al minimo il costo totale di trasferimento*
@@ -580,7 +580,7 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco combinatorio frog/lilia d'acqua su un grafico: Antoine protegge un lilia e Benoit ne affonda uno ogni volta (infinitamente); Antoine vince se la rana può raggiungere infinitamente molti lilia sopravvissuti; analizzare chi vince su vari stagni*
@@ -673,7 +673,7 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rigged reality TV: i partecipanti hanno classifiche di preferenza che determinano le eliminazioni sequenziali; un obiettivo (X,Y) significa che Y vince quando X viene eliminato per primo; determinare quando è realizzabile una lista di obiettivi, con strutture di ciclo*

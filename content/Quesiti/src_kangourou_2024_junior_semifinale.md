@@ -42,7 +42,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What equality between areas and certainly true (park) *
@@ -105,7 +105,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the regular octagon with square inscribed area 2*
@@ -161,7 +161,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of digits of N (20230...0) *
@@ -199,7 +199,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of Spaniards with 143 handshakes
@@ -234,7 +234,7 @@ Maximum number of Spaniards with 143 handshakes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *€ remaining to the eldest child (proportions) *
@@ -276,7 +276,7 @@ Maximum number of Spaniards with 143 handshakes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that the diamond is in box 9
@@ -310,7 +310,7 @@ The probability that the diamond is in box 9
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of unemployment in the Union as defined in point (a) of Article 21 (1) of Regulation (EU) No 575/2013.
@@ -346,7 +346,7 @@ This is the total amount of unemployment in the Union as defined in point (a) of
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Because a square of whole coordinates cannot have an area of 27
@@ -375,7 +375,7 @@ Because a square of whole coordinates cannot have an area of 27
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What day does Charles' birthday fall on?
@@ -404,7 +404,7 @@ What day does Charles' birthday fall on?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to divide 1.18 into square-sum pairs*
@@ -434,7 +434,7 @@ What day does Charles' birthday fall on?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Centrally symmetrical surface of the L-solid*
@@ -465,7 +465,7 @@ What day does Charles' birthday fall on?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum c with 1<=a<=b<=c and ab+ac+bc=abc*
@@ -493,7 +493,7 @@ What day does Charles' birthday fall on?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Entire numbers between 0 and 10 expressed as four *
@@ -521,7 +521,7 @@ What day does Charles' birthday fall on?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 For how many seconds Aldo is waiting for Bernardo
@@ -550,7 +550,7 @@ For how many seconds Aldo is waiting for Bernardo
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Of the integers 17 and the maximum proper divisor*
@@ -579,7 +579,7 @@ For how many seconds Aldo is waiting for Bernardo
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number n with S_n+S_{n-1}>2024 (polygonal diagonals) *
@@ -608,7 +608,7 @@ For how many seconds Aldo is waiting for Bernardo
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First and last whole product with consecutive cubes = 2024*
@@ -636,7 +636,7 @@ For how many seconds Aldo is waiting for Bernardo
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of seeds with the same colour probability 13/24*

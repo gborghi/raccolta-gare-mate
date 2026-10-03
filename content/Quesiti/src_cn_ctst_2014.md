@@ -28,7 +28,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che i circoncentieri e i piedi di altitudine sono simultanei nel triangolo.*
@@ -61,7 +61,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *101-gon 2-coloring: massimizzare e contare i triangoli obtusi con condizione di colore alternato.*
@@ -94,7 +94,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che nessun numero intero positivo 2 volte soddisfa una determinata equazione moltiplicativa.*
@@ -123,7 +123,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molti interi a senza due divisori che si sommano a un dato k*
@@ -156,7 +156,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la somma minima dei moduli quadrati di sequenza complessa ciclica*
@@ -189,7 +189,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limita al numero di fattorizzazione non ordinate attraverso il più grande fattore primo*

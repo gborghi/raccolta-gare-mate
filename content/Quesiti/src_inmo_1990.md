@@ -32,7 +32,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quartico con quattro radici positive implica disuguaglianze dei coefficienti*
@@ -65,7 +65,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi non negativi che soddisfano $(xy-7)^2 = x^2 + y^2$*
@@ -98,7 +98,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori di f(1990) per una funzione con determinate proprietà funzionali*
@@ -131,7 +131,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi di tre elementi di {1,...,300} con somma divisibile per 3*
@@ -160,7 +160,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che la quantità laterale del triangolo si trova strettamente tra 1/2 e 2*
@@ -187,7 +187,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo scaleno con A obtuso, trovare locus di D sulla linea BC con AD=sqrt(BD·CD) *
@@ -214,7 +214,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Locus di P tale che il triangolo DEF (piedi dei criminali) sia isosceles; quando equilaterale?*

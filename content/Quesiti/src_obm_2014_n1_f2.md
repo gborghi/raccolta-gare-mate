@@ -26,7 +26,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi positivi con regola pari/piace; troverete il termine 2014*
@@ -53,7 +53,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dieci bambini in fila; scambi minimi di vicini per spostare la posizione più alta alla posizione più corta*
@@ -82,7 +82,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riempire la griglia 5x5 con numeri interi positivi distinti; ridurre al minimo la somma delle celle segnate*
@@ -113,7 +113,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo ABCD tagliato parallelo ad AD; piezza rotata si adatta; trova area*
@@ -144,7 +144,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie di integri positivi inferiori a 100 in cui la somma è pari al doppio della differenza*
@@ -177,7 +177,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * tabella 3x3 riempita di numeri integri 1-9; quattro sottoprodotti 2x2 meno 100 dati; trovare somma di confine*
@@ -210,7 +210,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero 2014: pari, senza cifre ripetute, cifra somma prima; trovare più piccolo e più grande con le stesse proprietà*
@@ -243,7 +243,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figura EFGH quadrata scritta in quadrato ABCD con punti di mezzo I, J, K, L; trovare tre aree*
@@ -280,7 +280,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Place +, -, x segni tra i numeri del 2014; contare numeri interi e risultati distinti*

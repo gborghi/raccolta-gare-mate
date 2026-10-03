@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What kind of number tags can be marked from home to school*
@@ -69,7 +69,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Common letters to KANGOUROU and PROBLEM
@@ -101,7 +101,7 @@ Common letters to KANGOUROU and PROBLEM
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Plausible weight of the bicycle*
@@ -132,7 +132,7 @@ Common letters to KANGOUROU and PROBLEM
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure remains after cutting*
@@ -186,7 +186,7 @@ Common letters to KANGOUROU and PROBLEM
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What time is it (6 hours and a half to 4 hours) *
@@ -222,7 +222,7 @@ Common letters to KANGOUROU and PROBLEM
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with 0 and 7*
@@ -253,7 +253,7 @@ Common letters to KANGOUROU and PROBLEM
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the cloud (reverse operation) *
@@ -292,7 +292,7 @@ Common letters to KANGOUROU and PROBLEM
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to exchange gifts (3 friends)
@@ -329,7 +329,7 @@ How to exchange gifts (3 friends)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third doll by size (matrioska) *
@@ -363,7 +363,7 @@ How to exchange gifts (3 friends)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 He was born in the town of Matteo in the village of Matteo.
@@ -427,7 +427,7 @@ He was born in the town of Matteo in the village of Matteo.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of rectangles in figure *
@@ -481,7 +481,7 @@ He was born in the town of Matteo in the village of Matteo.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequence of machines to obtain the result*
@@ -519,7 +519,7 @@ He was born in the town of Matteo in the village of Matteo.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many seats can Arrigo sit in?
@@ -554,7 +554,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which statement can be true (sport) *
@@ -590,7 +590,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many seats in the gauge*
@@ -638,7 +638,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Could the number be in the box? (Latin 3x3) *
@@ -675,7 +675,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits to write from 1 to 100*
@@ -711,7 +711,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Who waits for who and for how long (watches) *
@@ -747,7 +747,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of invisible points of 7 stacked dice*
@@ -793,7 +793,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure cannot be obtained by folding and cutting*
@@ -831,7 +831,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White boxes in the next square*
@@ -864,7 +864,7 @@ How many seats can Arrigo sit in?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to the implementation of the programme.
@@ -899,7 +899,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cards for larger closed circuit *
@@ -947,7 +947,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years of Fabio today (age of friends) *

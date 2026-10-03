@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1) *
@@ -79,7 +79,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of the radii of two tangent circles in a rectangle*
@@ -125,7 +125,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A parallelogram area formed by the intersections of segments*
@@ -156,7 +156,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Biggest N 4 digits with the last digit 1 in bases 4,5,6,7*
@@ -191,7 +191,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little b with (mnmn)_b perfect cube, answer b+m+n*
@@ -227,7 +227,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculate a_5N/1000 with sum numbers of 7 digits *
@@ -258,7 +258,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Infinite probability of descent (branching) *
@@ -293,7 +293,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years orderly divided by k, k-1,... more than 2007*
@@ -325,7 +325,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic quadrilateral area with E reflection (radius 15) *
@@ -355,7 +355,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N sum of three digits with the last three digits of N^3 = 888*
@@ -390,7 +390,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Valid sequences of 12 zodiac positions starting from tiger*
@@ -425,7 +425,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of iterated merger awards from 95 schools*
@@ -463,7 +463,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of N values with N=sum i/a_i, at positive increases*
@@ -499,7 +499,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to assign categories to 8 missions (1 G,2 M,5 P) *
@@ -535,7 +535,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 10000 times the product of multiple breasts of pi/5*
@@ -571,7 +571,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
@@ -603,7 +603,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum minutes with possibility of rapid doubling*
@@ -636,7 +636,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the number of magic morning decks dividers*
@@ -669,7 +669,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean value of the square of the distance between two points on the edge*
@@ -705,7 +705,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of turns of the ball game (switches) *
@@ -739,7 +739,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic quadrilateral CD length with AC diameter*
@@ -770,7 +770,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum L for the additive chain reaching 12509*
@@ -805,7 +805,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of f ((a,b,c,d) with square bound (positive integers) *
@@ -837,7 +837,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a^2 b+b^2 c+c^2 a for roots of x^3-10x^2-25x+125*

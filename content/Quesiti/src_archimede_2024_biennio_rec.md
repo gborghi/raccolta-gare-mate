@@ -32,7 +32,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural numbers below 1000 with sum of digits 3*
@@ -74,7 +74,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum loss of vouchers for shoes*
@@ -123,7 +123,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular angle D with relations between the sides*
@@ -165,7 +165,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of a+5b with ab=12*
@@ -204,7 +204,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What an expression and certainly odd*
@@ -254,7 +254,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *area of triangle EDA in parallelogram with point on the side*
@@ -297,7 +297,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of intersections between 3 circles and 3 straight lines*
@@ -343,7 +343,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of an expression with powers*
@@ -383,7 +383,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies from 1000 to 3000 with digit 7 exactly once*
@@ -434,7 +434,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *UV length between two circle arcs in the square*
@@ -477,7 +477,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sheets per pair with sum of 22*
@@ -520,7 +520,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arrival orders compatible with partial forecasts*
@@ -561,7 +561,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of MCD with 42 being greater than 10*
@@ -602,7 +602,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First whose square divides the product by 31 to 51*
@@ -642,7 +642,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to sit 3 pairs of siblings next to each other
@@ -693,7 +693,7 @@ How to sit 3 pairs of siblings next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PC length from inner point distances to the sides*

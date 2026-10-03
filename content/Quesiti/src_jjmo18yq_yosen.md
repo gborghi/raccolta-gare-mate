@@ -29,7 +29,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio AB/AC in triangolo rettangolo con etichette quadrate e di superficie *
@@ -60,7 +60,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie (a,b) di integri positivi la cui somma consecutiva è uguale al 2020, riducendo al minimo a*
@@ -89,7 +89,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi palindromici non divisibili per 10 tra 1 e 10000*
@@ -120,7 +120,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo a destra con uguali osceli circondata da circa quattro unità quadrate in disposizione 2x2*
@@ -151,7 +151,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza PQ che collega i punti di mezzo di diagonali nell'isosceles trapezoide ABCD*
@@ -182,7 +182,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di blocchi a 4 unità a forma di L in cubo 5x5x5 meno 8 angoli*
@@ -215,7 +215,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di modi di tessere di una figura con L-tromino e più pentomino*
@@ -247,7 +247,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutti i tripli numeri interi positivi (l,m,n) che soddisfano due equazioni simultanee che coinvolgono il 2020*
@@ -281,7 +281,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di piastrelle esagoniche suddivise in semi-triangoli che soddisfano due condizioni in punti buoni*
@@ -312,7 +312,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro minimo del triangolo a lato intero ABC con un cerchio attraverso D ed E tangente a AB e AC*
@@ -341,7 +341,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo previsto di monete a faccia nera dopo le operazioni di riversamento delle righe/colonne del 2020*
@@ -370,7 +370,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutti i quadrupli (a,b,c,d) da 1-9 in cui ogni somma non vuota del sottoinsieme evita moltipli di 24*

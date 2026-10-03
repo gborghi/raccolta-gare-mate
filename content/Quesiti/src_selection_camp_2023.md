@@ -30,7 +30,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo con progressione aritmetica di divisori distinta-gcd*
@@ -65,7 +65,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di piastrelle a celle a forma di L di 2023 sulla lavagna 2023x2023*
@@ -98,7 +98,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più grande con sequenza reale le cui differenze realizzano potenze di r*
@@ -129,7 +129,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti conciclici tramite costruzione di cerchio tangente a piedi d'altitudine*
@@ -159,7 +159,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i razionali q realizzati da f(x+f(y))=f(x)+f(y) con f(z)=qz*
@@ -193,7 +193,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte T il cui multiset di numeri numerici di 1829-moltipli ha 2 valori*
@@ -228,7 +228,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max C con somme parziali limitate di una buona sequenza +-1 di lunghezza 2022*
@@ -267,7 +267,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco mod-p da tavolo nero: più grande x per il quale B può bloccare A*
@@ -302,7 +302,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il punto fisso X si trova sulla linea PQ indipendente da P*
@@ -333,7 +333,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min dimensione di set in cui ogni elemento è la somma di k altri*
@@ -364,7 +364,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre circoncircoli condividono un punto comune*
@@ -397,7 +397,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Seconda più grande conteggio di buone coppie di città in rete di tunnel*

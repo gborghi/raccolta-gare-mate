@@ -27,7 +27,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una disuguaglianza massima quadrata per le sequenze di somma zero*
@@ -55,7 +55,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di valori distinti tra i numeri interi del 2006 con rapporti consecutivi diseguali*
@@ -85,7 +85,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove che una delle due equazioni diofantine ha una soluzione strana
@@ -112,7 +112,7 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove AE + AP = PD in triangolo rettangolo con incircolo*
@@ -142,7 +142,7 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra una disuguaglianza per una sequenza definita ricorrentemente*
@@ -172,7 +172,7 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum n così condizione di unione costringe tre sottoinsiemi con intersezione non vuota*

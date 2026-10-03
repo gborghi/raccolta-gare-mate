@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres between -20,16 and 3,17*
@@ -67,7 +67,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Traffic signal with more axes of symmetry*
@@ -103,7 +103,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * resulting in the sum of 26*
@@ -139,7 +139,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum in degrees*
@@ -176,7 +176,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many bags *
@@ -216,7 +216,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *what drawing*
@@ -258,7 +258,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *who use a car*
@@ -306,7 +306,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *grey area*
@@ -352,7 +352,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number not possible*
@@ -404,7 +404,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
@@ -452,7 +452,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *square perimeter *
@@ -499,7 +499,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how much blue to remove*
@@ -541,7 +541,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which fraction is closest to 1/2*
@@ -578,7 +578,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *who played the final*
@@ -614,7 +614,7 @@ The Commission shall adopt delegated acts in accordance with Article 21 of this 
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a list of the official languages of the European Union.
@@ -656,7 +656,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *the sum of all possible years*
@@ -705,7 +705,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *band length*
@@ -755,7 +755,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *after how many seconds it reaches *
@@ -807,7 +807,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * points on the surface*
@@ -855,7 +855,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many boys*
@@ -902,7 +902,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * sum of lengths p,q,r,s*
@@ -947,7 +947,7 @@ This is a list of the official languages of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What does Paul think?
@@ -985,7 +985,7 @@ What does Paul think?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * when with two ice cream*
@@ -1035,7 +1035,7 @@ What does Paul think?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The manufacturer shall provide the manufacturer with the following information:
@@ -1088,7 +1088,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *grey the day after*
@@ -1136,7 +1136,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
@@ -1187,7 +1187,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *third summit in order*
@@ -1238,7 +1238,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max whole at the summit*
@@ -1279,7 +1279,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many passengers*
@@ -1325,7 +1325,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *the sixth face*

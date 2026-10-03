@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi non negativi n con 2^n+105 un quadrato perfetto.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi sqrt[5]{x} = soffitto(sqrt[5]{3x}) nei reali non negativi.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto inserito nel centro del cerchio O; D proiezione di C su AB, E, F proiezioni di D su AC,BC; prova area EOFC pari a metà area ABC.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sei problemi hanno ottenuto ciascuno 6,5,2 o 0; per ogni due partecipanti ci sono due problemi su ciascuno dei quali hanno ottenuto punteggi diversi; trovare il massimo dei partecipanti.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(x) =ax+b) =x dizer, g(x-ax-b dizerx dizer; se f(f(x)) =x per tutte le x allora dimostrare g(g(x)) =x per tutte le x.*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea attraversando l'ortocentro H incontra AC a D, BC a E; linea attraversando H perpendicolare a DE incontra AB a F; dimostra DH/HE = AF/FB.*
@@ -188,7 +188,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primo p>3 e interi positivi a,b,c con a+b+c=p+1 e p ̊ a^3+b^3+c^3-1; mostrare uno di a,b,c è uguale a 1.*
@@ -215,7 +215,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro ABCD circoscritto intorno al centro della sfera unità S con SA>=SB>=SC; mostrare SA>sqrt(5).*
@@ -242,7 +242,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *k_1<...<k_m numeri interi non negativi, n=2^{k_1}+...+2^{k_m}; trovare numero di coefficienti odd di (x+1)^n.*
@@ -269,7 +269,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Positivo a,b,c con ab+bc+ca=abc; prova a^3+b^3+c^3>=6abc.*
@@ -296,7 +296,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale concavo con angolo interno superiore a A 180 e AB *CD=AD*BC; P simmetrico a A wrt BD; prova angolo PCB=angolo ACD.*
@@ -325,7 +325,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_{i+1}=a_i/2 se anche altrimenti 3a_i-1; se a_n=a_0 provare 2^n>a_0.*

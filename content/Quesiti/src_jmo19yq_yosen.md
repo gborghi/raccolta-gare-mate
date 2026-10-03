@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di n^2+4n più vicina a 10000*
@@ -58,7 +58,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli tangenti esternamente, corda collineare attraverso la tangenza*
@@ -88,7 +88,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplici interi positivi risolvendo due equazioni*
@@ -115,7 +115,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *BAC angolo minimo dato AB=4 e AM mediana=1*
@@ -142,7 +142,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arrangere le palle di colore in modo che le adiacenti differiscano*
@@ -169,7 +169,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di tetraedro dai bordi e dagli angoli a O*
@@ -196,7 +196,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca x1 dal sistema simmetrico di somme di prodotti in coppia*
@@ -223,7 +223,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio di grado minimo nell'identità f(x^3)+g(x)=f(x)+x^5 g(x)*
@@ -250,7 +250,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interpretatori in coppia in stanze che condividono una lingua comune*
@@ -277,7 +277,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di due somme di radici quadrate incastonate*
@@ -304,7 +304,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di soluzioni di un'equazione funzionale a pavimento*
@@ -331,7 +331,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsiemi di 10 punti tagliati da mezzo spazio*

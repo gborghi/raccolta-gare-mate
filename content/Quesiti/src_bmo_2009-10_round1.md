@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli enti x, y, z che soddisfano un'equazione diofantina quadrata*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *angolo ABC = 90° iff AD = CE; punti su un cerchio con condizioni di perpendicularità*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le sequenze non in aumento di sei segni interi da 010*
@@ -107,7 +107,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi interamente tangenti; tangente comune e secante; dimostrare che BD è diametro *
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni reali che soddisfano f(f(x) + y) = f(x+y) + xf(y) *
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mapa integrale (x,y) →(x2+y, x−y) con x+y=p2; contare le posizioni dei tesori distinti*

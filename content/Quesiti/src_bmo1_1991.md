@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra $3^n + 2 \cdot 17^n$ non è mai un quadrato perfetto*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova $k$ in modo che $x^{k+1}+x+1$ sia divisibile da $x^2+x+1$, quindi da $x^4+x+1$*
@@ -88,7 +88,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico: $4r^2 = AC^2 + BD^2$ implica $AC \perp BD$?*
@@ -118,7 +118,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di $(x+y)(y+z)$ soggetto a $xyz(x+y+z)=1$*
@@ -149,7 +149,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di 16 senza segmento iniziale uguale a $\{1,\ldots,n\}$*
@@ -178,7 +178,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se $2xy \mid x^2+y^2-x$ per i numeri interi positivi, allora $x$ è un quadrato perfetto*
@@ -205,7 +205,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'altezza della scala data una scala equidistante dalla parete e dal terreno*

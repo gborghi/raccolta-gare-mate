@@ -32,7 +32,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Locus isobarycenter come linea varia nel triangolo piatto*
@@ -65,7 +65,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Convergenza di una sequenza definita da una ricorrenza di radice quadrata*
@@ -94,7 +94,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area minima di regione all'interno di almeno due dei tre cerchi di raggio R*
@@ -125,7 +125,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sei punti con distanze in coppia che si sommano a i+j*

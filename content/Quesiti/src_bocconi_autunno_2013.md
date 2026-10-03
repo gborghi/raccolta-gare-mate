@@ -31,7 +31,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Cube towers: how many cubes on the fourth day?
@@ -66,7 +66,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Substitution of digits: find BA from the addition.*
@@ -96,7 +96,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of water in the large box.*
@@ -128,7 +128,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four cards to be placed in the square with hole.*
@@ -159,7 +159,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers from 2 to 6 in disks with differences between adjacent 1 or 2.*
@@ -191,7 +191,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year in which the sum of figures is equal to one third of Matthew's age.*
@@ -224,7 +224,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times the letter appears and in the self-reference sentence.*
@@ -256,7 +256,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic triangle: integers from 4 to 10 with sum of 20 per segment.*
@@ -288,7 +288,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times does the alarm clock display four consecutive digits? *
@@ -320,7 +320,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vote for the fourth task given that the average has not changed.*
@@ -352,7 +352,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gray triangles: numbers 1-8 in cells with sums of 14
@@ -390,7 +390,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dimensions of the rectangular garden that Renato spirals into.*
@@ -431,7 +431,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of isosceles triangle ABC with BD=6 and area AEFD=6.*
@@ -468,7 +468,7 @@ Cube towers: how many cubes on the fourth day?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many white squares in the Milena tablecloth at Fig. 4?*
@@ -501,7 +501,7 @@ How many white squares in the Milena tablecloth at Fig. 4?*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of the sum $1^2+2^3+\cdots+2013^{2014}$.*
@@ -534,7 +534,7 @@ How many white squares in the Milena tablecloth at Fig. 4?*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that Desiderio and Nando sit side by side.
@@ -569,7 +569,7 @@ The probability that Desiderio and Nando sit side by side.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The 2014th seven-digit number with digits 0-6 each once.*
@@ -602,7 +602,7 @@ The probability that Desiderio and Nando sit side by side.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the expression with infinite nested square roots.*

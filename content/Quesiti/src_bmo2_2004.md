@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente a un lato del triangolo equilaterale taglia gli altri due lati; dimostra un'identità di lunghezza*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che esiste un numero intero con 0 del 2004 e 0 del 2004 in binario, divisibile per 2004*
@@ -85,7 +85,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le equivalenze tra le somme di cubi e le somme di quinto poteri per i reali con somma zero*
@@ -116,7 +116,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero limitato di blocchi decimali di lunghezza distinta-2004 implica che il numero è razionale*

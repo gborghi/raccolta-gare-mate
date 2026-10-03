@@ -34,7 +34,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time to earn 1000 Euro with annual salary*
@@ -75,7 +75,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between sides of a square and an isoperimetric triangle*
@@ -119,7 +119,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many supplements were sold by total collection*
@@ -161,7 +161,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sections between two rows of 14 points on parallel lines*
@@ -201,7 +201,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Signs of a,b with a+b<0 and ab>0*
@@ -241,7 +241,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Simplify 10^100+100^10*
@@ -281,7 +281,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Enhanced area by increasing base by 20% and height by 50%*
@@ -326,7 +326,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Input cancellation of the 2007th person*
@@ -369,7 +369,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of (a+b)/(b+c) with b/a=2 and c/b=3*
@@ -414,7 +414,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Simplify roots 10 by roots 15 more roots 54*
@@ -458,7 +458,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the ABFCDE hexagon in a square*
@@ -503,7 +503,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side and diagonal paths of a square*
@@ -546,7 +546,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Days at the next Earth Day on Uru
@@ -590,7 +590,7 @@ Days at the next Earth Day on Uru
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BCED quadrilateral area with D,E on one third of the sides*
@@ -635,7 +635,7 @@ Days at the next Earth Day on Uru
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AECB quadrilateral area with square and equilateral triangle*
@@ -681,7 +681,7 @@ Days at the next Earth Day on Uru
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Content of toothpaste before reduction*
@@ -723,7 +723,7 @@ Days at the next Earth Day on Uru
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remains of the division of a polynomial in 2007 by 669*
@@ -772,7 +772,7 @@ Days at the next Earth Day on Uru
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A square area ABCD from square and white rhombus*
@@ -820,7 +820,7 @@ Days at the next Earth Day on Uru
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Knights between four robbers and knights*
@@ -870,7 +870,7 @@ Days at the next Earth Day on Uru
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of volume of cube cut from a plane APD*

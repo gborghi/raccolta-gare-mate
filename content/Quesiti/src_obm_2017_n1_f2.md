@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un polinomio non costante con coefficienti non negativi la cui potenza è positiva è anche positiva*
@@ -58,7 +58,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i divisori primi comuni di tutti i termini della sequenza a·2017^n + b·2016^n*
@@ -93,7 +93,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione dei punti sul confine di mezzo disco riducendo al minimo la somma delle distanze quadrate*
@@ -126,7 +126,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza strettamente positiva con differenze controllate convergenti a 0 soddisfa a_n ≥ d/n*
@@ -158,7 +158,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inequità di distanza che coinvolge righe di una matrice reale d×n e di un supremo sottospazio*
@@ -195,7 +195,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parolle sopra {a,b}: m-equivalenza di due parole di lunghezza l tramite cancellazione delle sottoscritte*

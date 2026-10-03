@@ -27,7 +27,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *False claim by the guardian*
@@ -56,7 +56,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shorter route on side face vs roof *
@@ -108,7 +108,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between areas of triangles with similarities*
@@ -138,7 +138,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of radii circumscribed circles square/triangle*
@@ -167,7 +167,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers k with k^2+1 divider of a*
@@ -196,7 +196,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of obtaining 9 with three different dice*
@@ -225,7 +225,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Binary coefficient polynomials with constraints*
@@ -254,7 +254,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of condition dividers a+k divided by a+k^2*
@@ -282,7 +282,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of activation at exactly fifth pressure*
@@ -312,7 +312,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shadow trapezoid area of the headlamp*
@@ -342,7 +342,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of opening at least 13 boxes*
@@ -371,7 +371,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extractions for certainty of 6 socks of the same colour*
@@ -402,7 +402,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expressed value with sum cube*
@@ -432,7 +432,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of enclosed areas divided into triangles*
@@ -463,7 +463,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number with equal remainder for 37 and condition mod 7*
@@ -494,7 +494,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shorter route between roof slopes*
@@ -536,7 +536,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Implications between positive responses (logic) *
@@ -571,7 +571,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of cycle length of at least 6 permutations*
@@ -600,7 +600,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting of colours of the four colour table*
@@ -633,7 +633,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dialogue of diagonals on the square keyboard*
@@ -667,7 +667,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of segment with the bisette theorem*
@@ -708,7 +708,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Implications between positive responses (logic II) *
@@ -743,7 +743,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of octagonal triangles with vertex at the centre*
@@ -771,7 +771,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eighth spherical spherical triangle area*

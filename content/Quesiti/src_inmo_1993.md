@@ -25,7 +25,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diagonali di quadrilaterali ciclici; circoncentro e collineare ortocentro*
@@ -52,7 +52,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio quadratico con valori interi a numeri interi consecutivi*
@@ -81,7 +81,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza per quattro valori reali positivi sommati a 1*
@@ -107,7 +107,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Localisso dei punti con circondazioni uguali per i sotto-triangoli*
@@ -134,7 +134,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero naturale n tale che n! termina esattamente in zero 1993*
@@ -160,7 +160,7 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti ai lati di un triangolo rettangolo; prodotto dei raggi uguale all'area*
@@ -187,7 +187,7 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *53-sottoinsieme di elementi di {1,...,100} contiene due elementi la cui somma è divisibile per 9*
@@ -214,7 +214,7 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bijezione da {1,...,n} a se stessa iterata M volte è uguale all'identità*
@@ -240,7 +240,7 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono converso con angoli e lunghezze laterali uguali 1,2,3,4,5,6 in qualche ordine*

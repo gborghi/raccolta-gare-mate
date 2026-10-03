@@ -27,7 +27,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi m,n con n quantità di frazioni unitarie soddisfacenti *
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali ciclici con condizioni di segmento uguali, prova un angolo di 60 gradi*
@@ -83,7 +83,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni reali positive che coinvolgono l'equazione di funzione del pavimento*
@@ -110,7 +110,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le coppie di stretta di mano di 12 persone a tavola circolare, senza coppie adiacenti*
@@ -140,7 +140,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione in aumento stretto su integri non negativi con equazione funzionale, trovare f(2001) *

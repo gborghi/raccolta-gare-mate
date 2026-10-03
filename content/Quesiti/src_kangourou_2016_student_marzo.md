@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Oldest age given three sums in pairs*
@@ -78,7 +78,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of the sum shall be the sum of the following:
@@ -116,7 +116,7 @@ The value of the sum shall be the sum of the following:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure cannot be the stream (constant bridge) *
@@ -155,7 +155,7 @@ The value of the sum shall be the sum of the following:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to:
@@ -222,7 +222,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reflect log by exchanging x and y coordinates*
@@ -267,7 +267,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum plans to delimit a restricted region in space*
@@ -318,7 +318,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of integers with equal sums over eight triangles*
@@ -367,7 +367,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio a/b with two rectangles of equal area*
@@ -409,7 +409,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x+(2/x) given x^2-4x+2=0*
@@ -459,7 +459,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AXP angle AP and BP arcs data of 20 and 16*
@@ -515,7 +515,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2*
@@ -583,7 +583,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible number at the top of the product pyramid*
@@ -643,7 +643,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x4 in the tower of exponents x_{n+1}=x_n^{x_n}*
@@ -683,7 +683,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CAM angle in a rectangle with BC diagonal end*
@@ -725,7 +725,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2016 area rectangles cut into 56 whole squares*
@@ -774,7 +774,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many liars out of 7 in a circle that declare themselves liars*
@@ -818,7 +818,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a+b with two real and symmetrical root squares*
@@ -875,7 +875,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of an equilateral triangle given the square perimeter 4*
@@ -935,7 +935,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible values in the circle with conditions divisible by 3*
@@ -981,7 +981,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABD angle with five equal tangent-string angles*
@@ -1021,7 +1021,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real solutions of (x^2-4x+5)^{x^2+x-30}=1 *
@@ -1064,7 +1064,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of quadrilateral areas/circle with inscribed circle*
@@ -1120,7 +1120,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many vertical-axis parabolas for 3 blackened points*
@@ -1188,7 +1188,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of P from A, center of triangle rectangle*
@@ -1228,7 +1228,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible sum of three three-digit numbers with 1.9*
@@ -1267,7 +1267,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the sixth pyramid in the sectioned cube*
@@ -1318,7 +1318,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Clear area visible from the double-folded strip*
@@ -1360,7 +1360,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *first divides the sum of 1..n but does not add to it*
@@ -1447,7 +1447,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves for 5x5 chessboard with consecutive triple*
@@ -1530,7 +1530,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sixth N divider with six divisors, product of five 648*

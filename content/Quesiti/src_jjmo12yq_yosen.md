@@ -29,7 +29,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati che condividono un punto medio; trovare segmento BF*
@@ -65,7 +65,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova n dove esattamente 3 delle 4 affermazioni su n sono vere*
@@ -96,7 +96,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di conteggio-10 camminate chiuse che ritornano al centro della griglia a punti 3x3*
@@ -127,7 +127,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono ciclico con lati dati; trovare diagonale BE*
@@ -156,7 +156,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max n so 1..n può essere di 2 colori senza somma quadrata monocromatica*
@@ -185,7 +185,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le n positive con n+16 e 16n+1 entrambi i quadrati perfetti*
@@ -214,7 +214,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di sei tabelle 1x2 con due celle coperte per riga/colonna*
@@ -243,7 +243,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezoide con due angoli retti e dato EF; trova DG*
@@ -273,7 +273,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mini pezzi in modo che qualsiasi inizio possa essere ridotto a un pezzo al centro*
@@ -302,7 +302,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
@@ -332,7 +332,7 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi le assignazioni di frecce su 14 punti di cerchio con condizione di iterazione funzionale*
@@ -361,7 +361,7 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radio di circolo del triangolo ADY in termini di a,b,c*

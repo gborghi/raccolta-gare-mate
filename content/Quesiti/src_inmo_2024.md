@@ -25,7 +25,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il punto del circolo E dà una linea parallela che interseca il circolo a F,G*
@@ -52,7 +52,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2024x2024 gioco di colorare la tavola; trovare i quadrati massimi Mohit può colorare rosso*
@@ -81,7 +81,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Odd primo p divide la somma delle potenze dei numeri interi a, b, c*
@@ -110,7 +110,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione cardinale f su numeri interi positivi; trovare tutti i valori di f(2024) *
@@ -141,7 +141,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Compositazione della rotazione attorno a vertici quadrilaterali ciclici; raggio di circolo circolare legato*
@@ -175,7 +175,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze A_n e B_n di radicali nidificati; trovare interi positivi con valori di pavimento uguali*

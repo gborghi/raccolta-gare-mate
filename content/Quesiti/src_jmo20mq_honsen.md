@@ -28,7 +28,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *H è il circondario del centro del triangolo APQ*
@@ -57,7 +57,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di n con n^n - m divisibile per 2^k*
@@ -92,7 +92,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Albero delle isole che inviano lettere: punto fisso o scambio reciproco esiste*
@@ -126,7 +126,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza ciclica in tre valori positivi *
@@ -155,7 +155,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximi intersezioni di rotta diagonale chiusa di convex 2010-gon*

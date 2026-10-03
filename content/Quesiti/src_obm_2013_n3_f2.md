@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo con lati interi il cui perimetro è numericamente uguale all'area; trovare n*
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Massimo numero di vescovi non attaccanti su scacchi 8x8
@@ -90,7 +90,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare la somma che coinvolge 1/(n(n+1)) per trovare A+B*
@@ -117,7 +117,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximo divisore comune dei prodotti di tutti i sottoinsiemi di 15 elementi di {1,...,20}*
@@ -144,7 +144,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro del triangolo ortico di ABC con lati 13,14,15; trovare a+b*
@@ -171,7 +171,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato inciso in un cerchio di raggio 30; acordo AM incontra la diagonale BD a P; AM=50, trovare AP*
@@ -198,7 +198,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di modi di tessitura di una tabella da 1x112 con tessitura da 1x7 e 1x8*
@@ -231,7 +231,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di quadrupli reali ordinati (x,y,z,w) che soddisfano il sistema cubico ciclico*
@@ -260,7 +260,7 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo del modo che B sia divisibile per 3^n, dove la somma 1+1/2+...+1/2013=A/B in termini più bassi*

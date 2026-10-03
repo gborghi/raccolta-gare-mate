@@ -35,7 +35,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordine delle auto che arrivano in gara da indizi*
@@ -74,7 +74,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quanti anni di questo secolo hanno la media digitali uguale a 2
@@ -108,7 +108,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *BAD d'angolo in dodicagone regolare*
@@ -143,7 +143,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possibile data del compleanno di Marta data la limitazione del Giorno della Madre*
@@ -178,7 +178,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero minimo di colori per dipingere le facce di un prisma pentagonale*
@@ -213,7 +213,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di soluzioni di (x-a)^2 = b^2 con a,b reali positivi*
@@ -256,7 +256,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il vincitore del primo turno delle elezioni dalle percentuali di trasferimento dei voti in una tabella*
@@ -297,7 +297,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei quadrati delle vocali e delle consonanti contati nella risposta corretta*
@@ -331,7 +331,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza GC in figura con triangolo equilaterale e segmento triciclato*
@@ -366,7 +366,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'anno successivo dopo il 2015 che coincide con esso (gli stessi giorni e giorni feriali) *
@@ -399,7 +399,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero più piccolo che è doppio di un quadrato e triplo di un cubo*
@@ -434,7 +434,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri nei quadrati bianchi sotto restrizioni di parità e somma massima di probabilità *
@@ -468,7 +468,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prezzo di ingresso al cinema da una situazione di pagamento condiviso*
@@ -503,7 +503,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di piastrelle quadrate che coprono una parete di 7 metri senza sovrapposizione*
@@ -538,7 +538,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max cubes stackable in una torre in modo che i vicini differiscono di colore*
@@ -573,7 +573,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca x = CP che rende due regioni grigie uguali in una figura quadrata*
@@ -608,7 +608,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due lati interi distinti con la superficie triangolare minimizzata più grande del 2015*
@@ -641,7 +641,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione tra gli angoli utilizzando il punto medio di un lato in un triangolo*
@@ -674,7 +674,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minima n so media di n naturali può essere strettamente compresa tra 25,65 e 25,75*
@@ -707,7 +707,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti numeri interi positivi dividono il 2032 lasciando il rimanente 17*
@@ -740,7 +740,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio dei momenti dell'orologio digitale in cui il tempo codifica o inverte la data nel 2015*
@@ -775,7 +775,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza CF in cui CF è tangente ad un semicircolo sul lato di un quadrato*
@@ -812,7 +812,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti di 1-9 possono occupare la cellula centrale di un X con pari sommi di braccia*
@@ -846,7 +846,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Giada che Jade cammini dal segretariato al giardino botanico
@@ -879,7 +879,7 @@ Giada che Jade cammini dal segretariato al giardino botanico
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta dei modi per scrivere il 2015 come somma di tre numeri (un pacchetto ripetuto) *

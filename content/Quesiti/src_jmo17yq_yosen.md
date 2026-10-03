@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di quadrilaterali convexi con un angolo retto e lunghezze laterali date*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di numero di una torre elettrica 11^(12^13) *
@@ -85,7 +85,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione minima AP volte BP per un punto P a distanza 3 dal segmento AB*
@@ -113,7 +113,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri a 4 cifre le cui parti superiori e inferiori a 2 cifre hanno il prodotto pari al numero di divisori*
@@ -140,7 +140,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regioni massime in cui il piano è diviso in 3 rettangoli allineati all'asse*
@@ -168,7 +168,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare somme distinte raggiungibili selezionando carte numerate da 1 a 15*
@@ -197,7 +197,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare modi non ordinati per scrivere 100 come somma di interi non negativi ciascuno al massimo 3*
@@ -229,7 +229,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le triangolazioni di un cubo in tetraedri utilizzando solo vertici di cubo*
@@ -257,7 +257,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni integrali a^2 b^2 = 4a^3 + b^3*
@@ -284,7 +284,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiinsiemi di schede di conteggio con somma 2007 che consentono n-sottosette unici con somma divisibile da n*
@@ -311,7 +311,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il triple della soglia di medaglia in modo che esattamente 2 numeri di partecipanti danno un numero fisso senza medaglie*
@@ -345,7 +345,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimi voti garantiti da candidati onesti in un villaggio con bugiardi che utilizzano una sola istruzione*

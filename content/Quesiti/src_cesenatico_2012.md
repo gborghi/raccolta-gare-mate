@@ -32,7 +32,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *1/x=1/AB+1/AC*
@@ -60,7 +60,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies equal to 300 times the sum of their digits*
@@ -92,7 +92,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to determine the type of each *
@@ -126,7 +126,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *pairs {a,b} with xa*xb perfect square*
@@ -158,7 +158,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *place of P points with angAPB+angCPD=180*
@@ -189,7 +189,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *full colour strength difference a or b *

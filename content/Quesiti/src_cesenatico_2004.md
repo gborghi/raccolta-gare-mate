@@ -37,7 +37,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *find the one from December 25*
@@ -68,7 +68,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Location of tangent points of pairs of circumferences between two lines*
@@ -98,7 +98,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *20052004 and 20042005 are the sum of two positive perfect squares?*
@@ -132,7 +132,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *who has a winning strategy*
@@ -166,7 +166,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real successions broken down in two by partial sums *
@@ -251,7 +251,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to show that xyz = x+y+z+2*

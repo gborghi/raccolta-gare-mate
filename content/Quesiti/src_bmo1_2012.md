@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli integri n dove n^2+20n+11 è un quadrato perfetto*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *T più grande in modo che 1..n sia disposta in riga con tutti i termini consecutivi che differiscono almeno di t*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi attraverso P tangenti a S a X, Y: differenza di raggio indipendente dalle posizioni di P, X, Y*
@@ -116,7 +116,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Palle in due sacchetti: rimuovere quantità uguali o raddoppiare/triplicare; determinare se entrambe le sacche possono sempre essere svuotate*
@@ -149,7 +149,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il prodotto di quattro integri positivi consecutivi non può essere uguale al prodotto di due integri positivi consecutivi*
@@ -178,7 +178,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto ABC con triangolo ortico: dimostrare DE+DF <= BC con caratterizzazione di uguaglianza*

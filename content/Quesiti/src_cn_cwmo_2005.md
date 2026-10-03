@@ -27,7 +27,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei coefficienti di polinomio espressi in alfa^100+beta^100*
@@ -57,7 +57,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line tangenti dal punto esterno, dimostrare BE=BF*
@@ -86,7 +86,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum n in modo che tutti gli elementi copriemi in coppia di {1,...,2005} contengano un primo*
@@ -113,7 +113,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di somma parziale con valore assoluto massimo 1*
@@ -142,7 +142,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi, con configurazione tangente e secante, BD bisecta AF*
@@ -174,7 +174,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimo di PA*PB+PC per il punto P sul perimetro di triangolo rettangolare delle isosceles*
@@ -204,7 +204,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza per a+b+c=1 che coinvolge potenze 3 e 5*
@@ -232,7 +232,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di studenti con determinate condizioni di conoscenza di coppia*

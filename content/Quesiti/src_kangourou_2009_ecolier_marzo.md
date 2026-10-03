@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For what amount is the balance needed (coin) *
@@ -72,7 +72,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cubes did Anna take away?
@@ -107,7 +107,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extremity of six and a half rods*
@@ -148,7 +148,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum buttons to convert 930 to 806*
@@ -192,7 +192,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times 6 in four rounds with a total of 23*
@@ -232,7 +232,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Line length joining the centers of the leaflets*
@@ -272,7 +272,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial squares of the chocolate table*
@@ -315,7 +315,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum colours for the vertices of the cube*
@@ -352,7 +352,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Of the many Tuesday boys=girls*
@@ -406,7 +406,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many strips on the 10 cm reel*
@@ -438,7 +438,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the isoperimetric square at the rectangle*
@@ -495,7 +495,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to complete Sudoku 4x4*
@@ -551,7 +551,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of two digits with more sparklers*
@@ -588,7 +588,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many mushrooms has Bice collected*
@@ -620,7 +620,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure of the domino you can't make*
@@ -668,7 +668,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What time does the clock go back to *
@@ -704,7 +704,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different digits in the sum of 1+11+...*
@@ -739,7 +739,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seconds to exit the viaduct (train) *
@@ -778,7 +778,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many houses between Gino and Silvia*
@@ -816,7 +816,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What code (sum of even numbers = odd) *
@@ -866,7 +866,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many figures did you have in 2006 (Fibonacci) *
@@ -906,7 +906,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Furth palindrome number after 15951*
@@ -963,7 +963,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which line corresponds to XYYYXX*
@@ -996,7 +996,7 @@ How many cubes did Anna take away?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of friends (footwear)

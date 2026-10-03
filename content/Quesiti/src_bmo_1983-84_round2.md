@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare punti in piano che soddisfino le condizioni di distanza dal triangolo rettangolare*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro con bordi uguali; ridurre al minimo l'area del quadrilaterale di sezione trasversale*
@@ -92,7 +92,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo e il minimo di cos α + cos β + cos γ con α+β+γ = 4π/3*
@@ -123,7 +123,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova la ricorrenza b_{n+1} = 2c_n per le rappresentazioni complete di potenza binaria*
@@ -151,7 +151,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti interi approssimativi p/q in intervallo di lunghezza 1/q*

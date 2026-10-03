@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero converso con uguali radii di incircolo implica rombo*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli enti n>1 in modo tale che la somma digitali divida il rimanente mod n*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco combinatorio di pile di pietra: determinare il vincitore per ogni N*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza polinomica infinita: trovare la più grande k tale che P_{2014}(x) sia divisibile da x^k*
@@ -140,7 +140,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2m x 2n operazione di trombino di tavola: condizioni per igualarne tutte le voci*
@@ -167,7 +167,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Incircoli mistilineari linee tangenti formano un triangolo: collinearità incentro-circumcentro*

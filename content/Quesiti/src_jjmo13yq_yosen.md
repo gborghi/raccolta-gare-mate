@@ -29,7 +29,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di una regione ombrata di sei unità quadrate incise in un cerchio*
@@ -67,7 +67,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Etichette di conteggio 1,2,3,4 di dieci cerchi tangenti con etichette adiacenti distinte*
@@ -102,7 +102,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ritmo di criptografia di moltiplicazione lunga mescolato; trovare il prodotto finale*
@@ -133,7 +133,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte 1..12 suddivise tra A, B, C per la somma dei quadrati; trovare le carte di A e B*
@@ -164,7 +164,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
@@ -195,7 +195,7 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colour 2015 boxes red/blue/white; odd boxes non white, adiacenti boxes differiscono*
@@ -225,7 +225,7 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi l'equazione radicale incastonata con quattro termini per x positivo*
@@ -256,7 +256,7 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di ciascun colore
@@ -287,7 +287,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Indicare l'angolo PAC in triangolo a stelle uguali con punto interno P*
@@ -320,7 +320,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le configurazioni accessibili sulla griglia 3x100 tramite set-row-heads / set-column-tails*
@@ -353,7 +353,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque punti, quattro collineari, con distanze indicate e angoli uguali; trovare BC/AD*
@@ -384,7 +384,7 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Puzzle a pezzi scorrevoli su tavola 2x7; movimenti minimi per spostare una moneta*

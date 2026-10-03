@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea taglia grafico di polinomio di grado-4 a 4 punti spaziati ugualmente*
@@ -53,7 +53,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrice reale simmetrica con somme di righe 1 e di diagonali non limitate; prova 0 < det A ≤ 1 *
@@ -80,7 +80,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme con intersezioni di grande dimensione e piccole coppie; limite inferiore sulla dimensione dell'unione*
@@ -108,7 +108,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni reali di un'equazione radicale annidata*
@@ -139,7 +139,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il prodotto del logaritmo iterato definisce a_n; determina la convergenza della somma 1/a_n*
@@ -168,7 +168,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due coniche che si incrociano a 4 punti; le linee tangenti producono un'ellisse o un cerchio tangenti*

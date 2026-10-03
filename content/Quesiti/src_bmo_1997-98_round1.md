@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * 5x5 griglia riempita come quadrato latino; analizzare il punteggio sotto diagonale*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza mod-100 simile a Fibonacci; somma dei quadrati mod 8*
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, parallelo; prova che M è il punto medio di DA*
@@ -114,7 +114,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra una sequenza unica di numeri interi positivi che soddisfa una data ricorrenza*
@@ -141,7 +141,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con punto medio e punto trisezione; trovare angolo BAC*

@@ -25,7 +25,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AD+BC=AB*
@@ -57,7 +57,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-colored set with covrime conditions to the same colour*
@@ -91,7 +91,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Odd-coefficient count inequality for sums of binomial polynomials*
@@ -119,7 +119,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *four-element product is fourth power*
@@ -145,7 +145,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove angle OMB is right in two-circle configuration*
@@ -179,7 +179,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unique starting value keeping recurrence sequence in (0,1) *

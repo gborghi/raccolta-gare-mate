@@ -30,7 +30,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'intervallo di b e il valore di un dato minimo di una funzione razionale pari a 3*
@@ -62,7 +62,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri interi positivi copriemi con divisibilità reciproca di somma cubica*
@@ -90,7 +90,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n in modo che ogni sottoinsieme di 35 elementi di {1,...,50} contenga a,b con a+b=n o a-b=n*
@@ -119,7 +119,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La linea incontra i lati del triangolo circoncircolare ai punti intermedi di BN, CM, E, F; prova angolo EOF = angolo A*
@@ -150,7 +150,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I bisettori angolari del triangolo definiscono tre punti di intersezione collineari tramite Ceva/Menelaus*
@@ -179,7 +179,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova la somma delle distanze da n punti a qualsiasi punto del segmento AB non supera il massimo delle somme fino ai punti terminali*
@@ -206,7 +206,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da ricorrenza; dimostrare a_n + 2a_{n+2} è sempre un quadrato perfetto*
@@ -234,7 +234,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore 12 punti di faccia dell'orologio in 4 colori; trovare i più grandi n quadrilaterali convexi senza colore condiviso tra i tre*

@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How much more of the sum of the peers than the sum of the odd ones*
@@ -60,7 +60,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage increase in area of triangle with sides +20%*
@@ -90,7 +90,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of digits of 8^5 * 5^17 * 7^3 *
@@ -121,7 +121,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Acute angle launches 10 minutes after angle 90*
@@ -153,7 +153,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum final zero of n if the product dividers has 15 zeroes*
@@ -184,7 +184,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of cube cubes (1/8 red, 1/4 white) *
@@ -215,7 +215,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Total tournament matches 16 tennis players all against all
@@ -245,7 +245,7 @@ Total tournament matches 16 tennis players all against all
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For a large divisor of 2^14-1 divided by the number *
@@ -276,7 +276,7 @@ Total tournament matches 16 tennis players all against all
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining pages summed up page numbers today 5106*
@@ -306,7 +306,7 @@ Total tournament matches 16 tennis players all against all
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of all final goods and services produced within the Union.
@@ -340,7 +340,7 @@ This is the total value of all final goods and services produced within the Unio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Train length (James 45m, Luke 30m) *
@@ -373,7 +373,7 @@ This is the total value of all final goods and services produced within the Unio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Basic computer price with savings of EUR 15*
@@ -407,7 +407,7 @@ This is the total value of all final goods and services produced within the Unio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit numbers whose reduction is iterated by 0*
@@ -438,7 +438,7 @@ This is the total value of all final goods and services produced within the Unio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equilateral triangles with vertices of polygons 2012 sides*
@@ -480,7 +480,7 @@ This is the total value of all final goods and services produced within the Unio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total area of the eighth parallel piped*

@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove that (21n+4)/(14n+3) is irreducible*
@@ -55,7 +55,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real values of x for an equation with nested roots*
@@ -84,7 +84,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *From equation in cos x to equation in cos 2x*
@@ -110,7 +110,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Building a rectangular triangle with a geometric mean *
@@ -143,7 +143,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *coincidence of points and location of the media*
@@ -175,7 +175,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Build a circular isosceles trapezoid between two planes*

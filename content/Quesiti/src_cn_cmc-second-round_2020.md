@@ -30,7 +30,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles con incentro; prova BH perpendicolare QH*
@@ -63,7 +63,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali non negativi a termine ciclico 2n con vincoli di prodotto-dominato-somma; trovare il minimo della somma totale*
@@ -96,7 +96,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza simile a Pell; dimostrare che a_n ha un fattore primo congruente a 1 mod 4*
@@ -128,7 +128,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafici di triangolazione di un 20-gon converso; trovare il numero massimo di abbinamenti perfetti*
@@ -158,7 +158,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque punti su un cerchio con tre archi uguali; dimostrare che l'angolo PAQ è uguale all'angolo PEQ*
@@ -192,7 +192,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partire {1,...,19} in due sottoinsiemi in modo che la somma di uno sia uguale al prodotto dell'altro*
@@ -225,7 +225,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due sequenze positive di n termini con somme uguali e coppia di prodotto-dominati-somma; trovare somma totale minima*
@@ -256,7 +256,7 @@ level: China Mathematical Competition (Second Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie ordinate (a,b) con a^n+b^{n+9} costante mod 13 per tutte le n*

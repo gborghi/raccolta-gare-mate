@@ -43,7 +43,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una sequenza definita ricorritivamente costruita dalla funzione r(n) (k più grande con n/k intero); mostrare che i suoi termini sono razionali positivi e che ogni razionale positivo appare esattamente una volta.*
@@ -156,7 +156,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi simpatici: studiare l'esistenza/unicità di radici rigorosamente positive di equazioni x^d + (1/n)x - 1 = 0 e i loro limiti, quindi classificare i polinomi come inizialmente/falso/vero simpatici e studiare la convergenza delle radici positive di una sequenza convergente di tali polinomi.*
@@ -280,7 +280,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un quadro ortonormale, studiare polinomi il cui grafico passa attraverso tutti i vertici di un k-gon regolare centrato a O: caso di triangoli equilaterali, quadrati centrati a O, il limite inferiore d >= k-1, e la sufficienza di ogni d >= k-1 (via polinomi di Chebyshev).*

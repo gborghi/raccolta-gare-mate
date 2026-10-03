@@ -29,7 +29,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Addition with matches: find digits to be deleted*
@@ -62,7 +62,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form in the maze: maximum distance to be walked*
@@ -95,7 +95,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Box numbers: sums of the two boxes equal*
@@ -128,7 +128,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Magic square 3x3: reconstruct the missing values
@@ -159,7 +159,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Farmer's market: maximum number of chickens per cow *
@@ -188,7 +188,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *School party: minimum number of seats available*
@@ -217,7 +217,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flights of ravens and sparrows: how many birds at the beginning*
@@ -246,7 +246,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What influences: how many male pupils are present today*
@@ -277,7 +277,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Decoupage: divide the figure into two overlapping pieces*
@@ -308,7 +308,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Strange triangle rectangle: measurement of a sharp angle*
@@ -337,7 +337,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Test of four: number chosen by Nando*
@@ -366,7 +366,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Chess: how many players entered the tournament*
@@ -397,7 +397,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Thirteen positive numbers with sum 2010: maximum MCD*
@@ -428,7 +428,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many squares can be drawn on a grid*
@@ -457,7 +457,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sixth power of a decreasing nine-digit number*
@@ -489,7 +489,7 @@ Magic square 3x3: reconstruct the missing values
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum security: minimum number of safe keys*

@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time from A to B swimming with the same energy as the counter current*
@@ -56,7 +56,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure of the highlighted angle with three adjacent squares*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The position of the Blue team with all the wrong forecasts
@@ -115,7 +115,7 @@ The position of the Blue team with all the wrong forecasts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cyclists have at least lied if sum and 36
@@ -144,7 +144,7 @@ How many cyclists have at least lied if sum and 36
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of equilateral triangles joining vertices of a cube*
@@ -173,7 +173,7 @@ How many cyclists have at least lied if sum and 36
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum matches so that everyone is a partner of everyone*

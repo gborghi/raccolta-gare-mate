@@ -32,7 +32,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di pile di pietra: dimostra che il numero finale di pile è invariante*
@@ -65,7 +65,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il riflesso del centro del circolo si trova sul circolo ABC*
@@ -94,7 +94,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza autoreferenziale: trovare il più piccolo M che lo rende autoreferenziale nel 2022*
@@ -123,7 +123,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esmeralda cancella e scrive a bordo; trova il composto più grande non riesce a scrivere*
@@ -150,7 +150,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione somma paritaria: dimostrare la crescita legata con costante c *
@@ -177,7 +177,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10x10 tabella dipinta in rosso: massimo n cellule in nessun gruppo speciale di 6 cellule*

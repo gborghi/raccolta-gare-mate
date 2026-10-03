@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
@@ -59,7 +59,7 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che un triangolo equilaterale può essere tagliato in 20 triangoli equilaterali più piccoli*
@@ -88,7 +88,7 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due mazze di carte: organizzare 100 carte a faccia in giù con tutti i numeri 1100*
@@ -118,7 +118,7 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *5×5 tabella con i numeri 125; trovare tutte le somme possibili dopo lo scambio di segni*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore minimo di x2+y2 con restrizione xy(x2−y2) = x2+y2*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca interi positivi con fattori primi ≤5 che soddisfano x2−y2=2^k*
@@ -85,7 +85,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che l'angolo BPC è uguale all'angolo BAC utilizzando punti sui lati estesi*
@@ -112,7 +112,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esame con bambini 2006, qualsiasi tre domande ≥5 domande; trovare risposte minime corrette *

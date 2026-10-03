@@ -29,7 +29,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La differenza più piccola possibile tra due numeri naturali a 3 cifre distinte: cifre più grandi e tutte uguali, cifre più piccole e tutte strane*
@@ -64,7 +64,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i quadrilaterali non incrociati formati dalla connessione di un punto da ciascuno dei quattro cerchi contenenti 1,2,3,4 punti interni*
@@ -99,7 +99,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primo numero a tre cifre della sequenza 1, 6, 11, ... (passo 5) *
@@ -132,7 +132,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a due cifre che non sono né prime né moltipli di 2, 3 o 5*
@@ -165,7 +165,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri composti in {101, 1001, 10001, ..., 1000000000001}*
@@ -198,7 +198,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Litr di acqua evaporata che disidrata 100 kg di pere dal 90% al 60% di acqua*
@@ -232,7 +232,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza laterale di un triangolo equilaterale formato da 49 unità di triangolo equilaterale*
@@ -267,7 +267,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Incorrenze del gruppo '89' nella catena di numeri interi 1..1000 scritte consecutivamente*
@@ -302,7 +302,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di minuti per un serratore per formare una catena a 30 collegamenti da dieci pezzi a 3 collegamenti*
@@ -339,7 +339,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare la figura corretta che mostra le posizioni del 2001 e del 2000 in una striscia di numeri decorativi a due righe*
@@ -373,7 +373,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso il prezzo di una dozzina di arance più una dozzina di banane in melone *
@@ -406,7 +406,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ultima cifra della somma di 70 integri positivi consecutivi*
@@ -438,7 +438,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Peso di una moneta da 50 centesimi data l'equivalenza massa-per-money con le monete da 20 centesimi*
@@ -471,7 +471,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore numerico comune del perimetro e dell'area di un rettangolo con lati interi distinti*
@@ -504,7 +504,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di cifre di una N a tre cifre tale che 7N finisca in 171*
@@ -537,7 +537,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Closure di buco di piccione per 32 quadrati occupati su una lavagna a 6 righe a 9 colonne*
@@ -570,7 +570,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nomero di ragazzi in una classe data il resto mod 4 e mod 5, con 15 ragazze e ragazze che superano in numero i ragazzi*
@@ -603,7 +603,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente due volte*
@@ -636,7 +636,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di lupi tra i cinque animali AE che sono cani (verità) o lupi (mentitori), data la loro dichiarazione*
@@ -671,7 +671,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tigli bianchi necessari per una sequenza di mosaico quadrato utilizzando 80 piastrelle nere circostanti*

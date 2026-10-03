@@ -29,7 +29,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rapporto alfa/beta in una figura con quattro segmenti uguali*
@@ -62,7 +62,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per x = 10^(-2008), trovare l'opzione con il valore più grande*
@@ -98,7 +98,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integrale positivo a e 1/a su una linea di numeri; trovare la loro somma*
@@ -135,7 +135,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I dipendenti dell'azienda: quanti parlano sia portoghese che inglese*
@@ -168,7 +168,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Raphael sceglie carte da un insieme aritmetico che somma a 100
@@ -200,7 +200,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I corridori su una pista regolare n-gon si incontrano a vertici; trovare n*
@@ -231,7 +231,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nove numeri ordinati: mezzo è la media di tutti; trovare la somma totale *
@@ -263,7 +263,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *OBM il 14 giugno 2008 (sabato, anno bisestivo); quando il 14 giugno sarà nuovamente sabato*
@@ -294,7 +294,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi per fare R\$10.00 con monete da 10 cent e 25 cent, almeno una di ciascuna*
@@ -325,7 +325,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra n tale che n*2^n abbia 2008 più divisori di n; trovare la somma di n*
@@ -356,7 +356,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti di 2,3,5,7,11 dividono 371^4 - 41^4*
@@ -387,7 +387,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *cubo di legno con 3 facce rosse e 3 facce blu tagliati in 27; cubbi di conteggio con facce rosse e blu*
@@ -420,7 +420,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
@@ -451,7 +451,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità Bernaldo non ha picche dato che Arnaldo non ne ha*
@@ -484,7 +484,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte: un disegno quadrato in 5 regioni dipinte con 5 colori; conteggio distinto in rotazione*
@@ -516,7 +516,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale con angoli dati; angolo di ricerca DBC*
@@ -546,7 +546,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles PQR; tangente al circolo a Q incontra l'estensione del PR a X; trova RX*
@@ -576,7 +576,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC (3,4,5): rapporto tra il raggio di inraggio e il raggio del cerchio centrato sulla tangente BC e l'AC*
@@ -611,12 +611,12 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Numero di soluzioni reali di x|x|+y|y|=1 e floor(x)+floor(y)=1*
 
 > Qual è il numero di soluzioni reali del sistema $$x \cdot |x| + y \cdot |y| = 1 \quad \text{and} \quad \lfloor x \rfloor + \lfloor y \rfloor = 1,$$ in cui $\lfloor x \rfloor$ rappresenta la parte intera di $x$?
 > 
 > (A) $0$ (B) $1$ (C) $2$ (D) $4$
-
 
 [[Quesiti/src_obm_2008_n3_f1#q19|src_obm_2008_n3_f1__Q19]]
 
@@ -640,7 +640,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri "paladino" a 4 cifre: multipli di 9 senza cifre zero*
@@ -671,7 +671,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi funzioni f(x)=cx/(2x+3) con f(f(x))=x per tutte le x*
@@ -703,7 +703,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cono di altezza di 5 cm riempito di sabbia a 3 cm, poi invertito; trova l'altezza del livello di sabbia*
@@ -738,7 +738,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato magico moltiplicativo con cellule 4, AC, C, 24; trovare A+B+C+D*
@@ -771,7 +771,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10 persone di altezza diversa in fila, diminuendo dal più alto alle due estremità; sistema di conteggio*
@@ -808,7 +808,7 @@ Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque integri positivi >1 con condizioni di prodotto cicliche; trovare a+b+c+d+e*

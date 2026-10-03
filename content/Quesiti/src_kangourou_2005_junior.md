@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Total students with Elena 50ma from both sides
@@ -68,7 +68,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of males with mixed pairs*
@@ -103,7 +103,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum coins to be minted at a power station*
@@ -150,7 +150,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary measurements of 10 small aligned circles*
@@ -186,7 +186,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum balloons inflated in two hours*
@@ -225,7 +225,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number x for arithmetic progressions in the table*
@@ -263,7 +263,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage increase in wrong brick volume*
@@ -324,7 +324,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area shaded region with three semicircles*
@@ -383,7 +383,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic mean of two periodic decimals*
@@ -434,7 +434,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer pairs m,n with m2=n2+17 *
@@ -476,7 +476,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Top of the dice in the final position*
@@ -515,7 +515,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum balls extracted by sum of 18*
@@ -555,7 +555,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A claim that the alternating liar cannot make*
@@ -607,7 +607,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couple areas of the remaining two rectangles*
@@ -667,7 +667,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible sum of 22 integers with product 1*
@@ -707,7 +707,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of ten corners on five lines per P*
@@ -747,7 +747,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most common segment of two strands *
@@ -786,7 +786,7 @@ Total students with Elena 50ma from both sides
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum KANGOUROU number with bell code *
@@ -822,7 +822,7 @@ Maximum KANGOUROU number with bell code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum perimeter of new rectangle from shafts*
@@ -866,7 +866,7 @@ Maximum KANGOUROU number with bell code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
@@ -905,7 +905,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of different bus results in 19 minutes*
@@ -944,7 +944,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of pyramid containing 14 cubes*
@@ -975,7 +975,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is not the development of an octahedron (cancelled) *
@@ -1027,7 +1027,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Short radius of small square circumference*
@@ -1112,7 +1112,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total n integers satisfying two inequalities*
@@ -1154,7 +1154,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance E to D with equal trapezoidal areas*
@@ -1190,7 +1190,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit dividers of 102^2*
@@ -1228,7 +1228,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded triangle area in the matching fish*
@@ -1264,7 +1264,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of non-line/column black and white box*
@@ -1352,7 +1352,7 @@ The value of a_2005 in succession to a_n=a_{n-1}-a_{n-2}*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CPE angle with three adjacent squares*

@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural < 1000 with a sum of 3 digits *
@@ -77,7 +77,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum losses by paying for shoes with vouchers*
@@ -128,7 +128,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle D in a rectangle with point E and equal sides*
@@ -171,7 +171,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of a+5b with ab=12 natural*
@@ -211,7 +211,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which expression is certainly odd*
@@ -263,7 +263,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *area of triangle EDA parallel to E on AB*
@@ -308,7 +308,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max intersections between 3 circumferences and 3 lines*
@@ -356,7 +356,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression value with powers of 3 and 28*
@@ -398,7 +398,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies 1000-3000 with digit 7 exactly once*
@@ -474,7 +474,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *UV length between arcs in the square diagonal*
@@ -541,7 +541,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum extractions per pair with sum of 22*
@@ -586,7 +586,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coming orders for bound cooks (6 cooks) *
@@ -629,7 +629,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of MCD with 42 greater than 10*
@@ -672,7 +672,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First whose square divides the product 31..51*
@@ -714,7 +714,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distribution of 3 pairs of siblings next to each other*
@@ -767,7 +767,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement PC' from distances of P from the sides (sum of heights) *

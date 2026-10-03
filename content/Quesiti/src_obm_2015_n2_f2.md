@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'intero più piccolo positivo che lascia cinque rimanenti distinti quando diviso per 2,3,4,5,6*
@@ -55,7 +55,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di ottagone equiangolare con lunghezze laterali indicate*
@@ -84,7 +84,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca m+n per un'equazione lineare con soluzione inferiore a 60*
@@ -111,7 +111,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Casse minime per la conservazione delle bottiglie d'acqua 2015 e delle scatole di succo d'arancia 2015*
@@ -140,7 +140,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un numero intero più vicino a z/y dato un sistema in x,y,z*
@@ -167,7 +167,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di AB data a due cerchi tangenti attraverso A e B con PB=QB=1000*
@@ -202,7 +202,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i colori di una griglia simile a una scacchiera da 2x5 dopo aver premuto i pulsanti*
@@ -239,7 +239,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n<100 rendendo (8n+5)/(5n+8) irriducibile*
@@ -268,7 +268,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meditazione dell'angolo EOF nel triangolo rettangolo ABC con altitudini e circoncentro*

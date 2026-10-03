@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un limite inferiore per una somma ponderata di inversi data una disposizione speciale di 1..n^2 su una scheda n ×n con una cella scelta per riga e colonna.*
@@ -57,7 +57,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un'equazione funzionale simmetrica a tre variabili che somma ciclicamente oltre cinque variabili alla loro somma; dimostrare l'identità ciclica analoga per qualsiasi n>=5 reali.*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un ABCDE pentagonale convexo con condizioni di lato e angolo uguali, dimostrare che BCDE è un parallelo.*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti di piano con le coordinate dei numeri interi sono di 2 colori; mostrano l'esistenza di un sottogruppo monocromatico infinito, centralmente simmetrico.*
@@ -138,7 +138,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se tutte le sezioni di un parallelepiped attraverso i punti medi di tre bordi non paralleli disgiunti in coppia hanno una superficie uguale, dimostrare che è un cuboide.*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per S = integri della forma a^2+5b^2 con coprimo a,b, e un primo p3 mod 4: se qualche multiplo di p è in S, dimostra che 2p è in S.*

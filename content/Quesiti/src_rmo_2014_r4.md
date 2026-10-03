@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo di trapezio isosceles: CE è uguale alla media geometrica di AB e CD*
@@ -54,7 +54,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza $4x^4+4y^3+5x^2+y+1\ge 12xy$ per i valori positivi *
@@ -82,7 +82,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie m>n di integri positivi con catena gcd uguale a gcd(m,2m-n) *
@@ -111,7 +111,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area minima di un triangolo rettangolare con raggio di inraggio 1*
@@ -141,7 +141,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Incircoli e conciclicità: dimostrare B,E,I,F conciclici in triangolo acuto*
@@ -172,7 +172,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare i numeri da 1 a 18 sui segmenti in modo che ogni vertice abbia la somma divisibile per 3*

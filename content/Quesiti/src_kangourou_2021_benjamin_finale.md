@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes to fill the first container of amoeba*
@@ -56,7 +56,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct 25x2=211 with +1/-1 on the digits*
@@ -97,7 +97,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square large given the small area 18*
@@ -142,7 +142,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Estimate of the number of cranberries by catch-recatch method*
@@ -172,7 +172,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To make 7 numbers equal by adding 1 to adjacent pairs*
@@ -200,7 +200,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum to be removed from 2..2021 without residual products*

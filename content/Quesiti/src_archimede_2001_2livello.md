@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal journeys for two sand-carrying lorries*
@@ -77,7 +77,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n turns to measure the circuit by error <30 m*
@@ -121,7 +121,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the grey region in the triangle isosceles rectangle*
@@ -164,7 +164,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of areas between hexagons P3 and P1 inscribed*
@@ -206,7 +206,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Identify the names of the three boys from the statements*
@@ -247,7 +247,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of A+B+C+D with AC×BC=DDD*
@@ -288,7 +288,7 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Location of points with distance from B twice that from A*
@@ -330,7 +330,7 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability that Lorenzo is healthy given the positive test*
@@ -372,7 +372,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sufficient condition because x^y > y^x*
@@ -415,7 +415,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of white ball extraction at second extraction*
@@ -452,7 +452,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of volume of regular tetrahedron and ABPQ tetrahedron*
@@ -481,7 +481,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n>200 sum of 5, 6 and 7 consecutive integers*
@@ -512,7 +512,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the BEF triangle with two outer equilaters to the square*
@@ -540,7 +540,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum slings of a dice per sum ≥48 with prob >50%*
@@ -569,7 +569,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Algebraic sum of the coefficients of a polynomial*
@@ -602,7 +602,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstrate that the HMK triangle is equilateral (angle 60°) *
@@ -632,7 +632,7 @@ Probability that Lorenzo is healthy given the positive test*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *All whole solutions of a3+b3=91*

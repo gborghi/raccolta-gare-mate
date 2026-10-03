@@ -60,7 +60,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Studiare la funzione f che scambia i primi e gli esponenti in una fattorizzazione di primi, e le sequenze iterate f^i(n).*
@@ -103,7 +103,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per una sequenza di reali positivi in cui almeno la metà di qualsiasi segmento iniziale è almeno il doppio dell'ultimo termine, mostrare la sequenza tende a 0.*
@@ -149,7 +149,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un postino visita ognuna delle n case in fila esattamente una volta per ogni viaggio; conta i viaggi, trova le lunghezze min e massime del viaggio e la durata attesa di un viaggio casuale.*

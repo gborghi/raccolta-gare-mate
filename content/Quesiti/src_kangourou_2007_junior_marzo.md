@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of visible faces divided by 6*
@@ -65,7 +65,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many tickets were awarded (link on figures) *
@@ -101,7 +101,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max distance between two persons (re-transmitter) *
@@ -136,7 +136,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AEF triangle area (middle points) *
@@ -178,7 +178,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Members after three years (+50% annually) *
@@ -229,7 +229,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of paths between the marked boxes*
@@ -294,7 +294,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *X and Y figures in the grid (sum of 2 per row/column) *
@@ -345,7 +345,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max of KAN+GA+ROO (different figures) *
@@ -404,7 +404,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of regions with 4 segments from A and B*
@@ -476,7 +476,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max months with five Sundays*
@@ -512,7 +512,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many liars out of 12 (statements) *
@@ -542,7 +542,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To what power do we raise 4^4 to get 8^8*
@@ -584,7 +584,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to anchor the two sections of the door*
@@ -633,7 +633,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *who solved or girls*
@@ -674,7 +674,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of movement region of the dog*
@@ -713,7 +713,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What time do I get to the distributor (consumption) *
@@ -748,7 +748,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the original triangle (trapezoid) *
@@ -799,7 +799,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 When the clock signs 5 more minutes
@@ -835,7 +835,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many games each student plays (doubles) *
@@ -885,7 +885,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of radii of two circumferences in the square*
@@ -931,7 +931,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a^3+b^3 where a,b roots of x^2-3x+1*
@@ -965,7 +965,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of all dividers of 2007*
@@ -1001,7 +1001,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What letter remains (elimination occurs oddly) *
@@ -1050,7 +1050,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max population of the city (number of hairs) *
@@ -1104,7 +1104,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is true equality (triangle, hexagon, circle) *
@@ -1150,7 +1150,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *K dividers (10k squared, 6k cubic) *
@@ -1188,7 +1188,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many necklaces were stolen (diamonds between 200 and 300) *
@@ -1223,7 +1223,7 @@ When the clock signs 5 more minutes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The most likely event (extraction of 3 cards)
@@ -1259,7 +1259,7 @@ The most likely event (extraction of 3 cards)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to exchange gifts without one's own (5 friends)
@@ -1301,7 +1301,7 @@ How to exchange gifts without one's own (5 friends)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the regular tetrahedron (spindle distance) *

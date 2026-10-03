@@ -33,7 +33,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale convex con punti di mezzo; dimostra che è quadrato*
@@ -65,7 +65,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi (a,b) che soddisfano l'equazione con p primo > 3*
@@ -92,7 +92,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rota reale di cubo; prova il piano di a^3 = 3*
@@ -121,7 +121,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con 2R ≤ r_a; dimostrare disuguaglianze laterali ed esradii*
@@ -150,7 +150,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *6 volte i quadrati di numeri interi positivi sommati; trovare gcd di tutti gli abcdef*
@@ -179,7 +179,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 5 volte che soddisfano l'equazione di somma reciproca; dimostrare che il conteggio è impar*

@@ -31,7 +31,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di marmo; trovare il rapporto p/q in termini di n*
@@ -64,7 +64,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
@@ -95,7 +95,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettore angolare, perpendicolare e angoli uguali in un triangolo*
@@ -128,7 +128,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri da 1 a N in un cerchio; trovare il massimo e il minimo della somma delle differenze vicine*

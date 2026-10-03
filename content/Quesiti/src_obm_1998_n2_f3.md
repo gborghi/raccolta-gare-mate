@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angoli interiori consecutivi in pentagone converso sommato su 216°*
@@ -53,7 +53,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find angolo BAC dato punti di mezzo e condizioni di angolo uguale in triangolo*
@@ -86,7 +86,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimi pin da posizionare in una fila di 20 buchi secondo le regole dei vicini*
@@ -117,7 +117,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra i 15 naturali > 1 e < 1998 copriamo in copriamo, almeno uno è primo*

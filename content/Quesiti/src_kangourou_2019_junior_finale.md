@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer points in the radius 10 centered circle of origin*
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total area of the tetrahedron*
@@ -82,7 +82,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 4 automorphic digits (last 4 digits of the square) *
@@ -143,7 +143,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that Giulio will total the first two wins.
@@ -182,7 +182,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alignments of six monotonous digits not all equal*
@@ -223,7 +223,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities n with [n/20]=[n/17]*
@@ -263,7 +263,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *P'OQ' convex angle after three hours of running*
@@ -304,7 +304,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of distinct mean points for 2019 points*
@@ -344,7 +344,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number ABC2 by correlation with reorder*
@@ -385,7 +385,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of numbers (3 decimals) with sum = product*
@@ -425,7 +425,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unknown side of the six rectangles in circumference*
@@ -466,7 +466,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First four decimal places of (sqrt50+7)^4*
@@ -507,7 +507,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-step achievable points (invariant MCD) *
@@ -548,7 +548,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to schedule three party invitations*
@@ -583,7 +583,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winning strategy in the 66-token game (who takes the last loss) *
@@ -612,7 +612,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of 4 integers at vertices with divisibility constraints*
@@ -639,7 +639,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bruno and Carlo can have a day of rest together (sports programmes) *
@@ -667,7 +667,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *After how many years the full moon returns on the same day (cycle 28 days) *
@@ -696,7 +696,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which n the number 5^(5n+1)+4^(5n+2)+3^(5n) is divisible by 11*
@@ -726,7 +726,7 @@ The probability that Giulio will total the first two wins.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AEF circle lies on the semicircle AB (acute triangle orthocentric) *

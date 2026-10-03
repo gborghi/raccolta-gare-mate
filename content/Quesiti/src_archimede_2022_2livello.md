@@ -39,7 +39,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Packing to minimize travel, together points*
@@ -81,7 +81,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of first 2022 figures of 57/111*
@@ -125,7 +125,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four tangent circles, radius of the fourth *
@@ -169,7 +169,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial with p(a) + p(b) + p(c) = p(674), value of p(2022) *
@@ -212,7 +212,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three 30 divisors with first consecutive MCDs*
@@ -255,7 +255,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle, two heights, area*
@@ -302,7 +302,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Setting of x and y equal to 7xy, sum of x+y*
@@ -351,7 +351,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the loan.
@@ -396,7 +396,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Recurring succession, minimum n with a_n divisible by 2022*
@@ -437,7 +437,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points of 2 from 1 to 2^100 starting with 1*
@@ -485,7 +485,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Families of π chicks, total possibility after 7 nesting *
@@ -530,7 +530,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle inside hexagon, length of route from the vertex*
@@ -599,7 +599,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hexagonal table, rectangular tablecloth, table area*
@@ -665,7 +665,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interi n for which the sum of the seed potencies is integer*
@@ -705,7 +705,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Petalose numbers, maximum flower, not divisible by 13*
@@ -742,7 +742,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle, beam, projections, isosceles ADH*
@@ -777,7 +777,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color first quadrant with semicircle, monochromatic*

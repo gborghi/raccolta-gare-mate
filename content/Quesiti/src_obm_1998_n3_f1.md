@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riferazione incrociata al problema 1 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -54,7 +54,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cross-reference al problema 2 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cross-reference al problema 5 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -110,7 +110,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riferazione incrociata al problema 6 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -138,7 +138,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cross-reference al problema 15 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -176,7 +176,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare la radice quadrata del decimale ripetitivo 0,4444...*
@@ -214,7 +214,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riferazione incrociata al problema 8 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -253,7 +253,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo di lati di un poligono convex i cui angoli interni sono tutti inferiori a 160 gradi (e non possono essere uguali a 160).*
@@ -301,7 +301,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media aritmetica di sei numeri è 4; dopo l'aggiunta di un settimo numero la media diventa 5. Trova il numero aggiunto.*
@@ -339,7 +339,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riferazione incrociata al problema 19 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -378,7 +378,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su una calcolatrice, la chiave A mappa da x a 1/x e la chiave 2 è doppia; a partire da 2, viene digitata la sequenza ABABAB...AB (998 tasti). Trova il numero risultante.*
@@ -427,7 +427,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri buoni tra 500 e 1000.*
@@ -476,7 +476,7 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un insieme di punti nello spazio in cui due punti distinti sono a distanza 1, trovare il numero massimo di punti.*
@@ -524,7 +524,7 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se x uomini fanno x bundles in x secondi, quanti secondi ci vogliono y uomini per fare y bundles?*
@@ -572,7 +572,7 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il prezzo della pizza è proporzionale all'area; una pizza di 20 cm di diametro costa R\$3,60. Trova il prezzo di una pizza di 30 cm di diametro.*
@@ -621,7 +621,7 @@ Il prezzo della pizza è proporzionale all'area; una pizza di 20 cm di diametro 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}. Trova il valore massimo di f ((x).*
@@ -669,7 +669,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due radio vendute a prezzi uguali, una con profitto del 25% e una con perdita del 25%; trovare il risultato netto sul capitale investito.*
@@ -725,7 +725,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro persone fanno dichiarazioni sulla risposta a un problema; trovare il numero massimo che possa essere simultaneamente vero.*
@@ -778,7 +778,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i valori reali di x che soddisfano sqrt(x) + sqrt(1/x) <= 2.*
@@ -831,7 +831,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare due A, due B e due C in una tabella 2x3, una per ogni cella, in modo che nessuna colonna contenga due lettere uguali; contare gli arrangiamenti.*
@@ -884,7 +884,7 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma erroneamente cammina un'ora tra ovest e nord a 30 gradi da nord; trova l'angolo da nord della direzione che deve prendere ora.*
@@ -932,7 +932,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I traghetti impiegano 25 minuti e lanciano 15 minuti da Rio a Niteroi; scoprire quando il traghetto che partì alle 10h01 viene superato dal lancio che partì alle 10h07.*
@@ -970,7 +970,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riferazione incrociata al problema 17 del livello 2 (dichiarazione non presente in queste pagine).*
@@ -1009,7 +1009,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare la somma delle radici reali di x^3 + 3x^2 + 3x - 1 = 0.*
@@ -1058,7 +1058,7 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato un cubo, considera i 27 punti formati da vertici, punti di bordo, centri facciali e il centro del cubo; conta le linee che passano attraverso tre di questi punti.*

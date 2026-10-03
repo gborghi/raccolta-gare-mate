@@ -26,7 +26,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n pezzi?
@@ -55,7 +55,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, punto interno O, somma di tre rapporti di linea parallela uguale a 1*
@@ -83,7 +83,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y) *
@@ -110,7 +110,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I conigli in cerchio; bianchi danno baffi al marrone, grigio al bianco; dimostrano che un coniglio marrone ha due vicini bianchi*
@@ -137,7 +137,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale convexa, angoli specifici, MD=NB; angolo di ricerca MNB*
@@ -166,7 +166,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il primo p divide il prodotto di (k^3+1); prova p ≤ n+1*
@@ -197,7 +197,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fly vs k spider sulla griglia 2018×2018; cellule di partenza sicure per le mosche*
@@ -229,7 +229,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni f: R *→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*

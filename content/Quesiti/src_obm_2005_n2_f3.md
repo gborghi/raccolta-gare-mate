@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli rettangolari con gambe parallele ai bordi della lavagna su griglia 5x5*
@@ -57,7 +57,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto, punto medio dell'ipotenusa, perpendicularità e area quadrilaterale*
@@ -88,7 +88,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che il rapporto del prodotto è uguale a 1/11, trovi la somma ciclica di a/(a+b) *
@@ -115,7 +115,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema del nuotatore e del registro: tempo per il registro di viaggio da A a B*
@@ -142,7 +142,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova 1^2005 + 2^2005 + ... + 2005^2005 è divisibile per 1+2+...+2005*
@@ -169,7 +169,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori d'angolo e bisettori esterni: prova angolo APM = 30 gradi*

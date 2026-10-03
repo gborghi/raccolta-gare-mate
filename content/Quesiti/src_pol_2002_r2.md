@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove tutte le funzioni f:R->R che soddisfano f(x)=f(2x)=f(1-x) per tutte le x sono periodiche.*
@@ -57,7 +57,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale con angolo ADB=2 angolo ACB e angolo BDC=2 angolo BAC; prova AD=CD.*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, dimostrare che due commissioni condividono almeno n/30 membri.*
@@ -113,7 +113,7 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri p<=q<=r in modo che pq+r, pq+r^2, qr+p, qr+p^2, rp+q, rp+q^2 siano tutti primi.*
@@ -142,7 +142,7 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il triangolo ABC con angolo BAC=90 è la base della piramide ABCD con AD=BD e AB=CD; prova angolo ACD>=30.*
@@ -171,7 +171,7 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n in modo tale che per tutti i reali x_i,y_i la disuguaglianza del prodotto con le somme dei quadrati sotto radici quadrate sia contenuta.*

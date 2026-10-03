@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of three rectangles, AB=20 BC=40*
@@ -60,7 +60,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(12) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2*
@@ -89,7 +89,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total of 20ab integers divisible by ab-1*
@@ -120,7 +120,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum integer dividing p(2024) by p(1) = 7 p(2) = 15*
@@ -149,7 +149,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scripts of 7 characters with exactly 210 anagrams*
@@ -178,7 +178,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum n*a_n^2024 with a_n opposite sum of proper divisors*
@@ -209,7 +209,7 @@ level: squadre
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of avoiding boxes (k,k+2) on the 2024 grid*
@@ -244,7 +244,7 @@ level: squadre
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic quadrilateral DA length with AEB=60*
@@ -278,7 +278,7 @@ level: squadre
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The last four digits of c_2024 with three consecutive concatenations*
@@ -308,7 +308,7 @@ level: squadre
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of beam triangles between 10 points per circle*
@@ -340,7 +340,7 @@ level: squadre
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible products of n integers with the left-hand number added*
@@ -408,7 +408,7 @@ level: squadre
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of convex edges with sides of equilateral triangles side 1*

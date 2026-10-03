@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Condizioni sulla somma delle diagonali e dei lati in un quadrilatero convesso*
 
 > In un quadrilatero convesso piano di area 32, la somma delle lunghezze di due lati opposti e di una diagonale è 16. Determinare tutte le possibili lunghezze dell'altra diagonale.
-
-
 
 [[Quesiti/src_imho_1976#q01|src_imho_1976__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Radici di polinomi iterati tutte reali e distinte*
 
 > Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Si dimostri che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
-
-
 
 [[Quesiti/src_imho_1976#q02|src_imho_1976__Q02]]
 
@@ -84,11 +82,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Scatola rettangolare riempita con cubetti unitari, il 40% degli spigoli parallelo*
 
 > Una scatola a forma di parallelepipedo rettangolo può essere riempita completamente con cubi unitari. Se vi si collocano quanti più cubi possibile di volume 2 ciascuno, con gli spigoli paralleli agli spigoli della scatola, si riesce a riempire esattamente il 40% della scatola. Determinare le possibili dimensioni di tutte le scatole con questa proprietà.
-
-
 
 [[Quesiti/src_imho_1976#q03|src_imho_1976__Q03]]
 
@@ -112,11 +109,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Prodotto massimo di interi positivi la cui somma è 1976*
 
 > Determinare, con dimostrazione, il più grande numero che è prodotto di interi positivi la cui somma è 1976.
-
-
 
 [[Quesiti/src_imho_1976#q04|src_imho_1976__Q04]]
 
@@ -148,6 +144,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Sistema lineare con coefficienti in {-1,0,1} ha soluzione intera*
 
 > Si consideri il sistema di $p$ equazioni in $q = 2p$ incognite $x_1, x_2, \ldots, x_q$:
@@ -162,8 +159,6 @@ level: IMO
 > (b) esista almeno un valore di $j$ per cui $x_j \neq 0$,
 >
 > (c) $|x_j| \le q$ ($j = 1, 2, \ldots, q$).
-
-
 
 [[Quesiti/src_imho_1976#q05|src_imho_1976__Q05]]
 
@@ -191,6 +186,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione u_n definita per ricorrenza; si dimostri che il suo valore intero è 2^{...}*
 
 > La successione $\{u_n\}$ è definita da
@@ -198,7 +194,5 @@ level: IMO
 > Si dimostri che per ogni intero positivo $n$,
 > $$[u_n] = 2^{[2^n - (-1)^n]/3}$$
 > dove $[x]$ indica il massimo intero $\le x$.
-
-
 
 [[Quesiti/src_imho_1976#q06|src_imho_1976__Q06]]

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare la somma delle distanze quadrate a due punti e a una linea*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli di triangolo scritti; tangenti formano un triangolo T; provare il risultato ortocentrico*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre linee nello spazio; PQ perpendicolare a n ha una lunghezza costante*
@@ -108,7 +108,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza per sei reali positivi con struttura di media armonica*
@@ -138,7 +138,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi di conteggio di 18 che soddisfano sette condizioni di ordine*
@@ -167,7 +167,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (n,k) con (n+1)^k = n! + 1*
@@ -198,7 +198,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una colonia di topi mn+1 dimostrare l'esistenza di un anticatenato o di una catena di tipo Dilworth*

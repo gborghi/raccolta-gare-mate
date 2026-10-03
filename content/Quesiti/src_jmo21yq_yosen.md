@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi a 4 volte con rigide disuguaglianze e differenze limitate*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di interi positivi ≤2011 divisibili per 3 con dati rimanenti*
@@ -84,7 +84,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i primi della forma axbxcxd+exfxg con cifre distinte 1..7*
@@ -113,7 +113,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il raggio del settore circolare OAB da segmenti di accordi*
@@ -142,7 +142,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dicina cifra del prodotto dei numeri interi ≤2011 che terminano in 3 o 7*
@@ -169,7 +169,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca AR in triangolo rettangolo con angolo bisector e condizioni di lunghezza uguale*
@@ -196,7 +196,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta 3×3 griglie con numeri interi 19 posizionate una volta che ciascuna soddisfa una condizione di marcatura*
@@ -223,7 +223,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un numero intero a 4 cifre P dalle condizioni a 2 cifre sul prodotto di due numeri a 2 cifre*
@@ -252,7 +252,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le disposizioni di colore di 12 marmi in fila con condizione di adiacenza*
@@ -283,7 +283,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca min e massimo di f(23)+f(2011) per una funzione che soddisfa una disuguaglianza funzionale*
@@ -310,7 +310,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *OM:ON per un quadrilaterale tangenziale con incentro O*
@@ -338,7 +338,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il rapporto di somme per i reali non negativi sommando a 1*

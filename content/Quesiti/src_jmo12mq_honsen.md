@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione MP*MQ costante per il cerchio tangente inciso*
@@ -53,7 +53,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Flipping of coins on a circle by parity operation*
@@ -80,7 +80,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2002 naturali distinti con n più somma di cifre uguali *
@@ -107,7 +107,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza della somma ciclica in due limitazioni di normalizzazione*
@@ -134,7 +134,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max n che garantisce un rettangolo allineato ad assi ricchi di punti*

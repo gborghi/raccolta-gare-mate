@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of chocolates given to three children*
@@ -67,7 +67,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many trains the 6.00 train meets *
@@ -101,7 +101,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of the three numbers thought out (Adele, Beatrice, Cecilia) *
@@ -135,7 +135,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of digits of a 3-digit number divisible by 4*
@@ -193,7 +193,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at the place of the question mark (unrelated sequences) *
@@ -249,7 +249,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The number of stops passengers make is halved*
@@ -282,7 +282,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What a number and certainly odd*
@@ -411,7 +411,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which row is 2024 (module layout) *
@@ -551,7 +551,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who lied among the four grandchildren?
@@ -617,7 +617,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of digits of a digital watch*
@@ -650,7 +650,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 For how many years the sum of the children is equal to the father
@@ -682,7 +682,7 @@ For how many years the sum of the children is equal to the father
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last four digits of the first digit of the live number > 598764*
@@ -715,7 +715,7 @@ For how many years the sum of the children is equal to the father
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Francobolli in the first envelope (recurrence backwards) *
@@ -751,7 +751,7 @@ For how many years the sum of the children is equal to the father
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to divide 1.8 in pairs with constant difference*
@@ -784,7 +784,7 @@ For how many years the sum of the children is equal to the father
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product of 9 numbers 2 or 3 between 600 and 1000

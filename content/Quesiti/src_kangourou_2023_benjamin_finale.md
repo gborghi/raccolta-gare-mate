@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Distribute 16 bottles (full/half/empty) equally to 4*
@@ -60,7 +60,7 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two missing numbers*
@@ -92,7 +92,7 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *last position boy*
@@ -131,7 +131,7 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum tokens **
@@ -169,7 +169,7 @@ Minimum tokens **
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information shall be provided:
@@ -200,7 +200,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the maximum amount of lying.

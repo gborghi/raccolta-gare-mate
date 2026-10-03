@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Proprietà di unità triangolare pentagonale convexa: superficie uguale, infinite non congruenti*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molti n dove le ultime m cifre decimali di 3^n parità alternativa*
@@ -82,7 +82,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le radici di una somma binomiale alterna parziale uguale a 1/2*
@@ -118,7 +118,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le distribuzioni di quattro libri a n amici secondo tre regole*

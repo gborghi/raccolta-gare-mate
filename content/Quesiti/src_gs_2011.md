@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the people who tell the truth on the island of truthful people*
@@ -67,7 +67,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance to the surface of a cylindrical skyscraper*
@@ -103,7 +103,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of areas in triangles with parallels and ratio 10*
@@ -134,7 +134,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report area of circles surrounded by square and triangle*
@@ -166,7 +166,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of perfect squares of the form n/(4000-n) *
@@ -201,7 +201,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of getting 14 with three dice given one stroke*
@@ -235,7 +235,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Famous polynomials with a value of 2 more than 2011*
@@ -266,7 +266,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of k with 2011+k divided by 2011+k^2*
@@ -302,7 +302,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of the weapon activating at fifth pressure*
@@ -337,7 +337,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a vertical sheet given the square shade*
@@ -372,7 +372,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of opening at least 13 boxes (permutation) *
@@ -407,7 +407,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum extractions for 6 socks of the same colour*
@@ -447,7 +447,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of r^3-9r+2011 with r sum of cubic roots*
@@ -483,7 +483,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Export area of swimming pool and terrain with extended avenues*
@@ -515,7 +515,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four digit code divisible by seven with inverted digits*
@@ -553,7 +553,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance on a prism-pyramid skyscraper*
@@ -584,7 +584,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of height comparison statements with implication*
@@ -610,7 +610,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that a player opens more than five boxes
@@ -636,7 +636,7 @@ The probability that a player opens more than five boxes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colors of a 10x5 table with adjacency constraint*
@@ -662,7 +662,7 @@ The probability that a player opens more than five boxes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of keys in a spiral keyboard with diagonal binding*
@@ -689,7 +689,7 @@ The probability that a player opens more than five boxes
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the centre of operation with triangular axles*
@@ -715,7 +715,7 @@ The probability that a player opens more than five boxes
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of dependence between five comparison statements*
@@ -741,7 +741,7 @@ The probability that a player opens more than five boxes
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of lamps forming an octagonal triangle on a 9x9 grid*
@@ -767,7 +767,7 @@ The probability that a player opens more than five boxes
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a spherical triangle with angles 90-60-45*

@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Invariant final figure subtracting the reversed number*
@@ -56,7 +56,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences consecutive with a sum of digits divisible by 7*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair diameter and minimum circle of a set*
@@ -115,7 +115,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cube inscribed in a regular dodecahedron*
@@ -146,7 +146,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum thread to run along the sides of a 9x7 lattice*
@@ -176,7 +176,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Funktion that sends each interval over all [0,1]*

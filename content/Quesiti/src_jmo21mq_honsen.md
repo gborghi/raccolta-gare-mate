@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto: prova AM·PM = BM2 con centroid e punto medio*
@@ -54,7 +54,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i quadrupli di interi positivi che soddisfano il prodotto facoltato a^n-1*
@@ -91,7 +91,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di griglia: B può sempre terminare il gioco indipendentemente dalle mosse di A*
@@ -130,7 +130,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni a valore reale che soddisfano una determinata equazione funzionale*
@@ -157,7 +157,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti, uguali a tutti e quattro i triangoli implica congruenza*

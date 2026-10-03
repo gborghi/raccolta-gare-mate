@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i numeri interi n in modo che un cubo abbia tre radici di numeri interi*
@@ -56,7 +56,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line di conteggio che riuniscono contemporaneamente quattro determinate linee parametriche*
@@ -83,7 +83,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i passi di Esmeralda nel 2008 sulla griglia di numeri interi che finiscono all'origine*
@@ -112,7 +112,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più piccolo k>0 con ABA^{-1}=B^k per n ×n matrici A,B≠I*
@@ -139,7 +139,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero minimo di iperbole per coprire tutti i punti del piano*
@@ -166,7 +166,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limito di calcolo di P_n P_{n+1}/n per una sequenza di somma trigonometrica*

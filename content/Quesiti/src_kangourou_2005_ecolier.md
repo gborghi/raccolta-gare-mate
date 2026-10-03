@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many holes remain after target cover*
@@ -57,7 +57,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mmonths containing day 30*
@@ -93,7 +93,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum kangaroo movements 2 per row and column*
@@ -129,7 +129,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum trips to fill tank by losing goal*
@@ -167,7 +167,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tigers leaving the scene (five rows) *
@@ -199,7 +199,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of children with sibling *
@@ -247,7 +247,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining chocolate squares*
@@ -293,7 +293,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares eaten without the initial size*
@@ -329,7 +329,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which vehicle can cross the bridge*
@@ -371,7 +371,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal number with conditions on the digits*
@@ -409,7 +409,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum segments to divide rectangle into squares*
@@ -442,7 +442,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which can be the third part of the cut square*
@@ -475,7 +475,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pieces cut from 15 to 23*
@@ -507,7 +507,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Midway bench number between 24 and 66*
@@ -542,7 +542,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle position after 2005 seconds*
@@ -586,7 +586,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *False claim on cats and dogs with fears*
@@ -624,7 +624,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum lift travel with a capacity of 150 kg*
@@ -670,7 +670,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different rectangles with 14 matches*
@@ -716,7 +716,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many games did Edward win by cards?
@@ -751,7 +751,7 @@ How many games did Edward win by cards?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of each yard flooring 24x28*
@@ -796,7 +796,7 @@ How many games did Edward win by cards?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of two numbers with difference 989*
@@ -839,7 +839,7 @@ How many games did Edward win by cards?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum exchanges for rearranging five cards*
@@ -874,7 +874,7 @@ How many games did Edward win by cards?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which cube allows the given development*
@@ -918,7 +918,7 @@ How many games did Edward win by cards?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of 100 whole with product 100*

@@ -27,7 +27,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quante volte appare la cifra 9 in 10^100 meno 2003*
@@ -56,7 +56,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi inferiori a 2003^2 e 2004^2 che sono multipli di 100*
@@ -87,7 +87,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli formati da segmenti in una figura*
@@ -120,7 +120,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'allievo nota X su un orologio digitale che mostra 7 ogni minuto; trova la metà dei voti totali *
@@ -153,7 +153,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rota di traghetto con 25 cabine; quante cabine totali*
@@ -184,7 +184,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare gli anni biscotti dal 1889 ad oggi*
@@ -215,7 +215,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Torre di dice: ridurre al minimo la somma dei punti visibili del viso *
@@ -248,7 +248,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiplicazione 45 per a3 = 3bcd; trovare b+c+d*
@@ -277,7 +277,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque diversi interi positivi con media 11; massimizzare il più grande*
@@ -308,7 +308,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale *
@@ -338,7 +338,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi positivi inferiori a 120 espressi come somma di due o più potenze distinte di 3*
@@ -368,7 +368,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati ABCD e FHIJ condividono una linea laterale; trovare superficie di quadrato BEFG*
@@ -398,7 +398,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri potenti inferiori a 100*

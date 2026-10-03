@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più piccola divisione primaria x^2+5x+23 per un certo numero intero x*
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le sottogruppe minori di k so k coprono S tramite sindacati firmati*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line EH e FG parallele nel rombo con linee tangenti*
@@ -109,7 +109,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti sul cerchio che massimizzano l'area ABCD quadrilaterale*
@@ -141,7 +141,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza funzionale che implica f(x_0)<0 per alcuni x_0*
@@ -172,7 +172,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum n_0 quindi n>=n_0 implica che non esiste un grafico bacana*

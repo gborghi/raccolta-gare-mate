@@ -29,7 +29,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum time for three friends to meet
@@ -61,7 +61,7 @@ Minimum time for three friends to meet
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Average aircraft speed in the remaining two thirds*
@@ -94,7 +94,7 @@ Minimum time for three friends to meet
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of diameters of large circle and small circle*
@@ -127,7 +127,7 @@ Minimum time for three friends to meet
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three non-zero digits with equal fractions *
@@ -157,7 +157,7 @@ Minimum time for three friends to meet
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of a gold coin coming from the red sack
@@ -189,7 +189,7 @@ The probability of a gold coin coming from the red sack
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How much would they have to pay per bar per person
@@ -220,7 +220,7 @@ How much would they have to pay per bar per person
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of three digits equal to the sum of the first and the square of the second digits*
@@ -250,7 +250,7 @@ How much would they have to pay per bar per person
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The distance travelled by Angelo in the last hour
@@ -285,7 +285,7 @@ The distance travelled by Angelo in the last hour
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum length of the perimeter of the third part of the garden*
@@ -321,7 +321,7 @@ The distance travelled by Angelo in the last hour
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report dark area and large circle area*
@@ -355,7 +355,7 @@ The distance travelled by Angelo in the last hour
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ours used to descend along a French channel*
@@ -387,7 +387,7 @@ The distance travelled by Angelo in the last hour
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How much is Mauro's in the pizza division?
@@ -417,7 +417,7 @@ How much is Mauro's in the pizza division?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tri-digit number with sum of the first n natural numbers*
@@ -446,7 +446,7 @@ How much is Mauro's in the pizza division?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most natural odd n such that n+4 is prime*
@@ -476,7 +476,7 @@ How much is Mauro's in the pizza division?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of students in the classroom*
@@ -511,7 +511,7 @@ How much is Mauro's in the pizza division?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of moves to run 1000 cm*
@@ -546,7 +546,7 @@ How much is Mauro's in the pizza division?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance to travel from A to D *
@@ -577,7 +577,7 @@ How much is Mauro's in the pizza division?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Natural number n such that 2n+3 divides 6n+43*
@@ -606,7 +606,7 @@ Natural number n such that 2n+3 divides 6n+43*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with the property of sum in two tranches*
@@ -638,7 +638,7 @@ Natural number n such that 2n+3 divides 6n+43*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the tank diameter d*

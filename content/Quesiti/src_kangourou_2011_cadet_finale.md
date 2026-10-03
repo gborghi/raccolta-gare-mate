@@ -29,7 +29,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of problems for five categories with scoring constraints*
@@ -60,7 +60,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum difference between numbers with sum of digits divisible by 5*
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum length of wire per cylinder encountered by each generator*
@@ -116,7 +116,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who skips a pit circuit without falling and why
@@ -152,7 +152,7 @@ Who skips a pit circuit without falling and why
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of C always equal*
@@ -187,7 +187,7 @@ Who skips a pit circuit without falling and why
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many distinct values of the sum of the perimeter of 4 triangles area 1/4*

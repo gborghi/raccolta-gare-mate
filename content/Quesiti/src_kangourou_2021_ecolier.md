@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cube composed of 4 identical bricks*
@@ -84,7 +84,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fish with the nose towards the ring by stretching the rope*
@@ -134,7 +134,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the addition to the card puzzle*
@@ -188,7 +188,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragment that is part of the smiling sun*
@@ -237,7 +237,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Highest scored score *
@@ -288,7 +288,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of heels on the meter wrapped in the cylinder*
@@ -337,7 +337,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gold flame stars given 20 total and +6*
@@ -383,7 +383,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of each white ball from the balance sheet*
@@ -425,7 +425,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flows remaining on the three branches of the eucalyptus*
@@ -487,7 +487,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Euro in cash at the opening given the freezing charge*
@@ -542,7 +542,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Alignment that prevents Gina from grouping
@@ -591,7 +591,7 @@ Alignment that prevents Gina from grouping
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form to be taken from the vessel 4*
@@ -637,7 +637,7 @@ Alignment that prevents Gina from grouping
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final result by combining arrow tokens *
@@ -713,7 +713,7 @@ Alignment that prevents Gina from grouping
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Box in which Eva attacked the flower
@@ -763,7 +763,7 @@ Box in which Eva attacked the flower
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the remaining fire ladder*
@@ -819,7 +819,7 @@ Box in which Eva attacked the flower
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Waiting for the three cups after the tenth move*
@@ -874,7 +874,7 @@ Box in which Eva attacked the flower
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum modules for three regions with two of 6 trees*
@@ -926,7 +926,7 @@ Box in which Eva attacked the flower
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which paper to fold for equal sums*
@@ -997,7 +997,7 @@ Box in which Eva attacked the flower
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the grey square from adjacent sums*
@@ -1050,7 +1050,7 @@ Box in which Eva attacked the flower
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Balloon certainly hit to total 30
@@ -1100,7 +1100,7 @@ Balloon certainly hit to total 30
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of sweets divisible by 2,3,4 with remainder 6 out of 7*
@@ -1145,7 +1145,7 @@ Balloon certainly hit to total 30
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tasks containing apples given the triple weight*
@@ -1191,7 +1191,7 @@ Balloon certainly hit to total 30
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number in the square? with arrows min->max*
@@ -1261,7 +1261,7 @@ Number in the square? with arrows min->max*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Forms to be used for balance sheet *

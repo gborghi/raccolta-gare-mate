@@ -30,7 +30,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione integrale che implica due punti derivati uguali*
@@ -63,7 +63,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caratteristica del complemento finito attraverso il conteggio delle soluzioni di equazioni lineari*
@@ -94,7 +94,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Recurrenza della sequenza: subsequenza limitata da progressione aritmetica infinita*
@@ -127,7 +127,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line iperboloide: esistenza di due linee e angolo comune con z=0*
@@ -162,7 +162,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni da Z a Z che soddisfano due condizioni funzionali*
@@ -199,7 +199,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tuppi ordinati con prodotto massimo n; legato f(n) tra due potenze *

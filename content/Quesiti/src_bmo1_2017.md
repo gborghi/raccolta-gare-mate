@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli insiemi di cifre che appaiono un numero impar di volte nel periodo da 1 a 2016*
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i reali positivi y che soddisfano {y}{2y}=1 dove {x}=max(x,1/x) *
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi positivi (m,n) che soddisfano m^6 - 66 = n^2 + 5n - 10*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
@@ -138,7 +138,7 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Aree uguali [ACP]=[ABC]=[BQC] implicano angolo BCA=90 gradi*
@@ -165,7 +165,7 @@ Gioco di somma integrale di Naomi e Tom; determina la strategia vincente
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri positivi consecutivi divisibili da numeri interi unici consecutivi; trovare il più piccolo m*

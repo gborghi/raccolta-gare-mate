@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Aree tangenti comuni e uguali di triangoli da due cerchi intersezionati*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta minima dell'espressione data a valori reali positivi con xy=32*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi n e k che soddisfano un'equazione radicale*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di dieci elementi distinti la cui somma è divisibile per 6; sostituire dieci con sette*

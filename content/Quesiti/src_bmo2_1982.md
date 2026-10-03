@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I bisettori angolari incontrano il circoncircolo; dimostrare l'ineguaglianza della somma*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri primi; prova che 5 non è membro*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più grande in modo che ax+(a+1)y+(a+2)z=n non abbia soluzione positiva*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due punti della curva x^n - ay^n = b; disuguaglianza di superficie*
@@ -134,7 +134,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione funzionale polinomica; prova l'identità di P(3x) *

@@ -47,7 +47,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1obqFZcNocFah5P6ftcXj9ue3NMcS9ZQn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Stabilità geometrica: una sequenza con incrementi limitati x_{n+1}-q x_n in [0,epsilon], espressa tramite telescopio, successivamente approssimata con sequenze geometriche per q<1 e q>1.*
@@ -102,7 +102,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1obqFZcNocFah5P6ftcXj9ue3NMcS9ZQn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco dice/monete 'Vite, pile': ciascuno dei giocatori k lancia una moneta giusta fino a che non capisce (punteggio = numero di lanci). Trova la probabilità che un determinato giocatore vinca, la probabilità di un vincitore unico (e limite come n all'infinito), e il numero previsto di vincitori (e limite).*
@@ -183,7 +183,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1obqFZcNocFah5P6ftcXj9ue3NMcS9ZQn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cifri dietro le lettere: un numero d è "buono" per una parola di lunghezza n se un'attribuzione (le lettere a cifre distinte) è un multiple di d. Determina quali d sono buoni vs cattivi (una cattiva d ha una parola "bloccante" senza più), con risultati su 10, 8, 27, 32, numeri primi attraverso Fermat, 9, 18 e relazioni divisori.*

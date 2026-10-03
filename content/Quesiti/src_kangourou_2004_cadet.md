@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The results of the 2004-4*200*
@@ -64,7 +64,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle of rotation of the equilateral triangle*
@@ -101,7 +101,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Starting number in the operation sequence*
@@ -163,7 +163,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many seeds per box with the question mark*
@@ -198,7 +198,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *After the number of stops of passengers near the destination*
@@ -229,7 +229,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit integers with decimal places < united *
@@ -265,7 +265,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure is obtained by securing the cube*
@@ -297,7 +297,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Proportional increase in area of wool (+10%+10%) *
@@ -331,7 +331,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most frequent day in second year*
@@ -377,7 +377,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many rings in the 1.7 m long chain*
@@ -418,7 +418,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded region area (square and semicircular) *
@@ -454,7 +454,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Speed of train in the tunnel*
@@ -486,7 +486,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many boys (twin-tasting corners) *
@@ -522,7 +522,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many isosceles triangles with full perimeter*
@@ -568,7 +568,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Min judges because the average is 5.625 *
@@ -602,7 +602,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min bricks 1x2x3 for a full cube *
@@ -642,7 +642,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length by path (Pythagorean vertices) *
@@ -675,7 +675,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grandfather's age from the middle*
@@ -710,7 +710,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Factor by area of large/small circle*
@@ -765,7 +765,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of segment AB (three equal areas) *
@@ -806,7 +806,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Autumn compared to spring (discounts/increases) *
@@ -839,7 +839,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2004-th decimal point of 1/700*
@@ -870,7 +870,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which cannot be total pages (48/52) *
@@ -903,7 +903,7 @@ The results of the 2004-4*200*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many kangaroos have told the truth?
@@ -934,7 +934,7 @@ How many kangaroos have told the truth?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum a+b with a*b=10000 and not divided by 10*
@@ -974,7 +974,7 @@ How many kangaroos have told the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential x-y after 999 seconds (vertical) *
@@ -1009,7 +1009,7 @@ How many kangaroos have told the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max remainder division number/sum of digits*
@@ -1043,7 +1043,7 @@ How many kangaroos have told the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers on faces given sum of vertices*
@@ -1075,7 +1075,7 @@ How many kangaroos have told the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 4 digits divisible by 12 with sum of 6*
@@ -1141,7 +1141,7 @@ How many kangaroos have told the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of water in submerged tank II*

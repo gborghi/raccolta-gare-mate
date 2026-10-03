@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrati perfetti che finiscono in tre o quattro 4s; nessuno finisce in cinque*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area quadrilaterale e l'area di intersezione all'interno di un cubo di lato 2*
@@ -89,7 +89,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare le espressioni a due e tre variabili nell'intervallo unitario/cubo*
@@ -116,7 +116,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *MCN angolare in triangolo rettangolo con bisettori angolari e perpendicolari del piede*
@@ -143,7 +143,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare ordini di altezza alternati di sette (o otto) nani*

@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Isosceles trapezoide, diagonale di 100 m, angolo 30°, trovare S/sqrt(3) *
@@ -54,7 +54,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa calcolata del pavimento(sqrt(k)) per k=1 fino al 2008*
@@ -81,7 +81,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutti i numeri autoreplici a 4 cifre (ultimi cifre di n2 uguali a n) *
@@ -108,7 +108,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di 1,9, in cui tutti gli elementi tra i e i+1 sono inferiori a i*
@@ -140,7 +140,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto di coefficienti non zero del polinomio minimo di un'espressione di radice cubica incastonata*
@@ -170,7 +170,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi m, n con m2+161=3^n*
@@ -197,7 +197,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le funzioni idempotenti f:{1,2,3,4,5}→{1,2,3,4,5}*
@@ -225,7 +225,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezoide inciso in un cerchio di raggio 25, diametro CD, altezza 24, calcolo AF·BG/FG*
@@ -252,7 +252,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare il prodotto delle voci 2008 del 2008× 2008 matrice (i+j), una per riga e colonna*

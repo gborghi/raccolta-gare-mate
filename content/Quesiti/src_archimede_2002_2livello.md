@@ -31,7 +31,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of households with at least one television*
@@ -63,7 +63,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Subset of natural numbers with sum divisible by 6*
@@ -95,7 +95,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 A logical riddle about Martian and Venusian (who's thinking)
@@ -136,7 +136,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between radius and side of a geometric region*
@@ -174,7 +174,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *grey area report *
@@ -208,7 +208,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum value of c with a< b< c and reported data*
@@ -240,7 +240,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum c with a≤b≤c and sum of figures fixed*
@@ -271,7 +271,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the polynomial r(2002) with r(2000) = 2000, r(2001) = 2001*
@@ -303,7 +303,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a square divided by the figure (radius/side) *
@@ -335,7 +335,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Milk riddle and math team competition*
@@ -367,7 +367,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of moves to compose the 1000 piece puzzle
@@ -401,7 +401,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the rectangle divided into five squares*
@@ -435,7 +435,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a given parallelogram (Diego/Viola) *
@@ -468,7 +468,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting of cells of the colouring cube (4 boxes at the top) *
@@ -500,7 +500,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term (x,y,z) positive integers with product/condition given*
@@ -533,7 +533,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to show equality of angles*
@@ -565,7 +565,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parallel whole-sided pipes with volume 250000*

@@ -27,7 +27,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione di 1,17 con prodotto ciclico uguale a 2^t, ritrovare massimo t*
@@ -57,7 +57,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, circoncircolo, incentro, punto medio dell'arco; prova collinearità M,B,T*
@@ -87,7 +87,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti in {-1,0,1}, numero massimo di radici interi positive*
@@ -115,7 +115,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Printatrice a getto d'inchiostro su 1 ×n striscia con scuro accidentale adiacente, trovare le strisce attese T(n) *

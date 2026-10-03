@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra n^2(n^2+16) divisibile per 720 quando n-1 e n+1 sono entrambi primi*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per dividere sei coppie di gemelli in due squadre uguali senza gemelli insieme*
@@ -88,7 +88,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico: AC bisecta angolo DAB; mostra CE=CA se DE parallelo AB*
@@ -115,7 +115,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Correre il percorso sulla griglia triangolare equilaterale del lato N; trovare le cellule mass visitate*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni linea attraverso X è quadrilaterale convexa se è un parallelo*
@@ -169,7 +169,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2005 punti non tre collineari; i triangoli che contengono rigorosamente un dato punto sono pari*

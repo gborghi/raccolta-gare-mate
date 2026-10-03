@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi di quattro cifre N dove la rovescia di cifre dà 4N+3*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine il valore di a1997 in una sequenza definita ricorrentemente*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le modalità di pagamento in moneta esatta 1997 Pippins in valuta decimale*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di ABCD è uguale a 2 data la quadrilaterale PQRS di punto medio ha l'area 1*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre disuguaglianze sì/no per x, y positivi con condizioni di somma*

@@ -32,7 +32,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i k in modo tale che esistano infinitamente molti k-numeri*
@@ -66,7 +66,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ritrovare tutti i f dai numeri interi positivi ai numeri interi positivi che soddisfano l'equazione funzionale*
@@ -93,7 +93,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte nelle scatole; mostra N esiste per dividere la pila regolare in due pile regolare non vuote*
@@ -124,7 +124,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con circoncircolo; prova che la linea AT passa attraverso Q*

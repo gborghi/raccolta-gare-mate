@@ -29,7 +29,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of square and rectangular parts of cardboard*
@@ -62,7 +62,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Symbol with the largest number in subtraction 2012*
@@ -95,7 +95,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of pieces by cutting a horse iron with two straight lines
@@ -128,7 +128,7 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times does the alarm clock show a 0, a 1 and two 2 in 24 hours*
@@ -161,7 +161,7 @@ Maximum number of pieces by cutting a horse iron with two straight lines
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of grey squares rounded with 20 whites
@@ -192,7 +192,7 @@ Maximum number of grey squares rounded with 20 whites
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The age of Angelo by the speeches of partially correct friends
@@ -221,7 +221,7 @@ The age of Angelo by the speeches of partially correct friends
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Date after 29/09/2011 with four digits each used twice*
@@ -252,7 +252,7 @@ The age of Angelo by the speeches of partially correct friends
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple of 2012 using the five tokens in figure *
@@ -285,7 +285,7 @@ The age of Angelo by the speeches of partially correct friends
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Setting up seven Y-pieces in a grid without overlapping *
@@ -318,7 +318,7 @@ The age of Angelo by the speeches of partially correct friends
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find the 13 deleted numbers in the magic rectangle 3×7*
@@ -349,7 +349,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantum numbers between 1 and 1000*
@@ -380,7 +380,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square with two equilateral triangles of side length 16 cm*
@@ -413,7 +413,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of regions with three squares of the same size*
@@ -444,7 +444,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A four-digit number divided by nine gives the number without a 0*
@@ -473,7 +473,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive integer whose square has four digits all equal*
@@ -504,7 +504,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the BOIS quadrilateral in a forest parallelogram*
@@ -535,7 +535,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square of the distance between the ends of the hands at 16:00*
@@ -566,7 +566,7 @@ Find the 13 deleted numbers in the magic rectangle 3×7*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the figure into four equal parts by shape and bending*

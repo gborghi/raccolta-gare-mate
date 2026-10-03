@@ -28,7 +28,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real roots of square x^2-p) + 2 square x^2-1) = x *
@@ -64,13 +64,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Luogo di vertici di angoli retti con un lato per A*
 
 > 1963/6.
 >
 > Cinque studenti, A, B, C, D ed E, hanno partecipato a un concorso. Una prima previsione era che i concorrenti si classificassero nell'ordine ABCDE. Questa previsione era molto scarsa: in effetti nessun concorrente ha ottenuto il posto previsto, e nessuna coppia di concorrenti previsti consecutivi si è effettivamente classificata in posizioni consecutive. Una seconda previsione era che i concorrenti si classificassero nell'ordine DAECB. Questa previsione era migliore: esattamente due dei concorrenti hanno ottenuto i posti previsti, e due coppie disgiunte di studenti previsti consecutivi si sono effettivamente classificati in posizioni consecutive. Determinare l'ordine in cui i concorrenti si sono classificati.
-
-
 
 [[Quesiti/src_imho_1963#q02|src_imho_1963__Q02]]
 
@@ -95,13 +94,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *provare equilatero*
 
 > In un $n$-agono in cui tutti gli angoli interni sono uguali, le lunghezze di lati consecutivi soddisfano la relazione
 > $$a_1 \geq a_2 \geq \cdots \geq a_n.$$.
 > Si dimostri che $a_1 = a_2 = \cdots = a_n$.
-
-
 
 [[Quesiti/src_imho_1963#q03|src_imho_1963__Q03]]
 
@@ -127,13 +125,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Sistema ciclico di 5 equazioni con parametro y*
 
 > Determinare tutte le soluzioni $x_1, x_2, x_3, x_4, x_5$ del sistema
 > $$\begin{cases} x_5 + x_2 = y x_1 \\ x_1 + x_3 = y x_2 \\ x_2 + x_4 = y x_3 \\ x_3 + x_5 = y x_4 \\ x_4 + x_1 = y x_5, \end{cases}$$
 > dove $y$ è un parametro.
-
-
 
 [[Quesiti/src_imho_1963#q04|src_imho_1963__Q04]]
 
@@ -155,7 +152,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of samples taken from the sample.
@@ -184,10 +181,9 @@ This is the total number of samples taken from the sample.
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare l'ordine di arrivo dei cinque studenti*
 
 > Cinque studenti, $A$, $B$, $C$, $D$, $E$, hanno partecipato a un concorso. Una previsione era che i concorrenti si classificassero nell'ordine $ABCDE$. Questa previsione fu molto scarsa. In effetti, nessun concorrente si classificò nel posto previsto, e nessuna coppia di concorrenti previsti consecutivi si classificò effettivamente in posizioni consecutive. Una seconda previsione prevedeva che i concorrenti si classificassero nell'ordine $DAECB$. Questa previsione fu migliore. Esattamente due dei concorrenti si classificarono nei posti previsti, e due coppie disgiunte di studenti che erano stati previsti consecutivi si classificarono effettivamente in posizioni consecutive. Determinare l'ordine in cui i concorrenti si classificarono.
-
-
 
 [[Quesiti/src_imho_1963#q06|src_imho_1963__Q06]]

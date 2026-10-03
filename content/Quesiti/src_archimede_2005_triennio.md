@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies n with n^3+2n^2+n perfect square*
@@ -74,7 +74,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 4 digits with initial 1 and three digits equal*
@@ -114,7 +114,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural numbers n such that n divides n+30*
@@ -155,7 +155,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies n with n-52 and n+53 perfect squares*
@@ -197,7 +197,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of a with 2a^4-4ab+b^2+2=0 *
@@ -244,7 +244,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of guessing 10 responses with constraints*
@@ -287,7 +287,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
@@ -331,7 +331,7 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times does the figure 1 appear from 1 to 2005*
@@ -374,7 +374,7 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Girls who lied at a round table
@@ -415,7 +415,7 @@ Girls who lied at a round table
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial with p(x+1)-p(x-1)=p(x) *
@@ -483,7 +483,7 @@ Girls who lied at a round table
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of internal triangle areas PQR and equilateral ABC*
@@ -550,7 +550,7 @@ Girls who lied at a round table
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final figure of a_2005 in a recurring sequence*
@@ -595,7 +595,7 @@ Girls who lied at a round table
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Colours of balloons purchased by four girls
@@ -636,7 +636,7 @@ Colours of balloons purchased by four girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ipotency of the triangle rectangle with minimum perimeter*
@@ -680,7 +680,7 @@ Colours of balloons purchased by four girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Words of 4 letters without M after a B*
@@ -726,7 +726,7 @@ Colours of balloons purchased by four girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the top of a tetrahedron after rotation*
@@ -770,7 +770,7 @@ Colours of balloons purchased by four girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Estimate of a product of equal fractions on odd numbers*

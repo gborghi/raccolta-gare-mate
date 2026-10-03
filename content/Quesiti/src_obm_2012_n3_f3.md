@@ -28,7 +28,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dinamica del colore Amoeba; contare gli stati possibili nel tubo di prova*
@@ -57,7 +57,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Centri, punti di centro dei lati e concomitanza incircolare nel triangolo scaleno*
@@ -84,7 +84,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nello più piccolo di tale entità che le ultime cifre decimali di n^n del 2012 siano uguali a 1*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di integri positivi con n^2 come somma di termini di potenza primaria*
@@ -140,7 +140,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di coloranti di n ×n griglia con 4 colori, senza monocromatiche 2×2 lato quadrato*
@@ -171,7 +171,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni soggettive f: R+ → R+ che soddisfa un'equazione funzionale*

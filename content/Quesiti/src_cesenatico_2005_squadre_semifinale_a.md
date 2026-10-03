@@ -26,7 +26,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle in the configuration of nested isosceles triangles*
@@ -55,7 +55,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of two semicircles of fabric 100x50*
@@ -84,7 +84,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of areas of four triangles in a regular dodecagon*
@@ -113,7 +113,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordered pairs (c,d) tiled room 546x330*
@@ -141,7 +141,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum integer not to be expressed as 23k+17h (Frobenius) *
@@ -172,7 +172,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (a,b) with a^4+4b^4+12ab-9 first*
@@ -201,7 +201,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 2 digits number ways to divide 2005 into 401 teams*
@@ -232,7 +232,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode to go from centre to chessboard edge in n moves*
@@ -263,7 +263,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to distribute 27 candies to three with exactly two types*
@@ -292,7 +292,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most finite parts of the plane divided by 5 rectangles*
@@ -321,7 +321,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of 3^211 divided by 2^14*
@@ -349,7 +349,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Large ultra first of 3 digits*
@@ -378,7 +378,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lesser set of rectangular triangle with center condition*
@@ -408,7 +408,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the CAD angle in the quadrilateral with data angles*
@@ -439,7 +439,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs crossed by the diagonal of parallel piped 126x60x70*

@@ -27,7 +27,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Viaggio a piedi e ritorno; trovare ore per camminare in entrambe le direzioni*
@@ -56,7 +56,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadratici condividono una radice comune; trovare k*
@@ -85,7 +85,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri interi positivi a,b con a+b=a/b+b/a; trovare a2+b2*
@@ -114,7 +114,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *segmenti di linea con entrambi i punti di fine a vertici cubi; conteggio*
@@ -143,7 +143,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio a coefficiente intero non zero divisibile per n per tutte le n positive; trovare P(0)*
@@ -172,7 +172,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N a due cifre la cui somma di inversione di cifre è un quadrato perfetto; contare*
@@ -201,7 +201,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa della funzione a numeri pari E(1) + E(2)+...+E(100) *
@@ -232,7 +232,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parte rotta di piastra circolare; punto medio di corda e arco; radio *
@@ -263,7 +263,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto con lati interi e un lato 12; perimetro massimo*
@@ -292,7 +292,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2×3 e 3×4 rettangoli in un quadrato senza sovrapposizione; superficie quadrata minima*
@@ -321,7 +321,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due equazioni lineari in a,b,c; trovare a2-b2+c2*
@@ -350,7 +350,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo ABCD con punto P su AD, angolo BPC=90°; somma dei raggi incircoli*
@@ -379,7 +379,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
@@ -408,7 +408,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *3^x+2^x=985 e 3^y-2^y=473; trovare xy*
@@ -436,7 +436,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo prodotto di 3 numeri primi distinti x,y,z uguale al numero di numeri *
@@ -464,7 +464,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti medi di un triangolo acuto D,E,F; condizioni di angolo; angolo di ricerca ADF*
@@ -495,7 +495,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espressione P con a+b+c=0; trovare P*
@@ -524,7 +524,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme di {1,...,100} senza due elementi sommati a 125; dimensione massima*
@@ -553,7 +553,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro cifre decrescenti consecutive; somma dei rimanenti mod 37*
@@ -582,7 +582,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo omega all'interno di Omega tangente a P; diametro XY tangente a omega; YZ=2PZ; angolo di ricerca PYX*

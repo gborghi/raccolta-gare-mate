@@ -38,7 +38,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided by the manufacturer:
@@ -83,7 +83,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *the longest bar*
@@ -127,7 +127,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number on the square*
@@ -183,7 +183,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *min to be removed*
@@ -228,7 +228,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Money in the purse after spending €7*
@@ -277,7 +277,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of vehicles registered in the Union.
@@ -313,7 +313,7 @@ This is the total number of vehicles registered in the Union.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * when they are on the island *
@@ -362,7 +362,7 @@ This is the total number of vehicles registered in the Union.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * which representation*
@@ -399,7 +399,7 @@ This is the total number of vehicles registered in the Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many *
@@ -440,7 +440,7 @@ This is the total number of vehicles registered in the Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many bananas are given*
@@ -483,7 +483,7 @@ This is the total number of vehicles registered in the Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *white cubes*
@@ -519,7 +519,7 @@ This is the total number of vehicles registered in the Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This item is intended to record the information provided by the manufacturer.
@@ -559,7 +559,7 @@ This item is intended to record the information provided by the manufacturer.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many ways*
@@ -623,7 +623,7 @@ This item is intended to record the information provided by the manufacturer.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *point never touched*
@@ -680,7 +680,7 @@ This item is intended to record the information provided by the manufacturer.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of messages.
@@ -727,7 +727,7 @@ This is the total number of messages.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which is equal to*
@@ -790,7 +790,7 @@ This is the total number of messages.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which number to delete*
@@ -859,7 +859,7 @@ This is the total number of messages.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max black squares*
@@ -926,7 +926,7 @@ This is the total number of messages.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *color x*
@@ -998,7 +998,7 @@ This is the total number of messages.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The sum of John's sum
@@ -1048,7 +1048,7 @@ The sum of John's sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *what is broken under the cut*
@@ -1103,7 +1103,7 @@ The sum of John's sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max number*
@@ -1153,7 +1153,7 @@ The sum of John's sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of figures *
@@ -1203,7 +1203,7 @@ The sum of John's sum
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who's next on Saturday?

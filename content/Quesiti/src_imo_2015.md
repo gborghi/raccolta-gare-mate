@@ -32,6 +32,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insiemi bilanciati e centre-free di n punti*
 
 > Chiamiamo **bilanciato** un insieme finito $\mathcal{S}$ di punti nel piano se, per ogni coppia di punti distinti $A$ e $B$ in $\mathcal{S}$, esiste un punto $C$ in $\mathcal{S}$ tale che $AC = BC$. Chiamiamo **senza centro** l'insieme $\mathcal{S}$ se, per ogni terna di punti distinti $A$, $B$ e $C$ in $\mathcal{S}$, non esiste alcun punto di $\mathcal{S}$ equidistante dai tre.
@@ -39,8 +40,6 @@ level: IMO
 > (a) Si dimostri che per ogni intero $n \geq 3$ esiste un insieme bilanciato con $n$ punti.
 > 
 > (b) Determinare tutti gli interi $n \geq 3$ per i quali esiste un insieme bilanciato senza centro formato da $n$ punti.
-
-
 
 [[Quesiti/src_imo_2015#q01|src_imo_2015__Q01]]
 
@@ -66,13 +65,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triple (a,b,c) con ab-c,bc-a,ca-b potenze di 2*
 
 > Determinare tutte le triple $(a, b, c)$ di interi positivi tali che ciascuno dei numeri $ab - c$, $bc - a$, $ca - b$ sia una potenza di $2$.
 > 
 > (Un **potenza di 2** è un intero della forma $2^n$, dove $n$ è un numero intero non negativo.)
-
-
 
 [[Quesiti/src_imo_2015#q02|src_imo_2015__Q02]]
 
@@ -98,13 +96,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circumcircle di KQH e FKM tangenti*
 
 > Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $\Gamma$ la sua circonferenza circoscritta, $H$ il suo ortocentro e $F$ il piede dell'altezza da $A$. Sia $M$ il punto medio di $BC$. Sia $Q$ il punto su $\Gamma$ tale che $\angle HQA = 90°$ e sia $K$ il punto su $\Gamma$ tale che $\angle HKQ = 90°$. Si assuma che i punti $A$, $B$, $C$, $K$ e $Q$ siano tutti distinti e giacciano su $\Gamma$ in quest'ordine.
 > 
 > Si dimostri che le circonferenze circoscritte ai triangoli $KQH$ e $FKM$ sono tangenti tra loro.
-
-
 
 [[Quesiti/src_imo_2015#q03|src_imo_2015__Q03]]
 
@@ -130,13 +127,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *X giace sulla retta AO (cerchi tangenti)*
 
 > Sia il triangolo $ABC$ la sua circonferenza circoscritta $\Omega$ e il suo circocentro $O$. Una circonferenza $\Gamma$ di centro $A$ interseca il segmento $BC$ nei punti $D$ e $E$, in modo che i punti $B$, $D$, $E$ e $C$ siano tutti distinti e giacciano sulla retta $BC$ in quest'ordine. Siano $F$ e $G$ i punti di intersezione delle circonferenze $\Gamma$ e $\Omega$, tali che i punti $A$, $F$, $B$, $C$, $G$ giacciano sulla circonferenza $\Omega$ in quest'ordine. Sia $K$ il secondo punto di intersezione della circonferenza circoscritta al triangolo $BDF$ con il segmento $AB$. Sia $L$ il secondo punto di intersezione della circonferenza circoscritta al triangolo $CGE$ con il segmento $AC$.
 > 
 > Siano le rette $FK$ e $GL$ diverse tra loro e che si intersechino nel punto $X$. Si dimostri che il punto $X$ appartiene alla retta $AO$.
-
-
 
 [[Quesiti/src_imo_2015#q04|src_imo_2015__Q04]]
 
@@ -162,13 +158,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale f(x+f(x+y))+f(xy)=...*
 
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano l'equazione
 > $$f(x + f(x + y)) + f(xy) = x + f(x + y) + y f(x)$$
 > per tutti i numeri reali $x$ e $y$.
-
-
 
 [[Quesiti/src_imo_2015#q05|src_imo_2015__Q05]]
 
@@ -200,6 +195,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Somme limitate di successione con k+ak distinti*
 
 > La successione $a_1, a_2, \ldots$ di interi soddisfa le seguenti condizioni:
@@ -211,7 +207,5 @@ level: IMO
 > Si dimostri che esistono due numeri interi positivi $b$ e $N$ tali che
 > $$\left|\sum_{j=m+1}^{n}(a_j - b)\right| \leq 1007^2$$
 > per tutti gli interi $m$ e $n$ che soddisfano $n > m \geq N$.
-
-
 
 [[Quesiti/src_imo_2015#q06|src_imo_2015__Q06]]

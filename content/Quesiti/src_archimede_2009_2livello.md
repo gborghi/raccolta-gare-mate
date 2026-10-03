@@ -34,7 +34,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer n with √n less than 1 from √101*
@@ -76,7 +76,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of rolling solid around one side*
@@ -120,7 +120,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years between 999 and 9999 with two or more consecutive zeros*
@@ -168,7 +168,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many sincere people between Luke, Mary, Nicholas, Paola
@@ -222,7 +222,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *area of the LMNO square by square symmetrical arcs*
@@ -267,7 +267,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is deduced from N data change of probability*
@@ -310,7 +310,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n integers without sum or difference divisible by 100*
@@ -360,7 +360,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum route of the thief to touch walls and diamonds*
@@ -404,7 +404,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities n with base 2 representation equal to base 3 of 2n*
@@ -447,7 +447,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of all zero points after 10 hands *
@@ -495,7 +495,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pages are given identical lists of answers on thieves*
@@ -538,7 +538,7 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of integers of x^16 + x*
@@ -575,7 +575,7 @@ Maximum number of integers of x^16 + x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum k with k squared dividing n!/(n-6)! for each n>6*
@@ -606,7 +606,7 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First three decimal digits of the sum of powers of x*
@@ -638,7 +638,7 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum c and infinite terms with 2c^2 = a^2 + b^2*
@@ -702,7 +702,7 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *OMN angle double of ACB and ratio between areas*
@@ -765,7 +765,7 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integrations with two rational expressions of both integers*

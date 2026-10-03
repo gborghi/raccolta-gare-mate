@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum loyal round table Vikings with declarations*
@@ -72,7 +72,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum k whole with t satisfying dissection*
@@ -110,7 +110,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *QX length with tangent and drying-tangent theorem*
@@ -157,7 +157,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mn length medium trapezoidal segment with angles 55 and 35*
@@ -194,7 +194,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summation of max and min self-divisible digits 1-9 *
@@ -227,7 +227,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (m,n) with 4·m!+1=2^n+3^n, giving a·b*
@@ -261,7 +261,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years with double-digit sums of the following, extreme sums*
@@ -294,7 +294,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum q(0)^2 with two common root polynomials*
@@ -331,7 +331,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Munice root cubic polynomials and single-digit coefficients *
@@ -368,7 +368,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Islands (n,n) reachable by increasing steps *
@@ -430,7 +430,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black paper area visible after folding the square*
@@ -467,7 +467,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *9 ships with multiple bonds of 3 *
@@ -506,7 +506,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final tables of dragons raced with constraints*
@@ -545,7 +545,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to assist 25 citizens with arches and equality*
@@ -583,7 +583,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum calculating cost for two bilinear expressions*
@@ -617,7 +617,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum mesh colours with the same distance N=6767·7676*
@@ -680,7 +680,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shadow area conical trunk with sun at 30°*
@@ -717,7 +717,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary powers of 16 of the roots of the polynomial *
@@ -748,7 +748,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of coating grid 6x10 with trim, prime factors*
@@ -780,7 +780,7 @@ level: squadre
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of AGM triangle with built-in circumferences*
@@ -811,7 +811,7 @@ level: squadre
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of 4 consecutive integers of the same number of divisors*

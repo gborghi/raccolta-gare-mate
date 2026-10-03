@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Etichettatura di vertici regolari n2-gon con cifre 1,2 che soddisfano quattro condizioni*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove S = ab/c + bc/d + cd/a + da/b ≥ 4 e trova condizioni di uguaglianza*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un grafico di amicizia senza amici comuni e due stranieri comuni, trovare n*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i polinomi p tali che a·p(a2)+b·p(b2)+c·p(c2)=k·abc per i lati del triangolo*

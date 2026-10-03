@@ -32,7 +32,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Indicate the smallest of five fractions n+1/n*
@@ -73,7 +73,7 @@ Indicate the smallest of five fractions n+1/n*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be expressed as the sum of squares of two multiples of 3*
@@ -116,7 +116,7 @@ Indicate the smallest of five fractions n+1/n*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Both-faced cubes painted in a 10x10x10 cube*
@@ -162,7 +162,7 @@ Indicate the smallest of five fractions n+1/n*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of two cards of the same color after trading*
@@ -207,7 +207,7 @@ Indicate the smallest of five fractions n+1/n*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the angle x in the figure with data angles*
@@ -252,7 +252,7 @@ Indicate the smallest of five fractions n+1/n*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Soldiers between 2000 and 2500 with 1 to 2.7 remaining
@@ -300,7 +300,7 @@ Soldiers between 2000 and 2500 with 1 to 2.7 remaining
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length A100A101 in the spiral of rectangular triangles*
@@ -345,7 +345,7 @@ Soldiers between 2000 and 2500 with 1 to 2.7 remaining
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of empty chair between two girls
@@ -401,7 +401,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the outer rectangle of a frame*
@@ -459,7 +459,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes of cell phone use during charging*
@@ -501,7 +501,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles of isosceles with a major side 2018*
@@ -551,7 +551,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Box number 1500 in the grid without multiples of 11*
@@ -602,7 +602,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *invariant pair of heads*
@@ -649,7 +649,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area four region from P to the midpoints of the quadrilateral*
@@ -696,7 +696,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to dispose of 99 non-adjacent coins in Table 2x100*
@@ -739,7 +739,7 @@ Probability of empty chair between two girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BCD triangle area with height in isosceles triangle*

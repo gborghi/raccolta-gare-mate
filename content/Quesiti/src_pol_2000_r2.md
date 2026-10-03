@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decidere se ogni razionale positivo può essere scritto come (a^3+b^3)/(c^3+d^3) con numeri interi positivi a,b,c,d.*
@@ -52,7 +52,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC il bisettore dell'angolo BAC incontra il circoncircolo a D; K e L sono proiezioni di B e C sulla linea AC; mostrare AD >= BK+CL.*
@@ -79,7 +79,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una tabella n x n contiene n^2 diversi interi positivi; la voce più grande in ogni colonna è rossa; un insieme ammissibile è n celle non due in una riga o colonna comune; dimostrare che l'insieme ammissibile della somma più grande contiene almeno una cella rossa.*
@@ -106,7 +106,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC con AB != AC, I è l'incentro e D, E sono dove BI e CI incontrano i lati opposti; trovare tutte le misure dell'angolo BAC per il quale DI = EI.*
@@ -133,7 +133,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decidere se esiste una funzione f: N -> N tale che f(f(n)) = 2n per tutti i n naturali.*
@@ -160,7 +160,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un polinomio quadratico w con coefficienti interi assume un valore di quadrato perfetto a ogni numero intero x; prova w è il quadrato di un polinomio.*

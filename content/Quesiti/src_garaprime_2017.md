@@ -34,7 +34,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure 1 in the binary representation of 255*257*
@@ -69,7 +69,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remains of a 2017 binary repunit divided by 16 digits *
@@ -121,7 +121,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equilateral triangle area with four inner triangles*
@@ -167,7 +167,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grey area with arcs in a rectangle of area 1000*
@@ -207,7 +207,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Orders for arrival of three cars with average speed*
@@ -244,7 +244,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum perimeter of full rectangle with area 12120*
@@ -280,7 +280,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Count of k with unchanged MCD and mcm*
@@ -324,7 +324,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum reflected path to the seashore*
@@ -363,7 +363,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of areas matching ten segments*
@@ -401,7 +401,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PIN 41a9b divided by 312, produced a*b*
@@ -440,7 +440,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Who has sufficient data to determine the acutangol triangle*
@@ -474,7 +474,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the MCD figures ((4344,4368) *
@@ -510,7 +510,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grade of the polynomial by degree equality*
@@ -546,7 +546,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many perfect squares divides 16?
@@ -581,7 +581,7 @@ How many perfect squares divides 16?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of distinct whole rectangles with area 12600*
@@ -617,7 +617,7 @@ How many perfect squares divides 16?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *cube of sides equal to diagonal square*
@@ -653,7 +653,7 @@ How many perfect squares divides 16?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of 1965 and permutations of its figures
@@ -698,7 +698,7 @@ Sum of 1965 and permutations of its figures
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean of non-participants by weighted average*

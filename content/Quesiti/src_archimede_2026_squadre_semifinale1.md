@@ -33,7 +33,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that ad+bcd+d^2 is odd with 4 rounds*
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Base B>6 where 61 is divisible by 16*
@@ -103,7 +103,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PS distance in regular dodecagon with diagonal intersections*
@@ -142,7 +142,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Destinations from which to return to school with step rules
@@ -210,7 +210,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary alternate to/9-(a/9)^2 from 1 to 10*
@@ -256,7 +256,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers in squares of nested squares*
@@ -302,7 +302,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AG^2 with equilateral triangles on a square*
@@ -337,7 +337,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum n with K_n=729 in geometric recursive sequence*
@@ -376,7 +376,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Configurations of tokens with non-growing columns*
@@ -415,7 +415,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of square development cup with hexagons*
@@ -449,7 +449,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer difference sum of two squares in [-256,256]*
@@ -484,7 +484,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colors 18 shields with 13 equal adjacent pairs*
@@ -534,7 +534,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AED angle amplifier with internal and external screws*
@@ -572,7 +572,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum days with heights in arithmetic progression*
@@ -604,7 +604,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real root number of p_20 with recurrence p_{n+1}=1-p_n^2*
@@ -650,7 +650,7 @@ Destinations from which to return to school with step rules
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *GC+FC with equilateral triangles and circumference Γ*

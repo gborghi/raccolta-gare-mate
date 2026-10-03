@@ -76,7 +76,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli equalaterali, simmetrie assiali e affixi complessi; condizioni di collinearità e cerchi circonscritti, oltre a uno studio delle funzioni che descrivono i set di punti estremi.*
@@ -157,7 +157,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una funzione continua su [0;1] con f(0)=f(1)=0 che soddisfa una condizione di spostamento della traduzione; dimostra che f(x)=0 ha almeno sette soluzioni, quindi da un esempio.*
@@ -194,7 +194,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Iterare l'incentro (poi più tardi l'ortocentro) di un triangolo da tre punti non collineari; dimostrare la convergenza della sequenza di punti e studiare quali cambiamenti si verificano con l'uso dell'ortocentro.*
@@ -284,7 +284,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica.*

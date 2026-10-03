@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities n with n-2012 and n+2012 both in 4 digits*
@@ -59,7 +59,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square of the AC catheter in the rectangular triangle*
@@ -111,7 +111,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White percentage of the coloured trapezoid*
@@ -164,7 +164,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number written the first time given difference 14789*
@@ -195,7 +195,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First four digits of the sum of numbers with digits 1-4*
@@ -227,7 +227,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular dimensions cut into 15 equal squares*
@@ -259,7 +259,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *00*
@@ -292,7 +292,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Speed needed in Giulia in the remaining km*
@@ -323,7 +323,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular triangles with vertices of the cube*
@@ -354,7 +354,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 200 to 999 with unit number *decine=hundreds*
@@ -385,7 +385,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How much did Carlo spend (average friends 82)
@@ -417,7 +417,7 @@ How much did Carlo spend (average friends 82)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Visitors after Paul by number of digits *
@@ -449,7 +449,7 @@ How much did Carlo spend (average friends 82)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Recovery given product 71685 with figures exchanged*
@@ -480,7 +480,7 @@ How much did Carlo spend (average friends 82)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inter n with the same remainder divided by 1059,1417,2312*
@@ -520,7 +520,7 @@ How much did Carlo spend (average friends 82)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with the last three digits of 3999n equal to 888*

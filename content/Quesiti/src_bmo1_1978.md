@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto all'interno di un triangolo con distanze perpendicolari uguali di piedi*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nessuna frazione corretta con denominatore ≤100 ha blocco decimale 167*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza unica di numeri interi che soddisfa u1=1, u1<u2 e ricorrenza di tipo Markov*
@@ -108,7 +108,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro altitudini di tetraedro contemporanee se ciascun bordo è perpendicolare all'opposto*
@@ -135,7 +135,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La sfera di raggio unitario all'interno di un cubo di 15 unità contiene 13000 punti dati*
@@ -162,7 +162,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se n è un numero intero non zero allora 2cosnθ polinomio in 2cosθ; conclusione di razionalità*

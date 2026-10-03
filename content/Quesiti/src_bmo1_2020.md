@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Almeno tre prime p<200 con p,p+2,p+6,p+8,p+12 tutte prime*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i possibili valori di a1 in sequenza di numeri interi soddisfacendo la ricorrenza*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti, la tangente comune incontra le linee; dimostrare che l'AC è perpendicolare a BD*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2019 Pinguini in coda con regola di divisibilità; contare le posizioni vicino ai biglietti 2 e 33*
@@ -148,7 +148,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I bambini intorno al cerchio con dolci; trovare n per il quale l'arrangimento iniziale è perfetto*
@@ -178,7 +178,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le buone funzioni che assegnano integri a coppie che soddisfano l'equazione funzionale*

@@ -33,7 +33,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolo 123^2 - 23^2*
@@ -73,7 +73,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare l'espressione di sottrazione nidificata che coinvolge il 2019 e il 2000*
@@ -115,7 +115,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
@@ -158,7 +158,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i valori interi positivi di n per i quali n^2 + 2n è primo*
@@ -203,7 +203,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di colori per il diagramma di colori di cerchi in modo che ogni cerchio abbia esattamente un vicino dello stesso colore*
@@ -252,7 +252,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova x in modo che i fattori di 100 riempiano una griglia 3×3 con uguali prodotti di riga, colonna e diagonale*
@@ -299,7 +299,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare p/q + r/s dove {p,q,r,s} = {1,2,3,4}*
@@ -344,7 +344,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine quale intervallo contiene la soluzione x di 3^(3^x) = 333*
@@ -391,7 +391,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Papero quadrato piegato in quattro volte e poi rimosso da angolo  quale forma di ripiegamento è possibile?*
@@ -438,7 +438,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca n in {10,19,20,21,30} in modo che né 6n-1 né 6n+1 siano prime*
@@ -481,7 +481,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i valori dei numeri interi di k per i quali sqrt(200 - sqrt(k)) è un numero intero*
@@ -526,7 +526,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di un rombo in cui un cerchio unitario tocca tutti e quattro i lati e gli angoli più piccoli sono 60°*
@@ -573,7 +573,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero totale di piastrelle quando si formano n^2+64 = (n+1)^2 - 25*
@@ -618,7 +618,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il più grande quadrato perfetto che è un fattore di 10!*
@@ -663,7 +663,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum Q+R+S dove in coppia HCF di Q, R, S sono tre prime diverse*
@@ -707,7 +707,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la media di x, y, z che soddisfa 9x+3y-5z=-4 e 5x+2y-2z=13*
@@ -752,7 +752,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione di tutti gli integri in un elenco di numeri interi consecutivi del 2019 che sommano al 2019*
@@ -799,7 +799,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find angolo a quando una carta quadrata è piegata in modo che un angolo atterri sulla linea di piega centrale*
@@ -846,7 +846,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale grafico potrebbe essere y^2 = sin(x^2)*
@@ -893,7 +893,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cerca angolo ZXY in un cuore formato da triangolo equilaterale ABC e da due semicircoli, con linee attraverso il centro O che incontrano AC*
@@ -942,7 +942,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di distanza in metri tra la galleggia (30 cm/min lungo la QR) e l'araigno (40 cm/min lungo la RT) in giardino quadrato di 10 m*
@@ -989,7 +989,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(2019) data l'equazione funzionale (n-2019) f(n) - f(2019-n) = 2019*
@@ -1036,7 +1036,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di seccatura esagonale di un cubo di borda sqrt(2) tagliata attraverso i punti medi T, U, V, W dei bordi*
@@ -1083,7 +1083,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova xyz dove x, y, z sono dati da espressioni che coinvolgono radici quadrate nidificate di 7 e 3*
@@ -1130,7 +1130,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di quadrato inserita tra due cerchi unitari che attraversano ciascuno il centro dell'altro*

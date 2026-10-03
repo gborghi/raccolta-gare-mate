@@ -32,7 +32,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono e grafico stellare; contare associazioni curiose di sottoinsieme di 2 elementi*
@@ -69,7 +69,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi n con floor(sqrt(n))=2013; prova la condizione quadrata perfetta*
@@ -102,7 +102,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con cerchio circoscritto; perpendicolari da D ai lati; punti medi perpendicolari*
@@ -131,7 +131,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i numeri a due cifre i cui quadrodi li dividono*
@@ -158,7 +158,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo di scalene, media AM, cerchio di diametro AM incontra AB e AC; angolo di ricerca BAC*
@@ -185,7 +185,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n semiraie da ciascuna di A e B; cerchi distinti minimi attraverso i punti di intersezione*

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte coppie (m,n) con m
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove angle QAB = angle CAP data PBQC parallelogramma e angoli uguali*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove n+s ha più 0s di 1s in binario, per i numeri interi a 2013 con più 0s*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possono PA, PB, PC, PD e AB essere tutti integri per P sul cerchio di ABCD quadrato?*

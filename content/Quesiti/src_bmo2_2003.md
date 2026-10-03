@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplici in AP con il più grande fattore primo del prodotto al massimo 3*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto D con 4AD=AB, mezzo-linea all'angolo ACB incontra il circoncircolo a P, prova PB=2PD*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione dei numeri interi positivi: mostrare f mappe alcuni AP a un AP*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione su integri non negativi che soddisfano due condizioni, contare tutte queste funzioni*

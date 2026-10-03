@@ -26,7 +26,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rhombus con punto speciale K su CD, prova A, K, P collineare*
@@ -54,7 +54,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nominatore minore della somma di due frazioni irriducibili con denominatori 600 e 700*
@@ -84,7 +84,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *(m,n) - scarafaggio su griglia colorato in (2,1) - modello: trovare m,n così cambia sempre colore*
@@ -119,7 +119,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *combinata sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi*

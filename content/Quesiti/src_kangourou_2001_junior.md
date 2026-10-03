@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible values of the sum of 3 dice*
@@ -79,7 +79,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of A in the row*
@@ -122,7 +122,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diagonal length d of the polygon*
@@ -167,7 +167,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs to be added to form a cube*
@@ -211,7 +211,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True claim with MCD(m,35)>10*
@@ -255,7 +255,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum firefighters for 11 squares*
@@ -298,7 +298,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minor firsts of 2001 with sum of 2 figures *
@@ -361,7 +361,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the polygon with right angles*
@@ -425,7 +425,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number with 0 and 1 divisible by 225*
@@ -468,7 +468,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Cutting a ring to free them
@@ -512,7 +512,7 @@ Cutting a ring to free them
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of d with a+b=cd and a+b+c=12*
@@ -554,7 +554,7 @@ Cutting a ring to free them
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure of the angle x in figure *
@@ -591,7 +591,7 @@ Cutting a ring to free them
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late hours in one week*
@@ -629,7 +629,7 @@ Cutting a ring to free them
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure on research and technological developments in the field of biotechnology.
@@ -685,7 +685,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of areas of the two triangles removed*
@@ -740,7 +740,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of the thirsty Desiree camel*
@@ -782,7 +782,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of children with a product age 1664*
@@ -849,7 +849,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between S4 and S1 areas in the trapezoid*
@@ -916,7 +916,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number not available with alternate characters*
@@ -958,7 +958,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n given the remainder of 999:n*
@@ -1003,7 +1003,7 @@ This appropriation is intended to cover expenditure on research and technologica
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Candies eaten by Cristina
@@ -1066,7 +1066,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Q value in relation to p and c*
@@ -1159,7 +1159,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total 102 empty boxes given *
@@ -1218,7 +1218,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of the sum of powers*
@@ -1257,7 +1257,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the PQR triangle in the cube*
@@ -1311,7 +1311,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sections 5 cm long in the grid*
@@ -1366,7 +1366,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies decreasing by 14 times*
@@ -1409,7 +1409,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A-B value with square and semicircles*
@@ -1454,7 +1454,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of tiles 2x8 with dominoes*
@@ -1497,7 +1497,7 @@ Candies eaten by Cristina
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Compositions of 30 into three positive integers*

@@ -34,7 +34,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i cubetti in quadri cubici (skeletoni); trovare una dimensione speciale del quadro*
@@ -77,7 +77,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nove carte 19 accumulate; tre persone disegnano due ciascuno; analizzano le somme rimanenti *
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il conducente del camion misura la lunghezza del registro tramite conteggiamenti di ritmi in salita/in discesa*
@@ -159,7 +159,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espressione aritmetica criptografica con 8 diversi numeri non-zero; prova e risolvi*
@@ -198,7 +198,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Zoni triangolari con punto medio, quadrati costruiti su lati e quadrati incastonati *

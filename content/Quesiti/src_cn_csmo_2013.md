@@ -28,7 +28,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare un'espressione razionale in a,b data un cubo con solo radici reali.*
@@ -59,7 +59,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Configurazione della linea incircolare e tangente; dimostrare un'eguaglianza d'angolo.*
@@ -90,7 +90,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza ricursiva; prova che la somma dei quadrati di termini adiacenti è nella sequenza.*
@@ -122,7 +122,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contando le "torre" distinte formate da 12 acrobati in due cerchi con condizione di etichetta-somma.*
@@ -153,7 +153,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri buoni n dove f(x)=n ha una soluzione reale*
@@ -184,7 +184,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max corni su tavola 10x10 così ogni k permette ancora un altro*
@@ -217,7 +217,7 @@ level: China Southeastern Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grasshopper saltando tra punti adiacenti su una linea; parità del numero di vie nei passaggi del 2012.*

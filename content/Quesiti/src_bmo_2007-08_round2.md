@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum somma di quadrati sotto restrizione simmetrica cubica*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare il rapporto laterale del triangolo dagli angoli incentro-circumcentro*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ridurre il cerchio di raggio intero in un massimo di sessanta interrogazioni sul punto interno*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte diverse coppie di numeri interi con una relazione di divisibilità*

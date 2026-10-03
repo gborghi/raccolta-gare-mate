@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late of the rim given envelope with sides 12 and 16*
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple of 9 with four distinct odd digits*
@@ -97,7 +97,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum and maximum number of polygon angles of the sides 168/169*
@@ -134,7 +134,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measuring angle ABC with beam and angle condition*
@@ -169,7 +169,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of composing two teams of 6 pairs of twins*
@@ -201,7 +201,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late max square table in ring of radius 8*
@@ -239,7 +239,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *M+m sum of the odd numbers (CDU+UDC) *
@@ -273,7 +273,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major angle between tangents with two circumferences*
@@ -303,7 +303,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mattresses left after forming a cube*
@@ -337,7 +337,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum network meters for dividing grassland into three*
@@ -371,7 +371,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meter of routes from Ernesto back and forth*
@@ -403,7 +403,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume max parallel piped with two faces 24 and 30*
@@ -434,7 +434,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of digits in the square of 99...9 (99 noni) *
@@ -470,7 +470,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the anagon in an equilateral triangle side 15*
@@ -509,7 +509,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of the N^11 division for 2015, N=2 mod 2015*

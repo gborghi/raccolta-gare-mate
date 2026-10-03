@@ -25,7 +25,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * to determine them*
@@ -58,7 +58,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to determine the volume*
@@ -95,7 +95,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *show*
@@ -127,7 +127,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which n roots are integer*
@@ -155,7 +155,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * divide expression into three parts, k multiple of 3*
@@ -190,7 +190,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *coloring boxes with conditions on adjacent boxes*

@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rational intervals boxed with empty intersection*
@@ -59,7 +59,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In as many as 270 ways as consecutive integers *
@@ -89,7 +89,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *longer than the diameter?*
@@ -123,7 +123,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Strategy selected red/green decks of cards*
@@ -158,7 +158,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n distinct integers each divided by the sum of other n-1*
@@ -189,7 +189,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of choices of 10 elements with increasing distances*

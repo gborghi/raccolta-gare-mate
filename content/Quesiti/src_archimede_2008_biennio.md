@@ -34,7 +34,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Jupiter population data as a percentage of marathon participants*
@@ -78,7 +78,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Required speed for record after initial delay*
@@ -123,7 +123,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum amount of beads thrown with proportional constraints*
@@ -170,7 +170,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of friends from account divided into two ways*
@@ -212,7 +212,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Variation of salary expenditure with percentage changes*
@@ -254,7 +254,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Similar HBC triangle perimeter to the rectangular triangle*
@@ -298,7 +298,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Fraction traveled by the mother to meet Pietro
@@ -343,7 +343,7 @@ Fraction traveled by the mother to meet Pietro
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of round biscuits in square shape*
@@ -387,7 +387,7 @@ Fraction traveled by the mother to meet Pietro
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting four-digit numbers with a maximum of five digits*
@@ -429,7 +429,7 @@ Fraction traveled by the mother to meet Pietro
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length ND given triangle area in square*
@@ -473,7 +473,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term positive integers solutions to the quadratic equation*
@@ -513,7 +513,7 @@ Fraction traveled by the mother to meet Pietro
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of periodic decimal numbers 0,60 and 0,70*
@@ -556,7 +556,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multipleths of 5 or 7 less than or equal to 1000*
@@ -601,7 +601,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pallines with zero given sum condition*
@@ -649,7 +649,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Starting cases by eulerian route on roads*
@@ -717,7 +717,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area bounded by rope and arc in a circle divided into three*
@@ -785,7 +785,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of chess boxes numbered in brackets*
@@ -830,7 +830,7 @@ Fraction traveled by the mother to meet Pietro
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DC report on DE by ratio of rectangular areas*
@@ -872,7 +872,7 @@ Fraction traveled by the mother to meet Pietro
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Logical deduction from the negation of universal affirmation*
@@ -920,7 +920,7 @@ Fraction traveled by the mother to meet Pietro
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to choose a washing machine with distinct numbers*

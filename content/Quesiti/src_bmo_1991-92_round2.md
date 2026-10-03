@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Odd prime p: numeri interi positivi unici x,y con x^2=y(y+p) *
@@ -54,7 +54,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi a, b, c, d: dimostrare la doppia disuguaglianza per sei frazioni di somma pari*
@@ -83,7 +83,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, radio circundato R con AB^2+AC^2=BC^2-R^2: angolo di ricerca*
@@ -124,7 +124,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafico di visite di nani: parità di amicizie distrutte tutte pari o tutte strane*

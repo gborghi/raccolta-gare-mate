@@ -33,7 +33,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of possible arrival orders for four pupils on the run*
@@ -66,7 +66,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tri-digit number with sum of 18 and relations between the digits*
@@ -98,7 +98,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many buttons are missing from the command*
@@ -131,7 +131,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many data values are available with four stamps*
@@ -166,7 +166,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Kg of paint to paint the second solid of cubes*
@@ -201,7 +201,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Aline's age derived from a mathematical magic game
@@ -238,7 +238,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Place the numbers 1 to 10 in a figure with sums equal to 18*
@@ -276,7 +276,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of words in the magic formula of Ali Baba*
@@ -311,7 +311,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many number bars up to 2007 have 20 switched on bars*
@@ -346,7 +346,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cheque amount in euro and cents paid by the cashier*
@@ -379,7 +379,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The larger of the two three-digit numbers one double the other*
@@ -412,7 +412,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of beads to be extracted to have 3 beads of the same colour*
@@ -449,7 +449,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the south cube pattern 2×2×2 with four colors*
@@ -484,7 +484,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the large grey square in the right circle*
@@ -519,7 +519,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the hypotenuses of the two rectangular triangles of the ground*
@@ -554,7 +554,7 @@ Aline's age derived from a mathematical magic game
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The size of the chocolate table to ensure Alice's victory
@@ -585,7 +585,7 @@ The size of the chocolate table to ensure Alice's victory
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distance travelled by a beetle on the icosahedron's patron*
@@ -616,7 +616,7 @@ The size of the chocolate table to ensure Alice's victory
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of seeds on a tree of the rectangular triangle*

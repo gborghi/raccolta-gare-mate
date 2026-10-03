@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *DE parallela a FG (assi BD e CE)*
 
 > Sia $\Gamma$ la circonferenza circoscritta al triangolo acutangolo $ABC$. I punti $D$ e $E$ appartengono rispettivamente ai segmenti $AB$ e $AC$ in modo che $AD = AE$. Gli assi dei segmenti $BD$ e $CE$ intersecano gli archi minori $AB$ e $AC$ della circonferenza $\Gamma$ nei punti $F$ e $G$ rispettivamente. Si dimostri che le rette $DE$ e $FG$ sono o parallele oppure coincidenti.
-
-
 
 [[Quesiti/src_imo_2018#q01|src_imo_2018__Q01]]
 
@@ -58,12 +57,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Interi n con successione ciclica ai·ai+1+1=ai+2*
 
 > Determinare tutti gli interi $n \geq 3$ per i quali esistono numeri reali $a_1, a_2, \ldots, a_{n+2}$ che soddisfano $a_{n+1} = a_1$, $a_{n+2} = a_2$ e
 > $$a_i a_{i+1} + 1 = a_{i+2}$$ per $i = 1, 2, \ldots, n$.
-
-
 
 [[Quesiti/src_imo_2018#q02|src_imo_2018__Q02]]
 
@@ -92,6 +90,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo anti-Pascal con 2018 righe*
 
 > Un triangolo anti-Pascal è un insieme triangolare equilatero di numeri tale che, eccetto per i numeri nell'ultima riga, ciascun numero è il valore assoluto della differenza dei due numeri subito al di sotto. Ad esempio, il seguente è un triangolo anti-Pascal con quattro righe che contiene ogni intero da $1$ a $10$:
@@ -102,8 +101,6 @@ level: IMO
 > $$8 \quad 3 \quad 10 \quad 9$$
 >
 > Esiste un triangolo anti-Pascal con $2018$ righe che contiene ogni intero da $1$ a $1 + 2 + \cdots + 2018$?
-
-
 
 [[Quesiti/src_imo_2018#q03|src_imo_2018__Q03]]
 
@@ -127,13 +124,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Massimo K pietre rosse di Amy (gioco)*
 
 > Un sito è un qualsiasi punto $(x, y)$ nel piano tale che $x$ e $y$ siano entrambi interi positivi minori o uguali a $20$. Inizialmente, ciascuno dei $400$ siti è non occupato. Amy e Ben alternano i propri turni, con Amy che inizia. In ciascun turno, Amy posa un nuovo sasso rosso su un sito non occupato in modo che la distanza tra due siti occupati da sassi rossi non sia uguale a $\sqrt{5}$. In ciascun turno, Ben posa un nuovo sasso blu su qualsiasi sito non occupato. Il gioco termina non appena uno dei due giocatori non può più muovere.
 >
 > Determinare il massimo valore di $K$ tale che Amy possa sempre posare almeno $K$ sassi rossi, indipendentemente dalla strategia di Ben.
-
-
 
 [[Quesiti/src_imo_2018#q04|src_imo_2018__Q04]]
 
@@ -184,6 +180,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione interi con somma ciclica intera diventa costante*
 
 > Sul suo turno, Ben posiziona una nuova pietra blu su qualsiasi sito non occupato. (Un sito già occupato da una pietra blu può trovarsi a qualsiasi distanza da ogni altro sito occupato.) Il gioco termina non appena un giocatore non riesce a posizionare una pietra.
@@ -206,8 +203,6 @@ level: IMO
 > Tempo: 4 ore e 30 minuti
 > Ogni problema vale 7 punti
 > Inglese (eng), secondo giorno
-
-
 
 [[Quesiti/src_imo_2018#q05|src_imo_2018__Q05]]
 
@@ -233,12 +228,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Angolo BXA+DXC=180 in quadrilatero con AB·CD=BC·DA*
 
 > Un quadrilatero convesso $ABCD$ soddisfa $AB \cdot CD = BC \cdot DA$. Il punto $X$ giace all'interno di $ABCD$ in modo che
 > $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$.
 > Si dimostri che $\angle BXA + \angle DXC = 180°$.
-
-
 
 [[Quesiti/src_imo_2018#q06|src_imo_2018__Q06]]

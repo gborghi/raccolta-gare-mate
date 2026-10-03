@@ -29,13 +29,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi positivi a,b,c tali che (a-1)(b-1)(c-1) divide abc-1*
 
 > Determinare tutti gli interi a, b, c con 1 < a < b < c tali che
 > (a −1)(b −1)(c −1)
 > sia un divisore di abc −1.
-
-
 
 [[Quesiti/src_imo_1992#q01|src_imo_1992__Q01]]
 
@@ -65,6 +64,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni f tali che
 f(x² + f(y)) = y + f(x)²*
 
@@ -75,8 +75,6 @@ f(x² + f(y)) = y + f(x)²*
 > ´
 > = y + (f(x))²
 > per ogni x, y ∈ R.
-
-
 
 [[Quesiti/src_imo_1992#q02|src_imo_1992__Q02]]
 
@@ -108,6 +106,7 @@ f(x² + f(y)) = y + f(x)²*
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Più piccolo n di archi colorati che forzano un triangolo monocolore*
 
 > Si considerino nove punti nello spazio, di cui non quattro complanari. Ogni coppia
@@ -120,8 +119,6 @@ f(x² + f(y)) = y + f(x)²*
 > Secondo giorno - Mosca - 15 luglio 1992
 > Tempo: 41
 > 2 ore
-
-
 
 [[Quesiti/src_imo_1992#q03|src_imo_1992__Q03]]
 
@@ -143,7 +140,7 @@ f(x² + f(y)) = y + f(x)²*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find the locus of P with incircle tangent and midpoint condition
@@ -171,7 +168,7 @@ Find the locus of P with incircle tangent and midpoint condition
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Bound point-set size by product of projection sizes
@@ -201,7 +198,7 @@ Bound point-set size by product of projection sizes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n^2 as sum of k positive squares, bounds*

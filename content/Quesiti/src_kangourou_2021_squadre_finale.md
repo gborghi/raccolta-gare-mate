@@ -26,7 +26,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First between 11^2 and 12^2 sum of two squares*
@@ -57,7 +57,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many households on the bus (sum of km 2021) *
@@ -88,7 +88,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum opposite sum of products of sequence 0,1,-1*
@@ -120,7 +120,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle phi between square octagon and hexagon*
@@ -153,7 +153,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of weights of 5-digit numbers with 1.5.*
@@ -183,7 +183,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AEG triangle area with two adjacent squares*
@@ -216,7 +216,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bus speed (order to two distributors) *
@@ -251,7 +251,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How much does Francesco have (residues and liabilities)
@@ -279,7 +279,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of vertices (angles in arithmetic progression) *
@@ -308,7 +308,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres from 1 to 2021 without the digit 6*
@@ -338,7 +338,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solutions (X,Y) with 135X6Y divisible by 12*
@@ -369,7 +369,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The last four digits of the largest strongest number *
@@ -399,7 +399,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *F in cents (gift collection) *
@@ -442,7 +442,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square with black rectangle 8x4*
@@ -486,7 +486,7 @@ How much does Francesco have (residues and liabilities)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little advance number of 4 digits *

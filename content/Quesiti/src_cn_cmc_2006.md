@@ -29,7 +29,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con disuguaglianza vettoriale implica angolo retto*
@@ -62,7 +62,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rango di x soddisfacente la disuguaglianza logaritmica*
@@ -95,7 +95,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conte di coppie (a,b) per l'intersezione di gruppi di numeri naturali*
@@ -128,7 +128,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rango di lunghezza DF in prisma triangolare rettangolare con GD perp EF*
@@ -160,7 +160,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione su a+b>=0 per f(a)+f(b)>=0 con funzione odd*
@@ -196,7 +196,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi decimali a 2007 cifre senza cifra uguale a 9*
@@ -229,7 +229,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova l'intervallo di f(x) = sin^4 x - sin x cos x + cos^4 x*
@@ -258,7 +258,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova intervallo di reale a so=ız da <=2 per theta, dove z(a+cos theta) +(2a-sin theta) i*
@@ -287,7 +287,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find ratio ↓PF1 quando l'angolo di declinazione/di declinazionePF2 è F1PF2 è massimo per il punto P sulla linea*
@@ -316,7 +316,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rapporto comune q di progressione geometrica data condizione interiore*
@@ -345,7 +345,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta minima della funzione trigradikale a intervallo*
@@ -376,7 +376,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per riempire la matrice 4x4 con due a e due b*
@@ -406,7 +406,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la sequenza di numeri interi k_m definita dall'intersezione di y^2=kx-1 e y=x soddisfa la ricorrenza*
@@ -435,7 +435,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare e minimizzare la somma dei prodotti in coppia di cinque numeri interi positivi che sommano al 2006*
@@ -462,7 +462,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decomponere la funzione 2pi-periodico in quattro parti pari pi-periodico*

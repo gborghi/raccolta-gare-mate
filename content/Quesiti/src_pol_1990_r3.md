@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni f:R->R che soddisfano una determinata equazione funzionale.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che la somma ciclica delle frazioni in numeri positivi è al massimo n-1.*
@@ -86,7 +86,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 In un torneo di round-robin di n giocatori, provare una delle due conclusioni strutturali sui risultati.
@@ -117,7 +117,7 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo con tutti i lati almeno 1 è inscritto in un quadrato unitario; dimostrare che il centro del quadrato si trova all'interno o sul triangolo.*
@@ -144,7 +144,7 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per una sequenza di interi positivi con n/a_n -> 0, dimostrare l'esistenza di k con almeno 1990 quadrati perfetti tra somme parziali consecutive.*
@@ -171,7 +171,7 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la divisibilità per 3 di una somma alternata di coefficienti binomiali per numeri interi n>2.*

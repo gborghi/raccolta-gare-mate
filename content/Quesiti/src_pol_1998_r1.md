@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un sistema di due equazioni che coinvolgono valori assoluti*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Orthocenter e circumcenter equidistanti da una vertice; trovare angolo CAB*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre sequenze definite da ricorrenze; dimostrare che una è limitata*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le c reali facendo una disuguaglianza per tutte le x positive, y*
@@ -138,7 +138,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un'equazione trigonometrica a seconda di un intero positivo n*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con punto medio D e proiezioni P, Q su AD; dimostrare BE=AE+AC se AD=PQ*
@@ -193,7 +193,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzioni di conteggio f: A→A con f(f(k))=f(k) che assumono esattamente i valori m*
@@ -220,7 +220,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di un poliedro convexo con bordi k e di un piano di taglio con bordi r con 3r>2k*
@@ -247,7 +247,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_0=0,91 e decimali ripetitivi-9; calcolare un prodotto*
@@ -274,7 +274,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mediani di un triangolo pari lati di un altro; dimostrare ABC equilaterale *
@@ -301,7 +301,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite un intermediario
@@ -328,7 +328,7 @@ Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande primo divisore dei valori polinomici; finità dell'insieme risultante*

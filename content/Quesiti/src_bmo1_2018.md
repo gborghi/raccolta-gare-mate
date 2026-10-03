@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Compare le somme rimanenti: Helen divide 365, Henry divide 366*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massimo e min.
@@ -80,7 +80,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea attraverso il piede di altitudine divide ugualmente la superficie del triangolo e il perimetro*
@@ -109,7 +109,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza reale positiva con ricorrenza; trovare possibili valori di a_2017*
@@ -136,7 +136,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di colori nella griglia per bloccare tutti i 100 combi*
@@ -163,7 +163,7 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero minimo di carte con media interi in ogni momento*

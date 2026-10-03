@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Dividere un cubo in piccoli cubetti del 1999
@@ -61,7 +61,7 @@ Dividere un cubo in piccoli cubetti del 1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti per il concorso di nuoto; trovare il numero di giri e i punteggi totali*
@@ -96,7 +96,7 @@ Dividere un cubo in piccoli cubetti del 1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cittadini esiliati tra città; può ritornare nella città A?*
@@ -127,7 +127,7 @@ Dividere un cubo in piccoli cubetti del 1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Serie di tennis da tavolo; conteggio di partite tra Adriano e Bruno*

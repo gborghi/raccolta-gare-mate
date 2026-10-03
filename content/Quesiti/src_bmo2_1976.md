@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai mediani incontrano i lati; dimostrare che la somma di tre rapporti è costante.
@@ -53,7 +53,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una radice reale t di un polinomio monico i cui coefficienti sono delimitati in valore assoluto da 1 soddisfa un intervallo di limite indicato.*
@@ -80,7 +80,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che un'equazione cubica ha solo la soluzione di un numero intero triviale, mentre una versione modificata dal segno ha infinite soluzioni di un numero intero positivo, due delle quali condividono lo stesso rapporto x:y:z.*
@@ -107,7 +107,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non si dimostrano numeri interi positivi p, q soddisfano il limite di approssimazione razionale dato per la radice quadrata di 2.*
@@ -140,7 +140,7 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una curva a figura di otto S fatta di due cerchi uguali che si toccano; mostra che esiste una coppia di esagoni congruenti distinti con tre proprietà di vertice e simmetria dichiarate.*

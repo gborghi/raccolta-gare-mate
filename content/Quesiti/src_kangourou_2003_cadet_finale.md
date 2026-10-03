@@ -29,7 +29,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Disposition 1-9 with sums at vertices 20*
@@ -60,7 +60,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum balls by 15 of the same colour*
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial length of the magic rectangle*
@@ -138,7 +138,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary lengths of the 7 parallel segments*
@@ -187,7 +187,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time between the overlapping of the tiles*
@@ -216,7 +216,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seven digit integers divisible by 2003*

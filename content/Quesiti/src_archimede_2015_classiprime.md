@@ -32,7 +32,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding alpha with 2^alpha=4^(4^4) *
@@ -74,7 +74,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interpretation of flat fraction as nested divisions*
@@ -110,7 +110,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CB side of isosceles triangle given height and perimeter ratio*
@@ -149,7 +149,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full figure in sentence with division 71*/17 remaining 14*
@@ -190,7 +190,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum average of 5 unknown final rounded average data*
@@ -229,7 +229,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of the first container after welding (volumes of prisms) *
@@ -291,7 +291,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the smallest equilateral triangle containing hexagon*
@@ -360,7 +360,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to divide 6 days between institutions without consecutive days*
@@ -398,7 +398,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distinct colours of a white/black cube without rotations*
@@ -433,7 +433,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the product of neighbouring integers (difference of products) *
@@ -472,7 +472,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Composition of the sixth degree polynomial into integers*
@@ -508,7 +508,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What are the distinct prime numbers dividing 1122221100*
@@ -549,7 +549,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *cube of cubes divided into equal cubes*
@@ -595,7 +595,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Foreign tourist share given total percentage growth*
@@ -638,7 +638,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Student most likely given page choice and number sum*
@@ -674,7 +674,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *list of integers with sum m and product 720*
@@ -713,7 +713,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many Italian tournaments can all end up with equal scores?
@@ -756,7 +756,7 @@ How many Italian tournaments can all end up with equal scores?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum N represented by two octahedra of digits*

@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many perfect squares < 100 are also perfect cubes*
@@ -81,7 +81,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In how many angles identical to epsilon the plane is distributed*
@@ -121,7 +121,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which location and in the middle of the corridor (links) *
@@ -176,7 +176,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which polygon cannot be detached with a cut*
@@ -232,7 +232,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many A+B values with A869B divisible by 12*
@@ -288,7 +288,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of the four angular numbers in the grid*
@@ -339,7 +339,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of days for which the second proposal is suitable*
@@ -380,7 +380,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in third place with sums of consecutive squares*
@@ -445,7 +445,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different hexagonal decoration with coloured triangles*
@@ -503,7 +503,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of units of measurement for each unit of measurement.
@@ -533,7 +533,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *M value is a two digit number with M*k=2331*
@@ -565,7 +565,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers at the vertices of the lower face of the cube*
@@ -596,7 +596,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many minutes to fill the tank with 10 taps*
@@ -625,7 +625,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little whole number not equal, not square, not prime, not mult3*
@@ -658,7 +658,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which paper has not been fished (residues mod 3.4,5) *
@@ -688,7 +688,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of rectangle R divided by 4 rectangles*
@@ -743,7 +743,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major pedals on the 21-axle with all different distances*
@@ -806,7 +806,7 @@ This is the total number of units of measurement for each unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mother/Mother ratio between the same number of years *

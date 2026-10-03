@@ -27,7 +27,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza per i reali positivi che soddisfano una condizione di rapporto*
@@ -54,7 +54,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il riflesso del punto medio sulla linea DN si trova all'interno del triangolo, AM' perp BC*
@@ -82,7 +82,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n,x,y,z e prime p che soddisfano un'equazione di prodotto*
@@ -109,7 +109,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo di globuli bianchi nel 2024×2024 griglia colorata*
@@ -136,7 +136,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ssimilità dei triangoli B'C'D' e BCD nel triangolo acuto*

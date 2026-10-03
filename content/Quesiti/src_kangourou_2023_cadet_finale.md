@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *last position boy*
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum tokens **
@@ -82,7 +82,7 @@ Minimum tokens **
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information shall be provided:
@@ -110,7 +110,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *word of the full meaning*
@@ -140,7 +140,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the maximum amount of lying.
@@ -191,7 +191,7 @@ This is the maximum amount of lying.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *trajectory length of P*

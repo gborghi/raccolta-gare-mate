@@ -28,7 +28,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *who received q on first round*
@@ -57,7 +57,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Point D with CD geometric mean iff sinA sinB<=sin^2(C/2) *
@@ -85,7 +85,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Prove binomial-sum with 2^3k not divisible by 5
@@ -118,7 +118,7 @@ Prove binomial-sum with 2^3k not divisible by 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max rectangles partitioning chessboard with balanced colors*
@@ -152,7 +152,7 @@ Prove binomial-sum with 2^3k not divisible by 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Determine the values of cyclic four-fraction sum S*
@@ -180,7 +180,7 @@ Determine the values of cyclic four-fraction sum S*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bound n(P) -deg(P) <=2 for P(k) ^2=1 integer roots*

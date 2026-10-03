@@ -32,7 +32,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco con stringhe binarie: trovare il numero minimo di whiteboard per vincere B*
@@ -65,7 +65,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo, incentro, piede perpendicolare: linee XD e AM si incontrano su gamma*
@@ -98,7 +98,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le k in modo tale che la somma delle potenze k-th sia uguale (somma)^{r_n} per tutte le n*
@@ -129,7 +129,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, incentro, riflessione: si trova sul circoncircolo di BDE*
@@ -158,7 +158,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vertici di n-gon regolari 3 colori unici per colore: esiste un triangolo con arcobaleno e isosceles*
@@ -186,7 +186,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni a valore reale che soddisfano un'equazione funzionale massima*
@@ -213,7 +213,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le coppie di numeri interi positivi (n,k) con n^4+10n^2+2^k un quadrato perfetto*
@@ -242,7 +242,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi positivi con termine superiore alla media dei prossimi termini del 2016: dilimitato sopra*
@@ -280,7 +280,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rete traghetti su n isole: dimostrare che una delle isole è eventualmente collegata a tutte le altre*
@@ -316,7 +316,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti n>=3: per qualsiasi 2n reali con ≠a_k=1, scegliere x_k=pm1 limitando due somme*
@@ -343,7 +343,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i f su interi positivi con f(m) + f(n) -mn non zero e numero intero del rapporto*
@@ -370,7 +370,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali convex con angoli, bisettori, punto medio e circoncircolo uguali: PQ perp AC *

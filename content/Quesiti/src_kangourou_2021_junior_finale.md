@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum product number 5 digits sum 37*
@@ -62,7 +62,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum n with 4^27 + 4^1025 + 4^n perfect square
@@ -98,7 +98,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum time to restore 10 containers*
@@ -149,7 +149,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of different plane developments of a cube*
@@ -199,7 +199,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the mxn grid with constant column sums*
@@ -232,7 +232,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstrate c1+..+cn>=n if product ci=1 (AM-GM) *
@@ -264,7 +264,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Date on which Penelope has 100 m long canvas*
@@ -299,7 +299,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of n with 2021 = n + sum of n*
@@ -334,7 +334,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum L for segments covering the triangle*
@@ -369,7 +369,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of prime numbers of whole 3 digits with digits 1,3,5*
@@ -404,7 +404,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the sizes of three distinct digits of numbers*
@@ -438,7 +438,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the bridge (Aldo and Carlo) *
@@ -472,7 +472,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many terms < 2021 with mean prime n equal to n*
@@ -507,7 +507,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a+b figures of 4^2021 and 25^2021*
@@ -542,7 +542,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major CASE in encrypted multiplication*

@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integral numbers between 2,009 and 19,03*
@@ -83,7 +83,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum squares covered by the ABCD square*
@@ -134,7 +134,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number to be deleted for palindrome
@@ -172,7 +172,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of two digits with more sparklers*
@@ -224,7 +224,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Variation of perimeter approaching two E*
@@ -263,7 +263,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First year of success in the 2009 calendar*
@@ -297,7 +297,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of bridge over the banks*
@@ -334,7 +334,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fat line length (squares of 3 measurements) *
@@ -373,7 +373,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of pupils (German/English) *
@@ -409,7 +409,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of the division by 8 of 30!+17*
@@ -445,7 +445,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which weights do not have a single piece (parity) *
@@ -501,7 +501,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the quadrilateral with two right angles*
@@ -541,7 +541,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of boys and girls at par*
@@ -579,7 +579,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Light grey region area (rectangles overlapping) *
@@ -616,7 +616,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Short side of the isoperimeter rectangle*
@@ -654,7 +654,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of cubes to fill the box*
@@ -689,7 +689,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Days to read the book (4 days, 25 Sundays) *
@@ -736,7 +736,7 @@ Minimum number to be deleted for palindrome
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who won the contest (sum of placements)
@@ -775,7 +775,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many rectangular surfaces with 2009 tiles*
@@ -815,7 +815,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number (two out of four true statements) *
@@ -855,7 +855,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of all numbers on the vertices of the solid*
@@ -893,7 +893,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Certain statement on the cards in the two boxes*
@@ -936,7 +936,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times the number 2 in the room numbers*
@@ -979,7 +979,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the shaded region (10 cm2) *
@@ -1018,7 +1018,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A+B-C value (sum of rows and columns) *
@@ -1063,7 +1063,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number to reach 2009 (roads) *
@@ -1138,7 +1138,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of balls in a domino set*
@@ -1196,7 +1196,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary first row numbers (sum/difference table) *
@@ -1227,7 +1227,7 @@ Who won the contest (sum of placements)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of friends (footwear)
@@ -1300,7 +1300,7 @@ Maximum number of friends (footwear)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What colours the shaded cell is in (4 colours) *

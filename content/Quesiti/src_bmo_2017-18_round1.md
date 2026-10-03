@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Compare le somme dei rimanenti di 365 per 1,365 e 366 per 1,366*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximo e minimo numero di giorni in cui almeno cinque dei sei amici nuotano*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La linea MN divide sia l'area che il perimetro del triangolo ABC *
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i valori possibili di a_2017 per la sequenza con una data ricorrenza*
@@ -136,7 +136,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro quadrati colorati più piccoli, in modo che non si inseriscano in una griglia di 200x200 100 colori *
@@ -164,7 +164,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le schede min posizionate quando i mezzi di fila devono rimanere numeri interi; dare l'esempio*

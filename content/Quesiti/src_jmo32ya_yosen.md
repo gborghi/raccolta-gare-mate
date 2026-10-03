@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo multiplo a 4 cifre di 3 al di sopra del 2022 con esattamente 2 cifre distinte*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di trapezzo con cerchio inciso, data due lati laterali*
@@ -85,7 +85,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circuiti di Hamilton su esagoni regolari con mosse adiacenti o opposte*
@@ -114,7 +114,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di triangolo in quadrilaterale converso con due condizioni di perpendicularità*
@@ -143,7 +143,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie di conteggio (m,n) che soddisfano una condizione di divisore comune illimitata*
@@ -172,7 +172,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colori di tavola a tessuto triangolare con condizione di colore equilibrata a ciascun vertex*
@@ -201,7 +201,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca BD nel triangolo a destra con condizioni di piede ceviano interno*
@@ -230,7 +230,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare sequenze in rigido aumento che soddisfano una catena di differenza quadrata in diminuzione*
@@ -259,7 +259,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazioni di 11000 in cui ogni p_i è un multiple di i*
@@ -288,7 +288,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le anticette di 25 elementi nel posetto di divisibilità su {1,...,50}*
@@ -317,7 +317,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La potenza più bassa di 5 somma divisoria di ±n^100 in base alla parità di somma digitali*
@@ -346,7 +346,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca BC in un triangolo acuto dato il centro, il punto medio e l'angolo condizione*

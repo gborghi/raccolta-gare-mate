@@ -27,7 +27,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri interi 1<x<y<z la cui somma simmetrica è uguale a 2009*
@@ -58,7 +58,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rond-robin di otto squadre: dimostrare l'esistenza di una catena A>B,C,D; B>C,D; C>D; chiedere circa sette squadre*
@@ -93,7 +93,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *sqrt(n) ha le sue prime k decimali tutte uguali a v; bound sqrt(n) sotto di 10^k/2 e 10^k/144*
@@ -130,7 +130,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tavola di biliardo triangolare equalaterale: la palla da A verso P ritorna al buco A dopo sette riflessi*

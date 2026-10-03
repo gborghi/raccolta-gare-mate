@@ -27,7 +27,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezio ABCD, AB=3CD, E punto medio di BD; trovare n dove [ABCD]=n[CDE]*
@@ -56,7 +56,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero N è 503 nella base b e 305 nella base b+2; trovare il prodotto delle cifre di N*
@@ -85,7 +85,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma del telescopio è pari a 0,9999; trova N*
@@ -112,7 +112,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo ABCD, AB+BC+CD=20, AE=9, punto medio E di BC; area *
@@ -140,7 +140,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Soluzioni integrali per il calcolo del bilancio 2020 < *
@@ -169,7 +169,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimo intero positivo per moltiplicare 2^3·3^6·4^5·5^7·6^8 per ottenere il quadrato perfetto*
@@ -196,7 +196,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isoscelso ABC, D su BC con BD=48, DC=61, CE perpendicolare ad AD; trovare AE*
@@ -223,7 +223,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a 5 cifre con cifre k, k+1, k+2, 3k, k+3 = m^2; trovare la somma di cifre di m*
@@ -249,7 +249,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, angolo bisectore di C incontra AB a D, linee parallele attraverso D; trovare la somma dei numeri di p-q*
@@ -276,7 +276,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque studenti fanno il test 0-100; la differenza più grande possibile tra media e media*
@@ -303,7 +303,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta coppie (a,b) in X×X dove x^2+ax+b e x^2+bx+a condividono un normale vero zero*
@@ -332,7 +332,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli concentrici, accordi che toccano il cerchio interno, angolo ABC=75 gradi; contare gli accordi prima del ritorno*
@@ -362,7 +362,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadrato perfetto
@@ -389,7 +389,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *55×60×65 come prodotto di cinque diversi integri positivi; ridurre al minimo il più grande*
@@ -416,7 +416,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre coppie in 2 righe di 3; nessuna coppia nella stessa riga adiacente o nella stessa colonna; ordini di conteggio*
@@ -442,7 +442,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo di scala con lati x,y che soddisfano la condizione di superficie; x=60, y=63; trovare il lato più grande*
@@ -469,7 +469,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri a due cifre con esattamente 4 fattori positivi*
@@ -496,7 +496,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare la somma che coinvolge radici quadrate incastonate; trovare a+b*
@@ -522,7 +522,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma ABCD, E e F punti di mezzo di AB e BC; linee EC e FD si incrociano a P; trovare superficie triangolare massima*
@@ -548,7 +548,7 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quelle dell'ultimo; trovano le ore lavorate dalla prima donna*
@@ -574,7 +574,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N *
@@ -601,7 +601,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, perpendicolari da A a bisettori angolari di B e C; trovare superficie data PQ=7, QR=6, RS=8*
@@ -628,7 +628,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Incircolo di triangolo di scalene; radii di circolo mistilineare r_A=16, r_B=25, r_C=36; radio di ritrovamento *
@@ -655,7 +655,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Luce a (0,16), raggio di disco 2 a (6,10); lunghezza delle ombre sull'asse x = m√n; trovare m+n*
@@ -682,7 +682,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La formula del prodotto con i quadrati perfetti più vicini è la più piccola N positiva; trovare la somma dei quadrati di cifre*
@@ -711,7 +711,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore 6 dischi con 2 nero, 2 blu, 2 bianchi; contare colori distinti sotto rotazione/riflessione*
@@ -740,7 +740,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bug si muove lungo le linee della griglia da A=(-3,2) a B=(3,-2), lunghezza del percorso al massimo 14; contare i punti interi sui percorsi*
@@ -767,7 +767,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri buoni in {1,...,100} dove il valore buono significa la somma di r>=2 interi positivi consecutivi*
@@ -794,7 +794,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri interi positivi a,b,c con ab/(a-b)=c; trovare i più grandi a+b+c non superiori a 99*
@@ -821,7 +821,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie (a,b) di numeri naturali in cui a+1 divide b-1 e b divide a^2+2*

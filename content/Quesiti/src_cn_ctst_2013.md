@@ -29,7 +29,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il minimo di prodotto che coinvolga gcd su n integri coprimi*
@@ -60,7 +60,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min transizioni in modo che 101 persone ricevano 51 carte ciascuno*
@@ -88,7 +88,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di n con coefficiente di congruenza binomial mod potenza primaria*
@@ -117,7 +117,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza che coinvolge mezzi e prodotti di integri non negativi*

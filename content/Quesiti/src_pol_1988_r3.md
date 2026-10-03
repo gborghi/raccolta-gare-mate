@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri reali sommati a un numero intero con somme parziali limitate*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero atteso di indici di permutazione equiparabili*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il poligono con centro di simmetria contiene punti di mezzo paralleliogrammi sul confine*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione continua su reali con periodo d che soddisfa l'equazione funzionale*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da ricorrenza divisibile da r per tutte le n*
@@ -162,7 +162,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro di maggior volume inserito nell'emisfero del raggio 1*

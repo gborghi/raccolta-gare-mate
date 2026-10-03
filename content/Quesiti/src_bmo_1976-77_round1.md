@@ -30,7 +30,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fonzione additiva che scompare al numero 3 e al numero 10; prova f identicamente 0*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo di triangolo: il centro si trova sulla linea centrale che unisce i punti medi di BC e AX*
@@ -87,7 +87,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scur-tipo di disuguaglianza e una disuguaglianza simmetrica di sesto grado*
@@ -116,7 +116,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubico con radici u,v,w; radici espresse di relative radici cubiche ed esclusi intervalli*
@@ -144,7 +144,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 5 sfere uguali su un pentagono regolare; due sfere tangenti si incontrano?
@@ -172,7 +172,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decomponere 26(x+...+x^n) come somma di polinomi di permutazione; trovare tutti n*

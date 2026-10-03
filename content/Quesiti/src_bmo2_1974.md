@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove il triangolo ABC rettangolare; prova l'identità con il circoncentro e il centroide*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea poligonale in 50 ×50 quadrati con vincolo di distanza; prova lunghezza > 1248 *
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anello circolare di raggio 1 nell'angolo della stanza; trovare locus del centro*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rotte cubiche di tre numeri primi distinti non in AP; o trovare x^8+y^8+z^8 date somme simmetriche*

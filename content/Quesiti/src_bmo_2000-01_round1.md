@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N a due cifre in cui la somma di 10^N meno 1 è divisibile per 170*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due accordi tangenti dal punto sul cerchio esterno: rapporto angolare*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sette tetromini distinti; imballazione in un rettangolo 4×7*
@@ -111,7 +111,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita con la funzione integro più vicina; prove i termini formano integri consecutivi*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il triangolo è rettangolare se a2+b2+c2=8R2*

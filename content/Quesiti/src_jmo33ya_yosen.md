@@ -26,7 +26,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -54,7 +54,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -82,7 +82,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -110,7 +110,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -138,7 +138,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -166,7 +166,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -194,7 +194,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -222,7 +222,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -250,7 +250,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -278,7 +278,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -306,7 +306,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *
@@ -334,7 +334,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyvlwIPuQiB-BYRyFhAM57pHtqvcE8uc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserzione di problema non presente nella fonte (solo foglio di risposta) *

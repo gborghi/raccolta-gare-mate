@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Sottoinsiemi disgiunti ottenuti per traslazione da un sottoinsieme di 101 elementi di S*
 
 > Sia $S$ l'insieme $\{1, 2, 3, \ldots, 1000000\}$. Si dimostri che per ogni sottoinsieme $A$ di $S$ con $101$ elementi esistono $100$ elementi distinti $x_i$ di $S$ tali che gli insiemi $\{a + x_i \mid a \in A\}$ siano a due a due disgiunti.
-
-
 
 [[Quesiti/src_imho_2003#q01|src_imho_2003__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie (m,n) tali che una frazione sia un intero positivo*
 
 > Determinare tutte le coppie $(m, n)$ di interi positivi tali che $\dfrac{m^2}{2mn^2 - n^3 + 1}$ sia un numero intero positivo.
-
-
 
 [[Quesiti/src_imho_2003#q02|src_imho_2003__Q02]]
 
@@ -84,11 +82,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Esagono convesso con condizione sulla distanza dei punti medi ha angoli uguali*
 
 > Un esagono convesso ha la proprietà che per ogni coppia di lati opposti, la distanza tra i punti medi è uguale a $\dfrac{\sqrt{3}}{2}$ volte la somma delle loro lunghezze. Si dimostri che tutti gli angoli dell'esagono sono uguali.
-
-
 
 [[Quesiti/src_imho_2003#q03|src_imho_2003__Q03]]
 
@@ -112,11 +109,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrilatero ciclico: le bisettrici degli angoli si incontrano su AC se e solo se RP=RQ*
 
 > Il quadrilatero $ABCD$ è ciclico. I piedi delle perpendicolari da $D$ alle rette $AB$, $BC$, $CA$ sono rispettivamente $P$, $Q$, $R$. Si dimostri che le bisettrici degli angoli $\angle ABC$ e $\angle CDA$ si incontrano sulla retta $AC$ se e solo se $RP = RQ$.
-
-
 
 [[Quesiti/src_imho_2003#q04|src_imho_2003__Q04]]
 
@@ -140,11 +136,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza per reali ordinati con uguaglianza se e solo se progressione aritmetica*
 
 > Dati $n > 2$ e numeri reali $x_1 \le x_2 \le \cdots \le x_n$, si dimostri che $$\left(\sum_{i,j} |x_i - x_j|\right)^2 \le \frac{2}{3}(n^2 - 1) \sum_{i,j} (x_i - x_j)^2.$$. Si dimostri inoltre che vale l'uguaglianza se e solo se la successione è una progressione aritmetica.
-
-
 
 [[Quesiti/src_imho_2003#q05|src_imho_2003__Q05]]
 
@@ -168,10 +163,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Per ogni primo p, determinare un primo q tale che p^n - p non sia divisibile per q*
 
 > Si dimostri che per ogni primo $p$ esiste un primo $q$ tale che $n^p - p$ non è divisibile per $q$ per nessun intero positivo $n$.
-
-
 
 [[Quesiti/src_imho_2003#q06|src_imho_2003__Q06]]

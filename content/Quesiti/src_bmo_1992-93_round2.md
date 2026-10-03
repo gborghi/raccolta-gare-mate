@@ -32,7 +32,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la più piccola a+b+c per unità angolare con angoli segnalati distinti nei triangoli nidificati*
@@ -65,7 +65,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova 2^(m-1)  1 mod m dove m=4^p−1)/3, p primo >3*
@@ -95,7 +95,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto interno del triangolo; prova PA sinBAC/sin α = PB sinCBA/sin β = PC sinACB/sin γ*
@@ -122,7 +122,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medio della somma delle differenze di cifre assolute consecutive su Z(m,n) *

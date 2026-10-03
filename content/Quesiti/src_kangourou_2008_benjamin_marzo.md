@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to the implementation of the programme.
@@ -64,7 +64,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sagoms obtained by approaching two equilateral triangles*
@@ -103,7 +103,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order of three transformations of a number*
@@ -152,7 +152,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many flags have a black part equal to 3/5*
@@ -194,7 +194,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Place 12 coins on circumferences and diameters*
@@ -234,7 +234,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the partial multiplication table*
@@ -270,7 +270,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with a sum of 3 digits *
@@ -305,7 +305,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the triangle pentagon + square isoperimetric *
@@ -344,7 +344,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of grey of a periodic brake*
@@ -434,7 +434,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle with non-acute angle*
@@ -474,7 +474,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 With so many matches, it's impossible to make a triangle.
@@ -511,7 +511,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of water reaching B after forking*
@@ -552,7 +552,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *weight of the letter pound*
@@ -588,7 +588,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n persons in 60 seats with no isolated free seat*
@@ -625,7 +625,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum N people in 60 seats each next to each other*
@@ -681,7 +681,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit numbers with a unit of decimal place*
@@ -721,7 +721,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different scores with two arrows*
@@ -758,7 +758,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eta of Ada and Ivo under linear conditions*
@@ -789,7 +789,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which construction of cubes is not feasible*
@@ -826,7 +826,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many squares of 4 boxes in a chessboard 8x8*
@@ -861,7 +861,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *3 su 16:9*
@@ -919,7 +919,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Guessing the professions of the three friends*
@@ -952,7 +952,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Where to start to visit each box*
@@ -1020,7 +1020,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of fourth bus route*
@@ -1087,7 +1087,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of cards from the first essay (parity) *
@@ -1122,7 +1122,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between the two most distant points on a straight line*
@@ -1178,7 +1178,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order of shots rotating around the shell*
@@ -1218,7 +1218,7 @@ With so many matches, it's impossible to make a triangle.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the input data.
@@ -1280,7 +1280,7 @@ This is the total value of the input data.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the areas of the 27 equilateral triangles*
@@ -1350,7 +1350,7 @@ This is the total value of the input data.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The number of boys sharing apples

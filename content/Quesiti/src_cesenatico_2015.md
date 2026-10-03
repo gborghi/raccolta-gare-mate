@@ -31,7 +31,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *total volume by 4 volumes*
@@ -66,7 +66,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to some extent a single genus*
@@ -96,7 +96,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *cycled if parallelism*
@@ -124,7 +124,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integrated pairs (a,b) with a^3+b^3+3ab=1*
@@ -155,7 +155,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following table shows the results of the evaluation:
@@ -190,7 +190,7 @@ The following table shows the results of the evaluation:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which n wins Charles*

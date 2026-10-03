@@ -38,7 +38,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What photo of the fungus was taken on Tuesday*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which part completes the mosaic*
@@ -126,7 +126,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What shape does Antonio get by shadowing the results?
@@ -168,7 +168,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which square has the major gray part*
@@ -229,7 +229,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the last cell on which Sonia lands (+3 per jump) *
@@ -276,7 +276,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure is composed of the six adhesives*
@@ -319,7 +319,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which adhesives and opposes the cube anathrocoll*
@@ -373,7 +373,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many sheets of different sizes to cover the grid*
@@ -429,7 +429,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many red regions in the colour of the circle*
@@ -482,7 +482,7 @@ What shape does Antonio get by shadowing the results?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What image does Luke see looking at the pyramid from above
@@ -530,7 +530,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bones reaches the tied dog (leash 11m) *
@@ -572,7 +572,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many poles for a 10 m long strap*
@@ -614,7 +614,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of steps where rabbit and kangaroo meet*
@@ -664,7 +664,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is one of the three initial numbers (sum 50, minus x) *
@@ -712,7 +712,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the number in the triangle X of the token crown*
@@ -760,7 +760,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which combination of stacks forms a square*
@@ -812,7 +812,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of dots on the three faces after rolling the dice*
@@ -890,7 +890,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which combination of ice cream and decoration is NOT possible*
@@ -934,7 +934,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Names of the three girls (terms with a correct name) *
@@ -978,7 +978,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number covered by the circle (sum of triangles and squares) *
@@ -1031,7 +1031,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many other differently coloured parrots*
@@ -1079,7 +1079,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many teams in the field (5 or 6 members, 43 people) *
@@ -1127,7 +1127,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which key is not cut into three equal parts of 5 squares*
@@ -1176,7 +1176,7 @@ What image does Luke see looking at the pyramid from above
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the KAN-ROO+GA results with distinct figures*

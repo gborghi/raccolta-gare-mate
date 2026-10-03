@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Stairway where kangaroo and rabbit meet
@@ -84,7 +84,7 @@ Stairway where kangaroo and rabbit meet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What picture of the balloon in front of the castle?
@@ -132,7 +132,7 @@ What picture of the balloon in front of the castle?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Right way to approach the pieces of the puzzle*
@@ -180,7 +180,7 @@ What picture of the balloon in front of the castle?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Next two dolls in the periodic pattern*
@@ -228,7 +228,7 @@ What picture of the balloon in front of the castle?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image seen by overlapping the holes in the cartons*
@@ -276,7 +276,7 @@ What picture of the balloon in front of the castle?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden grey cubes in the building*
@@ -324,7 +324,7 @@ What picture of the balloon in front of the castle?
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Drawing with 3 black triangles and less than 4 squares
@@ -372,7 +372,7 @@ Drawing with 3 black triangles and less than 4 squares
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colors of the ribbon for numbers 1,2,3*
@@ -420,7 +420,7 @@ Drawing with 3 black triangles and less than 4 squares
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight that completes the figure*
@@ -468,7 +468,7 @@ Drawing with 3 black triangles and less than 4 squares
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where to draw the twelfth village house
@@ -516,7 +516,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Construction using more than one cube*
@@ -564,7 +564,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the hidden petal with equal sums*
@@ -612,7 +612,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure in which the grey pencil is used most*
@@ -660,7 +660,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.14](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the box with question mark, sum of 10*
@@ -708,7 +708,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The appearance of the paper after two turns*
@@ -755,7 +755,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of biscuits to be baked for 5 grandchildren*
@@ -802,7 +802,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Paper to be placed in the 3x3 grey box*
@@ -850,7 +850,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Carriage adjacent to 12 when 19 are adjacent*
@@ -899,7 +899,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of colouring two cells to connect A to B*
@@ -948,7 +948,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Who is the lowest in the height graph *
@@ -994,7 +994,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many yellow apples are in the basket*
@@ -1057,7 +1057,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible numbers in the circle with equal sums*
@@ -1119,7 +1119,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the face opposite to 5 on a cube*
@@ -1164,7 +1164,7 @@ Where to draw the twelfth village house
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial bags of John after two exchanges*

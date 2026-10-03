@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare tutti gli integri positivi n rendendo 10^n/(n^3+n^2+n+1) un intero*
@@ -55,7 +55,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Controlli sull'esagono triangolato: trovare movimenti minimi per raggiungere qualsiasi vertice*
@@ -89,7 +89,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze ascendenti di numeri interi positivi e multipli di numeri primi*
@@ -120,7 +120,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti conciclici dalle costruzioni incircolare e circoncircolare sul triangolo ABC*
@@ -151,7 +151,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo di a×una sotto-griglia con esattamente una cellula nera tra n scelti*

@@ -27,7 +27,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many years of the dragon (sum of digits divisible by 7) *
@@ -56,7 +56,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance travelled in the square (isosceles triangle) *
@@ -85,7 +85,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coef b of p(x)=x^3+ax^2+bx-2012 with whole roots*
@@ -114,7 +114,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total steps in the pursuit of the equator*
@@ -143,7 +143,7 @@ level: nazionale
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Max score for Gonioku-Vietnam (sports)
@@ -172,7 +172,7 @@ Max score for Gonioku-Vietnam (sports)
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the aid granted in accordance with Article 107 (1) TFEU.
@@ -201,7 +201,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n with aura 8128 (factors less than difference) *
@@ -230,7 +230,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ring area (internal diagonal hexagon) *
@@ -259,7 +259,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Gonioku's odds against his three rivals.
@@ -289,7 +289,7 @@ Gonioku's odds against his three rivals.
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of knights among inhabitants (statements) *
@@ -318,7 +318,7 @@ Gonioku's odds against his three rivals.
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Max Gonioku wins in the mini-tournament (min and max)
@@ -347,7 +347,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The ten self-referential questions (answers 2,4,9,10) *
@@ -385,7 +385,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (a,b) with square a-1) + square b-1) = square ab-1) *
@@ -422,7 +422,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial time before the Kartesioh-ken (roots) *
@@ -456,7 +456,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided by the manufacturer:
@@ -492,7 +492,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of aura of 7 digits with 4 zeros or greater*
@@ -529,7 +529,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *square 8 digits n and n+1*
@@ -567,7 +567,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of products in the sphere-district (mod 11) *
@@ -601,7 +601,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max area of parallel-piped shadow (45 degrees) *
@@ -634,7 +634,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minutes to destroy C-18 (graph islands)
@@ -665,7 +665,7 @@ Minutes to destroy C-18 (graph islands)
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance on the surface of pyramids (6) *
@@ -694,7 +694,7 @@ Minutes to destroy C-18 (graph islands)
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers 0 to 999 with digits 3 or 6 (fusion) *
@@ -723,7 +723,7 @@ Minutes to destroy C-18 (graph islands)
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *x^2y^2-192xy+5776=16x^2+25y^2*
@@ -752,7 +752,7 @@ Minutes to destroy C-18 (graph islands)
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AB=2:3*

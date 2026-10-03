@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Zodiac sign with an axis of symmetry*
@@ -80,7 +80,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shadeed percentage of concentric circles*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the expression (2+0+2+1)/...*
@@ -166,7 +166,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of four consecutive increasing digits*
@@ -212,7 +212,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the operation in the card puzzle*
@@ -268,7 +268,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Highest water level vessel with half a litre *
@@ -315,7 +315,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True claim on chain heights*
@@ -359,7 +359,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Part of the grey cubes of the 3x3x3 cube
@@ -411,7 +411,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct combination by rotating the gears of 180*
@@ -462,7 +462,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figures left after strip breaks*
@@ -508,7 +508,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of addition of four digits of numbers*
@@ -573,7 +573,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of the empty vessel given two fillings*
@@ -614,7 +614,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of black flower in square area 16*
@@ -662,7 +662,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of overlap between axes*
@@ -713,7 +713,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles for the star with minor sharp angles*
@@ -762,7 +762,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of h in the five squares set*
@@ -805,7 +805,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How much to decrease the denominator to double*
@@ -845,7 +845,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x with rectangles of areas P=2Q*
@@ -900,7 +900,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True claim by division of apples and pears*
@@ -940,7 +940,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of hexagons given 12 pentagons of the ball*
@@ -986,7 +986,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of shortest road between three villages*
@@ -1035,7 +1035,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unanswered questions given the score 100*
@@ -1086,7 +1086,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of the ball at the centre of the fourth face*
@@ -1163,7 +1163,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of tokens in the box (boxes) *
@@ -1211,7 +1211,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of ABCDE2 figures with 2ABCDE x3 = ABCDE2*
@@ -1265,7 +1265,7 @@ Part of the grey cubes of the 3x3x3 cube
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Crab that Bruno can't tell the color of
@@ -1314,7 +1314,7 @@ Crab that Bruno can't tell the color of
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs crossed by diagonal tunnel 3x4x5*
@@ -1363,7 +1363,7 @@ Crab that Bruno can't tell the color of
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs made up of two thieves*
@@ -1406,7 +1406,7 @@ Crab that Bruno can't tell the color of
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Turn where D meets F in the tournament
@@ -1482,7 +1482,7 @@ Turn where D meets F in the tournament
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The area of the shaded quadrilateral divided into four*

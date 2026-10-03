@@ -26,7 +26,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri interi positivi n divisioni 2003n+2002*
@@ -57,7 +57,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Programmazione del campo estivo: accordi di servizio con condizione di unicità*
@@ -88,7 +88,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri interi positivi k per l'esistenza triangolare attraverso l'ineguaglianza*
@@ -117,7 +117,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli che si intersecano: prova l'uguaglianza del rapporto AH/HF = CD/CF*
@@ -146,7 +146,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza della somma di permutazione: dimostra il limite inferiore (n-1)/(n+2) *
@@ -173,7 +173,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (x,y) con x^y = y^(x-y) *
@@ -202,7 +202,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro del triangolo orizzonte alla metà del perimetro del triangolo acuto*
@@ -233,7 +233,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il numero di permutazioni distinte da proiezioni a 8 punti*

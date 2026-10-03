@@ -8,9 +8,9 @@ level: kangourou
 ---
 <div class="atom-reader" data-gara="Quesiti/src_kangourou_2026_student_finale"></div>
 
-<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_combinatoria,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_combinatoria,skill_astrazione"></span>
 
 *Moneta falsa piu leggera con 6 pesate*
 
@@ -22,9 +22,9 @@ level: kangourou
 **Risposta:** 729
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avqU9uPlRwYwfxF306_KZt-mPS_OV6iV/view)
 
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 *Coppie di palindromi di 4 cifre con somma palindroma*
 
@@ -37,9 +37,9 @@ level: kangourou
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avqU9uPlRwYwfxF306_KZt-mPS_OV6iV/view)
 
-<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Moneta che percorre il bordo di un pentagono circoscritto*
 
@@ -51,9 +51,9 @@ level: kangourou
 **Risposta:** 71,25
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avqU9uPlRwYwfxF306_KZt-mPS_OV6iV/view)
 
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_aritmetica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_aritmetica,skill_astrazione"></span>
 
 *Fattoriali da togliere perche il prodotto sia un quadrato*
 
@@ -65,9 +65,9 @@ level: kangourou
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avqU9uPlRwYwfxF306_KZt-mPS_OV6iV/view)
 
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
 
 *Rapporto di lati in ogni triangolo, sezione aurea*
 
@@ -79,9 +79,9 @@ level: kangourou
 **Risposta:** $(1+\sqrt{5})/2$
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avqU9uPlRwYwfxF306_KZt-mPS_OV6iV/view)
 
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_algebra,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_algebra,skill_astrazione"></span>
 
 *Somme limitate e cubi illimitati*
 
@@ -92,4 +92,3 @@ level: kangourou
 **Area:** [[Algebra e Analisi]]
 **Risposta:** esistono
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avqU9uPlRwYwfxF306_KZt-mPS_OV6iV/view)
-

@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i numeri interi positivi a,b con equazione a2+1, b2+1 prime soddisfacente*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il punto medio del PL, il punto C e il centro circundante del triangolo ABC sono collineari*
@@ -82,7 +82,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sostituire due dei tre enti della scheda nera con la somma e la differenza assoluta; raggiungere due zero*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza della somma ciclica dei valori reali positivi r_1,...,r_n con n≥3*
@@ -140,7 +140,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sfera, piano, tre punti non collineari con linee tangenti; circosfera piramidale tangente*
@@ -169,7 +169,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_1=k+1, a_{n+1}=a_n2-4a_n+1; mostrare termini distinti sono coprime*

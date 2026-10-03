@@ -28,7 +28,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sorted matching minimizes sum of squared diffs*
@@ -56,7 +56,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Infinitely many a_m of form x a_p + y a_q*
@@ -82,7 +82,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *proves angle QRP=90 and QR=RP*
@@ -109,7 +109,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Iterated digit sum of 4444^4444*
@@ -135,7 +135,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *1975 points on unit circle with rational pairwise distances*
@@ -171,7 +171,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find homogeneous two-variable polynomials with cyclic condition*

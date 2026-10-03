@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First of four numbers with the sum of 54*
@@ -69,7 +69,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time for the rotation of the loom*
@@ -112,7 +112,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the magical rectangle*
@@ -140,7 +140,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tire used for the same route*
@@ -168,7 +168,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First and last three digits with sum 2003*
@@ -197,7 +197,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A combination of 200 integers without a number and the double *

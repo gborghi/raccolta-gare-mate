@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con recidiva: dimostrare tutti i termini positivi*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente *
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli esterni; la linea attraverso due vertici separa la terza*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 persone in sala; 4 che si conoscono tutti esistono*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque punti ABCDE nello spazio con lati e angoli uguali; dimostrare coplanare*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il poligono ciclico con lati unici e angoli uguali è regolare*

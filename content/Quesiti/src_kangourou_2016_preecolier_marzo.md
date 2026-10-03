@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Letter not in the word KOALA*
@@ -76,7 +76,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many strings are drawn in Figure *
@@ -116,7 +116,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many matches in Michele's house
@@ -156,7 +156,7 @@ How many matches in Michele's house
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Within how many months will Sara be two years old*
@@ -196,7 +196,7 @@ How many matches in Michele's house
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What point Gianni can reach in the maze
@@ -236,7 +236,7 @@ What point Gianni can reach in the maze
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many children are in the garden, ten companions, including 5 girls*
@@ -276,7 +276,7 @@ What point Gianni can reach in the maze
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many houses number 25 to 57 including*
@@ -316,7 +316,7 @@ What point Gianni can reach in the maze
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which construction and obtained with 10 cubes*
@@ -356,7 +356,7 @@ What point Gianni can reach in the maze
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Group of stones on the step indicated*
@@ -397,7 +397,7 @@ What point Gianni can reach in the maze
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum white non-contact eggs in the box*
@@ -437,7 +437,7 @@ What point Gianni can reach in the maze
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of doors from A to B in the doll house
@@ -477,7 +477,7 @@ Minimum number of doors from A to B in the doll house
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The number of rooms where the light was off, 18 windows lit.
@@ -517,7 +517,7 @@ The number of rooms where the light was off, 18 windows lit.
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs with a difference of less than 15 between 7.13,20.30*
@@ -557,7 +557,7 @@ The number of rooms where the light was off, 18 windows lit.
 **Fonte:** [apri PDF p.14](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Word read by Mary along the way
@@ -597,7 +597,7 @@ Word read by Mary along the way
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of Gino and Gina's age in four years
@@ -637,7 +637,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the five watches is broken*
@@ -677,7 +677,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Composition not obtained from Luisa's cuttings*
@@ -717,7 +717,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which central brick has been removed*
@@ -757,7 +757,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares to be added for the smallest square*
@@ -798,7 +798,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of knuckles among five sparrows*
@@ -838,7 +838,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flower on which no cookware is laid*
@@ -878,7 +878,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Design obtained by overlapping colored cardboard*
@@ -918,7 +918,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Symbol on the face opposite the one with the given symbol*
@@ -959,7 +959,7 @@ Sum of Gino and Gina's age in four years
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum boxes with equal sum, data numbers*

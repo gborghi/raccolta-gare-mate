@@ -33,11 +33,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che AM, DN, XY sono concorrenti nella configurazione delle circonferenze di diametro doppio*
 
 > Siano A, B, C, D quattro punti distinti su una retta, in quest'ordine. Le circonferenze di diametri AC e BD si intersecano nei punti X e Y. La retta XY incontra BC in Z. Sia P un punto sulla retta XY diverso da Z. La retta CP interseca la circonferenza di diametro AC nei punti C e M, mentre la retta BP interseca la circonferenza di diametro BD nei punti B e N. Si dimostri che le rette AM, DN ed XY sono concorrenti.
-
-
 
 [[Quesiti/src_imo_1995#q01|src_imo_1995__Q01]]
 
@@ -67,6 +66,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare che la somma di 1/(a^3(b+c)) è almeno 3/2 se abc=1*
 
 > Siano a, b, c numeri reali positivi tali che abc = 1. Si dimostri che
@@ -77,8 +77,6 @@ level: IMO
 > 1
 > c3(a + b) ≥3
 > 2.
-
-
 
 [[Quesiti/src_imo_1995#q02|src_imo_1995__Q02]]
 
@@ -107,6 +105,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare n con aree dei punti uguali a ri+rj+rk*
 
 > Determinare tutti gli interi n > 3 per cui esistono n punti A1, . . . , An
@@ -116,8 +115,6 @@ level: IMO
 > Secondo giorno - Toronto - 20 luglio 1995
 > Tempo: 41
 > 2 ore
-
-
 
 [[Quesiti/src_imo_1995#q03|src_imo_1995__Q03]]
 
@@ -139,7 +136,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum x0 for cyclic positive-real recurrence sequence*
@@ -167,7 +164,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In the case of the equation, the following equation is used: *Hexagon inequality AG+GB+GH+DH+HE>=CF*
@@ -193,7 +190,7 @@ In the case of the equation, the following equation is used: *Hexagon inequality
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Count p-element subsets of 1..2p with p-divisible sum*

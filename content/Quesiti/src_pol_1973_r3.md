@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni polinomio è una differenza di due polinomi in aumento*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità di testa in 100 lanci; convergenza delle sequenze*
@@ -85,7 +85,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il poliedro con sezioni di simmetria e parallelo è un parallelepiped*
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Segmenti tradotti di lunghezza totale <1 su una linea rimanere lontani da dati punti*
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni m/s razionale positivo è la somma delle reciprocità di interi numeri positivi distinti*
@@ -168,7 +168,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il poligono centralmente simmetrico ha un'ellisse che lo contiene con superficie minima*

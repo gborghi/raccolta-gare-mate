@@ -30,7 +30,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali disgiunti con vertici di 3 e 1 colore *
@@ -58,7 +58,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare a/b+b/c+c/d+d/a sotto (a+c)(b+d)=ac+bd*
@@ -85,7 +85,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme senza somma: alcuni a_i non riescono a dividere la somma dei vicini*
@@ -112,7 +112,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le forze di collinearità hanno un angolo retto in triangolo di uguali ocelli*
@@ -139,7 +139,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lattice convex n-gon diviso dal punto interno in aree pari consecutive*
@@ -171,7 +171,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le coppie massime di buoni (linee, colonne) di una griglia di primo grado hanno uguali numeri di righe*
@@ -199,7 +199,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale sui reali con f * annidato
@@ -226,7 +226,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Persone raggruppate in n cerchi con condizione di cerchio comune; conteggio totale*
@@ -253,7 +253,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due circoncircoli tangenti in configurazione incentro/A-excentro*
@@ -280,7 +280,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte prime il cui grafico di ponte-isola è disconnesso*
@@ -307,7 +307,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti esternamente producono punti collineari A, X, Y*
@@ -336,7 +336,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale sui numeri interi utilizzando iterazioni di f*

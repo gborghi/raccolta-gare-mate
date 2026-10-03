@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio delle ortografie di OLYMPIADS da tipografo poco affidabile*
@@ -61,7 +61,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove a0 e a1 consecutive date a2023 e a2024 consecutive*
@@ -94,7 +94,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove BZ perpendicolare all'AC nel problema di geometria circolare*
@@ -123,7 +123,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n con n volte 2^n più 1 un quadrato perfetto*
@@ -152,7 +152,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di errori per 1000 punti rosso-blu su un cerchio*
@@ -183,7 +183,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per il quale n deve avere angoli uguali un poligono converso equilaterale con diagonali corti uguali*

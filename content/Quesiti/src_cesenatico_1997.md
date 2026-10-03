@@ -32,7 +32,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area of folded strip 3cm*
@@ -75,7 +75,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *f unusual and periodic with symmetrical conditions*
@@ -119,7 +119,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coloring squares with square/diagonal conditions*
@@ -156,7 +156,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of AB-beam tetrahedron and S projection *
@@ -193,7 +193,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum MCD d_n by converting digits of n*
@@ -232,7 +232,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cost incurred by rail/air traveller*

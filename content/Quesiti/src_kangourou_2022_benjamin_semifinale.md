@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now in Rome when dinner has been served (closed hours) *
@@ -81,7 +81,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many side cubes 1cm in the large cube*
@@ -122,7 +122,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which stamps give the correct spelling*
@@ -170,7 +170,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times do the hands form a right angle 6-12*
@@ -220,7 +220,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *End product unit number of numbers 2021-2029*
@@ -264,7 +264,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unordered pairs of parallel beams in a cube*
@@ -304,7 +304,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Additional ploughing for grass from 25 to 30 metres*
@@ -371,7 +371,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many correct statements about Ada and Bice running*
@@ -433,7 +433,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most likely number of people who knew the answer *
@@ -471,7 +471,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of (number*10) divided by 6 with number=2 mod 6*
@@ -503,7 +503,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between oases A and B with two camels*
@@ -537,7 +537,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Detail mileage with petrol in the tank*
@@ -569,7 +569,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficient number of 111...999 divided by 111*
@@ -622,7 +622,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the angle a+b from the figure*
@@ -680,7 +680,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cherries did Donatella eat in total
@@ -741,7 +741,7 @@ How many cherries did Donatella eat in total
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the ABC angle between two regular hexagons*
@@ -815,7 +815,7 @@ How many cherries did Donatella eat in total
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to sit in cars with constraints*
@@ -851,7 +851,7 @@ How many cherries did Donatella eat in total
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of operations to reach 2022 from 1*

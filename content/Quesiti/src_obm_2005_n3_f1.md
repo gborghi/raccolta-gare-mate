@@ -29,7 +29,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi tra 10 e 13000 i cui numeri sono consecutivi e in aumento*
@@ -61,7 +61,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo LMN dove L, M, N sono punti di mezzo dei bordi di un cubo*
@@ -94,7 +94,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo LRP con tangente PQ a N per circolare attraverso L, M, N e LM=LN*
@@ -126,7 +126,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova O+B+M dato OBM=240, OB+M=46, O+BM=64*
@@ -156,7 +156,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la cifra n: un moltiplo di 7 fiancheggiato dal 2004 e un numero di cifre del 2005*
@@ -188,7 +188,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il valore possibile di y nell'equazione radicale nidificata è uguale a 1*
@@ -220,7 +220,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i quadrati distinti della lavagna toccati da un blocco 1x2x3 rotolato attorno a una lavagna 8x8*
@@ -251,7 +251,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Offerta equivalente di acquisto-N-pay-M per acquisto-one-get-second-at-half-price*
@@ -280,7 +280,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume stimato di tutto il platino prodotto nella storia per densità e tonnellata*
@@ -312,7 +312,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Costo percorso attraverso tutte e 14 le vertici della rete di fili cubici con diagonali facciali*
@@ -344,7 +344,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero minimo di bordi di un poliedro con faccia esagonale regolare*
@@ -374,7 +374,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di mesi in un anno con cinque domeniche*
@@ -403,7 +403,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza del CD in triangolo ABC con D su BC, AB=AD=2, BD=1, condizione del bisettore angolare*
@@ -433,7 +433,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri 1..12 attorno a un cerchio con somme vicine triangolare; trovare numero opposto 12*
@@ -465,7 +465,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_{n+1}=a_{n+2}(a_{n+1}+a_n), data a_5=35 trovare a_4*
@@ -495,7 +495,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione per l'aggiunta per la distribuzione per moltiplicazione: a+(bc)=(a+b)(a+c)*
@@ -526,7 +526,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio a/b di due aree grigie in una configurazione di cerchi uguali con centri alle vertici di un quadrato*
@@ -558,7 +558,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti dei 13 reali non-zero sono negativi dati 22 prodotti in coppia negativa e più positivi*
@@ -587,7 +587,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *angolo di un parallelo tale che le perpendicolari ai suoi lati formino un altro parallelo con angoli uguali*
@@ -617,7 +617,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
@@ -647,7 +647,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordina tre grandi/esotiche potenze A, B, C per dimensioni*
@@ -677,7 +677,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Total time bound over three road segments given average speed ranges*
@@ -707,7 +707,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale coppia NON è 'primanos' (in un AP a tre termini) *
@@ -737,7 +737,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio/timamento delle sovrapposizioni di mani di orologio entro un giorno (dichiarazione distorta) *
@@ -767,7 +767,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di studenti brasiliani in una classe di 9 con vincoli di raggruppamento (dichiarazione confusa) *

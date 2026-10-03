@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Litres of paint per line between 16 cones at 10 m*
@@ -77,7 +77,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area common to triangles ABC and DEF (O symmetrical) *
@@ -125,7 +125,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many knights among four inhabitants with given statements*
@@ -167,7 +167,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who is most likely to have 7 denarii?
@@ -210,7 +210,7 @@ Who is most likely to have 7 denarii?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For integers n the value 3n/(n+5) is an integer multiple of 4*
@@ -254,7 +254,7 @@ Who is most likely to have 7 denarii?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance on the cone to reach the door of Hell*
@@ -295,7 +295,7 @@ Who is most likely to have 7 denarii?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second figure of the product (10^16+1)...
@@ -339,7 +339,7 @@ Who is most likely to have 7 denarii?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
@@ -414,7 +414,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Safe area within triangular equilateral base side 8*
@@ -488,7 +488,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum a4 with pairs MCD >1 but global MCD 1*
@@ -531,7 +531,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum balls to be extracted per product multiple of 12*
@@ -573,7 +573,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most degree of p(x-1)-3p(x)+3p(x+1)-p(x+2)*
@@ -615,7 +615,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number code with each subsection first*
@@ -651,7 +651,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area of the pyramid shadow in the sun at 45°*
@@ -684,7 +684,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term (p,q,n) prime with p^2+q^2 = pqn+1*
@@ -722,7 +722,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CBN=BAM and CM+MN=BN in the isosceles triangle*
@@ -755,7 +755,7 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Orders of {21..81} with sums of 4 consecutive digits divisible by 3*

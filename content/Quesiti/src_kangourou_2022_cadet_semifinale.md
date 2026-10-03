@@ -35,7 +35,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which stamps give the correct spelling*
@@ -76,7 +76,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times do the hands form a right angle 6-12*
@@ -123,7 +123,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unit number of final product 2021-2029*
@@ -172,7 +172,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Additional meadows for grass from 25 to 30 metres (fraction) *
@@ -239,7 +239,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many correct statements about Ada and Bice running*
@@ -301,7 +301,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum path of the ant on the cylinder*
@@ -345,7 +345,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most likely number of people who knew the answer *
@@ -392,7 +392,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the numbers can be the sum (switched figure) *
@@ -443,7 +443,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black region area with two inscribed circles*
@@ -482,7 +482,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between oases A and B with two camels*
@@ -511,7 +511,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficient number of 111...999 divided by 111*
@@ -545,7 +545,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cherries did Donatella eat
@@ -579,7 +579,7 @@ How many cherries did Donatella eat
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the ABC angle between two regular hexagons*
@@ -613,7 +613,7 @@ How many cherries did Donatella eat
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to sit in cars with constraints*
@@ -644,7 +644,7 @@ How many cherries did Donatella eat
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unused digit by writing 2022 as a sum of three digits*
@@ -681,7 +681,7 @@ How many cherries did Donatella eat
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum operations to be achieved by 2022 by 1*
@@ -718,7 +718,7 @@ How many cherries did Donatella eat
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pairs m,n with 1/m+1/n=1/3*
@@ -760,7 +760,7 @@ How many cherries did Donatella eat
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of Anna winning

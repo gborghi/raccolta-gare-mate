@@ -34,7 +34,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figura delle scale dei quadrati unitari; contare i quadrati bianchi nella figura 13*
@@ -77,7 +77,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area delle schede di plastica quadrate e trapezziali; quadrato minimo per le tessere *
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dicci pilastrati come pilastri; volti in contatto e cubo rigido con uguali sommi facciali*
@@ -157,7 +157,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Crittografia aritmetica: sei permutazioni di OBM sommate uguali a OOOX*
@@ -200,7 +200,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di rimozione delle monete: strategia vincente per 11 e 15 monete sul tavolo*

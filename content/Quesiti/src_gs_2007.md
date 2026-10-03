@@ -36,7 +36,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time indicated by digital clock with sum property *
@@ -92,7 +92,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *reconstruct the digits of a subtraction*
@@ -131,7 +131,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angles of a triangular courtyard divided into three*
@@ -191,7 +191,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding the package with the wrong total and the correct value*
@@ -227,7 +227,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Assigning means of transport with logical constraints*
@@ -262,7 +262,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of socks to guarantee couples per 2007 people*
@@ -298,7 +298,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many people voted Exit poll with vote exchange
@@ -336,7 +336,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most prime factor of S with iterated logarithmic expense*
@@ -371,7 +371,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angles of two straight given red/green area ratio*
@@ -408,7 +408,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of years with sum of iterated digits equal to 2007*
@@ -441,7 +441,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square perimeter consisting of a rectangle at L*
@@ -479,7 +479,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time to recover a hat in a river*
@@ -511,7 +511,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of digits 25^3007 multiplied by 8^2007*
@@ -550,7 +550,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of faces of a polyhedron after six movements*
@@ -589,7 +589,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third and fourth day positive with always full mean *
@@ -624,7 +624,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the three largest numbers on the horizontal line of an H*
@@ -658,7 +658,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real kilometres given a counting kilometre that skips digits*
@@ -697,7 +697,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of MPs becoming independent*
@@ -733,7 +733,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trees of three-digit numbers with digits 1-9*
@@ -769,7 +769,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the third bar of a 60 degree screw*
@@ -808,7 +808,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles made up of 13 point strings per circle*
@@ -843,7 +843,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of a greenhouse with square base and triangular faces*
@@ -891,7 +891,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of a sum of roots (optimal broken path) *
@@ -927,7 +927,7 @@ How many people voted Exit poll with vote exchange
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1fulZREcAta--7FVGb1odWJSNix3C1lcb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum eulerian round in a 64x37 lattice *

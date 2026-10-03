@@ -37,7 +37,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Types of false equal statements (logic) *
@@ -71,7 +71,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of non-square folded sheet *
@@ -102,7 +102,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of type codes given on total*
@@ -130,7 +130,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trapezium triangle area with similarities*
@@ -159,7 +159,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting PDOR names with partitions of 4*
@@ -190,7 +190,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White area with overlapping parallelograms*
@@ -221,7 +221,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of elements of the triangular table*
@@ -249,7 +249,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bear length dividing trapezoid into equal areas*
@@ -280,7 +280,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of zeros in the periodic succession to *
@@ -311,7 +311,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Linear functional equation, value f(49/2) *
@@ -362,7 +362,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True/false boxes with arithmetic constraints*
@@ -404,7 +404,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pythagorean triangles, day with given area*
@@ -437,7 +437,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number equal to n by equation on triangular numbers*
@@ -470,7 +470,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability marked in 2 at the sixth launch*
@@ -501,7 +501,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last three digits of r_2013 (recurrence mod 1000) *
@@ -535,7 +535,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair of firsts with sum of 126 and product*
@@ -568,7 +568,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential helical paths on cylinders*
@@ -601,7 +601,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum rectangle of dice with facial constraints*
@@ -632,7 +632,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total eight-way movement of the dragon*
@@ -666,7 +666,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of offices in the skyscraper
@@ -699,7 +699,7 @@ Minimum number of offices in the skyscraper
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular count with perimeter 20 on the grid*
@@ -732,7 +732,7 @@ Minimum number of offices in the skyscraper
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ship distance from shore with similarities*
@@ -763,7 +763,7 @@ Minimum number of offices in the skyscraper
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum solid volume from chained squares*
@@ -792,7 +792,7 @@ Minimum number of offices in the skyscraper
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of S ball in the 14th minute (recurrence)

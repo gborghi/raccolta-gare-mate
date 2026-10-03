@@ -27,7 +27,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto unico perpendicolare dal centro dove PQ è uguale alla lunghezza tangente*
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tanti interi positivi sulle facce cubiche; trovare tutti i valori possibili della somma facciale T*
@@ -87,7 +87,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza da radici quadratiche; dimostrare valori interi e gcd = 1*
@@ -120,7 +120,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli del sottogruppo con A∩B∩C=, A∩B≠, B∩C≠; dimostrare che è uguale a 7^n−6^n+5^n*
@@ -155,7 +155,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti di mezzo e le linee parallele in quadrilaterali danno quattro parti di superficie uguale*
@@ -188,7 +188,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza primaria p_{n+1} = fattore primario più grande del prodotto+1; prova p_n ≠ 5*
@@ -219,7 +219,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi che soddisfano y3+y ≤ x−x3; dimostrare y<x<1 e x2+y2<1*

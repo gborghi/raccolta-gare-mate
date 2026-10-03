@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number in the grey column*
@@ -68,7 +68,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pious large x with cbrt(x+1184)-cbrt(x-1184)=4*
@@ -101,7 +101,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of allied/enemy relations between five households*
@@ -140,7 +140,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of 4a^3/b + b + 1/a with a,b>0*
@@ -187,7 +187,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AB in cyclic configuration with perpendicular*
@@ -224,7 +224,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Coefficient of x^2006 in product of polynomials
@@ -258,7 +258,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full length of propeller on cylinder, 2006 m in 15 laps*
@@ -293,7 +293,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The final figure is not much of (5n)! for four years*
@@ -326,7 +326,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of years with at least 36 divisors in [1006,2006]*
@@ -362,7 +362,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum useful combinations of 36 ingredients (condition) *
@@ -401,7 +401,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Deposition of dice that minimizes the spread of magic numbers*
@@ -436,7 +436,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-sets of {1,9} with multiple sums of 3 *
@@ -470,7 +470,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final fifth root of a 17-digit number*
@@ -502,7 +502,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of 4 *7^23+3^11 divided by 101 *
@@ -539,7 +539,7 @@ The final figure is not much of (5n)! for four years*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of possession of ball with dice (rules given)
@@ -573,7 +573,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of cubes with 11x11x11 integer grid vertices*
@@ -607,7 +607,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many sets of consecutive integers with a sum of 1 billion *
@@ -643,7 +643,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum denominator with decimal period 4 distinct digits*
@@ -678,7 +678,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 4 digits produced by only 2*
@@ -714,7 +714,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate 1000 A/B area triangles in the two-dimensional plane *
@@ -749,7 +749,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rational sum of a/30 less than 10*
@@ -784,7 +784,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres >9 with strictly increasing numbers*
@@ -817,7 +817,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies equal to [4000,7000] with all other digits *
@@ -932,7 +932,7 @@ Probability of possession of ball with dice (rules given)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of Hardy winning the ninth game.

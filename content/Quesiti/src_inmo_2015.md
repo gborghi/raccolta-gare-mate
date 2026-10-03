@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolare, incentri, circoncentro sull'ipotenusa*
@@ -53,7 +53,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza della parte non periodica dell'espansione decimale di 1/n*
@@ -81,7 +81,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali che soddisfano f(x^2+yf(x))=xf(x+y) *
@@ -108,7 +108,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La palla da basket passata tra quattro giocatori, conta i modi in cui la palla ritorna a A dopo sette passaggi
@@ -136,7 +136,7 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale convex ha incircolo iff 1/PE+1/PG=1/PF+1/PH*
@@ -164,7 +164,7 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Da 11 numeri interi quadrati scegliere 6 con due triplici somme uguali mod 12*

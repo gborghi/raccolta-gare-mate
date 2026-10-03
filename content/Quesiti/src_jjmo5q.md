@@ -26,7 +26,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un prodotto/somma di nove frazioni*
@@ -53,7 +53,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con diagonali perpendicolari; trovare il quarto lato*
@@ -80,7 +80,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le frazioni m/n con m,n ≤ 20 in un determinato intervallo*
@@ -113,7 +113,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio di grado 3 a tre variabili con tre condizioni di divisibilità*
@@ -144,7 +144,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *5×5 griglia numerata 116; trovare m minimo per una condizione colonna-somma*
@@ -175,7 +175,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mediani triangolari dati; area di ricerca*
@@ -202,7 +202,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con diagonali che si intersecano a 60°; ridurre al minimo il perimetro *
@@ -229,7 +229,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a 4 cifre: prodotto delle parti a 2 cifre superiori e inferiori divide n*
@@ -258,7 +258,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *19×19 griglia: min n in modo che ogni 9 cellule rimosse lasci ≤n buoni rettangoli*

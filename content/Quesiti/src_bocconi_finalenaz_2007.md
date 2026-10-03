@@ -28,7 +28,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between the largest and smallest of the 4-digit numbers formed by 2, 0, 0, 7*
@@ -60,7 +60,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the connected pattern so that each rectangle is the sum of the two connected numbers*
@@ -94,7 +94,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many stars did Luke see after the fall?
@@ -125,7 +125,7 @@ How many stars did Luke see after the fall?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Weight of a brick weighing 1 kg plus one fifth of its weight
@@ -156,7 +156,7 @@ Weight of a brick weighing 1 kg plus one fifth of its weight
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pens do Carla and Milena have together?
@@ -191,7 +191,7 @@ How many pens do Carla and Milena have together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square 3×3 with digits 19, equal line sums and increasing orders*
@@ -224,7 +224,7 @@ How many pens do Carla and Milena have together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many green candies does the box contain? *
@@ -257,7 +257,7 @@ How many pens do Carla and Milena have together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many steps does Sara take before the orc?
@@ -291,7 +291,7 @@ How many steps does Sara take before the orc?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the sentences in the box indicating how many multiples of 3, 4 and 5 it contains*
@@ -321,7 +321,7 @@ How many steps does Sara take before the orc?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers, less the sum of their numbers, are equal to 2007? *
@@ -352,7 +352,7 @@ How many steps does Sara take before the orc?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find the prime divisor of 2^24−3^12 at two digits and less than 30*
@@ -389,7 +389,7 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of the year 2007 in the triangular (pyramid) scheme of numbers*
@@ -422,7 +422,7 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First year after 2007 in which there are no births in the Countries of Numbers*
@@ -455,7 +455,7 @@ Find the prime divisor of 2^24−3^12 at two digits and less than 30*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Best first card for Angelo in a card game that definitely leads to victory
@@ -487,7 +487,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square of the length of the segment AB dividing the area of the triangle in half*
@@ -522,7 +522,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of readable triangles with two fans from 2007 spokes*
@@ -558,7 +558,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many 4-digit numbers are symmetrical to a center in the liquid crystal display*
@@ -591,7 +591,7 @@ Best first card for Angelo in a card game that definitely leads to victory
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2007-th decimal place of the sum of the series 1/10+2/100+3/1000+...*

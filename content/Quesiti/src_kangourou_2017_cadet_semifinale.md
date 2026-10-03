@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with a product number less than 2*
@@ -76,7 +76,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The largest and smallest of A,B,C by implications
@@ -109,7 +109,7 @@ The largest and smallest of A,B,C by implications
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the list of the countries of the European Union.
@@ -146,7 +146,7 @@ This is the list of the countries of the European Union.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many times does Daria overtake Baldo by 12 km?
@@ -196,7 +196,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image of the cube not consistent with the others*
@@ -271,7 +271,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the octagonal court of equilateral triangles*
@@ -341,7 +341,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining partition of 97531x1468 by 15*
@@ -382,7 +382,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of sponge from 90% to 80% water*
@@ -427,7 +427,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves by the Woman to return to the original box*
@@ -462,7 +462,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The largest spicy two-digit number *
@@ -493,7 +493,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of sufficient evidence given total correct answers*
@@ -527,7 +527,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum chocolates divided into classes 21 and 25*
@@ -557,7 +557,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *variable regular polygon for rotation of 55*
@@ -589,7 +589,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of route given two encounters (720 from A, 100 from B) *
@@ -620,7 +620,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of N dividers, third and seventh product equal to N*
@@ -651,7 +651,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum full speed to prevent sinking of the boat*
@@ -682,7 +682,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of alcohol guaranteed in A after transitions*
@@ -754,7 +754,7 @@ How many times does Daria overtake Baldo by 12 km?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *FD length in the triangle divided into five equal areas*

@@ -99,7 +99,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri puntati: un intero n>=2 è puntato se esistono n numeri interi consecutivi ognuno con un fattore primo p>n; esistenza, grandi numeri puntati, conteggiamento tramite coefficienti binomiali e stime logaritmiche.*
@@ -200,7 +200,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un numero esplosivo: la sequenza x_{n+1}=(1+1/x_n)^n con x_1=a; la funzione f_n(x)=(1+1/x)^n; un criterio di esplosività; dimostrando l'esistenza di un numero esplosivo unico tramite un argomento di contrazione.*

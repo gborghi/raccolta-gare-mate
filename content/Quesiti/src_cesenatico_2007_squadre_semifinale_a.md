@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-luxury cartels (multiple 12) (not multiple 18) in 2007*
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 4 multiple digits 25 with condition of central digits*
@@ -101,7 +101,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum triangular area by triangulation polygon+oasis*
@@ -136,7 +136,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of 252 cos t -275sin t +298*
@@ -167,7 +167,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many multiple palindrome codes 3 odd digits <=5 digits*
@@ -203,7 +203,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smaller whole greater than the area of each shuriken*
@@ -234,7 +234,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum amount not payable with a maximum of 10 euro coins*
@@ -267,7 +267,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities n in [1,2007] with 2n in 19 groups (conditions) *
@@ -301,7 +301,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of values a for which x^2-ax+4a has positive integer roots*
@@ -338,7 +338,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragment area larger than the broken kunai (AC=26) *
@@ -368,7 +368,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product possible third side values (30 degrees, sides 57.75) *
@@ -398,7 +398,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *99-th root of the product dividers of 2^10*3^8*
@@ -430,7 +430,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hexagonal prism paper surface (209 sheets) *
@@ -467,7 +467,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term number (a,b,c) with a<b, a<4c, bc^3<=ac^3+b, <=2007*
@@ -502,7 +502,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits sum produced by subsets of multiples of 2007*

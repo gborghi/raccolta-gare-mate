@@ -36,7 +36,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Attipo di orologio n-ora in cui 1+6=2; scegliere n in modo che 1+12=2*
@@ -78,7 +78,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Traduzione: riscrivere le frasi ambigue in media in termini semplici*
@@ -114,7 +114,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Flotta conica riempita a metà altezza: quanti flutti possono essere riempiti*
@@ -149,7 +149,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'angolo massimo di inclinazione di un vetro emisfero riempito alla metà della sua altezza*
@@ -186,7 +186,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vene di gruppo con entrate minime e un sussidio: prezzo per persona, dimensione ottimale del gruppo*
@@ -223,7 +223,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tagliare un quarto disco in due aree uguali lungo l'asse di simmetria: dove tagliare*
@@ -258,7 +258,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *teorema di Gua: quadrato di superficie obliqua è uguale alla somma dei quadrati delle tre facce rettangolari*
@@ -311,7 +311,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2 introduzione e esempi: mostra 6 è bilanciato (equilibrio 2), 7 non è, 204 ha equilibrio 84*
@@ -364,7 +364,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra n^2-n=2bn+b^2 e b=(-(2n+1)+sqrt(8n^2+1))/2; concludere n equilibrato se 8n^2+1 è un quadrato perfetto*
@@ -421,7 +421,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione di generazione f(x)=3x+sqrt(8x^2+1); g,h ausiliario; sequenza u_1=6, u_{k+1}=f(u_k) di numeri bilanciati*
@@ -485,7 +485,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Python: u_{k+1}=6u_k-u_{k-1}; spiegare il mistero(n) (computatori 1+...+(n-1)); scrivere l'equilibrio(n) restituendo True/False*
@@ -522,7 +522,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Python: scrivere liste_equilibres(n) restituire l'elenco dei numeri bilanciati <= n*
@@ -578,7 +578,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3 intro: dimostrare 1+...+m=m(m+1)/2 per inversione, derivare la formula della somma spostata, e gli esempi 6, 7, 204*
@@ -635,7 +635,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra n^2-n=2bn+b^2 e 8n^2+1=(2n+2b+1)^2; e=sqrt(8n^2+1) impar; concludere n equilibrato se 8n^2+1 un quadrato perfetto*
@@ -682,7 +682,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione di generazione f(x) = 3x+sqrt(8x^2+1); verifica l'identità; f(n) bilanciato se n è; sequenza u_1=6 stringentemente in aumento*
@@ -721,7 +721,7 @@ level: Olympiades Première
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Python: scrivere liste_equilibres(n) restituire l'elenco dei numeri bilanciati <= n, utilizzando sqrt()*

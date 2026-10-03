@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quattro punti allineati, intersezioni di circonferenze, dimostrazione di concorrenza*
 
 > Siano $A$, $B$, $C$, $D$ quattro punti distinti su una retta, in quest'ordine. Le circonferenze di diametri $AC$ e $BD$ si intersecano nei punti $X$ e $Y$. Sia $P$ un punto sulla retta $XY$ diverso da $Z$. La retta $CP$ interseca la circonferenza di diametro $AC$ nei punti $C$ e $M$, mentre la retta $BP$ interseca la circonferenza di diametro $BD$ nei punti $B$ e $N$. Si dimostri che $AM$, $DN$, $XY$ sono concorrenti.
-
-
 
 [[Quesiti/src_imho_1995#q01|src_imho_1995__Q01]]
 
@@ -57,12 +56,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza per reali positivi con abc=1*
 
 > Siano $a$, $b$, $c$ numeri reali positivi tali che $abc = 1$. Si dimostri che
 > $$\frac{1}{a^3(b+c)} + \frac{1}{b^3(c+a)} + \frac{1}{c^3(a+b)} \ge \frac{3}{2}.$$
-
-
 
 [[Quesiti/src_imho_1995#q02|src_imho_1995__Q02]]
 
@@ -86,11 +84,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli n>3 per cui n punti ammettono perimetri dei triangoli uguali*
 
 > Determinare tutti gli interi $n > 3$ per cui esistono $n$ punti $A_1, \ldots, A_n$ nel piano, nessuna terna dei quali allineata, e numeri reali $r_1, \ldots, r_n$ tali che, per ogni $1 \le i < j < k \le n$, l'area del triangolo $\triangle A_i A_j A_k$ sia uguale a $r_i + r_j + r_k$.
-
-
 
 [[Quesiti/src_imho_1995#q03|src_imho_1995__Q03]]
 
@@ -115,12 +112,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Valore massimo di x_0 in una successione che soddisfa un'equazione di ricorrenza*
 
 > Determinare il valore massimo di $x_0$ per cui esiste una successione $x_0, x_1, \ldots, x_{1995}$ di numeri reali positivi con $x_0 = x_{1995}$, tale che per ogni $i = 1, \ldots, 1995$ vale che
 > $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
-
-
 
 [[Quesiti/src_imho_1995#q04|src_imho_1995__Q04]]
 
@@ -144,11 +140,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Esagono convesso ABCDEF con lati uguali, condizione sugli angoli e sull'area*
 
 > Sia $ABCDEF$ un esagono convesso con $AB = BC = CD$ e $DE = EF = FA$, tale che $\angle BCD = \angle EFA = \pi/3$. Siano $G$ e $H$ punti nel suo interno tali che $\angle AGB = \angle DHE = 2\pi/3$. Si dimostri che $AG + GB + GH + DH + HE \ge CF$.
-
-
 
 [[Quesiti/src_imho_1995#q05|src_imho_1995__Q05]]
 
@@ -172,10 +167,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *sottoinsiemi di cardinalità p dell'insieme {1,...,2p} la cui somma è divisibile per p*
 
 > Sia $p$ un numero primo dispari. Quanti sottoinsiemi di $p$ elementi $A$ dell'insieme $\{1, 2, \ldots, 2p\}$ esistono tali che la somma dei loro elementi sia divisibile per $p$?
-
-
 
 [[Quesiti/src_imho_1995#q06|src_imho_1995__Q06]]

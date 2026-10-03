@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza circoscritta, assi perpendicolari, rette parallele in un triangolo*
 
 > Sia $\Gamma$ la circonferenza circoscritta al triangolo acutangolo $ABC$. Siano i punti $D$ e $E$ rispettivamente sui segmenti $AB$ e $AC$, in modo che $AD = AE$. Gli assi dei segmenti $BD$ e $CE$ intersecano gli archi minori $AB$ e $AC$ della circonferenza $\Gamma$ nei punti $F$ e $G$, rispettivamente. Si dimostri che le rette $DE$ e $FG$ sono parallele (o coincidono).
-
-
 
 [[Quesiti/src_imho_2018#q01|src_imho_2018__Q01]]
 
@@ -58,13 +57,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi n≥3 per cui vale una certa ricorrenza su successioni reali*
 
 > Determinare tutti gli interi $n \ge 3$ per i quali esistono numeri reali $a_1, a_2, \ldots, a_{n+2}$ tali che $a_{n+1} = a_1$ e $a_{n+2} = a_2$, e
 > $$a_i a_{i+1} + 1 = a_{i+2}$$
 > per $i = 1, 2, \ldots, n$.
-
-
 
 [[Quesiti/src_imho_2018#q02|src_imho_2018__Q02]]
 
@@ -92,6 +90,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Esistenza di un triangolo anti-Pascal con 2018 righe che copre i numeri da 1 a 1+2+…+2018*
 
 > Un triangolo anti-Pascal è un triangolo equilatero di numeri tale che, tranne per i numeri nell'ultima riga, ciascun numero è il valore assoluto della differenza dei due numeri subito al di sotto. L'array seguente è un triangolo anti-Pascal con quattro righe che contiene ogni intero da 1 a 10:
@@ -99,8 +98,6 @@ level: IMO
 > Esiste un triangolo anti-Pascal con 2018 righe che contiene ogni intero da 1 a $1 + 2 + \cdots + 2018$?
 
 ![[src_imho_2018__q03.png]]
-
-
 
 [[Quesiti/src_imho_2018#q03|src_imho_2018__Q03]]
 
@@ -124,11 +121,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco sui siti della griglia: determinare il massimo K che Amy può garantire con K pedine rosse*
 
 > Un sito è un qualsiasi punto $(x, y)$ nel piano tale che $x$ e $y$ siano entrambi interi positivi minori o uguali a 20. Inizialmente, ciascuno dei 400 siti è non occupato. Amy e Ben alternano i turni, con Amy che inizia. Al suo turno, Amy posa un nuovo sasso rosso su un sito non occupato in modo tale che la distanza tra qualsiasi due siti occupati da sassi rossi non sia uguale a $\sqrt{5}$. Al suo turno, Ben posa un nuovo sasso blu su qualsiasi sito non occupato. (Un sito occupato da un sasso blu non può essere posto a qualsiasi distanza da qualsiasi altro sito.) Si interrompe il gioco non appena un giocatore non riesce a posare uno sasso. Determinare il massimo valore di $K$ tale che Amy possa garantire di posare almeno $K$ sassi rossi, indipendentemente da come Ben posa i suoi sassi blu.
-
-
 
 [[Quesiti/src_imho_2018#q04|src_imho_2018__Q04]]
 
@@ -154,13 +150,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione infinita di interi positivi: si dimostri che esiste M tale che a_M = a_{M+1}*
 
 > Sia $a_1, a_2, \ldots$ una successione infinita di interi positivi. Si supponga che esista un numero intero $N > 1$ tale che, per ogni $n \ge N$, il numero
 > $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1}$$
 > sia un intero. Si dimostri che esiste un intero positivo $M$ tale che $a_m = a_{m+1}$ per ogni $m \ge M$.
-
-
 
 [[Quesiti/src_imho_2018#q05|src_imho_2018__Q05]]
 
@@ -186,12 +181,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrilatero convesso con condizioni sugli angoli implica somma degli angoli 180°*
 
 > Un quadrilatero convesso $ABCD$ soddisfa $AB \cdot CD = BC \cdot DA$. Il punto $X$ giace all'interno di $ABCD$ in modo che
 > $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$.
 > Si dimostri che $\angle BXA + \angle DXC = 180^\circ$.
-
-
 
 [[Quesiti/src_imho_2018#q06|src_imho_2018__Q06]]

@@ -30,7 +30,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *height of the bottle*
@@ -62,7 +62,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *GS perpendicular to BC*
@@ -97,7 +97,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of reverses < 3*
@@ -128,7 +128,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *double first or power first*
@@ -160,7 +160,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of sub-sequences of 6 digits for irrational x*
@@ -193,7 +193,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *concyclic points and intersections on Omega*

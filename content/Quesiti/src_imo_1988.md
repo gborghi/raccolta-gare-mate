@@ -35,6 +35,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare i valori di BC² + CA² + AB² e luogo del punto medio di BC*
 
 > Siano date due circonferenze complanari di raggi R e r (con R > r) aventi lo stesso centro.
@@ -45,8 +46,6 @@ level: IMO
 >
 > (i) Determinare l'insieme dei valori di BC² + CA² + AB².
 > (ii) Determinare il luogo dei punti medi del segmento BC.
-
-
 
 [[Quesiti/src_imo_1988#q01|src_imo_1988__Q01]]
 
@@ -78,6 +77,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *in quali casi gli elementi possono essere etichettati in modo equilibrato con 0/1*
 
 > Sia n un intero positivo e siano A1, A2, . . . , A2n+1 sottoinsiemi di un insieme B.
@@ -90,8 +90,6 @@ level: IMO
 > ogni elemento di B appartenga ad almeno due degli Ai.
 > Per quali valori di n si può assegnare a ogni elemento di B uno dei numeri
 > 0 e 1 in modo che a esattamente n elementi di ciascun Ai sia assegnato lo 0?
-
-
 
 [[Quesiti/src_imo_1988#q02|src_imo_1988__Q02]]
 
@@ -135,6 +133,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi positivi n≤1988 tali che f(n)=n, dove f è definita ricorsivamente.*
 
 > Una funzione f è definita sugli interi positivi da
@@ -158,8 +157,6 @@ level: IMO
 > XXIX Olimpiade Internazionale di Matematica
 > Canberra, Australia
 > Giorno II
-
-
 
 [[Quesiti/src_imo_1988#q03|src_imo_1988__Q03]]
 
@@ -190,6 +187,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *L'insieme delle soluzioni di una disuguaglianza è costituito da intervalli la cui lunghezza totale è 1988*
 
 > Si dimostri che l'insieme dei numeri reali x che soddisfano la disuguaglianza
@@ -200,8 +198,6 @@ level: IMO
 > x −k ≥5
 > 4
 > è unione di intervalli disgiunti la cui somma delle lunghezze è 1988.
-
-
 
 [[Quesiti/src_imo_1988#q04|src_imo_1988__Q04]]
 
@@ -228,14 +224,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che l'area S è maggiore o uguale a 2T*
 
 > ABC è un triangolo rettangolo in A, e D è il piede dell'altezza uscente da A.
 > La retta che congiunge gli incentri dei triangoli ABD, ACD interseca
 > i lati AB, AC nei punti K, L rispettivamente. Siano S e T le aree dei
 > triangoli ABC e AKL rispettivamente. Si dimostri che S ≥2T.
-
-
 
 [[Quesiti/src_imo_1988#q05|src_imo_1988__Q05]]
 
@@ -261,13 +256,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Se (a² + b²)/(ab + 1) è un intero, allora è un quadrato perfetto (salto di Vieta)*
 
 > Siano a e b interi positivi tali che ab + 1 divide a2 + b2. Si dimostri che
 > a2 + b2
 > ab + 1
 > è il quadrato di un intero.
-
-
 
 [[Quesiti/src_imo_1988#q06|src_imo_1988__Q06]]

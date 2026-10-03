@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number without digit 1, product digit 40*
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the first 2022 terms are odd*
@@ -93,7 +93,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be added for the first palindrome >2023*
@@ -123,7 +123,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the three numbers given in pairs sums*
@@ -156,7 +156,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bottle price given promotion and savings*
@@ -188,7 +188,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total matches of each tennis doubles player*
@@ -219,7 +219,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bonded box chocolate *
@@ -266,7 +266,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of filling grid with sums div for 3*
@@ -314,7 +314,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary lengths of rectangular interior segments*
@@ -347,7 +347,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres 0..10 with four digits 4*
@@ -380,7 +380,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes foreseen by grandmother without candlesticks*
@@ -412,7 +412,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mattia number given Carla number 9 times *
@@ -443,7 +443,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mix of [a,b,c] with data definition*
@@ -475,7 +475,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *100 more than Claudia than Elena*
@@ -527,7 +527,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Weight of the word KANGOUROU given sums of letters *

@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three larger Matteo numbers (product = sum of digits) *
@@ -56,7 +56,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Excess area of undefined land*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining tables to be examined at a*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum locks purchased from Silvia*
@@ -154,7 +154,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum extractions to empty urns (variations +/-1) *
@@ -194,7 +194,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the regular exaggeration into 8 equal parts*

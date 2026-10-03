@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea perpendicolare al centro incontra la corrente corrente a E; prova IE=IF*
@@ -54,7 +54,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove abc ≤ 1/8 data somma ciclica uguale a 1 con risultati positivi *
@@ -81,7 +81,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le n con n^3 = 8S(n) ^3 + 4S(n) + 1*
@@ -108,7 +108,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 6 cifre con cifre 1,2,3 dove 3 appare esattamente due volte e divisibile per 9*
@@ -134,7 +134,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli di ACD e ABD si intersecano lateralmente; riflessione K; prova FK=BC*
@@ -162,7 +162,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *AP {1,4,7,...} ha infinite subsequenze HP a 3 termini con condizione di rapporto*

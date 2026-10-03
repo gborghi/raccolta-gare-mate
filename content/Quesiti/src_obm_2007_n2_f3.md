@@ -32,7 +32,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserire n×n griglia con 14 in modo che ogni cella abbia esattamente un vicino con lo stesso numero*
@@ -65,7 +65,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono converso equalaterale: due angoli che sommano a 180° implicano che il piano*
@@ -94,7 +94,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove infinitamente molti interi positivi n rendere (5^(n-2)-1)/n un intero*
@@ -121,7 +121,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I valori p,q con (p2+q2)/(p+q) interi indicano che il valore è primo*
@@ -150,7 +150,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con AB/√2 = BH = OB: trovare tutti gli angoli*
@@ -179,7 +179,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Finire il set A con \S \D \A) ≤10^97 e \A) ≥10^100*

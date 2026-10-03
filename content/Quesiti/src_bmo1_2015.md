@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordina cinque numeri di torri elettriche per dimensioni e giustifica.*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato p^2+a^2=b^2 con p primo maggiore di 3, prova a è un multiple di 12 e 2(p+a+1) è un quadrato perfetto.*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le modalità in cui un team può prenotare sette stanze lungo un corridoio con dieci stanze a lato in modo che non siano adiacenti due stanze riservate sullo stesso lato.*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con t=x+x^{-1} un numero intero maggiore di 2 e t_n=x^n+x^{-n}, dimostrare che t_n è sempre un numero intero e determinare n per il quale t divide t_n.*
@@ -135,7 +135,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un quadrilaterale ciclico con F il punto medio dell'arco AB non contenente C o D, le linee DF,AC si incontrano a P e CF,BD si incontrano a Q; dimostrare che PQ è parallelo ad AB.*
@@ -163,7 +163,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina tutte le funzioni f dai numeri interi positivi ai numeri interi positivi in modo tale che 1/a+1/b=1/c implica 1/f(a)+1/f(b)=1/f(c).*

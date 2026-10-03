@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri pari inferiori a 400 come somma di numeri odd consecutivi in 6 modi*
@@ -59,11 +59,10 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Partite minime giocate dati quattro percentuali cumulative di vittoria esattamente 30,40,50,60,70*
 
 > Un giorno Arun e Disha hanno giocato diverse partite di ping-pong. In cinque momenti della giornata, Arun ha calcolato la percentuale delle partite giocate finora che lui aveva vinto. I risultati di questi calcoli sono stati esattamente il 30%, il 40%, il 50%, il 60% e il 70%, in un certo ordine. Qual è il numero minimo possibile di partite che hanno giocato?
-
-
 
 [[Quesiti/src_bmo1_2022#q02|src_bmo1_2022__Q02]]
 
@@ -87,7 +86,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Armonizzazione del numero di pile di pezzi d'oro con potenze di peso pari a 2 per un totale di 2021 grammi*
@@ -118,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi che si intersecano con il punto C su un arco minore; prova triangolo DO1E equilaterale*
@@ -147,7 +146,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conte N per il quale la media più piccola possibile di un insieme N è un intero*
@@ -182,7 +181,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Liste di numeri interi con 71 termini, primo termine 1, regola ricorrente, somma 999999*

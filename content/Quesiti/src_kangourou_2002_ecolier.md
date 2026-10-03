@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table removed from figure Kangourou*
@@ -67,7 +67,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Calculation of the alternate sum of 2
@@ -115,7 +115,7 @@ Calculation of the alternate sum of 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of an orange melon*
@@ -154,7 +154,7 @@ Calculation of the alternate sum of 2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Heart rate in one hour
@@ -210,7 +210,7 @@ Heart rate in one hour
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different square and rectangular perimeter*
@@ -268,7 +268,7 @@ Heart rate in one hour
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Books to be moved to level the sheets*
@@ -311,7 +311,7 @@ Heart rate in one hour
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Members of the club when boys = girls
@@ -347,7 +347,7 @@ Members of the club when boys = girls
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table not available from square*
@@ -391,7 +391,7 @@ Members of the club when boys = girls
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times the number 2 from 1 to 24*
@@ -428,7 +428,7 @@ Members of the club when boys = girls
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number obtained by operations*
@@ -466,7 +466,7 @@ Members of the club when boys = girls
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mesopotamian writing number 124*
@@ -498,7 +498,7 @@ Members of the club when boys = girls
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Composition of the quadrant into four parts*
@@ -531,7 +531,7 @@ Members of the club when boys = girls
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who was born on 17 May
@@ -576,7 +576,7 @@ Who was born on 17 May
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flammable on the side of the rectangle*
@@ -619,7 +619,7 @@ Who was born on 17 May
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible image of the flag*
@@ -659,7 +659,7 @@ Who was born on 17 May
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What time does Matthew leave the house?
@@ -713,7 +713,7 @@ What time does Matthew leave the house?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total biscuits with re-impasted slices*
@@ -768,7 +768,7 @@ What time does Matthew leave the house?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tunnel cubes not used in pyramid*
@@ -815,7 +815,7 @@ What time does Matthew leave the house?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who can't get 20
@@ -856,7 +856,7 @@ Who can't get 20
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum colours for the straw web*
@@ -893,7 +893,7 @@ Who can't get 20
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Matteo's arrival position *
@@ -929,7 +929,7 @@ Who can't get 20
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Kilometers to the next digit all different *
@@ -971,7 +971,7 @@ Kilometers to the next digit all different *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum intersection points of three figures*
@@ -1024,7 +1024,7 @@ Kilometers to the next digit all different *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The last three letters of the 2002 sequence*

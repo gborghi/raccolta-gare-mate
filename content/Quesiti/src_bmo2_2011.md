@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le linee attraverso il punto interno danno punti conciclici su accordi circolari*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi x,y con due condizioni di divisibilità*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi al di sotto del 2011 condividendo il valore f con il 2011*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande sottoinsieme senza parallelo della griglia di numeri interi*

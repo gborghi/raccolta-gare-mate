@@ -27,7 +27,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri "buoni" in un dato insieme*
@@ -57,7 +57,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare la somma di tre frazioni in reali positivi*
@@ -85,7 +85,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coperta un triangolo obtusso inserito nel cerchio unitario con triangolo retto a uguale occhio*
@@ -113,7 +113,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le mani di valore 2004 da un mazzo di 32 carte con jokers*
@@ -142,7 +142,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il lambda massimo con restrizione di disuguaglianza sui valori positivi *
@@ -172,7 +172,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La proiezione di EF su BC è costante per il cerchio attraverso A,E,D,F*
@@ -201,7 +201,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi della forma ip+jq con i+j<=n, p,q coprimo*
@@ -229,7 +229,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massime croci non sovrapposti in scacchi da 10x11 meno angoli*

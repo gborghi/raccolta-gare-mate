@@ -30,7 +30,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i valori interi positivi a e b con le condizioni AP e GP sulle radici*
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori angolari da bisettori perpendicolari in triangolo acuto; dimostrare BO perp a DE*
@@ -86,7 +86,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*

@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ceviani in triangolo acuto; DK bisecta angolo EKF*
@@ -54,7 +54,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le prime p,q e anche n>2 che soddisfano un'equazione somma*
@@ -83,7 +83,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quartico ha radice non reale; trovare la somma di tutte le radici non reali*
@@ -110,7 +110,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri a 7 cifre utilizzando i numeri 5 e 7, divisibili sia per 5 che per 7*
@@ -139,7 +139,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo con lati aumentati ha una superficie almeno 3/4 dell'originale*
@@ -166,7 +166,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Billeti a nove cifre colorati secondo la regola di variazione in tutti i luoghi; trovare il colore di 123123123*

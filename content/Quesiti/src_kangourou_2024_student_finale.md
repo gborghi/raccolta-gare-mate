@@ -46,7 +46,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two triangles with two sides of equal height are congruent?*
@@ -94,7 +94,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *City of air operations on the first day of the second month*
@@ -125,7 +125,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum N(P) diagonal intersections in a pentagon*
@@ -156,7 +156,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Are there any perfectly square ABBA palindromes?
@@ -192,7 +192,7 @@ Are there any perfectly square ABBA palindromes?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length XE with uncertainty of radius 4 and YD=3*
@@ -224,7 +224,7 @@ Are there any perfectly square ABBA palindromes?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of employees maximising working days*

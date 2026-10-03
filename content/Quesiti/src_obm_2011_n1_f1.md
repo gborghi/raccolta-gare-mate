@@ -30,7 +30,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La bolletta per cellulare è divisa tra chiamate, internet, messaggistica*
@@ -69,7 +69,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il modo più economico per acquistare 1,2 kg di CHOCOBM
@@ -113,7 +113,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Leggizione di un grafico di variazione dei prezzi alimentari*
@@ -154,7 +154,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di date con giorno, mese, ultime due cifre dell'anno *
@@ -191,7 +191,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimpiazzare 3 triangoli con 2 quadrati e 1 pentagono su un esagono*
@@ -227,7 +227,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Percentuale di voli cancellati (vulcano e pioggia) *
@@ -262,7 +262,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri naturali con prodotto 105 e la somma più grande possibile*
@@ -299,7 +299,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di rettangolo divisa in 10 quadrati con i lati più piccoli dei numeri interi*
@@ -336,7 +336,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre di ragazze in una classe data per il modello di altezza *
@@ -370,7 +370,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medio di quattro numeri, ognuno aggiunto alla media degli altri tre dà 60,64,68,72*
@@ -404,7 +404,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di modi per dare 37 centesimi di cambio in monete da 1,5,10,25 centesimi*
@@ -440,7 +440,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro di esagono formato da due triangoli equilaterali che si sovrappongono*
@@ -476,7 +476,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
@@ -510,7 +510,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri positivi inferiori a 30 con esattamente quattro divisori*
@@ -546,7 +546,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di superficie dipinta in rosso a bianco di un cubo tagliato in 27 piccoli cubi*
@@ -583,7 +583,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possibile numero totale di pezzi dopo tre parti in n pezzi*
@@ -617,7 +617,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conto della cifra 9 in n^2 dove n è 2011 novini*
@@ -653,7 +653,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei numeri su tre facce cubiche in contatto con la tabella*
@@ -690,7 +690,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'unità della somma 1!+2!+...+2010!+2011!*
@@ -724,7 +724,7 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Meno numero di biglietti che cambiano di mano in modo che tre ragazze abbiano quantità uguali

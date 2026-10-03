@@ -32,7 +32,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
@@ -73,7 +73,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza arrotondata alle prime dieci iniziali 0, 10, 10, 20, 30, ...; conteggiamento pari a 40. *
@@ -115,7 +115,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due pentagoni regolari congruenti condividono un triangolo; gli angoli segnati sono tutti uguali a x°; trovare x.*
@@ -158,7 +158,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la somma dei numeri interi positivi k soddisfacente (k ÷ 12) ÷ (15 ÷ k) = 20. *
@@ -199,7 +199,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro numeri primi consecutivi sommano a un primo; trovare il più grande dei quattro numeri primi.*
@@ -241,7 +241,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti P, Q, R su un cerchio con centro O hanno lunghezze di corda PQ:QR:RP = 1:2:3; trovare rapporto tra le aree del settore POQ:QOR:ROP.*
@@ -283,7 +283,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine quale delle cinque espressioni di potenza fornite è il più grande.*
@@ -325,7 +325,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del PQRS quadrilaterale dove PQ = 5, QR = 13, RS = 12 e l'angolo a Q è 90°.*
@@ -368,7 +368,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Magnete di frigorifero che mostrano numeri interi 09 divisi in cinque coppie, ciascuna sommando a un moltiplo di 5; contare modi.*
@@ -410,7 +410,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, prugna, rabarba, ricerca di persone minime.
@@ -453,7 +453,7 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alinta afferma che p primo impar implica che p2 − 2 è anche un primo imparato; trova un valore di contrasemplare di p.*
@@ -494,7 +494,7 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
@@ -534,7 +534,7 @@ Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Qual è la media degli altri quattro? *
@@ -575,7 +575,7 @@ Qual è la media degli altri quattro? *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2×3 rectangli che non sovrappongono un rettangolo con rapporto laterale 5:4.*
@@ -616,7 +616,7 @@ Qual è la media degli altri quattro? *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre dadi di colore (rosso, blu, giallo) ogni 16 lanciato una volta con un totale di 10; contano risultati diversi.*
@@ -659,7 +659,7 @@ Qual è la media degli altri quattro? *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *25 punti spaziati ugualmente nella griglia 5×5; O è l'angolo inferiore sinistro; linee di conteggio attraverso O e esattamente un altro punto.*
@@ -703,7 +703,7 @@ Qual è la media degli altri quattro? *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo di raggio r con triangolo a rettangolo con triangolo a pari angolo, un lato corto = diametro; trovare area ombrata.*
@@ -746,7 +746,7 @@ Qual è la media degli altri quattro? *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
@@ -788,7 +788,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo FGH con angoli 60°, 30°, 90° che si sovrappongono triangolo EGH di isosceles rettangolari; trovare il rapporto fra IFG e IEH.*
@@ -830,7 +830,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dina corre n volte più veloce di Laura, che inizia a s metri di fronte; fino a che punto Dina corre prima di superare? *
@@ -870,7 +870,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato 2^m + 2^k = p e 2^m − 2^k = q, esprimere 2^(m+k) in termini di p e q.*
@@ -913,7 +913,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo con angoli 60°, 45°, 75° incisi in un cerchio di raggio 2; trova la sua superficie.*
@@ -956,7 +956,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore minimo di (x2 − 4x + 3)(x2 + 4x + 3) per x reale.*
@@ -996,7 +996,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Saba, Rayan, Derin completano il compito insieme in 5 minuti; Saba+Derin 7 minuti; Rayan+Derin 15 minuti; trovate tempo per Derin da solo.*
@@ -1038,7 +1038,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque segmenti di linea di lunghezza 2, 2, 2, 1, 3 collegano due angoli di un quadrato; trovare l'area ombreggiata.*

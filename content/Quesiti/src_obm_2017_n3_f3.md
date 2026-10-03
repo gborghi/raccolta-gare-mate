@@ -30,7 +30,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cifri decimali di due numeri razionali combinati in un limite di conteggio dell'indice irrazionale*
@@ -63,7 +63,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di n integri positivi i cui GCD in coppia formano un insieme di elementi esattamente k*
@@ -90,7 +90,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero tangenziale con un cerchio inciso; linea RT passa attraverso l'incentro del triangolo PQC*
@@ -131,7 +131,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Modello di sblocco del telefono su una griglia 3x3: trovare il più piccolo n in modo che qualsiasi n-sottoinsieme di cifre ammetta un percorso valido*
@@ -172,7 +172,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line attraverso i punti di metà perpendicolari ai bisetti interni; il centro circoncentrale del triangolo risultante è il punto medio di HI*
@@ -199,7 +199,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il primo divisore p di a^3-3a+1 con p non 3 ha la forma 9k+1 o 9k-1*

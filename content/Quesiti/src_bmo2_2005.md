@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova N è un quadrato perfetto data condizione di coppie ordinate*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori angolari e lati opposti in triangolo con cerchio circoscritto*
@@ -83,7 +83,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei valori reali positivi a, b, c*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi di 3 elementi di {1,...,n} con condizioni di intersezione e vuoto*

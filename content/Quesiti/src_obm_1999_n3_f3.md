@@ -29,7 +29,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area quadrilaterale in pentagramma regolare con area 1*
@@ -59,7 +59,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la cifra decimale non zero di sqrt(2) in un determinato intervallo*
@@ -87,7 +87,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piani massimi su lavagna da 10x10 senza rettangolo parallelo all'asse*
@@ -119,7 +119,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prezzi di Kriptonita città antipodal differiscono di non più di 100 Urghs*
@@ -151,7 +151,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di domenica per il campionato di calcio in round-robin con n squadre*
@@ -182,7 +182,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construire un triangolo con superficie minima incentrata con angoli prescritti utilizzando bussola e borso retto*

@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of digits in the square of a 10-digit number*
@@ -80,7 +80,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eight-state colours with three impossible colours*
@@ -125,7 +125,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Matches won at the time of classification with points and draws*
@@ -167,7 +167,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N values with distinct integer roots of 3x^2+2nx+3*
@@ -207,7 +207,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of digits 111222 to 888999 divided by 111*
@@ -250,7 +250,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time for the last km with km on the fastest route
@@ -291,7 +291,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer fields 0-100 with identity between squares*
@@ -337,7 +337,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *EFGH area with equilateral triangles on the sides of the square*
@@ -380,7 +380,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perfect squares of at least three digits until 2010*2011*
@@ -427,7 +427,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many purple cats between true and false statements*
@@ -469,7 +469,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-digit safe combinations with even and divisibility constraints*
@@ -513,7 +513,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students who fainted after 57 seconds*
@@ -558,7 +558,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *State achievable by spells on balls (invariants) *
@@ -623,7 +623,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Radio of circumference for P, Q, B with equilateral triangles*
@@ -687,7 +687,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of cone cut to a quarter of the height*
@@ -732,7 +732,7 @@ Time for the last km with km on the fastest route
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Chance of Danilo getting the jersey 8*

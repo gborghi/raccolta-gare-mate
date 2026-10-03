@@ -33,7 +33,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cisterna di palle da ping-pong: tempo per raggiungere le palle 2000*
@@ -76,7 +76,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafica a barre: dichiarazioni di impatto sull'acqua/nutrienti per monocultivazione*
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equipe di calcio: vittorie/pareggio da 31 partite*
@@ -161,7 +161,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare l'espressione con poteri di 2 volte 2006*
@@ -202,7 +202,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri dispari a tre cifre con cifre distinte divisibili per 3*
@@ -243,7 +243,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Piano di cellulare: minuti necessari per risparmiare denaro
@@ -286,7 +286,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trianguli a pari stella con vertici di pentagono regolare*
@@ -329,7 +329,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero unico espressi come prodotto di quattro numeri naturali consecutivi*
@@ -370,7 +370,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due ciclisti su lati opposti di un circuito di 45 km, trovano l'ora di incontro*
@@ -411,7 +411,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Orologio digitale: coppie di cifre che mostrano sempre su tutte e quattro le cifre*
@@ -453,7 +453,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro di forma L formato da due strisce di carta sovrapposte*
@@ -496,7 +496,7 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
@@ -539,7 +539,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi di piastrelle per la decorazione delle pareti utilizzando piastrelle di ceramica nera*
@@ -586,7 +586,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero Sara scrive nella tabella dei multipli di 4 alla posizione U*
@@ -630,7 +630,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due piccole quadrate all'interno di un grande quadrato: area di regione non dipinta*
@@ -673,7 +673,7 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
@@ -713,7 +713,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'età di Neto nel 2006 dalla somma degli anni di nascita*
@@ -755,7 +755,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di tangramma della regione ombreggiata data la superficie totale di 64 cm2*
@@ -798,7 +798,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazioni alfabetiche di BRASIL: posizione della 361a parola*
@@ -839,7 +839,7 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *POP planetario: settimane al mese, date unità temporali insolite*

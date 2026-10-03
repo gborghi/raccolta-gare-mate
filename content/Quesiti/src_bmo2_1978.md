@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagoni convex con proprietà del triangolo unitario, dimostrano infinite quantità di non congruenti*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza in cui ogni cifra tranne l'ultima ha parità opposta al successore*
@@ -82,7 +82,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le radici di una data somma con termini binomiali simili a segni alternativi*
@@ -118,7 +118,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le distribuzioni di quattro libri diversi a n amici secondo le regole indicate*

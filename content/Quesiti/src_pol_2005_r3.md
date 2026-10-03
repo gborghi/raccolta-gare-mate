@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli interi positivi (x,y,n) con (x-y)^n = xy.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero convex inscritto in cerchio o; punto S con le equazioni di angolo indicate; bisector di angolo ASB incontra il cerchio a P, Q; prova PS=QS.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2n x 2n tabella, 4n^2 reali con somma 0, ciascuna al massimo 1 in valore assoluto; dimostrare che ogni somma di colonne o righe ha un valore assoluto al massimo n.*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato c>-2, una somma di termini di radice quadrata uguale a sqrt(c+2) volte la somma della x_i implica c=2 o tutte le x_i uguali.*
@@ -139,7 +139,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per l'intero k>1 e m=4k^2-5, trovare l'intero positivo a,b così la ricorrenza x_0=a, x_1=b, x_{n+2}=x_{n+1}+x_n ha tutti i termini coprime a m.*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni esagono convex dell'area 1 contiene un esagono convex dell'area almeno 3/4.*

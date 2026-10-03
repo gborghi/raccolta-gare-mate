@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono ciclico con tre coppie di lati paralleli; dimostrare che anche la quarta coppia è parallela*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n un quadrato perfetto; trovare n numeri interi più piccoli espressi come prodotto di due fattori ciascuno al massimo n*
@@ -80,7 +80,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, centro ortografico, due circoncircoli che incontrano le linee di altitudine all'esterno; dimostrare AE = AF*
@@ -111,7 +111,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi p,q che consentono un'operazione di scheda nera indefinita evitando i multipli*
@@ -144,7 +144,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arrangement 1..n ogni n volte; determinare per quale n esiste un'arrangimento che evita una condizione residuale*

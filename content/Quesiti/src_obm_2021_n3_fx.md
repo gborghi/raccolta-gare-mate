@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro circoncenti di subtriangoli di quadrilaterali convexi sono conciclici*
@@ -57,7 +57,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max cellule marcate in tabella 2×3n con restrizione di adiacenza; configurazioni di conteggio*
@@ -90,7 +90,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i k positivi e irrationali a>1 in modo che il piano a^n) sia il quadrato perfetto meno k per tutti i grandi n*
@@ -123,7 +123,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più piccolo reale appartenente a ogni set framed (limitato, chiuso sotto (a-b) ^2)*
@@ -155,7 +155,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i triples di enti interi non negativi che soddisfano a2+b2+c2=abc+1*
@@ -182,7 +182,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N-gon bicentrico: cerchio tangente ai circoncircoli dei triangoli di intersezione semicircolare*

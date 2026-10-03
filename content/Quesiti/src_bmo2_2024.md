@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I termini di sequenza hanno tre o più fattori primi*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale su numeri interi con 2f(f(n))=5f(n)-2n*
@@ -87,7 +87,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico da intersezioni tangenti in triangolo acuto*
@@ -101,9 +101,6 @@ level: BMO Round 2
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
 
 *method* — **115** quesiti (italiani).
 
@@ -126,25 +123,3 @@ level: BMO Round 2
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-
-*metodo*  **115** quesiti (italiani).
-
-Quesiti
-
-<div class="qtable" data-field="methods" data-values="method_inclusione_esclusione"></div>
-
-*metodo*  **424** quesiti (italiani).
-
-Quesiti
-
-<div class="qtable" data-field="methods" data-values="method_estremalita"></div>
-
-*Pillette vuote rimuovendo n oggetti da due pile scelte*
-
-> Lasciate che $m < n$ siano numeri interi positivi. Inizia con pile $n$, ciascuno degli oggetti $m$. eseguire ripetutamente la seguente operazione: scegliere due pile e rimuovere l'insieme degli oggetti $n$ da queste due pile. Per quale $(m, n)$ è possibile svuotare tutte le pile?
-
-[[Quesiti/src_bmo2_2024#q04|src_bmo2_2024__Q04]]

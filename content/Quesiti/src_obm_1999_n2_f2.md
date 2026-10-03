@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre mesi consecutivi in un anno non bisestivo, ognuno con esattamente quattro domeniche; dimostrare che uno di essi è febbraio.*
@@ -57,7 +57,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri interi su una lavagna; ogni movimento cancella due e scrive la loro somma meno uno; può partire da 2,2,2 o 3,3,3 rendere 17,75,91?*
@@ -88,7 +88,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato con punti M,N,P,Q sui lati in modo che i circoncircoli dei triangoli MBN e PDQ siano tangenti esternamente; dimostrare MN + PQ >= AC.*
@@ -115,7 +115,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il numero naturale più grande che, per qualche riorganizzazione (a,b,c,d) di (3,6,9,12), è uguale alla radice cubica di 3^a 6^b 9^c 12^d.*
@@ -142,7 +142,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *aggiunta di due frazioni già ridotte A/B + C/D sul loro denominatore lcm; prova che la frazione risultante è già in termini più bassi.*
@@ -169,7 +169,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n per i quali un rettangolo 9x10 può essere cartigliato utilizzando pezzi 1xn.*

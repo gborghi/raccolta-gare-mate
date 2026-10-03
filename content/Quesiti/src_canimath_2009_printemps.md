@@ -30,7 +30,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca larghezza del nastro avvolto diagonalmente attorno alla scatola rettangolare*
@@ -63,7 +63,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri a due cifre: scegliere sempre due con unità distinte e decine di cifre*
@@ -92,7 +92,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una festa ogni ospite stringe la mano con esattamente altri 7; dimostra il numero pari di ospiti*
@@ -121,7 +121,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = 180 gradi*
@@ -157,7 +157,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove catena di disuguaglianze tra quattro mezzi classici di due valori positivi *

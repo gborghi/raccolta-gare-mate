@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line angenti dal punto esterno, trovare CE in termini di a,b*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, riducendo al minimo i divisori di ab
@@ -82,7 +82,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni iniettabili da valori reali non zero che soddisfano un'equazione funzionale*
@@ -109,7 +109,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più grande con una sequenza di numeri non zero che soddisfa la condizione di divisibilità*
@@ -136,7 +136,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *X irrazionale in (0,1): contare i blocchi di k-cifre distinti in espansione decimale, dimostrare p(k)>=k+1*
@@ -163,7 +163,7 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'incircolo dell'ABC tocca i lati; i riflessi del punto di intersezione si trovano in linea attraverso l'incentro e il circoncentro*

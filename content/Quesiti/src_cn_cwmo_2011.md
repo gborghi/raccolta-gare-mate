@@ -27,7 +27,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare un'espressione simmetrica in x,y su (0,1)*
@@ -56,7 +56,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grandezza massima del sottogruppo di {1,...,2011} con proprietà della catena di divisibilità*
@@ -89,7 +89,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arrangere tutti i sottoinsiemi in una sequenza e calcolare una somma che coinvolga le somme del sottoinsieme*
@@ -123,7 +123,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo con accordi perpendicolari, circolo tangente interno; dimostrare una tangenza*
@@ -153,7 +153,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se esistono prime odd n ≥3 e n distinte con tutti i prodotti consecutivi a quadrati perfetti*
@@ -181,7 +181,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le coppie di numeri interi (a,b) con n. a^n + b^(n+1) per tutti n *

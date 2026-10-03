@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I lati del triangolo rosso; 3 linee blu tagliate in 4 triangoli congruenti e 3 pentagoni; trovare la frazione di superficie*
@@ -62,7 +62,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare e classificare i 13 assi di un cubo; indicare gli angoli minimi di rotazione*
@@ -96,7 +96,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
@@ -126,7 +126,7 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Restante quando x^81+x^49+x^25+x^9+x è diviso da x^3-x*
@@ -158,7 +158,7 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza u_0=2, u_1=5 con u_{n+1}u_{n-1}-u_n^2=6^{n-1}; provare u_n intero*
@@ -187,7 +187,7 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se c è razionale prova x^3-3cx^2-3x+c=0 ha al massimo una radice razionale*
@@ -215,7 +215,7 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *8x>=7y per i numeri interi non negativi se la decomposizione x=a+2b+3c+7d, y=b+2c+5d esiste*

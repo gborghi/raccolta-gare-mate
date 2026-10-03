@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I bisettieri perpendicolari dei lati si incontrano al centro del triangolo BXY*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei valori reali positivi x, y, z*
@@ -80,7 +80,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie (x,y) di numeri interi positivi con 2x+7y dividendo 7x+2y*
@@ -109,7 +109,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa provata delle reciprocità di coppie prime consecutive uguali (n-1)/(2n+2)*
@@ -137,7 +137,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con AB>AC: punto sulla linea AB oltre A, prova BQ=2AP*
@@ -167,7 +167,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Odd n: la somma dei prodotti delle righe e dei prodotti delle colonne nella griglia n×n non è zero*

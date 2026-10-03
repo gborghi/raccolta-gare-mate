@@ -38,7 +38,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mappa di riorganizzazione dei numeri iterata f_q sui numeri decimali di un numero intero; periodicità, punti fissi e criteri di divisibilità*
@@ -120,7 +120,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Curva di tipo iperbola (1-x)(1-y) = a all'interno del quadrato unitario: natura, intervallo di x+y e x^2+y^2, radii di circolo/circolo escritto di un triangolo e una disuguaglianza che coinvolge il logaritmo naturale*
@@ -210,7 +210,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sezioni piane di un cubo attraverso il suo centro: una formula di area proiettata, che confina poi l'area delle sezioni trasversali triangolari/quadrilaterali/esagonali*

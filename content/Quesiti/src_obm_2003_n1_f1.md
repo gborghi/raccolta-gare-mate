@@ -31,7 +31,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di cubetti per completare un cubo solido da 11 cubetti incollati*
@@ -81,7 +81,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Consumo medio mensile di acqua nel corso di 5 mesi*
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di bastoni per formare una fila di bastoni di 2 metri*
@@ -161,7 +161,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta mancante x in un quadrato magico*
@@ -201,7 +201,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Operazioni integrali che portano a 220; identificare la proprietà di x*
@@ -240,7 +240,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa massima che sceglie 3 cerchi consecutivi da 09 disposti in senso antiorario*
@@ -277,7 +277,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso in 7 quadrati; superficie della superficie data più piccola di tutto*
@@ -312,7 +312,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il termine successivo della sequenza oscillante 1,2,3,4,5,4,3,2,1,2,3,4,5,...*
@@ -344,7 +344,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Trova l'importo iniziale di Maria data l'offerta frazionaria di João
@@ -380,7 +380,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tabelle e sedie necessarie per un refectorio scolastico con 3 settori*
@@ -421,7 +421,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i colori distinti di 2×2 griglie fino alla rotazione*
@@ -458,7 +458,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di persone a un banchetto dato i rapporti dei piatti*
@@ -495,7 +495,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del pentagono ABCDE su una griglia a punti di 1 cm*
@@ -534,7 +534,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrati congruenti massimi rimossi dalla griglia 5×5 tramite riga, colonna e diagonale*
@@ -570,7 +570,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area superficiale del trofeo costituita da 5 cubetti impilati (10, 20, 30, 40, 50 cm) *
@@ -604,7 +604,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo per Nelly di raggiungere la fine di una passerella in movimento di 210 m *
@@ -639,7 +639,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero più grande ottenuto dal diagramma di un albero di calcolatore con le chiavi A e B*
@@ -678,7 +678,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale sequenza NON si descrive*
@@ -729,7 +729,7 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quante cellule ha segnato Camila nel gioco da tavolo con Lara
@@ -770,7 +770,7 @@ Quante cellule ha segnato Camila nel gioco da tavolo con Lara
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altezza stimata di uno stack di 100 milioni di fogli di carta*

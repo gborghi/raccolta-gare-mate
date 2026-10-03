@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2006-th integer other than squared in cube*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (a,b) with a<=222 and a/2<b<2a/3*
@@ -95,7 +95,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length BC given by two sides and median by A*
@@ -127,7 +127,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of years N in [476,1492] with x^4-y^4=N solvable*
@@ -161,7 +161,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduced fractions m/n with m*n=20!*
@@ -194,7 +194,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary values of a with a^2+b^2=1105*
@@ -229,7 +229,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of final zeroes of the splitter product of 1500000*
@@ -265,7 +265,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AP intersection height-median in the triangle rectangle 7,24*
@@ -295,7 +295,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volte che lancetta secondi sorpassa minuti in una settimana*
@@ -330,7 +330,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio 360 B/A between hexagon and star of David*
@@ -362,7 +362,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number 4 digits with condition on square*
@@ -396,7 +396,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number 4 distinct digits with mean digit condition*
@@ -440,7 +440,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle DAE in cyclic configuration with DE=AE*
@@ -477,7 +477,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of distinct colours of tetrahedra with 20 colours*
@@ -517,7 +517,7 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the square roots of x^3-46x^2+55x-7*

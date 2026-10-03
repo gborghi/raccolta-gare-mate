@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of the underlying asset shall be the value of the underlying asset.
@@ -61,7 +61,7 @@ The value of the underlying asset shall be the value of the underlying asset.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colouring them with other colours*
@@ -90,7 +90,7 @@ The value of the underlying asset shall be the value of the underlying asset.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Mirrors of a pyramid with 7 faces
@@ -125,7 +125,7 @@ Mirrors of a pyramid with 7 faces
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of angle in the quadrilateral (BC=AD) *
@@ -158,7 +158,7 @@ Mirrors of a pyramid with 7 faces
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 John's points in ping-pong (system)
@@ -205,7 +205,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nights at the youngest (proportions) *
@@ -239,7 +239,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What scale and map*
@@ -273,7 +273,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many biscuits are in the tray*
@@ -316,7 +316,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black ring area/inner circle ratio*
@@ -362,7 +362,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of the bench (half-circles) *
@@ -394,7 +394,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible product of five choices from 1,2,4*
@@ -457,7 +457,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of completing the card grid*
@@ -505,7 +505,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 100-200 with only factors 2 and 3*
@@ -544,7 +544,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of water in submerged tank II*
@@ -577,7 +577,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unanswered questions given score 87*
@@ -608,7 +608,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of distances traveled by tickets*
@@ -656,7 +656,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many days and length of vacation (rain) *
@@ -691,7 +691,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square area with the equilateral dodecagon inscribed*
@@ -729,7 +729,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between the radii of the two circumferences*
@@ -771,7 +771,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many white tiles in the diagonal mosaic*
@@ -838,7 +838,7 @@ John's points in ping-pong (system)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many times did the climber go back?
@@ -877,7 +877,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Folded rectangular rim area*
@@ -914,7 +914,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in place of 120 after 200 steps (divers) *
@@ -950,7 +950,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diagonal ratio/PQ segment (similar) *
@@ -1000,7 +1000,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AB given area shaded region*
@@ -1035,7 +1035,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wheel length (cylinder) *
@@ -1071,7 +1071,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trajectory of the P-point (rolling circle) *
@@ -1104,7 +1104,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of three-digit n with product div 7*
@@ -1137,7 +1137,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at 2004th place (div 5 or 11) *
@@ -1173,7 +1173,7 @@ How many times did the climber go back?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ten-digit numbers with equal sums *

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte coppie con divisibilità reciproca di m,n*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equità d'angolo in triangolo con punto interno e parallelo*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi binari con cifre esatte del 2013: la somma più il numero ha più 1s*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto di circoncircolo quadrato: PA, PB, PC, PD, AB possono essere tutti numeri interi?*

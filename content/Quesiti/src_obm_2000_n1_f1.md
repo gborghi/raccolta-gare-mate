@@ -33,7 +33,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Estendere il modello di moltiplicazione per trovare il moltiplicatore mancante*
@@ -66,7 +66,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Spagno con orario straordinario: trovare il salario base*
@@ -99,7 +99,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'orologio digitale è di cifre uguali tra le 0:00 e le 23:59*
@@ -132,7 +132,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cambia le bottiglie vuote con quelle piene: bottiglie massime*
@@ -165,7 +165,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Palle in scatola: riduzione del colore per eliminazione*
@@ -200,7 +200,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area oscurata in figura con rettangolo di superficie 12*
@@ -235,7 +235,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso 25 come somma di due prime in quanti modi*
@@ -267,7 +267,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Costo di alcol per guidare 600 km a 25 km per 3 litri*
@@ -300,7 +300,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un numero a due cifre invertito dà odd; la differenza è uguale a cubo*
@@ -337,7 +337,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione dell'engineria e della bandiera dopo rotazione parziale*
@@ -374,7 +374,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Scatole di palme di cuore impilate in scatole: numero totale
@@ -407,7 +407,7 @@ Scatole di palme di cuore impilate in scatole: numero totale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *età di padre e di figlio, date le condizioni passate e future*
@@ -451,7 +451,7 @@ Scatole di palme di cuore impilate in scatole: numero totale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza in colonne: sotto la quale appare la lettera 2000*
@@ -488,7 +488,7 @@ Scatole di palme di cuore impilate in scatole: numero totale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 I figli di Emir Abdel Azir: problema di logica multipla
@@ -526,7 +526,7 @@ I figli di Emir Abdel Azir: problema di logica multipla
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il puzzle logico: chi ha pagato l'ingresso al museo
@@ -563,7 +563,7 @@ Il puzzle logico: chi ha pagato l'ingresso al museo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di bastoni: vincere la prima mossa da 1000
@@ -596,7 +596,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi positivi inferiori a 1 000 000 i cui cubetti terminano in 1*
@@ -629,7 +629,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Comparare le medie dopo il trasferimento degli studenti in ultima posizione*
@@ -662,7 +662,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100° termine di sequenza: moltipli di 7 o 8 nell'ordine*
@@ -699,7 +699,7 @@ Gioco di bastoni: vincere la prima mossa da 1000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Net di un cubo: identificare il cubo assemblato corretto*

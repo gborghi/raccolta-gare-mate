@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dati i numeri interi positivi a,b,c e i numeri reali x,y,z con \x-a-a-a-a-a-a<=1, \y-b<=1 e a^2+b^2=c^2, x^2+y^2=z^2, dimostri che gli insiemi {a,b} e {x,y} coincidono.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC con AC+BC=3AB, l'incircolo (centro I) tocca BC a D e AC a E; K, L sono riflessi di D, E a I. Provare che A, B, K, L sono conciclici.*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i numeri positivi a,b,c con ab+bc+ca=abc, dimostrare che la somma ciclica delle frazioni che coinvolgono quattro potenze è almeno 1.*
@@ -112,7 +112,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un numero naturale c, definire una sequenza da a_1=1 e a_{n+1}=d(a_n) + c, dove d(m) è il numero di divisori positivi di m. Mostrare c'è k tale che a_k, a_{k+1}, ... è periodico.*
@@ -139,7 +139,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *C è il punto medio del segmento AB. Il cerchio o_1 tra A e C incontra il cerchio o_2 tra B e C di nuovo a D. P è il punto medio dell'arco AD di o_1 non contenente C, Q il punto medio dell'arco BD di o_2 non contenente C. Prova che la PQ è perpendicolare al CD.*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un primo p e un intero n con p>=n>=3, A sia un insieme di sequenze di lunghezza-n su {0,1,...,p-1} in modo tale che due differano in almeno tre posizioni. Trova la più grande cardinalità possibile di A.*

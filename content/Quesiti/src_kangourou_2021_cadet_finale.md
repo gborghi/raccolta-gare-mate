@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct 25x2=211 with +1/-1 on the digits*
@@ -58,7 +58,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Estimate of the number of cranberries by catch-recatch method*
@@ -90,7 +90,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of volumes of two spheres at a distance 100x*
@@ -121,7 +121,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum to be removed from 2..2021 without residual products*
@@ -164,7 +164,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of different plane developments of a cube*
@@ -212,7 +212,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the mxn grid with constant column sums*

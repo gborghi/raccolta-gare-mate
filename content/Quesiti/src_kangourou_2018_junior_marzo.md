@@ -38,7 +38,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sixth result of sums of 3x3 grid rows/columns*
@@ -83,7 +83,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third whole side odd triangle of sides 5 and 2*
@@ -134,7 +134,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table height two cat gaps *
@@ -175,7 +175,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third of five consecutive numbers with the sum of 10*2018*
@@ -213,7 +213,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of baskets with 42,60.90 fruit (MCD)
@@ -262,7 +262,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of digits P+Q+R+S in encrypted addition*
@@ -303,7 +303,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 25% of 2018 plus 2018% of 25*
@@ -344,7 +344,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of routes from A to B with arrows pointing*
@@ -392,7 +392,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance d of wire extended by 10 m around the equator*
@@ -437,7 +437,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of two dice with highest probability between 7.8, 9.10*
@@ -487,7 +487,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Stop position that minimizes total student path*
@@ -541,7 +541,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the first 105 numbers in the list are divisible by 3*
@@ -591,7 +591,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unshaded area in square with 8 semicircumferences*
@@ -644,7 +644,7 @@ Sum of two dice with highest probability between 7.8, 9.10*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many trains to or from Z between 40 trains and 5 cities
@@ -696,7 +696,7 @@ How many trains to or from Z between 40 trains and 5 cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of students studying a language*
@@ -736,7 +736,7 @@ How many trains to or from Z between 40 trains and 5 cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost of the book given family contribution scheme*
@@ -783,7 +783,7 @@ How many trains to or from Z between 40 trains and 5 cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many 3-digit numbers can be deleted = one ninth*
@@ -828,7 +828,7 @@ How many trains to or from Z between 40 trains and 5 cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times 2018^2 under roots to get 2018^10*
@@ -871,7 +871,7 @@ How many trains to or from Z between 40 trains and 5 cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Average full route speed with two speeds*
@@ -910,7 +910,7 @@ How many trains to or from Z between 40 trains and 5 cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The number of digits of the result 10^2018*(10^2018-1)/9*
@@ -952,7 +952,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of vertices of the three polygons of the 2018 split axis*
@@ -998,7 +998,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the four numbers given the four average results*
@@ -1047,7 +1047,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many faces are painted if 45 cubes are unpainted*
@@ -1097,7 +1097,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum N tangent circumferences in the circular crown*
@@ -1151,7 +1151,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be written in the A-spoke of the 18-acre recursive area*
@@ -1209,7 +1209,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of numbers in the grid for 2018 squares*
@@ -1267,7 +1267,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many statements about deaf cows are true*
@@ -1317,7 +1317,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Section of the holed cube with centre plane*
@@ -1362,7 +1362,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to fill a 2x3 table with sums divisible by 3*
@@ -1422,7 +1422,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope length BD in the 60-degree rope circle*

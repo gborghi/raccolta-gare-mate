@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Rette concorrenti in un triangolo con le bisettrici degli angoli*
 
 > Sia il triangolo $BCF$ rettangolo in $B$. Sia $A$ il punto sulla retta $CF$ tale che $FA = FB$ e $F$ giacciano tra $A$ e $C$. Sia $D$ un punto scelto in modo che $DA = DC$ e $AC$ siano le bisettrici dell'angolo $\angle DAB$. Sia $E$ un punto scelto in modo che $EA = ED$ e $AD$ siano le bisettrici dell'angolo $\angle EAC$. Sia $M$ il punto medio di $CF$. Sia $X$ il punto tale che $AMXE$ sia un parallelogramma (dove $AM \parallel EX$ e $AE \parallel MX$). Si dimostri che le rette $BD$, $FX$ e $ME$ sono concorrenti.
-
-
 
 [[Quesiti/src_imho_2016#q01|src_imho_2016__Q01]]
 
@@ -62,6 +61,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Compilare una tabella n×n con le lettere L, M, O rispettando condizioni sulle righe, colonne e diagonali*
 
 > Determinare tutti gli interi positivi $n$ per i quali è possibile riempire ogni cella di un tabellone $n \times n$ con una delle lettere $L$, $M$ o $O$ in modo che:
@@ -71,8 +71,6 @@ level: IMO
 > \end{itemize}
 > 
 > \textbf{Nota.} Le righe e le colonne di una tabella $n \times n$ sono etichettate da $1$ a $n$ in un ordine naturale. Così ogni cella corrisponde a una coppia di interi positivi $(i,j)$ con $1 \le i, j \le n$. Per $n > 1$, la tabella ha $4n - 2$ diagonali di due tipi. Una diagonale del primo tipo è costituita da tutte le celle $(i,j)$ per cui $i + j$ è costante, e una diagonale del secondo tipo è costituita da tutte le celle $(i,j)$ per cui $i - j$ è costante.
-
-
 
 [[Quesiti/src_imho_2016#q02|src_imho_2016__Q02]]
 
@@ -96,11 +94,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Poligono convesso con vertici a coordinate intere, area S, n dispari che divide 25S*
 
 > Sia $P = A_1 A_2 \cdots A_k$ un poligono convesso nel piano. I vertici $A_1, A_2, \ldots, A_k$ hanno coordinate intere e giacciono su una circonferenza. Sia $S$ l'area di $P$. Dato un intero positivo dispari $n$ tale che i quadrati delle lunghezze dei lati di $P$ siano numeri interi divisibili per $n$. Si dimostri che $25 S$ è un numero intero divisibile per $n$.
-
-
 
 [[Quesiti/src_imho_2016#q03|src_imho_2016__Q03]]
 
@@ -126,13 +123,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insinsi di interi positivi con condizione sui fattori primi e profumo*
 
 > Un insieme di interi positivi si dice \textit{fragrante} se contiene almeno due elementi e ciascuno dei suoi elementi ha un fattore primo in comune con almeno uno degli altri elementi. Sia $P(n) = n^2 + n + 1$. Qual è il minimo valore possibile dell'intero positivo $b$ tale che esista un intero non negativo $a$ per cui l'insieme
 > $$\{P(a+1), P(a+2), \ldots, P(a+b)\}$$
 > sia fragrante?
-
-
 
 [[Quesiti/src_imho_2016#q04|src_imho_2016__Q04]]
 
@@ -158,13 +154,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione con 2016 fattori lineari da entrambi i lati, minimizzare il numero di soluzioni k*
 
 > Sull'board è scritta l'equazione
 > $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$,
 > con $2016$ fattori lineari su ciascun lato. Qual è il valore minimo possibile di $k$ per cui è possibile cancellare esattamente $k$ di questi $4032$ fattori lineari in modo che rimanga almeno un fattore su ciascun lato e l'equazione così ottenuta non abbia soluzioni reali?
-
-
 
 [[Quesiti/src_imho_2016#q05|src_imho_2016__Q05]]
 
@@ -192,6 +187,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Froge sui segmenti di retta, Geoff controlla il posizionamento, parità di n*
 
 > Esistono $n \ge 2$ segmenti nel piano tali che ogni due segmenti si intersechino, e nessuna tre segmenti si incontrino in un punto. Geoff deve scegliere un estremo di ciascun segmento e posizionare su di esso una rana, che guardi verso l'altro estremo. Poi farà scattare le mani $n - 1$ volte. Ogni volta che scatta, ciascuna rana salta immediatamente al successivo punto di intersezione sul proprio segmento. Le rane non cambiano mai la direzione dei loro salti. Geoff desidera posizionare le rane in modo tale che mai due di esse si trovino nello stesso punto di intersezione contemporaneamente.
@@ -199,7 +195,5 @@ level: IMO
 > (a) Si dimostri che Geoff può sempre ottenere ciò che desidera se $n$ è dispari.
 > 
 > (b) Si dimostri che Geoff non può mai realizzare il suo desiderio se $n$ è pari.
-
-
 
 [[Quesiti/src_imho_2016#q06|src_imho_2016__Q06]]

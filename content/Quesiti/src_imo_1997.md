@@ -42,6 +42,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Funzione della differenza delle aree nere e bianche in un triangolo sulla scacchiera f(m,n)*
 
 > Nel piano i punti a coordinate intere sono i vertici di quadratini unitari.
@@ -60,8 +61,6 @@ level: IMO
 > 2 max{m, n} per ogni m e n.
 > (c)
 > Si dimostri che non esiste alcuna costante C tale che f(m, n) < C per ogni m e n.
-
-
 
 [[Quesiti/src_imo_1997#q01|src_imo_1997__Q01]]
 
@@ -90,6 +89,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che AU = TB + TC con la costruzione dell'asse perpendicolare*
 
 > L'angolo in A è il minore degli angoli del triangolo ABC. I punti B e C
@@ -98,8 +98,6 @@ level: IMO
 > di AB e AC incontrano la retta AU in V e W rispettivamente. Le rette
 > BV e CW si incontrano in T. Si dimostri che
 > AU = TB + TC.
-
-
 
 [[Quesiti/src_imo_1997#q02|src_imo_1997__Q02]]
 
@@ -136,6 +134,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Permutazione che rende piccolo un prodotto ponderato con vincoli sui coefficienti*
 
 > Siano x1, x2, . . . , xn numeri reali che soddisfano le condizioni
@@ -153,8 +152,6 @@ level: IMO
 > Mar del Plata, Argentina
 > Giorno II
 > 25 luglio 1997
-
-
 
 [[Quesiti/src_imo_1997#q03|src_imo_1997__Q03]]
 
@@ -183,6 +180,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *non esiste per n=1997, esiste per infiniti n*
 
 > Una matrice n × n i cui elementi appartengono all'insieme S = {1, 2, . . . , 2n −1} si
@@ -192,8 +190,6 @@ level: IMO
 > non esiste alcuna matrice d'argento per n = 1997;
 > (b)
 > esistono matrici d'argento per infiniti valori di n.
-
-
 
 [[Quesiti/src_imo_1997#q04|src_imo_1997__Q04]]
 
@@ -217,12 +213,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie di interi tali che a^(b^2) = b^a*
 
 > Determinare tutte le coppie (a, b) di interi a, b ≥1 che soddisfano l'equazione
 > ab2 = ba.
-
-
 
 [[Quesiti/src_imo_1997#q05|src_imo_1997__Q05]]
 
@@ -252,6 +247,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Stimare f(2^n), partizioni di n in potenze di 2*
 
 > Per ogni intero positivo n, sia f(n) il numero dei modi di rappresentare
@@ -262,7 +258,5 @@ level: IMO
 > 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1.
 > Si dimostri che, per ogni intero n ≥3,
 > 2n2/4 < f(2n) < 2n2/2.
-
-
 
 [[Quesiti/src_imo_1997#q06|src_imo_1997__Q06]]

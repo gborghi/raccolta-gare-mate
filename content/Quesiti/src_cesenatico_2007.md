@@ -58,7 +58,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *points with sum of minimum vertical/straight distances*
@@ -117,7 +117,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(2007)-q(2007) multiplied by 2 and k*
@@ -149,7 +149,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * cyclic quadrilateral and BA=BE*
@@ -184,7 +184,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum guaranteed euro *
@@ -218,7 +218,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n and x_n covers for each n*
@@ -269,7 +269,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum constant c_n and d_n in inequality with product 1

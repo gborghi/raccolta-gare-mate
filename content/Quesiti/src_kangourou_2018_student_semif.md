@@ -52,7 +52,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of circumference C inscribed in the eye*
@@ -105,7 +105,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that Alice's number exceeds Barbara's
@@ -142,7 +142,7 @@ The probability that Alice's number exceeds Barbara's
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reported cubic volume/regular tetrahedron entered *
@@ -179,7 +179,7 @@ The probability that Alice's number exceeds Barbara's
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many prime r sums of two prime numbers with equal sums *
@@ -209,7 +209,7 @@ The probability that Alice's number exceeds Barbara's
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value m+n with 2^m-2^n=240*
@@ -239,7 +239,7 @@ The probability that Alice's number exceeds Barbara's
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For integers n the number n/(n-10) and integers *
@@ -269,7 +269,7 @@ The probability that Alice's number exceeds Barbara's
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a list of the countries of the European Economic Area.
@@ -301,7 +301,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that the figure 1 is between 1 and 10^7*
@@ -335,7 +335,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sequence of 7 letters AB with Hamming distance >=3*
@@ -368,7 +368,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio length of strings / shorter piece (discs) *
@@ -399,7 +399,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of scoring the first given string p>=one=0,999*
@@ -429,7 +429,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many polynomials x^3+bx^2+cx+4 with p(2)=0 and b,c in [-2018,2018]*
@@ -459,7 +459,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers between 1 and 9999 with the sum of the first two digits = two more*
@@ -492,7 +492,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values m and n with 46 new ticket types*
@@ -523,7 +523,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the ABP triangle with perpendicular tangents*
@@ -553,7 +553,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many whole ternes (a,b,c) are ordered with a*b*c=45000*
@@ -585,7 +585,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of n sides of the garden near 2019*
@@ -626,7 +626,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n for which two integers have sum/diff div for 100*

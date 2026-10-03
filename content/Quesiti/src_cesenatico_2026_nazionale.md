@@ -31,7 +31,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum amount to be spent with 3.5,7 coins per 24-day snack
@@ -65,7 +65,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *VK distance of top cone sphere greater than 5 cm*
@@ -99,7 +99,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs n>m with conditions on minimum/maximum first*
@@ -133,7 +133,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstrate that AFD and right angle*
@@ -166,7 +166,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distance subset of 1..2026*
@@ -205,7 +205,7 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The length of the line of musicians exceeds 42 m?*

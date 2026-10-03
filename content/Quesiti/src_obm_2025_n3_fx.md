@@ -36,7 +36,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca numeri interi positivi n e 2n reali non negativi con tre proprietà*
@@ -71,7 +71,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con circoncircolo; simultaneità/colinearità di punti di intersezione specifici*
@@ -104,7 +104,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza infinita di integri positivi con condizione di potenza di min-differenza di 2025; dimostrare la surgezione sui positivi*
@@ -142,7 +142,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi k in modo che f(n) =nk abbia una soluzione di integri positivi n*
@@ -177,7 +177,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolazione poligonale: dimensione minima dell'insieme di diagonali ostruzionali*
@@ -208,7 +208,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD convex quadrilaterale con condizione angolare; famiglia di partizioni di linee tangenti in 8 insieme simultanei/paralleli*

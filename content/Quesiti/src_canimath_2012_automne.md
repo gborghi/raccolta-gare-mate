@@ -26,7 +26,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i figli in una famiglia da vincoli di rapporto fra fratelli*
@@ -59,7 +59,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cucinazione ottimale delle bistecche con una padella contenente due *
@@ -94,7 +94,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca larghezza di un nastro diagonale su una scatola rettangolare*
@@ -123,7 +123,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tavola rotonda: dimostrare numeri uguali di lunghi e corti tra il 2013*
@@ -150,7 +150,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
@@ -179,7 +179,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova angolo x in una stella a cinque punte regolare*
@@ -209,7 +209,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
@@ -238,7 +238,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova angolo x in una stella a cinque punte regolare*
@@ -270,7 +270,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le coppie prime (p,q) facendo tre espressioni tutte prime*
@@ -299,7 +299,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca angolo ABC dato centro incircolo I, AI=BC e angolo ICA=2 angolo IAC*
@@ -330,7 +330,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Testa rotonda 2013 persone: alte contro piccole, due sotto-questioni*
@@ -363,7 +363,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza 5x^2+y^2+4 >= 4x+4xy per tutti i reali, trova casi di uguaglianza*

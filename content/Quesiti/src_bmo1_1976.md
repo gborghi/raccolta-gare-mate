@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di divisione della linea più corta di un triangolo*
@@ -58,7 +58,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inuguaglianza per i valori reali positivi x, y, z*
@@ -87,7 +87,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un piccolo sottoinsieme che riunisce tutti i 50 grandi sottoinsiemi*
@@ -116,7 +116,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *19·8^n + 17 non è mai primo*
@@ -147,7 +147,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identità della somma dei coefficienti binomiali con parametri reali*
@@ -184,7 +184,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il percorso più corto sul cono e sulla sfera incontra il cerchio a 45 gradi*

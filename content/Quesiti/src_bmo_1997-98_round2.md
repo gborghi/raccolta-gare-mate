@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pigeonhole sulle vendite di biglietti per molte destinazioni*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due circoncircoli di un tocco di configurazione*
@@ -92,7 +92,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione reciproca: hxyz e h(y-x) sono quadrati perfetti*
@@ -128,7 +128,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema simmetrico: trovare soluzione positiva unica*

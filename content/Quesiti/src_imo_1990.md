@@ -37,6 +37,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare EG/EF in funzione di t per la configurazione della circonferenza e della tangente*
 
 > Le corde AB e CD di una circonferenza si intersecano in un punto E interno alla circonferenza. Sia M
@@ -49,8 +50,6 @@ level: IMO
 > EG
 > EF
 > in funzione di t.
-
-
 
 [[Quesiti/src_imo_1990#q01|src_imo_1990__Q01]]
 
@@ -77,6 +76,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Più piccolo k tale che ogni colorazione di 2n−1 punti sia buona*
 
 > Sia n ≥3 e si consideri un insieme E di 2n −1 punti distinti su una circonferenza. Supponiamo
@@ -84,8 +84,6 @@ level: IMO
 > se esiste almeno una coppia di punti neri tale che l'interno di uno dei due
 > archi da essi determinati contenga esattamente n punti di E. Determinare il minimo valore
 > di k tale che ogni colorazione di questo tipo di k punti di E sia buona.
-
-
 
 [[Quesiti/src_imo_1990#q02|src_imo_1990__Q02]]
 
@@ -116,6 +114,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli n>1 tali che n^2 divide 2^n+1*
 
 > Determinare tutti gli interi n > 1 tali che
@@ -127,8 +126,6 @@ level: IMO
 > Pechino, Cina
 > Giorno II
 > 13 luglio 1990
-
-
 
 [[Quesiti/src_imo_1990#q03|src_imo_1990__Q03]]
 
@@ -155,13 +152,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Costruire una funzione sui razionali positivi tale che f(xf(y))=f(x)/y*
 
 > Sia ℚ⁺ l'insieme dei numeri razionali positivi. Si costruisca una funzione f : ℚ⁺ → ℚ⁺ tale che
 > f(xf(y)) = f(x)/y
 > per ogni x, y in ℚ⁺.
-
-
 
 [[Quesiti/src_imo_1990#q04|src_imo_1990__Q04]]
 
@@ -200,6 +196,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *strategie vincenti di n0*
 
 > Dato un intero iniziale n0 > 1, due giocatori, A e B, scelgono a turno degli interi n1, n2,
@@ -219,8 +216,6 @@ level: IMO
 > B ha una strategia vincente?
 > (c)
 > nessuno dei due giocatori ha una strategia vincente?
-
-
 
 [[Quesiti/src_imo_1990#q05|src_imo_1990__Q05]]
 
@@ -248,6 +243,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Costruire un 1990-ago equiangolo con lunghezze dei lati uguali a quadrati perfetti*
 
 > Si dimostri che esiste un poligono convesso con 1990 lati avente le due proprietà seguenti:
@@ -256,7 +252,5 @@ level: IMO
 > (b)
 > le lunghezze dei 1990 lati sono i numeri 12, 22, 32, . . . , 19902 in un certo
 > ordine.
-
-
 
 [[Quesiti/src_imo_1990#q06|src_imo_1990__Q06]]

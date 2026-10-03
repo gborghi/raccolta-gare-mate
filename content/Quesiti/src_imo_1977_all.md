@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Midpoints from equilateral triangles form regular dodecagon*
@@ -52,7 +52,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *any 7 sum negative, any 11 sum positive*
@@ -78,7 +78,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-unique factorization into indecomposables in V_n*
@@ -107,7 +107,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *f(theta)>=0 implies a^2+b^2<=2 and A^2+B^2<=1*
@@ -133,7 +133,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
@@ -163,7 +163,7 @@ Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *f(n+1)>f(f(n)) implies f(n) =n for all n*

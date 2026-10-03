@@ -29,7 +29,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le minoranze (10 centesimi) a pagare 23 reais utilizzando banconote di 10 reais*
@@ -61,7 +61,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Computo $0.1^2 + 0.2^2$*
@@ -94,7 +94,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare interi positivi il cui più grande divisore proprio è 9*
@@ -128,7 +128,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro di esagono tagliato in triangolo, due rettangoli, parallelo*
@@ -162,7 +162,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
@@ -195,7 +195,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr) *
@@ -229,7 +229,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza nei perimetri di due pezzi tagliati da carta di griglia*
@@ -263,7 +263,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutta la lunghezza del giro data alle distanze fino a metà e un terzo di marchio*
@@ -300,7 +300,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fill 2×3 tabella con numeri interi positivi distinti in modo che ogni prodotto di riga sia 210*
@@ -338,7 +338,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la lunghezza FP dopo il riposizionamento della linea di divisione per igualizzare le aree*
@@ -372,7 +372,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Peso dell'acquisto di Juquinha dato tre indizi di sistema di equazioni*
@@ -405,7 +405,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximi pezzi di torta rettangolare con 7 tagli dritti paralleli ai lati*
@@ -447,7 +447,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Percentuale di utenti di internet 55+ che utilizzano LinkedIn, data tabella e tabella delle torte*
@@ -484,7 +484,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare la frazione M×A×T×E×M / (A×T×E×C×A) con lettere a cifre distinte*
@@ -517,7 +517,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min somma di numeri attraenti (1,3,13,31) per esprimere 2012*
@@ -550,7 +550,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Percentuale di famiglie con cani e gatti dati di sovrapposizione*
@@ -583,7 +583,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Righe di fragole e jabuticaba consumate in turno (≤5 ciascuno) *
@@ -618,7 +618,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero più grande segnalato sulla linea dato esattamente tre sono moltipli di 4*
@@ -655,7 +655,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diversi arrangiamenti di scrivania vuota rettangolare per 30 studenti*
@@ -692,7 +692,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il valore più piccolo del cerchio centrale quando quattro segmenti a 3 cerchi hanno somme uguali*

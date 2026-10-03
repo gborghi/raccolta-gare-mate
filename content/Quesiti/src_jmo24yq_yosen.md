@@ -29,7 +29,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi interamente tangenti; PQ=QR, raggio 9; trovare PQ*
@@ -64,7 +64,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *vertici di ottagoni regolari etichettati 18; ordini di conteggio che evitano vicini di valore consecutivo*
@@ -95,7 +95,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di 1/(d+sqrt(10)) su tutti i divisori positivi d di 10*
@@ -124,7 +124,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sei punti conciclici; tre accordi simultanei; trovare FA dati cinque lunghezze di corda d'arco*
@@ -155,7 +155,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei prodotti dei coefficienti trinomiali su tripli (a,b,c) con a+b+c=5*
@@ -184,7 +184,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due tavole nere con numeri interi distinti da 220; sempre abbinate all'interno di 1; massimizzazione del prodotto delle dimensioni*
@@ -213,7 +213,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Comitato di 4 persone con 4 posizioni; a ciascun membro sono assegnate 2 posizioni distinte; incarichi di conteggio*
@@ -242,7 +242,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per ogni n≤1000, contare m≤1000 con pavimento(m/n) odd; trovare il conteggio massimo su tutte le n*
@@ -271,7 +271,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto medio diagonale ABCD quadrato O; punti P,Q,R,S sui lati; OP=3, OQ=OR=4; trovare XY*
@@ -305,7 +305,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *55×55 griglia, operazioni a colori; operazioni minime per ottenere il modello nero/bianco prescritto*
@@ -338,7 +338,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fill 6×6 array con numeri interi 16; due condizioni di composizione; contare array validi*
@@ -368,7 +368,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più grande m in modo che gli indici 2m garantiscano un limite di somma del prodotto 1/2.014*

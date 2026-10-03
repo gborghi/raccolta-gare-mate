@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo variabile tocca due cerchi fissi; proprietà focale dei coni*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nove punti interni in unità quadrata contengono un triangolo di superficie 1/8*
@@ -86,7 +86,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La corda sulla superficie dell'emisfero-cilindro non si trova in piano*
@@ -119,7 +119,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizioni su n per n triangoli equilaterali per tessere un esagono converso*
@@ -154,7 +154,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
@@ -188,7 +188,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rapporto tra ragazzi e ragazze dalla probabilità di essere d'accordo con l'insegnante*
@@ -224,7 +224,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'aspettativa di vita di un draconiano di 70 anni da una curva demografica*
@@ -258,7 +258,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrice di compagnia per composizioni di mappe Mobius; condizioni per T^n = I*
@@ -291,7 +291,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le linee L_r (r=1,2,3) definite da un determinante sono simultanee*
@@ -322,7 +322,7 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2 - c^2
@@ -356,7 +356,7 @@ Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cilindri che ruotano su un tavolo: equazioni di movimento e equazione differenziale per theta*

@@ -30,7 +30,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minutes on the pitch per player, 16 out of 11
@@ -67,7 +67,7 @@ Minutes on the pitch per player, 16 out of 11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Disambiguations of 4 keypads*
@@ -108,7 +108,7 @@ Minutes on the pitch per player, 16 out of 11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum two-digit MCD with product 600000*
@@ -154,7 +154,7 @@ Minutes on the pitch per player, 16 out of 11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The winner of the contest
@@ -197,7 +197,7 @@ The winner of the contest
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three pairs of different coloured knitted or crocheted fabrics*
@@ -243,7 +243,7 @@ The winner of the contest
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *x-y between races with n and n2 participants*
@@ -293,7 +293,7 @@ The winner of the contest
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *network points marked/submitted*
@@ -337,7 +337,7 @@ The winner of the contest
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region consisting of 4 arcs radius 1*
@@ -384,7 +384,7 @@ The winner of the contest
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Common days off of Romeo and Juliet
@@ -424,7 +424,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most large prime factor of 3^12-1*
@@ -465,7 +465,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum of red dice equal to blue dice*
@@ -506,7 +506,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum root comparison n/(n-1) *
@@ -555,7 +555,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Agreement of the APC angle with the outer angle*
@@ -600,7 +600,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple years of 12 but not of 60 *
@@ -646,7 +646,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Blink of the circumference of the beam and medium arc*
@@ -689,7 +689,7 @@ Common days off of Romeo and Juliet
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Part of the perimeter closer to A than to C
@@ -733,7 +733,7 @@ Part of the perimeter closer to A than to C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A quadrilateral area ABCD double of BEDF*
@@ -781,7 +781,7 @@ Part of the perimeter closer to A than to C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *find n*

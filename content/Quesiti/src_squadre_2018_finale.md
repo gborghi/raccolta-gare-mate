@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year x before 9613 with 9613^2-x^2 perfect square*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sectors reachable on a chessboard with costs 2 and 3, 60 balls*
@@ -95,7 +95,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of N with such sequence that N^a0=sum of N^ai*
@@ -129,7 +129,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Match sequences with draw and win difference constraints*
@@ -165,7 +165,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Robot paths with straight and diagonal steps to the input*
@@ -199,7 +199,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quadrilateral with angular conditions, measurement of BC*
@@ -234,7 +234,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies X without zero for which Y=X^2 is read reverse*
@@ -269,7 +269,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle, inscribed and excised conical circles, minimum AC*
@@ -302,7 +302,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grid routes from (8.6) to (0.0) with 7 direction changes*
@@ -334,7 +334,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Liars and truthful in line with pattern responses, maximum liars*
@@ -368,7 +368,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular trapezoid, cyclic quadrilateral, value a+b*
@@ -402,7 +402,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple maximal roots of g(x) = f(x^3-3x) *
@@ -436,7 +436,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two equal interchangeable spheres in regular tetrahedron, maximum radius*
@@ -473,7 +473,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of N/s(N) for N from 1 to 1000*
@@ -509,7 +509,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table 4x4 fillings with monotony constraints, counting*
@@ -541,7 +541,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2018 codes 0,1,2 digits plus 8, remaining mod 2018*
@@ -572,7 +572,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum parts in which 20 M fractions divide the plane*
@@ -605,7 +605,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Data g1g2m1m2 produced from the first two mirrors, sum of values*
@@ -639,7 +639,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Iterated equilateral triangles, measuring PC with AB=3556*
@@ -673,7 +673,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tangent circle at 5 circles on a pentagon, radius*
@@ -719,7 +719,7 @@ level: squadre
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interi n for which the ball returns to the starting player in 24 steps*

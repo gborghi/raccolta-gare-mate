@@ -29,7 +29,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare il valore di 4^8/8^4.*
@@ -58,7 +58,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC con angolo CAB = 20 gradi, D il punto medio di [AB], e angolo CDB = 40 gradi; trovare angolo ABC.*
@@ -89,7 +89,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una griglia 5x5 di 25 cellule bianche, trovare il numero più piccolo di cellule da colorare in rosso in modo che ogni rettangolo 2x3 e 3x2 contenga almeno una cellula rossa.*
@@ -120,7 +120,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un pentagono ABCDE con tutti i lati uguali, con angoli BCD e CDE angoli rettangolari e A non all'interno di BCDE quadrilaterale, P l'intersezione di linee (AC) e (BD); dimostrare AP = PD.*
@@ -147,7 +147,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le classi di Theo sono numeri interi da 1 a 5 con una media massima di 3; sostituisce ogni nota uguale a 1 con una 3; mostra che la nuova media rimane massima di 4.*
@@ -180,7 +180,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una coppia (x,y) con 1<=y<x è 'joli' se x e y hanno esattamente divisori positivi comuni x-y; con s(n) il numero di coppie joli con 1<=y<x<=n, decide se s(n)=2022 o s(n)=2023 è raggiungibile.*
@@ -215,7 +215,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una griglia 10x10 con righe numerate da 1 (alto) a 10 (infine) e colonne da 1 (sinistra) a 10 (destra), Martin colora le celle in modo che ogni cella colorata abbia al massimo un'altra cella colorata con numero di colonna e numero di righe maggiore o uguale a quelli di c; trovare il numero massimo di celle colorate.*
@@ -247,7 +247,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi n in modo tale che n/3 e 3n siano entrambi numeri interi tra 1 e 1000 inclusi.*
@@ -276,7 +276,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC con angolo CAB = 20 gradi, D il punto medio di [AB], e angolo CDB = 40 gradi; trovare angolo ABC.*
@@ -306,7 +306,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denominatori, Antoine scrive 11 frazioni; trovare il numero massimo possibile di frazioni con valori interi.*
@@ -335,7 +335,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dati 100 interi distinti 1 <= a_1 < a_2 < ... < a_100 <= 400 con d_i = a_{i+1} - a_i, mostrare che almeno 15 di d_1,..., d_99 sono uguali l'uno all'altro.*
@@ -362,7 +362,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un rombo ABCD con E l'intersezione dei diagonali, F il punto medio di [BE], G il punto medio di [AD], I l'intersezione di (FG) e (AC), e K il riflesso di A attraverso I; trovare EK/EA.*
@@ -391,7 +391,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una griglia 10x10 con righe numerate da 1 (alto) a 10 (infine) e colonne da 1 (sinistra) a 10 (destra), Martin colora le celle in modo che ogni cella colorata abbia al massimo un'altra cella colorata con numero di colonna e numero di righe maggiore o uguale a quelli di c; trovare il numero massimo di celle colorate.*
@@ -426,7 +426,7 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti uguali, in modo tale che per ogni scelta di n di essi la somma della n scelta è uguale al prodotto dell'altro n?
@@ -466,7 +466,7 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un intero fisso n>=2, un intero positivo S è 'speciale' se per ogni k e ogni decomposizione ordinata di n in parti positive n_1<=...<=n_k esistono interi 0<=a_1<a_2<...<a_k con somma a_i n_i = S; mostra n^2-2n non è speciale e trova tutti i numeri speciali.*

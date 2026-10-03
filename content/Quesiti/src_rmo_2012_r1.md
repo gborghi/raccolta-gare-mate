@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i rapporti BP/PE e AP/PD nel triangolo con punto medio*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Catenata di divisione implica divisioni di abc (a+b+c)^13*
@@ -82,7 +82,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
@@ -111,7 +111,7 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie non ordinate {A,B} sottoinsieme di {1,...,10} con A∩B={2,3,5,7}*
@@ -138,7 +138,7 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piedi bisettori angolari; prova XY=(b+c-a)/2*
@@ -165,7 +165,7 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove che non tutte le radici di ax^4+bx^3+x^2+x+1=0 sono reali

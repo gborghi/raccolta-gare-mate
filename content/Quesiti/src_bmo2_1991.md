@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sine di angolo tra AC e media da C in triangolo rettangolo*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano alla fine
@@ -93,7 +93,7 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con perimetro 2: prova $a^2+b^2+c^2+2abc<2$*
@@ -126,7 +126,7 @@ I nani con i mantelli: dimostrano che i cambiamenti di amicizia si stabilizzano 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra $x,2x,\ldots,20x$ alcuni multipli contengono la cifra 2; trovare min $N$*

@@ -30,7 +30,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un radicale annidato*
@@ -60,7 +60,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, punto simmetrico e piede di altitudine, trovare i tre angoli*
@@ -91,7 +91,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Venti edifici in cerchio, edifici interessanti, connessi sul piano totale *
@@ -123,7 +123,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con due punti di lunghezza uguale sul lato più lungo, dimostrare un'identità angolare*
@@ -154,7 +154,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzare i vincitori del regalo a quadrato perfetto*
@@ -186,7 +186,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli reali che soddisfano tre equazioni quadratiche cicliche*
@@ -213,7 +213,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi*
@@ -242,7 +242,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tesouro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale di diamanti *
@@ -271,7 +271,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, punto simmetrico e piede di altitudine, trovare i tre angoli (lycee) *
@@ -302,7 +302,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Venti edifici in cerchio, edifici interessanti, limitati sul piano (lisse) *
@@ -337,7 +337,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzazione dei vincitori del regalo a quadrato perfetto (liceo) *
@@ -368,7 +368,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare*
@@ -395,7 +395,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee) *
@@ -426,7 +426,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Aumentare i numeri interi positivi con un'ipotesi di divisibilità; dimostrare due disuguaglianze*
@@ -463,7 +463,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato *

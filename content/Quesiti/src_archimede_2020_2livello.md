@@ -37,7 +37,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Contemporary leaf cut in 2020 similar parts*
@@ -80,7 +80,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Game of thrones, always true *
@@ -117,7 +117,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four first years with a total of 240, the youngest *
@@ -161,7 +161,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square, circle, intersections, length AY*
@@ -204,7 +204,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Choose 3 people at the table, neither adjacent nor opposite
@@ -251,7 +251,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two swimmers, possible values of Zanobi tanks*
@@ -294,7 +294,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle with inner conical points, ratio AB/BC*
@@ -336,7 +336,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between figures 1 and figures 0 from 1 to 2020*
@@ -386,7 +386,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Linear cube system, combined value*
@@ -430,7 +430,7 @@ Choose 3 people at the table, neither adjacent nor opposite
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Playing with stacks of coins, who loses?
@@ -466,7 +466,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bisset, tangent circle, find AB*
@@ -512,7 +512,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum power of 5 dividing combination coefficients*
@@ -553,7 +553,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Combination of safe with divisibility conditions 11*
@@ -586,7 +586,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomials with p(x) ^2=p(x^2) + alpha p(x), counting *
@@ -620,7 +620,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full square dividers, maximum number *
@@ -656,7 +656,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *segments between square centers, minimum colour*
@@ -691,7 +691,7 @@ Playing with stacks of coins, who loses?
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scalene triangle, circles, symmetrical, alignments*

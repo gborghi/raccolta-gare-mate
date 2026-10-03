@@ -31,7 +31,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular part perimeter of isosceles triangular field*
@@ -70,7 +70,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Replacement of letters with digits 19 in hexagonal pattern*
@@ -105,7 +105,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many PRISTEM members practice all three sports?
@@ -138,7 +138,7 @@ How many PRISTEM members practice all three sports?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fif possible with non-consecutive numbered nets*
@@ -173,7 +173,7 @@ How many PRISTEM members practice all three sports?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular quarter perimeter divided into four blocks*
@@ -208,7 +208,7 @@ How many PRISTEM members practice all three sports?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to align 5 boys with Alessandra and Ingrid not close
@@ -243,7 +243,7 @@ How to align 5 boys with Alessandra and Ingrid not close
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many apples did Anna buy initially?
@@ -278,7 +278,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of bars to produce 4 litres of wine*
@@ -311,7 +311,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbered pages does the encyclopedia have with 2010 digits 1*
@@ -344,7 +344,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nando's age if you reverse the numbers becomes three times the grandson*
@@ -379,7 +379,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dual-reading card to be printed for numbers 100999*
@@ -415,7 +415,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find a 5-digit combination from the 10-digit list*
@@ -448,7 +448,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of three digits forming perfect square and cube with neighbors*
@@ -481,7 +481,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 4 digits whose contrary is four times greater*
@@ -514,7 +514,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate between DMS and ABC triangle areas in the forest*
@@ -549,7 +549,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many rectangles are shown in the figure? *
@@ -584,7 +584,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smallest number extracted from each of the five friends*
@@ -615,7 +615,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many zeros in the product of all integers between 50 and 100*
@@ -646,7 +646,7 @@ How many apples did Anna buy initially?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Age of the eldest nephew under 10 in the mysterious family
@@ -679,7 +679,7 @@ Age of the eldest nephew under 10 in the mysterious family
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area of the largest square exceeding 2001 cm2*

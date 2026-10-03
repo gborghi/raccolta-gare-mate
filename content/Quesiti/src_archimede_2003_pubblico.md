@@ -25,7 +25,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a problem for all of us.
@@ -57,7 +57,7 @@ This is a problem for all of us.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the first time I have seen this.
@@ -89,7 +89,7 @@ This is the first time I have seen this.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the first time I have seen this.
@@ -117,7 +117,7 @@ This is the first time I have seen this.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the first time I have seen this.
@@ -145,7 +145,7 @@ This is the first time I have seen this.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the problem.
@@ -171,7 +171,7 @@ This is the problem.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change.
@@ -199,7 +199,7 @@ This is the main reason for the change.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -227,7 +227,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the problem.
@@ -253,7 +253,7 @@ This is the problem.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a problem.
@@ -281,7 +281,7 @@ This is a problem.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the first time I have seen this.
@@ -310,7 +310,7 @@ This is the first time I have seen this.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the first time I have seen this.
@@ -336,7 +336,7 @@ This is the first time I have seen this.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -365,7 +365,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -391,7 +391,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -417,7 +417,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -443,7 +443,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change.
@@ -473,7 +473,7 @@ This is the main reason for the change.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the problem.
@@ -503,7 +503,7 @@ This is the problem.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -533,7 +533,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.
@@ -563,7 +563,7 @@ This is the main reason for the change in the price of the product.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason for the change in the price of the product.

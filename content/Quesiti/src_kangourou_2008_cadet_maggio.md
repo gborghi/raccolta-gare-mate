@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final turnout at the polls (increase in percentage) *
@@ -65,7 +65,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Subtotal with sum/difference divisible by 10*
@@ -101,7 +101,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remove two boxes to make the equality true*
@@ -139,7 +139,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding an infinite set of imperfections*
@@ -172,7 +172,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal subset = odd (999 and 1000 elements) *
@@ -206,7 +206,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *T triangle area ratio by square C*

@@ -29,7 +29,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Remplire 7 esagoni di mellifera con 1-7 (ogni una volta), somme adiacenti al massimo 10*
@@ -60,7 +60,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta quadrupli (a,b,c,d) di numeri interi positivi, abcd=2025, ab,bc,cd,da tutti i quadrati*
@@ -91,7 +91,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare sei pezzi a forma di supporto P1, P2, P4, P5, P7, P8 su una griglia da 10x10 senza sovrapposizione*
@@ -122,7 +122,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi 1..1000 i cui restanti mod 2,3,4,5,6 sono separati in coppia*
@@ -153,7 +153,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali bicentrici, raggio incircolo 6; triangoli PBC, QCD inradii 5,3; trovare BC/CD*
@@ -186,7 +186,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due sequenze di numeri interi positivi con ricorrenza a metà accoppiata; contare le coppie iniziali (a1,b1) entrambe al massimo 40*
@@ -217,7 +217,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su una griglia di 20x25, riempire le curve scritte n lungo le catene adiacenti a destra/ascesa, riducendo al minimo le curve; contare i riempimenti finali*
@@ -250,7 +250,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Belle sequenze di numeri interi contenenti 2025 con condizione di convexità; tra la lunghezza massima N trovare min a_N*
@@ -279,7 +279,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, circoncentro O, piede D da A; angolo AOD=90, OD=4sqrt7, AP=11; trovare EF*
@@ -308,7 +308,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggiare funzioni f:S->S su {0..8} con f(x) f(y)-f(z)) divisibile per 9 ogni volta che 9  x+y-z*
@@ -343,7 +343,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Operazione di diffusione dell'importanza del grafico diretto "cluster stellare"; somma delle importazioni di stelle costruite nel 100° passo*
@@ -374,7 +374,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono ciclico ABCDE, AC=AD, BC < in P; riflettere sulle 5 linee laterali; trovare P1P3/P1P5*

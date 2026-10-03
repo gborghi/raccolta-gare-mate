@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore massimo di n-m per un numero a 3 cifre con condizione somma di cifre*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza laterale di un triangolo equilaterale con punto interno e date distanze a piedi*
@@ -89,7 +89,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per riempire la griglia 3 ×4 con 14 in modo che nessun valore si ripeta in nessuna riga o colonna*
@@ -118,7 +118,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca coppie di numeri interi positivi distinti la cui somma di due è un quadrato perfetto e il cui minimo è minimizzato*
@@ -150,7 +150,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli reali che soddisfano un sistema di tre equazioni*
@@ -184,7 +184,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per colorare 3×3 grid rosso/blu evitando la monocromatica 2×2 quadrati*
@@ -212,7 +212,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triplici di numeri interi a 2 cifre reciprocamente coprimari condividendo condizioni di uguaglianza digitali*
@@ -239,7 +239,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di giorni per Jiro e Saburo per finire di leggere insieme un libro di 120 pagine*
@@ -267,7 +267,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il circondario comune dei triangoli OBC, OCA, OAB dati lunghezze laterali*
@@ -295,7 +295,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i percorsi di formiche sui bordi del dodecaedro dal vertice X indietro a X*
@@ -326,7 +326,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la costante minima c per le disuguaglianze funzionali che coinvolgono f ((x,y) sul quadrato unitario*
@@ -354,7 +354,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 20 volte dei numeri interi positivi che soddisfano le condizioni di disuguaglianza dei prodotti*

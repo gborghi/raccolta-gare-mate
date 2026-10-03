@@ -32,7 +32,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati AP: IO perp BI, I circumcentro di DKE*
@@ -66,7 +66,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un'unica coppia ordinata (a,b) che dà ogni numero intero positivo n*
@@ -95,7 +95,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli interi (a,b,c) con l'equazione funzionale f((a,b,c))=(a,b,c) *
@@ -124,7 +124,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *46 quadrati rossi sulla lavagna 9x9: almeno 3 rossi in ogni blocco 2x2*
@@ -159,7 +159,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico con angolo di 120 gradi: due disuguaglianze*
@@ -196,7 +196,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova l'intero numero con n < l^2 < (1+1/2005)n per n >= 4011^2*

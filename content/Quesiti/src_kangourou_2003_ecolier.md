@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of the underlying asset shall be the sum of the underlying assets of the underlying asset.
@@ -66,7 +66,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number continuing the sequence (subtractions) *
@@ -103,7 +103,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of the 27th kangaroo (cycle 5) *
@@ -139,7 +139,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Images with three quarters of hearts*
@@ -175,7 +175,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Hours and minutes of sleep by Martino
@@ -233,7 +233,7 @@ Hours and minutes of sleep by Martino
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance BC from AC, BD, AD*
@@ -284,7 +284,7 @@ Hours and minutes of sleep by Martino
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many apples did Mark pick?
@@ -325,7 +325,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of germs by flower proportions*
@@ -366,7 +366,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Blue cubes inside the brick *
@@ -401,7 +401,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reverse starting number*
@@ -445,7 +445,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost of a basketball*
@@ -485,7 +485,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form of the third parallel-pipedal brick*
@@ -524,7 +524,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area covered by the letter N*
@@ -562,7 +562,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of digital clock figures*
@@ -598,7 +598,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students with brother and sister (inclusion-exclusion) *
@@ -650,7 +650,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangular plates per room*
@@ -697,7 +697,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pages in a book with 35 digits*
@@ -732,7 +732,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Related price of puppy/bear*
@@ -770,7 +770,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What box is obtained from cutting*
@@ -812,7 +812,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many large sweets were bought*
@@ -852,7 +852,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tiny black bars in the barcode *
@@ -891,7 +891,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which two objects make up the shaded part*
@@ -930,7 +930,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many liars in the group (answers 1,2,3,4) *
@@ -970,7 +970,7 @@ How many apples did Mark pick?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product number of A (2003 units) for 2003

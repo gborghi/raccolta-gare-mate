@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pairi numerici naturali in cui (x+1)/y e (y+1)/x sono naturali*
@@ -57,7 +57,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema ciclico di equazioni con valori assoluti, intero positivo n≥2*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali ciclici con a2+b2+c2+d2=8R2: angolo retto o diagonali perpendicolari*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *19 studenti, 5 olimpiadi, tre in coppia comuni; due olimpiadi in comune ≥7*
@@ -140,7 +140,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equivalenza di due condizioni sui risultati positivi a, b*
@@ -167,7 +167,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ceviani dal punto interno; somma espressa a+b+c come prodotto*
@@ -197,13 +197,12 @@ level: Olimpiade Polacca Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Esistenza di una funzione differenziabile f tale che 2f·f'=0 oppure |2f·f'|≤1*
 
 > (a) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $2f(x) \cdot f'(x) = 0$ per ogni numero reale $x$?
 >
 > (b) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $-1 \le 2f(x) \cdot f'(x) \le 1$ per ogni numero reale $x$?
-
-
 
 [[Quesiti/src_pol_1995_r1#q07|src_pol_1995_r1__Q07]]
 
@@ -226,7 +225,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piramida n-gon regolare: prova sin2α − sin2β ≥ tan2(π/n) *
@@ -253,7 +252,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *a+b=1, a^b e b^a razionale implica a e b razionale*
@@ -280,7 +279,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre coppie di raggi provenienti da punti collineari formano quadrilaterali; due tangenti implicano una terza tangente*
@@ -307,7 +306,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza attesa tra i più grandi e i più piccoli tra m tratti da {1,...,n}*
@@ -336,7 +335,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza ricorrente; dimostrare che tutte le somme parziali sono inferiori a 1*

@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coincidence of sleep-wake cycles, weeks and rent*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangular courtyard area in square side 80*
@@ -100,7 +100,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product value/quotient of differences in squares*
@@ -133,7 +133,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Succession with average variations, term value 1000
@@ -165,7 +165,7 @@ Succession with average variations, term value 1000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product (alpha-1) (beta-1) square polynomial roots *
@@ -197,7 +197,7 @@ Succession with average variations, term value 1000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last four digits minimum fraction numbering with ab=28!*
@@ -234,7 +234,7 @@ Succession with average variations, term value 1000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum combined attempts of 7 digits 1-4 without singles
@@ -268,7 +268,7 @@ Maximum combined attempts of 7 digits 1-4 without singles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum five-digit lock attempts with three equals*
@@ -302,7 +302,7 @@ Maximum combined attempts of 7 digits 1-4 without singles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cleared eulerian path mirrors on icosahedron*
@@ -335,7 +335,7 @@ Maximum combined attempts of 7 digits 1-4 without singles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum total number of soldiers with 5a^4=6b^3
@@ -367,7 +367,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A circle beam inscribed in a rectangular trapezoid given area*
@@ -401,7 +401,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of overlays of three spheres on circumference*
@@ -440,7 +440,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular angle ABC with circle and arc *
@@ -476,7 +476,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary absolute values solutions of the whole diophantine equation*
@@ -509,7 +509,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distance between two points given sums squared at vertices*
@@ -553,7 +553,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of escape hit exactly once in 4 shots*

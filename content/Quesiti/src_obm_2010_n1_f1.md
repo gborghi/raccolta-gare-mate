@@ -29,7 +29,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale numero NON è un multiple di 15?*
@@ -61,7 +61,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il real di Lucia dato in coppie *
@@ -93,7 +93,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2% aumento dei numeri interi uguali al successore; trovare la loro somma *
@@ -126,7 +126,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max token in griglia 5x5 con conteggio di righe e colonne multipli di 3*
@@ -160,7 +160,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altezza della colonna costruita a partire da blocchi rettangolari del 2010*
@@ -195,7 +195,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
@@ -227,7 +227,7 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semplificare 4^(4^4) diviso per 4^4*
@@ -262,7 +262,7 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale totale non può essere la somma delle facce visibili di due dadi tetraedrali uniti a una faccia?
@@ -297,7 +297,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i divisori positivi di 120 che sono multipli di 6*
@@ -331,7 +331,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro della figura formata da due quadrati che si sovrappongono*
@@ -367,7 +367,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Die per un orologio che perde 5 minuti/ora per mostrare di nuovo l'ora corretta*
@@ -404,7 +404,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di regione poligonale ombrata in una griglia a punti di 1 cm*
@@ -443,7 +443,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i gol che ha colpito l'Esmeralda FC da una tabella di campionato incompleta*
@@ -479,7 +479,7 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
@@ -512,7 +512,7 @@ Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero più piccolo in un insieme con somma 83 e prodotto 1024*
@@ -545,7 +545,7 @@ Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gli studenti che amano sia la matematica che il portoghese nella classe 56
@@ -580,7 +580,7 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di piastrelle rettangolari con 17 quadrati di unità bianche in angolo *
@@ -621,7 +621,7 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
@@ -667,7 +667,7 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare chi ha fatto la dichiarazione falsa in un gioco di carte*
@@ -706,7 +706,7 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero del viso mancante su una rete di icosaedro*

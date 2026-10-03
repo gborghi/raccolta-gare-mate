@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N a tre cifre: esattamente i numeri 1/k iniziano con la cifra 2*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con due ricorrenze; massimizzare il numero quadrato tra i termini*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo non isoceloso con punti medi e condizioni di angolo rettangolo; collinearità*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *8×8 gioco a griglia; trovare il punteggio massimo garantito per Katy*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(n) conta le liste di divisibilità; dimostra che N esiste dividendo f(n) *
@@ -167,7 +167,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo Γ, linea l, rane che saltano tra l e Γ; provare il ritorno al punto di partenza *

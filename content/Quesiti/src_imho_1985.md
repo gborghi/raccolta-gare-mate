@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza tangente ai lati di un quadrilatero ciclico, dimostrare che AD+BC=AB*
 
 > Una circonferenza ha il centro sul lato $AB$ del quadrilatero ciclico $ABCD$. Gli altri tre lati sono tangenti alla circonferenza. Si dimostri che $AD + BC = AB$.
-
-
 
 [[Quesiti/src_imho_1985#q01|src_imho_1985__Q01]]
 
@@ -59,6 +58,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Colorare gli interi in M con due colori preservando la condizione sulla somma*
 
 > Siano $n$ e $k$ due numeri naturali relativamente primi, $k < n$. Ogni numero nell'insieme $M = \{1, 2, \ldots, n-1\}$ è colorato o di blu o di bianco. Si sa che:
@@ -67,8 +67,6 @@ level: IMO
 > (ii) per ogni $i \in M$, $i \neq k$, entrambi i numeri $i$ e $|i - k|$ hanno lo stesso colore.
 >
 > Si dimostri che tutti i numeri nell'insieme $M$ devono avere lo stesso colore.
-
-
 
 [[Quesiti/src_imho_1985#q02|src_imho_1985__Q02]]
 
@@ -93,12 +91,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Polinomio a coefficienti interi: le somme parziali di indice dispari sono intere*
 
 > Per ogni polinomio $P(x) = a_0 + a_1 x + \cdots + a_k x^k$ a coefficienti interi, si indica con $w(P)$ il numero di coefficienti dispari. Per $i = 0, 1, \ldots$, si definisce $Q_i(x) = (1 + x)^i$. Si dimostri che se $i_1, i_2, \ldots, i_n$ sono numeri interi tali che $0 \le i_1 < i_2 < \cdots < i_n$, allora
 > $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \ge w(Q_{i_n}).$$
-
-
 
 [[Quesiti/src_imho_1985#q03|src_imho_1985__Q03]]
 
@@ -122,11 +119,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insieme M di 1985 interi positivi distinti senza sottoinsieme il cui prodotto è una potenza perfetta*
 
 > Sia dato un insieme $M$ di 1985 interi positivi distinti, ognuno dei quali non ha divisori primi maggiori di 26. Si dimostri che $M$ contiene almeno un sottoinsieme di quattro elementi distinti il cui prodotto è un quarto potere di un intero.
-
-
 
 [[Quesiti/src_imho_1985#q04|src_imho_1985__Q04]]
 
@@ -150,11 +146,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza passante per i vertici A e C incontra i lati AB e BC nei punti K e N*
 
 > Una circonferenza di centro $O$ passa per i vertici $A$ e $C$ del triangolo $ABC$ e interseca nuovamente i segmenti $AB$ e $BC$ nei punti distinti $K$ e $N$, rispettivamente. Le circonferenze circoscritte ai triangoli $ABC$ e $KBN$ si intersecano esattamente in due punti distinti $B$ e $M$. Si dimostri che l'angolo $OMB$ è retto.
-
-
 
 [[Quesiti/src_imho_1985#q05|src_imho_1985__Q05]]
 
@@ -182,6 +177,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *La successione definita per ricorsione ha esattamente un valore iniziale in (0,1)*
 
 > Per ogni numero reale $x_1$, si costruisce la successione $x_1, x_2, \ldots$ ponendo
@@ -189,7 +185,5 @@ level: IMO
 > per ogni $n \ge 1$. Si dimostri che esiste un solo valore di $x_1$ per cui
 > $$0 < x_n < x_{n+1} < 1$$
 > per ogni $n$.
-
-
 
 [[Quesiti/src_imho_1985#q06|src_imho_1985__Q06]]

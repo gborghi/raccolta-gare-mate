@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many sums *
@@ -59,7 +59,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *If not adjusted with opposite face sum conditions*
@@ -89,7 +89,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *train crossing conditions*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *first or second? *
@@ -147,7 +147,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *trials for potatoes*
@@ -176,7 +176,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many times does the last one crack in an hour*

@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le carte necessarie per costruire una casa di carte a 5 livelli dato i livelli 1,2,3 utilizzare 2,7,15 carte*
@@ -56,7 +56,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *6° grado: di ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più di ragazze; studenti totali*
@@ -91,6 +91,7 @@ level: OBM Nível 1
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Da una tabella delle presenze di 5 giorni in cui ogni studente è stato assente esattamente 2 giorni, trovare quale percentuale delle assenze totali è avvenuta nel giorno con meno presenti*
 
 > In un corso di cinque giorni, le presenze degli studenti sono state registrate nella tabella seguente:
@@ -100,7 +101,6 @@ level: OBM Nível 1
 > | Numero di studenti presenti | $271$ | $296$ | $325$ | $380$ | $168$ |
 > 
 > Ogni studente era assente esattamente due giorni. Nel giorno con meno presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
-
 
 [[Quesiti/src_obm_2009_n1_f2#q03|src_obm_2009_n1_f2__Q03]]
 
@@ -124,7 +124,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coperta un tavolo di 88 cm x 95 cm con fogli quadrati di 10 cm; trova la superficie coperta da quattro fogli sovrapposti*
@@ -153,7 +153,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel numero di cifre 2008 200920092009...2009, cancellare il minor numero di cifre in modo che la somma di cifre rimanente sia 2008*
@@ -180,7 +180,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Famiglia di numeri che condividono tutti almeno una cifra comune; trovare il maggior numero possibile di membri*
@@ -213,7 +213,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figure costruite a partire da triangoli rettangolari con gambe 6,8,10 colgendo lati uguali; confrontare i perimetri e massimizzare con tre triangoli*
@@ -250,7 +250,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A a tre cifre x B a due cifre; invertendo le cifre di B si ottiene un risultato 2034 più grande; trovare A quando le cifre di B sono consecutive / non consecutive*
@@ -285,7 +285,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * scacchi: 7 round, 4 games/round, 8 giocatori; dopo il round 3, può esserci un gruppo al primo posto con il resto al secondo posto e tutti i punteggi possono differire*

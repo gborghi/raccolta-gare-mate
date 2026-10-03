@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine i numeri a,b,c da una potenza di 3*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo, piede di altitudine, punto medio e condizione di diametro*
@@ -83,7 +83,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza simmetrica per i reali positivi sulla sfera unitaria*
@@ -110,7 +110,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti rossi massimi in griglia senza triangolo rettangolo*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni a^b = b^a + b^c*

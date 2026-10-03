@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un quadrato perfetto di sei cifre in cui le ultime tre cifre superano le prime tre esattamente di uno.*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tostato quadrato ABCD tagliato a metà; trovare il triangolo di divisione del triangolo ABC tagliato a destra più corto in aree uguali.*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza u_n definita da recidiva; trovare c tale che u_i divida u_j ogni volta che i ≤ j.*
@@ -113,7 +113,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi si toccano internamente a M; tangente al cerchio interno incontra l'esterno a Q,R; dimostrano angoli uguali a M.*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi x,y,z soddisfano 1/3 ≤ xy+yz+zx ≤ 3; trovare intervallo di xyz e x+y+z.*

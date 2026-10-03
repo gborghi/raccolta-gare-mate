@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine quali integri positivi m si verificano come termine m^2 a quadrato perfetto in una sequenza di ricorrenza a radice quadrata del pavimento.*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per f:N->N dove f(k) conti la molteplicità massima in f(1),...,f(k-1) per k>2026, prova f(n)=f(n+1) per infinite n.*
@@ -82,7 +82,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo di scalene acuto, con P,Q sui lati che soddisfano BP=BN, CQ=CN e K sulla linea AN con MK=MN, prova che l'angolo PKQ è un angolo retto.*
@@ -109,7 +109,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina tutte le f:N0->N0 con f(0)=0 in modo tale che f(n) + m e f(n) + f(m) siano compagni (dividono esattamente gli stessi divisori primi) per tutte le m,n.*
@@ -136,7 +136,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un punto interno P di un triangolo acuto T con riflessi successivi nei suoi lati, dimostrare che le sei immagini a triplice riflessione sono concicliche se P è l'ortocentro.*
@@ -169,7 +169,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due mazzi di 40 carte giocano duelli deterministici ripetuti con regole di vincita/riguardo/senza interazione; dimostrare che il tempo massimo che può richiedere un gioco di fine è di 356 ore.*

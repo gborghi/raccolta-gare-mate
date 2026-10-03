@@ -43,7 +43,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Graph of maximum temperatures expected in 7 days*
@@ -93,7 +93,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer numbers between 20-radq21 and 20+radq21*
@@ -139,7 +139,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Surface area of a broken cube parallel-piped*
@@ -189,7 +189,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded fraction of square with inscribed circles*
@@ -270,7 +270,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Direction of the slope of the axle as seen from two points*
@@ -318,7 +318,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume ratio of the two cylinders of a rectangle rolled *
@@ -355,7 +355,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The largest of the powers and roots of x=root
@@ -403,7 +403,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with 1,3,5 divisible by 3*
@@ -448,7 +448,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle area with data vertices in the Cartesian plane*
@@ -490,7 +490,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which line can be represented by the graph with the parabola *
@@ -530,7 +530,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of odd divisors by 7!*
@@ -573,7 +573,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A combination of the numbers a+b with a in A and b in B*
@@ -630,7 +630,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Where the three-digit numbers inverted increase by 99*
@@ -675,7 +675,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of odd sums of adjacent terns*
@@ -717,7 +717,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the triangle larger than the perimeter of the smaller *
@@ -763,7 +763,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of p(N) product numbers from 10 to 100*
@@ -806,7 +806,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden number in table 5x5 at constant sums*
@@ -861,7 +861,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of forming a node on the ribbon under coin*
@@ -953,7 +953,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PXV triangle area of three squares with known areas*
@@ -1007,7 +1007,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Graph of residual thickness of the rolled roll*
@@ -1059,7 +1059,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of solutions of f(f(x))=0 from a graph*
@@ -1107,7 +1107,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number remaining after double-sum deletions*
@@ -1204,7 +1204,7 @@ The largest of the powers and roots of x=root
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the product (s) of the product concerned.
@@ -1250,7 +1250,7 @@ This is the total value of the product (s) of the product concerned.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Of whom and of whom the kangaroo s*
@@ -1307,7 +1307,7 @@ Of whom and of whom the kangaroo s*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of numbers on the faces of the solid (snube dodecahedron) *
@@ -1362,7 +1362,7 @@ Of whom and of whom the kangaroo s*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles separated by 15 points on circumference less than symmetry*
@@ -1444,7 +1444,7 @@ Of whom and of whom the kangaroo s*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of triangle ABC divided by areas 1,3,3*
@@ -1500,7 +1500,7 @@ Of whom and of whom the kangaroo s*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between XY-ray and OQ mirror with reflections*
@@ -1550,7 +1550,7 @@ Of whom and of whom the kangaroo s*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimo valore di M(k) massimo di |4x^2-4x+k| su [-1,1]*
@@ -1617,7 +1617,7 @@ Of whom and of whom the kangaroo s*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of A winning by 3 points *

@@ -34,7 +34,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(2x)=2f(x)^2-1 con f(0)=1; mostrare f(x)=cos(x*sqrt(2a)) utilizzando la sostituzione dei trigini e i limiti.*
@@ -79,7 +79,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro dadi a 20 lati; punteggiare il valore nominale se una faccia appare almeno due volte; calcolare le probabilità, il guadagno atteso e le strategie di rilancio.*
@@ -120,7 +120,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Periodi di sequenze finite; per coprime a,b mostrare una sequenza con periodi a e b di lunghezza >= a+b-1 è costante; studiare la sequenza 0/1 V e la sua proprietà di simmetria.*

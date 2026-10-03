@@ -34,7 +34,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find by knowing a=c/2, b=-c/3, a+b=0*
@@ -77,7 +77,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a C obtained from a circular crown*
@@ -118,7 +118,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of positive divisors of 5*4*3*2*
@@ -159,7 +159,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Original price after 15% discount*
@@ -203,7 +203,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unit number of 3 times higher than square 2006*
@@ -243,7 +243,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a rectangle with base 3/2 of height*
@@ -285,7 +285,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multipleths of 3 between 2000 and 4000*
@@ -331,7 +331,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordinare 3, radice 10, radice 2 piu radice 3*
@@ -403,7 +403,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DC length with DE parallel to AB and area ratio*
@@ -467,7 +467,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Packs in a bag with only one liar*
@@ -511,7 +511,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report areas of squares nested at midpoints*
@@ -553,7 +553,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering LAPIS with the first and last vowel letters*
@@ -595,7 +595,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of members by voting percentage*
@@ -639,7 +639,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum row plus column * Chess buttons
@@ -682,7 +682,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Heritage after growth of 50% for four hours*
@@ -726,7 +726,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students in both chemistry and physics competitions*
@@ -793,7 +793,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the square inscribed in an equilateral triangle*
@@ -860,7 +860,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers with digits 3,4,6,7 divisible by 44*
@@ -909,7 +909,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solution of a sum of linear fractions in x*
@@ -950,7 +950,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of intersection between cube and sphere centered at the vertex*

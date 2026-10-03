@@ -29,7 +29,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum numero di valori distinti tra 14 somme del sottosetto*
@@ -56,7 +56,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti conciclici dal bisettore e dal circoncircolo dell'angolo orthocentrico*
@@ -85,7 +85,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n con n = phi(n) + 2 phi(phi(n))*
@@ -116,7 +116,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di pietre lasciate nella casella 1 dopo le operazioni di spostamento delle pietre*
@@ -149,7 +149,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale che coinvolge la funzione del pavimento*

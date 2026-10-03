@@ -28,7 +28,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove CE/BF = AJ/AK utilizzando bisettori circoncircolari e perpendicolari*
@@ -58,7 +58,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli veri che soddisfano un sistema con i coefficienti 12 e 13*
@@ -91,7 +91,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se esiste un poliedro convexo con specificata incidenza sul bordo della faccia*
@@ -126,7 +126,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i reali positivi a per i quali esiste una partizione valida degli integri*
@@ -154,7 +154,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove il limite superiore x^2+4y^2 ≤ 2/9 dato i risultati positivi che soddisfano la limitazione*
@@ -184,7 +184,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Definire un buon intero attraverso condizioni razionali/irrazionali del punto reticolo; trovare il minimo e eseguire la prova 2005*
@@ -212,7 +212,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa provata di reciprocità ≤ (m+n)/m per un sottogruppo di anticetene di {1,...,m}*
@@ -240,7 +240,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la lunghezza laterale minima di un quadrato che copre un rettangolo a×b*

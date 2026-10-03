@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Girls in class 29 with 3 more *
@@ -61,7 +61,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Topoles in the pockets of the giant*
@@ -94,7 +94,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *More than 5 consecutive years with sum of 2000*
@@ -127,7 +127,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now read in the mirror*
@@ -161,7 +161,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities 2 and 5 to make 2000*
@@ -197,7 +197,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different lengths by cutting strip into 3 and 4*
@@ -230,7 +230,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Less than 7 consecutive odd times with the sum of 119*
@@ -266,7 +266,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fetus length around the box*
@@ -301,7 +301,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bicycle rental time with barter*
@@ -335,7 +335,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Take 4 digits for a minimum number of 3 digits*
@@ -369,7 +369,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 2 digits divisible by 2 and 7*
@@ -402,7 +402,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major between A..E with equal displacement*
@@ -468,7 +468,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares in figure 10 of the ladder*
@@ -537,7 +537,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The longest gap between five gardens
@@ -577,7 +577,7 @@ The longest gap between five gardens
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 When they all get back together at the club
@@ -612,7 +612,7 @@ When they all get back together at the club
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time to wash 3 elephants together*
@@ -665,7 +665,7 @@ When they all get back together at the club
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of areas of triangles in figure*
@@ -719,7 +719,7 @@ When they all get back together at the club
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Waiting for mother kangaroo at the tree
@@ -755,7 +755,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to divide 96 children into groups*
@@ -788,7 +788,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle to the centre by sector 15% of the circle*
@@ -822,7 +822,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Conversion of double-double-double-double-taller *
@@ -857,7 +857,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lessons left after eating layers*
@@ -892,7 +892,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of judges on average 5.625*
@@ -927,7 +927,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the vertices after 1999 foldings*
@@ -964,7 +964,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the coin between the boxes*
@@ -1001,7 +1001,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of KANGAROO with distinct digits*
@@ -1060,7 +1060,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure the BAC angle in Figure *
@@ -1120,7 +1120,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies between 100 and 999 with different digits*
@@ -1155,7 +1155,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angles of 30 degrees in the diagonal of the hexagon*
@@ -1195,7 +1195,7 @@ Waiting for mother kangaroo at the tree
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Types of vermette with 3 yellow and 2 green *

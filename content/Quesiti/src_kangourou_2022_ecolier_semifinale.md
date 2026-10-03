@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Edge edges with only one side painted red*
@@ -74,7 +74,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now in Rome when dinner has been served (closed hours) *
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode in which Chiara can program the 7 repetitions*
@@ -159,7 +159,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many side cubes 1cm in the large cube*
@@ -200,7 +200,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which stamps give the correct spelling*
@@ -241,7 +241,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bacquet in the same group as the 6-package bag*
@@ -284,7 +284,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times do the hands form a right angle 6-12*
@@ -326,7 +326,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extra hectograms for 5 to 6 metres of flooring *
@@ -374,7 +374,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unit number of final product 2021-2029*
@@ -440,7 +440,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Surface of the hexagonal sign with six cells*
@@ -491,7 +491,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of (number*10) divided by 6 with number=2 mod 6*
@@ -523,7 +523,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between oases A and B with two camels*
@@ -557,7 +557,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Detail mileage with petrol in the tank*
@@ -590,7 +590,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum product of two two-digit numbers with 1,2,3,4*
@@ -636,7 +636,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficient number of 111,222,555 divided by 111*

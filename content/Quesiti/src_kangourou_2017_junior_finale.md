@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *It is appropriate to choose sum 9 or 10 on the dice*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term of consecutive odd numbers all first*
@@ -84,7 +84,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flight time with winds going back and forth*
@@ -113,7 +113,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences consecutive with a sum of digits divisible by 7*
@@ -143,7 +143,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair diameter and minimum circle of a set*
@@ -171,7 +171,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cube inscribed in a regular dodecahedron*

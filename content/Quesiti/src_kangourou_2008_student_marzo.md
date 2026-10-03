@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the two unknowns in Table 2x2*
@@ -68,7 +68,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x^2008/y^2008 with x+y=0*
@@ -105,7 +105,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cells remain after deletion (33x21) *
@@ -140,7 +140,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many prime p such that p^4+1 is prime *
@@ -196,7 +196,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Part of water in B (river forks) *
@@ -254,7 +254,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure the ACB angle (isosceles triangle with D) *
@@ -311,7 +311,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of cards from the first essay (parity) *
@@ -361,7 +361,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordination d of point D on the circle*
@@ -409,7 +409,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of xyz from x^2yz^3 and xy^2*
@@ -446,7 +446,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of digits for 2__8 divisible by 3*
@@ -507,7 +507,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number to exclude for three pairs equals *
@@ -546,7 +546,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diagonal length AB of the parallel piped *
@@ -587,7 +587,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total points from Roberto on the five problems*
@@ -623,7 +623,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Single coloured crabs (inclusion and exclusion) *
@@ -678,7 +678,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded region area (three tangent circles) *
@@ -733,7 +733,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of parallel pipes in the forehead. The value of the underlying assets shall be calculated on the basis of the following information:
@@ -793,7 +793,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Signs and fraction value (negative) *
@@ -832,7 +832,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Point P which minimizes sum of distances (5 points) *
@@ -881,7 +881,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of three hill points*
@@ -936,7 +936,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of internal facial points of four dice*
@@ -977,7 +977,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of returning to the starting point*
@@ -1012,7 +1012,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product of the two divisions of 3^32-1 between 75 and 85
@@ -1083,7 +1083,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of product figures (asterisked multiplication) *
@@ -1122,7 +1122,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x^2+y^2+z^2 with constraints*
@@ -1157,7 +1157,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of k such that a_k=2008 (success) *
@@ -1218,7 +1218,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the ADE triangle (inscribed circle) *
@@ -1305,7 +1305,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region shaded in square (M medium) *
@@ -1366,7 +1366,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measuring the angle ABC between two cubes (Pitagoras) *
@@ -1405,7 +1405,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bars for 61 octages *
@@ -1464,7 +1464,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2007 numbers with divisible pairs 17 or 23*

@@ -26,7 +26,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I coppie (n,k) in cui alcuni s danno sn, sk uguale numero di divisori*
@@ -55,7 +55,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max di a_2018 - a_2017 per una ricorrenza media*
@@ -82,7 +82,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo da perpendicolari ai circoncenti di AOP, BOP, COP tangente a OP*
@@ -110,7 +110,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutti f su razionali positivi con f(x^2 f(y) ^2) = f(x) ^2 f(y) *
@@ -141,7 +141,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Buoni numeri 2^n+2^{piano(n/2)}: somme e non somme di numeri buoni distinti*
@@ -172,7 +172,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera *
@@ -201,7 +201,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min si muove per raccogliere n pietre sulla cella n tramite spostamenti a destra fino a k*
@@ -228,7 +228,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *F,M,L,O conciclico con bisettieri perpendicolari di BD,CE*
@@ -255,7 +255,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se P(P(x)) e P(P(P(x))) sono coef interi, allora P è troppo*
@@ -282,7 +282,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Isoceles ABC, PA parallelo BC; condizione angolare dà A,P,X,Y conciclica*
@@ -316,7 +316,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L/R gioco di rietichettatura e spostamento su celle n+2; trovare le vittorie del secondo giocatore*
@@ -351,7 +351,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *x^3+y, x^2+y^2, x+y^3 numeri interi implica x,y numeri interi*

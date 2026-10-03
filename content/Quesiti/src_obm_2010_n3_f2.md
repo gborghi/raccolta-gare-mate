@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo il cui prodotto per 3 ha tutte le cifre 7; trovare la somma di N *
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integro quadratico con parametri r,s; contare i possibili valori di ̊r-s> *
@@ -84,7 +84,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi e quadrilaterali reciprocamente tangenti; trovare il raggio del cerchio inscritto*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2×4 griglie dipinte con 3 colori; contare le pitture con esattamente una colonna tagliata*
@@ -141,7 +141,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto di telescopio di calcolo di (n^4+n^2+1) per anche indici odd*
@@ -168,7 +168,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I bisettori angolari del triangolo si incontrano a I; trovare l'angolo ABC dato AI=BC e m(ICA)=2m(IAC) *
@@ -195,7 +195,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evitando due consecutivi
@@ -224,7 +224,7 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi sistema di numeri interi x+y+z=77, xy+yz+2x+xyz=946 con x≤y≤z non negativo*
@@ -257,7 +257,7 @@ L'orario di calcio di Diamantino: quanti modi per scegliere 2 dei 10 giorni evit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bolla da biliardo su tabella quadrata ABCD; trovare angoli per la palla per tornare al vertice dopo i rimbalzi del 2010*

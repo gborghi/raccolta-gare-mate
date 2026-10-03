@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i percorsi zigzag di quadrati bianchi su scacchi 8x8*
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le vere x, y, z che soddisfano tre equazioni di prodotto ciclico*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova PQ = AC se angolo BAC = 60 gradi in parallelo ABPC*
@@ -108,7 +108,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i numeri interi positivi n con n+2008
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine le sequenze periodiche razionali che soddisfano una recidiva*
@@ -166,7 +166,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza a3cosA + b3cosB + c3cosC < abc per il triangolo obtuso*

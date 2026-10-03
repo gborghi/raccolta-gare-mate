@@ -27,7 +27,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ultimo numero di pagina del libro di 3 volumi, trova il più grande fattore primo*
@@ -56,7 +56,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Incircolare il raggio in quadrilaterale ABCD, trovare un numero intero più vicino a r*
@@ -85,7 +85,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a 6 cifre della forma abccba con b pari e divisibile per 7*
@@ -114,7 +114,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le basi valide b>=10 per l'equazione 166x56=8590*
@@ -142,7 +142,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezio ABCD con incircolo che tocca AB a Q e CD a P, trovare PQ*
@@ -171,7 +171,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri a,b,c con a+b-c=1 e a^2+b^2-c^2=-1, trovi la somma di tutti i valori possibili di a^2+b^2+c^2*
@@ -200,7 +200,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto P all'interno dell'esagono regolare a distanze di 8,8,16 da tre vertici consecutivi, trovare il numero intero più vicino al circondario*
@@ -228,7 +228,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cordo AB, punto C su un cerchio con angolo ABC=30, punto D su AB con angolo DCO=angolo OCB=20, trovare angolo CDO*
@@ -257,7 +257,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri a,b dove a+b è radice di x^2+ax+b=0, valore massimo di b^2*
@@ -286,7 +286,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mediani perpendicolari nel triangolo, mediana da A è 30, trovare (BC^2+CA^2+AB^2)/100*
@@ -315,7 +315,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tazze da tè: modi per selezionare 2 senza maniglia e 3 con maniglia = 1200, massimo totale tazze*
@@ -346,7 +346,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 8 tupli in {1,-1}^8 con somma ponderata divisibile per 3*
@@ -373,7 +373,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo rettangolo a A, l'altitudine e l'angolo bisector da A hanno lunghezze 3 e 4, trovare la lunghezza media*
@@ -401,7 +401,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotti di cosini, trovare un numero intero più vicino a (2/7)log_2(y/x) *
@@ -430,7 +430,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri naturali a,b con 2a-b, a-2b, a+b tutti quadrati perfetti distinti, trovare minimo b*
@@ -460,7 +460,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza di due doppie somme su coppie con somma pari contro pari*
@@ -488,7 +488,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli che condividono angolo con i lati dati, trovare AC+DF*
@@ -517,7 +517,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri a,b,c>=4 non tutti uguali soddisfacendo 4abc=(a+3)(b+3)(c+3), trovare a+b+c*
@@ -546,7 +546,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N = 6+66+666+...+666...6 (100 sei), conteggio delle frequenze della cifra 7 in N*
@@ -575,7 +575,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri interi positivi n il cui prodotto digitali è uguale a n^2-15n-27*
@@ -604,7 +604,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Orthocentro H, centroidi G1 G2 G3 di HBC HCA HAB formare un triangolo di area 7, trovare area di ABC*
@@ -633,7 +633,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare buoni interi positivi k che la partizione {1,...,20} in sottoinsiemi ogni sommare a k*
@@ -664,7 +664,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più grande n per le disuguaglianze di tipo Cauchy-Schwarz con i denominatori b/29+c/31 ecc..*
@@ -693,7 +693,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli non simili con tutti gli angoli interi in gradi, trovare N/100*
@@ -721,7 +721,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *T più piccolo con i rimanenti di un dato insieme diviso per 11,13,15, trovare la somma dei quadrati di cifre*
@@ -748,7 +748,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi per scegliere 60 quadrati di unità da tavola 11x11 senza due che condividono un lato*
@@ -776,7 +776,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colour 4x4 scacchi rosso/blu così ogni riga e colonna ha esattamente 2 rosso e 2 blu, contare modi*
@@ -805,7 +805,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno con tutti i numeri diversi, trovare la somma digitali di N*
@@ -833,7 +833,7 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto D su BC, incentri I1 I2 di ABD ACD, angolo BI1E=60, angolo CI2F*
@@ -862,7 +862,7 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti interi non negativi, P(1)=4 P(5)=136, trovare P(3)*

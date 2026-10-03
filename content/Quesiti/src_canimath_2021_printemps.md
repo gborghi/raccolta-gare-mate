@@ -30,7 +30,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare una frazione basata su fattori*
@@ -62,7 +62,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplice (college) *
@@ -93,7 +93,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS*
@@ -121,7 +121,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari*
@@ -150,7 +150,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppia 0..13 in 7 coppie in modo che il prodotto delle coppie-somme sia un quadrato perfetto*
@@ -179,7 +179,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale*
@@ -206,7 +206,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza massima di una sequenza 0/1 bilanciata ogni 200 ma sbilanciata ogni 202*
@@ -236,7 +236,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1, per n=13 e n=9*
@@ -267,7 +267,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee) *
@@ -298,7 +298,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee) *
@@ -326,7 +326,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee) *
@@ -354,7 +354,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i 3 colori (blu/verde/rosso) del 1° gennaio 2021 senza due colori consecutivi dello stesso colore*
@@ -384,7 +384,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *6000 voti di studenti; dopo una sostituzione la media aumenta di 1/10; limita una differenza di conteggio *
@@ -417,7 +417,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due parti: disuguaglianza di intersezione ceviale in un triangolo; somma delle distanze in un trapezoide a isosceles*
@@ -446,7 +446,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N minore con i reali in (-1,1) sommati a 0 e i quadrati sommati a 2020*
@@ -475,7 +475,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia*
@@ -504,7 +504,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *8 formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1 (licee) *

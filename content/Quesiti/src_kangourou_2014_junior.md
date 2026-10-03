@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *As early as possible as the third Thursday of March*
@@ -79,7 +79,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Approximate length of a container given the row*
@@ -122,7 +122,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the inequality between the lengths of the wires and the correct *
@@ -167,7 +167,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number equidistant from 2/3 and 4/5 on the straight*
@@ -230,7 +230,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many years ago did the last figure exceed the sum of the others?
@@ -280,7 +280,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Large area of the axis (double side) *
@@ -331,7 +331,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Denial of 'each solved more than 20 problems'*
@@ -380,7 +380,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of a vertex of the square with diagonal on the x-axis*
@@ -416,7 +416,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Adult to youth ratio from data reports*
@@ -461,7 +461,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meter for the valves to turn down (mcm) *
@@ -505,7 +505,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum power of 3 distinct powers with sum of 1000*
@@ -555,7 +555,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which frame is closest to the floor*
@@ -617,7 +617,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the regular octagon given shaded region*
@@ -671,7 +671,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Head and tail crocodile length including *
@@ -713,7 +713,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number opposite to 14 on the prime face dice*
@@ -767,7 +767,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes of running at an average speed of 5 km/h*
@@ -813,7 +813,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (x,y) where x divides y+1 and y divides x+1*
@@ -861,7 +861,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Win-loss difference in chess (40 matches, 25 points) *
@@ -911,7 +911,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost of an umbrella before the discount*
@@ -958,7 +958,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product pqr with p+1/(q+1/r) = 25/19*
@@ -1006,7 +1006,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solutions of N×U×(M+E+R+O) =33 with distinct digits*
@@ -1066,7 +1066,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimize segments so that each circle has the same grade*
@@ -1120,7 +1120,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum black cubes from two cube views*
@@ -1168,7 +1168,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage change in total number of frogs*
@@ -1208,7 +1208,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distinct numbers <=100 with product not divisible by 18*
@@ -1255,7 +1255,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles (cube vertices) not contained in any face*
@@ -1326,7 +1326,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure of the angle TBP (tangent and biset) *
@@ -1396,7 +1396,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last number of the first half of the permutations of 1.7.*
@@ -1469,7 +1469,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the AFDE quadrilateral in the triangle with square*
@@ -1540,7 +1540,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many liars in the 2014 lineup *
@@ -1582,7 +1582,7 @@ How many years ago did the last figure exceed the sum of the others?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many liars in the 2014 lineup *

@@ -44,7 +44,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Configurazione geometrica: cerchi di diametro [AC] e [BC] tangenti a C, omogeneità tra tre cerchi, collinearità e rapporto di raggio*
@@ -111,7 +111,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di triangoli su n punti (non 3 collineari): numero massimo t(n) in condizione di vertici condivisi e numero minimo s(n) in condizione di catenazione*
@@ -206,7 +206,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Modello probabilistico/recursivo di tre specie cellulari che evolvono nel corso delle generazioni: limite di probabilità di compatibilità e convergenza delle sequenze proporzionali in due scenari*

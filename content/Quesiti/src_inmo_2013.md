@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti esternamente; dimostrare che il triangolo PQR è equilaterale*
@@ -58,7 +58,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi m, n e numeri primi p ≥ 5 che soddisfano l'equazione*
@@ -85,7 +85,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri interi positivi a,b,c,d; dimostrare che il polinomio non ha soluzione di numeri interi*
@@ -112,7 +112,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Buoni sottoinsiemi non vuoti di {1,2,...,n}; dimostrare che t_n e n sono entrambi pari o entrambi pari*
@@ -139,7 +139,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto ABC; circoncentro O, centro-orto H, centroide G; angolo di ricerca C*
@@ -166,7 +166,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi a,b,c,x,y,z; a+b+c=x+y+z=xyz; dimostrare a=x,b=y,c=z*

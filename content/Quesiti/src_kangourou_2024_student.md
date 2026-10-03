@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *-2 multiplied by 10, +2 squared, double of a prime*
@@ -72,7 +72,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which pentagon replaces white for self-intersecting curve*
@@ -113,7 +113,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of values x for which max(4-2x,3x-1)=8*
@@ -160,7 +160,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Right y=x+1 in axes with inverted orientation*
@@ -204,7 +204,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of 6 in a set of dice*
@@ -262,7 +262,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum 16^15 four times as power*
@@ -306,7 +306,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of colours for triangles and contact squares*
@@ -349,7 +349,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves to turn 6 cards by flipping 4*
@@ -394,7 +394,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Outcome not obtained by multiplying by 6 or 10*
@@ -437,7 +437,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation of areas regions of park divided by two routes*
@@ -482,7 +482,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Any single statement on n is necessarily true*
@@ -544,7 +544,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hexagonal polygonal length mean points tetrahedral shoulders*
@@ -597,7 +597,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the square of a function of a,b,c*
@@ -640,7 +640,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of exiting T in one-way neighbourhood*
@@ -682,7 +682,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square region shaded area with arches*
@@ -752,7 +752,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum AX+XD when varying from X to BC of the trapezoid*
@@ -819,7 +819,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the expression between p and q (p<q) and the major*
@@ -865,7 +865,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit integers shall contain at least one digit, 1,2,3*
@@ -905,7 +905,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A+B+C+D given AB,CD arithmetic mean with AB,CD*
@@ -950,7 +950,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *After several hours one candle and triple the other*
@@ -993,7 +993,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum result with operations on two-sided cards*
@@ -1037,7 +1037,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statement for two equations with common solution*
@@ -1099,7 +1099,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance between X and Y on folded tape*
@@ -1146,7 +1146,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of bags with a single extract of 12 equal to none*
@@ -1192,7 +1192,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of p coefficients with p(x+1)=x^2-x+2p(6) *
@@ -1237,7 +1237,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Any statement on rational and false points*
@@ -1294,7 +1294,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the cell with stains after +1 to 4 cell movements*
@@ -1347,7 +1347,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two zeros of f with f(20-x) = f(22+x) *
@@ -1391,7 +1391,7 @@ level: kangourou
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles of the dodecahedron with an angle of at least 45 degrees*
@@ -1442,7 +1442,7 @@ level: kangourou
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the securities issued by the issuer.

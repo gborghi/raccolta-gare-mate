@@ -33,7 +33,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono converso con condizioni laterali opposte implica ciclico*
@@ -64,7 +64,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno valore positivo di $a^3+b^3+c^3-3abc$ su integri positivi*
@@ -92,7 +92,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove $x^2y^2(x^2+y^2)\le 2$ per i risultati positivi con $x+y=2$*
@@ -119,7 +119,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di 100 linee con punti di intersezione esatti 2002*
@@ -146,7 +146,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di reali positivi distinti che formano una progressione aritmetica a 7 termini*
@@ -174,7 +174,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ribbito su voci diagonali di array in aumento $n\times n$*

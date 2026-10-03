@@ -26,7 +26,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *divisibility of the digits *
@@ -59,7 +59,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum time*
@@ -93,7 +93,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *inscribed isosceles triangle, demonstration*
@@ -124,7 +124,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *who is a knight and who is a con man*
@@ -159,7 +159,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * foot in the centre, configuration existence*
@@ -196,7 +196,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *round table person, places marked*

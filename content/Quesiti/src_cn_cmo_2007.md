@@ -27,7 +27,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La prova massima di due moduli complessi è almeno mn/sqrt(m^2+n^2)*
@@ -62,7 +62,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove due affermazioni sulle frazioni (a_j+a_{j+1})/gcd per primo/composto 2n-1*
@@ -103,7 +103,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Compare i numeri dei gruppi di funzionamento buoni vs. gruppi di funzionamento buoni secondari*
@@ -136,7 +136,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcenter, incenter, punti tangenti; prova OIMN*
@@ -163,7 +163,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza limitata che soddisfa la condizione di somma; dimostrare un < 1/n*
@@ -191,7 +191,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la più piccola n≥9 tale che qualsiasi numero intero permetta b∈{4,7} con la somma di 9

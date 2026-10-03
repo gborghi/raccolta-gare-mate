@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pairs of tickets 1-200 with a sum of 100*
@@ -67,7 +67,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students who ski and swim (winter/summer sports) *
@@ -97,7 +97,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x if the central number (9x) is 9 consecutive*
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N with 6 dividers, product of 5 = 5000*
@@ -162,7 +162,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of cubes for filling 160x140x100
@@ -219,7 +219,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope EF diagonal in the rectangle 48x36*
@@ -271,7 +271,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *After the first few minutes double the second candle*
@@ -302,7 +302,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many circumferences to divide the circular crown*
@@ -334,7 +334,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Km traveled by the train that slows down every half hour*
@@ -365,7 +365,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different bracelets with 7 coloured rings*
@@ -396,7 +396,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Medium speed second destination route total mean data*
@@ -426,7 +426,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of N^2 divided by 23 given N=16 mod 23 *
@@ -457,7 +457,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of greater than 20 distinct integers mean 101 *
@@ -504,7 +504,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of shaded cells in the magic grid 1-9*
@@ -559,7 +559,7 @@ Minimum number of cubes for filling 160x140x100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum result by entering brackets and marks in 1.5.*

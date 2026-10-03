@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio come somma di cubetti di polinomi a coefficiente intero*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente ai lati quadrilaterali; collinearità delle intersezioni KL e MN*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza con a+b+c=1 e a,b,c > -1/2*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri: coppia successiva ripetuta tra i primi 99 termini*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli enti x,y con x^2(y-1) + y^2(x-1)=1*
@@ -162,7 +162,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto interno di parallelepiped al massimo (1/2)sqrt(a^2+b^2+c^2) da un vertice*

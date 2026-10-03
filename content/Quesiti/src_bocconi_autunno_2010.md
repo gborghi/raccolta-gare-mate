@@ -31,7 +31,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Labyrinth: number of squares crossed by the minimum path from A to B*
@@ -64,7 +64,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Age of Enlightenment by three brothers with product 35 and sum of 13*
@@ -98,7 +98,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time of Luke's first awakening with a switch off on the alarm clock
@@ -131,7 +131,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of matches on the table after the sixth move of Deborah's game*
@@ -168,7 +168,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic rectangle 2×4 with integers 1 to 8*
@@ -202,7 +202,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figures 5 to 9 to be placed on the par with 103*
@@ -238,7 +238,7 @@ Time of Luke's first awakening with a switch off on the alarm clock
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Selecting the youngest of four friends with only one mind
@@ -268,7 +268,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of Angelo given the relationship to age of mother*
@@ -299,7 +299,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the figure into three equal and overlapping parts*
@@ -330,7 +330,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Littleest positive integer ending in 2011 and divisible by 7*
@@ -360,7 +360,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Excise time from two clocks going forward by 8 and 6 minutes per hour*
@@ -391,7 +391,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance traveled by the spider between the 8 vertices of a room*
@@ -424,7 +424,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum integer value of x for which the polygonal track returns to A*
@@ -455,7 +455,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle width between clock hands at 14.45*
@@ -486,7 +486,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of tokens to be removed to avoid products remaining *
@@ -521,7 +521,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic rectangle 3×5 with integers 1 to 15 and central symmetry*
@@ -554,7 +554,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major angle of a triangle with sides of 8, 25,6 and 30,4 cm*
@@ -585,7 +585,7 @@ Selecting the youngest of four friends with only one mind
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the alternate sum of consecutive odd products*

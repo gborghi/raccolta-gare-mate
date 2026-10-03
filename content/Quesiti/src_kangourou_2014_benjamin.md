@@ -43,7 +43,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many turns to read KANGAROO correctly*
@@ -85,7 +85,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Weight of the largest piece of cake
@@ -123,7 +123,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *View from behind two interwoven rings*
@@ -165,7 +165,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the three missing digits in the addendum*
@@ -207,7 +207,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between minimum 5 digits and maximum 4 digits*
@@ -266,7 +266,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the rectangle forming square 144*
@@ -328,7 +328,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flammiferi per square side with 62 total*
@@ -378,7 +378,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum white pearls to be displayed with grays*
@@ -431,7 +431,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which lap was the fastest from the timetable*
@@ -480,7 +480,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which square equals the black and white area*
@@ -522,7 +522,7 @@ Weight of the largest piece of cake
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many children eat ice cream today
@@ -567,7 +567,7 @@ How many children eat ice cream today
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Simona's road and direction to Elena*
@@ -612,7 +612,7 @@ How many children eat ice cream today
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many kids are gonna eat ice cream today?
@@ -660,7 +660,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum non-square whole rectangles in square 7*
@@ -708,7 +708,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What piece to discard to form a square*
@@ -757,7 +757,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tri-digit number sum with product 135*
@@ -803,7 +803,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bags do you need for groups of 3 and 5 with no leftovers*
@@ -854,7 +854,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number opposite to 4 on the dice given adjacencies*
@@ -897,7 +897,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum chocolates to be added (remaining 2 mod 3 and 5) *
@@ -946,7 +946,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Face opposite to 4 of the numbered cube*
@@ -1000,7 +1000,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cubes to be removed for the desired view*
@@ -1052,7 +1052,7 @@ How many kids are gonna eat ice cream today?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What song was playing on the way home after an hour?
@@ -1098,7 +1098,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of two-digit dividers for 2014*
@@ -1166,7 +1166,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AD in the triangle divided into 4 equal areas*
@@ -1242,7 +1242,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes between arrivals of subsequent messengers*
@@ -1293,7 +1293,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What image is not obtained by flattening the cube*
@@ -1332,7 +1332,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number deleted by Aldo (sum 15, product 36) *
@@ -1375,7 +1375,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Times of only grass for the rabbit Tim*
@@ -1424,7 +1424,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For how many days can the weather be predicted*
@@ -1472,7 +1472,7 @@ What song was playing on the way home after an hour?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum age of Aldo (10 different ages sum 180)*

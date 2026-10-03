@@ -28,7 +28,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza aritmetica con due condizioni lineari; trovare il primo termine.*
@@ -59,7 +59,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set A={1,2,m}, B={a^2}, C=A∪B con la somma 6; trovare il prodotto degli elementi di C.*
@@ -90,7 +90,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione funzionale f(x)=f(1)x+f(2)/x-1; minimo su (0,∞).*
@@ -121,7 +121,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(x)=cos x+log_2 x con f(a)=f(2a); trovare f(2a)-f(4a).*
@@ -152,7 +152,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con AB=1, AC=2, B-C=2π/3; area di ricerca.*
@@ -182,7 +182,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parabola y^2=2px, tangente attraverso P incontra l'asse y a Q; dato che \\\displaystyle \\\mathbb {\\displaystyle \mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb}}}} }
@@ -212,7 +212,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cube die lanciato tre volte; probabilità \a1-a2 del + del a2-a3 del + del a3-a1 del = 6. *
@@ -242,7 +242,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le frazioni ridotte r=p/q in (0,1) con pq diviso 3600.*
@@ -272,7 +272,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza complessa z_{n+1}=conj(z_n)(1+z_n i), z_1=√3/2; trovare z_2021.*
@@ -302,7 +302,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafica y=(x+1)/(DagaxDagax+1) ha tre punti collineari con abcissa sum 0; intervallo di pendenza.*
@@ -334,7 +334,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cube edge 2; P1, P2, P3 su incircoli di tre facce; min e max di P1P2 π+ P2P3 π+ P3P1 π.*
@@ -367,7 +367,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-1: A={1,2,3}, B e C definiti con 2x+y; somma degli elementi di B∩C.*
@@ -398,7 +398,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-2: vettori a=(1+2^m,1-2^m), b=(4^m-3,4^m+5); minimo di a·b.*
@@ -429,7 +429,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-3: radici di A, B di x^2-10x+6=0; trovare cos C.*
@@ -460,7 +460,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-4: iperbola x^2/a^2 - y^2/b^2=1, linea di inclinazione π/4 attraverso un vertice e (2,3); eccentricità.*
@@ -491,7 +491,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-5: sequenza a_1=1, a_n=1/(4a_{n-1}) +1/n; trovare a_100.*
@@ -522,7 +522,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-6: piramide regolare P-ABCD con lato base=altezza, G centroide del viso PBC; seno di angolo tra AG e base.*
@@ -553,7 +553,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-7: conteggi permutazioni di 1.21 con a_i_a_21 con condizione non diminuente.*
@@ -584,7 +584,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-8: valori reali positivi x,y con a∈[0,x],b∈[0,y], a^2+y^2=2, b^2+x^2=1, ax+by=1; max di x+y.*
@@ -615,7 +615,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-9: f(x) = 9:12-log_3 <c_11, a<b<c con f(a) 2f(b) = 2f(c); trovare ac/b.*
@@ -646,7 +646,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-10: (z^2+az+b) ((z^2+az+2b)=0 ha quattro radici che formano un quadrato unitario; trova la somma dei moduli.*
@@ -677,7 +677,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di r1-r2 (radi di cerchio).*
@@ -706,7 +706,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-1: sequenza geometrica con a1-a2=3, a1-a3=2; rapporto comune.*
@@ -736,7 +736,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-2: massimo di f(x)=2sin^2 x - tan^2 x.*
@@ -767,7 +767,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-3: complesso z_n ricorrenza z_{n+1}=conj(z_n)·i^n, z_1=3+2i; trovare z_99+z_100.*
@@ -798,7 +798,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-4: scegli 3 dei 6 vertici di un esagono regolare; probabilità due sono a distanza √3.*
@@ -829,7 +829,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-5: complesso z1=3+2i, z_{n+1}=conj(z_n)·i^n; trovare z99+z100.*
@@ -860,7 +860,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-6: f(x) su R, f(x)=2^x-x su [0,1), f(x)+f(x+1)=1, a=log_2 3; trovare f(a)+f(2a)+f(3a).*
@@ -891,7 +891,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-7: sottoinsiemi A di S={1..10} con A∩{1,2,3}≠ e A∪{4,5,6}≠S; conteggio.*
@@ -921,7 +921,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-8: due cerchi unitari centrati a (2,1) e (10,11); linea attraverso O che taglia archi uguali; somma delle pendici.*
@@ -950,7 +950,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-9: triangolo ABC con AB=1, AC=2, cos B + sin C = 1; trovare lunghezza di BC.*
@@ -980,7 +980,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-10: ellisse, Vertice A-asse maggiore, Vertice B-asse minore, Foco F; P,Q simmetrico con FP·FQ+FA·FB=EAS AB-EAS^2; prova F sull'estensione di AO e trova intervallo di eccentricità.*
@@ -1011,7 +1011,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A2-11: f(x)=x^3+ax^2+bx, three reals x1≤x2≤x3 with x1+1≤x2≤x3-1 and equal values; min of |a|+2|b|.*
@@ -1041,7 +1041,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-1: sequenza aritmetica d≠0, a_2021=a_20+a_21; trovare a_1/d.*
@@ -1071,7 +1071,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-2: z1=1+2i, z2=m+3i, z1·conj(z2) puramente immaginario; trovare z1+z2 in tempo.*
@@ -1102,7 +1102,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-3: intervallo di y=sin^2 x+√3 sinx cosx su [π/4,π/2].*
@@ -1132,7 +1132,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-4: dominio (-∞,0)∪,∞), f(x) = f(1)x^2+f(2)x-1)/x; somma di zeri.*
@@ -1162,7 +1162,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-5: a,b,c>1 con (a^2 b)^{log_a c}=a·(ac)^{log_a b}; trovare log_c(ab).*
@@ -1193,7 +1193,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-6: triangolo ABC, AB=1, AC=2, cosB=2sinC; lunghezza di BC.*
@@ -1224,7 +1224,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-7: parabola y=ax^2-3x+3 e y^2=2px simmetrica circa y=x+m; trovare il prodotto apm.*
@@ -1254,7 +1254,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-8: permutazione casuale di 1,10; probabilità che sia 9 che 12 appariscano tra i prodotti a_i a_{i+1}.*
@@ -1284,7 +1284,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-9: sequenza a1=a2=a3, b_n=a_n+a_{n+1}+a_{n+2} rapporto geometrico 3; trovare a_100.*
@@ -1315,7 +1315,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-10: Γ grafico di y = 1/ da fare; P nel primo quadrante, Q nel secondo quadrante, PQ tangente a parte di Γ nel secondo quadrante a Q; min di \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
@@ -1345,7 +1345,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B-11: piramide regolare P-A1A2...An, centro di base O, punto medio di A1An B; dimostrare una relazione e confrontare (1/n)ΣcosAiPB con sinα sinβ.*
@@ -1374,7 +1374,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-1: f pari su R, f(1)=2, f(2)=3; trovare f(f(-1)).*
@@ -1404,7 +1404,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-2: z=1+i+m/(1+i) con parti reali e immaginarie positive; gamma di m.*
@@ -1435,7 +1435,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-3: A={1,2,3}, B={4x-y}, C={4x+y}; somma degli elementi di B∩C.*
@@ -1466,7 +1466,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-4: parabola y^2=2px, linea di inclinazione π/4 incontra Γ a P(3,2) e Q; area del triangolo OPQ.*
@@ -1497,7 +1497,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-5: sequenza a1=2, a_{n+1}=(n+1) a_n-n; formula del termine generale.*
@@ -1528,7 +1528,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-6: piramide quadrata destra P-ABCD, centroide G di facciata laterale PBC; V1=volume PABG, V2=volume PADG; trovare V1/V2.*
@@ -1559,7 +1559,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-7: α,β≥0, α+β≤2π; minimo di sinα+2cosβ.*
@@ -1590,7 +1590,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-8: contare le permutazioni di 1.21 con a_i_a_21 non diminuendo condizione.*
@@ -1621,7 +1621,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-9: angolo tra a,b è π/3, \aquoquoquoquoquoquo, \bquoquo, \aquo, \aquo, \bquo sequenza aritmetica; trovare \aquo: \bquo: \bquo.*
@@ -1652,7 +1652,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-10: f(x) = lain2-log_3 < c) con f(a) 2f(b) = 2f(c); minimo di ac/b.*
@@ -1683,7 +1683,7 @@ level: China Mathematical Competition (First Round)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *B1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di y1-y2.*

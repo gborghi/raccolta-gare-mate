@@ -30,7 +30,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiplicazione f con le condizioni di cifra 3 e f(10)=0 implica f=0*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto medio di BC collineare con punti medio di BX e CY per il contatto incircolare*
@@ -87,7 +87,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza simmetrica in tre reali non negativi; conseguenza per tutti i reali*
@@ -115,7 +115,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radici di quarticche correlate espresse con radici di x^4+qx+r=0; legate a radici reali*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due sfere ciascuna tangente all'esterno a cinque vertex-sfere di otteedro; punto comune?*
@@ -171,7 +171,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decomponere 26(x^{2n}+...+1) in polinomi con diversi coefficienti digitali; trovare n*

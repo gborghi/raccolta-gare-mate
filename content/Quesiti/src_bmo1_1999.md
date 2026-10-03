@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro bambini di diverse età soddisfano due condizioni di somma quadrata*
@@ -59,7 +59,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di tangenti costanti mentre P si muove su un cerchio di diametro AB*
@@ -88,7 +88,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare costante positiva c così l'equazione ha esattamente tre soluzioni a numeri interi positivi*
@@ -119,7 +119,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Iterazione di base a cubo a 3 cifre: mostra la convergenza e trova tutti i valori eventuali*
@@ -154,7 +154,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Objective f con f(f(n)) condizione: mostrare l'esistenza di un unico punto fisso a numeri interi positivi*

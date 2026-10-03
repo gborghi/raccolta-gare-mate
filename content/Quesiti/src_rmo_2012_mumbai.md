@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadratici condividono uno zero comune; trovare i polinomi*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisibilità per 169 di un quadratico in n*
@@ -81,7 +81,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un'equazione esponenziale che coinvolge parti di pavimento e frazioni*
@@ -110,7 +110,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un rapporto di prodotto tra i segmenti utilizzando un angolo retto e un angolo perpendicolare*
@@ -140,7 +140,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli con una prima e un'equazione reciproca*
@@ -169,7 +169,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa alternata ponderata su tutti i sottogruppi di un insieme di 10 elementi*
@@ -199,7 +199,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La potenza di un punto e di triangoli simili dà un angolo di 100 gradi*
@@ -229,7 +229,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra una disuguaglianza per due frazioni con un vincolo reciproco*

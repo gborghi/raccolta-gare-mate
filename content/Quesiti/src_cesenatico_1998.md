@@ -30,7 +30,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of floors (sqrt n) from 1 to 1000000*
@@ -57,7 +57,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *two faces with the same number of sides*
@@ -83,7 +83,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Chances are you'll be playing poker tonight.
@@ -113,7 +113,7 @@ Chances are you'll be playing poker tonight.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BC^2=CD·CE in trapezoidal with perpendicular diagonals*
@@ -146,7 +146,7 @@ Chances are you'll be playing poker tonight.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * does not exist n with P(n)=12*
@@ -184,7 +184,7 @@ Chances are you'll be playing poker tonight.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Increasing multiplication function f(n)=n*

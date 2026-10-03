@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Il rapporto dei raggî inscritti è uguale al rapporto dei raggî exscritti in un triangolo*
 
 > Sia $M$ un punto sul lato $AB$ del triangolo $\triangle ABC$. Siano $r_1$, $r_2$, $r$ i raggi delle circonferenze inscritte nei triangoli $AMC$, $BMC$ e $ABC$. Siano $q_1$, $q_2$, $q$ i raggi delle circonferenze exinscritte dei medesimi triangoli che giacciono negli angoli $ACB$. Si dimostri che
 > $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
-
-
 
 [[Quesiti/src_imho_1970#q01|src_imho_1970__Q01]]
 
@@ -63,6 +62,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Rappresentazione di numeri in due basi; confronto dei valori tramite le cifre*
 
 > Siano $a$ e $b$ interi maggiori di 1, e siano $a$ e $b$ le basi di due sistemi numerici. Siano $A_{n-1}$ e $A_n$ numeri nel sistema di base $a$; $B_{n-1}$ e $B_n$ sono i numeri nel sistema di base $b$; essi sono legati tra loro come segue:
@@ -71,8 +71,6 @@ level: IMO
 > $$x_n \neq 0, \quad x_{n-1} \neq 0.$$
 > Si dimostri che
 > $$\frac{A_{n-1}}{A_n} < \frac{B_{n-1}}{B_n} \text{ if and only if } a > b.$$
-
-
 
 [[Quesiti/src_imho_1970#q02|src_imho_1970__Q02]]
 
@@ -102,6 +100,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione soddisfacente condizione sulla somma; limiti e limite della successione derivata*
 
 > I numeri reali $a_0, a_1, a_2, \ldots$ soddisfano la condizione:
@@ -113,8 +112,6 @@ level: IMO
 > (a) Si dimostri che $0 \le b_n < 2$ per ogni $n$.
 > 
 > (b) Dato $c$ con $0 \le c < 2$, si dimostri che esistono numeri $a_0, a_1, a_2, \ldots$ con le proprietà sopra indicate tali che $b_n > c$ per $n$ abbastanza grandi.
-
-
 
 [[Quesiti/src_imho_1970#q03|src_imho_1970__Q03]]
 
@@ -138,11 +135,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Partizione degli interi positivi in due insiemi con prodotti uguali*
 
 > Determinare l'insieme di tutti gli interi positivi $n$ con la proprietà che l'insieme $\{n, n+1, n+2, n+3, n+4, n+5\}$ può essere suddiviso in due insiemi tali che il prodotto dei numeri di un insieme sia uguale al prodotto dei numeri dell'altro insieme.
-
-
 
 [[Quesiti/src_imho_1970#q04|src_imho_1970__Q04]]
 
@@ -168,13 +164,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Tetraedro con angolo retto BDC e piede ortocentrico; dimostrare la disuguaglianza*
 
 > Nel tetraedro $ABCD$, l'angolo $BDC$ è un angolo retto. Si supponga che il piede $H$ della perpendicolare da $D$ al piano $ABC$ sia l'intersezione delle altezze del triangolo $\triangle ABC$. Si dimostri che
 > $$(AB + BC + CA)^2 \le 6(AD^2 + BD^2 + CD^2).$$
 > Per quali tetraedri si ha l'uguaglianza?
-
-
 
 [[Quesiti/src_imho_1970#q05|src_imho_1970__Q05]]
 
@@ -198,10 +193,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *100 punti in posizione generale; al più il 70% dei triangoli è acutangolo*
 
 > In un piano sono dati 100 punti, nessuna terna dei quali allineata. Si considerino tutti i possibili triangoli aventi questi punti come vertici. Si dimostri che non più di $70\%$ di questi triangoli sono acutangoli.
-
-
 
 [[Quesiti/src_imho_1970#q06|src_imho_1970__Q06]]

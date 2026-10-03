@@ -28,7 +28,7 @@ level: China Mathematical Competition (Complementary Test)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con piede di altitudine; circoncenti conciclici con piedi se P è ortocentro*

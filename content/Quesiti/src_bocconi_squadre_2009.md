@@ -27,7 +27,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interest minimum >20 not prime and not divisible by prime <20*
@@ -56,7 +56,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural numbers with four distinct non-zero digits with a sum of 12 digits *
@@ -90,7 +90,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 9 digits divisible by 2,3,...,8 with conditions on the substrings*
@@ -119,7 +119,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Age of the mother deduced from figure play with the child
@@ -148,7 +148,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers whose ratio to the sum of the digits is 10*
@@ -177,7 +177,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report area triangle of medians and original equilateral triangle*
@@ -206,7 +206,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major symmetrical number of 3 digits (different digits, multiple of the sum) *
@@ -234,7 +234,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Men/women ratio in group with mean age of 35, 50, total age of 40*
@@ -264,7 +264,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ae length of the rectangular base pyramid shaft*
@@ -295,7 +295,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of the youngest child of Henry given the age products*
@@ -324,7 +324,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to choose ships for the European route*
@@ -353,7 +353,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of nine digits with the last six zeros, remaining 313 divided by 787*
@@ -385,7 +385,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of sections of the regional line with length constraints*
@@ -414,7 +414,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turn card to verify claim 1↔A by Sergio*
@@ -445,7 +445,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangles are seen in Figure *
@@ -476,7 +476,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 3 distinct non-zero digits corresponding to the average of permutations*
@@ -506,7 +506,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trajectory of the centre of the 4 cm wheel exploring the triangle*
@@ -537,7 +537,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of finalists at the International Mathematics Games Championships*
@@ -566,7 +566,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year of death of Fermat, odd and divisible by 37, early seventeenth century*
@@ -594,7 +594,7 @@ Age of the mother deduced from figure play with the child
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean speed on a full lap of Formula 1 divided into three parts*

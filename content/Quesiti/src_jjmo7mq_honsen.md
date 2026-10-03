@@ -30,7 +30,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri interi copriamo a n; trovare quando la somma è primo*
@@ -65,7 +65,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo triangolare con BP+CQ=PQ e intersezione di circolo *
@@ -100,7 +100,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Atribuire da 1 a 2n ai vertici di 2n-gon; confini di differenza adiacenti*
@@ -132,7 +132,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Doppia disuguaglianza per l'espressione ciclica nei reali positivi a,b,c*
@@ -161,7 +161,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro dell'esagono converso ≥ somma di tre diagonali principali a 60°*

@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un triangolo con altitudine che incontra BC ad angolo retto*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca punti unici sui raggi in modo che tre triangoli condividano perimetro 2s*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa disuguaglianza per insieme di diversi numeri interi unici positivi con differenze distinte*
@@ -107,7 +107,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale razionale implica che f è costante*
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La funzione di partizione soddisfa l'ineguaglianza di convexità p(n+1)-2p(n)+p(n-1)>=0*
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non esiste un primo in sequenza formato con l'aggiunta ripetuta di 0001*

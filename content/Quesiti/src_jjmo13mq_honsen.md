@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico, linea perpendicolare che attraversa il circondocentro*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximo espressione razionale a due variabili*
@@ -80,7 +80,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ante su n x n tabella che visitano ogni cella, cellule nere minime*
@@ -107,7 +107,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il cerchio di BPQ si trova su una linea fissa indipendente da l*
@@ -134,7 +134,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2015 punti, bordi con angoli in coppia superiori a 90 gradi, bordi massimi*

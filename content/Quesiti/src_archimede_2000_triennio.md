@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the given powers is greater than the unit*
@@ -73,7 +73,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Between the ages of the father and the sum of the children
@@ -114,7 +114,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle in B given the angle between blades in P*
@@ -157,7 +157,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers with consecutive digits are prime*
@@ -199,7 +199,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x per triangle with a maximum side area of 4,5,x*
@@ -243,7 +243,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Woven and woven fabrics length in 1999*
@@ -288,7 +288,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Products of the continuous fraction chain abcd*
@@ -334,7 +334,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Team points after four days with constraints*
@@ -379,7 +379,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Incidence of raw materials on the price of the mascot*
@@ -426,7 +426,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of exagonal and interstellar polygon areas*
@@ -472,7 +472,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wake-up time with time zone difference*
@@ -513,7 +513,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of f(x+1)-f(x) by exponential function 4^x*
@@ -567,7 +567,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cylinder diameter measured with short-muzzle caliber*
@@ -611,7 +611,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multi-purpose 2^48-1 dividers of a width of 60 to 70 *
@@ -653,7 +653,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculate c(a+b) cubic root dates and product ab*
@@ -694,7 +694,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of straight pyramid on a square base units *
@@ -736,7 +736,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total ordered pairs with mcm equal to 2000*
@@ -779,7 +779,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Domain area defined by inequality with whole part*
@@ -822,7 +822,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of three triangular rectangular dice throws*
@@ -867,7 +867,7 @@ Between the ages of the father and the sum of the children
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum combination locking four digits with two equal *

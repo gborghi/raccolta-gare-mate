@@ -31,14 +31,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare la disuguaglianza per numeri reali arbitrari, vera per n=3,5 e falsa in caso contrario*
 
 > Si dimostri che l'affermazione seguente è vera per $n = 3$ e $n = 5$, e falsa per ogni altro $n > 2$.
 > 
 > Se $a_1, a_2, \ldots, a_n$ sono numeri reali arbitrari, allora
 > $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \ge 0$$
-
-
 
 [[Quesiti/src_imho_1971#q01|src_imho_1971__Q01]]
 
@@ -62,11 +61,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Poliedri convessi con nove vertici che condividono un punto comune*
 
 > Sia $P_1$ un poliedro convesso con nove vertici $A_1, A_2, \ldots, A_9$; sia $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che porta il vertice $A_1$ in $A_i$ $(i = 2, 3, \ldots, 9)$. Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
-
-
 
 [[Quesiti/src_imho_1971#q02|src_imho_1971__Q02]]
 
@@ -90,11 +88,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gli interi della forma 2^{3k}-2 contengono un sottoinsieme infinito con elementi a due a due coprimi*
 
 > Si dimostri che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni due elementi sono tra loro primi.
-
-
 
 [[Quesiti/src_imho_1971#q03|src_imho_1971__Q03]]
 
@@ -122,6 +119,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangoli acutangoli e geodetica minima sul tetraedro ABCD*
 
 > Tutte le facce del tetraedro $ABCD$ sono triangoli acutangoli. Consideriamo tutte le spezzate chiuse del tipo $XYZТX$ definite nel modo seguente: $X$ è un punto sullo spigolo $AB$ diverso da $A$ e $B$; analogamente, $Y$, $Z$, $T$ sono punti interni agli spigoli $BC$, $CD$, $DA$, rispettivamente. Si dimostri che
@@ -129,8 +127,6 @@ level: IMO
 > (a) Se $\angle DAB + \angle BCD \ne \angle ABC + \angle CDA$, allora tra i percorsi poligonali non esiste alcuno di lunghezza minima.
 > 
 > (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti percorsi poligonali minimi, la loro lunghezza comune essendo $2AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle DAB$.
-
-
 
 [[Quesiti/src_imho_1971#q04|src_imho_1971__Q04]]
 
@@ -154,11 +150,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insinsieme finito S nel piano con esattamente n punti ad distanza unitaria da ciascun punto*
 
 > Si dimostri che per ogni numero naturale $m$, esiste un insieme finito $S$ di punti nel piano con la seguente proprietà: per ogni punto $A$ in $S$, esattamente $m$ punti in $S$ si trovano a distanza unitaria da $A$.
-
-
 
 [[Quesiti/src_imho_1971#q05|src_imho_1971__Q05]]
 
@@ -182,10 +177,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Matrice quadrata con somma di righe e colonne >= n implica che la somma di tutti gli elementi sia >= n^2/2*
 
 > Sia $A = (a_{ij})$ $(i, j = 1, 2, \ldots, n)$ una matrice quadrata i cui elementi sono interi non negativi. Si supponga che, ogni volta che un elemento $a_{ij} = 0$ è uguale a zero, la somma degli elementi della riga $i$ e della colonna $j$ sia uguale a $\ge n$. Si dimostri che la somma di tutti gli elementi della matrice è $\ge n^2/2$.
-
-
 
 [[Quesiti/src_imho_1971#q06|src_imho_1971__Q06]]

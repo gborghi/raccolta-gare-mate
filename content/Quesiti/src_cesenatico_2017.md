@@ -31,7 +31,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *two circumferences of the same radius*
@@ -63,7 +63,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *finished whole solutions*
@@ -95,7 +95,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many spins *
@@ -126,7 +126,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * equal opposite corners *
@@ -154,7 +154,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the contribution from the Union to the project.
@@ -184,7 +184,7 @@ This is the total amount of the contribution from the Union to the project.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Endless m with num. Unusual prime factors of m(m+3) multiple of 3*

@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which product is the largest (isoperimetric) *
@@ -59,7 +59,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max squares that can be added without changing perimeter*
@@ -111,7 +111,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of the circle equivalent to the crown*
@@ -158,7 +158,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a in arithmetic progression*
@@ -191,7 +191,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of ab data 4^a=9 and 9^b=256*
@@ -245,7 +245,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What cards to roll over (conditional logic) *
@@ -284,7 +284,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Variation of revenue (+20% of price, -20% of turnover) *
@@ -318,7 +318,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between centres with 3 common tangents*
@@ -351,7 +351,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of apple eaten by the crab*
@@ -384,7 +384,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of bus in semicircular tunnel*
@@ -419,7 +419,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2006 remainder with the same divider (rest 5 out of 1001) *
@@ -458,7 +458,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Abc value (three prime with sum and difference) *
@@ -492,7 +492,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report sector and circle areas*
@@ -526,7 +526,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Elements of the choir this year (percentage) *
@@ -559,7 +559,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sheets for two equal digits (pigeonhole) *
@@ -595,7 +595,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Blue glass surface (circular glass) *
@@ -627,7 +627,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the largest number (fractions with a,b) *
@@ -698,7 +698,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Scores from the last qualifying round (prog. The following table shows the results of the calculations:
@@ -735,7 +735,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max angles less than 60 in convex polygon*
@@ -770,7 +770,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *XA diagonal of the parallel piped (Pitagora) *
@@ -808,7 +808,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum movements to transform the grid*
@@ -840,7 +840,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For quantities n the power n^300 has <=100 digits*
@@ -871,7 +871,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-sets with sum min+max=13*
@@ -926,7 +926,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lists of answers providing 4 correct answers*
@@ -959,7 +959,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number removed from 10 consecutive integers (sum of 2006) *
@@ -1013,7 +1013,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of arranging 1.6. with boundary difference not 3*
@@ -1061,7 +1061,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers in the hundredth group*
@@ -1095,7 +1095,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Areas in the region? (rectangle divided by M,N) *
@@ -1130,7 +1130,7 @@ Areas in the region? (rectangle divided by M,N) *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded triangle area (hexagon and square) *
@@ -1201,7 +1201,7 @@ Areas in the region? (rectangle divided by M,N) *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Intersection points of ropes (8 points) *

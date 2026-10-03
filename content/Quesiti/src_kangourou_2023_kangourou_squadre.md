@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *People with three candies of the same taste*
@@ -89,7 +89,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ae segment in isosceles trapezoid with triangle *
@@ -147,7 +147,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum summer camp entries, allowance*
@@ -179,7 +179,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of two runners circular track*
@@ -210,7 +210,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Insertions SUDOKU 2x3 grid with U-link *
@@ -249,7 +249,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Frequents of fitness conditions groups*
@@ -289,7 +289,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Original square area of white portion*
@@ -325,7 +325,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum students correct three questions*
@@ -357,7 +357,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of angles a+b+c+d in figure*
@@ -392,7 +392,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum min and max of the expression AB0/(A+B) *
@@ -425,7 +425,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *KLM area in equilateral triangle ABC*
@@ -458,7 +458,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of 100 numbers in a circle, adjacent mean*
@@ -489,7 +489,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *500-th term not square or perfect cube*
@@ -520,7 +520,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of n digits with 3n=ABCDE1*
@@ -557,7 +557,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *06*

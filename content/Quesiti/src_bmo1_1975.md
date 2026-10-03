@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma delle funzioni del pavimento delle radici quadrate è uguale a 400*
@@ -59,7 +59,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primi divisi in due set, divisibilità dei prodotti*
@@ -94,7 +94,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pigeonhole: disco con 7 punti, due a distanza 1*
@@ -127,7 +127,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line parallele attraverso le vertici del triangolo, trovare il rapporto k*
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Somma trigonometrica, funzione g, condizione limite su a*
@@ -189,7 +189,7 @@ Somma trigonometrica, funzione g, condizione limite su a*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inequità per un intero positivo n>1, x>y>1*
@@ -217,7 +217,7 @@ Somma trigonometrica, funzione g, condizione limite su a*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza reale unica che soddisfa la somma delle equazioni quadrate*
@@ -244,7 +244,7 @@ Somma trigonometrica, funzione g, condizione limite su a*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cono di vetro di vino: frazione del volume quando il livello dell'acqua divide il generatore*

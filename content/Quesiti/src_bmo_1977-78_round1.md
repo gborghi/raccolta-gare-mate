@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare il punto P all'interno del triangolo massimizzando il prodotto delle distanze verso i lati*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove non razionale con denominatore ≤100 ha blocco decimale 167 in dieci cifre consecutive*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che la sequenza u_n ha una sola soluzione con u_1 < u_2*
@@ -110,7 +110,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le altitudini di tetraedro concomitanti se i bordi opposti sono perpendicolari*
@@ -141,7 +141,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *All'interno di un cubo di 15 unità, trovare almeno 6 punti con sfera di raggio unitario che copra tutti*
@@ -172,7 +172,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che 2cosθ è polinomio in 2cos(θ/n); prova la razionalità o l'irrazionalità*

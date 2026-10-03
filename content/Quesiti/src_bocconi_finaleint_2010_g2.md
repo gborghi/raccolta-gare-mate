@@ -31,7 +31,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Conta i domino con esattamente 6 punti in un set 0-0 a 6-6.*
@@ -60,7 +60,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Render four cards to get the largest number possible.*
@@ -88,7 +88,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find the age of Alice.
@@ -117,7 +117,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the price of three magazines (€4.5.6) given two conditions and that Star-jeux costs less than Mega-jeux.*
@@ -146,7 +146,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 €1 and €2 coins (7.5 g and 8.5 g) weigh a total of 87.5 g: how much?
@@ -175,7 +175,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Crypto-addition: use all digits from 1 to 9 except one, in the column from smallest to largest, sum 2010. *
@@ -204,7 +204,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Logical guess Oui-Oui/Non-No: complete the three missing names in the declarations.*
@@ -233,7 +233,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide 27 shells into heaps in which no heaps are multiples of 3, maximizing the product.*
@@ -262,7 +262,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find the smallest multiple of 2010 whose destination is written without using the digit 0.*
@@ -291,7 +291,7 @@ Find the smallest multiple of 2010 whose destination is written without using th
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Succession of 3-digit numbers where each term is obtained by multiplying the previous one by a fixed integer factor >1; with maximum number of terms, find the largest term.*
@@ -322,7 +322,7 @@ Find the smallest multiple of 2010 whose destination is written without using th
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cross inscribed in a circle 10 cm in diameter: find the perimeter of the cross.*
@@ -353,7 +353,7 @@ Find the smallest multiple of 2010 whose destination is written without using th
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and every four consecutive sums 2010. Find the number in the sixth box.
@@ -382,7 +382,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of three numbers not divisible by 10 and narrowly less than 201 equal to 201000: find their sum.*
@@ -413,7 +413,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color five boxes (on a row 1-15) above number trays so that the five max-medium differences are equal to the mean-min differences and all distinct; find them in increasing order.*
@@ -444,7 +444,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 8 digits all different equal to the square of the sum of the two 4-digit numbers obtained by cutting it to the target.*
@@ -475,7 +475,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Set the integers 0 to 9 in the ten circles so that the sums of the ten numbers in the aligned circles are equal.*
@@ -508,7 +508,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Convex polyhedron with 60 identical faces (with short/long edges and data angles): from which three short edges start at the vertices.*
@@ -539,7 +539,7 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Circular girder of 65 lamps with signal propagation rule; after several operations all lamps are lit again for the first time.*

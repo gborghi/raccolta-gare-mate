@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Q è l'incentro del triangolo PAB attraverso due cerchi incrociati*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Operazioni minime per segnalare un numero intero n su una linea reale a partire da 0 e 1*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni sui reali positivi che soddisfano f ((xy+f ((x))=f ((f ((x) f ((y))+x*
@@ -110,7 +110,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per ogni m positivo c'è n_m così la somma unità di n-th potenze di reciprocità è *
@@ -141,7 +141,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partire interi positivi in due o tre sottoinsiemi con limiti di rapporto*
@@ -172,7 +172,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le intersezioni del circoncircolo del pentagono stellare producono cinque linee simultanee*

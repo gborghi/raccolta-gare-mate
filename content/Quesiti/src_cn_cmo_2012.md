@@ -30,7 +30,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti alle linee AC e AD attraverso vertici e punti di centro dell'arco si incontrano di nuovo a P; dimostrare che AP divide l'angolo BAC.*
@@ -62,7 +62,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su una matrice p x p riempita di 1..p^2, aggiungere/sottraire 1 lungo intere righe o colonne; conteggiare le matrici riduttibili a tutti i zeri.*
@@ -93,7 +93,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per f(x)=(x+a)(x+b) e x_i non negativi sommati a 1, massimizzare la somma su coppie di min{f(x_i),f(x_j)}.*
@@ -123,7 +123,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per n pari a quadrato libero e p primo con p<2 sqrt(n), p non divide n, p divide n+k^2, scrivi n come ab+bc+ca con diversi interi positivi.*

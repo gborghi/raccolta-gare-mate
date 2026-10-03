@@ -34,7 +34,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Km per wheel with spare wheel rotation*
@@ -76,7 +76,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squared sum ratio figures reversed on sum*
@@ -119,7 +119,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum calendar sheets for the third millennium
@@ -175,7 +175,7 @@ Minimum calendar sheets for the third millennium
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter report is shown in arcs on square perimeter*
@@ -231,7 +231,7 @@ Minimum calendar sheets for the third millennium
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of second wheel data rounds per minute*
@@ -275,7 +275,7 @@ Minimum calendar sheets for the third millennium
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of cubic surface shaded by arcs*
@@ -317,7 +317,7 @@ Minimum calendar sheets for the third millennium
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *equivalent logic form on teachers and luxury cars*
@@ -359,7 +359,7 @@ Minimum calendar sheets for the third millennium
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 After how many Sundays the three friends run together
@@ -399,7 +399,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of player expelled given average change*
@@ -442,7 +442,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of handshakes excluding compatriots*
@@ -486,7 +486,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *QOR angle by trisection of additional angles*
@@ -530,7 +530,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What are the statements on 3^10 odd cubic squares *
@@ -569,7 +569,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Water level after cubic immersion in the tank*
@@ -609,7 +609,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum amount not payable with coins of 3 and 11 *
@@ -650,7 +650,7 @@ After how many Sundays the three friends run together
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regions where elongated faces divide space*
@@ -691,7 +691,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Comparison of three-line drawn areas*
@@ -734,7 +734,7 @@ After how many Sundays the three friends run together
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Ways to balance 16 g with weights of 1, 3, 9*
@@ -777,7 +777,7 @@ Ways to balance 16 g with weights of 1, 3, 9*
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dangerous ladder that blocks the jumping kangaroo*
@@ -818,7 +818,7 @@ Ways to balance 16 g with weights of 1, 3, 9*
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many developments are closed in closed boxes*
@@ -861,7 +861,7 @@ Ways to balance 16 g with weights of 1, 3, 9*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight excluded by balance with five of the six weights*

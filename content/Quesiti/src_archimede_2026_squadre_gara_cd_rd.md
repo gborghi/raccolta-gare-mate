@@ -24,7 +24,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of 1000p with at least one shot in 3 attempts*
@@ -51,7 +51,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of coefficients of degree equal to (3-2x-3x^2)^21*
@@ -77,7 +77,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Around area excluding four inner tangent circles*
@@ -103,7 +103,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of (x+y)^2 with xy=5*
@@ -129,7 +129,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PCQ angle magnification with inscribed circle projection*
@@ -156,7 +156,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences 1,1,2,2,3,3,4,4 with equal pairs of bonds*
@@ -182,7 +182,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum n in 1400-1500 with n+2 div 6 and n-5 div 7*
@@ -208,7 +208,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of distances between 5 points per segment length 3*
@@ -235,7 +235,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum x^2 equilateral triangle containing square by rotating *

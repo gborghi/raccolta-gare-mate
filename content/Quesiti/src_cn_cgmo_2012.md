@@ -28,7 +28,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra una disuguaglianza telescopica per reali non negativi*
@@ -60,7 +60,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le equazioni di angolo e di rapporto per due cerchi tangenti esternamente*
@@ -89,7 +89,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi (a,b) con condizione di divisore comune*
@@ -118,7 +118,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo inciso tangente ai lati; prova uguaglianza angolare*
@@ -148,7 +148,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximi città n con due compagnie aeree che forzano l'utilizzo di entrambe*
@@ -177,7 +177,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta k in {0,...2012} con C(2012,k) divisibile per 2012*

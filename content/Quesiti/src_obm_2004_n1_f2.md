@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa digitali di una somma di frazioni con potenze di 2*
@@ -56,7 +56,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Peso prima di una dieta: variazioni della massa grassa del 20% e poi del 40%*
@@ -85,7 +85,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a due cifre la cui somma di cifre è un quadrato perfetto*
@@ -113,7 +113,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri 199 scritti fianco a fianco; cancellare 4 volte i numeri di posizione pari*
@@ -142,7 +142,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di un cubo realizzato da una rete di fogli di carta rettangolare*
@@ -174,7 +174,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fill 9×9 grid con 19 per colonna, somma di righe uguale; trovare X+Y*
@@ -207,7 +207,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di carte: carte utilizzate e sorte minime per garantire due blu*
@@ -244,7 +244,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area e il perimetro dei quadrati grigi nella griglia; massimizzare l'area con perimetro fisso*
@@ -281,7 +281,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di conteggio di numeri: la descrizione della riga iterata dà la sequenza; trovare i numeri sulla riga 10 e 2006*

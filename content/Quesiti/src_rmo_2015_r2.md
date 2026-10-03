@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riflessi di B,C nell'angolo bisector di A danno lo stesso incentro*
@@ -57,7 +57,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio quadratico, P(s) = t, P(t) = s; prova b-st è una radice*
@@ -84,7 +84,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli enti a,b,c con a^2=bc+1, b^2=ca+1*
@@ -111,7 +111,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per scegliere 3 di 32 oggetti su un cerchio, non due adiacenti o diametralmente opposti*
@@ -140,7 +140,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi, centro di Sigma su gamma; DE parallelo AC implica AE=AB*
@@ -169,7 +169,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca una reale con 4<a<5 tale che a(a-3{a}) sia un intero*

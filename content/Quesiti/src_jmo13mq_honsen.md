@@ -30,7 +30,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova l'angolo BRC nel triangolo ABC con condizioni di lunghezza uguale*
@@ -69,7 +69,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi con condizioni digitali e di divisibilità*
@@ -108,7 +108,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la k reale più grande in modo tale che una disuguaglianza si verifichi per tutti i reali positivi*
@@ -145,7 +145,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei pesi di tutte le espansioni continue delle frazioni di p/q = q*
@@ -182,7 +182,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i punti N massimi in un triangolo di 3 colori che soddisfa le condizioni interne *

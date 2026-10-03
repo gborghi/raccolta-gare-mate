@@ -29,7 +29,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il numero intero minimo positivo m con 105 √ 9^(p^2) - 29^p + m per tutti i numeri primi p > 3*
@@ -57,7 +57,7 @@ level: China Western Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari dimensioni
@@ -85,7 +85,7 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di sottoinsiemi di un insieme di n elementi con intersezione o contenimento in coppia*
@@ -115,7 +115,7 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove EF/B1C1 >= r/R per il punto interno P del triangolo acuto*
@@ -146,7 +146,7 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il punto medio di OH si trova sul circoncircolo del triangolo ABC*
@@ -176,7 +176,7 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un intero k dove la sequenza attraversa 1*
@@ -204,7 +204,7 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n>=2 per le quali n×n griglia può essere rovesciata a tutte -1*
@@ -231,7 +231,7 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i numeri primi p dividendo n^(n+1)+(n+1)^n per infiniti n*

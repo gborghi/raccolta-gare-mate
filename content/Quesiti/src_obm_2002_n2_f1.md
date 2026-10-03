@@ -33,7 +33,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare prezzi individuali*
@@ -76,7 +76,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bolla da biliardo su 5 ×7 tavola colpita a 45°; contare i colpi laterali prima della tasca angolare *
@@ -118,7 +118,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *TV "con 20 poligoni": 20 lungo la diagonale; contare lungo la diagonale per TV a 60 poligoni*
@@ -159,7 +159,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diluire due volte il latte di 2000 l con acqua; trovare V in modo che il latte sia uguale al volume dell'acqua*
@@ -199,7 +199,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per raggiungere *
@@ -240,7 +240,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La differenza dei quadrati di due numeri interi consecutivi è sempre pari alla loro somma*
@@ -280,7 +280,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
@@ -323,7 +323,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scrivere 19 in 3×3 griglia in modo che le somme dei bracci della elica a quattro numeri siano uguali e massime*
@@ -365,7 +365,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Patrícia guida São PauloRio; calcola i risparmi per persona contro il biglietto aereo*
@@ -408,7 +408,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato diviso in 4 trapezi congruenti riorganizzati in quadrato con buco centrale; frazione di superficie rimossa*
@@ -454,7 +454,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafica a barre dei ricavi dell'impresa; identificare la dichiarazione vera*
@@ -499,7 +499,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il prodotto di un milione di numeri naturali è uguale a un milione; trovare la somma massima *
@@ -540,7 +540,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
@@ -583,7 +583,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato diviso in 4 trapezi congruenti; riorganizzato in quadrato con buco centrale; area di buco*
@@ -626,7 +626,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare interi positivi inferiori a 900 che sono multipli di 7 che terminano con la cifra 7*
@@ -666,7 +666,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angoli 80° e 40°; trovare angolo acuto tra i bisettori di A e B*
@@ -709,7 +709,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC su una griglia quadrata di 30 cm; trovare la sua superficie*
@@ -754,7 +754,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea poligonale AB con modello di scala ripetuta; lunghezza totale con 6 segmenti*
@@ -797,7 +797,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio delle frequenze della cifra 5 in tutti i numeri interi da 100 a 999*
@@ -838,7 +838,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che xy=2 e x2+y2+x2y2=5, trovi x2/y2+2+y2/x2*
@@ -879,7 +879,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Viaggio scolastico allo zoo; due compagnie di autobus; trovare il numero minimo di bambini N per preferire la compagnia 2*
@@ -919,7 +919,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alice cresce e si riduce successivamente; variazione netta di altezza dopo quattro passi*
@@ -974,7 +974,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Falsa prova che 4>4 utilizzando radici quadrate; identificare il passo con l'errore*
@@ -1019,7 +1019,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Autoreferenziale: numero totale di lettere in tutte le risposte errate a questa domanda*
@@ -1060,7 +1060,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Restante quando sqrt(11111111 - 22222) è diviso per 9*

@@ -27,7 +27,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of middle-aged men/women at a party*
@@ -69,7 +69,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form of domain defined as sum of absolute values*
@@ -115,7 +115,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time for the tape beam to double again*
@@ -156,7 +156,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of liquor in conical glass with cherry *
@@ -192,7 +192,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What time does Maximo realize he forgot his wallet?
@@ -227,7 +227,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-deductible claim on polynomial with integer values*
@@ -263,7 +263,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of three friends totaling the same score in six races*
@@ -296,7 +296,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which k has three solutions of k = k *
@@ -329,7 +329,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles with vertices on the cube not on any face*
@@ -366,7 +366,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the triangle of the symmetries with respect to the area of ABC*
@@ -402,7 +402,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For integers x the product of two trinomials is prime*
@@ -437,7 +437,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Any single statement about age and strength is false*
@@ -473,7 +473,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the section of a hexagonal prism*
@@ -510,7 +510,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *X radius of the tangent mean circumference with two common tangents*
@@ -546,7 +546,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum a+b with 21ab2 and 15ab perfect squares*
@@ -578,7 +578,7 @@ What time does Maximo realize he forgot his wallet?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Show that the radius of the enclosure at ABC is HM*
@@ -614,7 +614,7 @@ Show that the radius of the enclosure at ABC is HM*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Determining together X with f(M)=M and convergence of succession*

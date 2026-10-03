@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of a match with a dice, num+den
@@ -62,7 +62,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of dividers equal to 20^22*
@@ -96,7 +96,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle shaded hexagonal area*
@@ -131,7 +131,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Caramel in the sixth bag with bindings*
@@ -163,7 +163,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits 1 in the sum of 2023 add *
@@ -194,7 +194,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of minimum k with s(s(s(k)))=10*
@@ -229,7 +229,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value X because product starts with 30*
@@ -271,7 +271,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of the King from b6 to e4 without going back*
@@ -306,7 +306,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most embassies, triangle-free graph *
@@ -336,7 +336,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The last three digits of 7^9999*
@@ -367,7 +367,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most parallel pipes from 4 non-planar points*
@@ -400,7 +400,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum whole 4 digits divided by 7 remaining 1*
@@ -432,7 +432,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of tracing segments, each grade point 2*
@@ -466,7 +466,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square side with grey triangle area given*
@@ -539,7 +539,7 @@ The probability of a match with a dice, num+den
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N<10000 for N *

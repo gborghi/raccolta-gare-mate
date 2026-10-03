@@ -37,7 +37,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare funzioni reali che soddisfano le equazioni funzionali di tipo Cauchy*
@@ -74,7 +74,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che ogni intero positivo non in un dato insieme infinito appartiene alla somma di due o più membri*
@@ -101,7 +101,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La sala di probabilità A si riempie di n concorrenti prima della sala B
@@ -132,7 +132,7 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che esiste una configurazione di 12 cerchi uguali su una sfera*

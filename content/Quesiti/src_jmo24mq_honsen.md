@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare l'angolo BAC da una condizione di bisettore perpendicolare*
@@ -53,7 +53,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni a numeri interi positivi di un'equazione esponenziale*
@@ -83,7 +83,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa massima dei numeri di copertura e di colorazione di un grafico*
@@ -110,7 +110,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che un cerchio attraverso quattro punti è tangente a BC*
@@ -137,7 +137,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La k più piccola per una disuguaglianza ciclica a tre variabili*

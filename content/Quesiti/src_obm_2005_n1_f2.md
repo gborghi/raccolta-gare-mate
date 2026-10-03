@@ -26,7 +26,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *miscela di alcol e benzina egualizzata con l'aggiunta di alcol puro*
@@ -53,7 +53,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza aritmetica: trovare il termine 2005*
@@ -80,7 +80,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
@@ -113,7 +113,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i pezzi di nastro adesivo per contornare una scala di enti interi positivi fino a 105*
@@ -146,7 +146,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per dipingere cubetti uguali con facce arancione, non due identici*
@@ -175,7 +175,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di scatola di legno aperta di tavole rettangolari*
@@ -206,7 +206,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area dei quadrati IJKL e MNOP da disposizione triangolare rettangolare*
@@ -235,7 +235,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i multipli a 3 cifre di 7 dove il successore è multiple di 11*
@@ -268,7 +268,7 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *allineamento della catena di domini e impossibilità con 14 piastrelle*

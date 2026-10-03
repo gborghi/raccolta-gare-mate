@@ -46,7 +46,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa totale 1993g
@@ -98,7 +98,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di 2n+1 interi consecutivi che soddisfano la somma / somma di quadrati / somma di cubi uguale*
@@ -137,7 +137,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione di sotto limite su Z con disuguaglianza di punto medio implica costante*
@@ -168,7 +168,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coperta di un disco unitario con due o tre dischi uguali di raggio r < 1*
@@ -209,7 +209,7 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli ottimali MAB per area/perimetro; massimizzazione di V/L^3 per un tetraedro*

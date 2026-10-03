@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rewrite (10*100) *(20*80) as a product*
@@ -85,7 +85,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Latin square sheet
@@ -135,7 +135,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of the circle (right angles) *
@@ -166,7 +166,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *360000 seconds at several hours*
@@ -199,7 +199,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Weight of 1 apple and 1 orange *
@@ -247,7 +247,7 @@ Weight of 1 apple and 1 orange *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Guess the number (true among friends)
@@ -282,7 +282,7 @@ Guess the number (true among friends)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is not a 2004 divider*
@@ -316,7 +316,7 @@ Guess the number (true among friends)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Carrots eaten by the rabbit mother
@@ -347,7 +347,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance first to ninth bus stop*
@@ -383,7 +383,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of cardboard box 6x6*
@@ -432,7 +432,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure can you get without flipping *
@@ -474,7 +474,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many holes after 5 folds*
@@ -512,7 +512,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square code in the encrypted addition*
@@ -549,7 +549,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Min number of boxes per ball (MCD) *
@@ -583,7 +583,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The largest of two numbers (sum of 77) *
@@ -634,7 +634,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min squares to be painted by axis of symmetry*
@@ -690,7 +690,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Development of the cube with cutting edge*
@@ -734,7 +734,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of trace of the snail Tin*
@@ -771,7 +771,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First day for maximum sunny days*
@@ -824,7 +824,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many overall correct answers (test) *
@@ -860,7 +860,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White/shaded area report*
@@ -895,7 +895,7 @@ Carrots eaten by the rabbit mother
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many mushrooms did Stefania collect?
@@ -946,7 +946,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second number in 9 boxes (sum of 21 bits) *
@@ -1000,7 +1000,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many threads to remove for the necklace*
@@ -1043,7 +1043,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Current price of the item less expensive (discounts) *
@@ -1083,7 +1083,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max cubic from construction (3 views) *
@@ -1118,7 +1118,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min cubes from construction (3 views) *
@@ -1151,7 +1151,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dancing on the fourth night (progress) *
@@ -1182,7 +1182,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Zero in the ratio of (2004 units)/3*
@@ -1233,7 +1233,7 @@ How many mushrooms did Stefania collect?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible area of the polygon from the folded triangle*

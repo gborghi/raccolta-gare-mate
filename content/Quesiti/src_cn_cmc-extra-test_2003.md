@@ -27,7 +27,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tangente e secante dal punto esterno, prova di uguale angolazione*
@@ -57,7 +57,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo a lato intero con parti frazionarie uguali di potenze di 3*
@@ -85,7 +85,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figura spaziale con vertici n=q^2+q+1: prova dell'esistenza di quadrilaterali spaziali*

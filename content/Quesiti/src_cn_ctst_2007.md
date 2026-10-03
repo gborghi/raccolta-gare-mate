@@ -29,7 +29,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i numeri razionali buoni x=p/q>1*
@@ -58,7 +58,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max triangoli con tutti i lati >9 tra 63 punti sul raggio di circolo 10*
@@ -89,7 +89,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le f:Q+→Q+ che soddisfano una determinata equazione funzionale*
@@ -122,7 +122,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione per massimizzare il prodotto dei punti ponderati dei reali e dei vettori*
@@ -150,7 +150,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ribbito alla dimensione del set con condizione lcm*

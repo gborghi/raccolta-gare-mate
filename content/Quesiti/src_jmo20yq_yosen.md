@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta un intero positivo di 6 doppi con ordine rigoroso e pari somme in coppia 22*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medio di numeri interi da 0 a 10000 la cui rappresentazione decimale evita la cifra 1*
@@ -85,7 +85,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max GCD di tutte e sei le permutazioni di un numero a 3 cifre con cifre distinte non a zero*
@@ -113,7 +113,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i valori possibili di BP - DP di un quadrilaterale ciclico con segmenti diagonali dati*
@@ -140,7 +140,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli ABC (fino alla rietichettatura delle verte) con tutti gli angoli interiori interiori*
@@ -168,7 +168,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Configurazioni di ponte di conteggio tra 9 uccelli colorati insulari che soddisfano due condizioni del grafico*
@@ -196,7 +196,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore massimo di a_0 in sequenza di numeri interi positivi con divisibilità e differenze limitate*
@@ -223,7 +223,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del triangolo ABC con il punto interno P, date le distanze AP, BP, CP e angolo BAC*
@@ -250,7 +250,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arrangamenti di fila di calcoli bianchi e neri del 2010 con un numero impar di coppie adiacenti di calcoli bianchi e di calcoli neri*
@@ -277,7 +277,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa massima di n^2 data la somma di n è pari a 5*
@@ -304,7 +304,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find angle APC in quadrilaterale con angoli dati e una condizione di punto di rapporto punto medio*
@@ -331,7 +331,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maxime nuove rotte aperte dopo la chiusura di un ponte in una rete di alberi di nodo 2010*

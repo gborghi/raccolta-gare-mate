@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the own funds of the institution.
@@ -62,7 +62,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum litres per minute to prevent the boat from sinking*
@@ -92,7 +92,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n with n^2+100 divisible by n-5*
@@ -130,7 +130,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late room given the number of tiles side*
@@ -163,7 +163,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lats of cells with at least an internal point of 25x30*
@@ -197,7 +197,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region between two similar octagons*
@@ -230,7 +230,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Originary length of rope (sling) *
@@ -268,7 +268,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of sheet with four rectangular triangles*
@@ -301,7 +301,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lats of the polygon with diagonal probability of 0,8*
@@ -332,7 +332,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perfect squares < 9200 with unit number 6 *
@@ -398,7 +398,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total lengths of 4 segments parallel to AC*
@@ -463,7 +463,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points reached by the flea after 30 jumps*
@@ -494,7 +494,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume octahedron from the centers of the parallel-piped faces*
@@ -525,7 +525,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer points per segment from (0,0) to (4200,3000) *
@@ -574,7 +574,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Agro number in KANGAROO divisible by 15*

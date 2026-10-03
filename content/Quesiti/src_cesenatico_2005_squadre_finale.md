@@ -33,7 +33,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * tiles 2 straight white and 2 straight black *
@@ -66,7 +66,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of collaborators, each 3 fields out of 8
@@ -101,7 +101,7 @@ Maximum number of collaborators, each 3 fields out of 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of making up a caravan of 18 animals with no equivalent adjoining *
@@ -139,7 +139,7 @@ Maximum number of collaborators, each 3 fields out of 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number drawn to equally distribute 2005 beverages*
@@ -175,7 +175,7 @@ Maximum number of collaborators, each 3 fields out of 8
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Circle beam inscribed from circumcenter and median conditions*
@@ -209,7 +209,7 @@ Maximum number of collaborators, each 3 fields out of 8
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of digits in base 5 of 253^253*
@@ -241,7 +241,7 @@ Maximum number of collaborators, each 3 fields out of 8
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of single crypts tangent to radius circle 2005
@@ -274,7 +274,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Terns (a,b,c) in [0,2005] with b^2+b=c^2-c and a^2=b+c*
@@ -308,7 +308,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of distances from a point to 2006 aligned statues*
@@ -342,7 +342,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of pitagoric terneal perimeters with c=(3/4) a+(4/5) b*
@@ -377,7 +377,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of false sentences in self-referential inscription*
@@ -416,7 +416,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum pressures to determine n from residues n^k mod k*
@@ -454,7 +454,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of real solutions of [x^2]+[x]^2=2x[x] in [1,100]*
@@ -487,7 +487,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of all the integers (figure reflection) *
@@ -520,7 +520,7 @@ Maximum number of single crypts tangent to radius circle 2005
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Calculation 3F3+4F4+ for polyethylene with 2005 pins*
@@ -561,7 +561,7 @@ Calculation 3F3+4F4+ for polyethylene with 2005 pins*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minutes after Polynomial, Von Kernel leaves (movie problem)
@@ -593,7 +593,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum path length between centers of side cube faces 10*
@@ -627,7 +627,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of paths between cube face centers*
@@ -664,7 +664,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different areas of equilateral triangles inscribed in square*
@@ -709,7 +709,7 @@ Minutes after Polynomial, Von Kernel leaves (movie problem)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number N guessed from the self-reference statements of the essays*

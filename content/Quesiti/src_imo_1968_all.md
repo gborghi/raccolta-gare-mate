@@ -27,11 +27,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo unico con lati interi consecutivi e angolo doppio*
 
 > Si dimostri che esiste uno e un solo triangolo i cui lati sono numeri interi consecutivi, e tale che uno dei suoi angoli sia il doppio di un altro.
-
-
 
 [[Quesiti/src_imo_1968_all#q01|src_imo_1968_all__Q01]]
 
@@ -55,11 +54,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare i numeri naturali per cui il prodotto delle cifre è uguale a x² - 10x - 22*
 
 > Determinare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (nella notazione decimale) è uguale a $x^2 - 10x - 22$.
-
-
 
 [[Quesiti/src_imo_1968_all#q02|src_imo_1968_all__Q02]]
 
@@ -95,6 +93,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Numero di soluzioni di un sistema quadrático ciclico tramite discriminante*
 
 > Si consideri il sistema di equazioni
@@ -110,8 +109,6 @@ level: IMO
 > (b) se $\Delta = 0$, esiste esattamente una soluzione,
 > 
 > (c) se $\Delta > 0$, esistono più di una soluzione.
-
-
 
 [[Quesiti/src_imo_1968_all#q03|src_imo_1968_all__Q03]]
 
@@ -134,11 +131,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Ogni tetraedro ha un vertice i cui spigoli formano un triangolo*
 
 > Si dimostri che in ogni tetraedro esiste un vertice tale che i tre spigoli che vi si incontrano hanno lunghezze che possono essere i lati di un triangolo.
-
-
 
 [[Quesiti/src_imo_1968_all#q04|src_imo_1968_all__Q04]]
 
@@ -167,6 +163,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che l'equazione funzionale implica f periodica; si dia un esempio*
 
 > Sia $f$ una funzione a valori reali definita per tutti i numeri reali $x$ tale che, per qualche costante positiva $a$, l'equazione
@@ -176,8 +173,6 @@ level: IMO
 > (a) Si dimostri che la funzione $f$ è periodica (cioè esiste un numero positivo $b$ tale che $f(x + b) = f(x)$ per ogni $x$).
 > 
 > (b) Per $a = 1$, fornire un esempio di una funzione non costante con le proprietà richieste.
-
-
 
 [[Quesiti/src_imo_1968_all#q05|src_imo_1968_all__Q05]]
 
@@ -202,12 +197,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Valutare la somma infinita di floor((n + 2^k)/2^(k+1))*
 
 > Per ogni numero naturale $n$, si valuti la somma
 > $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$
 > (Il simbolo $\lfloor x \rfloor$ indica il massimo intero non superiore a $x$.)
-
-
 
 [[Quesiti/src_imo_1968_all#q06|src_imo_1968_all__Q06]]

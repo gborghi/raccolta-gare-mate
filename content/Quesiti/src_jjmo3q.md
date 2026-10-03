@@ -26,7 +26,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di quattro numeri a quattro cifre*
@@ -53,7 +53,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisioni che lasciano il rimanente 11 sia per 197 che per 290*
@@ -100,7 +100,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area quadrilaterale formata da due mediani*
@@ -147,7 +147,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Combinazione lineare di due equazioni in tre reales*
@@ -174,7 +174,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli stessi numeri di cifre nella base dieci e nella base cinque*
@@ -203,7 +203,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli da una griglia di punti 3x3*
@@ -232,7 +232,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Completare la griglia 3x3 così ogni prodotto di riga e colonna è 2005*
@@ -259,7 +259,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo da due bisettori angolari in un triangolo*
@@ -286,7 +286,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiplici a quattro cifre di 7 con cifre da 1 a 6*
@@ -313,7 +313,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio AR:RC per il punto interno con angoli e rapporti dati*
@@ -358,7 +358,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserimento del vuoto: numero minimo che costringe una sottrazione senza prestito*
@@ -399,7 +399,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tripli di punti positivi distinti con prodotto pari a 12 volte la somma *

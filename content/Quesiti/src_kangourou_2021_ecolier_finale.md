@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 2 digits with an even and an odd *
@@ -73,7 +73,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Within a few days they train together again*
@@ -113,7 +113,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes to fill the first container of amoeba*
@@ -154,7 +154,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct 25x2=211 with +1/-1 on the digits*
@@ -195,7 +195,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final zeros of the product of peers between 1 and 101*
@@ -251,7 +251,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Getting 5 numbers equal by adding 1 to adjacent pairs*
@@ -306,7 +306,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pallets (two red and green numbers) *
@@ -347,7 +347,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of 100 whole with product 100*
@@ -393,7 +393,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little chocolate milk (box 18) *
@@ -431,7 +431,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of five consecutive years with sum of 2020*
@@ -459,7 +459,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meter up and back (hill) *
@@ -487,7 +487,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Packs of 5 biscuits per 100 biscuits with minimum number *
@@ -516,7 +516,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 4 digits with a thousand 1 and at least 3 digits equal to *
@@ -544,7 +544,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How old is Anna (50 years 50 months ...)
@@ -573,7 +573,7 @@ How old is Anna (50 years 50 months ...)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many hundred-year pairs of two-digit numbers *

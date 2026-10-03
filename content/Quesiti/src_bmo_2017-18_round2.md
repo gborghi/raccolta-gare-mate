@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente a BC a B attraverso il punto medio M incontra AB a P; prova AB×BP=2BM2*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte
@@ -88,7 +88,7 @@ Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alic
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se la somma dei cubetti (m+1)3+...+(2m)3 è sempre un quadrato perfetto*
@@ -121,7 +121,7 @@ Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alic
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Assorbimento di funzioni su reali con f^2018(z) numero intero; domande di esistenza*

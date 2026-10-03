@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of visible roofs to be painted on the building*
@@ -72,7 +72,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the square with perimeter equal to the triangle*
@@ -114,7 +114,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the path of the ant on the cylinder*
@@ -162,7 +162,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many tables for a side post 9*
@@ -207,7 +207,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of y with (x+1)(y+1)=77 and x<y*
@@ -247,7 +247,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number with N<N/2, N>2N and N+N^2=0*
@@ -286,7 +286,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragment value of 202,2x2,022/(20,22x2022) *
@@ -332,7 +332,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Times chart after halving two subjects*
@@ -383,7 +383,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many candidates can already opt out of the election*
@@ -434,7 +434,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The area of the square indicated by the question mark*
@@ -527,7 +527,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of shaded region with large and small circles*
@@ -614,7 +614,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of paths of the ant from X to Y between hexagons*
@@ -660,7 +660,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number which cannot be the sum of the maximum ages*
@@ -699,7 +699,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Objects remaining after subsequent disposal in 2022*
@@ -740,7 +740,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grandmother's age with wrong estimates of 1.2,4*
@@ -782,7 +782,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio AD/DC of the rectangle in 12 rectangles*
@@ -823,7 +823,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seconds of pedestrian delay from the cyclist*
@@ -861,7 +861,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of SV with three regions of equal area*
@@ -909,7 +909,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of trees to balance the three paths*
@@ -962,7 +962,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In what order can five rings be removed*
@@ -1009,7 +1009,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square R inscribed in the triangle (P=45) *
@@ -1057,7 +1057,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum points for the eight-team tournament winner*
@@ -1105,7 +1105,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pirates were given the loot?
@@ -1159,7 +1159,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible distribution of symbols on the cube 2x2x2*
@@ -1203,7 +1203,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What can be deduced from Bruna's application (positive/negative set) *
@@ -1245,7 +1245,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight in the same weight group of 9 units*
@@ -1286,7 +1286,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the FPD triangle by two squares*
@@ -1329,7 +1329,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number is not a product of the digits of N+1*
@@ -1370,7 +1370,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Center of the radius circle between five tangents*
@@ -1473,7 +1473,7 @@ How many pirates were given the loot?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum diameter of the six hemispheres in the cube*

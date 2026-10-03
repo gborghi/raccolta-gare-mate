@@ -25,7 +25,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(13) per un'equazione funzionale differenziabile continua*
@@ -53,7 +53,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova x,y che rende n ×n matrice invertibile e calcola il suo inverso*
@@ -80,7 +80,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un'integrale che coinvolga radici quadrate incastonate*
@@ -107,7 +107,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi m in modo che il polinomio sia divisibile da un dato polinomio*
@@ -134,7 +134,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità che la somma di 10 rotoli di dadi sia pari a 20*
@@ -165,7 +165,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line angenti a una curva e periodicità dei punti di intersezione*

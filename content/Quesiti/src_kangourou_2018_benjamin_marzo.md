@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image seen from above the three objects*
@@ -93,7 +93,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the star of triangles and squares*
@@ -150,7 +150,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meeting point of the two snakes on the edge*
@@ -201,7 +201,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two digits deleted in subtraction*
@@ -258,7 +258,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What day is the 25th of the month*
@@ -301,7 +301,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the largest square of three squares*
@@ -351,7 +351,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which square has the largest black area*
@@ -406,7 +406,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum rings to be touched to make them red*
@@ -456,7 +456,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points made on the third arrow round*
@@ -515,7 +515,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which door is behind the lion*
@@ -566,7 +566,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of cars after crossing*
@@ -618,7 +618,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number under the starred spot*
@@ -664,7 +664,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number N cannot be written*
@@ -706,7 +706,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of axle cut into 9 pieces*
@@ -758,7 +758,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The ball weighs 30 g
@@ -801,7 +801,7 @@ The ball weighs 30 g
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who gets the fifth shot in the ball game
@@ -838,7 +838,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *On what day the recipients exceed 100*
@@ -880,7 +880,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of all numbers in the triangular table*
@@ -928,7 +928,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which development cannot be of the colored cube*
@@ -974,7 +974,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers are common to Lara and Mara's choices*
@@ -1027,7 +1027,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number represented by the letter B in the sum*
@@ -1078,7 +1078,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at 2018th place in the sequence*
@@ -1131,7 +1131,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible situation after the fourth whistle*
@@ -1172,7 +1172,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum groups with the same sum of 2 to 10*
@@ -1217,7 +1217,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grandmother's age at the time of Katia's birth*
@@ -1278,7 +1278,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many volumes each box contains*
@@ -1334,7 +1334,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum in the 5x5 table with 2x2 binding *
@@ -1386,7 +1386,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of possible numbers at the point of application*
@@ -1442,7 +1442,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden points in the covered domain card*
@@ -1504,7 +1504,7 @@ Who gets the fifth shot in the ball game
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum lie around the round table

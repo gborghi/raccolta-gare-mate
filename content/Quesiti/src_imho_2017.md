@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione con regola della radice quadrata; determinare n per cui A esiste per infiniti valori di a_0*
 
 > Per ogni intero $a_0 > 1$, si definisce la successione $a_0, a_1, a_2, \ldots$ ponendo:
 > $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{if } \sqrt{a_n} \text{ is an integer,} \\ a_n + 3 & \text{otherwise,} \end{cases} \quad \text{for each } n \ge 0.$$
 > Determinare tutti i valori di $a_0$ per cui esiste un numero $A$ tale che $a_n = A$ per infiniti valori di $n$.
-
-
 
 [[Quesiti/src_imho_2017#q01|src_imho_2017__Q01]]
 
@@ -61,12 +60,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale f(f(x)f(y)) = f(x+y) sui numeri reali*
 
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per tutti i numeri reali $x$ e $y$,
 > $$f(f(x)f(y)) = f(x + y).$$
-
-
 
 [[Quesiti/src_imho_2017#q02|src_imho_2017__Q02]]
 
@@ -98,6 +96,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco della caccia tra cacciatore e coniglio sul piano; il cacciatore può garantire che la distanza sia al più 100?*
 
 > Un cacciatore e un coniglio invisibile giocano una partita nel piano euclideo. Il punto di partenza del coniglio, $B_0$, e il punto di partenza del cacciatore, $A_0$, coincidono. Dopo $n - 1$ turni del gioco, il coniglio si trova nel punto $B_{n-1}$ e il cacciatore si trova nel punto $A_{n-1}$. Nel turno $n^{\text{th}}$ del gioco, avvengono in successione tre cose:
@@ -109,8 +108,6 @@ level: IMO
 > (iii) Il cacciatore si muove visibilmente a un punto $A_n$ in modo che la distanza tra $A_{n-1}$ e $A_n$ sia esattamente $1$.
 > 
 > È sempre possibile, indipendentemente da come si muova il coniglio e dai punti segnalati dal dispositivo di tracciamento, che la cacciatrice scelga le proprie mosse in modo tale che dopo $10^9$ round possa garantire che la distanza tra lei e il coniglio sia al massimo $100$?
-
-
 
 [[Quesiti/src_imho_2017#q03|src_imho_2017__Q03]]
 
@@ -134,11 +131,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Geometria della circonferenza con retta tangente, punto medio e intersezione con la circonferenza circoscritta*
 
 > Siano $R$ e $S$ due punti distinti su una circonferenza $\Omega$ tali che $RS$ non sia un diametro. Sia $\ell$ la retta tangente a $\Omega$ nel punto $R$. Sia il punto $T$ tale che $S$ sia il punto medio del segmento $RT$. Sia il punto $J$ situato sull'arco minore $RS$ della circonferenza $\Omega$ in modo che la circonferenza circoscritta $\Gamma$ al triangolo $JST$ intersechi $\ell$ in due punti distinti. Sia $A$ il punto comune tra $\Gamma$ e $\ell$ che si trova più vicino a $R$. La retta $AJ$ incontra nuovamente $\Omega$ nel punto $K$. Si dimostri che la retta $KT$ è tangente a $\Gamma$.
-
-
 
 [[Quesiti/src_imho_2017#q04|src_imho_2017__Q04]]
 
@@ -172,6 +168,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Giocatori di calcio in fila; eliminare 2N giocatori rispettando le condizioni di altezza*
 
 > Si consideri un intero $N \ge 2$. Una collezione di $N(N+1)$ calciatori di pallone, due dei quali non hanno la stessa altezza, si dispongono in fila. Il signor Alex vuole eliminare $N(N-1)$ calciatori da questa fila, lasciando una nuova fila di $2N$ calciatori in cui siano soddisfatte le seguenti $N$ condizioni:
@@ -185,8 +182,6 @@ level: IMO
 > $(N)$ nessuno dei due giocatori più bassi ha qualcun altro tra di loro.
 > 
 > Si dimostri che ciò è sempre possibile.
-
-
 
 [[Quesiti/src_imho_2017#q05|src_imho_2017__Q05]]
 
@@ -211,11 +206,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Punto primitivo (x,y); insieme finito S di punti primitivi con identità polinomiale somma*
 
 > Una coppia ordinata $(x, y)$ di interi si dice punto primitivo se il massimo comun divisore tra $x$ e $y$ è uguale a $1$. Dato un insieme finito $S$ di punti primitivi, si dimostri che esistono un intero positivo $n$ e degli interi $a_0, a_1, \ldots, a_n$ tali che, per ogni $(x, y)$ appartenente a $S$, vale la seguente condizione:
 > $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
-
-
 
 [[Quesiti/src_imho_2017#q06|src_imho_2017__Q06]]

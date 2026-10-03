@@ -31,7 +31,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti numeri a due cifre non sono né prime né multipli di 2, 3 o 5*
@@ -68,7 +68,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo alfa dopo il triangolo rotante ABC 90 gradi contro il senso dell'orologio circa C*
@@ -105,7 +105,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri composti nell'insieme {1, 101, 1001, ..., 1000000000001}*
@@ -139,7 +139,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Litr di acqua evaporata che riduce il contenuto di acqua di pera dal 90% al 60%*
@@ -174,7 +174,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quante volte il gruppo 89 appare scrivendo i numeri interi da 1 a 1000 in fila*
@@ -211,7 +211,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di minuti per unire dieci catene a tre connessioni in una singola catena a 30 connessioni*
@@ -247,7 +247,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prezzo delle mele per una dozzina di arance più una dozzina di banane*
@@ -282,7 +282,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ultima cifra della somma di 70 integri positivi consecutivi*
@@ -317,7 +317,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo con lati interi distinti il cui perimetro è uguale all'area (annullato) *
@@ -352,7 +352,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri di un numero tricifrato N dato 7N che finiscono in 171*
@@ -387,7 +387,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N>1 minore tale che P_n coincida con P_1 per archi di 35 gradi su un cerchio*
@@ -426,7 +426,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che dichiarazione è vera per una tabella a 9 colonne di 6 righe con 32 celle occupate*
@@ -464,7 +464,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo FCD in un pentagono regolare con triangolo equilaterale interno ABF*
@@ -499,7 +499,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di ragazzi in una classe data restanti di divisione e 15 ragazze*
@@ -534,7 +534,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo di regioni di un cerchio diviso da 2n+1 raggi e una linea*
@@ -569,7 +569,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18*
@@ -603,7 +603,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diegi rimanenti di razione per l'alimentazione del bestiame dopo l'acquisto e la vendita di mucche*
@@ -638,7 +638,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente due volte*
@@ -675,7 +675,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ampiezza minima del corridoio per spingere una tavola rettangolare attorno a una curva angolare rettangolare*
@@ -712,7 +712,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Qual è la rete di un cubo che mostra la sua intersezione con un piano*
@@ -747,7 +747,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di cifre del più piccolo quadrato perfetto che termina nel 2001*
@@ -786,7 +786,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limita alla velocità media di gara di Papa-Leguas data la velocità del primo giro di 200 km/h*
@@ -827,7 +827,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tigli bianchi necessari quando vengono utilizzate 80 piastrelle nere nella sequenza di mosaico*
@@ -864,7 +864,7 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi mentono
@@ -900,7 +900,7 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza FA in un esagono circonscrivibile data cinque lunghezze laterali consecutive*

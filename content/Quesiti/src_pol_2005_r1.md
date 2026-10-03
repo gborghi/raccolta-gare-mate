@@ -29,7 +29,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Risolvere un sistema simmetrico di tre equazioni reali.
@@ -56,7 +56,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti n>1 per i quali la somma dei quadrati è una potenza di un primo.*
@@ -83,7 +83,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo acuto, con un piede di altitudine e un'ulteriore proiezione, dimostrare due linee perpendicolari.*
@@ -112,7 +112,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più grande valore possibile di un'espressione con due sequenze limitate.*
@@ -139,7 +139,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico; due triangoli hanno uguali inradi, dimostrate che anche gli altri due lo fanno.*
@@ -168,7 +168,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decidere se una sequenza infinita di numeri interi positivi può soddisfare una ricorrenza reciproca.*
@@ -195,7 +195,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre sfere tangenti in coppia toccano un piano; trovare i raggi dal triangolo dei punti di contatto.*
@@ -222,7 +222,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lampi su un cerchio con blocchi di k; trovare k per il quale tutti possono essere spenti.*
@@ -251,7 +251,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le a reali in modo che una data sequenza di ricorrenze sia 8-periodico.*
@@ -278,7 +278,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre sottoinsiemi casuali di un n-set; trovare la dimensione più probabile della loro intersezione.*
@@ -305,7 +305,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo inciso in un quadrilaterale convexo; perpendicolare attraverso l'intersezione di diagonali dà segmenti uguali.*
@@ -332,7 +332,7 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Settima iterazione di 2^x; mostra g(3)-g(0) è divisibile da g(2)-g(0).*

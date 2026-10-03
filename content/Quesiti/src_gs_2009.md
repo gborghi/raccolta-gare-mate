@@ -33,7 +33,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the top of an antenna with elevation angle*
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max attempts for 4 consecutive buttons in a grid*
@@ -98,7 +98,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum time for nine three-way passengers*
@@ -132,7 +132,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years for all the water to be in the cone of a clex hydrometer*
@@ -167,7 +167,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum product leaving the sum parity indeterminate*
@@ -203,7 +203,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hour of a clock with a speed different from three planets *
@@ -234,7 +234,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of polygon obtained by folding a sheet on a diagonal*
@@ -268,7 +268,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of at least one blue t-shirt in four*
@@ -299,7 +299,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of a four-wheel-drive vehicle with one overhead *
@@ -330,7 +330,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of trapezoids from 4 vertices of a regular 33-agon *
@@ -362,7 +362,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the polygon by folding the sheet on opposite vertices*
@@ -394,7 +394,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of farmers given the number of couples' disputes*
@@ -431,7 +431,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dollars donated to charity by tripling and dividing*
@@ -476,7 +476,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wake time with triples and permutations of digits*
@@ -519,7 +519,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Circles for at least 4 of 9 columns (geometric configuration) *
@@ -552,7 +552,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of products divided by 50 coins repeatedly*
@@ -592,7 +592,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Signal duration ratio between trains in the same/opposite direction*
@@ -632,7 +632,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of sinks in a grid regiment 41 files*
@@ -663,7 +663,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of the smallest circumference between the columns*
@@ -698,7 +698,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum 2009 operation with functional property*
@@ -735,7 +735,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of winning in double-headed cross game*
@@ -769,7 +769,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with two balls one triple the other (1..2009) *
@@ -803,7 +803,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winning move in the board breaking game*
@@ -845,7 +845,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most teams in the tournament with MCD rule on scores*

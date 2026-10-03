@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Compounds n with divisible by +1+di+2*
@@ -55,7 +55,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Omega tangent in P meets BS on the visor*
@@ -88,7 +88,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Successes with P(an) = an+1...an+k monic polynomial*
@@ -117,7 +117,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstrate a2023>=3034 (roots of sums and reciprocal) *
@@ -148,7 +148,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Japanese triangle, max k red circles on ninja path
@@ -185,7 +185,7 @@ Japanese triangle, max k red circles on ninja path
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three circles pass through two common points*

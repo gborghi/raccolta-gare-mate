@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number closest to 17x0,3x20,16/999*
@@ -64,7 +64,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remains of 3x divided by 6 given remainder of x equal to 3*
@@ -92,7 +92,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many weeks are equal to 2016 hours*
@@ -120,7 +120,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *50% more than errors on 30 *
@@ -149,7 +149,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair other than the sum of the squares*
@@ -177,7 +177,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The result of the test shall be the following: * result of 000000 minus 00*
@@ -206,7 +206,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible sum by throwing two dice with negative odds*
@@ -234,7 +234,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Abounding letter exchanges from VELO to LOVE*
@@ -263,7 +263,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *5 digits, no pairs sum 10*
@@ -291,7 +291,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure not to be inserted into the side square 1 dm*
@@ -319,7 +319,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major between a,b,c,d given system of equality*
@@ -359,7 +359,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between two squared circumferences*
@@ -414,7 +414,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Missing result of the tennis tournament*
@@ -489,7 +489,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded percentage of the area of the triangle*
@@ -573,7 +573,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number in place of ? in the magic square multiplied by *
@@ -635,7 +635,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Comparison of the perimeters of the two cylinder bases fastened together*
@@ -677,7 +677,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * sum exceeds by 31 that of Alice *
@@ -730,7 +730,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum colours for grid 3x3 diagonal column rows*
@@ -775,7 +775,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of four angles highlighted on a cube*
@@ -815,7 +815,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of different/equal colour fractions for 2016 kangaroos*
@@ -854,7 +854,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rolling length wrapped 5 times around the pallet*
@@ -894,7 +894,7 @@ Number in place of ? in the magic square multiplied by *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum remaining two digits divided by the sum of its digits
@@ -969,7 +969,7 @@ Maximum remaining two digits divided by the sum of its digits
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves to turn a 5x5 square into a chessboard*
@@ -1044,7 +1044,7 @@ Maximum remaining two digits divided by the sum of its digits
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Oren per branch dragged by the current, boat 4 and 6 hours*
@@ -1092,7 +1092,7 @@ Maximum remaining two digits divided by the sum of its digits
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in place of 2016 between permutations of 1.7*
@@ -1127,7 +1127,7 @@ Maximum remaining two digits divided by the sum of its digits
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible measurement of the third height given 10 and 11*
@@ -1163,7 +1163,7 @@ Maximum remaining two digits divided by the sum of its digits
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum to three to three never prime out of four consecutive *
@@ -1200,7 +1200,7 @@ Maximum remaining two digits divided by the sum of its digits
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Eva's sport, four round-table athletes
@@ -1236,7 +1236,7 @@ Eva's sport, four round-table athletes
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Next month with a surprising date (eight digits apart)
@@ -1279,7 +1279,7 @@ Next month with a surprising date (eight digits apart)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Handshakes of P2016 given handshake pattern*

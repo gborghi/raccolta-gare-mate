@@ -47,7 +47,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Studio della parabola $y=x^2/3-3/2$ e dei cerchi tangenti a essa: natura della curva, funzione quadrata-distanza e le sue derivate, caratterizzando la tangenza da $g'_U(a)=0$, conteggiando i cerchi tangenti e i cerchi bitangenti.*
@@ -87,7 +87,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzazione delle linee: esistenza e unicità della linea riducendo al minimo la somma delle lunghezze del segmento verticale $AA'+BB'+CC'$, e la linea riducendo al minimo la somma delle distanze dai tre vertici di un triangolo.*
@@ -125,7 +125,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il macellaio che arrotonda ogni prezzo al euro intero più vicino: da due ricevute trovate con totali arrotondati, trova tutti i possibili prezzi arrotondati in euro intero per chilo di ciocco e tostato e spiega perché le ricevute di tutti i giorni non possono determinare i prezzi esatti.*

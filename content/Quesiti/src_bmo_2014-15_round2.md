@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il 2015° termine di sequenza definita ricorrentemente a partire dal 2014.*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova l'equivalenza: più consigli per ragazzi strani se le classi uniche hanno più ragazzi.*
@@ -92,7 +92,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Locus del centro del triangolo AQP come PQ varia è un cerchio attraverso A.*
@@ -129,7 +129,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se esiste un ciclo di 100 punti di coordinate interi.*

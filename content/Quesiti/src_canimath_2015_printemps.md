@@ -33,7 +33,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre operazioni a numeri interi; trovare x dando 1945, tutti x dando 2015*
@@ -63,7 +63,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolo ABC; trovare il punto ((s) P sul perimetro con PA+PB=PC*
@@ -92,7 +92,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figura inversa f; trovare tutte le n a 4 cifre con f(n)=4n+3*
@@ -120,7 +120,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, punto medio M, perpendicolari che si incontrano a I; provare angoli IPA e INC uguali*
@@ -147,7 +147,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2015 numeri interi positivi sul cerchio; trovare due vicini la cui rimozione sbilanci la divisione di somma uguale*
@@ -176,7 +176,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Floor-based f(n); trovare tutti gli integri n con f(n+1)>f(n) *
@@ -203,7 +203,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n punti sul diametro del cerchio n/pi; non mostrano arco strettamente più lungo del suo numero di punti chiusi*
@@ -230,7 +230,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prima p,q,r; pq+1, pr+1, qr-p quadrati; prova che p+2qr+2 è anche un quadrato*

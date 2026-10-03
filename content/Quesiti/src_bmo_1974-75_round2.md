@@ -38,7 +38,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione reale con f(x-y)=f(x)-f(y) + bxy; continuità e differenziabilità*
@@ -75,7 +75,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri interi positivi non presenti in un dato insieme infinito sono le somme di numeri interi positivi consecutivi*
@@ -102,7 +102,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La sala di probabilità A si riempie di n concorrenti prima della sala B
@@ -133,7 +133,7 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *12 cerchi uguali su una sfera: tre gruppi che toccano altri 3, 4 o 5*

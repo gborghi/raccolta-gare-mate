@@ -34,7 +34,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min passi per riscrivere la sequenza 1..n nell'ordine*
@@ -73,7 +73,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vincenti collineari massimi in un poligono a 12 lati*
@@ -106,7 +106,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi con x^3 - y^3 = 3(x^2 - y^2) *
@@ -133,7 +133,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi di 3 elementi {a,b,c} di {1..100} con b media aritmetica di a e c*
@@ -160,7 +160,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare l'angolo MNR in un triangolo acuto dato il centro ortografico e i punti medi*
@@ -189,7 +189,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il torneo di prova senza k-cycle ha un vincitore e un perdente

@@ -38,7 +38,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *second number*
@@ -74,7 +74,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which day between 2023 days*
@@ -116,7 +116,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time-to-speed chart of the home-school journey*
@@ -166,7 +166,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *possible total number of bars*
@@ -237,7 +237,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *shaded percentage*
@@ -280,7 +280,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n0 such that (n+1)! has a digit greater than n!*
@@ -327,7 +327,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 That's what I'm talking about.
@@ -397,7 +397,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *measurement of the CAD angle *
@@ -465,7 +465,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive integer pairs (a,b) with a/5=7/b*
@@ -512,7 +512,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of figures of (4^7) ^9 × (5^2) ^64 *
@@ -559,7 +559,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how much more by half*
@@ -603,7 +603,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * reduced life and range by 1/4, reduced consumption*
@@ -656,7 +656,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * area of shaded trapezoid*
@@ -700,7 +700,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *third fraction*
@@ -749,7 +749,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *perimeter report*
@@ -794,7 +794,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *black feet with right foot*
@@ -835,7 +835,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *common divider of min and max*
@@ -883,7 +883,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *shaded area*
@@ -925,7 +925,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer Min = arithmetic mean of five prime *
@@ -982,7 +982,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *blocks between 39 and 40*
@@ -1032,7 +1032,7 @@ That's what I'm talking about.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to:
@@ -1082,7 +1082,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * square of AB*
@@ -1155,7 +1155,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * circle ? *
@@ -1243,7 +1243,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *right slope bisecting area*
@@ -1289,7 +1289,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *duration of the journey*
@@ -1337,7 +1337,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which development is not possible*
@@ -1387,7 +1387,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 'equi' n - sum of digits = number of 3 digits equal to *
@@ -1436,7 +1436,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *pen to be extracted*
@@ -1484,7 +1484,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *total perimeter*
@@ -1543,7 +1543,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alignments 1.9. with each successive mult of 3 *

@@ -34,7 +34,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *full speed up/down/down*
@@ -95,7 +95,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to show A'B'=(a-b)/2*
@@ -154,7 +154,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * there is a balanced 2000 block*
@@ -182,7 +182,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which base 5654 is the power of a prime*
@@ -221,7 +221,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *parallelism and competition of three sectors *
@@ -259,7 +259,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which the strategy works*

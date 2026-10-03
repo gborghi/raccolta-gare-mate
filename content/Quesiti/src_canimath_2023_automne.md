@@ -32,7 +32,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare una frazione numerica di un prodotto di numeri pari su un prodotto di piccoli interi*
@@ -65,7 +65,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità quadrata ABCD con E su diagonale AC e AE=1; trovare angolo BEC in gradi*
@@ -95,7 +95,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * 5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar*
@@ -130,7 +130,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; trovare la più grande diffusione possibile*
@@ -165,7 +165,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare B, P, Q collineare*
@@ -194,7 +194,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che se 2^n e 5^n hanno la stessa cifra principale, quella cifra deve essere 3*
@@ -227,7 +227,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I set regolari sono progressioni aritmetiche; superregolari se il set e le sue reciprocità sono entrambi regolari; trovare il più grande n con un set superregolare di n reali non-zero distinti*
@@ -262,7 +262,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media di cinque gradi è 16, tre conosciuti sono 13,14,17; trovare la somma dei due gradi dimenticati*
@@ -295,7 +295,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità quadrata ABCD con E su diagonale AC e AE=1; trovare angolo BEC in gradi (lycee) *
@@ -325,7 +325,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * 5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee) *
@@ -360,7 +360,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; maggiore diffusione possibile (lycee) *
@@ -395,7 +395,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3 (lycee)
@@ -428,7 +428,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Setti regolari sono progressioni aritmetiche; superregolari se sia l'insieme che le sue reciprocità sono regolari; più grande n con un insieme superregolare di n reali non-zero distinte (lycee) *
@@ -461,7 +461,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rectangle ABCD, M punto medio del CD; una linea parallela a AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY*
@@ -498,7 +498,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Token in una griglia 30x30: al massimo uno per ogni cella, ogni cella vuota condivide riga/colonna con un token, ogni token ha al massimo un altro token nella sua riga o colonna; trovare il k più piccolo in modo che ogni sottoquadrato k x k contiene sempre un token*

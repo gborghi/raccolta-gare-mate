@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero pari di persone in una tavola rotonda che cambiano posto dopo pranzo; mostra che due persone sono separate dallo stesso numero di persone come prima.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi tangenti in coppia; attraverso una catena di costruzioni secanti dimostrano che tre punti sono collineari.*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le estremità di un cubo numerato da 1 a 12; dimostrare che esistono almeno otto triples di bordo consecutivi in aumento dell'indice, e mostrare una numerazione con esattamente otto.*
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Catena casuale di sottoinsiemi a partire da un n-set, ciascuno un sottoinsieme uniformemente casuale del precedente; mostrare la cardinalità attesa di A_k è n/2^k.*
@@ -142,7 +142,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi pari di taglia pari di raggio a su un emisfero di raggio r; calcolare il raggio di un quarto cerchio sulla stessa sfera tangente a tutti e tre.*
@@ -170,7 +170,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i reali positivi a,b,c,d dimostrare che la radice quadrata della media dei prodotti in coppia è almeno la radice cubica della media dei prodotti tripla.*

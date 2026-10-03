@@ -26,7 +26,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il numero originale dopo la sequenza di sottrazione sbagliata*
@@ -55,7 +55,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima di un triangolo con lati interi e perimetro 7*
@@ -84,7 +84,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie di integri positivi che soddisfano x + 3y = 1007*
@@ -112,7 +112,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca R + M + O dati prodotti e condizioni di somma*
@@ -140,7 +140,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le n per le quali S_n è un quadrato perfetto*
@@ -169,7 +169,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i modi in cui il postino consegna esattamente due lettere correttamente*
@@ -198,7 +198,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza della BD in triangolo con determinate condizioni laterali e ceviane*
@@ -227,7 +227,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di triangolo AEB rettangolare con segmenti incrociati*
@@ -256,7 +256,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore di X_144 in una sequenza geometrica*
@@ -284,7 +284,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di AY in quadrato con triangoli equilaterali all'interno*
@@ -313,7 +313,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo numero intero diviso P(n) per tutti i numeri positivi pari n*
@@ -341,7 +341,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca m+n dato radicale nidificato = sqrt(m) - sqrt(n) *
@@ -369,7 +369,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore della somma ciclica a/b + b/c + c/d + d/a con determinate condizioni*
@@ -396,7 +396,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo BAC in triangolo dato posizioni di circoncentro e incentro*
@@ -425,7 +425,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i valori interi negativi che soddisfano l'equazione del pavimento*
@@ -458,7 +458,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di f(k) per k=1 a 20 data funzione di tipo moltiplicativo*
@@ -486,7 +486,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta dell'espressione del prodotto data alle radici di cubo*
@@ -514,7 +514,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei quadrati delle radici quadratiche che coinvolgono la funzione del pavimento*
@@ -542,7 +542,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie di numeri interi (x,y) che soddisfano i quartici diofantini*
@@ -570,7 +570,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di regione delimitata da due semicircoli*

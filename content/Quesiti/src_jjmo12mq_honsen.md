@@ -28,7 +28,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli enti n ≥2 i cui piccoli divisori soddisfano d2 n *
@@ -57,7 +57,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove A≤B per i rapporti minimi consecutivi di 2n razionali positivi*
@@ -84,7 +84,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo con BAC=60°, la riflessione di A su PQ si trova su BC*
@@ -115,7 +115,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafico ponte-isola: assegnazione di rifugi con condizioni di parità*
@@ -147,7 +147,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi positivi (n,k) con (n^n+n+2)/(n+1)2=2^k*

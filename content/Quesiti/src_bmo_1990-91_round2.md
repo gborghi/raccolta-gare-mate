@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lineato angolo mediano del triangolo retto: sin theta ≤ 1/√5*
@@ -63,7 +63,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare *
@@ -97,7 +97,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro del triangolo 2 implica a2+b2+c2+2abc < 2*
@@ -130,7 +130,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiplici di x contengono sempre la cifra 2; trovare il più piccolo N *

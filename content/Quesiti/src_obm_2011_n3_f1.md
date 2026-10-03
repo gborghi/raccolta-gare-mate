@@ -32,7 +32,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum del pedaggio totale pagato per viaggiare su una mappa stradale a senso unico da A a B*
@@ -69,7 +69,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione tra superficie dipinta in rosso e superficie bianca non dipinta quando un cubo dipinto è tagliato in 27 cubetti*
@@ -108,7 +108,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il modo più economico per acquistare 1,2 kg di polvere CHOCOBM da lattine di varie dimensioni*
@@ -145,7 +145,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo possibile in modo che due di 30, 72, N abbiano il prodotto divisibile per il terzo*
@@ -178,7 +178,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre di ragazzi in una classe di 36 con altezza distinta e regola di confronto a gradini*
@@ -211,7 +211,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto del numero di vocali e numero di consonanti nella corretta alternativa*
@@ -244,7 +244,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Migliore valore di ab/(a+b) per i reali con 0<a<=1 e 0<b<=1*
@@ -277,7 +277,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Percentuale dei voli totali cancellati a causa del vulcano (10%) e della pioggia (20% del riposo) *
@@ -310,7 +310,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
@@ -343,7 +343,7 @@ Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,25 cent*
@@ -376,7 +376,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti numeri interi positivi minori di 30 hanno esattamente quattro divisori*
@@ -409,7 +409,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medimento dell'angolo ADE in un triangolo in cui angolo B - angolo C = 50 gradi, con bisettore e angolo retto*
@@ -442,7 +442,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro *
@@ -475,7 +475,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prima cifra non-zero dopo il punto decimale di 1/5^10*
@@ -515,7 +515,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra i quattro altoparlanti
@@ -554,7 +554,7 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio AB:AF dopo due pieghe di un triangolo di carta con le stesse stelle*
@@ -589,7 +589,7 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il più grande di questi (2011)! è divisibile da (n!)^3*
@@ -622,7 +622,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolatore rotto: numero massimo di presse a radice quadrata fino a quando non appare un numero inferiore a 2*
@@ -661,7 +661,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di integri n>1 tale che il 2011 sia la somma di n diversi integri positivi*
@@ -698,7 +698,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme più grande di {1,...,20} che non contiene elemento pari al doppio di un altro*
@@ -733,7 +733,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area del triangolo AMN in un triangolo ABC di area 60 con ceviani e punto medio*
@@ -768,7 +768,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di (1-sqrt2)^2011 data (1+sqrt2)^2011 = a + b sqrt2 con numero intero a,b*
@@ -801,7 +801,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minima a con a<=b<=c numeri interi positivi e 1/a+1/b+1/c = 1/2011*
@@ -834,7 +834,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Verti vertici segnati da tre poligoni regolari (8,12,18 lati) incisi in un cerchio che condivide un vertice*
@@ -867,7 +867,7 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza BE per E l'intersezione dei diagonali di un quadrilaterale ciclico*

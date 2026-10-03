@@ -34,7 +34,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza reale con identità di somma di quadrati; somma di potenza come quadrati perfetti*
@@ -74,7 +74,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa delle radici quadrate meno media aritmetica; monotonia e limite*
@@ -115,7 +115,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedri in sfera con bordi laterali reciprocamente ortogonali; piano fisso e formula*
@@ -150,7 +150,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme massimo di {1,...,2^p} senza elemento doppio di un altro*
@@ -186,7 +186,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio valutato alla quinta radice di unità; prodotto della distanza tra vertici pentagonali*

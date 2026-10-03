@@ -29,7 +29,7 @@ level: OBM Nível Universitário
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità di raggiungere mai esattamente n punti in una partita di monete; forma chiusa*
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Periodo minimo di f = 2pi/m, m = gcd di indici con coefficienti non zero*
@@ -97,7 +97,7 @@ level: OBM Nível Universitário
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di un solido costruito da un paraboloide ellittico e da un tappo ellissoide*
@@ -127,7 +127,7 @@ level: OBM Nível Universitário
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se 4a^2 è una potenza n-th perfetta allora <a-a> è una potenza n-th perfetta*
@@ -157,7 +157,7 @@ Se 4a^2 è una potenza n-th perfetta allora <a-a> è una potenza n-th perfetta*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I valori propri di un operatore differenziale/lineare su forme binarie di grado n sono 2k-n*
@@ -190,7 +190,7 @@ Se 4a^2 è una potenza n-th perfetta allora <a-a> è una potenza n-th perfetta*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ODE della serie di potenza: ordine di scomparsa di y-1 e valore di un limite*

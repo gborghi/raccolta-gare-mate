@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Collinearità del punto interno e dei punti medi dati BP=2PM*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di 0/1 per parità del numero di divisori; razionale o irrazionale?*
@@ -84,7 +84,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le x reali che soddisfano [x^2+2x]=[x]^2+2[x]*
@@ -111,7 +111,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *3-colorazione del piano produce isosceles monocromatici o triangolo di progressione geometrica*
@@ -139,7 +139,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo acuto, somma delle distanze di centro ortodosso ≤ 2 × massima altitudine*
@@ -167,7 +167,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i reali positivi con a3+b3=c3, provare a2+b2−c2≥6(c−a)(c−b)*

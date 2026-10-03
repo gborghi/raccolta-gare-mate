@@ -33,7 +33,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Head and cross coins: colour those with the cross
@@ -65,7 +65,7 @@ Head and cross coins: colour those with the cross
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Mysterious addition with repeated symbols
@@ -96,7 +96,7 @@ Mysterious addition with repeated symbols
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cubes do not touch the carpet or other cubes?
@@ -129,7 +129,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five tokens: maximize the product of three numbers*
@@ -163,7 +163,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of digits with equal symbols on three lines*
@@ -196,7 +196,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the figure into two overlapping parts*
@@ -227,7 +227,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mathematical club: how many members at most?*
@@ -256,7 +256,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 9 digits all different, product of two factors*
@@ -285,7 +285,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Participants with exactly 13 correct problems*
@@ -314,7 +314,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coins to complete the Mida vessel*
@@ -345,7 +345,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Produced on the faces of the dice: unique number*
@@ -378,7 +378,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of grey area in the lily*
@@ -411,7 +411,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of the 2011 position in the spiral*
@@ -442,7 +442,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum length of tunnel with cow and train *
@@ -471,7 +471,7 @@ How many cubes do not touch the carpet or other cubes?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the first time I've seen this.
@@ -502,7 +502,7 @@ This is the first time I've seen this.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode to cover rectangle 2×7 with domino*
@@ -535,7 +535,7 @@ This is the first time I've seen this.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dimensions of the oval field of Padre Ovo*
@@ -566,7 +566,7 @@ This is the first time I've seen this.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit numbers with cross product*

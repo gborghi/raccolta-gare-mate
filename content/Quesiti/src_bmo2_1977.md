@@ -34,7 +34,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione di mod quadratico soddisfacente su determinati punti*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli incisi delle facce triangolari della base toccante della piramide*
@@ -94,7 +94,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Soluzioni integrali dell'equazione diofantina o della progressione aritmetica*
@@ -123,7 +123,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nellace con coralle adiacenti di diversi colori possibile costruzione*

@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo intero positivo che è doppio di un cubo e quintuplico di un quadrato*
@@ -55,7 +55,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le scatole rettangolari distinte costruite a partire da 216 cubi di unità*
@@ -88,7 +88,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find angle EGB in rettangolo dato angolo FAE = 20°*
@@ -123,7 +123,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il lato del quadrato I in rettangolo diviso in 9 quadrati con quadrato A con lato 1*
@@ -154,7 +154,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca n e m dopo aver cancellato m da {1,...,n} lascia media 134/11*
@@ -185,7 +185,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Campionato di calcio: trovare i punti minimi del secondo turno che garantiscano alla Vulcano FC una finale*

@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco delle carte: chi ha ricevuto r gettoni nell'ultimo turno?*
 
 > Tre giocatori $A$, $B$ e $C$ giocano il seguente gioco. Su ciascuna di tre carte è scritto un numero intero. Questi tre numeri $p$, $q$, $r$ soddisfano $0 < p < q < r$. Le tre carte vengono mescolate e una viene distribuita a ciascun giocatore. Ognuno riceve poi il numero di gettoni indicato dalla carta. Successivamente le carte vengono mescolate nuovamente; i gettoni rimasti con i giocatori.
 > 
 > Questo processo (mescolamento, distribuzione, consegna dei gettoni) si svolge per almeno due turni. Dopo l'ultimo turno, $A$ ha in totale 20 gettoni, $B$ ne ha 10 e $C$ ne ha 9. Nell'ultimo turno, $B$ ha ricevuto $r$ gettoni. Chi ha ricevuto $r$ gettoni nel primo turno?
-
-
 
 [[Quesiti/src_imho_1974#q01|src_imho_1974__Q01]]
 
@@ -61,12 +60,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Condizione della media geometrica tramite disuguaglianza seno nel triangolo ABC*
 
 > Nel triangolo $ABC$, si dimostri che esiste un punto $D$ sul lato $AB$ tale che $CD$ sia la media geometrica di $AD$ e $DB$ se e solo se
 > $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
-
-
 
 [[Quesiti/src_imho_1974#q02|src_imho_1974__Q02]]
 
@@ -90,11 +88,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Somma con coefficienti binomiali non divisibili per 5*
 
 > Si dimostri che il numero $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ non è divisibile per 5 per nessun intero $n \ge 0$.
-
-
 
 [[Quesiti/src_imho_1974#q03|src_imho_1974__Q03]]
 
@@ -121,14 +118,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Scomposizione della scacchiera in rettangoli, massimo numero di caselle bianche*
 
 > Si considerino le decomposizioni di una scacchiera $8 \times 8$ in $p$ rettangoli non sovrapposti, soggette alle seguenti condizioni:
 > (i) Ogni rettangolo ha lo stesso numero di caselle bianche e nere.
 > (ii) Se $a_i$ è il numero di caselle bianche nel rettangolo $i$-esimo, allora $a_1 < a_2 < \cdots < a_p$.
 > Determinare il massimo valore di $p$ per cui tale decomposizione è possibile. Per questo valore di $p$, determinare tutte le possibili successioni $a_1, a_2, \ldots, a_p$.
-
-
 
 [[Quesiti/src_imho_1974#q04|src_imho_1974__Q04]]
 
@@ -154,13 +150,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti i possibili valori di una somma ciclica di quattro frazioni*
 
 > Determinare tutti i possibili valori di
 > $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$
 > dove $a, b, c, d$ sono numeri positivi arbitrari.
-
-
 
 [[Quesiti/src_imho_1974#q05|src_imho_1974__Q05]]
 
@@ -184,10 +179,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Limite sugli interi per cui il quadrato del polinomio vale 1*
 
 > Sia $P$ un polinomio non costante a coefficienti interi. Se $n(P)$ è il numero di interi distinti $k$ tali che $(P(k))^2 = 1$, si dimostri che $n(P) - \deg(P) \le 2$, dove $\deg(P)$ indica il grado del polinomio $P$.
-
-
 
 [[Quesiti/src_imho_1974#q06|src_imho_1974__Q06]]

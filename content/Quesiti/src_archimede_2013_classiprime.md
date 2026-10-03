@@ -33,7 +33,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MK unit numbers of 2^255 and 2^256 *
@@ -72,7 +72,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Compositions of a meal bound by red wine/fish*
@@ -108,7 +108,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible integers for the BC side of a triangle*
@@ -146,7 +146,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Temptations to combine safe deposit boxes with fixed sums of figures*
@@ -191,7 +191,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statements about when a quadrilateral and a rope*
@@ -230,7 +230,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many unicorns from head/leg/horn*
@@ -273,7 +273,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of students with distinct binary words for 5 tests
@@ -310,7 +310,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time to paint a wall working together (work/speed) *
@@ -347,7 +347,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular perimeter given an increase in area of +1 cm on the sides*
@@ -390,7 +390,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of balls with 5 remaining divided by 6,7,8,9*
@@ -427,7 +427,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Money to be added to x^8+x^4 to obtain binomial square*
@@ -466,7 +466,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Good 6-digit numbers with digits 1-4 and minimum property*
@@ -508,7 +508,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum inhabitants of the island knight/fanter with round table phrase*
@@ -543,7 +543,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum first dividing by 251001*
@@ -591,7 +591,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular under sets in 8x8 chessboard*
@@ -639,7 +639,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to make 1 euro with 1.2.5 cent coins*
@@ -677,7 +677,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *21th root value of the product of 576 dividers*
@@ -715,7 +715,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trapezoidal area given triangular areas formed by diagonals*
@@ -757,7 +757,7 @@ Maximum number of students with distinct binary words for 5 tests
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum for which Claudia wins (positions lost)
@@ -802,7 +802,7 @@ Maximum for which Claudia wins (positions lost)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of Euclidean reductions per pair < 1000*

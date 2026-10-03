@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trajectory of the vertex A in two rotations of the rectangle*
@@ -68,7 +68,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that a 4-digit palindrome is divisible by 7*
@@ -104,7 +104,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which whole area cube shaft in the cut*
@@ -150,7 +150,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where the ball folds the left edge of the grid 4x2019*
@@ -192,7 +192,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Central number in alignment 1-17 with sums squared*
@@ -236,7 +236,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the hundreds of 2019xN data dividers of 3N and 5N*
@@ -280,7 +280,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate sums with additions 3 and 5 (link) *
@@ -320,7 +320,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of 6 digits for the whole until 2019*
@@ -357,7 +357,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of 16 two-letter length alignments (links) *
@@ -388,7 +388,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum k by hanging a digit to the right of N to get kN*
@@ -419,7 +419,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of parallel-piped beads with an octahedral volume of 150 *
@@ -451,7 +451,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many voters lied in the two cities of the referendum
@@ -492,7 +492,7 @@ How many voters lied in the two cities of the referendum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum grid blackout cells 6x2019 (connected domain) *
@@ -533,7 +533,7 @@ How many voters lied in the two cities of the referendum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum score Giraffe (geometric vs arithmetic)
@@ -560,7 +560,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of circle rays inscribed in T, P, Q (rectangular triangle) *
@@ -590,7 +590,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of the two brake pads of the reel*
@@ -618,7 +618,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum elements together for 2019 ways to choose two disjoint sub-sets*
@@ -657,7 +657,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to buy 30 pieces between three types (max 20 each) *

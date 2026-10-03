@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se tre reali positivi che soddisfano una relazione quarticco formano lati del triangolo*
@@ -61,7 +61,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (a,b) dalle radici di AP e GP*
@@ -87,7 +87,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove BO perpendicolare all'AC quando DE è parallelo ad AC*
@@ -117,7 +117,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
@@ -148,7 +148,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove (1+a^2)(1+b^2)(1+c^2) >= 125 dati somma reciproca massima 1*
@@ -178,7 +178,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le linee di prova dagli incentri del triangolo di contatto ai punti di contatto opposti sono simultanee*

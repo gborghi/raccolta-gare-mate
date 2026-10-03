@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Salto dei numeri 1 e 3: ultimo numero di pagina scritto *
@@ -55,7 +55,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro pezzi triangolari uguali formano due quadrati; trovare lato del terzo quadrato*
@@ -88,7 +88,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Griglia delle scale di quadrati numerati; nastri di nastro di conteggio utilizzati*
@@ -121,7 +121,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Terra quadrilaterale suddivisa in quattro lotti; trovare superficie del quarto lotto*
@@ -150,7 +150,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero positivo più piccolo che soddisfa quattro condizioni di divisibilità*
@@ -179,7 +179,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la percentuale totale di risposte corrette in un esame di tre soggetti*
@@ -210,7 +210,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo tagliato da cartone quadrato; trovare la somma di due angoli segnati*
@@ -241,7 +241,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fattore polinomio; trovare tutte le coppie di numeri interi che soddisfano l'equazione quadrata*
@@ -276,7 +276,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenze di domino con case 1-3: ordini di conteggio, spiegazione dell'impossibilità di 1-4

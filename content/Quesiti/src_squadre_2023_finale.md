@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum difference between consecutive minions in a row*
@@ -67,7 +67,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of area over the centre of the coin*
@@ -103,7 +103,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total of 10 Collatz-like initial numbers that come to 10*
@@ -136,7 +136,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of perfect squares with all 4 digits except the first*
@@ -170,7 +170,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Right tangent distance s from the centre of Gamma2*
@@ -204,7 +204,7 @@ level: squadre
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to distribute 5+4+3 snacks to 4 people*
@@ -240,7 +240,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *GK/AH ratio with centreline and height*
@@ -271,7 +271,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of bags with conditions 23x and 88x*
@@ -309,7 +309,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean value of n at the end of the game of horses on a chessboard 3x3*
@@ -343,7 +343,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of written procedure teams based on 3*
@@ -377,7 +377,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural numbers between 1 and 4092 not obtained by deleting 3 square digits*
@@ -411,7 +411,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of packages from 83 for biscuits in 68 panes *
@@ -449,7 +449,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AX*XY with sides squared and straight Steiner*
@@ -481,7 +481,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area table of distinct squares sum of sides 2023*
@@ -518,7 +518,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangular path length reflected in the quadrilateral*
@@ -553,7 +553,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bob-Kelvin distance with beam and height*
@@ -585,7 +585,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complex binary sum c(n) from 1 to 2048*
@@ -621,7 +621,7 @@ How to distribute 5+4+3 snacks to 4 people*
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Difference between blue and orange seats with Tartaglia triangle
@@ -654,7 +654,7 @@ Difference between blue and orange seats with Tartaglia triangle
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *f(10) with f obtained from (x-1)^9 by modifying the terms*
@@ -687,7 +687,7 @@ Difference between blue and orange seats with Tartaglia triangle
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers n in 1-100 with Q(n) multiple of n (sum of covers) *
@@ -728,7 +728,7 @@ Difference between blue and orange seats with Tartaglia triangle
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values b with x^3-23x^2+ax-b^2 at 3 whole roots*

@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum packaging of eggs for 24 muffins*
@@ -76,7 +76,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the five road signs is incorrect*
@@ -126,7 +126,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which image exchanges the white and gray of the square*
@@ -172,7 +172,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the complete piece of the mosaic*
@@ -232,7 +232,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What the two letters F look like reflected*
@@ -279,7 +279,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number of rings is not achievable with chains 5 and 7*
@@ -318,7 +318,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many of the 10 pieces Maria cut (22 pieces total)
@@ -369,7 +369,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many blue regions in the colour of the circle*
@@ -419,7 +419,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of apples to be moved to match the baskets*
@@ -466,7 +466,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Where dog and cat meet (triple speed) *
@@ -526,7 +526,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at the place of the question mark (circles 1-10) *
@@ -573,7 +573,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How long has Trello been out (clock head-down) *
@@ -609,7 +609,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the statement made by the liar and the truthful*
@@ -653,7 +653,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What cube could Mary have built?
@@ -699,7 +699,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the five X-Y routes is the shortest *
@@ -742,7 +742,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves to carry 9 tokens of the same colour (slide 3) *
@@ -802,7 +802,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which shape cannot be obtained with the two pieces of wire *
@@ -853,7 +853,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of paints per four-box solid*
@@ -901,7 +901,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number is Franca in the friendship graph*
@@ -958,7 +958,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure represents the three vessels seen from above*
@@ -1018,7 +1018,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure shows the trachea as seen from above*
@@ -1071,7 +1071,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the lower side of the middle square*
@@ -1117,7 +1117,7 @@ What cube could Mary have built?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many years since the kangaroos beat their father in the polls?
@@ -1165,7 +1165,7 @@ How many years since the kangaroos beat their father in the polls?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which collection balances the third balance sheet*
@@ -1214,7 +1214,7 @@ How many years since the kangaroos beat their father in the polls?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which combination of ice cream and decoration is NOT possible*
@@ -1255,7 +1255,7 @@ How many years since the kangaroos beat their father in the polls?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most consecutive sweet numbers (central figure > other sum) *
@@ -1307,7 +1307,7 @@ How many years since the kangaroos beat their father in the polls?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many matches has Mauro to play (15 total)
@@ -1361,7 +1361,7 @@ How many matches has Mauro to play (15 total)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers to be written in place of a,b,c in the folded sheet*
@@ -1415,7 +1415,7 @@ How many matches has Mauro to play (15 total)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many glue drops in the sphere pyramid*
@@ -1481,7 +1481,7 @@ How many matches has Mauro to play (15 total)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which way to go to visit each island once*

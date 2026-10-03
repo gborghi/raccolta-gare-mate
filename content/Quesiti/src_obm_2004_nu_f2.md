@@ -32,7 +32,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(3) per la funzione differenziabile che soddisfa la condizione di punto medio tangente*
@@ -71,7 +71,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che nessun sottoinsieme di R^2 ha colonne finite e righe contabili*
@@ -107,7 +107,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Demonstra la disuguaglianza sub-multiplicativa per la norma di matrice e il fattore di dilatazione*
@@ -139,7 +139,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construire un polinomio intero che scompare a P_j ma non è divisibile da p a Q*
@@ -172,7 +172,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limite di calcolo del rapporto di posizioni vincenti in gioco di divisione a pavimento*
@@ -207,7 +207,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza di accordi per una curva chiusa semplice a velocità unità*

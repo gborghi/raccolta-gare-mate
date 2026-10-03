@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che l'iterata a n volte di una quadrata fissa è uguale a zero ha una soluzione reale per ogni n*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi c nel [-2007,2007] per i quali x^2+c è un multiple di 2^2007 per alcuni numeri interi x*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che l'insieme di lunghezze laterali e diagonali di un n-gon convex ha almeno valori distinti di pavimento ((n/2)*
@@ -111,7 +111,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove singoli quadrati; Bernaldo può sempre vincere?
@@ -138,7 +138,7 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale convex; se l'angolo POQ è giusto allora il PO divide l'angolo AOD e il QO divide l'angolo AOB*
@@ -167,7 +167,7 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali in cui ogni valore si verifica al massimo due volte tra le differenze in coppia; dimostrare che almeno le differenze di livello ((n/2) si verificano esattamente una volta*

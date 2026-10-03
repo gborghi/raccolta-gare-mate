@@ -30,7 +30,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con determinato rapporto di superficie è un quadrato con O al centro*
@@ -59,7 +59,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiplici di 3 in base 2 con tre 1s: conteggio di cifre in base 4*
@@ -90,7 +90,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un'identità per la somma di tipo armonico s_n*
@@ -121,7 +121,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di ricorrenze: descrivere il comportamento come n tende all'infinito*
@@ -151,7 +151,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cono con sezione ellittica: condizione per la intersezione di due percorsi superficiali*
@@ -180,7 +180,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le sequenze binarie con accadezza m di 01*

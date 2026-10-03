@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con bisettore angolare e condizione del perimetro del punto medio*
@@ -53,7 +53,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Campo rettangolare di pulizia del villaggio con lati interi e parti uguali del 1998*
@@ -80,7 +80,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi non costanti p(x) e q(x) con coefficienti interi che soddisfano p(x)q(x) = x^4 + 2x + 1*
@@ -108,7 +108,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli equalaterali inscritti in cerchi concentrici disuguaglianza per punti arbitrari*
@@ -139,7 +139,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro diversi interi positivi A, B, C con tre quadratici tutti con radici reali o non reali*
@@ -166,7 +166,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Split set {1,2,...,4n} in sottosette disconnessi di quattro elementi con somma di elementi uguale*

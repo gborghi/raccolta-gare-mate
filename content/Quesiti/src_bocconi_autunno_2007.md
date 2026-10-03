@@ -28,7 +28,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is Jacob's birthday.
@@ -60,7 +60,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden number by stains in multiplication*
@@ -93,7 +93,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubets to build the empty pyramid of the design*
@@ -126,7 +126,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Around the two overlapping parts of the decoupage*
@@ -158,7 +158,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now that the bell rings at Luke's school*
@@ -189,7 +189,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number in the square of arrow operations*
@@ -222,7 +222,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles contained in Figure *
@@ -254,7 +254,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Logical deduction on glasses, hat and handles*
@@ -284,7 +284,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figures owned by Nando on Monday before the first 3*
@@ -319,7 +319,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many sentences in the box are simultaneously true*
@@ -352,7 +352,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tri-digit number with square, sum and product squared*
@@ -384,7 +384,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *200th and 201st digits of the sum of a number and its inverse*
@@ -415,7 +415,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles in figure (bis) *
@@ -449,7 +449,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of boxes touched by the horse on the chessboard*
@@ -481,7 +481,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Next three consecutive years squared*
@@ -513,7 +513,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meter of path before reaching the rising sea*
@@ -545,7 +545,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of three digits to be guessed on the square conditions*
@@ -578,7 +578,7 @@ This is Jacob's birthday.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between the two headlamps (area of the isosceles triangle of the cage) *

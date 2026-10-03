@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria del cerchio: dimostrare che due accordi a punto medio dell'arco sono uguali*
@@ -54,7 +54,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i numeri interi k con infinite soluzioni di numeri interi all'equazione*
@@ -82,7 +82,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
@@ -109,7 +109,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le configurazioni di incrocio del percorso della rete; trovare tutti i tupli validi*
@@ -138,7 +138,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo di A in una disuguaglianza simmetrica per i reali positivi*

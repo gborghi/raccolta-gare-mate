@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo equilaterale con cerchi incisi; prova il rapporto AP/AC = 4/5 e trova AQ/AC*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i modi di accoppiare 2n oggetti; conta le disposizioni di coppia per le coppie sposate*
@@ -99,7 +99,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di equazioni a,b,c,x,y,z; espresso z e espressione combinata*
@@ -131,7 +131,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni integrali positive di 1/x + 1/y - 1/z = 1*
@@ -160,7 +160,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line pieghevoli con segmento in movimento; sfera attraverso quattro punti ha il centro su un cerchio fisso*
@@ -191,7 +191,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se due triangoli hanno lati a1,b1,c1 e a2,b2,c2, dimostrare che i mezzi geometrici formano un triangolo

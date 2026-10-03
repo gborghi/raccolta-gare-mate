@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni integrali non negative a 2^x + 3^y = z^2*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli ABC e UVW con lati correlati da equazioni; dimostrare l'ABC acuta, trovare angoli UVW*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi che si toccano esternamente a A e internamente un terzo cerchio; dimostrare che B1B2 è tangente comune*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i reali positivi a,b,c,d che soddisfano due equazioni simmetriche*

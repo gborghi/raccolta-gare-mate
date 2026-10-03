@@ -27,7 +27,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il cerchio centrato nell'ortocentro taglia uguale i lati del triangolo medio punto*
@@ -60,7 +60,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa alternativa di prodotti di numeri interi consecutivi divisibili per m!*
@@ -91,7 +91,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ribbito al numero di tetraedri tagliati in quadrilaterali da un piano*
@@ -120,7 +120,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * Trova il minimo valore positivo di m - <128^> n *
@@ -153,7 +153,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma di a_i^k / P_i su diversi interi non-zero è un intero*
@@ -186,7 +186,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identità di interpolazione di larghezza: la somma di 1/P_i è un intero*

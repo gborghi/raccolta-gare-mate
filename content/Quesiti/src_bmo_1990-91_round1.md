@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove 3^n + 2×17^n non è mai un quadrato perfetto*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca dei numeri interi positivi k tale che x^(2k+1)+x+1 sia divisibile da x^k+x+1*
@@ -91,7 +91,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico: BD perpendicolare a CA se EA2+EB2+EC2+ED2=4r2*
@@ -124,7 +124,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il minimo di (x+y)(y+z) dato xyz(x+y+z)=1*
@@ -156,7 +156,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di 16 senza segmento iniziale che costituisca una permutazione di 1..n*
@@ -185,7 +185,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra x è un quadrato perfetto se x2+y2−x è divisibile da 2xy*
@@ -212,7 +212,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lada contro parete: trovare l'altezza h in termini di lunghezza l e distanza tra le scale d*

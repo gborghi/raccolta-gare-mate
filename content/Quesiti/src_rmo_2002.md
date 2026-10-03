@@ -29,7 +29,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I piedi dei ceviani sono le altitudini se i rapporti dati sostengono *
@@ -59,7 +59,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi l'equazione $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$*
@@ -86,7 +86,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra abc divide l'espansione di (a+b+c)^n*
@@ -118,7 +118,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri 1..10 suddivisi in due collezioni con condizioni di partizione*
@@ -149,7 +149,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo diviso da archi quadrilaterali convexi; prova ABCD ciclico*
@@ -179,7 +179,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricercare la doppia disuguaglianza con somma di tipo armonico*
@@ -208,7 +208,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri a,b,c,d che soddisfano due condizioni*

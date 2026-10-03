@@ -28,7 +28,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova c così ogni insieme finito ha a,b,e con e dividendo a+b+2c*
@@ -57,7 +57,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, costruzione di tangenza incircolare; dimostrare due linee parallele*
@@ -86,7 +86,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n x n grid, operazione 2x2 da una sola cella nera; trovare tutte le n completamente colorabili*
@@ -115,7 +115,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n studenti, n gare, distintivo (a,b) per esattamente un top-b; massimizzazione del punteggio totale *
@@ -144,7 +144,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b) *
@@ -175,7 +175,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con incentro, centri-arco e cerchi ausiliari; prova di tangenza*
@@ -206,7 +206,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza: ogni nuovo termine è la media di termini superiori alla media; dimostrare la costanza finale*
@@ -235,7 +235,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *1000 punti, set di punti triangolari con punti interni, pesi lineari; set magnifici mass*
@@ -264,7 +264,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f sui numeri interi positivi: coprimità equivalente a un'identità moltiplicativa; trovare f(n) *
@@ -293,7 +293,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono ciclico, punti di intersezione diagonali; prova di conciclicità*
@@ -322,7 +322,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare n così ogni P cubo ha Q quadratico con Q(k)(P(k) + Q(k)) mai divisibile da n*
@@ -351,7 +351,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con uno spread massimo di 1 su qualsiasi p+1 e qualsiasi termine consecutivo q+1*

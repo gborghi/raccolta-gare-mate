@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MALE number given MELA minimum with distinct digits*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the first 40 numbers of the repeated sequence*
@@ -110,7 +110,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measuring the angle NYC between CM and BN in square*
@@ -166,7 +166,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with digits that differ by at least 4*
@@ -197,7 +197,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of colours for spikes of the circle*
@@ -232,7 +232,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the sum of ORE+ORE+ORE=VIVE*

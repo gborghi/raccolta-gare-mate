@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unadjusted data with opposite sum conditions*
@@ -61,7 +61,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *first or second? *
@@ -91,7 +91,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *train crossing conditions*
@@ -123,7 +123,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The measurement shall be carried out in accordance with the methodology set out in Annex II.
@@ -154,7 +154,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many times the last in an hour*
@@ -185,7 +185,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of making N+1 kang >Mode for N kang*

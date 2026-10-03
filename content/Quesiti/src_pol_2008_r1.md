@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
@@ -54,7 +54,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *All'interno di un angolo convexo con vertice P e un dato punto A, punti X, Y sui raggi con PX=PY ridurre al minimo AX+AY; dimostrare angolo XAP = angolo YAP.*
@@ -83,7 +83,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per la sequenza di numeri interi a_1=1, a_2=2, a_n=3a_{n-1}+5a_{n-2}, decidere se qualche k>=2 divide ogni a_n.*
@@ -110,7 +110,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato il peso alternativo w(A) dei sottoinsiemi non vuoti di {1,...,n}, si trova la somma di w(A) su tutti i sottoinsiemi 2^n-1.*
@@ -139,7 +139,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli primi (p,q,r) per i quali pq+qr+rp e p^3+q^3+r^3-2pqr sono divisibili da p+q+r.*
@@ -166,7 +166,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i polinomi di coefficiente reale W(x) con W(x^2) W(x^3) = W(x)^5 per tutti gli x reali.*
@@ -193,7 +193,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una società di 2^n-1 persone, ogni sottoinsieme sceglie un leader (un membro al di fuori di esso); dimostra l'esistenza di una scelta globale e conta le scelte.*
@@ -220,7 +220,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una sfera scritta nella piramide SABCD (base quadre convexa) tocca la base a P; prova angolo APB + angolo CPD = 180 gradi.*
@@ -247,7 +247,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la più piccola a tale che per tutti i valori reali x,y,z >= a con x+y+z=3, x^3+y^3+z^3 >=3.*
@@ -276,7 +276,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primo p; sequenza a_{n+1}=a_n+p*floor(p-th radice di a_n); mostrare qualche termine è una p-th potenza di un intero.*
@@ -305,7 +305,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sette punti sui lati del triangolo ABC con una catena di angoli uguali di 60 gradi; dimostrare che P1 coincide con P7. *
@@ -332,7 +332,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato il numero intero m>=2, trovare il più piccolo n>=m in modo che ogni 2 colorazioni di {m,...,n} producano un monocromatico a,b,c con ab=c.*

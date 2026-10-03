@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione di n integri consecutivi mappati a se stessi con ricorrenza lineare*
@@ -55,7 +55,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni su numeri interi positivi che soddisfano un'equazione funzionale lcm*
@@ -92,7 +92,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum n in modo che un certo punto buono si trovi su n linee rotte a forma di Z in una griglia*
@@ -127,7 +127,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il punto di fine del diametro del cerchio si trova sul cerchio del triangolo ausiliario attraverso la caccia angolare*
@@ -157,7 +157,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nessuna soluzione di integri positivi a^2+b^2+c^2+d^2−4√(abcd)=7·2^(2n−1)*

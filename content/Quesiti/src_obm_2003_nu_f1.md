@@ -28,7 +28,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di poliedro converso con vertici interi sul raggio di sfera sqrt(2) *
@@ -57,7 +57,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per pianificare i giorni di riposo senza tre giorni di formazione consecutivi*
@@ -84,7 +84,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se (AB)^k = A^k B^k per tre numeri interi consecutivi allora AB=BA*
@@ -111,7 +111,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un>0 tale che esista il limite di f(n) - pi^2/6 + a/n; calcola il limite*
@@ -138,7 +138,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il polinomio (1/n) (((X+a)^n - X^n - a) ha coefficienti interi se n è primo*
@@ -165,7 +165,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limiti che coinvolgono il log log di una sequenza ricorsiva a_{n+1}=a_n^2-2*

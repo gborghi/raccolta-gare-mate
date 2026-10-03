@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Q positions for an APQ triangle similar to the ABC isosceles*
@@ -80,7 +80,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which barrel contains beer given the double binding on wine*
@@ -121,7 +121,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seventh digit in base 8 by binary representation given*
@@ -163,7 +163,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vote of the last examination lowered from the average to 22,25*
@@ -205,7 +205,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation of coefficients if two roots have zero sum*
@@ -248,7 +248,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimate even numbers by choosing 50 numbers with sum of 3000*
@@ -295,7 +295,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Austrian-Danish score from the Giro classification*
@@ -340,7 +340,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the crescent shaft cut with compass radius r√2*
@@ -384,7 +384,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that Barbara did not peak Alberto
@@ -428,7 +428,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate b/h given equilateral triangle and isoperimeteral rectangle*
@@ -473,7 +473,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability group 6 with two holes, two silver, two narrow ones*
@@ -515,7 +515,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most prime numbers among 20 consecutive integers >50*
@@ -551,7 +551,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 3 digits of p(21) given p(k) = 2 k for k from 1 to 20*
@@ -584,7 +584,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For those in the symmetric system with whole solutions *
@@ -618,7 +618,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lorence leaps on the 2007 polygon side to overcome summit 1*
@@ -659,7 +659,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flea jump sequences to finish at 80 cm after 5 jumps*
@@ -695,7 +695,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of triangular numbers with difference 2007*
@@ -728,7 +728,7 @@ The probability that Barbara did not peak Alberto
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DO bisette and similarities CDB~AOD in circumference*

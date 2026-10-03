@@ -31,7 +31,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Order of 7 overlapping cards
@@ -60,7 +60,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting of camels and dromedaries.*
@@ -91,7 +91,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of small square diagonals without crossings or contacts.*
@@ -120,7 +120,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order of operations to be from 1 to 11. *
@@ -156,7 +156,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Autoreference: how many of the sentences given are true.*
@@ -185,7 +185,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Telephone number with different numbers in pairs and starting with 06.*
@@ -214,7 +214,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Longest list of numbers written by Nicole's rules starting at most from one number.*
@@ -243,7 +243,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of arrows for a total of 100 with 10 data value regions.*
@@ -274,7 +274,7 @@ Order of 7 overlapping cards
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Order to visit 16 tapes without going through them twice.
@@ -307,7 +307,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of rectangular triangles formed with the vertices of a cube.*
@@ -339,7 +339,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of coloured vertices without two on the same line in a triangular network.*
@@ -373,7 +373,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Write in each circle a digit from 1 to 9 with directional sum conditions.*
@@ -407,7 +407,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of digits of the social security number with different consecutive pairs, never prime or square.*
@@ -437,7 +437,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cutting the grid into five pieces of equal area and perimeter.*
@@ -469,7 +469,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of different figures observed with six rocks thrown into the water.*
@@ -502,7 +502,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reconstruct two combined multiplication figures by figures on a seven-segment display.*
@@ -537,7 +537,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the eight-digit AB password with conditions on A, B and a Fibonacci sequence.*
@@ -573,7 +573,7 @@ Order to visit 16 tapes without going through them twice.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Game of triangles of a hexagon: order all the values obtained.*

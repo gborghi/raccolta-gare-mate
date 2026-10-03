@@ -27,7 +27,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza delle somme sui numeri primi per i numeri perfetti*
@@ -60,7 +60,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Analisi di punto fisso e di valore proprio per la composizione delle funzioni iterate*
@@ -93,7 +93,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco da tavolo: si muove su n×n griglia conservando esattamente una pietra*
@@ -124,7 +124,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzioni morficamente impar e caratterizzazione polinomica di parità*
@@ -157,7 +157,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *sequenza di matrice con A^12=I o (A^2-I)^2=O, traccia su diagonale*
@@ -192,7 +192,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *frazioni irriducibili in [0,1] con denominatore ≤ n; limite di rapporto*

@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Operation with the highest result*
@@ -64,7 +64,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Commission's proposal for a regulation on the protection of the environment
@@ -96,7 +96,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies between 2.09 and 15.3*
@@ -130,7 +130,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of two minimum multiples*
@@ -166,7 +166,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number X in rings with sum of 55*
@@ -219,7 +219,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Simplification of the fraction with 2003*
@@ -256,7 +256,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure x of the side of the large square*
@@ -296,7 +296,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of construction of the clown*
@@ -335,7 +335,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *New middle age of the team*
@@ -373,7 +373,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles of equal area to squares*
@@ -408,7 +408,7 @@ The Commission's proposal for a regulation on the protection of the environment
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Date 2003 minutes after 20.03 *
@@ -449,7 +449,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different results by adding two numbers*
@@ -490,7 +490,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *B squares contained in square A*
@@ -527,7 +527,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Blues of Elizabeth*
@@ -565,7 +565,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Red-tape trees*
@@ -603,7 +603,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of square ABCD with rectangles*
@@ -647,7 +647,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum paths on the cube from A to B*
@@ -682,7 +682,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible to build tape*
@@ -716,7 +716,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle certainly not achievable*
@@ -752,7 +752,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the grey triangle in the octagon*
@@ -793,7 +793,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height x of water in the glass*
@@ -828,7 +828,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table not feasible in the table*
@@ -865,7 +865,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Treads of rods forming a triangle*
@@ -901,7 +901,7 @@ Date 2003 minutes after 20.03 *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Red dragons in the trench
@@ -936,7 +936,7 @@ Red dragons in the trench
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Centimeters from A to B along the route*
@@ -1001,7 +1001,7 @@ Red dragons in the trench
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the sum on the right with the symbols *
@@ -1036,7 +1036,7 @@ Red dragons in the trench
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the triangular coloured part*
@@ -1073,7 +1073,7 @@ Red dragons in the trench
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of blue pencils*
@@ -1110,7 +1110,7 @@ Red dragons in the trench
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real liars in the group of 4*
@@ -1150,7 +1150,7 @@ Red dragons in the trench
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Days to the next divisible date 10001*

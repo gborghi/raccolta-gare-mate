@@ -28,7 +28,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tripli interi non negativi con a^20+b^2+c^6=2026*
@@ -57,7 +57,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo intero positivo n in cui il piano(sqrt(2026n)) non è divisibile da n*
@@ -88,7 +88,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova AC/AD dato segmenti di accordi uguali e tre aree triangolari su un cerchio*
@@ -123,7 +123,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima del rettangolo ABCD tagliata in sotto rettangoli con diversi lati interi non più di 9*
@@ -155,7 +155,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i triples di numeri interi (x,y,z) in [1,17] dove un singolo numero intero >1 divide tutte e quattro le espressioni*
@@ -184,7 +184,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca XY in un parallelo con condizioni di punto medio e di intersezione con CE=DF=3*
@@ -217,7 +217,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio dei sedili degli studenti sulle banche del 2026 dopo un processo di migrazione a due regole*
@@ -252,7 +252,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca a_{20} in una sequenza in aumento rigoroso con condizione di divisibilità di somma alternata*
@@ -283,7 +283,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del triangolo DPQ nel triangolo ABC con condizione angolare e lunghezze date*
@@ -316,7 +316,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minima n per l'esistenza di un convex 101-gon con vertici della griglia che condividono coordinate consecutive*
@@ -348,7 +348,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di conteggio (a_1,...,a_26) in [1,20] che soddisfano una condizione di equilibrio parziale per tutte le coppie*
@@ -377,7 +377,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il minimo z per gli integri positivi x,y,z con x^y*y^z=2^{20x+20y} e y/20 integri, z/20 non*

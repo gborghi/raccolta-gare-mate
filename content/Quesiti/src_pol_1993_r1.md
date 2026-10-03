@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un'equazione con valori assoluti e la funzione del segno in reales.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un sistema ciclico di n equazioni che coinvolgono tangente e cotangente.*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un rapporto di prodotto per un esagono centricamente simmetrico dai punti di intersezione delle sue linee laterali.*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni che soddisfano una determinata equazione funzionale.*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove che una linea determinata da due quadrati costruiti su un triangolo passa attraverso un punto fisso.
@@ -166,7 +166,7 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Data una sequenza definita da una ricorrenza media in esecuzione, valutare una somma ponderata.*
@@ -193,7 +193,7 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il volume dello scafo convexo dei punti definiti dalle equazioni vettoriali nello spazio.*
@@ -221,7 +221,7 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma delle loro quinte potenze.
@@ -249,7 +249,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra una disuguaglianza per tre numeri reali.*
@@ -276,7 +276,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dimostrare che un'isometria è una suriezione non in aumento di distanza di un cubo su se stesso.*
@@ -303,7 +303,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il limite di n volte la probabilità che due dei sei pedoni posizionati in modo casuale condividano una riga o una colonna.*
@@ -330,7 +330,7 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare quando x^n+4 fattori in due polinomi non costanti di coefficienti interi.*

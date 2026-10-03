@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information shall be provided:
@@ -54,7 +54,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *fair play or not *
@@ -85,7 +85,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the maximum amount of lying.
@@ -126,7 +126,7 @@ This is the maximum amount of lying.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *trajectory length of P*
@@ -165,7 +165,7 @@ This is the maximum amount of lying.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *two values of n*
@@ -193,7 +193,7 @@ This is the maximum amount of lying.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *pairs at maximum distance ≤ n*

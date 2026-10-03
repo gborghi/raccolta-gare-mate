@@ -33,7 +33,7 @@ level: triennio
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *type of inhabitant*
@@ -76,7 +76,7 @@ level: triennio
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *car letters from 2 to 4 letters, counting *
@@ -118,7 +118,7 @@ level: triennio
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real numbers x,y,z,t with product to square ratios*
@@ -160,7 +160,7 @@ level: triennio
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that insertion of 1 to 15 agent sheets does not collide*
@@ -203,7 +203,7 @@ level: triennio
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *regular star, side value*
@@ -242,7 +242,7 @@ level: triennio
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided in the Annex to Implementing Regulation (EU) No 575/2013:
@@ -283,7 +283,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * parabola ratio, value *
@@ -324,7 +324,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *equation of a circumference, value*
@@ -366,7 +366,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The report shall contain the following information:
@@ -409,7 +409,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inter D with f(D) sum of digits; demonstration of f(f(D))*
@@ -452,7 +452,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of integers divisible by 1 to 12 (totals) *
@@ -503,7 +503,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *set of vertices*
@@ -551,7 +551,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *showing rationality/totals*
@@ -591,7 +591,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to demonstrate the geometric conditions*
@@ -644,7 +644,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-degenerate triangles with vertices at nine points*
@@ -698,7 +698,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total cards with divisibility conditions*
@@ -742,7 +742,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reciprocal sum of the roots of a polynomial of degree 4*
@@ -782,7 +782,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-sets of {1.2003} with the sum of the elements given*
@@ -827,7 +827,7 @@ The report shall contain the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Size of region deleted 14 minutes ago from virus
@@ -871,7 +871,7 @@ Size of region deleted 14 minutes ago from virus
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of pyramid with orthogonal heights on the VA shaft*

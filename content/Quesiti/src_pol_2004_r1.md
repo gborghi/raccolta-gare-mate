@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un raggio di luce che si riflette all'interno di un poligono rettilineo, partendo lungo un bisettore angolare, raggiunge infine un vertice.
@@ -53,7 +53,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di un numero intero primo $p$ e non negativo $x,y,z$ con $(12x+5)(12y+7)=p^z$.*
@@ -80,7 +80,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni $f:\mathbb{Q}\to\mathbb{Q}$ con $f(x^2+y)=xf(x)+f(y)$ per tutti i razionali.*
@@ -107,7 +107,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per tutti i triangoli equilaterali circondati da un triangolo acuto, i loro centri si trovano su un cerchio.*
@@ -134,7 +134,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra $N(m,n+1)=N(n,m+1)$, dove $N(m,n)$ conti le sequenze di lunghezza non in diminuzione-$m$ da $\{1,\dots,n\}$.*
@@ -162,7 +162,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per $c$ reale che dà $P$ cinque radici reali, trovare la somma dei valori assoluti dei coefficienti di $Q$.*
@@ -189,7 +189,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni integrali positive di $a^2+b^2=c^2$ con $a,c$ primo e $b$ un prodotto di almeno tre primi.*
@@ -217,7 +217,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un punto $P$ all'interno del tetraedro $ABCD$, provare $\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ$.*
@@ -244,7 +244,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i polinomi di numeri interi non costanti $W_1,\dots,W_n$, un certo numero $a$ rende tutti $W_k(a)$ composti.*
@@ -271,7 +271,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un poligono convex con un numero pari di lati, lunghezze laterali 2 o 3 (ogni numero pari), ha due vertici che suddividono il suo perimetro.*
@@ -298,7 +298,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un trapezoide a isosceles con un rombo inscritto $KLMN$, il circondario $O$ si trova sulla linea $KM$.*
@@ -327,7 +327,7 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca nel $x_1,\dots,x_n$ il numero di soluzioni reali di un sistema di quarticche cubiche cicliche per $n\ge 5$.*

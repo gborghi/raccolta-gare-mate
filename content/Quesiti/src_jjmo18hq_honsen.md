@@ -30,7 +30,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare le tromine L che tessono una griglia con piastrelle L e S*
@@ -63,7 +63,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo a pari stelle con piede di altitudine; angolo di ricerca BCD*
@@ -92,7 +92,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tripli con lcm uguale a (ab+bc+ca)/4*
@@ -123,7 +123,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di pezzi in modo che ogni cella abbia 2+ pezzi sulle sue diagonali*
@@ -158,7 +158,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regolare 2020-gon con etichette distinte; mostrare alcuni n soddisfa le disuguaglianze*

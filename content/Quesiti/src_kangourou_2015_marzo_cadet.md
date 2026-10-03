@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * which representation*
@@ -80,7 +80,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *major side*
@@ -116,7 +116,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number closest to 2,015 x 510.2 *
@@ -179,7 +179,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of opposite faces*
@@ -257,7 +257,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the numbers is not an integer*
@@ -303,7 +303,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The manufacturer shall provide the manufacturer with the following information:
@@ -376,7 +376,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * mirror that coincides with UV*
@@ -446,7 +446,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max inhabitants*
@@ -485,7 +485,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *what region*
@@ -524,7 +524,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *spins in 5 seconds*
@@ -576,7 +576,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *not two born on the same day/month: number of pupils*
@@ -620,7 +620,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *grey region area*
@@ -671,7 +671,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *min number of +*
@@ -714,7 +714,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * of how many cm rises the pool level*
@@ -753,7 +753,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *possible sheets *
@@ -796,7 +796,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *failed media*
@@ -864,7 +864,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *square area*
@@ -940,7 +940,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *perimeter *
@@ -1012,7 +1012,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *color x*
@@ -1078,7 +1078,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many true *
@@ -1150,7 +1150,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *central number*
@@ -1215,7 +1215,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *major number*
@@ -1265,7 +1265,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *longer segment*
@@ -1317,7 +1317,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2 light 25%, 3 heavy 60%: how many kangaroos*
@@ -1358,7 +1358,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *min pieces per cubic inch *
@@ -1389,7 +1389,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of the values of the values of the samples.
@@ -1418,7 +1418,7 @@ This is the sum of the values of the values of the samples.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *the missing one*
@@ -1447,7 +1447,7 @@ This is the sum of the values of the values of the samples.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max attempts*
@@ -1476,7 +1476,7 @@ This is the sum of the values of the values of the samples.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *greater remainder*
@@ -1505,7 +1505,7 @@ This is the sum of the values of the values of the samples.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many ways*

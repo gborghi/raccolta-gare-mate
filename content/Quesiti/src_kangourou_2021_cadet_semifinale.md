@@ -40,7 +40,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit numbers from 337337 by deleting two*
@@ -94,7 +94,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum minutes to cross the Tibetan Bridge*
@@ -162,7 +162,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in cell X of the magic square 4x4*
@@ -229,7 +229,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Certainly false claim (Lisa's euro) *
@@ -289,7 +289,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining by 9 of the number approaching 21.0*
@@ -347,7 +347,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum speed ratio between Sandro and Carlo without overtaking*
@@ -391,7 +391,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the loan.
@@ -436,7 +436,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits 3 writing 2021 as the sum of five digits*
@@ -493,7 +493,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential A2021-A2020 of circular crowns*
@@ -532,7 +532,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Max tosses to make sure a number goes out 3 times
@@ -561,7 +561,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years since the last year = two consecutive integers approximated*
@@ -590,7 +590,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max number 4 digits divisible by 6 with increasing digits*
@@ -621,7 +621,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The smallest sum of two numbers with nine digits *
@@ -655,7 +655,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of strip around the equilateral triangle*
@@ -693,7 +693,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Forwarding of the P-point of the groove*
@@ -727,7 +727,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum block of consecutive black tokens*
@@ -783,7 +783,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max rooms to be visited in the triangle side 100*
@@ -840,7 +840,7 @@ Max tosses to make sure a number goes out 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining 5 of the product of non-divi-digit 5-digit numbers for 5*

@@ -30,7 +30,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle, height, value of the ratio AH/CH*
@@ -59,7 +59,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *one divisible by sum of digits *
@@ -91,7 +91,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table 4x4 of digits 1 and 2 with sums of 3x3 multiples of 4*
@@ -123,7 +123,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n integers two to two with common factor but three to three coatings*
@@ -163,7 +163,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which h returns to 1*
@@ -198,7 +198,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two circumferences, EF arc bisected by the straight CD*

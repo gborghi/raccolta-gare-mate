@@ -33,7 +33,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of the data figures in 2009*
@@ -66,7 +66,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of beads of solid obtained by cutting the peaks of a pyramid*
@@ -102,7 +102,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill a figure with the digits 1,2,3,4,5 according to frequency and adjacency rules*
@@ -136,7 +136,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting the squares of the figure without grey cells*
@@ -169,7 +169,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of pages (including written ones) containing at least one digit *
@@ -202,7 +202,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of roses to be planted along the edge of the rectangular garden*
@@ -238,7 +238,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reconstruct a multiplication with most of the deleted digits*
@@ -272,7 +272,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the development of an open cube (without lid) *
@@ -304,7 +304,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of bus seats given the male/female ratio*
@@ -335,7 +335,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of rounds in the game of chips between three players*
@@ -366,7 +366,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
@@ -397,7 +397,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum perimeter of an integer triangle, one double of another and third side 15*
@@ -428,7 +428,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of a circular track given two encounters of opposing walkers*
@@ -459,7 +459,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of numbers obtained from the outline pages of a book*
@@ -492,7 +492,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Treasure coordinates on a square map folded in decimals*
@@ -527,7 +527,7 @@ Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Magic 3x3 square with the initials of nine children
@@ -560,7 +560,7 @@ Magic 3x3 square with the initials of nine children
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Irreducible fraction by adding the volumes of the bricks divided by the square of the larger size*
@@ -598,7 +598,7 @@ Magic 3x3 square with the initials of nine children
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers on the faces of a magic dice with sum and parity constraints*

@@ -27,7 +27,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *GCD più piccolo di due numeri interi positivi sommati fino al 2025*
@@ -58,7 +58,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Allegare numeri interi positivi distinti a 8 punti su 6 linee in modo che ogni linea somma a 10*
@@ -91,7 +91,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la lunghezza BD in triangolo con circoncircolo, ceviano e linea parallela*
@@ -124,7 +124,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per tessere una figura di 48 triangoli unitari con esagoni regolari unitari*
@@ -155,7 +155,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le caselle non vuote rimanenti dopo operazioni di divisione 50^25 a partire da una casella*
@@ -184,7 +184,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare triplici interi che soddisfano due equazioni con il limite 80000*
@@ -213,7 +213,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca BD/DC dati quattro sub-area triangolari formate da due ceviani*
@@ -242,7 +242,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo n in modo che la media di tutte le carte n-3 sia un intero dato la media di qualsiasi n-4 è un intero*
@@ -271,7 +271,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il CD in quadrilaterali ciclici con intersezione diagonale e punti collineari*
@@ -306,7 +306,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le matrici di permutazione 30x30 valide che soddisfano le condizioni di finestra di riga e di connettività*
@@ -344,7 +344,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di punteggio complessivo per lo studente A in condizioni di dominio su lo studente B *
@@ -379,7 +379,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i risultati favorevoli del torneo per 1003 giocatori a tavola rotonda, trovare il rapporto frazione mod*

@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei conti dei divisori di kp+1 in [k,p) su k=1..p-1*
@@ -55,7 +55,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali ciclici: bisettori angolari, punti di mezzo, linea parallela*
@@ -91,7 +91,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *JMO Microtassazione delle monete del Regno: trovare monete totali minime S*
@@ -126,7 +126,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali che soddisfano f(yf(x) -x) = f(x) f(y) +2x*
@@ -158,7 +158,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partire le città in due gruppi in modo che ciascuna città abbia al massimo 1 autostrada*

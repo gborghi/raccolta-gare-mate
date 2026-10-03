@@ -32,6 +32,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Reali alpha con somma floor(k·alpha) multipla di n*
 
 > Determinare tutti i numeri reali $\alpha$ tali che, per ogni intero positivo $n$, il numero intero
@@ -39,8 +40,6 @@ level: IMO
 > sia multiplo di $n$.
 > 
 > (Nota che $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$. Per esempio, $\lfloor -\pi \rfloor = -4$ e $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
-
-
 
 [[Quesiti/src_imo_2024#q01|src_imo_2024__Q01]]
 
@@ -68,6 +67,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Coppie (a,b) con gcd(a^n+b,b^n+a) costante*
 
 > Determinare tutte le coppie $(a, b)$ di interi positivi per cui esistono interi positivi $g$ e $N$ tali che
@@ -75,8 +75,6 @@ level: IMO
 > sia verificata per ogni intero $n \geq N$.
 > 
 > (Nota che $\gcd(x, y)$ indica il massimo comun divisore degli interi $x$ e $y$.)
-
-
 
 [[Quesiti/src_imo_2024#q02|src_imo_2024__Q02]]
 
@@ -104,6 +102,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione conta-occorrenze eventualmente periodica*
 
 > Sia $a_1, a_2, a_3, \ldots$ una successione infinita di interi positivi, e sia $N$ un numero intero positivo. Si supponga che, per ogni $n > N$, $a_n$ sia uguale al numero di volte in cui $a_{n-1}$ compare nella lista $a_1, a_2, \ldots, a_{n-1}$.
@@ -111,8 +110,6 @@ level: IMO
 > Si dimostri che almeno una delle successioni $a_1, a_3, a_5, \ldots$ e $a_2, a_4, a_6, \ldots$ è periodica da un certo punto in poi.
 > 
 > (Una successione infinita $b_1, b_2, b_3, \ldots$ è definitivamente periodica se esistono interi positivi $p$ e $M$ tali che $b_{m+p} = b_m$ per ogni $m \geq M$.)
-
-
 
 [[Quesiti/src_imo_2024#q03|src_imo_2024__Q03]]
 
@@ -138,13 +135,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Angolo KIL+YPX=180 (incerchio e tangenti)*
 
 > Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$ rispettivamente l'incentro e la circonferenza inscritta del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ parallela a $AC$ sia tangente a $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ parallela a $AB$ sia tangente a $\omega$. Sia $AI$ che interseca nuovamente la circonferenza circoscritta al triangolo $ABC$ nel punto $P \neq A$. Siano $K$ e $L$ i punti medi dei segmenti $AC$ e $AB$, rispettivamente.
 > 
 > Si dimostri che $\angle KIL + \angle YPX = 180^\circ$.
-
-
 
 [[Quesiti/src_imo_2024#q04|src_imo_2024__Q04]]
 
@@ -172,6 +168,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Turbo la lumaca, minimo n attacchi garantiti*
 
 > Turbo il lumachino gioca un gioco su una scacchiera con $2024$ righe e $2023$ colonne. Ci sono mostri nascosti in $2022$ celle. All'inizio Turbo non sa dove si trovino nessuno dei mostri, ma sa che in ogni riga tranne la prima e l'ultima c'è esattamente un mostro, e che ogni colonna contiene al massimo un mostro.
@@ -179,8 +176,6 @@ level: IMO
 > Turbo effettua una serie di tentativi per passare dalla prima riga all'ultima. In ciascun tentativo, egli sceglie di iniziare da qualsiasi cella della prima riga, quindi si muove ripetutamente su una cella adiacente condividendo un lato comune. (È consentito tornare su una cella precedentemente visitata.) Se raggiunge una cella con un mostro, il tentativo termina e lui viene trasportato nuovamente alla prima riga per iniziare un nuovo tentativo. I mostri non si muovono, e Turbo ricorda se ciascuna cella che ha visitato contenga o meno un mostro. Se raggiunge una qualsiasi cella dell'ultima riga, il tentativo termina e il gioco è finito.
 > 
 > Determinare il valore minimo di $n$ per cui Turbo ha una strategia che garantisce di raggiungere la riga finale entro il tentativo $n$-esimo o in precedenza, indipendentemente dalle posizioni dei mostri.
-
-
 
 [[Quesiti/src_imo_2024#q05|src_imo_2024__Q05]]
 
@@ -206,13 +201,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Funzioni aquaesuliane, minimo c valori f(r)+f(-r)*
 
 > Sia $\mathbb{Q}$ l'insieme dei numeri razionali. Una funzione $f : \mathbb{Q} \to \mathbb{Q}$ si dice *aquaesuliana* se vale la seguente proprietà: per ogni $x, y \in \mathbb{Q}$,
 > $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$
 > 
 > Si dimostri che esiste un intero $c$ tale che per ogni funzione aquaesuliana $f$ esistono al più $c$ numeri razionali distinti della forma $f(r) + f(-r)$ per qualche numero razionale $r$, e si determini il valore più piccolo possibile di $c$.
-
-
 
 [[Quesiti/src_imo_2024#q06|src_imo_2024__Q06]]

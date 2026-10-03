@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Include the largest of the five fractions*
@@ -74,7 +74,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs with at least one face painted in a 10x10x10 cube*
@@ -115,7 +115,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of squares of two multiples of 3*
@@ -161,7 +161,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes of cell phone use while charging (40% consumed) *
@@ -209,7 +209,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length A900A901 in the spiral of rectangular triangles*
@@ -257,7 +257,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of questions collected from the Archimedes score*
@@ -299,7 +299,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of the amounts of the following items: *
@@ -344,7 +344,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *External/internal area report of a frame*
@@ -389,7 +389,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Candy of 3 confections of 12 flavors with repeating *
@@ -434,7 +434,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region shaded in a rectangle divided into two squares*
@@ -477,7 +477,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Certain divider of a two-digit number repeated three times*
@@ -522,7 +522,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of tangent circles with common tangents*
@@ -564,7 +564,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of empty seat between boy and girl*
@@ -614,7 +614,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2018 number box in grid without multiples of 11*
@@ -659,7 +659,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BCD area with median and bisetrical triangle isosceles*
@@ -705,7 +705,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many true statements on equation ax^2-bx+a=0*
@@ -751,7 +751,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area four region from P to the midpoints of the quadrilateral*
@@ -801,7 +801,7 @@ This is the sum of the amounts of the following items: *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of the values of the derivatives of the derivatives.
@@ -849,7 +849,7 @@ This is the sum of the values of the derivatives of the derivatives.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Soldiers remaining after repeated elimination of square positions*

@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Collinearità di A, D, N se angolo BAC = 45 gradi*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La k più piccola, quindi ogni sottoinsieme di elementi 4n contiene k coppie {a,b} con b multiple di a*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molti n con f(n) = f(n-1) +1 per la derivazione falsa*
@@ -116,7 +116,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisioni alternando la somma identità e la caratterizzazione, trovare tre soluzioni*
@@ -147,7 +147,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio f con coefficienti razionali e set di valori interi S di dimensione n+1 che forza g(t)=f(t) per tutte le t*
@@ -174,7 +174,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I cerchi di BXZ e CXY si incontrano a P su un cerchio di diametro attraverso H e G*

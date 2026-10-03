@@ -30,7 +30,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di una matrice razionale 2019x2019 che soddisfa un'equazione polinomial cubica / quartic*
@@ -69,7 +69,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di una funzione in continua crescita compressa tra successive scale di crescita esponenziale iterata*
@@ -100,7 +100,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esattamente una soluzione non negativa
@@ -128,7 +128,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni f:R->R con f(xf(y) + f(x)) + f(y^2) = f(x) +yf(x+y) *
@@ -157,7 +157,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine l'esponente beta(M,k) nel conteggio asimptotico di moltipli di potenze k-prime con esponenti >= k*
@@ -191,7 +191,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limite di f n)/n! in cui f(n) conta i disturbi senza cicli a due (amice segreto senza "interruzione")*

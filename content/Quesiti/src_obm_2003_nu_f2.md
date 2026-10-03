@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
@@ -58,7 +58,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi complessi-coefficienti di coprime: dipendenza e identità funzionale*
@@ -93,7 +93,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta matrici di ordine 4 su Z/(p) il cui quadrato è l'identità*
@@ -126,7 +126,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare la morte onesta attraverso l'uguaglianza di probabilità condizionata*
@@ -159,7 +159,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *C-infinity funzioni lacunarie chiuse con aggiunta e prodotto*
@@ -193,7 +193,7 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limitazione inferiore sulla traccia di A^k per matrice con voci in [0,1]*

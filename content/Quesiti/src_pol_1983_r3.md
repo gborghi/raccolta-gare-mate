@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Convex n-gon con punto interno Q non su alcuna diagonale; dimostrare che il numero di triangoli P_iP_jP_k contenenti Q è pari quando n è pari.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato un a irrazionale in (0,1) e un intero positivo N, trovare integri positivi p,q,r,s con p/q < a < r/s, r/s - p/q < 1/N, e rq - ps = 1.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di pedoni da un giocatore su una scacchiera infinita: vengono rimossi due pedoni adiacenti e uno viene posto su un terzo quadrato vuoto adiacente; se i pedoni iniziali riempiono un rettangolo il cui numero di quadrati è divisibile per 3, dimostrare che il gioco non può finire con un pedone rimasto.*
@@ -109,7 +109,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che per i numeri naturali a,b,c,d con ab=cd, gcd(a,c) gcd(a,d)/gcd(a,b,c,d) = a.*
@@ -136,7 +136,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dati tre vettori di unità di piano a1,a2,a3, mostrare che si può scegliere c1,c2,c3 in {-1,1} in modo che la lunghezza di c1*a1+c2*a2+c3*a3 sia almeno 2.*
@@ -163,7 +163,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove che se tutti gli angoli diedrali di un tetraedro sono acuti, allora tutte le sue facce sono triangoli ad angolo acuto.

@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Demontrare una disuguaglianza per i reali positivi x,y,u,v.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una linea attraverso un punto esterno P incontra un cerchio a A,B; C è simmetrica a A wrt OP; dimostra che tutte le linee m=BC condividono un punto comune.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro con tre piani di sezione incrociata parallele; prova V1+V2+V3 >= 3V.*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi positivi con x1=1 e crescita limitata; mostrare che ogni intero positivo k è una differenza di due termini.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti D,E,F sui lati del triangolo ABC danno tre triangoli angolari con radii uguali a r1; dimostrare r1+r2=r dove r2,r sono radii di DEF e ABC.*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Continuo f con f(1000) =999 e f(x) f(f(x)) =1 per tutti gli x reali; determinare f(500).*

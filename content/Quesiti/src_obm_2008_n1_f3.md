@@ -31,7 +31,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato del lato 12 diviso in 7 rettangoli; identificare e trovare l'area del quadrato evidenziato*
@@ -68,7 +68,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Operazione che sostituisce ciascuna cifra con il suo successore mod 9, eliminando i primi zeri; sequenza e analisi a punto fisso*
@@ -106,7 +106,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi di tessitura di una scheda 3×n con 3×1 pezzi; valori specifici e n=15*
@@ -153,7 +153,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'esagono regolare di piastrelle il piano; mostrare il pentagono regolare con condizioni di angolo specifici anche piastrelle il piano*
@@ -197,7 +197,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * Numeri di 'Garbosy': multipli positivi le cui prime quattro cifre decimali sono 2008; mostrare 17 è garbosy e tutti i positivi sono *

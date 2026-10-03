@@ -31,7 +31,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nature of roots of x^2+bx+c=0 with c<0*
@@ -70,7 +70,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Acute parallelogram angle with perimeter and area*
@@ -103,7 +103,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unallocated surfaces, sum of powers of 2*
@@ -141,7 +141,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is between five expressions and an integer *
@@ -183,7 +183,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Red area near the triangular center of radius *
@@ -223,7 +223,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary root value less reciprocal sums, eq. The value of the underlying assets shall be the sum of the underlying assets of the institution.
@@ -255,7 +255,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x^3+1/x^3 given x+1/x=5*
@@ -286,7 +286,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n for a polynomial to have an integer solution*
@@ -339,7 +339,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage ex-circumference inscribed in a rectangular triangle*
@@ -379,7 +379,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of a regular side tetrahedron 6√2*
@@ -411,7 +411,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spieces of a face-counting polyester *
@@ -455,7 +455,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of not getting wet for three days in a row*
@@ -534,7 +534,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length DF in an equilateral triangle divided into two areas*

@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un angolo bisectore piede e incentro danno triangolo isosceles*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limita un^2 < f(n) < bn^2 per i triangoli a max pari dimensioni *
@@ -80,7 +80,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le equazioni funzionali soddisfacenti f:R->R*
@@ -107,7 +107,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più piccolo intero positivo che sia 'gettato' (arranjado) *
@@ -134,7 +134,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I lati opposti di 1003-gon convex sono paralleli e congruenti*
@@ -163,7 +163,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di calcio bilanciato se m <= phi*n, utilizzando f(n)=2n-f(r)+r*

@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca interi positivi le cui estremità quadrate sono in quattro 4s*
@@ -59,7 +59,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ottagone regolare con lato 2; punti di mezzo di due lati; trovare lunghezza XY*
@@ -90,7 +90,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo e il minimo di espressione ciclica su cubo unitario*
@@ -119,7 +119,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolo; bisetti d'angolo; piedi perpendicolari all'ipotenusa; trovare MN*
@@ -148,7 +148,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sette nane in coda secondo la regola dell'altezza; contare le code valide con e senza Biancaneve*

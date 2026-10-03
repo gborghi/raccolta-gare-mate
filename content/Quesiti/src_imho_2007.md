@@ -34,6 +34,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza per successioni reali con differenze definite*
 
 > Siano dati numeri reali $a_1, a_2, \ldots, a_n$. Per ogni $i$ ($1 \le i \le n$) si definisca
@@ -45,8 +46,6 @@ level: IMO
 > $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$
 >
 > (b) Si mostri che esistono numeri reali $x_1 \le x_2 \le \cdots \le x_n$ tali che valga l'uguaglianza in $(*)$.
-
-
 
 [[Quesiti/src_imho_2007#q01|src_imho_2007__Q01]]
 
@@ -70,11 +69,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Retta passante per vertice del parallelogramma incontra quadrilatero ciclico*
 
 > Siano dati cinque punti $A$, $B$, $C$, $D$ e $E$ tali che $ABCD$ sia un parallelogramma e $BCED$ sia un quadrilatero ciclico. Si supponga che una retta $\ell$ passante per $A$ intersechi l'interno del segmento $DC$ nel punto $F$ e intersechi la retta $BC$ nel punto $G$. Si supponga inoltre che $EF = EG = EC$. Si dimostri che $\ell$ è la bisettrice dell'angolo $DAB$.
-
-
 
 [[Quesiti/src_imho_2007#q02|src_imho_2007__Q02]]
 
@@ -100,13 +98,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimensioni dei clique in una partizione a due stanze del grafo degli amici*
 
 > In una gara matematica alcuni partecipanti sono amici. L'amicizia è sempre reciproca. Si chiama gruppo di amicizie un insieme di partecipanti tale che ogni due di essi siano amici. (In particolare, ogni insieme di meno di due partecipanti è un gruppo di amicizie.) Il numero di membri di un gruppo di amicizie si chiama la sua dimensione.
 > 
 > Si dimostri che, dato che in questa gara la massima dimensione di una clique è pari, i concorrenti possono essere disposti in due stanze in modo tale che la massima dimensione di una clique contenuta in una stanza sia uguale alla massima dimensione di una clique contenuta nell'altra stanza.
-
-
 
 [[Quesiti/src_imho_2007#q03|src_imho_2007__Q03]]
 
@@ -130,11 +127,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Bisettrice angolare, circonferenza circoscritta, assi perpendicolari, aree uguali*
 
 > Nel triangolo $ABC$ la bisettrice dell'angolo $BCA$ interseca nuovamente la circonferenza circoscritta in $R$, l'asse del segmento $BC$ in $P$ e l'asse del segmento $AC$ in $Q$. Il punto medio di $BC$ è $K$ e il punto medio di $AC$ è $L$. Si dimostri che i triangoli $RPK$ e $RQL$ hanno la stessa area.
-
-
 
 [[Quesiti/src_imho_2007#q04|src_imho_2007__Q04]]
 
@@ -158,11 +154,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Condizione di divisibilità implica a uguale a b*
 
 > Siano $a$ e $b$ numeri interi positivi. Si dimostri che se $4ab - 1$ divide $(4a^2 - 1)^2$, allora $a = b$.
-
-
 
 [[Quesiti/src_imho_2007#q05|src_imho_2007__Q05]]
 
@@ -188,10 +183,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Piani minimi che coprono punti reticolari con somma delle coordinate positiva*
 
 > Sia $n$ un intero positivo. Si consideri $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ come insieme di $(n+1)^3 - 1$ punti nello spazio tridimensionale. Si determini il numero minimo possibile di piani la cui unione contenga $S$ ma non includa $(0, 0, 0)$.
-
-
 
 [[Quesiti/src_imho_2007#q06|src_imho_2007__Q06]]

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova prima n>1 dove la media dei quadrati è un quadrato perfetto*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli a lato intero non congruenti con un determinato perimetro*
@@ -83,7 +83,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Archivi AP AQ AR AS con angoli uguali; dimostrare l'identità del prodotto*
@@ -112,7 +112,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i quadrati perfetti mod 2^n*

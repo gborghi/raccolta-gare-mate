@@ -33,7 +33,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *United number of the next page divisible by 3,4,5*
@@ -75,7 +75,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of a with x^2+2ax+1=0 at coinciding roots*
@@ -116,7 +116,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area triangle rectangle by projections of the catheters*
@@ -158,7 +158,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *TV price with two successive discounts*
@@ -199,7 +199,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of positive divisors of 6 factors*
@@ -241,7 +241,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope perimeter by diagonal to 3/4 *
@@ -280,7 +280,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordinate roots 2 *2^1/6), roots 5, 11^1/3) *
@@ -318,7 +318,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Center beam between six hexagonal beams*
@@ -362,7 +362,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real solutions to an equation with absolute values*
@@ -407,7 +407,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Candy price class companies*
@@ -461,7 +461,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of enclosed and inscribed square areas*
@@ -514,7 +514,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering ISOLA without two consecutive consonants*
@@ -558,7 +558,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The truth and lies between Andrew, Barbara and Cyrus
@@ -598,7 +598,7 @@ The truth and lies between Andrew, Barbara and Cyrus
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of 17 high 17*
@@ -641,7 +641,7 @@ The truth and lies between Andrew, Barbara and Cyrus
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of motorcycles from vehicles and covers*
@@ -710,7 +710,7 @@ The truth and lies between Andrew, Barbara and Cyrus
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *HCD triangle area from segments in a square*
@@ -776,7 +776,7 @@ The truth and lies between Andrew, Barbara and Cyrus
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nature of number 100020001*

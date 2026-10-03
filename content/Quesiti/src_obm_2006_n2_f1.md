@@ -31,7 +31,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espressione con potenze di 2, conteggio di cifre*
@@ -66,7 +66,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura *
@@ -101,7 +101,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero a due cifre, 5 volte la somma di 5 cifre equivale a 6 volte la somma di 6 cifre scambiata*
@@ -134,7 +134,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due amici che fanno un ciclo in direzioni opposte, trovano il tempo di attesa*
@@ -169,7 +169,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles con angolo BAD=30 gradi, trovare angolo x*
@@ -204,7 +204,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma di tre naturali consecutivi è pari al loro prodotto; trovare la somma *
@@ -236,7 +236,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'età di Neto nel 2006 data la sua età e l'anno di nascita del 1994
@@ -270,7 +270,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadrati che condividono vertici con due basi verticali, trovare angolo x*
@@ -305,7 +305,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *espressione integrale non rappresentante 24*
@@ -340,7 +340,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrati di conteggio costruiti dalla griglia a punti*
@@ -379,7 +379,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Puzzle logico: sei amici, due per trasporto, dedurre chi cavalca cosa*
@@ -411,7 +411,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di superficie di triangolo equilaterale a esagono regolare con lo stesso perimetro*
@@ -444,7 +444,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *GCD di tutti i termini della sequenza a_n = n^2 - n*
@@ -476,7 +476,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Samuel ha 3 fratelli in più di sorelle; fratelli contano
@@ -511,7 +511,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tangramma con 5 triangoli e 1 quadrato, area ombrata*
@@ -546,7 +546,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *João scrive tutti i numeri a 4 cifre utilizzando solo i numeri 1 e 2; trovare somma*
@@ -587,7 +587,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati a, b, c sommati a 1; determinare quale disuguaglianza *
@@ -630,7 +630,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare soluzioni a numeri interi positivi per il sistema a+b=c^2, a+b+c=30*
@@ -663,7 +663,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un numero a due cifre chiamato bonito se decine di cifre > unità; contare bonitos*
@@ -696,7 +696,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Spreadsheet computa media in esecuzione; trova l'ultima nota inserita da Piralão*
@@ -731,7 +731,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semplificare l'espressione radicale annidata*
@@ -764,7 +764,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ludmilson fa le pagine di un libro con numeri a 4 cifre utilizzando solo 1 e 2*
@@ -799,7 +799,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri reali x+y+z=0; trovare il valore dell'espressione*
@@ -832,7 +832,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'orologio digitale mostra l'ora fino al minuto più vicino; contare gli schermi a numeri pari*
@@ -867,7 +867,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con triangoli equilaterali ACD e AEB; trovare rapporto BD/FG*

@@ -30,7 +30,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri quadrati: la somma di cifre è un quadrato perfetto*
@@ -61,7 +61,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare triples di numeri interi positivi con condizioni di divisibilità*
@@ -96,7 +96,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due lotti adiacenti: perimetri, area di prato, passaggio di superficie uguale*
@@ -139,7 +139,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Studenti che aprono casili: doppio mod 2021, contare i casili aperti*
@@ -186,7 +186,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lock di codice con n pulsanti: pressioni minime per garantire l'apertura*

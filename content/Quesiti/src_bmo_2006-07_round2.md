@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo a lato intero, bisettore angolare incontra BC, AB=CD, trova AB e BC*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra infinitamente molte coppie di numeri interi positivi che rendono la somma delle frazioni un numero intero positivo*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, angolo BAC=60 gradi, linea di Euler incontra i lati, prova PO=HQ*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rete ferroviaria di sei città, conteggiare le vie di chiusura delle linee mantenendo piena connettività*

@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piegato quadrato; il raggio di GCA è uguale alla somma dei raggi di GDF e A'BE*
@@ -57,7 +57,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca le radici di numeri interi di cubo con parametro n*
@@ -86,7 +86,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca triplici (x,a,b) che soddisfino l'equazione frazionaria*
@@ -113,7 +113,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono converso con angoli uguali e lati interi consecutivi; trovare AB+BC+CD*
@@ -140,7 +140,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altitudine perpendicolare ai centri di collegamento delle linee dei subtriangoli*
@@ -169,7 +169,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integro n che rende x un intero con lati che formano un triangolo di raggio intero*

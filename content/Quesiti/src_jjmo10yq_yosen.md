@@ -27,7 +27,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due persone scalare le scale a velocità diverse; trovare possibili numeri di scale*
@@ -56,7 +56,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare palindromi al massimo 2012 con ordine inverso uguale all'originale*
@@ -87,7 +87,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono formato da quadrati su ciascun lato del triangolo; trovare la sua superficie*
@@ -120,7 +120,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto E sul lato DA del quadrilaterale; troverà lunghezza EC*
@@ -151,7 +151,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 4 doppi di numeri interi positivi con a+bcd=ab+cd*
@@ -182,7 +182,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Octogono regolare con lato 1; trovare area di AIGH quadrilaterale *
@@ -215,7 +215,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta percorsi che visitano 9 punti del grafico esattamente una volta e ritornano al start*
@@ -246,7 +246,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi inferiori a 10^6 divisibili per 3 scritti sulla lavagna una volta ciascuno*
@@ -275,7 +275,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A e B scelgono ciascuno tre integri a 1 cifra; contano i modi in cui il prodotto di A è uguale alla somma di B*
@@ -304,7 +304,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta n<=999 tale che S(n)/S(n+1) sia un intero*
@@ -333,7 +333,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dimensioni della scatola di conte a<=b<=c per una scatola di conte a×b×c costruita a partire da cubetti unitari con un conto non dipinto uguale*
@@ -364,7 +364,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo X inserito nel PQRS quadrilaterale; trovare il raggio del circolo X dato i raggi di A,B,C,D*

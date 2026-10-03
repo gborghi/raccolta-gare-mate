@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last date of March for the third Thursday*
@@ -83,7 +83,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Word that certainly does not appear by adding two letters to VOLANO*
@@ -118,7 +118,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2014-2014*
@@ -157,7 +157,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meter of wire between tiles in room 10x6*
@@ -195,7 +195,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference of two integers with product 36 and sum 37*
@@ -248,7 +248,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the eagle stylized by the cuts*
@@ -294,7 +294,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bucket capacity (half and then three quarters) *
@@ -342,7 +342,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs to be added per cube of bead 3*
@@ -389,7 +389,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which product gives the highest result*
@@ -441,7 +441,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most white grains parched before the fifth gray*
@@ -491,7 +491,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weeks of the period with 15 lessons difference*
@@ -561,7 +561,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region covered by the 5 overlapping circles*
@@ -617,7 +617,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of granddaughter (powers of 2 plus 100) *
@@ -681,7 +681,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of each rectangle squared side 24*
@@ -750,7 +750,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 When heart and arrow match for the first time
@@ -824,7 +824,7 @@ When heart and arrow match for the first time
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BAC angle given the angle between height and width*
@@ -894,7 +894,7 @@ When heart and arrow match for the first time
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum time to finish the two baths with data times*
@@ -933,7 +933,7 @@ When heart and arrow match for the first time
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lengths of the three sides from the rectangular beams*
@@ -978,7 +978,7 @@ When heart and arrow match for the first time
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many coins were in the fortress
@@ -1019,7 +1019,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean of the four numbers from the sums given*
@@ -1083,7 +1083,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers adjacent to 8 in table 3x3*
@@ -1150,7 +1150,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * heavier than weights (defective balance) *
@@ -1229,7 +1229,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the trapezoid from the triangles of the diagonals*
@@ -1300,7 +1300,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum numbers from 1 to 20 with no more than double the minor*
@@ -1346,7 +1346,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between the speeds of the two parts of the journey*
@@ -1390,7 +1390,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Design on the opposite side of the cube parallel-piped*
@@ -1451,7 +1451,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many are from the Greens (Green/Red/Yellow) *
@@ -1497,7 +1497,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of M with divisible by 2 and 13*
@@ -1545,7 +1545,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most frog-friendly leaves (non-adjacent leaps) *
@@ -1615,7 +1615,7 @@ How many coins were in the fortress
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum gray spikes on the edge of the tiled square*

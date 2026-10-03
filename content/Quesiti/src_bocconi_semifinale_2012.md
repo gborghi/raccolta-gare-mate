@@ -33,7 +33,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Led plate number in the rear-view mirror.*
@@ -74,7 +74,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the six free bricks with numbers from 2 to 7 so that each hole around a black disk is 11.*
@@ -113,7 +113,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Determining cell phones sold in December based on data on sales on specific days.*
@@ -152,7 +152,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of steps in front of the podium along a serpentine circuit with 111 corners to the right.*
@@ -191,7 +191,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the expected number knowing that after several operations you get 1,000,000.*
@@ -230,7 +230,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of eggs for each box to contain at least one and each side of the chicken to contain exactly 10. *
@@ -271,7 +271,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 3-box tiles to be placed until space is left, leaving empty boxes.*
@@ -310,7 +310,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of key presses 3, 5, +, = to display 2012 on a limited calculator.*
@@ -349,7 +349,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers hidden by symbols given the row and column sums; find the sum of the third row.*
@@ -390,7 +390,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete in digits the missing numbers in the self-reference box that describes how many multiples of 5 appear in it.*
@@ -431,7 +431,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The last issue Milena manages to write with strokes, stopping at the 312th stroke.
@@ -472,7 +472,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the magic "E" with the numbers 1 to 10 (5 already placed) respecting sums and orders; find the first line.*
@@ -513,7 +513,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area of the square given the grey triangle on the midpoints with full-size sides.*
@@ -552,7 +552,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of N+P numbers given the sums of N (1012) and P (2012).*
@@ -591,7 +591,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum minimum number of moves (rotations of 90° of two contact cards) to move between two configurations of 8 cards on a 4x4 chessboard.*
@@ -634,7 +634,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Surface of the grey triangular visor of the helmet from a pentagon inscribed in a circumference.*
@@ -677,7 +677,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Elimination game on N=2012 cards in a circle (every third card is eliminated): Find the card eliminated immediately after the 2012 card. *

@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many jam cookies did Ada have before the exchange?
@@ -54,7 +54,7 @@ How many jam cookies did Ada have before the exchange?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Receive 2021 from the calculator with only operations with 2019*
@@ -84,7 +84,7 @@ How many jam cookies did Ada have before the exchange?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the ITE angle in the equilateral pentagon and triangle*
@@ -114,7 +114,7 @@ How many jam cookies did Ada have before the exchange?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number written by Carla given difference 14789*
@@ -143,7 +143,7 @@ Number written by Carla given difference 14789*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Because Elvira wants to start playing the 66-figure game.
@@ -172,7 +172,7 @@ Because Elvira wants to start playing the 66-figure game.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In a few years the full moon will return to February.

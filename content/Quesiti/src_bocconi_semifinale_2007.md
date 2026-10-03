@@ -31,7 +31,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number of four digits as reflected on the astronaut suit
@@ -64,7 +64,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the figures of $10^7 - 2007$*
@@ -97,7 +97,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden under ink stains in the equation*
@@ -134,7 +134,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distance travelled by an ant on cube shafts*
@@ -169,7 +169,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete arrow diagram with paired products*
@@ -202,7 +202,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Periods of 2+ consecutive days with 15 Sudoku solved total*
@@ -238,7 +238,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of live animals as of 24 March 2007*
@@ -275,7 +275,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the grid with integers 2-10, sums per row given*
@@ -312,7 +312,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side size square boards in box 45x34 cm*
@@ -347,7 +347,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining coloured carpets in the Nando box*
@@ -382,7 +382,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of the maximum sum of three consecutive circles with 1-16*
@@ -417,7 +417,7 @@ Number of four digits as reflected on the astronaut suit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Meeting point between Carla and Milena with different speeds up and down
@@ -450,7 +450,7 @@ Meeting point between Carla and Milena with different speeds up and down
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the upper right to the opposite side in triangular pool*
@@ -487,7 +487,7 @@ Meeting point between Carla and Milena with different speeds up and down
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number of biscuits with four sailors and one dog*
@@ -524,7 +524,7 @@ Meeting point between Carla and Milena with different speeds up and down
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Irreducible fraction corresponding to number 121212121212*
@@ -555,7 +555,7 @@ Meeting point between Carla and Milena with different speeds up and down
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting numbers of 10 distinct digits divisible by 11*
@@ -588,7 +588,7 @@ Meeting point between Carla and Milena with different speeds up and down
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AX/XY ratio in a triangle with a point on the cevial*
@@ -623,7 +623,7 @@ Meeting point between Carla and Milena with different speeds up and down
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of sons of Luca Maria*

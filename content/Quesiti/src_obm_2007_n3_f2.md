@@ -29,7 +29,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i divisori inferiori al 2007 del più grande divisore di 123456 al di sotto del 2007*
@@ -60,7 +60,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità geometrica che un punto casuale su un segmento si trovi a distanza di 5/3 dell'origine*
@@ -91,7 +91,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa digitali del numero intero più vicino alla radice quadrata del repunito di 1000 cifre*
@@ -123,7 +123,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto con incentro I e punto medio O dell'ipotenusa; angolo dato AOI angolo di ritrovamento ACB*
@@ -158,7 +158,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di colori validi a due lettere di una lavagna senza due lettere consecutive uguali nella prima riga*
@@ -191,7 +191,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (x,y) che soddisfano x^2 - xy + y^2 = 2x + 2y*
@@ -222,7 +222,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri a sei cifre del modulo AABBB che sono uno meno di un quadrato perfetto*
@@ -255,7 +255,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che un triangolo in una configurazione di cerchio è equilaterale con il lato 8 e calcola la sua superficie*
@@ -288,7 +288,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero minimo di strade tra le 20 città per garantire la connessione della rete stradale*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il polinomio a coefficiente intero che prende il valore 1990 a quattro numeri interi distinti non può prendere il valore 1991*
@@ -60,7 +60,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un numero positivo s tale che la somma frazionaria sia uguale al 1990; esistono soluzioni razionali?*
@@ -94,7 +94,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserire la regola cosina; provare sqrt(a) +sqrt(b)>sqrt(c) per i lati del triangolo a,b,c*
@@ -128,7 +128,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima dei triangoli inseriti in T; prova AI^2 = AB·AC per incentro I*

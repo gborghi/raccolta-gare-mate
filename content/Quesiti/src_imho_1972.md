@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Due sottoinsiemi disgiunti di dieci numeri da due cifre con somme uguali*
 
 > Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
-
-
 
 [[Quesiti/src_imho_1972#q01|src_imho_1972__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Un quadrilatero inscritto in una circonferenza può essere scomposto in quadrilateri anch'essi inscrivibili*
 
 > Si dimostri che se $n \ge 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali è anch'esso inscrivibile in una circonferenza.
-
-
 
 [[Quesiti/src_imho_1972#q02|src_imho_1972__Q02]]
 
@@ -86,13 +84,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che l'espressione contenente coefficienti binomiali è un intero*
 
 > Siano $m$ e $n$ due interi non negativi arbitrari. Si dimostri che
 > $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
 > è un numero intero. ($0! = 1$.)
-
-
 
 [[Quesiti/src_imho_1972#q03|src_imho_1972__Q03]]
 
@@ -123,6 +120,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le soluzioni di un sistema di quattro disuguaglianze*
 
 > Determinare tutte le soluzioni $(x_1, x_2, x_3, x_4)$ del sistema di disuguaglianze
@@ -133,8 +131,6 @@ level: IMO
 > (x_4^2 - x_2 x_4)(x_1^2 - x_2 x_1) &\le 0
 > \end{aligned}$$
 > dove $x_1, x_2, x_3, x_4$ sono numeri reali positivi.
-
-
 
 [[Quesiti/src_imho_1972#q04|src_imho_1972__Q04]]
 
@@ -160,13 +156,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale f(x+y)+f(x-y)=2f(x)g(y) con vincoli*
 
 > Siano $f$ e $g$ funzioni a valori reali definite per tutti i numeri reali $x$ e $y$, e soddisfacenti l'equazione
 > $$f(x + y) + f(x - y) = 2f(x)g(y)$$
 > per tutti gli $x, y$. Si dimostri che se $f(x)$ non è identicamente nulla, e se $|f(x)| \le 1$ per tutti gli $x$, allora $|g(y)| \le 1$ per tutti gli $y$.
-
-
 
 [[Quesiti/src_imho_1972#q05|src_imho_1972__Q05]]
 
@@ -190,10 +185,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quattro piani paralleli distinti implicano un tetraedro regolare con un vertice su ciascuno*
 
 > Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
-
-
 
 [[Quesiti/src_imho_1972#q06|src_imho_1972__Q06]]

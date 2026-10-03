@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i primi p<200 dove p,p+2,p+6,p+8,p+12 sono tutti primi; primo q unico per q+2,q+6,q+8,q+12,q+14 tutti primi*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i possibili valori di a_1 in una sequenza di numeri interi che soddisfa una ricorrenza*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti con tangente comune; dimostrare che l'AC è perpendicolare a BD*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pinguini in coda con le regole dei biglietti; trovare i conti vicino ai biglietti 2 e 33*
@@ -148,7 +148,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bambini con dolci intorno a un tavolo; trovare accordi iniziali che possano essere resi perfetti*
@@ -178,7 +178,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni f che assegnano integri a coppie di integri che soddisfano una determinata equazione funzionale*

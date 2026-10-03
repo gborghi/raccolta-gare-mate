@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum handshakes between 35 participants in two factions*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary k in succession to 1000*
@@ -94,7 +94,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance A from the pump with diameters and tangents, XY=9*
@@ -127,7 +127,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ray with CAPB area equal to square inscribed, dist 600*
@@ -158,7 +158,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *External Wolfram probability numerator, polygon 10000 *
@@ -189,7 +189,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with n(n-1) n-2) multiple of 13 and 17*
@@ -222,7 +222,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-sets of 1 to 13 with product unit number zero*
@@ -259,7 +259,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (x,y) with shy shy <=6000 and relationship to powers of 2 *
@@ -295,7 +295,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Iterated digital root of 2024^2025*
@@ -326,7 +326,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AC side with congruent inscribed circles, height 240*
@@ -360,7 +360,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to reach 12 blue 10 red 4 green with minimal moves*
@@ -393,7 +393,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of union of three rectangles, AB=46 BC=20*
@@ -425,7 +425,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Treated as a minimum road climb around cones, abbreviation 1000*
@@ -462,7 +462,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sequence length with difference 11, exponent of 2*
@@ -497,7 +497,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible number of members Table organisation*
@@ -539,7 +539,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of consecutive entries n) from 1 to 99 *

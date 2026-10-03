@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total votes in favour in the referendum 252 voters*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time when the fast whale reverses course*
@@ -97,7 +97,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of sides n with minimum diameter sum 2022*
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum a+b+c with two quadratic equations*
@@ -160,7 +160,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2022-th whole without digit 1 *
@@ -232,7 +232,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length BC given triangular areas in a rectangle*
@@ -297,7 +297,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n for two prime numbers between them*
@@ -327,7 +327,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume octahedron with vertical centers of cubic faces*
@@ -365,7 +365,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a^4+1/a^4 given (a-1/a)^2=3*
@@ -398,7 +398,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of unbroken disjoint subset *
@@ -428,7 +428,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Central angle arithmetic progression pentagon *
@@ -471,7 +471,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits of n in the difference of 1/18*
@@ -512,7 +512,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of three-digit palindromes, first four digits *
@@ -544,7 +544,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles triangulation polygon 2022*
@@ -581,7 +581,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 10..1000 in ascending order*

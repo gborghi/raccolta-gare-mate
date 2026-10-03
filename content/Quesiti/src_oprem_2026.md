@@ -28,7 +28,7 @@ level: Olympiades Première
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Esercizio 1, Q1: logica grafica d'amore su chi ama chi
@@ -57,7 +57,7 @@ Esercizio 1, Q1: logica grafica d'amore su chi ama chi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 1, Q2: trucco dell'età, la persona può diventare più giovane*
@@ -85,7 +85,7 @@ Esercizio 1, Q1: logica grafica d'amore su chi ama chi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
@@ -115,7 +115,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 1, Q4: volume del secchio di frustum, raggio del livello dell'acqua e livello di mezzo riempimento*
@@ -148,7 +148,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 1, Q5: triomini a piastrella 2^n x 2^n griglie, con cellule rimosse*
@@ -180,7 +180,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 1, Q6: somma armonica H_n, peso binario, H_n mai numero intero per n>=2*
@@ -211,7 +211,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q1: primo conteggio pi(n), valori iniziali*
@@ -240,7 +240,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q2: pi_n è in aumento*
@@ -268,7 +268,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q3: pi(p) = pi(q) se non esiste un primo rigorosamente tra p e q*
@@ -296,7 +296,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q4: dimostrare pi_n <= n e trovare casi di uguaglianza*
@@ -325,7 +325,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q5: sequenza di iterazioni m, pi(m), pi(pi(m)),... per m=5 e m=11*
@@ -354,7 +354,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q6: la sequenza iterata sta diminuendo e alla fine è costante*
@@ -383,7 +383,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q7: di cui 2,3,5,7,11 sono superprimi*
@@ -411,7 +411,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q8: i superprimi formano una sequenza crescente, dimostrano pi(s_n) = s_n*
@@ -440,7 +440,7 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Esercizio 2, Q9: dare il quinto più piccolo super primo
@@ -469,7 +469,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q10: disuguaglianza sul prodotto dei numeri primi tra n) e n
@@ -498,7 +498,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q11: dedurre il limite superiore pi(N) <= N/(M+1) + sqrt(N)*
@@ -527,7 +527,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q12: mostra N/pi(N) >= M per N sufficientemente grande*
@@ -555,7 +555,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2, Q13: conclusione*
@@ -586,7 +586,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3, Q1: triomino (bis), tessuto di griglia 3x6*
@@ -617,7 +617,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3, Q2: ab divisibile per 3 se possibile; trovare la possibilità di trovare una x una griglia*
@@ -646,7 +646,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3, Q3: condizione su b per una griglia da 2 x b di essere pavable*
@@ -677,7 +677,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3, Q4: lavori manuali, taglio/riflessione di una banda 2x16 in una ghirlanda di triomani*
@@ -708,7 +708,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3, Q5: a=5, griglie di piastrelle con b=6, b=9, e b divisibile per 3 con b>=6*
@@ -737,7 +737,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3, Q6: se a x b può essere eseguito, allora (a+2) x b può essere eseguito*
@@ -766,7 +766,7 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Esercizio 3, Q7: completa caratterizzazione, a x b (a,b>=4) pavable if 3

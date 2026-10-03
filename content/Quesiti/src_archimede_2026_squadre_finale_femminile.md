@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regular polygon sides with an inner angle 719 times the outer angle*
@@ -62,7 +62,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum 4-digit numbers to have 2026 digits equal*
@@ -111,7 +111,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values x that make binomial expression square*
@@ -147,7 +147,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third digit numbers with more than tens of units and hundreds*
@@ -186,7 +186,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A distance AE in isosceles trapezoid with perpendicular trajectory*
@@ -221,7 +221,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of partial sums never divisible by 3*
@@ -263,7 +263,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum polynomial degree coef 2,0,6 with p(-1) = 2026*
@@ -306,7 +306,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ODBE quadrilateral area from triangular areas with cevial *
@@ -355,7 +355,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(-11) for whole cubic polynomials with p(2+√3) given*
@@ -401,7 +401,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n with 1+2+...+n divisible by n+5*
@@ -468,7 +468,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Total numbers of thousands, hundreds, tens less units 1000-2026
@@ -504,7 +504,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many beam bounces at 5° to get back into the pit*
@@ -540,7 +540,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean time ratio speed over time vs distance*
@@ -582,7 +582,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance BN between two square circumferences*
@@ -627,7 +627,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of non-reducible fractions n/100 with 1<=n<=99*
@@ -677,7 +677,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive pairs (a,b) with a^2+b^2-2a-4b=2026*
@@ -715,7 +715,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area quadrilateral section of hexagonal pyramid*
@@ -784,7 +784,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum b with roots of g square roots of f*
@@ -838,7 +838,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance BC in quadratic with angles 45 and AC=CD*
@@ -878,7 +878,7 @@ Total numbers of thousands, hundreds, tens less units 1000-2026
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The rest of the 18! divided by 1+2+...+18 (Wilson)*
@@ -919,7 +919,7 @@ The rest of the 18! divided by 1+2+...+18 (Wilson)*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 5 distinct digits with two digit conditions *

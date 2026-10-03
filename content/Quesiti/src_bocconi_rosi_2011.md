@@ -28,7 +28,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Luxury machinery cost versus savings*
@@ -59,7 +59,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Count triangles in the figure*
@@ -90,7 +90,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers distinguished by 1,2,3,4,5*
@@ -119,7 +119,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers (repeated) with 1,2,3,4,5*
@@ -149,7 +149,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Potatoes of travellers distributed to third parties*
@@ -180,7 +180,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AC diagonal on four aligned equilateral triangles*
@@ -212,7 +212,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of area dark square to large square*
@@ -245,7 +245,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A white area between three concentric circles*
@@ -276,7 +276,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Litres in the batch which initially contained more *
@@ -305,7 +305,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of Deborah with constraints on three twins*
@@ -335,7 +335,7 @@ level: Giochi di Rosi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Chocolates received from Carla in the second distribution*
@@ -364,7 +364,7 @@ Chocolates received from Carla in the second distribution*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Places in Liliana's favourite film
@@ -393,7 +393,7 @@ Places in Liliana's favourite film
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The cost of the lost book in the classroom library
@@ -423,7 +423,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nando's arrival time is late*
@@ -454,7 +454,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three out of five surfaces of equal area*
@@ -488,7 +488,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the eight numbers around 55*
@@ -519,7 +519,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rifter current speed*
@@ -549,7 +549,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How often does Amerigo fixation occur between 14 and 17 *
@@ -581,7 +581,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the empty brick of the pyramid*
@@ -612,7 +612,7 @@ The cost of the lost book in the classroom library
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The time Renato had charged the pendulum yesterday.

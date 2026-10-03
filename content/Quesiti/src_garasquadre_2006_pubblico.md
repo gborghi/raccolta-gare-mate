@@ -27,7 +27,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number in the grey column*
@@ -66,7 +66,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum x with cubic root x+1184)-root x-1184) = 4
@@ -98,7 +98,7 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *modules of mutual relations*
@@ -136,7 +136,7 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of 4a^3/b + b + 1/a with a,b positive real *
@@ -182,7 +182,7 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *find AB*
@@ -218,7 +218,7 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficient of term x^2006 of a product of polynomials*
@@ -251,7 +251,7 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *full length of the circumference*
@@ -285,7 +285,7 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The final figure is not much of (5n)! for the years 2006 to 2009*
@@ -317,7 +317,7 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
@@ -352,7 +352,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum combinations of useful potion*
@@ -390,7 +390,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimize the difference between magic numbers*
@@ -424,7 +424,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-empty subsets of {1,9} with multiple sums of 3 *
@@ -456,7 +456,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The fifth root of a 4-digit integer with the third digit 5*
@@ -487,7 +487,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining of division of 4 *7^23+3^11 by 101 *
@@ -523,7 +523,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *probability of the ball touching Rapporteur*
@@ -556,7 +556,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs with axes parallel to the axes and whole vertices 0-10*
@@ -589,7 +589,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sets of consecutive integers with a sum of 1 billion *
@@ -624,7 +624,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum denominator with decimal period of 4 distinct digits*
@@ -658,7 +658,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum of four digits*
@@ -693,7 +693,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * report area 1000A/B *
@@ -727,7 +727,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive rational sums form a/30 less than 10*
@@ -761,7 +761,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *counting *
@@ -793,7 +793,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies between 4000 and 7000 with all different digits*
@@ -907,7 +907,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *probabilita Hardy vinca la nona partita*

@@ -32,7 +32,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare il 2020 diviso per (20 volte 20)*
@@ -73,7 +73,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rimanente quando 1234 per 5678 è diviso per 5*
@@ -116,7 +116,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di superficie di una forma fatta di cinque cubetti unitari disposti in segno più*
@@ -158,7 +158,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca p+q+r+s data una catena di prodotti pari a 2, 20, 202, 2020*
@@ -198,7 +198,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la radice quadrata di 123454321*
@@ -239,7 +239,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno studenti che giocano all'hockey in condizioni di LCM in una classe inferiore a 30*
@@ -279,7 +279,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riduczione approssimativa percentuale degli incidenti di macchine da tè da 225 a 47*
@@ -320,7 +320,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fattore primo più piccolo di 106 al quadrato meno 15 al quadrato*
@@ -360,7 +360,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distanza in metri tra due auto a 180 km/h ciascuna che si trovano a 1 secondo di distanza*
@@ -401,7 +401,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Contare le persone che stanno tra Tara e Uma in una fila di sei amici
@@ -443,7 +443,7 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro di un ottagono formato da due pentagoni congruenti uniti*
@@ -485,7 +485,7 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il costo di un completo a tre pezzi data due equazioni sui prezzi di giacca, pantaloni, giubbotto*
@@ -526,7 +526,7 @@ Contare le persone che stanno tra Tara e Uma in una fila di sei amici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
@@ -569,7 +569,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le reti completate che collocano due dischi blu identici, due rossi e uno giallo su una griglia 3x2 con restrizioni sulla condivisione dei bordi*
@@ -613,7 +613,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area oscurata all'interno di un cerchio di raggio 3, tra il cerchio e due tangenti che si incontrano a 60 gradi*
@@ -658,7 +658,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare il diagramma che rappresenta tutti i punti (x,y) che soddisfano y^2 - 2y = x^2 + 2x*
@@ -701,7 +701,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca p dato che i numeri interi positivi m, n, p soddisfano 3m + 3/(n + 3/p) = 17*
@@ -741,7 +741,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei raggi di due cerchi centrati a (3,4) che toccano ciascuno un cerchio centrato a origine con raggio 2*
@@ -782,7 +782,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i possibili valori di t dove p, q, r, s, t sono diversi interi positivi a un solo digitolo con p - q = r - s + t*
@@ -822,7 +822,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca 5^(x+y) dato due equazioni esponenziali in x e y*
@@ -862,7 +862,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri di (10^2020 + 2020)^2, un numero di 4041 cifre*
@@ -904,7 +904,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro di un rettangolo formato da riorganizzazione di pezzi tagliati da un quadrato unitario*
@@ -946,7 +946,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di (f(20) - f(2)) / f(3) per una funzione che soddisfa y^2 f(x) = x^2 f(y) *
@@ -989,7 +989,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di SQ in un triangolo in cui M è il punto medio di PQ, PS divide l'angolo RPQ, ST è parallelo a PR, angolo MTI = 120 gradi*
@@ -1034,7 +1034,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il valore più basso possibile di p per un normale m-gon, n-gon e p-gon che condividono un vertex e bordi in coppia*

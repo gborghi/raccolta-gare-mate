@@ -43,7 +43,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *side of the largest triangle *
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * frozen 2 kang with 2 euro *
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * is suitable for which? *
@@ -163,7 +163,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * full diameter of coin B*
@@ -224,7 +224,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of units in the unit.
@@ -269,7 +269,7 @@ This is the total number of units in the unit.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *days of additional bridge *

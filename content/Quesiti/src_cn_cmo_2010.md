@@ -28,7 +28,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi incrociati, la linea CF incontra i cerchi a P Q, punti di mezzo di archi, prova conciclica*
@@ -59,7 +59,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con ricorsione basata su gcd, dimostrare che è primo infinitamente spesso*
@@ -86,7 +86,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio complesso dilimitato sul disco unitario, trovare il coefficiente medio massimo*
@@ -113,7 +113,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coperire m integri utilizzando un piccolo insieme di T più spostamenti in [-n,n]*
@@ -143,7 +143,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le pile di carte in posizioni n+1, due operazioni, dimostrano che n^2+3n+1 carte sono sufficienti*
@@ -172,7 +172,7 @@ level: China Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sei integri positivi distinti in coppia con condizione di potenza somma, provare il rapporto è intero*

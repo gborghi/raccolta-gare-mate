@@ -29,7 +29,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti nello spazio con lunghezze di bordo indicate, valori di conteggio del prodotto delle diagonali*
@@ -63,7 +63,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo inserito nel cerchio unitario, bisectori angolari estesi al cerchio, rapporto di valutazione*
@@ -101,7 +101,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sezione trasversale di cubo perpendicolare alla diagonale dello spazio: perimetro o area fissa?*
@@ -143,7 +143,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare la sezione conica dell'equazione con coefficienti trigonometrici irrazionali*
@@ -183,7 +183,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'elemento 2005 in ordine decrescente di un insieme di frazioni base-7*
@@ -218,7 +218,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riscrivere il polinomio nella variabile spostata y=x-4, trovare la somma dei coefficienti*
@@ -247,7 +247,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la gamma di a da disuguaglianza che comporta una funzione in diminuzione*
@@ -278,7 +278,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova gamma meno alfa data la somma del triplo cosino scompare per tutti x*
@@ -309,7 +309,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il CD in tetraedro dato volume, angolo e condizione di uguaglianza AM-GM*
@@ -340,7 +340,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area minima di quadrato con un lato su una linea e vertici opposti sulla parabola*
@@ -369,7 +369,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri fortunati con somma di 7 numeri: trovare a_{5m} dato a_m = 2005*
@@ -403,7 +403,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di prova definita da recidiva radicale incastonata rende numeri interi e quadrati perfetti*
@@ -435,7 +435,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nove palle su un cerchio, trovare la probabilità che la somma delle differenze assolute dei vicini è ridotta al minimo*

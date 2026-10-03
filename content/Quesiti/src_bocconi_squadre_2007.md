@@ -28,7 +28,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Insert operations between 7 sets to get 34*
@@ -55,7 +55,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to form 1 Euro with coins of 5, 10, 20 cents*
@@ -84,7 +84,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White, red and green carnations: sufficient minimum quantity*
@@ -117,7 +117,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between trapezoidal area ABCD and triangle ACE*
@@ -151,7 +151,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of Amerigo square with frame *
@@ -182,7 +182,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive three-digit integers with a finite square of 444*
@@ -209,7 +209,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive three- or four-digit integers with a finite square for 4444*
@@ -238,7 +238,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer terms (x,y,z) with 1≤x≤y≤z such that (x-1)
@@ -269,7 +269,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Present age of son of Paul*
@@ -301,7 +301,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that a 3-year-old child is the youngest*
@@ -332,7 +332,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number multiplied by 792 with partially unreadable digits*
@@ -360,7 +360,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Jumps of a fox chased by a dog: when does it reach the fox?*
@@ -390,7 +390,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum path along the faces of the parallel piped from A to B*
@@ -421,7 +421,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of girls at the party of 20 people*
@@ -452,7 +452,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Similar perfect numbers between 1900 and 2000*
@@ -483,7 +483,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of daughters of Anne and Luke*
@@ -518,7 +518,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the layout of tokens on hexagons with sums equal to 100*
@@ -555,7 +555,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum perimeter of the Luca Maria field formed by two rectangular triangles*
@@ -590,7 +590,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles *
@@ -624,7 +624,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height difference between Desiderio and Nando (IMC) *

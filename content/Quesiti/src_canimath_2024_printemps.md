@@ -28,7 +28,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri sommano 96 con condizioni di rapporto e di differenza*
@@ -58,7 +58,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma con segmenti uguali, bisettore angolare perpendicolare a KL*
@@ -86,7 +86,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo n so prodotto di n positivi consecutivi sempre divisibili per 45*
@@ -118,7 +118,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore n positivo reale blu/verde/rosso così che la somma di ogni colore è inferiore alla somma degli altri*
@@ -151,7 +151,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Connectività grafica: tra due città, percorso su strade di cemento con al massimo 2 intermedi*
@@ -184,7 +184,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori dell'espressione del prodotto simmetrico dati rapporti uguali *
@@ -213,7 +213,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria triangolare di isosceles: mostra l'angolo GBA*
@@ -245,7 +245,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un'espressione semplice con potenze di 3*
@@ -274,7 +274,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due equazioni lineari in a,b,c implicano a^2+b^2=2c^2*
@@ -301,7 +301,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi*
@@ -332,7 +332,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore n positivo reale blu/verde/rosso in modo che la somma di ciascun colore sia inferiore alla somma degli altri (lycee) *
@@ -363,7 +363,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le prime p in modo che 1..p possa essere suddivisa in gruppi di uguali somme consecutive*
@@ -392,7 +392,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di operazioni per colorare una griglia da 100x100 su scacchi mediante la ricolorazione di 99 celle per riga/colonna*
@@ -425,7 +425,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria triangolare isosceles: BH bisecta angolo GEA; EF parallelo a BH*
@@ -458,7 +458,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il più grande c in modo che la somma di 1/z_i < c garantisca che Theo possa dare a ogni studente un regalo *

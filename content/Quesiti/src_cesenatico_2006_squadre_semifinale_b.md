@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AP height-median intersection in a rectangular triangle of 21.20*
@@ -75,7 +75,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle DAE in cyclic configuration with DE=AE*
@@ -109,7 +109,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of years N in [1492,2006] with x^4-y^4=N solvable*
@@ -141,7 +141,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of final zeros of the 1800000 splitter product*
@@ -175,7 +175,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (a,b) with a<=246 and a/2< b< 2a/3*
@@ -210,7 +210,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *9000th integer other than squared *
@@ -244,7 +244,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Biggest number of 4 digits with a square ending equal to *
@@ -276,7 +276,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the square root of x^3-89x^2+72x-11*
@@ -308,7 +308,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length BC given by two sides and median by A*
@@ -341,7 +341,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary values of a with a^2+b^2=1885*
@@ -372,7 +372,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volt that launches seconds exceeds minutes in 24 hours*
@@ -406,7 +406,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Biggest number 4 distinct digits with mean digit condition*
@@ -441,7 +441,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of distinct colours of tetrahedra with 16 colours*
@@ -475,7 +475,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduced fractions m/n with m*n=18!*
@@ -516,7 +516,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio 320 B/A between hexagon and star of David*

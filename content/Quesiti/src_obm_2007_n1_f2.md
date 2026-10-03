@@ -29,7 +29,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare il numero totale di cifre di un numero costruito da blocchi ripetuti 10100.*
@@ -62,7 +62,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un foglio quadrato viene piegato due volte; trova l'area del pentagono convexo risultante.*
@@ -95,7 +95,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un array numerico ogni somma di anello è uguale al quadrato della sua cella centrale; valutare un rapporto per 2007.*
@@ -125,7 +125,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un rettangolo viene tagliato in modo che i lati rimanenti siano la metà dell'originale; trovare il perimetro originale.*
@@ -157,7 +157,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *25 blocchi di legno sono immersi in un serbatoio cubo di 2 m; trovare il nuovo livello di liquido in cm.*
@@ -192,7 +192,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un'aggiunta di colonne contiene una cifra scritta erroneamente; correggerla e calcolare una potenza.*
@@ -226,7 +226,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un quadrato piegato con M il punto medio del CD, provare le relazioni di area e trovare l'area del triangolo ADF.*
@@ -258,7 +258,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
@@ -290,7 +290,7 @@ Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una tabella di numeri, la somma di diagonale-n è 2n+(n-1) k; trovare la diagonale 9, la diagonale 2007, e il suo rimanente mod 100.*

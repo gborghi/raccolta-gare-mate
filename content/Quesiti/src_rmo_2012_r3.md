@@ -27,7 +27,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo inciso che tocca due quadranti e un lato di quadrato unitario*
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisibilità: abc divide (a+b+c)^31 data divisibilità incatenata*
@@ -83,7 +83,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove a^a b^b + b^a a^b ≤ 1 per i risultati positivi a+b=1*
@@ -110,7 +110,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conte di coppie {A,B} di sottoinsiemi di {1,...,10} con intersezione fissa {5,7,8}*
@@ -139,7 +139,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di superficie del triangolo APQ a quadrilaterale PDEQ in triangolo con base trisectata*
@@ -168,7 +168,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n in modo che 3^{2n}+3n^2+7 sia un quadrato perfetto*

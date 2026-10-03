@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The other two values of the row/column sums of Table 2x2*
@@ -73,7 +73,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which I draw the shaded and maximum area*
@@ -123,7 +123,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which drawing shows the three rings chained in the same way*
@@ -168,7 +168,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many beads has a pyramid with 23 triangular faces
@@ -214,7 +214,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cifres hidden in the three plates sum 11126*
@@ -255,7 +255,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last day with two to two different digits*
@@ -302,7 +302,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First digit of the integer minimum with sum of 2019 digits*
@@ -351,7 +351,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which image of the dice I can't see (probability dates) *
@@ -396,7 +396,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is equal to x*y=y-x associative*
@@ -435,7 +435,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integes from 2^10 to 2^13 divisible by 210*
@@ -480,7 +480,7 @@ How many beads has a pyramid with 23 triangular faces
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum power of 3 divided by 7! + 8! + 9!
@@ -527,7 +527,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of students given +20% and -20%*
@@ -580,7 +580,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the parallel piped tank (heights 2.3,5) *
@@ -632,7 +632,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height and height of the man (three info with correct data) *
@@ -694,7 +694,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cm moves Q if P drops to 24 (carrots) *
@@ -749,7 +749,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Good integers with a maximum divisor of N-6*
@@ -795,7 +795,7 @@ Maximum power of 3 divided by 7! + 8! + 9!
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that Mary will win by fishing for the fruit candy
@@ -837,7 +837,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the shaded triangle between two squares*
@@ -876,7 +876,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum whole less the nested root of 20*
@@ -927,7 +927,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Right result of (a+b)/c given two wrong results*
@@ -970,7 +970,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between sum a and product b of 1024 divisors*
@@ -1013,7 +1013,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which the equation has two solutions
@@ -1078,7 +1078,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of S in the numbered grid*
@@ -1140,7 +1140,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many planes pass through at least three vertices of a cube*
@@ -1185,7 +1185,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of 8 straight axes by origin and parabola*
@@ -1225,7 +1225,7 @@ The probability that Mary will win by fishing for the fruit candy
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many integers z with z^2z-3 is the first
@@ -1292,7 +1292,7 @@ How many integers z with z^2z-3 is the first
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the side of the polygonal given square DEFB*
@@ -1352,7 +1352,7 @@ How many integers z with z^2z-3 is the first
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a_2019 in succession (square sum +1) *
@@ -1402,7 +1402,7 @@ How many integers z with z^2z-3 is the first
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of one of the three being the average of the other two*
@@ -1455,7 +1455,7 @@ How many integers z with z^2z-3 is the first
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the upper right corner of the Latin square*

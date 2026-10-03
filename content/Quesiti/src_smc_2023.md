@@ -32,7 +32,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di una radice quadrata con denominatore di somma digitali*
@@ -72,7 +72,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza tra un terzo e 0,333*
@@ -112,7 +112,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Effetto sulla superficie della base di scalazione verso l'alto e l'altezza verso il basso*
@@ -153,7 +153,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Velocità media di una gara a tre zampe record*
@@ -195,7 +195,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo che unisce i centri di tre cerchi in contatto*
@@ -240,7 +240,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line di tre celle adiacenti che sommano a un multiple di tre in una griglia 4x4*
@@ -283,7 +283,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *25° termine di una sequenza di differenza assoluta*
@@ -323,7 +323,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di 99 volte la differenza dei decimali ricorrenti*
@@ -366,7 +366,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero incrociato con quadrati, cubi e potenze*
@@ -409,7 +409,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti di 6,7,8,9,10 dividono la somma delle potenze di due*
@@ -450,7 +450,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli avversari tra Wendi, Xander, Yasser e Zoe*
@@ -491,7 +491,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Potenza massima di 7 diviso 50 fattori*
@@ -533,7 +533,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio degli angoli interni in un triangolo all'interno di un pentagono regolare*
@@ -576,7 +576,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei valori di d per due punti su un cerchio centrato all'origine*
@@ -617,7 +617,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possibile numero di persone che hanno giocato a entrambe le attività sportive dato il limite di rapporto*
@@ -658,7 +658,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possibile numero di persone che hanno giocato a entrambe le attività sportive dato il limite di rapporto*
@@ -699,7 +699,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possibile numero di persone che hanno giocato a entrambe le attività sportive dato il limite di rapporto*
@@ -741,7 +741,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di sezione trasversale del trapezio di un cubo*
@@ -784,7 +784,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * quinta e sesta cifre del più grande numero pandigitale con coppie consecutive non prime*
@@ -825,7 +825,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di soluzioni di una equazione trigonometrica cubica in seno*
@@ -866,7 +866,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei valori interi di un'espressione razionale*
@@ -908,7 +908,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esprimere q in termini di p e r per incontrare i passeggiatori su un campo angolato retto*
@@ -952,7 +952,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza QX con un semicircolo inserito in un triangolo equilaterale*
@@ -996,7 +996,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che bozza corrisponde a y = sin(arccos x) *
@@ -1039,7 +1039,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di pentagono formata piegando un rettangolo 3:1*
@@ -1082,7 +1082,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza laterale di un quadrato inciso in un esagono regolare*
@@ -1125,7 +1125,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di regione definita da una disuguaglianza polinomica con vincoli*

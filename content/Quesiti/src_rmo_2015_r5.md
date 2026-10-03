@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri base-10 a 3 cifre con almeno un 5 e un 2 al massimo*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio non costante con coefficienti interi positivi, dimostra P(2015) = 0 impossibile*
@@ -80,7 +80,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri a tre cifre (abc)_10 con (abc)_10 = (abc)_b * (acb)_b*
@@ -107,7 +107,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolo, incentri di subtriangoli da altitudine collineare*
@@ -136,7 +136,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa su triples ordinati di sottoinsiemi, espressa in termini di n*

@@ -27,7 +27,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of two digits found after operations on the digits*
@@ -58,7 +58,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Puzzle of two identical pieces: find the dividing contour*
@@ -89,7 +89,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of Sara on 20 August 2009*
@@ -123,7 +123,7 @@ level: Giochi d'Autunno
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Magic triangle: arranging the numbers from 1 to 7 in the disks
@@ -156,7 +156,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six-pointed star: entering conditional numbers on the units*
@@ -185,7 +185,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of operations to transform 0 in 2009*
@@ -214,7 +214,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs with at least one coloured face in a cut cube*
@@ -243,7 +243,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *During flight Rome-Mathcity with time zones*
@@ -272,7 +272,7 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Trains met by Carla and Milena on their journey from Milan to Mathville
@@ -301,7 +301,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total sides of two polygons with 25 diagonal points in common*
@@ -332,7 +332,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete table with cross operations using data figures*
@@ -363,7 +363,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four numbers extracted from bags 1 to 9 with a given sum*
@@ -394,7 +394,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the figure into two identical parts with segments on the vertices*
@@ -425,7 +425,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number equal to twice the square of the sum of its digits plus the sum*
@@ -456,7 +456,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum blackened grid boxes 7×7 without three consecutive *
@@ -487,7 +487,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Civil number of the house demolished in Via Pitagora
@@ -516,7 +516,7 @@ Civil number of the house demolished in Via Pitagora
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lesser natural number of four non-primary digits by substitution of the digit →1 always prime*

@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * Piccolo camion: 50 sacchetti o 400 mattoni; quanti mattoni quando sono carichi 32 sacchetti?*
@@ -61,7 +61,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tasti di calcolatore D (numero di unità duplicate) e T (numero di unità di cancellazione); trovare il risultato per 1999.*
@@ -97,7 +97,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafico del tasso del dollaro reale su 6 mesi; trovare la rata di maggio data il valore di dicembre.*
@@ -133,7 +133,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea della metropolitana con 12 stazioni con spazi uguali; trovare la lunghezza totale.*
@@ -166,7 +166,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semplificare la metà di $2^{10} + 4^5$.*
@@ -199,7 +199,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri primi a due cifre il cui predecessore è un quadrato perfetto.*
@@ -232,7 +232,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quante volte al giorno le mani dell'orologio formano un angolo retto?
@@ -265,7 +265,7 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Marmi ridistribuiti a ragazzi e ragazze; trovare la percentuale di ragazzi.*
@@ -300,7 +300,7 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Stack di cubetti di plastica blu esposti all'aria; contare i cubetti con esattamente 3 facce blu e 3 facce grigie.*
@@ -334,7 +334,7 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 monete (50c e R\$1) complessivamente 76 reais; trovare differenza di conteggio tra i due tipi.*
@@ -369,7 +369,7 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le figure distinte formate dalla connessione di tre rombole congruenti fianco a fianco.*
@@ -404,7 +404,7 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Printa sostituisce gli zeri con i vuoti; trovare il numero minimo di pagine da ri stampare.*
@@ -436,7 +436,7 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo di CD.
@@ -470,7 +470,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte su una tabella; media di tutte è 5, media dei vicini di Y è 3; trovare X.*
@@ -502,7 +502,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre età correlate per frazioni; trovare la loro somma.*
@@ -536,7 +536,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scala di equilibrio con tre mele e un blocco di 200 g; trovare il peso totale delle mele.*
@@ -572,7 +572,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli rettangolari e un rettangolo assemblati in un quadrato; trovare lunghezza laterale.*
@@ -606,7 +606,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il sistema di rotazione delle piastrine vieta ogni auto due volte alla settimana MonSat; trova giorni medi vietati.*
@@ -638,7 +638,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *VCR registra film di 150 minuti su nastro singolo passando da EP (6h) a SP (2h); trova i minuti trascorsi al interruttore.*
@@ -671,7 +671,7 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi positivi la cui ultima cifra è uguale al numero di cifre del numero.*

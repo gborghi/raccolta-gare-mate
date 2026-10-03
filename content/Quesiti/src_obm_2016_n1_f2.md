@@ -26,7 +26,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi inferiori al 2016 il cui cubo ha meno di 10 cifre*
@@ -53,7 +53,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su un'altra al medesimo prezzo; risultato totale*
@@ -81,7 +81,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ABCD quadrato è diviso in due rettangoli congruenti e due quadrati delle aree 64 e 121; trova area di ABCD*
@@ -112,7 +112,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunga moltiplicazione AAB × CC con cifre 2,3,5,7 come A,B,C,D; trovare ABCD*
@@ -142,7 +142,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati grigi condividono una vertica; quadrato bianco ha una vertica su ogni lato; trovare angolo X*
@@ -173,7 +173,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tabella m×n coperta da T-tetromino (seconda 3) e L-tromino (seconda 2); trovare il minimo m·n*
@@ -202,7 +202,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore 7×7 tabella rosso/blu/bronzo in modo che il blu domini ogni riga e colonna; min cellule rosse e min cellule marrone*
@@ -231,7 +231,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *segmenti di perimetro vs quotiente di segmenti interni per n ×n griglia; modello e domande estreme*
@@ -262,7 +262,7 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scrivere i numeri 19 in 9 caselle (alcune in grigio, alcune in bianco); contare le disposizioni secondo le condizioni di parità digitali e di somma*

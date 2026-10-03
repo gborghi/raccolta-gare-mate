@@ -36,7 +36,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the five shapes shows the white face*
@@ -82,7 +82,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Antiquary gain or loss in the sale of handbags*
@@ -125,7 +125,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Steel-rubber bar of equal weight by reversing the materials*
@@ -164,7 +164,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many congressmen out of 100 wear a tie
@@ -209,7 +209,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of a power of 2*
@@ -251,7 +251,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Forwarding of a sphere rotating on two tracks*
@@ -287,7 +287,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number is not a product of square per cube*
@@ -333,7 +333,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final position after 1997 steps on square sheet*
@@ -377,7 +377,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Success of colours of socks without two identical neighbours*
@@ -413,7 +413,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Drying with solution the hexagon drawn*
@@ -449,7 +449,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the figure drawn with six small circles*
@@ -484,7 +484,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum integer with the same number of digits in base 10 and 16*
@@ -515,7 +515,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that the game with tokens will not be interrupted*
@@ -544,7 +544,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of the CDNM quadrilateral in the unit square*
@@ -581,7 +581,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major MCD of three distinct displays less than 100*
@@ -609,7 +609,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *angle in D*
@@ -638,7 +638,7 @@ How many congressmen out of 100 wear a tie
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural pairs (m,n) with mn = p(m+n), p prime *

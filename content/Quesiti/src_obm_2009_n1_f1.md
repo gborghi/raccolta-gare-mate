@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di e^{x/e}-x; confronta e^pi e pi^e*
@@ -57,7 +57,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio monico di grado 2 le cui radici sono periodi di Gauss di una radice primitiva di unità VII; calcolare p(3) *
@@ -88,7 +88,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Frog cammino casuale su triangolo equilaterale: limite di probabilità di ritorno e esistenza di p con P_n=1/pi*
@@ -119,7 +119,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contate i numeri interi positivi n <= 31! con 3^n + n divisibile per 31*
@@ -150,7 +150,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determinante 4x4 di circolante = f(1) f(i) f(-1) f(-i) *
@@ -180,7 +180,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza di convoluzione con a_0=0, a_1=pi/3; calcolare la somma di a_k/2^k*

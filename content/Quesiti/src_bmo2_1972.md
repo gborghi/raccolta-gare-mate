@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Allegare i numeri alle vertici del poligono regolare con restrizioni di adiacenza*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove il limite inferiore 2 per la somma ciclica S di quattro valori reali positivi*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova n quando ogni due sconosciuti condividono lo stesso numero di amici e il numero di amicizia è 5*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i punti P con la somma ponderata delle distanze uguale a k per abc*

@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2009×2009 tabella; tutte le somme di 4018 righe/colonne possono essere distinte quadrate perfette?*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prima sicura q=2p+1; prova che q ha un multiplo con somma digitali ≤3*
@@ -84,7 +84,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Chip-fire su rete di numeri interi con pietre del 2009; prova di terminazione e confluenza*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che esiste un n0 tale che un cubo possa essere dissezionato in n cubetti più piccoli per tutti n≥n0*
@@ -140,7 +140,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I cerchi di OBC, OAC, OAB producono sei punti; tre linee di connessione sono simultanee*
@@ -168,7 +168,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori della somma ciclica x_i/(x_{i-1}+x_i+x_{i+1}) per i reali positivi, n>3 fissi*

@@ -40,7 +40,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trajectory of the midpoint of the sliding bar*
@@ -82,7 +82,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of absolute values on numbered circumference*
@@ -125,7 +125,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of colours for the spikes*
@@ -168,7 +168,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p+q product of at least three integers >1 (first consecutive) *
@@ -197,7 +197,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers with consecutive digits and odd number of divisors*
@@ -231,7 +231,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *blue points on the circumferences*

@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of units of measurement.
@@ -70,7 +70,7 @@ This is the total number of units of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Folded and triangular cut sheet *
@@ -107,7 +107,7 @@ This is the total number of units of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late clock after 24 hours*
@@ -143,7 +143,7 @@ This is the total number of units of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black part of the figure*
@@ -180,7 +180,7 @@ This is the total number of units of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Passengers with empty seats every two *
@@ -221,7 +221,7 @@ This is the total number of units of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product S for F of siblings and siblings
@@ -257,7 +257,7 @@ Product S for F of siblings and siblings
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major grey area between the figures*
@@ -296,7 +296,7 @@ Product S for F of siblings and siblings
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number not obtained by doubling 4 times*
@@ -339,7 +339,7 @@ Product S for F of siblings and siblings
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number represented by Figure 3*
@@ -386,7 +386,7 @@ Product S for F of siblings and siblings
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum firefighters for 11 squares*
@@ -430,7 +430,7 @@ Product S for F of siblings and siblings
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 When Nikita and Sasha meet again
@@ -472,7 +472,7 @@ When Nikita and Sasha meet again
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Edward's euro with third-party coins*
@@ -513,7 +513,7 @@ When Nikita and Sasha meet again
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Missing centimetres in George*
@@ -549,7 +549,7 @@ When Nikita and Sasha meet again
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last train number of the train*
@@ -593,7 +593,7 @@ When Nikita and Sasha meet again
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Red dragon heads
@@ -635,7 +635,7 @@ Red dragon heads
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length by rectangular field*
@@ -678,7 +678,7 @@ Red dragon heads
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time for other subjects of Susanna*
@@ -719,7 +719,7 @@ Red dragon heads
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Current age of Susy*
@@ -764,7 +764,7 @@ Red dragon heads
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pamela garden area*
@@ -809,7 +809,7 @@ Red dragon heads
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The amount to be paid in the form of dividends shall be the sum of the following:
@@ -853,7 +853,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of parts with the question mark*
@@ -902,7 +902,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Booth on the sidewheel*
@@ -946,7 +946,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Oxygen phases for 34 students*
@@ -999,7 +999,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Oblique square area *
@@ -1058,7 +1058,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum points on the dice tower*
@@ -1104,7 +1104,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers in multiplication by 45xA3*
@@ -1149,7 +1149,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining cubes after the holes*
@@ -1208,7 +1208,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area exaggerated given star area*
@@ -1260,7 +1260,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solid with a larger total area*
@@ -1299,7 +1299,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum difference between two 3-digit numbers*

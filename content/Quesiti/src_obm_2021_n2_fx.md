@@ -32,7 +32,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza (lonjura) definita iterando l'operazione di conteggio divisore fino a raggiungere 2; numeri di conteggio di lunghezza 2 e la lunghezza massima in 3..1000*
@@ -69,7 +69,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto; A_1 è il punto medio dell'arco principale BC, A_2,A_3 piedi di perpendicolari su AB,AC; dimostrare A_2A_3 bisecte BC e che le tre linee analoghe sono simultanee*
@@ -100,7 +100,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Round-robin con le squadre del 2021, 3/1/0 segnando; i primi due giocano la finale, l'OBM ha il vantaggio del tiebreak e ha vinto la sua prima partita. Trova il punteggio finale minimo che dà una possibilità alla finale*
@@ -131,7 +131,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto ABC (angolo retto a B) con BDEF quadrato inciso; incircoli di CFE ed EDA hanno radii c e b; all'interno del quadrato due cerchi di radio b sono tangenti e due di radio a sono tangenti. Trovare a/c*
@@ -170,7 +170,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplici (a,b,c) di numeri interi positivi con a) bbc+1, b) b) c) c) miranhas); determinare tutti*
@@ -210,7 +210,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per il reale a>=1, A(a)={floor(na)}; supponiamo che ogni intero positivo non in A(a) lasci lo stesso rimanente r mod 2021. Trova tutte le possibili a*

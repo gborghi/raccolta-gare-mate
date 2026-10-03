@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il raggio che riflette in un angolo viene assorbito al vertice; dimostra che esiste un numero naturale n in modo che qualsiasi raggio rifletta al massimo n volte.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti della rete di partizione con almeno una coordinata non divisibile per 4 in coppie unitarie di distanza.*
@@ -86,7 +86,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostrare che ciascuno è zero.*
@@ -113,7 +113,7 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un insieme X di n elementi, provare la somma di A ∩B di tutti i coppie di sottoinsiemi è uguale a n·4^{n-1}.*
@@ -142,7 +142,7 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per la sequenza definita in modo ricorrente, dimostrare che contiene infiniti termini non positivi.*
@@ -170,7 +170,7 @@ Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un tetraedro con altitudini h_i e distanze d_i tra coppie di bordi opposte, dimostrare che le somme squadrate reciproche sono uguali.*

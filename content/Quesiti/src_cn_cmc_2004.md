@@ -29,7 +29,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'angolo acuto che rende quadratici ha radice ripetuta*
@@ -62,7 +62,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rango di b per le linee di ellisse che si intersecano sempre*
@@ -95,7 +95,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di soluzioni di disuguaglianza con radice quadrata e log*
@@ -128,7 +128,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di superficie del triangolo ABC al subtriangolo utilizzando i punti medi*
@@ -161,7 +161,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi a 3 cifre i cui numeri formano un triangolo di pari taglia*
@@ -196,7 +196,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza del segmento in cono con configurazione scritta*
@@ -229,7 +229,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di rettangolo sotto grafico di funzione periodica*
@@ -260,7 +260,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(x) dall'equazione funzionale f(x) -f(y) = f(x-y) +2*
@@ -291,7 +291,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo diidrale in un cubo lungo il bordo diagonale*
@@ -322,7 +322,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un intero positivo k tale che sqrt(p^2-p) sia un intero, p primo pari*
@@ -351,7 +351,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa delle reciprocità della sequenza con ricorrenza (3-a_{n+1})
@@ -380,7 +380,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *coordinata x del punto P sull'asse x angolo di massimizzazione MPN*
@@ -412,7 +412,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
@@ -447,7 +447,7 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Locus del punto P e linee attraverso il centro con 3 punti comuni*
@@ -483,7 +483,7 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione a intervallo dalle radici quadratiche; disuguaglianza max-min e trigonale*

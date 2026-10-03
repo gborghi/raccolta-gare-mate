@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression value with powers of 7 (differences in squares) *
@@ -74,7 +74,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trajectory of the vertex A in two rotations of the rectangle*
@@ -113,7 +113,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the 5 numbers given are multiples of 10*
@@ -154,7 +154,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that a 4-digit palindrome is divisible by 7*
@@ -190,7 +190,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which whole area cube shaft in the cut*
@@ -256,7 +256,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where the ball folds the left edge of the grid 4x2019*
@@ -320,7 +320,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the hundreds of 2019xN given the 3N and 5N dividers*
@@ -372,7 +372,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Central number in alignment 1-17 with sums squared*
@@ -411,7 +411,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate sums with additions 3 and 5 (link) *
@@ -440,7 +440,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of 3-digit n with decimal place and prime factors equal to *
@@ -470,7 +470,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum k by hanging a digit to the right of N to get kN*
@@ -500,7 +500,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fourth number of the geometric sequence from 6 to 192*
@@ -530,7 +530,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of parallel-piped beads with an octahedral volume of 150 *
@@ -562,7 +562,7 @@ Where the ball folds the left edge of the grid 4x2019*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many voters lied in the two cities of the referendum
@@ -592,7 +592,7 @@ How many voters lied in the two cities of the referendum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum exchanges for reds twice as white (gettons) *
@@ -623,7 +623,7 @@ How many voters lied in the two cities of the referendum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum score Giraffe (geometric vs arithmetic)
@@ -664,7 +664,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum grid blackout cells 6x2019 (connected domain) *
@@ -714,7 +714,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of the two brake pads of the reel*

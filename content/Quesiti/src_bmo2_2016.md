@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi reciprocamente tangenti e tangente comune, dimostrano la disuguaglianza del perimetro*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande N*
@@ -80,7 +80,7 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico, perpendicularità di PQ e AB implica PE perpendicolare a BC*
@@ -107,7 +107,7 @@ Gioco di classificazione dei token di Alison e Benjamin, trovare il più grande 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prima p e interi a,b con media p^2 di a^2 e b^2, dimostrare che 2p-a-b è quadrato o quadrato doppio*

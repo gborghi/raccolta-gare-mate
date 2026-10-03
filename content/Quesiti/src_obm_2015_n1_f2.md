@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadro tagliato in 3 pezzi riordinati in rettangolo; trovare un nuovo perimetro*
@@ -56,7 +56,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sconti sulle magliette: 3 al 10% contro 2 al 5%, differenza 12 reais; trovare prezzo scontato*
@@ -87,7 +87,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due strisce di 1 cm di larghezza tagliate in rettangoli che formano una striscia decorativa di 100 cm; trovare larghezza originale*
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2015 persone a tavola rotonda, ognuno dice un vicino onesto e un disonesto; contare onesto*
@@ -151,7 +151,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di griglie (quadrati bianchi e grigi, medesima regola); trovare l'eccesso di grigio sul bianco nella figura 30*
@@ -186,7 +186,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia esattamente 2 vertici verdi e 2 gialli
@@ -225,7 +225,7 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numeri a 10 cifre in cui ogni nuova cifra è pari alla somma di tutte le precedenti (o ultime cifre di tale somma); trovare le cifre più piccole, più grandi e possibili *
@@ -272,7 +272,7 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono regolare con centro O costituito da 6 triangoli equilaterali (lato 6 cm); trovare aree di varie sottoregioni*
@@ -313,7 +313,7 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubbi di unità assemblati in cubetti più grandi e poi dipinti; contare le facce per visibilità*

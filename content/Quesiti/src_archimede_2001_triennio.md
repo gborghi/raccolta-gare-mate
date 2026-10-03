@@ -31,7 +31,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer numbers have mean 6 and sum 18*
@@ -72,7 +72,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of reduced fractions a/b in a given range*
@@ -112,7 +112,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True claim on pupils with visual impairments*
@@ -152,7 +152,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alpha values for a single system solution*
@@ -194,7 +194,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scholarship amount for the children given the constraints*
@@ -235,7 +235,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of partial sums of launches not divisible by 7
@@ -279,7 +279,7 @@ Probability of partial sums of launches not divisible by 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance traveled with reflections on two rivers*
@@ -330,7 +330,7 @@ Probability of partial sums of launches not divisible by 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Guilty and complicit in the theft
@@ -369,7 +369,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which statement is true on a polynomial with coefficients 0/1*
@@ -408,7 +408,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inteers equal to three times the sum of their digits*
@@ -449,7 +449,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculate OB data CD and two angles in Figure *
@@ -484,7 +484,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which sum of odd and definitely wrong numbers *
@@ -523,7 +523,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Condition on x for root inequality of x < 3x*
@@ -564,7 +564,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BAC angle given by CEB and beamers in Figure *
@@ -608,7 +608,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of inhabitants island by total fraudulent responses*
@@ -670,7 +670,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equilateral triangle area given parallelogram perimeter*
@@ -734,7 +734,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number after 2000 iterations doubles and minus 1*
@@ -778,7 +778,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum apples divisible by 3, 4 and 1/2 after -2*
@@ -822,7 +822,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering of p, q, r with square roots*
@@ -866,7 +866,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fast ratio of first and third cyclists overtaken*
@@ -906,7 +906,7 @@ Guilty and complicit in the theft
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum maximum between 2x, x+1, 10-2x*

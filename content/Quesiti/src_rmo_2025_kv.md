@@ -30,7 +30,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di equazioni di prodotto ciclico in numeri interi non negativi, a_i≠1*
@@ -58,7 +58,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei valori reali positivi con abc=1*
@@ -85,7 +85,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono convex con condizioni di simmetria; prova angolo retto a I*
@@ -120,7 +120,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i percorsi di rana da (0,0) a (n,2) evitando UU o DD consecutivi*
@@ -149,7 +149,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con angolo 60°; riflessi di piedi d'altitudine bisetti BC*
@@ -176,7 +176,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma digitali di a_n^2 è uguale a n^2+n+7 per tutte le n≥0*

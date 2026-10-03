@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli numeri interi positivi che soddisfano un prodotto uguale a 2*
@@ -54,7 +54,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'equivalenza angolare nel triangolo utilizzando i punti medi*
@@ -81,7 +81,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Raggiungere i limiti sulle radici date condizioni di somma e somma di prodotti*
@@ -110,7 +110,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le coppie di squadra e prova la divisibilità fattoriale *

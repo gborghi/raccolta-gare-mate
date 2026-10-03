@@ -27,7 +27,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Più grande numero intero di cifre distinte non zero, ogni coppia adiacente un multiple di 7*
@@ -55,7 +55,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'intero più grande non superiore a 123456789) *
@@ -85,7 +85,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserire le scatole con 1-6 per rendere la frazione più vicina a 1*
@@ -114,7 +114,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea attraverso P su AB che divide sia l'area di un quadrato che di un triangolo; trovare AP*
@@ -149,7 +149,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi per riempire la griglia 3x3 con 1-9 con la riga in aumento a destra e la colonna sinistra in calo*
@@ -180,7 +180,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti a due linee; trovare TU data PT=1 e una condizione di punto medio*
@@ -209,7 +209,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca n a 3 cifre con n = 2P(n) + 27, P = prodotto di cifre*
@@ -238,7 +238,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo BXC all'interno di un triangolo equilaterale dato le condizioni di angolo al punto medio di AX*
@@ -272,7 +272,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per scegliere i punti massimi della griglia senza differenze di coordinate uguali*
@@ -307,7 +307,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi per riempire la griglia 2x7 con 1-14, righe in aumento, lacune nelle colonne non in diminuzione*
@@ -339,7 +339,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggiamo un numero intero 4 volte soddisfacente (a^2+b^2) ((c^2+d^2)=4abcd+106*
@@ -374,7 +374,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min a in un torneo di eliminazione singola di 256 giocatori vinto da un giocatore 1*

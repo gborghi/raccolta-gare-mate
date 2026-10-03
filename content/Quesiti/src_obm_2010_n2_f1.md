@@ -33,7 +33,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che opzione è un divisore di 3^5*4^4*5^3*
@@ -73,7 +73,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2% aumento del più piccolo di due numeri consecutivi dà il più grande; trovare somma *
@@ -113,7 +113,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *divide 4^(4^2) per 4^4*
@@ -155,7 +155,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scelta 3 tra 8 pezzi di poliomino per assemblare un quadrato 3x3*
@@ -197,7 +197,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distinto x,y con x-1/x=y-1/y, trovare xy*
@@ -237,7 +237,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media aritmetica di due numeri a due cifre distinte è 98; trova la differenza*
@@ -280,7 +280,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo di scacchiatura convenzionale con 17 quadrati bianchi; area di ricerca*
@@ -323,7 +323,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi a 3 cifre senza cifra pari a 2,5,7,8*
@@ -362,7 +362,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, angolo BAC=140, punti di mezzo M, N, P piede perpendicolare, angolo di ricerca NMP*
@@ -401,7 +401,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max chips su tavola 5x5, conteggi per fila/colonna multiplo di 3*
@@ -440,7 +440,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per quanti numeri interi n è n/(100-n) anche un intero*
@@ -478,7 +478,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ana scende 24 gradini, attraversa Beatriz a 3/4 di discesa; le scale Beatriz continua a salire*
@@ -524,7 +524,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro amici, richieste di carta, esattamente una falsa; che ha fatto la richiesta falsa*
@@ -568,7 +568,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo grigio inciso nell'area triangolare equilaterale 40, lato corto 1/4 del lato triangolare*
@@ -609,7 +609,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integrali positivi somma 83 prodotto 1024; trovare il più piccolo *
@@ -650,7 +650,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Modi per disegnare la figura triangolare senza sollevare la matita da P*
@@ -692,7 +692,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligono regolare, lati PQ e TS estesi si incontrano a X con angolo 140, trovare lati*
@@ -735,7 +735,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Netto di icosaedro, volti da 1 a 5 attorno a ciascun vertex, trovare il numero al segno di domanda*
@@ -776,7 +776,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la prossima volta che concordano
@@ -817,7 +817,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Crosso di unità quadrate inserite in quadrato più grande; trovare area di quadrato più grande*
@@ -858,7 +858,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie (x,y) di integri positivi con x^2-y^2=2^2010*
@@ -897,7 +897,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro integri a<b<c<d in coppia gcd>1 ma in generale gcd 1; min d*
@@ -938,7 +938,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Facce di morte tetraedrale 1-4 incollate; che somma di facce visibili è impossibile*
@@ -980,7 +980,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con cevian, angolo 80 a B, angolo 30 a C, angolo retto a H, BC=2BH, trovare x*
@@ -1022,7 +1022,7 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali non negativi a,b con a^3+a<b-b^3; ordine a,b*

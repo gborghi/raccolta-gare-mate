@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trapezoidal area given diagonal triangular areas*
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inter whose square is a 6-digit palindrome*
@@ -93,7 +93,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangles in Figure *
@@ -131,7 +131,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max-min difference alignments of 4 digits*
@@ -162,7 +162,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 4 digits with numerical conditions*
@@ -193,7 +193,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Longest side DC or ED in the rectangle*
@@ -228,7 +228,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Algebraic sum of numbers with digits 0,1,2*
@@ -260,7 +260,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum winnings by 99% rounded*
@@ -293,7 +293,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Groups of 5 couples without siblings together*
@@ -325,7 +325,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fewer than 6 consecutive products in the given form*
@@ -359,7 +359,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with side Qn greater than 2022*
@@ -391,7 +391,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many first 2023 Fibonacci numbers are left 2 mod 3
@@ -424,7 +424,7 @@ How many first 2023 Fibonacci numbers are left 2 mod 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum footpaths on a 8x8 chessboard*
@@ -457,7 +457,7 @@ How many first 2023 Fibonacci numbers are left 2 mod 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of second common terms progressions*
@@ -493,7 +493,7 @@ How many first 2023 Fibonacci numbers are left 2 mod 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many friends does the mayor have?

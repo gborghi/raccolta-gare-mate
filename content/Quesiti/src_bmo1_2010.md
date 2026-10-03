@@ -29,7 +29,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova numeri interi x,y,z che soddisfano due equazioni simultanee*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo attraverso quattro punti con due accordi paralleli*
@@ -83,7 +83,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordine dei problemi di esame BMO e punteggio massimo*
@@ -110,7 +110,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi con condizione di bisettore tangente e perpendicolare comune*
@@ -137,7 +137,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzioni su reali che soddisfano un'equazione funzionale*
@@ -164,7 +164,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mapa del tesoro: basta scavare in un solo luogo*

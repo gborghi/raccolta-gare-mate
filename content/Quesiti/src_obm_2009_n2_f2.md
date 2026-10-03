@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Aggiungere acqua per diluire la miscela di alcol da 9L al 30% di alcol*
@@ -54,7 +54,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore massimo di ab+bc+cd+da per a,b,c,d con una permutazione di 1,2,3,4*
@@ -81,7 +81,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più grande famiglia di numeri a 3 cifre che condividono almeno una cifra in coppia*
@@ -108,7 +108,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi a due cifre divisibili da ciascuno dei loro cifre*
@@ -137,7 +137,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrate sovrapposte ABCD e EFGH lato 48; trovare la zona di intersezione evidenziata*
@@ -172,7 +172,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Table della Teorema dei Rimanenti Cinesi mod 7 e mod 3; somma delle celle evidenziate*
@@ -215,7 +215,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di ricorrenza S_k=ar^k+bs^k; trovare S_7 data S_1..S_4*
@@ -244,7 +244,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria mediana triangolare: trovare MN perpendicolare a AB data AN=2NC, AC=12*
@@ -277,7 +277,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Torneo a scacchi 8 giocatori 7 round: possibilità di punteggio e punteggio minimo del leader

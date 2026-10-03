@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N-gon equangolare con angoli 120 o 240 e lati uguali*
@@ -55,7 +55,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La k più piccola così truncando un quadrato perfetto mantiene quadrati*
@@ -84,7 +84,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 5 segmenti: 9 triples acuti costringono il decimo a essere un triangolo
@@ -113,7 +113,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conciclicità di A, incentro I e due punti di cerchio P, Q*
@@ -148,7 +148,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Disegnare 2 segmenti bianchi e neri che formano un giro con poche traversate*

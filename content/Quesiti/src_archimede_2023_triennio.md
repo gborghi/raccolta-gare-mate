@@ -35,7 +35,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a2-a1 in arithmetic progression*
@@ -80,7 +80,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Any statements on powers of 3 are true*
@@ -123,7 +123,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle A with B eleven times C in the triangle*
@@ -165,7 +165,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times are the tips perpendicular in a day*
@@ -210,7 +210,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to arrange 8 blocks of coloured notebooks*
@@ -257,7 +257,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What an expression and certainly positive given inequalities*
@@ -303,7 +303,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of wages per 301 inhabitants in a circle*
@@ -355,7 +355,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Billboard edge point for bouncing *
@@ -399,7 +399,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences of 5 integers with abcde+15=0*
@@ -444,7 +444,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trip colours with 4 blue multipliers (4 colours) *
@@ -488,7 +488,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of the game ending 4 to 2*
@@ -550,7 +550,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ACT angle with tangent parallel to one side*
@@ -597,7 +597,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of returning to the pit after 6 random steps*
@@ -639,7 +639,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-scaled triangles with vertices of 21 regular zones*
@@ -682,7 +682,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares crossed by the diagonal of the rectangle 78x114*
@@ -733,7 +733,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of four arcs curved quadrilateral in the square*

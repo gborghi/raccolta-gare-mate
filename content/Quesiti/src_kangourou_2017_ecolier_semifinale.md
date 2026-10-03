@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order of arrival of an index call*
@@ -74,7 +74,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different five-digit number with sum of 42*
@@ -117,7 +117,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 French balloons of partial sums
@@ -189,7 +189,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of small squares in a subdivided rectangle*
@@ -258,7 +258,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most difference between two arrows*
@@ -292,7 +292,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of visible squares with 12 reeds*
@@ -323,7 +323,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of the second child with age progression*
@@ -360,7 +360,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of adults charged for theatre*
@@ -407,7 +407,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tris matches already completed on wrapped grid *
@@ -443,7 +443,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two numbers with a sum of 30 and a product of 56*
@@ -474,7 +474,7 @@ French balloons of partial sums
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The number of the knight dancing with the lady 374
@@ -505,7 +505,7 @@ The number of the knight dancing with the lady 374
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum plants to be added for equal distances*
@@ -547,7 +547,7 @@ The number of the knight dancing with the lady 374
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cost of strips to cover figures*
@@ -579,7 +579,7 @@ The number of the knight dancing with the lady 374
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of persons with 4 children and 2 fathers
@@ -652,7 +652,7 @@ Minimum number of persons with 4 children and 2 fathers
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles with vertices at non-aligned data points*

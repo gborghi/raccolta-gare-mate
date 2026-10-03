@@ -29,7 +29,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC rettangolo sovrapposto DFGE; trovare superficie di ABC*
@@ -60,7 +60,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare n(a+b)(a+b+c)(a+b+c+d) uguale a un quadrato perfetto*
@@ -92,7 +92,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare interi terzi di 2026 cifre che soddisfano le condizioni di frequenza minima/massima di cifre paritarie*
@@ -123,7 +123,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la n più piccola con n, n+1, ..., n+7 tutti i semi-integer*
@@ -159,7 +159,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le assegnazioni di numeri interi a 14 punti su 9 cerchi con somme di cerchi uguali*
@@ -194,7 +194,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, BD=DE=EC su BC, ceviani paralleli, angoli uguali; trovare AC*
@@ -225,7 +225,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dominanza minima della moneta su 37 punti della griglia all'interno di una distanza quadrata
@@ -258,7 +258,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ceviani triangolari; circoncircoli di triangoli angolari attraverso l'incentro del triangolo interno; trovare AB/AC*
@@ -289,7 +289,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di 1,30 in cui ogni indice ha almeno 2 indici che danno un'inversione*
@@ -324,7 +324,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca possibili GCD dopo 999 operazioni iterate (lcm+gcd, lcm-gcd) su due integri coprimi*
@@ -358,7 +358,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le matrici di enti di lunghezza 56 con tutte le somme parziali in [-5, 6]*
@@ -387,7 +387,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato ABCD in cerchio; linee parallele attraverso B e C si intersecano; trovare EQ*

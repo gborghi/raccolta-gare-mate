@@ -29,7 +29,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum shifts for every boy to dance with every girl
@@ -59,7 +59,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Why number pairs = sum of prime n-1 integers*
@@ -104,7 +104,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the table with overlapping fabrics*
@@ -149,7 +149,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scoyattolo empties 15 plates in four visits*
@@ -178,7 +178,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To lead 16 8x8 squares with adjacent coverage*
@@ -216,7 +216,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary division of consecutive integers and minimum m*

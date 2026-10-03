@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca soluzioni integrali non negative per un'equazione di somma radicale*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
@@ -82,7 +82,7 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
@@ -111,7 +111,7 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra s(n) ≤ 2b per n ≤ 2500 e trova casi di uguaglianza*

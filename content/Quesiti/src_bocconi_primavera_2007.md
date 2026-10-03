@@ -29,7 +29,7 @@ level: Semifinale di Primavera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Figures: How many boys have each won?
@@ -62,7 +62,7 @@ Figures: How many boys have each won?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers greater than 1720 and less than 2300 with cubes*
@@ -99,7 +99,7 @@ Figures: How many boys have each won?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Orders of machines in the toy garage*
@@ -132,7 +132,7 @@ Figures: How many boys have each won?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many yellow packs does Marco put in the car?
@@ -165,7 +165,7 @@ How many yellow packs does Marco put in the car?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Types of juices with only two of the four ingredients*
@@ -198,7 +198,7 @@ How many yellow packs does Marco put in the car?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Type of juice using one, two, three or four fruits*
@@ -230,7 +230,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial surface area of burnt forest*
@@ -262,7 +262,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total weight of the three bags*
@@ -294,7 +294,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Votes obtained from the mayor's list*
@@ -326,7 +326,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of whale with elephants and hippos*
@@ -357,7 +357,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of three distinct digits multiple of 5 with digits 1,2,3,5,7*
@@ -386,7 +386,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of three distinct digits equal to the digits 1,2,3,5,7*
@@ -416,7 +416,7 @@ Type of juice using one, two, three or four fruits*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many oyster eggs do you need for 60 people?
@@ -448,7 +448,7 @@ How many oyster eggs do you need for 60 people?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many years have Erica and I been together?
@@ -481,7 +481,7 @@ How many years have Erica and I been together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal number with double less than 100 and greater than 30*
@@ -514,7 +514,7 @@ How many years have Erica and I been together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Completes the almost magical square with the data numbers*
@@ -548,7 +548,7 @@ How many years have Erica and I been together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ears shown by the watch as seen in the mirror*
@@ -582,7 +582,7 @@ How many years have Erica and I been together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the part shown in Figure *
@@ -614,7 +614,7 @@ How many years have Erica and I been together?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inner number of all circles in figure *

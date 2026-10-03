@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto ABC: trovare i punti D con due condizioni di distanza*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro ABCD con bordi uguali; piano attraverso i punti medi riduce al minimo l'area quadrilaterale*
@@ -92,7 +92,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo e il minimo di cos α + cos β + cos γ con la limitazione della somma dell'angolo*
@@ -123,7 +123,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le espressioni complete per n come somma di poteri di 2; provare la ricorrenza*
@@ -151,7 +151,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *approssimazione polinomica a p/q in intervallo di lunghezza 1/q*

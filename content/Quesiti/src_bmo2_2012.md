@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico con diagonali che si incontrano a E; punti di mezzo dei quattro lati; dimostrare che i cerchi EPS e EQR hanno uguale raggio.*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione definita ricorrentemente su integri positivi utilizzando piani di (2n-1)/3 e 2n/3; decidere se f(n)-f(n-1) <= n per tutti i n>1.*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I reali sono divisi in due sottosette disjointe; dimostrare che per ogni coppia (m,n) di integri positivi esiste x<y<z nello stesso sottosetto con m(z-y) =n(y-x).*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che c'è un intero positivo k tale che se m divide a^n+b^n+c^n-d^n-e^n-f^n per tutti n in [1,k], allora m lo divide per tutti gli interi positivi n.*

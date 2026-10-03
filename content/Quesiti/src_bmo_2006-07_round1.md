@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca quattro numeri primi inferiori a 100 che dividono 3^n - 2^n per alcune n *
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con punti di trisezione su due lati; dimostrare pari aree terze*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero unico a 9 cifre con proprietà di divisibilità n*
@@ -114,7 +114,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti con tangente comune; diametro AP; tangente PQ; prova AP = PQ*
@@ -141,7 +141,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che se 2 + sqrt(1 + 12a^2) è un intero, è un quadrato perfetto*

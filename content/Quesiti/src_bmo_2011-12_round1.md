@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli enti n in modo tale che n^2+20n+11 sia un quadrato perfetto*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *T più grande in modo che 1,2,...,k possa essere disposta con divisibilità adiacente*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'intersezione di due cerchi attraverso la tangente P a S è fissa*
@@ -115,7 +115,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bags con palle: decidere se tutte le n possono essere svuotate con operazioni di triplice e sottrazione*
@@ -148,7 +148,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato perfetto
@@ -175,7 +175,7 @@ Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo acuto, piede di altitudine D, piede da D a EF si trova sulla media*

@@ -27,7 +27,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi tra 1 e 10000 divisibili per 7 ma non per 5*
@@ -58,7 +58,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sonnellini pomeridiani con limitazioni durante l'osservazione di 15 giorni*
@@ -96,7 +96,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Luminose e tre interruttori; contare le lampadine accese dopo interruttore casuale*
@@ -130,7 +130,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro cerchi concentrici con cerchi tangenti di uguale raggio; trovare r/R*
@@ -162,7 +162,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Club di 100 persone: membro popolare e dimensione massima del club*
@@ -195,7 +195,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti collineari: ogni cerchio attraverso A,B incontra il cerchio attraverso C,D*
@@ -226,7 +226,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova le costanti migliori a,b nell'inequità a(x+y+z) ^2 ≤ x2+y2+z2+yz ≤ b(x+y+z) ^2*
@@ -256,7 +256,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un intero positivo a con divisioni positive 5 volte più numerose di un solo*

@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coloured 9x10 chessboard, maximum red box size*
@@ -78,7 +78,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colored bags, 'except' conditions, total bags*
@@ -130,7 +130,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Heart with two circles and tangents, shaded area*
@@ -175,7 +175,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *4x4 grid with 1,2,3, sums of rows/columns divisible by 3*
@@ -218,7 +218,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two rectangles with a common diagonal, overlapping area*
@@ -262,7 +262,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Owners of 10^2024+1 of the form 10^n+1 *
@@ -305,7 +305,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rational expression first by four n, sum*
@@ -348,7 +348,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cube, plane for 6 mean points, volume between two planes*
@@ -393,7 +393,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Succession numbers, initial pairs with a_2023=9*
@@ -436,7 +436,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parallelogram, centered beacons, length AM*
@@ -481,7 +481,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (m,n) whose fraction begins with 3,14*
@@ -526,7 +526,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dancer/dancer assignments, 13 non-crossing segments*
@@ -565,7 +565,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular living room, taken from a distance of 5m, maximum area*
@@ -597,7 +597,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2023 people in line, claims on thieves, how many*
@@ -629,7 +629,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles trapezoid, bisectriform, AB=AP with condition *
@@ -661,7 +661,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Doubly reversible numbers, types 2 and 3*
@@ -700,7 +700,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Labyrinth sets in Table 2n x 2n, perimeter and limits*

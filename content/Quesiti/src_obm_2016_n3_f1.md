@@ -29,7 +29,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale delle lettere O, B, M può occupare una data cella (grige) di una griglia 3x3*
@@ -59,7 +59,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione di Josias in una linea, con il numero davanti un quarto del numero dietro *
@@ -88,7 +88,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Side di un quadrato uguale in superficie a un rettangolo di dimensioni interi con perimetro 58 e prodotto quadrato*
@@ -117,7 +117,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congruenti; conclusione non può*
@@ -146,7 +146,7 @@ Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congrue
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le persone in fila che si alternano per dire la verità e mentire; contando i bugiardi tra il 2016
@@ -175,7 +175,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare x+9 dove x,y contano numeri odd/even in un elenco di 10 numeri che soddisfano un'equazione di coppia di parità*
@@ -203,7 +203,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero originale di persone che condividono un costo di 6000 quando 3 si ritirano e ogni rimanente paga 100 in più*
@@ -232,7 +232,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca dell'angolo x dalla configurazione con poligoni regolari (quadrato, pentagono, ottagono) e triangoli a pieghe uguali*
@@ -261,7 +261,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di conteggio di 9 perle (due colori) per avere sequenze equivalenti*
@@ -292,7 +292,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza SR in una configurazione circolare di accordi con archi uguali e triangoli simili*
@@ -325,7 +325,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Computing TU in una configurazione con un quadrato, un lato esagonale regolare e un angolo di 15 gradi*
@@ -356,7 +356,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Soluzioni di conteggio di un'equazione che coinvolge il pavimento di x su [38,2053]*
@@ -385,7 +385,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per formare comitati su n persone con restrizioni quotidiane*
@@ -414,7 +414,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di prodotti distinti P=S*E*I*Z in un criptaritmo di tipo SEIPZ con cifre non zero*
@@ -443,7 +443,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Possibilità di ordinare p1, p2, p3 di ottenere grandi somme con 1, 2 e 3 dadi*
@@ -474,7 +474,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più grande distanza possibile di "video-gioco" tra i punti posizionati in quattro sub rettangoli uguali di uno schermo*
@@ -505,7 +505,7 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
@@ -534,7 +534,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primo anno successivo al 2016 in cui una data data è nuovamente sabato*
@@ -563,7 +563,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La dimensione massima di un insieme in {1,...2016} i cui elementi soddisfano a_i ∙ a_j+1 / coprimitalità proprietà*
@@ -592,7 +592,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri "sagaz" abcd, dove il numero meno la somma dei suoi numeri è massima di 999*
@@ -621,7 +621,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero minimo di operazioni di fusione per dividere le pile 1,2,...,9,11 in pile uguali*
@@ -652,7 +652,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di aree [CHAM]/[AEFG] in un quadrato di lato 6 con triangoli simili*
@@ -683,7 +683,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione f sommazione degli esponenti primi; confronto dei valori e valutazione di f(2016) *
@@ -712,7 +712,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostrare una sequenza di numeri interi positivi del 2016 con una proprietà somma/prodotto ha almeno quelli del 2006*
@@ -743,7 +743,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio CO/CD dove O è il centro del triangolo ABD, con angolo retto a B e angolo di 60 gradi a C*

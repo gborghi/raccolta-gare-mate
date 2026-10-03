@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli numeri inversi di N sono uguali a 4N+3; trovare tutti i N a quattro cifre *
@@ -59,7 +59,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_{n+1} definita da somma di cifre; trovare a_{1997}*
@@ -88,7 +88,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i modi di pagamento 1997 Pippin con monete decimali*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con un cerchio inciso; dimostrare la superficie PQRS metà di ABCD*
@@ -148,7 +148,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi x, y con x+y>=2; due domande di disuguaglianza*

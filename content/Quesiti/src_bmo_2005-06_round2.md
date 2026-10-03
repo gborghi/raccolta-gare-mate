@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare x^2+y^2 sotto un vincolo polinomial*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra con fattori primi al massimo 5 con x^2-y^2=2 k*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, punti laterali, linea che incontra il bisettore perpendicolare; rapporto angolare*
@@ -114,7 +114,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esame con bambini 2006; ridurre al minimo le risposte totali giuste*

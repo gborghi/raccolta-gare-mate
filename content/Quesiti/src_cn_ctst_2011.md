@@ -28,7 +28,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo di M per la disuguaglianza della somma ciclica sulle permutazioni*
@@ -55,7 +55,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'esistenza di a in [1, n/k+1] con n ̊ a ̊ a-1) *
@@ -84,7 +84,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limiti minimi del grafico con vertici 4n, grado massimo 4n, diametro massimo 3*
@@ -115,7 +115,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove triangolo JKM isosceles nella configurazione della linea orthocenter-Simson*
@@ -144,7 +144,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione dei numeri interi positivi: infinito i con lcm(a_i, a_{i+1}) <= 3i/4*
@@ -173,7 +173,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di punti di interesse: dimostrare che qualsiasi due con punti di fine uguali condividono un'espansione comune*

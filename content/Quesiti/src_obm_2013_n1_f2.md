@@ -31,7 +31,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Secenza di sei numeri con pari triplice consecutive; trovare il prodotto di due numeri privi di contenuto *
@@ -63,7 +63,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum a+b in modo che 28a3b e 7a4b3 siano entrambi quadrati perfetti*
@@ -90,7 +90,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unire dodici 3 ×4 rettangoli di plastica fianco a fianco per massimizzare il perimetro *
@@ -121,7 +121,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Utilizzare i numeri 07 una volta ogni lato in un'addizione di colonne; massimizzare la somma*
@@ -152,7 +152,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 corrette su 128 domande; trovare almeno N corrette consecutive*
@@ -179,7 +179,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sbarazzare i numeri interi 11000 due a due a partire dal secondo; contare gli studenti*
@@ -215,7 +215,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tabella con X=prodotto e Y=quotiente; trovare riga 10 e somma nella riga 2013*
@@ -252,7 +252,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Goldsmith taglia i cubetti verticali da 10 cm di cubo; costo della superficie del foglio d'oro*
@@ -287,7 +287,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diagonali trapezoidi: area ABC = area ADE; poi trovare area di AGDH*

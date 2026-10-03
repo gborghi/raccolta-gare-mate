@@ -28,7 +28,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie prime (p,q) con p≤q che rende una frazione un numero intero*
@@ -55,7 +55,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il centro di PQ si trova sul circoncircolo di ABC; collinearità dell'ortocentro*
@@ -86,7 +86,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare le carte n2 sulla griglia n×n in modo che le carte adiacenti abbiano valori di coprime*
@@ -121,7 +121,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_{n+1}=a_n·a_n; dimostrare a_n=a_1 per tutti gli integri positivi n*
@@ -157,7 +157,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di cellule nere iniziali per riempire tutta la griglia 10×10 diffondendo *

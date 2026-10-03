@@ -27,7 +27,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum length >=1*
@@ -52,7 +52,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finite non-coplanar set with parallel-pairs property exists?*
@@ -80,7 +80,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimize a^2+b^2 for quartic with a real root
@@ -107,7 +107,7 @@ Minimize a^2+b^2 for quartic with a real root
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shortest mine-sweeping path in an equilateral triangle*
@@ -144,7 +144,7 @@ Minimize a^2+b^2 for quartic with a real root
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Group of affine maps has common fixed point*
@@ -184,7 +184,7 @@ Minimize a^2+b^2 for quartic with a real root
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Construct b_k bounding a_k with ratio and sum conditions*

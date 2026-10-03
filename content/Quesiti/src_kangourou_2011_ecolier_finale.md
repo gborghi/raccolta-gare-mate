@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *All hours possible if the clock changes 0 and 8 showing 20.08*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cifra A if 4A=CB and 4B=A*
@@ -84,7 +84,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number instead of x because it adds up to the constant extremes*
@@ -113,7 +113,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of problems for five categories*
@@ -142,7 +142,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First future year in which 9 May falls on Monday*
@@ -170,7 +170,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minutes of Julius and minutes with the two brothers

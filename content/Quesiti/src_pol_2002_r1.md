@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un'equazione di valore assoluto nei reali con termini indicizzati pari a sinistra e termini indicizzati dispari a destra.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con quadrati costruiti verso l'esterno su due lati; trovare tutti i valori di MN:BC dove M, N sono i punti di mezzo di due segmenti.*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che una somma di tipo binomio è divisibile da una grande potenza di 2.*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che un grafico polinomial di grado >1 ha un asse di simmetria se fattori come F(G) con deg G = 2.*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dimostrare che per ogni k c'è un intero positivo m in modo che m, 2m, ..., m! hanno esattamente k numeri non zero nella loro espansione binomial.*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorati in tre colori; dimostrare che il totale rosso è uguale al totale bianco.
@@ -193,7 +193,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un gruppo di n>=3 persone in cui ciascuno ha un numero pari di conoscenti, dimostrare che tre membri hanno lo stesso numero di conoscenti.*
@@ -222,7 +222,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lasciate che S(n) sia la somma digitali di n; dimostri che S(2n^2+3) non è mai un quadrato perfetto.*
@@ -249,7 +249,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un piano taglia i bordi laterali di un prisma esagonale in un esagono converso; dimostra la somma alternata di bilanci di distanze di base a quadrato.*
@@ -276,7 +276,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su una lavagna 2000x2000 con una pietra su ciascun campo, si muovono due pietre tre a parte sul centro; si decide se tutte le pietre possono finire su un campo.*
@@ -304,7 +304,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con una condizione angolare sul triangolo ABC, un cerchio tangente a AC da A a D su BC incontra AB a P; dimostrare BP/AC = BD/DC.*
@@ -332,7 +332,7 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una sequenza di interi positivi non in diminuzione ha esattamente k valori uguali a k; trovare tutti i primi tra le sue somme parziali.*

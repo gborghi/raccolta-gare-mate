@@ -48,7 +48,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles that can be detected in Figure *
@@ -103,7 +103,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The final figure is 1! + 2! +... + 2002!
@@ -141,7 +141,7 @@ The final figure is 1! + 2! +... + 2002!
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third digit integers with at least two equal *
@@ -184,7 +184,7 @@ The final figure is 1! + 2! +... + 2002!
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product ab with MCD 3 and coefficient 4/10*
@@ -224,7 +224,7 @@ Product ab with MCD 3 and coefficient 4/10*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spieces of a prism with 2002 vertices*
@@ -261,7 +261,7 @@ Product ab with MCD 3 and coefficient 4/10*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduction in the volume of melting ice*
@@ -301,7 +301,7 @@ Product ab with MCD 3 and coefficient 4/10*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean annual use of the hotel*
@@ -345,7 +345,7 @@ Product ab with MCD 3 and coefficient 4/10*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Percentage of glasses with water at 45°C
@@ -392,7 +392,7 @@ Percentage of glasses with water at 45°C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parallel length to 60 degrees latitude*
@@ -446,7 +446,7 @@ Percentage of glasses with water at 45°C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Word at 537th position*
@@ -496,7 +496,7 @@ Percentage of glasses with water at 45°C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relationship between areas of triangles*
@@ -547,7 +547,7 @@ Percentage of glasses with water at 45°C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Surface area of the cube sculpture*
@@ -593,7 +593,7 @@ Percentage of glasses with water at 45°C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Name of the son of John
@@ -636,7 +636,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Matches drawn in the tournament*
@@ -680,7 +680,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduce expenses by three amendments*
@@ -725,7 +725,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABC angle between midpoints of the cube*
@@ -774,7 +774,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Objects C balancing a B*
@@ -837,7 +837,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of circles in the triangle*
@@ -899,7 +899,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time for Achilles and the turtle*
@@ -948,7 +948,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second term of succession up to 1000*
@@ -998,7 +998,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-degenerate triangles of 10 points *
@@ -1037,7 +1037,7 @@ Name of the son of John
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum k with 2001^k divided by 2002!
@@ -1081,7 +1081,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *People in the two groups (cancelled) *
@@ -1123,7 +1123,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-conforming triangles in the decagon*
@@ -1184,7 +1184,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of region C in the circle*
@@ -1231,7 +1231,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies with sums of 2 digits up to 10^2002*
@@ -1270,7 +1270,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time of the aircraft doubling speed*
@@ -1310,7 +1310,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Litres to be replaced per solution at 42%*
@@ -1371,7 +1371,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the sum of cyclic fractions*
@@ -1439,7 +1439,7 @@ Maximum k with 2001^k divided by 2002!
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cases inaccessible in the table game*

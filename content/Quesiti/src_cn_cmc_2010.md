@@ -28,7 +28,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rango di una funzione che coinvolge due radici quadrate*
@@ -59,7 +59,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rango di parametro a in modo che un'espressione trigonometrica abbia un minimo -3*
@@ -90,7 +90,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i punti della griglia nella regione delimitata da un ramo iperbolare e da una linea verticale*
@@ -120,7 +120,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze aritmetiche e geometriche legate da un'identità logaritmica*
@@ -151,7 +151,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di una funzione esponenziale data la sua massima su un intervallo*
@@ -182,7 +182,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
@@ -215,7 +215,7 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Signo di un angolo diedrico in un prisma triangolare regolare con tutti i bordi uguali*
@@ -248,7 +248,7 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le soluzioni a numeri interi positivi di x+y+z=2010 con x<=y<=z*
@@ -279,7 +279,7 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coefficiente di conduzione massimo di un cubo la cui derivata è delimitata da 1 su [0,1]*
@@ -309,7 +309,7 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima di un triangolo formato da una corda di parabola e da un punto fisso*

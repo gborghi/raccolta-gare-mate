@@ -35,6 +35,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Prodotto limitato dei rapporti tra distanza incentro-vertice e bisettrice*
 
 > Dato un triangolo ABC, sia I il centro della sua circonferenza inscritta.
@@ -46,8 +47,6 @@ level: IMO
 > AA′ · BB′ · CC′ ≤
 > 8
 > 27.
-
-
 
 [[Quesiti/src_imo_1991#q01|src_imo_1991__Q01]]
 
@@ -73,14 +72,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Totativi equamente spaziati implicano n primo o potenza di 2*
 
 > Sia n > 6 un intero e siano a1, a2, . . . , ak tutti i numeri naturali
 > minori di n e primi con n. Se
 > a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0,
 > si dimostri che n è un numero primo oppure una potenza di 2.
-
-
 
 [[Quesiti/src_imo_1991#q02|src_imo_1991__Q02]]
 
@@ -108,6 +106,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Più piccolo n che forza cinque numeri a due a due coprimi in un sottoinsieme*
 
 > Sia S = {1, 2, 3, ..., 280}. Determinare il più piccolo intero n tale che ogni sottoinsieme di S formato da n elementi contenga cinque numeri a due a due primi tra loro.
@@ -115,8 +114,6 @@ level: IMO
 > Secondo giorno
 > 18 luglio 1991
 > Tempo a disposizione: 4½ ore
-
-
 
 [[Quesiti/src_imo_1991#q03|src_imo_1991__Q03]]
 
@@ -139,7 +136,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Label graph edges so each vertex has gcd 1*
@@ -167,7 +164,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interior point gives an angle at most 30 degrees*
@@ -196,7 +193,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Construct bounded sequence with separation condition for a>1*

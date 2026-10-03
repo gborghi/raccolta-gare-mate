@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *15 integri copri­mi in copri­mi in (1,1998); mostrare uno è primo*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con D punto medio di AB, E su BC con BE=2EC, angoli uguali; trovare angolo BAC*
@@ -80,7 +80,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco numero per due giocatori con n round e incremento t; punteggio gcd; determina il vincitore*
@@ -107,7 +107,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco quadratico-coefficiente per due giocatori utilizzando due enti e 1998; il primo giocatore forza due radici razionali distinte*
@@ -134,7 +134,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le f: N->N con f(2f(x)) = x + 1998*
@@ -161,7 +161,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La lunghezza di percorso peggiore per raggiungere un angolo di Berlino con lato sconosciuto e distanza sconosciuta*

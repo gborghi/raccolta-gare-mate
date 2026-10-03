@@ -34,7 +34,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *5x5 griglia di numeri interi 1-25: scegliete cinque numeri, non due nella stessa riga o colonna; trovate un insieme con l'elemento più grande 23, e uno il cui elemento più grande è il più piccolo possibile*
@@ -75,7 +75,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *X è il riflesso di B attraverso la linea r (impostazione bisettore perpendicolare); X' Y' Z' sono i riflessi delle vertici del triangolo XYZ su tutti i lati opposti; calcolare l'area del triangolo X'Y'Z'*
@@ -112,7 +112,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un parco quadrilaterale con più porte; etichettare i suoi punti in modo che i numeri lungo ogni lato si sommano allo stesso totale di T; dare un esempio di numerazione che raggiunga un possibile valore di T*
@@ -149,7 +149,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sette monete in un cerchio, una con la sua faccia visibile; determinare se girando cinque monete consecutive ogni volta (a) o quattro monete consecutive ogni volta (b) tutti possono essere fatti vedere la faccia in giù*
@@ -184,7 +184,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su un tavolo 8x8 due giocatori inseriscono alternativamente 1x1 pedoni su quadrati; il giocatore che non può muoversi perde; determina quale giocatore ha una strategia vincente indipendentemente dal gioco dell'avversario*

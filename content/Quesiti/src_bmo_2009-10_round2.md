@@ -28,7 +28,7 @@ level: BMO Round 2
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alineare i bambini in modo che ciascuno sia accanto al massimo a due dei loro amici*
@@ -57,7 +57,7 @@ level: BMO Round 2
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova la condizione angolare in triangolo se angolo retto a C*
@@ -86,7 +86,7 @@ level: BMO Round 2
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un intero n tale che n^2+4 divida n^3+n*
@@ -116,7 +116,7 @@ level: BMO Round 2
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei valori reali positivi x, y, z*

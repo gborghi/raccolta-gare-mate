@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcento, punto medio, collinearietà del centroide nel triangolo*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *divisibilità della sequenza di Fibonacci per m per tutte le n*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma e il prodotto delle reciprocità della sequenza iterata soddisfano l'identità*
@@ -115,7 +115,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il percorso più corto dal punto alto della cupola all'angolo della base del cilindro*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dicenni punti in un cerchio di diametro di 5 pollici: due entro 2 pollici*
@@ -173,7 +173,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione a radice quadrata: trovare p che dà esattamente una soluzione reale*

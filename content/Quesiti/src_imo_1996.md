@@ -36,6 +36,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Mosse da alfiere di distanza √r attraverso gli angoli della scacchiera*
 
 > Sono dati un intero positivo r e una tavola rettangolare ABCD di
@@ -48,8 +49,6 @@ level: IMO
 > (a) Si dimostri che ciò è impossibile se r è divisibile per 2 o per 3.
 > (b) Si dimostri che ciò è possibile per r = 73.
 > (c) È possibile per r = 97?
-
-
 
 [[Quesiti/src_imo_1996#q01|src_imo_1996__Q01]]
 
@@ -76,14 +75,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che AP, BD, CE sono concorrenti sotto la condizione sugli angoli dell'incentro*
 
 > Sia P un punto interno al triangolo ABC tale che
 > ∠APB − ∠ACB = ∠APC − ∠ABC.
 > Siano D ed E gli incentri dei triangoli APB e APC, rispettivamente.
 > Si dimostri che le rette AP, BD ed EC si incontrano in un punto.
-
-
 
 [[Quesiti/src_imo_1996#q02|src_imo_1996__Q02]]
 
@@ -115,6 +113,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni f tali che f(m+f(n))=f(f(m))+f(n)*
 
 > Sia S l'insieme degli interi non negativi. Determinare tutte le funzioni f da S a sé stesso tali che
@@ -128,8 +127,6 @@ level: IMO
 > Giorno II
 > ore 9:00 - 13:30
 > 11 luglio 1996
-
-
 
 [[Quesiti/src_imo_1996#q03|src_imo_1996__Q03]]
 
@@ -150,7 +147,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Least square value with 15a+16b and 16a-15b both squares*
@@ -178,7 +175,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *circumradii sum at least half perimeter*
@@ -210,7 +207,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lattice-path tuple has two indices with equal values*

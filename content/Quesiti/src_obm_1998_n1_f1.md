@@ -33,7 +33,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più grande delle cinque espressioni esponenziali nella base 3*
@@ -74,7 +74,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare somme distinte quando vengono lanciati tre dadi*
@@ -115,7 +115,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricuperare il numero di input da una sequenza di operazioni*
@@ -155,7 +155,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lap count per ciclisti più lenti quando completano più velocemente il giro 80*
@@ -195,7 +195,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Resultat di squadratura, sottrazione e divisione di un numero positivo da solo*
@@ -236,7 +236,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a 3 cifre la cui somma digitale è 25*
@@ -277,7 +277,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare il più giovane tra i quattro ragazzi di età *
@@ -324,7 +324,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova l'ultimo numero in una catena circolare in cui ogni tre somme consecutive fino a 12*
@@ -373,7 +373,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i cubetti unitari con esattamente 2 facce verniciate dopo aver separato un solido rettangolare verniciato*
@@ -415,7 +415,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Zona per famiglia dopo aver diviso un'azienda agricola rettangolare tra 200 famiglie*
@@ -455,7 +455,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fee di parcheggio per un determinato intervallo di tempo*
@@ -496,7 +496,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rolle massime ottenute da quantità limitate di ingredienti*
@@ -539,7 +539,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matchsticks necessari per 100 quadrati consecutivi*
@@ -582,7 +582,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza tra la somma di tutti i numeri odd e tutti i numeri pari a due cifre*
@@ -622,7 +622,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero da aggiungere al numeratore e da sottrarre dal denominatore per invertere una frazione*
@@ -663,7 +663,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i cognomi distinti a 4 lettere con un alfabeto a 2 lettere*
@@ -703,7 +703,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il residuo minimo dopo aver distribuito i marmi a 10 bambini in sequenza aritmetica*
@@ -744,7 +744,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z *
@@ -787,7 +787,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per posizionare un pezzo a forma di L su una griglia per coprire esattamente 3 quadrati*
@@ -830,7 +830,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Determina il giorno in cui sia un bugiardo che uno che dice la verità diranno: "Domani è un giorno di bugie".

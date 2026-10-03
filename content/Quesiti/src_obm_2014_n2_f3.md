@@ -34,7 +34,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Superdado costruito da otto dadi unitari; facce opposte di ciascuna somma di 7. Trova la somma di sei facce di un dato superdado e costruisci una la cui somma di sei facce è 106.*
@@ -71,7 +71,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diametro AB del cerchio, accordi CD perpendicolari a esso che si incontrano AB a E; per qualsiasi P su CD, le linee AP e BP incontrano il cerchio di nuovo a F e G; O è il circumentro di EFG. L' area di mostra dell' OCD è costante.*
@@ -100,7 +100,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli enti n>1 in modo tale che per ogni k con 0<=k<n ci sia un multiple di n la cui somma digitali lascia il rimanente k dopo la divisione da n.*
@@ -128,7 +128,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadratto, segmenti uguali a lato, superficie identica del prodotto*
@@ -155,7 +155,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coefficienti interi: positivo per tutti gli interi non implica radici reali*
@@ -184,7 +184,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un tabellone 2m x 2n con un numero intero in ogni cella; la mossa seleziona tre celle che formano un L-tromino e aggiunge 1 a ciascuna. Trovare la condizione necessaria e sufficiente, in termini di m, n e numeri iniziali, per rendere tutti i numeri uguali.*

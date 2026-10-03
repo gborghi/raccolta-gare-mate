@@ -42,7 +42,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubs removed from a 5x5x5 cube with columns*
@@ -91,7 +91,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of three stages = 44, next to two digits *
@@ -136,7 +136,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculation of a-3b given a/b*
@@ -184,7 +184,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * when in the largest*
@@ -226,7 +226,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression value with powers of 2*
@@ -272,7 +272,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which polynomial does not admit b+1 as a factor*
@@ -315,7 +315,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits has (2^22) ^5*(5^55) ^2*
@@ -361,7 +361,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *what statement is true*
@@ -413,7 +413,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *volume V with respect to v*
@@ -460,7 +460,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year with last digit > sum of first three, all different *
@@ -504,7 +504,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *team points D*
@@ -550,7 +550,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is 2^k+1 and divisible by 5*
@@ -620,7 +620,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *3, tangent rope: large beam *
@@ -689,7 +689,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turn a>b>c>1 with 1/a+1/b+1/c>1*
@@ -732,7 +732,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Budgetary Control.
@@ -770,7 +770,7 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *6 weeks = n! The value of the underlying asset shall be reported in the following column:
@@ -822,7 +822,7 @@ The Commission shall adopt delegated acts in accordance with the opinion of the 
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of the underlying asset shall be the sum of the underlying assets of the underlying asset.
@@ -882,7 +882,7 @@ The value of the underlying asset shall be the sum of the underlying assets of t
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The water content of the product shall not exceed the water content of the product.
@@ -926,7 +926,7 @@ The water content of the product shall not exceed the water content of the produ
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information shall be provided:
@@ -975,7 +975,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *value at *
@@ -1021,7 +1021,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *min of maximum*
@@ -1088,7 +1088,7 @@ The following information shall be provided:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided in the following table:
@@ -1155,7 +1155,7 @@ The following information is provided in the following table:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how much gold*
@@ -1227,7 +1227,7 @@ The following information is provided in the following table:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The manufacturer shall provide the manufacturer with the following information:
@@ -1276,7 +1276,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max <=100 distinct whole with product not divided by 54 *
@@ -1325,7 +1325,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n because CZ=1 *
@@ -1371,7 +1371,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *value of m*
@@ -1419,7 +1419,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of inner corners*
@@ -1458,7 +1458,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Z->Z with x f(x)=(x-3)f(x+1): product f(4)...f(2014) *
@@ -1507,7 +1507,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max final animals*

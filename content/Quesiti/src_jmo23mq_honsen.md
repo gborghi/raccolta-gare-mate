@@ -30,7 +30,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire caramelle a gruppi di persone in condizioni*
@@ -61,7 +61,7 @@ Distribuire caramelle a gruppi di persone in condizioni*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni integrali che soddisfano un'equazione funzionale*
@@ -91,7 +91,7 @@ Distribuire caramelle a gruppi di persone in condizioni*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum m con sequenza in aumento le cui metà quadrate adiacenti sono quadrate*
@@ -120,7 +120,7 @@ Distribuire caramelle a gruppi di persone in condizioni*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che KD taglia l'angolo BKC attraverso il piede dell'asse radicale*
@@ -147,7 +147,7 @@ Distribuire caramelle a gruppi di persone in condizioni*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximi coppie di segmenti che si intersecano in una sequenza di punti di svolta a 90 gradi*

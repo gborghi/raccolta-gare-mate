@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a number fraction*
@@ -81,7 +81,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winner of the jump race (jumped/own height ratio) *
@@ -127,7 +127,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the vertices of the dice has the highest value*
@@ -175,7 +175,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many tiles touched by both legs*
@@ -236,7 +236,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the shortest route by passing segments*
@@ -298,7 +298,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between black area and grey area (square with 4 circles) *
@@ -360,7 +360,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of rectangle with perimeter 40 and front sides*
@@ -402,7 +402,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair of areas per circle inscribed and enclosed in a square*
@@ -443,7 +443,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of digits of the largest ABA palindrome multiple of 6
@@ -487,7 +487,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure of the alpha angle (square and regular hexagon) *
@@ -532,7 +532,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of cards to move to correct equality*
@@ -589,7 +589,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to fill the 2x4 grid with A,B,C,D*
@@ -638,7 +638,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between black crown in Fig1 and black region in Fig2*
@@ -676,7 +676,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number of n with S(n)>=100 (coefficients 2020../2424..) *
@@ -717,7 +717,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of triangle ABC from three segments parallel to the sides*
@@ -759,7 +759,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product of the 8 external discs from the products of the squares*
@@ -802,7 +802,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of tokens in the four self-reference boxes*
@@ -878,7 +878,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n (cube with one face = no painted face) *
@@ -924,7 +924,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which quadrant contains no numbers used (multiple sums of 3) *
@@ -965,7 +965,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of solid vertices A and B from the development plane*
@@ -1035,7 +1035,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exponent of 17 in the factorization of n!*
@@ -1101,7 +1101,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which statement Carlo cannot have made (true on other days) *
@@ -1141,7 +1141,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of S with S three times the sum of the digits of N+1*
@@ -1170,7 +1170,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential B-A of black cubes (three-colored 3x3x3 cube) *
@@ -1210,7 +1210,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *3)*
@@ -1249,7 +1249,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of time at 4 km/h (run at three speeds) *
@@ -1291,7 +1291,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of integers to be removed from 1.25 for two identical products*
@@ -1337,7 +1337,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many strings of length between radius and diameter (20-gones) *
@@ -1379,7 +1379,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number of lines with assigned intersections*
@@ -1450,7 +1450,7 @@ Product of the 8 external discs from the products of the squares*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For all pairs (m,n) the area of the OPQ triangle is 2024*

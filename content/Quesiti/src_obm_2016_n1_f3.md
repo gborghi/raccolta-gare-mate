@@ -26,7 +26,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori d'angolo, condizioni parallele; dimostrare AB=AC dalla collinearità*
@@ -53,7 +53,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nello più piccolo: ogni n punto di coordinate interi ha due con distanza quadrata divisibile entro il 2016*
@@ -80,7 +80,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco a due giocatori che sostituiscono i numeri con k di cifre binarie; contare le posizioni perdenti*
@@ -107,7 +107,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme massimo di {1,...2016} senza due elementi diversi di 1, 2 o 6*
@@ -138,7 +138,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza polinomica da ricorrenza; dimostrare valore negativo per tutte le n, quindi contare tali interi*
@@ -169,7 +169,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali convexi non ciclici; i circoncenti dei quadrilaterali bisettori e il punto dell'asse radicale sono collineari*

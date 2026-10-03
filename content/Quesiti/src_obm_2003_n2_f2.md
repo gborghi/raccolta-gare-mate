@@ -30,7 +30,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del BEFG quadrato data l'area dei quadrati ABCD e FHIJ*
@@ -63,7 +63,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scelta 13 numeri interi da 1 a 26 contenenti 4 in modo che nessun numero scelto divida un altro*
@@ -94,7 +94,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area di una regione di carta dopo aver piegato e svolto un rettangolo tre volte*
@@ -125,7 +125,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri "potenti" inferiori a 100, dove un numero è uguale al prodotto dei suoi divisiori propri*
@@ -155,7 +155,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f ((x) - f ((xy) = x/y+y/x: trovare f ((1) e una formula per f ((x) *
@@ -186,7 +186,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un altro numero biquadrato a quattro cifre, pari alla somma dei quadrati delle sue due metà a due cifre*

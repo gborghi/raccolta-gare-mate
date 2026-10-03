@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of total discount on the starting price*
@@ -67,7 +67,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the fourth grid cell 100x100 steps*
@@ -102,7 +102,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of rectangles n nearest to 1000 with straight lines *
@@ -133,7 +133,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dimension of swimming pool from East and North
@@ -163,7 +163,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of positive integers (x,y) with x+3y=2014*
@@ -219,7 +219,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DEF triangle area in parallelogram for similarities*
@@ -275,7 +275,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (a,b) with 1/a+1/b=1/5*
@@ -307,7 +307,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits 0 in the coefficient R(25)/R(5) *
@@ -340,7 +340,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exchange tyres for equal consumption after several kilometres*
@@ -370,7 +370,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of figures of the difference of two large squares*
@@ -402,7 +402,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinate sum of the possible parallelogram vertices *
@@ -439,7 +439,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full square tiles in the rectangular floor*
@@ -475,7 +475,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the third kilometre signal (digits exchanged) *
@@ -505,7 +505,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 3a+4b+5c from two linear relationships*
@@ -544,7 +544,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of four consecutive integers with product 358800*

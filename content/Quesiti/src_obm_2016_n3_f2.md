@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione 10000 in sequenza costruita con la concatenatura di blocchi di 1..2k*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova a+b data una radice condivisa di due polinomi*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca p^q in geometria semicircolare con lunghezze di accordi e rapporto di coprime dati*
@@ -111,7 +111,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il perimetro più piccolo condiviso da due triangoli rettangolari a lato intero non congruenti*
@@ -138,7 +138,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum numero di divisori positivi di P(n) per il polinomio di radice integrale di grado-10*
@@ -167,7 +167,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tagliare la scheda m x n con pezzi quadrati e quadrati; ridurre al minimo la m *n *
@@ -196,7 +196,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le celle marroni in colorazione 7x7 con restrizioni di maggioranza a fila rossa e a colonna blu*
@@ -223,7 +223,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Agglio massimo BAC quando G è centroid e due cerchi sono tangenti a una linea comune*
@@ -250,7 +250,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Zero di seguito del coefficiente binomial q C(2016,38)_q come polinomio in q*

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le perpendicolari dell'altitudine del piede formano segmento EF uguale per qualsiasi vertice*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regola dei posti a tavola rotonda; trovare tutti i n delegati che evitano la collisione*
@@ -82,7 +82,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La ricorrenza con radice quadrata incastonata dà solo numeri interi*
@@ -109,7 +109,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione di lunghezze tangenti da punto a sfera unitaria delimitate da distanze verso i centri*

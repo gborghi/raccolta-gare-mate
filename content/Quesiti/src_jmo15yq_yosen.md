@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi a due cifre con il resto 2 mod 3 e il resto 3 mod 5*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distanza minima dalla linea 4x+3y=1 a un punto della rete non sulla linea*
@@ -85,7 +85,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il valore di un angolo di massimizzazione APB con punto medio B di OA sul triangolo rettangolo*
@@ -114,7 +114,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità somma cumulativa di dadi equivale esattamente a 6 a un certo punto all'interno di 6 rulli*
@@ -143,7 +143,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma *
@@ -172,7 +172,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di 2^a + 4^b per a,b reale con a+b=17*
@@ -201,7 +201,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi positivi n<50 espressi come a^2-b^2 con a,b>=1 numeri interi*
@@ -229,7 +229,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sedili validi di 7 persone a tavola circolare dove nessuno siede accanto alla sedia assegnata da un altro*
@@ -257,7 +257,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un PAC ad angolo con punto P all'interno di un pentagono regolare che soddisfa determinate condizioni di angolo*
@@ -285,7 +285,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triples ordinati di numeri a 3 cifre che sommano al 2005 con somma massima di cifre *
@@ -314,6 +314,7 @@ level: JMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Coseno minimo dell'angolo QPR al variare del punto di divisione k nel triangolo ABC*
 
 > In un triangolo $ABC$ con lati $BC = 12$, $CA = 11$, $AB = 5$, sia $k$ un numero reale tale che $0 < k < 1$. Si definiscano i seguenti sei punti:
@@ -323,8 +324,6 @@ level: JMO Yosen
 > - Sul lato $AB$: sia $R_1$ il punto che divide $AB$ nel rapporto $2 : 5$ a partire da $A$, e sia $R_2$ il punto che divide $AB$ nel rapporto $5 : 2$ a partire da $A$.
 >
 > Quando esiste un triangolo $PQR$ con lati $Q = Q_1$, $R = R_1$, $P = P_2$; $QR = Q_1 R_0$, $RP = R_1 P_2$, $PQ = P_1 Q_2$ (cioè i lati del triangolo $PQR$ sono uguali a $|Q_1 R_0|$, $|R_1 P_2|$, $|P_1 Q_2|$ per opportuni valori di $k$), determinare il valore minimo di $\cos \angle QPR$.
-
-
 
 [[Quesiti/src_jmo15yq_yosen#q11|src_jmo15yq_yosen__Q11]]
 
@@ -347,7 +346,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il numero massimo di modi per distruggere ponti in modo che tutte le isole abbiano un grado pari

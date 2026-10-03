@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triples ordinati che soddisfano un sistema reale simmetrico*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'identità del rapporto per il punto P all'interno di un triangolo con angoli uguali*
@@ -82,7 +82,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di colori per i segmenti di colori tra n punti, non due punti finali dello stesso colore*
@@ -109,7 +109,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i triples interi positivi dove i prodotti in coppia lasciano il rimanente 1*
@@ -138,10 +138,10 @@ level: Olimpiade Polacca Round 2
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Probabilità che la somma dei dadi bianchi mod 7 sia uguale alla somma dei dadi neri mod 7*
 
 > Abbiamo lanciato $n$ dadi bianchi e $m$ dadi neri. Determinare la probabilità che il resto modulo 7 della somma dei numeri sui dadi bianchi sia uguale al resto modulo 7 della somma dei numeri sui dadi neri.
-
 
 [[Quesiti/src_pol_1997_r2#q05|src_pol_1997_r2__Q05]]
 
@@ -163,7 +163,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Otto punti in cubo unitario, circa due a distanza massima 1*

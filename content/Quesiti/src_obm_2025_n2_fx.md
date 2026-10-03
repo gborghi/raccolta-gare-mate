@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum-digit-sum di una potenza di 2 con almeno due cifre*
@@ -53,7 +53,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Strategia vincente in gioco da tavolo 5x5 per il quale gli integri positivi m*
@@ -80,7 +80,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che il KDMR quadrilaterale è ciclico in triangolo acuto con centro orto*
@@ -117,7 +117,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Collinearity DEF e segmento di uguaglianza ID=IF utilizzando incenter e A-excenter*
@@ -154,7 +154,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *quadratico a coefficiente intero con radice reale positiva inferiore a 1/2*
@@ -187,7 +187,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di dimensione di una diagonale ostruzionale impostata in triangolazioni di n-gon convex*

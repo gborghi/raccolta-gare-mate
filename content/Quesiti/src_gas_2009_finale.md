@@ -33,7 +33,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flat and upward quadrilateral area of 45 degrees *
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to divide 9 people into groups with constraints*
@@ -100,7 +100,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of Elves among honest/ foolish prisoners
@@ -132,7 +132,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic mean of numbers in a rectangle of a Pythagorean table*
@@ -167,7 +167,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most perfect square of the form aabb*
@@ -201,7 +201,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits minimum number with digits 2,9 divisible by 2^2009*
@@ -234,7 +234,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of possible cubic term coefficients, whole roots*
@@ -271,7 +271,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Light distance per given ratio of illuminated surfaces to cubic shadows*
@@ -306,7 +306,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tempted maximum runes on hexagonal prism without rotations*
@@ -340,7 +340,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of extracting exactly 2 elliptical rings out of 3*
@@ -385,7 +385,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lunar area between arc radii*
@@ -428,7 +428,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Track speed, distance to reach *
@@ -465,7 +465,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different angles in seconds between two isosceles triangles*
@@ -500,7 +500,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum square and triangular number greater than 1000*
@@ -535,7 +535,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last number of the triangle of power sums of 2009*
@@ -567,7 +567,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
@@ -602,7 +602,7 @@ Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of walks on a lattice at a distance of 5 to 7 steps*
@@ -635,7 +635,7 @@ Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most parallel-piped volume with linear boundary on the sides*
@@ -670,7 +670,7 @@ Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to wear 7 rings on 8 fingers in order*
@@ -704,7 +704,7 @@ How to wear 7 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of rectangular pyramid with dihedral angle of 120 degrees*
@@ -741,7 +741,7 @@ How to wear 7 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum unused card for rectangular cube development*
@@ -778,7 +778,7 @@ How to wear 7 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of steps down the stairs by halving and divider*
@@ -811,7 +811,7 @@ How to wear 7 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential square triangle areas by length polynomials*
@@ -859,7 +859,7 @@ How to wear 7 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of n with full nested radical expression*

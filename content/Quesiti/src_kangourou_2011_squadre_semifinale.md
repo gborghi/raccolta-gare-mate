@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Now in San Francisco on arrival from London.
@@ -65,7 +65,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N value with error map scale and price +6%*
@@ -153,7 +153,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measures angle X with three squares in the rectangle*
@@ -242,7 +242,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 % of problems solved by Gigi*
@@ -275,7 +275,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Civil number of cousin (left side odd) *
@@ -306,7 +306,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum cubes seen simultaneously in the cube 11x11x11*
@@ -337,7 +337,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total numbers are 20 times the sum of the digits *
@@ -367,7 +367,7 @@ Now in San Francisco on arrival from London.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the assets under management of the institution.
@@ -399,7 +399,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total figures for the number of articles of the Treaty*
@@ -432,7 +432,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in place 2009 in two successions together*
@@ -465,7 +465,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of integers of 10 digits (one non-integer) *
@@ -499,7 +499,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now meeting cyclist and podium runner (60 km) *
@@ -531,7 +531,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total matches with 20% teams without wins*
@@ -566,7 +566,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers remaining after repeated deletions (1997 deleted) *
@@ -607,7 +607,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of books by Elizabeth (novel, poetry, science) *

@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many more bricks in the right pyramid
@@ -76,7 +76,7 @@ How many more bricks in the right pyramid
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In which image there are more black than white kangaroos
@@ -105,7 +105,7 @@ In which image there are more black than white kangaroos
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Who and Barbara given the objects owned*
@@ -142,7 +142,7 @@ In which image there are more black than white kangaroos
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden figure in the sum 5_ + 5_ = 104*
@@ -189,7 +189,7 @@ In which image there are more black than white kangaroos
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who made the wrong statement on the number 325?
@@ -236,7 +236,7 @@ Who made the wrong statement on the number 325?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number of friends does not divide 36*
@@ -282,7 +282,7 @@ Who made the wrong statement on the number 325?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full weight of the broken mirror*
@@ -321,7 +321,7 @@ Who made the wrong statement on the number 325?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What part of the broken mirror is missing*
@@ -358,7 +358,7 @@ Who made the wrong statement on the number 325?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangles are seen in Figure *
@@ -398,7 +398,7 @@ Who made the wrong statement on the number 325?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many sandwiches with two and a half slices of bread*
@@ -436,7 +436,7 @@ Who made the wrong statement on the number 325?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many siblings can you have by dividing 36 candy
@@ -479,7 +479,7 @@ How many siblings can you have by dividing 36 candy
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where Anna arrives following the turns.
@@ -512,7 +512,7 @@ Where Anna arrives following the turns.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Who is the oldest person by date of birth*
@@ -549,7 +549,7 @@ Where Anna arrives following the turns.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final order of the five jumping kangaroos*
@@ -587,7 +587,7 @@ Where Anna arrives following the turns.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Paid to be drawn to form a rectangle*
@@ -624,7 +624,7 @@ Where Anna arrives following the turns.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Nadia's best friends (girls and boys)
@@ -663,7 +663,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Small squares to cover the square (cancelled) *
@@ -703,7 +703,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Over the years produced figures > sum of figures*
@@ -737,7 +737,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cat waking minutes in January*
@@ -776,7 +776,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of dominoes in a row*
@@ -820,7 +820,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to divide 10 bells into three equal charges*
@@ -865,7 +865,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many moons on the stretched carpet*
@@ -908,7 +908,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum additions of 0 and 1 with sum 2013*
@@ -955,7 +955,7 @@ Nadia's best friends (girls and boys)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of pieces to form a full square*

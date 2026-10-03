@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of figures expressed as 123456789*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vertical side of rectangle with 8 discs*
@@ -98,7 +98,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum matches for the strongest by 2022*
@@ -129,7 +129,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number with data residues for 3.7*
@@ -165,7 +165,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes before the flight*
@@ -195,7 +195,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number A,B with [3(2022+A)]^2 given *
@@ -229,7 +229,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of parallel piped given OE and angle 60°*
@@ -269,7 +269,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum candidates for two with the same score*
@@ -303,7 +303,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of GH in the region at L*
@@ -336,7 +336,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 4 digits for 17 perfect squares*
@@ -368,7 +368,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with adjacent sums of perfect squares*
@@ -400,7 +400,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of special numbers 1.100 whole mean*
@@ -437,7 +437,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square side with four quadrilateral areas*
@@ -475,7 +475,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2022 number box in the grid*
@@ -558,7 +558,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Less than 5 consecutive, one for 10, sum of 10000*

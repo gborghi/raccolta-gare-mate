@@ -8,9 +8,9 @@ level: kangourou
 ---
 <div class="atom-reader" data-gara="Quesiti/src_kangourou_2026_junior_finale"></div>
 
-<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Area del quarto quadrilatero in un quadrato*
 
@@ -22,9 +22,9 @@ level: kangourou
 **Risposta:** 280
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,skill_astrazione"></span>
 
 *Moneta falsa piu leggera con 6 pesate*
 
@@ -36,9 +36,9 @@ level: kangourou
 **Risposta:** 729
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
-<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 *Coppie di palindromi di 4 cifre con somma palindroma*
 
@@ -51,9 +51,9 @@ level: kangourou
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
-<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Moneta che percorre il bordo di un pentagono circoscritto*
 
@@ -65,9 +65,9 @@ level: kangourou
 **Risposta:** 71,25
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,skill_astrazione"></span>
 
 *Fattoriali da togliere perche il prodotto sia un quadrato*
 
@@ -79,9 +79,9 @@ level: kangourou
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
-<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
 
 *Rapporto di lati in ogni triangolo, sezione aurea*
 
@@ -92,4 +92,3 @@ level: kangourou
 **Area:** [[Geometria]]
 **Risposta:** $(1+\sqrt{5})/2$
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
-

@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numeri a 3 cifre uguali a centinaia e unità di cifra*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie da 1,14 con differenza assoluta non superiore a 3*
@@ -85,7 +85,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numeri a 5 cifre con cifre di {1,2,3} divisibili per 3*
@@ -113,7 +113,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rapporto di volume di ottaedro regolare a tetraedro regolare*
@@ -141,7 +141,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova m dove (m-2) ^2 e m^2-1 sono coppie di cambio di numeri*
@@ -169,7 +169,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare un'espressione in due reali positivi*
@@ -198,7 +198,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeratore di frazione ridotta della somma fattoriale, mod 2002*
@@ -225,7 +225,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find angolo BAC dato bisector e AB+CD=AC*
@@ -253,7 +253,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le soluzioni di numeri interi di un'equazione diofantina quadrata*
@@ -280,7 +280,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di 3 cicli in un round robin da 14 giocatori*
@@ -316,7 +316,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore 7 settori di un disco con 4 colori, rotazioni equivalenti*
@@ -361,7 +361,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale sui razionali; risolvere f(x)=2002*

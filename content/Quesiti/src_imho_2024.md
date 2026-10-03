@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Reale α tale che le somme dei floor siano multiple di n*
 
 > Determinare tutti i numeri reali $\alpha$ tali che, per ogni intero positivo $n$, il numero intero
 > $$\lfloor \alpha \rfloor + \lfloor 2\alpha \rfloor + \cdots + \lfloor n\alpha \rfloor$$
 > sia multiplo di $n$. (Si osservi che $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$. Per esempio, $\lfloor -\pi \rfloor = -4$ e $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
-
-
 
 [[Quesiti/src_imho_2024#q01|src_imho_2024__Q01]]
 
@@ -62,13 +61,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Coppie (a,b) con MCD delle espressioni potenza che diventa costante dopo un certo punto*
 
 > Determinare tutte le coppie $(a, b)$ di interi positivi per cui esistono interi positivi $y$ e $N$ tali che
 > $$\gcd(a^n + b,\, b^n + a) = y$$
 > sia verificata per ogni intero $n \geq N$. (Si osservi che $\gcd(x, y)$ indica il massimo comun divisore degli interi $x$ e $y$.)
-
-
 
 [[Quesiti/src_imho_2024#q02|src_imho_2024__Q02]]
 
@@ -96,6 +94,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione in cui a_n conta le precedenti occorrenze; periodicità futura*
 
 > Sia $a_1, a_2, a_3, \ldots$ una successione infinita di interi positivi, e sia $N$ un intero positivo. Si supponga che, per ogni $n > N$, $a_n$ sia uguale al numero di volte in cui $a_{n-1}$ compare nella lista $a_1, a_2, \ldots, a_{n-1}$.
@@ -103,8 +102,6 @@ level: IMO
 > Si dimostri che almeno una delle successioni $a_1, a_3, a_5, \ldots$ e $a_2, a_4, a_6, \ldots$ è periodica da un certo punto in poi.
 > 
 > (Una successione infinita $b_1, b_2, b_3, \ldots$ è definitivamente periodica se esistono interi positivi $p$ e $M$ tali che $b_{m+p} = b_m$ per ogni $m \geq M$.)
-
-
 
 [[Quesiti/src_imho_2024#q03|src_imho_2024__Q03]]
 
@@ -130,13 +127,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Rette tangenti alla circonferenza inscritta del triangolo, somma degli angoli uguale a 180 gradi*
 
 > Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$ rispettivamente l'incentro e la circonferenza inscritta del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ parallela a $AC$ sia tangente alla $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ parallela a $AB$ sia tangente alla $\omega$. Sia $AI$ che interseca la circonferenza circoscritta al triangolo $ABC$ nel punto $P \neq A$. Siano $K$ e $L$ i punti medi dei segmenti $AC$ e $AB$, rispettivamente.
 > 
 > Si dimostri che $\angle KIL + \angle YPX = 180^\circ$.
-
-
 
 [[Quesiti/src_imho_2024#q04|src_imho_2024__Q04]]
 
@@ -162,13 +158,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco del mostro su una scacchiera 2024×2025, tentativi minimi garantiti*
 
 > Turbo il lumachino gioca un gioco su una scacchiera con $2024$ righe e $2025$ colonne. Alcune caselle della scacchiera contengono mostri, ma lui sa che in ogni riga c’è al più un mostro e in ogni colonna c’è al più un mostro. All’inizio, Turbo non sa dove si trovino i mostri. In ogni tentativo, egli decide di spostarsi dalla prima riga all’ultima. In ogni tentativo, sceglie di partire da una qualunque casella della prima riga, quindi si muove ripetutamente su caselle adiacenti che condividono un lato comune. (È consentito tornare su caselle già visitate.) Se raggiunge una casella con un mostro, il tentativo termina e lui viene trasportato nuovamente nella prima riga per iniziare un nuovo tentativo. I mostri non si muovono, e Turbo ricorda se ciascuna casella che ha visitato contenga o meno un mostro. Se raggiunge una qualunque casella dell’ultima riga, il tentativo termina e il gioco è finito.
 > 
 > Determinare il valore minimo di $n$ per cui Turbo ha una strategia che garantisce di raggiungere la riga finale nell'attempto $n^{\mathrm{th}}$ o prima, indipendentemente dalle posizioni dei mostri.
-
-
 
 [[Quesiti/src_imho_2024#q05|src_imho_2024__Q05]]
 
@@ -194,13 +189,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Funzioni aquaperiodiche su Q, limite sull'immagine inversa tipo punto fisso*
 
 > Sia $\mathbb{Q}$ l'insieme dei numeri razionali. Una funzione $f : \mathbb{Q} \to \mathbb{Q}$ si dice aquasiperiodica se vale la seguente proprietà: per ogni $x, y \in \mathbb{Q}$,
 > $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$
 >
 > Si dimostri che esiste un intero $c$ tale che per ogni funzione aquasiperiodica $f$ esistono al più $c$ numeri razionali distinti $r$ tali che $f(r) = f(-r)$, e si determini il più piccolo valore possibile di $c$.
-
-
 
 [[Quesiti/src_imho_2024#q06|src_imho_2024__Q06]]

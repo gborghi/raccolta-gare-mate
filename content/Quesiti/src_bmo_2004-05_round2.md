@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra N è un quadrato perfetto dato esattamente 2005 coppie ordinate (x,y) *
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori angolari in triangolo 120°; il cerchio sul diametro EF passa attraverso D*
@@ -83,7 +83,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei valori reali positivi a, b con a+b=1*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *3 sottoinsiemi di {1,...,36} che si intersecano in coppia ma che hanno un intersezione totale vuota; mostrare n≤100*

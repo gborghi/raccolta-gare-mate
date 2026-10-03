@@ -35,7 +35,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordine di macchine da giocattoli che arrivano da restrizioni di indizio*
@@ -77,7 +77,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo per tagliare un tronco in 9 pezzi dato il costo di 5 tagli*
@@ -120,7 +120,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valutazione di un'espressione con poteri del 2015 e del 2014*
@@ -163,7 +163,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore di un acquisto data un errore di modifica*
@@ -207,7 +207,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma più piccola in quadrati bianchi di una lavagna numerata (anche somma vicina) *
@@ -252,7 +252,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di un foglio quadrato tagliato in due quadrati e due rettangoli*
@@ -296,7 +296,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di cifre di 10^15 - 15*
@@ -338,7 +338,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti anni dopo il 2015 questo secolo hanno la media digitali 2*
@@ -381,7 +381,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colori minimi per dipingere le facce di un prisma pentagonale*
@@ -423,7 +423,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il prezzo del biglietto cinematografico tenuto conto delle spese totali uguali*
@@ -465,7 +465,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di pezzo di metallo ottenuta mediante taglio e saldatura di triangoli*
@@ -510,7 +510,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti di 1-9 possono occupare il quadrato centrale di un X *
@@ -555,7 +555,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tagliere rettangolari non quadrate massime che coprono una parete da 7x7*
@@ -599,7 +599,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimi cubetti impilati in modo che i vicini differiscano di colore*
@@ -656,7 +656,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Deduzione elettorale in due round da percentuali parziali*
@@ -702,7 +702,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio delle sommazioni che figurano per iscritto nel 2015 come somma di tre numeri*
@@ -746,7 +746,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di una scatola dalle aree delle sue tre coppie di facce*
@@ -791,7 +791,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La n più piccola con 2n un quadrato perfetto e 3n un cubo perfetto*
@@ -835,7 +835,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di quadrilaterali ombrati in un triangolo equilaterale*
@@ -885,7 +885,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massime palle spostate in urna verde secondo la regola del divisore*

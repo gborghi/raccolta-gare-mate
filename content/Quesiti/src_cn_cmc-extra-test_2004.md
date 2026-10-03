@@ -29,7 +29,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca AK in triangolo acuto con determinate altitudini e cerchio*
@@ -65,7 +65,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le disuguaglianze per le intersezioni x e le somme dei rapporti delle sequenze di coordinate*
@@ -96,7 +96,7 @@ level: China Mathematical Competition (Extra Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il minimo f(n) in modo che qualsiasi sottoinsieme di elementi m di n numeri interi consecutivi abbia 3 elementi reciprocamente primi*

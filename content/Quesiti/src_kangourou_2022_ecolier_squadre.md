@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many 4-digit ABAB numbers with A≠B*
@@ -58,7 +58,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of 2022 figures by number of 1011 units*
@@ -90,7 +90,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time of three brothers, Bruno how many minutes
@@ -124,7 +124,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 4 digits moving the first digit in the queue*
@@ -155,7 +155,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of three-digit numbers with numerical conditions*
@@ -188,7 +188,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many equivalent verniciable squares*
@@ -227,7 +227,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum time interval with the same figures >9*
@@ -279,7 +279,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total points when internal are 36*
@@ -327,7 +327,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different number on mirror and wall*
@@ -358,7 +358,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cifres traded in dividends, minimum number *
@@ -394,7 +394,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cryptographic subtraction, sum of letters *
@@ -431,7 +431,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alignments of 1.9. with order constraints*
@@ -462,7 +462,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 €1 million after transferring to Cristina
@@ -494,7 +494,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum coin in the third of 6 bags*
@@ -532,7 +532,7 @@ Time of three brothers, Bruno how many minutes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of writing 40 as two odd and an even*

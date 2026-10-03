@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza maggiore di una sequenza di numeri interi consecutivi di forma totale x^3+2y^2.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono converso con condizioni di angolo uguale; dimostrare AS perpendicolare a CD dove S è l'intersezione delle diagonali BD e CE.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni f: R->R che soddisfano un'equazione funzionale.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su una scheda di n x n di numeri interi che sommano a 0, una mossa riduce un quadrato del suo numero di vicini e aumenta ogni vicino di 1; decidere se qualche n>=2 permette sempre di zerizzare tutte le voci.*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con AC=BC, punto D su AB con AD<DB, E riflessione di A in CD; dimostrare l'identità del rapporto.*
@@ -162,7 +162,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per n non divisibile per 3, mostrare che c'è un intero positivo m tale che ogni intero >= m è la somma digitali di qualche moltiplo di n.*

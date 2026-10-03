@@ -30,7 +30,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapeziosi formati da punti medi e vertici di un triangolo; rapporti di superficie*
@@ -66,7 +66,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione reale in x,y,z; prova C=-1 e trova la soluzione*
@@ -97,7 +97,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n×n tabella con celle bianche e nere; ogni riga e colonna contengono un numero diverso*
@@ -131,7 +131,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di numeri Imps (solo cifre rare); conteggio e moltiplicazione in lingua Imp*
@@ -170,7 +170,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *intersezioni di centro e di circoncircolo; collinearità e conciclicità*
@@ -203,7 +203,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Per tutti gli integri positivi n, a^n + 2017b^n ha fattori primi più distinti di n*

@@ -31,6 +31,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni positive tali che f(xf(y)) = yf(x) e che tendano a 0.*
 
 > Determinare tutte le funzioni $f$ definite sull'insieme dei numeri reali positivi, a valori positivi, che soddisfano le seguenti condizioni:
@@ -38,8 +39,6 @@ level: IMO
 > (i) $f(xf(y)) = yf(x)$ per ogni intero positivo $x, y$;
 > 
 > (ii) $f(x) \to 0$ rispetto a $x \to \infty$.
-
-
 
 [[Quesiti/src_imo_1983#q01|src_imo_1983__Q01]]
 
@@ -63,11 +62,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che l'angolo O₁AO₂ è uguale all'angolo M₁AM₂ per due circonferenze.*
 
 > Sia $A$ uno dei due punti distinti di intersezione di due circonferenze complanari diverse $C_1$ e $C_2$ di centri $O_1$ e $O_2$ rispettivamente. Una delle tangenti comuni alle due circonferenze tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e $M_2$ il punto medio di $P_2Q_2$. Si dimostri che $\angle O_1AO_2 = \angle M_1AM_2$.
-
-
 
 [[Quesiti/src_imo_1983#q02|src_imo_1983__Q02]]
 
@@ -90,11 +88,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Massimo intero non rappresentabile come combinazione non negativa (problema di Frobenius)*
 
 > Siano $a, b, c$ interi positivi, a due a due privi di divisori comuni maggiori di $1$. Si dimostri che $2abc - ab - bc - ca$ è il più grande intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x, y, z$ sono interi non negativi.
-
-
 
 [[Quesiti/src_imo_1983#q03|src_imo_1983__Q03]]
 
@@ -117,11 +114,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Colorazione con due colori dei lati di un triangolo equilatero produce un triangolo rettangolo*
 
 > Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi $A$, $B$ e $C$). Si determini se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi disgiunti, almeno uno dei due contiene i vertici di un triangolo rettangolo. Si giustifichi la risposta.
-
-
 
 [[Quesiti/src_imo_1983#q04|src_imo_1983__Q04]]
 
@@ -144,11 +140,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Scegliere 1983 interi senza progressione aritmetica di tre termini*
 
 > È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, in modo che nessuno dei tre sia un termine consecutivo di una progressione aritmetica? Giustificare la risposta.
-
-
 
 [[Quesiti/src_imo_1983#q05|src_imo_1983__Q05]]
 
@@ -176,6 +171,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri la disuguaglianza ciclica sui lati del triangolo e si determini il caso di uguaglianza*
 
 > Siano $a, b, c$ le lunghezze dei lati di un triangolo. Si dimostri che:
@@ -183,7 +179,5 @@ level: IMO
 > $$a^2b(a-b) + b^2c(b-c) + c^2a(c-a) \geq 0.$$
 > 
 > Determinare quando si ha l'uguaglianza.
-
-
 
 [[Quesiti/src_imo_1983#q06|src_imo_1983__Q06]]

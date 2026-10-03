@@ -35,7 +35,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum grey mice with group boundings*
@@ -76,7 +76,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of balls in a cubic box
@@ -110,7 +110,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of log10 2 given log2 10*
@@ -143,7 +143,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integral numbers not prime < 1000 with sum of 2 digits *
@@ -173,7 +173,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability number equal to or greater than 399*
@@ -205,7 +205,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the expression with 9 and 10*
@@ -247,7 +247,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between x and y areas with parallels*
@@ -291,7 +291,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quaternary x< y< z< t with xyzt-1=2001*
@@ -333,7 +333,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time when cyclists travel 130 km *
@@ -374,7 +374,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True claim with MCD(m,35)>10*
@@ -413,7 +413,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Circumferences tangent to C1, C2 and r *
@@ -465,7 +465,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of solid with squares and triangles*
@@ -517,7 +517,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cents per packet of rubber*
@@ -558,7 +558,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term after 10^8 in squares*
@@ -614,7 +614,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coincident vector in the regular hexagon*
@@ -675,7 +675,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of A-D meeting in the tournament*
@@ -718,7 +718,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure area with two triangles and a circle*
@@ -762,7 +762,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Littleest number among the expressions *
@@ -808,7 +808,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum and maximum cubes from view*
@@ -851,7 +851,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AEC angle with triangle to square*
@@ -889,7 +889,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major side of the rectangle with circles*
@@ -931,7 +931,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most commonly used color in grid 43x43*
@@ -977,7 +977,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value w(2001^2001) sum of the numbers iterated*
@@ -1019,7 +1019,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final pairs of perfect squares *
@@ -1060,7 +1060,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product number m*n logarithmic data*
@@ -1104,7 +1104,7 @@ Maximum number of balls in a cubic box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum crossings for two men and boys
@@ -1142,7 +1142,7 @@ Minimum crossings for two men and boys
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *EF length of rope in the rectangle*
@@ -1181,7 +1181,7 @@ Minimum crossings for two men and boys
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary number and denomination of the telescopic product*
@@ -1226,7 +1226,7 @@ Minimum crossings for two men and boys
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of fish caught by Uncle Marco*
@@ -1348,7 +1348,7 @@ Minimum crossings for two men and boys
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fat triangle area in the convex hexagon*

@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers to be entered to correct 2020+_=2022+_*
@@ -77,7 +77,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum boxes to remove to open the black*
@@ -124,7 +124,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A set of arrows to bring the bee to bloom*
@@ -177,7 +177,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which pad to move by 2 pads per row and column*
@@ -232,7 +232,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many jumps to go from 0 to 16 in a pattern*
@@ -288,7 +288,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 From which point the laser beam comes out between the mirrors
@@ -361,7 +361,7 @@ From which point the laser beam comes out between the mirrors
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Which one and Michele's card
@@ -422,7 +422,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image of the tower from above*
@@ -463,7 +463,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number to correct in the 3x3 grid*
@@ -500,7 +500,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight to be entered in accordance with the neighbours rule*
@@ -539,7 +539,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of the two male children (total of 22 females) *
@@ -580,7 +580,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many seats in the yard*
@@ -625,7 +625,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many dots on the Aladdin carpet*
@@ -763,7 +763,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What numbers are torn by folding the sheet*
@@ -816,7 +816,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the four digits hidden in the addendum*
@@ -869,7 +869,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of figures selected by Viola*
@@ -920,7 +920,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many white scales are used in the cube*
@@ -970,7 +970,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible score in the three-team tournament*
@@ -1021,7 +1021,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the path of the ant on the pyramid*
@@ -1075,7 +1075,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which axles can Alba use for connections*
@@ -1133,7 +1133,7 @@ Which one and Michele's card
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 I'm going to take a few laps because George will meet Thea again in A.
@@ -1189,7 +1189,7 @@ I'm going to take a few laps because George will meet Thea again in A.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which girls eat the same number of cookies*
@@ -1225,7 +1225,7 @@ I'm going to take a few laps because George will meet Thea again in A.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form taken from the rolling stock*
@@ -1308,7 +1308,7 @@ I'm going to take a few laps because George will meet Thea again in A.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the black cell of the coloured grid*

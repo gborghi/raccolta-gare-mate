@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un numero intero a sei cifre con proprietà sui numeri e sui quadrati*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Papero quadrato tagliato in due coppie di triangoli congruenti, trovare il triangolo di divisione segmento più breve*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da recidiva; trovare quali valori c rendono tutti i termini interi*
@@ -113,7 +113,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi si toccano internamente; una linea retta tocca il cerchio interno e taglia il cerchio esterno*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'intervallo di c per i reali positivi che soddisfano una disuguaglianza ciclica*

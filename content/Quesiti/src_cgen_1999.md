@@ -30,7 +30,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il volume del cilindro e della sfera all'interno di un cono*
@@ -60,7 +60,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi in N l'equazione che comporta la somma delle potenze*
@@ -87,7 +87,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto massimizzando il rapporto lato più breve a raggio *
@@ -121,7 +121,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Algorithm di consumo di caramelle: dimostrare che l'ultima caramella consumata è rossa*
@@ -152,7 +152,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le simmetrie di un triangolo vertice sul lato opposto sono collineari se l'ortocentro è uguale al diametro circostante*

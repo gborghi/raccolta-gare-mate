@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number 4 digits with product number 40*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time to go home with the clock fixed*
@@ -94,7 +94,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies 2..2023 only divisible by pairs *
@@ -126,7 +126,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Days of the year with a sum of 23 digits given *
@@ -158,7 +158,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *100th cost of each Easter egg*
@@ -194,7 +194,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Untouched cubes from the 4x4x4 cube drill*
@@ -228,7 +228,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Andrea's number with 2 on the right and left *
@@ -262,7 +262,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Voice tank weight given turbine and consumption*
@@ -295,7 +295,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers written until first block 999*
@@ -327,7 +327,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many postcards does Enrica have
@@ -361,7 +361,7 @@ How many postcards does Enrica have
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum difference between two numbers sum 9999*
@@ -392,7 +392,7 @@ How many postcards does Enrica have
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sandwich price given the purchase of cakes and sandwiches*
@@ -424,7 +424,7 @@ How many postcards does Enrica have
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Handshakes with three brothers excluded
@@ -459,7 +459,7 @@ Handshakes with three brothers excluded
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many of the 26 seats are red
@@ -493,7 +493,7 @@ How many of the 26 seats are red
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Kilometres from A to B given road signs*

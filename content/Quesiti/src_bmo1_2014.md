@@ -27,7 +27,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espressione calcolata con poteri del 2012, 2013, 2014*
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perpendicolare dal piede di altitudine alla linea è parallela al lato*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Potenza massima di 3 dividendo un numero di tipo repunit in base 10*
@@ -108,7 +108,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare gli orari di vacanze di nove giorni con restrizioni di sport acquatici*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le uguaglianza di superficie e lunghezza per i piedi ceviani in un triangolo*
@@ -166,7 +166,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media ponderata di prova degli angoli si trova in [60, 90)*

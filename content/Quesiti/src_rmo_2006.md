@@ -27,7 +27,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I piedi di altitudine nel triangolo acuto sono collineari con l'intersezione *
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore minimo di a+b con condizioni di divisibilità su 11*
@@ -84,7 +84,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le disuguaglianze che comportano la somma delle frazioni per i reali positivi*
@@ -111,7 +111,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *6×6 quadrato dissezionato in 9 rettangoli; sempre due congruenti*
@@ -140,7 +140,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero tangenziale con ABCD e AB=3CD; trovare inradius*
@@ -169,7 +169,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molti n con n(n+1) come somma di due quadrati in due modi*
@@ -195,7 +195,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(xy)=f(x+y) per gli integri ≥4; ritrovare f(9) *

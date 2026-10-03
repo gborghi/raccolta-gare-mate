@@ -36,7 +36,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of at least one correct answer to 11 questions*
@@ -80,7 +80,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Knights and crooks, total number of knights given Yes *
@@ -122,7 +122,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parity on polygon vertices, assertion certainly true*
@@ -160,7 +160,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A grey area of the coat of arms formed by semicircles*
@@ -205,7 +205,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
@@ -246,7 +246,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Minimum of ∈ X is equal to x^2+4y^2 *
@@ -289,7 +289,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of areas dividing the right angle of the square by three*
@@ -331,7 +331,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of sub-sets of {1,5,} with an element intersecting *
@@ -372,7 +372,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial with p(5n-1) = 5^(5n)-1, calculated p(3) *
@@ -414,7 +414,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of quadrilateral side 1,7,5,5*
@@ -457,7 +457,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of reaching 5 in billiards*
@@ -498,7 +498,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total pairs ordered by xy=4(y^2+x) *
@@ -540,7 +540,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Marine battle, minimum hits to hit aircraft carriers 5x1
@@ -574,7 +574,7 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Folding length of the paper with the tip at the end of the side*
@@ -606,7 +606,7 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term (a,b,c) with MCD 1 and reciprocal divisibility of the sides*
@@ -640,7 +640,7 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which n returns to the starting point*
@@ -708,7 +708,7 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *parallel to P bisected and PQ bisected minor base*

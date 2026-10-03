@@ -41,7 +41,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cross the bridge at night with a stack, minimum time*
@@ -90,7 +90,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *one single true statement in euro of Lisa*
@@ -136,7 +136,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum speed ratio without overtaking on the road*
@@ -182,7 +182,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of the sum 2+5+8+...+2021*
@@ -229,7 +229,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2021 as the sum of five integers with only digits 3 and 5*
@@ -277,7 +277,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-sets of S consecutively a,b,c with a perfect square sum*
@@ -332,7 +332,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between regular circular polygon crown areas n sides*
@@ -382,7 +382,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *numbers with different output*
@@ -437,7 +437,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of diameters impossible*
@@ -482,7 +482,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pizza chips eaten between 2/3 and 3/4 *
@@ -519,7 +519,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of strip of paper folded over an equilateral triangle*
@@ -557,7 +557,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Forwarding of the P-point of the beam if half forward 20 cm*
@@ -621,7 +621,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of rooms to be visited in triangle n=100*
@@ -679,7 +679,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum block of black with distinct white blocks*
@@ -716,7 +716,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last four digits 0/1 alignment without repeated blocks*
@@ -748,7 +748,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining by dividing by 5 the product of the 5-digit numbers*
@@ -785,7 +785,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of prime of the form (m^2+m+1)/n*
@@ -845,7 +845,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AB with two tangent circles at an angle of 60 degrees*

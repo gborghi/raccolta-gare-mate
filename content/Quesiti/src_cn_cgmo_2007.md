@@ -29,7 +29,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un intero positivo m è buono se m è uguale a n diviso per il numero di divisori di n, per un intero positivo n. Prove 1,...,17 sono buone e 18 non è.
@@ -60,7 +60,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con D, E, F sui lati del triangolo acuto ABC e ciascuno di AD, BE, CF che passa attraverso il circondario, se due dei sei rapporti di segmento laterale sono interi, allora ABC è isosceles.*
@@ -90,7 +90,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare la somma ciclica su valori reali non negativi sommando a 2*
@@ -118,7 +118,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set con m assi di simmetria: prova m ≤ n*
@@ -145,7 +145,7 @@ level: China Girls' Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove DE perpendicolare a EF in triangolo con angoli dati*

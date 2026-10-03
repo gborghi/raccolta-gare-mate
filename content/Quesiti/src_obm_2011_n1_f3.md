@@ -30,7 +30,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sbarazzare i numeri pari da 1 a 2011; contare i restanti e contare quelli scritti solo con i numeri 0 e 1.*
@@ -60,7 +60,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di piccoli cubetti uguali da aggiungere a un cubo rosso di 2 cm per ottenere un cubo di volume (12/5)^3.*
@@ -94,7 +94,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un quadrato perfetto; trovare il più grande chapa a 2 cifre e se esiste un chapa a 2011 cifre.*
@@ -131,7 +131,7 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadro di area 64 con centro O; OA=OC=2, AB=CD=4 e una catena di segmenti perpendicolari; trovare aree di ABCO trapezoide e BCDE quadrilaterale.*
@@ -168,7 +168,7 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su una tavola 3x3 compila 1 a 9 in modo che delle 8 somme (3 righe, 3 colonne, 2 diagonali) esattamente 3 siano moltipli di 3; e decide se nessuna può essere un moltiplo di 3.*

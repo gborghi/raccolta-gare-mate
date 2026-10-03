@@ -32,7 +32,7 @@ level: nazionale
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the droid prism (cut to A,B,D') *
@@ -67,7 +67,7 @@ level: nazionale
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max sum of the areas of uncorrelated whole rectangular triangles*
@@ -100,7 +100,7 @@ level: nazionale
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Produced PA*PC in the isosceles trapezoid (angles) *
@@ -134,7 +134,7 @@ level: nazionale
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Total clones for the first 100 months (block recurrence)
@@ -170,7 +170,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(128) for a polynomial of degree 5 with p(2^k) =1/(1-2^k) *
@@ -207,7 +207,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max MCD(m,n) by exchanging the first/last digit + n digits*
@@ -242,7 +242,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Visible surface of the six prism tower*
@@ -279,7 +279,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First four digits sum of Fibonacci codes (control) *
@@ -315,7 +315,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product XZ*YW (projections, DF=114) *
@@ -348,7 +348,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure 1 in binary numbering of 1..2016*
@@ -382,7 +382,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *multiple of 3 with digits 1..b-1 based on b*
@@ -419,7 +419,7 @@ Total clones for the first 100 months (block recurrence)
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Chances are 4 pieces will return to the corners after 2016 jumps
@@ -455,7 +455,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of q(-4/3)/q(-2) (polynomial of roots) *
@@ -491,7 +491,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * sum of equal divisors = sum mult. di 5*
@@ -527,7 +527,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * pentagon and exaggeration formation without residues*
@@ -562,7 +562,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of Luke from the centre (60 degrees, BC) *
@@ -594,7 +594,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last figure of 1^1+2^2+...+2016^2016*
@@ -629,7 +629,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *EF distance (cyclic quadrilateral, bisetters, PF/PE) *
@@ -662,7 +662,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum n<1000 with multiple cyclic rotations of n*
@@ -700,7 +700,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min n with probability 1/2016 (random graph path) *
@@ -741,7 +741,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n initial of the solitary (fraction operation) *
@@ -782,7 +782,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(p(x))=p(x)^40+x^80+q(x)*
@@ -821,7 +821,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area of rotation (axis, whole area) *
@@ -862,7 +862,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Manufacture in which all the materials of Chapter 87 used are wholly obtained

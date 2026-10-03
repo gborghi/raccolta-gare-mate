@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca quale numero intero è stato rimosso da 1..n data la media del resto.*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un buco quadrato viene perforato attraverso un cubo solido; trovare lunghezze laterali interi dove il volume rimanente è uguale alla superficie totale.*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolare con punto L su BC; due cerchi incontrano AC e AB di nuovo a M e N; dimostrare L, M, N collineari.*
@@ -107,7 +107,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colori di una lavagna 8x8 con contatori rosso/bianco/blu; confrontazione della parità dei contatori rossi tra le disposizioni.*
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi si incontrano a L e M; con P su S2, gli accordi PL e PM si incontrano di nuovo a S1 a Q e R; dimostrare che K si trova su un cerchio fisso in quanto P varia.*
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza laterale del triangolo a,b,c con ab+bc+ca=1; prova (a+1)(b+1)(c+1)<4.*

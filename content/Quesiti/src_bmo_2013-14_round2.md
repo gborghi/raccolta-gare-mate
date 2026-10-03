@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di colori per le diagonali di colore del 2014-gon in modo che le diagonali di incrocio differiscano*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che nessun cuboide ha volume, superficie e perimetro numericamente uguali*
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_1=3, a_{n+1}=a_n^2+a_n-1; dimostrare infiniti prime divisori*
@@ -125,7 +125,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con punto interno; circoncenti di subtriangoli si incontrano su tre linee simultanee*

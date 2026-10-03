@@ -26,7 +26,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Isosceles trapezoide ABCD in piano xy; trovare a^b*
@@ -53,7 +53,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale su numeri interi positivi; trovare tutti n con f(f(n))=99*
@@ -80,7 +80,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n ≤ 100 senza fattore primo diverso da 2 o 3*
@@ -107,7 +107,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dei dadi cubici rivolti a 2^0,...,2^5; due a pietra; somma massima di 9 visibili; somma dei quadrati di cifre*
@@ -136,7 +136,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coefficiente di x^2025 in prodotto; restante mod 100 *
@@ -163,7 +163,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro numeri primi distinti sommano a 240, nessuno più grande di 70; trovare il più piccolo *
@@ -190,7 +190,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n ≤ 100 divisibili per tutti i con i^3 ≤ n *
@@ -217,7 +217,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fill 2×3 grid con 16 in modo che le celle adiacenti siano coprime; contare modi*
@@ -244,7 +244,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande numero intero n in modo che un quadrato di lato n si inserisca all'interno di un disco di area 1000*
@@ -271,7 +271,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel più piccolo intero positivo con somma alterna di quadrati < 100*
@@ -300,7 +300,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *5(2m+1)(2m+3)(2m+5) = ababab a sei cifre; trovare m+a+b*
@@ -327,7 +327,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie ordinate (m,n) ≤ 20000 con m2+n4 a potenza di 2*
@@ -354,7 +354,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali convex, diagonali 12 e 16, segmenti di punto medio uguali; superficie massima*
@@ -381,7 +381,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sito ABCD quadrato 1 come corda di cerchio; tangente da C ha lunghezza 2; trovare d2*
@@ -410,7 +410,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tanti interi positivi che soddisfano 17 ((abcd+ab+ad+cd+1) = 20 ((bcd+b+d); trovare a2+b2+c2+d2*
@@ -439,7 +439,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione di frazione continua; trovare la somma di x_1+...+x_7*
@@ -466,7 +466,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di carte da disegnare per il prodotto di garanzia divisibile per 6*
@@ -493,7 +493,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cosci di griglia da (0,0) a (7,12) evitando punti con entrambe le coordinate odd*
@@ -520,7 +520,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie ordinate (m,n) con 1 ≤ m < n ≤ 50 e mn un quadrato perfetto *
@@ -547,7 +547,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri a quattro cifre con cifre non zero: a+c=bd e b+d=ac; conteggio*
@@ -574,7 +574,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f soddisfa 4f ((3-x) +3f ((x) = x2; trova f ((27)-f ((25)) al numero intero più vicino*
@@ -601,7 +601,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre ragazze, quattro piani; contare validi come accordi; trovare la somma dei quadrati di numeri di n*
@@ -630,7 +630,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ceviani dal punto interno P; BP/PE=5/2, CP/PF=7/3; trovare p+q dove AP/PD=p/q*
@@ -657,7 +657,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri interi positivi a,b con 4^a+4a2+4=b2; trovare il massimo a+b*
@@ -684,7 +684,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Contare i numeri naturali n 10^5 con 7 . 2^n - n2
@@ -711,7 +711,7 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC; D punto medio di BC, O circumcenter, H orthocenter; ODH lato equilaterale 6; trovare a+b per l'area a√b*
@@ -740,7 +740,7 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie ordinate (a,b): ab=406+11·lcm(a,b)+7·gcd(a,b); trovare il minimo a+b*
@@ -773,7 +773,7 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea fotografica della delegazione di 10 membri; più breve a sinistra, più alto a destra, esattamente una valle; trovare a+b*
@@ -800,7 +800,7 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles 13-13-10; tangenti incircoli paralleli ai lati formano esagoni; trovare m+n+l*
@@ -827,7 +827,7 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vertici regolari del dodicagono colorati blu/rosso; nessun triangolo o quadrato equilaterale monocromatico; trovare p+q*

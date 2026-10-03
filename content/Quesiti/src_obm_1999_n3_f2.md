@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri scritti ai punti di centro e agli estremi di un arco di un cerchio*
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato con quattro cerchi circoscritti: condizioni di angolo e lunghezza*
@@ -86,7 +86,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo per la riorganizzazione di (3,6,9,12) che rende un'espressione un numero intero*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Neri interi positivi per i quali un rettangolo 9×10 può essere cartigliato da 1×n pezzi*
@@ -140,7 +140,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità di usare occhiali magenta il 31 agosto data una scelta casuale giornaliera*
@@ -167,7 +167,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni integrali di x^3 - y^3 = 999*

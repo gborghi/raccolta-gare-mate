@@ -27,7 +27,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La linea attraverso il vertice C del parallelo raggiunge le estensioni dei lati*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nessun intero positivo m,n soddisfa l'equazione data*
@@ -82,7 +82,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distinti reali a,b,c con condizione di somma ciclica implicano abc+t=0*
@@ -109,7 +109,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 raggi dal centro quadrato dividono il quadrato in 100 parti uguali; p*
@@ -136,7 +136,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le matrici 4x4 da {0,1,2,3} con le somme di righe e colonne divisibili per 4*
@@ -164,7 +164,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubico con tre radici reali; valore minimo assoluto rapporto di limite radicale b/a*

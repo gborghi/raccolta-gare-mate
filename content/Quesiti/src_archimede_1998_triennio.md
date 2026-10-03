@@ -34,7 +34,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ray of the circle surrounded by three tangent circles*
@@ -86,7 +86,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Comparison between two numbers with irrational exponents*
@@ -126,7 +126,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n with n sides and 4n diagonal *
@@ -167,7 +167,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which statement is certainly true among three reports*
@@ -210,7 +210,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of intersection of two circles passing through the centres*
@@ -252,7 +252,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of growth of the first three extracts*
@@ -296,7 +296,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BCD angle given the inscribed angle and diameter*
@@ -339,7 +339,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Negation of all perfect numbers is equal*
@@ -383,7 +383,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum change in the volume of a parallel piped*
@@ -425,7 +425,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum of three dice less than or equal to 5*
@@ -467,7 +467,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which statement is definitely false given xy<x*
@@ -517,7 +517,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How old is Barbara given the number of cuts*
@@ -560,7 +560,7 @@ How old is Barbara given the number of cuts*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which triangle of the center of the beam has maximum area*
@@ -601,7 +601,7 @@ How old is Barbara given the number of cuts*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little five-digit integer divisible by 3 and 13*
@@ -647,7 +647,7 @@ How old is Barbara given the number of cuts*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sara's age from the sum of the age figures *
@@ -692,7 +692,7 @@ How old is Barbara given the number of cuts*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of a pyramid since its development*
@@ -734,7 +734,7 @@ How old is Barbara given the number of cuts*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the expression and goal of 4 at 1998*
@@ -776,7 +776,7 @@ How old is Barbara given the number of cuts*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number does not divide 100 by factor*

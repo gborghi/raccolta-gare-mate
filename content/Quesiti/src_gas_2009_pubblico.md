@@ -34,7 +34,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of Elves among honest/ foolish prisoners
@@ -66,7 +66,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic mean of the numbers in the rectangle of the Pythagorean table*
@@ -99,7 +99,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits minimum number with 2.3 digits divisible by 2^2009*
@@ -134,7 +134,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies 1-55 not expressed as sums with square characters*
@@ -171,7 +171,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of possible cubic term coefficients, whole roots*
@@ -211,7 +211,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Light distance per given ratio of illuminated surfaces to cubic shadows*
@@ -247,7 +247,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Round table layouts with proximity constraints*
@@ -293,7 +293,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lunar area between arc radii*
@@ -335,7 +335,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of steps on a 3D grid with constraint*
@@ -378,7 +378,7 @@ Maximum number of Elves among honest/ foolish prisoners
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of consistent statements on 12 subjects
@@ -414,7 +414,7 @@ Maximum number of consistent statements on 12 subjects
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits of the odd product until 2009*
@@ -448,7 +448,7 @@ Maximum number of consistent statements on 12 subjects
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most parallel-piped volume with linear boundary on the sides*
@@ -481,7 +481,7 @@ Maximum number of consistent statements on 12 subjects
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of letters among 25 people from 13 different cities*
@@ -515,7 +515,7 @@ Maximum number of consistent statements on 12 subjects
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to wear 9 rings on 8 fingers in order*
@@ -553,7 +553,7 @@ How to wear 9 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of steps down the stairs by halving and divider*
@@ -590,7 +590,7 @@ How to wear 9 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of n with full nested radical expression*
@@ -624,7 +624,7 @@ How to wear 9 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of squares of the baricenter-vertical segments of a tetrahedron*
@@ -667,7 +667,7 @@ How to wear 9 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tangent angle of equal power with respect to two circles*
@@ -707,7 +707,7 @@ How to wear 9 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last number of triangles of sums of squares*
@@ -811,7 +811,7 @@ How to wear 9 rings on 8 fingers in order*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of solid within 1.8 mm of the perimeter of the equilateral triangle*

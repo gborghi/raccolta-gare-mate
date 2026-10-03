@@ -56,7 +56,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triominoes: piastrelle triangolari con numeri da 1 a n su ciascun lato (poi su vertici); contare le piastrelle e trovare quale n ammette una configurazione corrispondente, un arrangiamento a linea retta o un rombo completo.*
@@ -141,7 +141,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rivvenimenti di matematica: sedere n=tp persone a tavoli di p>=2 posti su r pasti in modo che due persone non condividano mai un tavolo più di una volta (piano ideale); studiare anche piani f-uniforme.*
@@ -215,7 +215,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Torneo di ping-pong: 2n giocatori su tavoli numerati n, i vincitori si arrampicano su una tavola e i perdenti scendono; studiano le configurazioni stabili, la raggiungibilità e quali parole di vittorie/perdite sono iscrivibili.*
@@ -311,7 +311,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di acqua inquinata in un bacino in cui i batteri si riproducono (fattore K) e muoiono a mezzanotte; studiare la ricorrenza v_T secondo diverse regole di movimento, agitazione, evaporazione e meteo.*
@@ -400,7 +400,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'elettrone libero: una particella carica si muove lungo archi circolari di raggio 1 (in senso antiorario), invertendo la direzione quando viene premuto un pulsante (o riflettendo gli specchi); studiare la guida tra i punti, evitando un cerchio, attraverso n punti, raccogliendo k elettroni e poligoni ammirevoli.*
@@ -493,7 +493,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Monete rigidate: Felix lancia una moneta con probabilità di sbarco p; Clara predice i prossimi lanci per massimizzare il suo guadagno garantito (in peggiore dei casi rispetto a p) previsto tra le strategie, quindi con due monete, indovinando quale moneta, e un punto di svolta K.*
@@ -588,7 +588,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cookies divertenti: pasta depositata lungo i segmenti, ogni punto P riempendo un disco di raggio R(P); caratterizzare quali forme piane (disco, rettangolo, triangolo, annulo) sono cookie / r-cookies, la quantità di pasta necessaria, e quali contorni di r-cookies legati.*
@@ -678,7 +678,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Creazione di gioco: numero N carte 1..N in modo che ogni coppia autorizzata/proibita venga decisa leggendo la pagina manuale indicizzata dalla somma (o GCD, LCM, prodotto) dei due numeri di carta; caratterizzare le configurazioni ammissibili e trovare la minima M (>=N) che rende ogni configurazione M-ammissibile.*

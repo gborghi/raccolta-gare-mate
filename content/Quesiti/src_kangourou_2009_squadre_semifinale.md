@@ -27,7 +27,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate results by throwing 6 reds and 5 greens into the box*
@@ -56,7 +56,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of perfect squares from 1 to 10000*
@@ -89,7 +89,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shine the disc in the flag with cross*
@@ -121,7 +121,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the white cross in the flag*
@@ -152,7 +152,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum 8x8 chessboard pads with constraints*
@@ -183,7 +183,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Nights lived by her mother before Martina.
@@ -216,7 +216,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vertical points encountered by the diagonal rectangle 350x210*
@@ -248,7 +248,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Short segment on the side divided by triangle 40-50-60*
@@ -279,7 +279,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum male to female ratio of 0.24*
@@ -311,7 +311,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal and odd probability with two dice tricked*
@@ -346,7 +346,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tips with two and no more than two different digits *
@@ -383,7 +383,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Name of the telescopic product (1-2/n) *
@@ -432,7 +432,7 @@ Nights lived by her mother before Martina.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number in the cell? of the arrow grille*
@@ -471,7 +471,7 @@ Number in the cell? of the arrow grille*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Faces and shoulders of a square-base antiprism*
@@ -506,7 +506,7 @@ Number in the cell? of the arrow grille*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last figure of 2^2009+3^2009+5^2009+7^2009*

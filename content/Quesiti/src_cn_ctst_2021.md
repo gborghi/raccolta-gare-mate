@@ -32,7 +32,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei prodotti per le somme di colonne di riga di una matrice non negativa*
@@ -59,7 +59,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colorazione a griglia con restrizioni di colore k-set, trovare la più grande N*
@@ -86,7 +86,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi distinti: limite inferiore su elementi non espressi come differenza*
@@ -113,7 +113,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi integrali congruenti per infinite prime implicano spostamento*
@@ -142,7 +142,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente a due lati; punti di costruzione; circolo circonciso che attraversa il centro*
@@ -177,7 +177,7 @@ level: China National Team Selection Test
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
@@ -207,7 +207,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico AB=BC=CD; incentri I, J di due subtriangoli; dimostrare collinearità sul circoncircolo*
@@ -237,7 +237,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *kn-grafico regolare: trovare la frazione minima di monoreggio c*
@@ -266,7 +266,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coprimo a,b,c in coppia; il conteggio delle soluzioni di ax+by+cz=n si approssimerà quadratico*
@@ -294,7 +294,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni di tipo moltiplicativo che coinvolgono il totiente di Euler*
@@ -323,7 +323,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza ciclica: indici di conteggio in cui la media massima b_k >= 1*
@@ -351,7 +351,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la lunghezza laterale minima di un triangolo equilaterale che copra 3 punti di cerchio unitario*
@@ -379,7 +379,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligono converso: assegnare punti distinti in regioni quadrilaterali in modo che ogni segmento della coppia raggiunga una diagonale*
@@ -406,7 +406,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Estendere i numeri interi distinti 2021 aggiungendo il più piccolo non divisore; tutti i numeri interi grandi appaiono*
@@ -435,7 +435,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più grande C tale che il prodotto delle differenze >= C^(n(n-1)/2) per i reali in [-1,1]*
@@ -465,7 +465,7 @@ Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 piano n/k
@@ -494,7 +494,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale per f,g: R->R che coinvolge potenza 2021st; trovare tutte le soluzioni*
@@ -522,7 +522,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo con vertici interi e un punto interno m-integrale ha una superficie delimitata*
@@ -556,7 +556,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n^2 reali distinte in n ×n griglia che soddisfano le condizioni massime di riga/colonna; trovare min m*
@@ -586,7 +586,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Incircolo di triangolo; punto F con IF parallelo BC e angolazioni di base uguali; prova la perpendicularità*
@@ -616,7 +616,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ristrito di somma digitali per le somme del sottoinsieme; trovare n validi e beta razionale*
@@ -646,7 +646,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare la somma ciclica di x_i^2(x_{i+1}-x_{i-1}) per x_i in [-1,1]*
@@ -675,7 +675,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alfa minima in modo che ogni poligono convexo di area unitaria si inserisca in una copia simmetrica di area alfa*
@@ -708,7 +708,7 @@ Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 pia
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rond-robin con transibilità e pochi disegni; trovare n^2 giocatori in ordine totale*

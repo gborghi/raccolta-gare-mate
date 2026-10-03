@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Decennies and united figures of 9^2017+9^2018*
@@ -60,7 +60,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A quadrilateral ADC angle with known angles*
@@ -92,7 +92,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum penalty figure of 5 divided by 495*
@@ -124,7 +124,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage increase in discounted price*
@@ -154,7 +154,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of two-digit divisors of 2^16-1*
@@ -184,7 +184,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number 3 digits equal to 34 times the sum of digits*
@@ -246,7 +246,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square region shaded area with 4 circles*
@@ -302,7 +302,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit numbers with zero-digit product*
@@ -334,7 +334,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of the trapezoidal area occupied by the AHD triangle*
@@ -367,7 +367,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of competing pairs sum >41*
@@ -408,7 +408,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reconstruct the addition from the rearranged digits*
@@ -440,7 +440,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers are reduced to zero by multiplying the digits *
@@ -472,7 +472,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many relatives in 2018 with a sum of squares of digits*
@@ -506,7 +506,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum 7 with two non-standard dice*
@@ -546,7 +546,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Irreducible fractions <1 with sum of terms 2018*

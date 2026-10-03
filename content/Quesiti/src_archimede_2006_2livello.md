@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the smallest perfect square 'modern' (containing 2006) *
@@ -81,7 +81,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many claims about dogs/cats can be false together*
@@ -121,7 +121,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression equivalent to (x+y+z)^3 - x^3 - y^3 - z^3*
@@ -166,7 +166,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many knights among Albert, Bruno, Charles
@@ -208,7 +208,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2005 o 2006*
@@ -254,7 +254,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles in the F10 polygon of the fastener*
@@ -321,7 +321,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Intersection area of two XY data circles and angle 120°*
@@ -390,7 +390,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AA' from product similar quadrilateral areas*
@@ -438,7 +438,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of square roots to drop below 2*
@@ -487,7 +487,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubric root value of 2+√5 plus cubic root of 2-√5*
@@ -524,7 +524,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many "sacred" numbers are written as equal in base 10 and base 19*
@@ -559,7 +559,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 17 digits (1 and 2) compatible with column max/min*
@@ -592,7 +592,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Produced areas ABP triangle and quadrilateral ACPD in parallelogram*
@@ -628,7 +628,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle between non-planar spikes of square base pyramid*
@@ -658,7 +658,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-digit numbers without multiples of 12 *
@@ -692,7 +692,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres with k odd digits and a coefficient n/5 similar*
@@ -733,7 +733,7 @@ How many knights among Albert, Bruno, Charles
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *parallelism and parallelogram*

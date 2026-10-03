@@ -38,7 +38,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression calculation with powers of 2 and 16*
@@ -75,7 +75,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the inner angles of a concave quadrilateral*
@@ -117,7 +117,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum attempts for cash registers with a changed number*
@@ -159,7 +159,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum bananas for pirates divided between pirates and mermaids (mcm) *
@@ -202,7 +202,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum value for calculator with 4 keys*
@@ -272,7 +272,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *APE angle in a regular octagon with diagonal *
@@ -347,7 +347,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of convex numbers with multiple sums of 10*
@@ -385,7 +385,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Final product zeros n * m data MCD and mcm *
@@ -424,7 +424,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *APQ triangle area given area of ABC and segments*
@@ -476,7 +476,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the monomy x^7y^10 in an ordered list*
@@ -544,7 +544,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of areas dividing trapezoid by the midpoints of the sides*
@@ -610,7 +610,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which polynomials are not decomposable on integer coefficients*
@@ -645,7 +645,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of positive divisors of n=1122^2-121*
@@ -681,7 +681,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which number is not divisible by x^5-5x^3+4x in 2014*
@@ -719,7 +719,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colors of 10 squares with different common sides bound*
@@ -755,7 +755,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the numbers given are perfect squares*
@@ -798,7 +798,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major side n with square sub-tables 2 white 2 black at the vertices*
@@ -841,7 +841,7 @@ Final product zeros n * m data MCD and mcm *
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remains of p(x) divided by x^2-1 given residues for x-1 and x+1*

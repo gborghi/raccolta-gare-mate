@@ -29,7 +29,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Soluzioni integrali di due equazioni diofantine*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con bisettore angolare e punto laterale; dimostrare AD = DB + BC*
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore limite del rapporto di somme che coinvolgono i coefficienti binomiali*
@@ -114,7 +114,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti interi; prova N=26 dato P(N)=N+51*
@@ -141,7 +141,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea parallela in triangolo acuto; i cerchi su BE e CF si intersecano in altitudine*
@@ -170,7 +170,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo di xyz/((1+x)(x+y)(y+z)(z+16)) per i valori reali positivi*
@@ -197,7 +197,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'esistenza di x in modo tale che x(x+1)/2 - k sia divisibile per 2^n*

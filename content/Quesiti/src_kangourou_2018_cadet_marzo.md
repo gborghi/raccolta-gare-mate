@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ticks on the snow axe*
@@ -79,7 +79,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which word has the same symmetry as MAMMA*
@@ -116,7 +116,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be replaced by asterisk*
@@ -161,7 +161,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Uncle-Alice's report on his sixth birthday*
@@ -213,7 +213,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many paths of the ball up to the B lane *
@@ -266,7 +266,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the rectangle large by nine rectangles*
@@ -310,7 +310,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In what month could you have that thought?
@@ -361,7 +361,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between the centers of the two circumferences*
@@ -417,7 +417,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number is deleted because the sum is 2018*
@@ -488,7 +488,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length DM dividing the square into equal areas*
@@ -562,7 +562,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the three digits deleted in multiplication*
@@ -612,7 +612,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of uncolored squares in the rectangle*
@@ -662,7 +662,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum copies to be weighed for the desired precision*
@@ -710,7 +710,7 @@ In what month could you have that thought?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Behind which leads the lion with only one true sign
@@ -757,7 +757,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the alpha angle in the zigzag line*
@@ -807,7 +807,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the first is certainly included in the list*
@@ -855,7 +855,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum days for two consecutive days of sunshine*
@@ -905,7 +905,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the rectangle given by the two shaded triangles*
@@ -953,7 +953,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Less sum in table 3x3 with integers 1-9 *
@@ -1011,7 +1011,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between the first and second point*
@@ -1061,7 +1061,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N value for Amalia to win*
@@ -1111,7 +1111,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Box volume from the development plan*
@@ -1162,7 +1162,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in cell x of the edge of the table*
@@ -1214,7 +1214,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many metres and width of the pool*
@@ -1263,7 +1263,7 @@ Behind which leads the lion with only one true sign
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How much did Adele spend?
@@ -1318,7 +1318,7 @@ How much did Adele spend?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular dimensions given the area of the dove*
@@ -1356,7 +1356,7 @@ How much did Adele spend?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of next jump by average 3.82*
@@ -1425,7 +1425,7 @@ How much did Adele spend?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the LMN triangle within the equilateral *
@@ -1508,7 +1508,7 @@ How much did Adele spend?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves to properly align the sheets*
@@ -1592,7 +1592,7 @@ How much did Adele spend?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the angle at the B-summary of the isosceles triangle*

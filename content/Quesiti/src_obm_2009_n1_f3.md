@@ -34,7 +34,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli dritti assemblati in forme; superficie, perimetro, più piccolo quadrato*
@@ -75,7 +75,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *3×3 griglia riempita 19; colore per riga max/min; ottimizzare la differenza A−B*
@@ -116,7 +116,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *solide tridimensionale costituito da cubetti unitari; cubetti di conteggio per direzione in solidi simili più grandi*
@@ -153,7 +153,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi positivi abbattuti: contate i numeri abbattuti a 4 cifre*
@@ -184,7 +184,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di numeri interi ≤1000 o ≤11000 con molti divisori*

@@ -34,7 +34,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six-digit numbers with 1-6 divisible by 1-6*
@@ -76,7 +76,7 @@ level: biennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Carlin for a gearbox
@@ -123,7 +123,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Common property of the three rectangles on a triangle*
@@ -166,7 +166,7 @@ level: biennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Whole ordered pairs with product 15*
@@ -212,7 +212,7 @@ level: biennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of vertex numbers of square pyramid with div faces for 3*
@@ -255,7 +255,7 @@ level: biennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lesser parallelogram diagonal with sides and angles given*
@@ -300,7 +300,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum prime number with 60 and 68 meal combinations*
@@ -344,7 +344,7 @@ level: biennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First position four digits in the sequence*
@@ -388,7 +388,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real area of GEHF in parallelogram *
@@ -432,7 +432,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-digit palindrome numbers with a sum of equal numbers*
@@ -481,7 +481,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fibonacci sequence sum with first 34 last 0*
@@ -528,7 +528,7 @@ level: biennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-sided area comprising five coins*
@@ -574,7 +574,7 @@ level: biennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statement on captain with only one truth*
@@ -619,7 +619,7 @@ level: biennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of the cubic identity a/b ratio*
@@ -665,7 +665,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Final figures after 12 square iterations plus 5
@@ -708,7 +708,7 @@ Final figures after 12 square iterations plus 5
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of odd lines after white box mark change*
@@ -750,7 +750,7 @@ Final figures after 12 square iterations plus 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum radius of circle with three vertices of the same colour*
@@ -795,7 +795,7 @@ Final figures after 12 square iterations plus 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hypotenous triangle rectangle from cateto and inscribed radius*
@@ -837,7 +837,7 @@ Final figures after 12 square iterations plus 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last term succession of periodic differences*
@@ -879,7 +879,7 @@ Final figures after 12 square iterations plus 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Chases reachable by the king in five moves without repetition*

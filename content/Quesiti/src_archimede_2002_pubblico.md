@@ -28,7 +28,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *radius of the quadrilateral *
@@ -61,7 +61,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following points shall be inserted:
@@ -94,7 +94,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * succession of integers *
@@ -262,7 +262,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum of the rational expression*
@@ -349,7 +349,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *divisibility of the number of members*
@@ -387,7 +387,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *pitagoric furnace and surface *
@@ -419,7 +419,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *probability of a blue jacket*
@@ -452,7 +452,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *two frogs on the sidewalks, number of jumps*
@@ -485,7 +485,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *56 numbered boxes, consecutive sum*
@@ -518,7 +518,7 @@ The following points shall be inserted:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum power dividing by 1000!
@@ -551,7 +551,7 @@ Maximum power dividing by 1000!
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *divide n rocks into heaps*
@@ -584,7 +584,7 @@ Maximum power dividing by 1000!
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *coordinated triangle, whole points *
@@ -617,7 +617,7 @@ Maximum power dividing by 1000!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * distance from the centre, sum of squares*
@@ -649,7 +649,7 @@ Maximum power dividing by 1000!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of beads of each colour*
@@ -682,7 +682,7 @@ Maximum power dividing by 1000!
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the loan.
@@ -714,7 +714,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *cultivable area*
@@ -746,7 +746,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *70 points, geometry *
@@ -779,7 +779,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *position of the passengers*
@@ -811,7 +811,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * area of the coat of arms*
@@ -843,7 +843,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *65 points, solid geometry *
@@ -876,7 +876,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *combination count*
@@ -914,7 +914,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *combinations of safe *
@@ -948,7 +948,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *triangle geometry*
@@ -981,7 +981,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *piece count*
@@ -1014,7 +1014,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *train configurations*

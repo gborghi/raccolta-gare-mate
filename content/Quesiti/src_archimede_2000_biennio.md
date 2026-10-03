@@ -34,7 +34,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total profit after double sale of shelf *
@@ -91,7 +91,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of areas with an outer radius twice that of the interior*
@@ -144,7 +144,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic mean of numbers 1 to 2000*
@@ -184,7 +184,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 6a given linear relationship in a and b*
@@ -224,7 +224,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage increase in rectangular area with base and height*
@@ -267,7 +267,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of axes of symmetry of the figure*
@@ -312,7 +312,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *An equal number of containers for three quantities of wine*
@@ -356,7 +356,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region bounded by four semicircles*
@@ -399,7 +399,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wake-up time given insomnia*
@@ -442,7 +442,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary lengths of the tracts of two concentric hexagons*
@@ -488,7 +488,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between pedestrian and cyclist after three hours of running*
@@ -531,7 +531,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late difference between two cubic deposits given volume*
@@ -574,7 +574,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Incidence of raw materials on the price of the mascot*
@@ -618,7 +618,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum combinations of locks with two equal digits*
@@ -661,7 +661,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of irrigators to cover square garden*
@@ -704,7 +704,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Water poured in parallel piped given the level reached*
@@ -746,7 +746,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of three vertices exaggerating the shape of an equilateral triangle*
@@ -793,7 +793,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Classification of swimming competition with only one true statement*
@@ -837,7 +837,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tetrahedron CD length of beam given the beams*
@@ -881,7 +881,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A statement necessarily true on student percentages*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo fattore primo si triplica nella progressione aritmetica*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bisettore angolo triangolo incontra la media, prova angolo inferiore a 90 gradi*
@@ -87,7 +87,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione dei numeri interi positivi e delle progressioni aritmetiche monotone*
@@ -116,7 +116,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valutazioni di conteggio inferiori al 2003 nell'immagine di f con f(f(n))=n+2003*

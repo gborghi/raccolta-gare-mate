@@ -32,7 +32,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Classificare i numeri interi felici n nell'intervallo da 3 a 12*
@@ -67,7 +67,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova n per il quale il trucco magico con il mazzo sommato a 0 funziona*
@@ -98,7 +98,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine la strategia vincente nel gioco di sostituzione del tavolo *
@@ -129,7 +129,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un angolo di prova CPB = 90 gradi in un triangolo acuto con punto medio*
@@ -160,7 +160,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove almeno uno di (n+1)^p-1 o (n+1)^(p-1)-1 divisibile da p*
@@ -191,7 +191,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che esistono 12 coppie di cubi di zucchero dello stesso sapore a uguale distanza*

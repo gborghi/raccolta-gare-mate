@@ -27,7 +27,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fattore primo più piccolo di k dato k^2 < 2014 < (k+1)^2*
@@ -56,7 +56,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2014° termine di sequenza in cui ogni termine è la somma di cubetti di cifre di * precedenti
@@ -85,7 +85,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore di DA in ABCD quadrilaterale convexa con diagonali perpendicolari*
@@ -114,7 +114,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande perimetro possibile di un triangolo a lato intero con un lato tre volte l'altro e un terzo lato 17*
@@ -145,7 +145,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di a^2+b^2+c^2+d^2+e^2 data una restrizione simmetrica*
@@ -174,7 +174,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo numero naturale n tale che x^2 - nx + 2014 = 0 abbia radici interi*
@@ -203,7 +203,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore di 2^(1/y) + 2^(1/x) dato 2^(x+y) = 4*
@@ -232,7 +232,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di elementi in S date condizioni medie su S∪{15} e S∪{15,1}*
@@ -261,7 +261,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutti i valori possibili di q di determinate condizioni sulle radici di due quadratici*
@@ -290,7 +290,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area del triangolo ABC dato rapporto AY:YC=2:1 e area di AXY=10*
@@ -319,7 +319,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di coppie (x,y) con z=gcd soddisfacente 2xy + y(z,y) = (x+y) ^2*
@@ -348,7 +348,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale *
@@ -377,7 +377,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri naturali n nel [1,2014] per i quali 8n/(9999-n) è un intero*
@@ -406,7 +406,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre di persone nella famiglia di Manjul che hanno avuto problemi con la miscela di caffè/ latte*
@@ -435,7 +435,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza XY in triangolo XOY con angolo=90, punti di mezzo M,N sulle gambe, XN=YM=22*
@@ -464,7 +464,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta dell'angolo QPR nel triangolo ABC con incentro I e angolo BAC=40*
@@ -493,7 +493,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La b più piccola tale che N(b) = 20, dove N(b) conta a per la quale x^2+ax+b=0 non ha radici interi*
@@ -522,7 +522,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta minima possibile di f(999) per la funzione uno a uno su naturali con f(mn) = f(m) f(n) *
@@ -554,7 +554,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta della somma di x_i^2/(1-x_i) data x_1+...+x_2014=1 e condizione di somma ciclica*
@@ -583,7 +583,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di coppie ordinate (A,B) con sottoinsiemi A,B di {1,...,5}, né A⊆B né B⊆A*

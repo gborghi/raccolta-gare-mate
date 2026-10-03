@@ -31,7 +31,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri di griglia con condizioni di adiacenza e di coppia a fila, trovare max n*
@@ -62,7 +62,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettore angolare, bisettore perpendicolare di AD, quattro punti conciclici*
@@ -93,7 +93,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arrangere tutti i divisori in modo che le somme consecutive siano potenze di due*
@@ -126,7 +126,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare il rapporto max/min sotto restrizione di prodotto ciclica*
@@ -157,7 +157,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione della carta determinata in modo unico da vincoli di posizione, riducendo al minimo m*

@@ -32,7 +32,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quinti della decimale ricorrente 0,25 (con 5 ricorrenti) *
@@ -72,7 +72,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre di duecenti (≈0,0000018 m) in una lega (≈4800 m) *
@@ -113,7 +113,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due dadi standard impilati con 9 volti visibili che sommano a 33; trovare la somma su volti che toccano*
@@ -154,7 +154,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angoli x°, 7x°, x2°  trovare l'angolo più grande*
@@ -194,7 +194,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di cifre in 45 × 55 calcolato correttamente*
@@ -237,7 +237,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno numero di bordi di un poliedro solido con una faccia ottagonale*
@@ -280,7 +280,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fattore primo più basso di 35 − 1 *
@@ -320,7 +320,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimuovi una espressione da {4x, 8x, 12x, 16x, 20x} in modo che la media dei quattro rimanenti sia 11x*
@@ -361,7 +361,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cento cifre del più grande numero palindromico di 6 cifre divisibile per 18*
@@ -402,7 +402,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di fattori a due cifre del 2024 (= 23 × 11 × 23) *
@@ -443,7 +443,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
@@ -484,7 +484,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro numeri primi a due cifre che utilizzano tutti i numeri non a zero tranne 5; trovare la loro somma*
@@ -526,7 +526,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piramida numerica parzialmente completata con le voci 1 e 10 della riga superiore 2024 e inferiore; trovare il mattone marcato*
@@ -569,7 +569,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le cifre P, Q, R, S, T sono 15 in un certo ordine; PRT e QRS sono entrambi numeri primi a 3 cifre; trovare R*
@@ -611,7 +611,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati JKLM e NKPO che condividono angolo K; NL = 10 cm, area ombrata 62 cm2; trovi KN*
@@ -656,7 +656,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pintura 3 di 8 porte blu (2×4 griglie) rosse: almeno una per fila e almeno due angoli rossi*
@@ -699,7 +699,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sacco di 4 palle rosse/bianche; P( entrambe disegnate in rosso) = 1/6; trovare P( entrambe disegnate in bianco) *
@@ -741,7 +741,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi concentrici divisi da linee radiali in 14 pezzi uguali; il raggio del cerchio interno è 1; trovare il raggio esterno meno 1*
@@ -784,7 +784,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque amici hanno distribuito carte 112; dedurre quali carte ciascuna persona detiene dai suoi punteggi*
@@ -825,7 +825,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore massimo di y dato 1/x + 1/y = 1/20 con x, y integri positivi*
@@ -866,7 +866,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2×3 griglia di numeri incrociati utilizzando cifre 19 una volta ogni volta; Across: multiple di 9, a quadrato; Down: multiple di 11, multiple di 13 e 19; trovare il numero non utilizzato*
@@ -908,7 +908,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo FGH diviso in 4 triangoli più piccoli con aree 4, 8, 12, 8; area di ricerca del triangolo IKH*
@@ -952,7 +952,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro della "tiglia del cappello" di Einstein, fatta di pezzi congruenti con superficie 8√3*
@@ -995,7 +995,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(x) + f(1/(1-x)) = 24x; trovare f(3) *
@@ -1038,7 +1038,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre semicircoli sovrapposti ciascuno dell'area 24; centri X, Y, Z con ZXY = 30°; trovare superficie ombrata totale*

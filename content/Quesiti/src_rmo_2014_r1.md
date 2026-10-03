@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con piede perpendicolare e regioni di superficie uguali implica BD=DC*
@@ -61,7 +61,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Progressione aritmetica: esprimere la differenza comune d in termini di x, y, z*
@@ -88,7 +88,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri di 2^r permutati danno 2^s; provare r=s*
@@ -117,7 +117,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *griglia 4x4 con numeri; prodotti delle sottogriglie 2x2 non tutti divisibili per 16*
@@ -146,7 +146,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, ortocentro, circoncircoli: trovare il punto X indipendente da P*
@@ -174,7 +174,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rali positivi sommati a 1; trovare il più piccolo K per la disuguaglianza sommata*

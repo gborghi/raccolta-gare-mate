@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Adam's age with reversed year figures*
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most weekly number of 4 digits *
@@ -102,7 +102,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many block numbers are divisible by 5*
@@ -134,7 +134,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Euro borrowed from the Salvadoran brother*
@@ -167,7 +167,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 3 digits with average decimal places of the others*
@@ -201,7 +201,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Of how many numbers does Elsa have to guess the sum*
@@ -256,7 +256,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The amount of fuel used shall be calculated on the basis of the following information:
@@ -308,7 +308,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 10.99 with an equal sum of numbers *
@@ -340,7 +340,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of entries, sum of the last two 2024*
@@ -371,7 +371,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year first novel, sum of years 13804*
@@ -402,7 +402,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 1000..4000 with only odd digits*
@@ -445,7 +445,7 @@ The amount of fuel used shall be calculated on the basis of the following inform
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First 4 minimum digits divisible by 3, seven plus *

@@ -31,7 +31,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semplificare un rapporto di potenze di 2*
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Peso totale di uno stack di scatole cubiche*
@@ -107,7 +107,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
@@ -146,7 +146,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare da 1 a 9 in un'elica in modo che le somme delle lame siano uguali e massime*
@@ -183,7 +183,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Questione autoreferenziale sulle lettere nelle risposte errate*
@@ -217,7 +217,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produczione mensile derivante dalla divisione delle vendite tra tre negozi*
@@ -255,7 +255,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di un buco quadrato formata mediante la riorganizzazione di quattro rettangoli congruenti*
@@ -296,7 +296,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza totale di una linea poligonale disegnata con un modello ripetuto*
@@ -333,7 +333,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Natura della differenza dei quadrati di due integri consecutivi*
@@ -367,7 +367,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione di strada percorsa al ritorno per una rivista*
@@ -410,7 +410,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interprete un grafico a barre dei ricavi mensili di due società*
@@ -456,7 +456,7 @@ Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'autobus
@@ -495,7 +495,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di bambini che preferiscono l'opzione della compagnia di autobus*
@@ -530,7 +530,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa massima possibile di un milione di naturali il cui prodotto è di un milione *
@@ -565,7 +565,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Palla che rimbalza su un tavolo da biliardo rettangolare 5x7 lungo il bisector*
@@ -606,7 +606,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione della superficie del cerchio più grande coperta dalla regione nera*
@@ -649,7 +649,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i bastoni bianchi nella figura 2002 di una sequenza di griglie 3xn*
@@ -690,7 +690,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di bottiglie per svuotare un serbatoio utilizzando una tabella di livello contro bottiglie*
@@ -729,7 +729,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio delle recidive del numero 5 scrivendo integri da 100 a 999*
@@ -763,7 +763,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il volume V rimosso due volte da una miscela di acqua vitivinicola*

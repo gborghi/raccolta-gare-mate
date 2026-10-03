@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di tangente nei punti di fine dell'accordo con angolo inciso*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anteri positivi cattivi e rappresentazione binaria*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
@@ -109,7 +109,7 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Stocco di mano del vice leader mongolo alla sessione della giuria dell'IMO*
@@ -140,7 +140,7 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumferenza tetraedrale e insfera identità del piede ortocentrico*

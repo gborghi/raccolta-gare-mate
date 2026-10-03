@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni reali di un'equazione a radice quadrata incastonata*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni a valore reale su numeri naturali che soddisfano f(x+y) = f(x)f(y) *
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca una coppia di integri unica r, n con 0<n<200 che soddisfa due disuguaglianze frazioni*
@@ -112,7 +112,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I piedi perpendicolari da ortocentro a bisettori angolari sono collineari con il punto medio di BC*
@@ -143,7 +143,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove recursively defined d(n,m) sono sempre numeri interi*
@@ -175,7 +175,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Indicare il valore minimo positivo di (x2+y2)/y soggetto alla restrizione quadratica è 1/2*

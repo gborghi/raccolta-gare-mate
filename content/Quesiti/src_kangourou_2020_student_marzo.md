@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total of the last two digits of the product 1x2x..x1*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the path of the ant over two obstacles*
@@ -130,7 +130,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the ab product on the real line*
@@ -195,7 +195,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of students who use motorcycles*
@@ -237,7 +237,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of A+B+C+D+E sum of five three-digit numbers*
@@ -278,7 +278,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the assets of the institution.
@@ -313,7 +313,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum b with a<=b<=c and abc=10^6*
@@ -350,7 +350,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of an elephant given dogs and elephants*
@@ -392,7 +392,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of two faces of the same colour with two dice*
@@ -430,7 +430,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is not divisible by 3 for any n*
@@ -498,7 +498,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *G-N difference in the four cases of overlapping rectangles*
@@ -540,7 +540,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves to spin 5 coins by turning 3 coins at a time*
@@ -585,7 +585,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Litrate of paint for the structure of parallel pipes*
@@ -628,7 +628,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which cannot be (a-b)^2+(b-c)^2+(c-a)^2*
@@ -673,7 +673,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square number of a number of 100 digits*
@@ -721,7 +721,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total possible between 75,216,365,2020 on the wheel*
@@ -779,7 +779,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A large square area touching two small ones*
@@ -825,7 +825,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities equal to the first 2020 items of the succession*
@@ -878,7 +878,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the rectangle with tangent circumference*
@@ -940,7 +940,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Face area with the parallel-piped application point*
@@ -989,7 +989,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which must be positive given the parabola arc*
@@ -1035,7 +1035,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term of the relations between areas of the three triangles*
@@ -1079,7 +1079,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair of numbers which do not divide N between 2 and 11*
@@ -1124,7 +1124,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Surface of the garden before enlargement*
@@ -1175,7 +1175,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many flavors are exhausted if the combinations match*
@@ -1225,7 +1225,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of seeds remaining in the box*
@@ -1273,7 +1273,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the quadrilateral obtained by folding the square*
@@ -1324,7 +1324,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spin of the cube given 90% submerged and visible parts*
@@ -1377,7 +1377,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many table numbers are divisible by p4*
@@ -1444,7 +1444,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Charles' favourite figure from the logical dialogue*

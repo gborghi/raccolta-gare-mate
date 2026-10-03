@@ -25,7 +25,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare angolo BFC in triangolo rettangolo con condizioni bisettori e perpendicolari*
@@ -56,7 +56,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le equazioni su una lavagna dove le cifre cancellate danno due soluzioni integrali*
@@ -94,7 +94,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il più piccolo x_1 in modo che una sequenza di numeri interi infiniti contenga 2020*
@@ -129,7 +129,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri supercilindrici a 4 cifre*
@@ -160,7 +160,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'eguaglianza angolare utilizzando circoli di due triangoli in un triangolo acuto*
@@ -189,7 +189,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il k per il quale Arnaldo vince un gioco da tavolo a colori 2020x2020*

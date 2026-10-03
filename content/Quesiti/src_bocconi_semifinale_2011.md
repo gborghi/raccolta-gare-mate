@@ -29,7 +29,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete a 4x4 square with a 0, two 1 and a 2 per row and column.*
@@ -62,7 +62,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Insert 1-8 into the grid so that consecutive integers do not touch each other.*
@@ -95,7 +95,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of moves to move the two-cube tower on pedestal C.*
@@ -126,7 +126,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 5 different digits, not 0 or 5, increasing, with sum of 20.*
@@ -157,7 +157,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To have the digits 1,2,3,4 in the expression for the minimum result.*
@@ -188,7 +188,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many numbers of the Debora sequence do we need to get to 2011.
@@ -217,7 +217,7 @@ How many numbers of the Debora sequence do we need to get to 2011.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hours in which all three chamber lights are turned off within 24 hours.*
@@ -246,7 +246,7 @@ How many numbers of the Debora sequence do we need to get to 2011.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find the digits of the two tokens chosen by Carla.
@@ -275,7 +275,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sides of a convex polygon with diagonal equal to 13 times the sides.*
@@ -303,7 +303,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nadia's current age from a series of family relationships.
@@ -332,7 +332,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Make 5 grid boxes so that the sums of rows and columns are equal.*
@@ -361,7 +361,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit palindrome numbers which are also perfect squares.*
@@ -390,7 +390,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Top side of the cube whose lateral development is 120 cm square.*
@@ -419,7 +419,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum arrival time together with Geocity sharing a single bicycle.*
@@ -448,7 +448,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the two positive integers whose combination of operations gives 88.*
@@ -477,7 +477,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of the fifth smallest sphere supported on the other four.*
@@ -506,7 +506,7 @@ Find the digits of the two tokens chosen by Carla.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimize the diameter of the round table so that the three noses do not touch each other.
@@ -535,7 +535,7 @@ Minimize the diameter of the round table so that the three noses do not touch ea
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of moves to bring a single token to box 2011.*

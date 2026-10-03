@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n che rendono n^n+1 e (2n)^{2n}+1 entrambi primi.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In ABCD convex quadrilaterale, M è il punto medio di AC diagonale; dimostrare che se angolo BAD = angolo BMC = angolo CMD allora un cerchio può essere inscritto in ABCD.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con n>=2 punti senza quattro coplanari, segmenti K (K>1) disegnati e triangoli T formati, dimostrare 9T^2 < 2K^3.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per W(x)=x^2+ax+b con coefficienti interi, per ogni primo p c'è k con entrambi W(k) e W(k+1) divisibile da p; mostrare c'è m con W(m)=W(m+1)=0.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel rombo ABCD con angolo BAD=60 gradi, E su AB e F su AD soddisfano angolo ECF = angolo ABD; le linee CE e CF incontrano la linea BD a P e Q; dimostrano PQ/EF = AB/BD.*
@@ -162,7 +162,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per la vera a,b,c in [0,1], provare a/(bc+1)+b/(ca+1)+c/(ab+1) <= 2.*

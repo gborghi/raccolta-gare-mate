@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the fraction 20x17 on sum of digits*
@@ -69,7 +69,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *87*
@@ -112,7 +112,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum bridges to be removed to separate A and B*
@@ -156,7 +156,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between a and b given percentages*
@@ -196,7 +196,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragment of graph outside the parabola*
@@ -266,7 +266,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded area fraction with OB=BC*
@@ -310,7 +310,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Manufacture from materials of any heading, except those of heading 8546.
@@ -348,7 +348,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Detailed quadrant of the graph of f*
@@ -386,7 +386,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Box with maximum probability of blue ball
@@ -426,7 +426,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Function with more common points to f(x)=x*
@@ -488,7 +488,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of triangle ABC with tangent circles*
@@ -556,7 +556,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The largest between p,q and given expressions*
@@ -594,7 +594,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage height between cylinders of the same volume*
@@ -637,7 +637,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles in the polyhedron with 6 squares*
@@ -684,7 +684,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of composing 2017 with four tetrahedra*
@@ -723,7 +723,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number that cannot be the root of the polynomial *
@@ -774,7 +774,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Advanced discs in the chessboard square*
@@ -819,7 +819,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum numbers with two consecutive multiples of 7*
@@ -858,7 +858,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area covered by the flower in the regular hexagon*
@@ -889,7 +889,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of figures from the number conceived by Titti*
@@ -918,7 +918,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inteers such that by subtracting the last digit, give 1/14 *
@@ -948,7 +948,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AD in square with perpendicular diagonal *
@@ -979,7 +979,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a_2017 in recurring succession*
@@ -1009,7 +1009,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sectioned tetrahedral volume report*
@@ -1040,7 +1040,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area rectangular triangle with perimeter 18*
@@ -1069,7 +1069,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distributed balls for maximum probability of winning*
@@ -1109,7 +1109,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Central 3x3 grid number with sum of 500*
@@ -1149,7 +1149,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x+y given system with absolute values*
@@ -1178,7 +1178,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum truths around the round table*
@@ -1207,7 +1207,7 @@ Box with maximum probability of blue ball
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABC integers with (A+B)^C power of 2 to 3 digits*

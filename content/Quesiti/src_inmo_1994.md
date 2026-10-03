@@ -30,7 +30,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angolo obtuso a C; media, centroide, cerchio, parallelo*
@@ -61,7 +61,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La radice reale del polinomio di grado-5 implica disuguaglianza*
@@ -88,7 +88,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
@@ -115,7 +115,7 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli non degenerati con vertici nell'insieme di coordinate interi*
@@ -142,7 +142,7 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo attraverso il vertice di rettangolo tangente a due lati; distanza a diagonale*
@@ -171,7 +171,7 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni che soddisfano due equazioni funzionali*

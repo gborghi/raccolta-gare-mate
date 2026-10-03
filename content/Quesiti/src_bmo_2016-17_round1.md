@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare cifre odd nei numeri interi da 1 a 2016*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *3-smooth greatest divisor; trovare tutte le coppie (m,n) con n·f(m)=m·f(n) *
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I coppie di integri positivi in cui m2-n e n2-m sono quadrati perfetti*
@@ -114,7 +114,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angolo 60°; prova angolo BDM = 90°*
@@ -145,7 +145,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
@@ -174,7 +174,7 @@ Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi consecutivi su (n+1)-gon; trovare la somma minima di tutte le differenze in coppia*

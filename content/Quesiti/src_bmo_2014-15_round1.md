@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ordina cinque numeri esponenziali della torre per dimensione*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplice di Pitagora con primo; dimostra divisibilità e quadrato perfetto*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le modalità per prenotare 7 camere nel corridoio dell'hotel senza due camere adiacenti sullo stesso lato*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove t_n = x^n + x^{-n} è un intero; trova n dove t divide t_n*
@@ -136,7 +136,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico; dimostrare PQ parallelo ad AB*
@@ -164,7 +164,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni che preservano l'equazione di frazione egiziana 1/a+1/b=1/c*

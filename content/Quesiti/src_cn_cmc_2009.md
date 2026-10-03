@@ -27,7 +27,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcola la composizione iterata f^(99)(1) per f(x) = x/sqrt(1+x^2)*
@@ -56,7 +56,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Intervallo delle coordinate x del punto su linea che forma un angolo di 45 gradi con un cerchio*
@@ -87,7 +87,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area comune di due regioni piane in funzione del parametro t*
@@ -120,7 +120,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero intero positivo minimo a soddisfacente una disuguaglianza di tipo armonico*
@@ -149,7 +149,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di ∆OP di * di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
@@ -178,7 +178,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Range di k in modo che lg(kx) - 2*lg(x+1) = 0 abbia esattamente una radice reale*
@@ -207,7 +207,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero nell'ultima riga di un triangolo numerico di 100 righe*
@@ -246,7 +246,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo di attesa previsto per il viaggiatore che sceglie tra due treni*
@@ -279,7 +279,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le linee a coefficiente interi che incontrano ellipse e iperbole con AC=BD*
@@ -311,7 +311,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza che soddisfa la ricorrenza lineare; termine generale e somma dei primi n termini*
@@ -345,7 +345,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimo e minimo di sqrt(x)+sqrt(x+27)+sqrt(13-x) su [0,13]*

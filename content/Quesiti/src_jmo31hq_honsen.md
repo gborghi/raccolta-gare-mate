@@ -28,7 +28,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni f che rendono due condizioni di divisibilità/valore equivalenti*
@@ -59,7 +59,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di griglia: determinare quando Taro può garantire di raggiungere la colonna 1*
@@ -91,7 +91,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, punti su lati con BD=CE; prova uguale angolo con punto di circoncircolo*
@@ -121,7 +121,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza integrale con a_{n+2}>a_{n+1}+a_n in [1,2016]; minimizzare il massimo meno min*
@@ -148,7 +148,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2n×2n griglia di colore bianco/nero; numero finito di 2×2 quadrati tutti neri di 2n−1*

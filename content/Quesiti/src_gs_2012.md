@@ -40,7 +40,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of areas between triangle and triangle of midpoints*
@@ -72,7 +72,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last two digits of the product of f(n)=(200-2n)/n*
@@ -106,7 +106,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of gold/silver volumes given mass and volume*
@@ -141,7 +141,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples of numbers with the result 1357 operating on digits*
@@ -172,7 +172,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *External perimeter of 15 discs on a regular 30-acre *
@@ -202,7 +202,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of minimum punished with number of punished divisors *
@@ -234,7 +234,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic criteria Freshwater+Fish=Fruits, value of houses*
@@ -273,7 +273,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diagonal sum of a grid 4x4 of 16 data numbers*
@@ -322,7 +322,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of four real solutions of a system*
@@ -358,7 +358,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of crossing by choosing a road at random*
@@ -388,7 +388,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Internal intersection points of the diagonals of a 21 axis*
@@ -418,7 +418,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integressive solutions of 3i^2+2j^2=77*6^2012*
@@ -449,7 +449,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of maximum diagonals in the five regular solids*
@@ -483,7 +483,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turn with cumulative sum of multiple bricks for 2012*
@@ -518,7 +518,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of all products in 10 boxes numbered -1,0,1,2*
@@ -553,7 +553,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of poles each guard sees exactly 3
@@ -590,7 +590,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Optimal average win of the six-ball game of dice*
@@ -624,7 +624,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of successive tangent circles in a square*
@@ -666,7 +666,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of congruence system thieves and riders*
@@ -705,7 +705,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers a of regular triangulation of the triangle*
@@ -739,7 +739,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of distributing books around a table with divisibility*
@@ -770,7 +770,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of pieces of a sphere with 7 cuts per centre*
@@ -806,7 +806,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum guaranteed distance by dividing a square into three zones*
@@ -847,7 +847,7 @@ Maximum number of poles each guard sees exactly 3
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of returning to summit A after 10 throws on the cube*

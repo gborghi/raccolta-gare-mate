@@ -37,7 +37,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Leggizione di un grafico a barre della fatturazione mensile delle società A e B nella seconda metà del 2001*
@@ -77,7 +77,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca p+q per la frazione irriducibile uguale a un rapporto decimale ripetitivo più 2*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un commerciante vende due articoli e calcola il guadagno totale dato il profitto e la perdita percentuali*
@@ -152,7 +152,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Concorre tra il livello dell'acqua e i grafici temporali dei vasi di diverse forme che vengono riempiti a velocità costante*
@@ -186,7 +186,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggiati contro autobus noleggiati, trovare un minimo di N bambini
@@ -222,7 +222,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alice subisce quattro successive variazioni percentuali di altezza; trova effetto netto *
@@ -259,7 +259,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Marcelo va a scuola a piedi; frazione del percorso percorso quando si riversa, data la tempistica*
@@ -293,7 +293,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza totale di una linea poligonale in zigzag simile a sé AB mantenendo lo stesso schema*
@@ -327,7 +327,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un quadrato è tagliato in due quadrati, quattro trapezoi e due triangoli; un ottagono è riassemblato, trovare una frazione di superficie eliminata*
@@ -360,7 +360,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che xy=2 e x^2+y^2=5, valutare x^2/y^2 + y^2/x^2 + 2*
@@ -396,7 +396,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gruppo di medici e avvocati: dedurre la relazione da un determinato mezzo aritmetico di età*
@@ -433,7 +433,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di tre equazioni di somma reciproca; trovare il valore di x+3y+2z*
@@ -470,7 +470,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riconoscere il difetto in una prova erronea che 4 > 4 partendo da un > 4*
@@ -502,7 +502,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare il numero totale di lettere delle risposte errate su tutte le domande di questa prova*
@@ -543,7 +543,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisibilità delle affermazioni su x^3+y^3+z^3 dato che x+y+z=0*
@@ -580,7 +580,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(x) +2 f(2002/x)=3x per x>0; trovare f(2)*
@@ -612,7 +612,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Restante quando 9 divide sqrt(1111111111 - 22222) *
@@ -646,7 +646,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo con AB=6, BC=2, AC di diametro, angoli ABD e CBD uguali; trovare BD*
@@ -679,7 +679,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *alfa è la radice più grande di x^2+x-1=0; trovare alpha^3*
@@ -711,7 +711,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unita' di una torre elettrica di 7 con sette del 2002*
@@ -745,7 +745,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD trapezoide della zona 1, BC=metà di AD, K punto medio di AC, DK incontra AB a L; area di BCKL quadrilaterale*
@@ -779,7 +779,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N è un numero intero positivo con tutti i numeri distinti, primo è 0, ultimo sconosciuto, multiplo di 198; trova la cifra unità di N/198*
@@ -811,7 +811,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Domino marziano: i pezzi hanno 3 numeri ciascuno da 0,6, un pezzo per triplo non ordinato; trovare la somma totale di tutti i numeri*
@@ -845,7 +845,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, angolo A=60, angolo B=50, M punto medio di AB, P su BC con AC+CP=BP; trovare angolo MPC*
@@ -879,7 +879,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due persone ciascuno ruota un dado; uno vince su prodotto pari, l'altro su pari; probabilità che il scelta pari vinca*

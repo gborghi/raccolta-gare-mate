@@ -47,7 +47,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winning move in TRIS*
@@ -94,7 +94,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max visible cubes of the cube 11x11x11*
@@ -125,7 +125,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cards in the 0-0..8-8 domain *
@@ -155,7 +155,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance between red and green flags*
@@ -184,7 +184,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White spaces on the last line (numbers 1.150) *
@@ -212,7 +212,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many grandchildren and great-grandchildren (exact divisions) *

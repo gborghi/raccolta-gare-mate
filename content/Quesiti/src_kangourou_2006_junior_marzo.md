@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 4 distinct digits divisible by 2006*
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Advanced cubes building the largest cube
@@ -85,7 +85,7 @@ Advanced cubes building the largest cube
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *When the difference between clocks is 1 hour*
@@ -114,7 +114,7 @@ Advanced cubes building the largest cube
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of books in the library (25% and 1/9) *
@@ -143,7 +143,7 @@ Advanced cubes building the largest cube
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum minutes for numbers to be multiplied by 5
@@ -173,7 +173,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the fourth arc (angles in the centre) *
@@ -203,7 +203,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time of departure of two trains*
@@ -233,7 +233,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of the circle with target area (signal) *
@@ -264,7 +264,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of possible beams of a prism*
@@ -293,7 +293,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report and/or report given ab,bc,cd,de*
@@ -321,7 +321,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eta of the lady (equation) *
@@ -349,7 +349,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major angle of the triangle (rounded rim) *
@@ -379,7 +379,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ladge of the largest square (rectangle in 6 squares) *
@@ -410,7 +410,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number represented by A (KAN+KAG+KNG=2006) *
@@ -438,7 +438,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the correct answer (logical self-reference) *
@@ -487,7 +487,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exagonal perimeter intersection of two triangles*
@@ -550,7 +550,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of the largest number with square pairs*
@@ -592,7 +592,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shorter side of the region (square divided) *
@@ -622,7 +622,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of children (average family age) *
@@ -664,7 +664,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum EUR to secure the prize (balls) *
@@ -730,7 +730,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *what and the situation*
@@ -765,7 +765,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product property p (three numbers plus 20) *
@@ -803,7 +803,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Intersecting area of two squares*
@@ -846,7 +846,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of curve described by P (rotating square) *
@@ -886,7 +886,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of the cube with 6 colours*
@@ -965,7 +965,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of three distinct digits with a major inverse*
@@ -1003,7 +1003,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 96 numbers on the circumference*
@@ -1043,7 +1043,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of maturing 5-4 always to the advantage*
@@ -1077,7 +1077,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of X with X+Y+Z=60 (digit sums) *
@@ -1171,7 +1171,7 @@ Minimum minutes for numbers to be multiplied by 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What sum of areas is S8 (square divided) *

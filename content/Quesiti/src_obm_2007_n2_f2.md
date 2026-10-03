@@ -27,7 +27,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare l'età di Ludmilson x data (x-55) ((x+55) è un cubo primo.*
@@ -55,7 +55,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valutazione numerica/aritmetica (dichiarazione non fedelmente recuperabile).*
@@ -84,7 +84,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caccia d'angolo attraverso diversi triangoli di uguali occhie fino ad un angolo di destinazione (174 gradi). *
@@ -112,7 +112,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la somma digitali di un numero K (dichiarazione non fedelmente recuperabile).*
@@ -141,7 +141,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Iteration di tipo Kaprekar stabilizzata a 6174.*
@@ -172,7 +172,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto ABC con punto O (AO=BO=CO); prova angolo ACB = 30 gradi.*
@@ -203,7 +203,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma delle reciprocità di tre valori quadratici costruiti dalle radici alfa,beta è uguale a 0.*
@@ -232,7 +232,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i divisori di 23^5-23 e provare che n^3-n è sempre un multiple di 30. *
@@ -261,7 +261,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i colori A/V validi di una lavagna senza due uguali nelle celle adiacenti di riga/colonna.*

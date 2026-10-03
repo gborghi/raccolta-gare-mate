@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Line tangenti a cerchio dai punti di mezzo dell'accordo AB*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i primi interi positivi malvagi del 1985 con una somma pari di cifre binarie*
@@ -82,7 +82,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto*
@@ -110,7 +110,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio delle strette di mano con il deputato mongolo alla sessione IMO*
@@ -140,7 +140,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove AB + CD = BC + AD e OH = OD' per la faccia di tetraedro circoscritta*

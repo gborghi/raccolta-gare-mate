@@ -54,7 +54,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different areas between rising rhomboidal mosaics*
@@ -114,7 +114,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most coins in the fortress stopping at total par*
@@ -155,7 +155,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the MNC triangle in the rectangle of area 288*
@@ -198,7 +198,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x+y given that the sum of the numbers is 396*
@@ -240,7 +240,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figures not cut from 20x25 grid diagonal *
@@ -282,7 +282,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum points in a circle at a distance of at least 1*
@@ -323,7 +323,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *6 digit numbers with 1 and 2 multiplied by 3*
@@ -373,7 +373,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BAC angle in a chain of isosceles triangles*
@@ -416,7 +416,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with the digit 3 but not the digit 4*
@@ -459,7 +459,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of headings with sum and product constraints*
@@ -500,7 +500,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integrations satisfying the chain of inequalities*
@@ -540,7 +540,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Given product xy (x+y) ^2=100x+y=2025*
@@ -583,7 +583,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the parallelogram given the bearings and area APO*
@@ -625,7 +625,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students who love mathematics (totals) *
@@ -667,7 +667,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 3a+1/a given 9a^2+1/a^2=19*
@@ -708,7 +708,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum MC of positive integers with sum of 10 *
@@ -749,7 +749,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum B basis with unchanged sum for 1257*
@@ -791,7 +791,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum factor to make 18*k power six*

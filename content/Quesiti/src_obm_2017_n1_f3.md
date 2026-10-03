@@ -32,7 +32,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Corse di auto: tabella di posizioni dopo il giro 17, recupero della griglia di partenza e determinazione del podio a partire dai tempi del giro*
@@ -71,7 +71,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per costruire un cubo di 27 cm3 e un cubo di 64 cm3 da cubetti di lato 1, 2, 3 cm*
@@ -111,7 +111,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di numeri "Impas" a soli cifre limitate: scrivere 20 e 2017, e calcolare una moltiplicazione*
@@ -150,7 +150,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso in quadrato più quattro rettangoli uguali più piccoli che si riassemblano in un nuovo quadrato*
@@ -201,7 +201,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Modelli di sblocco del telefono come sequenze digitali su una griglia 3x3: identificare una password e modelli di conteggio*

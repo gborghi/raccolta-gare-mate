@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di rettangolo interno con vertici sui lati del rettangolo esterno*
@@ -57,7 +57,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la somma facciale opposta alla somma facciale 8 su un cubo etichettato*
@@ -86,10 +86,10 @@ level: OBM Nível 1
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Massimo numero di membri della tribù rossa in un cerchio in cui 48 persone su 100 dicono che il vicino di destra è un bugiardo*
 
 > Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, $100$ persone si sono radunate in cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" In seguito si è verificato che $48$ persone avevano risposto "sì". Al massimo, quante persone della tribù rossa (i bugiardi) potrebbero esserci nel cerchio?
-
 
 [[Quesiti/src_obm_2011_n1_f2#q03|src_obm_2011_n1_f2__Q03]]
 
@@ -111,7 +111,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massa totale di un cubo 4x4x4 costruito a partire da piccoli cubi ponderati per conto del vicino*
@@ -138,7 +138,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 3 cifre senza cifre zero con almeno due cifre uguali*
@@ -165,7 +165,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta fratelli di 60 anni che sono inferiori a 1000*
@@ -203,7 +203,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di numeri di somma parziale di quadrati; trovare unità di numeri per n=2011*
@@ -240,7 +240,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Selo (pari di divisori corretti) di numeri interi: calcolare, invertere e ridurre al minimo*
@@ -279,7 +279,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrati massimi su un geoplano con una corda continua (4x4 e 5x5) *

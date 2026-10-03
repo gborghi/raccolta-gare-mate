@@ -66,7 +66,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *true statements*
@@ -129,7 +129,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *estimation of who knew the correct answer*
@@ -176,7 +176,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit number with the last digit shifted to the head, sum*
@@ -223,7 +223,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max rectangular area*
@@ -278,7 +278,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *external edge length*
@@ -334,7 +334,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * sum of a*
@@ -374,7 +374,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find n *
@@ -423,7 +423,7 @@ Find n *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for how many times a1 is constant*
@@ -486,7 +486,7 @@ Find n *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *true statements*
@@ -547,7 +547,7 @@ Find n *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two regular hexagons with perpendicular sides, angle ABC*
@@ -599,7 +599,7 @@ Find n *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum steps from 1 to 2022*
@@ -632,7 +632,7 @@ Find n *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *equal board within*
@@ -662,7 +662,7 @@ Find n *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (x,y) with x2+y and x+y2 both squared*
@@ -697,7 +697,7 @@ Find n *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last decimal point not less than 1/5^2022*
@@ -735,7 +735,7 @@ Find n *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
@@ -770,7 +770,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of subscribers to the programme.
@@ -802,7 +802,7 @@ This is the total number of subscribers to the programme.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 I'm not going to say anything about it.
@@ -843,7 +843,7 @@ I'm not going to say anything about it.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many *

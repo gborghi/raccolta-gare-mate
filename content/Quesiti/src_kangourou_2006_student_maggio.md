@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of absolute values on numbered circumference*
@@ -56,7 +56,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p+q product of at least three integers >1 (first consecutive) *
@@ -87,7 +87,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Longer and shorter diagonal difference in the 9-zone
@@ -123,7 +123,7 @@ Longer and shorter diagonal difference in the 9-zone
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *blue points on the circumferences*
@@ -157,7 +157,7 @@ Longer and shorter diagonal difference in the 9-zone
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *E=N?*
@@ -188,7 +188,7 @@ Longer and shorter diagonal difference in the 9-zone
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numerization of triangular network numbers with rhomboid movements*

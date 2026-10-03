@@ -27,7 +27,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo di ARB taglia AC a X; prova RX perpendicolare BC*
@@ -57,7 +57,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le vere x, y tali che x^2+2y^2+1/2 le x(2y+1) *
@@ -84,7 +84,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Nessun numero intero positivo n <2310 con 2310 n 2310-n
@@ -112,7 +112,7 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i reali positivi x,y,z che soddisfano tre equazioni cicliche*
@@ -140,7 +140,7 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il cerchio di BDX si trova sul cerchio di ABX*
@@ -169,7 +169,7 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 3 cifre n con S(S(n))=2*

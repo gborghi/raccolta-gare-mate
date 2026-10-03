@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i polinomi reali di grado-5 con condizioni di divisibilità che coinvolgono (x-1)^3 e (x+1)^3.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dati i numeri positivi reali la cui somma è pari al loro prodotto, e i positivi b_i con a_i <= b_i, dimostrare che la somma di b_i è al massimo il loro prodotto.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un piano attraverso il centro di un cubo lo incrocia in un esagono ciclico; mostra che l'esagono è regolare.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni vertice di un cubo è assegnato 1 o -1, ognuno rivolto al prodotto dei suoi quattro vertici; trovare tutti i valori possibili della somma di tutti i 14 numeri.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'incircolo del triangolo ABC tocca AB e BC a P e Q; il bisettore da A incontra PQ a S; dimostra che l'angolo ASC è di 90 gradi.*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Per un primo p, provare p divide alcuni n^2-n+3 se p divide alcuni m^2-m+25.

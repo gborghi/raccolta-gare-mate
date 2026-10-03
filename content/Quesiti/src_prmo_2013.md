@@ -27,7 +27,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La k più piccola in modo che k(3^3+4^3+5^3)=a^n, n>1*
@@ -55,7 +55,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore della somma di 1/(S_n+S_{n-1}) per n=1 a 99*
@@ -83,7 +83,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma di tutti i valori interi di un rendendo x^2+ax+20=0 hanno radici interi*
@@ -112,7 +112,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto di tutti i valori possibili di YZ dati con XY=10, XZ=3 collineare*
@@ -141,7 +141,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova n dati 299 modi per scegliere due palle di colore diverso dal sacchetto*
@@ -169,7 +169,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca S(5N+2013) dove N è il numero intero positivo più piccolo con somma digitale 2013*
@@ -197,7 +197,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum totale di marmi n per le dichiarazioni di Akbar-Birbal da tenere*
@@ -225,7 +225,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza del PQ, punti di mezzo di diagonali del trapezio con lati paralleli 16 e 20*
@@ -252,7 +252,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo BOC quando B,H,I,C sono conciclici nel triangolo ABC*
@@ -279,7 +279,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tre numeri nel problema di aggiunta/moltiplicazione di Carol *
@@ -306,7 +306,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
@@ -332,7 +332,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza del PC in triangolo equilaterale con PQRS rettangolo inciso *
@@ -360,7 +360,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coloure distinte massime in colorazione di {1,...,1000} con restrizione di divisibilità*
@@ -388,7 +388,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova m+n dove m,n sono i numeri interi più piccoli pari/pari che rendono il numero triangolare un quadrato perfetto*
@@ -415,7 +415,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di ABCD data A2B2C2D2 (punti di centro dei punti di centro) è un rettangolo 4x6*
@@ -442,7 +442,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutti i b per i quali due quadratici condividono una radice comune*
@@ -468,7 +468,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radius del cerchio S1 data configurazione del cerchio con angolo YXO=30 e raggio S2=100*
@@ -496,7 +496,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximo k tale che il 2013 sia pari alla somma di k numeri interi positivi consecutivi*
@@ -524,7 +524,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di AC nel triangolo rettangolo dato il rapporto perpendicolare di superficie bisettore 13:18*
@@ -551,7 +551,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri naturali inferiori a 64 con esattamente tre 1s nella base 2*

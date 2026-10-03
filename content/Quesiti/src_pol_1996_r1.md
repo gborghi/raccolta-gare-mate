@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare numeri interi positivi n per i quali tan x + cot x = 2 sin nx ha una soluzione reale*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri primi che dividono almeno una differenza di numeri palindromici consecutivi*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un gruppo di persone che conoscono tutti più di (k-1) altri, dimostrare l'esistenza di una cricca di k+1*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una tangente all'incircolo di un triangolo equilaterale incontra AB, AC a D, E; prova AD/DB + AE/EC = 1*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angolo obtuso CAB; PQ un segmento con punto medio A; mostrare BP + CQ >= (alfa/2) BC relazione tangente*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due sequenze in aumento (una differenza aritmetica r, un rapporto geometrico q>1) con un termine comune; se condividono un termine comune, dimostrare infinitamente molti*
@@ -188,7 +188,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nonnegativi a,b,c e p,q,r sommando a 1 con p,q,r <= 1/2; dimostrare 8abc <= pa+qb+rc*
@@ -215,7 +215,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il raggio di luce dal centro del quadrato si riflette lateralmente e torna al centro per la prima volta; dimostrare numero impar di riflessi*
@@ -242,7 +242,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *polinomio a coefficiente intero con rimanente 990x - 889 modulo x^2-12x+11; dimostrazione di assenza di radici interi*
@@ -269,7 +269,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove x^9 = y^3 + z^3 ha infinite soluzioni in interi positivi*
@@ -296,7 +296,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *65-competitor ski jump in ordine casuale; dimostrare che la probabilità di esattamente un cambio di leader supera 1/16*
@@ -323,7 +323,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se due cubetti congruenti con centro comune possono essere posizionati in modo che ogni faccia di uno e ogni faccia dell'altro condividano un punto comune*

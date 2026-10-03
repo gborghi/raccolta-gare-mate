@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fractional value with powers of 10*
@@ -73,7 +73,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 1-6x from linear equation*
@@ -115,7 +115,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum yellow bags to exceed 20%*
@@ -156,7 +156,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of figures of 10^2025+10^803+3^4+2^5*
@@ -198,7 +198,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late BC in an isosceles triangle with a quadruple C angle*
@@ -240,7 +240,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many powers in 2025 are perfect squares*
@@ -285,7 +285,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of dividing 16 candies with equal friends *
@@ -328,7 +328,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unusual numbers < 1000 with only digits 1,3,4,5,7*
@@ -370,7 +370,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Age of the two children's product (age problem) *
@@ -447,7 +447,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CDEF quadrilateral area with perpendicular sides*
@@ -512,7 +512,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of segment between vertices of the cube passing through the centre*
@@ -558,7 +558,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many knights in the class (knights and swordsmen) *
@@ -599,7 +599,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Ordination of k, k^2, k^3 by -1
@@ -641,7 +641,7 @@ Ordination of k, k^2, k^3 by -1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PLACE position between anagrams in alphabetical order*
@@ -687,7 +687,7 @@ Ordination of k, k^2, k^3 by -1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distinct cube colours with 2+4 faces (10 colours) *
@@ -745,7 +745,7 @@ Ordination of k, k^2, k^3 by -1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of parallel polygon shaded *

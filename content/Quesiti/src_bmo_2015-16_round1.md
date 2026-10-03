@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anna acquista libri e scaffali; conta le date in cui i libri sono più scaffali.*
@@ -52,7 +52,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico; tangente a D che incontra la linea CB; prova triangolo DEF isosceles.*
@@ -79,7 +79,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da ricorrenza con costanti A e B; trovare valori iniziali razionali.*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo giocatore vince.
@@ -135,7 +135,7 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piede di altitudine triangolare; quattro piedi perpendicolari sono conciclici.*
@@ -162,7 +162,7 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tanti interi incantevoli definiti in modo ricorrente; dimostrare che ogni intero positivo è la somma di pochi interi incantevoli.*

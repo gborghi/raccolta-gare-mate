@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova un intero positivo la cui prima cifra è 1, triplicato quando si sposta alla fine*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato ABCD, P su AB; trovare il rapporto massimo e min PC/PD*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *quadrilatero convex con cos identificazione; prova trapezio o ciclico*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di monete pregiudiziale; trovare p per un gioco equo tra A e B *
@@ -140,7 +140,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le diagonali di quadrilaterali convexi si incontrano a O; dimostrare che la PQ è perpendicolare a RS*
@@ -173,7 +173,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rationale x,y soddisfare x^4+y^4=2(xy)^3; provare 1-xy è quadrato razionale*

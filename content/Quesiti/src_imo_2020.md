@@ -28,7 +28,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three competing squared lines with angular ratios*
@@ -56,7 +56,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the same as the previous one.
@@ -86,7 +86,7 @@ This is the same as the previous one.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *4n coloured rocks in two balanced heaps*
@@ -117,7 +117,7 @@ This is the same as the previous one.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum k cableways with two stations connected by both *
@@ -148,7 +148,7 @@ This is the same as the previous one.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n with arithmetic mean=geometric mean equal force*
@@ -183,7 +183,7 @@ This is the same as the previous one.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separating straight with distance >= n^(-1/3) *

@@ -27,7 +27,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare 103*103 meno 97*97*
@@ -53,7 +53,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolo, angolo B superiore a C di 48 gradi*
@@ -79,7 +79,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area esterna all'esagono dell'unità entro la distanza 1 di un vertice*
@@ -108,7 +108,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di equazioni in numeri interi positivi, trovare n*
@@ -140,7 +140,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Crittografia: IMO più JMO più ampersand termini uguali a JJMO*
@@ -167,7 +167,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli incantesimi magici trasformano fragole e banane in numeri mirati*
@@ -194,7 +194,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arrangere 8 palle di 3 colori con numero impar di rosso *
@@ -221,7 +221,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con due ceviani, angoli uguali, trovare BE*
@@ -248,7 +248,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di fazioni incastonate tra 7 politici*
@@ -276,7 +276,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con condizioni di punto e angolo diagonali, angolo di ricerca BCD*
@@ -323,7 +323,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dialogo di riempimento: triples e l'operazione a*b mod 10*
@@ -354,7 +354,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre di quotienti distinti dividendo 2^2004 per 1..2^2004*

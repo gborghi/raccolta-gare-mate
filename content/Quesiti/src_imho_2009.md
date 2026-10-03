@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Condizione di divisibilità sugli elementi della successione*
 
 > Sia $n$ un intero positivo e siano $a_1, a_2, \ldots, a_k$ ($k \ge 2$) due interi distinti nell'insieme $\{1, 2, \ldots, n\}$ tali che $n$ divide $a_i(a_{i+1} - 1)$ per $i = 1, 2, \ldots, k-1$. Si dimostri che $n$ non divide $a_k(a_1 - 1)$.
-
-
 
 [[Quesiti/src_imho_2009#q01|src_imho_2009__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza tangente a PQ nel triangolo con circonferenza circoscritta*
 
 > Sia $ABC$ un triangolo con circocentro $O$. I punti $P$ e $Q$ sono rispettivamente punti interni ai lati $CA$ e $AB$. Siano $K$, $L$ e $M$ i punti medi dei segmenti $BP$, $CQ$ e $PQ$, rispettivamente, e sia $\Gamma$ la circonferenza passante per i punti $K$, $L$ e $M$. Si supponga che la retta $PQ$ sia tangente alla circonferenza $\Gamma$. Si dimostri che $OP = OQ$.
-
-
 
 [[Quesiti/src_imho_2009#q02|src_imho_2009__Q02]]
 
@@ -86,13 +84,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Progressioni aritmetiche in sottosuccessioni implicano la progressione completa*
 
 > Sia $s_1, s_2, s_3, \ldots$ una successione strettamente crescente di interi positivi tale che le sottosuccessioni
 > $$s_{s_1}, s_{s_2}, s_{s_3}, \ldots \quad \text{and} \quad s_{s_1+1}, s_{s_2+1}, s_{s_3+1}, \ldots$$
 > siano entrambe progressioni aritmetiche. Si dimostri che la successione $s_1, s_2, s_3, \ldots$ è una progressione aritmetica.
-
-
 
 [[Quesiti/src_imho_2009#q03|src_imho_2009__Q03]]
 
@@ -116,11 +113,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli angoli CAB in un triangolo con bisettrici e incentro*
 
 > Sia $ABC$ un triangolo con $AB = AC$. Le bisettrici degli angoli in $\angle CAB$ e $\angle ABC$ incontrano i lati opposti $BC$ e $CA$ rispettivamente nei punti $D$ e $E$. Sia $K$ l'incentro del triangolo $ADC$. Si supponga che $\angle BEK = 45^\circ$. Determinare tutti i possibili valori di $\angle CAB$.
-
-
 
 [[Quesiti/src_imho_2009#q04|src_imho_2009__Q04]]
 
@@ -146,13 +142,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale sugli interi positivi con condizione triangolare*
 
 > Si determinino tutte le funzioni $f$ dall'insieme degli interi positivi in sé stesso tali che, per ogni coppia di interi positivi $a$ e $b$, esista un triangolo non degenere con lati di lunghezza
 > $$a, \quad f(b) \quad \text{and} \quad f(b + f(a) - 1).$$.
 > (Un triangolo è non degenere se i suoi vertici non sono allineati.)
-
-
 
 [[Quesiti/src_imho_2009#q05|src_imho_2009__Q05]]
 
@@ -176,10 +171,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Il salto della pulce evita un insieme finito sull'asse reale positivo*
 
 > Siano $a_1, a_2, \ldots, a_n$ interi positivi distinti e sia $M$ un insieme di $n - 1$ interi positivi che non contiene $s = a_1 + a_2 + \cdots + a_n$. Un saltatore deve spostarsi lungo l'asse reale, partendo dal punto $0$ e eseguendo $n$ salti verso destra di lunghezze $a_1, a_2, \ldots, a_n$ in un certo ordine. Si dimostri che è possibile scegliere l'ordine dei salti in modo tale che il saltatore non atterri mai su alcun punto appartenente a $M$.
-
-
 
 [[Quesiti/src_imho_2009#q06|src_imho_2009__Q06]]

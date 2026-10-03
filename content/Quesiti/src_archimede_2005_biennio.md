@@ -32,7 +32,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits has the number 2^3*5^4*10^5*
@@ -73,7 +73,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Simplify the root of 12 high 12*
@@ -116,7 +116,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum value of a(b+c) -b(a+c) with integers of 1.10*
@@ -160,7 +160,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Distribution of 120 cherries in proportion to age
@@ -205,7 +205,7 @@ Distribution of 120 cherries in proportion to age
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distance between cabins in a circular crown*
@@ -250,7 +250,7 @@ Distribution of 120 cherries in proportion to age
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Statements on doors on the walls of a room*
@@ -297,7 +297,7 @@ Distribution of 120 cherries in proportion to age
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ternes (v,n,p) with v=n+p in a sample*
@@ -361,7 +361,7 @@ Distribution of 120 cherries in proportion to age
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a similar triangle within a rectangle*
@@ -423,7 +423,7 @@ Distribution of 120 cherries in proportion to age
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of units in the unit of measurement.
@@ -465,7 +465,7 @@ This is the total number of units in the unit of measurement.
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of integers with a product equal to the sum*
@@ -510,7 +510,7 @@ This is the total number of units in the unit of measurement.
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term of digits with a sum of 10 for a lock*
@@ -552,7 +552,7 @@ This is the total number of units in the unit of measurement.
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle with competing axes and axes *
@@ -594,7 +594,7 @@ This is the total number of units in the unit of measurement.
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers equal to the square of the number of divisors*
@@ -635,7 +635,7 @@ This is the total number of units in the unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers n with product plus sum of digits equal to n*
@@ -678,7 +678,7 @@ This is the total number of units in the unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance between centers of two tangent circles*
@@ -722,7 +722,7 @@ This is the total number of units in the unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits to write numbers from 1 to 2005*
@@ -769,7 +769,7 @@ This is the total number of units in the unit of measurement.
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between points with arcs in a square*
@@ -814,7 +814,7 @@ This is the total number of units in the unit of measurement.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 English and German bilingual employees
@@ -857,7 +857,7 @@ English and German bilingual employees
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the alpha angle in Figure *
@@ -898,7 +898,7 @@ English and German bilingual employees
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *chain of inequalities between powers 2 and 3*

@@ -31,7 +31,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which beam to increase for maximum volume increase*
@@ -72,7 +72,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the subset defined by circle and semiplane*
@@ -112,7 +112,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Speed of train crossing the tunnel*
@@ -152,7 +152,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum 50% card for fishing at least one heart*
@@ -192,7 +192,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering of X, Y, Z by a, b*
@@ -238,7 +238,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What data is needed to choose the shortest route*
@@ -290,7 +290,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who is guilty of the defendant's statements?
@@ -335,7 +335,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lottery ticket number with 999 digits 9*
@@ -376,7 +376,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many real terns with a2+b2+c2=1 and a3+b3+c3=1*
@@ -417,7 +417,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is determined between frame, passpartout and canvas*
@@ -454,7 +454,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the ABPQ tetrahedron in a side cube 12*
@@ -482,7 +482,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many distinct TVs nest in the screen*
@@ -510,7 +510,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real positive solutions of 32^x = 64^[x]*
@@ -541,7 +541,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic progressions of four integers in 1.100*
@@ -573,7 +573,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum positive integer with exactly 15 divisors*
@@ -605,7 +605,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive integer pairs (m,n) with 1/m+1/n-1/mn=2/5*
@@ -636,7 +636,7 @@ Who is guilty of the defendant's statements?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *HMAC and isoscele*

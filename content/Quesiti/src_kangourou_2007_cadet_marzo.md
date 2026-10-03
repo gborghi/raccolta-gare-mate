@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression value 4x4+4+4+4+4+4+4+4x4*
@@ -65,7 +65,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In how many years Billy will be 10 years old
@@ -100,7 +100,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which hole the ball falls into (45 degrees) *
@@ -138,7 +138,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of non-visible face points of the two dice*
@@ -174,7 +174,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *After 4 days with 4 nipples (double) *
@@ -217,7 +217,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which circle is blacker than white*
@@ -258,7 +258,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Breaking length ABC...P*
@@ -295,7 +295,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between palindromes (6 and 5 digits) *
@@ -334,7 +334,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Large rectangular perimeter (6 circumferences) *
@@ -374,7 +374,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum squares per axis of symmetry*
@@ -410,7 +410,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number first divided by 3^11 + 5^13*
@@ -468,7 +468,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *People in the classroom (boy/girl friends) *
@@ -507,7 +507,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles with vertices on two parallel lines*
@@ -552,7 +552,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of consumers branded A hrs*
@@ -582,7 +582,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle ABE (conforming equilateral triangles) *
@@ -618,7 +618,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of perfect squares from 1 to 10000*
@@ -653,7 +653,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max cells with 15 lines*
@@ -702,7 +702,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Comparison of the volumes of the two cylinders*
@@ -743,7 +743,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Greatest sum by subtracting 3 numbers (grid) *
@@ -787,7 +787,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded region area (square and perpendicular) *
@@ -826,7 +826,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers to list (calculator without 1) *
@@ -860,7 +860,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Kilometres walked by Alfredo (up and down) *
@@ -912,7 +912,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which statement is certainly true (weights) *
@@ -950,7 +950,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many 4-digit self-descriptive numbers *
@@ -985,7 +985,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N+2 dividers (n first, n+1 with 3 dividers) *
@@ -1023,7 +1023,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the remaining paper (sum 3x) *
@@ -1062,7 +1062,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers are divisible by 3 on circumference*
@@ -1117,7 +1117,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max length of curve connected (arched tiles) *
@@ -1157,7 +1157,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of three digits with property on sum of digits*
@@ -1201,7 +1201,7 @@ In how many years Billy will be 10 years old
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number can be obtained with 5 operations from 15*

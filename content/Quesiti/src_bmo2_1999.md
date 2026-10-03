@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsiemi di prime n naturali con metà di somma uguale*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Essagono circostato intorno al cerchio; linee simultanee attraverso vertici opposti*
@@ -89,7 +89,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *P,q,r non negativi che soddisfano p+q+r=1 implicano disuguaglianza*
@@ -120,7 +120,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri del modulo 3^n+1; divisibilità della somma digitali per 10*

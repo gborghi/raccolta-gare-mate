@@ -32,7 +32,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrici 3x3 circolanti con det=1: entrate razionali infinite, entrate interi finite*
@@ -65,7 +65,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni C2 che soddisfano f(t)2=f(t√2) per tutte le t* reali
@@ -92,7 +92,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi k per il quale piano ((α^n) = m2−k per tutti i grandi n*
@@ -120,7 +120,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per n>1 lasciamo k(n) essere l'esponente massimo di potenza perfetta; trovare il limite della media di Cesaro*
@@ -147,7 +147,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caracterizzare tutti i tripli reali che sono valori propri di una matrice non negativa 3×3*
@@ -180,7 +180,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parli di parole bacana definiti ricorrentemente; prove (α,β) bacana se αβ è palindromo*

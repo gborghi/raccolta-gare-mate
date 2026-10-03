@@ -33,7 +33,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi interi che soddisfano una doppia disuguaglianza con radice quadrata*
@@ -70,7 +70,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Giorno della settimana 99 giorni dopo sabato*
@@ -99,7 +99,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema annullato*
@@ -132,7 +132,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *età in cui l'età del padre è triplice dell'età del figlio*
@@ -170,7 +170,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di triangolo con vertici nei punti di mezzo dei lati quadrati*
@@ -209,7 +209,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'unità di 3 aumentata alla potenza 1998*
@@ -246,7 +246,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Codice segreto: trovare a+b+c+d dalle equazioni digitali*
@@ -283,7 +283,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la cifra a in modo che 1234a6 sia divisibile per 7*
@@ -322,7 +322,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la lunghezza AB nel trapezoide con angoli e lati dati*
@@ -363,7 +363,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il numero mancante X in un quadrato magico*
@@ -402,7 +402,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sparrows on branches: count given landing rules*
@@ -440,7 +440,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza minima della corda per legare 15 confezioni*
@@ -478,7 +478,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find il prezzo del biglietto per studente dato il totale e le assenze*
@@ -514,7 +514,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sconto reale rispetto allo sconto apparente in una vendita*
@@ -551,7 +551,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadro di conteggio utilizzato per due tipi con quantità fisse*
@@ -592,7 +592,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Remplire la griglia con le cifre 1-5; trovare la cifra più ripetuta*
@@ -639,7 +639,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Generalizzare il modello triplo di Pitagora per trovare x+y*
@@ -680,7 +680,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i modi per dipingere la bandiera con 4 colori, due non possono essere adiacenti*
@@ -727,7 +727,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un puzzle logico: uno dei quattro sospettati dice la verità
@@ -758,7 +758,7 @@ Un puzzle logico: uno dei quattro sospettati dice la verità
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema annullato*

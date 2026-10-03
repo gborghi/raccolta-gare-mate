@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare possibili valori determinanti di matrice che soddisfano l'equazione cubica*
@@ -53,7 +53,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che una sequenza di integrali è crescente e divergente*
@@ -80,7 +80,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la permutazione che limita tutte le somme parziali dei vettori da sqrt(5) *
@@ -107,7 +107,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova la convergenza di serie che coinvolgono una sequenza definita in modo ricorrente*
@@ -134,7 +134,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prove che la somma di 1/n^n è uguale all'integrale di x^{-x}*
@@ -161,7 +161,7 @@ Prove che la somma di 1/n^n è uguale all'integrale di x^{-x}*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'inversibilità della matrice di coefficienti binomiali per due sequenze di indici*

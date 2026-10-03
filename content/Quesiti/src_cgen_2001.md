@@ -78,7 +78,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmXSsTHEh8iKBAnrvY3ihkUwt2H-HQyx/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema singolo (esercizio 1) in quattro parti su 'trios' (a,b,c) con ab+bc+ca=0: loci geometrici, trios interi/primitivi e conteggio, un prodotto stellare dei trios attraverso numeri complessi, e l'aritmetica dei numeri interi rappresentati da u^2+3v^2.*

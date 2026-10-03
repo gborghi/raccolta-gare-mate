@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of pupils (77 handshakes) *
@@ -57,7 +57,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the fourth triangle (quadrilateral diagonals) *
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max number of numbers chosen without a multiple sum of 3*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cover an 8x8 chessboard with 21 tiles 1x3*
@@ -150,7 +150,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bridges (rectangular grid diagonal) *
@@ -179,7 +179,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of the first six decimal places of 2^2007/7*

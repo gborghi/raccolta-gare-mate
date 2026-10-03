@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei numeri di pagina su una foglia strappata di un libro*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'incircolo del triangolo tocca i lati; trovare i lati dati la simultanea*
@@ -80,7 +80,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numeri a 6 cifre con cifre 16 ciascuna una volta, divisibili per k per 1 a 6*
@@ -109,7 +109,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un sistema di equazioni in x e y reali*
@@ -136,7 +136,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di 16 integri positivi con prodotto in coppia non superiore al 1994*
@@ -163,7 +163,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due accordi ad angolo retto; i punti medi formano un parallelo*
@@ -190,7 +190,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i razionali m/n con 0 < m/n < 1, gcd(m,n) = 1, mn = 25!*
@@ -218,7 +218,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza (1+a)

@@ -38,7 +38,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *one single true statement in euro of Lisa*
@@ -83,7 +83,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2021 as the sum of five integers with digits 3 and 5*
@@ -131,7 +131,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequential sub-sets with perfect square sum*
@@ -185,7 +185,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential round coronal areas of regular polygons*
@@ -234,7 +234,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following table shows the results of the calculations:
@@ -283,7 +283,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solution of the equation in (x^3-76) given x=5*
@@ -335,7 +335,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of diameters impossible*
@@ -385,7 +385,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *External edge union of four circles for K*
@@ -433,7 +433,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum L of the 1xL rectangle divided by area constraints*
@@ -473,7 +473,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Forwarding of the P-point of the groove*
@@ -510,7 +510,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum block of black with distinct white blocks*
@@ -549,7 +549,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last four digits 0/1 alignment without repeated blocks*
@@ -581,7 +581,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining by dividing by 5 the product of the 5-digit numbers*
@@ -620,7 +620,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum gap between the two balances with 2021 items*
@@ -655,7 +655,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of prime of the form (m^2+m+1)/n*
@@ -715,7 +715,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n for rooms visited near 2021*
@@ -773,7 +773,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AB with two tangent circles at an angle of 60 degrees*
@@ -817,7 +817,7 @@ The following table shows the results of the calculations:
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of requests for the product of tern out of 98 numbers*

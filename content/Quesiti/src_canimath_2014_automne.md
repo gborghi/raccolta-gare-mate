@@ -29,7 +29,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il minor numero di piatti principali quindi ogni cena nel 2014 è distinta*
@@ -59,7 +59,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato ABCD, E su AD e F su BC con BE=EF=FD=1; trovare l'area*
@@ -90,7 +90,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisibilità entro il 81 del 2016, del 20162016 e del 2016 ripetute nel 2016*
@@ -122,7 +122,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_n=a_{n-1}/a_{n-2}, a_1=2, a_2=3; trovare a_{2014}*
@@ -158,7 +158,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10 villaggi, strade a senso unico senza incrocio senza possibilità di ritorno; risultati del grafico*
@@ -193,7 +193,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo equilaterale dello stesso perimetro di un quadrato; confronta le aree*
@@ -229,7 +229,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di regola digitali; può essere scelto a_0 in modo che la sequenza sia infinita?*
@@ -264,7 +264,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, M, N su BC con angolo BAM = angolo NAC; O1, O2, A sono collineari*
@@ -293,7 +293,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *25 numeri positivi distinti; scegliete due la cui somma/differenza non è uguale a nessun altro*
@@ -322,7 +322,7 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *22 carte numerate; i giocatori si alternano, unità di cifra della somma delle carte vinte*

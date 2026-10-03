@@ -50,7 +50,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many ways to place 4 coins on a 4x4 chessboard
@@ -99,7 +99,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of labels yet to be prepared*
@@ -127,7 +127,7 @@ How many ways to place 4 coins on a 4x4 chessboard
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 From which pizza to choose the largest slice
@@ -155,7 +155,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How much is the initial sum*
@@ -183,7 +183,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum time to ferry four boats*
@@ -211,7 +211,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19pm5aviRkJPcSDCnWu9e_2Wl9DVc4vb2/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who has won the most hands at the Chinese mortar?

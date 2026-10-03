@@ -32,7 +32,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cutting square cake into equal parts*
@@ -64,7 +64,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black bags in boxes, maximum by box*
@@ -97,7 +97,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Order to extract keys from Father Benedict
@@ -130,7 +130,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fourth stamp value and adhesives *
@@ -161,7 +161,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum total of four-sided tokens*
@@ -192,7 +192,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four operations with nine distinct digits*
@@ -224,7 +224,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five numbers missing from the Ottavio solid *
@@ -256,7 +256,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum scrap with two straight cuts*
@@ -288,7 +288,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four pieces of the round Clodovico vase*
@@ -318,7 +318,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers that Apollonia can read from 323*
@@ -347,7 +347,7 @@ Order to extract keys from Father Benedict
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum weight of luggage Mr and Mrs Leggeri
@@ -378,7 +378,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most bees in the magic hive*
@@ -410,7 +410,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sharing is shown in 5 parts with overlay*
@@ -440,7 +440,7 @@ Minimum weight of luggage Mr and Mrs Leggeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum remaining pieces 8x8 chessboard with 3x3 squares
@@ -471,7 +471,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Surface not crossed by any square segment*
@@ -502,7 +502,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum regions with 2011 anti-segments in the plan*
@@ -531,7 +531,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little cubes intersected by a perpendicular diagonal plane of the 2011 cube*
@@ -562,7 +562,7 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Radio ratio small circle and distance centers, owl head*

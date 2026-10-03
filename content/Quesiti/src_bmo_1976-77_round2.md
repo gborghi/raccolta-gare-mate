@@ -34,7 +34,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadratico di confine su intervalli dati a n punti*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piramida con cerchi incisi di facce adiacenti che si toccano; prova i punti di contatto sul cerchio*
@@ -94,7 +94,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infinito con gli stessi divisori primari
@@ -123,7 +123,7 @@ O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infin
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construire un colletto di 2 perle in 2 colori che coprono tutte le coppie di colori*

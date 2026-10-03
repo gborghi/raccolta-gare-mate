@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What is the cost of the most expensive item (3 whole prices, total 7)
@@ -83,7 +83,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of squares divided into two non-overlapping shapes*
@@ -134,7 +134,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of steps to reach the fire*
@@ -172,7 +172,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What the building might have looked like before the accident
@@ -216,7 +216,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full figures in 3 consecutive 4-digit numbers*
@@ -267,7 +267,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the last player to throw the ball (circle) *
@@ -310,7 +310,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many gray tiles does the poster hide*
@@ -362,7 +362,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which fruit does Bianca eat*
@@ -433,7 +433,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be entered in E with three sums equal to 11*
@@ -514,7 +514,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times and tail output (box game) *
@@ -566,7 +566,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which vessel is to be filled first (discharge tubes) *
@@ -614,7 +614,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fish eaten by the other chicken (26 to one) *
@@ -667,7 +667,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the question mark paper (4 rings, sum of 10) *
@@ -720,7 +720,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to build the stump (head, tail, pieces) *
@@ -794,7 +794,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of numbers instead of question marks (box) *
@@ -849,7 +849,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of square tile known rectangle dimensions*
@@ -908,7 +908,7 @@ What the building might have looked like before the accident
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Which tower Ada sees after removing disks
@@ -969,7 +969,7 @@ Which tower Ada sees after removing disks
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the three missing digits (sum of three digits = 782) *
@@ -1017,7 +1017,7 @@ Which tower Ada sees after removing disks
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of the cylinder (weighted in pairs) *
@@ -1080,7 +1080,7 @@ Which tower Ada sees after removing disks
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the expression with figures *
@@ -1136,7 +1136,7 @@ Which tower Ada sees after removing disks
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways two frogs jump by keeping two per row/column*
@@ -1189,7 +1189,7 @@ Which tower Ada sees after removing disks
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cells in the 9-cell hive contain honey*
@@ -1251,7 +1251,7 @@ Which tower Ada sees after removing disks
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What set of candy was taken by a girl?
@@ -1315,7 +1315,7 @@ What set of candy was taken by a girl?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of white blocks to make the cube*

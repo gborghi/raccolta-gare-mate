@@ -27,7 +27,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa degli elementi del set B derivati dal set A*
@@ -56,7 +56,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione di aree triangolari per punti paraboli con condizione di prodotto dotto*
@@ -85,7 +85,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un'identità trigonometrica data nel triangolo*
@@ -112,7 +112,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radio di sfera di piramide triangolare regolare *
@@ -140,7 +140,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimo di ab per funzioni lineari con valori limitati su [0,1]*
@@ -169,7 +169,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità di almeno due numeri adiacenti tra cinque scelti da 1 a 20*
@@ -198,7 +198,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Range di x che soddisfa l'equazione con radici quadrate incastonate*
@@ -227,7 +227,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le sequenze a nove termini con rapporti consecutivi prescritti e prodotto unitario*
@@ -256,7 +256,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove il limite inferiore esponenziale per la sequenza positiva con condizione di crescita parziale della somma*
@@ -285,7 +285,7 @@ level: China Mathematical Competition
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione tra il segmento QR e l'asse semi minore b per la configurazione dell'ellisse*

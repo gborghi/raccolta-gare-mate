@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con circoncircolo, angolo di ricerca BAC*
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova a^2013 + b^2013 + c^2013 date le condizioni radicali polinomiche*
@@ -83,7 +83,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri primi p,q in modo che p divida q^2-4 e q divida p^2-1*
@@ -111,7 +111,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 10 triples di numeri interi con voci limitate e condizione somma di prodotti*
@@ -138,7 +138,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angolo A=90 e punto D,E su BC; prova angolo DAE=45*
@@ -165,7 +165,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove n divisibile per 6 dato che entrambe le quadratiche hanno radici interi*

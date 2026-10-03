@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1997, Problema 1*
 
 > Sia d un intero positivo diverso da 2, 5 e 13. Si dimostri che si possono trovare
 > a, b distinti nell'insieme {2, 5, 13, d} tali che ab −1 non sia un quadrato perfetto.
-
-
 
 [[Quesiti/src_imo_compilation#q01|src_imo_compilation__Q01]]
 
@@ -62,6 +61,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1997, Problema 2*
 
 > Nel piano sono dati un triangolo A1A2A3 e un punto P0. Poniamo As = As−3
@@ -69,8 +69,6 @@ level: IMO
 > l'immagine di Pk nella rotazione di centro Ak+1 e angolo di 120° in senso orario
 > (per k = 0, 1, 2, . . . ). Si dimostri che se P1986 = P0, allora il triangolo A1A2A3 è
 > equilatero.
-
-
 
 [[Quesiti/src_imo_compilation#q02|src_imo_compilation__Q02]]
 
@@ -105,6 +103,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1997, problema 3*
 
 > A ogni vertice di un pentagono regolare è assegnato un intero in modo che
@@ -119,8 +118,6 @@ level: IMO
 > Varsavia, Polonia
 > Giorno II
 > 10 luglio 1986
-
-
 
 [[Quesiti/src_imo_compilation#q03|src_imo_compilation__Q03]]
 
@@ -148,11 +145,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1997, problema 4*
 
 > Siano A, B vertici consecutivi di un n-agono regolare (n ≥ 5) nel piano, con centro in O. Un triangolo XYZ, congruente a OAB e inizialmente sovrapposto ad esso, si muove nel piano in modo tale che Y e Z descrivano l’intera frontiera del poligono, mentre X rimane all’interno del poligono. Si determini il luogo descritto da X.
-
-
 
 [[Quesiti/src_imo_compilation#q04|src_imo_compilation__Q04]]
 
@@ -181,6 +177,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1997, problema 5*
 
 > Determinare tutte le funzioni f, definite sui numeri reali non negativi e a valori reali non negativi, tali che:
@@ -190,8 +187,6 @@ level: IMO
 > f(2) = 0,
 > (iii)
 > f(x) ̸= 0 per 0 ≤x < 2.
-
-
 
 [[Quesiti/src_imo_compilation#q05|src_imo_compilation__Q05]]
 
@@ -223,6 +218,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1997, problema 6*
 
 > Si consideri un insieme finito di punti nel piano, ciascuno dei quali ha coordinate intere. Si dimostri che è sempre possibile colorare alcuni punti dell'insieme di rosso e gli altri di bianco in modo tale che, per ogni retta L parallela a uno degli assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e quello di punti rossi appartenenti a L sia al più 1.
@@ -231,8 +227,6 @@ level: IMO
 > Havana, Cuba
 > Giorno 1
 > 10 luglio 1987
-
-
 
 [[Quesiti/src_imo_compilation#q06|src_imo_compilation__Q06]]
 
@@ -259,6 +253,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *IMO 1962, problema 7*
 
 > Il tetraedro $SABC$ ha la seguente proprietà: esistono cinque sfere, ciascuna delle quali è tangente ai lati $SA$, $SB$, $SC$, $BC$, $CA$, $AB$, oppure alle loro prolungazioni.
@@ -266,7 +261,5 @@ level: IMO
 > (a) Si dimostri che il tetraedro $SABC$ è regolare.
 > 
 > (b) Si dimostri viceversa che per ogni tetraedro regolare esistono cinque tali sfere.
-
-
 
 [[Quesiti/src_imo_compilation#q07|src_imo_compilation__Q07]]

@@ -27,7 +27,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limita della media di n(k) su R^{1/2} in quanto R tende all'infinito*
@@ -54,7 +54,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistono infiniti interi positivi non di Fibonacci*
@@ -83,7 +83,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare matrici 5x5 su F_{13} soddisfacente A^5 = I*
@@ -114,7 +114,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove/disprove ogni vera matrice 2x2 e 3x3 è la somma di due quadrati*
@@ -145,7 +145,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppie amichevoli
@@ -176,7 +176,7 @@ Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le soluzioni reali di f iterato per f(x)=2x^2+x-1*

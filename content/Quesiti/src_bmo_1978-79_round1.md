@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i triangoli ABC con AB+AC=2 e altitudine AD=sqrt(AB·AC) *
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre raggi da O nello spazio 3; trovare punti con triangoli di perimetro uguale e esprimere OX*
@@ -90,7 +90,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenti integri positivi dispari con differenze paritarie distinte; dimostrare la somma del limite inferiore*
@@ -122,7 +122,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione a valore razionale che soddisfa f(x+f(y))=f(f(x))+f(y); prova che f è costante*
@@ -154,7 +154,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione di partizione p(n); prova p(n+1)-2p(n)+p(n-1)>=0 per n>1*
@@ -187,7 +187,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza infinita 1001,100010001,...; dimostrare che non esiste una prima che divida tutti i termini*

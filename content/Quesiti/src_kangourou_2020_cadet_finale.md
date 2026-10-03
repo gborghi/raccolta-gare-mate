@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the region bounded by four equal arcs*
@@ -59,7 +59,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance between two points touching the y axis *
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of n with 7n of 2021 digits*
@@ -123,7 +123,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statements on special grid position number 6x6*
@@ -171,7 +171,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pious convex polygons containing p or not containing p*
@@ -214,7 +214,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many whole pairs (x,y) are ordered with x^2+7y=xy*

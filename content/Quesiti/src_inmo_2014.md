@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, D su BC con AB·BD=AC·CD; quattro punti sul cerchio implicano AB=AC*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma del pavimento(n/k) più pavimento(sqrt(n)) è sempre pari*
@@ -82,7 +82,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A,b naturali con ab>2: quotiente gcd/lcm al massimo (a+b)/4; trovare casi di uguaglianza*
@@ -109,7 +109,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
@@ -136,7 +136,7 @@ Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto ABC, D su BC; il circoncentro di ABC e l'ortocentro di O1O2D sono paralleli a BC*
@@ -163,7 +163,7 @@ Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le collezioni F dei sottogruppi 2^{n-1} di {1,...,n} chiusi sotto il limite di differenza simmetrica*

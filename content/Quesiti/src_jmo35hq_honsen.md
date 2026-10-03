@@ -29,7 +29,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum della somma ciclica delle differenze quadrate sotto vincoli di distanza*
@@ -56,7 +56,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcenti di sotto-triangoli con circoncentro; prova di collinearietà*
@@ -87,7 +87,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum n tripli coprono tutti i tripli consecutivi in qualsiasi sequenza da 1 a 100*
@@ -122,7 +122,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni a valore intero con f(n)>0 e f(n) divisi n^{f(n)}-1*
@@ -158,7 +158,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti interni tramite bisettori angolari; i riflessi producono triangoli simili*

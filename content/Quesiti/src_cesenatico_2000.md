@@ -28,7 +28,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Special numbers with digits 0-9 and divisibility*
@@ -56,7 +56,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tangent and grid points on square pyramid*
@@ -82,7 +82,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a list of geocaching sequences in alphabetical order.
@@ -125,7 +125,7 @@ This is a list of geocaching sequences in alphabetical order.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sparse weight of chessboard/lengths *
@@ -165,7 +165,7 @@ This is a list of geocaching sequences in alphabetical order.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quadruple inscrutable in circumference, area ratio*
@@ -194,7 +194,7 @@ This is a list of geocaching sequences in alphabetical order.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *P values 1) *

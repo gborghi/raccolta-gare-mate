@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il d_n - c_n per n ragazze e n ragazzi attorno a una tavola rotonda*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico: linea attraverso il punto medio di AB e intersezione diagonale perpendicolare al CD*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie positive (x,y) che soddisfano x^2+y^2=a^2+b^2 e x^3+y^3=a^3+b^3*
@@ -112,7 +112,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coperire un punto di piano finito impostato da quadrati aperti con rapporto punti-per-area limitato*
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi ciclica con condizione di segno: dimostrare che una differenza di somme è divisibile per 4*
@@ -168,7 +168,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma degli angoli diedrali in un tetraedro arbitrario è superiore a 2pi*

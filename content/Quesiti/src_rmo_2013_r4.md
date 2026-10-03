@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo attraverso O incrocia un altro circolo; prova di ugualezza angolare*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero a cinque cifre minore con cifre in ordine rigorosamente in aumento non divisibili per 11*
@@ -81,7 +81,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza per i numeri reali a,b,c,d,e > 1*
@@ -108,7 +108,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non-zero reale x con x^3+1/x^3 e x^5+1/x^5 razionale implica x+1/x razionale*
@@ -134,7 +134,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con ortrocentro H; circoncircoli di ACP e ABP incontrano la linea CH a R; H è centro di PQR*
@@ -161,7 +161,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regularmente i vertici di 20 goni sono di 3 colori; tre vertici dello stesso colore formano un triangolo di uguali osceli*

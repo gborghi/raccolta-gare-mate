@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the expressions with 2013 and the largest *
@@ -67,7 +67,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of the circle inscribed in the regular octagon*
@@ -106,7 +106,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of edges of a prism with 2013 faces*
@@ -141,7 +141,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the cubic root of 3^(3^3) *
@@ -181,7 +181,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many years before 2013 with four consecutive digits*
@@ -214,7 +214,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *F#2031)-F#2013) value by linear function*
@@ -256,7 +256,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many true statements on x with 2<x<3*
@@ -310,7 +310,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number captured by the fourth hero*
@@ -357,7 +357,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which view of the cube with pyramid cannot appear*
@@ -397,7 +397,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduction in volume in the solidification*
@@ -440,7 +440,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pentagons and made the ring*
@@ -486,7 +486,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer numbers n with n/3 and 3n both in three digits*
@@ -530,7 +530,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What colour of tiles cannot be obtained from the carpet*
@@ -575,7 +575,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Denial of the statement on f(x) equal to x equal*
@@ -622,7 +622,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many rectangles with side 5 can be broken into square and rectangle *
@@ -694,7 +694,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solutions of f(f(x)))=0 from the graph*
@@ -779,7 +779,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ACB angle with AN=AC and BM=BC and MCN=43*
@@ -836,7 +836,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total (x,y) pairs with x^2 y^3 = 6^12 *
@@ -885,7 +885,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cards for 3 with the same sum of digits*
@@ -935,7 +935,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the own funds of the institution.
@@ -984,7 +984,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (x,y) with x<=y and xy=5(x+y) *
@@ -1035,7 +1035,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Part of the cube containing the centre after the cuts*
@@ -1084,7 +1084,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many lines are plotted in the plan*
@@ -1131,7 +1131,7 @@ This is the total value of the own funds of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Real pairs (x,y) with x^2+y^2 = x = x = x
@@ -1177,7 +1177,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solutions of f^2013(n) = 1 with f halving*
@@ -1219,7 +1219,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles containing the centre in the 13-sided polygon*
@@ -1265,7 +1265,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of n digits with sum of 1..n of three equal digits*
@@ -1318,7 +1318,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *nature of the two individuals*
@@ -1365,7 +1365,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a100 with a_{m+n}=a_m+a_n+mn*
@@ -1421,7 +1421,7 @@ Real pairs (x,y) with x^2+y^2 = x = x = x
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of exit of five cars from the roundabout*

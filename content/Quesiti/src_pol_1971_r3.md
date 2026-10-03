@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza infinita di numeri interi distinti senza cifra 0*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo della tavola della piscina: la palla riflette i tempi finiti senza colpire il vertice*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sifre con serrature distribuite tra i membri del comitato*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri interi positivi x,y,z che soddisfano x^y + y^z = z^x, dimostrare min(x,y) >= n*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A più piccola tale che la somma di dieci numeri successivi sia almeno A*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro regolare: quattro punti di superficie con distanza reciproca >1/2*

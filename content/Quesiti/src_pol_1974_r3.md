@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel tetraedro ABCD con AB perpendicolare a CD e angolo ACB = angolo ADB, dimostrare che il piano attraversa AB e il punto medio del CD è perpendicolare a CD.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un salmone passa due cascate ogni minuto con probabilità indipendenti p e q; calcola la probabilità che non abbia superato la prima in n minuti dato che non ha superato nessuna in quel tempo.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un numero naturale r, dimostrare che il quadratico x^2 - rx - 1 non divide alcun polinomio non zero con coefficienti interi tutti di valore assoluto inferiore a r.*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per ogni n naturale e reals a_1,...,a_n, dimostrare l'esistenza di un k naturale tale che la differenza assoluta della prima somma-k e del resto sia al massimo il valore assoluto massimo.*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per naturali n, r con r+3 <= n, dimostrare che i coefficienti binomiali C(n,r), C(n,r+1), C(n,r+2), C(n,r+3) non possono essere termini successivi di una progressione aritmetica.*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diagonali in un n-gon convex dividendo in triangoli in modo che ogni vertice ha un numero pari di diagonali tracciati e non due incrociati all'interno; provare n è divisibile per 3.*

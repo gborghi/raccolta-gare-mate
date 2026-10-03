@@ -32,7 +32,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piegare un foglio rettangolare lungo la sua diagonale, quindi in modo che C incontra A; mostrare il quadrilaterale pieghevole è un rombo e trovare la sua area*
@@ -73,7 +73,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *42 bambini numerati in una linea su una griglia di piastrelle quadrate, numeri consecutivi su piastrelle adiacenti; decidere quale disegno dell'ispettore sia sbagliato e completare quello corretto*
@@ -110,7 +110,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove solo finitamente molti triangoli a lato intero hanno un'altitudine di un dato numero intero h rispetto al lato c*
@@ -139,7 +139,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove non due numeri interi a, b soddisfare (a+b)
@@ -167,7 +167,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori possibili di un'espressione simmetrica in a, b, c dati a+b+c=0*
@@ -194,7 +194,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le quattro altitudini di un quadrilaterale convex in concorso se il quadrilaterale è ciclico*

@@ -30,7 +30,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nomeri speciali: condizione della somma digitale supera, trovare il più piccolo superiore al 2024*
@@ -75,7 +75,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piani di scacchi (cavaliere e torre) su tavola 3x3, configurazioni complete*
@@ -126,7 +126,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Octogono regolare con punti medi e intersezioni, trovare lunghezze e quadrati del segmento*
@@ -171,7 +171,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza costruita sostituendo ripetutamente il più grande fattore primo; proprietà e termine iniziale*
@@ -206,7 +206,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Campionato di calcio a sei squadre, trovare il minimo massimo punteggio possibile*

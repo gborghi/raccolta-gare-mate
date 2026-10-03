@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Billeti ferroviari per 200 destinazioni, buco di piccione per arrivi ripetuti*
@@ -63,7 +63,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo circonda la tangenza con condizioni di angolo e parallelo*
@@ -98,7 +98,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi positivi con relazione armonica, GCD produce quadrati perfetti*
@@ -134,7 +134,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazioni simultanee, soluzione positiva unica, soluzione vera e propria diversa esiste*

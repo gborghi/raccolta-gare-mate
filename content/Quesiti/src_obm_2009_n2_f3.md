@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi a 4 cifre positivi che sono "abestado"*
@@ -53,7 +53,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il centro del circolo del triangolo CEF si trova sul circolo del triangolo ABD*
@@ -82,7 +82,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di scacchi-cavaliere su m×n tavola; determinare il vincitore*
@@ -112,7 +112,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che a2(b+c)=b2(c+a)=2010, calcolare c2(a+b)*
@@ -140,7 +140,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli circoscritti di AOB e COD incontrano BC e AD a M,N,P,Q; dimostrano che MNPQ è ciclico con centro O*
@@ -168,7 +168,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area minima del triangolo con tutti i lati interi e l'area interi*

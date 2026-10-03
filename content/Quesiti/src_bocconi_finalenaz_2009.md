@@ -28,7 +28,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of children in elevators with 10 adults
@@ -63,7 +63,7 @@ Maximum number of children in elevators with 10 adults
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who broke the glass between Angelo, Desiderio and Nando?
@@ -98,7 +98,7 @@ Who broke the glass between Angelo, Desiderio and Nando?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many arrows did Amerigo put in the white area?
@@ -132,7 +132,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordinate four surfaces per growing area*
@@ -168,7 +168,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the other two stamps to obtain all consecutive integers*
@@ -201,7 +201,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Setting the numbers 1 to 16 in the grid with adjacent successive numbers*
@@ -234,7 +234,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of triangles not overlapping with 7 points*
@@ -270,7 +270,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the four numbers in the last column in the circle and square scheme*
@@ -303,7 +303,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two natural numbers with the sum of 203 using all ten digits*
@@ -336,7 +336,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a small square given the large square of area 405*
@@ -369,7 +369,7 @@ How many arrows did Amerigo put in the white area?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 At what time did Carla turn off the two candles?
@@ -401,7 +401,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of three digits in decreasing order with multiple anagrams*
@@ -434,7 +434,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the bright star in the square of area 111*
@@ -467,7 +467,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the triangle ABC divided by the three parallels on the sides*
@@ -499,7 +499,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smaller than two consecutive winning tickets, a perfect square*
@@ -529,7 +529,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seven different positive numbers with sum divisible by each, minimum sum*
@@ -560,7 +560,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three numbers in arithmetic progression with A+B, B+C, C+A squares*
@@ -592,7 +592,7 @@ At what time did Carla turn off the two candles?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit number giving the longest list by summing the squares of the digits*

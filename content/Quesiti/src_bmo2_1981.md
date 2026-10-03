@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo con lati rossi è tagliato da tre linee blu in sette pezzi (quattro triangoli, tre pentagoni); dato che i quattro triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'intero triangolo.*
@@ -60,7 +60,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con un asse di un solido definito come una linea intorno alla quale il solido può essere girato da un angolo compreso tra 0 e 360 gradi per coincidere con se stesso, trovare quanti assi ha un cubo e l'angolo di rotazione minimo per ciascuno dei tre tipi.*
@@ -92,7 +92,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi per x, y, z il sistema di tre equazioni simmetriche simultanee in termini di dati a, b, c.*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rimanente quando un dato polinomio è diviso da un altro polinomio.*
@@ -152,7 +152,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una sequenza di numeri reali è definita ricorritivamente per n >= 0; dimostrare che ogni termine è un intero.*
@@ -180,7 +180,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Demonstra che per il razionale c l'equazione cubica data ha al massimo una radice razionale.*
@@ -208,7 +208,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dimostrare che i numeri interi non negativi x, y soddisfano 5x >= 7y se e solo se esistono numeri interi non negativi a, b, c, d con le due rappresentazioni di x e y date.*

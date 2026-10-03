@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ortocentro, punto medio, punto simmetrico in triangolo con angolo 30*
@@ -53,7 +53,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte copriemi con due quadratici con radici interi*
@@ -80,7 +80,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi di tre elementi di {1,...,65} con a+b+c<95*
@@ -107,7 +107,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di radii di cerchio mistilineare a cerchio incircolo = tan^2((B-C)/4) *
@@ -135,7 +135,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri reali a_k>1 che soddisfano la condizione di somma, dimostrano la disuguaglianza della somma doppia*
@@ -162,7 +162,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le prime p per le quali (2^p - 1)/p è un quadrato perfetto*

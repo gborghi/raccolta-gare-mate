@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Errored date of Kangourou Day (third Thursday of March) *
@@ -80,7 +80,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full chart of the temperature trend*
@@ -137,7 +137,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct inequality between paths P,Q,R*
@@ -204,7 +204,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of the lower right rectangle from the areas*
@@ -250,7 +250,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final score of the handball match*
@@ -315,7 +315,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the hexagon consisting of six 5 cm2 frames*
@@ -383,7 +383,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eta of Eliana given the mean age*
@@ -445,7 +445,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the rectangle ABCD with square 9 cm2*
@@ -507,7 +507,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third triangle bounded by area/isosceles/straight*
@@ -553,7 +553,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time until the last of the 10 candles is turned off*
@@ -595,7 +595,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between A and B with A-A/10 = B/10*
@@ -637,7 +637,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to climb 8 steps by skipping 6
@@ -690,7 +690,7 @@ How to climb 8 steps by skipping 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number in place of ? with equal sums on the circumferences*
@@ -740,7 +740,7 @@ Number in place of ? with equal sums on the circumferences*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer amounts <2021 with remainder 5 divided by 6,7,8,9*
@@ -786,7 +786,7 @@ Number in place of ? with equal sums on the circumferences*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the alpha angle in the semicircle*
@@ -832,7 +832,7 @@ Number in place of ? with equal sums on the circumferences*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Members of the first-placed team (boys/girls) *
@@ -899,7 +899,7 @@ Number in place of ? with equal sums on the circumferences*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum points for overtaking in the race*
@@ -955,7 +955,7 @@ Number in place of ? with equal sums on the circumferences*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What's the number? in the 3x3 grid after 2x2 moves*
@@ -1001,7 +1001,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the six angles shown in image*
@@ -1045,7 +1045,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a in the sequence with alternate sums*
@@ -1086,7 +1086,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between ascending and descending route (scale) *
@@ -1126,7 +1126,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of (a+b)(b+c)(c+a) with a+b+c=0 and abc=78*
@@ -1164,7 +1164,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of figures of N+2021 with N minimum sum of figures of 2021*
@@ -1210,7 +1210,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What information determines the color of the ball 2021*
@@ -1241,7 +1241,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-digit numbers with a product number of 1000*
@@ -1270,7 +1270,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points by Henry in the play of the written word*
@@ -1300,7 +1300,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square large given the grey triangle*
@@ -1331,7 +1331,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible value of b with a,b squared and a-b prime*
@@ -1362,7 +1362,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode to colour the 4x4 table in black with constraints*
@@ -1393,7 +1393,7 @@ What's the number? in the 3x3 grid after 2x2 moves*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum weight possible for the heaviest coin*

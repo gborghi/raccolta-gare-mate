@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non mostrare aumento di g,h dare f=g-h per una funzione con f(1/n)=(-1)^n.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un pezzo è un cubo di 2 cubi con un cubo di unità angolare rimosso; mostrare un cubo di 2^n meno un cubo di unità può essere tagliato in pezzi.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico con E,F su AB,CD e P su EF; il rapporto tra le aree di APD e BPC è indipendente da E,F.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto interno P con condizioni angolari; se O (circumcentro) differisce da P, dimostrare che l'angolo APO è corretto.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi funzioni f:S->S su S={1,2,3,4,5} con f^{50}(x)=x per tutte le x.*
@@ -163,7 +163,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri con somma di potenza ponderata scomparsa per i=1..k-1; dimostrare che la somma ponderata k è divisibile da k!.*

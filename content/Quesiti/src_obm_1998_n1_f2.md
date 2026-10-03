@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parità della somma delle pagine del libro: mostra il totale delle pagine non può essere uguale a 1998*
@@ -60,7 +60,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimuovere frazioni dalla somma in modo che la somma rimanente sia uguale a 1*
@@ -89,7 +89,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova due numeri a 3 cifre con cifre 16 riducendo al minimo la loro differenza*
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Casa attorno a un quadrato: trovare le posizioni di João e Pedro*
@@ -147,7 +147,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco con 20 palle sul tavolo: quale giocatore vince?
@@ -180,7 +180,7 @@ Gioco con 20 palle sul tavolo: quale giocatore vince?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Cubo di legno di 10 cm dipinto, tagliato in cubetti di 1 cm3: contato per le facce dipinte

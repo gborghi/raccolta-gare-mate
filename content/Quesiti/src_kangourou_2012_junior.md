@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What shape has the largest area*
@@ -63,7 +63,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculation of 11.111-1.1111*
@@ -98,7 +98,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes for the launch to go from NE to NW*
@@ -140,7 +140,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the quadrilateral from the median points of the triangle*
@@ -175,7 +175,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which expression varies by replacing 8*
@@ -233,7 +233,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from point E to straight line g*
@@ -318,7 +318,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the quadrilateral given by the medians*
@@ -379,7 +379,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the KLM triangle of the midpoints*
@@ -413,7 +413,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the quadrilateral divided into isosceles triangles*
@@ -449,7 +449,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n which is 11 for 144 and 220 *
@@ -502,7 +502,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which calculation with 8 does not work by changing the number *
@@ -539,7 +539,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order of arrival in the race*
@@ -575,7 +575,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many centimetres and height of the table*
@@ -612,7 +612,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many times did you cross it?
@@ -648,7 +648,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between the centers of the two grey circles*
@@ -690,7 +690,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the exact time between the four clocks*
@@ -753,7 +753,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Semi-circ-conference radius inscribed in the triangle*
@@ -816,7 +816,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the free cell of the first row*
@@ -854,7 +854,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the shaded parallelogram*
@@ -891,7 +891,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last digit other than 0 of the number 2^59 3^4 5^53*
@@ -925,7 +925,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of k if 2012 = m^m (m^k - k) *
@@ -962,7 +962,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of rings to be opened for the necklace*
@@ -1033,7 +1033,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the pentagon ABNMD after the bend*
@@ -1072,7 +1072,7 @@ How many times did you cross it?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What is said about the lengths of the two trains?
@@ -1113,7 +1113,7 @@ What is said about the lengths of the two trains?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to get home in 13 jumps*
@@ -1146,7 +1146,7 @@ What is said about the lengths of the two trains?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What to conclude on a and b from conditions*
@@ -1179,7 +1179,7 @@ What is said about the lengths of the two trains?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Littleest value of a maximum of six integers*
@@ -1215,7 +1215,7 @@ What is said about the lengths of the two trains?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the numerical products of all 3-digit numbers*
@@ -1249,7 +1249,7 @@ What is said about the lengths of the two trains?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of unit fractions for 28/33*
@@ -1297,7 +1297,7 @@ What is said about the lengths of the two trains?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the path of the vertex of the rotating triangle*

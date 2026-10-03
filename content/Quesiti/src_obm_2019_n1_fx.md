@@ -32,7 +32,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i numeri interi O, B, M come esponenti che sommano a 24*
@@ -75,7 +75,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per posizionare le piastrelle colorate su una griglia 2×5*
@@ -126,7 +126,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grande griglia piena di spirale; trovare l'ultimo numero di distanze del terzo strato e del triangolo*
@@ -175,7 +175,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserire le cifre 010 in un disegno a forma incrociata che soddisfi le condizioni di somma*
@@ -220,7 +220,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i punti della griglia all'interno di rettangoli e quadrati allineati all'asse su una griglia infinita*

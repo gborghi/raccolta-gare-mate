@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza di rampa: prove p^n espressibile come somma di una rampa
@@ -54,7 +54,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli reali che soddisfano due equazioni simmetriche*
@@ -85,7 +85,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimassaggio 11×11 grid tagliato in pezzi a forma di L, quadrato unico nella riga 3 col 3*
@@ -118,7 +118,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con tangenze di cerchio di punto medio: dimostrare MA·MD = MB·MC*
@@ -156,7 +156,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi con regole di parità: contiene tutti i numeri interi positivi?*
@@ -195,7 +195,7 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rana su 1000 lampadine in cerchio: trovare n per cui rimane una rana*

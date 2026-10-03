@@ -27,7 +27,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Copi necessari per completare il riempimento di un vaso da 1/4 pieno a 1/3 pieno*
@@ -58,7 +58,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri sostituiti da quadrati in una moltiplicazione*
@@ -89,7 +89,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Modi per visualizzare un cubo con tre facce dipinte dai lati visibili*
@@ -120,7 +120,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ultima cifra quando Esmeralda scrive numeri interi positivi in sequenza e si ferma al 149162536 ° numero*
@@ -149,7 +149,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di palle in una scatola data la condizione di divisibilità sui picchi di Mariazinha*
@@ -178,7 +178,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Candidati massimi che hanno ottenuto il punteggio più alto in un concorso di 10 domande con regole di punteggio indicate*
@@ -214,7 +214,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di quadrato grigio nelle figure 4 e 5 in una sequenza di cinque quadrati di 27 cm*
@@ -249,7 +249,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Faci di carta: somma di cifre sul retro; trovare carte dove una faccia è doppia dell'altra*
@@ -282,7 +282,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trascrizioni minime per fondersi i quadrati in uno; tagli per conservare la superficie di 3x3 e 4x4 in 5x5*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che la somma del rapporto è costante per il punto nel triangolo*
@@ -60,7 +60,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La radice dell'equazione reale si trova in un intervallo dato*
@@ -91,7 +91,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La forma quadrata ha solo una soluzione di numeri interi triviali; il cubo ha infiniti*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non ci sono numeri interi positivi p,q con ➡️
@@ -154,7 +154,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figura di otto curve con due proprietà esagoniche*

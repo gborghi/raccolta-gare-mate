@@ -25,7 +25,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele*
@@ -52,7 +52,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadratico f con f(t)=f(f(f(t)))=0, mostrare f(0) *f(1)=0*
@@ -80,7 +80,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dodici candidati che ciascuno annuncia un numero cumulato di menzogne, determinano il totale di menzogne*
@@ -106,7 +106,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le f da R * a R * con x f(x/2) - f(2/x) = 1*
@@ -133,7 +133,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto, punto medio, perpendicolari; triangoli AEM e MCA simili se angolo ABC=60*
@@ -160,7 +160,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi e ragazze che si incrociano
@@ -187,7 +187,7 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i tripli interi positivi (p,n,m) con p primo e p^n+144=m^2*
@@ -217,7 +217,7 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *x,y,z in [0,1] con (1-x)(1-y)(1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4*

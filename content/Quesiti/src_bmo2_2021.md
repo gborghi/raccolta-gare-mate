@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che ogni intero positivo ha un buon multiplo*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tiling quadrato di lato n con a×a e b×b piastrelle*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *AI e KD si incontrano su un circoncircolo attraverso un punto di angolo rettangolo K*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi nuovi più piccoli; sequenza spostata copre tutti gli enti interi una volta*

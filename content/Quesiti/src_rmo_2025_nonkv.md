@@ -32,7 +32,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le configurazioni di n linee con punti di intersezione prescritti*
@@ -67,7 +67,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore dell'espressione data a tre valori reali non zero che soddisfano un sistema*
@@ -94,7 +94,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi, linea trasversale, conciclicità e lunghezze uguali*
@@ -122,7 +122,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non ci sono soluzioni a numeri interi positivi per un'equazione diofantina in quattro variabili*
@@ -149,7 +149,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, circoncircolo, punto medio; dimostrare che il MH è uguale al circondario *
@@ -178,7 +178,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti interi; divisibilità per n di p(b)-p(a) *

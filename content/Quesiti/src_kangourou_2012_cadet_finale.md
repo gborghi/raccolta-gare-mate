@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many brown balls in Elena's 20*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final product figure of the odd between 1 and 2012*
@@ -83,7 +83,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many spheres for three non-aligned points and minimum radius*
@@ -114,7 +114,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *You can get sum 2012 on the exposed faces of the dice*
@@ -144,7 +144,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of buttons to know which floor is located*
@@ -175,7 +175,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Each polyhedron has two faces with the same number of beads*

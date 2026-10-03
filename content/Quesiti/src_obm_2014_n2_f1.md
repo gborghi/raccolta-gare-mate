@@ -29,7 +29,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale differenza di due numeri primi consecutivi è impossibile?
@@ -66,7 +66,7 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carnival cards 12014 dipinte in giallo/verde/nero in ciclo; pretese di parità*
@@ -103,7 +103,7 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre lavoratori dipingono le pareti a velocità diverse; ritrovare il tempo totale*
@@ -137,7 +137,7 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale parola ha più lettere del numero che chiama?
@@ -174,7 +174,7 @@ Quale parola ha più lettere del numero che chiama?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro fogli quadrati di 20 cm pieghiati in sequenza; area della figura 4*
@@ -209,7 +209,7 @@ Quale parola ha più lettere del numero che chiama?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova quale numero ha esattamente i divisori positivi del 2014*
@@ -249,7 +249,7 @@ Quale parola ha più lettere del numero che chiama?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro messaggi sulle porte di grotta sicure/insicure; dedurre quale porta è sicura*
@@ -286,7 +286,7 @@ Quale parola ha più lettere del numero che chiama?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esattamente i divisori 2014
@@ -319,7 +319,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Presi il pulsante minimo sulla calcolatrice per visualizzare 100*
@@ -354,7 +354,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il costo minimo per visitare tutte e cinque le città data tabella dei prezzi*
@@ -390,7 +390,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso in tre segmenti; trovare superficie totale data area di regione bianca*
@@ -426,7 +426,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare la visione posteriore di un blocco di cubi bianchi e neri 2x2x3*
@@ -461,7 +461,7 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale data è il 3 giugno 2014 nel calendario giuliano?
@@ -494,7 +494,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a 5 cifre xy26c divisibile per 8, 9, 11; trovare x*
@@ -529,7 +529,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i pezzi validi in triomino semplificato con vertici 05*
@@ -570,7 +570,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il percorso più breve da A a D scegliendo percorsi d'arco circolare con angoli dati*
@@ -610,7 +610,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova angolo x con triangoli e accordi paralleli su un cerchio*
@@ -645,7 +645,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radici di due quadratici correlati; trovare valore di a*
@@ -678,7 +678,7 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale dei cinque numeri è il più grande?
@@ -711,7 +711,7 @@ Quale dei cinque numeri è il più grande?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto sul bisettore angolare; data superficie di un triangolo, trova area di un altro*
@@ -744,7 +744,7 @@ Quale dei cinque numeri è il più grande?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'abcd quadrato lato 1; triangoli esterni su ciascun lato; superficie di quadrilaterali esterni*
@@ -777,7 +777,7 @@ Quale dei cinque numeri è il più grande?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie ordinate (a,b) di integri positivi con l'intero 2014/(a+b) *
@@ -810,7 +810,7 @@ Quale dei cinque numeri è il più grande?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che sqrt(x-y) =a e sqrt(x) +sqrt(y) =b, trovare sqrt(xy) *
@@ -845,7 +845,7 @@ Quale dei cinque numeri è il più grande?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per riempire 2×2014 Tavola Bitonho con 0s e 1s*
@@ -880,7 +880,7 @@ Quale dei cinque numeri è il più grande?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più grande differenza tra numeri consecutivi a 4 cifre distinte nell'elenco ordinato*

@@ -34,7 +34,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *residues mod 25 and 15, divisible by 25cl*
@@ -67,7 +67,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The remaining k of the sum 1!+...+2011! This item is intended to provide information on:
@@ -103,7 +103,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * missing copper parts *
@@ -138,7 +138,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ten-digit lines with five blocks of two prime numbers*
@@ -176,7 +176,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular diagonal with cyclic ABPD*
@@ -210,7 +210,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *value first day*
@@ -244,7 +244,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eta n<300 with non-divisive digits and property *
@@ -277,7 +277,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum of 7 dice > 24*
@@ -313,7 +313,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turned distance from D (cart and decuman) *
@@ -346,7 +346,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to pay 2011 bullion with bronze and copper*
@@ -382,7 +382,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2 prime and 1 perfect square*
@@ -421,7 +421,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of wholly yellow fish*
@@ -456,7 +456,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *multiply by 3,4,5 on different bases*
@@ -489,7 +489,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MCD probability = 1 of two divisors of 12!*
@@ -524,7 +524,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum time broken to two orthogonal lines*
@@ -560,7 +560,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between Cleopatra and snake in trapezoid inscribed*
@@ -596,7 +596,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three athletes side by side for the first time*
@@ -630,7 +630,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square-base pyramid cubes (portal) *
@@ -668,7 +668,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of not detecting saboteurs (interrogators) *
@@ -709,7 +709,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 It's likely to return to office 73 (shift)
@@ -750,7 +750,7 @@ It's likely to return to office 73 (shift)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last two whole-digit digits of x^2011*
@@ -792,7 +792,7 @@ It's likely to return to office 73 (shift)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of spies among workers (cyclical claims) *
@@ -827,7 +827,7 @@ It's likely to return to office 73 (shift)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wall perimeter around pyramids (geodetic) *
@@ -867,7 +867,7 @@ It's likely to return to office 73 (shift)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of p(1000) per product (1+x^2i) *

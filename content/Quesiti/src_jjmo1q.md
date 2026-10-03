@@ -26,7 +26,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un'espressione aritmetica decimale*
@@ -53,7 +53,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un sistema simmetrico di tre equazioni lineari in x, y, z*
@@ -84,7 +84,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rileva il rapporto DS/SR utilizzando due ceviani in un parallelo*
@@ -115,7 +115,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le camminate chiuse sul tetraedro regolare che ritornano all'inizio dopo aver visitato tutti i vertici*
@@ -144,7 +144,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi da 1 a 2003 con un numero pari di divisori positivi*
@@ -171,7 +171,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del triangolo DBC dato punto e distanze correlate all'incircolo sul ceviano*
@@ -198,7 +198,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le lunghezze laterali possibili di un poligono convexo quando un lato è 18*
@@ -225,7 +225,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area di un quadrilaterale con i lati dati e l'angolo di intersezione diagonale 45°*
@@ -253,7 +253,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 4 tupli di integri positivi che soddisfano due equazioni simmetriche*
@@ -286,7 +286,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il volume del pezzo contenente il vertice A quando il cubo unitario è tagliato per tre piani medi attraverso il centro*
@@ -329,7 +329,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fill-in-the-blank: operazioni su coppie di numeri interi, prodotti raggiungibili e valori estremi*
@@ -370,7 +370,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trascorsi massimi in un torneo di scacchi a rotonda con 15 giocatori con tutti i record distinti*

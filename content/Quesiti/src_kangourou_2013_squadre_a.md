@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of workers before increasing working hours*
@@ -65,7 +65,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late LM rectangle with equal angles of similarity*
@@ -103,7 +103,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum value by entering parentheses in the sign sequence*
@@ -140,7 +140,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of water in two-cubic clessid *
@@ -173,7 +173,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the base of the pyramid cutting plane*
@@ -207,7 +207,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of moves to remove all the pins*
@@ -239,7 +239,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers on the sides of the cube, vertices=1001*
@@ -271,7 +271,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of 8x8 chess numbers with boundary differences*
@@ -301,7 +301,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with A+B other than C*
@@ -340,7 +340,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of trees on the perimeter of the square park*
@@ -378,7 +378,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First four digits of the largest number by deleting 20 digits*
@@ -413,7 +413,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure the angle of BAD in the isosceles triangle section*
@@ -451,7 +451,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Disposition of digits 1-9 in disks with minimum sum*
@@ -485,7 +485,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at 126th place in the sequence of single digits *
@@ -523,7 +523,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number less the cube sum of the digits*

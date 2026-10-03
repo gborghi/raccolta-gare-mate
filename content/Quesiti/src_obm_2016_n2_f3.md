@@ -32,7 +32,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Score di campionato di calcio con vincite, pareggio e sconfitte
@@ -73,7 +73,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di quadrati, ogni nuovo quadrato costruito sulla diagonale del precedente più grande *
@@ -122,7 +122,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Spartizione dei numeri interi da 1 a 99 in gruppi in modo che non ci siano due in una somma di gruppo a un multiple di 3*
@@ -167,7 +167,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri a quattro cifre, numeri distinti che sommano a 12, due pari e due unici*
@@ -214,7 +214,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco a due giocatori di coprime-halving numero; determinare il vincitore per un dato N*

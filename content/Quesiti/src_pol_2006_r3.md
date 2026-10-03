@@ -31,7 +31,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati a somme di due cubi.
@@ -58,7 +58,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi k per i quali 3^k + 5^k è una potenza perfetta con esponente superiore a 1.*
@@ -85,7 +85,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un esagono converso con tre coppie di diagonali uguali, dimostrare che le linee che uniscono i punti di mezzo di lati opposti sono in concorenza.*
@@ -112,7 +112,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato un'operazione che sostituisce due numeri con la loro somma e il loro prodotto, decidere se da (3,4,5) si può raggiungere i lati di un triangolo rettangolo.*
@@ -139,7 +139,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La sfera incentrata di un tetraedro tocca due facce nei loro centriodi; dimostra che il tetraedro è regolare.*
@@ -168,7 +168,7 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le coppie di numeri interi (a,b) per le quali (x^2+ax+b) P(x) può essere un polinomio monico i cui altri coefficienti sono tutti 1 o -1.*

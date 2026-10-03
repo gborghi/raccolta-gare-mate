@@ -28,7 +28,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplici interi positivi con x+xy+xyz=31, x<y<z*
@@ -57,7 +57,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a 3 cifre, tutte prime, il cui quadrato è anche tale*
@@ -86,7 +86,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riempire la griglia 3x3 con 1-9, in modo che le voci adiacenti ai bordi differiscano per un massimo di 3*
@@ -117,7 +117,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono regolare, linea attraverso intersezione diagonale; trovare AG*
@@ -148,7 +148,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo intero positivo con i rimanenti 32,33,34 mod 97,100,103*
@@ -177,7 +177,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vertici massimi segnalati di 120 goni regolari evitando l'isosceles di 18 gradi di punta tripla*
@@ -212,7 +212,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadratici con P(1)=P(2)=Q(3)=0 e P^2+Q^2=R^2; trovare R*
@@ -241,7 +241,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo AB>AC, punti a 1:8 sui lati, incentro forma unità equilaterale; trovare AB*
@@ -276,7 +276,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore griglia 4x4 in 4 colori; ogni riga e colonna soddisfa uno dei 3 modelli*
@@ -305,7 +305,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Configurazione di due cerchi su un triangolo; trovare FG/BC*
@@ -334,7 +334,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vari distinti di f(k)=#{m: km mod 2019^3 > m}, k fino a 2019^3*
@@ -365,7 +365,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conte le mappe F su sottoinsiemi di {1..6} con F(F(A)∪B)=A∩F(B)*

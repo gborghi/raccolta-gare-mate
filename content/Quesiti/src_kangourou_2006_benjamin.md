@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be entered in 3x2005=2004+2006+...*
@@ -64,7 +64,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Biggest number of 10 digits by attaching sheets*
@@ -103,7 +103,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many houses along the avenue with civic numbers
@@ -141,7 +141,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost of a ball from price combinations*
@@ -191,7 +191,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The goal of a penny*
@@ -224,7 +224,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure with a 150 degree angle of incision*
@@ -257,7 +257,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of the difference with digits to be entered*
@@ -289,7 +289,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Writing methods 2006 by following arrows*
@@ -346,7 +346,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure obtained by folding the regular hexagon*
@@ -417,7 +417,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White part paint after removal of cubes*
@@ -462,7 +462,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the star with circles and square*
@@ -494,7 +494,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different sum of first 1000 even and odd*
@@ -532,7 +532,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Run the track so that the dice return to the starting position*
@@ -572,7 +572,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of the square at the bottom right*
@@ -635,7 +635,7 @@ How many houses along the avenue with civic numbers
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time for two trains to come back 140 km away
@@ -672,7 +672,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the alternate operation sequence*
@@ -708,7 +708,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to colour cube 3 faces blue 3 red*
@@ -746,7 +746,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter region highlighted in the circle*
@@ -786,7 +786,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of cuts per whole whole whole pieces all different*
@@ -840,7 +840,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order of the five points on the segment OE*
@@ -885,7 +885,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of each triangle from parallelogram and rhombus*
@@ -928,7 +928,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A-B routes on the six bridges once (Euler) *
@@ -964,7 +964,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turn in which one number equidistant from the other two *
@@ -1022,7 +1022,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gray fraction of the three-blade flag*
@@ -1064,7 +1064,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Stickers to be added to the 31st grid*
@@ -1121,7 +1121,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum points to be removed to avoid equilateral triangles*
@@ -1176,7 +1176,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal distribution of coins between Aldo and Bruno*
@@ -1222,7 +1222,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pair of M and T with M(A-T+A) odd*
@@ -1260,7 +1260,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Letter in place of the question mark on the cube*
@@ -1305,7 +1305,7 @@ Time for two trains to come back 140 km away
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers highlighted exactly twice between 1 and 2006*

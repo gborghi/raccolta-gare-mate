@@ -28,7 +28,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *find the missing two sides*
@@ -60,7 +60,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many teams participate*
@@ -99,7 +99,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *positive whole solutions*
@@ -145,7 +145,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of five digits and final zeros of the mcm*
@@ -181,7 +181,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to show AT=SB*
@@ -215,7 +215,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * settings to turn them all on*

@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of volumes of two spheres of the same size *
@@ -63,7 +63,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of bars to restore containers*
@@ -118,7 +118,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of distinct plane developments of a cube*
@@ -172,7 +172,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the mxn grid with constant column sums*
@@ -208,7 +208,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * sum of a_i/b_i >= n*
@@ -238,7 +238,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exists multiple of 2021 in binary with 2021 zeros and 2021 ones*

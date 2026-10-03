@@ -28,7 +28,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values a0 with roots/+3 periodic succession*
@@ -56,7 +56,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Functional equation f(f(x) f(y))+f(x+y)=f(xy) *
@@ -91,7 +91,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hunter and rabbit invisible in the plane*
@@ -126,7 +126,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *KT tangent to the Gamma (points on a circle) *
@@ -163,7 +163,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remove players by leaving 2N with height conditions*
@@ -201,7 +201,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Homogeneous polynomial =1 on primitive points*

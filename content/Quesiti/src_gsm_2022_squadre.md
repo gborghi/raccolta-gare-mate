@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to the implementation of the programme.
@@ -60,7 +60,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum odd sequence sum with maximal rule*
@@ -92,7 +92,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report areas of two semicirculars in a square*
@@ -387,7 +387,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years of birth with age equal to sum of years *
@@ -423,7 +423,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quadrilateral area between two concentric and tangent circumferences*
@@ -454,7 +454,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum a with a number doubled to k times a^2*
@@ -484,7 +484,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Conditioned likelihood of unvaccinated patient*
@@ -515,7 +515,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of registered campers twins/trigemini/quadrigemini
@@ -543,7 +543,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the maximal odd divisors from 94 to 188*
@@ -572,7 +572,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of r^5+5rs+s^5 data r+s and r^4+s^4*
@@ -607,7 +607,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of the second player winning with dice and coin*
@@ -641,7 +641,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of sequences with product divisible by 2022*
@@ -669,7 +669,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different volumes of two pyramids in a cylinder*
@@ -698,7 +698,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of writing 2022 as sum with difference at most 1*
@@ -729,7 +729,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum trajectory of an ant on a parallel piped*
@@ -763,7 +763,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of 1/(32a^5) +a^5 given 1/(4a^2) +a^2*
@@ -794,7 +794,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square on AK in a building in the square*
@@ -825,7 +825,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most difference in money around a round table*
@@ -862,7 +862,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of primitive Pythagorean terns with perfect square area*
@@ -899,7 +899,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Enhance the angle PND given DKH in a square*
@@ -934,7 +934,7 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (m,n) with perfect square number of injections*

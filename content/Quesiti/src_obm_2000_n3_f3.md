@@ -34,7 +34,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo triangolare alfa con piegatura di carta in tre fasi*
@@ -73,7 +73,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove sigma(n)=2n-1 se n è un numero quasi perfetto*
@@ -105,7 +105,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova la n più piccola tale che f(1)+...+f(n) >= 123456*
@@ -138,7 +138,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le velocità v in modo che una macchina non si ferma mai a nessun semaforo*
@@ -169,7 +169,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le funzioni di conservazione della distanza su uno spazio di sequenza*
@@ -200,7 +200,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quanti pezzi un cubo si divide in 28 piani perpendicolari?

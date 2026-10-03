@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo intero positivo che è doppio di un cubo e quintuplico di un quadrato*
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso in 9 quadrati; trovare lato di quadrato I dato lato di A è 1*
@@ -86,7 +86,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezoide ABCD con ABCD; trovare angolo DAB data condizione somma angolo*
@@ -119,7 +119,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garantire la finale
@@ -152,7 +152,7 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare l'espressione somma radicale incastonata ed esprimere come p/q razionale*
@@ -183,7 +183,7 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Procedura di eliminazione del cerchio su n studenti; trovare la posizione degli studenti scelti*

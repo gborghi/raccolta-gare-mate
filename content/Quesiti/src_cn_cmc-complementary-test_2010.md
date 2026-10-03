@@ -28,7 +28,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcenter, punto su BC, conclusione conciclica per perpendicolare*
@@ -59,7 +59,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La funzione iterata su semi-integer alla fine produce un intero*
@@ -88,7 +88,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza per le medie di realtà positive limitate*
@@ -115,7 +115,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare set di codici validi per il blocco di cipro su n-gon regolare*

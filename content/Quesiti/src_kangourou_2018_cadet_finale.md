@@ -29,7 +29,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *B rounds so that the three tiles are back in line*
@@ -59,7 +59,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum cassette that Eugenio holds with 7 vans
@@ -88,7 +88,7 @@ Maximum cassette that Eugenio holds with 7 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Auto in the six smallest groups by sum of digits*
@@ -117,7 +117,7 @@ Maximum cassette that Eugenio holds with 7 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal distribution of the €8 with the points problem*
@@ -145,7 +145,7 @@ Maximum cassette that Eugenio holds with 7 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cards are thrown given the probability of the 4 axes*
@@ -203,7 +203,7 @@ Maximum cassette that Eugenio holds with 7 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area B as a function of A in the regular pentagon*

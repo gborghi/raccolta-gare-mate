@@ -28,7 +28,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggiamento delle rappresentazioni di numeri interi come somma dei quadrati di naturali*
@@ -61,7 +61,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali convexi con perpendicolari; punti conciclici e cerchio tangente*
@@ -92,7 +92,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo suddiviso da ceviani da n divisioni uguali; regioni di conteggio*
@@ -127,7 +127,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare le foglie nel processo di riforma stradale su un albero di n città*
@@ -169,7 +169,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Formula di somma alternata dei divisori; trovare n con somma alternata data*
@@ -200,7 +200,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo di scalene con bisettori interni; angolo di calcolo BCA*

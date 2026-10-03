@@ -31,7 +31,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza integrale con ricorrenza; trovare zero e termine generale*
@@ -64,7 +64,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximi pezzi di tetraedri regolari dipinti senza due identici*
@@ -99,7 +99,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricercare naturali distinti che soddisfino due identità di somma reciproca*
@@ -130,7 +130,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima del triangolo inserito in quadrato; il volume massimo del tetraedro in cubo*
@@ -170,7 +170,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con incircolo: superficie, perimetro, angolo; esistenza e approssimazione*

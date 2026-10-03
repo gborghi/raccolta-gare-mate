@@ -36,7 +36,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of non-promoted in relation to class*
@@ -77,7 +77,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a product in scientific notation*
@@ -123,7 +123,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a rectangular fruit tree with 35 trees*
@@ -166,7 +166,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number whose tenth part is ten times its square*
@@ -208,7 +208,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Late of Ida given the perpendicular tips*
@@ -250,7 +250,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a pentagon with three right angles*
@@ -292,7 +292,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units from 1999 to 1999*
@@ -333,7 +333,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Denial of a statement with nested quantifiers*
@@ -375,7 +375,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of the second extract being 28 given 27*
@@ -417,7 +417,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extension of a garden around a square villa*
@@ -461,7 +461,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For how many minutes hours and minutes are perfect squares*
@@ -502,7 +502,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between 2a and 3c data at triple and double c of b*
@@ -546,7 +546,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square meters per child dividing by a square field*
@@ -587,7 +587,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of first and last names in alphabetical order*
@@ -632,7 +632,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a+b+c in a magic square*
@@ -677,7 +677,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that the product of two numbers is multiple of 5*
@@ -718,7 +718,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of planes perpendicular to the faces of a cube*
@@ -763,7 +763,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of lamps for three parallel roads*
@@ -808,7 +808,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the smallest part by cutting a cube*
@@ -853,7 +853,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits minimum n for 20 with sum of digits for 1999*

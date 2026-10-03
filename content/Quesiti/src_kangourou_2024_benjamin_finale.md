@@ -52,7 +52,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of keys and arrangement between four friends*
@@ -104,7 +104,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The meaning of KAB can be deduced from the answer*
@@ -131,7 +131,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colorings of 8 objects with different coloured adjoints*
@@ -158,7 +158,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *It is more the reducible or non-reducible fractions (1..6) *
@@ -184,7 +184,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum antenna distance from the most distant dwelling (triangle) *
@@ -211,7 +211,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Because the result of Marco is always 1089

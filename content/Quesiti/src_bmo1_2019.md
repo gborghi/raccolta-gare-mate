@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per posizionare cinque moltipli a due cifre di 3 sulla lavagna*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine n per il quale esiste un anello di interi n*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i prodotti T da due coppie che differiscono di 9 e 6*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equità d'angolo in semicircolo con linee tangenti che si incontrano*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca le dimensioni di due cilindri simili dati tre somme*
@@ -165,7 +165,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Migliore potenza di 10 divisioni dei viaggi di ritorno della formica*

@@ -28,7 +28,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare l'angolo centrale AOC da due angoli dati OBA e OBC su un cerchio*
@@ -60,7 +60,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimo dolci di 2 colori 9 cerchi collegati*
@@ -89,7 +89,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi*
@@ -116,7 +116,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le b con i rimanenti 2 e 4 in due divisioni euclidiche*
@@ -143,7 +143,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due*
@@ -169,7 +169,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equivalenti superfici del parallelogramma ABCD e del parallelogramma costruito AEFG*
@@ -196,7 +196,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grid con somme di righe/colonne uguali nelle celle non zero implica m=n*
@@ -224,7 +224,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare un prodotto di radicali annidati*
@@ -252,7 +252,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo rettangolo è uguale alla somma di due regioni simili alla luna tra semicircoli*
@@ -281,7 +281,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri interi distinti che rendono x+n, x+m, x+l una progressione geometrica forze x razionale*
@@ -310,7 +310,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra un grafico di 20 isole con 172 bordi di traghetto con diametro massimo 2*
@@ -337,7 +337,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che Marie non scrive mai 5 nel processo iterato di prodotto più uno, più grande di primo divisore*
@@ -364,7 +364,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grid con somma di righe/colonne uguale nelle celle non a zero implica m=n (versione liceale)*
@@ -391,7 +391,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che il triangolo DYZ è uguale a quello di una configurazione di punto medio/semicircolo*
@@ -418,7 +418,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A-b più grande e più piccola per i reali positivi con medie correnti comprese tra 0 e 1*

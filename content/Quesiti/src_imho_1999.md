@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insinsiemi finiti di punti simmetrici rispetto a tutti gli assi perpendicolari*
 
 > Determinare tutti gli insiemi finiti $S$ di almeno tre punti nel piano che soddisfano la seguente condizione:
 > 
 > Per ogni coppia di punti distinti $A$ e $B$ in $S$, l'asse del segmento $AB$ è un asse di simmetria per $S$.
-
-
 
 [[Quesiti/src_imho_1999#q01|src_imho_1999__Q01]]
 
@@ -66,6 +65,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Minima costante per disuguaglianza simmetrica di somma*
 
 > Sia $n$ un intero fisso, con $n \ge 2$.
@@ -75,8 +75,6 @@ level: IMO
 > sia verificata per tutti i numeri reali $x_1, \cdots, x_n \ge 0$.
 > 
 > (b) Per questo valore costante $C$, determinare in quali casi si ha l'uguaglianza.
-
-
 
 [[Quesiti/src_imho_1999#q02|src_imho_1999__Q02]]
 
@@ -104,6 +102,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrati segnati minimi in modo che ogni quadrato sia adiacente a uno segnato*
 
 > Si consideri un tabellone quadro di dimensione $n \times n$, dove $n$ è un intero positivo fisso pari. Il tabellone è suddiviso in $n^2$ quadratini unitari. Si dice che due quadratini diversi del tabellone sono adiacenti se condividono un lato in comune.
@@ -111,8 +110,6 @@ level: IMO
 > $N$ quadratini unitari sulla scacchiera sono segnati in modo tale che ogni casella (segna o non segnata) sulla scacchiera sia adiacente a almeno un quadratino segnato.
 > 
 > Determinare il più piccolo valore possibile di $N$.
-
-
 
 [[Quesiti/src_imho_1999#q03|src_imho_1999__Q03]]
 
@@ -140,6 +137,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Coppie di interi positivi con condizione di divisibilità coinvolgente un numero primo*
 
 > Determinare tutte le coppie $(n, p)$ di interi positivi tali che
@@ -147,8 +145,6 @@ level: IMO
 > $p$ è un numero primo,
 > $n$ non supera $2p$, e
 > $(p-1)^n + 1$ è divisibile per $n^{p-1}$.
-
-
 
 [[Quesiti/src_imho_1999#q04|src_imho_1999__Q04]]
 
@@ -174,13 +170,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Retta tangente CD alla circonferenza G2 nella configurazione di circonferenze secanti*
 
 > Due circonferenze $G_1$ e $G_2$ sono contenute all'interno della circonferenza $G$, e sono tangenti a $G$ rispettivamente nei punti distinti $M$ e $N$. La retta $G_1$ passa per il centro di $G_2$. La retta che passa per i due punti di intersezione tra $G_1$ e $G_2$ incontra $G$ nei punti $A$ e $B$. Le rette $MA$ e $MB$ incontrano $G_1$ rispettivamente nei punti $C$ e $D$.
 > 
 > Si dimostri che $CD$ è tangente a $G_2$.
-
-
 
 [[Quesiti/src_imho_1999#q05|src_imho_1999__Q05]]
 
@@ -206,12 +201,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni reali che soddisfano l'equazione funzionale data*
 
 > Determinare tutte le funzioni $f : \mathbf{R} \longrightarrow \mathbf{R}$ tali che
 > $$f(x - f(y)) = f(f(y)) + xf(y) + f(x) - 1$$
 > per ogni numero reale $x, y$.
-
-
 
 [[Quesiti/src_imho_1999#q06|src_imho_1999__Q06]]

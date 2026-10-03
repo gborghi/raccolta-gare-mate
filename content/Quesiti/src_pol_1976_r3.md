@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decidere se un prodotto di cinque seni dei moltipli di pi/18 è razionale.*
@@ -56,7 +56,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro sequenze soddisfano ricorrenze accoppiate; data la periodicità per alcuni k, dimostrano che i secondi termini scompaiono.*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per qualsiasi tetraedro, i tre prodotti di coppie di bordi opposti sono lati di un triangolo.*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se le diagonali di un quadrilaterale con un dato lato sono perpendicolari, dimostrare che sono perpendicolari per qualsiasi altro quadrilaterale con gli stessi lati.*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Optimizzare il numero di lanci di rete che un pescatore di pesce fa illegalmente, data la probabilità per lancio di essere catturato e di perdere tutti i guadagni, per massimizzare il profitto atteso.*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una funzione in aumento da N a R che è additiva sui prodotti naturali deve essere un logaritmo.*

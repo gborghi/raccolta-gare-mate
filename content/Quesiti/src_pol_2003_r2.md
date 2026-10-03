@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di un numero intero n>2003 in modo che i coefficienti binomiali a_k=C(n,k) abbiano una proprietà di divisibilità.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico; bisectori angolari si incontrano a P e Q; prova che la linea PQ è perpendicolare a MN dove M,N sono i punti di mezzo dell'arco.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per W(x)=x^4-3x^3+5x^2-9x, trovare tutte le coppie di integri distinti a,b con W(a)=W(b).*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per ogni primo p> 3 mostra esistono integri x,y,k con 0<2k<p tale che kp+3=x^2+y^2.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dal punto esterno A due tangenti toccano un cerchio a B,C; un'altra tangente incontra AB,AC a E,F; le linee OE,OF incontra BC a P,Q; dimostrare che BP,PQ,QC sono lati di un triangolo simile a AEF.*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una funzione f su coppie di integri non negativi soddisfa determinate ricorrenze; data f(a,b)=n, trova il numero di soluzioni integrali x di f(a,x) + f(b,x)=n.*
