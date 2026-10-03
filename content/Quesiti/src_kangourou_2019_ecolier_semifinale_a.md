@@ -541,5 +541,5 @@ How many legs does a gurocan have?
 >  
 > Questions and solutions
 
-**Answer:** 2
+**Answer:** 0012
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q15|src_kangourou_2019_ecolier_semifinale_a__Q15]]

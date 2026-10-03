@@ -549,7 +549,7 @@ level: kangourou
 > - **(D)** 40
 > - **(E)** 60
 
-**Answer:** 40
+**Answer:** 2664
 [[Quesiti/src_kangourou_2019_junior_finale#q14|src_kangourou_2019_junior_finale__Q14]]
 
 

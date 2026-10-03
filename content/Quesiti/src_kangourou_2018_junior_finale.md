@@ -219,7 +219,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(D)** $3027$
 > - **(E)** $5045$
 
-**Answer:** 5045
+**Answer:** 3250
 [[Quesiti/src_kangourou_2018_junior_finale#q07|src_kangourou_2018_junior_finale__Q07]]
 
 

@@ -195,7 +195,7 @@ level: kangourou
 > 
 > A) 4 B) 7 C) 8 D) 9 E) 12
 
-**Answer:** 9
+**Answer:** 0157
 [[Quesiti/src_kangourou_2022_ecolier_finale#q05|src_kangourou_2022_ecolier_finale__Q05]]
 
 
@@ -576,7 +576,7 @@ level: kangourou
 > 
 > A) 8 B) 9 C) 11 D) 13 E) 14
 
-**Answer:** C
+**Answer:** 0024
 [[Quesiti/src_kangourou_2022_ecolier_finale#q15|src_kangourou_2022_ecolier_finale__Q15]]
 
 
