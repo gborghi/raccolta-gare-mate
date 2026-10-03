@@ -258,7 +258,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x+y)=x+f(y), trovare f(2000) *
+*Equazione funzionale f(x+y)=x+f(y), trovare f(2000)*
 
 > Che $f$ sia una funzione con le seguenti proprietà: (i) per tutti i valori $x,y$, $f(x+y)=x+f(y)$; (ii) $f(0)=2$. Che cos' è $f(2000)$?
 >
@@ -656,7 +656,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due numeri a due cifre la cui somma è il doppio dei loro numeri *
+*Due numeri a due cifre la cui somma è il doppio dei loro numeri*
 
 > Quanti numeri a due cifre ci sono che sono uguali al doppio del prodotto delle loro cifre?
 >
@@ -1000,7 +1000,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Velocità media su un viaggio di 60 km con un tratto lento di traffico *
+*Velocità media su un viaggio di 60 km con un tratto lento di traffico*
 
 > Itacimirim è una città sulla costa di Coco, situata a 60 km da Salvador. Di questi, a 15 km da Salvador, c'è un incidente che causa un ingorghio. Nella restante parte dell'autostrada la velocità è di 60 km/h, ad eccezione della zona di jam, dove la velocità è di 6 km/h. Qual è la velocità media, in km/h?
 >

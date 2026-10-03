@@ -37,7 +37,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Starting day of collection of figures (doubles 1/13) *
+*Starting day of collection of figures (doubles 1/13)*
 
 > The last stone The world has come to an end at other times in the past. Once in particular it was a certain Esmeralda Weatherwax who challenged Death to the game for everyone's salvation, but neither chess, cards, nor Monopoly were chosen. The two players sat down in front of a large pile of stones and began to play. He started Emerald, which took 30 stones. Death took 130 of them, then Emerald took 230. And they did so, according to the rules, which required each one to collect 100 more stones than the previous one. When the stones on the ground were no longer enough, the player would collect them all. The first one who couldn't pick up a stone would lose. As you can imagine, Esmeralda won after collecting 9,284 stones throughout the game. How many stones did Death collect?
 
@@ -72,7 +72,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Antenates Matemaya (branches with 7 males and 7 females) *
+*Antenates Matemaya (branches with 7 males and 7 females)*
 
 > Commander Tarkin threatens to destroy the Earth with the Black Death, but will give up if Princess Leila defeats him in the next game. Initially there is a heap of n stones; then players alternate starting with Leila. The only valid moves are to remove pile 1, 2, 4 or 16 stones. The winner is the one who can remove the last stone. Leila, reflecting a little, realizes that if Tarkin doesn't make mistakes, there will be no chance of victory for her. Then try to make the game last as long as possible, hoping that Tarkin will make a mistake sooner or later and also to delay the destruction of Earth. How much was it worth if the Earth was destroyed after a game of 594 moves?
 
@@ -139,7 +139,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Other roots of x^2-bx+c=0 (b is odd, b is odd) *
+*Other roots of x^2-bx+c=0 (b is odd, b is odd)*
 
 > The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
 
@@ -208,7 +208,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max gold in the two statues (weights and bonds) *
+*Max gold in the two statues (weights and bonds)*
 
 > It's written as predicted in the terrible book Necronomicon by the mad Arab Abdul Alhazred, when for man the Last Day will come, he will rise from the bottom Bernardus, monster with n heads and m tails (both positive integers) such that 1 95 + 1 n = 1 m. What's the minimum number of heads Bernardus can have?
 
@@ -457,7 +457,7 @@ The Sun and Moon are likely to lose to an uninjured man.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second year pyramid (counting zero) *
+*Second year pyramid (counting zero)*
 
 > Knights of other shores The alien invasion of the Uru System is complete! At the peace conference, called in a hurry, around the round table sit 8595 creatures, who may be aliens or terrestrials (the former always tell the truth, the latter always lie to save themselves). We know that the aliens at the conference are more than 2012 and less than 8,000, and that each creature claims that between the two creatures on its left there are as many aliens as between the two creatures on its right. How many aliens are out there?
 
@@ -492,7 +492,7 @@ The Sun and Moon are likely to lose to an uninjured man.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*consecutive scores (ABCD) *
+*consecutive scores (ABCD)*
 
 > A new hope The End of the World Order has been activated and life on Earth will be extinct within a few months. Il Dr. Strangely, it suggests preserving the human race in underground shelters. The shelters constructed have the form described here. The habitable area is an equilateral QPR triangle of 112 m side. It is served by three PQDC, QRIH and RPNM square hydroponic tanks and by three regular hexagonal water tanks ABCPNO, FGHQDE and KLMRIJ. The actual residential area is a polygon with 6 STUVWX sides such that S = AI ∩RP, T = KC ∩RP, U = FN ∩PQ, V = AH ∩PQ, W = KD ∩QR and X = FM ∩QR. Knowing that 3.5 square meters of living space is needed per person, how many people can live at most in one of these shelters?
 

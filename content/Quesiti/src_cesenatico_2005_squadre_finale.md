@@ -36,7 +36,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-* tiles 2 straight white and 2 straight black *
+*tiles 2 straight white and 2 straight black*
 
 > The Predators of Lost Temples An ancient scroll, unearthed by the well-known archaeologist Polynomial Jones in the Vatican archives, reveals that each of the ancient temples dedicated to Atyiahsinger is shaped like a 60-meter-square-sided square. The floor of each temple is covered with 900 square tiles, each of which measures 2 meters on each side. Of these, 450 are white and 450 black. The tiles form 2 white and 2 black rectangles, so that two rectangles of the same colour do not have side parts in common. Knowing that for each of the possible tiles there is exactly one temple with such a floor, how many temples will our hero have to look for?
 
@@ -104,7 +104,7 @@ Maximum number of collaborators, each 3 fields out of 8
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of making up a caravan of 18 animals with no equivalent adjoining *
+*Mode of making up a caravan of 18 animals with no equivalent adjoining*
 
 > Well-known archaeologist Polynomial Jones is organizing an expedition into the desert and needs 18 pets to transport the equipment. Beasts can be dromedaries or camels. As everyone knows, dromedaries are unsociable and rather irascible animals: when placed in line, they do not tolerate having animals of their own kind in front of them (or behind them). How many different ways can Jones polynomial compose the animal caravan without the animals getting stuck?
 
@@ -490,7 +490,7 @@ Maximum number of single crypts tangent to radius circle 2005
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of all the integers (figure reflection) *
+*Summary of all the integers (figure reflection)*
 
 > Numbers in the mirror Ancient people of the Couranteni used to write numbers with the digits ordered both right to left and left to right. Jones polynomial discovered that an integer courantene is a positive integer k such that for every positive integer n divisible by k, the integer obtained from n by inverting the order of the digits is also divisible by k. What's the sum of all the whole currents?
 

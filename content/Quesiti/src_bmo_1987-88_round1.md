@@ -59,7 +59,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale su numeri naturali che soddisfano f(x+y) = f(x)f(y) *
+*Ricerca tutte le funzioni a valore reale su numeri naturali che soddisfano f(x+y) = f(x)f(y)*
 
 > Trovare tutte le funzioni a valore reale $f$ definite sul set $D$ dei numeri naturali $x \ge 10$ e soddisfare l'equazione funzionale $$f(x + y) = f(x)\,f(y)$$ per tutti $x, y \in D$.
 

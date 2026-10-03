@@ -113,7 +113,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti f su razionali positivi con f(x^2 f(y) ^2) = f(x) ^2 f(y) *
+*Tutti f su razionali positivi con f(x^2 f(y) ^2) = f(x) ^2 f(y)*
 
 > Trova tutte le funzioni $f$ definite sui razionali positivi e prendi valori razionali positivi in modo tale che, per tutti i razionali positivi $x$ e $y$, $$f\big(x^2 f(y)^2\big) = f(x)^2 f(y).$$
 
@@ -175,7 +175,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera *
+*Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera*
 
 > $k$ sia un numero intero positivo. L'OIM organizza un torneo di scacchi con giocatori $2k$. Si gioca una partita al giorno, e durante tutto il torneo ogni coppia di giocatori gioca esattamente una partita. Ogni giocatore si trova presso la sede dell'IMO dal giorno della sua prima partita fino al giorno della sua ultima. Ogni giorno, la sede dell'IMO emette un numero di voucher per il pasto pari al numero di giocatori che soggiornano nella sede quel giorno. Trovare il valore minimo possibile del numero totale di buoni di pasto emessi dall'IMO.
 

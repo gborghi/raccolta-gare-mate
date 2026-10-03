@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Are there more reducible or irreducible fractions (1..12) *
+*Are there more reducible or irreducible fractions (1..12)*
 
 > Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 inclusive. Are there more reducible fractions or irreducible fractions?
 
@@ -122,7 +122,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Establish which city the aircraft operates in (calendar, cafe) *
+*Establish which city the aircraft operates in (calendar, cafe)*
 
 > I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which it operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
 

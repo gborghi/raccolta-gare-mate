@@ -452,7 +452,7 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculate OB data CD and two angles in Figure *
+*Calculate OB data CD and two angles in Figure*
 
 ![[src_archimede_2001_triennio__prob13.png]]
 
@@ -487,7 +487,7 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sum of odd and definitely wrong numbers *
+*Which sum of odd and definitely wrong numbers*
 
 > Yesterday, Pierino delighted himself in summing odd numbers from 1 to a certain value. Which of the following sums is definitely wrong?
 >
@@ -567,7 +567,7 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BAC angle given by CEB and beamers in Figure *
+*BAC angle given by CEB and beamers in Figure*
 
 ![[src_archimede_2001_triennio__prob16.png]]
 

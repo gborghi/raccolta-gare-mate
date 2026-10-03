@@ -132,7 +132,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of angle in the quadrilateral (BC=AD) *
+*Measurement of angle in the quadrilateral (BC=AD)*
 
 ![[src_kangourou_2004_junior__prob4.png]]
 
@@ -386,7 +386,7 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the bench (half-circles) *
+*Height of the bench (half-circles)*
 
 ![[src_kangourou_2004_junior__prob10.png]]
 
@@ -499,8 +499,6 @@ John's points in ping-pong (system)
 ```
 
 > You have 16 cards: 4 blue (B), 4 red (R), 4 yellow (G) and 4 green (V). You want to place them in the square grid shown in the figure, one per cell, so that each row and column of the grid contains a card for each color. You have already started the work as indicated; how many different ways can you complete it? A) 1            B) 2            C) 4           D) 16          E) 128 B R B G V 8 10
-> 
-> I'm going to pay. I'm going to pay. 24 24 Kang 2004 Kang 2004
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q12|src_kangourou_2004_junior__Q12]]
@@ -1002,7 +1000,7 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 120 after 200 steps (divisors) *
+*Number in place of 120 after 200 steps (divisors)*
 
 > We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those in even positions). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16          B) 12          C) 8           D) 32          E) 24
 
@@ -1180,7 +1178,7 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trajectory of the P-point (rolling circle) *
+*Trajectory of the P-point (rolling circle)*
 
 ![[src_kangourou_2004_junior__prob27.png]]
 

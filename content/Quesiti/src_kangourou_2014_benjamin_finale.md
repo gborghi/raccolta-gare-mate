@@ -138,10 +138,11 @@ Minimum shifts for every boy to dance with every girl
 
 *Scoiattolo svuota 15 piattini in quattro visite*
 
-> AU 
-> BV 
-> CZ 
-> DR
+> In una casetta nel bosco ci sono 15 piattini in fila: sul primo c'è 1 noce, sul
+> secondo ci sono 2 noci, sul terzo 3 e così via fino al quindicesimo piattino su cui ci sono 15 noci.
+> Ogni tanto uno scoiattolo entra nella casetta, sceglie alcuni piattini e mangia delle noci
+> prendendone lo stesso numero da ognuno dei piattini scelti. Se fa quattro visite alla casetta,
+> può riuscire a mangiare tutte le noci?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
@@ -154,7 +155,11 @@ Minimum shifts for every boy to dance with every girl
 
 *Squirrel empties 15 plates in four visits*
 
-> AU BV CZ DR
+> In a little house in the woods there are 15 little plates in a row: on the first there is 1 nut, on the
+> second there are 2 nuts, on the third 3, and so on up to the fifteenth little plate on which there are 15 nuts.
+> Every so often a squirrel enters the little house, chooses some little plates and eats some nuts,
+> taking the same number from each of the chosen little plates. If it makes four visits to the little house,
+> can it manage to eat all the nuts?
 
 [[Quesiti/src_kangourou_2014_benjamin_finale#q04|src_kangourou_2014_benjamin_finale__Q04]]
 

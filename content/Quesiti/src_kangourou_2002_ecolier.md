@@ -918,7 +918,7 @@ Who can't get 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matteo's arrival position *
+*Matteo's arrival position*
 
 > Twenty-eight boys are taking part in a race. The number of boys who came after Matteo is twice the number of boys who came before Matteo. In what position did Matteo arrive?
 >  

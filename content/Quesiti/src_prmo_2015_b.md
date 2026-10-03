@@ -204,7 +204,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa della funzione a numeri pari E(1) + E(2)+...+E(100) *
+*Summa della funzione a numeri pari E(1) + E(2)+...+E(100)*
 
 > $E(n)$ indichi la somma dei numeri pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + \cdots + E(100)$?
 
@@ -235,7 +235,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parte rotta di piastra circolare; punto medio di corda e arco; radio *
+*Parte rotta di piastra circolare; punto medio di corda e arco; radio*
 
 > La figura seguente mostra un pezzo rotto di una piastra circolare di vetro. $C$ è il punto medio di $AB$ e $D$ è il punto medio di arco $AB$. Dato che $AB = 24$ cm e $CD = 6$ cm, quale è il raggio della piastra in centimetri? (La cifra non è indicata in scala.)
 
@@ -439,7 +439,7 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo prodotto di 3 numeri primi distinti x,y,z uguale al numero di numeri *
+*Il più piccolo prodotto di 3 numeri primi distinti x,y,z uguale al numero di numeri*
 
 > Che $n$ sia il numero intero più grande che è il prodotto di esattamente 3 numeri primi distinti, $x$, $y$ e $z$, dove $x$, $y$ e $z$ sono il numero di decine e di cifre unità.
 

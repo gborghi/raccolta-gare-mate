@@ -179,7 +179,7 @@ Question with multiple answers February 2005 No.2
 <div class="qlang-split" data-lang="en"></div>
 
 
-* above the parameter *
+*above the parameter*
 
 > $\overline{AB}$ and $\overline{CD}$ are two segments, both long 4, having the mean point $M$ in common and $\widehat{BMD} = 60°$. We indicate with $X$ the sum of all but the points that are more than 1 away from at least one of the two segments. What is the surface area of $X$?
 > 
@@ -603,7 +603,7 @@ Question No 17 of the Council in February 2005
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which n true*
+*for which n true*
 
 > [problem not present in the document]
 

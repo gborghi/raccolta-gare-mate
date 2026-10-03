@@ -65,7 +65,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplice (college) *
+*Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplice (college)*
 
 > In un mazzo di carte composto solo da carte rosse e carte nere, ci sono $2$ volte più carte nere di quelle rosse. Se si aggiungono carte nere $4$, ci sono poi $3$ volte più carte nere di carte rosse. Quante carte contenevano il mazzo prima che le carte nere $4$ fossero aggiunte?
 > 
@@ -270,7 +270,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee) *
+*Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee)*
 
 > In un mazzo di carte composto solo da carte rosse e carte nere, ci sono $2$ volte più carte nere di quelle rosse. Se si aggiungono carte nere $4$, ci sono poi $3$ volte più carte nere di carte rosse. Quante carte contenevano il mazzo prima che le carte nere $4$ fossero aggiunte?
 > 
@@ -301,7 +301,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee) *
+*Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee)*
 
 > Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
@@ -329,7 +329,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee) *
+*divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee)*
 
 > Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
@@ -387,7 +387,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6000 voti di studenti; dopo una sostituzione la media aumenta di 1/10; limita una differenza di conteggio *
+*6000 voti di studenti; dopo una sostituzione la media aumenta di 1/10; limita una differenza di conteggio*
 
 > Sei mila studenti hanno fatto un esame e tutti hanno ottenuto un punteggio compreso tra $0$ e $8$ ($0$ e $8$). Vincent decide di sostituire tutti i gradi uguali a $1$, $2$ e $3$ con $0$ e tutti i gradi uguali a $5$, $6$ o $7$ con $8$. Gli altri voti sono invariati. Dopo questa modifica, la media dei punteggi è aumentata di $\frac{1}{10}$.
 > 
@@ -507,7 +507,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*8 formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1 (licee) *
+*8 formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1 (licee)*
 
 > Le formiche $8$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, due formiche si dice siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo. Prove che esistono due formiche a distanza inferiore o pari a $1$.
 

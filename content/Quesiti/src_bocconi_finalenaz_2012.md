@@ -100,7 +100,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second between first and last clock strike at 11 *
+*Second between first and last clock strike at 11*
 
 > Carla has noted that six seconds pass from the first to the last stroke when the clock in her country's church strikes at 6 a.m. How many seconds pass (from the first to the last stroke) when the same clock, five hours later, strikes 11?
 

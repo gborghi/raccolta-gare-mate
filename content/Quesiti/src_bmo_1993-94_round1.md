@@ -143,7 +143,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le sequenze in aumento alternate da {1,...,n}; trovare A(20) *
+*Contare le sequenze in aumento alternate da {1,...,n}; trovare A(20)*
 
 > Una sequenza di numeri interi $increasing$ si dice essere \textbf{alternating} se $starts$ con un termine $odd$, il secondo termine è pari, il terzo termine è impar, il quarto è pari, e così via. La sequenza vuota (senza termine affatto!) è considerata alternante. $A(n)$ indichi il numero di sequenze alternative che coinvolgono solo gli integri del set $\{1, 2, \ldots, n\}$. Indicare che $A(1) = 2$ e $A(2) = 3$. Trova il valore di $A(20)$ e prova che il tuo valore è corretto.
 

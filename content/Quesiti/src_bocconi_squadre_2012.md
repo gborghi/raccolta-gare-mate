@@ -559,7 +559,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangular number of three digits equal to *
+*Triangular number of three digits equal to*
 
 > A number is said to be triangular when it is equal to the sum of all natural integers (up to a certain point). The number $10$, for example, is triangular because it is the sum of $1+2+3+4$.
 > 

@@ -169,7 +169,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of perfect squares of the form n/(4000-n) *
+*sum of perfect squares of the form n/(4000-n)*
 
 > James Bond has been imprisoned by the bunserols. To pass the time it sums the perfect squares (i.e. numbers that are squares of positive integers) of the form n 4000 −n for n whole. What is the result? Team competition  Problem texts  Pag. 1 di 6
 
@@ -375,7 +375,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of opening at least 13 boxes (permutation) *
+*Probability of opening at least 13 boxes (permutation)*
 
 > The 36-number roulette Emilio Largo captured James Bond and, with sadistic taste, challenged him to a strange roulette. There are thirty-six boxes numbered 1 to 36 and thirty-six balls numbered 1 to 36, Largo randomly inserts a ball into each box. Bond will have to open a box, look at the number of the ball, open the box with that number, and continue. He stops when he finds a ball with the number of a box already open. If he opens less than thirteen boxes, he'll be thrown into the shark tank. James quickly calculates the probability of escape, makes a mockery, and opens box number 5. What's the probability he calculated? Answer by writing the first four digits after the resulting comma.
 

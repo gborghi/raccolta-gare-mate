@@ -164,7 +164,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo ABCD diviso in quattro rettangoli più piccoli, area *
+*Rettangolo ABCD diviso in quattro rettangoli più piccoli, area*
 
 > Un rettangolo $ABCD$ è diviso in quattro rettangoli più piccoli come mostrato nella figura. Le aree di tre di esse sono mostrate. Qual è l'area del rettangolo $ABCD$?
 > 
@@ -330,7 +330,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La spesa di Pedro in quattro negozi, trovare l'importo iniziale *
+*La spesa di Pedro in quattro negozi, trovare l'importo iniziale*
 
 > Pedro lasciò casa e andò a quattro negozi, ognuno in un quartiere diverso. In ogni negozio spendeva la metà di quello che aveva più 2,00$. At the end he had $$\,8.00$. Quanto aveva Pedro quando se n'è andato?
 > 
@@ -365,7 +365,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione f(f(n)))=16 con soluzioni pieziose f, conteggiamento *
+*Equazione f(f(n)))=16 con soluzioni pieziose f, conteggiamento*
 
 > Per ogni numero naturale $n$ definiamo la funzione $f$ da: $$f(n) = \begin{cases} \dfrac{n}{2} & \text{if } n \text{ is even,} \\ 3n+1 & \text{if } n \text{ is odd.} \end{cases}$$ Il numero di soluzioni dell'equazione $f(f(f(n))) = 16$ è:
 > 

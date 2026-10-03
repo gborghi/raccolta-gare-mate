@@ -55,7 +55,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Are there more reducible or irreducible fractions (1..12) *
+*Are there more reducible or irreducible fractions (1..12)*
 
 > Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are there more reducible fractions or irreducible fractions?
 

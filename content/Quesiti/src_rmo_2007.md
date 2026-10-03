@@ -113,7 +113,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 6 cifre con cifre di {1,2,3,4,5} che appaiono almeno due volte *
+*Contare i numeri a 6 cifre con cifre di {1,2,3,4,5} che appaiono almeno due volte*
 
 > Quanti numeri di 6 cifre ci sono tali che: (a) i numeri di ogni numero sono tutti dall'insieme $\{1, 2, 3, 4, 5\}$; (b) qualsiasi cifra che appare nel numero appare almeno due volte?
 > 

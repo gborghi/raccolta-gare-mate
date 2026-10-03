@@ -351,7 +351,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares < 9200 with units digit 6 *
+*Perfect squares < 9200 with units digit 6*
 
 > Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as their units digit?
 

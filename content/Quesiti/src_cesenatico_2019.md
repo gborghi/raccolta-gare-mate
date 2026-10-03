@@ -58,7 +58,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*if p+q^2 squared then p^2+q^n is not *
+*if p+q^2 squared then p^2+q^n is not*
 
 > Let's say p, q are prime numbers. Prove that if p + q2 is a perfect square, then the number p2 + qn is not a perfect square for any positive integer n.
 
@@ -89,7 +89,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* single mode *
+*single mode*
 
 > Let n be an integer greater than 2. They want to color red exactly n+1 of the numbers 1, 2, · · , 2n−1, 2n so that there are no three distinct numbers x, y, z colored red that satisfy the equality x + y = z. Demonstrate that there is one and only one way to choose numbers to color red that meets the given condition.
 

@@ -57,7 +57,7 @@ Who came last in the race?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many apples in total (6 boxes vs 5 with +2) *
+*How many apples in total (6 boxes vs 5 with +2)*
 
 > 2. Andrea divided the apples to be sold at the market into six boxes, putting the same number of apples in each box. Bruno notes that five boxes could have been filled with the same apples, each containing two more apples. How many apples do you have to bring to the market? A) 30 B) 45 C) 60 D) 78 E) 120
 
@@ -154,7 +154,7 @@ Who came last in the race?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure shows the three equal rings *
+*What figure shows the three equal rings*
 
 ![[src_kangourou_2019_cadet_marzo__prob5.png]]
 
@@ -335,7 +335,7 @@ What are the three hidden digits given sum 10126*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which island and the treasure (one true scroll) *
+*Which island and the treasure (one true scroll)*
 
 > 11. The pirate Barbanera found four scrolls that give information about where a treasure is buried. They say:
 
@@ -496,7 +496,7 @@ What are the three hidden digits given sum 10126*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hugs does Enza exchange (knowledge graph) *
+*How many hugs does Enza exchange (knowledge graph)*
 
 > 15. Anna, Bella, Chiara, Dora and Enza are at a party, each hugging exactly one of the girls she knows among the other four. Anna exchanges one hug, Bella exchanges two, Chiara exchanges three and Dora exchanges four. How many hugs does Enza exchange? A) 1 B) 2 C) 3 D) 4 E) 0
 
@@ -557,7 +557,7 @@ What are the three hidden digits given sum 10126*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many of the last five shots did she score *
+*In how many of the last five shots did she score*
 
 > 17. Luisa is playing basketball. In a first series of 20 shots, Luisa scored in 55% of the cases. Adding five more shots, her scoring percentage increased to 56%. How many of the last five shots did she score? A) 1 B) 2 C) 3 D) 4 E) 5
 
@@ -873,7 +873,7 @@ How many euros will Pierino have after selling all of them?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much did Rita have before she bought (ratios) *
+*How much did Rita have before she bought (ratios)*
 
 > When Rita and Flora compared their savings, the ratio between Rita's and Flora's was 5:3. Rita later bought a tablet for 160 euros and the ratio of the two friends' savings became 3: 5. How many euros did Rita have before she bought it? A) 250 B) 200 C) 220 D) 430 E) 420
 
@@ -965,7 +965,7 @@ How many euros will Pierino have after selling all of them?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Passengers in the two central carriages (blocks of 5) *
+*Passengers in the two central carriages (blocks of 5)*
 
 > On a train that consists of 18 carriages, 700 passengers travel. In each block of five carriages in a row there are a total of 199 passengers. How many passengers are there in the two central carriages of the train? A) 70
 > 	
@@ -1153,7 +1153,7 @@ Maximum number of teams with no more than 250 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White fraction of the surface of the cube (black interior) *
+*White fraction of the surface of the cube (black interior)*
 
 > Lucia obtained a cube by attaching 64 small cubes all of the same size, 32 white and 32 black, and made all the non-visible cubes (i.e. those inside the cube) black. What fraction of the surface of the cube appears white? A) 3/4 B) 4/7
 > 	

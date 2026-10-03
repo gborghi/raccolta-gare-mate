@@ -280,7 +280,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare il più giovane tra i quattro ragazzi di età *
+*Identificare il più giovane tra i quattro ragazzi di età*
 
 > João è più vecchio di Pedro, che è più giovane di Carlos; António è più vecchio di Carlos, che è più giovane di João. António non è più giovane di João, e tutti e quattro i ragazzi hanno età diversa. Il più giovane di loro è:
 >
@@ -747,7 +747,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z *
+*Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z*
 
 > Sul pianeta Z, ogni abitante ha $3$ gambe e ogni macchina ha $5$ ruote. In una piccola città di questo pianeta, ci sono in totale $97$ gambe e ruote. Possiamo quindi affermare:
 >

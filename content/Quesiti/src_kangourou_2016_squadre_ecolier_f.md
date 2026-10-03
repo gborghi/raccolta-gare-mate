@@ -154,7 +154,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square side cut into 36 squares (one larger) *
+*Square side cut into 36 squares (one larger)*
 
 > Thirty-six squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm2, while all the others have an area of 1 cm2. How many centimeters does the side of the starting square measure?
 

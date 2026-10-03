@@ -155,7 +155,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression and the square of the triple of the sequence *
+*Which expression and the square of the triple of the sequence*
 
 > Which of the following expressions is the square of the third consecutive integer n?
 >
@@ -585,7 +585,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many equilateral triangles in Figure *
+*How many equilateral triangles in Figure*
 
 ![[src_archimede_1998_biennio__prob12.png]]
 

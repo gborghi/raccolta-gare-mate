@@ -69,7 +69,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni che soddisfano 2yf(f(y) +x) =f(x+1) f(2y) *
+*Trova tutte le funzioni che soddisfano 2yf(f(y) +x) =f(x+1) f(2y)*
 
 > Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y\, f(f(y) + x) = f(x+1)\, f(2y).$$
 

@@ -30,7 +30,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi m,n con n quantità di frazioni unitarie soddisfacenti *
+*Ricerca i numeri interi positivi m,n con n quantità di frazioni unitarie soddisfacenti*
 
 > Trova tutti gli integri positivi $m$, $n$ dove $n$ è odd, che soddisfano $$\frac{1}{m} + \frac{1}{n} = \frac{1}{12}.$$
 
@@ -143,7 +143,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione in aumento stretto su integri non negativi con equazione funzionale, trovare f(2001) *
+*Funzione in aumento stretto su integri non negativi con equazione funzionale, trovare f(2001)*
 
 > $f$ è una funzione da $\mathbb{Z}^+$ a $\mathbb{Z}^+$, dove $\mathbb{Z}^+$ è l'insieme di integri non negativi, che ha le seguenti proprietà: a) $f(n+1) > f(n)$ per ogni $n \in \mathbb{Z}^+$, b) $f(f(n)) = f(n) + n$ per tutti $m$, $n \in \mathbb{Z}^+$. Trova tutti i valori possibili di $f(2001)$.
 

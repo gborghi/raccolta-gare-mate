@@ -31,7 +31,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design with the colours exchanged (yellow/black) *
+*Design with the colours exchanged (yellow/black)*
 
 ![[src_kangourou_2018_koala_marzo__prob1.png]]
 
@@ -235,7 +235,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What will be the 16th group of beads (pattern) *
+*What will be the 16th group of beads (pattern)*
 
 ![[src_kangourou_2018_koala_marzo__prob7.png]]
 
@@ -567,7 +567,7 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many gnomes get wet (fungi capacity) *
+*How many gnomes get wet (fungi capacity)*
 
 ![[src_kangourou_2018_koala_marzo__prob17.png]]
 

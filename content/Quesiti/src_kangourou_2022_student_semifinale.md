@@ -337,7 +337,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum of a*
+*sum of a*
 
 > (4 points) What is the sum of the possible values of the parameter a corresponding to which the two equations x2 + ax + 2022 = 0 and x2 + 2022x + a = 0 have at least one real solution in common? A) – 4045 B) – 1 C) 0
 >  
@@ -426,7 +426,7 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for how many a1 is constant*
+*for how many a1 is constant*
 
 > (5 points) A sequence {a1, a2, a3, ...} of real numbers is defined inductively as follows: an+1 = an2 an2−2022 an+1 for n = 1, 2, ... . For how many values of a1 is the sequence constant?
 >  
@@ -862,7 +862,7 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
 > (8 points) Let's say a positive integer n is perfectone if it equals the square of the number of its divisors (positive integers, 1 and n included): for example, 4, which has three divisors, is not perfectone. How many perfectone numbers are there?
 >  

@@ -117,7 +117,7 @@ Advanced cubes building the largest cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of books in the library (25% and 1/9) *
+*Number of books in the library (25% and 1/9)*
 
 > 4. Peter says that exactly 25% of his personal library is made up of literature books, while exactly 1/9 of it is made up of mathematics books. The number of Junior books in Peter's library is known to be between 50 and 100. How many books is that library made of? A) 50 B) 54 C) 64 D) 72 E) 92
 
@@ -413,7 +413,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number represented by A (KAN+KAG+KNG=2006) *
+*Number represented by A (KAN+KAG+KNG=2006)*
 
 > 14. Each letter represents a digit: the letters equal- + K A G represent the same digit and different letters represent different digits + K N G different. What number does the letter A represent? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
 
@@ -441,7 +441,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the correct answer (logical self-reference) *
+*What is the correct answer (logical self-reference)*
 
 > 15. You're trying to answer a question from Kangourou and you've come to the following conclusions:
 
@@ -613,7 +613,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shorter side of the region (square divided) *
+*Shorter side of the region (square divided)*
 
 ![[src_kangourou_2006_junior_marzo__prob18.png]]
 
@@ -643,7 +643,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of children (average family age) *
+*Number of children (average family age)*
 
 > 19. Answer C. Let n be the number of children: adding up the years of all members of the family gets 18(n + 2), adding up the years of all members excluding the father gets 14(n + 1). So it has to be 18(n + 2) - 14(n + 1) = 38, so we get n = 4.
 
@@ -685,7 +685,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum EUR to secure the prize (balls) *
+*Maximum EUR to secure the prize (balls)*
 
 > In an amusement park there is a box containing: - 15 balls, each half red and half blue; - 12 balls, each half blue and half green; - 9 balls, each half green and half red. Taking a ball out of the box at random costs a euro. If you present seven balls that have at least one color in common, you are given a prize that you care very much about. How many euros will you have to spend, at most, to secure the prize? A) 7 B) 8 C) 9 D) 10 E) 11 Questions from N. 21 to N. 30 is worth 5 points each.
 
@@ -754,8 +754,6 @@ Minimum minutes for numbers to become multiples of 5
 *what and the situation*
 
 > An island is inhabited only by truthful people (people who always tell the truth) and false people (people who always lie). Every inhabitant of the island knows what category each inhabitant belongs to. A traveling foreigner, who knows the situation on the island, meets two residents A and B and wants to find out which category they belong to. After receiving the answer to the question "Are you both true?" from A, he is still unable to decide. But once you get the answer to the new question "Are you in the same category?" from A again, you can finally identify them. What's the situation? A) A and B are both False. B) A and B are both true. C) A is True, B is False. D) A is False, B is True. E) Without knowing the answers obtained by the foreigner, one cannot decide. (ii) 2 5 2 − (ii) 1 5 3 − (ii) 2 5 5 − junior_06.qxp 20/02/2006 23.44 Page 25
-> 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2006 Kang
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_junior_marzo#q21|src_kangourou_2006_junior_marzo__Q21]]
@@ -786,7 +784,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product property p (three numbers plus 20) *
+*Product property p (three numbers plus 20)*
 
 > Adding up three different positive numbers, you get 20. Let's say p is the product of the two largest numbers. So A) p is certainly less than 99. B) p is certainly greater than 0.001. C) p is certainly different from 25. D) p is certainly different from 75. (e) each of the foregoing statements is false.
 
@@ -867,7 +865,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of curve described by P (rotating square) *
+*Length of curve described by P (rotating square)*
 
 ![[src_kangourou_2006_junior_marzo__prob24.png]]
 
@@ -1155,7 +1153,7 @@ Minimum minutes for numbers to become multiples of 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many X with X+Y+Z=60 (digit sums) *
+*How many X with X+Y+Z=60 (digit sums)*
 
 > We denote with Y the sum of the digits of the positive integer X and with Z the sum of the digits of the number Y. For how many positive integers X happens that X + Y + Z is equal to 60 ? A) 0 B) 1 C) 2 D) 3 E) More than 3
 

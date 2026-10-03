@@ -195,7 +195,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rana su 1000 pad di lili; trovare n per esattamente una rana rimanente *
+*Rana su 1000 pad di lili; trovare n per esattamente una rana rimanente*
 
 > Ci sono 1000 lampadine di lirio su un stagno disposte in cerchio e etichettate in ordine $1, 2, \ldots, 1000$. (I primi quattro blocchi di lilia possono essere descritti anche utilizzando rispettivamente le etichette 1001, 1002, 1003 e 1004) I primi blocchi di lilia $n$ sono occupati da una rana e i restanti blocchi di lilia non sono occupati.
 > 

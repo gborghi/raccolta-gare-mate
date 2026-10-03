@@ -34,7 +34,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the five numbers is the largest *
+*Which of the five numbers is the largest*
 
 > Out of the next five, which is the largest number? A) 20111 B) 12011 C) 1 x 2011 D) 1 + 2011 E) 1 : 2011
 
@@ -544,7 +544,7 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many F points give a right DEF triangle area 1 *
+*How many F points give a right DEF triangle area 1*
 
 > On the board, Nadia has mapped a DE segment of length 2. How many different F points can you mark on the board if you want the DEF triangle to be rectangular and have area 1? A) 2 B) 4 C) 6 D) 8 E) 10
 
@@ -586,8 +586,6 @@ Score of the game won by the Kang team
 *What pair to remove without changing the mean*
 
 > Consider the numbers 17, 13, 5, 10, 14, 9, 12, 16. Which of the following number pairs can you remove from this list without changing the mean (arithmetic)? A) 12 and 17 B) 5 and 17 C) 9 and 16 D) 10 and 12 E) 14 and 10 2011 x 2,011 201,1 x 20,11 Text_11Mat.qxp 19-05-2011 21:24 Page 17
-> 
-> I'm going to pay. I'm going to pay. 18 18 Kang 201 Kang 2011
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_cadet#q14|src_kangourou_2011_cadet__Q14]]

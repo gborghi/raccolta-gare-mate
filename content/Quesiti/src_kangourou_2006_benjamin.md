@@ -1026,7 +1026,7 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A-B routes on the six bridges once (Euler) *
+*A-B routes on the six bridges once (Euler)*
 
 ![[src_kangourou_2006_benjamin__prob22.png]]
 

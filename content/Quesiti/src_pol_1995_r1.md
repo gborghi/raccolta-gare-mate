@@ -228,7 +228,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramida n-gon regolare: prova sin2α − sin2β ≥ tan2(π/n) *
+*Piramida n-gon regolare: prova sin2α − sin2β ≥ tan2(π/n)*
 
 > In una piramide regolare con un normale $n$-gon come base, una faccia laterale e la base formano un angolo $\alpha$, mentre un bordo laterale e il bordo base formano un angolo $\beta$. Provare che $$\sin^2 \alpha - \sin^2 \beta \ge \tan^2 \frac{\pi}{n}.$$
 

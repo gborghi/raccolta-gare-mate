@@ -200,7 +200,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number A,B with [3(2022+A)]^2 given *
+*Number A,B with [3(2022+A)]^2 given*
 
 > Two digits The two digits A and B are such that [3(2022 + A)]2 = 36.94B.084. Write down the number 00AB.
 

@@ -513,7 +513,7 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*This decimal number of 13^7/10^5 plus the root 3 of 10^5 *
+*This decimal number of 13^7/10^5 plus the root 3 of 10^5*
 
 > What is the sixth decimal digit after the comma of the number 137 + √ 3 105 ?
 >

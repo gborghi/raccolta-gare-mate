@@ -129,7 +129,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n with n sides and 4n diagonal *
+*Value of n with n sides and 4n diagonal*
 
 > A regular polygon has n sides and 4 n diagonals. How much is n?
 >
@@ -650,7 +650,7 @@ How old is Barbara given the number of cuts*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sara's age from the sum of the age figures *
+*Sara's age from the sum of the age figures*
 
 > Two mathematicians, Andrea and Sara, meet one evening. Andrea says the sum of the numbers of my age is equal to the sum of the numbers of your age, and Sarah answers but next year my sum will be four times your, to which Andrea replies yes, but in two years our sums will be equal again. Considering that neither of them has yet reached their 100th birthday, how old is Sara?
 >

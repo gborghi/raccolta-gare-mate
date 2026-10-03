@@ -40,7 +40,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grades of the angle of the slice (15%) *
+*Grades of the angle of the slice (15%)*
 
 ![[src_kangourou_2003_junior__prob1.png]]
 
@@ -320,7 +320,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tenth term succession (Fibonacci with signs) *
+*Tenth term succession (Fibonacci with signs)*
 
 > The first two terms of a sequence of numbers are 1 and 2 and each new term is obtained by dividing the term before the previous term by the previous term. What is the tenth term of succession? A) 2-10 B) 256 C) 2-13 D) 1024 E) 234
 
@@ -355,7 +355,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area bounded by elastic (3 circles) *
+*Figure area bounded by elastic (3 circles)*
 
 ![[src_kangourou_2003_junior__prob8.png]]
 
@@ -396,7 +396,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which module is the fourth (parallelepiped) *
+*Which module is the fourth (parallelepiped)*
 
 ![[src_kangourou_2003_junior__prob9.png]]
 
@@ -1354,11 +1354,9 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sums of three elements *
+*How many sums of three elements*
 
 > a, b and c are three distinct numbers taken together {1, 4, 7, 10, 13, 16, 19, 22, 25, 28}. How many different sums of a + b + c are possible? A) 19 B) 21 C) 22 D) 30 E) 63
-> 
-> I'm going to pay. I'm going to pay. 27 27 Kang 2003 Kang
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_junior#q28|src_kangourou_2003_junior__Q28]]

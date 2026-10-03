@@ -265,7 +265,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piccoli e mucche; contare mucche per animali totali e pantofole (versione liceale) *
+*Piccoli e mucche; contare mucche per animali totali e pantofole (versione liceale)*
 
 > Monsieur Deschamps possiede polli e mucche; le galline hanno due gambe e le mucche quattro. Per prepararsi all'inverno, deve fare pantofole per tutti. Ha 160 animali in totale e deve fare 400 pantofole. Quante mucche possiede?
 
@@ -320,7 +320,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area quadrilaterale IXJY all'interno del rettangolo ABCD dell'area 4 (versione liceale) *
+*Area quadrilaterale IXJY all'interno del rettangolo ABCD dell'area 4 (versione liceale)*
 
 > Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale $IXJY$?
 
@@ -387,7 +387,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra con esattamente 300 unità, senza zeri, e quadrato perfetto (versione liceale) *
+*Integra con esattamente 300 unità, senza zeri, e quadrato perfetto (versione liceale)*
 
 > Esiste un numero intero la cui rappresentazione decimale contiene esattamente 300 cifre uguali a $1$, nessun numero uguale a $0$, e che è un quadrato perfetto? Ad esempio, $9 = 3 \times 3$ è un quadrato perfetto ma $2$ non lo è.
 
@@ -512,7 +512,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di una sequenza di interi rigorosamente positivi che soddisfano a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1}) *
+*Esistenza di una sequenza di interi rigorosamente positivi che soddisfano a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1})*
 
 > Esiste una sequenza di integri rigorosamente positivi $a_0, a_1, \ldots$ tale che $$a_{n+2} = a_{n+1} + \sqrt{a_n + a_{n+1}}$$ per tutti gli integri $n \ge 0$?
 

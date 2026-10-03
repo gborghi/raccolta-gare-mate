@@ -29,7 +29,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con condizione di angolo bisector implica a^2 = b(b+c) *
+*Un triangolo con condizione di angolo bisector implica a^2 = b(b+c)*
 
 > In un triangolo $ABC$, $\angle A = 2\angle B$. Prove che $a^2 = b(b + c)$.
 

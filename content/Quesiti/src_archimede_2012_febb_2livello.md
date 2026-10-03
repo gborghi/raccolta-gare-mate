@@ -267,11 +267,11 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 
 > After a race of five horses, five friends meet and talk about the results. We know that each of them has bet on a different horse, and that both the people who bet on the first and last rated are lying; the others are telling the truth. Their statements are as follows: Alex: The horse Igor bet on has distanced Enrica's horse by at least two positions.  Enrica: The horse I bet on has won. Igor: The horse Osvaldo bet on has overtaken mine. Osvaldo: The horse I bet on has not made it to the top three. Umberto: My horse did not win but it came right after Alex's and right before Enrica's. Who bet on the third classified horse?
 >
-> - **(A)** Alex , what are you doing ?
-> - **(B)** I'm not sure.
-> - **(C)** The European Union
-> - **(D)** Other articles
-> - **(E)** There's no way to tell.
+> - **(A)** Alex
+> - **(B)** Igor
+> - **(C)** Osvaldo
+> - **(D)** Umberto
+> - **(E)** It cannot be determined.
 
 **Answer:** A
 [[Quesiti/src_archimede_2012_febb_2livello#q06|src_archimede_2012_febb_2livello__Q06]]
@@ -392,7 +392,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Couples m,n with mn=25! a reduced fraction of less than 1*
+*Couples m,n with mn=25! a reduced fraction of less than 1*
 
 > How many pairs of positive integers (m, n) are such that the fraction m n is reduced to the minimum terms and strictly less than 1, and that the product mn is equal to 1 · 2 · 3 · 24 · 25 (or the product of the first 25 positive integers)?
 >

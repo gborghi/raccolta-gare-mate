@@ -267,7 +267,7 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'angolo BAC dato AB=CD e il bisettore d'angolo *
+*Ricerca l'angolo BAC dato AB=CD e il bisettore d'angolo*
 
 > In un triangolo $ABC$ con $\angle ABC = 2\,\angle ACB$, $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Quando $AB = CD$, quanti gradi è $\angle BAC$? Qui, la lunghezza di un segmento $XY$ è indicata da $XY$.
 
@@ -323,7 +323,7 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare n a 3 cifre con S(6n) >= 12 S(n) *
+*Contare n a 3 cifre con S(6n) >= 12 S(n)*
 
 > Per un intero positivo $n$, $S(n)$ indica la somma dei divisori positivi di $n$. Quanti numeri interi positivi a tre cifre $n$ soddisfano $S(6n) \ge 12\,S(n)$?
 

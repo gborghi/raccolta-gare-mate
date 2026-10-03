@@ -125,7 +125,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the inequality between the lengths of the wires and the correct *
+*What is the inequality between the lengths of the wires and the correct*
 
 ![[src_kangourou_2014_junior__prob3.png]]
 
@@ -284,7 +284,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the large hexagon (double side) *
+*Area of the large hexagon (double side)*
 
 ![[src_kangourou_2014_junior__prob6.png]]
 
@@ -865,7 +865,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Win-loss difference in chess (40 matches, 25 points) *
+*Win-loss difference in chess (40 matches, 25 points)*
 
 > In a tournament, a chess player played 40 games earning 25 points: one point for each game won, half for each game drawn and zero for each game lost. What's the difference between the number of games he won and the number of games he lost? A) 5
 > 	
@@ -1335,7 +1335,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle TBP (tangent and biset) *
+*Measure of the angle TBP (tangent and biset)*
 
 ![[src_kangourou_2014_junior__prob27.png]]
 
@@ -1603,7 +1603,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the 2014 lineup *
+*How many liars in the 2014 lineup*
 
 > In the figure, you see a regular octagon. The area of the shaded region is $3 \text{ cm}^2$. What is the area of the octagon in square centimeters?
 > 

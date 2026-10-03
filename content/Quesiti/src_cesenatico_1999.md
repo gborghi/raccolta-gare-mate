@@ -89,7 +89,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AB passes through the intersection with r1+r2=r (tangent circles) *
+*AB passes through the intersection with r1+r2=r (tangent circles)*
 
 ![[src_cesenatico_1999__prob3.png]]
 
@@ -175,7 +175,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,k) with 3 k-1=x^n *
+*Pairs (x,k) with 3 k-1=x^n*
 
 > (a) Determine all pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^3.$$ equation. (b) Demonstrate that if $n$ is an integer greater than $1$ and different from $3$ there are no pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^n.$$ equation.
 

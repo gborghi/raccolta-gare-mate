@@ -1345,7 +1345,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the product of six numbers (divisibility) *
+*Result of the product of six numbers (divisibility)*
 
 > One of the following numbers is the result of operation 333 x 743 x 710 x 352 x 745 x 298. What kind? A) 13727978688124880 B) 13727978688124800 C) 12727978688123000 D) 12727978688124800 E) 14727978688124836
 

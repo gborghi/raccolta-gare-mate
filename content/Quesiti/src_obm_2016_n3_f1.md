@@ -62,7 +62,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione di Josias in una linea, con il numero davanti un quarto del numero dietro *
+*Posizione di Josias in una linea, con il numero davanti un quarto del numero dietro*
 
 > Josias sta in fila. Lasciate che la sua posizione sia $x$, così $x-1$ persone sono arrivate prima di lui e le persone che sono arrivate dopo di lui numero $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias $x$ nella riga? [Valore della chiave di risposta: $x=404$.]
 
@@ -686,7 +686,7 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione f sommazione degli esponenti primi; confronto dei valori e valutazione di f(2016) *
+*Funzione f sommazione degli esponenti primi; confronto dei valori e valutazione di f(2016)*
 
 > Considera la funzione $f$ in modo tale che se $n=p_1^{a_1}\cdots p_k^{a_k}$ è la fattorizzazione primaria di $n$, allora $f(n)=a_1+\dots+a_k$, con la convenzione utilizzata nella prova. La funzione soddisfa: per $m>n$ con $m$ un multiple di $n$, $f(m)>f(n)$. Per induzione, se $\frac{n}{p}$ ha $t$ fattori primari $f(\frac{n}{p})\geq t$ e $f(n)>f(\frac{n}{p})\geq t$, quindi $f(n)\geq t+1$. Con questo calcolo $f(2016)=f(2^5\cdot 3^2\cdot 7)=5+2+1+1=9$. Determinare il valore richiesto (es. $f(2016)$ o il limite correlato). [Valore della chiave di risposta: $9$.]
 

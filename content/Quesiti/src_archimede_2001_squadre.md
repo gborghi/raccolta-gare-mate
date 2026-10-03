@@ -34,7 +34,7 @@ level: squadre
 
 *inscribed circles and squares, radius over 2001*
 
-> This appropriation is intended to cover expenditure relating to the implementation of the programme.
+> **The IMO Confederation** (15 points)
 > 
 > The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius of 1 Imoparsec. If a square is circled around it and a circle is circled around it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$ The last belt is the only one with a greater radius than 2001 Imoparsec. How many are in all the belts?
 
@@ -135,9 +135,9 @@ The position of the planet (24.25) in paired numbering
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full maximum perimeter *
+*full maximum perimeter*
 
-> This is the total amount of the contribution from the Union budget to the programme.
+> **Montecitorio** (60 points)
 > 
 > The confederation's parliament is based on a triangle whose angle is twice that of the other. All sides of the triangle have a full length and a measure of 55 mm. How long can the perimeter of the building be, at most?
 
@@ -323,7 +323,7 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-* in how many ways*
+*in how many ways*
 
 > This is the total number of subscriptions.
 > 
@@ -765,9 +765,9 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*last 4 digits *
+*last 4 digits*
 
-> This is a list of the countries of Central and Eastern Europe.
+> **More archaeology** (45 points)
 > 
 > Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
 > 
@@ -835,7 +835,7 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many are *
+*how many are*
 
 > The following table shows the results of the calculations:
 > 
@@ -872,7 +872,7 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum to *
+*minimum to*
 
 > The following table shows the calculation of the average monthly earnings:
 > 
@@ -907,7 +907,7 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when *
+*when*
 
 > **Schools placed ** (15 points)
 > 
@@ -941,7 +941,7 @@ The measurement shall be carried out in accordance with the following conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*third radius *
+*third radius*
 
 > The amount of the loan shall be calculated as follows:
 > 

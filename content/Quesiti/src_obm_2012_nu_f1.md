@@ -32,7 +32,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max di sin 2x e disuguaglianza di prodotto *
+*Max di sin 2x e disuguaglianza di prodotto*
 
 > **a) ** Determinare il valore massimo possibile di $|\sin^2(x) \cdot \sin(2x)|$ per $x \in \mathbb{R}$.
 > 

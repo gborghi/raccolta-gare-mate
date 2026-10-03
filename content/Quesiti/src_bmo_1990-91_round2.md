@@ -66,7 +66,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare *
+*Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare*
 
 > 12 nani vivono in una foresta. Ognuno ha un mantello a due lati che è blu da un lato e rosso dall'altro, e ogni nano indossa costantemente il suo mantello dal lato rosso.
 > 
@@ -133,7 +133,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplici di x contengono sempre la cifra 2; trovare il più piccolo N *
+*Multiplici di x contengono sempre la cifra 2; trovare il più piccolo N*
 
 > $x$ sia un numero reale positivo. Prova che almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots,\ 20x$$ contiene la cifra $2$ nella sua espansione decimale.
 > 

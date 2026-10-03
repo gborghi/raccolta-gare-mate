@@ -555,7 +555,7 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle with competing axes and axes *
+*Triangle with competing axes and axes*
 
 > In a triangle, for each pair of consecutive sides, the two axes of the sides and the hinge of the angle formed by the two sides meet at the same point. We can say that:
 >
@@ -860,7 +860,7 @@ English and German bilingual employees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the alpha angle in Figure *
+*Measurement of the alpha angle in Figure*
 
 ![[src_archimede_2005_biennio__prob19.png]]
 

@@ -346,7 +346,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial containing 4 digits, value p(10) *
+*Polynomial containing 4 digits, value p(10)*
 
 > Henry is writing, in alphabetical order, all the possible anagrams of the word NUMERO. What position does the word NUMBER occupy in this list?
 >

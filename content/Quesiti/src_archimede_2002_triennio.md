@@ -240,7 +240,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which integers a/b + c/d = (a+c)/(b+d) *
+*For which integers a/b + c/d = (a+c)/(b+d)*
 
 > For which positive integers a, b, c, d can we have a b + c d = a + c b + d?
 >
@@ -722,7 +722,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum amount not payable with coins of 8 and 11 *
+*Maximum amount not payable with coins of 8 and 11*
 
 > LOrue is a currency that has only two coins, 8 and 11 cents. What is the maximum amount that cannot be paid exactly?
 >

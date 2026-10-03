@@ -168,7 +168,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizioni di bilanci ponderate contando le disuguaglianze T(100)>T(99) *
+*Posizioni di bilanci ponderate contando le disuguaglianze T(100)>T(99)*
 
 > $n \ge 3$ sia un numero naturale, $T(n)$ indichi il numero di modi in cui possiamo posizionare $n$ oggetti di pesi $1, 2, \ldots, n$ su un equilibrio in modo tale che la somma dei pesi in ogni pannello sia uguale. Prove che $T(100) > T(99)$.
 

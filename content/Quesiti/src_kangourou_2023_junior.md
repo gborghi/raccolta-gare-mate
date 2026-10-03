@@ -404,7 +404,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*measurement of the CAD angle *
+*measurement of the CAD angle*
 
 ![[src_kangourou_2023_junior__prob8.png]]
 
@@ -519,7 +519,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits of (4^7) ^9 × (5^2) ^64 *
+*sum of digits of (4^7) ^9 × (5^2) ^64*
 
 > What is the sum of the digits of the number (47)9 × (52)64 ? A) 1
 > 	
@@ -610,7 +610,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* reduced life and range by 1/4, reduced consumption*
+*reduced life and range by 1/4, reduced consumption*
 
 > If, in order to save water, you have reduced the duration of the shower by a quarter and (by reducing the pressure) also by a quarter the volume of water you consume for the shower in the unit of time, how much have you reduced the water consumption for a shower? A) 1/4 B) 3/8
 > 	
@@ -663,7 +663,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* area of shaded trapezoid*
+*area of shaded trapezoid*
 
 ![[src_kangourou_2023_junior__prob13.png]]
 
@@ -941,7 +941,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer Min = arithmetic mean of five primes *
+*Integer Min = arithmetic mean of five primes*
 
 > What is the smallest positive integer that matches the arithmetic mean of five prime numbers? A) 2
 > 	
@@ -1105,7 +1105,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* square of AB*
+*square of AB*
 
 ![[src_kangourou_2023_junior__prob22.png]]
 
@@ -1178,7 +1178,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* circle ? *
+*circle ?*
 
 ![[src_kangourou_2023_junior__prob23.png]]
 
@@ -1569,7 +1569,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignments 1..9 with each successive triple multiple of 3 *
+*Alignments 1..9 with each successive triple multiple of 3*
 
 > How many ways can integers from 1 to 9, 1 and 9 included, be aligned so that for each triple of numbers that are consecutive in the alignment, the sum of the three numbers in the triple is a multiple of 3? A) 64 B) 63
 > 	

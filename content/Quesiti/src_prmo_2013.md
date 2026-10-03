@@ -282,7 +282,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tre numeri nel problema di aggiunta/moltiplicazione di Carol *
+*Summa di tre numeri nel problema di aggiunta/moltiplicazione di Carol*
 
 > Carol ricevette tre numeri e gli fu chiesto di aggiungere il più grande dei tre al prodotto degli altri due. Invece, moltiplicò la più grande con la somma delle altre due, ma ottenne comunque la risposta giusta. Qual è la somma dei tre numeri?
 
@@ -335,7 +335,7 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza del PC in triangolo equilaterale con PQRS rettangolo inciso *
+*Lunghezza del PC in triangolo equilaterale con PQRS rettangolo inciso*
 
 > Lasciate che $ABC$ sia un triangolo equilaterale. Che $P$ e $S$ siano punti su $AB$ e $AC$, rispettivamente, e che $Q$ e $R$ siano punti su $BC$ in modo tale che $PQRS$ sia un rettangolo. Se $PQ = \sqrt{3}\,PS$ e la superficie di $PQRS$ sono $28\sqrt{3}$, quale è la lunghezza di $PC$?
 

@@ -35,7 +35,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quinti della decimale ricorrente 0,25 (con 5 ricorrenti) *
+*Due quinti della decimale ricorrente 0,25 (con 5 ricorrenti)*
 
 > Quali sono i due quinti del decimale ricorrente $0.2\overline{5}$?
 >
@@ -75,7 +75,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di duecenti (≈0,0000018 m) in una lega (≈4800 m) *
+*Nombre di duecenti (≈0,0000018 m) in una lega (≈4800 m)*
 
 > Un *twip* è un'unità di lunghezza molto breve, derivata da unità imperiali, ed è uguale a circa 0,0000018 metri. Una lega ** è un'unità di lunghezza pari a circa 4800 metri. Quante squadre ci sono in una lega?
 >
@@ -283,7 +283,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fattore primo più basso di 35 − 1 *
+*Fattore primo più basso di 35 − 1*
 
 > Qual è il più grande fattore primo di $3^5 - 1$?
 >
@@ -405,7 +405,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di fattori a due cifre del 2024 (= 23 × 11 × 23) *
+*Numero di fattori a due cifre del 2024 (= 23 × 11 × 23)*
 
 > La fattorizzazione primaria del 2024 è $2^3 \times 11 \times 23$. Quanti numeri a due cifre sono fattori del 2024?
 >
@@ -702,7 +702,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sacco di 4 palle rosse/bianche; P( entrambe disegnate in rosso) = 1/6; trovare P( entrambe disegnate in bianco) *
+*Sacco di 4 palle rosse/bianche; P( entrambe disegnate in rosso) = 1/6; trovare P( entrambe disegnate in bianco)*
 
 > Un sacchetto contiene quattro palle, ognuna di cui è di colore rosso o bianco. Se una palla viene tirata a caso e non sostituita, allora un'altra viene tirata a caso, la probabilità che entrambe le palle siano rosse è $\frac{1}{6}$. Qual è la probabilità che entrambe le palle siano bianche?
 >
@@ -998,7 +998,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x) + f(1/(1-x)) = 24x; trovare f(3) *
+*Equazione funzionale f(x) + f(1/(1-x)) = 24x; trovare f(3)*
 
 > Una funzione $f$ soddisfa l'equazione $f(x) + f\!\left(\dfrac{1}{1-x}\right) = 24x$ per tutti i valori reali di $x$ tranne $x = 0$ e $x = 1$. Qual è il valore di $f(3)$?
 >

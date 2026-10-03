@@ -95,7 +95,7 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three friends with a total age of 28 years, between the ages of 37 years *
+*Three friends with a total age of 28 years, between the ages of 37 years*
 
 > Jacob, Luca and Francesco are together $28$ years. How many years from now will they have$37$together?
 
@@ -644,7 +644,7 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACD angle by folding a diagonal rectangle *
+*ACD angle by folding a diagonal rectangle*
 
 > Fold the $ABCD$ rectangle along its $AC$ diagonal, thus obtaining the $ACF$ triangle. The area of the $BEC$ triangle is $\frac{1}{6}$ of that of the rectangle.
 > 

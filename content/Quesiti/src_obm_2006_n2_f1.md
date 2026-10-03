@@ -69,7 +69,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura *
+*Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura*
 
 > Sono fornite due strisce rettangolari di carta: una lunga $20\,\text{cm}$ e larga $5\,\text{cm}$, e un'altra lunga $20\,\text{cm}$ e larga $11\,\text{cm}$. Uno è piegato perpendicolare sull'altro per formare la figura mostrata. Il perimetro di questa figura, in centimetri, è:
 > 
@@ -207,7 +207,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma di tre naturali consecutivi è pari al loro prodotto; trovare la somma *
+*La somma di tre naturali consecutivi è pari al loro prodotto; trovare la somma*
 
 > La somma di tre numeri naturali consecutivi è uguale al prodotto di questi tre numeri. La somma di questi numeri è:
 > 
@@ -590,7 +590,7 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati a, b, c sommati a 1; determinare quale disuguaglianza *
+*Triangolo con lati a, b, c sommati a 1; determinare quale disuguaglianza*
 
 > $a$, $b$, $c$ siano numeri reali positivi con $a + b + c = 1$. Se $a$, $b$, $c$ sono le lunghezze laterali di un triangolo, possiamo concludere che:
 > 

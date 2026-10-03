@@ -161,7 +161,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Are there more reducible or irreducible fractions (1..6) *
+*Are there more reducible or irreducible fractions (1..6)*
 
 > Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are there more reducible fractions or irreducible fractions?
 
@@ -187,7 +187,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum antenna distance from the most distant dwelling (triangle) *
+*Minimum antenna distance from the most distant dwelling (triangle)*
 
 > Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. What is, in metres, the minimum distance that the antenna can have from the dwelling that will make it the furthest away?
 

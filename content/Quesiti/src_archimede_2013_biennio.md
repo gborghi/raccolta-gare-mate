@@ -167,7 +167,7 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rhythmic criterion TRE+TRE=SEI, property of the digits *
+*Rhythmic criterion TRE+TRE=SEI, property of the digits*
 
 > Andrea writes the sum of two three-digit numbers with the corresponding result. He then replaces each digit with a letter, matching the same letter to the same digit and using different letters for different digits. This way you get: TRE + TRE = SEI. So, what?
 >
@@ -464,7 +464,7 @@ Chilies eaten by Alberto, split and returned
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report area CDE triangle and trapezoid *
+*Report area CDE triangle and trapezoid*
 
 ![[src_archimede_2013_biennio__prob10.png]]
 

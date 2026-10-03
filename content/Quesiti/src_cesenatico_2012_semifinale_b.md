@@ -37,7 +37,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exagone layer for N circles (packaging) *
+*Minimum exagone layer for N circles (packaging)*
 
 > The last stone The world has come to an end at other times in the past. Once in particular it was a certain Esmeralda Weatherwax who challenged Death to the game for everyone's salvation, but neither chess, cards, nor Monopoly were chosen. The two players sat down in front of a large pile of stones and began to play. He started Emerald, which took 30 stones. Death took 130 of them, then Emerald took 230. And they did so, according to the rules, which required each one to collect 100 more stones than the previous one. When the stones on the ground were no longer enough, the player would collect them all. The first one who couldn't pick up a stone would lose. As you can imagine, Esmeralda won after collecting 9,284 stones throughout the game. How many stones did Death collect?
 
@@ -105,7 +105,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum beam for dividing rotating solid *
+*Minimum beam for dividing rotating solid*
 
 > From a time capsule buried fifty years ago a prophecy is recovered: The world will end in a solar flare in year n, where n is the largest number of 4 digits dividing by. . . ”. Unfortunately, the number that was written in place of the dots is no longer legible, only understood to have at least seven digits. Knowing that the MIT glow will occur this year, what is the smallest possible value for the number that completed the prophecy?
 
@@ -174,7 +174,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a safe land (circular shield) *
+*Probability of a safe land (circular shield)*
 
 > Deep impact An asteroid is heading toward Earth. Its shape is that of a rotating solid, obtained by rotating around the straight axis of the side AB (which measures 3800 meters) the flat figure consisting of the square ABCD and the 4 circles with a radius of 1900 meters and centers at the vertices of the square. To destroy it, heroic miners are sent to the asteroid that can count on an infinite number of bombs, each of which disintegrates everything within a radius r from the point where it explodes. Our heroes cover the entire surface of the asteroid with bombs, only a few inches apart from each other and then detonate them simultaneously. How many meters must r be at least for the remainder of the asteroid to be split into at least two pieces?
 
@@ -318,7 +318,7 @@ The value of *11 *8) + 13 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alien speed (overtaking and crossing on track) *
+*Alien speed (overtaking and crossing on track)*
 
 > The alien invaders Santovasku know that the only Earthling who can resist them is a scholar who keeps the secrets to defeat them on n voluminous books, arranged on a single shelf, from number 1 (left) all the way to number n (right). To destroy the books, an alien insect is sent out into the space between page 100 and page 101 of the first volume and begins to eat to the right, until the last volume, where it stops between page 10 and page 11. It is known that each volume has 38 more pages than the previous one and that the sum of the pages of the fourth and last volumes is equal to twice the pages of the seventh volume and three times the pages of the first volume. How many pages did the worm eat? Ignore the covers, but remember how the volumes are arranged on the shelf.
 
@@ -423,7 +423,7 @@ The value of *11 *8) + 13 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max of persons in the shelter (hexagonal polygon area) *
+*Max of persons in the shelter (hexagonal polygon area)*
 
 > Another sign A space probe has recently discovered on the surface of Mars a mysterious monolith that may foretell the end of the world. One of its square faces ABCD, has an area of 2012 m2. That is, E is the middle point of AB and O is the intersection between AC and BD, it is noted that the intersection between the DCE triangle and the ABO triangle is red in colour. All the rest of the monolith is black. How many square meters is the red area?
 

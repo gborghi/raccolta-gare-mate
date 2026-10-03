@@ -166,7 +166,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Iterated binary operation on positive real *
+*Iterated binary operation on positive real*
 
 > Given two positive real numbers a, b we define a ⋆b = ab + 1 a + b. How much is 1 ⋆(2 ⋆(3 ⋆(· (2017 ⋆2018)))?
 >
@@ -302,7 +302,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External square polygon area with isosceles trapezoid *
+*External square polygon area with isosceles trapezoid*
 
 ![[src_archimede_2018_2livello__prob7.png]]
 
@@ -592,7 +592,7 @@ Three soccer friends who started at the door.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digital clock, not dividing *
+*Digital clock, not dividing*
 
 > Consider a digital clock and the four-digit numbers (hours and minutes): 10:45 will indicate the number 1045. What is the smallest positive integer that doesn't divide any of the numbers that appear between 11:00 and 12:59?
 

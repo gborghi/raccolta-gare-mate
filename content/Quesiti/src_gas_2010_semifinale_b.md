@@ -177,7 +177,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting of odd lines in the Triangle of Tartaglia (1600-1726) *
+*Counting of odd lines in the Triangle of Tartaglia (1600-1726)*
 
 > 6. The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is dedicated to a year from 1600 to 1726 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a singleπ-rate was sunk, in 1601 (1),
 
@@ -212,7 +212,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum a=n^5+4n^4 squared of odd whole *
+*Minimum a=n^5+4n^4 squared of odd whole*
 
 > The Aztec fortress The Aztec gold fortress is empty and all the ancient coins must be recovered before the curse is dissolved. The ghost pirate Bourbakossa has led his men to look everywhere, and in the meantime he tries to remember how many coins there were when the enforcer was found. The only clue is a note in Captain Jack Disparrow's boarding journal that says: ...the Aztec coins are in quantity equal to the smallest positive integer a = n5 + 4n4, such that n is a natural number and a is the square of an odd integer. How many coins must the π-raties of Bourbakossa look for?
 

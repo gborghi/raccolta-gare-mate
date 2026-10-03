@@ -57,7 +57,7 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le k in modo che una squadrata disuguaglianza quadrata a 4 variabili si mantenga su [-1+∞) *
+*Trova tutte le k in modo che una squadrata disuguaglianza quadrata a 4 variabili si mantenga su [-1+∞)*
 
 > Trovare tutti i numeri reali $k$ in modo tale che l'ineguaglianza $a^2 + b^2 + c^2 + d^2 + 1 \ge k(a + b + c + d)$ sia valida per qualsiasi $a, b, c, d \in [-1, +\infty)$.
 

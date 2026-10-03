@@ -57,7 +57,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i reali positivi y che soddisfano {y}{2y}=1 dove {x}=max(x,1/x) *
+*Trova tutti i reali positivi y che soddisfano {y}{2y}=1 dove {x}=max(x,1/x)*
 
 > Per ogni numero reale positivo $x$, definire $\{x\}$ come il più grande di $x$ e $\dfrac{1}{x}$. Trova, con la prova, tutti i numeri reali positivi $y$ in modo tale che $$\{y\}\{2y\} = 1.$$
 

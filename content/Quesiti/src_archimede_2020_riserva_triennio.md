@@ -156,7 +156,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third-digit numbers equal to 0 and 7 *
+*Third-digit numbers equal to 0 and 7*
 
 > How many numbers are equal to three digits all different from each other, where are both the digit 0 and the digit 7 present?
 >

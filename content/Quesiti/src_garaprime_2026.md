@@ -39,7 +39,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of all 1024^3 dividers *
+*Products of all 1024^3 dividers*
 
 > Teacher Scaldasedia, in order not to give a lesson, assigns her students to do a calculation in class that she thinks is long enough to fill in all the time: find the product of all the divisors of 10243, including 1 and 10243. To her great surprise, after a few minutes, her best student brings her the drawer with the correct result written on it. What is the result?
 >
@@ -522,7 +522,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural between 10 and 2026 with a sum of 3 digits *
+*Natural between 10 and 2026 with a sum of 3 digits*
 
 > What are the natural numbers greater than 10 and less than 2026 whose sum of the digits is 3?
 >
@@ -732,7 +732,7 @@ Problems written by Mark when Anna finished
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anater with red head and feathers (together) *
+*Anater with red head and feathers (together)*
 
 > A lake is populated by 800 ducks with red or blue feathers and red or blue heads. If 430 ducks have red feathers, 290 ducks have blue heads and 160 ducks have both blue heads and blue feathers, how many ducks have both red heads and red feathers?
 >

@@ -231,7 +231,7 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa della popolazione tre anni fa data l'attuale crescita *
+*Summa della popolazione tre anni fa data l'attuale crescita*
 
 > Tre anni fa, la popolazione di Pirajussara era uguale a quella di Tucupira oggi. Da allora, la popolazione di Pirajussara non è cambiata, mentre la popolazione di Tucupira è cresciuta di $50\%$. Attualmente, entrambe le città insieme hanno $9{,}000$ abitanti. Qual era la somma della popolazione delle due città tre anni fa?
 > 

@@ -202,7 +202,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di polvere di 10^1992 / (10^83 + 7) *
+*Unità di polvere di 10^1992 / (10^83 + 7)*
 
 > Qual è la cifra di unità del più grande intero inferiore o uguale a $\dfrac{10^{1992}}{10^{83}+7}$?
 

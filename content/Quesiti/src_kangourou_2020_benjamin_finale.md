@@ -123,7 +123,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the numbers of the candles per serving (two cuts) *
+*Sum of the numbers of the candles per serving (two cuts)*
 
 ![[src_kangourou_2020_benjamin_finale__probb4.png]]
 
@@ -173,7 +173,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of P from A by minimum route C-M (reflection) *
+*Distance of P from A by minimum route C-M (reflection)*
 
 ![[src_kangourou_2020_benjamin_finale__probb5.png]]
 

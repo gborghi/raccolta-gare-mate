@@ -965,7 +965,7 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many interesting numbers of 5 distinct digits *
+*How many interesting numbers of 5 distinct digits*
 
 > Let's say that a positive integer of five significant digits all different from each other is interesting if its first digit is the sum of the remaining four. How many interesting numbers are there? A) 72 B) 144 C) 168 D) 216 E) 288
 

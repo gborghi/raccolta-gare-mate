@@ -30,7 +30,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of areas of four triangles in regular dodecagon (side 13) *
+*Summary of areas of four triangles in regular dodecagon (side 13)*
 
 > Consider a regular dodecagon of vertices $A_1 A_2 \ldots A_{12}$ and side length $13$. Tracing the segments $A_1 A_6$, $A_5 A_{10}$ and $A_9 A_7$ forms four triangles within the dodecahedron. Calculate the sum of the areas of these four triangles.
 
@@ -386,7 +386,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer not to be expressed as 23k+17h (Frobenius) *
+*Maximum integer not to be expressed as 23k+17h (Frobenius)*
 
 > Find the maximum positive integer that cannot be expressed as $23k + 17h$, with $h, k > 0$.
 

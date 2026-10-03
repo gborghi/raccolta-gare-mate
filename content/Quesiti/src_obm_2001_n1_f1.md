@@ -102,7 +102,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo numero a tre cifre della sequenza 1, 6, 11, ... (passo 5) *
+*Primo numero a tre cifre della sequenza 1, 6, 11, ... (passo 5)*
 
 > Joana scrive la sequenza dei numeri naturali $1, 6, 11, \ldots$, dove ogni numero, con l'eccezione del primo, è uguale al precedente uno più cinque. Joana si ferma quando trova il primo numero a tre cifre della sequenza. Quel numero è:
 > 
@@ -376,7 +376,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso il prezzo di una dozzina di arance più una dozzina di banane in melone *
+*Espresso il prezzo di una dozzina di arance più una dozzina di banane in melone*
 
 > I meloni $2$ costano lo stesso che le arance $9$ più le banane $6$; inoltre, una mezza dozzina di banane costa metà di un melone. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è pari al prezzo di:
 > 

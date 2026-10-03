@@ -81,7 +81,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is not my *
+*which is not my*
 
 ![[src_kangourou_2015_marzo_benjamin__prob2.png]]
 
@@ -139,7 +139,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min squares to be repainted (not adjacent to each other) *
+*Min squares to be repainted (not adjacent to each other)*
 
 ![[src_kangourou_2015_marzo_benjamin__prob3.png]]
 
@@ -291,7 +291,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the highlighted line (4 cm2 squares) *
+*Length of the highlighted line (4 cm2 squares)*
 
 ![[src_kangourou_2015_marzo_benjamin__prob6.png]]
 
@@ -335,7 +335,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does Dita weigh (balances) *
+*How much does Dita weigh (balances)*
 
 ![[src_kangourou_2015_marzo_benjamin__prob7.png]]
 
@@ -451,7 +451,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* of what is overlapping *
+*of what is overlapping*
 
 ![[src_kangourou_2015_marzo_benjamin__prob10.png]]
 
@@ -927,7 +927,7 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number X *
+*number X*
 
 > In the sum shown here, the same letters represent the same number, and different letters represent different numbers. What number is represented by the letter X ? A) 2 B) 3 C) 4	         D) 5          E) 6
 
@@ -1189,7 +1189,7 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*top F *
+*top F*
 
 ![[src_kangourou_2015_marzo_benjamin__prob26.png]]
 
@@ -1389,7 +1389,7 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-* cube with red and blue *
+*cube with red and blue*
 
 > Brando used 1cm side cubes to build a 4cm side cube. He then painted three faces of the large cube red and the other three blue. When he finished, he noticed that none of the little cubes had three red faces. How many cubes have both red and blue faces? A) 0
 > 	

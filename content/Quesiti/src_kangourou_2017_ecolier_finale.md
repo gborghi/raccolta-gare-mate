@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pages does the holiday book have (4 types) *
+*How many pages does the holiday book have (4 types)*
 
 > On every page of a holiday book (including cover ones) there is a game or a drawing or a story or a problem. First come all the games, then all the drawings, then all the stories, and finally the problems: the number of games is equal to that of the drawings that is equal to that of the stories that is equal to that of the problems. On August 30, Luke read the story on page 48 and solved the problem on page 49. How many pages does the book have?
 

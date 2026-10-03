@@ -399,7 +399,7 @@ Time of three brothers, Bruno how many minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptarithmetic subtraction, sum of digits of letters *
+*Cryptarithmetic subtraction, sum of digits of letters*
 
 > The subtraction In this subtraction, different letters represent different digits:
 >  

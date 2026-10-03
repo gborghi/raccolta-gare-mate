@@ -57,7 +57,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza $4x^4+4y^3+5x^2+y+1\ge 12xy$ per i valori positivi *
+*Prove la disuguaglianza $4x^4+4y^3+5x^2+y+1\ge 12xy$ per i valori positivi*
 
 > Se $x$ e $y$ sono numeri reali positivi, dimostrare che $$4x^4 + 4y^3 + 5x^2 + y + 1 \ge 12xy.$$
 
@@ -85,7 +85,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie m>n di integri positivi con catena gcd uguale a gcd(m,2m-n) *
+*Ricerca tutte le coppie m>n di integri positivi con catena gcd uguale a gcd(m,2m-n)*
 
 > Determinare tutte le coppie $m > n$ di integri positivi tali che $$1 = \gcd(n+1,\, m+1) = \gcd(n+2,\, m+2) = \cdots = \gcd(m,\, 2m-n).$$
 

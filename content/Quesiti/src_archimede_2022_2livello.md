@@ -128,7 +128,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four tangent circles, radius of the fourth *
+*Four tangent circles, radius of the fourth*
 
 ![[src_archimede_2022_2livello__prob3.png]]
 
@@ -172,7 +172,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(a) + p(b) + p(c) = p(674), value of p(2022) *
+*Polynomial with p(a) + p(b) + p(c) = p(674), value of p(2022)*
 
 > The polynomial p(x) has the following property: for each set of integers a, b, c such that a+b+c = 2022 we have that p(a) + p(b) + p(c) = p(674). It is also known that p(0) = −2696. How much is it worth?
 >
@@ -488,7 +488,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Families of π chicks, total possibility after 7 nesting *
+*Families of π chicks, total possibility after 7 nesting*
 
 > π chi are animals that live in families of 1, 2 or 3 individuals. A family of 3 π chi were originally imported into Italy. A family of n π which reproduces by increasing 2n −2 new individuals, forming a total of 3n −2, and dividing into new families (not necessarily two families with the same number of individuals divide equally). All families reproduce simultaneously at each nest. For example, after the first nest there are necessarily seven π chi, which could be divided into three families of two and one of one, or into one of three and two of two, or into seven of one, etc. What are the chances for the total number of π chi after the seventh nesting?
 >

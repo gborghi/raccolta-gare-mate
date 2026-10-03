@@ -140,7 +140,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un insieme di razionali chiusi sotto due mappe contiene tutti i razionali in (0,1) *
+*Un insieme di razionali chiusi sotto due mappe contiene tutti i razionali in (0,1)*
 
 > Se $S$ è un insieme di numeri razionali con le seguenti proprietà: (i) $\frac{1}{2} \in S$, (ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ che $\frac{x}{x+1} \in S$. Prova che $S$ contiene tutti i numeri razionali nell'intervallo $0 < x < 1$.
 

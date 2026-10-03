@@ -37,7 +37,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-palindromic alignment *
+*Non-palindromic alignment*
 
 > 2002 is an alignment of numbers that provides the same number whether it is read from the right or the left. Which of the following number alignments does not have the same property?
 >  
@@ -199,7 +199,7 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum mice for one colour of each *
+*Minimum mice for one colour of each*
 
 > The magician Antony has 14 grey mice in his magic hat, 8 white and 6 black. What is the minimum number of mice you have to pull out of his magic hat, blindfolded, to be absolutely sure that, among the extracted mice, there is at least one for each color?
 >  
@@ -354,7 +354,7 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct angles less than 180 degrees *
+*Distinct angles less than 180 degrees*
 
 ![[src_kangourou_2002_benjamin__prob9.png]]
 

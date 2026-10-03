@@ -471,7 +471,7 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Switches of 1.10 with a sum equal to odd *
+*Switches of 1.10 with a sum equal to odd*
 
 > Out of all the possible lists of 10 numbers that I can get by writing, in any order, all the numbers from 1 to 10, how many are the ones where the sum of the numbers that occupy the equal positions is equal to the sum of the numbers that occupy the odd positions? A 0 B 10 C 2 D 28800 E 120 F 14400
 

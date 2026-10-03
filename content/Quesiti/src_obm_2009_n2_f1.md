@@ -268,7 +268,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Barella di cioccolato divisa 2/5, 1/4, restante 70 g; trovare peso totale *
+*Barella di cioccolato divisa 2/5, 1/4, restante 70 g; trovare peso totale*
 
 > Una barra di cioccolato è divisa tra Nelly, Penha e Sônia. Sapendo che Nelly riceve $\dfrac{2}{5}$ della barra, Penha $\dfrac{1}{4}$ della barra, e Sônia $70$ grammi, il peso della barra, in grammi, è:
 > 
@@ -301,7 +301,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Die laminato 10 volte, somma 57; numero minimo di sei *
+*Die laminato 10 volte, somma 57; numero minimo di sei*
 
 > Esmeralda rotolò un dado dieci volte e ottenne la somma di tutti i risultati. Almeno quante volte avrebbe potuto far rotolare un$6$?
 > 
@@ -372,7 +372,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5 carte bianche in coppie adiacenti; tutte possono essere fatte a lato nero? *
+*5 carte bianche in coppie adiacenti; tutte possono essere fatte a lato nero?*
 
 > Cinque carte identiche hanno ciascuno un lato bianco e un lato nero. Sono disposte in fila con il lato bianco rivolto verso l'alto. Una mossa consiste nel scegliere una coppia unica di carte adiacenti e girarle entrambe. Almeno quante mosse sono necessarie affinché tutte le carte finiscano con il lato nero rivolto verso l'alto?
 > 

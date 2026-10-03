@@ -677,7 +677,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the lunula of the square and circle *
+*Area of the lunula of the square and circle*
 
 ![[src_garaprime_2020__prob15.png]]
 
@@ -718,7 +718,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Product dividers and data dividers and MCD*
+*Product dividers and data dividers and MCD*
 
 > We know that m and n are two positive integers with 11 and 12 positive divisors respectively. Knowing also that the MCD(m, n) has 4 positive divisors, say how many positive divisors of the product mn. (Remember that 1 and the number itself must also be counted among the divisors of a number) A 42 B 33 C 36 D 52 E 143 F the data are insufficient to answer
 

@@ -685,7 +685,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*8x8 chessboard routes with right-hand moves *
+*8x8 chessboard routes with right-hand moves*
 
 > BEULERS GAME 2 Traveling on the Planar Express is boring and Beuler, having nothing else to do, sets out to invent games on the chessboard. The last solution was to place a pedal on the bottom left-hand box of a chessboard 8 8  and to calculate how many paths there are that lead the pedal into the bottom right-hand corner box, and to make only moves that move the pedal from one of the three boxes to the right-hand column and immediately upper row, or in the same row, or immediately lower row. What number did you find?
 

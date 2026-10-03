@@ -174,7 +174,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un intero positivo x con a^x + x  b (mod c) *
+*Esistenza di un intero positivo x con a^x + x  b (mod c)*
 
 > Dato un intero positivo $a$ e $c$ e un intero $b$, dimostrare che esiste un intero positivo $x$ tale che $$a^x + x \equiv b \pmod{c},$$, cioè esiste un intero positivo $x$ tale che $c$ divide $a^x + x - b$.
 

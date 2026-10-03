@@ -118,7 +118,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n per l'organizzazione del cerchio del torneo a rotonda *
+*Ricerca tutte le n per l'organizzazione del cerchio del torneo a rotonda*
 
 > $n$ ($n \ge 3$) i giocatori di tennis da tavolo hanno un torneo di round-robin  ogni giocatore giocherà tutti gli altri esattamente una volta, e non vi è alcun gioco di pareggio. Supponiamo che, dopo il torneo, tutti i giocatori possano essere organizzati in un cerchio in modo tale che: per tutti e tre i giocatori $A$, $B$, $C$ se $A$, $B$ sono adiacenti, allora almeno uno di loro ha sconfitto $C$. Si prega di trovare tutti i possibili valori di $n$. (posta da Fu Yunhao)
 

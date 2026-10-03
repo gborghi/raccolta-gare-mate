@@ -173,7 +173,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum beam for dividing rotating solid *
+*Minimum beam for dividing rotating solid*
 
 > Deep impact An asteroid is heading toward Earth. Its shape is that of a rotating solid, obtained by rotating around the straight axis of the side AB (which measures 3800 meters) the flat figure consisting of the square ABCD and the 4 circles with a radius of 1900 meters and centers at the vertices of the square. To destroy it, heroic miners are sent to the asteroid that can count on an infinite number of bombs, each of which disintegrates everything within a radius r from the point where it explodes. Our heroes cover the entire surface of the asteroid with bombs, only a few inches apart from each other and then detonate them simultaneously. How many meters must r be at least for the remainder of the asteroid to be split into at least two pieces?
 
@@ -247,7 +247,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a safe land (circular shield) *
+*Probability of a safe land (circular shield)*
 
 > First Impact On December 21, 2012, a spherical asteroid with a radius of 1/7 of a kilometer will hit the Earth's surface perpendicularly in a K-square area on the side of 26 km, making a hole exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (experts are likely to consider each position as equally likely). The authorities have a 5 km radius circular disintegrating shield: if the asteroid also competes in Team 2012  Semifinal A  Problem texts  1/1
 > 
@@ -384,7 +384,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alien speed (overtaking and crossing on track) *
+*Alien speed (overtaking and crossing on track)*
 
 > The ferocious aliens of the Uru System are invading Earth! The world will end unless the Earth Champion defeats the alien chief's daughter in a desperate race. The race is held on a 500-meter track, on multiple laps. The alien surpasses the Champion every three minutes. If one of them were to run in the opposite direction, they would cross each other every 20 seconds. What is the speed of the alien in centimeters per second?
 
@@ -487,7 +487,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max of persons in the shelter (hexagonal polygon area) *
+*Max of persons in the shelter (hexagonal polygon area)*
 
 > A new hope The End of the World Order has been activated and life on Earth will be extinct within a few months. Il Dr. Strangely, it suggests preserving the human race in underground shelters. The shelters constructed have the form described here. The habitable area is an equilateral QPR triangle of 112 m side. It is served by three PQDC, QRIH and RPNM square hydroponic tanks and by three regular hexagonal water tanks ABCPNO, FGHQDE and KLMRIJ. The actual residential area is a polygon with 6 STUVWX sides such that S = AI ∩RP, T = KC ∩RP, U = FN ∩PQ, V = AH ∩PQ, W = KD ∩QR and X = FM ∩QR. Knowing that 3.5 square meters of living space is needed per person, how many people can live at most in one of these shelters?
 
@@ -521,7 +521,7 @@ Sum of exponents of 2 in n! for n=1.63*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exagone layer for N circles (packaging) *
+*Minimum exagone layer for N circles (packaging)*
 
 > In an ancient Egyptian temple, a regular hexagon-shaped stone slab was found that was used to count years. For every year from an uncertain date between 700 BC and 800 BC until their demise, the Egyptians engraved a circle of 16 mm radius on the slab. The circles were engraved so as not to overlap, and it was calculated that, even by optimizing space, the plate was only placed for the years up to 2012 DC. Apparently, then it would be the Absolute Evil that would end civilization. How many millimetres does the side of the hexagon measure at least?
 

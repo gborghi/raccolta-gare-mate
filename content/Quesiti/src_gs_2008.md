@@ -207,7 +207,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts of four monkeys with aversions *
+*T-shirts of four monkeys with aversions*
 
 > At Tadfield Zoo, I (points 25) In Tadfield Zoo, the laughable town where the Apocalypse will begin, there are five monkeys named Albert, Berto, Sure, Derto and Erto. Sylvier, the zoo curator, taught the monkeys to wear t-shirts. Monkeys love to show off their new skills, but none of them would ever wear a shirt of a color they hate: Albert hates red and blue, Berto hates green; Certainly he hates red and green, Derto hates red and Erto hates blue and green. Sylvier doesn't know their color aversions: he bought yellow, blue, green and red shirts and left them in their playroom hoping that each of them would go out with a shirt on, as it actually happens. The monkeys have leaped on a branch in order of name: two wear a red shirt, and the blue-shirted monkey is next to one in a green shirt. Determine which colors wear Berto, Certo, Derto and Erto, writing in order the codes of the colors worn, using the following code: 1 = yellow, 2 = blue, 3 = green, 4 = red.
 
@@ -702,7 +702,7 @@ Maximum number of prismatic megaliths in a strip
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configurations of 10 entities around a table (adjacent shift) *
+*Configurations of 10 entities around a table (adjacent shift)*
 
 > The ineffable poker (points 70) 10 supernatural entities, tired of playing dice with the universe, decide to play poker. Sitting around a round table, they agree that, at midnight, they will all rise to sit down following this rule: each entity will be able to sit back in its previous seat or in one of the two adjacent seats. How many possible configurations of the game table, other than the initial one, after all entities have risen and resettled? [N.B. Two configurations which differ only in one rotation shall be considered the same for the purposes of counting.]
 

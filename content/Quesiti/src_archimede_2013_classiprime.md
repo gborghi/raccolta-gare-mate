@@ -36,7 +36,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MK unit numbers of 2^255 and 2^256 *
+*MK unit numbers of 2^255 and 2^256*
 
 > So a is 2255 and b is 2256. What is the number of units of the common multiple of a and b? A 0 B 2 C 4 D 8 E 5 F 6
 
@@ -313,7 +313,7 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to paint a wall working together (work/speed) *
+*Time to paint a wall working together (work/speed)*
 
 > It would take Luke eight hours to paint a wall, while Paul, who is slower, would take twice as long to do the same work. If they decide to work together, how long will it take them to paint the wall? Five hours and 20 minutes. B 6 hours C 4 hours and 30 minutes. D 5 hours and 15 minutes. And four hours and 40 minutes. F 5 hours
 
@@ -548,7 +548,7 @@ Maximum number of students with distinct binary words for 5 tests
 
 *Maximum first dividing by 251001*
 
-> So p is the largest prime number that divides 251001. In the case of the first subparagraph of Article 2 (1) of Regulation (EC) No 1408/71 the Commission shall adopt delegated acts in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71 and in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71.';
+> Let p be the largest prime number that divides 251001. Then:
 
 **Answer:** A
 [[Quesiti/src_archimede_2013_classiprime#q14|src_archimede_2013_classiprime__Q14]]

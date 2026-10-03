@@ -223,7 +223,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of paths from P to Q (downwards) *
+*Number of paths from P to Q (downwards)*
 
 ![[src_kangourou_2003_ecolier_finale__probe6.png]]
 

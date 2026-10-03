@@ -139,7 +139,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*angles and sides *
+*angles and sides*
 
 ![[src_cesenatico_2011__prob4.png]]
 
@@ -171,7 +171,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres of n^3 = p^2 - p - 1 with p prime *
+*Integres of n^3 = p^2 - p - 1 with p prime*
 
 > Determine all solutions (p, n) of the equation n3 = p2 −p −1 where p is a prime number and n is an integer.
 

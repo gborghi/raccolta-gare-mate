@@ -277,7 +277,7 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mediani di un triangolo pari lati di un altro; dimostrare ABC equilaterale *
+*Mediani di un triangolo pari lati di un altro; dimostrare ABC equilaterale*
 
 > I media $AD$, $BE$, $CF$ di un triangolo $ABC$ si incontrano a $G$. Prova che se i quadrilaterali $AFGE$ e $BDGF$ sono ciclici, il triangolo $ABC$ è equilaterale.
 

@@ -641,7 +641,7 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural pairs (m,n) with mn = p(m+n), p prime *
+*Natural pairs (m,n) with mn = p(m+n), p prime*
 
 > Given a prime number $p$, determine all ordered pairs of natural numbers $(m, n)$ that verify the equation: $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
 

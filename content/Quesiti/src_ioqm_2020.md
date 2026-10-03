@@ -115,7 +115,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo ABCD, AB+BC+CD=20, AE=9, punto medio E di BC; area *
+*Rettangolo ABCD, AB+BC+CD=20, AE=9, punto medio E di BC; area*
 
 > Il $ABCD$ deve essere un rettangolo in cui $AB + BC + CD = 20$ e $AE = 9$, in cui $E$ è il punto medio del lato $BC$. Trova l'area del rettangolo.
 
@@ -143,7 +143,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni integrali per il calcolo del bilancio 2020 < *
+*Soluzioni integrali per il calcolo del bilancio 2020 <*
 
 > Trovare il numero di soluzioni integrali a $\big||x| - 2020\big| < 5$.
 
@@ -577,7 +577,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N *
+*N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N*
 
 > Un totale di $N$ mille rupie viene versato ogni anno a tre persone $A, B, C$, a ciascuna una somma proporzionale alla sua età. Nel primo anno, $A$ ha ottenuto il sesto settimo dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ottenuto 1000 rupie in meno rispetto al primo anno; e $C$ ha ottenuto il doppio di quello che aveva nel primo anno. Trova $N$.
 
@@ -631,7 +631,7 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incircolo di triangolo di scalene; radii di circolo mistilineare r_A=16, r_B=25, r_C=36; radio di ritrovamento *
+*Incircolo di triangolo di scalene; radii di circolo mistilineare r_A=16, r_B=25, r_C=36; radio di ritrovamento*
 
 > L'incircolo $\Gamma$ di un triangolo di scalene $ABC$ tocca $BC$ a $D$, $CA$ a $E$ e $AB$ a $F$. Il $r_A$ deve essere il raggio del cerchio all'interno di $ABC$ che è tangente a $\Gamma$ e ai lati $AB$ e $AC$. Definire $r_B$ e $r_C$ in modo simile. Se $r_A = 16$, $r_B = 25$ e $r_C = 36$, determinare il raggio di $\Gamma$.
 

@@ -295,7 +295,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(p(x))=p(x) +x^4+x^2+1, calculated p(2025) *
+*Polynomial with p(p(x))=p(x) +x^4+x^2+1, calculated p(2025)*
 
 > Unexpected gifts from Dr. DoofenSchwartz decides to surprise his daughter. Vanasse DoofenSchwartz: "Daddy, what are you doing here?" Dr. DoofenSchwartz: I have a surprise for you. It's something you've always wanted and asked a thousand times. I have the key to your... I'm going to go with you. Doofen Schwartz: of my new car? Dr. DoofenSchwartz: No, of your happiness! You said if I bought you a polynomial, I'd be a great father. (Il Dr. DoofenSchwartz has in fact acquired a polynomial p(x) with real coefficients such that p(p(x)) = p(x) +x4 +x2 +1). How much is it worth?
 
@@ -777,7 +777,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*10000 times real root product of 16x^4-16x^3-4x+1 *
+*10000 times real root product of 16x^4-16x^3-4x+1*
 
 > Summer is coming to an end and φ-neas and Ferbmat have just built a machine capable of calculating the product of the real roots of a polynomial. To test it, they decide to insert the polynomial p(x) = 16x4 −16x3 −4x+1. While the machine is processing the result, BuFourier exclaims: Real radicals? So they must have a crown or something, right? (Suddenly, from a corner of the garden appears the Periodic ornitorinic). Oh, there you are, perryodic! Given the result calculated by the machine, what is the value of 10000?
 
@@ -824,7 +824,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of sub-tetrahedron by volume of sub-tetrahedron *
+*Volume of sub-tetrahedron by volume of sub-tetrahedron*
 
 ![[src_archimede_2025_squadre_finale__prob21.png]]
 

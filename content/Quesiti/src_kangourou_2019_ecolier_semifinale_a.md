@@ -287,7 +287,7 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total kilometres travelled by Mario (ascent descent) *
+*Total kilometres travelled by Mario (ascent descent)*
 
 > In three hours Mario went up to a shelter and without stopping he went down the valley. He went up at an average speed of 4 km/h and down at 12 km/h. How many kilometres, in total, did Mario walk there and back?
 
@@ -475,35 +475,6 @@ Members of the smaller gorilla family
 > alcuni di essi è stato chiesto: quante zampe hanno complessivamente quattordici gatti, un pollo e 
 > diciassette gurocan? Carlo ha risposto 108, Linda 130, Maria 164, Nina 196 e Oliviero 262. Uno (o 
 > una) di essi ha risposto correttamente. Quante zampe ha dunque un gurocan? 
->  
-> 1 
-> 2 
-> 3 
-> 4 
-> A  
-> 2 
->  
->  
-> B  
->  
-> 10
->  
-> C 5 
->  
->  
->  
-> D 10  
->  
-> 5 
-> 
-> 1 
->  
-> Kangourou della Matematica 2019 
-> Coppa Ecolier a squadre 
-> Semifinale turno A 
-> Cervia, 8 maggio 2019 
->  
-> Quesiti e soluzioni
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -516,30 +487,9 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many legs does a gurocan have?
+*How many legs does a gurocan have?*
 
-> The gurocan is a fantastic animal that all the kids in the schools of Kangaroo know well. Some of them were asked: How many legs do 14 cats, one chicken and 17 gurocan have in total? Charles answered 108, Linda 130, Mary 164, Nina 196 and Olivier 262. One (or another) of them answered correctly. So how many legs does a gurocan have?
->  
-> 1 2 3 4 A 2
->  
->  
-> B
->  
-> 10
->  
-> C 5
->  
->  
->  
-> D 10
->  
-> 5
-> 
-> 1
->  
-> Kangourou of Mathematics 2019 Ecolier Cup to teams Semifinal round in Cervia, 8 May 2019
->  
-> Questions and solutions
+> The gurocan is a fantastic animal that all the kids in the schools of Kanguria know well. Some of them were asked: How many legs do fourteen cats, one chicken and seventeen gurocans have in total? Carlo answered 108, Linda 130, Maria 164, Nina 196 and Oliviero 262. One of them answered correctly. So how many legs does a gurocan have?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q15|src_kangourou_2019_ecolier_semifinale_a__Q15]]

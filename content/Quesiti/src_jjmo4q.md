@@ -242,7 +242,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritrovare triples di integri positivi reciprocamente coprimi dove due di entrambi sono quadrati perfetti, con somma minima *
+*Ritrovare triples di integri positivi reciprocamente coprimi dove due di entrambi sono quadrati perfetti, con somma minima*
 
 > Tra i set di tre integri positivi reciprocamente coprimi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali set con la somma più piccola possibile dei tre numeri. Qui, le serie $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerate uguali, mentre $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono anche uguali.
 

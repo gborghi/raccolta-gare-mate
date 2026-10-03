@@ -121,7 +121,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima della somma del pavimento a_i/i) su tutte le permutazioni *
+*Valuta minima della somma del pavimento a_i/i) su tutte le permutazioni*
 
 > $n$ sia un numero intero positivo. Quando $a_1, a_2, \ldots, a_n$ è una permutazione di $1, 2, \ldots, n$, trovare il valore minimo possibile di $$\left\lfloor \frac{a_1}{1} \right\rfloor + \left\lfloor \frac{a_2}{2} \right\rfloor + \cdots + \left\lfloor \frac{a_n}{n} \right\rfloor.$$ Qui una permutazione di $1, 2, \ldots, n$ è una sequenza di lunghezza $n$ in cui ogni numero intero da $1$ a $n$ appare esattamente una volta, e $\lfloor r \rfloor$ indica il numero intero più grande non superiore al numero reale $r$.
 

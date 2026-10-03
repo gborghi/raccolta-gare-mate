@@ -145,7 +145,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il lambda massimo con restrizione di disuguaglianza sui valori positivi *
+*Ricerca il lambda massimo con restrizione di disuguaglianza sui valori positivi*
 
 > Determinare il valore massimo della costante $\lambda$ in modo tale che $u + v + w \ge \lambda$, dove $u$, $v$ e $w$ sono numeri reali positivi che soddisfano $u\sqrt{vw} + v\sqrt{wu} + w\sqrt{uv} \ge 1$.
 

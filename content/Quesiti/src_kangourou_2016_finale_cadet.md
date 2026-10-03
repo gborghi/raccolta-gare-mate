@@ -46,7 +46,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*side of the largest triangle *
+*side of the largest triangle*
 
 ![[src_kangourou_2016_finale_cadet__probc1.png]]
 
@@ -91,7 +91,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* frozen 2 kang with 2 euro *
+*frozen 2 kang with 2 euro*
 
 > The currency of Kangland is the kang. In Kangcity the euro-kang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 
@@ -122,7 +122,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* is suitable for which? *
+*is suitable for which?*
 
 > The Fox student must, to be promoted, make a maximum of one mistake and take a closed-ended test. You can choose between two envelopes: - envelope A containing $7$ questions, each with $2$ answers, - envelope B containing $3$ questions, each with $6$ answers. Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
 
@@ -166,7 +166,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* full diameter of coin B*
+*full diameter of coin B*
 
 ![[src_kangourou_2016_finale_cadet__probc4.png]]
 
@@ -272,7 +272,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*days of additional bridge *
+*days of additional bridge*
 
 > In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceded and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
 

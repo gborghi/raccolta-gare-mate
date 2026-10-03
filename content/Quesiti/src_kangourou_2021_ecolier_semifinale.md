@@ -158,7 +158,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Yellow tiles on the floor with red diagonals *
+*Yellow tiles on the floor with red diagonals*
 
 > (3 points) A square floor is tiled with square tiles all of the same size. The nine tiles along the diagonals are red, the others yellow. How many yellow tiles are there? A) 10
 >  
@@ -513,7 +513,7 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certainly false claim (Lisa's euro) *
+*Certainly false claim (Lisa's euro)*
 
 > (6 points) If of the following three statements a) Lisa has more than 2021 euros b) Lisa has less than 2021 euros c) Lisa has at least 1 euro one and only one is true, which of the following statements is definitely false? A) Lisa has 2021 euros.
 >  
@@ -578,7 +578,7 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of one watermelon in hectograms (3 kg less than three watermelons) *
+*Weight of one watermelon in hectograms (3 kg less than three watermelons)*
 
 > (4 points) One watermelon weighs 3 kg less than three watermelons. All watermelons have the same weight. Which is it, in hectograms?
 

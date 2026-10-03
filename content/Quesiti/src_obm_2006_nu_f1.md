@@ -29,7 +29,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un'integrale impropria con esponenziale *
+*Calcolare un'integrale impropria con esponenziale*
 
 > Calcolo $$\int_2^{\infty} \frac{e^x - 1 - x}{(e^x - 1) \cdot x}\, dx.$$
 
@@ -57,7 +57,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di solido definito con la somma del livello *
+*Volume di solido definito con la somma del livello*
 
 > $N$ sia un numero intero positivo. Calcolare, come funzione di $N$, il volume del solido definito da $$x,\, y,\, z \in [0, +\infty), \quad \lfloor x \rfloor + \lfloor y \rfloor + \lfloor z \rfloor \le N.$$
 

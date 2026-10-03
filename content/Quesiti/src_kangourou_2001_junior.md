@@ -557,7 +557,7 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle x in figure *
+*Measure of the angle x in figure*
 
 ![[src_kangourou_2001_junior__prob12.png]]
 
@@ -1171,7 +1171,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 102 empty boxes given *
+*Total 102 empty boxes given*
 
 > I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102     (B) 64      (C) 118     (D) 115        (E) cannot be answered. .
 >  

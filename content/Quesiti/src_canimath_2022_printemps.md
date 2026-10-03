@@ -94,7 +94,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Venti edifici in cerchio, edifici interessanti, connessi sul piano totale *
+*Venti edifici in cerchio, edifici interessanti, connessi sul piano totale*
 
 > Considerate venti edifici disposti attorno a un cerchio. Ogni edificio ha un numero intero di piani tra $1$ e $20$. Supponiamo che due edifici abbiano sempre un numero diverso di piani. Un edificio è chiamato interessante se ha più piani di uno dei suoi vicini e meno piani rispetto all'altro dei suoi vicini. Gli edifici sono disposti in modo tale che ci siano in totale sei edifici interessanti.
 > 
@@ -245,7 +245,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tesouro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale di diamanti *
+*Tesouro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale di diamanti*
 
 > Il prezzo (in euro) di un diamante corrisponde alla sua massa (in grammi) sollevata al quadrato e poi moltiplicata per $100$. Il prezzo (in euro) di un cristallo corrisponde a tre volte la sua massa (in grammi). Martin e Theodore scoprono un tesoro composto da pietre preziose che sono diamanti o cristalli e il cui valore totale è $5\,000\,000\,\text{\euro}$. Tagliavano ogni pietra preziosa in due, e ognuno prende la metà di ogni pietra. Il valore totale delle pietre di Martin vale $2\,000\,000\,\text{\euro}$. In euro, quale era il valore totale iniziale dei diamanti contenuti nel tesoro?
 > 
@@ -274,7 +274,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, punto simmetrico e piede di altitudine, trovare i tre angoli (lycee) *
+*Triangolo isosceles, punto simmetrico e piede di altitudine, trovare i tre angoli (lycee)*
 
 > Si deve $AMC$ essere un triangolo a uguale scala a $M$ e tale che l'angolo $\widehat{AMC}$ sia acuto. Il punto $B$ deve essere simmetrico del punto $A$ rispetto al punto $M$, e il punto $H$ deve essere il piede dell'altitudine dal vertice $C$ nel triangolo $ABC$. Supponiamo che $AH = HM$. Calcolare i valori dei tre angoli del triangolo $ABC$.
 
@@ -305,7 +305,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Venti edifici in cerchio, edifici interessanti, limitati sul piano (lisse) *
+*Venti edifici in cerchio, edifici interessanti, limitati sul piano (lisse)*
 
 > Considerate venti edifici disposti attorno a un cerchio. Ogni edificio ha un numero intero di piani tra $1$ e $20$. Supponiamo che due edifici abbiano sempre un numero diverso di piani. Un edificio è chiamato interessante se ha più piani di uno dei suoi vicini e meno piani rispetto all'altro dei suoi vicini. Gli edifici sono disposti in modo tale che ci siano in totale sei edifici interessanti.
 > 
@@ -340,7 +340,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzazione dei vincitori del regalo a quadrato perfetto (liceo) *
+*Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzazione dei vincitori del regalo a quadrato perfetto (liceo)*
 
 > In una stanza ci sono dieci studenti. Aline scrive dieci numeri interi relativi consecutivi sulla lavagna. Ogni studente sceglie uno dei dieci numeri interi scritti sulla lavagna, in modo tale che ogni due studenti scelgano sempre due numeri interi diversi. Ogni studente calcola poi la somma dei nove numeri interi scelti dagli altri nove studenti. Ogni studente il cui risultato è un quadrato perfetto riceve un dono.
 > 
@@ -398,7 +398,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee) *
+*Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee)*
 
 > Ogni punto del piano è colorato con uno dei tre colori blu, verde o rosso. Per ogni colore, supponiamo che ci sia almeno un punto del piano colorato con quel colore. Mostrare che esiste un triangolo rettangolo le cui tre vertici sono di coppie di colori diversi.
 
@@ -466,7 +466,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato *
+*Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato*
 
 > $n$ sia un intero rigorosamente positivo, $x_1, \ldots, x_{n+1}$ rigorosamente positivi reali e $p < q$ due interi rigorosamente positivi. Supponiamo che $$x_{n+1}^p > x_1^p + \ldots + x_n^p.$$
 > 

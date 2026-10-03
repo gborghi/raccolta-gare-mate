@@ -305,7 +305,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque integri positivi con determinate condizioni di somma del prodotto, trovare totale *
+*Cinque integri positivi con determinate condizioni di somma del prodotto, trovare totale*
 
 > Cinque integri positivi $a, b, c, d, e$ superiori a uno soddisfano le seguenti condizioni: $$a(b+c+d+e)=128$$ $$b(a+c+d+e)=155$$ $$c(a+b+d+e)=203$$ $$d(a+b+c+e)=243$$ $$e(a+b+c+d)=275$$ Quanto è $a+b+c+d+e$? (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
 
@@ -392,7 +392,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa delle somme digitali P(1)+...+P(1000) *
+*Summa delle somme digitali P(1)+...+P(1000)*
 
 > $P(n)$ sia la somma delle cifre del numero $n$. Per esempio, $P(1234)=1+2+3+4=10$. Qual è il valore di $P(1)+P(2)+P(3)+\ldots+P(1000)$? (A) $200$ \quad (B) $500$ \quad (C) $400$ \quad (D) $900$ \quad (E) $2250$
 

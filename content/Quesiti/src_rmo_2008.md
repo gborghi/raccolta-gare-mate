@@ -28,7 +28,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In triangolo acuto *
+*In triangolo acuto*
 
 > Il $ABC$ sia un triangolo a angolo acuto; $D$, $F$ siano rispettivamente i punti medi di $BC$ e $AB$. La perpendicolare da $F$ a $AC$ e la perpendicolare da $B$ a $BC$ si incontrano in $N$. Provare che $ND$ è il radio circostante di $ABC$.
 

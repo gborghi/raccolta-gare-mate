@@ -140,7 +140,7 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 <div class="qlang-split" data-lang="en"></div>
 
 
-*incenter, circumcenter, or hill *
+*incenter, circumcenter, or hill*
 
 > Three congruent circles have a common point $O$ and are contained in a given triangle. Each circle is tangent to a pair of triangle sides. Demonstrate that the center, circumcenter of the triangle and the point $O$ are collinear.
 
@@ -175,7 +175,7 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the case with the Ackermann type function.
+*Compute the Ackermann-type function f(4,1981)*
 
 > The $f(x, y)$ function satisfies the following conditions:
 > 

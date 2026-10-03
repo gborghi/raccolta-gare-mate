@@ -190,7 +190,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo scaleno con A obtuso, trovare locus di D sulla linea BC con AD=sqrt(BD·CD) *
+*Nel triangolo scaleno con A obtuso, trovare locus di D sulla linea BC con AD=sqrt(BD·CD)*
 
 > In un triangolo scaleno $ABC$ l'angolo a $A$ è obtuso. Determinare l'insieme dei punti $D$ situati sulla linea estesa $BC$ per i quali $AD = \sqrt{BD \cdot CD}$.
 

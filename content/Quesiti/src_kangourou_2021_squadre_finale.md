@@ -61,7 +61,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many households on the bus (sum of km 2021) *
+*How many households on the bus (sum of km 2021)*
 
 > Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families are travelling. Each family consists of exactly a father, a mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travellers, including the driver, gives 2021. How many families are there?
 
@@ -220,7 +220,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bus speed (order to two distributors) *
+*Bus speed (order to two distributors)*
 
 > The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order bus, car, truck. What is the speed of the bus in km/h?
 >  
@@ -289,7 +289,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of vertices (angles in arithmetic progression) *
+*Number of vertices (angles in arithmetic progression)*
 
 > How many vertices? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
 
@@ -379,7 +379,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last four digits of the largest strongest number *
+*The last four digits of the largest strongest number*
 
 > Numbers "strong" Let's say a number is "strong" if every pair of its consecutive digits is a number that is a power, at least of second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the digit of the thousands, that of the hundreds, etc. in order.
 
@@ -409,7 +409,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*F in cents (gift collection) *
+*F in cents (gift collection)*
 
 > Alice's birthday is during a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each boy. How many cents is the quotient of the division M: F ?
 
@@ -496,7 +496,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest early number of 4 digits *
+*Smallest early number of 4 digits*
 
 > If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called early numbers. What's the smallest four-digit early number?
 

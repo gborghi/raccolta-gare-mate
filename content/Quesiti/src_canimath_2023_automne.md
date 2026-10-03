@@ -98,7 +98,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-* 5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar*
+*5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar*
 
 > In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
@@ -298,7 +298,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità quadrata ABCD con E su diagonale AC e AE=1; trovare angolo BEC in gradi (lycee) *
+*Unità quadrata ABCD con E su diagonale AC e AE=1; trovare angolo BEC in gradi (lycee)*
 
 > $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
 
@@ -328,7 +328,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-* 5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee) *
+*5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee)*
 
 > In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
@@ -363,7 +363,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; maggiore diffusione possibile (lycee) *
+*20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; maggiore diffusione possibile (lycee)*
 
 > Un gruppo di nani che uscivano dalla miniera si sedette attorno a una tavola rotonda per contare le nugget d'oro che ognuno di loro aveva estratto. Essi fanno le seguenti osservazioni:
 > 
@@ -431,7 +431,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Setti regolari sono progressioni aritmetiche; superregolari se sia l'insieme che le sue reciprocità sono regolari; più grande n con un insieme superregolare di n reali non-zero distinte (lycee) *
+*Setti regolari sono progressioni aritmetiche; superregolari se sia l'insieme che le sue reciprocità sono regolari; più grande n con un insieme superregolare di n reali non-zero distinte (lycee)*
 
 > Un insieme di $n$ numeri reali non zeri e separati in coppia viene chiamato \emph{regular} se, quando si scrivono questi numeri sulla lavagna in ordine crescente, la differenza tra due numeri vicini è sempre la stessa, a seconda di quale dei due numeri vicini viene scelto. Ad esempio, l'insieme $\{4, 18, -3, 11\}$ è regolare perché i suoi elementi sono scritti $-3, 4, 11$ e $18$ in ordine crescente, e infatti $4 - (-3) = 11 - 4 = 18 - 11$.
 > 

@@ -163,7 +163,7 @@ Average age of three friends of Enea
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of 3^(8^7) *
+*Number of units of 3^(8^7)*
 
 > What is the number of units of 3(87)?
 >
@@ -369,7 +369,7 @@ Number of girls at a cross-dance party
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit codes with product of 18 digits *
+*Four-digit codes with product of 18 digits*
 
 > Carlo forgot his phone's unlock code. All you remember is that the code is made up of four digits and the product of those digits is 18. How many possible codes meet these conditions?
 >

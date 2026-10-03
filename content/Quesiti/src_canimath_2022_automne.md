@@ -252,7 +252,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles; angolo PCQ in termini di x (liceo) *
+*Triangolo isosceles; angolo PCQ in termini di x (liceo)*
 
 > $ABC$ sia un triangolo di uguali dimensioni a $A$ tale che $AB < BC$. Il punto $P$ deve essere il punto della linea $(BC)$ situato al di fuori del segmento $[BC]$ in modo tale che $BP = BA$. Il punto della riga $(AP)$ deve essere $Q$ diverso da $A$ in modo tale che $CQ = CA$. Se $\widehat{QPC} = x$, determinare la misura dell'angolo $\widehat{PCQ}$ come funzione di $x$.
 
@@ -436,7 +436,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*R più grande tale che n reali contengano r senza due a distanza 1 (o alfa) *
+*R più grande tale che n reali contengano r senza due a distanza 1 (o alfa)*
 
 > $n$ sia un numero intero rigorosamente positivo.
 > 

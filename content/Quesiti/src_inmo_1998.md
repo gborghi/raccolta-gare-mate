@@ -169,7 +169,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scegliere n numeri interi da 0..2n in modo che la media sia un intero, trovare n minimo *
+*Scegliere n numeri interi da 0..2n in modo che la media sia un intero, trovare n minimo*
 
 > Vogliamo scegliere $n$ dei numeri interi $2n$ $0, 1, 2, \ldots, 2n-1$ in modo tale che la media dei numeri interi $n$ scelti sia un numero intero e il più piccolo possibile. Mostrare che questo può essere fatto per ogni intero positivo $n$ e trovare questo valore più piccolo.
 

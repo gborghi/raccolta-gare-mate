@@ -199,7 +199,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli simili costruiti al di fuori dell'ABCD quadrilaterale; se ABCD è parallelo, allora il PQRS è *
+*Triangoli simili costruiti al di fuori dell'ABCD quadrilaterale; se ABCD è parallelo, allora il PQRS è*
 
 > Al di fuori di un quadrilaterale converso $ABCD$, sono costruiti triangoli simili $APB, BQC, CRD, DSA$ in modo che $$\angle PAB = \angle QBC = \angle RCD = \angle SDA, \quad \angle PBA = \angle QCB = \angle RDC = \angle SAD.$$ dimostri che se $ABCD$ è un parallelo, allora lo è anche $PQRS$.
 
@@ -308,7 +308,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro triangolare 2p, radio circundante R, radio ininterrato r: mostra p < 2(R+r) *
+*Perimetro triangolare 2p, radio circundante R, radio ininterrato r: mostra p < 2(R+r)*
 
 > Il $R$ e il $r$ siano rispettivamente il circondario e l'inradio di un triangolo di perimetro $2p$. Mostra che $p < 2(R + r)$.
 
@@ -335,7 +335,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro: somma di angolo diedro opposto uguale se somma di bordo opposto uguale *
+*Tetraedro: somma di angolo diedro opposto uguale se somma di bordo opposto uguale*
 
 > Prova che le somme degli angoli diedrali opposti di un tetraedro sono uguali se e solo se le somme dei bordi opposti del tetraedro sono uguali.
 

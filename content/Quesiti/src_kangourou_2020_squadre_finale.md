@@ -205,7 +205,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spectators with remainder 1 mod 2..6 and divisible by 7 *
+*Spectators with remainder 1 mod 2..6 and divisible by 7*
 
 > In a theater there are more than 1,000 spectators, but less than 1,500. If they're divided into groups of two, or three, or four, or five, or six, there's always exactly one viewer out. If they are divided into groups of seven people, no one is left out. How many spectators are there?
 
@@ -475,7 +475,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of distinct tickets (5 squares 4 colours rotating) *
+*Maximum number of distinct tickets (5 squares 4 colours rotating)*
 
 > Tickets Rectangular tickets are used to identify each participant in a competition. One face is gray, equal for all; the other is divided into 5 aligned squares (congruent) which can be coloured with 4 different colours available; these colours can be used in any position, even partially (e.g. it is possible that only one colour is used in a ticket). There are no other marks on the tickets. How many participants can be admitted at most?
 

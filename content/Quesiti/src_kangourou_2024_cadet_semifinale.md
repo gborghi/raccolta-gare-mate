@@ -266,7 +266,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which word is divisible by 11 (KANGAROO) *
+*Which word is divisible by 11 (KANGAROO)*
 
 > In the word KANGAROO, each letter represents a number: equal letters, equal numbers, different letters, different numbers. The eight-digit number represented is divisible by 11. Preserving the same law of representation, which of the following words certainly represents a number also divisible by 11? A) RANG B) NGAR C) KANGO D) RKGN E) RKNG
 > 
@@ -301,7 +301,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of digits of N (20230...0) *
+*Minimum number of digits of N (20230...0)*
 
 > (Points 4) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). Solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
 

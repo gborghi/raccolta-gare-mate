@@ -299,7 +299,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area between two internally tangent circles divided by *
+*Area between two internally tangent circles divided by*
 
 ![[src_kangourou_squadre_2024_finale__prob7.png]]
 

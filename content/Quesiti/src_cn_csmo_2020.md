@@ -118,7 +118,7 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Printatrice a getto d'inchiostro su 1 ×n striscia con scuro accidentale adiacente, trovare le strisce attese T(n) *
+*Printatrice a getto d'inchiostro su 1 ×n striscia con scuro accidentale adiacente, trovare le strisce attese T(n)*
 
 > Una stampante a getto di inchiostro è utilizzata per stampare su una striscia di carta con griglie $1 \times n$. Quando la nozzola stampa sulla griglia $i$th ($1 \le i \le n$), diventa nera; inoltre, ciascuna delle griglie adiacenti, la griglia $(i-1)$th e la griglia $(i+1)$th (se esistono), ha indipendentemente la probabilità che $\dfrac{1}{2}$ diventi nera. Il numero previsto di stampe deve essere il $T(n)$ per rendere tutte le griglie nere, a condizione che sia adottata la strategia ottimale (fare il minor numero possibile di stampe). Trova la formula di $T(n)$.
 

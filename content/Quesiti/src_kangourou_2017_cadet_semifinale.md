@@ -465,7 +465,7 @@ How many times does Daria overtake Baldo in 12 km?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest spicy two-digit number *
+*The largest spicy two-digit number*
 
 > We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8 × 9). What's the biggest spicy number?
 
@@ -592,7 +592,7 @@ How many times does Daria overtake Baldo in 12 km?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of route given two encounters (720 from A, 100 from B) *
+*Length of route given two encounters (720 from A, 100 from B)*
 
 > (Points 6) Two athletes train by running, each at a constant speed different from the other, on a straight path between two ends A and B. They start simultaneously from A and B and, as soon as they reach the opposite end from where they started, they turn around and return to their starting point. At their first meeting they're 720 meters from A, at their second meeting they're 100 meters from B. Neither one overtakes the other. How many meters is the path?
 

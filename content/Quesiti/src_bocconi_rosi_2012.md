@@ -188,7 +188,7 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next year after 2002 *
+*Next year after 2002*
 
 > 2002 was a palindrome year (one could read it indifferently from left to right and vice versa).
 > 
@@ -315,7 +315,7 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the rectangles in Figure *
+*Count the rectangles in Figure*
 
 > **How many rectangles can you see in the figure? **
 
@@ -348,7 +348,7 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting the triangles in Figure *
+*Counting the triangles in Figure*
 
 > **How many triangles can you see in the figure? **
 

@@ -56,7 +56,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente *
+*100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente*
 
 > Ci sono 100 persone in una sala, ognuno conosce almeno 66 degli altri. Prove che c'è un caso in cui, tra tutti e quattro, due di loro si conoscono.
 

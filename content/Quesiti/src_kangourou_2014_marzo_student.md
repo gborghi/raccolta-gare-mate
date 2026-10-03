@@ -471,7 +471,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year with last digit > sum of first three, all different *
+*Year with last digit > sum of first three, all different*
 
 > The number 2014 is made up of digits all different from each other, and the last one is larger than the sum of the first three. How many years have passed since last year with this property? A) 5
 > 	
@@ -631,7 +631,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3, tangent chord: large radius *
+*3, tangent chord: large radius*
 
 ![[src_kangourou_2014_marzo_student__prob13.png]]
 
@@ -1329,7 +1329,7 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max <=100 distinct integers with product not divisible by 54 *
+*Max <=100 distinct integers with product not divisible by 54*
 
 > Thomas wants to choose positive integers, all different from each other and all not greater than 100, so that their product is not divisible by 54. How many numbers can he pick at most? A) 8
 > 	
@@ -1378,7 +1378,7 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n because CZ=1 *
+*n because CZ=1*
 
 > Two regular polygons, with sides of length 1, lie in half-planes on opposite sides of the line containing their common side AB. One of them is a 15-sided polygon, ABCD... and the other one is a polygon with n sides, ABZY... . For what value of n is the length of the CZ segment equal to 1? A) 10
 > 	
@@ -1514,7 +1514,7 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Z->Z with x f(x)=(x-3)f(x+1): product f(4)...f(2014) *
+*Z->Z with x f(x)=(x-3)f(x+1): product f(4)...f(2014)*
 
 > Let Z be the set of integers. The function f: Z Z satisfies the conditions f (4) = 6 and x ∙ f (x) = (x – 3) ∙ f (x + 1) for every x belonging to Z. How much is f (4) ∙ f (7) ∙ f (10) ∙... ∙ f (2011) ∙ f (2014)? A) 2013 B) 2014 C) 2013∙ 2014
 > 	

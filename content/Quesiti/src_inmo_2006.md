@@ -98,7 +98,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli interi (a,b,c) con l'equazione funzionale f((a,b,c))=(a,b,c) *
+*Ricerca tutti i tripli interi (a,b,c) con l'equazione funzionale f((a,b,c))=(a,b,c)*
 
 > $X$ indichi l'insieme di tutti i triples $(a, b, c)$ di numeri interi. Definire una funzione $f : X \to X$ da $$f(a, b, c) = (a + b + c,\; ab + bc + ca,\; abc).$$ Trovare tutti i triples $(a, b, c)$ in $X$ in modo tale che $f(f(a, b, c)) = (a, b, c)$.
 

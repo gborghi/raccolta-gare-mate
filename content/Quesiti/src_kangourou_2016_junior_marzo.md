@@ -123,7 +123,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*50% more than errors on 30 *
+*50% more than errors on 30*
 
 > 4. The Kangourou contest involves 30 questions in which each answer is either right or wrong. Last year Rossana took part, answering all questions and her correct answers were 50% more than those wrong. How many correct answers did Rossana give ? A) 10 B) 12 C) 15 D) 18 E) 20
 
@@ -683,7 +683,7 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum exceeds by 31 that of Alice *
+*sum exceeds by 31 that of Alice*
 
 > I have eight identical, unmarked envelopes; in each one I have entered one and only one of the numbers 1, 2, 4, 8, 16, 32, 64, 128. Eva randomly picks some of these envelopes, Alice takes the others. The sum of the numbers in Eva's envelopes exceeds by 31 that of the numbers in Alice's. How many envelopes did Eva take? A) 2
 > 	
@@ -1185,7 +1185,7 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum three at a time never prime among four consecutive *
+*sum three at a time never prime among four consecutive*
 
 > James wrote four consecutive positive integers. Adding three to three of these numbers in four possible ways never gets a prime number. What's the smallest whole James could have written? A) 12 B) 10 C) 7 D) 6 E) 3
 

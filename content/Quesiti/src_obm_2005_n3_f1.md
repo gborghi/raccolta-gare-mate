@@ -710,7 +710,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale coppia NON è 'primanos' (in un AP a tre termini) *
+*Identificare quale coppia NON è 'primanos' (in un AP a tre termini)*
 
 > Due numeri interi sono chiamati $\textit{primanos}$ quando appartengono a una progressione aritmetica di tre termini primi. Ad esempio, i numeri $41$ e $59$ sono primani, perché appartengono alla progressione aritmetica $(41, 47, 53, 59)$ che contiene solo numeri primi. Tra le alternative di seguito, i due numeri che sono $\textbf{not}$ primanos sono: (A) $7$ e $11$ (B) $13$ e $53$ (C) $41$ e $131$ (D) $31$ e $43$ (E) $23$ e $41$
 
@@ -740,7 +740,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio/timamento delle sovrapposizioni di mani di orologio entro un giorno (dichiarazione distorta) *
+*Conteggio/timamento delle sovrapposizioni di mani di orologio entro un giorno (dichiarazione distorta)*
 
 > Un orologio ha le mani per ore, minuti e secondi. Considerando i momenti tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi durante i quali alcune mani si sovrappongono, la risposta è: (A) $1430$ (B) $1438$ (C) $1440$ (D) $1446$ (E) $1452$
 
@@ -770,7 +770,7 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di studenti brasiliani in una classe di 9 con vincoli di raggruppamento (dichiarazione confusa) *
+*Nombre massimo di studenti brasiliani in una classe di 9 con vincoli di raggruppamento (dichiarazione confusa)*
 
 > Un insegnante di inglese dà una lezione privata a una classe di studenti $9$, di cui al massimo due hanno la stessa età. L'insegnante sa che tre studenti della stessa nazionalità e di diverse età possono formare un gruppo, e sceglie gli studenti in modo che al massimo tre di loro abbiano la stessa nazionalità. Quanti studenti brasiliani ci sono nella classe? (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
 

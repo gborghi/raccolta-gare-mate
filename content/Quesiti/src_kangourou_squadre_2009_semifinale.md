@@ -91,30 +91,42 @@ level: squadre
 
 ![[src_kangourou_squadre_2009_semifinale__prob3.png]]
 
-> Marco sta ancora scrivendo?  
-> Marco ha iniziato a scrivere la sequenza di numeri 
-> 7, 36, 65, 94, … 
-> dove ognuno, dal secondo in poi, è il precedente aumentato di 29. Marco intende fermarsi non 
-> appena avrà scritto un numero le cui cifre siano tutte uguali a nove. Riuscirà Marco a fermarsi e, in 
-> caso affermativo, quanti numeri avrà scritto quando si sarà fermato? (Scrivete 0000 se non riuscirà 
-> a fermarsi.)
+> La bandiera con il cerchio
+> Nella figura (che non è in scala) vedete una bandiera
+> rettangolare colorata di bianco e di grigio i cui lati
+> orizzontali sono lunghi 240 cm e i cui lati verticali sono
+> lunghi 150 cm. Nella bandiera appare una croce bianca con
+> i bracci a lati paralleli le cui misure sono determinate come
+> indicato nella figura. Nel centro della croce è centrato un
+> disco grigio; sulla sua circonferenza giacciono i vertici dei
+> due triangoli isosceli grigi superiore e inferiore. Quanti
+> centimetri è lungo il raggio del disco?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0027
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flag disc beam with cross (similarity) *
+*Flag disc beam with cross (similarity)*
 
 ![[src_kangourou_squadre_2009_semifinale__prob3.png]]
 
-> Is Marco still writing? Marco started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Marco be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+> The flag with the circle
+> In the figure (which is not to scale) you see a flag
+> rectangular colored white and gray whose horizontal sides
+> are 240 cm long and whose vertical sides are
+> 150 cm long. On the flag there is a white cross with
+> arms with parallel sides whose measurements are determined as
+> indicated in the figure. At the center of the cross is centered a
+> gray disk; on its circumference lie the vertices of the
+> two gray isosceles triangles, upper and lower. How many
+> centimeters is the radius of the disk?
 
 **Answer:** 0027
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q03|src_kangourou_squadre_2009_semifinale__Q03]]
@@ -130,23 +142,24 @@ level: squadre
 
 ![[src_kangourou_squadre_2009_semifinale__prob4.png]]
 
-> Un torneo ambito 
-> Lo scorso anno ad un torneo di tennis ad eliminazione diretta hanno partecipato 32 giocatori. Nella 
-> prima fase ogni giocatore ne ha affrontato un altro (sono state giocate in totale 16 partite) e il 
-> perdente è stato eliminato. Nella seconda fase ognuno dei 16 vincenti ne ha affrontato un altro (sono 
-> state giocate in totale 8 partite) e il perdente è stato eliminato. Così si è proceduto fino alla quinta 
-> fase (la finale). Tutti gli accoppiamenti (tranne ovviamente l’ultimo) sono avvenuti per sorteggio. 
-> Quest’anno le richieste di partecipazione, tutte accolte, sono state molte di più: guarda caso proprio 
-> 2009. Il comitato organizzatore ha deciso di sorteggiare alcuni giocatori, il minor numero possibile, 
-> da ammettere direttamente alla seconda fase e rendere quindi attuabile a partire dalla seconda fase il 
-> meccanismo illustrato sopra (numero dei giocatori dimezzabile ad ogni fase). Quante partite sono 
-> state giocate complessivamente quest’anno in quel torneo?
+> La bandiera senza il cerchio
+> Nella figura (che non è in scala) vedete una bandiera
+> rettangolare colorata di bianco e di grigio i cui lati
+> orizzontali sono lunghi 240 cm e i cui lati verticali sono
+> lunghi 150 cm. Nella bandiera appare una croce bianca con
+> i bracci a lati paralleli le cui misure sono determinate come
+> indicato nella figura (esattamente come nel quesito
+> precedente, ma ora il cerchio non c’e’ più). Quanto vale in
+> centimetri quadrati l’area della croce bianca?
+> ATTENZIONE: non riportare nella risposta la cifra delle
+> unità (ad esempio, se la risposta fosse 10123, dovresti
+> riportare solo 1012)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2157
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -156,7 +169,18 @@ level: squadre
 
 ![[src_kangourou_squadre_2009_semifinale__prob4.png]]
 
-> Last year, 32 players participated in a direct knockout tennis tournament. In the first stage each player faced another (there were 16 matches played in total) and the loser was eliminated. In the second stage each of the 16 winners faced another (there were a total of 8 matches played) and the loser was eliminated. So it went on until the fifth stage (the final). All matches (except, of course, the last one) were drawn. This year, there were many more requests for participation, all of which were accepted: coincidentally, exactly 2009. The organising committee decided to draw a number of players, as few as possible, to be admitted directly to the second stage and to make the mechanism described above (number of players halvable at each stage) applicable from the second stage. How many games were played in total this year in that tournament?
+> The flag without the circle
+> In the figure (which is not to scale) you see a flag
+> rectangular colored white and gray whose horizontal
+> sides are 240 cm long and whose vertical sides are
+> 150 cm long. On the flag there appears a white cross with
+> arms with parallel sides whose measurements are determined as
+> indicated in the figure (exactly as in the previous
+> question, but now the circle is no longer there). What is in
+> square centimeters the area of the white cross?
+> ATTENTION: do not report in the answer the units
+> digit (for example, if the answer were 10123, you should
+> report only 1012)
 
 **Answer:** 2157
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q04|src_kangourou_squadre_2009_semifinale__Q04]]
@@ -170,20 +194,22 @@ level: squadre
 
 *Massimo numero di pedine su scacchiera 8x8 connessa*
 
-> I sottoinsiemi speciali   
-> Considerate l’insieme {1, 2, … , 151} dei primi 151 interi maggiori di zero. Tra tutti i suoi 
-> sottoinsiemi, volete sceglierne alcuni in modo che l’intersezione fra due qualunque di quelli che 
-> avete scelto sia costituita o da un numero solo o da una sequenza di numeri consecutivi (condizione 
-> soddisfatta, ad esempio, da entrambe le coppie di sottoinsiemi ({1, 2}, {2, 3}) e ({1, 2, 3}, {2, 3, 
-> 4}), ma non dalle coppie ({1, 2}, {3, 4}) o ({1, 2, 4}, {2, 3, 4})). Quanti sottoinsiemi potete 
-> scegliere al massimo?
+> La scacchiera
+> Avete a disposizione una scacchiera 8 × 8 (come quella della dama o degli scacchi) e 50 pedine.
+> Volete disporre sulla scacchiera le pedine in modo che:
+> 1) ogni pedina stia esattamente dentro qualche casella e non ce ne sia più di una in ogni casella;
+> 2) coppie di caselle occupate da pedine non abbiano lati in comune (pur potendo avere un vertice
+> in comune);
+> 3) da qualunque casella rimasta libera si possa raggiungere ogni altra casella libera, solo passando
+> in verticale o in orizzontale su altre caselle libere, senza scavalcare pedine.
+> Qual è il massimo numero di pedine che potete disporre sulla scacchiera?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0021
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -191,13 +217,15 @@ level: squadre
 
 *Maximum number of pieces on a connected 8x8 board*
 
-> The special subsets
-> Consider the set {1, 2, … , 151} of the first 151 integers greater than zero. Among all its
-> subsets, you want to choose some so that the intersection between any two of those you
-> have chosen consists of either a single number or a sequence of consecutive numbers (a condition
-> satisfied, for example, by both pairs of subsets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3,
-> 4}), but not by the pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many subsets can you
-> choose at most?
+> The chessboard
+> You have available an 8 × 8 chessboard (like the one used for checkers or chess) and 50 pieces.
+> You want to arrange the pieces on the chessboard so that:
+> 1) each piece lies exactly inside some square and there is no more than one in each square;
+> 2) pairs of squares occupied by pieces do not have sides in common (though they may have a vertex
+> in common);
+> 3) from any square left free one can reach every other free square, only by moving
+> vertically or horizontally onto other free squares, without jumping over pieces.
+> What is the maximum number of pieces that you can place on the chessboard?
 
 **Answer:** 0021
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q05|src_kangourou_squadre_2009_semifinale__Q05]]
@@ -211,25 +239,27 @@ level: squadre
 
 *Notti vissute dalla mamma prima di Martina (bisestili)*
 
-> Trova la frazione 
-> Il numeratore e il denominatore di una frazione sono entrambi numeri interi maggiori di zero e la 
-> loro somma non supera 103; il valore della frazione è il più alto possibile compatibilmente con il 
-> fatto di essere strettamente minore di 1/3. 
-> Scrivete nell’ordine prima il numeratore e poi il denominatore della frazione.
+> Prima di Martina
+> Martina è nata il 9 maggio dell’anno scorso a mezzogiorno. Sua mamma è nata il 9 maggio del
+> 1983 sempre a mezzogiorno. Quante notti ha vissuto la mamma di Martina prima che nascesse
+> Martina?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9132
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nights lived by her mother before Martina (leap) *
+*Nights lived by her mother before Martina (leap)*
 
-> Find the fraction The numerator and denominator of a fraction are both integers greater than zero and their sum does not exceed 103; the value of the fraction is as high as possible compatible with the fact that it is strictly less than 1/3. Write in the order first the numerator and then the denominator of the fraction.
+> Before Martina
+> Martina was born on May 9 of last year at noon. Her mother was born on May 9 of
+> 1983, also at noon. How many nights did Martina's mother live before Martina was born
+> Martina?
 
 **Answer:** 9132
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q06|src_kangourou_squadre_2009_semifinale__Q06]]
@@ -243,19 +273,18 @@ level: squadre
 
 *Vertici incontrati dalle diagonali di rettangolo 350x210*
 
-> I mezzi di trasporto 
-> In una strana nazione vi sono 13 città che possono essere collegate tra loro da uno o più dei seguenti 
-> mezzi di trasporto: autobus, treno, aereo. Il presidente, il vice-presidente e il primo ministro devono 
-> poter visitare ogni città, ma ciascuno dei tre si rifiuta di usare uno dei tre mezzi: il presidente  
-> l’autobus, il vice-presidente il treno e il primo ministro l’aereo. Qual è il più piccolo numero di 
-> collegamenti fra le varie città che occorre predisporre per soddisfare tutte le esigenze?
+> La carta millimetrata
+> Su un foglio di carta millimetrata, dove cioè è presente un reticolo di quadretti di un millimetro di
+> lato, è evidenziato un rettangolo di dimensioni 350 × 210 millimetri con i lati paralleli alle righe
+> già presenti sul foglio e i vertici coincidenti con vertici dei quadretti. Quanti vertici di quadretti
+> incontra ciascuna delle diagonali di questo rettangolo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
-**Risposta:** 0143
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Risposta:** 0071
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -263,9 +292,13 @@ level: squadre
 
 *Vertices encountered by the diagonals of a 350x210 rectangle*
 
-> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, plane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President bus, the Vice-President train and the Prime Minister air. What is the smallest number of city-to-city connections to meet all needs?
+> The graph paper
+> On a sheet of graph paper, that is, where there is a grid of squares one millimeter on a
+> side, a rectangle measuring 350 × 210 millimeters is highlighted, with its sides parallel to the lines
+> already present on the sheet and its vertices coinciding with vertices of the squares. How many vertices of squares
+> does each of the diagonals of this rectangle meet?
 
-**Answer:** 0143
+**Answer:** 0071
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q07|src_kangourou_squadre_2009_semifinale__Q07]]
 
 
@@ -277,18 +310,17 @@ level: squadre
 
 *Triangolo suddiviso da ceviana in due ugual perimetro*
 
-> Il rettangolo diventa un quadrato  
-> La figura mostra le linee lungo le quali Marco ha tagliato un rettangolo 
-> di cartoncino, i cui lati misuravano 36 e 81 centimetri, ottenendo due 
-> triangoli e un pentagono. Accostando opportunamente i tre pezzi 
-> ricavati, Marco ha potuto realizzare un quadrato. Quanti centimetri è 
-> lungo il segmento indicato con x?
+> Il triangolo suddiviso
+> I lati di un triangolo sono lunghi 40, 50 e 60 centimetri. Tracciando un segmento con un estremo nel
+> vertice relativo all’angolo più piccolo e l’altro estremo sul lato opposto, il triangolo viene suddiviso
+> in due triangoli che hanno lo stesso perimetro. Quanti centimetri è lungo il più corto dei due
+> segmenti in cui viene suddiviso quel lato?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-**Risposta:** 0027
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Risposta:** 0015
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -296,9 +328,13 @@ level: squadre
 
 *Triangle divided by cevian into two equal perimeter*
 
-> The rectangle becomes a square The figure shows the lines along which Marco cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+> The divided triangle
+> The sides of a triangle are 40, 50 and 60 centimetres long. By drawing a segment with one endpoint at the
+> vertex corresponding to the smallest angle and the other endpoint on the opposite side, the triangle is divided
+> into two triangles that have the same perimeter. How many centimetres long is the shorter of the two
+> segments into which that side is divided?
 
-**Answer:** 0027
+**Answer:** 0015
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q08|src_kangourou_squadre_2009_semifinale__Q08]]
 
 
@@ -310,16 +346,16 @@ level: squadre
 
 *Minimo numero di persone con rapporto maschi/femmine 0,24*
 
-> Numeri dispettosi 
-> Diciamo che un numero intero positivo è “dispettoso” se diviso per 6 dà resto 5 e diviso per 8 dà 
-> resto 7. Trovate i primi due numeri dispettosi e scriveteli nell’ordine (per esempio, se fossero 65 e 
-> 86 dovreste scrivere 6586).
+> Maschi e femmine
+> In una sala sono presenti alcune persone: se il numero dei maschi viene diviso per il numero delle
+> femmine, si ottiene esattamente 0,24. Si sa che il numero di persone presenti è il più piccolo che
+> può determinare quel rapporto. Quante persone vi sono in quella sala?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0031
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -327,10 +363,10 @@ level: squadre
 
 *Minimum number of people with a male/female ratio of 0.24*
 
-> Pesky numbers
-> We say that a positive integer is "pesky" if divided by 6 it gives remainder 5 and divided by 8 it gives
-> remainder 7. Find the first two pesky numbers and write them in order (for example, if they were 65 and
-> 86 you should write 6586).
+> Males and females
+> In a room there are some people: if the number of males is divided by the number of
+> females, exactly 0.24 is obtained. It is known that the number of people present is the smallest that
+> can determine that ratio. How many people are there in that room?
 
 **Answer:** 0031
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q09|src_kangourou_squadre_2009_semifinale__Q09]]
@@ -344,22 +380,17 @@ level: squadre
 
 *Probabilita pari/dispari con dadi truccati proporzionali*
 
-> Quante pretese!   
-> Stai cercando tutti i numeri interi positivi di quattro cifre ciascuno dei quali goda di tutte le seguenti 
-> proprietà: 
-> - le cifre che lo compongono devono essere tutte diverse fra loro; 
-> - deve essere un multiplo di 5;  
-> - se si sopprime la cifra delle migliaia, il numero di tre cifre che resta deve essere un multiplo di 9;   
-> - se si sopprime la cifra delle centinaia, il numero di tre cifre che resta deve essere un multiplo di   
->   11;  
-> - se si sopprime la cifra delle decine, il numero di tre cifre che resta deve essere un multiplo di 7. 
-> Trova la loro somma.
+> I dadi truccati
+> Due dadi uguali (ciascuno con le facce numerate da 1 a 6, come d’uso) sono truccati: lanciando uno
+> qualunque di essi, la faccia con il numero 1 non può mai uscire e la probabilità che esca una delle
+> rimanenti facce è proporzionale al numero riportato sulla faccia. Lanciandoli, quante probabilità su
+> 100 vi sono che una delle facce riporti un numero pari e l’altra un numero dispari?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** 0050
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Risposta:** 0048
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -367,18 +398,13 @@ level: squadre
 
 *Even/odd probability with proportional loaded dice*
 
-> What demands!   
-> You are looking for all positive integers of four digits each of which enjoys all of the following 
-> properties: 
-> - the digits that compose it must all be different from one another; 
-> - it must be a multiple of 5;  
-> - if the thousands digit is removed, the three-digit number that remains must be a multiple of 9;   
-> - if the hundreds digit is removed, the three-digit number that remains must be a multiple of   
->   11;  
-> - if the tens digit is removed, the three-digit number that remains must be a multiple of 7. 
-> Find their sum.
+> The loaded dice
+> Two identical dice (each with faces numbered from 1 to 6, as usual) are loaded: when rolling either
+> one of them, the face with the number 1 can never come up and the probability that one of the
+> remaining faces comes up is proportional to the number shown on the face. When rolling them, how many chances out of
+> 100 are there that one of the faces shows an even number and the other an odd number?
 
-**Answer:** 0050
+**Answer:** 0048
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q10|src_kangourou_squadre_2009_semifinale__Q10]]
 
 
@@ -390,25 +416,18 @@ level: squadre
 
 *Cippi chilometrici con due sole cifre distinte*
 
-> Le porte 
-> In un lunghissimo corridoio ci sono 1.000 porte numerate da 1 a 1.000 che inizialmente sono 
-> chiuse. All’inizio del corridoio ci sono 1.000 persone, numerate da 0 a 999, che agiscono come 
-> segue. La persona 0 percorre il corridoio dall’inizio e modifica lo stato di tutte le porte (dunque le 
-> apre tutte). Dopo di lei, la persona 1 percorre il corridoio dall’inizio: salta una porta (la prima) e 
-> modifica lo stato della seconda (in questo caso la chiude), quindi salta la terza e modifica lo stato 
-> della quarta e così via. Dopo di lei, la persona 2 percorre il corridoio dall’inizio saltando 
-> ordinatamente 2 porte su 3 (cioè la prima e la seconda, la quarta e la quinta e così via) e cambia lo 
-> stato delle porte che non salta. Si procede in questo modo: la persona n per corre il corridoio 
-> dall’inizio saltando ordinatamente n porte su n + 1 e cambiando lo stato di quelle che non salta (cioè 
-> aprendo quelle che trova chiuse e chiudendo quelle che trova aperte). Quando anche la millesima 
-> persona avrà compiuto il proprio percorso, quante saranno le porte rimaste aperte?
+> I cippi chilometrici
+> Due città A e B sono collegate da una ferrovia lunga 999 chilometri. Lungo la ferrovia, intervallati
+> di un chilometro, vi sono dei cippi che indicano la distanza da A e da B nell’ordine, del tipo
+> [0, 999] (in A), [1, 998], [2, 997], … , [998, 1], [999, 0] (in B).
+> Quanti di questi cippi ospitano due e non più di due cifre diverse fra loro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** 0162
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Risposta:** 0040
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -416,9 +435,13 @@ level: squadre
 
 *Kilometre chips with only two distinct digits*
 
-> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he skips a door (the first one) and changes the state of the second one (in this case closes it), then he skips the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that he does not skip. This is how it is done: the person n runs the corridor from the beginning by skipping in order n doors out of n + 1 and changing the state of those that he does not skip (i.e. opening those that he finds closed and closing those that he finds open). When the thousandth person too has completed his journey, how many doors will remain open?
+> Kilometric milestones
+> Two cities A and B are connected by a railway 999 kilometers long. Along the railway, spaced
+> one kilometer apart, there are milestones that indicate the distance from A and from B in that order, of the type
+> [0, 999] (in A), [1, 998], [2, 997], … , [998, 1], [999, 0] (in B).
+> How many of these milestones host two and no more than two different digits among them?
 
-**Answer:** 0162
+**Answer:** 0040
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q11|src_kangourou_squadre_2009_semifinale__Q11]]
 
 
@@ -430,29 +453,30 @@ level: squadre
 
 *Denominatore del prodotto telescopico (1-2/k)*
 
-> La griglia    
-> In ogni cella della griglia 3 × 4 in figura vuoi sistemare un numero intero 
-> positivo rispettando tutte le seguenti regole: 
-> - i numeri devono essere tutti diversi fra loro; 
-> - in ogni riga ogni numero dal secondo (da sinistra) in poi è un multiplo del 
-> precedente; 
-> - in ogni colonna ogni numero dal secondo (dall’alto) in poi è un multiplo del precedente. 
-> Qual è il più piccolo numero che può comparire nella cella indicata con A?
+> Un prodotto di 98 fattori
+> Esprimete il valore del seguente prodotto
+> (1 – 2/3) × (1 – 2/4) × (1 – 2/5) ×…× (1 – 2/99) × (1 – 2/100)
+> mediante una frazione che abbia per numeratore e denominatore degli interi positivi e sia ridotta ai
+> minimi termini. Scrivete il denominatore della frazione.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4950
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Denominator of the telescopic product (1-2/k) *
+*Denominator of the telescopic product (1-2/k)*
 
-> The grid In each cell of the grid 3 × 4 in the figure you want to arrange a positive integer by following all the following rules: - the numbers must all be different from each other; - in each row each number from second (left) forward is a multiple of the previous one; - in each column each number from second (from top) forward is a multiple of the previous one. What is the smallest number that can appear in the cell marked with A?
+> A product of 98 factors
+> Express the value of the following product
+> (1 – 2/3) × (1 – 2/4) × (1 – 2/5) ×…× (1 – 2/99) × (1 – 2/100)
+> as a fraction whose numerator and denominator are positive integers and which is reduced to
+> lowest terms. Write the denominator of the fraction.
 
 **Answer:** 4950
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q12|src_kangourou_squadre_2009_semifinale__Q12]]
@@ -468,20 +492,28 @@ level: squadre
 
 ![[src_kangourou_squadre_2009_semifinale__prob13.png]]
 
-> Anna e il suo cane 
-> Anna sta passeggiando con il suo cane su una pista circolare che contorna un laghetto. La pista è 
-> lunga 500 metri. Ad un certo istante il cane inizia a correre alla velocità di 10 Km all’ora; Anna lo 
-> insegue correndo alla velocità di 8 Km all’ora. Quando la distanza fra il cane e Anna è diventata di 
-> 250 metri, Anna inverte il verso della sua corsa, con l’intenzione di recuperare il cane (che invece 
-> continua a correre nello stesso verso) correndogli incontro. Se le velocità del cane e di Anna 
-> rimangono le stesse, per quanti secondi Anna starà separata dal suo cane?
+> La griglia
+> Quella in figura è una griglia irregolare in alcune delle cui caselle
+> compaiono già dei numeri. Devi riempire le restanti caselle
+> utilizzando solo numeri interi da 1 a 9 inclusi (uno per casella) e
+> rispettando tutte le regole seguenti:
+> - le caselle grigie devono ospitare solo numeri dispari,
+> quelle bianche solo numeri pari;
+> - nessun numero può comparire più di una volta in una
+> stessa riga;
+> - nessun numero può comparire più di una volta in una
+> stessa colonna;
+> - in ogni riga e in ogni colonna in cui compare la freccia, la
+> somma dei numeri a partire dalla casella con la freccia, nella direzione indicata dalla freccia,
+> deve essere uguale al numero indicato nella casella precedente la freccia.
+> Quale numero devi inserire nella casella indicata dal punto di domanda?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0009
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -491,7 +523,21 @@ level: squadre
 
 ![[src_kangourou_squadre_2009_semifinale__prob13.png]]
 
-> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The track is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+> The grid
+> The one in the figure is an irregular grid in some of whose cells
+> numbers already appear. You must fill in the remaining cells
+> using only integers from 1 to 9 inclusive (one per cell) and
+> respecting all the following rules:
+> - the gray cells must contain only odd numbers,
+> the white ones only even numbers;
+> - no number may appear more than once in a
+> same row;
+> - no number may appear more than once in a
+> same column;
+> - in every row and every column in which the arrow appears, the
+> sum of the numbers starting from the cell with the arrow, in the direction indicated by the arrow,
+> must be equal to the number indicated in the cell preceding the arrow.
+> Which number must you enter in the cell indicated by the question mark?
 
 **Answer:** 0009
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q13|src_kangourou_squadre_2009_semifinale__Q13]]
@@ -505,19 +551,22 @@ level: squadre
 
 *Facce e spigoli di un antiprisma a basi quadrate*
 
-> L’elezione del sindaco 
-> A Kangcity si è svolto il ballottaggio fra Peter  e Max per l’elezione alla carica di sindaco ed è in 
-> corso lo spoglio delle schede. Tutte le schede consegnate sono valide e non bianche. Per ogni 
-> numero intero k compreso fra 0 e 100, quando k% delle schede sono state scrutinate la commissione 
-> comunica l’esito del voto fino a quel momento. Quando, per un certo numero intero n, n% delle 
-> schede sono state scrutinate, Peter ha ottenuto il 62% dei voti scrutinati e Max il 38%: questo è il 
-> primo momento in cui Peter è sicuro di essere il nuovo sindaco. Quanto vale n?
+> L’antiprisma
+> Chiamiamo antiprisma un solido con le seguenti proprietà:
+> • è dotato di due basi quadrate che giacciono su piani paralleli;
+> • il centro di ogni base sta sulla perpendicolare condotta dal centro dell’altra e ciascun lato di
+> ogni base è parallelo a una diagonale dell’altra;
+> • le facce laterali sono triangoli ottenuti congiungendo ciascun vertice di ciascuna base con i
+> due vertici dell’altra ad esso più vicini.
+> Quante facce (incluse le basi) e quanti spigoli possiede un antiprisma? Scrivete nell’ordine prima il
+> numero delle facce, poi quello degli spigoli (ad esempio, se le facce fossero 6 e gli spigoli 11,
+> scrivete 0611).
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1016
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -525,13 +574,16 @@ level: squadre
 
 *Faces and edges of an antiprism with square bases*
 
-> The mayoral election
-> In Kangcity a runoff was held between Peter and Max for election to the office of mayor and the counting of the ballots is
-> underway. All the ballots submitted are valid and not blank. For every
-> integer k between 0 and 100, when k% of the ballots have been counted the election
-> commission announces the outcome of the vote up to that moment. When, for a certain integer n, n% of the
-> ballots have been counted, Peter has obtained 62% of the counted votes and Max 38%: this is the
-> first moment at which Peter is sure to be the new mayor. What is the value of n?
+> The antiprism
+> We call an antiprism a solid with the following properties:
+> • it has two square bases that lie on parallel planes;
+> • the center of each base lies on the perpendicular drawn from the center of the other and each side of
+> each base is parallel to a diagonal of the other;
+> • the lateral faces are triangles obtained by joining each vertex of each base with the
+> two vertices of the other closest to it.
+> How many faces (including the bases) and how many edges does an antiprism have? Write in order first the
+> number of faces, then that of the edges (for example, if the faces were 6 and the edges 11,
+> write 0611).
 
 **Answer:** 1016
 [[Quesiti/src_kangourou_squadre_2009_semifinale#q14|src_kangourou_squadre_2009_semifinale__Q14]]

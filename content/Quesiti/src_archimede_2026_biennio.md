@@ -288,7 +288,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of dividing 16 candies with equal friends *
+*Mode of dividing 16 candies with equal friends*
 
 > Marco has a bag of 16 mint candies, which he wants to share with three friends and his cousin. Each of them, including Mark himself, will have to receive at least one candy; moreover, in order not to create a scandal, Mark's three friends will have to receive the same number of candy. How many ways will Marco be able to make the split?
 >
@@ -373,7 +373,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the two children's product (age problem) *
+*Age of the two children's product (age problem)*
 
 > A man and his two sons are 96 years old in all. Four years ago, the eldest son was half his father's age and twice his brother's. What number is obtained by multiplying the current ages of the two children?
 >
@@ -561,7 +561,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many knights in the class (knights and swordsmen) *
+*How many knights in the class (knights and swordsmen)*
 
 > On the island of knights and crooks, every inhabitant is either a knight (who always tells the truth) or a crook (who always lies). Luigi's class is made up of 21 students in total. His fellow banker Mario declares: "In our class there are precisely 12 knights". Another 9 companions then say: Luigi is a knight, the other 10 say instead: Luigi is a cunning. Luigi prefers not to lose his balance and remains silent. How many knights are in the class?
 >
@@ -690,7 +690,7 @@ Ordination of k, k^2, k^3 by -1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct cube colours with 2+4 faces (10 colours) *
+*Distinct cube colours with 2+4 faces (10 colours)*
 
 > Elena is busy coloring the faces of a large number of cubes. It's available in 10 different colors. In each cube, you want to color two faces of one color and the other four of another color. How many cubes, at most, can you color in different ways? (the colours of two cubes shall be considered the same if, moving them in any way, they do not appear distinguishable from the colours of the faces) 
 >
@@ -748,7 +748,7 @@ Ordination of k, k^2, k^3 by -1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of parallel polygon shaded *
+*Area of parallel polygon shaded*
 
 ![[src_archimede_2026_biennio__prob16.png]]
 

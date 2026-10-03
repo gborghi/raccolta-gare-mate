@@ -131,7 +131,7 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni f:R->R con f(xf(y) + f(x)) + f(y^2) = f(x) +yf(x+y) *
+*Trova tutte le funzioni f:R->R con f(xf(y) + f(x)) + f(y^2) = f(x) +yf(x+y)*
 
 > Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$: $$f(x f(y) + f(x)) + f(y^2) = f(x) + y f(x + y).$$
 

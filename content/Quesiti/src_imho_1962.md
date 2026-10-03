@@ -209,7 +209,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Try d=sqrt(r(r-2rho)) (Euler formula) *
+*Try d=sqrt(r(r-2rho)) (Euler formula)*
 
 > Consider yourself an isosceles triangle. either $r$ the radius of its circumscribed circle and $\rho$ the radius of its inscribed circle. Show that the $d$ distance between the centers of these two circles is $d = \sqrt{r(r - 2\rho)}$.
 

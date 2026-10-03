@@ -424,7 +424,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circles tangent to C1, C2 and r *
+*Circles tangent to C1, C2 and r*
 
 ![[src_kangourou_2001_student__prob11.png]]
 
@@ -777,7 +777,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Littleest number among the expressions *
+*Littleest number among the expressions*
 
 > The hypotenuse of a right triangle is 0.9 cm long while the lengths of the legs are a cm and b cm. Which is the smallest of the following numbers?
 >
@@ -1037,7 +1037,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final pairs of perfect squares *
+*Final pairs of perfect squares*
 
 > How many of the pairs of numbers 00, 11, 22, 33, 44, 55, 66, 77, 88, 99 can be the pair of the last two digits of the perfect square of an integer?
 >

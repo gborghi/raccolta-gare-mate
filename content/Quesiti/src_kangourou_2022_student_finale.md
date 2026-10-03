@@ -273,7 +273,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Axis of a segment with max (chebyshev distance) metric *
+*Axis of a segment with max (chebyshev distance) metric*
 
 ![[src_kangourou_2022_student_finale__probs5.png]]
 

@@ -84,7 +84,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winner of the jump race (jumped/own height ratio) *
+*Winner of the jump race (jumped/own height ratio)*
 
 ![[src_kangourou_2024_junior__prob2.png]]
 
@@ -301,7 +301,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between black area and grey area (square with 4 circles) *
+*Ratio between black area and grey area (square with 4 circles)*
 
 ![[src_kangourou_2024_junior__prob6.png]]
 
@@ -490,7 +490,7 @@ Sum of digits of the largest ABA palindrome multiple of 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the alpha angle (square and regular hexagon) *
+*Measure of the alpha angle (square and regular hexagon)*
 
 > The figure shows an ABCD square of center O and a regular hexagon, one of whose sides is OC. What is the degree of the angle indicated by α? A) 105 B) 110 C) 115 D) 120 E) 125 Questions from N. 11 to N. 20 are worth 4 points each.
 
@@ -887,7 +887,7 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n (cube with one face = no painted face) *
+*Value of n (cube with one face = no painted face)*
 
 > I've placed n^3 identical cubes to each other (with a positive integer) and I've obtained a large cube. Then I painted the outer surface of the large cube; finally I again broke down the cube into the initial cubes. The number of cubes that have exactly a painted face coincides with the number of cubes that have no painted face. What is the number n ? A) 4
 > 	
@@ -1120,7 +1120,7 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement Carlo cannot have made (true on other days) *
+*Which statement Carlo cannot have made (true on other days)*
 
 > On alternate days, Charles tells the truth or lies all day long. On a certain day, Charles made exactly four of the following statements. Which one could he not have made that day?
 > 	
@@ -1189,7 +1189,7 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential B-A of black cubes (three-colored 3x3x3 cube) *
+*Differential B-A of black cubes (three-colored 3x3x3 cube)*
 
 > 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. She also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes she can use to achieve her goal, how much is the difference B - A worth? A) 1 B) 3 C) 6 D) 7 E) 9 249 ·3 23 ·5 12 ·7 8 ·1 14 ·1 34 ·1 73 ·1 92 ·2 32 ·2 9· 31 ·3 7· 41 ·4 3· 47 22. On alternate days, Charles tells the truth or lies all day long. On a certain day, Charles made exactly four of the following statements. Which cannot have
 
@@ -1268,7 +1268,7 @@ Product of the 8 external discs from the products of the squares*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of time at 4 km/h (walk at three speeds) *
+*Fraction of time at 4 km/h (walk at three speeds)*
 
 > Matilde went for a walk. For the first half of the total time he walked at a speed of 2 km/h, then for half of the total distance he kept the speed of 3 km/h and finally for the remaining time to complete the distance he kept the speed of 4 km/h. For what fraction of the total time spent has the speed of 4 km/h been maintained? A) 1/14 B) 1/12 C) 1/7 D) 1/5 E) 1/4
 

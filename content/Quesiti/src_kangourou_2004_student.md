@@ -701,7 +701,7 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangles with vertices of a 14-gon *
+*Right triangles with vertices of a 14-gon*
 
 > How many right triangles have three of the 14 vertices of a regular 14-gon? A) 72 B) 82 C) 84 D) 88 E) other answer
 
@@ -1198,7 +1198,7 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 120 after 200 steps (divisors) *
+*Number in place of 120 after 200 steps (divisors)*
 
 > We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of even place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16 B) 12 C) 20         D)24 E) 32
 

@@ -64,7 +64,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi 1..2016 con mod 20 *
+*Conta i numeri interi 1..2016 con mod 20*
 
 > Tra i numeri interi da $1$ a $2016$, quanti sono i cui restanti dopo la divisione da $20$ sono inferiori alla metà di $16$ (cioè il restante del modulo intero $20$ è inferiore a $\tfrac{16}{2} = 8$)?
 

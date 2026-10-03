@@ -310,7 +310,7 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum product with sum of 10 *
+*maximum product with sum of 10*
 
 > Teacher Sotuttoio is fixated on group work and posters. The group of Luca, Massimo, Davide and Claudia must prepare a carton with 10 drawings: they can start the work as they wish, provided that one person works on each of the 10 drawings. The final score of the group will be the product of the number of drawings made by each child. For example, if Luke does 7 drawings and each of the other children does only one, the final score will be 7 · 1 · 1 · 1, that is, 7. Children immediately notice that even grades higher than 10 can be scored. What's the highest score you can get? A 36 B 24 C 54 D 27 E 15 F 20
 
@@ -421,7 +421,7 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common n and m dividers (MCD and its dividers) *
+*Common n and m dividers (MCD and its dividers)*
 
 > They are n = 11.112.222 and m = 11.118.888. How many positive integers exactly divide both m and n? A 16 B 8 C 2 D 4 E 24 F 6
 
@@ -466,7 +466,7 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deductions from ownership of votes (quantifiers) *
+*Logical deductions from ownership of votes (quantifiers)*
 
 > Professor Quandomigira still has to bring her last month's results to class. Pressed by a student, she replies, "I don't remember your vote". I can only tell you that the votes satisfy the following property: no matter how you choose a guy, you can always find at least one girl who got a narrowly higher vote than you. The following statements can be drawn from the professor's words: (a) however a girl is chosen, there is at least one boy who scored lower than her; (b) the average score of girls is higher than the average score of boys; (c) the highest score of a girl is higher than the highest score of a boy. A only (c) B only (b) C only (a) D all E no F only (a) and (c)
 

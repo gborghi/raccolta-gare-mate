@@ -90,7 +90,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto massimizzando il rapporto lato più breve a raggio *
+*Triangolo acuto massimizzando il rapporto lato più breve a raggio*
 
 > Per quali triangoli a angolo acuto il rapporto tra lato più corto e raggio del cerchio inciso è maggiore?
 

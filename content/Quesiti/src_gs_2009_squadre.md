@@ -86,7 +86,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time distribution over three gates, minimum *
+*Time distribution over three gates, minimum*
 
 > At a hypergalactic station near Arcturus, travelers form a single queue to access the ticket office gates and it is always the one in front of the queue that turns to one of the available gates. Nine travelers are in line, with three gateways in operation; they spend different times, once in front of the gate, to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40 and 45 minutes. The time taken to complete the purchases was as short as possible under the conditions described. What was the time it took?
 
@@ -200,7 +200,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope rectangular folding area (I) *
+*Rope rectangular folding area (I)*
 
 ![[src_gs_2009_squadre__prob7.png]]
 
@@ -261,7 +261,7 @@ Probability of extraction of red and blue shirts
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the pyramid-mobile *
+*Height of the pyramid-mobile*
 
 > In Slartibartfast's studio, there is a supermobile consisting of four 1.2dm diameter marble balls, locked in a transparent box, with a 2.4dm square side base without a lid; in the center, above the four marble balls, a 1.37dm diameter steel ball is supported. What is the height in mm of the supermobile?
 
@@ -319,7 +319,7 @@ Probability of extraction of red and blue shirts
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope rectangular folding area (II) *
+*Rope rectangular folding area (II)*
 
 ![[src_gs_2009_squadre__prob11.png]]
 
@@ -377,7 +377,7 @@ Probability of extraction of red and blue shirts
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final figures of a power of 3 (benefit) *
+*Final figures of a power of 3 (benefit)*
 
 > One hundred neo-mathematicians from the laboratories of Sirius Cybernetics Corporation have devised a system to win at the Santraginus 5 casino. Hooloovoo, the boss, puts in the three dollar altars with which the group of neo-mathematicians starts playing; every night they play, the group triples the fortune. To avoid suspicion, they play once every two weeks, every Thursday. They started on Thursday 20 March 2008; they stopped yesterday. After returning to Hooloovoo the three dollars he had invested initially, the neo-mathematicians divided the total assets they had won into equal parts, rounding it up to a whole number of dollars, and donated the rest to charity. How much have the Altaris donated to charity?
 
@@ -452,7 +452,7 @@ Probability of extraction of red and blue shirts
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magrathea templates, co-circular columns (I) *
+*Magrathea templates, co-circular columns (I)*
 
 ![[src_gs_2009_squadre__prob15.png]]
 
@@ -580,7 +580,7 @@ Probability of extraction of red and blue shirts
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magrathea templates, lengths with similarities (II) *
+*Magrathea templates, lengths with similarities (II)*
 
 ![[src_gs_2009_squadre__prob19.png]]
 
@@ -702,7 +702,7 @@ Probability of extraction of red and blue shirts
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategy chocolate table *
+*Winning strategy chocolate table*
 
 > After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutri-matic Food Synthesizer generate a huge rectangular square-shaped chocolate tablet: 9002 columns, each composed of 2009 square-shaped chocolate. They decide to play a game: they may splash the box on a top; then, in turn, each of them will break the table (or what is left of it) into two rectangular pieces, along one of the drains between the boxes, eating one of the two parts. Whoever eats the box with the mayonnaise loses. Ford plays first. Which rectangle must eat on the first move to be sure of winning? The answer indicates the number of different pictures from 2009 and 9002 of one of the sides of the piece of chocolate you have to eat.
 

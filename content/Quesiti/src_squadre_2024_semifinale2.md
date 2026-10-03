@@ -161,7 +161,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External Wolfram probability numerator, polygon 10000 *
+*External Wolfram probability numerator, polygon 10000*
 
 > Pizzini for MontyHallbano The boss of the Sin(agra) gives code orders using sequences of exactly three letters, all distinct, taken from an alphabet that has all n letters. Commissioner MontyHallbano cannot translate the orders written on the plates, but he knows that the total number of possible sequences is multiple of 11 and 19. How much is n worth, at least?
 
@@ -262,7 +262,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with shy shy <=6000 and relationship to powers of 2 *
+*Couples (x,y) with shy shy <=6000 and relationship to powers of 2*
 
 > Around a round table there are 10,000 people, but unfortunately each of them could be a member of the notorious Black Organization. Of these people, 4248 say the following sentence: Between me and the two 2024 Team Games  Semifinal 1  Problem Tests  1/2
 > 
@@ -542,7 +542,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of consecutive entries n) from 1 to 99 *
+*Summary of consecutive entries n) from 1 to 99*
 
 > Even this time, Inspector Zenonigata put Lupin/3 in the corner proposing the succession an, which follows the following law: for each n > 1 we have that an = an−1 +2an−2 +3an−3 +...+(n−1)a1 and also a1 = k for some whole k. Zenonigata asks whether Lupin/3 knows how to calculate the sum of all the values of k for which n such as an = 2024 exists. The thief, equally mocked, responds correctly and escapes, leaving Zenonigata to eat his hands for the wasted opportunity. What did Lupin/3 say? Team competition 2024  Semifinal 1  Problem tests  2/2
 > 

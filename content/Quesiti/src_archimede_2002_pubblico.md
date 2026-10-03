@@ -31,7 +31,7 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*radius of the quadrilateral *
+*radius of the quadrilateral*
 
 > The swimming pool of Professor Abacus
 > 
@@ -97,7 +97,7 @@ The following points shall be inserted:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* succession of integers *
+*succession of integers*
 
 > **Distracted school year** (55 points)
 > 
@@ -390,7 +390,7 @@ The following points shall be inserted:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pitagoric furnace and surface *
+*pitagoric furnace and surface*
 
 > A strange orbiting station
 > 
@@ -587,7 +587,7 @@ Maximum power dividing by 1000!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*coordinated triangle, whole points *
+*coordinated triangle, whole points*
 
 > The three-dimensional geometry of the triangle of Bernardo
 > 
@@ -620,7 +620,7 @@ Maximum power dividing by 1000!
 <div class="qlang-split" data-lang="en"></div>
 
 
-* distance from the centre, sum of squares*
+*distance from the centre, sum of squares*
 
 > **The octagonal square ** (45 points)
 > 
@@ -749,7 +749,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*70 points, geometry *
+*70 points, geometry*
 
 > **The triangular garden** (70 points)
 > 
@@ -814,7 +814,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* area of the coat of arms*
+*area of the coat of arms*
 
 > **Sculpture theme** (70 points)
 > 
@@ -846,7 +846,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*65 points, solid geometry *
+*65 points, solid geometry*
 
 > The following table shows the results of the evaluation:
 > 
@@ -917,7 +917,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*combinations of safe *
+*combinations of safe*
 
 > The following table shows the number of items in the table:
 > 
@@ -986,7 +986,7 @@ This is the total amount of the loan.
 
 *piece count*
 
-> This is a list of the official languages of the European Union, including the official languages of the European Union.
+> **Bernardo and the Meccano set** (20 points)
 > 
 > Bernardo's playing with the mechanic. First, he builds two side cubes measuring $a$ and $b$ in centimeters. Then it disassembles its cubes and by putting together the various sides of its predecessors it builds a larger, lateral $c = a + b$ cube. The volume of the new cube exceeds $3000 \text{ cm}^3$ the sum of the volumes of the other 2. Finally Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in $\text{cm}^3$)?
 

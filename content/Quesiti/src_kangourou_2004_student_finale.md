@@ -143,7 +143,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cross tiles on the 8x8 chessboard *
+*Max cross tiles on the 8x8 chessboard*
 
 ![[src_kangourou_2004_student_finale__probs3.png]]
 

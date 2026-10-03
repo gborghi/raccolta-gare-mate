@@ -528,7 +528,7 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dark triangles at the next step in the fractal *
+*Dark triangles at the next step in the fractal*
 
 ![[src_kangourou_2016_ecolier_marzo__prob12.png]]
 
@@ -889,7 +889,7 @@ Maximum squares certainly occupied by 8 out of 11 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A possible total of four siblings, three twins *
+*A possible total of four siblings, three twins*
 
 > Today is the birthday of four brothers: Dado, Dido and Dodo are twins, while Bobo is three years older. Which of the following numbers can be the sum of the ages of the four brothers? A) 25
 > 	

@@ -57,7 +57,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per i reali positivi: somma delle frazioni ge 3/2 *
+*Ineguaglianza per i reali positivi: somma delle frazioni ge 3/2*
 
 > Per tutti i numeri reali positivi $a, b, c$ provare che $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b} \ge \frac{3}{2}.$$
 

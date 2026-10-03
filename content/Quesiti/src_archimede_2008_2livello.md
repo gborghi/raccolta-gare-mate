@@ -548,7 +548,7 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which lamp remains on (perfect squares, odd dividers) *
+*Which lamp remains on (perfect squares, odd dividers)*
 
 > There are 10,000 bulbs numbered from 1 onwards, each of which is switched on and off with a normal switch. At the beginning all the lamps are turned off; then all the switches of the lamps marked by multiples of 1 are pressed once (hence all the lamps are turned on), then the switches of all those of equal position (i.e. multiples of 2), then those marked with multiples of 3, then those of the multiples of 4 and so on, are pressed once, until the multiples of 10000. Which of the following light bulbs remains on at the end of operations?
 >

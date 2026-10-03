@@ -1008,7 +1008,7 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers with 2 to 3 digits greater than the sum of the digits *
+*Natural numbers with 2 to 3 digits greater than the sum of the digits*
 
 > How many two- or three-digit natural integers are greater than the sum of their digits? A) 1 B) 100 C) 989 D) 990 E) 999
 

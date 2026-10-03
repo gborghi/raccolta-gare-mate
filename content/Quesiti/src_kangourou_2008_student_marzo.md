@@ -108,7 +108,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cells remain after deletion (33x21) *
+*How many cells remain after deletion (33x21)*
 
 > In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is even. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
 
@@ -143,7 +143,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime p such that p^4+1 is prime *
+*How many prime p such that p^4+1 is prime*
 
 > How many prime numbers p have the property that p^4+1 is also prime? (Remember that 1 is not a prime number.) A) None B) 1 C) 2 D) 3 E) Infinitely many
 
@@ -277,7 +277,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the ACB angle (isosceles triangle with D) *
+*Measure the ACB angle (isosceles triangle with D)*
 
 ![[src_kangourou_2008_student_marzo__prob6.png]]
 
@@ -334,7 +334,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first wise man (parity) *
+*Sum of cards from the first wise man (parity)*
 
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man read? A) 10 B) 12 C) 6 D) 9 E) 15
 
@@ -600,7 +600,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal length AB of the parallelepiped *
+*Diagonal length AB of the parallelepiped*
 
 ![[src_kangourou_2008_student_marzo__prob12.png]]
 
@@ -740,7 +740,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (three tangent circles) *
+*Shaded region area (three tangent circles)*
 
 ![[src_kangourou_2008_student_marzo__prob15.png]]
 
@@ -861,11 +861,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Signs and fraction value (negative) *
+*Signs and fraction value (negative)*
 
 > The numerator and denominator of a fraction are negative numbers and the numerator is greater than one of the denominator. Which of the following statements is true? A) The fraction is a number less than -1. B) The fraction is a number between -1 and 0. C) The fraction is a positive number less than 1. D) The fraction is a number greater than 1. E) It cannot be established whether the fraction is a positive or a negative number. 1 3 π - 1 2 √3 (√3 - 3 2) π 1 8 π 1 2 π - 1 2 √3 √3 - 1 2 π √14 √7 √13 √17 A B 1 Tests_08.qxp 9-03-2008 14:56 Page 30
-> 
-> I'm going to pay. I'm going to pay. 31 31 Kang 2008 Kang
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_student_marzo#q17|src_kangourou_2008_student_marzo__Q17]]
@@ -900,7 +898,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Point P which minimizes sum of distances (5 points) *
+*Point P which minimizes sum of distances (5 points)*
 
 > Five distinct points A1, A2, A3, A4 and A5 are arranged in a straight line. A point P on the same line is chosen so that the sum of the distances PA1 + PA2 + PA3 + PA4 + PA5 is minimal. It can be said that point P is A) Necessarily A1. B) A2 as necessary. C) A3 as necessary. D) Any point between A2 and A4. E) Any point between A1 and A5.
 
@@ -1268,7 +1266,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of k such that a_k=2008 (success) *
+*Value of k such that a_k=2008 (success)*
 
 > Let {an} be a sequence. It is known that a1 = 0 and that, for n ≥ 0, we have an+1 = an + (-1)n. n. If ak = 2008, then the value of k is A) 2008 B) 2009 C) 4017 D) 4018 E) none of the four indicated.
 
@@ -1329,7 +1327,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the ADE triangle (inscribed circle) *
+*Perimeter of the ADE triangle (inscribed circle)*
 
 ![[src_kangourou_2008_student_marzo__prob26.png]]
 
@@ -1416,7 +1414,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded in square (M medium) *
+*Area region shaded in square (M medium)*
 
 ![[src_kangourou_2008_student_marzo__prob27.png]]
 
@@ -1477,7 +1475,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measuring the angle ABC between two cubes (Pitagoras) *
+*Measuring the angle ABC between two cubes (Pitagoras)*
 
 ![[src_kangourou_2008_student_marzo__prob28.png]]
 
@@ -1516,7 +1514,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bars for 61 octagons *
+*How many bars for 61 octagons*
 
 ![[src_kangourou_2008_student_marzo__prob29.png]]
 

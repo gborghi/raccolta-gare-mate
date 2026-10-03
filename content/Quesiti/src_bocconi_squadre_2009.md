@@ -59,7 +59,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers with four distinct non-zero digits with a sum of 12 digits *
+*Natural numbers with four distinct non-zero digits with a sum of 12 digits*
 
 > How many are the natural numbers of 4 digits (all different from each other and all different from 0) so the sum of their digits is 12?
 
@@ -209,7 +209,7 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major symmetrical number of 3 digits (different digits, multiple of the sum) *
+*Major symmetrical number of 3 digits (different digits, multiple of the sum)*
 
 > These are called symmetric numbers composed of numbers which are all different from each other and which are multiples of the sum of their numbers. What's the biggest three-digit number?
 
@@ -448,7 +448,7 @@ Age of the mother deduced from figure play with the child
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles are seen in Figure *
+*How many triangles are seen in Figure*
 
 > How many triangles do you see in the figure?
 

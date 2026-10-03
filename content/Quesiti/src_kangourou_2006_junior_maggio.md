@@ -171,7 +171,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p+q product of at least three integers >1 (first consecutive) *
+*p+q product of at least three integers >1 (first consecutive)*
 
 > They are $p$ and $q$ two prime numbers, different from each other and both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily different from each other)? If the answer is yes, give a reason, if the answer is no, give a counterexample.
 

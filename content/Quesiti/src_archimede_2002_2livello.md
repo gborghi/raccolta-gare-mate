@@ -177,7 +177,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*grey area report *
+*grey area report*
 
 ![[src_archimede_2002_2livello__prob5.png]]
 
@@ -306,7 +306,7 @@ A logical riddle about Martian and Venusian (who's thinking)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a square divided by the figure (radius/side) *
+*Area of a square divided by the figure (radius/side)*
 
 > Whether $P(X) = aX^3 + bX^2 + cX + d$ is a third degree polynomial with real coefficients. If $P(2000) = 2001$ and $P(2001) = 2002$, then $P(2002)$ cannot be equal to:
 > 
@@ -438,7 +438,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a given parallelogram (Diego/Viola) *
+*Perimeter of a given parallelogram (Diego/Viola)*
 
 > The integers 1 to 9 are written in the nine boxes of a chessboard $3 \times 3$, each whole in a different box, so that each pair of consecutive integers is in two adjacent boxes (i.e. having one side in common). What are the possible values of the number in the central box?
 > 
@@ -471,7 +471,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting of cells of the colouring cube (4 boxes at the top) *
+*Counting of cells of the colouring cube (4 boxes at the top)*
 
 > How many integers $(a, b, c)$ are all greater than 1 such that $a^{b^c} < 2002$?
 > 
@@ -505,7 +505,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 
 *Term (x,y,z) positive integers with product/condition given*
 
-> This is the first time I've seen this.
+> **PROOF EXERCISE**
 > 
 > Determine the number of parallel-piped rectangles with a square base having all beads of full length and volume equal to $270\,000$.
 
@@ -538,7 +538,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 
 *to show equality of angles*
 
-> This is the first time I've seen this.
+> **PROOF EXERCISE**
 > 
 > A triangle $ABC$ is given. The mean points of the sides $AC$ and $BC$ shall be indicated with $M$ and $N$ respectively. Also $S$ and $T$ shall be points on the sides $AC$ and $BC$ respectively, such that: $$AS = \frac{1}{3}AC \qquad BT = \frac{1}{3}BC.$$ Demonstrate that the angles $\widehat{AST}$ and $\widehat{BTS}$ meet on a point $P$ of the $AB$ side if and only if the quadrilateral $AMNB$ is circular.
 
@@ -570,7 +570,7 @@ Minimum number of moves to compose the 1000 piece puzzle
 
 *Parallel whole-sided pipes with volume 250000*
 
-> This is the first time I've seen this.
+> **PROOF EXERCISE**
 > 
 > Determine all positive integers $(x, y, z)$ that meet the following system: $$\begin{cases} 45xy^2 = 8z^3 \\ xyz < 1000 \end{cases}$$
 

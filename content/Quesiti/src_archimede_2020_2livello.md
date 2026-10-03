@@ -83,7 +83,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Game of thrones, always true *
+*Game of thrones, always true*
 
 > Alberto and Barbara write numbers on the board. Alberto leaves and writes the real number x. Then Barbara writes number one. The two then alternate, and each turn they write a number. Albert in his turn multiplies the last number written for x2 and writes the result. Barbara in her turn sums up the last number written x + 1 and writes the result. They stop when they have 2020 numbers written on the board. Which of the following statements is always true? (A) There is at least one negative number written on the board (B) All numbers written on the board are positive (C) Alberto wrote only positive numbers (D) Alberto wrote only negative numbers (E) Barbara wrote only positive numbers
 
@@ -120,7 +120,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four first years with a total of 240, the youngest *
+*Four first years with a total of 240, the youngest*
 
 > Anna, Bianca, Carla, and Diana are four women of different ages. Their ages are prime numbers whose sum is 240. Knowing that none of them are over 70, what is the age of the youngest?
 >
@@ -589,7 +589,7 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomials with p(x) ^2=p(x^2) + alpha p(x), counting *
+*Polynomials with p(x) ^2=p(x^2) + alpha p(x), counting*
 
 > How many polynomials are p(x) with real coefficients, of degree between 1 and 2020 (extremes included), for which there exists a real number α such that the equation p(x) 2 = p x2 + αp(x) is verified for each real number x?
 
@@ -623,7 +623,7 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full square dividers, maximum number *
+*Full square dividers, maximum number*
 
 > Demonstrative Exercise (a) Suppose n = k2 is a perfect square. Show that the number of positive divisors of n strictly less than k is equal to the number of n strictly greater than k divisors. (b) Suppose n = k2 is a perfect square. Prove that n has a maximum of 2k −1 positive divisors. (c) Find all positive integers k such that k2 has exactly 2k −1 positive divisors.
 

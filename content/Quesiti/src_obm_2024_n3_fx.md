@@ -134,7 +134,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre realtà distinte che soddisfano il sistema ciclico; dimostrare che tutte si trovano in (-1,1) *
+*Tre realtà distinte che soddisfano il sistema ciclico; dimostrare che tutte si trovano in (-1,1)*
 
 > Che $x, y, z$ siano tre numeri reali distinti in modo tale che $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$ dimostri che $-1 < x, y, z < 1$.
 

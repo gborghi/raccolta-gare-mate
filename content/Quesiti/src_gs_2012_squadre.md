@@ -140,7 +140,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs with mod 9 product equal to figure (table) *
+*Pairs with mod 9 product equal to figure (table)*
 
 > Dotto continues to practice with numbers: he has invented a new operation between integers. Multiply the number of units of the first number by the number of units of the second number, then, if the result is greater than 9, it adds the numbers, and if this new number is greater than 9, it adds the numbers again, until it gets a number with only one digit. This is the unit number of the resulting number of the new operation. The same goes for the number of tens, the number of hundreds, and so on. How many pairs of numbers have the result $1357$?
 
@@ -197,7 +197,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural minime with 11 dividers (scarp) *
+*Natural minime with 11 dividers (scarp)*
 
 > Cucciolo calls sgarzulini the natural numbers formed only by digits 1. How many digits has the smallest prime number greater than 1 such that the number of its prime divisors is a prime number?
 
@@ -474,7 +474,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total produced by ten factors (power) *
+*Total produced by ten factors (power)*
 
 > Dotto is still practicing with numbers. There are 10 boxes in front, numbered 1 to 10. Insert in box n. 1 a number chosen between $-1, 0, 1$ and $2$; likewise, also in box n. 2 enters one of the numbers $-1, 0, 1, 2$ etc. until all the boxes are filled. Then he makes the product of the 10 numbers that are inserted and writes the number on the board. Repeat the operation by inserting the $-1, 0, 1, 2$ numbers in the boxes again in a different way from the previous one, and write the resulting product on the board next to the first one. Continue by entering the $-1, 0, 1, 2$ numbers in all possible ways into the ten boxes and writing off the product obtained alongside the others. Finally, calculate the sum of all the numbers written on the board. What number do you get?
 
@@ -602,7 +602,7 @@ Winning expected game dice backwards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*System of congruences with incorrect equations (Chinese remains) *
+*System of congruences with incorrect equations (Chinese remains)*
 
 > Snow White tells a new Kenoncé Island fairy tale of knights and swindlers (the knights always tell the truth, the swindlers always the lie): the fairy tale of the Kenoncé Island census. Census Bureau staff enter a bar and ask five adventurers the same question: How many thieves are on this island? They receive the following answers:
 > 
@@ -767,7 +767,7 @@ Winning expected game dice backwards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of A after 10 launches (cube) *
+*Probability of A after 10 launches (cube)*
 
 ![[src_gs_2012_squadre__prob24.png]]
 

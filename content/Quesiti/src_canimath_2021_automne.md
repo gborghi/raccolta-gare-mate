@@ -252,7 +252,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, immagine simmetrica del punto medio, angolo di ricerca MDC (versione liceale) *
+*Triangolo isosceles, immagine simmetrica del punto medio, angolo di ricerca MDC (versione liceale)*
 
 > $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
 
@@ -279,7 +279,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Village 5 edilizia con 5,15,25,35,45 abitanti; mostra qualcuno che condivide l'edificio con un membro della famiglia (liceu) *
+*Village 5 edilizia con 5,15,25,35,45 abitanti; mostra qualcuno che condivide l'edificio con un membro della famiglia (liceu)*
 
 > Un villaggio è composto da 5 edifici. Nei 5 edifici vivono rispettivamente 5, 15, 25, 35 e 45 persone. Ogni persona conta almeno due membri della propria famiglia (esclusi se stessi) tra gli abitanti del villaggio. Mostrate che esiste una persona che conta un membro della sua famiglia tra gli abitanti del proprio edificio.
 

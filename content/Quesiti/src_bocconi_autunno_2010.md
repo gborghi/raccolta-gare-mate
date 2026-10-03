@@ -67,7 +67,7 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Age of Enlightenment by three brothers with product 35 and sum of 13*
+*Age of Enlightenment by three brothers with product 35 and sum of 13*
 
 > Chiara has two younger brothers. The product of the ages of the three children is 35, their sum is 13. What is Chiara's age?
 
@@ -489,7 +489,7 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of tokens to be removed to avoid products remaining *
+*Minimum number of tokens to be removed to avoid products remaining*
 
 > RENATO has 1,000 tokens at his disposal on which he can read all the numbers from 1 to 1,000. How many tokens must you minimize to make sure that none of the remaining tokens have the same number as the product of the numbers of the other two (remaining) tokens?
 

@@ -351,7 +351,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale *
+*Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale*
 
 > Il $ABCD$ deve essere un quadrilaterale converso con $\angle DAB = \angle BDC = 90^\circ$. Lasciate che gli incircoli dei triangoli $ABD$ e $BCD$ toccino $BD$ a $P$ e $Q$, rispettivamente, con $P$ tra $B$ e $Q$. Se $AD = 999$ e $PQ = 200$, qual è la somma dei radii degli incircoli dei triangoli $ABD$ e $BCD$?
 
@@ -525,7 +525,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima possibile di f(999) per la funzione uno a uno su naturali con f(mn) = f(m) f(n) *
+*Valuta minima possibile di f(999) per la funzione uno a uno su naturali con f(mn) = f(m) f(n)*
 
 > Lasciate che $f$ sia una funzione uno a uno dall'insieme dei numeri naturali a se stesso tale che $f(mn) = f(m)f(n)$ per tutti i numeri naturali $m$ e $n$. Qual è il valore minimo possibile di $f(999)$?
 

@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three larger Matteo numbers (product = sum of digits) *
+*Three larger Matteo numbers (product = sum of digits)*
 
 > We call a "Matteo number" a four-digit number such that the product of the first two digits is equal to the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are the three greatest Matteo numbers?
 

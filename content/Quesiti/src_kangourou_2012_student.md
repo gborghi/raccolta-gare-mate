@@ -243,8 +243,6 @@ level: kangourou
 *Central number of a list of sums of subgroups*
 
 > What's the probability that two dice will result in two consecutive numbers? A) 13/90 B) 17/100 C) 5/18 D) 1/3 E) 1/2 80 70 60 50 40 30 20 10 0 -10 -20 -30 -40 Water level (cm) Time (hours) Water level (cm) Time (hours)
-> 
-> I'm going to pay. I'm going to pay. 28 28 Kang 2012 Kang 2012
 
 [[Quesiti/src_kangourou_2012_student#q06|src_kangourou_2012_student__Q06]]
 
@@ -599,7 +597,7 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the union region of three squares and a triangle in a flowerbed *
+*Area of the union region of three squares and a triangle in a flowerbed*
 
 ![[src_kangourou_2012_student__prob15.png]]
 
@@ -825,7 +823,7 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of parallel straight intersections with parabola *
+*sum of parallel straight intersections with parabola*
 
 > At the end of an algebra lesson, the equation parabola y = x2 and 2012 lines parallel to the equation line y = x remain on the board, each of which intersects the parabola in two points. The sum of the abscissas of the intersection points of the lines with the parabola is A) 0. B) 1. C) 1006. D) 2012. E) a different number. The questions from N. 21 to N. 30 are worth 5 points each.
 
@@ -899,26 +897,10 @@ True statement for x with x3<64<x2*
 > viene ruotata intorno all’asse x si ottiene l’ellissoide  Ex con volume  Vol(Ex), se viene ruotata intorno all’asse y si ottiene l’ellissoide  Ey con volume
 > Vol(Ey). Quale delle seguenti affermazioni è vera?
 > A) Ex = Ey e  Vol(Ex) = Vol(Ey)
-> B) Ex = Ey ma  Vol(Ex) ≠Vol(Ey) 
+> B) Ex = Ey ma  Vol(Ex) ≠Vol(Ey)
 > C) Ex ≠Ey e  Vol(Ex) > Vol(Ey)
 > D) Ex ≠Ey e  Vol(Ex) < Vol(Ey)
 > E) Ex ≠Ey ma  Vol(Ex) = Vol(Ey)
-> 12 cm
-> x cm
-> 11 12
-> b
-> a
-> x
-> y
-> f(x) =
-> |x - 503| + |x + 503|
-> |x - 2012| + |x + 2012|
-> 
-> Pag. 
-> Pag. 31
-> 31
-> Kang 2012
-> Kang 2012
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -930,7 +912,7 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Confronto volumi ellissoidi di rotazione attorno agli assi*
+*Comparison of the volumes of the ellipsoids of revolution about the axes*
 
 ![[src_kangourou_2012_student__prob22.png]]
 
@@ -947,30 +929,14 @@ True statement for x with x3<64<x2*
 \end{document}
 ```
 
-> Sia a > b > 0.  Se l’ellisse mostrata in figura
-> viene ruotata intorno all’asse x si ottiene l’ellissoide  Ex con volume  Vol(Ex), se viene ruotata intorno all’asse y si ottiene l’ellissoide  Ey con volume
-> Vol(Ey). Quale delle seguenti affermazioni è vera?
-> A) Ex = Ey e  Vol(Ex) = Vol(Ey)
-> B) Ex = Ey ma  Vol(Ex) ≠Vol(Ey) 
-> C) Ex ≠Ey e  Vol(Ex) > Vol(Ey)
-> D) Ex ≠Ey e  Vol(Ex) < Vol(Ey)
-> E) Ex ≠Ey ma  Vol(Ex) = Vol(Ey)
-> 12 cm
-> x cm
-> 11 12
-> b
-> a
-> x
-> y
-> f(x) =
-> |x - 503| + |x + 503|
-> |x - 2012| + |x + 2012|
-> 
-> Pag. 
-> Pag. 31
-> 31
-> Kang 2012
-> Kang 2012
+> Let a > b > 0. If the ellipse shown in the figure
+> is rotated around the x-axis, the ellipsoid Ex with volume Vol(Ex) is obtained; if it is rotated around the y-axis, the ellipsoid Ey with volume
+> Vol(Ey) is obtained. Which of the following statements is true?
+> A) Ex = Ey and Vol(Ex) = Vol(Ey)
+> B) Ex = Ey but Vol(Ex) ≠ Vol(Ey)
+> C) Ex ≠ Ey and Vol(Ex) > Vol(Ey)
+> D) Ex ≠ Ey and Vol(Ex) < Vol(Ey)
+> E) Ex ≠ Ey but Vol(Ex) = Vol(Ey)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_student#q22|src_kangourou_2012_student__Q22]]
@@ -1162,8 +1128,6 @@ True statement for x with x3<64<x2*
 *Center of the data cube three vertices in space*
 
 > In a space with an orthogonal Cartesian reference system Oxyz, three vertices of a cube are the points P (3; 4; 1), Q (5; 2; 9) and R (1; 6; 5). Which of the following points is the center of the cube? A) A ≡(4; 3; 5) B) B ≡(2; 5; 3) C) C ≡(3; 4; 7) D) D ≡(3; 4; 5) E) E ≡(2; 3; 5)
-> 
-> I'm going to pay. I'm going to pay. 32 32 Kang 2012 Kang 2012
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_student#q27|src_kangourou_2012_student__Q27]]
@@ -1233,11 +1197,11 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Valore |a-b| con ab uguale somma dei 24 restanti*
+*Value of |a-b| with ab equal to the sum of the remaining 24*
 
-> Giovanna estrae a caso due numeri  a e  b dall’insieme  {1, 2, 3, …, 26}.
-> Il prodotto  ab è uguale alla somma dei 24 numeri rimanenti. Qual è il valore
-> di |a - b|?
+> Giovanna randomly draws two numbers a and b from the set {1, 2, 3, …, 26}.
+> The product ab is equal to the sum of the 24 remaining numbers. What is the value
+> of |a - b|?
 > A) 10
 > B) 9
 > C) 7

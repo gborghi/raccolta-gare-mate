@@ -29,7 +29,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Isosceles trapezoide, diagonale di 100 m, angolo 30°, trovare S/sqrt(3) *
+*Isosceles trapezoide, diagonale di 100 m, angolo 30°, trovare S/sqrt(3)*
 
 > Un trapezoide $ABCD$ di uguali braccia, con lati paralleli $AB$ e $CD$, è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. $S$ sia la superficie del trapezoide in $\text{m}^2$. Determinare $S/\sqrt{3}$.
 
@@ -84,7 +84,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i numeri autoreplici a 4 cifre (ultimi cifre di n2 uguali a n) *
+*Summa di tutti i numeri autoreplici a 4 cifre (ultimi cifre di n2 uguali a n)*
 
 > Un intero positivo $n$ è chiamato *auto-replicante * se le ultime cifre di $n^2$ formano il numero $n$ stesso. Ad esempio, $25$ si riproduce automaticamente da $25^2 = 625$. Determinare la somma di tutti i numeri di replicazione automatica $n$ con numeri $4$ esatti (cioè tutti i numeri di replicazione automatica $n$ che soddisfano $1000 \le n \le 9999$).
 

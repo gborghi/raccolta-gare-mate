@@ -189,11 +189,9 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time is it (6 hours and a half to 4 hours) *
+*What time is it (6 hours and a half to 4 hours)*
 
 > In six and a half hours it will be exactly four in the morning. What time is it? A) 21: 30 B) 04: 00 C) 20: 00 D) 02: 30 E) 10: 30 1 2 3 4 5 6 school house A) B) C) D) E) Text_07.qxp 16-04-2007 12:02 Page 5
-> 
-> I'm going to pay. I'm going to pay. 6 Kang 2007 Kang 2007
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q05|src_kangourou_2007_ecolier_marzo__Q05]]
@@ -256,7 +254,7 @@ Common letters to KANGOUROU and PROBLEMA
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the cloud (reverse operation) *
+*Number in the cloud (reverse operation)*
 
 ![[src_kangourou_2007_ecolier_marzo__prob7.png]]
 
@@ -593,7 +591,7 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement can be true (sport) *
+*Which statement can be true (sport)*
 
 > Anna, Bianca, Cecilia, and Diana each practice one of the following sports: karate, soccer, volleyball, and judo. Anna does not practice sports that use a ball, Bianca, the judoka, often goes to the stadium to attend football matches. Which of the following statements can be true? A) Anna plays volleyball B) Bianca plays soccer C) Cecilia plays volleyball D) Diana plays karate E) Anna plays judo
 
@@ -774,7 +772,7 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who waits for who and for how long (watches) *
+*Who waits for who and for how long (watches)*
 
 > Chiara and Donatella have an appointment at 7:05. When she arrives, Donatella thinks she's 15 minutes early, but her watch is 7 minutes behind; Chiara thinks she's 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other and for how long? A) Donatella waits for 5 minutes B) Donatella waits for 14 minutes C) Donatella waits for 11 minutes D) Chiara waits for Donatella for 5 minutes E) Chiara waits for Donatella for 11 minutes
 
@@ -981,7 +979,7 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cards for larger closed circuit *
+*Minimum cards for larger closed circuit*
 
 > Anna has a large number of square cards like the one next to her. Placing four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
 
@@ -1029,7 +1027,7 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years of Fabio today (age of friends) *
+*Years of Fabio today (age of friends)*
 
 > Fabio, Luca and Mauro have their birthday today. The sum of their ages today is 22 years; when Fabio will have the age that Luca has today that sum will be 28 years; when Fabio will have the age that Mauro has today that sum will be 37 years. How old is Fabio today? A) 4 B) 5 C) 6 D) 7 E) 8 8 white boxes 21 white boxes 40 white boxes Text_07.qxp 16-04-2007 12:02 Page 9
 > 

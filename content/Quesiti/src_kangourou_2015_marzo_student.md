@@ -123,7 +123,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many solutions has 2^(2x) = 4^(x+1) *
+*How many solutions has 2^(2x) = 4^(x+1)*
 
 > How many solutions does the equation 2^(2x) = 4^(x+1) have? A) 0
 > 	
@@ -305,7 +305,7 @@ Total sum 2001-2031 divided by 31
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many holes *
+*how many holes*
 
 ![[src_kangourou_2015_marzo_student__prob7.png]]
 
@@ -450,7 +450,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eligible values for acute angles of a convex quadrilateral *
+*Eligible values for acute angles of a convex quadrilateral*
 
 > The list of all eligible values for the number of acute angles of a convex quadrilateral is one of the following: which? A) 0, 1, 2.
 > 	
@@ -1059,7 +1059,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is straight and the y-axis *
+*which is straight and the y-axis*
 
 ![[src_kangourou_2015_marzo_student__prob22.png]]
 
@@ -1108,7 +1108,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* likelihood of Lia winning *
+*likelihood of Lia winning*
 
 > Bea has a classic dice, with the numbers 1, 2, 3, 4, 5 and 6 on the six faces. Lia, on the other hand, has a special die that shows 2 on three of its faces and 5 on the other three. Both dice are equal, which means that the probability of a face coming out is the same for all faces. The game states that, when Bea and Lia throw their dice, the one with the highest score wins, while if the scores are equal, there is a tie. At each throw, what's the probability that Lia wins? A) 1/3 B) 7/18 C) 7/12 D) 1/2 E) A different value from the previous ones.
 
@@ -1147,7 +1147,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
 > How many different regular polygons exist such that the measure, in degrees, of their angles is an integer? A) 17
 > 	
@@ -1242,7 +1242,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
 > Let's consider all ABC right triangles at B, with AB of length 20 and such that all their sides have integer length. How many distinct triangles exist with these properties? A) 1
 > 	
@@ -1399,7 +1399,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*blue rectangles *
+*blue rectangles*
 
 > On a board are blue rectangles and red rectangles. Exactly seven of the rectangles are squares. The number of red rectangles is the number of blue squares plus 3, and that of red squares is that of blue rectangles plus 2. How many blue rectangles are on the board? A) 1
 > 	
@@ -1450,7 +1450,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of the last *
+*number of the last*
 
 > 96 members of a mathematics club stand in a circle and start counting. One starts by saying 1, his neighbor says 2, the next 3 and so on, continuing along the circle always in the same direction. Every person who says an even number leaves the circle, and the ones left start the second round starting from 97, of course. They keep going until there's only one person left. What's the number that this person said in the first round? A) 1
 > 	

@@ -177,7 +177,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* equal to *
+*equal to*
 
 ![[src_kangourou_2023_ecolier__prob4.png]]
 
@@ -349,7 +349,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* in how many ways*
+*in how many ways*
 
 ![[src_kangourou_2023_ecolier__prob7.png]]
 
@@ -992,7 +992,7 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many different *
+*how many different*
 
 > Elisa, Mario and Nicola always enter the dining room one at a time. Elisa is never the first, Mario is never the second and Nicola is never the third. How many different orders can they enter? A) 1
 > 	

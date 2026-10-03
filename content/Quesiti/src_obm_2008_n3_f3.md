@@ -29,7 +29,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che ogni intero positivo è 'gaudy' (ha multipli a partire dal 2008) *
+*Prove che ogni intero positivo è 'gaudy' (ha multipli a partire dal 2008)*
 
 > Chiamiamo un intero positivo *gaudy* se ha un multiple le cui prime quattro cifre decimali sono $2008$. Ad esempio, $7$ è gaudy perché $200858$ è un multiple di $7$ e inizia con $2008$ (nota che $200858 = 28694 \times 7$). Prove che ogni intero positivo è goody.
 

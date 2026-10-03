@@ -33,7 +33,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali disgiunti con vertici di 3 e 1 colore *
+*Quadrilaterali disgiunti con vertici di 3 e 1 colore*
 
 > Tra i vertici $100$ di un normale $100$-gon, $41$ sono di colore nero e i rimanenti $59$ sono di colore bianco. Provare che si possono scegliere $24$ quadrilaterali convexi $Q_1, Q_2, \ldots, Q_{24}$, ognuno dei quali ha quattro di questi vertici $100$ come vertici, soddisfacendo le seguenti due condizioni: \begin{itemize} \item Non due di $Q_1, \ldots, Q_{24}$ hanno alcun punto in comune (ne' nei loro interni ne' sui loro confini). \item Per ogni numero intero $i$ con $1 \le i \le 24$, tra i quattro vertici di $Q_i$ esattamente tre sono dello stesso colore e il rimanente è dell'altro colore. # Finire #
 

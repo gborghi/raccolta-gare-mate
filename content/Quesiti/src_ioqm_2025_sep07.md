@@ -451,7 +451,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomi di due gradi-2 con determinate condizioni di rapporto; trovare f(5) *
+*Polinomi di due gradi-2 con determinate condizioni di rapporto; trovare f(5)*
 
 > Lasciate che $f(x)$ e $g(x)$ siano due polinomi di grado 2 in modo tale che $$\frac{f(-2)}{g(-2)} = \frac{f(3)}{g(3)} = 4.$$ Se $g(5) = 2$, $f(7) = 12$, $g(7) = -6$, qual è il valore di $f(5)$?
 
@@ -725,7 +725,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima *
+*Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima*
 
 > Considerate una sequenza di numeri reali di lunghezza finita. Le medie consecutive di quattro termini di questa sequenza aumentano strettamente, ma le medie di sette termini consecutivi diminuiscono strettamente. Qual è la lunghezza massima possibile di tale sequenza?
 
@@ -808,7 +808,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato *
+*Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato*
 
 > Si dice che un poligono regolare con vertici $n \ge 5$ sia colorato se è possibile colorare i vertici utilizzando al massimo 6 colori in modo tale che ogni vertice sia colorato esattamente con un colore e in modo tale che ogni 5 vertici consecutivi abbiano colori diversi. Trova il numero più grande $n$ per il quale un poligono regolare con vertici $n$ è \textbf{not} colorato.
 

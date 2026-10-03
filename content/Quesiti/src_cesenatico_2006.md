@@ -56,7 +56,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Determine values of (a,b,c) with c=ab and ab=a^2 and relationships*
+*Determine values of (a,b,c) with c=ab and ab=a^2 and relationships*
 
 > Determine all values of $m$, $n$ such as $p^n + 144 = m^2$, where $m$ and $n$ are positive integers and $p$ is a prime number.
 
@@ -161,7 +161,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which n true*
+*for which n true*
 
 > Consider the inequality $$\left(x_1 + x_2 + \cdots + x_n\right)^2 \geq 4(x_1 x_2 + x_2 x_3 + \cdots + x_n x_1).$$
 > 

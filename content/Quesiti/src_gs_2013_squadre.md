@@ -40,7 +40,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Types of false equal statements (logic) *
+*Types of false equal statements (logic)*
 
 > The seven deities of the Andals meet to predict who will emerge victorious from the war between the five kings that is about to develop. At every meeting of the seven gods, exactly one of them says the truth, the other six say the lie.
 > 
@@ -74,7 +74,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of non-square folded sheet *
+*Maximum area of non-square folded sheet*
 
 > In his castle at Cape Storm, planning war against the other four kings, Munry Baratheon delights in folding leaves in half, that is, folding a four-sided sheet so as to split in half two opposing edges and making the other two match. It takes a sheet that is not a square, and after folding it twice in half, it finds that it has a square of area $36\text{ cm}^2$. Munry realizes that that is the maximum area he could get by folding the initial sheet in half twice.
 > 
@@ -283,7 +283,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of zeros in the periodic succession to *
+*Number of zeros in the periodic succession to*
 
 > The commander of the Night's Watch uses functions to set calculations that warm his brain. For $x$ and $y$ positive integers, write $\operatorname{qu}(x, y)$ for the quotient of division of $x$ with $y$, i.e. that number $q$ such that $x - (q \times y)$ is a number between $0$ and $y-1$, extremes included (e.g., $\operatorname{qu}(13, 4) = 3$). Today he calculates numbers according to the following formula: $$a_i = (-1)^i + (-1)^{\operatorname{qu}(i,2)} + (-1)^{\operatorname{qu}(i,3)} + (-1)^{\operatorname{qu}(i,4)}.$$ By varying $i$ from $1$ to $2013$, extremes included, how many times does the commander find that the value of $a_i$ is $0$?
 
@@ -314,7 +314,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Linear functional equation, value f(49/2) *
+*Linear functional equation, value f(49/2)*
 
 > Another of the functions that the Night's Watch commander uses is a rational $f : \mathbb{Q} \to \mathbb{Q}$ rational variable function such that $$f(x + y) = f(x) + f(y)$$ for each $x$ and $y$ rational numbers. The commander knows that $f\!\left(\dfrac{7}{8}\right) = \dfrac{8}{7}$ and calculates $f\!\left(\dfrac{49}{2}\right)$. What is the result?
 
@@ -504,7 +504,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last three digits of r_2013 (recurrence mod 1000) *
+*Last three digits of r_2013 (recurrence mod 1000)*
 
 > As I said, to spend time at the Wall, the Night's Watch do very long calculations. Jon, starting with number 2013, subtracts 1 and multiplies the result by 1, then subtracts 2 to the product result and multiplies by 2 what he gets, and continues until he subtracts 2013 and multiplies by 2013. What are the last three digits of the number you get?
 

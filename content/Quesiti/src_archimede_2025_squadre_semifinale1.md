@@ -35,7 +35,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit integer with exchange of 18 digits difference *
+*Tri-digit integer with exchange of 18 digits difference*
 
 > Secret agent James Bound has just brilliantly completed his last assignment. In it he had to count the number of positive integers of exactly three digits such that, exchanging between them the second and third digits counted from the left, the difference (in absolute value) between the starting number and the number obtained by the exchange is equal to 18. How many did you count? For example, 331 and 313 are good because ∙331−313 is equal to 18 and should be counted as distinct.
 

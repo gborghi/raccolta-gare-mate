@@ -576,7 +576,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del pentagono ABCDE nella griglia a punti (1 cm di spaziamento) *
+*L'area del pentagono ABCDE nella griglia a punti (1 cm di spaziamento)*
 
 > Nella disposizione rettangolare dei punti riportata di seguito, la distanza tra i punti adiacenti della stessa riga o colonna è di 1 cm.
 > 

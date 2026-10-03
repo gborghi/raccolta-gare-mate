@@ -33,7 +33,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anni di palindrome: dopo il 2002; dopo il 1991 *
+*Anni di palindrome: dopo il 2002; dopo il 1991*
 
 > L'anno 2002 è un palindromo, cioè si legge lo stesso da sinistra a destra e da destra a sinistra.
 > 
@@ -151,7 +151,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Stick di raccolta: punteggiate esattamente 40 punti; contate un numero distinto di bastoni sufficienti *
+*Stick di raccolta: punteggiate esattamente 40 punti; contate un numero distinto di bastoni sufficienti*
 
 > Nel gioco di pega-varetas, i bastoni verdi valgono 5 punti ciascuno, i bastoni blu valgono 10 punti, i bastoni gialli valgono 15 punti e i bastoni rossi valgono 20. Ci sono 5 bastoni di ogni colore. Carlinhos è riuscito a segnare 40 punti in un giro. Considerando solo il numero di bastoni di ogni colore, in quanti modi diversi avrebbe potuto ottenere questo punteggio, supponendo che fosse sempre possibile scegliere bastoni di qualsiasi colore?
 

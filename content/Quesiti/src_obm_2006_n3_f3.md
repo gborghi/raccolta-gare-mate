@@ -56,7 +56,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limita un^2 < f(n) < bn^2 per i triangoli a max pari dimensioni *
+*Limita un^2 < f(n) < bn^2 per i triangoli a max pari dimensioni*
 
 > $n$ sia un numero intero, $n \ge 3$. Definire $f(n)$ come il numero massimo di triangoli di isosceles le cui vertici appartengono a un insieme di punti $n$ nel piano senza tre punti collineari. Prova che esistono costanti positive $a$ e $b$ tali da $an^2 < f(n) < bn^2$ per ogni numero intero $n \ge 3$.
 
@@ -110,7 +110,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più piccolo intero positivo che sia 'gettato' (arranjado) *
+*Ricerca il più piccolo intero positivo che sia 'gettato' (arranjado)*
 
 > Un intero positivo si chiama \emph{thrown} (arrojado) quando ha 8 divisori positivi la cui somma è 3240. Ad esempio, il 2006 viene gettato perché i suoi 8 divisori positivi sono $1, 2, 17, 34, 59, 118, 1003, 2006$, e la loro somma è 3240. Trova il più piccolo intero positivo gettato.
 

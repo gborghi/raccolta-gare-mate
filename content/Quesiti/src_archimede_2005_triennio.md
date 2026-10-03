@@ -200,7 +200,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of a with 2a^4-4ab+b^2+2=0 *
+*Values of a with 2a^4-4ab+b^2+2=0*
 
 > a and b are two real numbers such that 2a4 −4ab + b2 + 2 = 0 . How many distinct values can you assume at?
 >
@@ -418,7 +418,7 @@ Girls who lied at a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(x+1)-p(x-1)=p(x) *
+*Polynomial with p(x+1)-p(x-1)=p(x)*
 
 > The polynomial p is defined by p(x) = ax2005 + x + b, with a and b real numbers. For what values of a and b do we have that p(x + 1) −p(x −1) = p(x) for every real value of x?
 >

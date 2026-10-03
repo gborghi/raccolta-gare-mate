@@ -113,7 +113,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Building a rectangular triangle with a geometric mean *
+*Building a rectangular triangle with a geometric mean*
 
 > Build a rectangular triangle with a given $c$ hypotenuse, such that the median relative to the hypotenuse is the geometric mean of the two cathetes of the triangle.
 

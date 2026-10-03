@@ -186,7 +186,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le disuguaglianze triangolari conservate sotto la radice quadrata della somma dei quadrati *
+*Le disuguaglianze triangolari conservate sotto la radice quadrata della somma dei quadrati*
 
 > Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1^2 + a_2^2}, \quad b = \sqrt{b_1^2 + b_2^2}, \quad c = \sqrt{c_1^2 + c_2^2}$$ sono anche le lunghezze dei lati di un triangolo.
 

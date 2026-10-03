@@ -80,7 +80,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area common to triangles ABC and DEF (O symmetrical) *
+*Area common to triangles ABC and DEF (O symmetrical)*
 
 > Whether ABC is an equilateral triangle of center O and area 1. Let D, E, F be the symmetrical points of O with respect to the three sides of the triangle. How much is the area shared by the ABC and DEF triangles?
 >

@@ -1342,7 +1342,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max segments crossed by a straight line (10 points) *
+*Max segments crossed by a straight line (10 points)*
 
 > 10 distinct points are drawn on a sheet, so that no line of the plane contains more than two of them. Each pair of points is connected by a segment. Let's draw a straight line that doesn't pass through any of these points: what is the maximum number of segments that the straight line can cross? A) 20 B) 25 C) 30 D) 35 E) 45
 

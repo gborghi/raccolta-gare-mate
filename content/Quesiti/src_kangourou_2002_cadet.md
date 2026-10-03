@@ -479,7 +479,7 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*(b-c) with proportions *
+*(b-c) with proportions*
 
 > a, b, c are three numbers such that a: b = 9: 4 and b: c = 5: 3. It follows that (a−b): (b−c) is equal to
 >  
@@ -905,7 +905,7 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum divisors of n divisible by 21 and 9 *
+*Minimum divisors of n divisible by 21 and 9*
 
 > A positive integer n is divisible by 21 and by 9. What is the minimum number of positive divisors that n must have (1 and n inclusive)?
 >  

@@ -256,7 +256,7 @@ How many kangaroos are in the park, Gianni sees half.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two numbers covered by the stain (addition) *
+*sum of the two numbers covered by the stain (addition)*
 
 ![[src_kangourou_2017_ecolier_marzo__prob5.png]]
 
@@ -525,7 +525,7 @@ The picture of the back of Anna's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum packets for 70 balloons (5,10,25) *
+*Minimum packets for 70 balloons (5,10,25)*
 
 > The balloons are for sale in packets of 5, 10 and 25. Mario purchases exactly 70 balloons. What's the smallest number of packets he can buy? A) 3
 > 	
@@ -626,7 +626,7 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum boys to sign up for six equal teams *
+*Minimum boys to sign up for six equal teams*
 
 > A pool has organized a team tournament. First, 13 boys enrolled, then 19 more. Six teams are needed for the tournament, all with the same number of members. If you want all the boys already enrolled to participate, what is the minimum number of boys who still need to sign up so that the six teams can be formed? A) 1
 > 	
@@ -828,7 +828,7 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the circle with the question mark (operation chain) *
+*Number in the circle with the question mark (operation chain)*
 
 ![[src_kangourou_2017_ecolier_marzo__prob15.png]]
 
@@ -1309,7 +1309,7 @@ The guy who ate the most small pizzas.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins received by Enzo (sacks 1 to 10) *
+*Coins received by Enzo (sacks 1 to 10)*
 
 > There were ten bags on the table, each containing a different number of chocolate coins, from 1 to 10. Grandma gave each of the five grandchildren two bags of coins. Alex has five coins, Ben 7, Claudius 9, and Darius 15. How many chocolate coins did Enzo receive? A) 9
 > 	

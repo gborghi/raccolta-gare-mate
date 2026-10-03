@@ -234,7 +234,7 @@ Who takes the biggest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*identifiable subset *
+*identifiable subset*
 
 > The Mag-o-matic robot handles 101 glasses, arranged in a row whose positions are numbered from 1 to 101. There may or may not be a ball in each glass. The Mag-o-matic robot only accepts basic instructions of the form (a; b, c), which interprets how considers the glass in position a: if it contains a ball, then it exchanges between them the glasses in positions b and c (with the relevant content), otherwise it moves on to the subsequent instruction (it is understood that a, b, c are integers between 1 and 101, with b and c different between them, but not necessarily different from a). A program is a finite sequence of elementary instructions, assigned initially, that Mag-o-matic executes one after the other. A subset S ⊆{0, 1, 2, . . . , 101} is said to be identifiable if there is a program which, from any initial configuration, produces a final configuration in which the glass in position 1 contains a ball if and only if the number of glasses containing a ball is an element of S. (a) Demonstrate that the subset of {0, 1, . . . , 101} consisting of odd numbers can be identified. (b) Determine all subsets of {0, 1, . . . Identifiable.
 
@@ -273,7 +273,7 @@ Who takes the biggest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P on a circumscribed basis; perimeter *
+*P on a circumscribed basis; perimeter*
 
 ![[src_cesenatico_2022__prob6.png]]
 

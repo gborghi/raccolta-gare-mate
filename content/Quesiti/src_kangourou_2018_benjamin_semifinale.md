@@ -155,7 +155,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the smallest modern number *
+*First digit of the smallest modern number*
 
 > (Points 4) A positive integer is said to be modern if the sum of its digits is 2018. What is the first digit of the smallest modern number? A) 1              B) 2 C) 3              	 D) 4                 E) 9
 
@@ -598,7 +598,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many parallelograms with vertices between 8 points *
+*How many parallelograms with vertices between 8 points*
 
 > (Points 6) Two circles with the same centre (but different radius) are intersected at 8 points by two different diameters of the larger circle. How many parallelograms have 4 of these 8 points as vertices?
 
@@ -660,7 +660,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers such as sum A (4 digits) and B (2 digits) *
+*Numbers such as sum A (4 digits) and B (2 digits)*
 
 > (Points 7) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
 

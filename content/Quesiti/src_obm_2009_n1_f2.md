@@ -288,7 +288,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* scacchi: 7 round, 4 games/round, 8 giocatori; dopo il round 3, può esserci un gruppo al primo posto con il resto al secondo posto e tutti i punteggi possono differire*
+*scacchi: 7 round, 4 games/round, 8 giocatori; dopo il round 3, può esserci un gruppo al primo posto con il resto al secondo posto e tutti i punteggi possono differire*
 
 > Un campionato di scacchi ha round $7$, con partite $4$ per round, $8$ partecipanti, i cui punteggi per gioco sono come al solito: un punto per una vittoria, mezzo punto per un pareggio e nessun punto per una sconfitta. Ogni coppia di giocatori si affronta esattamente una volta.
 > 

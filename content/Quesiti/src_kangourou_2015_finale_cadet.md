@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first or second? *
+*first or second?*
 
 > Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turn and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paolo start?
 

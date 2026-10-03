@@ -215,7 +215,7 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 2, 0, 1, 0: how many other numbers of 2, 3, 4 digits? *
+*Numbers 2, 0, 1, 0: how many other numbers of 2, 3, 4 digits?*
 
 > Sergio owns the four tokens that appear in the figure, with which he formed the number 2010. By arranging them differently, it can naturally form other numbers.
 > 
@@ -353,7 +353,7 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Balance with true addition*
+*Balance with true addition*
 
 > Look at the balance shown in the figure and ignore the weights of all the elements that make up the balance (of course, even the two plates of the balance  including the upper triangular one  are regularly spaced apart). Each one of them bears a burden.
 > 

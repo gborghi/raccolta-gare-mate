@@ -273,7 +273,7 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni reali di p(p(x))=x^2 e p(p(x))=p(x) *
+*Soluzioni reali di p(p(x))=x^2 e p(p(x))=p(x)*
 
 > Considerate il trinomio di grado due $p(x) = x^2 - x + 1$.
 > 

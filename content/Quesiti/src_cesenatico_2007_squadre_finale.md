@@ -33,7 +33,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reachable points in square with steps (1,1) or (-1,0) *
+*Reachable points in square with steps (1,1) or (-1,0)*
 
 > The sage Numeritus often uses the step of the hag to confuse his opponents. Each step consists of adding (1,1) or (−1,0) to its position. If Numeruto starts from the point (0,0), how many points of the square [−5,5] × [−5,5] (edges included) can be reached by Numeruto without ever leaving the square?
 
@@ -194,8 +194,6 @@ level: squadre
 ![[src_cesenatico_2007_squadre_finale__prob5.png]]
 
 > Spirals of force The 25 Grandin of the village of Retta have arranged themselves in spirals, as shown in the figure, where the numbers correspond to their life force. If you select a team of five moreninja so that there are never two of them on the same line or column, what is the minimum possible value of the life force of the strongest moreninja in the quintet, varied by all possible choices? 1 16 15 14 13 2 17 24 23 12 3 18 25 22 11 4 19 20 21 10 5 6 7 8 9 Team competition 2007  National final  Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2007  National final  Problem texts
 
 [[Quesiti/src_cesenatico_2007_squadre_finale#q05|src_cesenatico_2007_squadre_finale__Q05]]
 
@@ -257,7 +255,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of dice with all three colours (assembly) *
+*Number of units of dice with all three colours (assembly)*
 
 > Under Per Numeruto and his friends, the time has finally come to face the exam from Mezzin! The committee of examiners will decide who will first face the examination by throwing dice. The faces of the 27 unit side dice are coloured in red, white and blue so that examiners can assemble a maxi-dado 3×3×3 all coloured in red, a maxi-dado 3×3×3 all coloured in white and a maxi-dado 3 × 3 × 3 all coloured in blue. Determine the number of unit dice on which all three colors appear.
 
@@ -361,7 +359,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Smaller area of the cut Yin-Yang (coef. pi)*
+*Smaller area of the cut Yin-Yang (coef. pi)*
 
 ![[src_cesenatico_2007_squadre_finale__prob10.png]]
 
@@ -457,7 +455,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1) *
+*Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1)*
 
 > Today, Numeruto's team is facing a rather unique mission. The three find themselves considering the succession of natural a1 = 1000, a2 = x, a3 = a1−a2, . . . , an = an−2−an−1. The sequence ends with the first negative. What value of x should Numeruto's team trace to get the longest sequence?
 > 
@@ -652,7 +650,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral area with E reflection (radius 15) *
+*Cyclic quadrilateral area with E reflection (radius 15)*
 
 > Amara medicine Otenusa is engaged in a difficult healing technique. Doses and measures are essential for medical morning. Otenusa considers an ABCD quadrilateral inscribed in a circumference with a radius equal to 15 mat-shaku. That said, the symmetry of B with respect to the axis of the AC segment, Otenusa knows that AC, BD and DE have lengths equal to 23, 24 and 25 mat-shaku respectively. What is the surface area of the ABCD quadrilateral in mat-shaku2?
 
@@ -692,8 +690,6 @@ How to divide 4 males and 8 females into 3 mixed teams
 *Summary of N values with N=sum i/a_i, at positive increases*
 
 > A curious coincidence A curious coincidence has recently been noted. All of the greatest moreninjas in the history of the village of Retta have had a life force positive integer N such that there are a1, a2, . . . , a2007 positive integers for which a1 < a2 < ... < a2007 e N = 1 a1 + 2 a2 + 3 a3 +··+ 2007 a2007. Find the sum of all life force N values (indicate the last 4 digits of that sum if the result is greater than 9999).
-> 
-> I'm going to pay. 4 out of 4  Team competition 2007  National final  Problem texts
 
 [[Quesiti/src_cesenatico_2007_squadre_finale#q20|src_cesenatico_2007_squadre_finale__Q20]]
 
@@ -795,7 +791,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to assign categories to 8 missions (1 G,2 M,5 P) *
+*How to assign categories to 8 missions (1 G,2 M,5 P)*
 
 > A distracted official The missions are listed by the village council in descending order of difficulty, in categories A, B, C, D. There are three levels of mateninja, the Piccin (the apprentices), the Mezzin and the Grandin (the most skilled). Missions A are entrusted exclusively to the Grandin, those B only to the Mezzin, those C can be assigned to the Mezzin or Piccin, those D only to the Piccin. A distracted official lost the scroll on which he had written the categories of the last eight missions inspected by the board. All you know is that one of these was entrusted to a Grandin, two to a Mezzin, five to a Piccin team. But he doesn't remember which missions were entrusted to whom. In how many ways can you assign each mission its own category in a way that is consistent with the information it has?
 

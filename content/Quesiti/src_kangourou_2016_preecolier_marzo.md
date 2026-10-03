@@ -79,7 +79,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many chords are drawn in the figure *
+*How many chords are drawn in the figure*
 
 > In the figure, some chords are drawn. How many? (see figure)
 >

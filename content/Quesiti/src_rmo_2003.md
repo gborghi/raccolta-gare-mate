@@ -200,7 +200,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca due sottogruppi non vuoti A,B di {1,...,10} che riducono al minimo il prodotto A)/prod(B) *
+*Ricerca due sottogruppi non vuoti A,B di {1,...,10} che riducono al minimo il prodotto A)/prod(B)*
 
 > Considera l'insieme $X = \{1, 2, 3, \ldots, 9, 10\}$. Trova due sottinsiemi non vuoti $A$ e $B$ di $X$ in modo tale che: (a) $A \cup B = X$; (b) $\mathrm{prod}(A)$ sia divisibile da $\mathrm{prod}(B)$, dove per qualsiasi insieme finito di numeri $C$, $\mathrm{prod}(C)$ indica il prodotto di tutti i numeri di $C$; (c) il quotiente $\mathrm{prod}(A)/\mathrm{prod}(B)$ è il più piccolo possibile.
 

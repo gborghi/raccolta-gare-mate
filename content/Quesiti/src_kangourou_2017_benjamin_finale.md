@@ -57,7 +57,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Baggage threshold given two overprices (EUR 11 and EUR 33) *
+*Baggage threshold given two overprices (EUR 11 and EUR 33)*
 
 > An airline allows carrying luggage without overpayment provided that the weight does not exceed a certain threshold; in case of excess weight, an additional amount must be paid for each kilogram (or fraction of kilogram) above the threshold. Anna and Mark's luggage weighs the same weight: they weigh a total of 60 kilograms and, in total, they both had to pay 11 euros more. Henry also has a suitcase. It weighs 60 kilograms and he had to pay an extra 33 euros. How many kilograms is the threshold beyond which the overpayment must be made?
 

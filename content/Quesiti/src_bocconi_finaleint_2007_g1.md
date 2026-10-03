@@ -61,7 +61,7 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three consecutive integers of sum 2007: Find the largest *
+*Three consecutive integers of sum 2007: Find the largest*
 
 > Three consecutive integers have the sum $2007$. Which is the largest of the three numbers?
 
@@ -441,7 +441,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs and odd: result of multiplication by symbols equal to numbers (triangle) and odd numbers (square) *
+*Pairs and odd: result of multiplication by symbols equal to numbers (triangle) and odd numbers (square)*
 
 > Each $\blacktriangle$ represents an equal number. Each $\blacksquare$ is an odd number. What is the result of this multiplication: $\blacktriangle\blacktriangle\blacksquare \times \blacksquare = \blacktriangle\blacksquare\blacktriangle\blacktriangle$?
 

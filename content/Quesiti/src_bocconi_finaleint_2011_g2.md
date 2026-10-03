@@ -42,7 +42,7 @@ Head and cross coins: colour those with the cross
 
 ![[src_bocconi_finaleint_2011_g2__q01.png]]
 
-**Answer:** Le monete con la croce sono quelle indicate nella figura della soluzione (4 monete colorate in grigio).
+**Answer:** The coins with the cross are those indicated in the figure of the solution (4 coins colored in gray).
 [[Quesiti/src_bocconi_finaleint_2011_g2#q01|src_bocconi_finaleint_2011_g2__Q01]]
 
 
@@ -445,7 +445,7 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum length of tunnel with cow and train *
+*Maximum length of tunnel with cow and train*
 
 > A cow is inside a narrow railway tunnel, 5 meters from its middle. A train is heading towards the tunnel entrance. When she's three kilometers from the entrance, the cow hears the noise. She knows she's going to this entrance or the exit of the tunnel, she can get out a moment before the train hits her. What is the maximum length of the tunnel in meters? Note: the train travels at constant speed; the cow also moves at constant speed and its speed would be the same in one direction or the other.
 
@@ -474,7 +474,7 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I've seen this.
+*Leonardo's minimum magic number*
 
 > Leonardo wrote a magic number on a board. Then he asked Teresa: (i) to draw on the board a non-isosceles and non-flat triangle; (ii) to calculate the six ratios between the lengths of its three sides taken two by two; (iii) to observe which one is closest to 1 (it is possible that Teresa obtained it in two different ways). Then Leonardo says, "I knew this ratio would be less than 1". And Teresa: "Is that all there is?" And Leonardo said, "No. I also knew it would be greater than the magic number". What is this magic number, at most? Rounded to the decimal place with three digits after the comma that would have been greater than 1,414 for $\sqrt{2}$, 1,732 for $\sqrt{3}$, and 2,236 for $\sqrt{5}$.
 

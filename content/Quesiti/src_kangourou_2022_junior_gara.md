@@ -1030,7 +1030,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square R inscribed in the triangle (P=45) *
+*Area of the square R inscribed in the triangle (P=45)*
 
 ![[src_kangourou_2022_junior_gara__prob21.png]]
 
@@ -1229,7 +1229,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What can be deduced from Bruna's question (positive/negative set) *
+*What can be deduced from Bruna's question (positive/negative set)*
 
 > The members of a strange sect are of two types: the positive, who ask only questions to which the correct answer is Yes and the negative, who ask only questions to which the correct answer is No. I met with Alberto and Bruna. Bruna asked me: "Are Alberto and I both negative?" What can I deduce?
 >  

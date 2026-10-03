@@ -113,7 +113,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni m positivo c'è n_m così la somma unità di n-th potenze di reciprocità è *
+*Per ogni m positivo c'è n_m così la somma unità di n-th potenze di reciprocità è*
 
 > Prova che per ogni intero positivo $m$, esiste un intero positivo $n_m$ tale che per ogni intero positivo $n \ge n_m$, esistono interi positivi (non necessariamente distinti) $a_1, a_2, \ldots, a_n$ tale che $$\frac{1}{a_1^n} + \frac{1}{a_2^n} + \cdots + \frac{1}{a_n^n} = 1.$$
 

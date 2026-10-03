@@ -418,7 +418,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mattia number given Carla number 9 times *
+*Mattia number given Carla number 9 times*
 
 > Mattia Mattia's number has written an integer of two digits (i.e. not less than 10). Carla wrote a three-digit integer: that of the hundreds is 6 and is followed by Mattia's number: for example, if Mattia had written 12, Carla's number would be 612. Carla's number matches Mattia's number multiplied by 9. What's Mattia's number?
 

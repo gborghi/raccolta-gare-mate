@@ -163,7 +163,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2022-th whole without digit 1 *
+*2022-th whole without digit 1*
 
 > Without digit 1 If you write in ascending order (in decimal notation) all positive integers less than 10,000 in which the digit 1 does not appear, what is the number that occupies the 2022-nd position?
 
@@ -411,7 +411,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of non-empty disjoint subsets *
+*Pairs of non-empty disjoint subsets*
 
 > Pairs Consider the non-empty subsets of a set of 5 elements and any pairs of disjoint subsets that can be formed with them. How many different pairs are there?
 
@@ -441,7 +441,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central angle arithmetic progression pentagon *
+*Central angle arithmetic progression pentagon*
 
 > The degree measurements of the interior angles of a convex pentagon are in arithmetic progression. What is the middle term of the progression?
 
@@ -531,7 +531,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of three-digit palindromes, first four digits *
+*Sum of three-digit palindromes, first four digits*
 
 > Palindromes Calculate the sum of all positive integers three-digit palindromes (hence greater than 100), and write the first four digits (from the left) of the result you get. (A number is said to be palindrome if it matches what you get by reading its digits in opposite order, from right to left; for example 454 is palindrome.)
 

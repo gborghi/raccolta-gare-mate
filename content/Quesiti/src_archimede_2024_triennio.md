@@ -209,7 +209,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interi k with q(k) = 0 for composition 2024 times p(x) *
+*Interi k with q(k) = 0 for composition 2024 times p(x)*
 
 > Philip would like to write in decimal form the fraction 8 13 . What number will take the thousandth place after the comma?
 >
@@ -678,7 +678,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*a and a+b of the sample *
+*a and a+b of the sample*
 
 > Alberto and Barbara make an iron-armed race this way: at the beginning they both have 1 point; at each challenge, the winner earns as many points as the opponent has at the time, while the loser maintains the score they had. After a number of challenges, Barbara has 9,000 points. Which of the following could be Alberto's score?
 >
@@ -774,7 +774,7 @@ level: triennio
 
 *Subdivision of 0/1 strings into blocks, counting of strings*
 
-> This is the first time I've seen this.
+> **PROOF EXERCISE**
 > 
 > Given a string of digits 0 and 1, Giacomo would like to divide it into blocks of 2 or 3 consecutive digits in order to satisfy one of the following two conditions:
 > 

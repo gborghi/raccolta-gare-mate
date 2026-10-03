@@ -137,7 +137,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione funzionale polinomica; prova l'identità di P(3x) *
+*Relazione funzionale polinomica; prova l'identità di P(3x)*
 
 > Dato che $k$ è un intero fisso non negativo e che il polinomio $P(x)$ soddisfa la relazione $P(2x) = 2^{k-1}(P(x) + P(x+1))$, provare che $P(3x) = 3^{k-1}\!\left(P(x) + P\!\left(x + \tfrac{1}{3}\right) + P\!\left(x + \tfrac{2}{3}\right)\right)$.
 

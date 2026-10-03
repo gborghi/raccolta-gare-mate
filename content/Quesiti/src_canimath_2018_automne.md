@@ -86,7 +86,7 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y) *
+*numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y)*
 
 > Considerare il numero $N$ scritto come $\overline{30x070y03}$, dove $x$ e $y$ sono numeri da $0$ a $9$. Per quali valori di $(x, y)$ è $N$ divisibile da $37$?
 

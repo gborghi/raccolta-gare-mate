@@ -160,7 +160,7 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di cellule nere iniziali per riempire tutta la griglia 10×10 diffondendo *
+*Minimum di cellule nere iniziali per riempire tutta la griglia 10×10 diffondendo*
 
 > C'è una griglia $10 \times 10$ di cellule, alcune delle quali sono inizialmente di colore nero e il resto di colore bianco. Considerate la seguente operazione: scegliete una cella bianca che soddisfi almeno una delle due condizioni riportate di seguito e coloratela di colore nero.
 > 

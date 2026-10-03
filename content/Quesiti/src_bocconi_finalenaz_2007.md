@@ -227,7 +227,7 @@ How many pens do Carla and Milena have together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many green candies does the box contain? *
+*How many green candies does the box contain?*
 
 > A box contains yellow (lemon) and green (mint) candies. If we added a yellow candy, the yellow candy would represent a quarter of the contents of the box, whereas if we took one out, it would only be a fifth of the contents of the box. How many green candies does the box contain?
 
@@ -324,7 +324,7 @@ How many steps does Sara take before the orc?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers, less the sum of their numbers, are equal to 2007? *
+*How many numbers, less the sum of their numbers, are equal to 2007?*
 
 > It's 2007 again! How many numbers, minus the sum of their numbers, are equal to 2007?
 

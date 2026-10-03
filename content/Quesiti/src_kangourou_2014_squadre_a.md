@@ -314,7 +314,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 0 in the quotient R(25)/R(5) *
+*How many digits 0 in the quotient R(25)/R(5)*
 
 > How many digits 0? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
 
@@ -409,7 +409,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinate sum of the possible parallelogram vertices *
+*Coordinate sum of the possible parallelogram vertices*
 
 > The fourth vertex In the plane referred to the usual system of orthogonal Cartesian axes the points (1,-1), (-1,0) and (0,1) are three of the vertices of a parallelogram. Consider all the points that can make up the fourth vertex and add up all their coordinates. What is the result?
 
@@ -482,7 +482,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the third kilometre signal (digits exchanged) *
+*Number on the third kilometre signal (digits exchanged)*
 
 > Kilometre signals Giulio is driving at a steady speed on a freeway. At some point, he notices that the two digits of the number on the kilometre signal he is passing are those of the signal he had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving he notices that the number present on the signal he is passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What is the number on the third kilometre signal?
 

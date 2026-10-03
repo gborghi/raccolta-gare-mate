@@ -35,7 +35,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the droid prism (cut to A,B,D') *
+*Volume of the droid prism (cut to A,B,D')*
 
 > The Merchant Foundation uses prism-shaped ZFC-class droids with two regular pentagons ABCDE and A′B′C′D′E′ as bases (so that the pins are AA′, BB′, CC′, DD′ and EE′). Ambassador Qui-Gob Binn is attacked for treason by a droid patrol during a diplomatic mission aboard a Foundation ship. In the collision, one of the droids is cut in two by Qui-Gob Binn's laser line along a passing plane for A, B and D′. Determine the volume of the droid knowing that the volume of the smaller of these two parts is equal to 1000.
 
@@ -173,7 +173,7 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(128) for a polynomial of degree 5 with p(2^k) =1/(1-2^k) *
+*p(128) for a polynomial of degree 5 with p(2^k) =1/(1-2^k)*
 
 > Young Banachin, a student of Obi-Van, must hone several skills to become a differential geometer; one of them is to perceive the values of certain polynomials using Force. To train his student, one day Obi-Van thinks of a polynomial p(x) of grade 5 and asks Banachin to determine p(128). The young PDE-wan is not yet skilled enough to discover it directly, but he can sense that p(2k) = 1 1−2k for k = 1, 2, . . . , 6. What's the answer to Obi-Van's question?
 
@@ -282,7 +282,7 @@ Total clones for the first 100 months (block recurrence)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First four digits sum of Fibonacci codes (control) *
+*First four digits sum of Fibonacci codes (control)*
 
 > [⋆]The separatist Su Mustafausdorff mine, a volcanic planet where each pair of dots is separated by two craters, has an extensive mineral extraction activity. The droids used for processing are divided into two teams, each of which has assigned a protocol code consisting of a positive integer. The first team's eighth droid is assigned the code a, with a1 = a2 = 1 and an+1 = an +an−1 for n ≥2. The second team's eighth droid is assigned the code bi, with b1 = 1 and bn+1 = an+1 +bn for n ≥1. Due to some malfunctions, quality control is carried out on the droids. The 1792nd droid of the first team is asked to add the protocol codes of the first 1789 droids of his team, add their own code, and subtract from the result the sum of the codes of the first 1789 droids of the second team. What are the first four digits of the number thus obtained?
 
@@ -458,7 +458,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of q(-4/3)/q(-2) (polynomial of roots) *
+*sum of q(-4/3)/q(-2) (polynomial of roots)*
 
 > Third degree The fearsome Mond Vander is questioning Princess Liea to obtain the coordinates of the secret rebel base. Finally, the crucial information is omitted: the number of the sector in which the base is located is given by the sum of the numerator and denominator of the fraction q(−4/3)/q(−2) (reduced to the minimum terms). Fortunately, the polynomial q(x) is complicated to construct, and Imperial officials are still trying to figure it out. To obtain it, we must start from the polynomial p(x) = x3 −6x2 +4x+12, call a, b and c its real roots, and consider as a polynomial q(x) that of the third degree having as roots ab + a + b, bc + b + c, ca + c + a and such that q(2015) = 20162017. What's the number the Empire is looking for?
 
@@ -494,7 +494,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum of equal divisors = sum mult. di 5*
+*sum of equal divisors = sum mult. di 5*
 
 > Imperial officials have learned that the secret rebel base is located on one of Yacobin's 2016 moons (numbered 1 to 2016). Some spies have revealed crucial information about the number n corresponding to the moon on which the rebel base is located: the sum of the positive divisors equal to n is equal to the sum of the positive divisors multiplied by 5 of n, and n has at least 13 positive divisors equal to n. Which moon must be destroyed by the Empire?
 > 
@@ -530,7 +530,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-* pentagon and exaggeration formation without residues*
+*pentagon and exaggeration formation without residues*
 
 > A LTE fighter squadron is made up of a number of spacecraft (greater than 1), which can be arranged in different formations. An n-agon formation consists of a ship surrounded by a number of concentric n-agons. The innermost n-agon is formed by n vessels, the second by 2n, the third by 3n, and so on up to the outermost one. The squadron of which Mond Vander is a member can be deployed in pentagonal and hexagonal formation without ships advancing in either case. How many starships is it made up of, at least?
 
@@ -565,7 +565,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of Luke from the centre (60 degrees, BC) *
+*Distance of Luke from the centre (60 degrees, BC)*
 
 > Destroy the Black Death! Luke Randomwalker, aboard his fighter, must be able to destroy the Black Death. It shall hit a lens located in the centre of an ABC acute triangle consisting of 3 turrets such that BAC = 60° and BC = 2016 √ 3 m. Luke is located on the same plane as the towers and the target, at a distance of 2016 m from both B and C and on the opposite side of A with respect to BC. How far in meters is Luke from his target?
 
@@ -632,7 +632,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EF distance (cyclic quadrilateral, bisetters, PF/PE) *
+*EF distance (cyclic quadrilateral, bisetters, PF/PE)*
 
 > The Millennium Problem hunter Bobo Fett is chasing Han Singleton's ambitious ship, the Millennium Problem, for which the Empire has pledged a million Galactic Credits. On the on-board computer screen, the location of the vessels is indicated from an ABCD quadrilateral inscribed in a circumference. The Millennium Problem is at point E, intersection of the AB and CD extensions, while Bobo's ship is at point F, intersection of the BC and AD extensions. The computer records the distances of the two ships from the meeting point P of the angles AEC and AFC: PF = 1612 and PE = 1209. What's the distance between the two ships?
 
@@ -703,7 +703,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min n with probability 1/2016 (random graph path) *
+*Min n with probability 1/2016 (random graph path)*
 
 > Interplanetary random walk Luke Randomwalker is looking for a safe place to hide, and to do so, he travels unknown aboard merchant ships. The ships Luke has chosen follow routes connecting planets. Among them are: Coruscantor, where Luke is at the beginning; Banahch-Torsk, a tiny double planet where Luke stops immediately (if he passes by); Taodana, the seat of Maz Karamata's lair, where there are so many spies from the First Order that it is certain that someone recognizes him and kills him. From each planet (excluding Taodana and Banahch-Torsk) one-way routes start to exactly two other planets, and from at most one of these two there is a sequence of routes that allows you to return to the planet you just left. Each time he leaves a planet, Luke chooses at random between the two possible routes (with equal probability) and stops only if he arrives on Banahch-Torsk or is killed on Taodana. Knowing that the probability of arriving safely at Banahch-Torsk is 1/2016, what's the minimum value of n?
 
@@ -744,7 +744,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n initial of the solitary (fraction operation) *
+*n initial of the solitary (fraction operation)*
 
 > A very widespread droid loner works like this. First, you have to choose a number n, and save the following numbers in memory (in order): 1, 1 2, 1 3, . . . , 1 n. Then proceed in this way, until only one number remains: the first two numbers a and b in the list are deleted, and the new number ab (a+1) (b+1)−1 is saved in memory at the bottom of the list. In a moment of leisure the droid BB-∞ makes a solo match, getting 1 229 as the final number. How much is the number n chosen initially?
 
@@ -824,7 +824,7 @@ Chances are 4 pieces will return to the corners after 2016 jumps
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of rotation (axis, whole area) *
+*Minimum area of rotation (axis, whole area)*
 
 > Looking for Luke The GeDi knight Luke Randomwalker has begun traveling randomly from planet to planet, leaving very little information about his path. Fortunately, the planets on which it moves are all on the same plane. The young Ramsrey wants to track him down to return his laser line, and she manages to discover that Luke is currently inside an ABCD box of area 3222180 with BAC = 30°. She also finds a way to narrow the field: she takes the axes relative to the sides of the rim and calls A′, B′, C′, D′ the two-to-two intersections of the axes relative to the consecutive side pairs. This way you get a smaller quadrilateral. Ramsrey keeps repeating the procedure until he gets full-area quadrilaterals. You know for a fact that Luke is within the confines of the smallest of these. How big is the area Ramsrey has to explore?
 

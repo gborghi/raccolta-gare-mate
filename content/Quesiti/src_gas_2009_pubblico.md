@@ -177,8 +177,6 @@ Maximum number of Elves among honest/ foolish prisoners
 *Number of possible cubic term coefficients, whole roots*
 
 > Engravings in the rock [25] In narrating his journey to the mines of Toria, a traveler hinted at a rock wall on which something particular was written: it was a polynomial, in which the highest degree term was x4 and the known term 45. He couldn't remember anything else about that engraving, but he knew all his roots were intact. How many different coefficients could the third degree term have? Team competition 2009  Public competition  Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2009  Public competition  Problem texts
 
 **Answer:** 0013
 [[Quesiti/src_gas_2009_pubblico#q05|src_gas_2009_pubblico__Q05]]
@@ -674,7 +672,7 @@ How to wear 9 rings on 8 fingers in order*
 
 > Strange geometries [70] Riemandell's main square has two circular fountains: a large A-center and a small
 > 
-> I'm going to pay. 4 out of 4  Team competition 2009  Public competition  Tests of B-center problems. Morry and Polino are respectively in points M and P and note that the points in which they are located have a peculiarity: if you calculate the difference between the squares of the lengths of the tangents conducting to the two circles, you find the same number for both gobbits. They also note that the angles [ MAB, [ MBA] measure 60 and 30 degrees respectively and the tangent of d PAB is 12/5. How much is the tangent of the angle of PBA? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
+> Morry and Polino are respectively in points M and P and note that the points in which they are located have a peculiarity: if you calculate the difference between the squares of the lengths of the tangents conducting to the two circles, you find the same number for both gobbits. They also note that the angles [ MAB, [ MBA] measure 60 and 30 degrees respectively and the tangent of d PAB is 12/5. How much is the tangent of the angle of PBA? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
 
 **Answer:** 0009
 [[Quesiti/src_gas_2009_pubblico#q18|src_gas_2009_pubblico__Q18]]

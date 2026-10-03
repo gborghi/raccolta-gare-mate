@@ -182,7 +182,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le f: R a R soddisfacenti f(x^2 + yf(z)) = xf(x) + zf(y) *
+*Trova tutte le f: R a R soddisfacenti f(x^2 + yf(z)) = xf(x) + zf(y)*
 
 > Trova tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ in modo tale che $$f(x^2 + yf(z)) = xf(x) + zf(y) \tag{1}$$ per tutte $x, y, z \in \mathbf{R}$. (Qui $\mathbf{R}$ indica l'insieme di tutti i numeri reali.)
 

@@ -348,7 +348,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQR triangular area from sub-triangular areas with cevial *
+*PQR triangular area from sub-triangular areas with cevial*
 
 ![[src_archimede_2021_triennio__prob8.png]]
 
@@ -413,7 +413,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of k with a polynomial having a double root of the other *
+*Values of k with a polynomial having a double root of the other*
 
 > Consider real k such that the polynomial p(x) = x2 −(k + 1)x + (3k + 1) has a root that is twice the other. Indicate the sum of all these values k.
 >
@@ -454,7 +454,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite words on A,B avoiding certain letters *
+*Infinite words on A,B avoiding certain letters*
 
 > Emanuela writes words using only the letters A and B, respecting these conditions: each word cannot contain any of the sequences of three consecutive letters AAA, BBB, ABB, BBA. How many words of infinite length (i.e. continuing unlimitedly to the right) could Emmanuel write?
 >

@@ -279,7 +279,7 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres in the batch which initially contained more *
+*Litres in the batch which initially contained more*
 
 > Two (precious) barrels contain a total of 350 litres of Brunello di Montalcino. Taking 20 liters from the first bottle and 80 from the second, the wine left in the two bottles is the same (the same number of liters). How many liters were in the box that initially contained more?
 
@@ -552,7 +552,7 @@ The cost of the lost book in the classroom library
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How often does Amerigo fixation occur between 14 and 17 *
+*How often does Amerigo fixation occur between 14 and 17*
 
 > Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits of the minutes between them. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between$14\text{h}\,00$and$17\text{h}\,00$?
 

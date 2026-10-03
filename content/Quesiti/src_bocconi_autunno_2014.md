@@ -187,7 +187,7 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orange in the window: how many Renato sells for less than 100 *
+*Orange in the window: how many Renato sells for less than 100*
 
 > To arrange for oranges to be displayed and sold, the fruit vendor Renato has available trays containing $12$ oranges or other larger trays containing $21$. Whether you always use the small containers, or you always use the big ones, filling them completely, you end up with an orange. The oranges Renato wants to sell are less than$100$, but how many are they exactly?
 
@@ -447,7 +447,7 @@ How many floors does the 385-ball tennis pyramid have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integral numbers from 1 to 100000 without digit 5 or digit 7 *
+*Integral numbers from 1 to 100000 without digit 5 or digit 7*
 
 > How many integers, including $1$ and $100.000$ (included), are written without using either the $5$ digit or the $7$ digit?
 

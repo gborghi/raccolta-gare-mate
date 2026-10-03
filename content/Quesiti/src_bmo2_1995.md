@@ -113,7 +113,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le coppie di squadra e prova la divisibilità fattoriale *
+*Conta le coppie di squadra e prova la divisibilità fattoriale*
 
 > (a) Determinare, con chiarezza, in quanti modi le persone $2n$ possono essere accoppiate per formare squadre $n$ di $2$.
 > 

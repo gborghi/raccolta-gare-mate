@@ -85,7 +85,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of geocaching sequences in alphabetical order.
+*Geocaching sequence Alberto and Barbara*
 
 > It is given a pyramid having a base $ABCD$ quadrilateral and a vertex $V$, inscribed in a sphere. Both $AD = 2BC$ and the lines obtained by extending $AB$ and $CD$ meet at a point $E$ on the part of the $BC$ segment. Calculate the ratio between the volume of the pyramid having the base $AED$ triangle and summit $V$ and the volume of the given pyramid.
 
@@ -128,7 +128,7 @@ This is a list of geocaching sequences in alphabetical order.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sparse weight of chessboard/lengths *
+*Sparse weight of chessboard/lengths*
 
 ![[src_cesenatico_2000__prob4b.png]]
 ![[src_cesenatico_2000__prob4.png]]
@@ -197,7 +197,7 @@ This is a list of geocaching sequences in alphabetical order.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P values 1) *
+*P values 1)*
 
 > Whether $p(x)$ is an integer coefficient polynomial such as $p(0) = 0$ and $0 \leq p(1) \leq 10^7$. Knowing that there are two positive integers $a$, $b$ such as $p(a) = 1999$ and $p(b) = 2001$, the possible values of $p(1)$ are determined.
 > 

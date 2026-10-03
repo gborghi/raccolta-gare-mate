@@ -605,7 +605,7 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate that the HMK triangle is equilateral (angle 60°) *
+*Demonstrate that the HMK triangle is equilateral (angle 60°)*
 
 > Whether ABC is a triangle such that the angle of ACB = 60°. Both M the midpoint of the side AB and H and K are the feet of heights starting from B and A respectively. Prove that the HMK triangle is equilateral.
 

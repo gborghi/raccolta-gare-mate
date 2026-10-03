@@ -193,7 +193,7 @@ The following table shows the results of the evaluation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which n wins Charles*
+*for which n wins Charles*
 
 > Ada and Charles are playing. At the beginning an integer n > 1 is written on the board. In turn, Ada and Charles cancel out the number k they find on the board and replace it with 1  or with a positive divisor of k other than 1 and k itself 2  or with k + 1. Initially, each player has a thousand points. When a player plays move 1, he gains a point; when he plays move 2, he loses a point. The game ends when one of the players gets zero points, and that player loses. Ada plays first. What values does Charles have a winning strategy for?
 

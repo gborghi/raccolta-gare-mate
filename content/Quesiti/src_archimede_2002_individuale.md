@@ -28,7 +28,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* to determine them*
+*to determine them*
 
 > Determine all the positive integers of three digits that are equal to 34 times the sum of their digits.
 
@@ -130,7 +130,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which n roots are integer*
+*for which n roots are integer*
 
 > Determine for which values of $n$ all solutions to the equation $X^3 - 3X + n = 0$ are integers.
 
@@ -158,7 +158,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* divide expression into three parts, k multiple of 3*
+*divide expression into three parts, k multiple of 3*
 
 > Whether $m = 5^n + 3^n + 1$, where $n$ is a natural number. Show that if $m$ is prime then $n$ is multiple 12.
 

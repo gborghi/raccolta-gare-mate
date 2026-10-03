@@ -471,7 +471,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding F given a positive integer and factors of the figure *
+*Finding F given a positive integer and factors of the figure*
 
 > A square-base parallel-piped is inscribed in a sphere. If the base side is 14 in height, what is the ratio of the surface of the sphere to the total surface of the parallel piped?
 >

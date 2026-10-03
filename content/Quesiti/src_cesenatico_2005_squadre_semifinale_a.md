@@ -145,7 +145,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer not to be expressed as 23k+17h (Frobenius) *
+*Maximum integer not to be expressed as 23k+17h (Frobenius)*
 
 > Find the maximum positive integer that cannot be expressed as $23k + 17h$, with $h, k > 0$.
 

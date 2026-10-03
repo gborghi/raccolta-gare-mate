@@ -84,7 +84,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano f(x^2+yf(x))=xf(x+y) *
+*Ricerca tutte le funzioni reali che soddisfano f(x^2+yf(x))=xf(x+y)*
 
 > Trova tutte le funzioni reali $f$ da $\mathbb{R} \to \mathbb{R}$ che soddisfano la relazione $$f(x^2 + yf(x)) = xf(x + y).$$
 

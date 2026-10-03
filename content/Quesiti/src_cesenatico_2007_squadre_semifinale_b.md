@@ -105,11 +105,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment area larger than the broken kunai (AC=19) *
+*Fragment area larger than the broken kunai (AC=19)*
 
 > The kunai is one of the basic weapons used by all mateninja; its blade has a particular shape: it is a quadrilateral made so that its smaller diagonal divides it into two isosceles triangles, each with the diagonal as its base. We call A, B, C, D the edges of the blade of a kunai, with A and C the extremes of the minor diagonal; then the traditional measures of the village blacksmith of Retta predict that ABC = 30°, CDA = 90° and that the AC segment is 19 mat-bu long. Numeritus' kunai broke in combat along the straight line passing for A and perpendicular to AD. What is the surface area of the largest blade fragment measured in mat-bu2? Team competition 2007  Semifinal B Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2007  Semifinal B Problem Tests
 
 [[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q03|src_cesenatico_2007_squadre_semifinale_b__Q03]]
 
@@ -140,7 +138,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n in [1,2007] with 2n in 17 groups (conditions) *
+*Quantities n in [1,2007] with 2n in 17 groups (conditions)*
 
 > Even at the moreninja academy, the weather is relaxing and tonight the Big Little Dance is taking place. All the guests have already arrived in the room: n mateninji (the boys) and n mateninje (the girls) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 17 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
 
@@ -233,7 +231,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product possible third side values (30 degrees, sides 59.95) *
+*Product possible third side values (30 degrees, sides 59.95)*
 
 > The brilliant Sekante has only one dream: when he becomes Grandin he will build a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 59 mat-ken and another side of 95 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
 
@@ -265,7 +263,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagonal prism paper surface (93 sheets) *
+*Hexagonal prism paper surface (93 sheets)*
 
 > The mathematical formulas of the mateninja are written on long rectangular strips of zero-thick parchment (they are also magical!), which are rolled repeatedly around a ninja pencil. Ninja pencils are similar to ours: they have the shape of a prism whose base is a regular hexagon on the 3 side mat-shaku. The slender Numeritus, in handling his new sword, mistakenly strikes the prism on which the precious formula of Itˆo is preserved, cutting it perfectly in two along a plane passing through its axis. As a result, the scroll with the formula is sliced into 93 square sheets. How many mat-shaku2 measured the surface of the scroll?
 
@@ -507,7 +505,5 @@ Maximum of 105 cos t -208sin t +103
 *Term number (a,b,c) with a<b, a<4c, bc^3<=ac^3+b, <=1000*
 
 > A greedy Sekante ninja now thinks only of his future regiment and is so taken by the idea of saving money, that he has started doing other students' homework in exchange for money. Master Isoshilo discovered it and to put it in line, he presented himself under false pretenses offering him a flat reward to find all the positive integers that satisfy a <b, a < 4c, bc3 ≤ac3 +b, a,b,c ≤1000. Sekante is squeezing the meningi and Isoshilo doesn't think he can make it, but even if he does, he'll mock him without paying! How many solutions should Sekante find?
-> 
-> I'm going to pay. 4 out of 4  Team competition 2007  Semifinal B Problem tests
 
 [[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q15|src_cesenatico_2007_squadre_semifinale_b__Q15]]

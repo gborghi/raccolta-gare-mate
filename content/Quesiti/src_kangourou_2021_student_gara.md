@@ -351,7 +351,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume ratio of the two cylinders of a rectangle rolled *
+*Volume ratio of the two cylinders of a rectangle rolled*
 
 > A rectangular sheet of paper has sides of length x and y, with x > y. The rectangle can be rolled to form a cylinder (without the paper overlapping) in two different ways. What is the ratio of the volume of the longest cylinder to the volume of the shortest cylinder? A) y2 : x2 B) y : x C) 1 : 1 D) x : y E) x2 : y2
 
@@ -524,7 +524,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which line can be represented by the graph with the parabola *
+*Which line can be represented by the graph with the parabola*
 
 ![[src_kangourou_2021_student_gara__prob10.png]]
 
@@ -752,7 +752,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the triangle larger than the perimeter of the smaller *
+*Perimeter of the triangle larger than the perimeter of the smaller*
 
 ![[src_kangourou_2021_student_gara__prob15.png]]
 
@@ -1405,7 +1405,7 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers on the faces of the solid (snube dodecahedron) *
+*Sum of numbers on the faces of the solid (snube dodecahedron)*
 
 ![[src_kangourou_2021_student_gara__prob25.png]]
 
@@ -1714,7 +1714,7 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of A winning by 3 points *
+*Probability of A winning by 3 points*
 
 > The rules of a certain two-player game state that, in order to win, one of the players must be able to gain a 3-point advantage over the other. A and B are playing, and right now, A has a point advantage. If a point is at stake at each turn and the two players have the same chance of winning it, what is the probability that A will win in the end? (You can assume that there is a winner, that is, that the game cannot go on forever.) A)
 > 	

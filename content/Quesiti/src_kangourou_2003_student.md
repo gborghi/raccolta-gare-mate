@@ -70,7 +70,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area bounded by elastic (3 circles) *
+*Figure area bounded by elastic (3 circles)*
 
 ![[src_kangourou_2003_student__prob2.png]]
 
@@ -378,7 +378,7 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number that cannot appear (numerical triangle) *
+*Number that cannot appear (numerical triangle)*
 
 ![[src_kangourou_2003_student__prob10.png]]
 
@@ -832,7 +832,7 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of disjoint regions in inscribed polygons *
+*Number of disjoint regions in inscribed polygons*
 
 ![[src_kangourou_2003_student__prob20.png]]
 
@@ -1004,8 +1004,6 @@ How to cover a chessboard with dominoes
 Price that maximizes profit
 
 > The sales manager of a department store must determine the price of a sweater. A market survey revealed the following: if the price is 75 euros, 100 people will buy the sweater; every time the price increases by 5 euros, the number of buyers decreases by 20 units, and every time the price decreases by 5 euros, 20 more sweaters are sold. The cost of the sweaters for the department store is 30 euros each. What is the selling price (in euro) that maximizes profit? A) 80 B) 50 C) 75 D) 70 E) 65 -7 -4 -3 4 4 2
-> 
-> I'm going to pay. I'm going to pay. 32 32 Kang 2003 Kang
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_student#q24|src_kangourou_2003_student__Q24]]

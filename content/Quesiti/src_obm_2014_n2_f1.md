@@ -780,7 +780,7 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (a,b) di integri positivi con l'intero 2014/(a+b) *
+*Contare le coppie ordinate (a,b) di integri positivi con l'intero 2014/(a+b)*
 
 > Quante coppie ordinate $(a, b)$ di numeri interi positivi esistono in modo tale che $\dfrac{2014}{a+b}$ sia un numero intero?
 > 
@@ -813,7 +813,7 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che sqrt(x-y) =a e sqrt(x) +sqrt(y) =b, trovare sqrt(xy) *
+*Dato che sqrt(x-y) =a e sqrt(x) +sqrt(y) =b, trovare sqrt(xy)*
 
 > Se $a$, $b$, $x$, $y$ sono reali positivi tali che $\sqrt{x - y} = a$ e $\sqrt{x} + \sqrt{y} = b$, determinare il valore di $\sqrt{xy}$.
 > 

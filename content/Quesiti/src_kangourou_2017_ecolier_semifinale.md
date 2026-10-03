@@ -417,7 +417,7 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tris matches already completed on wrapped grid *
+*Tris matches already completed on wrapped grid*
 
 ![[src_kangourou_2017_ecolier_semifinale__prob9.png]]
 

@@ -60,7 +60,7 @@ This is a problem for all of us.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I have seen this.
+*Problem 2*
 
 ![[src_archimede_2003_pubblico__prob2.png]]
 
@@ -92,7 +92,7 @@ This is the first time I have seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I have seen this.
+*Problem 3*
 
 > The city's main bank has a safe with a four-digit combination, which for security reasons the manager changes every day like this: he multiplies the current combination by 3 and possibly cuts the number to the left. One night, one of the cashiers spying on the manager discovers that the combination does not contain odd numbers. The night after, one of the sworn guards manages to find out that none of the digits is a multiple of 3. The next night a thief tries to open the safe and after several attempts he realizes that the numbers must all be multiples of 3, but he can't penetrate the safe. The next day the thief accidentally listens to the guard and the cashier and learns what they have discovered. What combination would tempt the thief back to rob the bank that same night?
 
@@ -120,7 +120,7 @@ This is the first time I have seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I have seen this.
+*Problem 4*
 
 ![[src_archimede_2003_pubblico__prob4.png]]
 
@@ -174,7 +174,7 @@ This is the problem.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change.
+*Problem 6*
 
 > In the main square of the city stands a stone stele. The inscription of the stele is a triangle of numbers that has on its sides the numbers 0, 1, 2, 3, ... as shown in the figure. Every number inside the triangle is the sum of the two that are above it. We indicate with $f(n)$ the sum of the numbers in the line beginning with $n$. What is the remainder of the $f(2003)$ division for 2003? (see figure)
 
@@ -202,7 +202,7 @@ This is the main reason for the change.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 7*
 
 > The professors of Kolmogorov High School, the most prestigious in Matelandia, like to test their students with a bit of a strange problem. Here's one of them.
 > 
@@ -284,7 +284,7 @@ This is a problem.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I have seen this.
+*Problem 10*
 
 > Kolmogorov Institute teachers are never satisfied with the results of their students, and they continue to propose increasingly elaborate exercises. Here's another example.
 > 
@@ -313,7 +313,7 @@ This is the first time I have seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I have seen this.
+*Problem 11*
 
 > At the last city election Manolo and Michele, the two candidates for mayor, got the same votes. The strange electoral system in Matilda involves a complicated draw of lots to determine who of the two will be mayor. You take a box containing five balls numbered 1 to 5. Four times you extract a ball, put it back in after reading the extract number. Say $a$, $b$, $c$ and $d$ the four numbers extracted, Michele becomes mayor if $ab + bc + cd + da$ is equal, otherwise he becomes mayor Manolo. Manolo, for the sake of principle, objects: in his view the complicated procedure is not fair at all. What is the probability that $ab + bc + cd + da$ is equal? (express the value as a percentage, if the result is not an integer, write the whole part of the result in the answer)
 
@@ -339,7 +339,7 @@ This is the first time I have seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 12*
 
 > Camillo's savage combination is a four-digit odd number, each of which is between 0 and 9. To write this combination on a sheet of paper without other malicious individuals being able to use the information to open the savings account, Camillo removes the figure to the left and writes the result of the conversion on the basis of 3 of that number. Ivan finds the leaflet and thinks it's written a number on base 4. He converts it back to base 10, tries to use it as it is, and Camillo's lifeguard opens up. What is the smallest number $> 1$ that can represent the combination of Camillo's saviour?
 
@@ -368,7 +368,7 @@ This is the main reason for the change in the price of the product.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 13*
 
 > Determine the telephone prefix of the city of Matelandia, knowing that it is the maximum natural number of 4 digits (in decimal form) having the following properties: a) The sum of this number and its palindrome is 7216 b) The sum of the digits of this number is 17 c) The numbers at the ends differ by more than 4.
 
@@ -394,7 +394,7 @@ This is the main reason for the change in the price of the product.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 14*
 
 > There's only one row of 35 numbered seats in Matelandia's 3D cinema. At the start of the show, 16 people enter, who, to make themselves more comfortable, arrange for none of them to have a person sitting in the nearby seats. How many different arrangements are possible?
 
@@ -420,7 +420,7 @@ This is the main reason for the change in the price of the product.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 15*
 
 > In the Matelandia park, a pond in the shape of an isosceles triangle is to be designed. It must be perfectly inserted into a circular 5 metre radius awning. The sum of the sides that are different from the two equal sides and the height relative to them is 15 meters. Knowing that the water will be everywhere at a depth of one meter, how many cubic meters of water will have to be dipped in the pond?
 
@@ -446,7 +446,7 @@ This is the main reason for the change in the price of the product.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change.
+*Problem 16*
 
 > In the town of Matelandia there is a renowned confectionery, which produces two types of almond confectionery. Confectionery of type $A$ undergoes three successive processes: machine I (lasting 6 minutes), machine II (lasting 12 minutes) and machine III (lasting 18 minutes). Confectionery of type $B$ also undergoes three successive working processes: machine I (18 minutes) machine II (12 minutes) machine III (6 minutes). Knowing that in one day machine I works for a maximum of 22 hours, machine II for a maximum of 19 hours, machine III for a maximum of 23 hours, in how many ways can the pair of integers $\geq 0$ $(n_A, n_B)$ be chosen, indicating the number of each of the two types of jams produced, so as not to violate the above conditions?
 
@@ -506,7 +506,7 @@ This is the problem.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 18*
 
 > In the city park is an interesting abstract sculpture, which was obtained as follows. Given a side cube $L = 20$, imagine cutting it with a plane so as to obtain a regular hexagon and building on the latter an infinitely straight hexagonal prism. The sculpture is the intersection of the cube with the infinite prism. What's the volume?
 
@@ -536,7 +536,7 @@ This is the main reason for the change in the price of the product.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 19*
 
 > At the end of a hard day's work, Nicola and Gianmarco go for an aperitif at one of the nearby bars. To pass the time, they play a Matelandian variant of the "black man". At the beginning of the game, each of them has four cards, one for each seed, and Gianmarco has a special card (the "black man").
 > 
@@ -566,7 +566,7 @@ This is the main reason for the change in the price of the product.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason for the change in the price of the product.
+*Problem 20*
 
 > In the Matelandia park, a famous sculpture is formed by two straight cylinders of 10 dm radius (i.e. 20 dm diameter) and 20 dm height that intersect so that their axes are incidental in their middle and perpendicular points. What is the volume of the sculpture in dm3?
 

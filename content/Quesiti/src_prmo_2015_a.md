@@ -235,7 +235,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio della piastra circolare data lunghezza e sagitta dell'accordo *
+*Radio della piastra circolare data lunghezza e sagitta dell'accordo*
 
 > La figura seguente mostra un pezzo rotto di una piastra circolare di vetro. $C$ è il punto medio di $AB$ e $D$ è il punto medio di arco $AB$. Dato che $AB = 24$ cm e $CD = 6$ cm, quale è il raggio della piastra in centimetri? (La cifra non è indicata in scala.)
 

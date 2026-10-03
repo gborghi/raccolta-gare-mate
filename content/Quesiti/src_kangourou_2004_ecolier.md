@@ -221,13 +221,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many paint squares (black to white) *
+*How many paint squares (black to white)*
 
 ![[src_kangourou_2004_ecolier__prob5.png]]
 
 > How many white squares do I have to paint in black if I want the number of black squares to be exactly half the number of white squares? A) 2 B) 3 C) 4 D) 6 E) 0 A B B’ A’ 3 km
-> 
-> I'm going to pay. I'm going to pay. 6 Kang 2004 Kang
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_ecolier#q05|src_kangourou_2004_ecolier__Q05]]
@@ -258,7 +256,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the net of the cube (opposite colour faces) *
+*What is the net of the cube (opposite colour faces)*
 
 ![[src_kangourou_2004_ecolier__prob6.png]]
 
@@ -335,7 +333,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which rectangle and negative *
+*Which rectangle and negative*
 
 ![[src_kangourou_2004_ecolier__prob8.png]]
 
@@ -743,7 +741,7 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of how many triangles the seventh (square numbers) *
+*Of how many triangles the seventh (square numbers)*
 
 ![[src_kangourou_2004_ecolier__prob18.png]]
 

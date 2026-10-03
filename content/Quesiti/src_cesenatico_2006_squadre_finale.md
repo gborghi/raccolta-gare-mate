@@ -179,7 +179,7 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum useful combinations of 36 ingredients (condition) *
+*Minimum useful combinations of 36 ingredients (condition)*
 
 > 5. During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it can happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
 
@@ -237,7 +237,7 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of f^(((11) by iterating square sum of digits *
+*Value of f^(((11) by iterating square sum of digits*
 
 > 7. Magical power As even learned mathematicians know, the power of a spell is reinforced by repeating its formula. Calculating power, however, is not easy. Either f (n) the square of the sum of the digits of n. It is then $f^{(2)}$(n) = f(f(n)), $f^{(3)}$(n) = f(f(n))) and so on. Find $f^{(2006)}$(11).
 
@@ -464,7 +464,7 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate 1000 A/B area triangles in the two-dimensional plane *
+*Rate 1000 A/B area triangles in the two-dimensional plane*
 
 > Defence against dark mathematics group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
 
@@ -626,7 +626,7 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies equal to [4000,7000] with all other digits *
+*Interies equal to [4000,7000] with all other digits*
 
 > Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
 
@@ -661,11 +661,9 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 4 people on 2 rows (seeing well) *
+*Probability of 4 people on 2 rows (seeing well)*
 
 > Hardy, Hermita and Ron are going to class with Fracto Malpoysto. The four are randomly arranged in two rows of five seats each. Calculate the probability that everyone sees well, that is, that nobody has anyone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
-> 
-> I'm going to pay. 4 out of 4  Team competition 2006  National final  Problem texts
 
 **Answer:** 0029
 [[Quesiti/src_cesenatico_2006_squadre_finale#q19|src_cesenatico_2006_squadre_finale__Q19]]

@@ -349,7 +349,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total numbers are 20 times the sum of the digits *
+*Total numbers are 20 times the sum of the digits*
 
 > How many positive integers, written in decimal notation, are 20 times the sum of their digits? (Write [9999] if you believe there are infinitely many.)
 
@@ -516,7 +516,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now meeting cyclist and walker (60 km) *
+*Now meeting cyclist and walker (60 km)*
 
 > The cyclist and the walker Stefano's house is 60 km from Andrea's. Every Saturday Stefano, a keen cyclist, goes to see Andrea on his bike, leaving at noon, cycling at a steady pace and taking two hours. Today, however, Andrew, who is a good walker, has no time to wait for him. So he decides to go on foot to meet him, leaving at noon. Andrea's speed is also constant and it's 6 km/h. What time will they meet? (Write the time using the digits of a digital clock with no other signs, for example write 1539 to indicate 3 and 39 p.m.)
 
@@ -583,7 +583,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers remaining after repeated deletions (1997 deleted) *
+*Numbers remaining after repeated deletions (1997 deleted)*
 
 > /deleted numbers The integers from 1 to 2011 included are written in the order: 1, 2, ... , 2011. They are then deleted, in order, the second, fourth, sixth and so on. Then, of the remaining numbers, they are deleted in the order, the third, the sixth, the ninth and so on. Of the remaining numbers, the fourth, eighth, twelfth and so on are now deleted. This criterion continues, increasing the deletion step by one unit over the remaining numbers. The number 1997 has just been deleted: how many numbers are still written?
 
@@ -624,7 +624,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of books by Elizabeth (novel, poetry, science) *
+*Number of books by Elizabeth (novel, poetry, science)*
 
 > Elisabeth's books She likes to read, so on her birthday she was given books. The genres of books she received were: novel, poetry, science. Three of the books are not novels, four are not books of poetry, five are not science books. How many books did Elizabeth receive as a gift?
 > 

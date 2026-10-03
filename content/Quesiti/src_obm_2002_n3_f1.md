@@ -225,7 +225,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alice subisce quattro successive variazioni percentuali di altezza; trova effetto netto *
+*Alice subisce quattro successive variazioni percentuali di altezza; trova effetto netto*
 
 > Durante il suo viaggio nella terra delle meraviglie, Alice subì quattro successivi cambiamenti di altezza, nel seguente modo: prima prese un sorso da una bottiglia sulla quale c'era un adesivo con il messaggio "bevi me, sono 50% in basso", poi prese un sorso da un'altra bottiglia la cui etichetta era stampata con il messaggio "bevi me un sorso 50% più alto". Infine, ha mangiato un pezzo di una tart sulla quale c'era scritto "mangimi, pezzo di tart 20% più alto", e un altro pezzo di tart la cui etichetta diceva "saggiami, pezzo di tart 20% in basso". Dopo il viaggio di Alice, possiamo affermare che lei:
 >
@@ -615,7 +615,7 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante quando 9 divide sqrt(1111111111 - 22222) *
+*Restante quando 9 divide sqrt(1111111111 - 22222)*
 
 > Il resto della divisione di 9 per $\sqrt{1111111111-22222}$ è: (A) 0 (B) 1 (C) 3 (D) 6 (E) 8
 

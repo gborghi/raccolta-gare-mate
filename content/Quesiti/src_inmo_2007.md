@@ -32,7 +32,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto, angolo di bisezione mediana; prova il limite di rapporto *
+*Triangolo retto, angolo di bisezione mediana; prova il limite di rapporto*
 
 > In un triangolo $ABC$ angolato a destra a $C$, la media attraverso $B$ divide l'angolo tra $BA$ e il bisettore di $\angle B$. Provare che $$\frac{5}{2} < \frac{AB}{BC} < 3.$$
 

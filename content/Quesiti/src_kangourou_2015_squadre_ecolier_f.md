@@ -215,7 +215,7 @@ The longest route in the nine park alleys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many houses on the same side of mine *
+*How many houses on the same side of mine*
 
 > My way In the street where I live, the houses are numbered, starting at one end of the street, on one side with consecutive odd integers starting at 1, on the other side with consecutive even integers starting at 2. My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are on the same side as mine, including mine?
 
@@ -580,7 +580,7 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro for painting the solid of 4 cubes (EXPO) *
+*Euro for painting the solid of 4 cubes (EXPO)*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob15.png]]
 

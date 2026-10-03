@@ -333,7 +333,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time is the bid on the 23rd minute *
+*What time is the bid on the 23rd minute*
 
 > An analog clock has lost its minute's edge, but it's still working properly. The hour's clock is on the 23rd minute. Knowing it's afternoon, what time is it?
 >
@@ -375,7 +375,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the sum of the first 25 prime *
+*Number of units of the sum of the first 25 prime*
 
 > Let N be the sum of the 25 smallest prime numbers. The number of units of N is equal to
 >
@@ -415,7 +415,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many real roots of an exponential equation *
+*How many real roots of an exponential equation*
 
 > How many real roots does the equation 9 −2x = 23−x have?
 >
@@ -774,7 +774,7 @@ What to deduce from Andrea's claims about thieves
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from O by two strings of the other *
+*Distance from O by two strings of the other*
 
 ![[src_archimede_1999_triennio__prob25.png]]
 

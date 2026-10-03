@@ -90,7 +90,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of cards remaining after removing two *
+*Minimum number of cards remaining after removing two*
 
 ![[src_kangourou_2009_ecolier_maggio__probe2.png]]
 
@@ -258,7 +258,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the three numbers of the hexagon (grid) *
+*Product of the three numbers of the hexagon (grid)*
 
 > (*18 points*) Place in each of the shaded triangles of the grid in figure one of the six numbers 1, 2, 3, 4, 5, 6, using all of them and making the number appearing in each white triangle the product of the three numbers appearing in the three shaded triangles surrounding it.
 > 

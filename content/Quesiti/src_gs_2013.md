@@ -41,7 +41,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of letters of the winner from seven (one says the truth) *
+*Number of letters of the winner from seven (one says the truth)*
 
 > Another song of ice and fire (points 20) The seven gods of the Andals meet to predict who will emerge victorious from the war between the five kings that is about to develop. At every meeting of the seven gods, exactly one of them says the truth, the other six say the lie. The first, the Father, says: He will defeat King Ceelvyer Lannister. The second, the Mother, says: He will defeat King Lewyj Stark. The third, the Fabbro, says: He will defeat King Beapys Baratheon. The fourth, the Old Woman, says: He will defeat King Ceelvyer Lannister. The fifth, the Virgin, says: He will defeat King Munry Baratheon. The sixth, the Warrior, says: He will defeat King Beapys Baratheon. The seventh, the Stranger, says: He will defeat King Munry Baratheon. None of the seven mentions the fifth King Unton Greyjoy. What is the total number of letters of the winner's name and surname?
 
@@ -654,7 +654,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final distance after increasing jumps of 45 degrees (spiral) *
+*Final distance after increasing jumps of 45 degrees (spiral)*
 
 > 19. Drogon flights (50 points) Drogon dragon is trained in precise flights. Starting from its trespol, it makes a flight of 200 m to the east, from where it arrived a second flight to the north another 200 m. From the point where it has arrived, it exercises in precise jumps: a jump eastwards of 1 m, it turns from $45^{◦}$ in anti-hour direction, it points north-eastwards and makes a jump of 2 m, it turns from $45^{◦}$ in anti-hour direction, it points northwards and makes a jump of 3 m, it turns from $45^{◦}$ in anti-hour direction, it points north-westwards and makes a jump of 4 m, it turns 45 degrees in anti-hour direction, it points westwards and makes a jump of 5 m and so on, until the last jump that makes it is 400 m. How far from the starting point is he at the end of his jumps?
 
@@ -786,7 +786,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of death in the 14th minute (ball in the groin) *
+*Probability of death in the 14th minute (ball in the groin)*
 
 > 24. DEATH by CASE (points 70) DEATH controls the fate of characters with CASE. In front of DEATH there are two circular paths, one twice the length of the other. The two tracks are connected at a point where there is an exchange that allows passing from one trail to the other. A ball spins at a perfectly constant speed in the grooves (it takes a minute to complete the shortest groove). CASE, whenever the ball is about to pass to the point of contact, it says "yes" or "no" CASE, exactly. . . If he says yes, DEATH opens the link so that the ball passes into the other field. If he says no, he doesn't open the link and keeps the ball in the same fold. Every time the ball reaches halfway through the longest stretch, a character dies. At the start of the team competition, the ball passes to the midpoint.
 

@@ -31,7 +31,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il cerchio ortocentrico taglia i lati del triangolo medio, dimostrando somme uguali *
+*Il cerchio ortocentrico taglia i lati del triangolo medio, dimostrando somme uguali*
 
 > $H$ è l'ortocentro del triangolo $ABC$. I punti intermedi di $BC$, $CA$ e $AB$ sono rispettivamente $A'$, $B'$ e $C'$. Un cerchio con centro $H$ taglia i lati del triangolo $A'B'C'$ (prodotto se necessario) in sei punti, $D_1$, $D_2$ su $B'C'$, $E_1$, $E_2$ su $C'A'$ e $F_1$, $F_2$ su $A'B'$.
 > 
@@ -159,7 +159,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Trovare il valore più piccolo di 12^m - 5^n per i numeri interi positivi m, n *
+*Trovare il valore più piccolo di 12^m - 5^n per i numeri interi positivi m, n*
 
 > Trova, con prova, il minimo valore possibile di $\left|12^m - 5^n\right|$, dove $m$ e $n$ sono interi positivi.
 

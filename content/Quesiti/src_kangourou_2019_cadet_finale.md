@@ -205,7 +205,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 4 integers at the vertices of the square (divisibility) *
+*Minimum sum of 4 integers at the vertices of the square (divisibility)*
 
 > Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
 

@@ -283,7 +283,7 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the central rectangle in Figure *
+*Perimeter of the central rectangle in Figure*
 
 > The perimeter of the large rectangle is 34 cm. The same rectangle was then divided into 9 smaller rectangles, as shown in the figure. Also in the figure, the perimeter of some of these rectangles is shown. **What is the perimeter (in cm) of the central rectangle ?**
 
@@ -527,7 +527,7 @@ Maximum result with digits 1,7,8,9 and operations *
 
 > You've got 10 piles of coins in front of you. One of these stacks consists of counterfeit coins (which weigh, each, 10 coins. One of these stacks consists of counterfeit coins (which weigh, each) 5 g; the others are made up of real coins (which each weigh) 5 g. Describe how the stack of counterfeit coins can be detected with a single weight.
 
-**Answer:** 275 g (la differenza tra il peso effettivo e 275 g assegna il numero di monete false e quindi la pila da cui sono state prese)
+**Answer:** 275 g (the difference between the actual weight and 275 g gives the number of counterfeit coins and therefore the pile from which they were taken)
 [[Quesiti/src_bocconi_primavera_2008#q17|src_bocconi_primavera_2008__Q17]]
 
 

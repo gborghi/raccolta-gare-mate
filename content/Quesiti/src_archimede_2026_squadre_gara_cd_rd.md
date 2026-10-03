@@ -238,7 +238,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum x^2 equilateral triangle containing square by rotating *
+*Minimum x^2 equilateral triangle containing square by rotating*
 
 > The bearing centre of an equilateral triangle on the side $x$ is impregnated in the centre of a square on the side $1$. Determine the minimum value of $x^2$ so that, by rotating the triangle of $360°$ around the centre, the square always remains entirely contained in the triangle.
 

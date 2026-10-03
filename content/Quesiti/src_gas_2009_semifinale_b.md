@@ -168,7 +168,7 @@ Succession with average variations, term value 1000
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product (alpha-1) (beta-1) square polynomial roots *
+*Product (alpha-1) (beta-1) square polynomial roots*
 
 > In the mines of Toria the company of heroes led by the wizard Gaussdalf the Grey stumbles upon a secret door. If you open it, you could access an important shortcut, but to do so you need to know the product (α−1) ((β−1), where α and β are the roots of the polynomial 9x2 +9002x−2009. Name the product. . . and come in.
 
@@ -240,8 +240,6 @@ Succession with average variations, term value 1000
 Maximum combined attempts of 7 digits 1-4 without singles
 
 > The fate of the free peoples of One Middle Earth rests on the shoulders of a young gobbit. Frobino Massim-Mattlinks, called Frobbo, is the bearer of the ring of power. To protect him, Frobbo put him in a closed box with a combination. While Frobbo and his friend Sam are sleeping, the evil G'dellum tries to take over. Knowing that the combination is made up of 7 digits, each between 1 and 4, and that no number appears once, how many attempts will you have to make to get your number back? . . What, honey? Team competition 2009  Semifinal B  Problem texts  Pag. 1 di 2
-> 
-> I'm going to pay. 2 out of 2  Team competition 2009  Semifinal B  Problem tests
 
 **Answer:** 3196
 [[Quesiti/src_gas_2009_semifinale_b#q07|src_gas_2009_semifinale_b__Q07]]
@@ -443,7 +441,7 @@ Minimum total number of soldiers with 5a^4=6b^3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular angle ABC with circle and arc *
+*Rectangular angle ABC with circle and arc*
 
 > The tower's walls The tower of the sorcerer Sarumath the White, lord of Isengraf and traitor of the free peoples, stands in the middle of a plain and is surrounded by two perimeters of walls that intersect each other: the oldest walls draw in the plain a convex quadrilateral ABCD, while the most recent ones are circular in shape and intersect 8 times with the former, remaining divided by the intersection points into 8 arches. Of these, the 4 interiors of the ancient walls are such that the sums of the lengths of two non-consecutive ones are equal to each other. The DAB angle of the quadrilateral is 108°; furthermore, d BCD −d CDA = 30°. Determine the angle d of ABC.
 

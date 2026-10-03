@@ -154,7 +154,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bank of Bath currency, mean value L(C) *
+*Bank of Bath currency, mean value L(C)*
 
 > The Bank of Bath issues coins with a $H$ on one side and a $T$ on the other. Harry has$n$of these coins lined up from left to right. He repeatedly performs the following operation: if there are exactly $k > 0$ coins showing $H$, then the $k$-eighth coin turns left; otherwise, all coins show $T$ and stops. For example, if $n = 3$ the process starting from the $THT$ configuration is $THT \to HHT \to HTT \to TTT$, which stops after three operations.
 > 

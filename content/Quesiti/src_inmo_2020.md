@@ -58,7 +58,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione di simmetria soddisfacente polinomial espressa in potenze di (1-x^2) *
+*Condizione di simmetria soddisfacente polinomial espressa in potenze di (1-x^2)*
 
 > Supponiamo che $P(x)$ sia un polinomio con coefficienti reali che soddisfano la condizione $$P(\cos\theta + \sin\theta) = P(\cos\theta - \sin\theta)$$ per ogni $\theta$ reale. Prova che $P(x)$ può essere espresso nella forma $$P(x) = a_0 + a_1(1 - x^2)^2 + a_2(1 - x^2)^4 + \cdots + a_n(1 - x^2)^{2n},$$ per alcuni $a_0, a_1, a_2, \ldots, a_n$ e per un intero non negativo $n$.
 

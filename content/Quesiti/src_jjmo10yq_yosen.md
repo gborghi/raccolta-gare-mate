@@ -185,7 +185,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Octogono regolare con lato 1; trovare area di AIGH quadrilaterale *
+*Octogono regolare con lato 1; trovare area di AIGH quadrilaterale*
 
 > C'è un ottagono regolare $ABCDEFGH$ con lunghezza laterale $1$. Il $I$ deve essere l'intersezione delle diagonali $AD$ e $BF$. Trova l'area del quadrilaterale $AIGH$.
 

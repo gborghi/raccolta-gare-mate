@@ -29,7 +29,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca quattro numeri primi inferiori a 100 che dividono 3^n - 2^n per alcune n *
+*Ricerca quattro numeri primi inferiori a 100 che dividono 3^n - 2^n per alcune n*
 
 > Trova quattro numeri primi inferiori a 100 che sono fattori di $3^n - 2^n$ per un intero positivo $n$.
 

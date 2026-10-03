@@ -92,7 +92,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AE segment in isosceles trapezoid with triangle *
+*AE segment in isosceles trapezoid with triangle*
 
 ![[src_kangourou_2023_kangourou_squadre__prob2.png]]
 
@@ -213,7 +213,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insertions SUDOKU 2x3 grid with U constraint *
+*Insertions SUDOKU 2x3 grid with U constraint*
 
 > SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 × 3 so that no row and no column host both letters U. How many different insertions are possible?
 
@@ -395,7 +395,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum min and max of the expression AB0/(A+B) *
+*sum min and max of the expression AB0/(A+B)*
 
 > The fraction Be AB0 the generic positive three-digit integer (A ≠ 0), the unit number of which is zero. What is the sum of the smallest and largest of the values that AB0 A+B can assume?
 

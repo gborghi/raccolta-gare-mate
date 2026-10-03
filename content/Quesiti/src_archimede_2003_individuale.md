@@ -29,7 +29,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*divisibility of the digits *
+*divisibility of the digits*
 
 > Find all three-digit natural numbers $n$ ($100 \le n \le 999$) that are equal to the number formed by the last three digits of $n^2$.
 
@@ -162,7 +162,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* foot in the centre, configuration existence*
+*foot in the centre, configuration existence*
 
 ![[src_archimede_2003_individuale__prob5.png]]
 

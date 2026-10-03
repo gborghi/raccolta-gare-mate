@@ -213,11 +213,9 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9000th integer other than squared *
+*9000th integer other than squared*
 
 > At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment , they must solve an exercise: given sequence 2, 3, 5, 6, 7, 10, 11. .. , made up of all positive integers that are not n squares n cubes of other integers, predict the 9,000th term. Team competition 2006  Semifinal B Problem tests  Pag. 1 di 2
-> 
-> I'm going to pay. 2 out of 2  Team competition 2006  Semifinal B Problem tests
 
 **Answer:** 9111
 [[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q06|src_cesenatico_2006_squadre_semifinale_b__Q06]]
@@ -247,7 +245,7 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest number of 4 digits with a square ending equal to *
+*Biggest number of 4 digits with a square ending equal to*
 
 > Competitors in the dreadful Triangle Tournament who have passed the first test are now facing the second. They have to find the largest number of exactly four digits such that its square ends with the same four-digit number.
 

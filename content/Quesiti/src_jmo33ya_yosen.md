@@ -29,7 +29,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -57,7 +57,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -85,7 +85,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -113,7 +113,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -141,7 +141,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -169,7 +169,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -197,7 +197,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -225,7 +225,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -253,7 +253,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -281,7 +281,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -309,7 +309,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 
@@ -337,7 +337,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserzione di problema non presente nella fonte (solo foglio di risposta) *
+*Inserzione di problema non presente nella fonte (solo foglio di risposta)*
 
 > [Dichiarazione di problema non disponibile: la pagina sorgente fornita è la scheda delle risposte (解答用紙) della 33a Olimpiada matematica giapponese preliminare, che non contiene dichiarazioni di problema. In questa pagina viene data solo la risposta finale.]
 

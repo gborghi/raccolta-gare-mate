@@ -486,7 +486,7 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural a,b,c with b=a/c and numbers contained, not more than *
+*Natural a,b,c with b=a/c and numbers contained, not more than*
 
 > To unlock the door of his future home, Jensenfer Paerther must find three natural a,b,c of three, two, and one digit, respectively, with b = a c. In addition, the digits of b are contained in those of a, which is the maximum possible. How much is it worth? The containment of figures is understood by multiplication, i.e. for example 32 is contained in 243 but 33 is not.
 

@@ -906,7 +906,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason why we have to make a decision.
+*wins*
 
 > In a football championship a team gets 3 points if they win, 1 point if they draw, 0 points if they lose. A team played 18 games and drew as many times as they lost. The team has a total of 34 points: how many games have they won? A) 8
 > 	
@@ -1058,7 +1058,7 @@ This is the main reason why we have to make a decision.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
 > Richard writes all the numbers that have the following properties: the first digit is 1, each of the digits that follow is not less than the one that precedes it and the sum of its digits is 5. How many numbers does Richard write? A) 4
 > 	
@@ -1121,7 +1121,7 @@ This is the main reason why we have to make a decision.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max tiles cut from a 5x5 square *
+*Max tiles cut from a 5x5 square*
 
 ![[src_kangourou_2016_marzo_benjamin__prob23.png]]
 

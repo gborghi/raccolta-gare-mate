@@ -476,7 +476,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of the rod between ant and cook *
+*Fraction of the rod between ant and cook*
 
 ![[src_kangourou_2017_cadet_marzo__prob10.png]]
 
@@ -789,7 +789,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product numbers in grey cells, partial sums given *
+*Product numbers in grey cells, partial sums given*
 
 ![[src_kangourou_2017_cadet_marzo__prob16.png]]
 
@@ -1011,7 +1011,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all numbers in the grid 3x3 (equal sums) *
+*sum of all numbers in the grid 3x3 (equal sums)*
 
 ![[src_kangourou_2017_cadet_marzo__prob20.png]]
 
@@ -1108,7 +1108,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exchange moves of ten kangaroos watching each other *
+*Exchange moves of ten kangaroos watching each other*
 
 ![[src_kangourou_2017_cadet_marzo__prob22.png]]
 
@@ -1156,7 +1156,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum x+y with distinct angles of the triangle *
+*Minimum x+y with distinct angles of the triangle*
 
 > In a triangle the three angles are pairwise different and have an integer number of degrees as a measure. Denote with x the degree measure of the smallest and with y the degree measure of the largest between the three angles. What 's the least possible value of x + y ? A) 61 B) 90
 > 	

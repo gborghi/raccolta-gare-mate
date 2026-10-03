@@ -36,7 +36,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural < 1000 with a sum of 3 digits *
+*Natural < 1000 with a sum of 3 digits*
 
 > How many natural numbers are less than 1000 where the sum of the digits is 3?
 >
@@ -589,7 +589,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coming orders for bound cooks (6 cooks) *
+*Coming orders for bound cooks (6 cooks)*
 
 > Six cooks, indicated by A, B, C, D, E, F, take part in a cooking competition. According to the forecasts of the evening, the cook A is considered to be better than B, who is better than C, who in turn is better than D. It is also believed that A is better than E. If all the forecasts were met, assuming that there could be no equally qualified chefs, how many possible orders would be placed for the competition?
 >
@@ -770,7 +770,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement PC' from distances of P from the sides (sum of heights) *
+*Measurement PC' from distances of P from the sides (sum of heights)*
 
 ![[src_archimede_2025_biennio_rec__prob16.png]]
 

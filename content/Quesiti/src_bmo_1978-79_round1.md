@@ -31,7 +31,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i triangoli ABC con AB+AC=2 e altitudine AD=sqrt(AB·AC) *
+*Trova i triangoli ABC con AB+AC=2 e altitudine AD=sqrt(AB·AC)*
 
 > Trovare tutti i triangoli $ABC$ per i quali $$AB + AC = 2 \text{ cm} \quad \text{and} \quad AD = \sqrt{AB \cdot AC} \text{ cm},$$ dove $AD$ è l'altitudine da $A$, incontrando $BC$ ad angoli retti in $D$.
 

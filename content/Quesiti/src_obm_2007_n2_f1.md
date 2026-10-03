@@ -275,7 +275,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di possibili valori di k nel sistema ciclico di uguali rapporti *
+*Numero di possibili valori di k nel sistema ciclico di uguali rapporti*
 
 > Lasciate che $a, b, c$ e $k$ siano numeri reali diversi da zero soddisfacendo le relazioni $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. Quanti valori possibili può assumere $k$?
 > 

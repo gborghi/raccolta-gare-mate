@@ -294,7 +294,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri positivi inferiori a 30 con esattamente due divisori (prime) *
+*Contare i numeri positivi inferiori a 30 con esattamente due divisori (prime)*
 
 > Quanti numeri positivi più piccoli di $30$ hanno esattamente due divisori positivi?
 > 

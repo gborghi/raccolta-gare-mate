@@ -170,7 +170,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo obtouso di scalene: trovare punti su BC esteso con AD=sqrt(BD·CD) *
+*Triangolo obtouso di scalene: trovare punti su BC esteso con AD=sqrt(BD·CD)*
 
 > In un triangolo scalene $ABC$ l'angolo $A$ è obtuso. Determinare l'insieme di punti sul lato esteso $BC$ in modo tale che $AD = \sqrt{BD \cdot CD}$.
 

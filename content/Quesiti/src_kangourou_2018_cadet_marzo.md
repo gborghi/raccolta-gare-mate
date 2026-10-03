@@ -225,7 +225,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many paths of the ball up to lane B *
+*How many paths of the ball up to lane B*
 
 ![[src_kangourou_2018_cadet_marzo__prob5.png]]
 
@@ -1437,7 +1437,7 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the LMN triangle within the equilateral *
+*Area of the LMN triangle within the equilateral*
 
 ![[src_kangourou_2018_cadet_marzo__prob28.png]]
 

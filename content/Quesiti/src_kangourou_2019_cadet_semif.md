@@ -377,7 +377,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the smallest and largest of 1009 consecutive *
+*sum of the smallest and largest of 1009 consecutive*
 
 > (Points 5) The sum of 1009 consecutive integers is 20182019. How much is the sum of the smallest and largest of these numbers? A) 4 × 20182018 B) 10092019
 > 	
@@ -528,7 +528,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which card has not been drawn (remainders mod 3,4,5) *
+*Which card has not been drawn (remainders mod 3,4,5)*
 
 > (Points 5) From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. Which card has not been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
 
@@ -756,7 +756,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mother/Mara ratio between the same number of years *
+*Mother/Mara ratio between the same number of years*
 
 > Today is the birthday of Mara and her mother: her mother's age is five times that of Mara and some years ago she was seven times her age. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
 

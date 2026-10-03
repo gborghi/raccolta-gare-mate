@@ -538,7 +538,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BED angle with CE maximum *
+*BED angle with CE maximum*
 
 ![[src_kangourou_2001_cadet__prob14.png]]
 
@@ -993,7 +993,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum final score of Joey *
+*Minimum final score of Joey*
 
 > In a kangaroo jump competition, each participant performs 5 jumps. Each jump is rated on a score of 1 to 20. The leap with the lowest score (or one of the leaps that received the same lowest score, if more than one) is not counted in the final score. Before we discarded the lowest-scoring jump, the sum of the scores for Joey's five jumps was 72. So the final score is at least
 >
@@ -1179,7 +1179,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 102 empty boxes given *
+*Total 102 empty boxes given*
 
 > I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes in turn contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102 B 64 C 118 D 115 E cannot be answered.
 
@@ -1217,7 +1217,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagons of the football *
+*Hexagons of the football*
 
 > A soccer ball is sewn with pieces of leather shaped like a regular pentagon or regular hexagon. Each pentagon is surrounded by five hexagons and each hexagon is surrounded by three pentagons and three hexagons. The ball has 12 pentagons. How many hexagons does it have?
 >

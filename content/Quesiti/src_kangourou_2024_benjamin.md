@@ -268,7 +268,7 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the letter F when C is in front of 2 (wheels) *
+*Position of the letter F when C is in front of 2 (wheels)*
 
 ![[src_kangourou_2024_benjamin__prob7.png]]
 
@@ -764,7 +764,7 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different numbers are covered by the 16 circles (5 and 13) *
+*How many different numbers are covered by the 16 circles (5 and 13)*
 
 ![[src_kangourou_2024_benjamin__prob15.png]]
 
@@ -924,7 +924,7 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with exactly five black dots (Braille) *
+*Two-digit numbers with exactly five black dots (Braille)*
 
 ![[src_kangourou_2024_benjamin__prob17.png]]
 
@@ -1145,7 +1145,7 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers on the faces resting on the table (three dice) *
+*Sum of numbers on the faces resting on the table (three dice)*
 
 ![[src_kangourou_2024_benjamin__prob21.png]]
 
@@ -1433,7 +1433,7 @@ How to colour the white face of the cube development
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the question mark label (sum of cube faces) *
+*Number on the question mark label (sum of cube faces)*
 
 ![[src_kangourou_2024_benjamin__prob26.png]]
 
@@ -1639,7 +1639,7 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What digit did Biagio add (increase to 2024) *
+*What digit did Biagio add (increase to 2024)*
 
 > Ada had written a three-digit number on the board. Biagio added a fourth digit to the right of Ada's number. Now Biagio observes: "Look! Your number has increased by 2024". What digit did Biagio add? A) 2
 > 	

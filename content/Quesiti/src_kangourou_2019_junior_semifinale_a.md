@@ -293,7 +293,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABC product with continued fraction = 881/97 *
+*ABC product with continued fraction = 881/97*
 
 > The product For three positive integers A, B and C, A + 1/(B + (1/C)) = 881/97. What is their product?
 
@@ -326,7 +326,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Types of three-square banknotes (rotations) *
+*Types of three-square banknotes (rotations)*
 
 > Kanglandia banknotes are rectangular, obtained by aligning three squares of the same size. For all of them the back is gray, while on the other side each of the squares can be yellow, red, green or blue. Only the colours (and their positions) differentiate different banknotes. How many types of banknotes are there?
 

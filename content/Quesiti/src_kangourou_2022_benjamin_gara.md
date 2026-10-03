@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Question 1 (text not available in the sidecar) *
+*Question 1 (text not available in the sidecar)*
 
 > Six points are numbered as shown in the figure. Cristina obtains two triangles: one with vertices marked by even numbers, the other with vertices marked by odd numbers. Which of the five figures shows the two triangles obtained by Cristina? (see figure)
 
@@ -207,7 +207,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last three digits of the smallest 12-digit number *
+*The last three digits of the smallest 12-digit number*
 
 ![[src_kangourou_2022_benjamin_gara__prob5.png]]
 
@@ -253,7 +253,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Slices of pizza with ham and vegetables *
+*Slices of pizza with ham and vegetables*
 
 > A pizza maker cut a pizza into 12 slices and then topped it using the ingredients he had: mushrooms, ham and vegetables. He put only mushrooms on three slices; he put ham on seven slices and vegetables on five slices. No slice was left without topping. How many slices have both ham and vegetables? A) 1
 >   
@@ -297,7 +297,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spin fraction to lift the white cab *
+*Spin fraction to lift the white cab*
 
 ![[src_kangourou_2022_benjamin_gara__prob7.png]]
 
@@ -768,7 +768,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid that requires less paint than the four *
+*Solid that requires less paint than the four*
 
 ![[src_kangourou_2022_benjamin_gara__prob16.png]]
 
@@ -865,7 +865,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the circle with question mark (Latin square) *
+*Number in the circle with question mark (Latin square)*
 
 ![[src_kangourou_2022_benjamin_gara__prob18.png]]
 

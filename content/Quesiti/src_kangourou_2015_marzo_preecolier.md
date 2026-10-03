@@ -70,7 +70,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in Figure *
+*How many triangles in Figure*
 
 ![[src_kangourou_2015_marzo_preecolier__prob2.png]]
 
@@ -749,7 +749,7 @@ How many pirates?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*true statement *
+*true statement*
 
 > Chiara builds a cube using gray and white cubes (see figure). Two cubes of the same color have no face in common. Which of the following statements regarding the number of cubes used is true?
 >

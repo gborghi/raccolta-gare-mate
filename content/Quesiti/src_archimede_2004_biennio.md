@@ -225,7 +225,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Determine the smallest integer number/pair B with sum *
+*Determine the smallest integer number/pair B with sum*
 
 > Three friends are talking. One of them says, "Are not two of us liars?" How many of them are liars?
 >

@@ -29,7 +29,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo il cui prodotto per 3 ha tutte le cifre 7; trovare la somma di N *
+*N più piccolo il cui prodotto per 3 ha tutte le cifre 7; trovare la somma di N*
 
 > Che $N$ sia il numero intero positivo più piccolo in modo tale che moltiplicando $N$ per $3$ si ottiene un numero il cui numero è uguale a $7$. Determinare la somma delle cifre di $N$.
 
@@ -58,7 +58,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integro quadratico con parametri r,s; contare i possibili valori di ̊r-s> *
+*Integro quadratico con parametri r,s; contare i possibili valori di ̊r-s>*
 
 > $r$ e $s$ siano numeri interi. Supponiamo che l'equazione del secondo grado $$x^2 - (r+s)x + rs + 2010 = 0$$ abbia due soluzioni integrali. Quanti valori possibili ha $|r - s|$?
 
@@ -171,7 +171,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I bisettori angolari del triangolo si incontrano a I; trovare l'angolo ABC dato AI=BC e m(ICA)=2m(IAC) *
+*I bisettori angolari del triangolo si incontrano a I; trovare l'angolo ABC dato AI=BC e m(ICA)=2m(IAC)*
 
 > I bisettori di angolo interno $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano al punto $I$. Supponiamo che $AI = BC$ e $m(\angle ICA) = 2\,m(\angle IAC)$. Determinare la misura dell'angolo $\angle ABC$.
 

@@ -167,7 +167,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the following numbers is the smallest *
+*Which of the following numbers is the smallest*
 
 > Which of the following numbers is the smallest?
 >
@@ -208,7 +208,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of volumes given the ratio of cubic surfaces *
+*Ratio of volumes given the ratio of cubic surfaces*
 
 > The total surface area of two cubes is twice that of the other. What is the ratio of the volumes of the two cubes?
 >

@@ -35,7 +35,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Orologio analogo: contare quante volte le due mani puntano in una determinata configurazione in un intervallo *
+*Orologio analogo: contare quante volte le due mani puntano in una determinata configurazione in un intervallo*
 
 > Ogni orologio analogo ha almeno due mani: una per mostrare l'ora e l'altra per mostrare il minuto. Joaozinho osserva che queste mani sono talvolta molto distanti e talvolta molto vicine, come nella figura. Quante volte, tra le ore $5$ e $7$ minuti di una mattina e $7$ ore della mattina del giorno successivo, si verifica la configurazione?
 > 

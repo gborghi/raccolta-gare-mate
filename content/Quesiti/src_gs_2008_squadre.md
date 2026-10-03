@@ -183,7 +183,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts for monkeys at the zoo (I) *
+*T-shirts for monkeys at the zoo (I)*
 
 > If they're B and D, the rest you can't complete 8-9. If they're B (or D) and E, the rest is completed in 1 way 10-11. If they are A and B (or D), the rest is completed in 1 mode 3.
 > 
@@ -316,7 +316,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of points of the star *
+*sum of points of the star*
 
 > Adam draws a five-pointed star, joining five points with five segments. Four angles at the ends are given the same width; the width of the angle at the other ends is $12^\circ$.
 > 
@@ -575,7 +575,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts for monkeys (II) counting *
+*T-shirts for monkeys (II) counting*
 
 > Sylvier had actually bought 1 yellow shirt, 2 blue, 2 green and 3 red, leaving them in the room of the five monkeys.
 > 
@@ -647,7 +647,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit number with a power of 14 to 30 digits *
+*Three-digit number with a power of 14 to 30 digits*
 
 > To pass the time, Warlock calculates the fourteenth power of a positive integer and gets $114197726928752863294965276721$.
 > 
@@ -792,7 +792,7 @@ Shortest path triangular billiards with bounces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts for monkeys (III) counting *
+*T-shirts for monkeys (III) counting*
 
 > In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts that Sylvier had bought if they had no aversion to any color?
 

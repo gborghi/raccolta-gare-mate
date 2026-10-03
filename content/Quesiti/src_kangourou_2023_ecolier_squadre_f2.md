@@ -137,7 +137,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days of the year with digit sum 23 *
+*Days of the year with digit sum 23*
 
 > This year, the date of the Kangourou individual race is 16/03/2023: adding up all the digits of this date, you get 17. For how many days, from the first to the last day of this year, is the sum of the digits of the date 23?
 
@@ -243,7 +243,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Andrea's number with 2 on the right and left *
+*Andrea's number with 2 on the right and left*
 
 > To the right and to the left Andrea wrote a two-digit integer, Beatrice wrote the three-digit number you get from Andrea's by placing a 2 to its right, Cecilia wrote the three-digit number you get from Andrea's by placing a 2 to its left. Adding 36 to Cecilia's number, you get the number of Beatrice. What number did Andrea write?
 

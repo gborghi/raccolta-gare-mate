@@ -230,7 +230,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Torneo di scacchi a rotonda: minimo n per la proprietà P(m) *
+*Torneo di scacchi a rotonda: minimo n per la proprietà P(m)*
 
 > In un torneo di scacchi round robin ogni giocatore gioca con ogni altro giocatore esattamente una volta. Il vincitore di ciascuna partita ottiene $1$ punti e il perdente $0$ punti. Se la partita termina in pareggio, ogni giocatore ottiene un punto $\frac{1}{2}$. In un torneo ci sono giocatori $m$, si dice che un torneo abbia proprietà $P(m)$ se si verifica quanto segue: tra ogni set $S$ di giocatori $m$, c'è un giocatore che ha vinto tutte le sue partite $m - 1$ contro gli altri giocatori $m - 1$ in $S$.
 > 

@@ -123,7 +123,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'allievo nota X su un orologio digitale che mostra 7 ogni minuto; trova la metà dei voti totali *
+*L'allievo nota X su un orologio digitale che mostra 7 ogni minuto; trova la metà dei voti totali*
 
 > Uno studente con molto tempo libero e curiosità decise di fare il seguente: ogni minuto, quando cambiava l'ora sul suo orologio digitale, segnava un $X$ nel suo quaderno per ogni cifra $7$ che appareva sul display. Quindi, se il suo orologio mostrava $\mathbf{02{:}07}$ ha segnato $X$, e quando mostrava $\mathbf{07{:}17}$ ha segnato $XX$. Ha iniziato a farlo quando l'orologio mostrava $\mathbf{01{:}00}$ e si è fermato quasi dodici ore dopo, quando l'orologio mostrava $\mathbf{12{:}59}$. Calcola la metà del numero di $X$ che ha segnato nel suo quaderno.
 
@@ -218,7 +218,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Torre di dice: ridurre al minimo la somma dei punti visibili del viso *
+*Torre di dice: ridurre al minimo la somma dei punti visibili del viso*
 
 > Su un dado standard la somma dei punti su facce opposte è sempre $7$. Beatriz costruì una torre con $4$ dadi identici, incollare le facce insieme come mostrato nella figura. Qual è il numero minimo di punti che Beatriz può ottenere sommando tutti i punti sulle facce esposte della torre?
 
@@ -311,7 +311,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale *
+*Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale*
 
 > Sono posti su un tavolo nove pezzi diversi di domino, parzialmente coperti da un pezzo di carta. I dominosi si toccano in modo che il punto $1$ sia adiacente al punto $1$, i punti $2$ siano adiacenti ai punti $2$, ecc. Qual è il numero totale di punti nascosti dalla carta?
 

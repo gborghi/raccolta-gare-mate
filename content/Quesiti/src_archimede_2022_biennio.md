@@ -80,7 +80,7 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which box is the 2022th pearl *
+*In which box is the 2022th pearl*
 
 > Giulia has a lot of pearls and 5 colored boxes to put them in: she puts 2 in the yellow box, 2 in the blue box, then 3 in the red box, 3 in the green box and 3 in the white box, after which she starts again with the same rule. What's the box like where you're gonna put your 2022th pearl?
 >
@@ -342,7 +342,7 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelogram perimeter from subparallelogram perimeter *
+*Parallelogram perimeter from subparallelogram perimeter*
 
 ![[src_archimede_2022_biennio__prob7.png]]
 

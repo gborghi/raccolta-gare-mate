@@ -1491,7 +1491,7 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of N of 4 digits with a 3-digit number divided by N *
+*Quantities of N of 4 digits with a 3-digit number divided by N*
 
 > How many positive integers N of four significant digits are such that if one digit of N is deleted, the remaining three digit number is a divisor of N ? A) 5
 > 	

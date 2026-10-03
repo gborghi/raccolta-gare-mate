@@ -30,7 +30,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many sums *
+*how many sums*
 
 > A strange ATM can only deliver sums of money less than 1000 euros and only with 5, 10, 20 and 50 euro banknotes, all in equal quantities at each withdrawal. How many different amounts of money can be withdrawn from that ATM?
 
@@ -126,7 +126,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first or second? *
+*first or second?*
 
 > Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turns and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
 

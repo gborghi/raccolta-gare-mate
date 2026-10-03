@@ -62,7 +62,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between two points touching the y axis *
+*Minimum distance between two points touching the y axis*
 
 > In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
 

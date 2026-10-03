@@ -951,7 +951,7 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who is the lowest in the height graph *
+*Who is the lowest in the height graph*
 
 ![[src_kangourou_2020_pre_marzo__prob20.png]]
 

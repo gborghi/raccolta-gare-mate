@@ -113,7 +113,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione cardinale f su numeri interi positivi; trovare tutti i valori di f(2024) *
+*Funzione cardinale f su numeri interi positivi; trovare tutti i valori di f(2024)*
 
 > Un insieme finito $S$ di numeri interi positivi è chiamato cardinale se $S$ contiene l'intero $|S|$; dove $|S|$ indica il numero di elementi distinti in $S$. Lasciate che $f$ sia una funzione dall'insieme di integri positivi a se stesso, in modo tale che per qualsiasi insieme cardinale $S$, il insieme $f(S)$ sia anche cardinale. Qui $f(S)$ indica l'insieme di tutti gli enti che possono essere espressi come $f(a)$ per alcuni $a$ in $S$. Trova tutti i possibili valori di $f(2024)$.
 > 

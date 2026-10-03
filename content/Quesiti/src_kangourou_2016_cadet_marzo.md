@@ -106,7 +106,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* resulting in the sum of 26*
+*resulting in the sum of 26*
 
 > Instead of adding 26 to a certain number, Rita subtracted it and got -14. What number would she have got if she had actually added 26? A) 12 B) 14 C) 36 D) 38 E) 40
 
@@ -179,7 +179,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many bags *
+*how many bags*
 
 > Kanga collected the candy contained in 555 packs of 9 candies each in a single heap and now packs bags of 15 candies each. How many bags will he have? A) 999 B) 925 C) 555 D) 333 E) 111
 
@@ -469,7 +469,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*square perimeter *
+*square perimeter*
 
 ![[src_kangourou_2016_cadet_marzo__prob11.png]]
 
@@ -778,7 +778,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*after how many seconds he reaches *
+*after how many seconds he reaches*
 
 > Two kangaroos Sal and Tino start jumping at the same moment, from the same starting line and in the same direction. They make a leap per second: each Sal jump is 6 meters long, while Tino's first jump is 1 meter long, the second 2, the third 3 and so on. After how many seconds does Tino reach Sal? A) 10
 > 	
@@ -830,7 +830,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* points on the surface*
+*points on the surface*
 
 ![[src_kangourou_2016_cadet_marzo__prob19.png]]
 
@@ -925,7 +925,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum of lengths p,q,r,s*
+*sum of lengths p,q,r,s*
 
 ![[src_kangourou_2016_cadet_marzo__prob21.png]]
 

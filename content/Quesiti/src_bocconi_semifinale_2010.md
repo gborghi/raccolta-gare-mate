@@ -162,7 +162,7 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Farmer's market: maximum number of chickens per cow *
+*Farmer's market: maximum number of chickens per cow*
 
 > Thursday is a market day for farmers who exchange their animals in the village square. Here are the "prices": a duck is worth two chickens; a cow is worth a goat plus three ducks; a goat is worth two ducks plus two chickens. How many chickens can a farmer get for a cow?
 

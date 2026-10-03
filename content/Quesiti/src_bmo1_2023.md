@@ -141,7 +141,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(n) conta le liste di divisibilità; dimostra che N esiste dividendo f(n) *
+*f(n) conta le liste di divisibilità; dimostra che N esiste dividendo f(n)*
 
 > Per ogni intero $n \ge 1$, $f(n)$ è il numero di elenchi di diversi interi positivi che iniziano con $1$ e terminano con $n$, in cui ogni termine tranne l'ultimo divide il suo successore. Prova che per ogni numero intero $N \ge 1$ esiste un numero intero $n \ge 1$ tale che $N$ divida $f(n)$.
 > 
@@ -170,7 +170,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo Γ, linea l, rane che saltano tra l e Γ; provare il ritorno al punto di partenza *
+*Circolo Γ, linea l, rane che saltano tra l e Γ; provare il ritorno al punto di partenza*
 
 > Un cerchio $\Gamma$ ha un raggio $1$. Una linea $l$ è tale che la distanza perpendicolare da $l$ al centro di $\Gamma$ sia strettamente tra $0$ e $2$. Una rana sceglie un punto su $\Gamma$ la cui distanza perpendicolare da $l$ è inferiore a $1$ e si trova su quel punto. Poi esegue una sequenza di salti. Ogni salto ha una lunghezza $1$ e se un salto inizia su $\Gamma$ deve finire su $l$ e viceversa. Prova che dopo un numero finito di salti la rana ritorna a un punto su cui è stata prima.
 

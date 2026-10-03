@@ -344,7 +344,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca m+n dato radicale nidificato = sqrt(m) - sqrt(n) *
+*Ricerca m+n dato radicale nidificato = sqrt(m) - sqrt(n)*
 
 > Se $\dfrac{1}{\sqrt{2011 + \sqrt{2011^2 - 1}}} = \sqrt{m} - \sqrt{n}$, dove $m$ e $n$ sono integri positivi, qual è il valore di $m + n$?
 

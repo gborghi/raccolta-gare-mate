@@ -361,7 +361,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integer solutions of x^x - 2^x - x2 = 10 *
+*Positive integer solutions of x^x - 2^x - x2 = 10*
 
 > How many positive integer solutions of the $x^x - 2x - x^2 = 0$ equation are there?
 >
@@ -606,9 +606,9 @@ Places in the sprint that make Cipollini win
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many fish has Andrea caught (reduction of 38%) *
+*How many fish has Andrea caught (reduction of 38%)*
 
-> This is the first time I've seen this.
+> **PROOF EXERCISE**
 > 
 > Andrea comes back from fishing with a bag full of fish. When he gets home, he gives the biggest of his two cats the three biggest fishes, thus reducing the weight of the bag by 38 percent. At this point he gives the other cat the three smaller fishes: thus the weight of the bag is reduced again by 38% (compared to the weight after the first cat's nutrition). How many fish did Andrea catch? (The weight of the bag is neglected compared to that of the fish).
 
@@ -640,7 +640,7 @@ Places in the sprint that make Cipollini win
 
 *Pentagon inscribed with diagonal parallel sides is regular*
 
-> This is the first time I've seen this.
+> **PROOF EXERCISE**
 > 
 > To demonstrate that a pentagon is inscribed in a circumference such that each of its diagonal is parallel to one side, is necessarily regular.
 

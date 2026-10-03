@@ -205,7 +205,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle DKC on the semicircular *
+*Angle DKC on the semicircular*
 
 > The angle On a semicircle with diameter AD and center M, points B and C are such that the angle CAD ̂ measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC cuts BD. How many degrees does the angle DKC ̂ measure?
 

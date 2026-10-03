@@ -172,7 +172,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reed of circumference from a quadrilateral with perpendicular diagonal *
+*Reed of circumference from a quadrilateral with perpendicular diagonal*
 
 > A quadrilateral ABCD has the diagonal perpendicular to each other and is inscribed in a circumference c of AC diameter. The area and perimeter of the quadrilateral are 48 cm2 and 28 cm respectively. What is the radius of the circumference c?
 >

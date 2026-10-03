@@ -17,7 +17,12 @@ level: squadre
 
 *Esiti distinti lanciando 6 rosse e 5 verdi in scatola*
 
-> ogni pedina stia esattamente dentro qualche casella e non ce ne sia più di una in ogni casella;
+> Hai una buona mira?
+> Hai 11 palline: 6 colorate di rosso, indistinguibili fra loro, e 5 colorate di verde, indistinguibili fra
+> loro. Tenti di lanciarle in una scatola aperta: alcune (eventualmente nessuna) entreranno nella
+> scatola, altre (eventualmente nessuna) finiranno fuori. Quanti sono i possibili diversi esiti ? (Ad
+> esempio: un esito è “3 palline verdi e 2 rosse nella scatola, le altre fuori”, un esito diverso è “3
+> palline rosse e 2 verdi nella scatola, le altre fuori”.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
@@ -32,7 +37,12 @@ level: squadre
 
 *Distinct outcomes when throwing 6 red and 5 green into a box*
 
-> each token lies exactly inside some cell and there is no more than one in each cell;
+> Do you have good aim?
+> You have 11 balls: 6 colored red, indistinguishable from one another, and 5 colored green, indistinguishable from
+> one another. You try to throw them into an open box: some (possibly none) will go into the
+> box, others (possibly none) will end up outside. How many different possible outcomes are there? (For
+> example: one outcome is “3 green balls and 2 red balls in the box, the others outside”, a different outcome is “3
+> red balls and 2 green balls in the box, the others outside”.)
 
 **Answer:** 42
 [[Quesiti/src_kangourou_2009_squadre_semifinale#q01|src_kangourou_2009_squadre_semifinale__Q01]]
@@ -46,8 +56,9 @@ level: squadre
 
 *Percentuale di quadrati perfetti da 1 a 10000*
 
-> coppie di caselle occupate da pedine non abbiano lati in comune (pur potendo avere un vertice 
-> in comune);
+> Quadrati perfetti
+> Considera tutti i numeri interi da 1 a 10.000, compresi 1 e 10.000: quale percentuale di essi è
+> costituita da numeri che sono quadrati perfetti (cioè che sono il quadrato di qualche numero intero)?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
@@ -61,7 +72,9 @@ level: squadre
 
 *Percentage of perfect squares from 1 to 10000*
 
-> pairs of squares occupied by pieces do not share a common side (although they may share a vertex);
+> Perfect squares
+> Consider all the integers from 1 to 10,000, including 1 and 10,000: what percentage of them is
+> made up of numbers that are perfect squares (that is, that are the square of some integer)?
 
 **Answer:** 1
 

@@ -123,7 +123,7 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of operations to be from 1 to 11. *
+*Order of operations to be from 1 to 11.*
 
 > Alice multiplies by 5, Beatrice adds 4, Camille subtracts 3 and Dorothée divides by 2. They start at 1. In what order do they have to operate to get to 11 operating once each? Each operation shall be indicated by the corresponding initial letter (A for Alice, B for Beatrice, C for Camille and D for Dorothée).
 

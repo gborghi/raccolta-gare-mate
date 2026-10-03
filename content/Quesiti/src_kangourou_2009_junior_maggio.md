@@ -118,7 +118,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum path of the ant and farthest point *
+*Minimum path of the ant and farthest point*
 
 ![[src_kangourou_2009_junior_maggio__probj4.png]]
 
@@ -149,7 +149,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum red vertices with different distances (21-agon) *
+*Maximum red vertices with different distances (21-agon)*
 
 > *(18 points) * Consider a regular polygon of 21 sides. You want to color some vertices red so that, however you choose two pairs of vertices both colored red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
 

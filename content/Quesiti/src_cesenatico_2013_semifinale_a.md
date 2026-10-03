@@ -77,7 +77,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersection area of the two shadows (tetrahedron+mirror) *
+*Intersection area of the two shadows (tetrahedron+mirror)*
 
 > Through the mirror After hours spent playing with her kitten, Root is so tired that she almost fell asleep! Beyond the mirror, he sees a regular tetrahedron-shaped 1m side table on which a chessboard is drawn. The table rests on the ground in balance on one of the vertices, which is on the ground exactly one meter away from the mirror. The plane of the table, composed of one of the sides of the tetrahedron in the shape of an equilateral triangle, is parallel to the ground. One of its vertices points exactly toward the mirror, so that the opposite side is parallel to it. Just above the centre of the table, but at twice the height of the table, there is a light bulb on. Root notes that under the table two shadows are then formed: one caused by the direct light of the lamp and the other by the light reflected in the mirror. Knowing that the mirror is perfectly vertical, would you be able to calculate the area of the intersection between the two shadows? Give the answer in cm2.
 
@@ -111,7 +111,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ripped ball in room doubling *
+*Ripped ball in room doubling*
 
 > What's going on? Root is now located in the A corner of an ABCD square room on the side 4161cm, and rolls a very small ball onto the floor so that it reaches the point on the side BC that is 1cm from B. Every time it hits a wall, not only does the ball bounce back perfectly, but at the same time the room grows larger: the wall opposite the one hit by the ball moves away from the one hit instantly so that their distance doubles. The other two walls remain at the same distance. How many bounces will the ball make before it ends up on top of the room again?
 
@@ -174,7 +174,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance B-D (aligned points seen) *
+*Minimum distance B-D (aligned points seen)*
 
 > Minimum distance Root, standing still at one point, sees in the distance the White King moving in a straight line passing through three aligned points B,C,D. Knowing that B and D are 3km from the Roots, while C is only 2km, how many meters away are B and D at least?
 
@@ -209,7 +209,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tower 6 paths move to the left *
+*Tower 6 paths move to the left*
 
 > A left tower From a distance, Root sees a lawn with so many hedges that divide it into squares, like the boxes of a chessboard 8. The Red Queen orders the Tower to move from a corner box to the opposite corner box. The Queen explains that it will take exactly six steps to reach her. In addition, he orders that with each move he change direction by turning to the left of 90°. If there are no other pieces on the chessboard besides the Tower, how many possible paths can it take? The Tower may pass on the same box several times; in particular, it may touch the destination box even before the sixth move. A Tower move involves moving any number of whole boxes (from 1 to 8) horizontally or vertically.
 
@@ -248,7 +248,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary areas of 4025 triangles (telescopic) *
+*Summary areas of 4025 triangles (telescopic)*
 
 > My kingdom for a pedestrian Can I join the game too? Root asked the Red Queen. Sure, my dear, we just need a white pedal. Team competition 2013  Semifinals A  Problem tests  1/3
 > 
@@ -284,7 +284,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min initial oysters (residues for n=2.71) *
+*Min initial oysters (residues for n=2.71)*
 
 > Oysters' shovel The Triseco and the Cartantiere have collected many oysters; they would like to have them in a row by 2, but their number is not divisible by 2. Disappointed, they reluctantly decide to eat two. They try to line up the remaining ones by 3, but their number is not divisible by 3, so they eat 3. They go on like this, every time they eat n because the number of leftovers is not divisible by n. When Root meets them, they're in tears: they're now lined up for 71, and they're not done yet! How many oysters were there at least at the beginning of the feast?
 
@@ -351,7 +351,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum of 2 cards >=14 (scorched) *
+*Probability sum of 2 cards >=14 (scorched)*
 
 > The cards are hitting the head CuboQuadro stole the Cubo compass! To solve the problem, as they usually do, each one of them takes two cards from the same deck of 52 and adds up their values. CuboQuadro, which has caught a 6 and an 8, will only return the bad catch if the sum of the values of the two cards of the brother is greater than or equal to the sum of his own, i.e. 14. What is the probability that this will happen? Indicate the sum of the numerator and denominator of the probability expressed as a fraction reduced to the minimum terms. The deck is composed of four sets of 13 cards each, each of a value of 1,2,...13.
 
@@ -482,7 +482,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of N divisors with constraints (squares, 10^14) *
+*Number of N divisors with constraints (squares, 10^14)*
 
 > The Divisors of the Knight Root now stand in front of the White Knight, who, resting from battle, meditates on a leaf. Here I wrote all the positive divisors of a certain integer N, including 1 and itself. I'm just going to tell you that there are 606 perfect squares, and exactly 165 numbers that are also divisors of 1014. Ah, and multiples of 5 are odd numbers. How many numbers are on the sheet?
 

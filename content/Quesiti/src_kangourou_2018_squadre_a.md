@@ -263,7 +263,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grams of material after 20 days (evaporation) *
+*Grams of material after 20 days (evaporation)*
 
 > Evaporation A material evaporates at a constant rate i.e. at equal time, the percentage of the mass evaporating is the same. The mass halves in eight days. Suppose you have such a quantity of that material that the square of its mass is 1,479,200 g2. How many grams of that stuff will you find after 20 days?
 
@@ -390,7 +390,7 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one and 36 more than the average of the other two *
+*one and 36 more than the average of the other two*
 
 > Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees larger than the average of the other two. How many degrees can the widest of the three angles be measured at most?
 

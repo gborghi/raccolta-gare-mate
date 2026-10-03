@@ -600,28 +600,6 @@ Maximum sum of the first two cards with total sum of 35
 > quantità di formaggio. Il giorno dopo 12 di quei topi ritornano alla cantina e, mangiando ognuno la 
 > metà di quanto ha mangiato nel giorno precedente, esauriscono le forme rimanenti. Quante forme 
 > intere di formaggio c’erano inizialmente nella cantina?
-> a
-> b
-> h
-> d
-> c
-> g
-> f
-> e
-> 	
-> a 4 0 b  -
-> 	
-> 5 c d 6  =
->        ---------------
-> 	
-> 2 0 1 9
-> 
-> 0005
-> 0010
-> 0024
-> 0014
-> 0010
-> 0014
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
@@ -633,17 +611,9 @@ Maximum sum of the first two cards with total sum of 35
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many initial forms of cheese are given to mice over two days*
+*How many wheels of cheese were there initially, given two days of mice*
 
-> A cellar contains some whole forms of cheese. One day 36 mice invade the cellar and devour a total of 12 whole forms of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining forms. How many whole forms of cheese were there in the cellar? a b h d c g f e
-> 	
-> a 4 0 b  -
-> 	
-> 5 c d 6  = ---------------
-> 	
-> 2 0 1 9
-> 
-> 0005 0010 0024 0014 0010 0014
+> A cellar contains some whole wheels of cheese. One day 36 mice invade the cellar and devour a total of 12 whole wheels of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining wheels. How many whole wheels of cheese were there initially in the cellar?
 
 **Answer:** 14
 [[Quesiti/src_kangourou_2019_ecolier_semifinale#q15|src_kangourou_2019_ecolier_semifinale__Q15]]

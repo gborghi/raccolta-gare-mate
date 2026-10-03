@@ -29,7 +29,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Odd prime p: numeri interi positivi unici x,y con x^2=y(y+p) *
+*Odd prime p: numeri interi positivi unici x,y con x^2=y(y+p)*
 
 > $p$ sia un numero primo impar. Prove che esistono unici integri positivi $x, y$ come $x^2 = y(y+p)$, e fornisca le formule per $x$ e $y$ in termini di $p$.
 

@@ -1061,7 +1061,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.*
+*Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.*
 
 > Una scatola di bevande si forma disposendo quattro triangoli congruenti come mostrato. $QP = RS = 4\text{ cm}$ e $PR = 10\text{ cm}$. Qual è il volume della scatola, in cm$^3$?
 >

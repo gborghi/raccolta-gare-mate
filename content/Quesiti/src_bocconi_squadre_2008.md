@@ -61,7 +61,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count triangles in Figure *
+*Count triangles in Figure*
 
 > How many triangles do you see in the figure?
 
@@ -153,7 +153,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert numbers 19 in the grid with operations given *
+*Insert numbers 19 in the grid with operations given*
 
 > Replace the digits 1 to 9 (use once and only) instead of the dots. $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
 
@@ -281,7 +281,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decimal figures of the 2007th/2008.th 2009.th *
+*Decimal figures of the 2007th/2008.th 2009.th*
 
 > Divide 1 by 2008. What (in order) is the $2007$-exis, $2008$-exis and $2009$-exis after the comma of the quotient thus obtained?
 
@@ -552,7 +552,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) of positive integers with (b^3+1)/(ab-1) integer *
+*Pairs (a,b) of positive integers with (b^3+1)/(ab-1) integer*
 
 > Determine the pairs $(a, b)$ of positive integers, with $a$ greater than or equal to $b$, where $(b^3 + 1)/(ab - 1)$ is an integer.
 

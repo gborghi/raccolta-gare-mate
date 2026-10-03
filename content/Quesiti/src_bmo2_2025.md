@@ -93,7 +93,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il maggior numero di swap di cui Isaac potrebbe avere bisogno su n ×n scacchi *
+*Il maggior numero di swap di cui Isaac potrebbe avere bisogno su n ×n scacchi*
 
 > Una scacchiera $n \times n$ è composta da celle $n^2$ che sono quadrati unitari. Ogni cellula è di colore nero o bianco, in modo che le cellule con un bordo comune abbiano colori diversi. Isaac sconvolge il colore scambiando ripetutamente due colonne complete o due righe complete. Elijah vuole ripristinare il colore originale scambiando ripetutamente due colonne complete o due righe complete.
 > 

@@ -82,7 +82,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sticks after breaking one *
+*Sticks after breaking one*
 
 > Stephen has seven sticks of varying lengths. He breaks one in half. How many sticks does Stephen have now?
 >
@@ -560,7 +560,7 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid other than the other four *
+*Solid other than the other four*
 
 ![[src_kangourou_2001_ecolier__prob13.png]]
 
@@ -735,7 +735,7 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candies in the basket with the largest number *
+*Candies in the basket with the largest number*
 
 > I have three baskets, each containing 11 candies. I take a candy from each basket in the following order: left basket, center basket, right basket, center basket, left basket, center basket, right basket, center basket, and so on. When the central basket is empty, how many candies are left in the basket that contains the most?
 >

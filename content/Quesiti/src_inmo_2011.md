@@ -58,7 +58,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare i numeri naturali espressi come a+b+c con un'espressione *
+*Caricare i numeri naturali espressi come a+b+c con un'espressione*
 
 > Chiamare un numero naturale $n$ **fiduo** se esistono numeri naturali $a < b < c$ tali che $a$ divida $b$, $b$ divida $c$ e $n = a + b + c$. (i) Mostrare che tutti, tranne un numero finito di numeri naturali, sono fedeli. (ii) Trova l'insieme di tutti i numeri naturali che sono fedeli ** non **.
 

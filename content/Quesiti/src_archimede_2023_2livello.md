@@ -265,7 +265,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Owners of 10^2024+1 of the form 10^n+1 *
+*Owners of 10^2024+1 of the form 10^n+1*
 
 > Consider the number N = 1000 . . . 0001 consisting of the number one followed by 2023 zeros, which in turn are followed by the number one. How many proper divisors of N (i.e., the strictly understood divisors between 1 and N) are also written as a digit 1 followed by some positive number of zeros, followed in turn by a digit 1?
 >
@@ -632,7 +632,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoid, bisectriform, AB=AP with condition *
+*Isosceles trapezoid, bisectriform, AB=AP with condition*
 
 > Demonstrative Exercise Whether ABCD is an isosceles trapezoid of base major AB such that the angle bisector in D passes through B. Let's say that the intersection of the angle in A intersects the side of BC at the point P. Demonstrate that AB = AP if and only if the biset of ÷ PAD passes through C.
 

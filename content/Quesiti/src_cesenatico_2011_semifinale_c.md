@@ -64,7 +64,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meanly affected galls (tangent circles in octagon) *
+*Meanly affected galls (tangent circles in octagon)*
 
 > The Gauls have been besieged! The Roman archers set themselves at the top of a battlefield shaped like a regular octagon and the areas covered by the radius of action of their infallible arches are identical circles between their tangents. The archers are sure to strike any enemy entering the area covered by their arrows. If 208 Gauls are all in random spots on the battlefield, how many will be hit on average?
 
@@ -439,7 +439,7 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of aryan reaching the walls (catapult) *
+*Probability of aryan reaching the walls (catapult)*
 
 > The Romans besieged the village of the Gauls and intended to build arrows to bring down the walls. The Welsh have a catapult that can destroy their fins, but it can't hit them if they're closer than 30 steps or more than 150 steps away from the walls. In addition, a kite travels 40 steps per minute, a catapult launches a stroke per minute and hits the kite with a probability of 10 d where d is the distance (in steps) of the kite from the walls. The Romans send the kite one at a time, they want more than a 50% chance of getting at least one kite to the walls and they build the minimum number of kite that allows it. What's the probability in this case? Provide the first four digits after the comma as the answer.
 
@@ -475,7 +475,7 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Empty carriages between the first and last carriage (carriage) *
+*Empty carriages between the first and last carriage (carriage)*
 
 > A drunken transport The Romans look for a bottle of magic potion scattered among an entire cellar of identical bottles of wine. To bring the sticks to the camp, where the centurion will taste them one by one, a circular caravan of 1,196 steps is arranged, with the cellar and the camp diametrically opposite. Numerous carriages, all identical, form the caravan at 26 steps away from each other, going with the barrels and returning empty. To allow the centurion to dispense the wine, between two wagons carrying barrels, an increasing number of wagons are left empty: first 1, then 2, 3, 4, .... When the first carriage leaves empty again, the number of cans still to load is 4/5 of the total. How many empty wagons arrive at the camp between the first and last batch? (Non-empty wagons each carry the same number of barrels.)
 

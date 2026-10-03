@@ -115,7 +115,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio di sfera di piramide triangolare regolare *
+*Radio di sfera di piramide triangolare regolare*
 
 > Supponiamo che il lato della base e l'altezza della piramide triangolare regolare $P\text{-}ABC$ siano $1$ e $\sqrt{2}$, rispettivamente. Il raggio di radius della sfera della piramide è $\underline{\qquad}$.
 

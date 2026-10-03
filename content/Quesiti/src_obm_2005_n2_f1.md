@@ -188,7 +188,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di tutto il platino prodotto in 50 anni (densità 21,45 g/cm3, 110 t/anno); oggetto più vicino *
+*Volume di tutto il platino prodotto in 50 anni (densità 21,45 g/cm3, 110 t/anno); oggetto più vicino*
 
 > Il platino è un metallo molto raro, anche più raro dell'oro. La densità è $21.45\,\text{g/cm}^3$. Supponiamo che la produzione mondiale di platino fosse di circa $110$ tonnellate in ciascuno degli ultimi $50$ anni, e trascurabile prima di allora. Indicare l'alternativa con l'oggetto il cui volume è più vicino al volume di platino prodotto nel mondo in tutta la storia. A) una scatola di scarpe B) una piscina C) un edificio di dieci piani D) il Monte Pascoal E) la Luna
 
@@ -784,7 +784,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-* blocco 1x2x3 laminato su una tavola 8x8 con le facce X, Y, Z in ordine verso il basso; quante cellule distinte sono state toccate*
+*blocco 1x2x3 laminato su una tavola 8x8 con le facce X, Y, Z in ordine verso il basso; quante cellule distinte sono state toccate*
 
 > Un blocco di dimensioni $1\times 2\times 3$ è posizionato su una tavola $8\times 8$, come mostra la figura, con una faccia $X$ di dimensioni $1\times 2$ rivolta verso il basso. Rotoliamo il blocco attorno a uno dei suoi bordi in modo che la faccia $Y$ sia girata verso il basso. Poi lo rotoliamo di nuovo, questa volta in modo che la faccia $Z$ sia girata verso il basso. Rotoliamo il blocco più volte, in varie direzioni sulla lavagna, in modo che le facce $X$, $Y$ e $Z$ siano girate verso il basso, sempre in questo ordine. Quanti piccoli quadrati della lavagna possono essere in contatto con il blocco? A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
 

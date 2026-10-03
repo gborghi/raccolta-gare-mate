@@ -117,7 +117,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*three with the same argument (Ramsey) *
+*three with the same argument (Ramsey)*
 
 > Seventeen people correspond by mail with each other. Their letters only discuss three different topics. Each pair of correspondents deals with only one subject. Demonstrate that there are at least three people who write all three on the same subject.
 
