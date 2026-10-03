@@ -270,7 +270,7 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the last player to throw the ball (circle) *
+*Number of the last player to throw the ball (circle)*
 
 ![[src_kangourou_2024_ecolier__prob6.png]]
 
@@ -592,7 +592,7 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which vessel is to be filled first (discharge tubes) *
+*Which vessel is to be filled first (discharge tubes)*
 
 ![[src_kangourou_2024_ecolier__prob11.png]]
 
@@ -640,7 +640,7 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish eaten by the other chick (26 to one) *
+*Fish eaten by the other chick (26 to one)*
 
 > Gino the penguin goes fishing every day and every day brings home 9 fish for his two chicks: 5 fish to the first chick he sees, 4 fish per second; they eat all the fish. In the last few days, a chick has eaten 26 fish. How many fish did the other chick eat in the same days? A) 19
 > 	
@@ -693,7 +693,7 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the question mark paper (4 rings, sum of 10) *
+*Number on the question mark paper (4 rings, sum of 10)*
 
 ![[src_kangourou_2024_ecolier__prob13.png]]
 
@@ -821,7 +821,7 @@ E) 7
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers instead of question marks (box) *
+*Sum of numbers instead of question marks (box)*
 
 ![[src_kangourou_2024_ecolier__prob15.png]]
 
@@ -996,7 +996,7 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three missing digits (sum of three numbers = 782) *
+*sum of the three missing digits (sum of three numbers = 782)*
 
 ![[src_kangourou_2024_ecolier__prob18.png]]
 
@@ -1044,7 +1044,7 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the cylinder (weighted in pairs) *
+*Weight of the cylinder (weighted in pairs)*
 
 ![[src_kangourou_2024_ecolier__prob19.png]]
 
@@ -1107,7 +1107,7 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the expression with figures *
+*Value of the expression with figures*
 
 ![[src_kangourou_2024_ecolier__prob20.png]]
 

@@ -172,7 +172,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pages (including written ones) containing at least one digit *
+*Number of pages (including written ones) containing at least one digit*
 
 > The MATHIAS list. Mathias writes the page numbers from $2009$ to $2009\,2010\,2011\,2012\,2013\ldots$ How many pages he wrote contain at least one digit $4$?
 
@@ -275,7 +275,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the development of an open cube (without lid) *
+*Complete the development of an open cube (without lid)*
 
 > The pattern of the unfinished cube. Some faces are already drawn (in gray) on a grid: the patron (plane development) of an open cube, consisting of the bottom (the base) and a single other face (the lid), is desired. There are more grey boxes on the grid than there are white boxes. Search all possible white boxes that complete the development.
 

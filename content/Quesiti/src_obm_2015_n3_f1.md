@@ -34,7 +34,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero 19 in 3 ×3 griglia: somma pari dei vicini, massimizzazione della somma quadrata bianca *
+*Numero 19 in 3 ×3 griglia: somma pari dei vicini, massimizzazione della somma quadrata bianca*
 
 > Violeta vuole numerare i quadrati di una lavagna $3 \times 3$ da 1 a 9, in modo che in ogni riga il numero di quadrati la cui somma con tutti i loro vicini (quadrati che condividono un lato) è pari è il massimo possibile. Inoltre, vuole che la somma dei numeri scritti nei quadrati bianchi sia il più grande possibile. Qual è la somma dei numeri scritti nei quadrati bianchi?
 > 
@@ -172,7 +172,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anno successivo dopo il 2015 con calendario identico (lo stesso giorno della settimana per ogni data) *
+*Anno successivo dopo il 2015 con calendario identico (lo stesso giorno della settimana per ogni data)*
 
 > Diciamo che due anni hanno lo stesso calendario se hanno lo stesso numero di giorni e i giorni della settimana coincidono in ogni data. L'anno 2015 coincide con il 2009. Sapendo che gli anni che sono multipli di 4 nel 21 ° secolo (ad eccezione del 2100) sono anni biscotti con 366 giorni, e tutti gli altri hanno 365 giorni, qual è il prossimo anno dopo il 2015 che ha lo stesso calendario del 2015?
 > 
@@ -613,7 +613,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante cifre ha il più piccolo m con funzione somma di numeri f(m) = 2015 *
+*Quante cifre ha il più piccolo m con funzione somma di numeri f(m) = 2015*
 
 > La funzione di pavimento $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio, $\lfloor 3.45 \rfloor = 3$ e $\lfloor 41 \rfloor = 41$. Considera la funzione $f$ definita su interi non negativi da $f(0) = 0$ e $$f(n) = f\!\left(\left\lfloor \frac{n}{10} \right\rfloor\right) + n - 10\left\lfloor \frac{n}{10} \right\rfloor$$ per tutti gli interi positivi $n$. Quante cifre ha il più piccolo intero positivo $m$ con $f(m) = 2015$?
 > 

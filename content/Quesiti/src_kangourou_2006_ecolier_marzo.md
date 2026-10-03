@@ -351,7 +351,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest 10-digit number with sheets *
+*Smallest 10-digit number with sheets*
 
 ![[src_kangourou_2006_ecolier_marzo__prob8.png]]
 
@@ -838,9 +838,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 ![[src_kangourou_2006_ecolier_marzo__prob19.png]]
 
-> The structure shown in the figure consists of 10 cubes glued together. Roman paints the entire structure, including the bottom. How many faces of cubes have been painted? (A) 18 (B) 24 (C) 30 (D) 36 (E) 42 pages. I'm going to pay. 8 Kang 2006 Kang 2006 A B 80 20 60 30 20 10 10 60 70 A) B) C) D) Ecolier_06.qxp 21/02/2006 0.07 Page 8
-> 
-> I'm going to pay. I'm going to pay. 9 Kang 2006 Kang 2006
+> The structure shown in the figure consists of 10 cubes glued together. Roman paints the entire structure, including the bottom. How many faces of cubes have been painted? (A) 18 (B) 24 (C) 30 (D) 36 (E) 42 pages. A B 80 20 60 30 20 10 10 60 70 A) B) C) D) Ecolier_06.qxp 21/02/2006 0.07 Page 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_ecolier_marzo#q19|src_kangourou_2006_ecolier_marzo__Q19]]
@@ -875,7 +873,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who lives on the first floor (logic) *
+*Who lives on the first floor (logic)*
 
 > Irene, Anna, Clara, Olga, and Elena live in the same building. Two of them live on the first floor, the others on the second. Olga lives on a different floor than Clara and Elena. Anna lives on a different floor than Irene and Clara. Who lives on the first floor? A) Clara and Elena B) Irene and Elena C) Irene and Olga D) Irene and Clara E) Anna and Olga
 

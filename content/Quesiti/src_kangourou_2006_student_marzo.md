@@ -30,7 +30,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which product is the largest (isoperimetric) *
+*Which product is the largest (isoperimetric)*
 
 > Which of the following numbers is the largest? A) 2006×2006  B) 2005×2007   C) 2004×2008  D) 2003×2009   E) 2002×2010
 
@@ -315,7 +315,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Variation of revenue (+20% of price, -20% of turnover) *
+*Variation of revenue (+20% of price, -20% of turnover)*
 
 > On the occasion of a particularly important match, the price of the stadium entrance ticket was increased by 20% compared to previous matches. As a result, however, the attendance of spectators decreased by 20%. Compared to the previous batches, the proceeds are A) unchanged. (b) increased by 2%. (c) decreased by 2%. D) increased by 4%. E) decreased by 4%.
 
@@ -450,7 +450,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2006 remainder with the same divisor (rest 5 out of 1001) *
+*2006 remainder with the same divisor (rest 5 out of 1001)*
 
 > If you divide 1001 by an appropriate one-digit number, you get 5 as remainder. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
 
@@ -567,7 +567,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Elements of the choir this year (percentage) *
+*Elements of the choir this year (percentage)*
 
 > Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many members does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
 
@@ -600,7 +600,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sheets for two equal digits (pigeonhole) *
+*Minimum sheets for two equal digits (pigeonhole)*
 
 > Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the urn if you want to be sure that, among the numbers shown on the extracted sheets, there are at least two that, in some position, have the same digit? A) 20160          B) 40320          C) 72            D) 10                E) 9
 
@@ -636,7 +636,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blue glass surface (circular glass) *
+*Blue glass surface (circular glass)*
 
 ![[src_kangourou_2006_student_marzo__prob16.png]]
 
@@ -668,7 +668,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the largest number (fractions with a,b) *
+*What is the largest number (fractions with a,b)*
 
 > If a and b are two numbers greater than 1, which of the following numbers is the largest? A)              B)                   C)                 D)              E)
 
@@ -851,7 +851,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*XA diagonal of the rectangular parallelepiped (Pitagora) *
+*XA diagonal of the rectangular parallelepiped (Pitagora)*
 
 ![[src_kangourou_2006_student_marzo__prob20.png]]
 
@@ -1010,8 +1010,6 @@ level: kangourou
 *Lists of answers providing 4 correct answers*
 
 > I have to do a 10-question test, and the answer to each question is "yes" or "no". It must be structured in such a way that those who answer 'yes' to one half of the questions and 'no' to the other half still give correct answers to at least four questions. How many possible lists of correct answers give me this guarantee? A) 55 B) 252 C) 2 D) 10 E) 22 55 Z A X Y 90 120 200 figure 2 figure 1 Student_06.qxp 20/02/2006 23.38 Page 31
-> 
-> I'm going to pay. I'm going to pay. 32 32 Kang 2006 Kang 2006 tudent
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_student_marzo#q24|src_kangourou_2006_student_marzo__Q24]]
@@ -1040,7 +1038,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number removed from 10 consecutive integers (sum of 2006) *
+*Number removed from 10 consecutive integers (sum of 2006)*
 
 > From a sequence of ten consecutive integers, one has been removed. The sum of the remaining nine numbers is 2006. What's the number that's been removed? A) 218          B) 219             C) 220               D) 225               E) 227
 
@@ -1211,7 +1209,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded triangle area (hexagon and square) *
+*Shaded triangle area (hexagon and square)*
 
 ![[src_kangourou_2006_student_marzo__prob29.png]]
 
@@ -1282,7 +1280,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersection points of chords (8 points) *
+*Intersection points of chords (8 points)*
 
 > Eight points on a circumference have been selected to maximise the number of distinct points that are intersection of at least two of the chords they have identified. What are the intersection points (excluding the 8 points chosen)? A)  48         B) 56               C) 112                D) 140               E) 70 N C B M A D ? 20 3 2 3 A B C X P Q R 4 3 5 − 2 1 3 + 4 3 4 3 2 − 4 3 2 + Student_06.qxp 20/02/2006 23.38 Page 32
 > 

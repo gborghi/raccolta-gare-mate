@@ -651,7 +651,7 @@ How to sit 4 pairs of sisters next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*F angle with a circular biset tangent *
+*F angle with a circular biset tangent*
 
 ![[src_archimede_2024_triennio_rec__prob14.png]]
 

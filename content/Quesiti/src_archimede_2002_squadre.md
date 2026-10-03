@@ -31,7 +31,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*radius of the quadrilateral *
+*radius of the quadrilateral*
 
 > The pool of Professor Abacus
 > 
@@ -2697,7 +2697,7 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* succession of integers *
+*succession of integers*
 
 > **Distracted school year**  55 points
 > 
@@ -2813,7 +2813,7 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pitagoric furnace and surface *
+*pitagoric furnace and surface*
 
 > A strange orbiting station
 > 
@@ -2910,7 +2910,7 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*108 boxes, sum of which *
+*108 boxes, sum of which*
 
 > The house roulette Abacus  50 points
 > 
@@ -3009,7 +3009,7 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*coordinated triangle, whole points *
+*coordinated triangle, whole points*
 
 > **The triangle of Bernardo**  30 points
 > 
@@ -3042,7 +3042,7 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* distance from the centre, sum of squares*
+*distance from the centre, sum of squares*
 
 > **The octagonal square **  45 points
 > 
@@ -3171,7 +3171,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*70 points, geometry *
+*70 points, geometry*
 
 > **The triangular garden**  70 points
 > 
@@ -3236,7 +3236,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* area of the coat of arms*
+*area of the coat of arms*
 
 > **Very geometric lines **  70 points
 > 
@@ -3268,7 +3268,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*65 points, solid geometry *
+*65 points, solid geometry*
 
 > **Abacus sculptor**  65 points
 > 
@@ -3340,7 +3340,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*combinations of safe *
+*combinations of safe*
 
 > The Abacus safe**  65 points
 > 
@@ -3411,7 +3411,7 @@ This is the total amount of the loan.
 
 *piece count*
 
-> This is the first time that the European Parliament has voted in favour of the amendments.
+> **Bernardo and the Meccano set** — 20 points
 > 
 > Bernardo's playing with his mechanic. It can construct two side cubes $a$ and $b$ with $a < b$. Then it disassembles the two cubes and by putting together the various sides of the previous one it builds a larger cube, side $c = a + b$. The volume of the new cube exceeds by $450 \ \mathrm{cm}^3$ the sum of the volumes of the other 2. Finally, Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in $\mathrm{cm}^3$)?
 

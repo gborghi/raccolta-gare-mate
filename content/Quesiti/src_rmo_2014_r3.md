@@ -60,7 +60,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le vere x, y tali che x^2+2y^2+1/2 le x(2y+1) *
+*Trova tutte le vere x, y tali che x^2+2y^2+1/2 le x(2y+1)*
 
 > Trova tutti i numeri reali $x$ e $y$ in modo tale che $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
 

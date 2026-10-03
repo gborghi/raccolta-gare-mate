@@ -159,7 +159,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of liquor in conical glass with cherry *
+*Quantities of liquor in conical glass with cherry*
 
 ![[src_archimede_1998_2livello__prob4.png]]
 
@@ -299,7 +299,7 @@ What time does Maximo realize he forgot his wallet?
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which k has three solutions of k = k *
+*for which k has three solutions of k = k*
 
 > For which values of $\lambda$ does the equation $|x| - 1 = \lambda$ have exactly three solutions?
 > 

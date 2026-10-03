@@ -62,7 +62,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cucinazione ottimale delle bistecche con una padella contenente due *
+*Cucinazione ottimale delle bistecche con una padella contenente due*
 
 > Per preparare una bistecca, deve essere cucinata un minuto su ogni lato. Abbiamo solo una padella, in cui possiamo mettere al massimo due bistecche alla volta.
 > 

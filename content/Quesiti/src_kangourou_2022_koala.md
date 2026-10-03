@@ -135,7 +135,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* which result*
+*which result*
 
 ![[src_kangourou_2022_koala__prob3.png]]
 
@@ -167,7 +167,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* how many adjacent to exactly three others*
+*how many adjacent to exactly three others*
 
 ![[src_kangourou_2022_koala__prob4.png]]
 
@@ -555,7 +555,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many figures overlap *
+*how many figures overlap*
 
 ![[src_kangourou_2022_koala__prob16.png]]
 

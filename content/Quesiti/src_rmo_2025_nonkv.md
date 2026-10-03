@@ -152,7 +152,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, circoncircolo, punto medio; dimostrare che il MH è uguale al circondario *
+*Triangolo acuto, circoncircolo, punto medio; dimostrare che il MH è uguale al circondario*
 
 > Il $ABC$ deve essere un triangolo acuto con $AB < AC$, orthocentro $H$ e circoncircolo $\Omega$. Il $M$ deve essere il punto medio dell'arco minore $BC$ di $\Omega$. Supponiamo che $\angle BAC = 60^\circ$. Provare che $MH$ è uguale al raggio di $\Omega$.
 
@@ -181,7 +181,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti interi; divisibilità per n di p(b)-p(a) *
+*Polinomio con coefficienti interi; divisibilità per n di p(b)-p(a)*
 
 > Che $p(x)$ sia un polinomio non costante con coefficienti interi e che $n \ge 2$ sia un intero tale che la sequenza $$p(0),\ p(p(0)),\ p(p(p(0))),\ldots$$ sia divisibile da $n$. Mostra che esistono integri $a, b$ in modo che $0 \le a < b \le n-1$ e $n$ dividano $p(b) - p(a)$.
 

@@ -107,8 +107,6 @@ level: squadre
 *Maximum triangular area by triangulation polygon+oasis*
 
 > The village of Binomio occupies a convex polygon-shaped deserted area with 2007 sides. Within the territory there are 1789 oases that are very important for the survival of the mateninja. Noting that, if one considers the set of points A, consisting of the vertices of the polygon and the oases, there are never three points aligned, the village chief decided to increase security by building some walls. Walls are erected along segments with vertices at two points of A, so that the territory is divided exclusively into triangles and the walls intersect only at points of A. What is the maximum number of closed triangular zones that can be obtained? Team competition 2007  Semifinal A Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2007  Semifinal A Problem tests
 
 [[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q03|src_cesenatico_2007_squadre_semifinale_a__Q03]]
 
@@ -270,7 +268,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n in [1,2007] with 2n in 19 groups (conditions) *
+*Quantities n in [1,2007] with 2n in 19 groups (conditions)*
 
 > The big dance [⋆] Even at the moreninja academy occasionally the weather is relaxing and tonight the big dance of the little ones is taking place. All the guests have already arrived in the room: n mateninji (the males) and n mateninje (the females) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 19 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
 
@@ -341,7 +339,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment area larger than the broken kunai (AC=26) *
+*Fragment area larger than the broken kunai (AC=26)*
 
 > The kunai is one of the basic weapons used by all mateninja; its blade has a particular shape: it is a quadrilateral made so that its smaller diagonal divides it into two isosceles triangles, each with the diagonal as its base. We call A, B, C, D the tips of the blade of a kunai, with A and C the extremes of the minor diagonal; then the traditional measures of the village blacksmith of the Retta predict that ABC = 30°, CDA = 90° and that the AC segment is 26 mat-bu long. Numeritus' kunai broke in combat along the straight line passing for A and perpendicular to AD. What is the surface area of the largest blade fragment measured in mat-bu2?
 
@@ -371,7 +369,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product possible third side values (30 degrees, sides 57.75) *
+*Product possible third side values (30 degrees, sides 57.75)*
 
 > Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of an illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of number 21038. How long is it?
 
@@ -433,7 +431,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagonal prism paper surface (209 sheets) *
+*Hexagonal prism paper surface (209 sheets)*
 
 > Ruined parchment The mathematical formulas of the mateninja are written on long rectangular strips of zero-thick parchment (they are magical too!), which are rolled repeatedly around a ninja pencil. Ninja pencils are similar to ours: they have the shape of a prism whose base is a regular hexagon on the 2 mat-shaku side. The slender Numeritus, in handling his new sword, mistakenly strikes the prism on which the precious formula of Itˆo is preserved, cutting it perfectly in two along a plane passing through its axis. As a result, the scroll with the formula is sliced into 209 square sheets. How many mat-shaku2 measured the surface of the scroll?
 
@@ -508,7 +506,5 @@ level: squadre
 *Last 4 digits sum produced by subsets of multiples of 2007*
 
 > The superior technique of multiplication [⋆] Numeruto is an expert in the superior technique of multiplication, a magical art that allows him to instantly obtain the product of any set of integers. However, Master Isoshilo entrusted him with a very difficult training: considering the whole numbers 2007, 2 · 2007, 3 · 2007, . . . , 20072 must calculate the product of each non-empty subset of the numbers assigned and sum them all. Are you able to help him (even without morning powers), by calculating at least the last 4 digits of the result?
-> 
-> I'm going to pay. 4 out of 4  Team competition 2007  Semifinal A Problem tests
 
 [[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q15|src_cesenatico_2007_squadre_semifinale_a__Q15]]

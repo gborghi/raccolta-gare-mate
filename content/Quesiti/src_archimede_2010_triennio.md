@@ -561,7 +561,7 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*State achievable by spells on balls (invariants) *
+*State achievable by spells on balls (invariants)*
 
 > The Magician Merlin has 7 white and 7 black balls, and can perform two types of spells: the first makes 3 black balls disappear and makes 2 white ones appear (Merlin can only do this if there are at least 3 black balls); the second makes 4 white balls disappear and makes 9 black ones appear (Merlino can only do this if there are at least 4 white balls). After several times casting these spells, it's possible that you'll find yourself with...
 >

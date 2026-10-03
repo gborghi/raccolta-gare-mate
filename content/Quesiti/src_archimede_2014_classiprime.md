@@ -162,7 +162,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum bananas for pirates divided between pirates and mermaids (mcm) *
+*Minimum bananas for pirates divided between pirates and mermaids (mcm)*
 
 > The Island of the Sirens has defeated the Island of the Pirates and, as war booty, is entitled to a certain number of bananas. The Law of Piracy stipulates that bananas are distributed among mermaids so that each one receives the same number of bananas. It also stipulates that pirates put the loot together by each delivering the same amount of bananas. Knowing that the pirates are 432 and the mermaids are 600, what is the minimum number of bananas that every pirate must deliver so that the mermaids can distribute them in equal parts. A 25 B 50 C 10 D 600 E 75 F None of the other answers are correct
 
@@ -275,7 +275,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*APE angle in a regular octagon with diagonal *
+*APE angle in a regular octagon with diagonal*
 
 ![[src_archimede_2014_classiprime__prob6.png]]
 

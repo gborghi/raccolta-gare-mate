@@ -119,7 +119,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per sei valori reali positivi: somma del tipo ab/(a+b) *
+*Ineguaglianza per sei valori reali positivi: somma del tipo ab/(a+b)*
 
 > Prova che se $a$, $b$, $c$, $d$, $e$, $f$ sono numeri reali positivi allora $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
 

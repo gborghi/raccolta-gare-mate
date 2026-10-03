@@ -587,7 +587,7 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For those in the symmetric system with whole solutions *
+*For those in the symmetric system with whole solutions*
 
 > If a is a positive integer less than 100, for how many values of a system x2 = y + a y2 = x + a does it have whole solutions?
 

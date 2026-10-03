@@ -76,7 +76,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Notabili famiglie di funzioni su [0,+inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato da gruppi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6). *
+*Notabili famiglie di funzioni su [0,+inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato da gruppi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6).*
 
 > Indichiamo con $\mathscr{P}$ l'insieme di funzioni definite su $[0,+\infty[$ con valori in $[0,+\infty[$. Per $f$ e $g$ in $\mathscr{P}$, si definisce la funzione $h = f \circ g$ impostando, per ogni numero reale $x \ge 0$: $$h(x) = f(g(x)).$$ Si considera $u$ e $v$, due funzioni di $\mathscr{P}$ definite, per ogni numero reale $x \ge 0$, da: $$u(x) = e^x - 1, \qquad v(x) = \ln(x+1).$$
 > 

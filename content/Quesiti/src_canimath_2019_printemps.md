@@ -120,7 +120,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Righe su griglia 10x10; somma visibile raggiunge 10^1,...,10^10; trovare k più grande *
+*Righe su griglia 10x10; somma visibile raggiunge 10^1,...,10^10; trovare k più grande*
 
 > Considera una grande griglia quadrata di lato $10$, divisa in unità quadrate di lato $1$. Due unità quadrate sono chiamate vicine se condividono un lato. In ogni unità quadrata è scritto un numero reale. Inoltre, le rane $5$ sono posizionate sulla griglia; da un istante all'altro ciascuna rane può spostarsi in un quadrato vicino. A ogni istante ogni rana legge il numero nel suo quadrato corrente.
 > 

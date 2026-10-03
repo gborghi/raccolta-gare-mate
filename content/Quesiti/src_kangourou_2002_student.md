@@ -51,7 +51,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles that can be detected in Figure *
+*Triangles that can be detected in Figure*
 
 ![[src_kangourou_2002_student__prob1.png]]
 
@@ -1019,7 +1019,7 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-degenerate triangles of 10 points *
+*Non-degenerate triangles of 10 points*
 
 > There are exactly ten points in the plane. Five of these are on a straight line and no other straight line contains more than two points among the given points. How many non-degenerate triangles have three of the ten given points as vertices?
 >  
@@ -1102,7 +1102,7 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People in the two groups (cancelled) *
+*People in the two groups (cancelled)*
 
 > Two groups of friends form a group of more than 27 people for mountain trips. The first trip involved all but 12 people from the second group, and in this trip the people from the first group were more than twice as many as those from the second group. On the second trip all but 10 people from the first group took part, and on this trip the people from the second group were more than 9 times as many as the first group. How many people are in each of the two groups?
 >  

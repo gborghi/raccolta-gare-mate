@@ -123,7 +123,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rhombus in sistema di coordinate; costante OA·OC del prodotto e traccia di C *
+*Rhombus in sistema di coordinate; costante OA·OC del prodotto e traccia di C*
 
 > (20 punti) Come illustrato nella figura. 11.1, nel sistema di coordinate rettangolare $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Provare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sul mezzo cerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), trova la traccia di $C$.
 
@@ -182,7 +182,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie (a,b) così f(f(x))>=f(x) per tutte le x reali *
+*Trova tutte le coppie (a,b) così f(f(x))>=f(x) per tutte le x reali*
 
 > (20 punti) Trovare tutte le coppie di numeri reali $(a, b)$, in modo che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per qualsiasi numero reale $x$.
 

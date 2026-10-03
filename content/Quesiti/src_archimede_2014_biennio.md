@@ -67,7 +67,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of periodic numbers (1,3)·(0,3) *
+*Products of periodic numbers (1,3)·(0,3)*
 
 > How much is (1, ̄3) · (0, ̄3)?
 >

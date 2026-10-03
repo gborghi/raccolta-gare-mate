@@ -474,7 +474,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La maggior quantità di cioccolatini non esattamente acquistabili da scatole di 8,9,10 *
+*La maggior quantità di cioccolatini non esattamente acquistabili da scatole di 8,9,10*
 
 > In un negozio di cioccolato ci sono scatole di cioccolati 8, 9 e 10. Si noti che non si possono acquistare esattamente alcune quantità; ad esempio, non si possono acquistare esattamente 12 cioccolatini. Qual è la maggior quantità di cioccolati che non si possono acquistare esattamente in questo negozio?
 > 
@@ -577,7 +577,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande divisore comune di tutti i numeri a 9 cifre (cifre 1-9) *
+*Il più grande divisore comune di tutti i numeri a 9 cifre (cifre 1-9)*
 
 > Determina il più grande divisore comune a tutti i numeri a 9 cifre formati utilizzando ciascuno dei numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ esattamente una volta.
 > 
@@ -746,7 +746,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri specchiati a 3 cifre sulla calcolatrice (specchio sul lato destro) *
+*Contare i numeri specchiati a 3 cifre sulla calcolatrice (specchio sul lato destro)*
 
 > Anche a Mariazinha, sorella di Juquinha, piace giocare con la calcolatrice. Ha creato numeri specchiati interessanti: sono numeri che, quando scritti sulla calcolatrice e visualizzati in uno specchio posizionato a destra del display, mostrano anche un numero valido. Ad esempio, la cifra 5 riflessa dà 5, e la cifra 2 riflessa dà 3 (e viceversa); la cifra 4, tuttavia, quando è riflessa dà una strana figura che non rappresenta una cifra. Le cifre che rimangono valide quando sono rispecchiate sono 0, 1, 2, 3, 5, 8 (dove $0\to 0$, $1\to 1$, $2\to 3$, $3\to 2$, $5\to 5$, $8\to 8$). Quanti numeri a 3 cifre sono interessanti? (Le sequenze con uno zero di punta non sono numeri validi.)
 > 

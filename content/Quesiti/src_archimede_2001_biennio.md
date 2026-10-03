@@ -552,7 +552,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pentagons are seen in Figure *
+*How many pentagons are seen in Figure*
 
 ![[src_archimede_2001_biennio__prob13.png]]
 

@@ -180,7 +180,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* tabella 3x3 riempita di numeri integri 1-9; quattro sottoprodotti 2x2 meno 100 dati; trovare somma di confine*
+*tabella 3x3 riempita di numeri integri 1-9; quattro sottoprodotti 2x2 meno 100 dati; trovare somma di confine*
 
 > Juliana scrive nelle cellule di una tavola $3 \times 3$ nove numeri interi da 1 a 9, uno in ogni cellula. Successivamente copia i quattro numeri scritti in ciascuno dei quattro $2 \times 2$ sottotabelloni contenuti nella tabella $3 \times 3$, e annuncia il risultato del prodotto di questi quattro numeri meno 100, come indicato nella figura. I quattro risultati mostrati sono 30, 19, 12 e 21.
 > 

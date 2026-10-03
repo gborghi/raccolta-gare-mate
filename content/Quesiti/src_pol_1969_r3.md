@@ -31,7 +31,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri reali soddisfano l'uguaglianza che implica che il quadratico ha radice in (0,1) *
+*I numeri reali soddisfano l'uguaglianza che implica che il quadratico ha radice in (0,1)*
 
 > Prova che se i numeri reali $a, b, c$ soddisfano l'uguaglianza $$\frac{a}{m+2} + \frac{b}{m+1} + \frac{c}{m} = 0$$ per un certo numero positivo $m$, allora l'equazione $ax^2 + bx + c = 0$ ha una radice tra 0 e 1.
 

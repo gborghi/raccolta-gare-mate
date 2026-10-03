@@ -255,7 +255,7 @@ The age of Angelo by the speeches of partially correct friends
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 2012 using the five tokens in figure *
+*Multiple of 2012 using the five tokens in figure*
 
 > Using the five tokens in the figure (all or part), write a multiple of 2012.
 
@@ -288,7 +288,7 @@ The age of Angelo by the speeches of partially correct friends
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Setting up seven Y-pieces in a grid without overlapping *
+*Setting up seven Y-pieces in a grid without overlapping*
 
 > Jacub found seven identical pieces of paper, all Y-shaped (as shown on the right). He wants to fix them, rotate them and turn them over, into a grid (as in the figure to the left) itself that overlaps. How do you do that?
 

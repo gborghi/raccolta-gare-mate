@@ -32,7 +32,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi p con 50^p < 7^n < 50^(p+1) *
+*Contare i numeri interi p con 50^p < 7^n < 50^(p+1)*
 
 > Per ogni integro naturale $n$, indicare con $I_n$ il numero di integri $p$ tale che $$50^p < 7^n < 50^{p+1}.$$ 1. Mostrare che per ogni numero intero $n$, $I_n$ è uguale a 2 o 3. 2. Mostrare che esistono infinitamente molti enti $n$ per i quali $I_n = 3$, e trovare il più piccolo.
 

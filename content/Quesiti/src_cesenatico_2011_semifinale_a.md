@@ -460,7 +460,7 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AEFG quadrilateral area with mean points *
+*AEFG quadrilateral area with mean points*
 
 > Works in progress The site for the construction of the monument to Cleopatra was until yesterday a right triangle ABC in A with AB = 128 and AC = 187. Today the area of work has been extended to a BCD triangle, with D on the AB extension such that CD = 222. Within the enlarged site, the monument will be located on the surface of the AEFG quadrilateral, with E, F, G mean points of DB, BC, CD. What is the area of this quadrilateral?
 

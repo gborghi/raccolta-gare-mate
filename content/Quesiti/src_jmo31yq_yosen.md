@@ -187,7 +187,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i valori distinti di f tra f  1)..f  10^10) *
+*Conta i valori distinti di f tra f  1)..f  10^10)*
 
 > Per un intero positivo $n$, $f(n)$ indichi il numero di interi positivi $m$ in modo tale che $m$ e $n$ siano reciprocamente copriemi e $m+1$ e $n+1$ siano reciprocamente copriemi, dove $m$ va oltre $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti numeri interi positivi distinti appaiono?
 

@@ -263,7 +263,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le mani a 5 carte contenenti quattro carte dello stesso valore (lycee) *
+*Conta le mani a 5 carte contenenti quattro carte dello stesso valore (lycee)*
 
 > Ci viene dato un mazzo contenente carte $52$. Ogni carta contiene un *valore* tra "$1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, jack, queen, king" e un *colore* (abito) tra "corazzo, diamante, spade, club", in modo tale che, per ogni valore e per ogni colore, il mazzo contiene una carta unica con tale valore e con tale colore. Una mano * di carte $5$* è una scelta di carte $5$ da questo mazzo, senza preoccuparsi dell'ordine in cui le carte sono scelte. Quante mani di carte $5$ ci sono che contengono quattro carte con lo stesso valore?
 > 
@@ -291,7 +291,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, bisector di angolo B incontra AC a D con BD=DA; trovare gli angoli (lycee) *
+*Triangolo isosceles, bisector di angolo B incontra AC a D con BD=DA; trovare gli angoli (lycee)*
 
 > $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo $ABC$.
 
@@ -319,7 +319,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero minimo di colori per il colore 2,8 e poi 2,31 in modo che i moltipli differiscano (licee) *
+*Il numero minimo di colori per il colore 2,8 e poi 2,31 in modo che i moltipli differiscano (licee)*
 
 > 1) Alice desidera colorare i numeri interi tra $2$ e $8$ (inclusivo) usando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $8$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 8$ utilizzando i colori $k$. 2) Alice desidera colorare i numeri interi tra $2$ e $31$ (inclusi) utilizzando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $31$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 31$ utilizzando i colori $k$.
 
@@ -404,7 +404,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m (lycee) *
+*Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m (lycee)*
 
 > Determinare i numeri interi $m \ge 2$, $n \ge 2$ e $k \ge 3$ che hanno la seguente proprietà: $m$ e $n$ hanno ognuno dei divisori positivi $k$, e se $d_1 < \ldots < d_k$ sono i divisori positivi di $m$ (con $d_1 = 1$ e $d_k = m$) e $d_1' < \ldots < d_k'$ sono i divisori positivi di $n$ (con $d_1' = 1$ e $d_k' = n$), allora $d_i' = d_i + 1$ per ogni numero intero $i$ tale che $2 \le i \le k - 1$.
 

@@ -320,7 +320,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo con lati interi distinti il cui perimetro è uguale all'area (annullato) *
+*Rettangolo con lati interi distinti il cui perimetro è uguale all'area (annullato)*
 
 > Le misure dei lati di un rettangolo sono numeri interi distinti. Le lunghezze di questi lati, in modo che il perimetro e l'area del rettangolo siano espressi con lo stesso numero, sono:
 > 

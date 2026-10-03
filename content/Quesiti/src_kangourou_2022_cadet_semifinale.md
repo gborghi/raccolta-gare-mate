@@ -359,7 +359,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most likely number of people who knew the answer *
+*Most likely number of people who knew the answer*
 
 > A Kangourou multiple-choice question like this, with 5 answer options, was answered by 10,000 students. Of these, some have been able to determine the correct answer based on their knowledge, others tried to guess by choosing completely at random among the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
 >  
@@ -406,7 +406,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the numbers can be the sum (moved digit) *
+*How many of the numbers can be the sum (moved digit)*
 
 > (5 points) Simona writes an integer of four digits, then removes its last digit and moves it to the front of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
 >  

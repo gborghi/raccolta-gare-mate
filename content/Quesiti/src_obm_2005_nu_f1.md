@@ -57,7 +57,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare un'integrale definita che coinvolge ln(1+tg x) *
+*Evaluare un'integrale definita che coinvolge ln(1+tg x)*
 
 > Calcolare l'integrale $$\int_0^{\pi/4} \ln(1 + \tan x)\, dx.$$
 

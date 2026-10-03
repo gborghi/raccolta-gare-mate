@@ -60,7 +60,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio monico di grado 2 le cui radici sono periodi di Gauss di una radice primitiva di unità VII; calcolare p(3) *
+*Polinomio monico di grado 2 le cui radici sono periodi di Gauss di una radice primitiva di unità VII; calcolare p(3)*
 
 > Si deve $\zeta\in\mathbb{C}$ essere una radice di $x^7-1$ con $\zeta\neq 1$. Esiste un polinomio monico $p$ di grado $2$ con coefficienti interi le cui radici sono i numeri $z_1=\zeta+\zeta^2+\zeta^4$ e $z_2=\zeta^3+\zeta^5+\zeta^6$. Calcolare $p(3)$.
 
@@ -153,7 +153,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinante 4x4 di circolante = f(1) f(i) f(-1) f(-i) *
+*Determinante 4x4 di circolante = f(1) f(i) f(-1) f(-i)*
 
 > Dati i numeri reali $a,b,c,d$, considera la matrice $$A=\begin{pmatrix}a&b&c&d\\d&a&b&c\\c&d&a&b\\b&c&d&a\end{pmatrix}.$$ Se $f(x)=a+bx+cx^2+dx^3$, prova che $$\det A=f(1)\,f(i)\,f(-1)\,f(-i).$$ (Qui $i$ indica l'unità immaginaria.)
 

@@ -31,7 +31,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Piccolo camion: 50 sacchetti o 400 mattoni; quanti mattoni quando sono carichi 32 sacchetti?*
+*Piccolo camion: 50 sacchetti o 400 mattoni; quanti mattoni quando sono carichi 32 sacchetti?*
 
 > Un piccolo camion può trasportare 50 sacchi di sabbia o 400 mattoni. Se sul camion erano caricati 32 sacchi di sabbia, quante mattoni può ancora trasportare?
 > 

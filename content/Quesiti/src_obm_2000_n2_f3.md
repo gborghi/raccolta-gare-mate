@@ -62,7 +62,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due mazzi di 50 carte a doppio lato che mostrano ciascuno 1-100; mostrano che tutte le 100 carte possono essere posizionate in modo che le facce verso l'alto mostrino ogni numero da 1 a 100. *
+*Due mazzi di 50 carte a doppio lato che mostrano ciascuno 1-100; mostrano che tutte le 100 carte possono essere posizionate in modo che le facce verso l'alto mostrino ogni numero da 1 a 100.*
 
 > Isabel ha due mazzi, ognuno con carte $50$. Su ciascun mazzo sono scritti i numeri da $1$ a $100$ (su ogni carta sono scritti due numeri, uno su ogni faccia della carta). A causa di un difetto di fabbricazione, la distribuzione dei numeri delle schede non è uguale nei due mazzi (ad esempio, in uno dei mazzi la $1$ appare sulla stessa scheda della $2$; nell'altro, la $1$ appare con la $76$). Indicare come Isabel deve procedere in modo che, quando si collocano le carte $100$ su un tavolo, le facce rivolte verso l'alto mostrino tutti i numeri da $1$ a $100$.
 

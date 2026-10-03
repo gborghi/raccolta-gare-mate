@@ -161,7 +161,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo numero intero n >= 10 con prodotto del piano n/k) uguale a C(n,10) *
+*Il più piccolo numero intero n >= 10 con prodotto del piano n/k) uguale a C(n,10)*
 
 > Trova il numero intero più piccolo $n \ge 10$ soddisfacente $$\left\lfloor \frac{n}{1} \right\rfloor \left\lfloor \frac{n}{2} \right\rfloor \cdots \left\lfloor \frac{n}{10} \right\rfloor = \binom{n}{10}.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$ (cioè $[3.14] = 3$, $[5] = 5$).
 

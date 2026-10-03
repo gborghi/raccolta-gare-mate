@@ -106,7 +106,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-* missing copper parts *
+*missing copper parts*
 
 > On the boat to Britannia, when Abelix asks him for information about the type of coins used in his country, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. In addition, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 18 pieces of bronze, how many pieces of copper does it need to reach the value of an iron barrel?
 
@@ -247,7 +247,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta n<300 with non-divisive digits and property *
+*Eta n<300 with non-divisive digits and property*
 
 > The birthday of old Math-usa-lemmix The birthday of old Math-usa-lemmix, the most enviable man in the village (because of his wife), little Eallaix turns 7 years old. When the child asks the old man how old he is, he answers, "My age is a positive integer n, less than 300, whose digits are either zero or otherwise do not divide n and such that, if you subtract your age from it, it becomes a number that as prime divisors has only 7 and the first digit of n. What's the age of the old Math-use-lemmix?
 
@@ -316,7 +316,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turned distance from D (cart and decuman) *
+*Turned distance from D (cart and decuman)*
 
 > The Roman camp The Roman legion camp in Britannia is a rectangle ABCD of sides BC = 100 cubits and CD = 400 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 10000 cubits2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
 
@@ -633,7 +633,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square-base pyramid cubes (portal) *
+*Square-base pyramid cubes (portal)*
 
 > The first pyramid that Cleopatra felt the need for is in fact an immense treasure chest. The pyramid has a square side base of 120 cleopasses and a height of 120 cleopasses. Its summit is not equidistant from the vertices of the base square: in fact, it is located 131 and 143 cleopasses from two consecutive vertices. Within the volume of the pyramid, as many compartments as possible have been created, each of which is cubic in shape and has a side of 5 cleopasses. How many are in all the compartments of Cleopatra's vault?
 
@@ -671,7 +671,7 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of not detecting saboteurs (interrogators) *
+*Probability of not detecting saboteurs (interrogators)*
 
 > 4 Roman spies and 4 saboteurs of the architect who lost the contract infiltrated the construction site of Numerotris. Abelix has heard of the 4 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 44 workers at the site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all four, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma.
 > 
@@ -795,7 +795,7 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of spies among workers (cyclical claims) *
+*Number of spies among workers (cyclical claims)*
 
 > Work on Cleopatra's monument has been accelerated and now there are the beauty of 11808 workers, many of whom are feared to have infiltrated Roman spies. When Abelix asks each of the sixteen workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the last worker speaks of Egyptians or n workers. Clearly the Egyptians will always tell him the truth while the Roman spies will always lie to him. How many Roman spies are infiltrated as workers? (It is understood that true Egyptians are never spies.)
 
@@ -830,7 +830,7 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wall perimeter around pyramids (geodetic) *
+*Wall perimeter around pyramids (geodetic)*
 
 > Cleopatra's true pyramid Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of side 100 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 200 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
 
@@ -870,7 +870,7 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of p(1000) per product (1+x^2i) *
+*Summary of p(1000) per product (1+x^2i)*
 
 > The third and final task imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Mountain sage. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=1(1+x2i) and burns it up and asks how much the sum of the digits in base 10 of p(1000 is worth. How should Abelix respond?
 > 

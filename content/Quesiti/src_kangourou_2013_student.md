@@ -33,7 +33,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the expressions with 2013 and the largest *
+*Which of the expressions with 2013 and the largest*
 
 > Which of the following numbers is the largest? A) 2013 B) 20+13 C) 2013 D) 2013 E) 20 ∙ 13
 
@@ -144,7 +144,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the cubic root of 3^(3^3) *
+*Value of the cubic root of 3^(3^3)*
 
 > The cubic root of 3 is A) 33
 > 	
@@ -638,7 +638,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rectangles with side 5 can be broken into square and rectangle *
+*How many rectangles with side 5 can be broken into square and rectangle*
 
 > How many different rectangles exist that have a side length of 5 and can be broken into a square and a rectangle, one of which has an area of 4? A) 1
 > 	
@@ -852,7 +852,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total (x,y) pairs with x^2 y^3 = 6^12 *
+*Total (x,y) pairs with x^2 y^3 = 6^12*
 
 > How many distinct pairs (x, y) of positive integers satisfy the equation x2 y3 = 612? A) 6
 > 	

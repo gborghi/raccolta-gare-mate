@@ -59,7 +59,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Functional equation f(f(x) f(y))+f(x+y)=f(xy) *
+*Functional equation f(f(x) f(y))+f(x+y)=f(xy)*
 
 > Whether $\mathbb{R}$ is the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$, $$f(f(x)f(y)) + f(x + y) = f(xy).$$
 
@@ -129,7 +129,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*KT tangent to the Gamma (points on a circle) *
+*KT tangent to the Gamma (points on a circle)*
 
 > If $R$ and $S$ are two distinct points on a circumference $\Omega$ such that $RS$ is not a diameter. If $\ell$ is the tangent line to $\Omega$ in $R$. The $T$ point is such that $S$ is the middle point of the $RT$ segment. The $J$ point is selected on the $RS$ minor arc of $\Omega$ so that the circumference circumscribed $\Gamma$ to the $JST$ triangle intersects $\ell$ at two distinct points. Either $A$ the common point of $\Gamma$ and $\ell$ nearest to $R$. The $AJ$ line is again $\Omega$ in $K$. Demonstrate that the straight $KT$ is tangent to $\Gamma$.
 

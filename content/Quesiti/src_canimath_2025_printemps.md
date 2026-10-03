@@ -270,7 +270,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca angolo PXQ nel rettangolo utilizzando due condizioni angolari (liceo) *
+*Ricerca angolo PXQ nel rettangolo utilizzando due condizioni angolari (liceo)*
 
 > Il $ABCD$ deve essere un rettangolo con $AB > AD$. Che $P$ sia il punto della semilinea $(DA)$ in modo tale che $\widehat{DCP} = 30^\circ$, e che $Q$ sia il punto del segmento $[CD]$ in modo tale che $\widehat{DAQ} = 45^\circ$. Il $X$ deve essere l'intersezione del bisettore angolare di $\angle AQC$ con la linea $(CP)$.
 > 
@@ -332,7 +332,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che il PM divide l'angolo NPB in triangolo ABC *
+*Prove che il PM divide l'angolo NPB in triangolo ABC*
 
 > $ABC$ sia un triangolo a uguale scala a $A$. Il segmento $M$ e il segmento $N$ sono rispettivamente i punti di mezzo dei segmenti $[BC]$ e $[AC]$, e il segmento $P$ è il piede dell'altitudine da $C$ nel triangolo $ABC$.
 > 

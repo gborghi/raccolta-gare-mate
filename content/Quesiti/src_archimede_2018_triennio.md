@@ -164,7 +164,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes of cell phone use while charging (40% consumed) *
+*Minutes of cell phone use while charging (40% consumed)*
 
 > A fully charged cell phone must remain charged for 2 hours to fully charge if it is not in use in the meantime. On the other hand, if it is used during charging, 40% of the energy introduced is consumed immediately and only the remaining part is stored in the battery. Knowing that it took two and a half hours to charge the battery from zero, it is necessary to determine how many minutes the cell phone was used during the charging (whether or not the phone is used, the energy stored in a time interval is assumed to be proportional to its duration).
 >
@@ -392,7 +392,7 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candy of 3 confections of 12 flavors with repeating *
+*Candy of 3 confections of 12 flavors with repeating*
 
 > A pastry chef has 12 different-tasting confections in store and wants to pack confectionery containing three confections each, not necessarily of different tastes. How many different candy trucks can you make at most? (two confectioners are to be considered equal if they contain confectionery of the same taste and quantity)
 >

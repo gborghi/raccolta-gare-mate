@@ -56,7 +56,7 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Chi ha ragione sull'identità di "additività delle frazioni" a/b+c/d=(a+c)/(b+d) *
+*Chi ha ragione sull'identità di "additività delle frazioni" a/b+c/d=(a+c)/(b+d)*
 
 > Lasciate che $b$ e $d$ siano numeri reali non zero in modo tale che $b+d$ sia anche non zero. Mathias sostiene che l'identità $\dfrac{a}{b}+\dfrac{c}{d}=\dfrac{a+c}{b+d}$ è vera per tutti i numeri reali $a$ e $c$: lo chiama "l'addizione delle frazioni". Mathilde ritiene che questa additività di frazioni sia corretta se e solo se esiste un numero reale $m$ tale che $a=mb^2$ e $c=-md^2$. Il loro professore ricorda che si possono aggiungere frazioni come propone Mathias se e solo se hanno lo stesso denominatore, cioè $b=d$. Un ispettore sostiene che questa "addizione di frazioni" è sempre falsa. Chi ha ragione: Mathias, Mathilde, il professore, l'ispettore, o nessuno dei quattro? Giustifica la tua risposta attentamente.
 

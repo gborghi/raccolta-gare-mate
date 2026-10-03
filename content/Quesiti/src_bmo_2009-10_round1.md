@@ -110,7 +110,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi interamente tangenti; tangente comune e secante; dimostrare che BD è diametro *
+*Due cerchi interamente tangenti; tangente comune e secante; dimostrare che BD è diametro*
 
 > Due cerchi di radii diversi si toccano internamente a $A$. Un tangente comune, non attraverso $A$, tocca il cerchio interno a $C$ e passa attraverso un punto $B$ sul cerchio esterno. La linea $CA$ è prodotta per incontrare il cerchio esterno a $D$. Provare che $BD$ è un diametro del cerchio esterno.
 
@@ -137,7 +137,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni reali che soddisfano f(f(x) + y) = f(x+y) + xf(y) *
+*Trova tutte le funzioni reali che soddisfano f(f(x) + y) = f(x+y) + xf(y)*
 
 > Trova tutte le funzioni $f$ definite sui numeri reali e prendi valori reali che soddisfano l'equazione $f(f(x) + y) = f(x + y) + x f(y)$ per tutti i numeri reali $x$ e $y$.
 

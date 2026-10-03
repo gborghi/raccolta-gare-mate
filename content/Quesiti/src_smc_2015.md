@@ -917,7 +917,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di f(2015) dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1)) *
+*Valuta di f(2015) dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1))*
 
 > Let $f(x) = x + \sqrt{x^2 + 1} + \dfrac{1}{x - \sqrt{x^2 + 1}}$. Qual è il valore di $f(2015)$?
 >

@@ -303,7 +303,7 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle, bisector, ratio (AB/BC) ^2 *
+*Rectangle, bisector, ratio (AB/BC) ^2*
 
 ![[src_archimede_2021_2livello__prob7.png]]
 
@@ -486,7 +486,7 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangle, point with angle 60°, minimum area *
+*Equilateral triangle, point with angle 60°, minimum area*
 
 ![[src_archimede_2021_2livello__prob11.png]]
 ![[src_archimede_2021_2livello__prob11b.png]]

@@ -64,7 +64,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il real di Lucia dato in coppie *
+*Ricerca il real di Lucia dato in coppie*
 
 > Ana, Esmeralda e L'Ucia insieme hanno REAL. Ana e Esmeralda insieme hanno $19$ reais, e Esmeralda e L\'{u}cia insieme hanno $21$ reais. Quanti reais ha l'U.C.?
 > 
@@ -96,7 +96,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2% aumento dei numeri interi uguali al successore; trovare la loro somma *
+*2% aumento dei numeri interi uguali al successore; trovare la loro somma*
 
 > Aumentare un intero positivo di $2\%$ di se stesso produce il suo successore (il prossimo intero). Qual è la somma di questi due numeri?
 > 
@@ -583,7 +583,7 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di piastrelle rettangolari con 17 quadrati di unità bianche in angolo *
+*Area di piastrelle rettangolari con 17 quadrati di unità bianche in angolo*
 
 > La figura rappresenta un angolo di una piastra rettangolare fatta di quadrati unitari (lato $1\,\text{cm}$). In questo tessuto $17$ i quadrati sono bianchi. Qual è la superficie della piastrella, in $\text{cm}^2$?
 > 

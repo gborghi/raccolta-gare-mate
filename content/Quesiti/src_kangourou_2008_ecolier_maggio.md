@@ -193,7 +193,7 @@ After all those seconds, Pimpy's back next to Arturo.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cutting and reconstituting the cake (two cuts) *
+*Cutting and reconstituting the cake (two cuts)*
 
 ![[src_kangourou_2008_ecolier_maggio__probe6.png]]
 

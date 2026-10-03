@@ -75,7 +75,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Folded and triangular cut sheet *
+*Folded and triangular cut sheet*
 
 ![[src_kangourou_2001_benjamin__prob2.png]]
 
@@ -185,7 +185,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Passengers with empty seats every two *
+*Passengers with empty seats every two*
 
 > There are 108 seats on a passenger plane. There's an empty seat for every two passengers. How many passengers are on that plane?
 >
@@ -1018,7 +1018,7 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oblique square area *
+*Oblique square area*
 
 ![[src_kangourou_2001_benjamin__prob24.png]]
 

@@ -157,7 +157,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tre termini di sequenza dopo i passaggi del 2006 a partire da (1,1,1) *
+*Summa di tre termini di sequenza dopo i passaggi del 2006 a partire da (1,1,1)*
 
 > Partendo da un triplo ordinato $(a, b, c)$, si ottiene una sequenza di triplice mediante successive trasformazioni del tipo: $$(a, b, c) \to (a^2 - b,\; a + b + c,\; b - c).$$ Ad esempio, partendo dal triplo $(1, 2, 3)$: $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$ Se iniziamo con $(1, 1, 1)$ come il primo triplo ordinato di una sequenza, quale sarà la somma dei tre termini del triplo che occupa la posizione 2006 in questa sequenza?
 
@@ -274,7 +274,7 @@ Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato de
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero più frequente dopo la sostituzione dei numeri interi 12006 con il numero *
+*Il numero più frequente dopo la sostituzione dei numeri interi 12006 con il numero*
 
 > Tutti i numeri interi dal 1 al 2006 sono scritti in una griglia. Quindi, ciascuno di questi numeri viene sostituito dalla somma delle sue cifre. Queste sostituzioni si ripetono fino a quando non abbiamo i numeri a singolo cifra del 2006. Dei numeri rimasti nella griglia, che appare più spesso: 1 o 2?
 

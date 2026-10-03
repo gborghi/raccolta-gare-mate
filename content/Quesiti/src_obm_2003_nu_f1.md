@@ -31,7 +31,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di poliedro converso con vertici interi sul raggio di sfera sqrt(2) *
+*Volume di poliedro converso con vertici interi sul raggio di sfera sqrt(2)*
 
 > Il $X \subseteq \mathbb{R}^3$ deve essere il poliedro convexo le cui vertici sono tutti i punti $(x, y, z) \in \mathbb{Z}^3$ con $x^2 + y^2 + z^2 = 2$. Calcolare il volume di $X$.
 

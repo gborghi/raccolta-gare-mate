@@ -59,7 +59,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di numero di una torre elettrica 11^(12^13) *
+*Unità di numero di una torre elettrica 11^(12^13)*
 
 > Trova la cifra di unità di $11^{12^{13}}$. Qui $11^{12^{13}}$ indica $11$ sollevato alla potenza $12^{13}$ (non $(11^{12}) \cdot 13$), e $11^{12}$ indica $11$ sollevato alla potenza $12^{13}$, non il $13$th multiplo di $11^{12}$.
 

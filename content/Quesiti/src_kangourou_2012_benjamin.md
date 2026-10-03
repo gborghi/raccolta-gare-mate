@@ -105,7 +105,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of a chocolate bar given the total *
+*Cost of a chocolate bar given the total*
 
 > Sandra has enclosed four identical coins in a square bounded by four matches, as shown in the figure, which respects proportions. How many matches will you need to enclose 16 identical coins in a square without even partial coin overlapping? A) 8 B) 10 C) 12 D) 15 E) 16
 
@@ -663,8 +663,6 @@ How many roads are missing on the seven-city map
 ```
 
 > The figure you see is constructed from eight identical squares; its perimeter is 42 cm. How many square centimeters does it cover? A) 8 B) 9 C) 24 D) 72 E) 128 1 2 3 4 5 6 D D D A B D
-> 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2012 Kang 2012
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_benjamin#q15|src_kangourou_2012_benjamin__Q15]]

@@ -188,7 +188,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pentagon leaves two black closed curves *
+*Which pentagon leaves two black closed curves*
 
 ![[src_kangourou_2024_cadet__prob4.png]]
 
@@ -742,7 +742,7 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish eaten by the other chicken (44 to one) *
+*Fish eaten by the other chicken (44 to one)*
 
 > The seagull Paola fishes 12 fish for her two chicks every day and gives 7 fish every day to the first chick she sees and 5 fish every second: they eat all the fish. A chick has eaten 44 fish in the last few days. How many fish did the other chick eat in the same days ? A) 34
 >  
@@ -841,7 +841,7 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter of kangaroo paths in 2024 jumps (jumps/descends) *
+*Meter of kangaroo paths in 2024 jumps (jumps/descends)*
 
 > A kangaroo jumps up a hill and then jumps down the same road. His ascent jumps all measure 1 m. Even his descending jumps are all the same length, but with a descending jump he travels three times the distance he travels with a climbing jump. In total the kangaroo makes 2024 jumps. How many meters does the kangaroo go through? A) 506 B) 1012 C) 2024 D) 3036 E) 4048
 
@@ -1321,7 +1321,7 @@ How many kangaroos never got the ball (50, jump 6)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to choose n in the product diagram (720) *
+*How many ways to choose n in the product diagram (720)*
 
 ![[src_kangourou_2024_cadet__prob25.png]]
 
@@ -1386,7 +1386,7 @@ How many kangaroos never got the ball (50, jump 6)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many eggs the customer has purchased (double pigeon chicken) *
+*How many eggs the customer has purchased (double pigeon chicken)*
 
 > Marianna brings chicken eggs and pigeon eggs to the market. She placed them, without distinction, in baskets containing 4, 6, 12, 13, 22 and 29 eggs. Her first customer buys all the eggs in a basket. Marianna observes that, in this way, she was left with twice as many chicken eggs as the number of pigeon eggs. How many eggs did the customer buy? A) 4
 >  

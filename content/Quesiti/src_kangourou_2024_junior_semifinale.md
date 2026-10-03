@@ -176,7 +176,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of digits of N (20230...0) *
+*Minimum number of digits of N (20230...0)*
 
 > (Points 3) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). Solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
 
@@ -249,7 +249,7 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*€ remaining to the eldest child (proportions) *
+*€ remaining to the eldest child (proportions)*
 
 > A father divides between his three children, aged 8, 12 and 18, the sum of $380 into parts that are inversely proportional to their age. The three children agree to give a gift to the mother and divide the cost of the €304 into parts directly proportional to the figures received from the father. How much is left for the eldest son? (A) 16 (B) 15 (C) 12 (D) 18 (E) 20 Answer A) The solution. If 1 is made, the amount for a 12-year-old child, for an 8-year-old child, it is 3/2, and for an 18-year-old, it is 2/3, so in increasing age order, it is 180, 120 and 80 euros. The breakdown of EUR 304, now in parts directly proportional to these amounts, is therefore in the same order as EUR 144, 96 and 64.
 
@@ -511,7 +511,7 @@ What day does Charles' birthday fall on? (alternating truths)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integers between 0 and 10 can be expressed with four 4s *
+*How many integers between 0 and 10 can be expressed with four 4s*
 
 > 13. (Points 6) I want to express as many integers as possible using only the number 4 and exactly four times. I can place the digit 4 several times, use the four arithmetic operations, and arrange brackets in the ways that I think are appropriate. For example, I can write 0 = 4 – 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 

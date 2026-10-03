@@ -225,7 +225,7 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles contained in Figure *
+*Number of triangles contained in Figure*
 
 > How many triangles does the figure contain?
 
@@ -261,7 +261,7 @@ This is Jacob's birthday.
 
 > Our four friends are Carla, Desiderio, Luca and Milena. Two of them wear glasses, two have a hat, and two are left-handed. The two friends, who use their right hand to write, have glasses and do not wear a hat. The leftists are a boy and a girl. Desire is left. What about Luke? Is that left? (Yes or no?) Does he wear the hat? Do you have glasses? (Yes or no?) Look for the right answers.
 
-**Answer:** Luca non è mancino, ha il cappellino, ha gli occhiali
+**Answer:** Luca is not left-handed, he has the cap, he has the glasses
 [[Quesiti/src_bocconi_autunno_2007#q08|src_bocconi_autunno_2007__Q08]]
 
 
@@ -418,7 +418,7 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles in figure (bis) *
+*Number of triangles in figure (bis)*
 
 > How many triangles does the figure contain?
 
@@ -581,7 +581,7 @@ This is Jacob's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the two headlamps (area of the isosceles triangle of the cage) *
+*Distance between the two headlamps (area of the isosceles triangle of the cage)*
 
 > Between two lighthouses on the coast, the shore is straight. A crab is 340 metres from the shore. Suddenly, it moves 100 meters perpendicular to the shore, then moves another 100 meters toward the first lighthouse and finally 100 meters toward the second. This is exactly where we start. The figure doesn't match the proportions. The isosceles triangle $C_1F_1C_2$, whose equal angles measure $30^\circ$, is equilateral and the distance of C from the shore is $50+340-390$ m. How far apart are the two lighthouses?
 

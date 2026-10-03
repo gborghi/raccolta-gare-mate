@@ -83,7 +83,7 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2002 naturali distinti con n più somma di cifre uguali *
+*2002 naturali distinti con n più somma di cifre uguali*
 
 > $S(n)$ indichi la somma delle cifre di un numero naturale $n$ quando è scritto in base dieci. Mostrare che esistono $2002$ numeri naturali separati in coppia $n_1, n_2, \ldots, n_{2002}$ in modo tale che $$n_1 + S(n_1) = n_2 + S(n_2) = \cdots = n_{2002} + S(n_{2002}).$$
 

@@ -133,7 +133,7 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fourth stamp value and adhesives *
+*Fourth stamp value and adhesives*
 
 > The Mathematics Country post offices issue stamps with four different values. No more than two copies of the same stamp shall ever be affixed to an envelope. Three of the stamp values issued are $1c$, $3c$ and $9c$. The fourth value allows you to free up an envelope for any integer total value less than or equal to 80 cents. To send a briefcase of up to 20 grams by fast mail, it must be redeemed at a value of 58 cents. Enter the value of the fourth stamp and write under each stamp how many copies of that stamp are to be affixed to the envelope for that shipment.
 
@@ -227,7 +227,7 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five numbers missing from the Ottavio solid *
+*Five numbers missing from the Ottavio solid*
 
 > The Octavian solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each quadruple of triangles with a common vertex shall be the same. **Write out the five missing numbers.**
 

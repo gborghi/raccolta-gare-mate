@@ -244,7 +244,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope perimeter by diagonal to 3/4 *
+*Rope perimeter by diagonal to 3/4*
 
 > The dimensions of the diagonals of a wheel are one 3 4 of the other and their sum is 56 m. Calculate the perimeter of the rim.
 >

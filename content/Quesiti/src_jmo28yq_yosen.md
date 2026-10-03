@@ -90,7 +90,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di trapezzoide retto data due diagonali e un angolo di 45 gradi *
+*Area di trapezzoide retto data due diagonali e un angolo di 45 gradi*
 
 > In quadrilaterali $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Trova la sua area. Qui $XY$ indica la lunghezza del segmento $XY$.
 
@@ -212,7 +212,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partzioni di 1-12 in coppie con totale i-j = 30 *
+*Partzioni di 1-12 in coppie con totale i-j = 30*
 
 > Dividere gli entieri da $1$ a $12$ in coppie $6$, due interi per coppia. Quando $i$ e $j$ formano una coppia, il valore $|i - j|$ è il punteggio di tale coppia. In quanti modi può essere fatta la partizione in modo che il totale dei punteggi delle coppie $6$ sia uguale a $30$?
 

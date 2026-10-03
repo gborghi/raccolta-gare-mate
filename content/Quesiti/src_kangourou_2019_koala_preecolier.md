@@ -4575,7 +4575,7 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much do the two together cost (sums given in pairs) *
+*How much do the two together cost (sums given in pairs)*
 
 ![[src_kangourou_2019_koala_preecolier__prob7.png]]
 
@@ -4850,7 +4850,7 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What Aldo sees from the interwoven strips (opposite view) *
+*What Aldo sees from the interwoven strips (opposite view)*
 
 ![[src_kangourou_2019_koala_preecolier__prob13.png]]
 
@@ -4970,7 +4970,7 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hours since the third stop in Aroo (total 17 hours) *
+*How many hours since the third stop in Aroo (total 17 hours)*
 
 ![[src_kangourou_2019_koala_preecolier__prob16.png]]
 
@@ -5192,7 +5192,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How high is the pile of sand (flag pole) *
+*How high is the pile of sand (flag pole)*
 
 ![[src_kangourou_2019_koala_preecolier__prob21.png]]
 
@@ -5236,7 +5236,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which strip left Gino (color changes) *
+*Which strip left Gino (color changes)*
 
 ![[src_kangourou_2019_koala_preecolier__prob22.png]]
 
@@ -5283,7 +5283,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number to indicate for sure (square sum >63) *
+*What number to indicate for sure (square sum >63)*
 
 ![[src_kangourou_2019_koala_preecolier__prob23.png]]
 
@@ -5334,7 +5334,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of tokens after three exchanges (token changing machine) *
+*Minimum number of tokens after three exchanges (token changing machine)*
 
 ![[src_kangourou_2019_koala_preecolier__prob24.png]]
 

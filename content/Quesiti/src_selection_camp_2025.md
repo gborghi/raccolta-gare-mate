@@ -118,7 +118,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n studenti, n gare, distintivo (a,b) per esattamente un top-b; massimizzazione del punteggio totale *
+*n studenti, n gare, distintivo (a,b) per esattamente un top-b; massimizzazione del punteggio totale*
 
 > $n$ sia un numero intero positivo. Ciascuno degli studenti $n$ corre in gare $n$. In ciascuna gara a tutti gli studenti $n$ vengono assegnati ranghi distinti (non due studenti condividono un rank). Per una coppia di integri positivi $(a, b)$, si dice che uno studente abbia il titolo $(a, b)$ se lo studente finisce tra i migliori $b$ in esattamente $a$ delle gare $n$. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli studenti $n$.
 
@@ -147,7 +147,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b) *
+*Ricerca sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b)*
 
 > Determinare tutti i sottogruppi $\mathcal{S}$ di $\{2^0, 2^1, 2^2, \ldots\}$ con la seguente proprietà: esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che l'insieme di numeri interi della forma $f(a+b) - f(a) - f(b)$, come $a$ e $b$ si estende su tutti gli enti interi positivi, è uguale a $\mathcal{S}$.
 
@@ -267,7 +267,7 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f sui numeri interi positivi: coprimità equivalente a un'identità moltiplicativa; trovare f(n) *
+*f sui numeri interi positivi: coprimità equivalente a un'identità moltiplicativa; trovare f(n)*
 
 > Considerare le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che per tutti i numeri interi positivi $m, n$, le seguenti due affermazioni siano equivalenti: $m$ e $n$ sono coprime, e $f(mn)^2 = f(m^2)\, f(n)\, f(n)$ (cioè, $f(mn)^2 = f(m^2)\, f(n)^2$). Per ogni intero positivo $n$, determinare tutti i valori possibili di $f(n)$.
 

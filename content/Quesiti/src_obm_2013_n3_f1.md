@@ -432,7 +432,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Billiard: velocità minima per la palla di Jade per incontrare un colpo di palla a 60 km/h, 30 gradi, palle a 50 cm di distanza *
+*Billiard: velocità minima per la palla di Jade per incontrare un colpo di palla a 60 km/h, 30 gradi, palle a 50 cm di distanza*
 
 > Super Esmeralda e Jade Maravilha stanno giocando a biliardo. Super Esmeralda fa un colpo su una palla con una velocità di $60\,\text{km/h}$, ad un angolo di $30^\circ$ con uno dei cuscini, come nella figura. Jade Maravilha deve colpire la palla di Super Esmeralda con un'altra palla. Le due palle lasciano contemporaneamente il cuscino del tavolo e sono a una distanza di $50\,\text{cm}$. Jade Maravilha puo' scegliere qualsiasi angolo per il suo colpo. Qual e' la velocità minima con cui Jade Maravilha puo' farle sparare?
 > 
@@ -573,7 +573,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Corsa delle pulci: salti di m e n cm (m<n) che si incontrano per primo a 1 m; conteggio di coppie (m,n) *
+*Corsa delle pulci: salti di m e n cm (m<n) che si incontrano per primo a 1 m; conteggio di coppie (m,n)*
 
 > In un circo, l'attrazione principale è la corsa alle pulci. Due pulci, $P_1$ e $P_2$, perfettamente addestrate, saltano lungo la stessa linea retta, con velocità costanti, partendo dallo stesso punto nello stesso istante. Ogni salto di pulce $P_1$ misura $m$ centimetri e ogni salto di pulce $P_2$ misura $n$ centimetri, con $m < n$, entrambe enti. Tuttavia la pulce $P_1$ è più veloce della pulce $P_2$, in modo che, indipendentemente dalla velocità di $P_2$, $P_1$ possa sempre raggiungerla dopo alcuni salti. Supponendo che, dopo l'avvio, le pulci si trovino insieme, per la prima volta, alla fine del metro $1$, si determina il numero di possibili coppie $(m, n)$.
 > 
@@ -698,7 +698,7 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Trapezoide ABCD, AB di direzione BAD=74, angolo B82, ABC=P su CD con AD+DP=PC+CB=AB; trovare angolo APB*
+*Trapezoide ABCD, AB di direzione BAD=74, angolo B82, ABC=P su CD con AD+DP=PC+CB=AB; trovare angolo APB*
 
 > Nel trapezoide $ABCD$, con $AB$ parallelo a $CD$, l'angolo $\angle BAD$ misura $82^\circ$ e l'angolo $\angle ABC$ misura $74^\circ$. Supponiamo che esista un punto $P$ sul lato $CD$ tale che $AD + DP = PC + CB = AB$. Quanto misura l'angolo $\angle APB$?
 > 

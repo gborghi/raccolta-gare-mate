@@ -72,7 +72,7 @@ level: Semifinale di Primavera
 
 ![[src_bocconi_primavera_2009__q02.png]]
 
-**Answer:** Pur con 'l'aiuto', il quesito ammette diverse soluzioni; una di queste prevede una 'V' nel livello intermedio e (nel livello inferiore, da sinistra a destra): B – V – R – V – B.
+**Answer:** Even with 'help', the problem admits several solutions; one of these has a 'V' in the intermediate level and (in the lower level, from left to right): B – V – R – V – B.
 [[Quesiti/src_bocconi_primavera_2009#q02|src_bocconi_primavera_2009__Q02]]
 
 
@@ -328,7 +328,7 @@ Games won by Milena in the card tournament
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the triangles in Figure *
+*Count the triangles in Figure*
 
 > **How many triangles do you see in the figure? **
 
@@ -363,7 +363,7 @@ Games won by Milena in the card tournament
 
 > Using the addition, subtraction, multiplication, division and power operations (all or only some), ** write the number 2000 with the digits 1, 2, 3, 4, 5** (which must appear only once).
 
-**Answer:** Il numero 2000 si può scrivere come $1 \times 4^2 \times 5^3$ oppure anche come $1 \times 2^4 \times 5^3$. L'ordine dei fattori non ha ovviamente importanza.
+**Answer:** The number 2000 can be written as $1 \times 4^2 \times 5^3$ or also as $1 \times 2^4 \times 5^3$. The order of the factors is obviously unimportant.
 [[Quesiti/src_bocconi_primavera_2009#q11|src_bocconi_primavera_2009__Q11]]
 
 
@@ -455,7 +455,7 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete an addition by entering the numbers given *
+*Complete an addition by entering the numbers given*
 
 > Complete the following addition by entering the numbers 0 - 2- 3 - 4 - 8 - 9 instead of the dots (once and only).
 > 
@@ -523,7 +523,7 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cards to turn to check "1 implies A" *
+*Which cards to turn to check "1 implies A"*
 
 > Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it necessarily has an "A" on the other. Sara doesn't believe it and decides to check it out for herself.
 > 
@@ -560,7 +560,7 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What cards to play to check "1 if and only if A" *
+*What cards to play to check "1 if and only if A"*
 
 > Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it necessarily has an "A" on the other and vice versa. Sara doesn't believe it and decides to check it out for herself.
 > 
@@ -600,7 +600,7 @@ What time is it now (clock problem)
 > 
 > What was the initial length of the side of Peter's land?
 
-**Answer:** La lunghezza iniziale del lato del terreno di Pietro era di 13 m.
+**Answer:** The initial length of Pietro's plot side was 13 m.
 [[Quesiti/src_bocconi_primavera_2009#q18|src_bocconi_primavera_2009__Q18]]
 
 

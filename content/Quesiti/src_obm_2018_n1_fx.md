@@ -125,7 +125,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pablo paga l'albergo ogni giorno utilizzando una catena di 7 collegamenti d'oro *
+*Pablo paga l'albergo ogni giorno utilizzando una catena di 7 collegamenti d'oro*
 
 > Pablo era in viaggio per una mina lontana e arrivò in un ostello dove voleva rimanere per una settimana. Non aveva soldi con sé, ma aveva una catena con 7 anelli d'oro che offriva al padrone dell'ospedale come pagamento per alloggio e cibo. Al proprietario dell'ostella piaceva l'offerta e disse che avrebbe addebitato un collegamento al giorno. Pablo pensò per un po' e disse che se riuscisse a tagliare alcuni anelli della catena, sarebbe stato in grado di effettuare il pagamento giornaliero e alla fine di 7 giorni, l'albergo sarebbe stato in grado di riassemblare l'intera catena.
 > 
@@ -214,7 +214,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n ×n ×n cubo di unità di cubetti: rosso che si diffonde quotidianamente dal vertice; numerazione *
+*n ×n ×n cubo di unità di cubetti: rosso che si diffonde quotidianamente dal vertice; numerazione*
 
 > Un cubo $n \times n \times n$ è formato da cubetti unitari e ha, inizialmente, un cubo unitario rosso ad esattamente uno dei suoi vertici. Ogni giorno a partire dal giorno 2, i cubetti unitari che sono vicini (comparta una faccia) dei cubetti rossi diventano anche rossi e sono numerati con il numero del giorno. Ad esempio, il cubo $2 \times 2 \times 2$: il giorno 1, ha un cubo rosso (numerato 1); il giorno 2, ha quattro cubbi rossi (numerati 1 e tre numerati 2); il giorno 3, ha sette cubbi (uno numerato 1, tre numerati 2, tre numerati 3); il giorno 4, tutti e otto i cubbi sono rossi e numerati. Per rappresentare la numerazione finale possiamo usare le griglie $n$ ciascuna rappresentando uno strato del cubo. Per il cubo $2 \times 2 \times 2$ sopra gli strati sono: $$\begin{array}{|c|c|}\hline 1 & 2 \\ \hline 2 & 3 \\ \hline\end{array} \qquad \begin{array}{|c|c|}\hline 2 & 3 \\ \hline 3 & 4 \\ \hline\end{array}$$
 > 

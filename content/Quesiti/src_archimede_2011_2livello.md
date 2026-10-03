@@ -403,7 +403,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from L with maximum PEQ angle (tangency) *
+*Distance from L with maximum PEQ angle (tangency)*
 
 > From a point L two straight roads start forming an acute angle α. Along one of the two roads there are two lamps, positioned in P and Q, such that LP = 40 m and LQ = 90 m. Eva is in E on the other road, and she sees the two lamps at an angle. How far from L is Eva, if $\widehat{PEQ}$ has the maximum width possible?
 >
@@ -628,7 +628,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*All powers of 3 are decimal places *
+*All powers of 3 are decimal places*
 
 > Demonstrative Exercise To prove that all powers of 3 have the number of decimal places.
 

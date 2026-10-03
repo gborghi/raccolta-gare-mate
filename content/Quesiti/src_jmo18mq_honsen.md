@@ -91,7 +91,7 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo attraverso A e circoncentro incontra lati; PQ=BC, angolo *
+*Circolo attraverso A e circoncentro incontra lati; PQ=BC, angolo*
 
 > Che $O$ sia il centro circundante di un triangolo acuto $ABC$. Un cerchio che attraversa i due punti $A$ e $O$ incontra di nuovo le linee $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$ (con $P,Q\neq A$). Supponiamo che il segmento $PQ$ abbia la stessa lunghezza del segmento $BC$. Trova la misura dell'angolo tra la linea $PQ$ e la linea $BC$ che è al massimo $90^\circ$.
 

@@ -142,7 +142,7 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-* 7 coppie di reali non-negativi con a_i+b_i<=2, trovare due indici k,m con \a_k-a_m_lease\b_k-b_m_lease<=1*
+*7 coppie di reali non-negativi con a_i+b_i<=2, trovare due indici k,m con \a_k-a_m_lease\b_k-b_m_lease<=1*
 
 > Supponiamo che $a_1, \ldots, a_7, b_1, \ldots, b_7$ siano numeri reali non negativi come $a_i + b_i \le 2$ per tutti $i$. Prova che esistono due indici $k, m$ diversi in modo tale che $$|a_k - a_m| + |b_k - b_m| \le 1.$$
 

@@ -224,7 +224,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of HK in rectangle divided into three congruent *
+*Measure of HK in rectangle divided into three congruent*
 
 ![[src_garaprime_2024__prob5.png]]
 
@@ -780,7 +780,7 @@ How to divide 6 girls into 3 teams by 2
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scribers who know how to play chess and ladies (together) *
+*Scribers who know how to play chess and ladies (together)*
 
 ![[src_garaprime_2024__prob16.png]]
 

@@ -140,7 +140,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 <div class="qlang-split" data-lang="it"></div>
 
 
-* numeri interi a_i,b_i provare la somma su i<j di (leswi_i_i_i_j_i+ gi_i_i_i_i_i_i) <= somma su tutti i,j di │a_i_i_i_i_i_i_i.*
+*numeri interi a_i,b_i provare la somma su i<j di (leswi_i_i_i_j_i+ gi_i_i_i_i_i_i) <= somma su tutti i,j di │a_i_i_i_i_i_i_i.*
 
 > Se $a_i, b_i$ ($i = 1, 2, \ldots, n$) sono numeri interi, dimostrare che $$\sum_{1 \le i < j \le n} \left( |a_i - a_j| + |b_i - b_j| \right) \le \sum_{1 \le i, j \le n} |a_i - b_j|.$$
 

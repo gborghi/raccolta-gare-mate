@@ -146,7 +146,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma *
+*Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma*
 
 > Quanti triples non ordinati di integri positivi reciprocamente distinti $\{a, b, c\}$ soddisfano $abc = 12(a + b + c)$? Qui, i triples che differiscono solo nell'ordine (come $\{3, 6, 18\}$ e $\{6, 3, 18\}$) vengono contati come lo stesso triplo.
 
@@ -288,7 +288,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triples ordinati di numeri a 3 cifre che sommano al 2005 con somma massima di cifre *
+*Contare i triples ordinati di numeri a 3 cifre che sommano al 2005 con somma massima di cifre*
 
 > Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Ad esempio, $S(611) = 6 + 1 + 1 = 8$. $a, b, c$ siano numeri interi positivi a tre cifre che soddisfino $a + b + c = 2005$. $M$ è il valore massimo possibile di $S(a) + S(b) + S(c)$. Quanti triples $(a, b, c)$ ordinati raggiungono $S(a) + S(b) + S(c) = M$? (I triples che differiscono nell'ordine di $a, b, c$ sono contati come distinti.)
 

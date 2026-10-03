@@ -110,7 +110,7 @@ How many solved only problem B
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tests of telescoping such as sum equals cot x minus cot 2^n x *
+*Tests of telescoping such as sum equals cot x minus cot 2^n x*
 
 > Demonstrate that for each natural number $n$ and for each real number $x \neq \dfrac{k\pi}{2^t}$ ($k$ any integer, $t = 0, 1, \ldots, n$): $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
 

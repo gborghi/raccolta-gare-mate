@@ -210,7 +210,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma più piccola in quadrati bianchi di una lavagna numerata (anche somma vicina) *
+*La somma più piccola in quadrati bianchi di una lavagna numerata (anche somma vicina)*
 
 > Violeta vuole numerare da 1 a 9 i quadrati della tavola mostrata, in modo tale che la somma di due numeri nei quadrati vicini (quelli che condividono un lato) sia sempre pari. Tra le piazze alcune sono colorate e altre bianche. Qual è la somma dei numeri scritti nei quadrati bianchi?
 >
@@ -513,7 +513,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti di 1-9 possono occupare il quadrato centrale di un X *
+*Quanti di 1-9 possono occupare il quadrato centrale di un X*
 
 > Julieta fece un X con nove piccoli quadrati che formavano la figura mostrata. Lei vuole scrivere i numeri da 1 a 9 in questi quadrati, senza ripeterli, in modo che i numeri in ciascuno dei quattro 'bracci' della X abbiano la stessa somma. Quanti dei numeri da 1 a 9 possono occupare il quadrato centrale della X?
 >

@@ -328,7 +328,7 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of central and square diamond areas with 1/3 points *
+*Rate of central and square diamond areas with 1/3 points*
 
 > Teamwork Lupin/3 has managed to get his hands on the Black Fox's shield where the precious Queen of Africa diamond is housed. The shield is an ABCD square. Jig∈N scrapes the sides of the square, one bullet for each side: A′ on the AB side such that 2AA′ = A′B and, cyclically also B′ on the BC side such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon performs four net cuts along DA′, AB′, BC′ and CD′ thus detaching the central diamond from the rest of the shield. What is the ratio between the diamond area and the initial shield area? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
 

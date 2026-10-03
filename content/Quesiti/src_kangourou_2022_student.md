@@ -70,7 +70,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* which does not represent the use*
+*which does not represent the use*
 
 ![[src_kangourou_2022_student__prob1.png]]
 
@@ -461,7 +461,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* distance between midpoints of AB and CD*
+*distance between midpoints of AB and CD*
 
 ![[src_kangourou_2022_student__prob10.png]]
 
@@ -520,7 +520,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* all different digits again*
+*all different digits again*
 
 ![[src_kangourou_2022_student__prob11.png]]
 
@@ -972,7 +972,7 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*entire coordinate points *
+*entire coordinate points*
 
 ![[src_kangourou_2022_student__prob20.png]]
 
@@ -1142,7 +1142,7 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-* circle ? *
+*circle ?*
 
 ![[src_kangourou_2022_student__prob23.png]]
 
@@ -1310,7 +1310,7 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-* length LM*
+*length LM*
 
 ![[src_kangourou_2022_student__prob26.png]]
 

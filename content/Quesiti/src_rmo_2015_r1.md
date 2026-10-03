@@ -136,7 +136,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto, punti di mezzo, incircolo sul circoncircolo del triangolo di mezzo punto, rapporto *
+*Triangolo retto, punti di mezzo, incircolo sul circoncircolo del triangolo di mezzo punto, rapporto*
 
 > Che $ABC$ sia un triangolo con $\angle B = 90^\circ$. I punti intermedi $E$ e $F$ siano rispettivamente i punti intermedi $AB$ e $AC$. Supponiamo che l'incircolo $I$ del triangolo $ABC$ sia situato sull'incircolo del triangolo $AEF$. Trova il rapporto $BC/AB$.
 

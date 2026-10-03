@@ -243,7 +243,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figures not cut from 20x25 grid diagonal *
+*Figures not cut from 20x25 grid diagonal*
 
 > In a rectangular grid 20 × 25 the two diagonal lines are drawn. How many squares of the grid are not cut inside by the diagonals?
 >
@@ -628,7 +628,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students who love mathematics (totals) *
+*Students who love mathematics (totals)*
 
 > All 180 students in the first grade of high school love math and/or physics. The number of students who love only mathematics is twice as many as those who love only physics; 20% of the total love both subjects. How many students love math?
 >
@@ -711,7 +711,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum MC of positive integers with sum of 10 *
+*Maximum MC of positive integers with sum of 10*
 
 > The sum of some positive integers is 10. What's the maximum of their minimum common multiple?
 >

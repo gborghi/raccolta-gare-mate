@@ -30,7 +30,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many years of the dragon (sum of digits divisible by 7) *
+*How many years of the dragon (sum of digits divisible by 7)*
 
 > Legend has it that whoever finds the seven dragon spheres can summon the dragon Shannon, and have a wish granted. However, to avoid too much use, Maximus, the creator of the spheres, imposed the condition that this be possible only in the years of the dragon, that is, those whose sum of the digits is divisible by 7. How many years of the dragon are there from year one to year 7050?
 
@@ -59,7 +59,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance travelled in the square (isosceles triangle) *
+*Distance travelled in the square (isosceles triangle)*
 
 > How many of these questions have a prime number?
 
@@ -204,7 +204,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n with aura 8128 (factors less than difference) *
+*n with aura 8128 (factors less than difference)*
 
 > Double the sum of the answers to questions 5 and 3.
 
@@ -233,7 +233,7 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ring area (internal diagonal hexagon) *
+*Ring area (internal diagonal hexagon)*
 
 > Square of the answer to question 2, decreased by 1.
 
@@ -292,7 +292,7 @@ Gonioku's odds against his three rivals.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of knights among inhabitants (statements) *
+*Minimum of knights among inhabitants (statements)*
 
 > Number of numbers that appear at least twice as answers, decreased by 3. In the solution provide the answers to questions 2, 4, 9 and 10 in order
 
@@ -350,7 +350,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The ten self-referential questions (answers 2,4,9,10) *
+*The ten self-referential questions (answers 2,4,9,10)*
 
 > 12. The ten questions The tower of Kardanin holds a water that can increase the strength of those who drink it, but to have it you have to climb the tower, overcome Master Kardanin and above all find the answers to 10 questions, which are all numbers from 1 to 9. To complicate matters, the first question is written in an unfamiliar language.
 
@@ -388,7 +388,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (a,b) with square a-1) + square b-1) = square ab-1) *
+*Couples (a,b) with square a-1) + square b-1) = square ab-1)*
 
 > The Maximus and Mr. Bobo Gonioku trains with King Kartesioh to face Vietnam; meanwhile, Maximus and Mr. Bobo, in the sanctuary, they deceive time with a game for only immortals. It's about finding who can find the most number of ordered pairs (a,b) of positive integers such as √a−1 + √ b−1 = √ ab−1. To prevent the game from going on too long, Mr. Bobo suggests limiting himself to,b ≤2012. How many couples can they find?
 
@@ -425,7 +425,7 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial time before the Kartesioh-ken (roots) *
+*Initial time before the Kartesioh-ken (roots)*
 
 > It's over nine thousand! King Kartesioh likes to see and review the recording of the fighting between Gonioku and Vietnam, when Gonioku resorted to Kartesioh-ken, the secret technique to increase the aura. It works this way: if Gonioku's aura is n, Gonioku considers the polynomial x2 −mx+n; takes its roots (which exist and are whole) a and b with a > b; corrects them in a−1 and b+1; considers finally the monic polynomial1 with these new values as roots. His aura is then worth the new term known. Gonioku can use this technique once a minute. After an hour of fierce fighting, Vietnam doesn't believe its scout: Gonioku's aura has just surpassed 9000. Knowing that m is the smallest positive integer so the aura exceeds 9000 without ever exactly matching it, how much was Gonioku's aura worth before he started using the Kartesioh-ken?
 
@@ -570,7 +570,7 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of products in the sphere-district (mod 11) *
+*Summary of products in the sphere-district (mod 11)*
 
 > The seven dragon spheres of planet Earth each have a different number from 1 to 7. After the dragon's last call, they've been scattered around the world in 10 districts, numbered 1 to 10. The dragon radar reveals that the spheres are arranged in a particular way: in each district there is at most one and for each of them, if you make the product between the number of the sphere and that of the district where it ends and then divide by 11, you always get the same remainder. We also know that the 3-star sphere is not in the first two districts, and that District 8 contains no sphere. With this little information, the brilliant Bourba reconstructed the position of all the spheres. Determine the products between the number of each sphere and that of the district in which it is located, and provide the sum.
 
@@ -604,7 +604,7 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max area of parallel-piped shadow (45 degrees) *
+*Max area of parallel-piped shadow (45 degrees)*
 
 > The manor of Mr. Satan Mr. Considered the world's greatest martial arts expert, Satan is building himself a home that shadows every neighbor's home. . . literally. Mr. Satan requested that the building be a rectangular parallel piped of 105 × 77 × 36 metres, but did not specify which of these three measures should be the height: he only wants it to be positioned so as to maximize the area of the shaded area on the ground when sunlight hits the ground from the south. (The ground beneath the building is not considered shaded.)
 
@@ -668,7 +668,7 @@ Minutes to destroy C-18 (graph islands)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance on the surface of pyramids (6) *
+*Minimum distance on the surface of pyramids (6)*
 
 > 21. Everyone fights and the search for the spheres is up to the brave Bourba, who is about to explore a block of six square-based pyramids, with the side faces of the triangles equilateral on side 15, arranged in a rectangle of 3×2 and adjacent to each other. Bourba is at a top of the base rectangle, but the dragon radar reveals that he must look for the sphere in the pyramid whose entrance is right at the opposite top of the base rectangle: he must have mistakenly consulted the map. How much road does he have to take at least, walking on the surface of the pyramids, to get to the entrance? The answer is the square of the minimum distance.
 
@@ -697,7 +697,7 @@ Minutes to destroy C-18 (graph islands)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers 0 to 999 with digits 3 or 6 (fusion) *
+*sum of numbers 0 to 999 with digits 3 or 6 (fusion)*
 
 > 22. Fusion dance Gonioku first saw fusion dance by two inhabitants of the planet Metamor. Normally, it's necessary that the two warriors who join together have the same aura, but in that case, he succeeded even if he didn't. In particular, the aura of one of the two warriors was equal to the sum of all integers between 0 and 999 containing at least a digit 3, and that of the second was equal to the sum of all integers between 0 and 999 containing at least a digit 6. The warrior who emerged had an aura equal to the sum of the two. How much was this number worth?
 

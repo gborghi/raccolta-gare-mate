@@ -157,7 +157,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* there is a balanced 2000 block*
+*there is a balanced 2000 block*
 
 > Each whole number is colored with one of two colors, red or blue. We know that for every finite set A of consecutive integers, the absolute value of the difference between the number of red integers and the number of blue integers in the set A is at most 1000. Demonstrate that there is a set of 2000 consecutive integers among which there are exactly 1000 red numbers and 1000 blue numbers.
 
@@ -224,7 +224,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*parallelism and competition of three sectors *
+*parallelism and competition of three sectors*
 
 ![[src_cesenatico_2013__prob5.png]]
 
@@ -262,7 +262,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which the strategy works*
+*for which the strategy works*
 
 > Two magicians perform in the following issue. At first, the first magician locks the second magician in a cabin where he can't see or hear anything. To start the game, the first magician invites Daniel, a member of the audience, to put on each box of a chessboard a white or black board at his discretion. Then he asks Daniel to point him to a box C of his choice. At this point, the first magician chooses a box D (not necessarily different from C) and replaces the pedina on D with one of the other color (white with black or black with white). Then the cabin where the second magician was locked is opened. Looking at the chessboard, the second magician can guess what box C is. Which of the two magicians can implement a strategy that their numbers always succeed?
 

@@ -17,13 +17,16 @@ level: kangourou
 
 *Punti interi nel cerchio raggio 10 centrato origine*
 
-> l’anno N in esame: nei 4 anni successivi si aggiungono giorni secondo lo schema: 1+1+1+2,
+> Coordinate intere
+> Quanti punti a coordinate entrambe intere appartengono al cerchio di raggio 10 centrato
+> nell’origine, circonferenza inclusa? (Si intende che il piano venga dotato di un usuale sistema
+> cartesiano ortogonale monometrico.)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0317
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -31,7 +34,10 @@ level: kangourou
 
 *Integer points in the circle of radius 10 centered at the origin*
 
-> year N: in the following 4 years, days are added according to the scheme: 1+1+1+2,
+> Integer coordinates
+> How many points with both coordinates integers belong to the circle of radius 10 centered
+> at the origin, circumference included? (It is intended that the plane be given a usual
+> orthogonal monometric Cartesian system.)
 
 **Answer:** 0317
 [[Quesiti/src_kangourou_2019_junior_finale#q01|src_kangourou_2019_junior_finale__Q01]]
@@ -45,13 +51,17 @@ level: kangourou
 
 *Area superficie totale del tetraedro*
 
-> l’anno N + 1: nei 4 anni successivi si aggiungono giorni secondo lo schema: 2+1+1+1,
+> Il tetraedro
+> La figura mostra un tetraedro il cui vertice S si proietta perpendicolarmente in P
+> sul piano che contiene la faccia PQR. Tale faccia è un triangolo rettangolo; gli
+> spigoli SQ, SR e RQ sono tutti lunghi 8 cm. Qual è l’intero più vicino al numero
+> che rappresenta l’area della superficie totale del tetraedro, espressa in centimetri quadrati?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0076
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -59,7 +69,11 @@ level: kangourou
 
 *Total area of the tetrahedron*
 
-> year N + 1: in the following 4 years days are added according to the scheme: 2+1+1+1,
+> The tetrahedron
+> The figure shows a tetrahedron whose vertex S projects perpendicularly to P
+> onto the plane containing the face PQR. This face is a right triangle; the
+> edges SQ, SR and RQ are all 8 cm long. What is the integer closest to the number
+> that represents the area of the total surface of the tetrahedron, expressed in square centimeters?
 
 **Answer:** 0076
 [[Quesiti/src_kangourou_2019_junior_finale#q02|src_kangourou_2019_junior_finale__Q02]]
@@ -73,21 +87,25 @@ level: kangourou
 
 *Numero 4 cifre automorfico (ultime 4 cifre del quadrato)*
 
-> l’anno N + 2: nei 4 anni successivi si aggiungono giorni secondo lo schema: 1+2+1+1,
+> Le cifre del quadrato
+> Esiste un solo numero intero positivo di quattro cifre tale che le ultime quattro cifre del suo
+> quadrato siano il numero stesso. Qual è?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9376
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 4 automorphic digits (last 4 digits of the square) *
+*Number 4 automorphic digits (last 4 digits of the square)*
 
-> year N + 2: in the following 4 years days are added according to the scheme: 1+2+1+1,
+> The digits of the square
+> There is only one positive four-digit integer such that the last four digits of its
+> square are the number itself. What is it?
 
 **Answer:** 9376
 [[Quesiti/src_kangourou_2019_junior_finale#q03|src_kangourou_2019_junior_finale__Q03]]
@@ -101,46 +119,16 @@ level: kangourou
 
 *Probabilita che Giulio totalizzi per primo due vittorie*
 
-> l’anno N + 3: nei 4 anni successivi si aggiungono giorni secondo lo schema: 1+1+2+1. 
-> Dopo i primi 20 anni necessari per aggiungere 25 giorni, bastano altri 3 anni nel primo caso e solo altri 2 nel 
-> secondo e nel terzo caso per aggiungere un mese lunare; invece, nel quarto caso 22 anni aggiungono solo 27 giorni e 
-> 23 ne aggiungono 29: per aggiungere 28+28=56=55+1 giorni, basta far passare 44 + 1 = 45 anni. Se invece il giorno 
-> in esame è compreso tra il 1/1 e il 28/2, gli schemi sono gli stessi ma slittati (2→1, 3→2, 4→3, 1→4). In ogni caso 
-> non si arriva mai a 2100. 
-> (**) Più in generale si può notare che il più lungo intervallo di tempo minimo dopo il quale si ripresenta una certa fase 
-> lunare il 29 febbraio è sempre non maggiore di 248 anni. Dato che il periodo minimo con cui si ripresenta la 
-> sequenza di anni bisestili è di 400 anni basta verificare che cosa succede ad esempio negli anni da 2000 compreso a 
-> 2400 escluso. 
-> • 
-> Se l’anno di partenza ha la forma 2000 + 4K  o  2100 + 4K  o  2200 + 4K con 8 < K < 25 dopo 68 anni si ripete 
-> la situazione di partenza: infatti nei 17 quadrienni in esame uno contiene un anno multiplo di 4 non 
-> bisestile e 5 × 16 + 4 = 84 = 4 × 28. 
-> • 
-> Se l’anno di partenza ha la forma 2300 + 4K con 0 ≤ K < 22 la situazione si ripete dopo 112 anni, dato che 
-> l’intervallo contiene 2400 (che è bisestile) ma non 2500; se ha la stessa forma ma 22 ≤ K < 25 devono passare 
-> 180 anni, poiché dopo 112 anni avanza un giorno (visto che l’intervallo contiene 2500) e per compensarlo 
-> servono gli altri 27 giorni che si accumulano nei successivi 44 anni (tutti bisestili visto che 2480 + 4K < 2600). 
-> • 
-> Se l’anno di partenza ha la forma 2000 + 4K con 0 ≤ K < 5, dopo 68 anni non si supera 2100 e quindi avanza un 
-> giorno, ma dopo altri 112 anni tale giorno viene perso in quanto si perde un bisestile (uno solo poiché, se K < 5, 
-> 2180 + 4K < 2200) e quindi servono in tutto 180 anni. Lo stesso succede con anni della forma 2100 + 4K, 2200 
-> + 4K con 0 ≤ K < 5. 
-> • 
-> Se l’anno di partenza ha la forma 2000 + 4K o 2100 + 4K con 5 ≤ K ≤ 8, valgono le considerazioni fatte sopra e 
-> quindi servono 248 anni. Invece se ha la forma 2200 + 4K con 5 ≤ K ≤ 8 bastano 180 anni poiché dopo 68 anni 
-> avanza un giorno che viene che viene recuperato nei restanti 112 anni che comprendono il 2300 non bisestile e 
-> il bisestile 2400. 
-> 
-> J5. (18 punti )  Per quali numeri interi non negativi n, il numero 55n+1 + 45n+2 +35n  è divisibile 
-> per 11? 
->  
-> Risposta: Per tutti.
+> Il tennis
+> Giulio e Piero giocano alcune partite a tennis. Giulio, che è più bravo, in ogni partita ha 2/3 di
+> probabilità di vincere. Qual è la probabilità che sia Giulio a totalizzare per primo due vittorie?
+> (Scrivete nell’ordine il numeratore e il denominatore della frazione ridotta ai minimi termini.)
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2027
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -148,40 +136,10 @@ level: kangourou
 
 *Probability that Giulio totals two wins first*
 
-> the year N + 3: in the following 4 years days are added according to the pattern: 1+1+2+1. 
-> After the first 20 years needed to add 25 days, another 3 years suffice in the first case and only another 2 in the 
-> second and third case to add a lunar month; instead, in the fourth case 22 years add only 27 days and 
-> 23 add 29: to add 28+28=56=55+1 days, it suffices to let 44 + 1 = 45 years pass. If instead the day 
-> in question is between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). In any case 
-> one never reaches 2100. 
-> (**) More generally, one can note that the longest minimum time interval after which a certain lunar phase 
-> recurs on 29 February is always no greater than 248 years. Since the minimum period with which the 
-> sequence of leap years recurs is 400 years, it suffices to check what happens for example in the years from 2000 inclusive to 
-> 2400 exclusive. 
-> • 
-> If the starting year has the form 2000 + 4K  or  2100 + 4K  or  2200 + 4K with 8 < K < 25, after 68 years the 
-> starting situation repeats: indeed among the 17 four-year periods under examination one contains a multiple of 4 that is not 
-> a leap year and 5 × 16 + 4 = 84 = 4 × 28. 
-> • 
-> If the starting year has the form 2300 + 4K with 0 ≤ K < 22, the situation repeats after 112 years, since 
-> the interval contains 2400 (which is a leap year) but not 2500; if it has the same form but 22 ≤ K < 25, 
-> 180 years must pass, since after 112 years one day is left over (given that the interval contains 2500) and to compensate 
-> for it the other 27 days are needed, which accumulate in the following 44 years (all leap years since 2480 + 4K < 2600). 
-> • 
-> If the starting year has the form 2000 + 4K with 0 ≤ K < 5, after 68 years 2100 is not exceeded and therefore one 
-> day is left over, but after another 112 years that day is lost since a leap year is lost (only one since, if K < 5, 
-> 2180 + 4K < 2200) and therefore 180 years are needed in all. The same happens with years of the form 2100 + 4K, 2200 
-> + 4K with 0 ≤ K < 5. 
-> • 
-> If the starting year has the form 2000 + 4K or 2100 + 4K with 5 ≤ K ≤ 8, the considerations made above hold and 
-> therefore 248 years are needed. If instead it has the form 2200 + 4K with 5 ≤ K ≤ 8, 180 years suffice since after 68 years 
-> one day is left over which is recovered in the remaining 112 years that include the non-leap year 2300 and 
-> the leap year 2400. 
-> 
-> J5. (18 points )  For which non-negative integers n is the number 55n+1 + 45n+2 +35n  divisible 
-> by 11? 
->  
-> Answer: For all.
+> Tennis
+> Giulio and Piero play several tennis matches. Giulio, who is better, in each match has 2/3
+> probability of winning. What is the probability that Giulio is the first to total two wins?
+> (Write in order the numerator and the denominator of the fraction reduced to lowest terms.)
 
 **Answer:** 2027
 [[Quesiti/src_kangourou_2019_junior_finale#q04|src_kangourou_2019_junior_finale__Q04]]
@@ -195,20 +153,17 @@ level: kangourou
 
 *Allineamenti di sei cifre monotoni non tutti uguali*
 
-> Una sala ha cinque porte: da ognuna di esse si può sia entrare sia uscire. Se vuoi entrare e uscire da due porte diverse, in quanti modi puoi farlo?
->
-> - **(A)** 25
-> - **(B)** 20
-> - **(C)** 16
-> - **(D)** 15
-> - **(E)** 10
+> Gli allineamenti
+> Quanti diversi allineamenti formati da sei delle cifre da 0 a 9 si possono costruire, se in ogni
+> allineamento si consente che le cifre possano essere ripetute, ma non tutte uguali, e compaiano in
+> ordine (non strettamente) crescente o decrescente?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9990
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -216,13 +171,10 @@ level: kangourou
 
 *Alignments of six monotonous digits not all equal*
 
-> A room has five doors: from each of them you can either enter or exit. If you want to go in and out of two different doors, how many ways can you do that?
->
-> - **(A)** 25
-> - **(B)** 20
-> - **(C)** 16
-> - **(D)** 15
-> - **(E)** 10
+> The arrangements
+> How many different arrangements made up of six of the digits from 0 to 9 can be constructed, if in each
+> arrangement the digits are allowed to be repeated, but not all equal, and appear in
+> (not strictly) increasing or decreasing order?
 
 **Answer:** 9990
 [[Quesiti/src_kangourou_2019_junior_finale#q05|src_kangourou_2019_junior_finale__Q05]]
@@ -236,20 +188,16 @@ level: kangourou
 
 *Quanti n con [n/20]=[n/17]*
 
-> Tre oggetti pesano ciascuno un numero intero di chili, ma hanno pesi a due a due diversi. Complessivamente pesano 97 chili. Quanti chili può pesare al massimo l'oggetto più leggero?
->
-> - **(A)** 1
-> - **(B)** 30
-> - **(C)** 31
-> - **(D)** 32
-> - **(E)** 33
+> La parte intera
+> Per ogni numero reale x, con il simbolo [x] si denota il più grande intero che non supera x. Quanti
+> interi positivi n sono tali che [n/20] = [n/17] ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0056
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -257,13 +205,9 @@ level: kangourou
 
 *How many n with [n/20]=[n/17]*
 
-> Three objects each weigh an integer number of kilograms, but have pairwise different weights. Altogether they weigh 97 kilograms. How many kilograms can the lightest object weigh at most?
->
-> - **(A)** 1
-> - **(B)** 30
-> - **(C)** 31
-> - **(D)** 32
-> - **(E)** 33
+> The integer part
+> For every real number x, the symbol [x] denotes the largest integer that does not exceed x. How many
+> positive integers n are such that [n/20] = [n/17] ?
 
 **Answer:** 0056
 [[Quesiti/src_kangourou_2019_junior_finale#q06|src_kangourou_2019_junior_finale__Q06]]
@@ -277,19 +221,18 @@ level: kangourou
 
 *Angolo convesso P'OQ' dopo tre ore di corsa*
 
-> Il quadrato nella figura a lato è ottenuto accostando 9 quadratini identici ed è ripartito in tre settori angolari. $\alpha$ e $\beta$ sono le misure in gradi di due dei tre angoli che vengono così individuati. Quale delle seguenti uguaglianze è vera?
->
-> - **(A)** $\alpha = \beta$
-> - **(B)** $\beta = 30°$
-> - **(C)** $\alpha + \beta = 60°$
-> - **(D)** $2\beta + \alpha = 90°$
-> - **(E)** Nessuna. (vedi figura)
+> Il circuito
+> Gino e Lino corrono su un circuito circolare di centro O (vedere la figura):
+> Gino parte dal punto P e si muove in verso anti-orario, Lino parte dal punto Q e si muove in verso orario. L’angolo POQ misura 10 gradi. Partono allo stesso istante e nella prima ora ciascuno percorre un quarto del circuito; allo
+> scadere di ogni ora successiva, la velocità media tenuta risulta due terzi
+> della velocità media tenuta nell’ora precedente. Dette P’ la posizione di
+> Gino e Q’ quella di Lino dopo tre ore di corsa, quanti gradi misura l’angolo convesso P’OQ’?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0010
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -297,13 +240,12 @@ level: kangourou
 
 *P'OQ' convex angle after three hours of running*
 
-> The square in the side figure is obtained by placing 9 identical small squares side by side and is divided into three angular sectors. $\alpha$ and $\beta$ are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true?
->
-> - **(A)** $\alpha = \beta$
-> - **(B)** $\beta = 30°$
-> - **(C)** $\alpha + \beta = 60°$
-> - **(D)** $2\beta + \alpha = 90°$
-> - **(E)** None. (see figure)
+> The circuit
+> Gino and Lino run on a circular circuit with center O (see the figure):
+> Gino starts from point P and moves counterclockwise, Lino starts from point Q and moves clockwise. The angle POQ measures 10 degrees. They start at the same instant and in the first hour each covers a quarter of the circuit; at
+> the end of each subsequent hour, the average speed maintained turns out to be two thirds
+> of the average speed maintained in the previous hour. Let P’ be the position of
+> Gino and Q’ that of Lino after three hours of running, how many degrees does the convex angle P’OQ’ measure?
 
 **Answer:** 0010
 [[Quesiti/src_kangourou_2019_junior_finale#q07|src_kangourou_2019_junior_finale__Q07]]
@@ -317,20 +259,18 @@ level: kangourou
 
 *Minimo numero di punti medi distinti per 2019 punti*
 
-> Un quadrato è stato parzialmente ombreggiato nei cinque diversi modi elencati nelle figure. In quale dei disegni l'area della parte ombreggiata è massima?
->
-> - **(A)** (vedi figura A)
-> - **(B)** (vedi figura B)
-> - **(C)** (vedi figura C)
-> - **(D)** (vedi figura D)
-> - **(E)** (vedi figura E) (vedi figura)
+> I punti medi
+> Si considerino 2019 punti distinti in un piano. Per ogni coppia di tali punti si consideri il punto
+> medio del segmento individuato dalla coppia e sia S l’insieme di tali punti medi (eventuali punti
+> medi coincidenti individuano un solo elemento di S). Qual è il minimo numero possibile per gli
+> elementi di S?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4035
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -338,13 +278,11 @@ level: kangourou
 
 *Minimum number of distinct mean points for 2019 points*
 
-> A square has been partially shaded in the five different ways listed in the figures. In which of the drawings is the area of the shaded part the largest?
->
-> - **(A)** (see Figure A)
-> - **(B)** (see Figure B)
-> - **(C)** (see Figure C)
-> - **(D)** (see Figure D)
-> - **(E)** (see Figure E) (see Figure)
+> The midpoints
+> Consider 2019 distinct points in a plane. For every pair of such points consider the
+> midpoint of the segment determined by the pair and let S be the set of such midpoints (any coinciding
+> midpoints identify a single element of S). What is the minimum possible number for the
+> elements of S?
 
 **Answer:** 4035
 [[Quesiti/src_kangourou_2019_junior_finale#q08|src_kangourou_2019_junior_finale__Q08]]
@@ -358,19 +296,16 @@ level: kangourou
 
 *Numero iniziale ABC2 da relazione con riordino*
 
-> Una bevanda va confezionata miscelando sciroppo di lampone e acqua nel rapporto $1 : 7$. Una bottiglia da mezzo litro è piena di sciroppo di lampone. Che frazione del contenuto di quella bottiglia si dovrà usare per confezionare due litri di bevanda?
->
-> - **(A)** $\dfrac{1}{4}$
-> - **(B)** $\dfrac{1}{2}$
-> - **(C)** $\dfrac{2}{7}$
-> - **(D)** $\dfrac{4}{7}$
-> - **(E)** $1$
+> Un numero di 4 cifre
+> La cifra delle unità di un numero di quattro cifre significative è 2. Se la si sposta al primo posto,
+> facendola diventare la cifra delle migliaia e lasciando inalterato l’ordine delle altre, i ¾ del numero
+> che si ottiene è un numero che differisce di 0,5 dal numero iniziale. Qual è il numero iniziale?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1622
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -378,13 +313,10 @@ level: kangourou
 
 *Initial number ABC2 by correlation with reorder*
 
-> A beverage should be packaged by mixing raspberry syrup with water in the $1 : 7$ ratio. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage?
->
-> - **(A)** $\dfrac{1}{4}$
-> - **(B)** $\dfrac{1}{2}$
-> - **(C)** $\dfrac{2}{7}$
-> - **(D)** $\dfrac{4}{7}$
-> - **(E)** $1$
+> A 4-digit number
+> The units digit of a four-digit number with significant digits is 2. If it is moved to the first place,
+> making it the thousands digit and leaving the order of the others unchanged, ¾ of the number
+> obtained is a number that differs by 0.5 from the initial number. What is the initial number?
 
 **Answer:** 1622
 [[Quesiti/src_kangourou_2019_junior_finale#q09|src_kangourou_2019_junior_finale__Q09]]
@@ -398,20 +330,17 @@ level: kangourou
 
 *Coppie di numeri (3 decimali) con somma = prodotto*
 
-> Tre numeri di cinque cifre sono stati scritti ciascuno su una targa. La figura mostra come sono sovrapposte le targhe e le cifre rimaste visibili. Si sa che la somma dei tre numeri vale 57263. Quali sono le cifre nascoste?
->
-> - **(A)** 0, 2 e 2.
-> - **(B)** 2, 4 e 9.
-> - **(C)** 2, 7 e 8.
-> - **(D)** 5, 7 e 8.
-> - **(E)** Nessuna delle terne precedenti. (vedi figura)
+> Somma e prodotto
+> Quante coppie di numeri non negativi, che si scrivono in notazione decimale con al più tre cifre
+> dopo la virgola, hanno la loro somma uguale al loro prodotto? (Considerate come due coppie
+> distinte le coppie in cui gli elementi sono scambiati come ad esempio (1,5; 3) e (3; 1,5))
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0050
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -419,13 +348,10 @@ level: kangourou
 
 *Pairs of numbers (3 decimals) with sum = product*
 
-> Three five-digit numbers were each written on a plate. The figure shows how the plates are overlapped and the digits that remain visible. You know the sum of the three numbers is 57263. What are the hidden digits?
->
-> - **(A)** 0, 2 and 2.
-> - **(B)** 2, 4 and 9.
-> - **(C)** 2, 7 and 8.
-> - **(D)** 5, 7 and 8.
-> - **(E)** None of the previous ones. (see figure)
+> Sum and product
+> How many pairs of non-negative numbers, written in decimal notation with at most three digits
+> after the decimal point, have their sum equal to their product? (Consider as two distinct pairs
+> the pairs in which the elements are swapped, such as (1.5; 3) and (3; 1.5))
 
 **Answer:** 0050
 [[Quesiti/src_kangourou_2019_junior_finale#q10|src_kangourou_2019_junior_finale__Q10]]
@@ -439,19 +365,18 @@ level: kangourou
 
 *Lato incognito dei sei rettangoli nella circonferenza*
 
-> I vertici di un quadrato sono, in senso orario, $A$, $B$, $C$ e $D$. I vertici di un triangolo equilatero sono, in senso orario, $A$, $B$ e $E$, dove $A$ e $B$ sono gli stessi vertici del quadrato. Qual è la misura in gradi dell'angolo $\angle CBE$?
->
-> - **(A)** 30
-> - **(B)** 45
-> - **(C)** 135
-> - **(D)** 145
-> - **(E)** 150
+> I sei rettangoli
+> In figura vedete una circonferenza di raggio 25 dm all’interno della quale
+> sono disposti sei rettangoli, a due a due congruenti, ciascuno con due vertici
+> sulla circonferenza e gli altri due condivisi con i rettangoli adiacenti. Il lato
+> dei rettangoli avente solo un estremo sulla circonferenza misura 14 dm.
+> Qual è l’intero più vicino alla lunghezza in centimetri dell’altro lato?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0119
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -459,13 +384,12 @@ level: kangourou
 
 *Unknown side of the six rectangles in circumference*
 
-> The vertices of a square are $A$, $B$, $C$ and $D$ clockwise. The vertices of an equilateral triangle are $A$, $B$ and $E$ clockwise, where $A$ and $B$ are the same vertices of the square. What is the measurement in degrees of the angle $\angle CBE$?
->
-> - **(A)** 30
-> - **(B)** 45
-> - **(C)** 135
-> - **(D)** 145
-> - **(E)** 150
+> The six rectangles
+> In the figure you see a circle of radius 25 dm inside which
+> six rectangles are arranged, congruent two by two, each with two vertices
+> on the circle and the other two shared with the adjacent rectangles. The side
+> of the rectangles having only one endpoint on the circle measures 14 dm.
+> What is the integer closest to the length in centimeters of the other side?
 
 **Answer:** 0119
 [[Quesiti/src_kangourou_2019_junior_finale#q11|src_kangourou_2019_junior_finale__Q11]]
@@ -479,20 +403,16 @@ level: kangourou
 
 *Prime quattro cifre decimali di (sqrt50+7)^4*
 
-> I numeri $a$, $b$, $c$ e $d$ sono quattro diversi interi fra 1 e 10, estremi inclusi. Qual è il più piccolo valore possibile per l'espressione $\dfrac{a}{b} + \dfrac{c}{d}$?
->
-> - **(A)** $\dfrac{2}{10}$
-> - **(B)** $\dfrac{3}{19}$
-> - **(C)** $\dfrac{14}{45}$
-> - **(D)** $\dfrac{29}{90}$
-> - **(E)** $\dfrac{25}{72}$
+> Le cifre decimali
+> Quali sono le prime quattro cifre decimali (cioè a destra della virgola) nella rappresentazione
+> decimale del numero $(\sqrt{50} + 7)^4$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9999
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -500,13 +420,9 @@ level: kangourou
 
 *First four decimal places of (sqrt50+7)^4*
 
-> The numbers $a$, $b$, $c$ and $d$ are four different integers between 1 and 10, extremes included. What is the smallest possible value for $\dfrac{a}{b} + \dfrac{c}{d}$?
->
-> - **(A)** $\dfrac{2}{10}$
-> - **(B)** $\dfrac{3}{19}$
-> - **(C)** $\dfrac{14}{45}$
-> - **(D)** $\dfrac{29}{90}$
-> - **(E)** $\dfrac{25}{72}$
+> The decimal digits
+> What are the first four decimal digits (that is, to the right of the decimal point) in the
+> decimal representation of the number $(\sqrt{50} + 7)^4$?
 
 **Answer:** 9999
 [[Quesiti/src_kangourou_2019_junior_finale#q12|src_kangourou_2019_junior_finale__Q12]]
@@ -520,34 +436,36 @@ level: kangourou
 
 *Punti raggiungibili con tre mosse (invariante MCD)*
 
-> Il triathlon è una disciplina che richiede di svolgere tre prove: nuoto, corsa a piedi e corsa in bicicletta. Si deve pedalare per tre quarti della distanza totale da percorrere, correre a piedi per un quinto della distanza totale e il percorso da coprire a nuoto è lungo 2 km. Quanti chilometri è lungo l'intero percorso?
->
-> - **(A)** 10
-> - **(B)** 20
-> - **(C)** 38
-> - **(D)** 40
-> - **(E)** 60
+> Tre mosse
+> Partendo da un punto (x, y) del piano (dotato di un usuale sistema cartesiano ortogonale
+> monometrico) con x e y interi positivi, compiere una mossa significa raggiungere il punto (x − y, y)
+> oppure il punto (x + y, y) oppure il punto (y, x). Al variare delle possibili scelte del punto di partenza
+> nel cerchio centrato nell'origine di raggio 4 e dopo quantità opportune di mosse, quanti dei punti
+> contenuti nel cerchio di raggio 1000 centrato nel punto (2019, 2019) e che abbiano ascissa o
+> ordinata, o entrambe, uguali a 2019 possono essere raggiunti? (I cerchi nominati si intendono
+> comprensivi della circonferenza che li delimita).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2664
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-step achievable points (invariant MCD) *
+*Three-step achievable points (invariant MCD)*
 
-> Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance shall be covered on foot, and the distance to be covered by swimming shall be 2 km. How many kilometers is the entire route?
->
-> - **(A)** 10
-> - **(B)** 20
-> - **(C)** 38
-> - **(D)** 40
-> - **(E)** 60
+> Three moves
+> Starting from a point (x, y) in the plane (equipped with a usual orthogonal Cartesian system
+> with equal scales) with x and y positive integers, making a move means reaching the point (x − y, y)
+> or the point (x + y, y) or the point (y, x). As the possible choices of the starting point vary
+> in the circle centered at the origin with radius 4 and after suitable numbers of moves, how many of the points
+> contained in the circle of radius 1000 centered at the point (2019, 2019) and that have x-coordinate or
+> y-coordinate, or both, equal to 2019 can be reached? (The circles mentioned are understood
+> to include the circumference that bounds them).
 
 **Answer:** 2664
 [[Quesiti/src_kangourou_2019_junior_finale#q14|src_kangourou_2019_junior_finale__Q14]]
@@ -561,20 +479,18 @@ level: kangourou
 
 *Modi di programmare gli inviti a tre feste*
 
-> Un rettangolo $3 \times 2$ può essere piastrellato con piastrelle a forma di "L" nei due diversi modi mostrati. In quanti diversi modi può essere piastrellata, con piastrelle dello stesso tipo, la figura indicata?
->
-> - **(A)** 1
-> - **(B)** 2
-> - **(C)** 3
-> - **(D)** 4
-> - **(E)** 48 (vedi figura)
+> Tre feste
+> Voglio fare tre feste e voglio invitare ad ogni festa tre dei miei sei amici; voglio che nessuna terna
+> di amici sia invitata a più di una festa e che nessuno dei miei amici sia presente a tutte le tre feste. In
+> quanti modi diversi posso programmare gli inviti? (Due modi possono essere diversi se le terne
+> coinvolte sono diverse, o anche solo invitate a feste diverse).
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2880
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -582,13 +498,11 @@ level: kangourou
 
 *How to schedule three party invitations*
 
-> A rectangle $3 \times 2$ may be tiled with L-shaped tiles in the two different ways shown. How many different ways can the figure be tiled with tiles of the same type?
->
-> - **(A)** 1
-> - **(B)** 2
-> - **(C)** 3
-> - **(D)** 4
-> - **(E)** 48 (see figure)
+> Three parties
+> I want to hold three parties and I want to invite to each party three of my six friends; I want no triple
+> of friends to be invited to more than one party and that none of my friends is present at all three parties. In
+> how many different ways can I plan the invitations? (Two ways can be different if the triples
+> involved are different, or even just invited to different parties).
 
 **Answer:** 2880
 [[Quesiti/src_kangourou_2019_junior_finale#q15|src_kangourou_2019_junior_finale__Q15]]
@@ -615,7 +529,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategy in the 66-token game (who takes the last one loses) *
+*Winning strategy in the 66-token game (who takes the last one loses)*
 
 > Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why?
 
@@ -671,7 +585,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bruno and Carlo can have a day of rest together (sports programmes) *
+*Bruno and Carlo can have a day of rest together (sports programmes)*
 
 > Bruno and Carlo practice three sports: football, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also requires that rest days be reduced to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
 
@@ -699,7 +613,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After how many years the full moon returns on the same day (cycle 28 days) *
+*After how many years the full moon returns on the same day (cycle 28 days)*
 
 > 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period with which it recurs
 

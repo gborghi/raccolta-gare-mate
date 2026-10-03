@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the result of Marco (always 1089) *
+*What is the result of Marco (always 1089)*
 
 > Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, he puts the digit 0 in front of this difference, otherwise he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What is the result?
 
@@ -222,7 +222,7 @@ What numbers could Bruno have written (maximum sum)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colourings of 8 objects with different adjacent colours *
+*Colourings of 8 objects with different adjacent colours*
 
 > Eight objects are aligned. They need to be painted four in red, three in blue and one in yellow, but so that adjacent objects receive different colors. How many different colourings are admissible?
 

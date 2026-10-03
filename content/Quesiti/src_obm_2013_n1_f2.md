@@ -34,7 +34,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Secenza di sei numeri con pari triplice consecutive; trovare il prodotto di due numeri privi di contenuto *
+*Secenza di sei numeri con pari triplice consecutive; trovare il prodotto di due numeri privi di contenuto*
 
 > Raquel stava completando un puzzle che consisteva nel scrivere sei numeri in fila, uno per scatola, in modo che la somma di tutti e tre numeri consecutivi fosse sempre la stessa. Dopo aver completato la sequenza scrivendo i sei numeri, ha versato inchiostro sulla rivista, cancellando quattro numeri, come mostrato nella figura. Ricorda che uno dei due numeri che aveva scritto (cioè uno dei due numeri visibili) era un sette. Qual è il prodotto dei due numeri che ha scritto?
 > 
@@ -93,7 +93,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unire dodici 3 ×4 rettangoli di plastica fianco a fianco per massimizzare il perimetro *
+*Unire dodici 3 ×4 rettangoli di plastica fianco a fianco per massimizzare il perimetro*
 
 > Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui $3\,\text{cm} \times 4\,\text{cm}$. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
 

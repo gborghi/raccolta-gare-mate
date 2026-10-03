@@ -32,7 +32,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many girls do you add to twice as many boys *
+*How many girls do you add to twice as many boys*
 
 > Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many as boys?
 

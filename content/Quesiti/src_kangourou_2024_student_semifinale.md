@@ -103,7 +103,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Heritage distribution inversely proportional to the ages *
+*Heritage distribution inversely proportional to the ages*
 
 > Yesterday was Monday or Tuesday or Wednesday or Thursday.
 

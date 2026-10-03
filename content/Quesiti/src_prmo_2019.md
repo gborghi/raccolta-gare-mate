@@ -117,7 +117,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostrato di camminata di formiche Distanza totale *
+*Mostrato di camminata di formiche Distanza totale*
 
 > Una formica lascia la formica per l'esercizio mattutino. Cammina a 4 piedi ad est e poi fa una curva a destra e cammina altri 4 piedi. Poi fa un'altra volta a destra e cammina altri 4 piedi. Se la formica continua questo modello fino a raggiungere di nuovo la formica, quale distanza in piedi avrebbe camminato?
 
@@ -419,7 +419,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I coppie di diagonali paralleli in 10 goni regolari *
+*I coppie di diagonali paralleli in 10 goni regolari*
 
 > In quanti modi si possono selezionare una coppia di diagonali paralleli di un poligono regolare di 10 lati?
 

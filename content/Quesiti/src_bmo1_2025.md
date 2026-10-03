@@ -101,7 +101,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine la strategia vincente nel gioco di sostituzione del tavolo *
+*Determine la strategia vincente nel gioco di sostituzione del tavolo*
 
 > Rhian e Jack stanno giocando a un gioco in cui inizialmente il numero $10^6$ è scritto su una lavagna nera. Se il numero corrente sulla scheda è $n$, una mossa consiste nel scegliere due diversi integri positivi $a, b$ come $n = ab$ e sostituire $n$ con $|a - b|$. Rhian inizia, poi i giocatori fanno mosse alternativamente. Un giocatore perde se non riesce a muoversi.
 > 

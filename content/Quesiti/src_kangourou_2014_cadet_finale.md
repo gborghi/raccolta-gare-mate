@@ -136,7 +136,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the right triangle from the angle bisector (4 and 5) *
+*Area of the right triangle from the angle bisector (4 and 5)*
 
 ![[src_kangourou_2014_cadet_finale__prob4.png]]
 

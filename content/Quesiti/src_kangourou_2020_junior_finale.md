@@ -92,7 +92,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square of the measurement of BD (similar triangles) *
+*Square of the measurement of BD (similar triangles)*
 
 ![[src_kangourou_2020_junior_finale__prob2.png]]
 
@@ -148,7 +148,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum competitors (Fibonacci sequences without two 1) *
+*Minimum competitors (Fibonacci sequences without two 1)*
 
 > Competitors A Kangourou competition consisted of 12 numbered questions. The report sent to the manager provided the following two information: - each participant answered all questions; - no participant gave the correct answer to two consecutive questions. The person responsible, without knowing the details but knowing the number of participants, concludes that at least two candidates answered the same way, that is, correctly and incorrectly to the same questions. At least, how many competitors took part in the competition?
 
@@ -180,7 +180,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of houses destroyed (average 995.8) *
+*Number of houses destroyed (average 995.8)*
 
 > On a long street in my town, the houses were numbered, without skipping any number, from first to last. One day one of these houses was torn down. The mean of the remaining numbers then became 995.8. What was the number of the house that was torn down?
 

@@ -31,7 +31,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli numeri inversi di N sono uguali a 4N+3; trovare tutti i N a quattro cifre *
+*Gli numeri inversi di N sono uguali a 4N+3; trovare tutti i N a quattro cifre*
 
 > $N$ è un numero intero a quattro cifre, che non termina in zero, e $B(N)$ è il numero intero a quattro cifre ottenuto invertendo i numeri di $N$. Ad esempio, $B(3275) = 5723$.
 > 

@@ -308,7 +308,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo semicircolo e triangolo di isosceles della stessa superficie; trovare tan(x) *
+*Triangolo semicircolo e triangolo di isosceles della stessa superficie; trovare tan(x)*
 
 > Il disegno di seguito mostra un semicircolo e un triangolo di isosceles della stessa area. Qual è il valore di $\tan x^\circ$?
 > 
@@ -423,7 +423,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rete stradale a triangolo retto; deviazione del 24% più lunga; bronzatura con angolo più piccolo *
+*Rete stradale a triangolo retto; deviazione del 24% più lunga; bronzatura con angolo più piccolo*
 
 > Le città di A'opolis, Be'opolis e Ce'opolis sono collegate da strade rette. È noto che la strada che collega A'opolis e Be'opolis è perpendicolare alla strada che collega A'opolis e Ce'opolis. Rubens vive a Be'opolis e ha un impegno a Ce'opolis. Tuttavia, la strada che collega Be'opolis a Ce'opolis è chiusa, quindi deve percorrere la rotta Be'opolis-A'opolis-Ce'opolis. Per raggiungere l'impegno in tempo, Rubens viaggia a una velocità $24\%$ superiore a quella che avrebbe usato sulla strada chiusa.
 > 
@@ -633,7 +633,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema a^2-ab=1, b^2-bc=1, c^2-ca=1; trovare abc(a+b+c) *
+*Sistema a^2-ab=1, b^2-bc=1, c^2-ca=1; trovare abc(a+b+c)*
 
 > $a$, $b$, $c$ siano numeri tali che $$a^2-ab=1,\quad b^2-bc=1,\quad c^2-ca=1.$$ Il valore di $abc(a+b+c)$ sia uguale a:
 > 

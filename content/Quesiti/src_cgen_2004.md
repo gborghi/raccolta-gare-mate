@@ -348,7 +348,7 @@ level: Concours Général
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritorno al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni divisore primo n^2+1 è la somma di due quadrati, infinità, e razionalità di L(n,k) *
+*Ritorno al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni divisore primo n^2+1 è la somma di due quadrati, infinità, e razionalità di L(n,k)*
 
 > Torniamo al problema iniziale.
 > 

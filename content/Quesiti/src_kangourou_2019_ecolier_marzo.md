@@ -36,7 +36,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is 17 (bullets and bars) *
+*Which figure is 17 (bullets and bars)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob1.png]]
 
@@ -339,7 +339,7 @@ How many students if girls are doubles and +8*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many dots per 7 photographs (shared pattern) *
+*How many dots per 7 photographs (shared pattern)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob7.png]]
 
@@ -575,7 +575,7 @@ What the driver sees from the opposite side of the glass
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total weight of each of the three dogs (balance) *
+*Total weight of each of the three dogs (balance)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob11.png]]
 
@@ -870,7 +870,7 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number represents the star (row sum) *
+*What number represents the star (row sum)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob17.png]]
 
@@ -1076,7 +1076,7 @@ Maximum number of pages if the digit 5 appears 16 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants) *
+*How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants)*
 
 > In a zoo there are a total of 15 animals: lions, elephants and kangaroos. Ten are not lions, eight are not elephants. How many kangaroos are there? A) 2
 > 	

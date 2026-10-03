@@ -459,7 +459,7 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum blackened grid boxes 7×7 without three consecutive *
+*Maximum blackened grid boxes 7×7 without three consecutive*
 
 > What is the maximum number of boxes that can be blackened in the $7 \times 7$ grid of the figure without ever forming three consecutive boxes, aligned horizontally or vertically?
 

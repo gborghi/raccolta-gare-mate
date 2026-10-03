@@ -112,7 +112,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers have been written by Mark (all digits 9) *
+*How many numbers have been written by Mark (all digits 9)*
 
 > Is Mark still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Mark intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
 
@@ -496,7 +496,7 @@ Maximum fraction < 1/3 with sum <= 103*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds when Anna is separated from the dog (500m track) *
+*Seconds when Anna is separated from the dog (500m track)*
 
 > Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The track is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
 

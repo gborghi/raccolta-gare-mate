@@ -561,7 +561,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Billboard edge point for bouncing *
+*Billboard edge point for bouncing*
 
 ![[src_archimede_2023_biennio__prob12.png]]
 
@@ -715,7 +715,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*6 metres walk back to the pit (without reversing) *
+*6 metres walk back to the pit (without reversing)*
 
 > A turtle occasionally takes a walk, starting from its own lair. The pass is made up of one metre straight sections, always in one of the directions North, South, West, East. When it changes direction, it can rotate only 90°(it cannot turn and reverse the motion). How many six-meter walks are possible, at the end of which the turtle is back in the ditch?
 >

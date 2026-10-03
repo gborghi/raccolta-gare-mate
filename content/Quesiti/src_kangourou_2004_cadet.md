@@ -475,7 +475,7 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (square and semicircular) *
+*Shaded region area (square and semicircular)*
 
 ![[src_kangourou_2004_cadet__prob11.png]]
 
@@ -543,7 +543,7 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many boys (cones with two distinct flavors) *
+*How many boys (cones with two distinct flavors)*
 
 > An ice cream shop sells ice cream of nine different flavors. A group of kids walks into the store and each buys a two-flavor ice cream cone: neither of them chooses the same combination of flavors and no combination of flavors is discarded. How many kids are there? A) 9            B) 36          C) 72         D) 81          E) 90
 
@@ -673,7 +673,7 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min bricks 1x2x3 for a full cube *
+*Min bricks 1x2x3 for a full cube*
 
 > I have a lot of wooden bricks available, all 1 cm long, 2 cm wide and 3 cm high. What is the smallest number of bricks needed to build a full cube? A) 12           B) 18          C) 24         D) 36    E) 60
 
@@ -713,7 +713,7 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length by path (Pythagorean triples) *
+*Length by path (Pythagorean triples)*
 
 ![[src_kangourou_2004_cadet__prob17.png]]
 
@@ -897,7 +897,7 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Autumn compared to spring (discounts/increases) *
+*Autumn compared to spring (discounts/increases)*
 
 > A shop in Milan and a shop in Rimini in the spring sell the same items at the same prices. The Milan store reduces prices by 10% during the summer and increases prices by 10% in the autumn compared with those in the summer; the one in Rimini does the exact opposite, which is to say, it increases prices by 10% during the summer and reduces prices by 10% in the autumn compared with those in the summer. In autumn compared to spring A) the Milan store is more expensive and that of Rimini less expensive B) the Milan store is less expensive and that of Rimini more expensive C) both stores are more expensive D) both stores are less expensive E) both stores have kept prices unchanged
 
@@ -961,7 +961,7 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cannot be total pages (48/52) *
+*Which cannot be total pages (48/52)*
 
 > I put some magazines on a shelf. Some have 48 pages and some 52 pages. Which of these numbers cannot be the total number of pages of the magazines I put on the shelf? A) 500        B) 524        C) 568        D) 588       E) 620
 

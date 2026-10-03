@@ -36,7 +36,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For what amount is change needed (coins) *
+*For what amount is change needed (coins)*
 
 > You have a five-euro banknote, a two-euro coin and a one-euro coin in your pocket and you must pay one of the following amounts: A) 3 € B) 4 € C) 6 € D) 7 € E) 8 € For which of these must you necessarily wait for change?
 
@@ -701,7 +701,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time does the clock go back to *
+*What time does the clock go back to*
 
 > At 6:15, your digital clock, which at that time marked the exact time, fell to the ground and began to go backwards, yet keeping the exact time. At 19:30, you looked at the clock again. What time did it say? A) 17:00 B) 17:45 C) 18:30 D) 19:00 E) 19:15 1 2 3 4 A B C D E Texts_09.qxp 15-04-2009 20:23 Page 7
 > 
@@ -772,7 +772,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds to exit the viaduct (train) *
+*Seconds to exit the viaduct (train)*
 
 > A 180-meter-long train takes five seconds to pass a person. Shortly thereafter, the train enters a 360-meter viaduct. If the speed of the train remains the same, how many seconds pass from the moment the train enters the viaduct to the moment the last carriage leaves? A) 15 B) 10 C) 20 D)30 E) 25
 
@@ -858,7 +858,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What code (sum of even numbers = odd) *
+*What code (sum of even numbers = odd)*
 
 > A secret code is made up of 6 digits; the sum of the digits in even positions is equal to the sum of the digits in odd positions. The code certainly corresponds to one of the following, where the figures indicated with * are unreadable. Which one? A) 81**61 B) 7*727* C) 4*4141 D) 12*9*8    E) 181*2*
 

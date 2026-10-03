@@ -340,7 +340,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential max-min top of pyramid sum (4 numbers) *
+*Differential max-min top of pyramid sum (4 numbers)*
 
 ![[src_archimede_2025_biennio__prob8.png]]
 
@@ -428,7 +428,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit pins with four equal and one different *
+*Five-digit pins with four equal and one different*
 
 > Silvia must reset her credit card pin, which consists of 5 digits (each of which can be any number from 0 to 9). To remember it easily, it will make sure that there are 4 digits that are equal to each other and a number that is different from the other 4. How many pins do you think meet these requirements?
 >
@@ -612,7 +612,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Islands with a single deck (divisibility) *
+*Islands with a single deck (divisibility)*
 
 > There are 50 islands in a large lake, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of the respective numbers divides the other. How many islands have one bridge?
 >

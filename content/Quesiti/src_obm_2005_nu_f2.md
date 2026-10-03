@@ -83,7 +83,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la permutazione che limita tutte le somme parziali dei vettori da sqrt(5) *
+*Ricerca la permutazione che limita tutte le somme parziali dei vettori da sqrt(5)*
 
 > $v_1, v_2, \ldots, v_n$ siano vettori in $\mathbb{R}^2$ tali da $|v_i| \le 1$ per $1 \le i \le n$ e $\sum_{i=1}^n v_i = 0$. Prova che esiste una permutazione $\sigma$ di $\{1, 2, \ldots, n\}$ tale che $$\left|\sum_{j=1}^k v_{\sigma(j)}\right| \le \sqrt{5}$$ per ogni $k$ con $1 \le k \le n$. (Nota: se $v = (x,y) \in \mathbb{R}^2$, allora $|v| = \sqrt{x^2+y^2}$ indica la norma euclidica di $v$.)
 

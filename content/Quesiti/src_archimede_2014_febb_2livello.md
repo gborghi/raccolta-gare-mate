@@ -437,7 +437,7 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-zero coefficients of the product of binomials (1+x^3^k) *
+*Non-zero coefficients of the product of binomials (1+x^3^k)*
 
 > Consider the polynomial p(x) = (1 + x31)(1 + x32)(1 + x33)(1 + x34)(1 + x35)(1 + x39)), and suppose we perform the product, thus obtaining an expression of the type a0 + a1x + a2x2 + . . . + a402x402, where for example a0 = a402 = 1. How many of the coefficients a0, . . . , a402 is different from zero?
 >
@@ -563,7 +563,7 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exponent of the first 2 in product of (5^d-1) *
+*Exponent of the first 2 in product of (5^d-1)*
 
 > What is the exponent of the first 2 in the factorization of the number (5 −1)(55 −1) . . . (55...5 −1) where in each factor an exponent appears a 5 more than in the previous and the last ones appear, as exponents, 2014?
 
@@ -635,7 +635,7 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid colour with row/column constraints, pairs (m,n) *
+*Grid colour with row/column constraints, pairs (m,n)*
 
 > A grid with m rows and n columns has each box colored in white or black so as to meet the following two conditions: (a) each row contains as many white boxes as black; (b) if a row meets a column in a black box, then that row and that column have the same number of black boxes; similarly, if a row intersects a column in a white box, then that row and that column have the same number of white boxes. Find all possible pairs (m, n) for which such a colour may exist.
 

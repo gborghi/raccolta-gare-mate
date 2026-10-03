@@ -134,7 +134,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perla 90% acqua, disidrata al 60% acqua; trova litri evaporati a partire da 100 kg *
+*Perla 90% acqua, disidrata al 60% acqua; trova litri evaporati a partire da 100 kg*
 
 > Una pera è costituita al 90% da acqua e al 10% da materia solida. Un produttore mette 100 chilogrammi di pere in disidratazione fino a quando l'acqua non rappresenta il 60% della massa totale. Quanti litri di acqua evaporeranno? (Ricordi: 1 litro di acqua ha una massa di 1 kg.)
 > 
@@ -705,7 +705,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di x reale con x^2+x+1 = 156/(x^2+x) *
+*Summa di x reale con x^2+x+1 = 156/(x^2+x)*
 
 > La somma dei valori reali di $x$ tale che $x^2 + x + 1 = 156/(x^2 + x)$ è:
 > 

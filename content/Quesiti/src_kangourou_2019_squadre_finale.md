@@ -271,7 +271,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of bags containing the initial *
+*Probability of bags containing the initial*
 
 > Ada and Bice Ada and Bice have two bags of identical content: one marble for each of the five colors A, B, C, D and E. Ada randomly picks a marble from her bag and inserts it into Bice's, immediately after Bice picks a marble randomly from her bag and inserts it into Ada's. Now the two bags have five marbles each again. What is the probability that the contents of the bags are equivalent to the original? (Write the probability as a fraction of integers p/q reduced to minimum terms and write in the order p and q; for example, if the answer was 7/9, write [0709].)
 >  
@@ -371,7 +371,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quite power with 1 or 6 as a unit *
+*Quite power with 1 or 6 as a unit*
 
 > How many of the first thousand perfect fourth powers of positive integers have 1 or 6 as a unit number?
 
@@ -459,7 +459,7 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum diagonals to stiffen a 4x4 grid *
+*Minimum diagonals to stiffen a 4x4 grid*
 
 ![[src_kangourou_2019_squadre_finale__prob12.png]]
 

@@ -216,7 +216,7 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Start number in play Magic with two digits *
+*Start number in play Magic with two digits*
 
 > Carla takes a two-digit number (a positive integer), multiplies it by 4 and then subtracts 3 from the result thus obtained. It's magic! The number Carla finally finds is written with the same numbers as the starting number, but in reverse order. What was the departure number?
 

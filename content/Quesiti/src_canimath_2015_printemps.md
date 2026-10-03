@@ -179,7 +179,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Floor-based f(n); trovare tutti gli integri n con f(n+1)>f(n) *
+*Floor-based f(n); trovare tutti gli integri n con f(n+1)>f(n)*
 
 > $\lfloor x \rfloor$ indichi la parte integrale di $x$. Ad esempio, $\lfloor 15/4 \rfloor = 3$. Definire $$f(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor.$$ Trovare tutti gli enti $n$ in modo che $f(n+1) > f(n)$.
 

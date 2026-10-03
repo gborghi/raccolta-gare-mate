@@ -169,7 +169,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real successions broken down in two by partial sums *
+*Real successions broken down in two by partial sums*
 
 > Determine whether the following statement is true or false: For each succession x1, x2, x3, ... of real numbers greater than or equal to zero there are two successions a1, a2, a3, ... e b1, b2, b3, ... of real numbers greater than or equal to zero such that • xn = an + bn for each n; • a1 + ... + an ≤n for infinite values of n; • b1 + ... + bn ≤n for infinite values of n, possibly different from the previous ones.
 

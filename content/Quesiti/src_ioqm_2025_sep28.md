@@ -139,7 +139,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coefficiente di x^2025 in prodotto; restante mod 100 *
+*Coefficiente di x^2025 in prodotto; restante mod 100*
 
 > Che $N$ sia il coefficiente di $x^{2025}$ nell'espansione di $$(x+1)(x^2+3)(x^4+5)(x^8+7)\cdots(x^{1024}+21).$$ Qual è il rimanente quando $N$ è diviso per 100?
 
@@ -166,7 +166,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro numeri primi distinti sommano a 240, nessuno più grande di 70; trovare il più piccolo *
+*Quattro numeri primi distinti sommano a 240, nessuno più grande di 70; trovare il più piccolo*
 
 > La somma di quattro numeri primi distinti è 240. Se nessuno dei quattro numeri primi è più grande di 70, quale è il più piccolo dei quattro numeri?
 
@@ -193,7 +193,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n ≤ 100 divisibili per tutti i con i^3 ≤ n *
+*Contare i numeri interi positivi n ≤ 100 divisibili per tutti i con i^3 ≤ n*
 
 > Quanti integri positivi $n \le 100$ sono divisibili da tutti gli integri positivi $i$ in modo tale che $i^3 \le n$?
 
@@ -523,7 +523,7 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (m,n) con 1 ≤ m < n ≤ 50 e mn un quadrato perfetto *
+*Contare le coppie ordinate (m,n) con 1 ≤ m < n ≤ 50 e mn un quadrato perfetto*
 
 > Trova il numero di coppie ordinate $(m, n)$ dove $m$ e $n$ sono integri positivi in modo tale che $1 \le m < n \le 50$ e il prodotto $mn$ sia un quadrato perfetto.
 

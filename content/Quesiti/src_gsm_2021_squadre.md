@@ -174,7 +174,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies n with n^2 and n^3 sums of consecutive *
+*Interies n with n^2 and n^3 sums of consecutive*
 
 > At Potenza Sandro Campigotto Paolo has come to pick up his friend Andrea who is arriving at the Central Power Station. I'm going to be a little late. How many positive integer n numbers until 2021 are such that the numbers n2 and n3 are both sums of n consecutive positive integers? But is it ever possible that every time I come you have to ask me a question about the powers of numbers? Anyway, you mean 2021 included? Yes, you are! Paul, then I know the answer! (1) In each issue, the author's name appears next to the title.
 
@@ -486,7 +486,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most integer value of (x^2+xy+y^2)/10 below 9999 *
+*Most integer value of (x^2+xy+y^2)/10 below 9999*
 
 > Lake Albano Lorenzo Mazza Vlada and Matteo are in Rome and decide to take advantage of the beautiful day to cycle around the perimeter of Lake Albano. Vlada (After a long pedal ride) I'm so tired, how many meters have we walked? Matthew We traveled as many meters as the greatest integer value of the number x2 + xy + y2 10 obtained using positive integers x and y, and that is less than or equal to 9999. What number is it?
 
@@ -581,7 +581,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum of max and min that say the real *
+*sum of max and min that say the real*
 
 > At Villasimius Andrea Giusto Simone (Walking on a long beach in Villasimius) Look at how many people. Mara is 2021. Simone, how do you know? Mara, can't you see? Each of them wrote a sentence on the shirt like n of 2021. They're part of a society where every member either always tells the truth or lies. They are divided into 4 groups: group A, where members with an equal number less than 1011 are located; group B, with members with an odd number less than 1010; group C, which consists of members with an equal number greater than 1011; and finally group D, with members with an odd number greater than 1010. Listen, they're about to talk. Members with a multiple of mine always lie. Members with a multiple of mine always tell the truth. Partnership with the 2020 of 2021 article Partners with an equal number always tell the truth. The partners who say the truth are more numerous than the partners who say the false. Simone Incredible: all the people in the same group made the same statement! What is the sum between the maximum possible number of partners telling the truth and the minimum possible? Team competition 2021  Problem texts  Pag. 3 di 5
 
@@ -703,7 +703,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n to divide cards 1..n into four squares is equal to *
+*Minimum n to divide cards 1..n into four squares is equal to*
 
 > Porto Garibaldi Sandro Campigotto Corinna and Paola are relaxing on the beach in Porto Garibaldi. The deck I have in my hand contains a certain number of cards, let's say n. Each card is numbered with a number from 1 to n. Divide it into four lots according to these rules:
 
@@ -760,7 +760,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit codes with a product of 108 digits *
+*Five-digit codes with a product of 108 digits*
 
 > 18. At the San Carlo Elena Espa the Teatro San Carlo reopens its doors to the public with a special event. Only those who know the access code will be able to access the show! What does it consist of? The code is five digits, the product of which is 108. This information is not enough to determine the code. ♪ I'm not going to lie ♪
 

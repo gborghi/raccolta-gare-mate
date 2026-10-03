@@ -378,7 +378,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* which representation*
+*which representation*
 
 ![[src_kangourou_2015_marzo_ecolier__prob8.png]]
 
@@ -415,7 +415,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
 ![[src_kangourou_2015_marzo_ecolier__prob9.png]]
 
@@ -1209,7 +1209,7 @@ The sum of John's sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits *
+*sum of digits*
 
 > The product of the digits of an integer is 15. What's their sum? A) 2
 > 	

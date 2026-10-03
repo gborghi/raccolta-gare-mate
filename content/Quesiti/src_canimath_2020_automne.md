@@ -264,7 +264,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu) *
+*Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu)*
 
 > Alexie e Baptiste possiedono entrambi un edificio. Ogni piano dell'edificio di Alexie ha bagni e camere da letto. Baptiste, per quanto riguarda lui, dispone di $4$ bagni e $3$ camere da letto per piano. Ci sono in totale $25$ bagni e $18$ camere da letto. Trova il numero di piani degli edifici di Alexie e Baptiste.
 > 
@@ -292,7 +292,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un angolo FEA in un quadrato con E sulla diagonale BD in modo che EB=AB (liceu) *
+*Trova un angolo FEA in un quadrato con E sulla diagonale BD in modo che EB=AB (liceu)*
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
@@ -323,7 +323,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine il numero di pecore perfetto in quadrato di ciascun pastore dato il limite di somma e la parità (liceu) *
+*Determine il numero di pecore perfetto in quadrato di ciascun pastore dato il limite di somma e la parità (liceu)*
 
 > Noémie e Tristan sono pastori. Ognuno di essi possiede un numero di pecore che è un quadrato perfetto, cioè un intero che può essere scritto nella forma $n^2 = n \times n$ con $n$ un intero non negativo. Scriviamo così $a^2$ per il numero di pecore di Noémie e $b^2$ per quello di Tristan. Dopo un rapido conteggio del numero totale di pecore, si deduce che $97 \le a^2 + b^2 \le 108$. Determina il numero di pecore di ciascuna, sapendo che:
 > 
@@ -379,7 +379,7 @@ level: Coupe Animath Automne
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta x reale in [1,10] con frazione-parte(x) quadrato uguale alla frazione-parte(x quadrato) *
+*Conta x reale in [1,10] con frazione-parte(x) quadrato uguale alla frazione-parte(x quadrato)*
 
 > Per ogni numero reale $x$, scriviamo $\lfloor x \rfloor$ per il numero intero più grande inferiore o uguale a $x$, quindi chiamiamo * parte frazionaria* di $x$ il numero $\langle x \rangle$ definito da $\langle x \rangle = x - \lfloor x \rfloor$. Quanti numeri reali $x$ verificano $1 \le x \le 10$ e $\langle x \rangle^2 = \langle x^2 \rangle$?
 

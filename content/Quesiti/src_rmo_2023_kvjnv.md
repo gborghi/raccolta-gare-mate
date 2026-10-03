@@ -85,7 +85,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti reali di grado 2, a,b,c separati in coppia con f(a) = bc; trovare f(a+b+c) *
+*Polinomio con coefficienti reali di grado 2, a,b,c separati in coppia con f(a) = bc; trovare f(a+b+c)*
 
 > $f(x)$ sia un polinomio con coefficienti reali di grado 2. Supponiamo che per alcuni numeri reali separati in coppia $a, b, c$ abbiamo $$f(a) = bc; \quad f(b) = ca; \quad f(c) = ab.$$ Determina $f(a + b + c)$ in termini di $a, b, c$.
 

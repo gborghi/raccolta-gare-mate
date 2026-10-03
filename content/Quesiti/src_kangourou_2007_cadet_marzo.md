@@ -103,7 +103,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which hole the ball falls into (45 degrees) *
+*Which hole the ball falls into (45 degrees)*
 
 ![[src_kangourou_2007_cadet_marzo__prob3.png]]
 
@@ -315,7 +315,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between palindromes (6 and 5 digits) *
+*Difference between palindromes (6 and 5 digits)*
 
 > A number is called a palindrome if its decimal representation can be read indifferently from right to left or from left to right, as happens for example with 13931. What's the difference between the largest palindrome number of six significant digits and the smallest of five significant digits? A) 989989 B) 989998 C) 998998 D) 999898 E) 999988
 
@@ -354,7 +354,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Large rectangular perimeter (6 circumferences) *
+*Large rectangular perimeter (6 circumferences)*
 
 ![[src_kangourou_2007_cadet_marzo__prob9.png]]
 
@@ -809,7 +809,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greatest sum by subtracting 3 numbers (grid) *
+*Greatest sum by subtracting 3 numbers (grid)*
 
 ![[src_kangourou_2007_cadet_marzo__prob19.png]]
 
@@ -853,7 +853,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (square and perpendicular) *
+*Shaded region area (square and perpendicular)*
 
 ![[src_kangourou_2007_cadet_marzo__prob20.png]]
 
@@ -892,7 +892,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers to list (calculator without 1) *
+*How many numbers to list (calculator without 1)*
 
 > A malfunctioning calculator never shows the digit 1. For example, if you type 3131, only the number 33 appears, no spaces. Marco typed a 6-digit number, but only the number 2007 appeared: how many numbers do I have to list to be sure of saying the number that Marco typed? A) 12 B) 13 C) 14 D) 15 E) 16
 
@@ -926,7 +926,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kilometres walked by Alfredo (up and down) *
+*Kilometres walked by Alfredo (up and down)*
 
 > Alfredo goes for a walk: the first stretch of road is flat, the second up. He returns along the same road and takes two hours overall. His speed is 4 km/h on flat land, 3 km/h up and 6 km/h down. How many kilometres has Alfredo walked? A) You cannot answer, because it depends on the length of the flat stretch of road. B) 6 C) 7.5 D) 8 E) 10
 
@@ -1029,7 +1029,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 4-digit self-descriptive numbers *
+*How many 4-digit self-descriptive numbers*
 
 > The first digit of a four-digit number is equal to the number of digits 0 of that number, the second digit is equal to the number of digits 1, the third digit is equal to the number of digits 2, and the fourth digit is equal to the number of digits 3. How many numbers have this property? A) 0 B) 2 C) 3 D) 4 E) 5
 
@@ -1102,7 +1102,7 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the remaining paper (sum 3x) *
+*Number on the remaining paper (sum 3x)*
 
 ![[src_kangourou_2007_cadet_marzo__prob26.png]]
 

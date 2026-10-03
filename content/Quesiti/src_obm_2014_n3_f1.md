@@ -146,7 +146,7 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare il più grande dei cinque poteri di base consecutive *
+*Identificare il più grande dei cinque poteri di base consecutive*
 
 > Segna l'alternativa che presenta il più grande dei cinque numeri. (A) $2014^5$ (B) $3015^4$ (C) $4016^3$ (D) $5017^2$ (E) $6018^1$
 
@@ -378,7 +378,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo x in una figura circolare con due triangoli e accordi paralleli *
+*Angolo x in una figura circolare con due triangoli e accordi paralleli*
 
 > Considerate la figura laterale, dove i punti $A$ a $I$ sono su una circonferenza. È noto che i triangoli $ABC$ e $GHI$ sono uguali, che $AB$, $CD$, $EF$ e $GH$ sono segmenti paralleli e che $BC$, $DE$, $FG$ e $HI$ sono segmenti paralleli. Qual è la misura dell'angolo $x$ in gradi? (A) $15^\circ$ (B) $20^\circ$ (C) $30^\circ$ (D) $40^\circ$ (E) $45^\circ$
 
@@ -634,7 +634,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione dei denominatori delle due frazioni intimamente legate al 2014/51 (vicinanti di Farey) *
+*Produzione dei denominatori delle due frazioni intimamente legate al 2014/51 (vicinanti di Farey)*
 
 > Due frazioni $\frac{a}{b}$ e $\frac{c}{d}$, con $a,b,c,d$ numeri interi positivi, sono intimi quando $ad - bc = \pm 1$. Ad esempio, $\frac{1}{2}$ è intimo con $\frac{1}{3}$ e $\frac{2}{3}$ dal momento che $1 \cdot 3 - 2 \cdot 1 = 1$ e $1 \cdot 3 - 2 \cdot 2 = -1$. Due frazioni intimamente legate a $\frac{2014}{51}$ hanno denominatori inferiori a $51$. Essendo $\frac{x}{y}$ e $\frac{z}{w}$ queste frazioni, qual è il valore di $y \cdot w$? (A) $58$ (B) $68$ (C) $78$ (D) $88$ (E) $98$
 

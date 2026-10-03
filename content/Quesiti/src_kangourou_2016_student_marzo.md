@@ -124,7 +124,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure cannot be the stream (constant bridge) *
+*Which figure cannot be the stream (constant bridge)*
 
 ![[src_kangourou_2016_student_marzo__prob3.png]]
 
@@ -1040,7 +1040,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real solutions of (x^2-4x+5)^{x^2+x-30}=1 *
+*Real solutions of (x^2-4x+5)^{x^2+x-30}=1*
 
 > How many distinct real solutions does the equation (x2 − 4x + 5) = 1 admit? A) 1
 > 	

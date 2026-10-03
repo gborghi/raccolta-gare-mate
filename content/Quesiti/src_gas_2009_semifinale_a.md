@@ -238,8 +238,6 @@ Succession with average variations, term value 1000
 *Last 4 digits minimum fraction number with ab=43!*
 
 > Gobbit games Morry bets with Polino that the latter will fail to find the last 4 digits of the numerator of the smallest rational number of the form a/b (reduced to minimum terms) with ab = 43! And so b is not a multiple of 143. What number will Polino have to guess to win the bet? Team competition 2009  Semifinal A  Problem texts  Pag. 1 di 2
-> 
-> I'm going to pay. 2 out of 2  Team competition 2009  Semifinal A  Problem texts
 
 **Answer:** 1331
 [[Quesiti/src_gas_2009_semifinale_a#q07|src_gas_2009_semifinale_a__Q07]]
@@ -480,7 +478,7 @@ Minimum total number of soldiers with 5a^3=6b^4
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular angle ABC with circle and arc *
+*Rectangular angle ABC with circle and arc*
 
 > The walls of Isengraf The tower of the sorcerer Sarumath the White, lord of Isengraf and traitor of the free peoples, stands in the middle of a plain and is surrounded by two perimeters of walls that intersect each other: the oldest walls draw in the plain a convex quadrilateral ABCD, while the most recent ones are circular in shape and intersect 8 times with the former, remaining divided by the intersection points into 8 arches. Of these, the 4 interiors of the ancient walls are such that the sums of the lengths of two non-consecutive ones are equal to each other. The DAB angle of the quadrilateral is 72°; furthermore, d BCD−d CDA = 30°. Determine the angle d of ABC.
 

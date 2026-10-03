@@ -271,7 +271,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Highest water level vessel with half a litre *
+*Highest water level vessel with half a litre*
 
 ![[src_kangourou_2021_cadet__prob6.png]]
 
@@ -1174,7 +1174,7 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of tokens in the box (boxes) *
+*Maximum number of tokens in the box (boxes)*
 
 > A box contains only green, red, blue and yellow tokens. Whatever tokens you draw from the box, • 27 tokens, there is always at least one green; • 25 tokens, there is always at least one red; • 22 tokens, there is always at least one blue; • 17 tokens, there is always at least one yellow. What is the maximum number of tokens the box could contain? A) 27
 > 	
@@ -1504,9 +1504,6 @@ Turn where D meets F in the tournament
 > C) 6
 > 	
 > D) 6,5 E) 7 Q P 1 2 3 4 5 A – B C – D A – E E – F A – C P Q R S T U V W K 18 ? 10 8
-> 
-> This is the case for the following:
->
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_cadet#q30|src_kangourou_2021_cadet__Q30]]

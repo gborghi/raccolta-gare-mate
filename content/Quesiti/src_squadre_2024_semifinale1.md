@@ -97,7 +97,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,y) with ≠ 4000 and relationship to powers of 2 *
+*Pairs (x,y) with ≠ 4000 and relationship to powers of 2*
 
 > Noted yellow book writer Jessica Fourier likes to put some math questions in her novels. In its last effort, it asks the reader how many pairs (x,y) of integers with \\\displaystyle \\\mathbb {≤4000} are so there exists a positive integer k that satisfies the relation x2 +y2 +22k−1 +2kx−2ky = 0. What's the answer?
 

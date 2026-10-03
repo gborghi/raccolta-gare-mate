@@ -76,7 +76,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza arrotondata alle prime dieci iniziali 0, 10, 10, 20, 30, ...; conteggiamento pari a 40. *
+*Sequenza arrotondata alle prime dieci iniziali 0, 10, 10, 20, 30, ...; conteggiamento pari a 40.*
 
 > La sequenza, formata arrotondando ciascuno dei seguenti numeri al decimo più vicino, inizia $0, 10, 10, 20, 30, \ldots$ Quando continua, quanti termini di questa sequenza sono uguali a $40$?
 >
@@ -161,7 +161,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma dei numeri interi positivi k soddisfacente (k ÷ 12) ÷ (15 ÷ k) = 20. *
+*Ricerca la somma dei numeri interi positivi k soddisfacente (k ÷ 12) ÷ (15 ÷ k) = 20.*
 
 > Il numero intero positivo $k$ è una soluzione dell'equazione $(k \div 12) \div (15 \div k) = 20$. Qual è la somma delle cifre di $k$?
 >
@@ -833,7 +833,7 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dina corre n volte più veloce di Laura, che inizia a s metri di fronte; fino a che punto Dina corre prima di superare? *
+*Dina corre n volte più veloce di Laura, che inizia a s metri di fronte; fino a che punto Dina corre prima di superare?*
 
 > Laura e Dina hanno una corsa. Laura corre a velocità costante e Dina corre $n$ volte più veloce di $n > 1$. Laura inizia $s$ m di fronte a Dina. Che distanza, in metri, Dina corre prima di superare Laura?
 >

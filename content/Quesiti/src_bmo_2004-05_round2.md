@@ -31,7 +31,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra N è un quadrato perfetto dato esattamente 2005 coppie ordinate (x,y) *
+*Mostra N è un quadrato perfetto dato esattamente 2005 coppie ordinate (x,y)*
 
 > Il numero intero $N$ è positivo. Esistono esattamente coppie ordinate 2005 $(x, y)$ di integri positivi che soddisfano $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$ Prove che $N$ è un quadrato perfetto.
 

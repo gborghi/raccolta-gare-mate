@@ -970,7 +970,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 > In the 3x3 grid in the figure, 4 numbers are visible. Nicola inserted a positive integer into each cell that appears free so that the sum of the numbers in each 2x2 subgrid is 10 (the subgrids can only be made by truncing consecutive rows and columns). How much can the sum of the numbers entered by Nicholas be worth? A) 9 B) 10 C) 12 D) 13 E) None of the previous values K•A • N• G• O • U• R • O • U G • I • O • C• O C A B S X Q P R 2 1 3 4 A(1, -10) Texts_11Mat.qxp 19-05-2011 21:27 Page 30
 > 
-> I'm going to pay. I'm going to pay. 31 31 Kang 201 Kang 2011 Questions from N. 21 al N. 30 is worth 5 points each.
+> Kang 201 Kang 2011 Questions from N. 21 al N. 30 is worth 5 points each.
 
 [[Quesiti/src_kangourou_2011_student#q20|src_kangourou_2011_student__Q20]]
 
@@ -1038,7 +1038,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many arithmetic progressions contain both *
+*How many arithmetic progressions contain both*
 
 > Consider the two arithmetic progressions 5, 20, 35, ... and 35, 61, 87, ... How many different arithmetic progressions of positive integers do both contain? A) 0 B) 3 C) 5 D) 26 E) Infinite
 

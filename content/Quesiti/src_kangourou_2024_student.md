@@ -1220,7 +1220,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of p coefficients with p(x+1)=x^2-x+2p(6) *
+*sum of p coefficients with p(x+1)=x^2-x+2p(6)*
 
 > A real polynomial p of the variable x is such that p (x + 1) = x2 − x + 2 p(6) for every real x. What is the sum of the p coefficients ? A) – 40 B) – 6
 > 	
@@ -1377,7 +1377,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two zeros of f with f(20-x) = f(22+x) *
+*sum of the two zeros of f with f(20-x) = f(22+x)*
 
 > A function f, real and defined on the whole real axis, is such that f (20 – x) = f (22 + x) for every value of x and vanishes for exactly two distinct values of x. What is the sum of these two values? A) – 1 B) 20
 > 	

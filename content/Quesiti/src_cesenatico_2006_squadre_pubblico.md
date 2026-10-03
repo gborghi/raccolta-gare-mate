@@ -146,8 +146,6 @@ level: squadre
 *Minimum of 4a^3/b + b + 1/a with a,b>0*
 
 > The first test [60] Finally came the big day of the Triangle tournament. The competitors are placed before the first test: determine the minimum value of 4a3 b + b+1 a at the variation of a > 0 and b > 0 real numbers. Team competition 2006  Public competition  Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2006  Public competition Problem texts
 
 **Answer:** 0004
 [[Quesiti/src_cesenatico_2006_squadre_pubblico#q04|src_cesenatico_2006_squadre_pubblico__Q04]]
@@ -365,7 +363,7 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum useful combinations of 36 ingredients (condition) *
+*Minimum useful combinations of 36 ingredients (condition)*
 
 > During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it may happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
 
@@ -439,7 +437,7 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets of {1,9} with multiple sums of 3 *
+*Sub-sets of {1,9} with multiple sums of 3*
 
 > The Quamditch team[40] Hardy, the captain of the Rapporteur's home Quamditch team must decide the roster of nine players from his home Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are such that the sum of the elements is multiple of 3?
 
@@ -610,7 +608,7 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sets of consecutive integers with a sum of 1 billion *
+*How many sets of consecutive integers with a sum of 1 billion*
 
 > Situation of danger [40] Following the intrusion into the castle of the Higher Mathematical School of the followers of He-who-can-not-be-demonstrated, all the words of order to enter the houses of the school have been changed. As soon as Hardy, Ron, and Hermita try to enter the Reporter's house, the guard ghost asks them how many sets of consecutive integers there are and whose sum is a billion. What answer do you have to give to enter?
 
@@ -684,8 +682,6 @@ Probability of possession of ball with dice (rules given)
 *Maximum number of 4 digits produced by only 2*
 
 > At the divination lesson [10] Poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression there are only 2 digits and multiplication marks, and that the result has four digits and is the maximum possible, what answer should Ron give?
-> 
-> I'm going to pay. 4 out of 4  Team competition 2006  Public competition  Problem texts
 
 **Answer:** 9768
 [[Quesiti/src_cesenatico_2006_squadre_pubblico#q19|src_cesenatico_2006_squadre_pubblico__Q19]]
@@ -717,7 +713,7 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate 1000 A/B area triangles in the two-dimensional plane *
+*Rate 1000 A/B area triangles in the two-dimensional plane*
 
 > Defence against dark mathematics [25] Group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
 
@@ -820,7 +816,7 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies equal to [4000,7000] with all other digits *
+*Interies equal to [4000,7000] with all other digits*
 
 > Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
 

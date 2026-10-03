@@ -308,7 +308,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of identical decks (MCD) *
+*Maximum number of identical decks (MCD)*
 
 > A florist has 24 white roses, 42 red roses, and 36 yellow roses. She wants to make many identical bouquets, using all the flowers. How many bouquets can she make at most? A) 4 B) 6 C) 8 D) 10 E) 12
 
@@ -428,7 +428,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum coins to be exchanged for equal value *
+*Minimum coins to be exchanged for equal value*
 
 > Daniel has 9 coins, each of 2 cents; his sister Anna has 8 coins, each of 5 cents. What is the minimum number of coins that must be changed for each owner to have the same amount of money? A) 4 B) 5 C) 8 D) 12 E) The situation is not feasible.
 
@@ -508,8 +508,6 @@ Number of friends by 15 handshakes
 *How many buses to add to reduce waiting by 60%*
 
 > The two buses serving on the circular line around Kangcity pass through a certain stop at regular intervals of 25 minutes. How many buses must be added to the line to shorten the waiting interval by 60%? A) 1 B) 2 C) 3 D) 5 E) 6 108° 124° Texts_08.qxp 9-03-2008 14:56 Page 17
-> 
-> I'm going to pay. I'm going to pay. 18 18 Kang 2008 Kang 2008
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_cadet_marzo#q11|src_kangourou_2008_cadet_marzo__Q11]]
@@ -611,7 +609,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial rectangular perimeter (sizes Tom/Jerry) *
+*Initial rectangular perimeter (sizes Tom/Jerry)*
 
 > Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each of which has a perimeter of 40 cm, while Jerry gets two rectangles each of which has a perimeter of 50 cm. What was the perimeter of each of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm       E) 90 cm
 
@@ -854,7 +852,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first essay (parity) *
+*Sum of cards from the first essay (parity)*
 
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards from the box: the first takes three, the second two from the remaining ones; the last two remain locked in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man drew? A) 10 B) 12 C) 6 D) 9 E) 15
 
@@ -892,7 +890,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of arrival of the excursion (proportions) *
+*Time of arrival of the excursion (proportions)*
 
 > Lucy and Charles go on a mountain trip. When they leave, they read on a sign that their destination is 2 hours and 55 minutes away. They leave the village at 12 o'clock, and at exactly 1 p.m., they make their first stop and read on another sign that their destination is only 1 hour and 15 minutes away. After a quarter of an hour's pause, they continue the journey at the same speed and without stopping. What time do they arrive at their destination? (a) at 14:30 b) at 14:00 c) at 14:55 d) at 15:10 e) at 15:20
 
@@ -1375,7 +1373,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False claim on M (area 1) *
+*False claim on M (area 1)*
 
 > We denote with M the product of the perimeter of a triangle for the sum of the three heights of the same triangle. Which of the following is false if the area of the triangle is 1? A) M can be greater than 1000. B) M is always greater than 6. C) M can be equal to 18. D) If the triangle is right-angled, then M>16. E) M may be less than 12. m . n m 4 n 4 m 3 n 3
 > 

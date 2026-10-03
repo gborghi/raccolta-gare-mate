@@ -193,7 +193,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of cube cubes (1/8 red, 1/4 white) *
+*Number of cube cubes (1/8 red, 1/4 white)*
 
 > Cube and cubes A cube is less than a meter high and is obtained by placing more than 300 cubes each with a side of one decimetre. One-eighth of these are red, a quarter are white and the rest are green. How many cubes is the cube made of?
 
@@ -352,7 +352,7 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Train length (James 45m, Luke 30m) *
+*Train length (James 45m, Luke 30m)*
 
 > James and Luke are both standing in the middle of the platform of a station where a freight train is arriving, which is traveling at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they begin to walk at the same speed along the platform, James in the same direction as the train and Luke in the opposite direction. They both stop when they are reached by the train's tail: James walked 45 meters, Luke walked 30 meters. How long is the train?
 

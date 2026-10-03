@@ -138,7 +138,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of the circle (right angles) *
+*Diameter of the circle (right angles)*
 
 ![[src_kangourou_2004_benjamin__prob3.png]]
 
@@ -585,7 +585,7 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Min number of boxes for balls (GCD) *
+*Min number of boxes for balls (GCD)*
 
 > You got 108 red balls and 180 green balls. You want to distribute them in boxes, so that each box contains balls all of the same color and the number of balls is the same for each box. What's the minimum number of boxes you can run the operation? A) 288 B) 36 C) 18 D) 8 E) 2
 
@@ -619,7 +619,7 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest of two numbers (sum of 77) *
+*The largest of two numbers (sum of 77)*
 
 > The sum of two positive integers is 77. The smaller of the two times 8 gives the same result as the other times 6. How much is the larger of the two numbers? A) 33 B) 39 C) 43 D) 44         E) 54
 
@@ -869,11 +869,9 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many overall correct answers (test) *
+*How many overall correct answers (test)*
 
 > A closed-response test (such as Kangourou) consists of 10 questions. For each correct answer, 5 points are awarded, while for each wrong answer, 3 points are subtracted. All competitors answered all the questions: Angelo scored 34 points, Betta scored 10 and Clemente scored only 2. How many were the correct answers overall? (A) 17 B) 18 C) 15 D) 13 E) 21 A) B) C) D) E) Fin Pin Rin Tin
-> 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2004 Kang 2004 Questions from N. 21 al N. 30 is worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_benjamin#q20|src_kangourou_2004_benjamin__Q20]]
@@ -991,7 +989,7 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second number in 9 boxes (sum of triples is 21) *
+*Second number in 9 boxes (sum of triples is 21)*
 
 ![[src_kangourou_2004_benjamin__prob23.png]]
 
@@ -1088,11 +1086,9 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Current price of the item less expensive (discounts) *
+*Current price of the item less expensive (discounts)*
 
 > In a store a month ago, two items were priced the same. One of the two subsequently received a 5% discount while the other received a 15% increase. As a result of these changes, the two prices now differ by 6 euros. What is the current price of the cheaper item? A) € 1,5      B) € 6 C) € 28,5    D) € 30      E) € 34,50 7 6
-> 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2004 Kang 2004
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_benjamin#q25|src_kangourou_2004_benjamin__Q25]]
@@ -1128,7 +1124,7 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cubes from construction (3 views) *
+*Max cubes from construction (3 views)*
 
 ![[src_kangourou_2004_benjamin__prob26.png]]
 
@@ -1163,7 +1159,7 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min cubes from construction (3 views) *
+*Min cubes from construction (3 views)*
 
 ![[src_kangourou_2004_benjamin__prob27.png]]
 

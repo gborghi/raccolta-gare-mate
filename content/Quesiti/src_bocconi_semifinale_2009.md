@@ -108,7 +108,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Day of March with odd writing identical to the number *
+*Day of March with odd writing identical to the number*
 
 > In March, every morning, Luke writes down the day's number. He writes it in a somewhat odd way: the $1^\circ$ March, writes $11$ (a "1"); the $2$ March, writes $12$ (two "2"); the $10$ March, writes $1110$ (a "1", a "0"); the $11$ March, writes $21$ (two "1"); the $11$ March, writes $21$ (two "1");
 > 
@@ -448,7 +448,7 @@ Milena's result by exchanging numbers in Carla's numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray area of the colored disc with three-stringed *
+*Gray area of the colored disc with three-stringed*
 
 > Deborah colored (in gray) a disc and decided to color the colored part in gray. The points on the circumference are equidistant from each other. Calculate the area of the gray part, knowing that the total area of the disk is $314 \ \text{cm}^2$ (If necessary: take $3{,}14$ for $\pi$).
 

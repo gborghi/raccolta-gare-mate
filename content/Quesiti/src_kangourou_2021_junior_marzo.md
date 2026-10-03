@@ -854,7 +854,7 @@ Number in place of ? with equal sums on the circles*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Members of the first-placed team (boys/girls) *
+*Members of the first-placed team (boys/girls)*
 
 > In a team competition, there are five teams waiting to leave. Each team is made up of either boys or girls. The teams are composed of 9, 15, 17, 19 and 21 elements. After the first team leaves, the number of girls who haven't left is three times the number of boys who haven't left. How many members are on the team that left first? A) 9
 > 	
@@ -1133,7 +1133,7 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between ascending and descending route (scale) *
+*Ratio between ascending and descending route (scale)*
 
 ![[src_kangourou_2021_junior_marzo__prob21.png]]
 

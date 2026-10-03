@@ -17,19 +17,15 @@ level: kangourou
 
 *Quante pagine mancano (231 ... permutazione)*
 
-> Quali numeri, fra quelli elencati nelle risposte, puoi scrivere rispettivamente nella casella a sinistra e nella casella a destra per rendere corretta l'uguaglianza $2020 + \square = 2022 + \square$?
-> 
-> A) 3 e 5
-> B) 4 e 1
-> C) 2 e 4
-> D) 7 e 2
-> E) 9 e 7
+> Pagine mancanti
+> In un libro mancano molte pagine consecutive: la prima pagina che manca è la 231, l’ultima è quella
+> che si scrive con le stesse cifre, ma ognuna in un posto diverso. Quante pagine mancano nel libro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -37,13 +33,9 @@ level: kangourou
 
 *How many pages are missing (231 ... permutation)*
 
-> Which numbers, among those listed in the answers, can you write respectively in the box on the left and in the box on the right to make the equality $2020 + \square = 2022 + \square$ correct?
-> 
-> A) 3 and 5
-> B) 4 and 1
-> C) 2 and 4
-> D) 7 and 2
-> E) 9 and 7
+> Missing pages
+> In a book, many consecutive pages are missing: the first page that is missing is 231, the last is the one
+> that is written with the same digits, but each in a different place. How many pages are missing from the book?
 
 **Answer:** 0082
 [[Quesiti/src_kangourou_2022_ecolier_finale#q01|src_kangourou_2022_ecolier_finale__Q01]]
@@ -57,20 +49,16 @@ level: kangourou
 
 *Quanti valori distinti come somma di due da 1 a 2022*
 
-> Giulio vuole aprire la scatola nera contenente il treno. Per farlo toglie una scatola alla volta. Qual è il minimo numero di scatole che gli basta togliere? (vedi figura)
-> 
-> A) 3
-> B) 4
-> C) 5
-> D) 6
-> E) 7
+> Quante somme!
+> Considerate tutti i numeri interi da 1 a 2022 inclusi e tutte le possibili somme di due diversi di essi.
+> Quanti sono i valori tutti diversi fra loro che ottenete facendo queste somme?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4041
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -78,9 +66,9 @@ level: kangourou
 
 *Number of distinct values as the sum of two from 1 to 2022*
 
-> Giulio wants to open the black box containing the train. To do that, he takes one box at a time. What's the minimum number of boxes he can take off? (see figure)
-> 
-> A) 3 B) 4 C) 5 D) 6 E) 7
+> So many sums!
+> Consider all the integers from 1 to 2022 inclusive and all the possible sums of two different ones of them.
+> How many values, all different from each other, do you get by making these sums?
 
 **Answer:** 4041
 [[Quesiti/src_kangourou_2022_ecolier_finale#q02|src_kangourou_2022_ecolier_finale__Q02]]
@@ -112,7 +100,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Book thickness (figures and theoretical pages) *
+*Book thickness (figures and theoretical pages)*
 
 > Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and sense indicated by the arrow. What set of arrows allows the bee to reach the flower? (see figure)
 > 
@@ -130,20 +118,16 @@ level: kangourou
 
 *Numeri 3 cifre con somma prime due = terza*
 
-> A fianco vedi una scacchiera sulla quale ci sono alcune pedine grigie. Rossella vuole che in ogni riga e in ogni colonna di questa scacchiera ci siano 2 e non più di 2 pedine. Quale pedina deve spostare su una cella vuota? (vedi figura)
-> 
-> A) A
-> B) B
-> C) C
-> D) D
-> E) E
+> Numeri speciali di tre cifre
+> Quanti numeri interi di tre cifre (non necessariamente distinte) sono tali che la somma delle prime
+> due cifre (quella delle centinaia e quella delle decine) è uguale alla terza cifra (quella delle unità)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -151,13 +135,9 @@ level: kangourou
 
 *3-digit numbers with the sum of the first two = the third*
 
-> Next to it you see a chessboard on which there are some gray pawns. Rossella wants there to be 2 and no more than 2 pawns in each row and in each column of this chessboard. Which pawn must she move to an empty cell? (see figure)
-> 
-> A) A
-> B) B
-> C) C
-> D) D
-> E) E
+> Special three-digit numbers
+> How many three-digit integers (not necessarily distinct) are such that the sum of the first
+> two digits (the hundreds digit and the tens digit) is equal to the third digit (the units digit)?
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2022_ecolier_finale#q04|src_kangourou_2022_ecolier_finale__Q04]]
@@ -171,19 +151,18 @@ level: kangourou
 
 *Lunghezza totale del nastro del pacco regalo*
 
-> Il canguro Matematico si diverte a saltare lungo la retta numerica. Fa un salto lungo seguito da due salti corti, come mostra la figura, e ripete questo schema diverse volte. Parte da 0 e arriva a 16. Quanti salti fa in tutto? (vedi figura)
-> 
-> A) 4
-> B) 7
-> C) 8
-> D) 9
-> E) 12
+> Il regalo
+> In figura vedete un pacco regalo legato con un nastro. La scatola ha la
+> forma di un parallelepipedo rettangolo (tipo “scatola da scarpe”) di cui
+> sono evidenziate le misure in centimetri. La parte di nastro usata per il
+> nodo e il fiocco è lunga complessivamente 47 cm. Quanti centimetri è
+> lungo, in totale, il nastro?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0157
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -191,9 +170,12 @@ level: kangourou
 
 *Total length of the gift package tape*
 
-> Mathematical kangaroo enjoys jumping along the number line. He makes a long jump followed by two short jumps, as shown in the figure, and repeats this pattern several times. It starts at 0 and gets to 16. How many jumps does he make in all? (see figure)
-> 
-> A) 4 B) 7 C) 8 D) 9 E) 12
+> The gift
+> In the figure you see a gift package tied with a ribbon. The box has the
+> shape of a rectangular parallelepiped (like a "shoe box") whose
+> measurements in centimeters are highlighted. The part of the ribbon used for the
+> knot and the bow is a total of 47 cm long. How many centimeters is
+> the ribbon long, in total?
 
 **Answer:** 0157
 [[Quesiti/src_kangourou_2022_ecolier_finale#q05|src_kangourou_2022_ecolier_finale__Q05]]
@@ -207,20 +189,18 @@ level: kangourou
 
 *Minima somma dei tre numeri dai tagli*
 
-> Ogni segmento obliquo nelle figure rappresenta uno specchio appoggiato perpendicolarmente al piano del foglio. Un raggio laser si riflette negli specchi secondo la legge descritta nella figura a destra. Se gli specchi sono disposti come nella figura a sinistra e il raggio colpisce la faccia riflettente, da quale punto uscirà il raggio laser? (vedi figura)
-> 
-> A) A
-> B) B
-> C) C
-> D) D
-> E) E
+> Il foglio di Mattia
+> Mattia ha scritto su un foglio il numero 5 0 2 1 9 7 2 9 7 0. Vuole tagliare il foglio verticalmente
+> ottenendo tre strisce su ognuna delle quali ci sia una parte del numero che ha scritto (ad esempio 50
+> sulla prima, 21972 sulla seconda e 970 sulla terza). Vuole operare i tagli in modo che la somma dei
+> tre numeri che ottiene sia la più bassa possibile. Quanto sarà questa somma?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3444
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -228,9 +208,11 @@ level: kangourou
 
 *Minimum sum of the three numbers from the cuts*
 
-> Each oblique segment in the figures represents a mirror supported perpendicular to the plane of the sheet. A laser beam is reflected in the mirrors according to the law described in the figure to the right. If the mirrors are arranged as in the figure on the left and the beam hits the reflecting face, where will the laser beam come from? (see figure)
-> 
-> A) A B) B C) C D) D E) E
+> Mattia's sheet
+> Mattia wrote the number 5 0 2 1 9 7 2 9 7 0 on a sheet. He wants to cut the sheet vertically
+> obtaining three strips on each of which there is a part of the number he wrote (for example 50
+> on the first, 21972 on the second and 970 on the third). He wants to make the cuts so that the sum of the
+> three numbers he obtains is as low as possible. What will this sum be?
 
 **Answer:** 3444
 [[Quesiti/src_kangourou_2022_ecolier_finale#q06|src_kangourou_2022_ecolier_finale__Q06]]
@@ -244,20 +226,15 @@ level: kangourou
 
 *Quanti quadrati diversi nella figura*
 
-> Non ci sono anitre nella cartolina di Michele. Sulla cartolina di Chiara è visibile il sole. Ci sono esattamente due animali sulla cartolina di Paola. Gli animali che compaiono nelle cartoline di Luca e di Nicola non volano. Qual è la cartolina di Michele? (vedi figura)
-> 
-> A) (figura A)
-> B) (figura B)
-> C) (figura C)
-> D) (figura D)
-> E) (figura E)
+> I quadrati
+> Quanti diversi quadrati potete vedere in questa figura?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0018
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -265,13 +242,8 @@ level: kangourou
 
 *How many different squares are in the figure*
 
-> There are no ducks in Michele's postcard. The sun is visible on Chiara's postcard. There are exactly two animals on Paola's postcard. The animals that appear on Luca's and Nicola's postcards do not fly. Which is Michele's postcard? (see figure)
-> 
-> A) (figure A)
-> B) (figure B)
-> C) (figure C)
-> D) (figure D)
-> E) (figure E)
+> The squares
+> How many different squares can you see in this figure?
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2022_ecolier_finale#q07|src_kangourou_2022_ecolier_finale__Q07]]
@@ -285,19 +257,17 @@ level: kangourou
 
 *A quale numero Alice ha aggiunto lo 0 in coda*
 
-> Giovanni ha costruito questa torre. Che immagine vede quando guarda la torre dall'alto? (vedi figura)
-> 
-> A) (figura A)
-> B) (figura B)
-> C) (figura C)
-> D) (figura D)
-> E) (figura E)
+> Cinque numeri
+> Alice ha scritto 5 numeri interi consecutivi, poi ha aggiunto la cifra 0 a destra di uno di essi e, così
+> modificato, l'ha sommato agli altri 4: la somma è 210 (ad esempio, se avesse scritto 9, 10, 11, 12, 13
+> e avesse aggiunto 0 a 10, la somma sarebbe 9 + 100 + 11 + 12 + 13 = 145). A quale numero Alice ha
+> aggiunto la cifra 0 in coda?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0015
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -305,13 +275,11 @@ level: kangourou
 
 *To which number did Alice add the 0 at the end*
 
-> Giovanni built this tower. What image does he see when he looks at the tower from above? (see figure)
-> 
-> A) (figure A)
-> B) (figure B)
-> C) (figure C)
-> D) (figure D)
-> E) (figure E)
+> Five numbers
+> Alice wrote 5 consecutive integers, then she added the digit 0 to the right of one of them and, thus
+> modified, she added it to the other 4: the sum is 210 (for example, if she had written 9, 10, 11, 12, 13
+> and had added 0 to 10, the sum would be 9 + 100 + 11 + 12 + 13 = 145). To which number did Alice
+> add the digit 0 at the end?
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2022_ecolier_finale#q08|src_kangourou_2022_ecolier_finale__Q08]]
@@ -325,29 +293,29 @@ level: kangourou
 
 *Litri iniziali nella cisterna (due rubinetti)*
 
-> Ivan ha inserito dei numeri in una griglia $3 \times 3$ con l'intenzione che le sei somme ottenute sommando i numeri di ciascuna riga e di ciascuna colonna fossero uguali. Ivan però ha fatto un errore: quale numero deve essere corretto? (vedi figura)
-> 
-> A) 1
-> B) 3
-> C) Uno dei due 4
-> D) 5
-> E) Uno dei due 7
+> La cisterna
+> L’acqua contenuta in una cisterna della capacità di 2.000 litri può essere prelevata aprendo due
+> rubinetti: uno permette di prelevare 2 litri e mezzo al secondo, l’altro solo 1 litro al secondo. I due
+> rubinetti sono stati aperti, uno (non sappiamo quale) 10 minuti fa, l’altro 5 minuti esatti dopo. Ora
+> nella cisterna ci sono 300 litri d’acqua. Quanti ce n’erano prima che venisse aperto il primo rubinetto?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1650
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial liters in the tank (two taps) *
+*Initial liters in the tank (two taps)*
 
-> Ivan entered numbers into a grid $3 \times 3$ with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? (see figure)
-> 
-> A) 1 B) 3 C) One of two 4 D) 5 E) One of two 7
+> The cistern
+> The water contained in a cistern with a capacity of 2,000 litres can be drawn by opening two
+> taps: one allows 2 and a half litres per second to be drawn, the other only 1 litre per second. The two
+> taps were opened, one (we do not know which) 10 minutes ago, the other exactly 5 minutes later. Now
+> there are 300 litres of water in the cistern. How many were there before the first tap was opened?
 
 **Answer:** 1650
 [[Quesiti/src_kangourou_2022_ecolier_finale#q09|src_kangourou_2022_ecolier_finale__Q09]]
@@ -361,20 +329,16 @@ level: kangourou
 
 *Somma dei prodotti delle cifre dei numeri 2 cifre*
 
-> Ogni cella della griglia qui a lato contiene uno dei numeri 1, 2, 3, 4, 5. I numeri finora inseriti rispettano la seguente regola: se due celle hanno un lato in comune non contengono lo stesso numero. Quale dei seguenti pezzi, inserito nella griglia, consente di continuare a rispettare la regola? (vedi figura)
-> 
-> A) (pezzo A)
-> B) (pezzo B)
-> C) (pezzo C)
-> D) (pezzo D)
-> E) (pezzo E)
+> I numeri di due cifre
+> Michele ha scritto su un foglio tutti i 90 numeri interi di due cifre. Poi, per ognuno di essi, ha calcolato
+> il prodotto delle sue due cifre e infine ha sommato tutti questi prodotti. Che somma ha ottenuto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2025
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -382,13 +346,9 @@ level: kangourou
 
 *Sum of the products of the digits of 2-digit numbers*
 
-> Each cell of the grid shown here contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far follow the following rule: if two cells have a side in common they do not contain the same number. Which of the following pieces, inserted into the grid, allows the rule to continue to be respected? (see figure)
-> 
-> A) (piece A)
-> B) (piece B)
-> C) (piece C)
-> D) (piece D)
-> E) (piece E)
+> Two-digit numbers
+> Michele wrote all 90 two-digit integers on a sheet of paper. Then, for each of them, he calculated
+> the product of its two digits and finally added up all these products. What sum did he get?
 
 **Answer:** 2025
 [[Quesiti/src_kangourou_2022_ecolier_finale#q10|src_kangourou_2022_ecolier_finale__Q10]]
@@ -402,20 +362,17 @@ level: kangourou
 
 *Modi di scrivere 2022 come somma di due dispari*
 
-> I figli di mamma canguro hanno 2, 4, 5, 6, 8, 10 anni. Quattro di loro sono femmine e la somma delle loro età è di 22 anni. Quanti anni hanno i due figli maschi?
-> 
-> A) 2 e 8
-> B) 4 e 5
-> C) 5 e 8
-> D) 6 e 8
-> E) 6 e 10
+> Le somme che danno 2022
+> In quanti modi diversi il numero 2022 può essere scritto come somma di due numeri interi dispari?
+> (Attenzione: due somme in cui gli addendi siano gli stessi, ma in ordine opposto, vanno considerate
+> come un modo solo.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0506
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -423,9 +380,10 @@ level: kangourou
 
 *How to write 2022 as the sum of two odd numbers*
 
-> Kangaroo mother's children are 2, 4, 5, 6, 8, 10 years old. Four of them are girls and their combined ages are 22. How old are the two boys?
-> 
-> A) 2 and 8 B) 4 and 5 C) 5 and 8 D) 6 and 8 E) 6 and 10
+> The sums that give 2022
+> In how many different ways can the number 2022 be written as a sum of two odd integers?
+> (Warning: two sums in which the addends are the same, but in opposite order, must be considered
+> as only one way.)
 
 **Answer:** 0506
 [[Quesiti/src_kangourou_2022_ecolier_finale#q11|src_kangourou_2022_ecolier_finale__Q11]]
@@ -439,29 +397,35 @@ level: kangourou
 
 *Differenza tempi gatto e tartaruga (percorso)*
 
-> Nel cortile della scuola sono state allineate alcune file di sedie. Ogni fila contiene lo stesso numero di sedie. Ci sono due file di sedie davanti alla fila in cui è seduto Roberto e una fila dietro di lui. Sulla sua fila ci sono 3 sedie alla sua sinistra e 5 alla sua destra. Quante sedie sono state messe in cortile?
-> 
-> A) 24
-> B) 27
-> C) 32
-> D) 35
-> E) 36
+> Il gatto e la tartaruga
+> Un gatto e una tartaruga partono insieme da un punto A per raggiungere un punto B lungo uno stesso
+> percorso, ognuno camminando alla propria velocità che rimane la stessa durante tutto il percorso.
+> Quando il gatto, che è più veloce, arriva in B, immediatamente torna indietro lungo il percorso e
+> incontra la tartaruga esattamente a metà del percorso. Allora inverte di nuovo la marcia e arriva in B,
+> dove la tartaruga lo raggiunge esattamente tre quarti d’ora dopo. Di quanti minuti è la differenza fra
+> il tempo che impiega il gatto e quello che impiega la tartaruga per coprire una volta il percorso da A
+> a B?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0090
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time difference between cat and turtle (path) *
+*Time difference between cat and turtle (path)*
 
-> In the school yard, a few rows of chairs were lined up. Each row contains the same number of seats. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on his left and 5 on his right in his row. How many chairs have been put in the yard?
-> 
-> A) 24 B) 27 C) 32 D) 35 E) 36
+> The cat and the turtle
+> A cat and a turtle set off together from a point A to reach a point B along the same
+> path, each walking at its own speed which remains the same throughout the whole path.
+> When the cat, which is faster, arrives at B, it immediately turns back along the path and
+> meets the turtle exactly halfway along the path. Then it reverses direction again and arrives at B,
+> where the turtle reaches it exactly three quarters of an hour later. How many minutes is the difference between
+> the time the cat takes and the time the turtle takes to cover the path from A
+> to B once?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_2022_ecolier_finale#q12|src_kangourou_2022_ecolier_finale__Q12]]
@@ -512,20 +476,16 @@ level: kangourou
 
 *Quattordicesimo termine della sequenza somma*
 
-> Su un foglio è riportata una griglia quadrata contenente tutti i numeri da 1 a 36. Enza piega il foglio due volte, come suggerito dalla figura. Poi buca il foglio piegato in corrispondenza al cerchietto nero indicato dalla freccia. Quali numeri della griglia vengono bucati? (vedi figura)
-> 
-> A) 8, 11, 26, 29
-> B) 14, 17, 20, 23
-> C) 15, 16, 21, 22
-> D) 14, 16, 21, 23
-> E) 15, 17, 20, 22
+> La sequenza
+> Una sequenza di numeri incomincia così: 1, 2, 3, … e prosegue aggiungendo come nuovo termine
+> la somma di tutti quelli che lo precedono. Quale numero si trova al quattordicesimo posto?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6144
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -533,9 +493,9 @@ level: kangourou
 
 *Fourteenth term of the sum sequence*
 
-> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then she drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? (see figure)
-> 
-> A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
+> The sequence
+> A sequence of numbers begins like this: 1, 2, 3, … and continues by adding as a new term
+> the sum of all those that precede it. Which number is found in the fourteenth position?
 
 **Answer:** 6144
 [[Quesiti/src_kangourou_2022_ecolier_finale#q14|src_kangourou_2022_ecolier_finale__Q14]]
@@ -549,22 +509,18 @@ level: kangourou
 
 *Modi di sedersi in fila con posti liberi tra loro*
 
-> Nell'addizione che vedi a destra 4 cifre non sono visibili:
-> $$\begin{array}{r} \square\,6\,3 \\ +\,\square\,\square\,\square \\ \hline 5\,7\,2 \end{array}$$
-> Quanto vale la loro somma?
-> 
-> A) 8
-> B) 9
-> C) 11
-> D) 13
-> E) 14
+> A teatro
+> Aldo, Bruna e Cecilia vanno a teatro, dove i posti sono a file di 6. Vogliono sedersi in una stessa fila
+> ma, per ragioni di Covid, deve esserci sempre almeno un posto libero fra due di loro. In quanti modi
+> diversi possono sistemarsi nella fila? Attenzione: se anche solo due di loro si scambiano di posto i
+> modi vanno considerati diversi.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -572,9 +528,11 @@ level: kangourou
 
 *Ways of sitting in a row with empty seats between them*
 
-> In the addition you see on the right 4 digits are not visible: $$\begin{array}{r} \square\,6\,3 \\ +\,\square\,\square\,\square \\ \hline 5\,7\,2 \end{array}$$ How much is their sum?
-> 
-> A) 8 B) 9 C) 11 D) 13 E) 14
+> At the theater
+> Aldo, Bruna and Cecilia go to the theater, where the seats are in rows of 6. They want to sit in the same row
+> but, for Covid reasons, there must always be at least one free seat between two of them. In how many different
+> ways can they arrange themselves in the row? Note: even if only two of them swap places, the
+> ways are to be considered different.
 
 **Answer:** 0024
 [[Quesiti/src_kangourou_2022_ecolier_finale#q15|src_kangourou_2022_ecolier_finale__Q15]]

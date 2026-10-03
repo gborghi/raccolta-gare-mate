@@ -84,7 +84,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei numeri reali in (0,4) *
+*Prove la disuguaglianza dei numeri reali in (0,4)*
 
 > $a$, $b$, $c$ siano numeri reali con $0 < a < b < c < 4$. Prove che $0 < a + b + c - abc < 4$.
 

@@ -80,7 +80,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nove carte 19 accumulate; tre persone disegnano due ciascuno; analizzano le somme rimanenti *
+*Nove carte 19 accumulate; tre persone disegnano due ciascuno; analizzano le somme rimanenti*
 
 > Nove carte numerate $1$ a $9$ sono state mescolate e impilate. Ana, Beto e C\u00e9lio hanno disegnato due carte, lasciando tre carte sulla pila.
 > 
@@ -201,7 +201,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Zoni triangolari con punto medio, quadrati costruiti su lati e quadrati incastonati *
+*Zoni triangolari con punto medio, quadrati costruiti su lati e quadrati incastonati*
 
 > a) Il punto $M$ appartiene al lato $BC$ del triangolo $ABC$ in modo tale che $BM = MC$. Se l'area del triangolo $AMC$ è uguale a $5\text{ cm}^2$, qual è l'area del triangolo $ABC$?
 > 

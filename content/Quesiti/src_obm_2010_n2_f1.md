@@ -76,7 +76,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2% aumento del più piccolo di due numeri consecutivi dà il più grande; trovare somma *
+*2% aumento del più piccolo di due numeri consecutivi dà il più grande; trovare somma*
 
 > Aumentando di $2\%$ il valore del più piccolo di due numeri consecutivi, otteniamo il più grande di loro. Qual è la somma di questi numeri?
 >
@@ -612,7 +612,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integrali positivi somma 83 prodotto 1024; trovare il più piccolo *
+*Integrali positivi somma 83 prodotto 1024; trovare il più piccolo*
 
 > Alcuni numeri interi positivi, non necessariamente distinti, sono scritti sulla lavagna. La loro somma è $83$ e il loro prodotto è $1024$. Il numero più piccolo è uguale a
 >

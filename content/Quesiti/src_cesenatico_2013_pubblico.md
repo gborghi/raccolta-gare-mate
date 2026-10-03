@@ -40,7 +40,7 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 12 areas of triangular intersections (p+q) *
+*Total 12 areas of triangular intersections (p+q)*
 
 > Mad Chess Roots teaches his Emmy kitten a new game. On an infinite chessboard (although, yes, there are infinite chessboards in their house as well!), he placed two pedals, aligned vertically on the same column, with exactly two empty boxes between the two. The two players move their pedal in turn, with Rootce starting by moving the lower one. The purpose of Root is to capture Emmy's foot, reaching her same box at the end of a move; to do so, at each turn she can choose whether to take exactly 4 steps or 5, but with these rules: moving from a box to the top or right costs 1 step, moving down or left costs 2 steps. For example, at its first turn it can move upwards by 4 boxes, thus overtaking Emmy's foot, or a box to the right, one to the left and one down (total 5 steps), but it cannot move only from a box upwards and then one downwards, because in that case it would only take 3 steps. Instead, Emmy moves her pedal from one box per shift, in one of the four directions, being careful not to end up on the same box as Root's pedal. Emmy, who is an alert kitten, quickly learned what the best strategy is to keep the game going for as long as possible, despite Root's efforts. After how many moves will the game be over?
 
@@ -111,7 +111,7 @@ This is the total number of samples taken from the sample.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of 2/81 (power) *
+*Height of 2/81 (power)*
 
 > What's going on? Root is now located in the A corner of an ABCD square room on the side 4161cm, and rolls a very small ball onto the floor so that it reaches the point on the side BC that is 1cm from B. Every time it hits a wall, not only does the ball bounce back perfectly, but at the same time the room grows larger: the wall opposite the one hit by the ball moves away from the one hit instantly so that their distance doubles. The other two walls remain at the same distance. How many bounces will the ball make before it ends up on top of the room again?
 
@@ -174,7 +174,7 @@ This is the total number of samples taken from the sample.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max p for eggs eaten within 12 hours (success) *
+*Max p for eggs eaten within 12 hours (success)*
 
 > Minimum distance Root, standing still at one point, sees in the distance the White King moving in a straight line passing through three aligned points B,C,D. Knowing that B and D are 3km from the Roots, while C is only 2km, how many meters away are B and D at least?
 
@@ -209,7 +209,7 @@ This is the total number of samples taken from the sample.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of growth >=2013cm with 37 fungi (numerator) *
+*Probability of growth >=2013cm with 37 fungi (numerator)*
 
 > A left tower From a distance, Root sees a lawn with so many hedges that divide it into squares, like the boxes of a chessboard 8. The Red Queen orders the Tower to move from a corner box to the opposite corner box. The Queen explains that it will take exactly six steps to reach her. In addition, he orders that with each move he change direction by turning to the left of 90°. If there are no other pieces on the chessboard besides the Tower, how many possible paths can it take? The Tower may pass on the same box several times; in particular, it may touch the destination box even before the sixth move. A Tower move involves moving any number of whole boxes (from 1 to 8) horizontally or vertically.
 
@@ -248,7 +248,7 @@ This is the total number of samples taken from the sample.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different angles of a triangle (rectangles) *
+*Different angles of a triangle (rectangles)*
 
 > My kingdom for a pedestrian Can I join the game too? Root asked the Red Queen. Sure, my dear, we just need a white pedal. Team competition 2013  Semifinals A  Problem tests  1/3
 > 
@@ -284,7 +284,7 @@ This is the total number of samples taken from the sample.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nine number product (system) *
+*Nine number product (system)*
 
 > Oysters' shovel The Triseco and the Cartantiere have collected many oysters; they would like to have them in a row by 2, but their number is not divisible by 2. Disappointed, they reluctantly decide to eat two. They try to line up the remaining ones by 3, but their number is not divisible by 3, so they eat 3. They go on like this, every time they eat n because the number of leftovers is not divisible by n. When Root meets them, they're in tears: they're now lined up for 71, and they're not done yet! How many oysters were there at least at the beginning of the feast?
 
@@ -317,7 +317,7 @@ This is the total number of samples taken from the sample.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of all known diseases of the genus Stregauss.
+*Probability Stregauss by Lepre (6 dice, numerator)*
 
 > The Queen's pearls After an unadorned oyster shroud, Triseco and Cartantiere arranged the pearls they found in this way. It divides, with parallel lines on the sides, an equilateral triangle on side 60 into many triangles on side 3. Then pearls are placed on each point that is a vertex of these triangles, as well as two pearls on each of their sides, so that each pearl is at a distance of 1 from its nearest neighbor. How many pearls did they use to compose the figure?
 
@@ -351,7 +351,7 @@ This is a list of all known diseases of the genus Stregauss.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sit at the table (nearby) *
+*Sit at the table (nearby)*
 
 > The cards are hitting the head CuboQuadro stole the Cubo compass! To solve the problem, as they usually do, each one of them takes two cards from the same deck of 52 and adds up their values. CuboQuadro, which has caught a 6 and an 8, will only return the bad catch if the sum of the values of the two cards of the brother is greater than or equal to the sum of his own, i.e. 14. What is the probability that this will happen? Indicate the sum of the numerator and denominator of the probability expressed as a fraction reduced to the minimum terms. The deck is composed of four sets of 13 cards each, each of a value of 1,2,...13.
 
@@ -417,7 +417,7 @@ This is a list of all known diseases of the genus Stregauss.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days since its foundation (periodic meetings, 451 openings) *
+*Days since its foundation (periodic meetings, 451 openings)*
 
 > Roots for Roots Roots arrives on a battlefield, where the Jaguar and the Ronzino are challenging each other, fortunately only with a few questions! As he approaches, he hears the Ronzino pose this problem: They are a,b,c the roots of the polynomial p(x) = 2x3 +11x2 −427x +414. How much is a+b+c?
 
@@ -450,7 +450,7 @@ This is a list of all known diseases of the genus Stregauss.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQR triangle area (height, width, median) *
+*PQR triangle area (height, width, median)*
 
 > After challenging each other on the battlefield, the Jaguar and the Ronzino relax together with Rootze for a cup of tea. Aitka, the chaplain, offers them 94 biscuits, numbered from 1 to 94. The White King orders Root to eat a number of whole a, Jaguaro b, and Ronzino c. Clearly a,b,c ≥0 and a+b+c = 94. Curiousnote Aitkathe number of different ways in which you can divide cookies by obeying the King's orders is multiplied by 3. How many ordered terns (a,b,c) have this property?
 
@@ -515,7 +515,7 @@ This is a list of all known diseases of the genus Stregauss.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M+m true witnesses at the round table (7999) *
+*M+m true witnesses at the round table (7999)*
 
 > The palindrome triangle Root has reached the eighth cross, and she's about to become Queen too! However, the Red Queen asks her one last question before the coronation: If ABC is an isosceles triangle (AB = AC) of base BC length 62 and height AH. K is the middle point of AH and D is the intersection point between the segment perpendicular to BK, passing through K, and the line parallel to BC passing through A. How much is the area of BKD worth, knowing that the area of ABC is a 4-digit palindrome number and the height is an even integer?
 

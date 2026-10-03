@@ -57,7 +57,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca ZYX da un'aggiunta di colonne aritmetiche *
+*Ricerca ZYX da un'aggiunta di colonne aritmetiche*
 
 > In aggiunta a tre numeri a 4 cifre di seguito, lettere diverse rappresentano cifre diverse. Qual è il numero $\overline{ZYX}$? $$\begin{array}{r} XXXX \\ +\; YYYY \\ \hline ZZZZ \\ \hline YXXZ \end{array}$$
 

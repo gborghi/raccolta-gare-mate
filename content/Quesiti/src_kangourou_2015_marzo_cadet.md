@@ -40,7 +40,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* which representation*
+*which representation*
 
 ![[src_kangourou_2015_marzo_cadet__prob1.png]]
 
@@ -119,7 +119,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number closest to 2,015 x 510.2 *
+*Number closest to 2,015 x 510.2*
 
 > Which of the following numbers is closest to the product 2.015 x 510.2? A) 0.1 B) 1
 > 	
@@ -379,7 +379,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* edge that coincides with UV*
+*edge that coincides with UV*
 
 ![[src_kangourou_2015_marzo_cadet__prob7.png]]
 
@@ -952,7 +952,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*perimeter *
+*perimeter*
 
 > Rita sums the lengths of three sides of a rectangle and gets 44 cm, Marta sums the lengths of three other sides of the same rectangle and gets 40 cm. How many centimeters does the perimeter of the rectangle measure? A) 42
 > 	
@@ -1090,7 +1090,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many true *
+*how many true*
 
 > Irene asked five of her students how many of them had studied yesterday. Aldo answered no one, Bianca answered only one, Clelia answered exactly two, Diana answered exactly three, Henry answered exactly four. Irene knows that students who didn't study lied and those who studied told the truth. How many of these students studied yesterday? A) 0
 > 	

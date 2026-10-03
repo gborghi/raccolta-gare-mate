@@ -672,7 +672,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence of peers in position 2017 *
+*Sequence of peers in position 2017*
 
 > Carolina begins to write all positive integers even, one after the other: 246810121416... What figure will occupy the 2017th position?
 >
@@ -715,7 +715,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial coefficients +-1, p(2)=11 to find p(3) *
+*Polynomial coefficients +-1, p(2)=11 to find p(3)*
 
 > In a polynomial of 5°degree p(x) = ax5 + bx4 + cx3 + dx2 + ex + f, each of the coefficients a, b, c, d, e, f is 1 or −1. Knowing that you have p(2) = 11, what's the value of p(3)?
 >

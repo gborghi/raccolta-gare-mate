@@ -479,7 +479,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter of two heights and one side *
+*Triangle perimeter of two heights and one side*
 
 ![[src_archimede_2024_biennio__prob11.png]]
 
@@ -611,7 +611,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Islands with a single bridge (divisibility between 2 and 51) *
+*Islands with a single bridge (divisibility between 2 and 51)*
 
 > There are 50 islands in a large lake, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of the respective numbers divides the other. How many islands have one bridge?
 >

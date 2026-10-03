@@ -155,7 +155,7 @@ level: IMO
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
+*Esistenza di f con f(1)=2, f(f(n))=f(n)+n, crescente*
 
 > Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che
 > $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
@@ -171,7 +171,7 @@ level: IMO
 
 *Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
 
-> There is a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
+> Does there exist a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ for all } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ for all } n \in \mathbf{N}?$$
 
 [[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 

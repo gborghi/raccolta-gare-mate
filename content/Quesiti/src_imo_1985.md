@@ -182,7 +182,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unique starting value keeping recurrence sequence in (0,1) *
+*Unique starting value keeping recurrence sequence in (0,1)*
 
 > For each real number $x_1$, the sequence $x_1, x_2, \ldots$ is constructed by
 > 

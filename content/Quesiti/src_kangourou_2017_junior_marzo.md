@@ -277,7 +277,7 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who gets the biggest product and how much *
+*Who gets the biggest product and how much*
 
 > Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, by 1111. B) Bruno, by 1111. C) Anna, by 2222. D) Bruno, by 2222. E) None of the above answers is correct.
 
@@ -1016,7 +1016,7 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid number 3x3 with sums of 2x2 equal to *
+*Grid number 3x3 with sums of 2x2 equal to*
 
 ![[src_kangourou_2017_junior_marzo__prob21.png]]
 
@@ -1151,7 +1151,7 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of negative product by double-throwing *
+*Probability of negative product by double-throwing*
 
 > The numbers that appear on the faces of a fair die are: -3, -2, -1, 0, 1, 2. If we roll the die twice, what is the probability that the product of the two numbers we get is negative? A) 1 / 2 B) 1 / 3 C) 11 / 36 D) 13 / 36 E) 1 / 4
 

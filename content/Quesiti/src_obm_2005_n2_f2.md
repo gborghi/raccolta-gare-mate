@@ -29,7 +29,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Salto dei numeri 1 e 3: ultimo numero di pagina scritto *
+*Salto dei numeri 1 e 3: ultimo numero di pagina scritto*
 
 > Natasha è superstiziosa e, quando numerò le 200 pagine del suo diario a partire da 1, ha saltato tutti i numeri di pagina contenenti i numeri 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non appaiono, ma 103 appaiono. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
 

@@ -929,7 +929,7 @@ The brothers and sisters of Matthew
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles used for reassembling the wall (cancelled) *
+*Tiles used for reassembling the wall (cancelled)*
 
 ![[src_kangourou_2013_preecolier__prob21.png]]
 

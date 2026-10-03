@@ -121,7 +121,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio delle somme di differenze digitali su tutti i numeri $m$ a cifre fisse *
+*Medio delle somme di differenze digitali su tutti i numeri $m$ a cifre fisse*
 
 > Indichiamo $Z(m, n)$ l'insieme di tutti gli integri positivi a $m$-cifre (in base $10$) che hanno precisamente $a$, $b$ due, $c$ tre, $\ldots$, $n$ nove (in modo che $a + b + \cdots + n \le m$, con le cifre rimanenti siano zeri). Per ogni $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti di tutte le differenze in coppia dei numeri consecutivi di $N$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
 

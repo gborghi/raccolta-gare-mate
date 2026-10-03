@@ -96,7 +96,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flames for flooring 1 m × 1 m with 5 cm squares *
+*Flames for flooring 1 m × 1 m with 5 cm squares*
 
 > How many matches, $5$ cm long, is the minimum required to cover a square floor ($1\text{ m} \times 1\text{ m}$) with a square lattice of $5$ cm on the side?
 

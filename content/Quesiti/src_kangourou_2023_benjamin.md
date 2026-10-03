@@ -90,7 +90,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* order of wrapping*
+*order of wrapping*
 
 ![[src_kangourou_2023_benjamin__prob2.png]]
 
@@ -249,7 +249,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one +4 one -2 from true, quantities *
+*one +4 one -2 from true, quantities*
 
 > Five friends are trying to guess how many kangaroos live in the zoo. They assume, in the order of answer, that they are 5, 8, 9, 11, 12. One of these answers is 4 greater than the correct number, another is 2 less than the correct number. How many kangaroos live in the zoo? A) 6
 > 	
@@ -347,7 +347,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* equal to *
+*equal to*
 
 ![[src_kangourou_2023_benjamin__prob7.png]]
 
@@ -481,7 +481,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* in how many ways*
+*in how many ways*
 
 > Anna has 100 discs of different sizes. She wants to build a tower overlapping 99 disks so that each disk is smaller than the disk it's leaning on. In how many different ways can she do that? A) 49
 > 	
@@ -551,7 +551,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-* length of snake*
+*length of snake*
 
 ![[src_kangourou_2023_benjamin__prob11.png]]
 
@@ -1121,7 +1121,7 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-* shapes in the centre rectangle*
+*shapes in the centre rectangle*
 
 ![[src_kangourou_2023_benjamin__prob22.png]]
 
@@ -1268,7 +1268,7 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-* adjacent pair*
+*adjacent pair*
 
 ![[src_kangourou_2023_benjamin__prob25.png]]
 
@@ -1343,7 +1343,7 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many different sums *
+*how many different sums*
 
 ![[src_kangourou_2023_benjamin__prob26.png]]
 

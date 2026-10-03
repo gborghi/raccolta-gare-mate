@@ -280,7 +280,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale dei voli totali cancellati a causa del vulcano (10%) e della pioggia (20% del riposo) *
+*Percentuale dei voli totali cancellati a causa del vulcano (10%) e della pioggia (20% del riposo)*
 
 > A causa di un'eruzione vulcanica, $10\%$ di tutti i voli di un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali di questo aeroporto che sono stati cancellati?
 > 
@@ -445,7 +445,7 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro *
+*Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro*
 
 > Esmeralda ha banconote $11$ di due reais, Rosa $7$ di cinque reais e Nelly $3$ di dieci reais. Qual è il minor numero possibile di banconote che le tre ragazze devono scambiare tra loro in modo che ognuna finisca con la stessa quantità di denaro?
 > 

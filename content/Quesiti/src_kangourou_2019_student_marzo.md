@@ -356,7 +356,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image of the die I can't see (probability given) *
+*Which image of the die I can't see (probability given)*
 
 ![[src_kangourou_2019_student_marzo__prob8.png]]
 
@@ -585,7 +585,7 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the parallelepiped tank (heights 2.3,5) *
+*Volume of the parallelepiped tank (heights 2.3,5)*
 
 ![[src_kangourou_2019_student_marzo__prob13.png]]
 
@@ -637,7 +637,7 @@ Maximum power of 3 that divides 7! + 8! + 9!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age and height of the man (three info with correct data) *
+*Age and height of the man (three info with correct data)*
 
 > The police have collected the following information, which is partly contradictory, about one man:
 > 	
@@ -1375,7 +1375,7 @@ The probability that Mary wins by drawing the fruit candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a_2019 in succession (square sum +1) *
+*Value of a_2019 in succession (square sum +1)*
 
 > The first element a1 of the sequence a1, a2, a3, ... is equal to 49. For each n > 1, the number an+1 is the square of the number obtained by adding 1 to the sum of the digits of an. For example, a2 = (4 + 9 + 1)2 = 196. What is the value of a2019 ? A) 121 B) 25
 > 	

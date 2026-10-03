@@ -146,7 +146,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale per I(u) definita da un'integrale, quindi calcola I(u) *
+*Equazione funzionale per I(u) definita da un'integrale, quindi calcola I(u)*
 
 > Per tutti i $u$ reali, $I(u) = \int_0^u \ln(1 - 2a\cos x + a^2)\,dx$.
 > 

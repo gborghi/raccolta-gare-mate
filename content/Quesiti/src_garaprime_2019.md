@@ -681,7 +681,7 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of firsts in the factorization of p(19,18) *
+*Number of firsts in the factorization of p(19,18)*
 
 > Given the polynomial p(x, y) = x5 +x4y +x3y2 +x2y3 +xy4 +y5, both n = p(19, 18), i.e. n is the number that is obtained by replacing the values x = 19 and y = 18 in the polynomial. How many different prime numbers do you have in the factorization of n? A 4 B 3 C 5 D 6 E 7 F more than 7
 
@@ -754,7 +754,7 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divers of n knowing that 30n has 45 *
+*Divers of n knowing that 30n has 45*
 
 > Of positive integer n we know that 30n has 45 positive divisors (also counting 1 and 30n). How many positive divisors of n? A 16 B 42 C 36 D 12 E 24 F 32
 

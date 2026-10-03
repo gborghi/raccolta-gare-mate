@@ -191,7 +191,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flag colours in 3 stripes with 4 colours, adjacent to each other *
+*Flag colours in 3 stripes with 4 colours, adjacent to each other*
 
 ![[src_kangourou_2023_student__prob4.png]]
 

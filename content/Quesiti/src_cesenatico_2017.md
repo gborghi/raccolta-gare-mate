@@ -98,7 +98,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many spins *
+*how many spins*
 
 > Magician has a deck of 52 cards, stacked in piles, with the back up. Magogo separates the seven-card deck at the top of the pile, flips it over, and puts it under the pile. Now all the cards are back in the pile, but not all of them have their backs up yet: the bottom seven have turned upside down. Magno repeats the previous operation until it happens again that all the cards have their backs up. In total, how many seven-card deals did Magog make?
 
@@ -129,7 +129,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* equal opposite corners *
+*equal opposite corners*
 
 > ABCD is a tetrahedron with the following properties: A′, B′, C′, D′, respectively, the centers of the faces BCD, ACD, ABD and ABC, so that the directions AA′, BB′, CC′ and DD′ have one thing in common. Demonstrate that the product of the lengths of two opposite sides of the tetrahedron is constant, i.e. AB·CD = AC·BD = AD·BC.
 

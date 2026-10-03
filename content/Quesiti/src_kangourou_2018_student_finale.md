@@ -145,7 +145,7 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate the existence of a circle with exactly n lattice points *
+*Demonstrate the existence of a circle with exactly n lattice points*
 
 > Imagine the plane as a square sheet (all with the same side length) boundless in every direction and call **node** each vertex of each square. Prove that for every $n$ there exists a circle containing exactly $n$ nodes inside.
 

@@ -404,7 +404,7 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotti di cosini, trovare un numero intero più vicino a (2/7)log_2(y/x) *
+*Prodotti di cosini, trovare un numero intero più vicino a (2/7)log_2(y/x)*
 
 > Se $x = \cos 1^\circ \cos 2^\circ \cos 3^\circ \cdots \cos 89^\circ$ e $y = \cos 2^\circ \cos 6^\circ \cos 10^\circ \cdots \cos 86^\circ$, quale è il numero intero più vicino a $\frac{2}{7} \log_2(y/x)$?
 

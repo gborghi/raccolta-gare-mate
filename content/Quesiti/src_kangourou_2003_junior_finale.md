@@ -216,7 +216,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Auto-descriptive number of 10 digits *
+*Auto-descriptive number of 10 digits*
 
 > A single positive integer of ten digits (significant) has a decimal representation such that its first digit (left) corresponds to the number of its digits that are equal to zero, its second digit corresponds to the number of its digits that are equal to one, its third digit corresponds to the number of its digits that are equal to two and so on until its tenth digit corresponds to the number of its digits equal to nine. Find that number.
 

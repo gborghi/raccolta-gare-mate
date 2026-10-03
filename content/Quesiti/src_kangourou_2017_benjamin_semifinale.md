@@ -561,7 +561,7 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small spicy two-digit number *
+*Small spicy two-digit number*
 
 > (Points 5) We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What's the smallest spicy number?
 

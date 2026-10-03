@@ -74,7 +74,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number continuing the sequence (subtractions) *
+*Number continuing the sequence (subtractions)*
 
 ![[src_kangourou_2003_ecolier__prob2.png]]
 
@@ -111,7 +111,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the 27th kangaroo (cycle 5) *
+*Color of the 27th kangaroo (cycle 5)*
 
 > Sofia draws kangaroos, coloring them in this order: one blue, then one green, then one red, then one black, then one yellow, then again one blue, one green, one red, one black and so on... What color will the 27th kangaroo be? A) blue B) yellow C) red D) black E) green
 
@@ -662,7 +662,7 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students with brother and sister (inclusion-exclusion) *
+*Students with brother and sister (inclusion-exclusion)*
 
 > There are 29 students in a class. Students who have at least one sister are 12, those who have at least one brother are 18. Tina, Roberto, and Anna are the only children. How many students in that class have both a brother and a sister? (A) None (B) 1 (C) 3 (D) 4 (E) 6
 
@@ -944,7 +944,7 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiny black bars in the barcode *
+*Tiny black bars in the barcode*
 
 ![[src_kangourou_2003_ecolier__prob21.png]]
 
@@ -1022,7 +1022,7 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the group (answers 1,2,3,4) *
+*How many liars in the group (answers 1,2,3,4)*
 
 > In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following four different answers: 1, 2, 3, 4. How many really lie in that group of people? A) 0 B) 1 C) 2 D) 3 E) 4
 

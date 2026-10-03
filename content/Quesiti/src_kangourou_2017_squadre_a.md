@@ -66,7 +66,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many coins did Luisa leave home with (three expenses) *
+*How many coins did Luisa leave home with (three expenses)*
 
 > When she left the house, Luisa had only one-euro coins in her purse. She went into three stores and spent half of what she had in her purse when she went in plus 50 cents. She has always paid the exact amount requested without receiving change and, after the three purchases, she has 23 euros left. How many coins did Luisa leave home with?
 
@@ -131,7 +131,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9 with a 90-digit number *
+*9 with a 90-digit number*
 
 > Adding the numbers A positive integer n has 90 digits all of which are different from zero; each digit from 1 to 9 is present in n the same number of times. Starting with n we build two more numbers: a obtained by pressing 1 to the sequence of digits that gives n and b obtained by writing 1 after the sequence of digits that gives n. The difference b − a is divisible by 9: what is the sum of the digits of the quotient (b − a): 9?
 
@@ -197,7 +197,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of RETI values in AMO+AMO+AMO=RETI (max and min) *
+*Sum of RETI values in AMO+AMO+AMO=RETI (max and min)*
 
 > Peter replaces each letter of the expression AMO + AMO + AMO = RETI with a digit, replacing different letters with different digits, so as to obtain a correct equality. Andrew does the same thing, but Peter gets the greatest possible value for RETI and Andrew the smallest compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrew and Peter?
 
@@ -227,7 +227,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the six Fibonacci-like numbers (first 4, last 47) *
+*sum of the six Fibonacci-like numbers (first 4, last 47)*
 
 > The sum In a sequence of six numbers, the first one is 4 and the last one is 47. Each number from the third is the sum of the previous two. What's the sum of all six numbers?
 

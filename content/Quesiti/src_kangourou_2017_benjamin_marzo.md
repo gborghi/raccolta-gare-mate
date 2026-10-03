@@ -353,7 +353,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Correct order of the three rhinos by weight*
+*Correct order of the three rhinos by weight*
 
 ![[src_kangourou_2017_benjamin_marzo__prob8.png]]
 
@@ -738,7 +738,7 @@ How Beppe had folded the sheet given the hole
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the last key (letter-digit encryption) *
+*Number on the last key (letter-digit encryption)*
 
 ![[src_kangourou_2017_benjamin_marzo__prob16.png]]
 

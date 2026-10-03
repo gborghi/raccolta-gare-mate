@@ -56,7 +56,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con valori di coprimo; insieme infinito di coprimo in coprimo *
+*Polinomio con valori di coprimo; insieme infinito di coprimo in coprimo*
 
 > Che $W$ sia un polinomio con coefficienti interi in modo che esistano interi a cui $W$ prende valori copriemi. Mostrare che esiste un insieme infinito $S$ di integri in cui i valori $W$ sono copriemi in coprieme.
 

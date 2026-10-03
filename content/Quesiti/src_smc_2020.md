@@ -949,7 +949,7 @@ Trovate un k del genere 16! diviso per 2^k è un numero intero impare*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di (f(20) - f(2)) / f(3) per una funzione che soddisfa y^2 f(x) = x^2 f(y) *
+*Valuta di (f(20) - f(2)) / f(3) per una funzione che soddisfa y^2 f(x) = x^2 f(y)*
 
 > Una funzione $f$ soddisfa $y^2 f(x) = x^2 f(y)$ e $f(3) \neq 0$. Qual è il valore di $\dfrac{f(20) - f(2)}{f(3)}$?
 >

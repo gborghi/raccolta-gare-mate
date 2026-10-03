@@ -265,7 +265,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter by the theorem of the biset *
+*Triangle perimeter by the theorem of the biset*
 
 ![[src_archimede_2013_triennio__prob12.png]]
 
@@ -326,7 +326,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number divides p(169)-p(1) by integer polynomial *
+*Which number divides p(169)-p(1) by integer polynomial*
 
 > The polynomial p(x) has a degree greater than or equal to 2 and its coefficients are all integers. Which of the following numbers certainly divides p(169) −p(1)?
 >

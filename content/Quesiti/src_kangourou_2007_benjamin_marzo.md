@@ -296,7 +296,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the other rectangle (cut square) *
+*Perimeter of the other rectangle (cut square)*
 
 > Ada has a cardboard square with a perimeter of 20 centimeters. She cuts it and gets two rectangles, the perimeter of one of which measures 16 centimeters. How many centimetres does the perimeter of the other measure? A) 8 B) 9 C) 12 D) 14 E) 16
 
@@ -330,7 +330,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result by removing 5 letters and reversing *
+*Result by removing 5 letters and reversing*
 
 > 5 letters are removed from the word KANGAROO (some may be repeated), then the remaining letters are written in reverse order. What may be the result? (a) RANK B) OGR C) RNO D) RAN E) ANG
 
@@ -550,7 +550,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total lengths of the two segments (27 cm tape) *
+*Total lengths of the two segments (27 cm tape)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob12.png]]
 
@@ -630,7 +630,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the letter C (cryptogram) *
+*Value of the letter C (cryptogram)*
 
 > In the sum represented here next to the same letter it corresponds to the same figure. Find the value corresponding to the letter C A) 0 B) 2 C) 3 D) 6 E) 7
 
@@ -822,7 +822,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro to the second-placed player (double prizes) *
+*Euro to the second-placed player (double prizes)*
 
 > EUR 1005 was distributed among the competitors who placed in the top four places of a race. The prize doubles with each placement, so for example the third-placed person wins twice as much as the fourth-placed person. How much does the second-placed person receive? A) 138 B) 140 C) 268 D) 300 E) 301,50
 
@@ -936,7 +936,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total time with at least a 2-digit time (clock) *
+*Total time with at least a 2-digit time (clock)*
 
 > How long in total, for 24 hours, does at least a digit 2 appear on my digital clock where the hours are from 00:00 to 23:59? A) 3 hours 45 min B) 6 hours 45 min C) 10 hours 30 min D) 6 hours 00 min E) 5 hours 30 min The questions from N. 21 to N. 30 are worth 5 points each.
 
@@ -1150,7 +1150,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential perimeter figures B and A (stripe) *
+*Differential perimeter figures B and A (stripe)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob25.png]]
 
@@ -1359,7 +1359,7 @@ Number on the face? (closed data) *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square ABCD (shaded part 1) *
+*Area of the square ABCD (shaded part 1)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob29.png]]
 

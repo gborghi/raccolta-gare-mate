@@ -37,7 +37,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total profit after double sale of shelf *
+*Total profit after double sale of shelf*
 
 > At the flea market a seller sells for 80 euros a shelf he had bought for 70 euros. Then think about it, buy the shelf back for 90 euros and sell it back for 100 euros. How much did you make in the end?
 >

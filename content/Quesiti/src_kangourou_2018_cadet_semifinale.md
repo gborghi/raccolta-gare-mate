@@ -87,7 +87,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the smallest modern number *
+*First digit of the smallest modern number*
 
 > (Points 3) A positive integer is said to be modern if the sum of its digits is 2018. What is the first digit of the smallest modern number? A) 1
 > 	
@@ -659,7 +659,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers such as sum A (4 digits) and B (2 digits) *
+*Numbers such as sum A (4 digits) and B (2 digits)*
 
 > (Points 6) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
 

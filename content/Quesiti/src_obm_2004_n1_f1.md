@@ -63,7 +63,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale dei prodotti indicati è strano? *
+*Quale dei prodotti indicati è strano?*
 
 > Quale dei seguenti prodotti è strano?
 > 
@@ -127,7 +127,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il 20% di 40 *
+*Trova il 20% di 40*
 
 > $20\%$ di $40$ è uguale a:
 > 

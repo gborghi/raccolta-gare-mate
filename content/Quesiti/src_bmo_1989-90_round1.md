@@ -112,7 +112,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di monete pregiudiziale; trovare p per un gioco equo tra A e B *
+*Gioco di monete pregiudiziale; trovare p per un gioco equo tra A e B*
 
 > Una moneta è biased in modo che la probabilità di ottenere una testa è $p$, $0 < p < 1$. Due giocatori $A$ e $B$ lanciano la moneta a turno fino a quando non si verifica una delle sequenze $HHH$ o $HTH$. Se la sequenza $HHH$ si verifica prima, allora $A$ vince. Se $HTH$ si verifica per primo, allora $B$ vince. Per quale valore di $p$ è il fair game (cioè in modo tale che $A$ e $B$ abbiano uguali possibilità di vincere)?
 

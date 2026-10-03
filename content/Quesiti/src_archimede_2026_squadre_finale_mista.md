@@ -197,7 +197,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summation of max and min self-divisible digits 1-9 *
+*Summation of max and min self-divisible digits 1-9*
 
 > The Horrifying Bijection Giuseppe Mascellani Moduloso and Nashtrid are training their ability to do multiple things simultaneously in the arena. In defeating the Predator Dragon, they also have to use all the digits from 1 to 9 once to make up three self-dividing three-digit numbers. A number is said to be self-divisible if it is multiple of each of its own digits explains Scalarchio. Among all possible solutions, Nashtrid finds the set of numbers with maximum sum S, while Moduloso finds the one with minimum sum s. How much is S+s worth?
 
@@ -334,7 +334,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Munice root cubic polynomials and single-digit coefficients *
+*Munice root cubic polynomials and single-digit coefficients*
 
 > The son of a half-troll, Fabio Lilliu Nashtrid observes with increasing annoyance Hilcup's continuous progress: not only has he become surprisingly good with dragons, but he seems to do far too well with mathematics as well. To test this, he decides to ask him a question: How many polynomials of third degree with integer coefficients for which all three roots are single-digit integers, all the coefficients are also single-digit integers and the third degree coefficient is exactly one? Hilcup asks: "Can I also use negative integers?" to which Nashtrid replies: "Certainly, all integers between −9 and 9". Not even the time to finish, that Hilcup has already solved the problem. "Son of a half-troll!" cries Nashtrid in a spacious voice. What is the answer to Nashtrid's question?
 
@@ -371,7 +371,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Islands (n,n) reachable by increasing steps *
+*Islands (n,n) reachable by increasing steps*
 
 > In flight, Marco Targia Nashtrid has discovered Stellato's hideout! To convince her that he's a friendly dragon, Hilcup takes her on a flight with him. The two, however, do not realize that Stellato is heading towards the archipelago of which Dragon Island is also a part. Its route can be represented on the Cartesian plane: it starts at point (0,0), while the 1501 islands of the archipelago are located at points (n,n) with 1500 ≤n ≤3000. The dragon can only move in directions parallel to the Cartesian axis to the right or up, and not diagonally... It's a dragon. In addition, at k-eighth beat dali travels exactly k units of length: the first shift is length 1, the second 2, the third 3, and so on (Stellato moves between points at full coordinates). Which islands of the archipelago can you reach in this way? Tell me how many there are.
 
@@ -470,7 +470,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9 ships with multiple bonds of 3 *
+*9 ships with multiple bonds of 3*
 
 > To Dragon Island Eugenio Trovarelli Stochastick, furious at his son's behavior during the final exam, decides to sail to Dragon Island with the intention of eliminating them once and for all. For the expedition, he prepares nine ships, numbered 1 to 9, which will have to proceed in Indian line. To avoid confusion during navigation, however, he imposes a rule: every ship whose number is divisible by 3 must immediately have a ship with a smaller number than its own. How many different ways can ships line up?
 
@@ -720,7 +720,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary powers of 16 of the roots of the polynomial *
+*Summary powers of 16 of the roots of the polynomial*
 
 > The Chief has returned to the house Lorenzo Degli Act It's time to proclaim the new Chief of Berkhoff! The old Gödhi begins the ceremony by tracing with coal, on the front of Hilcup, the polynomial p(x) = x15 −2x14 +2x13 −x12 +x11 −2x10 +2x9 −x8 +x7 −2x6 +2x5 −x4 +x3 −2x2 +2x−1. Only someone truly worthy of this title is able to calculate the sum of the 16th powers of all the roots of p (x), including complex ones. How much is that?
 

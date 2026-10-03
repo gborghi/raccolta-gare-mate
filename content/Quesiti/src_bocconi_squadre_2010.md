@@ -552,7 +552,7 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rectangles are shown in the figure? *
+*How many rectangles are shown in the figure?*
 
 > How many rectangles do you see charted in the figure?
 > 

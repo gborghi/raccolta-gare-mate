@@ -100,7 +100,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ex length (key to inscribed circumference) *
+*Ex length (key to inscribed circumference)*
 
 > Arthur Dehn's house is about to be demolished to make way for a hook! It has the shape of a square ABCD on the side 1500 inscribed with a circumference Γ. From the point E of side AB such that AE = 750 √ 2 starts a straight (not overlapping to AB) road tangent to Γ, which intersects the straight CD in X. How big is EX?
 
@@ -143,7 +143,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two teleports (geometric delays) *
+*Probability of two teleports (geometric delays)*
 
 > Even Earth is about to be destroyed to make way for a hyperspace curve. Square Perfect came up with a plan to save himself and Arthur. They will have to teleport on a Bogon ship, wait at least half an hour on it for their teleportation device to recharge, and then they can transfer with the device to another spacecraft that is expected to cross the Bogon ship 11 hours later than their expected arrival time (the teleportation device only works when the two ships are close together). In fact, unfortunately, there is no guarantee that the two ships will be on time: each of them, regardless of the other, has 12 chances of arriving on time, 14 of being one hour late, 18 of having two, 16 of having three, and so on. What are the odds that our two heroes will be able to teleport twice as scheduled? Answer by stating the sum of the numerator and denominator of the fraction reduced to the minimum terms.
 
@@ -177,7 +177,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max AC with cyclic BCDE (ABMD, cyclic ACME) *
+*Max AC with cyclic BCDE (ABMD, cyclic ACME)*
 
 > Bogon I Bogon discovered the two hitchhikers on their ship! Now Superintendent Krylov-Bogonlyubov has forced them to solve a problem of the terrible Bogon geometry, the second worst in the entire universe. They're facing an ABC triangle with AB = 7623 and BC = 8000. Given M the BC middle point, they were forced to choose D,E points on the AC,AB segments respectively, so that ABMD and ACME are cyclic. To free themselves, they must find the maximum AC value such that BCDE is cyclic. What's this value?
 
@@ -252,7 +252,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last three digits of a_2016+3a_2015 (recurrence) *
+*Last three digits of a_2016+3a_2015 (recurrence)*
 
 > The most intelligent species humans are only the third most intelligent species on planet Earth, after dolphins and mice. In fact, given a sequence such that a0 = 1, a1 = 2, and an = an−1 +12an−2 for each n ≥2, mice can immediately calculate what is worth 2016 +3a2015. Humans, on the other hand, can only determine the last three digits of this number. What are these last three digits?
 
@@ -499,7 +499,7 @@ The probability of a spacecraft traveling 10+ miles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCGF area (parallels and intersections, FP/PG/GF) *
+*BCGF area (parallels and intersections, FP/PG/GF)*
 
 > The improbable engine of increasing improbability has brought our heroes to Mathratea, but in the meantime has created a vase of flowers and a free-falling headgear several miles from the planet's surface. What an unlikely event! The poor cetacean, as he fell, barely had time to invent this problem. Both ABC a triangle and D and E respectively of the points on AB and AC such that AD = 1 5AB and AE = 1 3AC. For the parallel to BC passing through A, be F the intersection between r and CD, G the intersection between r and BE and P the intersection between CD and BE. Knowing that FP = 35, PG = 100 and GF = 117, determine the area of BCGF.
 
@@ -573,7 +573,7 @@ The probability of a spacecraft traveling 10+ miles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of -1^3-2^3+3^3+4^3-...+16^3 (alternate signs) *
+*Value of -1^3-2^3+3^3+4^3-...+16^3 (alternate signs)*
 
 > After many years, the computer built by the Mathrateans was able to calculate the answer to the Question (whatever it is). It is equal to the quantity −13 −23 +33 +43 −··+153 +163, where the signs in front of the cubes are alternately two less and two more. Unfortunately, it was destroyed before the last step, which is to calculate the value of this sum, was completed. Can you complete this calculation?
 > 

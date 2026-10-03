@@ -39,7 +39,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time indicated by digital clock with sum property *
+*Time indicated by digital clock with sum property*
 
 > After a delicate vote, the President of the Banana Republic Parliament relieves the tensions of those present with a frivolous mathematical observation. Look at the clock in this room, he says. For 24 hours the sum of the figures it indicates will no longer be the same as it is now. We cannot, however, remain here to check as, as you know, from next midnight until 3 a.m. we will unfortunately have to stop work to allow cleaning in the hall. Knowing that there is a normal digital clock in the room that indicates the hours from 00:00 to 23:59, determine the time indicated. In the answer, use the 2 digits on the left to indicate the time and the 2 digits on the right to indicate minutes.
 
@@ -592,7 +592,7 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third and fourth day positive with always full mean *
+*Third and fourth day positive with always full mean*
 
 > The good example 50 points It is known that in the Banana Republic it is absolutely forbidden for Members of Parliament to consume bananas. In order to investigate compliance with this provision, the subjects of a televised broadcast took samples of organic material from the Members themselves under pretext and then analysed them to reveal the possible consumption of the prohibited fruit. The survey was carried out over 5 consecutive days. At the end of each day, the delegates set out the number of Members who had tested positive and also calculated the average number of those who had tested positive up to that day. Oddly enough, five times the average was a whole. Knowing that the number of positive cases on the various days was 71, 76, 80, 82, 91 (not necessarily in the order), determine how many positive cases were on the third and fourth days. In the answer, use the 2 digits on the left to indicate the number of positive on the third day, and the 2 digits on the right to indicate the number of positive on the fourth day.
 
@@ -894,7 +894,7 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of a sum of roots (optimal broken path) *
+*Minimum of a sum of roots (optimal broken path)*
 
 > To find out the duration of the next government, the Prime Minister of the Banana Republic decided to consult an astrologer. The astrologer asked him the dates and times of birth of all those who support him, from which, by compiling complex tables, he obtained 3 important parameters. Now he's about to insert these three parameters into a new software that should provide it with government days. What no one knows is that the engineer who programmed the software had no idea how to account for those parameters and so, to confuse the waters a bit, he did a program that, received in input 3 numbers x, y, z, returns in output the entire part of √ x2 + 1 + p (y −x) 2 + 4 + p (z −y) 2 + 1 + p (10 −z) 2 + 9 2). Knowing that the 3 parameters calculated by the astrologer can be any real number, determine how many days the new government will last, at least.
 
@@ -930,7 +930,7 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum eulerian round in a 64x37 lattice *
+*Minimum eulerian round in a 64x37 lattice*
 
 > The 80 points round To maintain discipline among the main members of the parties that speak for it, the Prime Minister of the Banana Republic decided to place them in a tent town. This resulted in the construction of a huge encampment divided by streets in a grid of 64 × 37 square feet all equal, inside each of which there is a tent. Every night, to avoid conspirations, the Prime Minister leaves a summit of the camp and, after having walked at least once through all the inner and perimeter roads, returns to the summit of departure. Determine how long, at least, the Prime Minister's round is (express the answer by taking as a unit of measurement the length of the sides of the grid squares). Team competition  Local phases  Problem texts  Pages. 7 di 7
 

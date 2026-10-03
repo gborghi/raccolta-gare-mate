@@ -238,7 +238,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove c1+..+cn>=n if product ci=1 (AM-GM) *
+*Prove c1+..+cn>=n if product ci=1 (AM-GM)*
 
 > Show that for any $n$-tuple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
 
@@ -270,7 +270,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Date on which Penelope has 100 m long canvas*
+*Date on which Penelope has 100 m long canvas*
 
 > A jazz band consists of six members. Joseph plays the saxophone, Sergio plays the trumpet, Eliana sings and they're all the same age. The other three members of the jazz band are 17, 19, and 24. The average age of the six members is 21. How old is Eliana?
 > 
@@ -452,7 +452,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the bridge (Aldo and Carlo) *
+*Length of the bridge (Aldo and Carlo)*
 
 > Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The $6°$ step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest step?
 > 

@@ -106,7 +106,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference between eight-digit numbers with binding *
+*Maximum difference between eight-digit numbers with binding*
 
 > Jacopo enjoys writing all eight-digit numbers like 11052013 that use the "1, a "2", a "3" and a "5" twice. Then subtract the smallest of these numbers from the largest.
 > 
@@ -174,7 +174,7 @@ Anne's gift for four gifts with memory constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number seen in the mirror on a t-shirt with digits *
+*Number seen in the mirror on a t-shirt with digits*
 
 > A three-digit number (no zero) is shown on Luke's t-shirt, with the digits drawn as in the figure. Looking in the mirror, Luke sees a number equal to four times what is actually written on his shirt.
 > 
@@ -514,7 +514,7 @@ Mysterious positive number less than 2013 with three conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of dividers between three consecutive *
+*Minimum number of dividers between three consecutive*
 
 > Each of the numbers 2013, 2014 and 2015 has eight divisors.
 > 

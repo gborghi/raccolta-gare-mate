@@ -235,8 +235,6 @@ Sum of years N in [476,1492] with x^4-y^4=N solvable*
 *Number of final zeroes of the splitter product of 1500000*
 
 > The preparation of certain potions is long and elaborate, undertaken only by experienced mathematicians. Hermitate is intended for the preparation of the Polyfactor potion: it requires a number of leeches. This number P is the product of all positive divisors of 1500000 (including 1500000 itself). How many zeros does P end with? Team competition 2006  Semifinal A Problem tests  Pag. 1 di 2
-> 
-> I'm going to pay. 2 out of 2  Team competition 2006  Semifinal A Problem tests
 
 **Answer:** 0210
 [[Quesiti/src_cesenatico_2006_squadre_semifinale_a#q07|src_cesenatico_2006_squadre_semifinale_a__Q07]]

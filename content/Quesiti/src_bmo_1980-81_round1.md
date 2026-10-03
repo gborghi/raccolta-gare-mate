@@ -123,7 +123,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Trova il minimo valore positivo di m - <128^> n *
+*Trova il minimo valore positivo di m - <128^> n*
 
 > Trova, con prova, il minimo possibile valore positivo di $|128^m - 9^n|$, dove $m$ e $n$ sono interi positivi.
 

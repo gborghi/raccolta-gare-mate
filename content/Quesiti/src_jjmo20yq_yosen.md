@@ -59,7 +59,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie prime (p,q) con p<=q in modo tale che pq divida 15(p-1)(q-1) *
+*Contare le coppie prime (p,q) con p<=q in modo tale che pq divida 15(p-1)(q-1)*
 
 > $(p, q)$ sia una coppia di numeri primi con $p \le q$ tale che $pq$ divida $15(p-1)(q-1)$. Trova il numero di tutte le coppie $(p, q)$.
 
@@ -303,7 +303,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anello di 103 quadrati; A si muove pezzo per c o d, B per a o b; conteggio (a,b,c,d) *
+*Anello di 103 quadrati; A si muove pezzo per c o d, B per a o b; conteggio (a,b,c,d)*
 
 > $a, b, c, d$ siano numeri interi che soddisfino $0 < a < b < c < d < 163$. Considerate i quadrati $103$ disposti in un anello (circolo), con un quadrato etichettato $S$ e il quadrato passo uno in senso contrario all'orologio da $S$ etichettato $G$. Un token inizia a $S$. I giocatori $A$ e $B$ si alternano, a partire da $A$:\n- Al turno di $A$: spostare il token in senso orario di $c$ o $d$ quadrati.\n- Al turno di $B$: spostare il token in senso orario di $a$ o $b$ quadrati.\nL'obiettivo del giocatore $B$ è quello di avere il token a terra su $G$ immediatamente dopo uno dei movimenti di $B$. Trova il numero di 4 doppi $(a, b, c, d)$ per i quali il giocatore $B$ può sempre raggiungere l'obiettivo in finite mosse, indipendentemente dalle scelte del giocatore $A$.
 

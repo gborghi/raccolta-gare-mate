@@ -642,7 +642,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Light grey region area (rectangles overlapping) *
+*Light grey region area (rectangles overlapping)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob14.png]]
 
@@ -752,7 +752,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days to read the book (4 days, 25 Sundays) *
+*Days to read the book (4 days, 25 Sundays)*
 
 > Carlo needs to read a 290-page book. He has scheduled his assignment as follows: He will read 4 pages every day, except Sunday, when she will always read 25. If he starts reading next Sunday and follows the schedule (so never skipping days), how many days will it take to finish the book? A) 5 B) 46 C) 40 D) 35 E) 41
 
@@ -894,7 +894,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number (two out of four true statements) *
+*What number (two out of four true statements)*
 
 > Consider the following four statements concerning the same positive integer. It's divisible by 5. It's divisible by 11. It's divisible by 55. It's less than 10. You know two of them are true and the other two are false. So that number is A) 1 B) 5 C) 10 D) 11 E) 55 The questions from N. 21 to N. 30 is worth 5 points each.
 
@@ -1064,7 +1064,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded region (10 cm square) *
+*Area of the shaded region (10 cm square)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob24.png]]
 
@@ -1103,7 +1103,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A+B-C value (sum of rows and columns) *
+*A+B-C value (sum of rows and columns)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob25.png]]
 
@@ -1148,7 +1148,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number to reach 2009 (roads) *
+*Initial number to reach 2009 (roads)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob26.png]]
 
@@ -1228,8 +1228,6 @@ Minimum number to be deleted for palindrome
 ![[src_kangourou_2009_benjamin_marzo__prob27.png]]
 
 > A complete set for the game of dominoes consists of 28 cards all different from each other: each card represents one of the 28 possible combinations of two integers from 0 to 6 (including those in which the number is repeated) and the numbers are indicated by the corresponding amount of balls. What's the total number of balls in a set like this? A) 84 B) 105 C) 126 D) 147 E) 168 A B D N M C A B A 11 B A C 8 B C A 8 10 8 9 B F x 7 x 7 x 7 x 6 x 6 x 7 x 6 x 7 -49 -49
-> 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2009 Kang 2009
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_benjamin_marzo#q27|src_kangourou_2009_benjamin_marzo__Q27]]
@@ -1281,7 +1279,7 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary first row numbers (sum/difference table) *
+*Summary first row numbers (sum/difference table)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob28.png]]
 
@@ -1385,7 +1383,7 @@ Maximum number of friends (footwear)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What colours the shaded cell is in (4 colours) *
+*What colours the shaded cell is in (4 colours)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob30.png]]
 

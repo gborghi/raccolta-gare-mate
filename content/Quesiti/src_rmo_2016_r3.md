@@ -85,7 +85,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri interi positivi soddisfano le condizioni del rapporto, dimostrano d >= b + f *
+*I numeri interi positivi soddisfano le condizioni del rapporto, dimostrano d >= b + f*
 
 > $a, b, c, d, e, f$ siano integri positivi in modo tale che $$\frac{a}{b} < \frac{c}{d} < \frac{e}{f}.$$ Supponiamo $af - be = -1$. Mostra che $d \ge b + f$.
 
@@ -112,7 +112,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 paesi, lingue minime in modo che ogni 20 condividano una *
+*100 paesi, lingue minime in modo che ogni 20 condividano una*
 
 > Ci sono 100 paesi che partecipano ad una Olimpiada. Supponiamo che $n$ sia un numero intero positivo tale che ciascuno dei 100 paesi sia disposto a comunicare in esattamente $n$ lingue. Se un insieme di 20 paesi può comunicare in almeno una lingua comune e nessuna lingua è comune a tutti i 100 paesi, qual è il valore minimo possibile di $n$?
 

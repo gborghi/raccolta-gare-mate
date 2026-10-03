@@ -200,7 +200,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Numeri di 'Garbosy': multipli positivi le cui prime quattro cifre decimali sono 2008; mostrare 17 è garbosy e tutti i positivi sono *
+*Numeri di 'Garbosy': multipli positivi le cui prime quattro cifre decimali sono 2008; mostrare 17 è garbosy e tutti i positivi sono*
 
 > Chiamiamo un intero positivo $n$ *garbosy* se ha un multiple la cui quattro cifre principali della sua rappresentazione decimale sono 2008. Ad esempio, 7 è disgustoso perché 200858 è un moltiplo di 7 e inizia con 2008. Si noti che $200858 = 28694 \times 7$.
 > 

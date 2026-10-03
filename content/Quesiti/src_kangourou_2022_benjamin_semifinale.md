@@ -40,7 +40,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time in Rome when dinner was served (time zones) *
+*Time in Rome when dinner was served (time zones)*
 
 > (2 points) When in Rome it's 13:00, in Mexico City it's 6:00. During the flight that took off at 14:00 from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock showed 18:00. What time was it in Rome when dinner was served? A) 16:00 B) 17:50
 >  
@@ -442,7 +442,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most likely number of people who knew the answer *
+*Most likely number of people who knew the answer*
 
 > (6 points) To a multiple-choice Kangourou question like this, with 5 options for the answer, 10,000 students answered. Of these, some were able to determine the correct answer based on their knowledge, others guessed by choosing completely at random from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
 >  

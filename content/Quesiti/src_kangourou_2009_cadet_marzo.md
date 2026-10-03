@@ -188,7 +188,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many letters to deliver (odd numbers) *
+*How many letters to deliver (odd numbers)*
 
 > The houses on Via Lunga are numbered from 1, without skipping numbers. Henry has to deliver letters to some houses: he has to deliver a letter to each house that has an odd house number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in all? A) 19 B) 20 C) 27 D) 38 E) 53
 
@@ -225,7 +225,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black square area (subdivisions) *
+*Black square area (subdivisions)*
 
 ![[src_kangourou_2009_cadet_marzo__prob5.png]]
 
@@ -438,7 +438,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*QPR angle measurement (isosceles triangles) *
+*QPR angle measurement (isosceles triangles)*
 
 ![[src_kangourou_2009_cadet_marzo__prob10.png]]
 
@@ -648,7 +648,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (square area 1) *
+*Shaded region area (square area 1)*
 
 ![[src_kangourou_2009_cadet_marzo__prob14.png]]
 
@@ -687,7 +687,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the row of 25 (sincere/liars) *
+*How many liars in the row of 25 (sincere/liars)*
 
 > There are two kinds of people living on an island: the sincere, who never lie, and the liars, who always lie. There are 25 people in line on this island. Everyone, except the first in line, says the person in front of him in line is a liar while the first says everyone behind him is a liar. How many liars are in line? (a) 24 (b) 13 (c) 12 (d) 0 (e) It is not possible to establish
 
@@ -915,7 +915,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the angle X by extending two sides (9-agons) *
+*Measure the angle X by extending two sides (9-agons)*
 
 ![[src_kangourou_2009_cadet_marzo__prob19.png]]
 
@@ -1002,7 +1002,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many edges to return to P (right/left) *
+*How many edges to return to P (right/left)*
 
 ![[src_kangourou_2009_cadet_marzo__prob21.png]]
 
@@ -1306,7 +1306,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the triangle (overlapping with the square) *
+*Area of the triangle (overlapping with the square)*
 
 > By overlapping a square of side 6 centimeters on a triangle, I can cover up to 60% of the area of that triangle. By overlapping the triangle on the square, I can cover up to 2/3 of the area of the square. What is the area of the triangle in square centimetres? A) 22,8 B) 24 C) 36 D) 40 E) 60
 
@@ -1409,7 +1409,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference BC-AB (long bisector 2) *
+*Difference BC-AB (long bisector 2)*
 
 > In an ABC triangle the angle in B measures 20 degrees and the angle in C measures 40 degrees. The length of the bisector of the angle in A is 2. What is the difference between the length of BC and the length of AB? A) 4 B) 2 C) 1,5 D) 1 E) A different value Tests_09.qxp 15-04-2009 20:26
 > 

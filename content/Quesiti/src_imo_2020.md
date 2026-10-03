@@ -120,7 +120,7 @@ This is the same as the previous one.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k cableways with two stations connected by both *
+*Minimum k cableways with two stations connected by both*
 
 > It is $n > 1$ a whole. There are $n^2$ stations on one side of a mountain, all at different heights. Each of the two cable car companies, $A$ and $B$, operates $k$ cable cars; each cable car provides a transfer from one of the stations to a higher one (without intermediate stops). The $k$ cableways of $A$ have different $k$ starting points and $k$ different arrival points, and a cableway that starts at a higher altitude also reaches a higher altitude. The same conditions apply to $B$. Let's say that two stations are connected by a company if you can start from the lower station and reach the upper one using one or more means of that company (no other movements between stations are allowed).
 > 
@@ -186,7 +186,7 @@ This is the same as the previous one.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separating straight with distance >= n^(-1/3) *
+*Separating straight with distance >= n^(-1/3)*
 
 > It shows that there is such a positive constant $c$ that the following statement is true:
 > 

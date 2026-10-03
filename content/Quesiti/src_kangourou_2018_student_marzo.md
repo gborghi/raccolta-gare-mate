@@ -125,7 +125,7 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many stones can Maciste get (+4 per shot) *
+*How many stones can Maciste get (+4 per shot)*
 
 > Maciste initially has seven stones and a hammer that breaks any stone into exactly five smaller stones. What number of stones can he get, among the following? A) 17
 > 	
@@ -271,7 +271,7 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways 1001 as the sum of two prime *
+*In how many ways 1001 as the sum of two prime*
 
 > How many different ways (except the order) can the number 1001 be written as the sum of two prime numbers? A) 0
 > 	
@@ -1180,7 +1180,7 @@ The probability that the sum of the three maximum values is 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report areas of GIF triangle and IHDE hexagon trapezoid *
+*Report areas of GIF triangle and IHDE hexagon trapezoid*
 
 ![[src_kangourou_2018_student_marzo__prob28.png]]
 
@@ -1242,7 +1242,7 @@ The probability that the sum of the three maximum values is 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second and tenth digits of factor 15 *
+*Second and tenth digits of factor 15*
 
 > 29. Francis has calculated 1×2× ...×15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 and 0 B) 7 and 4 C) 4 and 8 D) 9 and 2 E) 3 and 8
 

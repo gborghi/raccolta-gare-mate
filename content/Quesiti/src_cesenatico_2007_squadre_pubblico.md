@@ -34,7 +34,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1) *
+*Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1)*
 
 > Today, Numeruto's team is facing a rather singular mission. The three find themselves considering the succession of natural a1 = 1000, a2 = x, a3 = a1−a2, . . . , an = an−2−an−1. The sequence ends with the first negative. What value of x should Numeruto's team trace to get the longest sequence?
 
@@ -197,8 +197,6 @@ level: squadre
 *Little b with (mnmn)_b perfect cube, answer b+m+n*
 
 > The invasion! [20] The Moreninja of the village of the Root have invaded the village of Numeruto! Every street corner is the scene of bloody clashes. In one of these, two mateninja are committed to finding the smallest integer b > 1 such that there exist m, n natural minors of b so that the positive integer (mnmn) b (i.e. the number mnmn at the base of b) is a perfect cube. Returns the value of b+m+n as a response. Team competition 2007  Public competition  Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2007  Public competition  Problem texts
 
 [[Quesiti/src_cesenatico_2007_squadre_pubblico#q05|src_cesenatico_2007_squadre_pubblico__Q05]]
 
@@ -230,7 +228,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculate a_5N/1000 with sum numbers of 7 digits *
+*Calculate a_5N/1000 with sum numbers of 7 digits*
 
 > A coincidence [30] The great council of the village of Retta accurately transcribes all the proceeds of the missions carried out by its moreninja. A scroll records this year's revenues and Isoshilo immediately noticed that all the numbers a1, a2, . . . , are in strictly increasing order and have a curious feature: they are all numbers that have 7 as a sum of digits (in decimal form). If N is the index of first income exceeding 2000, calculate a5N 1000
 
@@ -261,7 +259,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite probability of descent (branching) *
+*Infinite probability of descent (branching)*
 
 > A singular technique [35] The Numeruto Matemaki has created a copy of it to confuse the pursuers of the village of Binomio. The copy, however, dissolves after a p or so, creating two more copies of Numbers with a probability of 5, 8, or disappearing without further consequences with a probability of 3.
 
@@ -328,7 +326,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral area with E reflection (radius 15) *
+*Cyclic quadrilateral area with E reflection (radius 15)*
 
 > Amara medicine [40] Otenusa is engaged in a difficult healing technique. Doses and measures are essential for medical morning. Otenusa considers an ABCD quadrilateral inscribed in a circumference with a radius equal to 15 mat-shaku. That said, the symmetry of B with respect to the AC segment axis, Otenusa knows that AC, BD and DE have lengths equal to 23, 24 and 25 mat-shaku respectively. What is the surface area of the ABCD quadrilateral in mat-shaku2?
 
@@ -502,7 +500,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to assign categories to 8 missions (1 G,2 M,5 P) *
+*How to assign categories to 8 missions (1 G,2 M,5 P)*
 
 > A distracted official [30] The missions are catalogued by the village council in descending order of difficulty, in categories A, B, C, D. There are three levels of mateninja, the Piccin (the apprentices), the Mezzin and the Grandin (the most skilled). Missions A are entrusted exclusively to the Grandin, those B only to the Mezzin, those C can be assigned to the Mezzin or Piccin, those D only to the Piccin. A distracted official lost the scroll on which he had written the categories of the last eight missions inspected by the board. All you know is that one of these was entrusted to a Grandin, two to a Mezzin, five to a Piccin team. But he doesn't remember which missions were entrusted to whom. In how many ways can you assign each mission its own category in a way that is consistent with the information it has?
 
@@ -675,8 +673,6 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 *Mean value of the square of the distance between two points on the edge*
 
 > The arena for mateninja skill clashes is shaped like a circle of 10 mat-ken rays. If two ninjas randomly position themselves, independently of each other, on two points placed on the edge of the arena, what is the average value of the square of the distance between the two?
-> 
-> I'm going to pay. 4 out of 4  Team competition 2007  Public competition  Problem texts
 
 [[Quesiti/src_cesenatico_2007_squadre_pubblico#q19|src_cesenatico_2007_squadre_pubblico__Q19]]
 
@@ -708,7 +704,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of turns of the ball game (switches) *
+*Maximum number of turns of the ball game (switches)*
 
 > Recreation [60] Morning school is tough, but fortunately, there are times when you relax. Today, 31 young students of mateninjutsu play ball with the following rules. Each player chooses another player, different from himself, so that no person is chosen more than once. Each is then given a ball with his or her name written on it. At this point, the game begins and each student passes the ball to the partner he chooses. The game ends when every morning the ball comes back with its own name. How many shifts does the game take?
 
@@ -808,7 +804,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of f ((a,b,c,d) with square bound (positive integers) *
+*Maximum of f ((a,b,c,d) with square bound (positive integers)*
 
 > Question of measures [70] The amount of life force Numeruto needs for its superior multiplication technique must be carefully calibrated, so that the technique fails. Numbered must find the maximum of the function f(a,b,c,d) = 2bd −d2 −b2 +100a−100c+280, when a,b,c,d varies between the positive integers that occur (a+b)2 +2a+b = (c+d)2 +2c+d. How much is it worth?
 

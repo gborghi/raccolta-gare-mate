@@ -614,7 +614,7 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multi-purpose 2^48-1 dividers of a width of 60 to 70 *
+*Multi-purpose 2^48-1 dividers of a width of 60 to 70*
 
 > We know that the number 248 −1 has exactly two divisors between 60 and 70. What are they?
 >
@@ -697,7 +697,7 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of straight pyramid on a square base units *
+*Volume of straight pyramid on a square base units*
 
 > A straight pyramid with a square base has all the nodes of a unit length. Its volume is
 >
@@ -870,7 +870,7 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum combination locking four digits with two equal *
+*Maximum combination locking four digits with two equal*
 
 > A thief saw Mark tie up his bicycle using a 4-digit combination lock (each digit goes from 0 to 9). He couldn't see the combination, but he found that at least two consecutive digits are the same. What is the maximum number of combinations the thief will have to try to steal Marco's bike?
 >

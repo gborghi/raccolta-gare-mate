@@ -402,7 +402,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tripli di punti positivi distinti con prodotto pari a 12 volte la somma *
+*Tripli di punti positivi distinti con prodotto pari a 12 volte la somma*
 
 > Quante serie di tre diversi integri positivi hanno il prodotto pari a $12$ volte la loro somma? Qui, gli insiemi che differiscono solo nell'ordine dei numeri, come $\{3, 6, 18\}$ e $\{6, 3, 18\}$, sono considerati uguali e contati come uno.
 

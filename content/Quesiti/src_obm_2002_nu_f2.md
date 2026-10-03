@@ -56,7 +56,7 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice reale simmetrica con somme di righe 1 e di diagonali non limitate; prova 0 < det A ≤ 1 *
+*Matrice reale simmetrica con somme di righe 1 e di diagonali non limitate; prova 0 < det A ≤ 1*
 
 > Che $A = (a_{ij})$ sia una matrice simmetrica reale $n \times n$ tale che $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ per tutti $i \in \{1, 2, \ldots, n\}$. Prove che $0 < \det A \le 1$.
 

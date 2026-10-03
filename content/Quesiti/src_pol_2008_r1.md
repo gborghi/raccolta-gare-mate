@@ -308,7 +308,7 @@ Risolvere un sistema simmetrico di tre equazioni cubiche in numeri reali x,y,z.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette punti sui lati del triangolo ABC con una catena di angoli uguali di 60 gradi; dimostrare che P1 coincide con P7. *
+*Sette punti sui lati del triangolo ABC con una catena di angoli uguali di 60 gradi; dimostrare che P1 coincide con P7.*
 
 > I punti $P_1, P_2, P_3, P_4, P_5, P_6, P_7$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, $BC$, $CA$, $AB$, $BC$ di un triangolo $ABC$ e soddisfano $$\angle P_1 P_2 C = \angle A P_2 P_3 = \angle P_3 P_4 B = \angle C P_4 P_5 = \angle P_5 P_6 A = \angle B P_6 P_7 = 60^\circ .$$ Prove che $P_1 \equiv P_7$.
 

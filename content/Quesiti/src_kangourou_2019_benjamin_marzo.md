@@ -38,7 +38,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*As the Maya wrote the number 17 (point/bar) *
+*As the Maya wrote the number 17 (point/bar)*
 
 > The Maya people did not write the numbers using our ten digits, but just two different symbols, point and bar. A point was 1, a bar was like 5 points, and the numbers were written using as few symbols as possible. How did they write the number 17? A) B) C) D)
 >   	
@@ -74,7 +74,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image can be a regular die (opposite faces 7) *
+*Which image can be a regular die (opposite faces 7)*
 
 > The sum of the dots on opposite sides of a regular die is always 7. Which of the following is the image of a regular die? A) B) C) D) E)
 
@@ -293,7 +293,7 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What sum cannot be drawn from three dice with odd numbers 1-11 *
+*What sum cannot be drawn from three dice with odd numbers 1-11*
 
 > On the faces of a die, instead of the numbers 1 to 6, the first six odd numbers appear. Anna rolled the die three times and added the three scores. Which of the following is certainly not the result she obtained? A) 31
 > 	
@@ -464,7 +464,7 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*19 with the same digits *
+*19 with the same digits*
 
 > A digital clock marks 20:19. What is the closest time to 20:19 as opposed to 20:19, which is written using the same digits? A) 19:02 B) 2:19 C) 19:20 D) 9:12 E) None of the above.
 
@@ -502,7 +502,7 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which solid requires more paint (greater surface area) *
+*Which solid requires more paint (greater surface area)*
 
 ![[src_kangourou_2019_benjamin_marzo__prob12.png]]
 
@@ -1019,7 +1019,7 @@ Who rode a bicycle given the implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many grams weigh the nine balls (balances) *
+*How many grams weigh the nine balls (balances)*
 
 ![[src_kangourou_2019_benjamin_marzo__prob22.png]]
 
@@ -1256,7 +1256,7 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many points did Alberto score (bottle pyramids) *
+*How many points did Alberto score (bottle pyramids)*
 
 ![[src_kangourou_2019_benjamin_marzo__prob27.png]]
 

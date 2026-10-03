@@ -70,7 +70,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students who ski and swim (winter/summer sports) *
+*Students who ski and swim (winter/summer sports)*
 
 > School and sports In winter, of the 300 pupils in a school, 180 play football and the remaining 120 ski. In summer, all students either play tennis or swim, but no one does both. Fifty-six percent of those who play tennis in the summer play football in the winter; 30 percent of those who play football in the winter, swim in the summer. How many students are skiing and swimming?
 
@@ -441,7 +441,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of N^2 divided by 23 given N=16 mod 23 *
+*Remainder of N^2 divided by 23 given N=16 mod 23*
 
 > A positive integer N divided by 23 gives remainder 16. What is the remainder of N^2 divided by 23?
 
@@ -472,7 +472,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of the largest of 20 distinct integers with mean 101 *
+*Maximum of the largest of 20 distinct integers with mean 101*
 
 > The arithmetic mean of 20 positive integers all different from each other is 101. What is the maximum value of the largest of these 20 numbers?
 

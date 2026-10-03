@@ -120,7 +120,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori iniziali $a_0$ che rendono la ricorrenza $a_{n+1}=2^n-3a_n$ in aumento *
+*Ricerca i valori iniziali $a_0$ che rendono la ricorrenza $a_{n+1}=2^n-3a_n$ in aumento*
 
 > Trova l'insieme dei numeri reali $a_0$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \qquad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \qquad (n \ge 0).$$
 

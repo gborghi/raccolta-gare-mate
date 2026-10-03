@@ -59,7 +59,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*3-smooth greatest divisor; trovare tutte le coppie (m,n) con n·f(m)=m·f(n) *
+*3-smooth greatest divisor; trovare tutte le coppie (m,n) con n·f(m)=m·f(n)*
 
 > Per ogni intero positivo $n$, $f(n)$ deve essere il più grande $a$ in modo tale che $a \mid n$ e $a$ non abbiano un fattore primo maggiore di $3$. Per esempio, $f(6) = 6$, $f(11) = 1$, $f(12) = 12$, $f(30) = 6$.
 > 

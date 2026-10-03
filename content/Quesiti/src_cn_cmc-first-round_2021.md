@@ -215,7 +215,7 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cube die lanciato tre volte; probabilità \a1-a2 del + del a2-a3 del + del a3-a1 del = 6. *
+*Cube die lanciato tre volte; probabilità \a1-a2 del + del a2-a3 del + del a3-a1 del = 6.*
 
 > [Test Paper A, Problem 7] Un dado cubo pari viene lanciato tre volte, e i numeri rivolti verso l'alto sono $a_1,a_2,a_3$ in ordine. Quindi la probabilità di evento $|a_1-a_2|+|a_2-a_3|+|a_3-a_1|=6$ è ______.
 

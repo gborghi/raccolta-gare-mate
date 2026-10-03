@@ -32,7 +32,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest odd 3-digit number divisible by 11 with constraint *
+*Smallest odd 3-digit number divisible by 11 with constraint*
 
 > Divisible by 11 Find the smallest three-digit odd positive integer, divisible by 11 and such that the hundreds digit is greater than the units digit.
 

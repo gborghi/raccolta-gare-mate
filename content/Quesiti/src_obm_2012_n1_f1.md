@@ -198,7 +198,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr) *
+*Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr)*
 
 > Ricardo prende una pillola il lunedì, mercoledì e venerdì, ogni settimana. Le pillole sono vendute in scatole di 20 unità ciascuno. Qual è il numero minimo di scatole che deve comprare per avere abbastanza per un anno intero?
 > 
@@ -586,7 +586,7 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Righe di fragole e jabuticaba consumate in turno (≤5 ciascuno) *
+*Righe di fragole e jabuticaba consumate in turno (≤5 ciascuno)*
 
 > Rosinha ha raccolto diverse fragole e jabuticabas, al massimo 5 di ciascuna specie. Lei vuole mangiare 5 di ciascuna specie, mangiandole in serie alternate, a partire dalle fragole e finendo con i jabuticabas (ad esempio: 3 fragole, poi 2 jabuticabas, poi 2 fragole, poi 3 jabuticabas). Lei forma una fila con i frutti prima di mangiarli in ordine. Quante diverse righe può formare?
 > 

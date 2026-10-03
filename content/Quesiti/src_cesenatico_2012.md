@@ -95,7 +95,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to determine the type of each *
+*to determine the type of each*
 
 > Whether n is an integer greater than or equal to 2. There are n people in the Indian queue, each of whom is either a con man (and always lies) or a knight (and always tells the truth). Each person, except the first, points to one of the people in front of her and declares This person is a con man or This person is a knight. Knowing that there are strictly more cunning than knights, prove that by watching the statements it is possible to determine for each of the people whether it is a cunning or a knight.
 
@@ -192,7 +192,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full colour strength difference a or b *
+*full colour strength difference a or b*
 
 > Determine all pairs {a, b} of positive integers with the following property: however you color the positive integers with two colors A and B, there are always two positive integers of color A with difference a or two positive integers of color B with difference b.
 

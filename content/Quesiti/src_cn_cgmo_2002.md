@@ -149,7 +149,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza della somma di permutazione: dimostra il limite inferiore (n-1)/(n+2) *
+*Ineguaglianza della somma di permutazione: dimostra il limite inferiore (n-1)/(n+2)*
 
 > Supponiamo che $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sia una permutazione arbitraria di $1, 2, \ldots, n$. Prove che $$\frac{1}{P_1 + P_2} + \frac{1}{P_2 + P_3} + \cdots + \frac{1}{P_{n-2} + P_{n-1}} + \frac{1}{P_{n-1} + P_n} > \frac{n-1}{n+2}.$$ (posato da Qiu Zonghu)
 
@@ -176,7 +176,7 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (x,y) con x^y = y^(x-y) *
+*Ricerca tutte le coppie di integri positivi (x,y) con x^y = y^(x-y)*
 
 > Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano $x^y = y^{x-y}$. (Possibile da Pan Chengbiao)
 

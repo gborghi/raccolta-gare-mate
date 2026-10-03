@@ -109,7 +109,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi con x^3 - y^3 = 3(x^2 - y^2) *
+*Ricerca tutte le coppie di numeri interi con x^3 - y^3 = 3(x^2 - y^2)*
 
 > Trova tutte le coppie ordinate $(x, y)$ di integri come $x^3 - y^3 = 3(x^2 - y^2)$.
 

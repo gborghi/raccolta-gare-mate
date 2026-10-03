@@ -298,7 +298,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with a sum of 3 digits *
+*Three-digit numbers with a sum of 3 digits*
 
 > 'The sum of the digits of an integer represented in decimal form is 3': how many three-digit numbers satisfy this condition? A) 3 B) 4 C) 5 D) 6 E) 8
 
@@ -333,7 +333,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the triangle pentagon + square isoperimetric *
+*Perimeter of the triangle pentagon + square isoperimetric*
 
 ![[src_kangourou_2008_benjamin_marzo__prob8.png]]
 
@@ -1223,7 +1223,7 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first sage (parity) *
+*Sum of cards from the first sage (parity)*
 
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first sage, after looking only at the numbers written on the cards he has caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first sage read? A) 10 B) 12 C) 6 D) 9 E) 15
 

@@ -206,7 +206,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hour of a clock with a speed different from three planets *
+*Hour of a clock with a speed different from three planets*
 
 > The three clocks (points 30) According to G2AS, in the headquarters of the Galactic Geo-temporal Control, on huge walls, there are clocks that indicate the exact time of many planets. In one corner, there are analog clock ticks, which indicate the time of the only three planets in the universe where the day is divided into 12 hours and 60 minutes: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, Fallia's clock is at 7, Bethselamin's is at 11, and Ciceronicus's is at 2. But, as he moves an hour on the Fallia clock, Ciceronicus moves an hour and 20 minutes and, while the Bethsalami clock counts 12 hours, Fallia's clock counts 36. What time will Fallia's clock mark the first time that those of Bethselamin and Ciceronicus will mark the same hour? The answer is given using the first two digits for the hour, the last two digits for the minutes.
 
@@ -302,7 +302,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of a four-wheel-drive vehicle with one overhead *
+*Height of a four-wheel-drive vehicle with one overhead*
 
 > Slartibartfast overhang (points 40) In Slartibartfast's study, there is a overhang consisting of four 1.2 dm diameter marble balls, locked in a transparent box, with a 2.4 dm square side base without a lid; in the centre, above the four marble balls, a 1.37 dm diameter steel ball is supported. What is the height in mm of the overmobile?
 
@@ -333,7 +333,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of trapezoids from 4 vertices of a regular 33-agon *
+*Number of trapezoids from 4 vertices of a regular 33-agon*
 
 > The SCS polygon (points 40) In the hall of Sirius Cybernetics Corporation, a decorative panel consists of a regular polygon of 33 sides inscribed in a circumference. As an exercise, the Marvin robot controls all trapezoids (including parallelograms) that can be generated with 4 of the 33 vertices of the polygon. How many traps have you checked?
 
@@ -522,7 +522,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circles for at least 4 of 9 columns (geometric configuration) *
+*Circles for at least 4 of 9 columns (geometric configuration)*
 
 > The Temples of Magrathea, I (points 50) On Magrathea it is known that in the distant past many temples were built, rectangular in honour of the Sun Soulianis, and circular in honour of the other Sun Rahm. Excavating in an archaeological area, remains of nine columns are unearthed. Archaeologists determine precisely the positions of their centres: 7 are on the perimeter of a large rectangle (100 m by 11.44 m), occupying the 4 vertices plus 3 other points; 6 are on the perimeter of a smaller rectangle (14.3 m by 6 m), occupying the 4 vertices plus 2 other pointsnecessarily 4 of these points belong to both perimeter. The two rectangles have no parallel sides. In addition, it is observed that a long side of the small rectangle has both ends on the perimeter of the large rectangle, one overlapping to a vertex, and the other not. The long side, on the other hand, has both vertices outside the large rectangle. Archaeologists are trying to determine if they have found traces of a circular temple dedicated to the sun Rahm. To find traces of them with a better chance of success, they decide to dig out all those circular grooves that pass through at least four of the nine columns they have already found. Once you have identified the circles that the archaeologists intend to dig, you count for each of the 9 columns how many of these circles it belongs to; you give the sum of the product of those 9 numbers with the sum of those 9 numbers as the answer. Team competition  Problem texts  Pag. 3 di 5
 
@@ -772,7 +772,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with two balls one triple the other (1..2009) *
+*Minimum n with two balls one triple the other (1..2009)*
 
 > The paranormal psychiatrist (points 70) To demonstrate to clients his ultra-psychiatric abilities, Dr. Gag Halfrunt has the patient perform an easy experiment: he tells him to extract a certain number of balls from a box containing 2009 balls, numbered from 1 to 2009. He, speaking to the patient, will make sure that, among the balls extracted, there are at least two that give three times the number of the other. The thing is, Gag always pulls out the least number of balls that assures him he gets the result. What is the minimum number n such that, taken in any case n balls numbered from 1 to 2009, there are two of these with numbers that are one triple the other?
 

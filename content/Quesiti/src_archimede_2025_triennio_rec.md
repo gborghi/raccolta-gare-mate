@@ -36,7 +36,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural < 1000 with a sum of 4 digits *
+*Natural < 1000 with a sum of 4 digits*
 
 > How many natural numbers are less than 1000 in which the sum of the digits is 4?
 >
@@ -622,7 +622,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Command and bargaining orders for cooks (variant) *
+*Command and bargaining orders for cooks (variant)*
 
 > Six cooks, indicated by A, B, C, D, E, F, participate in a cooking competition. According to the forecasts of the evening, cook A is considered better than B, who is better than C. It is also believed that A is better than D. If all the forecasts were met, assuming that there could be no equally qualified chefs, how many possible orders would be placed for the competition?
 >

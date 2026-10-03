@@ -391,7 +391,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real area of GEHF in parallelogram *
+*Real area of GEHF in parallelogram*
 
 ![[src_archimede_2011_biennio__prob9.png]]
 

@@ -533,7 +533,7 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What are the statements on 3^10 odd cubic squares *
+*What are the statements on 3^10 odd cubic squares*
 
 > Among the following statements: (i) 310 is a cube; (ii) 310 is odd; (iii) 310 is a square; what are the correct ones?
 >
@@ -612,7 +612,7 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum amount not payable with coins of 3 and 11 *
+*Maximum amount not payable with coins of 3 and 11*
 
 > LOrue is a currency that has only two coins, 3 and 11. What is the maximum amount that cannot be paid exactly?
 >

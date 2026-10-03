@@ -152,7 +152,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* cyclic quadrilateral and BA=BE*
+*cyclic quadrilateral and BA=BE*
 
 ![[src_cesenatico_2007__prob3.png]]
 
@@ -187,7 +187,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum guaranteed euro *
+*maximum guaranteed euro*
 
 > Alberto, to celebrate Barbara's birthday, proposes to play the following game: given the sum of the numbers 0, 1, . . . , 1024, Barbara removes 29 numbers from this total. In the next step, Alberto removes the remaining 28 numbers. You play Barbara again, who removes 27 and so on, until there are only 2 numbers a and b. Alberto at this point has to pay Barbara a-a-b thousand euros. Determine the maximum amount of euro Barbara is sure to be able to collect, regardless of the strategy adopted by Alberto.
 

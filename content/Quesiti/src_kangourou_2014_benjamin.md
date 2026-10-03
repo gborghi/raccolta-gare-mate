@@ -920,7 +920,7 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum chocolates to be added (remaining 2 mod 3 and 5) *
+*Minimum chocolates to be added (remaining 2 mod 3 and 5)*
 
 > Miriam has some chocolates. Whether you group them into groups of 3 or you group them into groups of 5, you always have 2. What is the minimum number she must take more if she wants that, whether grouping them into groups of 3 or into groups of 5, none are left over? A) 3
 > 	
@@ -1355,7 +1355,7 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number deleted by Aldo (sum 15, product 36) *
+*Number deleted by Aldo (sum 15, product 36)*
 
 > On the board are three numbers of one digit each: their sum is 15. Aldo deletes one and replaces it with number three: now their product is 36. What's the number Aldo deleted? A) 6 or 7, and both are possible.
 > 	

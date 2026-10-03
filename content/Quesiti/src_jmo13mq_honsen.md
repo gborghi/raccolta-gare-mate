@@ -185,7 +185,7 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i punti N massimi in un triangolo di 3 colori che soddisfa le condizioni interne *
+*Ricerca i punti N massimi in un triangolo di 3 colori che soddisfa le condizioni interne*
 
 > $N$ sia un numero intero positivo. Ci sono punti $N$ in posizione generale nel piano (nessun tre collineari). Ogni punto è di colore rosso, blu o giallo e tutte le seguenti condizioni sono valide:
 > 

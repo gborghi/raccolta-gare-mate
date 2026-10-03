@@ -58,7 +58,7 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason why the European Parliament and the Council have voted in favour of this resolution.
+*Inequality sums roots |xi-xj|<=|xi+xj|*
 
 > Demonstrate that the inequality $$\sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i + x_j|}$$ applies to all real numbers $x_1, \ldots, x_n$.
 
@@ -85,7 +85,7 @@ This is the main reason why the European Parliament and the Council have voted i
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BC, EF, O1O2 competitors (internal point D) *
+*BC, EF, O1O2 competitors (internal point D)*
 
 > Whether $D$ is an inner point of the acute triangle $ABC$ with $AB > AC$, such that $\angle DAB = \angle CAD$. The $E$ point on the $AC$ segment satisfies $\angle ADE = \angle BCD$, the $F$ point on the $AB$ segment satisfies $\angle FDA = \angle DBC$, and the $X$ point on the $AC$ straight line satisfies $CX = BX$. The circus centers of the triangles $O_1$ and $O_2$ are $ADC$ and $EXD$, respectively. Demonstrate that $BC$, $EF$ and $O_1O_2$ are competitors.
 
@@ -170,7 +170,7 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A contains at least m/2 elements (sub-sets of sum m^k) *
+*A contains at least m/2 elements (sub-sets of sum m^k)*
 
 > They are $m \geq 2$ an integer, $A$ a finite set of integers (not necessarily positive), and $B_1, B_2, B_3, \ldots, B_m$ subsets of $A$. For each $k = 1, 2, \ldots, m$ the sum of the elements of $B_k$ shall be $m^k$. Demonstrate that $A$ contains at least $\dfrac{m}{2}$ elements.
 

@@ -309,7 +309,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ODBE quadrilateral area from triangular areas with cevial *
+*ODBE quadrilateral area from triangular areas with cevial*
 
 > Hiccup, meanwhile, studies his Dark Fury which he sympathetically called Dentato after discovering that the dragon has retractable teeth by observing how he ate a fish he had offered him as lunch. Looking closely at Sdentato's tail, he noticed that one of the bolas must have cut off part of his steering wheel, so he decided to try and build him a prosthesis. On his notebook he sketches an ABC triangle-shaped design . Set a D-point on AB and an E-point on BC so that the AE and CD segments intersect at O . If the areas of the COE , AOC and ADO triangles are 150 , 300 and 450 2 cm respectively , Hiccup shall calculate the value of the ODBE quadrilateral area in 2 cm . Nothing is easier for an accustomed accountant. What value did you find?
 
@@ -922,7 +922,7 @@ The rest of the 18! divided by 1+2+...+18 (Wilson)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 5 distinct digits with two digit conditions *
+*Numbers 5 distinct digits with two digit conditions*
 
 > A few days later, Hiccup wakes up and discovers he lost his left leg from his knee down in combat, replaced by a prosthetic. He also discovers that the war between Vikings and dragons has ended, and that the latter have become villagers. Think - says Stoick, embracing his son - there have come to live in Berk as many Dragons as the five-digit numbers, all different, in which the number of thousands is greater than that of the tens of thousands and that of the hundreds and the number of tens is greater than that of the units and that of the hundreds. How many dragons live in Berk now?
 >  

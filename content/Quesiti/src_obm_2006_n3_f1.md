@@ -102,7 +102,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-* Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
+*Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
 
 > Una colonia di amebe ha inizialmente una ameba gialla e una ameba rossa. Ogni giorno ogni ameba si divide in due amebe identiche. Ogni ameba ha lo stesso colore del suo genitore con probabilità $\frac{1}{2}$ e il rosso con probabilità $\frac{1}{2}$. Dopo i giorni del 2006, qual è la probabilità che la colonia abbia esattamente un'ameba gialla?
 > 
@@ -755,7 +755,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate). *
+*Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate).*
 
 > Il pavimento di una stanza ha la forma di un quadrato laterale di 4 m. In quanti modi possiamo coprire completamente la stanza con tappeti uguali di dimensioni di 1 m per 2 m? Ecco tre modi per farlo.
 > 

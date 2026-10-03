@@ -69,7 +69,7 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo di una soddisfacente disuguaglianza di valore assoluto per tutte le x reali *
+*Intervallo di una soddisfacente disuguaglianza di valore assoluto per tutte le x reali*
 
 > Supponiamo che il numero reale $a$ soddisfi: per qualsiasi $x \in \mathbb{R}$, $|2x - a| + |3x - 2a| \ge a^2$. Quindi $a$ si trova in $($\quad$)$.
 > 

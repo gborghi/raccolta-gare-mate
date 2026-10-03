@@ -85,7 +85,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many five-pointed stars in the figure *
+*How many five-pointed stars in the figure*
 
 ![[src_kangourou_2017_preecolier_marzo__prob2.png]]
 
@@ -173,7 +173,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many parts the scissors cut the wire *
+*How many parts the scissors cut the wire*
 
 ![[src_kangourou_2017_preecolier_marzo__prob4.png]]
 
@@ -530,7 +530,7 @@ Where's Jim after the ride?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which dish the apple-carrot-pear ratio *
+*In which dish the apple-carrot-pear ratio*
 
 > In which dish is the number of apples twice that of carrots and the number of carrots twice that of pears?
 > 

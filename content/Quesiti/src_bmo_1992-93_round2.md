@@ -125,7 +125,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio della somma delle differenze di cifre assolute consecutive su Z(m,n) *
+*Medio della somma delle differenze di cifre assolute consecutive su Z(m,n)*
 
 > L'insieme $Z(m, n)$ è composto da tutti gli enti $N$ con cifre $mn$ che hanno precisamente $n$ uno, $n$ due, $n$ tre, $\ldots$, $n$ $m$s. Per ogni numero intero $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti delle differenze di tutte le coppie di cifre consecutive. Ad esempio, $122313 \in Z(3, 2)$ con $d(122313) = 1 + 0 + 1 + 2 + 2 = 6$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
 

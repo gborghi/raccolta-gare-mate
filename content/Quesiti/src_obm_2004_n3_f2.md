@@ -141,7 +141,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i numeri sinistri a 4 cifre (la somma delle prime è uguale alla somma degli esponenti) *
+*Trova tutti i numeri sinistri a 4 cifre (la somma delle prime è uguale alla somma degli esponenti)*
 
 > Diciamo che un intero positivo è *sinister* se la somma dei suoi fattori primi è uguale alla somma degli esponenti nella sua fattorizzazione primaria. Trova tutti i numeri sinistri a quattro cifre.
 

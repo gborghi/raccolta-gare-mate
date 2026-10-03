@@ -58,7 +58,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'intero più grande non superiore a 123456789) *
+*L'intero più grande non superiore a 123456789)*
 
 > Trova il numero intero più grande che è al massimo $\sqrt{123456789}$.
 

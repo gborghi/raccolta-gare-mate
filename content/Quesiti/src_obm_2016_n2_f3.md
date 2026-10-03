@@ -76,7 +76,7 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di quadrati, ogni nuovo quadrato costruito sulla diagonale del precedente più grande *
+*Sequenza di quadrati, ogni nuovo quadrato costruito sulla diagonale del precedente più grande*
 
 > Janaina disegna una sequenza di figure come mostrato di seguito. Ogni figura ha un quadrato in più della figura precedente, e ogni quadrato aggiunto ha un lato uguale alla diagonale del quadrato più grande della figura precedente. Inoltre, tutti i quadrati di ciascuna figura condividono un vertice comune. Il quadrato della figura $1$ ha superficie $2\ \mathrm{cm}^2$.
 > 

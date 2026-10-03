@@ -672,7 +672,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which card has not been drawn (residues mod 3,4,5) *
+*Which card has not been drawn (residues mod 3,4,5)*
 
 > From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What card hasn't been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
 
@@ -823,7 +823,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mother/Mother ratio between the same number of years *
+*Mother/Mother ratio between the same number of years*
 
 > Today is the birthday of Mara and her mother: her mother's age is five times Mara's and a number of years ago it was even seven times Mara's. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
 > 

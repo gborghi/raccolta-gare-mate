@@ -389,7 +389,7 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area with rectangle, circle and semicircular *
+*Shaded area with rectangle, circle and semicircular*
 
 ![[src_archimede_2009_triennio__prob19.png]]
 

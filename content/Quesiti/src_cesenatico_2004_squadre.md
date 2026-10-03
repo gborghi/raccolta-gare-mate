@@ -553,7 +553,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most large number not expressed in palindrome coins (Frobenius) *
+*Most large number not expressed in palindrome coins (Frobenius)*
 
 > French numismatic The national currency of France is the franc. However, there are no coins worth one franc: the smallest coin is 11 francs, and all coins have a palindrome number of francs as their value. Messer Guiglielmo Guardastagno and the merchant guild complained that with these coin cuts it is not possible to compose exactly any whole quantity of Franqi (for example, 37 Franqi cannot be composed with the available coins). What is the largest number that can certainly not be expressed in Franquvian coins? A palindrome number is a number that remains unchanged if its digits (based 10) are read from right or left: for example, palindromes 11, 10001, 949.
 
@@ -619,7 +619,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to write 2004 as the sum of 1 (partitions) *
+*How to write 2004 as the sum of 1 (partitions)*
 
 > The clergyman Didymus, an expert in numerology and magical manipulation of symbols, discovered a spell. To activate it, you must write the magic number 2004 in all possible ways using only the symbol 1 and the sum operation. How many of these ways are possible? Watch your step! For the purpose of counting, two sums which differ only in order of additions shall be counted only once.
 

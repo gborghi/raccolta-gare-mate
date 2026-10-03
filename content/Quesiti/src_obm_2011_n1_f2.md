@@ -282,7 +282,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati massimi su un geoplano con una corda continua (4x4 e 5x5) *
+*Quadrati massimi su un geoplano con una corda continua (4x4 e 5x5)*
 
 > Legando un pezzo di corda su un geoplano (una tavola di chiodi disposta in una griglia quadrata), Diamantino può formare quadrati \textit{senza passare la corda su qualsiasi chiodo più di una volta}. Può formare due quadrati contemporaneamente con un solo pezzo di corda come mostrato. (La figura mostra una parte semplificata del geoplano; i quadrati sono ottenuti da due delle unghie.)
 > 

@@ -67,7 +67,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of two digits equal to the square of tens plus cubes *
+*sum of two digits equal to the square of tens plus cubes*
 
 > Welcome Cocktail Finally set off for the cruise, and it all starts in the best way possible: with an inaugural aperitif. S-Higgs and Scoobe-Zout already have water in their mouths, but they discover that in order to participate in the buffet you have to find a two-digit number n equal to the sum between the square of the number of tens and the cube of the number of units. Determine the sum of all numbers with these properties.
 
@@ -522,7 +522,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pirates on missions with a rational frequency *
+*Pirates on missions with a rational frequency*
 
 > Shut up, we're going down! You've arrived at BarbaAlberta's hideout, not even time to look around, which is also the pirate ship arriving. On it is Captain BarbaAlberta and other 2024 pirates, who for convenience are numbered from 1 to 2024; to the pirate m BarbaAlberta assigns a positive rational number am such that, for m = 31,32,...,2024, one has am = m2 max1≤l≤30{l +am−l}. The pirates are sent by the captain on a mission to capture the intruders. How many pirates are on the mission? Provide the sum of all possible answers.
 
@@ -698,7 +698,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial pairs with winning strategy in the game (x,y) *
+*Initial pairs with winning strategy in the game (x,y)*
 
 > The pirate skeletons are still grappling with solid geometry when an alien ship appears in the sky: they're Dafnne and Fredmath masked. Dafnne and BarbaAlberta begin the final duel consisting of this game: it starts with a pair of positive integers (x,y). The move to be made at each turn is to change the present pair (x,y) with a pair (z,y −z), where 1 ≤z ≤x; the second number, however, can never become negative. The winner is the first one who can change the pair so that the second number is 0. For how many initial pairs with 1 ≤x,y ≤100 does Daφne have a winning strategy, knowing that it starts first? 1a polynomial is said to be monic if the coefficient of the maximum degree term is equal to 1. 2024 Team Competition  National Finals  Problem Tests  3/4
 

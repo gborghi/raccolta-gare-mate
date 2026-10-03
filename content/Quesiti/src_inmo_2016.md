@@ -116,7 +116,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2016 punti rossi sul cerchio; ogni n-gon regolare ha una copia blu *
+*2016 punti rossi sul cerchio; ogni n-gon regolare ha una copia blu*
 
 > Supponiamo che i punti 2016 della circonferenza di un cerchio siano di colore rosso e i punti rimanenti di colore blu. Date qualsiasi numero naturale $n \ge 3$, dimostrare che esiste un poligono a lato regolare $n$ i cui vertici sono tutti blu.
 

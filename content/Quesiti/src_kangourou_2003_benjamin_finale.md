@@ -200,7 +200,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A combination of 200 integers without a number and the double *
+*A combination of 200 integers without a number and the double*
 
 > Indicate how a set of $200$ integers between $1$ and $300$ (extremes included) can be identified so that the following clause is respected: if a number is present in the set, then its double is not present.
 

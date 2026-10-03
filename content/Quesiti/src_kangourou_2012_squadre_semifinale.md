@@ -424,7 +424,7 @@ How much did Charles spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Visitors after Paul by number of digits *
+*Visitors after Paul by number of digits*
 
 > A very visited park At the entrance to a park there is a turnstile that counts the entrances, since its foundation. After Paul's entrance, the turnstile reads 31879564, which is a number made up of digits all different from each other: the next time the number of entrances will still be made up of digits all different from each other, how many visitors will have entered after Paul?
 

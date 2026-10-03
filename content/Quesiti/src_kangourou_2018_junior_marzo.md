@@ -137,7 +137,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table height two cat gaps *
+*Table height two cat gaps*
 
 ![[src_kangourou_2018_junior_marzo__prob3.png]]
 

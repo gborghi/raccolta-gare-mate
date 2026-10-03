@@ -36,7 +36,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 10 areas of triangular intersections (p+q) *
+*Total 10 areas of triangular intersections (p+q)*
 
 > On a quiet May afternoon, Root is now tired of being outdoors doing nothing, watching her older sister Maggioret read a thick, thick book. What's the use of a book without figures or dialogues?, he thinks. To distract yourself, imagine a handsome figure with two parallel lines a and b, 1 apart. On a it takes 11 distinct points A−5,A−4,...,A4,A5, on b instead the distinct points B−5,B−4,...,B4,B5, so that AiAi+1 = BiBi+1 = 1 for i = −5,...,4, and AiBi = 1 for i = −5,...,5. Consider then, for each i = −5,...,4, the intersection of the triangles AiAi+1B0 and BiBi+1A0. How much is the sum of the areas of these 10 figures? This p/q solution, expressed as a fraction reduced to minimum terms, is answered by p+q.
 
@@ -108,7 +108,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of 1/3 (power) *
+*Height of 1/3 (power)*
 
 > Drink me, Eat me Root finds in the living room a small bottle with the words BEVIMI, containing a liquid that causes a drinker to shrink by a factor of 243,512. Nearby is also a cake with the inscription MANGIAMI, a bite of which makes people enlarge by a factor of 128 81 . Root wants to get exactly a third taller than she is now, so she can get through the little door she's seen. Since Root is a square person, although sometimes irrational, he begins to think about what to do. How many bites will you have to give the pie?
 
@@ -180,7 +180,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds for meeting on circumference (marathon) *
+*Seconds for meeting on circumference (marathon)*
 
 > Marathon runner Finally Root can get out of the lake of tears, but it's all soup. Captain Liebezout organizes a marathon so that he can dry himself up. He runs around a circle at a constant speed, making one lap every 12 minutes. Root wants to reach it and runs at a constant speed around the perimeter of a regular ABCDE pentagon inscribed in the circumference making a turn every 11 minutes. At the beginning Root starts from A and runs towards B on the pentagon, while Captain Liebezout starts from point L on the minor arc AB such that ˆ LBA = 12° and runs towards A on the circumference. After how many seconds do they meet?
 
@@ -220,7 +220,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume region closest to the white fan (cube) *
+*Volume region closest to the white fan (cube)*
 
 > The Banachoniglio's house is in a hurry. It must be from the Duchess as soon as possible. However, he forgot his ceremonial white fan at home and therefore orders Root to retrieve it. His home is a cube and the white fan is perfectly centered, but there are other fans in the house as well. If you divide the house into 8 equal cubes that have half the side of the house and a vertex in the white fan, there are 26 green fans, one on each of the other eight cubes' vertices, and 36 red fans, one in the center of each of their faces. Root, next to the white fan, finds a bucket with EXP written on it and, driven by curiosity, drinks the contents and begins to grow out of proportion. It expands to such an extent that it occupies all but the points of the house that have as their nearest fan the white one. Knowing that the fan closest to the white one is a foot away, how many cubic feet of space does Root's body occupy? Team competition 2013  National final  Problems tests  1/4
 > 
@@ -255,7 +255,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat height of the 3 high points (4 tangent spheres) *
+*Flat height of the 3 high points (4 tangent spheres)*
 
 > To better understand where it has ended, Root relies on the sage Brucarythmus. The rounded fungus of the Brucaritmus is made up of four spheres, all tangent to each other. A sphere resting on the ground, with a radius of 2000 palmipedons, forms its base; three larger spheres, with a radius of 3000 palmipedons, are resting on it so that their three most distant points from the ground form a plane parallel to the ground. How many palms is this floor from the ground?
 
@@ -334,7 +334,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABCD product (nested radicals) *
+*ABCD product (nested radicals)*
 
 > Snake, snake! Roots miscalibrate the amount of mushroom to eat and grow more and more. This brings Pigeon out of his drawer, where he has his nest, alerting him, for he fears that Root has come to eat his eggs. So Pigeon complains: They are a,b,c,d four real numbers such that a = p 44+√71+a,b = p 44+ √ 71−b,c = p 44−√71+c,d = p 44− √ 71−d: my eggs will be eaten within a number of minutes equal to the product abcd. I'll never tell you the value of this number, you snake! How much is this product worth?
 
@@ -369,7 +369,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different angles of a triangle (rectangles) *
+*Different angles of a triangle (rectangles)*
 
 > Invited to court Tornado of the Right Dimensions, Root sees the valley fish of the Q of hearts deliver a prestigious ticket to the valley frog of the Duchessiana. An invitation to court to play a game of croquet is not a privilege you get every day! Even the invitation cards are finely decorated. On the rear they have a particular design made of a triangle on whose sides are built three rectangles externally to the sides. In addition, these rectangles are made in such a way that between each pair of rectangles one can insert exactly one regular polygon, with a vertex coinciding with one of the triangles and two sides coinciding with those of the rectangles emanating from it that are also not sides of the triangle. How many different angles can a triangle take?
 
@@ -403,7 +403,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nine number product (system) *
+*Nine number product (system)*
 
 > Root bed bugger enters the Duchess' house, who is cuddling an ugly baby in tears, singing him this unusual nanna nanna. Two numbers, one day, I wrote on a booklet, if you take the biggest one out of a hundred, and you add one to the smallest one, one will just increase their output. But if you take the sum of them by seventy-nine-five times, kid, you get the difference in the squares of those numbers over there. Now, can you tell me how long their product is? Hearing this, the baby starts screaming and groaning, until he turns into a piglet. What number is hidden behind the Duchess's nanny's nest?
 
@@ -506,7 +506,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sit at the table (head restraints) *
+*Sit at the table (head restraints)*
 
 > At tea time Root reaches the K -ellaio Matto, the Lepre Diofantina, the Ghiρ and the Banachoniglio, who ask her to join them for the tea ceremony. The table on which the tea is served is rectangular and has 20 chairs on each long side and a tabletop chair (on both sides). The K-black fool necessarily wants to sit at the top of the table. The other four want to be all sitting next to each other, that is, without empty chairs in the middle (but not necessarily near the K -ellaio) and all on the same side of the table. But neither Root nor K-Ello wants to sit next to Ghiρ. How many different ways can they sit?
 
@@ -542,7 +542,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days in a year (holidays other than birthdays) *
+*Days in a year (holidays other than birthdays)*
 
 > A good non-complete to you! During the tea, Root is made aware of a strange custom: in the Field of Mateviglie it is used to celebrate their non-birthdays: any day other than their birthday is a non-birthday. There are various non-birthday parties every day. Each party is attended by exactly 140 celebrants (i.e. people who celebrate a non-birthday on that day) and 6 guests (i.e. people who do not celebrate a non-birthday on that day). Each inhabitant of the Campo delle Mateviglie, on the day of his or her birthday, participates (as invited) in exactly 33 parties; on all other days, instead, participates (as celebrated) in exactly one party. In the Matteviglie field, the years all last the same number of days, but it is different from 365. Knowing that the inhabitants of the Matteviglie Camp are in limited numbers, how many days are there in a year?
 
@@ -619,7 +619,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flowers lost for each rose (icosahedron+race) *
+*Flowers lost for each rose (icosahedron+race)*
 
 > There is also a crisis in the Matteviglie Camp The Two, the Five and the Seven Peaks, soldiers of the hearted Q, have decided to make their experience work by opening a factory of fake red roses. They do this: the flower's soul consists of a regular polystyrene icosahedron with a length of one centimeter; around it is a dense layer of shell that occupies all available space up to a distance of 2 centimeters from the icosahedron. As a last step, the outside of the rose is painted red. They can get free polystyrene and razor, while red paint costs them a thousand florins for every square inch of surface to color. The selling price, on the other hand, is set at one thousand Fiorini for each cubic centimetre of razor (polystyrene and paint are not taken into account). They realize, horribly, that the expenses are greater than the proceeds of the sale. And in the Matteviglie Field, the penalty for unpaid debts is beheaded! How many flowers do they lose for each rose?
 
@@ -653,7 +653,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days since its foundation (periodic meetings, 487 openings) *
+*Days since its foundation (periodic meetings, 487 openings)*
 
 > An exclusive Root circle reaches the Q of hearts to start the game of croquet. The elitary croquet circle like when it rains has only four members: the K, the Q and the F of hearts plus the Banachoniglio. On the day it was founded, all four were present, then the K came every 42 days, the Q every 35, the F every 45 and the Banachoniglio every 28. The club was only open on days when at least one member was needed. The Q of hearts explains to Radice that today would have been the 487th opening day, but in his honour all the members showed up exceptionally. How many days have passed since the founding of the Como when it rains?
 
@@ -693,7 +693,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min decapitations d(2013) with d polynomial *
+*Min decapitations d(2013) with d polynomial*
 
 > A macabre head-to-head The Q cards of hearts are very worried: not a day goes by that you don't hear the scream Cut off his head! They also keep a record of how many capital executions there are every day. Recently they recorded this data: d(2002) = 11 d(2006) = 7 d(2008) = 5 d(2009) = 4 d(2011) = 2 where d(t) = h is the decapitation function and indicates that h heads were cut off on the day t of the report (a negative number indicates people pardoned). Recently, papers have realized that for a Q-shaped heart, d is a polynomial with integer coefficients. Today is the 2013 report day and Q is very nervous about the croquet game, so the number will inevitably be a positive integer. How many heads will roll at least today?
 
@@ -728,7 +728,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum 2^a 3^b with a+b in 0.9. (last 4 digits) *
+*sum 2^a 3^b with a+b in 0.9. (last 4 digits)*
 
 > Root gets bored with croquet in the long run: the balls/thorns move of their own free will and the ferns/sticks don't cooperate. So he seizes the opportunity to chat with False Quadrature and Grif1. Without a doubt, the favorite dance of his interlocutors is the cockroach quadrangle. In fact, they tell Rootze that every Saturday the sea and the beach are teeming with dancing fish and crustaceans. Last Saturday, for example, to count the dancers, all positive integers expressed as product of powers of 2 and 3 could be added together, provided that the sum of the exponents is between 0 and 9, extremes included. How many people were in the quadrangle on Saturday? Answer by indicating the last four digits of the result.
 
@@ -799,7 +799,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate prime numbers dividing m (winning mixtures) *
+*Separate prime numbers dividing m (winning mixtures)*
 
 > The Faint on trial An unexpected news reaches Roots. Crown Prince F of hearts is called to court, accused of cheating in the card game Don't lose your mind. This is how the game works: one of the players acts as a dealer and mixes a deck of 52 cards numbered from 1 to 52. Afterwards, starting from the dealer's right in the counterclockwise direction, each player in turn takes a card, keeping it covered, and the dealer then takes the last card. The cards are all shown together and the lowest card gets out. By decapitation. Fished cards are then discarded and the game continues as before, with the remaining players, using the advanced cards in the deck. Win, or rather survive, the last player in the race. F of Hearts won a game with 9 players (including himself) as a dealer, having mixed the cards for about three hours. If m is the number of different ways you could mix the deck to be sure you won, by how many distinct prime numbers is m divisible? Remember, 1 is not a prime.
 
@@ -833,7 +833,7 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M+m true witnesses at the round table (implication) *
+*M+m true witnesses at the round table (implication)*
 
 > In the trial against the F of hearts, 7777 inhabitants of the Mateviglie camp are called to testify, who are made to sit around an immense round table. By law, a witness can always tell the truth or always lie. All 7777 speak at the same time and, surprisingly, they all utter the same sentence: "If the person on my right is telling the truth, then the person on my left is thinking". If, under these conditions, M is the maximum possible number of true witnesses and m is the minimum, how much is M + m worth?
 

@@ -112,7 +112,7 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi malvagi di {1,...,10} che non contengono tre numeri interi consecutivi *
+*Contare i sottogruppi malvagi di {1,...,10} che non contengono tre numeri interi consecutivi*
 
 > Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi. Contiamo l'insieme vuoto, che non contiene elementi affatto, come un insieme malvagio. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
 

@@ -33,7 +33,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to the implementation of the programme.
+*Fraction 2022!/(2022!-2021!-2020!) reduced*
 
 > the whole of a real number x is the largest integer less than or equal to x; it is written x for example π=3, 10=10,  √ 17=4;
 
@@ -390,7 +390,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years of birth with age equal to sum of years *
+*Years of birth with age equal to sum of years*
 
 > a list is a palindrome if, read from right to left, it produces the same listfor example radar is a palindrome; drone is not a palindrome; 2020 is not a palindrome; 2002 is a palindrome. • If the quantity requested is a negative number, or if the problem is unsolved, indicate 0000. • If the quantity required is a number greater than 9999, or if it is not uniquely determined, indicate 9999. • The following approximate values may be useful in calculating: √ 2 = 1,4142 √ 3 = 1,7321 √ 5 = 2,2361 √ 7 = 2,6458 √ 11 = 3,3166 √ 13 = 3,6055 √ 17 = 4,1231 π = 3,1416. Important deadlines • 15 minutes from the start: final deadline for selecting the Jolly problem (after which the first problem in the list will be assigned). • 30 minutes from the beginning: deadline for questions on the text. • 100 minutes from start: end of problem scores increase. • 120 minutes from the start: end of the race. Fake News Today A TRUE newspaper Scientists are all cheaters! Their main tool is mathematics which claims to contradict itself and no one tells us! In reality, nothing is 100% certain. How do theorems become undeniable truths? In their own admissions a 30% probability is possible. And a 99% probability is pretty much certain. By applying their Aristotelian definition of being rational they could prove that a fact that is practically certain to be practically certain is practically certain. But they don't! The same mathematicians would explain with their calculations that such a fact is 98% likely! Just keep repeating and repeating steadily just as mathematicians don't do the previous sentence to discover that a possible fact is practically certain. This paper is based on this finding that those of us who don't get bullied by science knew before mathematicians hid it from us! Good reading!
 > 

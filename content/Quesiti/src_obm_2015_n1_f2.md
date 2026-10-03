@@ -228,7 +228,7 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 10 cifre in cui ogni nuova cifra è pari alla somma di tutte le precedenti (o ultime cifre di tale somma); trovare le cifre più piccole, più grandi e possibili *
+*numeri a 10 cifre in cui ogni nuova cifra è pari alla somma di tutte le precedenti (o ultime cifre di tale somma); trovare le cifre più piccole, più grandi e possibili*
 
 > Janaina ama scrivere $10$ numeri a cifre come segue:
 > 

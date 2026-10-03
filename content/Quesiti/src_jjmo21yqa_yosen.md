@@ -303,7 +303,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco con numero di coprime, conteggio vincente n per A *
+*Gioco con numero di coprime, conteggio vincente n per A*
 
 > $n$ sia un numero intero con $3 \le n \le 2023$. I giocatori A e B giocano il seguente gioco. Prima A dice $n$, poi B e A eseguono alternativamente la seguente operazione: lasciando $x$ essere il numero che l'avversario ha appena detto, diciamo un intero positivo inferiore a $x$ che è coprime a $x$. Il gioco termina la prima volta che viene detto un divisore di $n$ che è inferiore a $n$; la persona che ha detto che perde e l'altro vince. Trova il numero di valori di $n$ per i quali A può sempre vincere indipendentemente dal modo in cui B gioca.
 

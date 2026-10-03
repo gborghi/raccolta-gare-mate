@@ -117,7 +117,7 @@ Winning strategy in the 52 card game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of triangle (heights restricted) *
+*Minimum area of triangle (heights restricted)*
 
 ![[src_kangourou_2007_student_maggio__probs3.png]]
 

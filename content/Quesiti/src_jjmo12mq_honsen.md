@@ -31,7 +31,7 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti n ≥2 i cui piccoli divisori soddisfano d2 n *
+*Trova tutti gli enti n ≥2 i cui piccoli divisori soddisfano d2 n*
 
 > Trova tutti gli enti $n \geq 2$ che soddisfano la seguente condizione.
 > 

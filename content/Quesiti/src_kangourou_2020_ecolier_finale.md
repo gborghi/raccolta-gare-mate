@@ -17,19 +17,15 @@ level: kangourou
 
 *Tra quanti anni un anno con due cifre ripetute*
 
-> Un fungo cresce di giorno in giorno. Licia lo ha fotografato ogni giorno da lunedì a venerdì. Quale di queste sue foto è stata scattata martedì?
->
-> - **(A)** (immagine A)
-> - **(B)** (immagine B)
-> - **(C)** (immagine C)
-> - **(D)** (immagine D)
-> - **(E)** (immagine E) (vedi figura)
+> Due sole cifre
+> Tra quanti anni a partire dal 2020, per la prima volta, il numero che denota l’anno sarà di nuovo
+> composto utilizzando due sole cifre, ciascuna due volte?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0092
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -37,13 +33,9 @@ level: kangourou
 
 *In how many years a year with two digits repeated*
 
-> A mushroom grows day by day. Licia photographed it every day from Monday to Friday. Which one of these photos was taken on Tuesday?
->
-> - **(A)** (Figure A)
-> - **(B)** (Figure B)
-> - **(C)** (Figure C)
-> - **(D)** (Figure D)
-> - **(E)** (Figure E) (see figure)
+> Only two digits
+> In how many years starting from 2020, for the first time, will the number denoting the year again be
+> composed using only two digits, each twice?
 
 **Answer:** 0092
 [[Quesiti/src_kangourou_2020_ecolier_finale#q01|src_kangourou_2020_ecolier_finale__Q01]]
@@ -57,19 +49,18 @@ level: kangourou
 
 *Lunghezza del tragitto della formica sulla scatola*
 
-> Quale dei seguenti tasselli completa il mosaico a lato?
->
-> - **(A)** (immagine A)
-> - **(B)** (immagine B)
-> - **(C)** (immagine C)
-> - **(D)** (immagine D)
-> - **(E)** (immagine E) (vedi figura)
+> Sulla scatola
+> In figura vedete una scatola: i suoi spigoli misurano 2 decimetri,
+> ancora 2 decimetri e 5 decimetri. Una formica è partita dal punto A
+> della scatola e ha raggiunto il punto B seguendo sulla superficie il
+> tragitto evidenziato in grassetto. Quanti decimetri è lungo questo
+> tragitto?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0039
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -77,13 +68,12 @@ level: kangourou
 
 *Length of the path of the ant on the box*
 
-> Which of the following completes the mosaic on the side?
->
-> - **(A)** (Figure A)
-> - **(B)** (Figure B)
-> - **(C)** (Figure C)
-> - **(D)** (Figure D)
-> - **(E)** (Figure E) (see figure)
+> On the box
+> In the figure you see a box: its edges measure 2 decimetres,
+> another 2 decimetres and 5 decimetres. An ant has started from point A
+> of the box and has reached point B following on the surface the
+> path highlighted in bold. How many decimetres is this
+> path long?
 
 **Answer:** 0039
 [[Quesiti/src_kangourou_2020_ecolier_finale#q02|src_kangourou_2020_ecolier_finale__Q02]]
@@ -97,38 +87,32 @@ level: kangourou
 
 *Schemi diversi per salire 8 gradini (1 o 2)*
 
-> In ogni cella della griglia che vedi qui a fianco è indicata un'operazione. Antonio ombreggia tutte le celle contenenti un'operazione il cui risultato è $20$. Quale delle seguenti forme ottiene?
->
-> Le operazioni nella griglia sono: $16 + 4$, $2 \times 10$, $40 : 2$, $16 - 4$, $28 - 8$, $7 \times 3$.
->
-> - **(A)** (forma A)
-> - **(B)** (forma B)
-> - **(C)** (forma C)
-> - **(D)** (forma D)
-> - **(E)** (forma E) (vedi figura)
+> I gradini
+> Per entrare nella casa di Pietro ci sono 8 gradini. Quando ha fretta Pietro fa una parte dei gradini (o
+> anche tutti) a due a due. Per esempio egli può salire le scale secondo questi schemi
+> 1, 1, 2, 2, 1, 1 o 1, 1, 1, 1, 1, 2, 1 o 2, 2, 2, 2.
+> Secondo quanti schemi diversi Pietro può salire le scale, a seconda di quanta fretta ha (eventualmente
+> nessuna)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0034
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different schemes for climbing 8 steps (1 or 2) *
+*Different schemes for climbing 8 steps (1 or 2)*
 
-> In every grid cell you see right next to it, there's an operation. Antonio shades all cells containing an operation resulting in $20$. Which of the following forms does it take?
->
-> The operations in the grid are: $16 + 4$, $2 \times 10$, $40 : 2$, $16 - 4$, $28 - 8$, $7 \times 3$.
->
-> - **(A)** (form A)
-> - **(B)** (form B)
-> - **(C)** (form C)
-> - **(D)** (form D)
-> - **(E)** (form E) (see figure)
+> The steps
+> To enter Pietro's house there are 8 steps. When he is in a hurry Pietro takes some of the steps (or
+> even all) two at a time. For example he can climb the stairs according to these patterns
+> 1, 1, 2, 2, 1, 1 or 1, 1, 1, 1, 1, 2, 1 or 2, 2, 2, 2.
+> According to how many different patterns can Pietro climb the stairs, depending on how much of a hurry he is in (possibly
+> none)?
 
 **Answer:** 0034
 [[Quesiti/src_kangourou_2020_ecolier_finale#q03|src_kangourou_2020_ecolier_finale__Q03]]
@@ -142,20 +126,20 @@ level: kangourou
 
 *Quadratini bianchi nel decimo quadrato*
 
-> I quadrati nelle risposte sono stati parzialmente colorati di grigio. In quale di essi la parte colorata è maggiore?
->
-> - **(A)** (immagine A)
-> - **(B)** (immagine B)
-> - **(C)** (immagine C)
-> - **(D)** (immagine D)
-> - **(E)** (immagine E) (vedi figura)
+> Quadratini bianchi
+> La figura ti mostra in successione tre quadrati, ognuno ottenuto accostando in
+> modo alternato quadratini bianchi o neri; il bordo di ciascuno è costituito da
+> quadratini bianchi. Il secondo quadrato è il più piccolo dopo il primo che
+> rispetta questa regola e il terzo è il più piccolo dopo il secondo. Se prosegui
+> nella costruzione di questi quadrati, rispettando questi criteri, quanti quadratini bianchi ci saranno nel
+> decimo quadrato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0341
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -163,13 +147,13 @@ level: kangourou
 
 *White squares in the tenth square*
 
-> The squares in the answers are partially shaded. In which of them is the shaded part greater?
->
-> - **(A)** (Figure A)
-> - **(B)** (Figure B)
-> - **(C)** (Figure C)
-> - **(D)** (Figure D)
-> - **(E)** (Figure E) (see figure)
+> White little squares
+> The figure shows you in succession three squares, each obtained by placing side by side in
+> alternating fashion white or black little squares; the border of each is made up of
+> white little squares. The second square is the smallest after the first that
+> respects this rule and the third is the smallest after the second. If you continue
+> in the construction of these squares, respecting these criteria, how many white little squares will there be in the
+> tenth square?
 
 **Answer:** 0341
 [[Quesiti/src_kangourou_2020_ecolier_finale#q04|src_kangourou_2020_ecolier_finale__Q04]]
@@ -183,20 +167,16 @@ level: kangourou
 
 *Modi di scrivere 546 come somma di multipli di 3*
 
-> Sonia traccia col gesso sul pavimento la grande tabella che vedi a lato, poi incomincia a saltare da una cella all'altra. Parte dalla cella numero $1$ e segue questa regola: a ogni nuovo salto, atterra in una cella con un numero che è di $3$ unità maggiore di quello della cella da cui ha spiccato il salto. Qual è il numero presente nell'ultima cella su cui potrà atterrare?
->
-> - **(A)** $11$
-> - **(B)** $13$
-> - **(C)** $18$
-> - **(D)** $19$
-> - **(E)** $22$ (vedi figura)
+> Con somma 546
+> In quanti modi posso scrivere 546 come somma di un numero di tre cifre e di uno di due cifre,
+> entrambi multipli di 3?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -204,13 +184,9 @@ level: kangourou
 
 *Ways to write 546 as a sum of multiples of 3*
 
-> Sonia draws with chalk on the floor the large table that you see on the side, then starts jumping from one cell to another. She starts from cell number $1$ and follows this rule: at each new jump, she lands in a cell with a number that is $3$ units greater than that of the cell from which she took the jump. What is the number present in the last cell on which she can land?
->
-> - **(A)** $11$
-> - **(B)** $13$
-> - **(C)** $18$
-> - **(D)** $19$
-> - **(E)** $22$ (see figure)
+> With sum 546
+> In how many ways can I write 546 as the sum of a three-digit number and a two-digit number,
+> both multiples of 3?
 
 **Answer:** 0030
 [[Quesiti/src_kangourou_2020_ecolier_finale#q05|src_kangourou_2020_ecolier_finale__Q05]]
@@ -224,19 +200,16 @@ level: kangourou
 
 *Eta di Alda (mesi anni doppio Carlo)*
 
-> Con i sei adesivi che vedi a lato si possono comporre diverse figure, ma una sola di quelle che vedi qui sotto. Quale?
->
-> - **(A)** (figura A)
-> - **(B)** (figura B)
-> - **(C)** (figura C)
-> - **(D)** (figura D)
-> - **(E)** (figura E) (vedi figura)
+> L’età di Alda
+> Alda e i suoi figli, Betta e Carlo, compiono gli anni nello stesso giorno. Quest’anno tutti insieme
+> hanno compiuto 45 anni. Si sa che Betta ha un numero di mesi uguale al numero di anni della mamma
+> e che l’età di Carlo è doppia di quella di Betta. Quanti anni ha Alda?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0036
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -244,13 +217,10 @@ level: kangourou
 
 *Alda's age (months years double Carlo's)*
 
-> With the six stickers you see on the side, you can compose different figures, but only one of those you see below. Which one?
->
-> - **(A)** (figure A)
-> - **(B)** (figure B)
-> - **(C)** (figure C)
-> - **(D)** (figure D)
-> - **(E)** (figure E) (see figure)
+> Alda's age
+> Alda and her children, Betta and Carlo, have their birthdays on the same day. This year all together
+> they turned 45 years old. It is known that Betta has a number of months equal to the number of years of her mother
+> and that Carlo's age is double Betta's. How old is Alda?
 
 **Answer:** 0036
 [[Quesiti/src_kangourou_2020_ecolier_finale#q06|src_kangourou_2020_ecolier_finale__Q06]]
@@ -264,20 +234,17 @@ level: kangourou
 
 *Massimo euro di Marta con 20 banconote*
 
-> Giorgio incolla sei adesivi con immagini di animali, ciascuno su una faccia di un cubo. La figura qui a lato mostra il cubo in due posizioni differenti. Quale adesivo sta sulla faccia opposta a quella con l'anatroccolo?
->
-> - **(A)** (immagine A)
-> - **(B)** (immagine B)
-> - **(C)** (immagine C)
-> - **(D)** (immagine D)
-> - **(E)** (immagine E) (vedi figura)
+> Gli euro di Marta
+> Marta conta i suoi risparmi: ha venti banconote di 4 valori diversi. Ha una sola banconota da 50 €,
+> mentre le banconote da 10 € e da 5 € sono in numero uguale ma inferiore a quello delle banconote da
+> 20 €. Quanti euro possiede al massimo Marta?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0405
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -285,13 +252,10 @@ level: kangourou
 
 *Maximum euros of Marta with 20 banknotes*
 
-> George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the face opposite the one with the duckling?
->
-> - **(A)** (Figure A)
-> - **(B)** (Figure B)
-> - **(C)** (Figure C)
-> - **(D)** (Figure D)
-> - **(E)** (Figure E) (see figure)
+> Marta's euros
+> Marta counts her savings: she has twenty banknotes of 4 different values. She has only one 50 € banknote,
+> while the 10 € and 5 € banknotes are equal in number but fewer than the 20 € banknotes.
+> How many euros does Marta have at most?
 
 **Answer:** 0405
 [[Quesiti/src_kangourou_2020_ecolier_finale#q07|src_kangourou_2020_ecolier_finale__Q07]]
@@ -305,20 +269,17 @@ level: kangourou
 
 *Codice lucchetto (cifre pari somma 4x6)*
 
-> Francesco ha le seguenti tessere. Ne userà alcune per coprire, completamente e senza sovrapposizioni, la griglia che vedi qui sotto. Se vuole usare il maggior numero possibile di tessere di misure differenti, quante tessere userà in tutto Francesco?
->
-> - **(A)** $3$
-> - **(B)** $4$
-> - **(C)** $5$
-> - **(D)** $6$
-> - **(E)** $7$ (vedi figura)
+> Il codice
+> Diana ha chiuso la sua valigia con un lucchetto a codice. Il codice è il più grande numero di quattro
+> cifre composto solo da cifre pari, tale che la somma delle cifre sia il prodotto del giorno e mese di
+> nascita di Diana. Diana è nata il 4 giugno: quale codice ha usato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8880
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -326,13 +287,10 @@ level: kangourou
 
 *Padlock code (even digits sum 4x6)*
 
-> Francesco has the following tiles. He will use some of them to cover, completely and without overlaps, the grid you see below. If he wants to use as many tiles of different sizes as possible, how many tiles will Francesco use in total?
->
-> - **(A)** $3$
-> - **(B)** $4$
-> - **(C)** $5$
-> - **(D)** $6$
-> - **(E)** $7$ (see figure)
+> The code
+> Diana locked her suitcase with a combination lock. The code is the largest four-digit number
+> made up only of even digits, such that the sum of the digits is the product of the day and month of
+> Diana's birth. Diana was born on June 4: what code did she use?
 
 **Answer:** 8880
 [[Quesiti/src_kangourou_2020_ecolier_finale#q08|src_kangourou_2020_ecolier_finale__Q08]]
@@ -346,20 +304,19 @@ level: kangourou
 
 *Minimo segmenti per vedere 55 quadrati*
 
-> Cinzia colora ogni regione in cui è suddiviso il cerchio che vedi a lato o di rosso o di giallo o di blu, facendo in modo che regioni che si toccano ricevano colori diversi. Cinzia colora di rosso la regione più esterna; dopo che tutto il disegno è stato colorato, quante regioni risultano colorate di rosso?
->
-> - **(A)** $2$
-> - **(B)** $3$
-> - **(C)** $4$
-> - **(D)** $5$
-> - **(E)** $6$ (vedi figura)
+> 55 quadrati
+> La figura che vedete è ottenuta disponendo in modo opportuno 6 segmenti, tutti della
+> stessa lunghezza. In essa potete vedere 5 quadrati in tutto, quattro uguali e uno grande
+> che li raccoglie. Volendo realizzare una figura nella quale si vedano 55 quadrati in
+> tutto, qual è il minimo numero di segmenti, tutti della stessa lunghezza, che basterà
+> accostare?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0012
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -367,13 +324,12 @@ level: kangourou
 
 *Minimum segments to see 55 squares*
 
-> Cinzia colors each region into which the circle you see on the side is divided either red, yellow, or blue, making sure that regions that touch each other receive different colors. Cinzia colors the outermost region red; after the whole drawing has been colored, how many regions turn out to be colored red?
->
-> - **(A)** $2$
-> - **(B)** $3$
-> - **(C)** $4$
-> - **(D)** $5$
-> - **(E)** $6$ (see figure)
+> 55 squares
+> The figure you see is obtained by arranging 6 segments in a suitable way, all of the
+> same length. In it you can see 5 squares in all, four equal and one large
+> that contains them. If you want to make a figure in which 55 squares are seen in
+> all, what is the minimum number of segments, all of the same length, that will be
+> enough to put together?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2020_ecolier_finale#q09|src_kangourou_2020_ecolier_finale__Q09]]
@@ -387,19 +343,17 @@ level: kangourou
 
 *Quanti talleri valeva il paiolo (contratto)*
 
-> Luca guarda dall'alto la piramide che vedi qui sotto. Quale delle immagini qui a lato vede?
->
-> - **(A)** (immagine A)
-> - **(B)** (immagine B)
-> - **(C)** (immagine C)
-> - **(D)** (immagine D)
-> - **(E)** (immagine E) (vedi figura)
+> Il contratto
+> In un tempo lontano un allevatore aveva assunto un mandriano con questo contratto: per un anno di
+> lavoro gli avrebbe dato 1200 talleri e un paiolo di rame. Ma dopo sette mesi il mandriano decise di
+> andarsene e l’allevatore, rispettando il valore del contratto, gli pagò 500 talleri e un paiolo di rame.
+> Quanti talleri valeva il paiolo?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0480
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -407,13 +361,11 @@ level: kangourou
 
 *How many thalers was the cauldron worth (contract)*
 
-> Luca looks from above at the pyramid that you see below. Which of the images shown here on the side does he see?
->
-> - **(A)** (image A)
-> - **(B)** (image B)
-> - **(C)** (image C)
-> - **(D)** (image D)
-> - **(E)** (image E) (see figure)
+> The contract
+> A long time ago a farmer had hired a herdsman with this contract: for a year of
+> work he would give him 1200 thalers and a copper cauldron. But after seven months the herdsman decided to
+> leave and the farmer, respecting the value of the contract, paid him 500 thalers and a copper cauldron.
+> How many thalers was the cauldron worth?
 
 **Answer:** 0480
 [[Quesiti/src_kangourou_2020_ecolier_finale#q10|src_kangourou_2020_ecolier_finale__Q10]]
@@ -427,19 +379,18 @@ level: kangourou
 
 *Somma dei due numeri scambiati nel quadrato magico*
 
-> Osserva la figura: Daniele ha legato il suo cane a un metro dall'angolo di un'edicola con pianta rettangolare i cui lati misurano $7$ m e $5$ m. Il guinzaglio è lungo $11$ m. Ci sono $5$ giochini a forma di osso nelle posizioni che vedi in figura: quanti di essi possono essere raggiunti dal cane?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $4$
-> - **(E)** $5$ (vedi figura)
+> I numeri scambiati
+> Silvia voleva costruire un quadrato magico 4×4 usando tutti i numeri da 1 a 16.
+> In un quadrato magico devono essere uguali le somme dei numeri di ciascuna
+> riga, così come le somme dei numeri di ogni colonna; ma Silvia, per errore, ha
+> inserito due numeri scambiandone la posizione e il risultato è quello che vedete
+> in figura. Qual è la somma dei due numeri scambiati?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0021
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -447,13 +398,12 @@ level: kangourou
 
 *Sum of the two numbers swapped in the magic square*
 
-> Look at the figure: Daniele has tied his dog to a pole one metre from the corner of a newsstand with a rectangular plan whose sides measure $7$ m and $5$ m. The leash is $11$ m long. There are $5$ bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $4$
-> - **(E)** $5$ (see figure)
+> The swapped numbers
+> Silvia wanted to build a 4×4 magic square using all the numbers from 1 to 16.
+> In a magic square, the sums of the numbers in each
+> row must be equal, as must the sums of the numbers in each column; but Silvia, by mistake,
+> inserted two numbers by swapping their positions and the result is what you see
+> in the figure. What is the sum of the two swapped numbers?
 
 **Answer:** 0021
 [[Quesiti/src_kangourou_2020_ecolier_finale#q11|src_kangourou_2020_ecolier_finale__Q11]]
@@ -467,20 +417,16 @@ level: kangourou
 
 *Numeri 4 cifre con cifra migliaia 1 e tre cifre uguali*
 
-> Martino costruisce uno steccato usando pali, ciascuno lungo un metro. In figura vedi uno steccato lungo $4$ metri. Quanti pali utilizzerà Martino per costruire uno steccato lungo $10$ metri?
->
-> - **(A)** $22$
-> - **(B)** $30$
-> - **(C)** $33$
-> - **(D)** $40$
-> - **(E)** $42$ (vedi figura)
+> Tre cifre uguali
+> Quanti sono i numeri interi di quattro cifre che hanno almeno tre cifre uguali e la cui cifra delle
+> migliaia è 1?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -488,13 +434,9 @@ level: kangourou
 
 *4-digit numbers with thousands digit 1 and three equal digits*
 
-> Martino builds a fence using poles, each one metre long. In the figure you see a fence $4$ metres long. How many poles will Martino use to build a fence $10$ metres long?
->
-> - **(A)** $22$
-> - **(B)** $30$
-> - **(C)** $33$
-> - **(D)** $40$
-> - **(E)** $42$ (see figure)
+> Three equal digits
+> How many four-digit integers have at least three equal digits and whose thousands digit
+> is 1?
 
 **Answer:** 0037
 [[Quesiti/src_kangourou_2020_ecolier_finale#q12|src_kangourou_2020_ecolier_finale__Q12]]
@@ -508,19 +450,17 @@ level: kangourou
 
 *Area della stella grigia al centro degli esagoni*
 
-> Osserva la scala in figura: ogni volta che il coniglio scende di $3$ gradini, il canguro sale di $7$ gradini. Qual è il numero del gradino sul quale si incontreranno?
->
-> - **(A)** $53$
-> - **(B)** $60$
-> - **(C)** $63$
-> - **(D)** $70$
-> - **(E)** $73$ (vedi figura)
+> La stella
+> Tutti gli esagoni bianchi che vedi in figura sono uguali e ciascuno di essi ha
+> area 24 cm². Qual è l’area (in centimetri quadrati) della stella grigia al centro?
+> Se non sapete che cosa è l’area di una figura pensatela come la quantità di
+> vernice che servirebbe per riempire tutta la figura.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -528,13 +468,11 @@ level: kangourou
 
 *Area of the grey star at the centre of the hexagons*
 
-> Look at the staircase in the figure: each time the rabbit goes down $3$ steps, the kangaroo goes up $7$ steps. What is the number of the step on which they will meet?
->
-> - **(A)** $53$
-> - **(B)** $60$
-> - **(C)** $63$
-> - **(D)** $70$
-> - **(E)** $73$ (see figure)
+> The star
+> All the white hexagons you see in the figure are equal and each of them has
+> area 24 cm². What is the area (in square centimeters) of the gray star in the center?
+> If you do not know what the area of a figure is, think of it as the amount of
+> paint that would be needed to fill the whole figure.
 
 **Answer:** 0048
 [[Quesiti/src_kangourou_2020_ecolier_finale#q13|src_kangourou_2020_ecolier_finale__Q13]]
@@ -548,34 +486,28 @@ level: kangourou
 
 *Numero di gettoni di Alessio (resti 1 2 3)*
 
-> La somma di tre numeri è $50$. Cristina sottrae uno stesso numero segreto da ciascuno dei tre numeri e ottiene come risultati i numeri $24$, $13$ e $7$. Uno solo dei seguenti è uno dei tre numeri iniziali. Quale?
->
-> - **(A)** $9$
-> - **(B)** $11$
-> - **(C)** $13$
-> - **(D)** $17$
-> - **(E)** $23$
+> I gettoni di Alessio
+> Alessio ha meno di 200 gettoni, tutti uguali. Se li raccoglie a gruppi di 5 gli rimane un gettone; se li
+> raccoglie a gruppi di 9 gliene restano 2; se li raccoglie a gruppi di 7 gliene rimangono 3. Quanti
+> gettoni ha Alessio?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0101
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tokens of Alessio (residues 1 2 3) *
+*Number of tokens of Alessio (residues 1 2 3)*
 
-> The sum of three numbers is $50$. Cristina subtracts the same secret number from each of the three numbers and gets the numbers $24$, $13$ and $7$ as the results. Only one of the following is one of the initial three numbers. Which one?
->
-> - **(A)** $9$
-> - **(B)** $11$
-> - **(C)** $13$
-> - **(D)** $17$
-> - **(E)** $23$
+> Alessio's tokens
+> Alessio has fewer than 200 tokens, all identical. If he gathers them in groups of 5, one token remains; if he
+> gathers them in groups of 9, 2 remain; if he gathers them in groups of 7, 3 remain. How many
+> tokens does Alessio have?
 
 **Answer:** 0101
 [[Quesiti/src_kangourou_2020_ecolier_finale#q14|src_kangourou_2020_ecolier_finale__Q14]]
@@ -589,20 +521,19 @@ level: kangourou
 
 *Euro di Alfonso prima del primo viaggio (traghetto magico)*
 
-> Amalia vuol costruire una coroncina usando $10$ copie del gettone che vedi a destra e vuole che quando due gettoni condividono un lato i numeri corrispondenti coincidano. Ha già disposto $3$ gettoni con questo criterio. Quale numero si troverà alla fine nel triangolo denotato con $X$?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $4$
-> - **(E)** $5$ (vedi figura)
+> Il traghetto magico
+> Il traghetto che permette di passare da una sponda all’altra dello Stretto Avido è magico: alla fine di
+> ogni viaggio ciascun passeggero si ritrova con il doppio del denaro che aveva alla partenza. Per ogni
+> viaggio ciascun passeggero paga all’imbarco 24 euro. Alfonso attraversa lo stretto tre volte senza mai
+> spendere altro che il costo del traghetto né guadagnare denaro diversamente. Pagato il terzo viaggio
+> non ha più denaro: quanti euro aveva Alfonso prima del primo viaggio?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -610,13 +541,12 @@ level: kangourou
 
 *Alfonso's Euro before the first trip (magic ferry)*
 
-> Amalia wants to build a little crown using $10$ copies of the token you see on the right and wants that when two tokens share a side the corresponding numbers match. She has already arranged $3$ tokens according to this rule. Which number will end up in the triangle denoted by $X$?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $4$
-> - **(E)** $5$ (see figure)
+> The magic ferry
+> The ferry that allows you to cross from one shore to the other of the Greedy Strait is magic: at the end of
+> each trip each passenger finds themselves with double the money they had at departure. For each
+> trip each passenger pays 24 euros at boarding. Alfonso crosses the strait three times without ever
+> spending anything other than the cost of the ferry nor earning money in any other way. Having paid for the third trip,
+> he no longer has any money: how many euros did Alfonso have before the first trip?
 
 **Answer:** 0042
 [[Quesiti/src_kangourou_2020_ecolier_finale#q15|src_kangourou_2020_ecolier_finale__Q15]]
@@ -646,7 +576,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many complete moves with 1000 spins (playing three per pin) *
+*How many complete moves with 1000 spins (playing three per pin)*
 
 ![[src_kangourou_2020_ecolier_finale__probe1.png]]
 
@@ -707,7 +637,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of books on the shelf (position restrictions) *
+*Minimum number of books on the shelf (position restrictions)*
 
 > Many books of different thicknesses are lined up on a shelf. To the left of the thickest book there are $20$ books, to the right of the thinner one there are $22$. Between the thickest book and the thinnest one is the oldest book, different from both. What is the minimum number of books that can be lined up on the shelf?
 
@@ -760,7 +690,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the four Julian numbers (equal sums on the diagonals) *
+*sum of the four Julian numbers (equal sums on the diagonals)*
 
 ![[src_kangourou_2020_ecolier_finale__probe4.png]]
 
@@ -898,7 +828,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the numbers of the candles per serving (two cuts) *
+*Sum of the numbers of the candles per serving (two cuts)*
 
 ![[src_kangourou_2020_ecolier_finale__probe6.png]]
 

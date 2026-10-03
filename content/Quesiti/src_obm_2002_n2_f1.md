@@ -79,7 +79,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bolla da biliardo su 5 ×7 tavola colpita a 45°; contare i colpi laterali prima della tasca angolare *
+*Bolla da biliardo su 5 ×7 tavola colpita a 45°; contare i colpi laterali prima della tasca angolare*
 
 > Se dovessi giocare a biliardo su un tavolo rettangolare il cui rapporto larghezza-lunghezza è $5:7$, e spari una palla da un angolo a $45^\circ$ ai lati, quante volte la palla colpisce i lati prima di cadere in una tasca in un angolo?
 >
@@ -202,7 +202,7 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per raggiungere *
+*Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per raggiungere*
 
 > Due fratelli, Pedro e João, decisero di giocare a una gara. Poiché Pedro è più vecchio, ogni passo $2$ di João copre la stessa distanza di quello di Pedro. Per iniziare la gara, a João viene dato un vantaggio di $60$-passaggio prima che inizi Pedro. Dopo quante tappe Pedro raggiunge João?
 >
@@ -502,7 +502,7 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto di un milione di numeri naturali è uguale a un milione; trovare la somma massima *
+*Il prodotto di un milione di numeri naturali è uguale a un milione; trovare la somma massima*
 
 > Il prodotto di un milione di numeri naturali equivale a un milione. Qual è il valore più grande possibile della somma di questi numeri?
 >

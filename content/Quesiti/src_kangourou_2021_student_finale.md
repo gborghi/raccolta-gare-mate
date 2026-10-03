@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of volumes of two spheres of the same size *
+*Ratio of volumes of two spheres of the same size*
 
 > (**5 points**) When you look at two spheres of different radii from a distance, they appear to you to be of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
@@ -213,7 +213,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum of a_i/b_i >= n*
+*sum of a_i/b_i >= n*
 
 > (**18 points**) Determine whether the following statement is true or false by reasoning the answer.
 > 

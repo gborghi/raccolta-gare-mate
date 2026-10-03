@@ -171,7 +171,7 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*NBM angle degrees (rotation) *
+*NBM angle degrees (rotation)*
 
 ![[src_kangourou_2004_cadet_finale__probc5.png]]
 
@@ -230,7 +230,7 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cross tiles on the 8x8 chessboard *
+*Max cross tiles on the 8x8 chessboard*
 
 ![[src_kangourou_2004_cadet_finale__probc6.png]]
 

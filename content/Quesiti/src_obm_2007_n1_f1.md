@@ -384,7 +384,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*CD store moltiplica i prezzi di 0,68; trovare percentuale di sconto *
+*CD store moltiplica i prezzi di 0,68; trovare percentuale di sconto*
 
 > Un negozio di CD sta per organizzare una liquidazione e, per questo, il gestore ha chiesto a Anderlaine di moltiplicare tutti i prezzi per $0.68$. In questa liquidazione, il negozio offre uno sconto di:
 > 

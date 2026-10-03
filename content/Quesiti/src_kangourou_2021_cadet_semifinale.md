@@ -232,7 +232,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certainly false claim (Lisa's euro) *
+*Certainly false claim (Lisa's euro)*
 
 > (4 points) If any of the following three statements
 >  
@@ -642,7 +642,7 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The smallest sum of two numbers with nine digits *
+*The smallest sum of two numbers with nine digits*
 
 > (6 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest sum you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 

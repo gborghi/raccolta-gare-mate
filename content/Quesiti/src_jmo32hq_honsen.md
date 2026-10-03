@@ -66,7 +66,7 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le f stringentemente in aumento con f^100(m) +mn=f(m) f(n) *
+*Ricerca tutte le f stringentemente in aumento con f^100(m) +mn=f(m) f(n)*
 
 > Lasciate che $f$ sia una funzione strettamente in aumento dai numeri interi positivi ai numeri interi positivi. Trovare tutti tali $f$ in modo che $$f^{100}(m) + mn = f(m)f(n)$$ si tenga per ogni coppia di integri positivi $m, n$. Qui $f^{100}(n)$ indica $f(f(\cdots f(n)\cdots))$ con $f$ applicato $100$ volte.
 

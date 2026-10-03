@@ -112,7 +112,7 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre navi con capacità di coprime m e n, versate per ottenere qualsiasi k litro *
+*Tre navi con capacità di coprime m e n, versate per ottenere qualsiasi k litro*
 
 > Ci sono stati dati tre recipienti senza scala: due di essi di capacità $m$ e $n$ litri sono vuoti, e il terzo di capacità $m + n$ litri è pieno di acqua, dove $m$ e $n$ sono integri positivi copriemi. Prove che per qualsiasi $k = 1, 2, \ldots, m + n - 1$, che scorre da un recipiente all'altro, possiamo ottenere esattamente $k$ litri di acqua nel terzo recipiente.
 

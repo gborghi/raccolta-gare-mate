@@ -60,7 +60,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*side of the largest triangle *
+*side of the largest triangle*
 
 ![[src_kangourou_2016_finale_benjamin__probb2.png]]
 
@@ -153,7 +153,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* 2016m network circular park, plant every 8m, same type every 64m*
+*2016m network circular park, plant every 8m, same type every 64m*
 
 > A circular park is surrounded by a fence of $2016$ meters. Each $8$ meters of fence has a plant and each $64$ meters the plants are of the same type. How many different types of plants can be along the fence at most?
 
@@ -181,7 +181,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* frozen 2 kang with 2 euro *
+*frozen 2 kang with 2 euro*
 
 > The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
 

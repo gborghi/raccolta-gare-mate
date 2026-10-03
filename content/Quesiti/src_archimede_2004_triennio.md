@@ -404,7 +404,7 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Problem of the equation with positive integers p,q (demonstration) *
+*Problem of the equation with positive integers p,q (demonstration)*
 
 > A colony of amoeba multiplies in a pond. Initially, a clear and a dark amoeba are present; then, every day for 2004 consecutive days, a random amoeba among the existing ones (all having the same probability of being chosen, regardless of their age) splits into two amoeba identical to itself. What's the likelihood that there's only one dark amoeba in the pond at the end of day 2004?
 > 

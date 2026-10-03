@@ -233,7 +233,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integral numbers 1-10000 not divisible by 2 or by 5 *
+*Integral numbers 1-10000 not divisible by 2 or by 5*
 
 > How many integers between 1 and 10,000 (included) are not divisible by 2 or by 5?
 
@@ -379,7 +379,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N=2014x2014 sum of n consecutive *
+*N=2014x2014 sum of n consecutive*
 
 > 2014 times 2014 The number writing = 20142014...2014 is obtained by writing 2014 consecutively 2014 times. What is the smallest integer n greater than or equal to 2 such that N is the sum of n consecutive positive integers?
 
@@ -551,7 +551,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 7-digit palindromes are there *
+*How many 7-digit palindromes are there*
 
 > A whole number is called a palindrome if its digits, read from left to right or from right to left, give the same result (e.g. 575 is a palindrome, 576 is not). How many seven-digit palindromes are there?
 

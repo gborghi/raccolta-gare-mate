@@ -36,7 +36,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* which result*
+*which result*
 
 > One of the following numbers is the result of product 21.649 × 513.239. Which one? A) 11.111.111
 > 	
@@ -208,7 +208,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* how many more Anna*
+*how many more Anna*
 
 > Anna, Betta and Cinzia purchased a box containing 30 cookies: to pay for it, Anna provided 80 cents, Betta 50 cents and Cinzia 20. So they each took 10 cookies. If the cookies were divided in proportion to what each one paid, how many more would Anna have had? A) 10
 > 	
@@ -888,7 +888,7 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits c *
+*sum of digits c*
 
 > The two solutions to the equation x2 - 85x + c = 0 are prime integers. What is the sum of the digits of the number c ? A) 12
 > 	
@@ -1361,7 +1361,7 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shorter segment *
+*shorter segment*
 
 ![[src_kangourou_2015_marzo_junior__prob25.png]]
 

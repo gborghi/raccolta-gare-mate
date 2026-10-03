@@ -392,7 +392,7 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dollars paid with progressive fractional abandonments *
+*Dollars paid with progressive fractional abandonments*
 
 > The jazz party (points 40) Matt and Lou host a jazz party together, renting a clubhouse that costs $8 per person present for every hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour one in nine of the remaining people leaves. After another 60 minutes, one-eighth of the rest leaves the party, and so on and so forth, until half of those still present leave. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
 

@@ -62,7 +62,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La linea poligonale in un quadrato di 50 ×50 deve avere una lunghezza superiore a 1248 *
+*La linea poligonale in un quadrato di 50 ×50 deve avere una lunghezza superiore a 1248*
 
 > Una linea poligonale è una linea continua $A_1A_2A_3\ldots A_n$ in cui, per $r = 1$ a $n$, $A_rA_{r+1}$ è un segmento di linea retta.
 > 
@@ -91,7 +91,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Localisso del centro del pavimento e delle due pareti perpendicolari di un cerchio circolare *
+*Localisso del centro del pavimento e delle due pareti perpendicolari di un cerchio circolare*
 
 > Un cerchio circolare di raggio 1 è posizionato nell'angolo della stanza. (L'angolo è costituito da un pavimento orizzontale e due pareti verticali perpendicolari e il cerchio tocca tutti e tre i piani). (Francia)
 

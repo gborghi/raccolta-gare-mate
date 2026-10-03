@@ -81,7 +81,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of 100 terms with mean consecutive values of *
+*Summary of 100 terms with mean consecutive values of*
 
 > A sequence of a1. . . , a100 of real numbers is such that the arithmetic mean between two consecutive terms is always equal to the index of the second term (e.g., we have a4+a5 2 = 5); what is the sum of the 100 numbers in the sequence? (A) 2550 (B) 5050 (C) 5100 (D) 10100 (E) It cannot be determined: it depends on a1.
 
@@ -267,7 +267,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Monic polynomials with MCD and mcm data, p(x) *
+*Monic polynomials with MCD and mcm data, p(x)*
 
 > Two monic polynomials (i.e. with a maximum degree coefficient equal to 1) with integer coefficients p(x) and q(x) are such that their maximum common divisor is (x −1)(x −2), their minimum common multiple is (x −1) 2(x −2) 3(x −3)(x + 1) and the degree of p(x) is less than or equal to the degree of q(x. In how many ways can p ((x) be chosen?
 >
@@ -767,7 +767,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value of k and n *
+*value of k and n*
 
 > Demonstrative Exercise Whether n is a positive integer and whether 1 = d1 < d2 < d3 < . . . < dk = n of its positive divisors, ordered by size. We know that k ≥4 and that d2 3 + d2 4 = 2n + 1. (a) Find all possible values of k. (b) Find all possible values of n.
 

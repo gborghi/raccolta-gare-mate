@@ -743,7 +743,7 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of tangent gold and silver coins *
+*Report of tangent gold and silver coins*
 
 > A gold coin is surrounded by four equal silver coins. Each silver coin is equivalent to the gold coin and to two silver coins. Find the ratio of the gold coin radius to that of the silver coins.
 >
@@ -877,7 +877,7 @@ Last year's report on tobacco-farm relations
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area with rectangle, circle and semicircular *
+*Shaded area with rectangle, circle and semicircular*
 
 ![[src_archimede_2009_biennio__prob19.png]]
 

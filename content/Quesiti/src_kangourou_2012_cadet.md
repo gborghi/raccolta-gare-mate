@@ -225,8 +225,6 @@ How many heads does the dragon have after the cuts?
 *Which expression is invariant by replacing 8*
 
 > In which of the following expressions can we replace the number 8, every time it occurs, with the same positive number (other than 8) and get the same result? A)  (8 + 8) : 8 + 8 B) 8 ⋅(8 + 8) : 8 C) 8 + 8 – 8 + 8 D)  (8 + 8 – 8) ⋅8 E) (8 + 8 – 8) : 8
-> 
-> I'm going to pay. I'm going to pay. 17 17 Kang 2012 Kang
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_cadet#q06|src_kangourou_2012_cadet__Q06]]
@@ -730,8 +728,6 @@ How many heads does the dragon have after the cuts?
 ```
 
 > From an equilateral triangle with a side length of 6 cm three equilateral triangles were cut as shown in the figure, where the remaining hexagon is highlighted in gray. The sum of the perimeters of the three cut triangles is equal to the perimeter of the hexagon. How many centimeters does the side of the cut triangles measure? A) 1 B) 1.2 C) 1.25 D) 1.5 E) 2 Aid first strawberries strawberries 10 130 58° 100° 93° x ° A B C D E Aid dopo 100° 93° 58° x °
-> 
-> I'm going to pay. I'm going to pay. 19 19 Kang 2012
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_cadet#q16|src_kangourou_2012_cadet__Q16]]

@@ -30,7 +30,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I piedi di altitudine nel triangolo acuto sono collineari con l'intersezione *
+*I piedi di altitudine nel triangolo acuto sono collineari con l'intersezione*
 
 > Il $ABC$ deve essere un triangolo acuto angolato e $D$, $E$, $F$ devono essere i piedi delle perpendicolari da $A$, $B$, $C$ rispettivamente a $BC$, $CA$, $AB$. Lasciate che le perpendicolari da $F$ a $CB$, $CA$, $AD$, $BE$ si incontrino rispettivamente in $P$, $Q$, $M$ e $N$. Provare che $P$, $Q$, $M$, $N$ sono collineari.
 
@@ -198,7 +198,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(xy)=f(x+y) per gli integri ≥4; ritrovare f(9) *
+*Equazione funzionale f(xy)=f(x+y) per gli integri ≥4; ritrovare f(9)*
 
 > $X$ sia l'insieme di tutti gli integri positivi superiori o uguali a 8 e $f : X \to X$ sia una funzione tale che $f(x + y) = f(xy)$ per tutti $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determinare $f(9)$.
 

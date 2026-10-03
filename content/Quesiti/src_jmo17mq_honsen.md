@@ -29,7 +29,7 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Strategia vincente in un gioco di chiamate di numero fino a n *
+*Strategia vincente in un gioco di chiamate di numero fino a n*
 
 > $n$ sia un numero intero positivo. Due giocatori si alternano dicendo numeri interi tra $1$ e $n$ inclusivi (ogni numero intero può essere detto una volta al massimo). La partita finisce quando non restano numeri interi. Se la somma dei numeri interi indicati dal primo giocatore è divisibile per $3$, il primo giocatore vince; altrimenti il secondo giocatore vince. Trova tutte le $n$ per le quali il primo giocatore ha una strategia vincente.
 

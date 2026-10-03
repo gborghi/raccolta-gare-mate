@@ -71,7 +71,7 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-* missing pieces of bronze *
+*missing pieces of bronze*
 
 > On the boat for Britannia, when Abelix asks him for information about the type of coins used on his land, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. Also, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 25 and a half pieces of copper, how many pieces of bronze does he need to reach the value of an iron barrel?
 
@@ -140,7 +140,7 @@ How to pay 4027 ingots with bronze and copper
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turned distance from D (cart and decuman) *
+*Turned distance from D (cart and decuman)*
 
 > An error of measurement [20] The Roman legion's camp in Britannia is an ABCD rectangle of sides BC = 250 cubits and CD = 500 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 62500 cubic metres2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
 
@@ -318,7 +318,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wall perimeter around pyramids (geodetic) *
+*Wall perimeter around pyramids (geodetic)*
 
 > A wonder of the world, Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of 125 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 235 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
 
@@ -394,7 +394,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of spies among workers (cyclical claims) *
+*Number of spies among workers (cyclical claims)*
 
 > Differences of opinion [45] The work on the construction of Cleopatra's monument has been accelerated and now there are the beauty of 12624 Egyptian workers, among whom unfortunately many Roman spies are feared to have infiltrated (but fortunately there is no longer any saboteur). When Abelix asks each of the workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the th worker speaks of Egyptians or n workers. Clearly the Egyptian workers will always tell him the truth while the Roman spies will always lie to him. How many Roman spies have infiltrated the workers?
 
@@ -579,7 +579,7 @@ The following information shall be provided for the purposes of this Regulation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Druid beard length (Julian calendar) *
+*Druid beard length (Julian calendar)*
 
 > Pelose coincidences [70] Parabolix discovered a singular coincidence between the growth of a druid's beard and the new calendar promulgated by Julius Caesar, in which one year every four is bisestile, without exception. At the age of 18, a druid's beard is exactly 2 meters long and from that time on grows regularly according to the following rule: every year it grows by a measure of L (in centimeters) equal to the entire part of the quozient days of the year/age of the druid in that year. Today Abelix and Borelix participate in the birthday of the druid Parabolix which marks the end of the year in which the beard grew for the last time. Knowing that the year before Parabolix's 18th birthday it was a bisestile, how many centimeters is a beard today?
 > 

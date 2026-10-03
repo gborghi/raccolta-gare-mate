@@ -80,7 +80,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area delle schede di plastica quadrate e trapezziali; quadrato minimo per le tessere *
+*L'area delle schede di plastica quadrate e trapezziali; quadrato minimo per le tessere*
 
 > Janaina ha molte carte di plastica, alcune in forma di quadrati uguali e altre in forma di trapezzi, come mostra la figura. La carta quadrata ha lato $10\,\text{cm}$; la carta trapezoidale ha lati paralleli $10\,\text{cm}$ e $20\,\text{cm}$, e altezza $10\,\text{cm}$.
 > 

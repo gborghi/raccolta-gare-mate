@@ -159,7 +159,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of AB-beam tetrahedron and S projection *
+*Volume of AB-beam tetrahedron and S projection*
 
 ![[src_cesenatico_1997__prob4.png]]
 

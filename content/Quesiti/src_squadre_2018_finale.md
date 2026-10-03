@@ -405,7 +405,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple maximal roots of g(x) = f(x^3-3x) *
+*Multiple maximal roots of g(x) = f(x^3-3x)*
 
 > Ask me another question. When he was teaching at the University of Mars, Fredholm used to give this problem to his most promising students, or those who disliked him the most. Whether f is a real coefficient polynomial that has no multiple roots. How many multiple roots can the polynomial g(x) = f(x3 −3x have, at most)? It is said that λ is a multiple root of the polynomial p(x) if p(x) (x−λ)2 is a polynomial.
 

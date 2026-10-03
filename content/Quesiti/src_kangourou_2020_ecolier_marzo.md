@@ -232,7 +232,7 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the last cell on which Sonia lands (+3 per jump) *
+*Number of the last cell on which Sonia lands (+3 per jump)*
 
 ![[src_kangourou_2020_ecolier_marzo__prob5.png]]
 
@@ -536,7 +536,7 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bones reaches the tied dog (leash 11m) *
+*How many bones reaches the tied dog (leash 11m)*
 
 ![[src_kangourou_2020_ecolier_marzo__prob11.png]]
 
@@ -670,7 +670,7 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is one of the three initial numbers (sum 50, minus x) *
+*Which is one of the three initial numbers (sum 50, minus x)*
 
 > The sum of three numbers is 50. Cristina subtracts the same secret number from each of the three numbers and gets the numbers 24, 13, and 7. Only one of the following is one of the first three numbers. What kind? A) 9
 > 	
@@ -1001,7 +1001,7 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number covered by the circle (sum of triangles and squares) *
+*Number covered by the circle (sum of triangles and squares)*
 
 ![[src_kangourou_2020_ecolier_marzo__prob20.png]]
 
@@ -1102,7 +1102,7 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many teams in the field (5 or 6 members, 43 people) *
+*How many teams in the field (5 or 6 members, 43 people)*
 
 > Some teams participate in a Kangourou summer camp. Each team is made up of five or six members and there are 43 people in total. How many teams are there on the field? A) 4
 > 	

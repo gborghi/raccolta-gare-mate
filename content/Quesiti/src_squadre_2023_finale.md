@@ -414,7 +414,7 @@ How to distribute 5+4+3 snacks to 4 people*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of packages from 83 for biscuits in 68 panes *
+*Minimum number of packages from 83 for biscuits in 68 panes*
 
 > The three girls will infiltrate Vector's house under the pretext of selling cookies by making him choose between 82 different types. The minions cook them: they prepare 68 biscuits; one of the first type, two of the second type, and so on, up to the 82nd type of biscuit, of which 82 are baked. The packages were obtained by Dr. Nefarey, who, however, misunderstood the phone and took 83 cookies a day. Knowing that each package contains only one type of cookie, and that all cooked cookies are packaged, what is the minimum number of packages that minions will need to use?
 
@@ -690,7 +690,7 @@ Difference between blue and orange seats with Tartaglia triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers n in 1-100 with Q(n) multiple of n (sum of covers) *
+*Numbers n in 1-100 with Q(n) multiple of n (sum of covers)*
 
 > Krull's ransom came too late: the ballet is over and Vector has kidnapped the three girls. However, he left a note in which he defines Q(n) as the sum of the natural numbers less than or equal to n that have no prime factors in common with n (e.g. Q(1) = 1, Q(5) = 1+2+3+4 and Q(15) = 1+2+4+7+8+11+13+14). Krull must answer the question left by Vector at the end of the note: how many integers n between 1 and 100 are such that Q(n) is a multiple of n?
 

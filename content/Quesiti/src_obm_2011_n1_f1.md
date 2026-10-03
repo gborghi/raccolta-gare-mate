@@ -157,7 +157,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di date con giorno, mese, ultime due cifre dell'anno *
+*Conteggio di date con giorno, mese, ultime due cifre dell'anno*
 
 > Una data bella si verifica quando, scritta come $11/11/11$, il mese, il giorno e le ultime due cifre dell'anno sono tutte uguali. Lo scorso anno, questo modello si è verificato su $10/10/10$. Quanti giorni ci sono da $10/10/10$ a $11/11/11$, compresi sia $10/10/10$ che $11/11/11$?
 > 
@@ -230,7 +230,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale di voli cancellati (vulcano e pioggia) *
+*Percentuale di voli cancellati (vulcano e pioggia)*
 
 > A causa di un'eruzione vulcanica, $10\%$ dei voli da un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali da tale aeroporto annullati?
 > 
@@ -339,7 +339,7 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di ragazze in una classe data per il modello di altezza *
+*Nombre di ragazze in una classe data per il modello di altezza*
 
 > Una classe di 36 studenti ha altezze diverse. Il più corto tra i ragazzi è più alto di 5 ragazze, il secondo ragazzo più corto è più alto di 6 ragazze, il terzo ragazzo più corto è più alto di 7 ragazze, e così via, fino al ragazzo più alto, che è più alto di tutte le ragazze. Quante ragazze ci sono in questa classe?
 > 

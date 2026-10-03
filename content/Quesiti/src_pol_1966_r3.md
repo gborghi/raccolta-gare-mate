@@ -56,7 +56,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzione in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$ *
+*Soluzione in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$*
 
 > Risolvere in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
 
@@ -84,7 +84,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nonneg reals sommati a $\le\frac{1}{2}$: prodotto $(1-x_i)\ge\frac{1}{2}$ *
+*Nonneg reals sommati a $\le\frac{1}{2}$: prodotto $(1-x_i)\ge\frac{1}{2}$*
 
 > Se i numeri reali non negativi $x_1, x_2, \ldots, x_n$ soddisfano $x_1 + \cdots + x_n \le \frac{1}{2}$, dimostrare che $$( 1 - x_1)(1 - x_2) \cdots (1 - x_n) \ge \frac{1}{2}.$$
 

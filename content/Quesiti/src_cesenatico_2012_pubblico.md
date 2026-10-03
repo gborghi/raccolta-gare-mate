@@ -37,7 +37,7 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance travelled in the square (isosceles triangle) *
+*Distance travelled in the square (isosceles triangle)*
 
 > The last stone The world has come to an end at other times in the past. Once in particular it was a certain Esmeralda Weatherwax who challenged Death to the game for everyone's salvation, but neither chess, cards, nor Monopoly were chosen. The two players sat down in front of a large pile of stones and began to play. He started Emerald, which took 30 stones. Death took 130 of them, then Emerald took 230. And they did so, according to the rules, which required each one to collect 100 more stones than the previous one. When the stones on the ground were no longer enough, the player would collect them all. The first one who couldn't pick up a stone would lose. As you can imagine, Esmeralda won after collecting 9,284 stones throughout the game. How many stones did Death collect?
 
@@ -72,7 +72,7 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max geometric mean of the auras (training) *
+*Max geometric mean of the auras (training)*
 
 > Commander Tarkin threatens to destroy the Earth with the Black Death, but he will give up if Princess Leila defeats him in the next game. Initially there is a heap of n stones; then players alternate starting with Leila. The only valid moves are to remove pile 1, 2, 4 or 16 stones. The winner is the one who can remove the last stone. Leila, reflecting a little, realizes that if Tarkin doesn't make mistakes, there will be no chance of victory for her. Then try to make the game last as long as possible, hoping that Tarkin will make a mistake sooner or later and also to delay the destruction of Earth. How much was it worth if the Earth was destroyed after a game of 594 moves?
 
@@ -139,7 +139,7 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of n with mcm(1..n) = mcm(1..n-1) *
+*Quantities of n with mcm(1..n) = mcm(1..n-1)*
 
 > The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
 
@@ -248,7 +248,7 @@ Maximum points for the Gonioku-Vietnam clash
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area max pentagon with constraints (special pose) *
+*Area max pentagon with constraints (special pose)*
 
 > First Impact On December 21, 2012, a spherical asteroid with a radius of 1/7 of a kilometer will hit the Earth's surface perpendicularly in a K-square area on the side of 26 km, making a hole exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (experts are likely to consider each position as equally likely). The authorities have a 5 km radius circular disintegrating shield: if the asteroid also competes in Team 2012  Semifinal A  Problem texts  1/1
 > 
@@ -283,7 +283,7 @@ Maximum points for the Gonioku-Vietnam clash
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal probability in the final collision (shocks) *
+*Equal probability in the final collision (shocks)*
 
 > The followers of the Great Cthulhu to be ready for the Chaos of the Last Day completely changed the usual rules of calculation on natural numbers. The addition has been replaced by an operation denoted by tale which for each a,b ∈N, has ab = a+b+1, whereas, instead of multiplication, an operation has been adopted, denoted by •, such that 0•0 = 1, and that for each a,b,c ∈N, has a•b = b•a and also that a•bc) = (a•b)(a•c). According to the Necronomicon, only 12•7)17 days remain until Cthulhu wakes up: how many days would that be?
 
@@ -352,7 +352,7 @@ Maximum points for the Gonioku-Vietnam clash
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third-digit integer sum with digit 3 or 6 (fusion) *
+*Third-digit integer sum with digit 3 or 6 (fusion)*
 
 > No one remembers the command word to disable the robot Gort, which in nine days will ignite and destroy life on Earth. However, there is a second arrest procedure. In each of these days, the hero Ash Williams will throw a six-sided dice. If each launch is different from either the number released two days before or the number that will be released four days after, Gort will deactivate. (If on one of the required days Ash did not draw the dice, for example two days before the first day, the number that came out is considered different.) What is the probability that the world will not end? As a response, provide the first four digits after the comma.
 
@@ -416,7 +416,7 @@ Who lies between five wise men and water ownership
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years on the road >=113 shields (57 divided by pairs) *
+*Years on the road >=113 shields (57 divided by pairs)*
 
 > Another sign A space probe has recently discovered on the surface of Mars a mysterious monolith that may foretell the end of the world. One of its square faces ABCD, has an area of 2012 m2. That is, E is the middle point of AB and O is the intersection between AC and BD, it is noted that the intersection between the DCE triangle and the ABO triangle is red in colour. All the rest of the monolith is black. How many square meters is the red area?
 
@@ -484,7 +484,7 @@ Max Gonioku wins (mini tournament, min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max h^2 between 10 points of contact (cube-sphere-tetrahedron) *
+*Max h^2 between 10 points of contact (cube-sphere-tetrahedron)*
 
 > A new hope The End of the World Order has been activated and life on Earth will be extinct within a few months. Il Dr. Strangely, it suggests preserving the human race in underground shelters. The shelters constructed have the form described here. The habitable area is an equilateral QPR triangle of 112 m side. It is served by three PQDC, QRIH and RPNM square hydroponic tanks and by three regular hexagonal water tanks ABCPNO, FGHQDE and KLMRIJ. The actual residential area is a polygon with 6 STUVWX sides such that S = AI ∩RP, T = KC ∩RP, U = FN ∩PQ, V = AH ∩PQ, W = KD ∩QR and X = FM ∩QR. Knowing that 3.5 square meters of living space is needed per person, how many people can live at most in one of these shelters?
 
@@ -520,7 +520,7 @@ Max Gonioku wins (mini tournament, min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-pointed star area on a sphere (s) *
+*Five-pointed star area on a sphere (s)*
 
 ![[src_cesenatico_2012_pubblico__prob15.png]]
 

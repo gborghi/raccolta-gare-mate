@@ -128,7 +128,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cards in the 0-0..8-8 dominoes *
+*How many cards in the 0-0..8-8 dominoes*
 
 ![[src_kangourou_2004_ecolier_finale__probe3.png]]
 
@@ -187,7 +187,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White spaces on the last line (numbers 1..150) *
+*White spaces on the last line (numbers 1..150)*
 
 > My computer screen allows me to write $80$ characters (letters, numbers or white spaces) on each line. If there is not enough space for a word or a number at the end of the line, the word or number is entirely moved to the next line. I write the numbers from $1$ to $150$ (in digits) and I leave a blank space between each number and the following one. How many white spaces are left on the last line after the last zero?
 

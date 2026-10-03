@@ -70,7 +70,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many trains the 6.00 train meets *
+*How many trains the 6.00 train meets*
 
 > (Points 3) Two cities A and B are connected by a railway line. The trains always travel on time in each of the two directions and take 270 minutes to get from one terminus to the other. Every day, trains depart from A every hour, the first at 6.00 and the last at 18.00; also from B trains depart every hour, but the first at 8.00 and the last at 20.00. During its journey, how many trains does the train that leaves from A at 6:00 meet? A) 1 B) 2 C) 3 D) 4 E) 5 Answer: C). The solution. 270 minutes correspond to 4 and a half hours: the train departing from A at 6.00 arrives at B at 10.30, so it meets those departing from B at 8.00, 9.00 and 10.00.
 
@@ -200,7 +200,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the place of the question mark (unrelated sequences) *
+*Number at the place of the question mark (unrelated sequences)*
 
 ![[src_kangourou_2024_ecolier_semifinale__prob5.png]]
 

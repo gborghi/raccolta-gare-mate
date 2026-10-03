@@ -112,7 +112,7 @@ Red/green ball outputs in two boxes and out*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers does Mark write (sequence +29, all digits 9) *
+*How many numbers does Mark write (sequence +29, all digits 9)*
 
 > Is Mark still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ... where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
 
@@ -301,7 +301,7 @@ Minimum number of connections between 13 cities by 3 means
 <div class="qlang-split" data-lang="en"></div>
 
 
-*rectangle 36x81 squared *
+*rectangle 36x81 squared*
 
 ![[src_kangourou_squadre_2009_finale__prob8.png]]
 

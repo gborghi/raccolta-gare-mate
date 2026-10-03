@@ -102,7 +102,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years 2011-2410 with first two multiple digits of the last *
+*Years 2011-2410 with first two multiple digits of the last*
 
 > This is a special year. The year 2010 has the curious peculiarity that the number formed by its first two digits is a multiple of the number formed by the last two. The same thing happens for example in the year 2404. How many of the next 400 years, that is, the years from 2011 to 2410 inclusive, will have this property?
 

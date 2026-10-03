@@ -729,7 +729,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare pavimento di (3^2001+2^2001)/(3^2000+2^2000) *
+*Trovare pavimento di (3^2001+2^2001)/(3^2000+2^2000)*
 
 > Il numero intero più grande non superiore a $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$ è uguale a:
 > 
@@ -770,7 +770,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le affermazioni vere sul triangolo T e sui triangoli derivati T' e sqrt(T) *
+*Contare le affermazioni vere sul triangolo T e sui triangoli derivati T' e sqrt(T)*
 
 > $T = (a, b, c)$ sia un triangolo, dove $a$, $b$, $c$ sono le lunghezze laterali. Definire $T' = (a^2, b^2, c^2)$ e $\sqrt{T} = (\sqrt{a}, \sqrt{b}, \sqrt{c})$, e lasciare $\tilde{T} = $ la radice quadrata di $T$. Considerate le seguenti affermazioni:
 > 
@@ -807,7 +807,7 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo dopo le operazioni del 2003: sostituire la cifra con il suo quadrato o doppio (selezionare il massimo) *
+*Numero massimo dopo le operazioni del 2003: sostituire la cifra con il suo quadrato o doppio (selezionare il massimo)*
 
 > Un numero scritto è operato come segue: se il numero è superiore a $1$, viene sostituito dal suo quadrato; se è uguale a $1$, viene raddoppiato. Partendo da una singola cifra e applicando questa operazione esattamente $2003$ volte, quale è il numero più grande che può essere ottenuto?
 > 

@@ -186,7 +186,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime r sums of two prime numbers with equal sums *
+*How many prime r sums of two prime numbers with equal sums*
 
 > (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
 
@@ -246,7 +246,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many integers n is the number n/(n-10) an integers *
+*For how many integers n is the number n/(n-10) an integers*
 
 > (Points 4) For how many integers n is the number n/(n - 10) an integer? (A) 4 (B) 5 (C) 7 (D) 8 (E) Infinite
 
@@ -379,7 +379,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio length of rope / shorter piece (discs) *
+*Ratio length of rope / shorter piece (discs)*
 
 > (Dots 4) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 

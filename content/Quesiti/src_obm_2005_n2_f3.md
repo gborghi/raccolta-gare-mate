@@ -91,7 +91,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che il rapporto del prodotto è uguale a 1/11, trovi la somma ciclica di a/(a+b) *
+*Dato che il rapporto del prodotto è uguale a 1/11, trovi la somma ciclica di a/(a+b)*
 
 > Dato che $$\frac{(a-b)(b-c)(c-a)}{(a+b)(b+c)(c+a)} = \frac{1}{11},$$ qual è il valore di $$\frac{a}{a+b} + \frac{b}{b+c} + \frac{c}{c+a}\,?$$
 

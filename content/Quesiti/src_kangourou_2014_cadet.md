@@ -310,7 +310,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bucket capacity (half and then three quarters) *
+*Bucket capacity (half and then three quarters)*
 
 > A bucket was half full. I added two litres of water and it's now three-quarters full. What is the capacity (in litres) of the bucket? A) 10 B) 8
 > 	
@@ -653,7 +653,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of granddaughter (powers of 2 plus 100) *
+*Age of granddaughter (powers of 2 plus 100)*
 
 > This year a friend of mine, her daughter and her granddaughter all have ages that, in years, are powers of two and the sum of their ages is 100 years. How old is the granddaughter? A) 1
 > 	
@@ -1507,7 +1507,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many are from the Greens (Green/Red/Yellow) *
+*How many are from the Greens (Green/Red/Yellow)*
 
 > In one room there are 25 people, each of whom belongs to one of the following fraternities: the Greens, who always tell the truth, the Reds, who always lie, and the Yellows, who, if they answer one question truthfully, lie to the next and vice versa. Each of these people was asked in the order: • "Are you Green?" and 17 answered yes, • "Are you Yellow?" and 12 answered yes, • "Are you Red?" and 8 answered yes. How many are the Greens? A) 4
 > 	
@@ -1601,7 +1601,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most frog-friendly leaves (non-adjacent leaps) *
+*Most frog-friendly leaves (non-adjacent leaps)*
 
 ![[src_kangourou_2014_cadet__prob29.png]]
 

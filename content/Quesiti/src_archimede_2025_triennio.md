@@ -433,7 +433,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N2 cheese dividers with n=3^14·7^40 *
+*N2 cheese dividers with n=3^14·7^40*
 
 > Paola has to reset her cell phone's pin, which consists of a 4-digit sequence (each of which can be any number from 0 to 9). To memorize it, it'll make sure you have exactly two different digits. How many pins does Paola have at her disposal?
 >
@@ -590,7 +590,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ball-cassette combinations with MCD(a,b)=1 *
+*Ball-cassette combinations with MCD(a,b)=1*
 
 > The circumference ω passes through the vertex D of the rectangle ABCD and is tangent to the sides AB and BC at points P and Q. The AP and CQ segments measure, in the order, 3 m and 4 m. How many m2 does the area of the rectangle ABCD measure ? A B C D P Q ω
 >

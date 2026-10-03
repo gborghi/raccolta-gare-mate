@@ -34,7 +34,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Girls in class 29 with 3 more *
+*Girls in class 29 with 3 more*
 
 > There are 29 students in a class, girls are three more than boys. How many girls are there? A) 6 B) 13 C) 16 D) 19 E) 29
 
@@ -1101,7 +1101,7 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the BAC angle in Figure *
+*Measure the BAC angle in Figure*
 
 ![[src_kangourou_2000_studenti__prob27.png]]
 

@@ -831,7 +831,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little square area (4 rectangles, 6 diagonal) *
+*Little square area (4 rectangles, 6 diagonal)*
 
 ![[src_kangourou_2020_cadet_marzo__prob17.png]]
 
@@ -958,7 +958,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of cubes in the neighbourhood (upper and side views) *
+*Maximum number of cubes in the neighbourhood (upper and side views)*
 
 ![[src_kangourou_2020_cadet_marzo__prob19.png]]
 
@@ -1067,7 +1067,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the cube in sixth place (color links) *
+*Color of the cube in sixth place (color links)*
 
 > Twelve colored cubes are aligned. There are 3 blue cubes, 2 yellow cubes, 3 red cubes and 4 green cubes, but not in this order. There is a yellow cube at one end of the line and a red cube at the other end. The red cubes are all contiguous; even the green cubes are all contiguous. The tenth cube on the left is blue. What's the color of the cube that's in sixth place on the left? A) Of course it is blue. B) Certainly yellow. C) Certainly red. D) It is certainly green. E) Blue or red.
 
@@ -1249,7 +1249,7 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers on the sides (products at sum of sums 15) *
+*sum of numbers on the sides (products at sum of sums 15)*
 
 > Samuel writes a positive integer on each side of a square and then on each vertex he writes the product of the numbers he wrote on the two sides that meet at that vertex. The sum of the numbers in the vertices is 15. What is the sum of the numbers written on the four sides of the square? A) 6
 > 	
@@ -1384,7 +1384,7 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many glue drops in the pyramid of 4x4 spheres *
+*How many glue drops in the pyramid of 4x4 spheres*
 
 ![[src_kangourou_2020_cadet_marzo__prob27.png]]
 
@@ -1436,7 +1436,7 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum metres of the trainer (three children run 50m) *
+*Minimum metres of the trainer (three children run 50m)*
 
 > Four children are standing on the four corners of a 10 m × 25 m pool. Their coach's on one side of the pool. When he calls them, three of them come out and run toward him along the shortest possible path along the sides of the pool: they run 50 meters in all. How many metres at least must the trainer walk to reach the fourth child (always moving along the sides of the pool)? A) 10
 > 	
@@ -1480,7 +1480,7 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of the race (distance between Alberto Bianca Carlo) *
+*Distance of the race (distance between Alberto Bianca Carlo)*
 
 > Alberto, Bianca and Carlo are on a run. They start together and run at different but constant speeds. When Bianca finishes the race, Alberto must run another 15 m and Carlo another 35 m; when Alberto finishes the race, Carlo must still run 22 m. What distance are they running? A) 135 m B) 140 m C) 150 m D) 165 m E) 175 m
 
@@ -1526,7 +1526,7 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the 4-digit number (mastermind type indices) *
+*Number of units of the 4-digit number (mastermind type indices)*
 
 > The following statements fully identify a four digit number: 4 1 3 2: only two digits are correct but both in the wrong place, 9 8 2 6: only one digit is correct and in the right place, 5 0 7 9: only two digits are correct, only one is in the right place, the other is in the wrong place, 7 6 4 2: none of the digits is correct. What is the units digit of the four-digit number in question? A) 0
 > 	

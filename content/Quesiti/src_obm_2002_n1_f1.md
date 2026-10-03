@@ -533,7 +533,7 @@ Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'a
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa massima possibile di un milione di naturali il cui prodotto è di un milione *
+*Summa massima possibile di un milione di naturali il cui prodotto è di un milione*
 
 > Il prodotto di un milione di numeri naturali, non necessariamente distinti, equivale a un milione. Qual è il più grande valore possibile per la somma di questi numeri?
 > 

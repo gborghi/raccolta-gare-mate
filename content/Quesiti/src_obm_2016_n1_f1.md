@@ -420,7 +420,7 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione tra superficie totale verde e superficie totale rossa dopo aver tagliato un cubo dipinto in 8. *
+*Relazione tra superficie totale verde e superficie totale rossa dopo aver tagliato un cubo dipinto in 8.*
 
 > Dopo aver tagliato il cubo in otto blocchi più piccoli, trova il rapporto tra superficie verde totale e superficie rossa totale.
 > 

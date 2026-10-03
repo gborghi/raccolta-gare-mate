@@ -29,7 +29,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (83;89) chiamate "centenarie" *
+*Contare le coppie ordinate (83;89) chiamate "centenarie"*
 
 > Una coppia ordinata $(83; 89)$ è chiamata coppia del secolo ** perché $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; cioè la somma di ogni numero con i numeri dell'altro numero è uguale a 100. Quante coppie di numeri interi positivi ci sono?
 

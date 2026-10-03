@@ -29,7 +29,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esmeralda risolve bx=a invece di ax=b; la sua radice è la radice corretta meno 60; trova m+n dalla radice corretta m+sqrt(n) *
+*Esmeralda risolve bx=a invece di ax=b; la sua radice è la radice corretta meno 60; trova m+n dalla radice corretta m+sqrt(n)*
 
 > (Parte A) Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono reali. Esmeralda commette un errore e risolve l'equazione $bx = a$, ottenendo una soluzione pari alla soluzione corretta meno $60$. Se la soluzione corretta è della forma $m + \sqrt{n}$ con $m$ e $n$ integri, qual è il valore di $m + n$?
 

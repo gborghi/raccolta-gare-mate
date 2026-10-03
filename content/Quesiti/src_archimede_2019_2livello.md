@@ -531,7 +531,7 @@ Full colour with 6 colours, conditions*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chess tournament, matches, final zeros of n *
+*Chess tournament, matches, final zeros of n*
 
 > Two schools compete in a chess tournament with 75 pupils each: 75 matches are organised in which all pupils play one-on-one (one member of the first school versus one of the second) under the control of an external referee. Each school counts its students from 1 to 75, and the referee sets the rule that two boys cannot clash if the difference between their numbers is a multiple of 3. If n is the number of possible couplings that satisfy this rule, how many zeros does n end with?
 >
@@ -632,7 +632,7 @@ Knights and thieves at the table, 3 are wrong
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lamp lamps in a row, moved with first ratio *
+*Lamp lamps in a row, moved with first ratio*
 
 > There are 4037 lamps arranged in rows and numbered from 1 to 4037. Initially, each light bulb can be switched on or off. One move consists of choosing two bulbs numbered a, b such that a/b or b/a is a prime number and changing the status of both. Demonstrate that in a finite number of moves you can make the bulbs from 1 to 2019 all on whatever the initial configuration is.
 
@@ -699,7 +699,7 @@ Knights and thieves at the table, 3 are wrong
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-descriptive 'correct' numbers, maximum number counting *
+*Self-descriptive 'correct' numbers, maximum number counting*
 
 > Demonstrative Exercise Let's say a positive integer with an even number of digits is correct if, by reading the individual digits aloud, we get a correct description of the number itself. Or rather, if each odd-positional digit indicates how many times the next digit appears in the whole number. For example, 1210 is correct, because it has un 2, a 0, as well as 2121, because it has dues 1, two 1, whereas 1031 is not, because it says it has un 0, three 1, when it actually has two 1. (a) Demonstrate that there are more than 2019 correct numbers. (b) Demonstrate that the correct integers are finite. (c) Find the number of digits of the largest correct number.
 

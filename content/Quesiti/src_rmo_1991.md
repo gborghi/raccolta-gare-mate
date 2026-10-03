@@ -58,7 +58,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per quattro valori reali positivi condizione di somma *
+*Ineguaglianza per quattro valori reali positivi condizione di somma*
 
 > Se $a$, $b$, $c$ e $d$ sono 4 numeri reali positivi, dimostrare che $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a} \ge 4.$$
 

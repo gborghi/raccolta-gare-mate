@@ -168,7 +168,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massima dimensione di insieme completamente divisibile contenente elementi inferiori a 2 milioni *
+*Massima dimensione di insieme completamente divisibile contenente elementi inferiori a 2 milioni*
 
 > Un insieme è chiamato \emph{completamente divisibile} se per due elementi $a < b$ nel insieme, $a$ divide $b$. Un insieme di integri positivi $A$ è completamente divisibile, contiene $2016$ come uno dei suoi elementi e tutti gli elementi di $A$ sono inferiori a $2{,}000{,}000$. Qual è il numero massimo di elementi che $A$ può contenere?
 

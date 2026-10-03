@@ -689,7 +689,7 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small squares to cover the square (cancelled) *
+*Small squares to cover the square (cancelled)*
 
 > Draw a square, and then join the midpoints of its sides with straight lines. You get a smaller square in the center. Repeat the operation on this smaller square: you get an even smaller square in the center. You want to cover the square you first drew with squares identical to this last smaller square: how many squares do you need? A) 5
 >         	

@@ -166,7 +166,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare i numeri primi etichettati A,B,C,D nell'elenco; i numeri primadoidi (ogni due cifre consecutive formano un primo, tutti i numeri distinti); dimostrare che non ci sono primadoidi a 6 cifre e trovare il più grande *
+*Identificare i numeri primi etichettati A,B,C,D nell'elenco; i numeri primadoidi (ogni due cifre consecutive formano un primo, tutti i numeri distinti); dimostrare che non ci sono primadoidi a 6 cifre e trovare il più grande*
 
 > I numeri primi sono quei numeri interi positivi che possiedono esattamente due distinti divisori positivi: $1$ e se stesso. I primi numeri primi positivi sono $$2, 3, 5, 7, 11, 13, 17, 19, 23, A, 31, 37, 41, B, 47, 53, 59, 61, 67, 71, C, 79, 83, 89, D, 101, \ldots$$
 > 

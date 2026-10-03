@@ -57,7 +57,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove abc ≤ 1/8 data somma ciclica uguale a 1 con risultati positivi *
+*Prove abc ≤ 1/8 data somma ciclica uguale a 1 con risultati positivi*
 
 > $a, b, c$ siano numeri reali positivi in modo tale che $$\frac{a}{1+b} + \frac{b}{1+c} + \frac{c}{1+a} = 1.$$ dimostri che $abc \le \frac{1}{8}$.
 

@@ -149,7 +149,7 @@ Chances are you'll be playing poker tonight.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* does not exist n with P(n)=12*
+*does not exist n with P(n)=12*
 
 > Let $a_1, a_2, a_3, a_4$ be four distinct integers and let $P(x)$ be a polynomial with integer coefficients such that $$P(a_1) = P(a_2) = P(a_3) = P(a_4) = 1. \quad (\star)$$ (i) Show that there is no integer $n$ such that $P(n) = 12$.
 > 

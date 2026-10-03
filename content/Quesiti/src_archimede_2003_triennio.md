@@ -79,7 +79,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*car letters from 2 to 4 letters, counting *
+*car letters from 2 to 4 letters, counting*
 
 > What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003 ? (Note: the arithmetic mean of n numbers is equal to their sum divided by n.)
 >
@@ -286,7 +286,7 @@ The following information is provided in the Annex to Implementing Regulation (E
 <div class="qlang-split" data-lang="en"></div>
 
 
-* parabola ratio, value *
+*parabola ratio, value*
 
 > Michael, Juan Pablo and Kimi are competing in a motor racing championship. After 5 major prizes, Michael leads the standings with 43 points, followed by Juan Pablo with 42 points and Kimi with 40. In each of the 5 competitions, the first placed team earned 10 points, the second eight, the third seven, and from fourth place onwards no points were earned. Based on this information, can you tell who has placed second most times?
 >
@@ -455,7 +455,7 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of integers divisible by 1 to 12 (totals) *
+*Number of integers divisible by 1 to 12 (totals)*
 
 > A space station wants to record the passage of an asteroid, which moves in space in a uniform, straight-moving motion relative to it. Unfortunately, the station's radar is damaged, and it does not provide reliable distance measurements, while accurately measuring the angle under which the asteroid is seen. Some detections are carried out at regular intervals. What is the minimum number of detections needed to reconstruct the trajectory of the asteroid?
 >

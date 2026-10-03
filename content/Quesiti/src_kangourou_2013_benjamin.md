@@ -315,7 +315,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 20 and 30 divisible by its units digit *
+*Numbers between 20 and 30 divisible by its units digit*
 
 > The number 36 has the property of being divisible by its units digit: in fact 36 is divisible by 6. How many numbers between 20 and 30 have this property? A) 2
 >         	
@@ -641,7 +641,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fished if tripled would give 12 more *
+*Fished if tripled would give 12 more*
 
 > Matteo went fishing. If he had caught three times the fish he caught, he would have caught 12 more. How many fish did he catch? A) 7
 >         	
@@ -1108,7 +1108,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of finalist cats (sets) *
+*Minimum number of finalist cats (sets)*
 
 > There are 66 cats in the Miss Cat 2013 competition. Twenty-one were eliminated because they failed the mouse-hunting test. Of the rest, 27 have at least two colors of hair and 32 have a white tail. All cats with at least two colors of hair and a white tail are in the final. So the smallest possible number of finalist cats is A) 5.
 >       	
@@ -1405,7 +1405,7 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of visible faces of the solid 2x2x1 cubic *
+*Maximum number of visible faces of the solid 2x2x1 cubic*
 
 ![[src_kangourou_2013_benjamin__prob29.png]]
 

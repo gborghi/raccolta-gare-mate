@@ -842,7 +842,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione di tutte le voci in una tabella di 100x100 di valori gcd(i,j) *
+*Produzione di tutte le voci in una tabella di 100x100 di valori gcd(i,j)*
 
 > Esmeralda disegnò una tabella con 100 righe e 100 colonne e scrisse, nella riga $i$ e nella colonna $j$ della tabella, $\gcd(i, j)$. Ad esempio, ha scritto $\gcd(4, 6) = 2$ nella riga 4, colonna 6, e ha scritto $\gcd(15, 10) = 5$ nella riga 15, colonna 10. Qual è il prodotto di tutti i numeri della tabella?
 > 

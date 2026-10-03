@@ -389,7 +389,7 @@ level: squadre
 
 *Real number of roots of the polynomial $p_{22}$*
 
-> This is the first time I've ever heard of this.
+> **Setting down roots** [⋆] — Denis Tusca
 >
 > Hardy, to communicate in secret with his godfather Sirius Schwarz, agreed to put a password on the twin mirrors. Taking $p_0(x) = x$ and $p_{n+1}(x) = 1 - p_n(x)^2$ for each natural $n$, the password is the number of real roots, multiplied, of the $p_{22}(x)$ polynomial. What's the password?
 
@@ -592,7 +592,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic-force-4 token settings *
+*Magic-force-4 token settings*
 
 ![[src_squadre_2026_semifinale_cd__prob10.png]]
 

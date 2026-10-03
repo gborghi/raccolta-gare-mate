@@ -109,7 +109,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max distance between two persons (re-transmitter) *
+*Max distance between two persons (re-transmitter)*
 
 > A balloon is stationary at 1,200 meters above the ground. The crew on board has a receiver capable of operating within 1300 metres. What is the maximum distance in metres for two people on the ground to communicate with the crew on board, equipped with similar transmitters? A) 500 B) 800 C) 1000 D) 1200 E) 1300
 
@@ -193,11 +193,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Members after three years (+50% annually) *
+*Members after three years (+50% annually)*
 
 > An international body currently consists of 32 members. How many members will it have in three years' time if the number of members is 50% higher than the previous year? A) 182 B) 128 C) 108 D) 96 E) 80 Texts
-> 
-> I'm going to pay. I'm going to pay. 23 23 Kang 2007 Kang 2007
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_junior_marzo#q05|src_kangourou_2007_junior_marzo__Q05]]
@@ -309,7 +307,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*X and Y figures in the grid (sum of 2 per row/column) *
+*X and Y figures in the grid (sum of 2 per row/column)*
 
 ![[src_kangourou_2007_junior_marzo__prob7.png]]
 
@@ -360,7 +358,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max of KAN+GA+ROO (different digits) *
+*Max of KAN+GA+ROO (different digits)*
 
 > Find the maximum value that the expression KAN + GA + ROO can assume when each letter is assigned a digit, so that different letters have different digits. A) 1906 B) 1897 C) 1905 D) 1895           E) 2007
 
@@ -494,8 +492,6 @@ level: kangourou
 *Max months with five Sundays*
 
 > What is the maximum number of months in a year that can have five Sundays? A) 3 B) 4 C) 5 D) 6 E) 7 Δ Δ 1 1 x 0 y B C A Test_07.qxp 16-04-2007 12:06 Page 23
-> 
-> I'm going to pay. I'm going to pay. 24 24 Kang 2007 Kang 2007 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_junior_marzo#q10|src_kangourou_2007_junior_marzo__Q10]]
@@ -527,7 +523,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars out of 12 (statements) *
+*How many liars out of 12 (statements)*
 
 > The inhabitants of an island are divided into liars (people who always lie) or truthful (people who always tell the truth). One day, 12 residents, both honest and liars, gather together and make some statements. Two of them say: "Exactly two of us 12 are liars". The other four say, "Exactly four of us 12 are liars". The remaining six say, "Exactly six of us 12 are liars". How many liars are there among those 12? A) 2                 B) 4                  C) 6                D) 8                 E) 10
 
@@ -745,7 +741,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time do I get to the gas station (consumption) *
+*What time do I get to the gas station (consumption)*
 
 > It's 9:00, and I'm driving at 100 km/h. At this speed with the gas I have left I can only run 80 kilometers, but the nearest gas station is 100 kilometers away. The amount of gasoline my car consumes is directly proportional to the speed of the car and I want to waste as little time as possible. What time do I get to the gas station? A) 22:12 B) 22:15 C) 22:20 D) 22:25           E) 22:30
 
@@ -780,7 +776,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the original triangle (trapezoid) *
+*Perimeter of the original triangle (trapezoid)*
 
 > A trapezoid is constructed from an equilateral triangle cutting off an angle (i.e. removing from it a suitable smaller triangle having a vertex in common with it). Two copies of this trapezoid are joined together to form a parallelogram whose perimeter is 10 centimeters longer than that of the original triangle. How many centimeters does the perimeter of the original triangle measure? A) 10 B) 30 C) 40 D) 60 E) The data are insufficient.
 
@@ -834,8 +830,6 @@ level: kangourou
 When the clock signs 5 more minutes
 
 > The grandmother's clock every day, compared to the correct walk,  between 0:00 and 6:00 goes forward by 15 seconds;  between 6:00 and 12:00 goes back 10 seconds;  between 12:00 and 18:00 goes forward by 15 seconds;  between 18:00 and 24:00 goes back 10 seconds. Today, 15 March, at noon, the clock marks the exact time. If grandma no longer sets the clock, what time of day will her watch mark exactly 5 minutes longer than the exact time? (A) It will never happen (B) At 12:00 on April 14. (c) At 12:00 on 15 April. D) At 12:00 on 13 April. E) At 6:00 on 13 April 4m 6m 10m Texts_07.qxp 16-04-2007 12:06 Page 25
-> 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2007 Kang 2007
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_junior_marzo#q18|src_kangourou_2007_junior_marzo__Q18]]
@@ -867,7 +861,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many games each student plays (doubles) *
+*How many games each student plays (doubles)*
 
 > Two schools challenge each other in tennis only in doubles. Each school is represented by five pupils: all possible pairs of pupils from the same school are formed and each pair from each school faces each pair of the other school once and only once. How many games does each student have to play? A) 10                B) 20                 C) 30                  D) 40                   E) 50
 
@@ -1033,7 +1027,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What letter remains (eliminating odd positions) *
+*What letter remains (eliminating odd positions)*
 
 > The sequence of letters KANGAROOKANGAROO. . .KANGAROO is constructed by typing the word KANGAROO 20 times in succession. First, remove all the letters that occupy an odd place in the sequence; then bring together the remaining letters and delete all the letters that occupy an odd place in the new sequence; repeat the procedure until there is only one letter left. What letter is that? A) K B) A C) N D) G E) O
 
@@ -1152,7 +1146,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which equality is true (triangle, hexagon, circle) *
+*Which equality is true (triangle, hexagon, circle)*
 
 ![[src_kangourou_2007_junior_marzo__prob25.png]]
 
@@ -1198,7 +1192,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*K dividers (10k squared, 6k cubic) *
+*K dividers (10k squared, 6k cubic)*
 
 > k is the smallest positive integer with this property: 10k is a perfect square and 6k is a perfect cube. How many positive divisors does the number k have ? A) 30                B) 40                C) 54                D) 72                E) 96
 
@@ -1236,7 +1230,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many necklaces were stolen (diamonds between 200 and 300) *
+*How many necklaces were stolen (diamonds between 200 and 300)*
 
 > Some diamond necklaces were stolen from a safe, all with the same number of diamonds (at least 2 per necklace). All of the diamonds that made up them are found: their total number is between 200 and 300. The investigator who investigates the theft, simply by counting the diamonds found, can trace the number of necklaces stolen with certainty. How many necklaces were stolen from the safe? A) 16 B) 17 C) 19 D) 25 E) a number different from the previous one
 
@@ -1355,7 +1349,7 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the regular tetrahedron (spindle distance) *
+*Volume of the regular tetrahedron (spindle distance)*
 
 > In a regular tetrahedron, the distance between two untouched spikes is 6 centimeters. What is the volume of the tetrahedron in cubic centimeters? A) 18 B) 36 C) 48 D) 72 E) 14 Texts_07.qxp
 > 

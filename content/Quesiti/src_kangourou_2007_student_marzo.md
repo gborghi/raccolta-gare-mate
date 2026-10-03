@@ -194,7 +194,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct divisors has 10^n *
+*How many distinct divisors has 10^n*
 
 > How many distinct divisors does 10^n have, if you also count 1 and 10^n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
 
@@ -381,7 +381,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of the cylinder (common cone/cylinder volume) *
+*Fraction of the cylinder (common cone/cylinder volume)*
 
 > A cone and a circular cylinder, both of height h and with the bases of radius r, are in such a position that the volume of the portion of the cone contained in the cylinder is exactly half the volume of the cone. What fraction of the volume of the cylinder provides the volume of the part of the cylinder contained in the cone? A) 1/2 B) 1/3 C) 1/4 D) 1/5 E) 1/6
 
@@ -530,7 +530,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x (span, whole sides) *
+*Value of x (span, whole sides)*
 
 ![[src_kangourou_2007_student_marzo__prob10.png]]
 
@@ -603,7 +603,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regional area (squares with 2 common vertices) *
+*Regional area (squares with 2 common vertices)*
 
 > Assigned to a square ABCD of side 1, all squares having at least two vertices in common with ABCD shall be considered. The area of the region of the plane formed by the points belonging to at least one of these squares is A) 5 B) 6 C) 7 D) 8 E) 9
 
@@ -637,7 +637,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between gamma and alpha angles (percent) *
+*Relation between gamma and alpha angles (percent)*
 
 > The measure of angle β is 25% less than the measure of angle γ and 50% more than the measure of angle α. We can deduce that the angle γ is A. 25% more than α B. 50% more than α C. 75% more than α D. 100% more than α E. 125% more than α
 
@@ -671,7 +671,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value x of the solution (2^x exponential equation) *
+*Value x of the solution (2^x exponential equation)*
 
 > Assigned the equation 2x +1 + 2x = 3y + 2 - 3y , where x and y are integers, the value x of the solution (x, y) is A) 0 B) 3 C) -1 D) 1 E) 2
 
@@ -789,7 +789,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greatest of 8 numbers (5 consecutive = 3 following) *
+*Greatest of 8 numbers (5 consecutive = 3 following)*
 
 > 16. Answer D . If x is the first of the integers considered we have 5 x + (1+2+3+4) = 3 x +(5+6+7) so 2x = 8 and the number required is x +7 = 11.
 
@@ -938,7 +938,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lanes swum by Marco (constant speed) *
+*Lanes swum by Marco (constant speed)*
 
 > Marco and George go to the pool; they dive together and each swims at a constant speed. At the end of the eighth pool Marco reaches George for the first time and overtakes him; if they stop swimming simultaneously, but at the two opposite ends of the pool, which of the following can be the number of lanes that Marco has swum? A) 36 B) 41 C) 30 D) 40 E) 27 Questions from N. 21 to N. 30 are worth 5 points each.
 
@@ -1068,8 +1068,6 @@ level: kangourou
 *Max ratio number of 3 digits to sum of digits*
 
 > What is the maximum value that the ratio of a three-digit number to the sum of its digits can assume? A) 97 B) 100 C) 101 D) 110 E) none of the above -1 -1 -1 -1 -1 -1 -1 -2 -2 -2 -2 -2 1 1 1 1 1 1 1 1 1 1 1 A B C D E Tests_07.qxp 16-04-2007 12:07 Page 31
-> 
-> I'm going to pay. I'm going to pay. 32 32 Kang 2007 Kang
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_student_marzo#q23|src_kangourou_2007_student_marzo__Q23]]
@@ -1207,7 +1205,7 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 100 cells above (spiral 12345) *
+*Number 100 cells above (spiral 12345)*
 
 ![[src_kangourou_2007_student_marzo__prob27.png]]
 
@@ -1291,7 +1289,7 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*100th element (sum of powers of 3) *
+*100th element (sum of powers of 3)*
 
 > The sequence 1, 3, 4, 9, 10, 12, 13, ... consists of all and only the numbers that are powers of 3 or that can be written as the sum of powers of 3 different from each other, placed in increasing order. What's the hundredth item in the succession? A) 130 B)  981 C) 1234 D) 2401 E) 3100
 

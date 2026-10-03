@@ -175,7 +175,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External perimeter of 15 discs on a regular 30-acre *
+*External perimeter of 15 discs on a regular 30-acre*
 
 > Pisolo's polygon (points 30) In a regular polygon of 30 sides, Pisolo counts all vertices from 1 to 30. It then supports 15 circular discs of equal radius to the side of the polygon with the centers on the vertices numbered with an odd number. Each disc has a circumference of 20 centimetres. What is the outer perimeter of the figure?
 
@@ -205,7 +205,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of minimum punished with number of punished divisors *
+*Number of minimum punished with number of punished divisors*
 
 > The puppy (points 30) Calls the puppy the natural numbers consisting only of digits 1. How many digits has the smallest prime number greater than 1 such that the number of its prime divisors is a prime number?
 

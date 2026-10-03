@@ -787,7 +787,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-* quinta e sesta cifre del più grande numero pandigitale con coppie consecutive non prime*
+*quinta e sesta cifre del più grande numero pandigitale con coppie consecutive non prime*
 
 > Il numero $M=124563987$ è il numero più piccolo che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Ad esempio, i 5° e 6° cifre di $M$ rendono il numero $63$ che non è primo. $N$ è il numero più grande che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Quali sono i 5° e 6° cifre di $N$?
 >
@@ -999,7 +999,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che bozza corrisponde a y = sin(arccos x) *
+*Che bozza corrisponde a y = sin(arccos x)*
 
 > Quale diagramma potrebbe essere uno schema della curva $y=\sin(\cos^{-1} x)$?
 >

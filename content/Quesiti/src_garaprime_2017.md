@@ -72,7 +72,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remains of a 2017 binary repunit divided by 16 digits *
+*Remains of a 2017 binary repunit divided by 16 digits*
 
 > Both n and the number whose binary representation is 2017 are all digits equal to 1. What is (based on 10) the remainder you get by dividing n by 16? A 15 B 1 C 3 D 7 E 12 F 0
 
@@ -477,7 +477,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the MCD figures ((4344,4368) *
+*Summary of the MCD figures ((4344,4368)*
 
 > It is either M = MCD ((4344, 4368). How much is the sum of the digits of M? A 6 B 8 C 9 D 15 E 3 F 7
 

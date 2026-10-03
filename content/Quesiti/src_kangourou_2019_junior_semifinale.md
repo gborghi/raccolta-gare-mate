@@ -37,7 +37,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression value with powers of 7 (differences in squares) *
+*Expression value with powers of 7 (differences in squares)*
 
 > What is the result of the expression ? A) 1
 > 	
@@ -616,7 +616,7 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exchanges for reds twice as white (tokens) *
+*Minimum exchanges for reds twice as white (tokens)*
 
 > (Points 6) There are two token-changers: one provides three red tokens for one white, the other five white tokens for one red. I am starting with only 4 white tokens: what is the smallest number of exchanges that allows me to get twice as many red tokens as white tokens?
 
@@ -692,7 +692,7 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum grid blackout cells 6x2019 (connected domain) *
+*Minimum grid blackout cells 6x2019 (connected domain)*
 
 > (Points 7) In a grid of square cells 6× 2019 we say that two cells are adjacent if we share one side. You want to blacken some cells so that
 > 	

@@ -465,7 +465,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n which is 11 for 144 and 220 *
+*Value of n which is 11 for 144 and 220*
 
 > If you divide the numbers 144 and 220 by the same positive integer n, in both cases you get remainder 11. What is n ? A) 7 B) 11 C) 15 D) 19 E) 38 Questions from N. 11 to N. 20 are worth 4 points each.
 
@@ -967,7 +967,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of k if 2012 = m^m (m^k - k) *
+*Value of k if 2012 = m^m (m^k - k)*
 
 > Anna found that, for an appropriate choice of positive integers m and k, we have 2012 = m^m × (m^k – k). How much is k? A) 2 B) 3 C) 4 D) 9 E) 11
 

@@ -381,7 +381,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Birthday in a year with 53 Saturdays and Sundays*
+*Birthday in a year with 53 Saturdays and Sundays*
 
 > Antonio was born in March of a year that had 53 Saturdays and 53 Sundays. What day of the week was he born?
 >
@@ -806,7 +806,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is the sum of fractions and finite *
+*Which is the sum of fractions and finite*
 
 > Consider fractions with positive numerator and denominator. Which of the following sets is finished?
 >

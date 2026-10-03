@@ -17,14 +17,15 @@ level: kangourou
 
 *Numeri 7 cifre divisibili per 4 con somma cifre 4*
 
-> Antonia e Luca si giocano a testa o croce la cifra di 8 euro, lanciando una moneta non truccata. Decidono che la cifra sarà intascata dal primo di loro che avrà avuto 6 lanci a proprio favore. Quando sono sul punteggio di 5 per Antonia e 3 per Luca, sono però costretti ad interrompere il gioco e discutono su come spartirsi gli 8 euro (che nessuno finora ha vinto). Qual è il modo equo di spartirli (cioè il modo che tiene conto della probabilità di vittoria che ognuno dei due ha al momento dell'interruzione)?
+> Numeri di sette cifre
+> Quanti sono i numeri di sette cifre divisibili per 4 e tali che la somma delle loro cifre sia 4?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0041
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -32,7 +33,8 @@ level: kangourou
 
 *7-digit numbers divisible by 4 with digit sum 4*
 
-> Antonia and Luca are playing heads or tails for the sum of 8 euros, tossing a fair coin. They decide that the sum will be pocketed by the first of them to have had 6 tosses in their favor. When they are at the score of 5 for Antonia and 3 for Luca, however, they are forced to interrupt the game and discuss how to split the 8 euros (which neither has won so far). What is the fair way to split them (that is, the way that takes into account the probability of victory that each of the two has at the moment of the interruption)?
+> Seven-digit numbers
+> How many seven-digit numbers are divisible by 4 and such that the sum of their digits is 4?
 
 **Answer:** 0041
 [[Quesiti/src_kangourou_2018_junior_finale#q01|src_kangourou_2018_junior_finale__Q01]]
@@ -75,14 +77,17 @@ level: kangourou
 
 *Massimo n con tripartizione a somma uguale*
 
-> Da un mazzo standard di 52 carte, Chiara ha scartato alcune carte, assicurandosi che nel mazzo residuo restassero tutti e quattro gli assi. Ora estrae quattro carte a caso da questo mazzo ridotto. Se la probabilità di estrarre esattamente i quattro assi è $\dfrac{1}{1001}$, quante carte ha buttato via?
+> Tripartizione
+> Fissato un intero positivo n, vogliamo ripartire i primi 3n interi positivi in tre gruppi tali che la somma
+> dei numeri di ciascun gruppo sia la stessa per i tre gruppi. Qual è il più grande intero n ≤ 2018 per cui
+> possiamo farlo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2018
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -90,7 +95,10 @@ level: kangourou
 
 *Maximum n with tripartition into equal sum*
 
-> From a standard deck of 52 cards, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. Now she draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $\dfrac{1}{1001}$, how many cards did she throw away?
+> Tripartition
+> Given a positive integer n, we want to divide the first 3n positive integers into three groups such that the sum
+> of the numbers in each group is the same for the three groups. What is the largest integer n ≤ 2018 for which
+> we can do this?
 
 **Answer:** 2018
 [[Quesiti/src_kangourou_2018_junior_finale#q03|src_kangourou_2018_junior_finale__Q03]]
@@ -104,22 +112,34 @@ level: kangourou
 
 *Massimo N con sacchi (algoritmo euclideo Fibonacci)*
 
-> In figura vedi un pentagono regolare di cui sono state tracciate quattro diagonali che individuano due regioni ombreggiate $A$ e $B$. Esprimi l'area di $B$ in dipendenza dall'area di $A$. (vedi figura)
+> Clemente perde sempre
+> Clemente ha N biglie e le distribuisce in due sacchi in modo che il numero delle biglie riposte nel
+> primo sacco e il numero di quelle riposte nel secondo siano primi fra loro. Clemente gioca a carte
+> con Stefania e, quando perde una partita, deve prelevare dal sacco che in quel momento contiene
+> più biglie (da uno dei sacchi, se contenessero lo stesso numero di biglie) il numero di biglie presenti
+> nell'altro sacco e consegnare quelle prelevate a Stefania. Dopo la 13-ma partita Clemente, che ha
+> sempre perso, si ritrova con uno dei due sacchi vuoto. Quanto può valere, al massimo, N ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0610
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N with bags (Fibonacci Euclidean Algorithm) *
+*Maximum N with bags (Fibonacci Euclidean Algorithm)*
 
-> In the figure you can see a regular pentagon of which four diagonal lines have been drawn that identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
+> Clemente always loses
+> Clemente has N marbles and distributes them into two bags so that the number of marbles placed in the
+> first bag and the number of those placed in the second are coprime. Clemente plays cards
+> with Stefania and, when he loses a game, he must take from the bag that at that moment contains
+> more marbles (from one of the bags, if they contained the same number of marbles) the number of marbles present
+> in the other bag and hand over those taken to Stefania. After the 13th game Clemente, who has
+> always lost, finds himself with one of the two bags empty. What can N be worth, at most?
 
 **Answer:** 0610
 [[Quesiti/src_kangourou_2018_junior_finale#q04|src_kangourou_2018_junior_finale__Q04]]
@@ -162,14 +182,19 @@ Show that the solution of x^5+x=10 is irrational
 
 *Massimo numero complementato non multiplo di 10*
 
-> Immagina il piano come un foglio a quadretti (tutti dello stesso lato) illimitato in ogni direzione e chiama nodo ogni vertice di ogni quadrato. Dimostra che per ogni $n$ esiste un cerchio contenente all'interno esattamente $n$ nodi.
+> Numeri complementati
+> Diciamo che un numero intero positivo è complementato se (in notazione decimale) ha almeno due
+> cifre (significative) e se coincide con il prodotto dei complementi a 10 delle sue cifre. Ad esempio,
+> 163 non è complementato mentre lo è 50, come pure lo sono tutti i numeri della forma $5\times10^k$ con
+> k > 1. Si sa che non esistono numeri complementati maggiori di 1000 e non multipli di 10. Qual è il
+> più grande numero complementato che non sia un multiplo di 10?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0315
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -177,7 +202,12 @@ Show that the solution of x^5+x=10 is irrational
 
 *Maximum complementary number not multiple of 10*
 
-> Imagine the plane as a sheet of squares (all of the same side length) boundless in every direction and call a node every vertex of every square. Prove that for every $n$ there is a circle containing exactly $n$ nodes inside.
+> Complemented numbers
+> We say that a positive integer is complemented if (in decimal notation) it has at least two
+> digits (significant) and if it coincides with the product of the 10's complements of its digits. For example,
+> 163 is not complemented whereas 50 is, as are all numbers of the form $5\times10^k$ with
+> k > 1. It is known that there are no complemented numbers greater than 1000 and not multiples of 10. What is the
+> largest complemented number that is not a multiple of 10?
 
 **Answer:** 0315
 [[Quesiti/src_kangourou_2018_junior_finale#q06|src_kangourou_2018_junior_finale__Q06]]
@@ -191,19 +221,15 @@ Show that the solution of x^5+x=10 is irrational
 
 *Prodotto dei primi due numeri somma di due quadrati*
 
-> Sommando il $25\%$ di $2018$ al $2018\%$ di $25$ quanto si ottiene?
->
-> - **(A)** $1009$
-> - **(B)** $2016$
-> - **(C)** $2018$
-> - **(D)** $3027$
-> - **(E)** $5045$
+> Quadrati perfetti
+> Siano M e N i primi due interi ciascuno dei quali si può esprimere in due modi diversi come somma
+> di due quadrati perfetti non nulli. Quanto vale M × N ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3250
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -211,13 +237,9 @@ Show that the solution of x^5+x=10 is irrational
 
 *Product of the first two numbers that are sums of two squares*
 
-> Adding the $25\%$ of $2018$ to the $2018\%$ of $25$ how much do you get?
->
-> - **(A)** $1009$
-> - **(B)** $2016$
-> - **(C)** $2018$
-> - **(D)** $3027$
-> - **(E)** $5045$
+> Perfect squares
+> Let M and N be the first two integers each of which can be expressed in two different ways as the sum
+> of two nonzero perfect squares. What is M × N?
 
 **Answer:** 3250
 [[Quesiti/src_kangourou_2018_junior_finale#q07|src_kangourou_2018_junior_finale__Q07]]
@@ -231,20 +253,18 @@ Show that the solution of x^5+x=10 is irrational
 
 *Maggiore raggio di tre cerchi tangenti a una retta*
 
-> Si può andare dal punto $A$ al punto $B$ in figura solo rispettando le direzioni e i versi indicati dalle frecce. Quanti percorsi diversi sono possibili? (vedi figura)
->
-> - **(A)** $20$
-> - **(B)** $16$
-> - **(C)** $12$
-> - **(D)** $9$
-> - **(E)** $8$
+> Tre cerchi
+> Tre cerchi hanno raggi le cui misure sono espresse da numeri interi
+> minori di 100. La misura del maggiore dei raggi è il prodotto delle
+> altre due misure. I tre cerchi sono tangenti a due a due e sono tutti
+> tangenti ad una stessa retta. Quanto misura il maggiore dei raggi?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -252,13 +272,11 @@ Show that the solution of x^5+x=10 is irrational
 
 *Largest radius of three circles tangent to a line*
 
-> You can go from $A$ to $B$ in the figure only by following the directions and senses indicated by the arrows. How many different routes are possible? (see figure)
->
-> - **(A)** $20$
-> - **(B)** $16$
-> - **(C)** $12$
-> - **(D)** $9$
-> - **(E)** $8$
+> Three circles
+> Three circles have radii whose measures are expressed by integers
+> less than 100. The measure of the largest of the radii is the product of the
+> other two measures. The three circles are tangent to each other in pairs and are all
+> tangent to the same line. What is the measure of the largest of the radii?
 
 **Answer:** 0036
 [[Quesiti/src_kangourou_2018_junior_finale#q08|src_kangourou_2018_junior_finale__Q08]]
@@ -272,19 +290,17 @@ Show that the solution of x^5+x=10 is irrational
 
 *Per quanti secondi funziona il contatore del treno*
 
-> Supponi che la terra sia una sfera perfetta e immagina di stendere un filo, della stessa lunghezza dell'equatore, in modo da coprire esattamente l'equatore. Ora allunga il filo di 10 metri e immagina che possa essere collocato attorno all'equatore in modo da avere distanza uniforme da esso, cioè in modo che tutti i punti del filo abbiano dall'equatore la stessa distanza $d$ (misurata in metri). Allora si ha:
->
-> - **(A)** $d < 0{,}001$
-> - **(B)** $0{,}001 \leq d < 0{,}01$
-> - **(C)** $0{,}01 \leq d < 0{,}1$
-> - **(D)** $0{,}1 \leq d \leq 1$
-> - **(E)** $d > 1$
+> I segnali
+> Un treno viaggia a velocità costante. Per ragioni di sicurezza, ogni 35 metri percorsi il macchinista
+> riceve un segnale in cabina. Immediatamente dopo aver ricevuto un segnale, il macchinista inserisce
+> un contatore del numero di segnali ricevuti. Per quanti secondi dovrà funzionare il contatore
+> affinché il numero di segnali ricevuti uguagli la velocità del treno espressa in chilometri all'ora?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -292,13 +308,11 @@ Show that the solution of x^5+x=10 is irrational
 
 *For how many seconds the train counter is running*
 
-> Suppose the earth is a perfect sphere and you imagine you're stretching a string, the same length as the equator, so that you cover the equator exactly. Now extend the wire by 10 meters and imagine that it can be placed around the equator so that it has a uniform distance from it, that is, so that all the points of the wire have the same distance from the equator $d$ (measured in meters). So you have:
->
-> - **(A)** $d < 0{,}001$
-> - **(B)** $0{,}001 \leq d < 0{,}01$
-> - **(C)** $0{,}01 \leq d < 0{,}1$
-> - **(D)** $0{,}1 \leq d \leq 1$
-> - **(E)** $d > 1$
+> The signals
+> A train travels at constant speed. For safety reasons, every 35 metres travelled the driver
+> receives a signal in the cab. Immediately after receiving a signal, the driver starts
+> a counter of the number of signals received. For how many seconds must the counter run
+> for the number of signals received to equal the speed of the train expressed in kilometres per hour?
 
 **Answer:** 0126
 [[Quesiti/src_kangourou_2018_junior_finale#q09|src_kangourou_2018_junior_finale__Q09]]
@@ -312,20 +326,16 @@ Show that the solution of x^5+x=10 is irrational
 
 *Massimo primo 3 cifre con cascata di somme prime*
 
-> Si lanciano due dadi regolari (facce numerate da uno a sei) non truccati. Quale tra i numeri $7$, $8$, $9$ e $10$ ha la probabilità più alta di essere la somma dei due punteggi ottenuti?
->
-> - **(A)** $7$
-> - **(B)** $8$
-> - **(C)** $9$
-> - **(D)** $10$
-> - **(E)** $7$ e $8$ hanno la stessa probabilità.
+> Il numero primo
+> Qual è il più grande numero primo di tre cifre tale che la somma delle sue cifre sia un numero primo
+> di due cifre, la somma delle cui cifre sia a sua volta un numero primo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0977
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -333,13 +343,8 @@ Show that the solution of x^5+x=10 is irrational
 
 *Maximum first 3 digits with cascade of prime sums*
 
-> Two regular dice (faces numbered from one to six) are thrown and are fair. Which of the numbers $7$, $8$, $9$ and $10$ is most likely to be the sum of the two scores obtained?
->
-> - **(A)** $7$
-> - **(B)** $8$
-> - **(C)** $9$
-> - **(D)** $10$
-> - **(E)** $7$ and $8$ have the same probability.
+> The prime number
+> What is the largest three-digit prime number such that the sum of its digits is a two-digit prime number, the sum of whose digits is in turn a prime number?
 
 **Answer:** 0977
 [[Quesiti/src_kangourou_2018_junior_finale#q10|src_kangourou_2018_junior_finale__Q10]]
@@ -353,20 +358,15 @@ Show that the solution of x^5+x=10 is irrational
 
 *Palindromo 4 cifre con 17n quadrato perfetto*
 
-> Su una stessa strada, a distanza di $250$ m una dall'altra, sorgono due residenze per studenti. Nel primo edificio abitano $100$ studenti, nel secondo $150$. Ogni mattina tutti prendono lo stesso autobus per recarsi a lezione. Dove si dovrà posizionare la fermata dell'autobus se si vuole che la somma dei percorsi fatti ogni mattina dagli studenti di entrambe le residenze per raggiungere la fermata sia la minima possibile?
->
-> - **(A)** Davanti al primo edificio.
-> - **(B)** A $100$ metri dal primo edificio (e $150$ dal secondo).
-> - **(C)** A $100$ metri dal secondo edificio (e $150$ dal primo).
-> - **(D)** Davanti al secondo edificio.
-> - **(E)** In un qualunque punto tra i due edifici.
+> Palindromi
+> C’è un solo numero palindromo n di quattro cifre tale che 17 × n sia un quadrato perfetto. Qual è?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8228
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -374,13 +374,8 @@ Show that the solution of x^5+x=10 is irrational
 
 *Four-digit palindrome with 17n perfect square*
 
-> On the same street, at a distance of $250$ m from each other, two student residences arise. The first building houses $100$ students, the second $150$. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
->
-> - **(A)** In front of the first building.
-> - **(B)** A $100$ metres from the first building (and $150$ from the second).
-> - **(C)** A $100$ metres from the second building (and $150$ from the first).
-> - **(D)** In front of the second building.
-> - **(E)** Anywhere between the two buildings.
+> Palindromes
+> There is only one four-digit palindromic number n such that 17 × n is a perfect square. What is it?
 
 **Answer:** 8228
 [[Quesiti/src_kangourou_2018_junior_finale#q11|src_kangourou_2018_junior_finale__Q11]]
@@ -394,19 +389,17 @@ Show that the solution of x^5+x=10 is irrational
 
 *Area intersezione di due cerchi l'occhio*
 
-> Immagina di avere scritto in ordine crescente ogni numero naturale $n$ esattamente $n$ volte: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$ e così via. Dal primo al $10^5$-esimo numero della lista, quanti dei numeri scritti sono divisibili per $3$?
->
-> - **(A)** $4$
-> - **(B)** $12$
-> - **(C)** $21$
-> - **(D)** $30$
-> - **(E)** $45$
+> L’occhio
+> I due cateti di un triangolo rettangolo misurano √3 e 1 metri. Si considerino i due cerchi ciascuno
+> dei quali ha come diametro uno dei cateti. Quanti decimetri quadrati misura l’area dell’intersezione
+> di questi due cerchi? Scrivete la risposta approssimata all’intero più vicino, assumendo che valgano
+> esattamente le uguaglianze √3 = 1,73 e π = 3,14.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0022
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -414,13 +407,11 @@ Show that the solution of x^5+x=10 is irrational
 
 *Area of intersection of two circles of the eye*
 
-> Imagine you've written in increasing order every natural number $n$ exactly $n$ times: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$ and so on. From the first to the $10^5$-th number of the list, how many of the written numbers are divisible by $3$?
->
-> - **(A)** $4$
-> - **(B)** $12$
-> - **(C)** $21$
-> - **(D)** $30$
-> - **(E)** $45$
+> The eye
+> The two legs of a right triangle measure √3 and 1 meters. Consider the two circles each
+> of which has one of the legs as its diameter. How many square decimeters does the area of the intersection
+> of these two circles measure? Write the answer rounded to the nearest integer, assuming that
+> the equalities √3 = 1.73 and π = 3.14 hold exactly.
 
 **Answer:** 0022
 [[Quesiti/src_kangourou_2018_junior_finale#q12|src_kangourou_2018_junior_finale__Q12]]
@@ -434,20 +425,15 @@ Show that the solution of x^5+x=10 is irrational
 
 *Valore di m^3+n^5 dato m^5+n^3=7901*
 
-> Osserva la figura: in un quadrato di lato $4$ sono state tracciate $8$ semicirconferenze tutte dello stesso raggio e alcune delle regioni racchiuse tra esse e i lati del quadrato sono state ombreggiate. Qual è l'area della parte non ombreggiata del quadrato? (vedi figura)
->
-> - **(A)** $2\pi$
-> - **(B)** $8$
-> - **(C)** $6 + \pi$
-> - **(D)** $3\pi - 2$
-> - **(E)** $12$
+> Potenze scambiate
+> Per due interi positivi m e n accade che $m^5 + n^3 = 7901$. Quanto vale $m^3 + n^5$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3341
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -455,13 +441,8 @@ Show that the solution of x^5+x=10 is irrational
 
 *Value of m^3+n^5 given m^5+n^3=7901*
 
-> Note the figure: in a square of side $4$, $8$ semicircles all of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What's the area of the unshaded part of the square? (see figure)
->
-> - **(A)** $2\pi$
-> - **(B)** $8$
-> - **(C)** $6 + \pi$
-> - **(D)** $3\pi - 2$
-> - **(E)** $12$
+> Swapped powers
+> For two positive integers m and n it happens that $m^5 + n^3 = 7901$. What is the value of $m^3 + n^5$?
 
 **Answer:** 3341
 [[Quesiti/src_kangourou_2018_junior_finale#q13|src_kangourou_2018_junior_finale__Q13]]
@@ -475,45 +456,38 @@ Show that the solution of x^5+x=10 is irrational
 
 *Minimo k per gioco infinito sui gettoni 50x50*
 
-> In un certo giorno $40$ treni hanno viaggiato tra due delle città $S$, $T$, $U$, $V$ e $Z$.
->
-> - Dieci treni hanno viaggiato o da o per $S$.
-> - Dieci treni hanno viaggiato o da o per $T$.
-> - Dieci treni hanno viaggiato o da o per $U$.
-> - Dieci treni hanno viaggiato o da o per $V$.
->
-> Quanti treni hanno viaggiato o da o per $Z$?
->
-> - **(A)** $0$
-> - **(B)** $10$
-> - **(C)** $20$
-> - **(D)** $30$
-> - **(E)** $40$
+> I gettoni
+> In una griglia quadrata 50 × 50 le celle sono quadrati tutti uguali fra loro; due celle si dicono
+> adiacenti se condividono un lato. Su ogni cella vengono depositati alcuni gettoni, eventualmente
+> nessuno, e il numero complessivo dei gettoni presenti sulla griglia è k. Si fa il seguente gioco:
+> ad ogni mossa si parte da una cella, se esiste, che contenga un numero di gettoni non inferiore al
+> numero di celle adiacenti e da questa cella si trasferisce un gettone in ognuna delle celle adiacenti. Il
+> gioco termina se non esistono più celle dalle quali partire. Qual è il minimo valore di k che permette
+> di continuare indefinitamente il gioco, qualunque sia la configurazione iniziale e qualunque sia, ad
+> ogni mossa, la scelta della cella ammissibile a cui sottrarre i gettoni?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7301
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k for infinite play on 50x50 tokens *
+*Minimum k for infinite play on 50x50 tokens*
 
-> On a certain day $40$ trains travelled between two of the cities $S$, $T$, $U$, $V$ and $Z$.
->
-> - Ten trains travelled either from or to$S$. - Ten trains travelled either to or from$T$. - Ten trains travelled either to or from$U$. - Ten trains travelled either from or to$V$.
->
-> How many trains have traveled either to or from $Z$?
->
-> - **(A)** $0$
-> - **(B)** $10$
-> - **(C)** $20$
-> - **(D)** $30$
-> - **(E)** $40$
+> The tokens
+> In a 50 × 50 square grid the cells are all equal squares; two cells are said to be
+> adjacent if they share a side. On each cell some tokens are placed, possibly
+> none, and the total number of tokens present on the grid is k. The following game is played:
+> at each move one starts from a cell, if one exists, that contains a number of tokens not less than the
+> number of adjacent cells, and from this cell one token is transferred to each of the adjacent cells. The
+> game ends if there are no more cells from which to start. What is the minimum value of k that allows
+> the game to continue indefinitely, whatever the initial configuration and whatever, at
+> each move, the choice of the admissible cell from which to subtract the tokens?
 
 **Answer:** 7301
 [[Quesiti/src_kangourou_2018_junior_finale#q14|src_kangourou_2018_junior_finale__Q14]]
@@ -527,20 +501,15 @@ Show that the solution of x^5+x=10 is irrational
 
 *Coppie intere con 2|x|+3|y|<23*
 
-> Presso un centro di formazione si possono studiare le lingue straniere, la programmazione e la contabilità. Il $35\%$ di chi studia una lingua studia inglese; il $13\%$ degli studenti del centro studia una lingua diversa dall'inglese. Nessuno studente studia più di una lingua. Quale percentuale degli studenti del centro studia una lingua?
->
-> - **(A)** $13\%$
-> - **(B)** $20\%$
-> - **(C)** $22\%$
-> - **(D)** $48\%$
-> - **(E)** $65\%$
+> Coppie di interi
+> Per quante coppie (ordinate) di numeri interi (x,y) si ha 2|x| + 3|y| < 23 ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0169
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -548,13 +517,8 @@ Show that the solution of x^5+x=10 is irrational
 
 *Integer pairs with 2|x|+3|y|<23*
 
-> At a training center one can study foreign languages, programming and accounting. $35\%$ of those who study a language study English; $13\%$ of the center's students study a language other than English. No student studies more than one language. What percentage of the center's students study a language?
->
-> - **(A)** $13\%$
-> - **(B)** $20\%$
-> - **(C)** $22\%$
-> - **(D)** $48\%$
-> - **(E)** $65\%$
+> Pairs of integers
+> For how many (ordered) pairs of integers (x,y) is 2|x| + 3|y| < 23 ?
 
 **Answer:** 0169
 [[Quesiti/src_kangourou_2018_junior_finale#q15|src_kangourou_2018_junior_finale__Q15]]

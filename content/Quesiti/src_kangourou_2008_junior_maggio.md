@@ -31,7 +31,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits in the sum of 9+99+...+999..9 (2008) *
+*How many digits in the sum of 9+99+...+999..9 (2008)*
 
 > Consider the following sum of 2008 addends $$9 + 99 + 999 + \cdots + \underbrace{99\cdots9}_{2008}$$ of which the first is the single digit 9, the second is the digit 9 written twice, the third is the digit 9 written three times and so on until the 2008th and last addend, which is the digit 9 written 2008 times. How many digits does the resulting number have?
 

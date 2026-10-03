@@ -187,7 +187,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori dell'espressione del prodotto simmetrico dati rapporti uguali *
+*Ricerca tutti i valori dell'espressione del prodotto simmetrico dati rapporti uguali*
 
 > Lasciate che $x, y, z$ siano tre numeri reali non zero (non necessariamente positivi) in modo tale che $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$ Trova tutti i valori che il numero $$\frac{(x+y)(y+z)(z+x)}{xyz}$$ può prendere.
 
@@ -335,7 +335,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore n positivo reale blu/verde/rosso in modo che la somma di ciascun colore sia inferiore alla somma degli altri (lycee) *
+*Colore n positivo reale blu/verde/rosso in modo che la somma di ciascun colore sia inferiore alla somma degli altri (lycee)*
 
 > Baptiste scrive $n$ numeri reali rigorosamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ogni dato colore sia strettamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
 > 
@@ -461,7 +461,7 @@ level: Coupe Animath Printemps
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più grande c in modo che la somma di 1/z_i < c garantisca che Theo possa dare a ogni studente un regalo *
+*Trova il più grande c in modo che la somma di 1/z_i < c garantisca che Theo possa dare a ogni studente un regalo*
 
 > Nel campo di Animath ci sono $n$ studenti, numerati da $1$ a $n$, dove $n \ge 2$ è un numero naturale. Théo ha infiniti doni diversi, ognuno esistente in una sola copia. Inoltre, al numero di studenti $i$ piace un numero finito $z_i > 0$ dei regali proposti da Théo.
 > 

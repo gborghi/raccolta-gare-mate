@@ -98,13 +98,11 @@ level: kangourou
 
 *Minuti per riempire il primo recipiente di amebe*
 
-> In questo diagramma ogni quadrato contiene un numero intero diverso da tutti quelli contenuti negli altri, ma in quattro quadrati il numero è invisibile. Le frecce presenti tra due quadrati sono dirette dal quadrato contenente il numero più grande a quello contenente il più piccolo. Qual è la somma dei numeri invisibili?
->
-> - **(A)** 30
-> - **(B)** 28
-> - **(C)** 22
-> - **(D)** 16
-> - **(E)** 14 (vedi figura)
+> Le amebe sono protozoi che si riproducono in tre minuti, cioè ogni 3 minuti ogni
+> ameba ne genera un’altra identica. Nessuna ameba muore finché ha spazio per riprodursi. Due
+> recipienti di uguale capacità contengono inizialmente il primo un’ameba, il secondo 8 amebe. Il
+> secondo recipiente si trova pieno di amebe dopo esattamente 3 ore. Quanti minuti impiega a
+> riempirsi il primo recipiente?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
@@ -118,13 +116,11 @@ level: kangourou
 
 *Minutes to fill the first container of amoeba*
 
-> In this diagram, each square contains an integer different from all the others, but in four squares the number is invisible. The arrows between two squares are directed from the square containing the largest number to the square containing the smallest number. What's the sum of the invisible numbers?
->
-> - **(A)** 30
-> - **(B)** 28
-> - **(C)** 22
-> - **(D)** 16
-> - **(E)** 14 (see figure)
+> Amoebas are protozoa that reproduce in three minutes, that is, every 3 minutes each
+> amoeba generates another identical one. No amoeba dies as long as it has space to reproduce. Two
+> containers of equal capacity initially contain, the first one amoeba, the second 8 amoebas. The
+> second container is found full of amoebas after exactly 3 hours. How many minutes does it take to
+> fill the first container?
 
 **Answer:** 189
 [[Quesiti/src_kangourou_2021_ecolier_finale#q03|src_kangourou_2021_ecolier_finale__Q03]]
@@ -138,13 +134,9 @@ level: kangourou
 
 *Correggere 25x2=211 con +1/-1 sulle cifre*
 
-> Quanti numeri diversi di quattro cifre si possono ottenere da $337337$ cancellandone due cifre?
->
-> - **(A)** 6
-> - **(B)** 7
-> - **(C)** 8
-> - **(D)** 9
-> - **(E)** 10
+> L’uguaglianza 25 × 2 = 211 è falsa, ma la puoi trasformare in un’uguaglianza
+> corretta aggiungendo 1 ad alcune sue cifre e togliendo 1 alle altre. Scrivi questa nuova uguaglianza
+> corretta, motivando.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
@@ -159,13 +151,9 @@ level: kangourou
 
 *Correct 25x2=211 with +1/-1 on the digits*
 
-> How many different four-digit numbers can be obtained from $337337$ by deleting two digits?
->
-> - **(A)** 6
-> - **(B)** 7
-> - **(C)** 8
-> - **(D)** 9
-> - **(E)** 10
+> The equality 25 × 2 = 211 is false, but you can turn it into a correct
+> equality by adding 1 to some of its digits and subtracting 1 from the others. Write this new correct
+> equality, giving reasons.
 
 **Answer:** 34x3=102
 [[Quesiti/src_kangourou_2021_ecolier_finale#q04|src_kangourou_2021_ecolier_finale__Q04]]
@@ -179,13 +167,8 @@ level: kangourou
 
 *Zeri finali del prodotto dei pari tra 1 e 101*
 
-> Utilizzando ciascuna delle cifre 1, 2, 3, 4, ognuna una e una sola volta, si possono costruire 24 numeri diversi (tutti di 4 cifre). Se si mettono in ordine questi 24 numeri dal più piccolo al più grande (e quindi il più piccolo è in posizione 1, il più grande in posizione 24) in quale posizione si trova il numero $3142$?
->
-> - **(A)** 12
-> - **(B)** 13
-> - **(C)** 14
-> - **(D)** 16
-> - **(E)** 17
+> Immagina di avere moltiplicato fra loro tutti i numeri interi pari compresi fra 1
+> e 101. Con quante cifre 0 termina il prodotto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
@@ -200,13 +183,8 @@ level: kangourou
 
 *Final zeros of the product of even numbers between 1 and 101*
 
-> Using each of the digits 1, 2, 3, 4, each one and only once, you can construct 24 different numbers (all of 4 digits). If you put these 24 numbers in order from smallest to largest (and so the smallest is in position 1, the largest is in position 24) in which position is the number $3142$?
->
-> - **(A)** 12
-> - **(B)** 13
-> - **(C)** 14
-> - **(D)** 16
-> - **(E)** 17
+> Imagine you have multiplied together all the even integers between 1
+> and 101. With how many digits 0 does the product end?
 
 **Answer:** 12
 [[Quesiti/src_kangourou_2021_ecolier_finale#q05|src_kangourou_2021_ecolier_finale__Q05]]
@@ -309,7 +287,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pallets (two red and green numbers) *
+*How many pallets (two red and green numbers)*
 
 > You have to add up some of the eight natural numbers from 1 to 8 so that you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same addends in a different order should not be considered as a different way).
 >
@@ -490,7 +468,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Packs of 5 biscuits per 100 biscuits with minimum number *
+*Packs of 5 biscuits per 100 biscuits with minimum number*
 
 > Edward, Susanna and Teresa are playing cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
 
@@ -576,7 +554,7 @@ How old is Anna (50 years 50 months ...)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many centenarian pairs of two-digit numbers *
+*How many centenarian pairs of two-digit numbers*
 
 > Returning from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a flashlight is needed for crossing, but they only have one that can fit two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together, they do it at the slowest speed?
 

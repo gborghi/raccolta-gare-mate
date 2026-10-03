@@ -173,7 +173,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri integri m in [1,5000] con pavimento(sqrt(m))=pavimento(sqrt(m+125)) *
+*Contare i numeri integri m in [1,5000] con pavimento(sqrt(m))=pavimento(sqrt(m+125))*
 
 > Quanti integri $m$ soddisfano entrambe le seguenti proprietà: i) $1 \le m \le 5000$; ii) $[\sqrt{m}] = [\sqrt{m+125}]$?
 > 

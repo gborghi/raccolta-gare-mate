@@ -168,7 +168,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining two thirds speed by average 21 (impossible) *
+*Remaining two thirds speed by average 21 (impossible)*
 
 > Gianni the cyclist Gianni has to make a certain bike ride. Until now, he has covered a third of it at an average speed of 7 km/h. What must be his average speed in the remaining two thirds if he wants his average speed along the entire route to be 21 km/h? (Write [9999] if you think it's impossible for him to get what he wants.)
 

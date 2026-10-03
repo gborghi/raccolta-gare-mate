@@ -160,7 +160,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Location of points within distance 3 (modified metric) *
+*Location of points within distance 3 (modified metric)*
 
 > In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the x-axis. In formulas, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than 3 from the $(2, 1)$ point?
 

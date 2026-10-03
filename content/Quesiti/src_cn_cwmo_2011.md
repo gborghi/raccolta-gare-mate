@@ -184,7 +184,7 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie di numeri interi (a,b) con n. a^n + b^(n+1) per tutti n *
+*Trova tutte le coppie di numeri interi (a,b) con n. a^n + b^(n+1) per tutti n*
 
 > Determinare, con la prova, tutte le coppie $(a, b)$ di enti interi, in modo tale che per qualsiasi numero intero positivo $n$ si abbia $n \mid (a^n + b^{n+1})$. (Possibile da Chen Yonggao)
 

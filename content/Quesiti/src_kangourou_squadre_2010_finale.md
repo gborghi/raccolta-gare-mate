@@ -17,21 +17,17 @@ level: squadre
 
 *Distanza casa-scuola da due velocita e ritardi*
 
-> Hai una discreta mira? 
-> Come nel quesito “Hai una buona mira?” della semifinale, hai 11 palline: 6 colorate di rosso, 
-> indistinguibili fra loro, e 5 colorate di verde, indistinguibili fra loro. Ora sono due le scatole aperte, 
-> una bianca e una nera, nelle quali tenti di lanciare le palline: alcune (eventualmente nessuna) 
-> entreranno in una scatola, altre (eventualmente nessuna) nell’altra, altre (eventualmente nessuna) 
-> finiranno fuori. Quanti sono i possibili diversi esiti ? (Ad esempio: un esito è “3 palline verdi e 2 
-> rosse nella scatola bianca, nessuna verde e 2 rosse nella scatola nera, le altre fuori”, un esito diverso 
-> è “3 palline verdi e 2 rosse nella scatola nera, nessuna verde e 2 rosse nella scatola bianca, le altre 
-> fuori”.)
+> Da casa a scuola
+> Da casa mia a scuola vado sempre a piedi, partendo sempre alla stessa ora. Se cammino alla
+> velocità di 4 Km/h, arrivo con un ritardo di 5 minuti sull’inizio delle lezioni, se invece cammino
+> alla velocità di 5 Km/h, arrivo 10 minuti prima dell’inizio delle lezioni. Quanti metri dista la scuola
+> dalla mia casa?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5000
-**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -39,7 +35,11 @@ level: squadre
 
 *Home-school distance from two speed and delay*
 
-> Do you have a decent target? How about the question  Have you a good goal? of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, in which attempts to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes ? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
+> From home to school
+> From my house to school I always walk, always leaving at the same time. If I walk at the
+> speed of 4 Km/h, I arrive 5 minutes late for the start of lessons, whereas if I walk
+> at the speed of 5 Km/h, I arrive 10 minutes before the start of lessons. How many meters is the school
+> from my house?
 
 **Answer:** 5000
 [[Quesiti/src_kangourou_squadre_2010_finale#q01|src_kangourou_squadre_2010_finale__Q01]]
@@ -89,20 +89,17 @@ level: squadre
 
 *Anni con prime due cifre multiplo delle ultime due*
 
-> Marco sta ancora scrivendo?  
-> Marco ha iniziato a scrivere la sequenza di numeri 
-> 7, 36, 65, 94, … 
-> dove ognuno, dal secondo in poi, è il precedente aumentato di 29. Marco intende fermarsi non 
-> appena avrà scritto un numero le cui cifre siano tutte uguali a nove. Riuscirà Marco a fermarsi e, in 
-> caso affermativo, quanti numeri avrà scritto quando si sarà fermato? (Scrivete 0000 se non riuscirà 
-> a fermarsi.)
+> Questo è un anno particolare
+> L’anno 2010 ha la curiosa peculiarità che il numero formato dalle sue prime due cifre è un multiplo
+> di quello formato dalle ultime due. La stessa cosa succede ad esempio per l’anno 2404. Quanti dei
+> prossimi 400 anni, cioè degli anni dal 2011 al 2410 inclusi, avranno questa proprietà?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0017
-**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -110,7 +107,10 @@ level: squadre
 
 *Years with the first two digits multiple of the last two*
 
-> Is Marco still writing? Marco started writing the sequence of numbers 7, 36, 65, 94, ... where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Marco be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+> This is a particular year
+> The year 2010 has the curious peculiarity that the number formed by its first two digits is a multiple
+> of the one formed by the last two. The same thing happens for example for the year 2404. How many of the
+> next 400 years, that is, of the years from 2011 to 2410 inclusive, will have this property?
 
 **Answer:** 0017
 [[Quesiti/src_kangourou_squadre_2010_finale#q03|src_kangourou_squadre_2010_finale__Q03]]
@@ -124,24 +124,18 @@ level: squadre
 
 *Numero di cammini a zig-zag su caselle bianche*
 
-> Un torneo ambito 
-> Lo scorso anno ad un torneo di tennis ad eliminazione diretta hanno partecipato 32 giocatori. Nella 
-> prima fase ogni giocatore ne ha affrontato un altro (sono state giocate in totale 16 partite) e il 
-> perdente è stato eliminato. Nella seconda fase ognuno dei 16 vincenti ne ha affrontato un altro (sono 
-> state giocate in totale 8 partite) e il perdente è stato eliminato. Così si è proceduto fino alla quinta 
-> fase (la finale). Tutti gli accoppiamenti (tranne ovviamente l’ultimo) sono avvenuti per sorteggio. 
-> Quest’anno le richieste di partecipazione, tutte accolte, sono state molte di più: guarda caso proprio 
-> 2009. Il comitato organizzatore ha deciso di sorteggiare alcuni giocatori, il minor numero possibile, 
-> da ammettere direttamente alla seconda fase e rendere quindi attuabile a partire dalla seconda fase il 
-> meccanismo illustrato sopra (numero dei giocatori dimezzabile ad ogni fase). Quante partite sono 
-> state giocate complessivamente quest’anno in quel torneo?
+> La scacchiera
+> In una ordinaria scacchiera 8 × 8 (32 caselle bianche e 32 caselle nere alternate in orizzontale e in
+> verticale), chiamiamo “cammino a zig-zag” un insieme di 8 caselle bianche, una per ogni riga, tali
+> che, per ogni riga dalla seconda all’ottava, la casella che sta in tale riga abbia in comune un vertice
+> con quella che sta nella riga precedente. Quanti diversi cammini a zig-zag si possono trovare?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0296
-**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -149,7 +143,11 @@ level: squadre
 
 *Number of zigzag paths on white boxes*
 
-> Last year, 32 players participated in a direct knockout tennis tournament. In the first stage each player faced another (there were 16 matches played in total) and the loser was eliminated. In the second stage each of the 16 winners faced another (there were a total of 8 matches played) and the loser was eliminated. So it went on until the fifth stage (the final). All matches (except, of course, the last one) were drawn. This year, there were many more requests for participation, all of which were accepted: coincidentally, exactly 2009. The organising committee decided to draw a number of players, as few as possible, to be admitted directly to the second stage and to make the mechanism described above (number of players halved at each stage) applicable from the second stage. How many games were played in total this year in that tournament?
+> The chessboard
+> On an ordinary 8 × 8 chessboard (32 white squares and 32 black squares alternating horizontally and
+> vertically), we call a “zig-zag path” a set of 8 white squares, one for each row, such
+> that, for every row from the second to the eighth, the square in that row shares a vertex
+> with the one in the previous row. How many different zig-zag paths can be found?
 
 **Answer:** 0296
 [[Quesiti/src_kangourou_squadre_2010_finale#q04|src_kangourou_squadre_2010_finale__Q04]]
@@ -163,20 +161,17 @@ level: squadre
 
 *Somma numeri sulle facce del cubo dato 70 sui vertici*
 
-> I sottoinsiemi speciali   
-> Considerate l’insieme {1, 2, … , 151} dei primi 151 interi maggiori di zero. Tra tutti i suoi 
-> sottoinsiemi, volete sceglierne alcuni in modo che l’intersezione fra due qualunque di quelli che 
-> avete scelto sia costituita o da un numero solo o da una sequenza di numeri consecutivi (condizione 
-> soddisfatta, ad esempio, da entrambe le coppie di sottoinsiemi ({1, 2}, {2, 3}) e ({1, 2, 3}, {2, 3, 
-> 4}), ma non dalle coppie ({1, 2}, {3, 4}) o ({1, 2, 4}, {2, 3, 4})). Quanti sottoinsiemi potete 
-> scegliere al massimo?
+> Facce e vertici
+> Su ogni faccia di un cubo abbiamo scritto un numero intero strettamente positivo. Su ogni vertice
+> abbiamo scritto il prodotto dei 3 numeri scritti sulle facce che concorrono in quel vertice. La somma
+> dei numeri scritti nei vertici è 70. Qual è la somma dei numeri scritti sulle facce?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0014
-**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -184,13 +179,10 @@ level: squadre
 
 *Sum of numbers on the faces of the cube given 70 on the vertices*
 
-> The special subsets
-> Consider the set {1, 2, … , 151} of the first 151 integers greater than zero. Among all its
-> subsets, you want to choose some so that the intersection between any two of those you
-> have chosen consists of either a single number or a sequence of consecutive numbers (a condition
-> satisfied, for example, by both pairs of subsets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3,
-> 4}), but not by the pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many subsets can you
-> choose at most?
+> Faces and vertices
+> On each face of a cube we wrote a strictly positive integer. On each vertex
+> we wrote the product of the 3 numbers written on the faces that meet at that vertex. The sum
+> of the numbers written at the vertices is 70. What is the sum of the numbers written on the faces?
 
 **Answer:** 0014
 [[Quesiti/src_kangourou_squadre_2010_finale#q05|src_kangourou_squadre_2010_finale__Q05]]
@@ -206,27 +198,35 @@ level: squadre
 
 ![[src_kangourou_squadre_2010_finale__prob6.png]]
 
-> Trova la frazione 
-> Il numeratore e il denominatore di una frazione sono entrambi numeri interi maggiori di zero e la 
-> loro somma non supera 103; il valore della frazione è il più alto possibile compatibilmente con il 
-> fatto di essere strettamente minore di 1/3. 
-> Scrivete nell’ordine prima il numeratore e poi il denominatore della frazione.
+> Il cubottaedro
+> Abbiamo un cubo di 6 centimetri di lato. Fissato un vertice, consideriamo il piano che passa per i
+> punti di mezzo di ciascuno dei tre spigoli che vi concorrono: questo piano seziona il cubo in due
+> solidi, di cui uno è una piramide con vertice nello spigolo in questione. Per ogni
+> vertice del cubo, eliminiamo la piramide ottenuta in questo modo: rimane un
+> solido convesso con facce che sono quadrati o triangoli (detto cubottaedro).
+> Quanti centimetri cubi misura il suo volume?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0180
-**Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the side cube 6 *
+*Volume of the side cube 6*
 
 ![[src_kangourou_squadre_2010_finale__prob6.png]]
 
-> Find the fraction The numerator and denominator of a fraction are both integers greater than zero and their sum does not exceed 103; the value of the fraction is as high as possible compatible with the fact that it is strictly less than 1/3. Write in the order first the numerator and then the denominator of the fraction.
+> The cuboctahedron
+> We have a cube with a side of 6 centimeters. Having fixed a vertex, we consider the plane that passes through the
+> midpoints of each of the three edges that meet there: this plane cuts the cube into two
+> solids, one of which is a pyramid with its vertex at the edge in question. For every
+> vertex of the cube, we remove the pyramid obtained in this way: what remains is a
+> convex solid with faces that are squares or triangles (called a cuboctahedron).
+> How many cubic centimeters does its volume measure?
 
 **Answer:** 0180
 [[Quesiti/src_kangourou_squadre_2010_finale#q06|src_kangourou_squadre_2010_finale__Q06]]
@@ -240,19 +240,21 @@ level: squadre
 
 *Ora di riaccensione contemporanea di tre lampadine*
 
-> I mezzi di trasporto 
-> In una strana nazione vi sono 13 città che possono essere collegate tra loro da uno o più dei seguenti 
-> mezzi di trasporto: autobus, treno, aereo. Il presidente, il vice-presidente e il primo ministro devono 
-> poter visitare ogni città, ma ciascuno dei tre si rifiuta di usare uno dei tre mezzi: il presidente  
-> l’autobus, il vice-presidente il treno e il primo ministro l’aereo. Qual è il più piccolo numero di 
-> collegamenti fra le varie città che occorre predisporre per soddisfare tutte le esigenze?
+> Tre lampadine
+> Tre lampadine intermittenti si accendono una ogni due minuti, un’altra ogni due minuti e mezzo e la
+> terza ogni tre minuti. Ognuna delle tre, quando si accende, rimane accesa per un minuto e mezzo.
+> Nell’istante in cui il mio orologio digitale, che segna i minuti ma non i secondi, passa ad indicare le
+> 10:38, le tre lampadine si spengono contemporaneamente. Che ora segnerà il mio orologio quando
+> si riaccenderanno tutte e tre insieme per la prima volta ?
+> N.B. L’espressione “si accendono ogni x minuti” significa “tra un’accensione e la successiva
+> riaccensione passano x minuti”. (Per indicare, per esempio, le 10:38, scrivete 1038.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1106
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -260,7 +262,14 @@ level: squadre
 
 *Time of simultaneous re-ignition of three lamps*
 
-> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, plane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President the bus, the Vice-President the train and the Prime Minister the plane. What is the smallest number of city-to-city connections to meet all needs?
+> Three light bulbs
+> Three blinking light bulbs turn on, one every two minutes, another every two and a half minutes and the
+> third every three minutes. Each of the three, when it turns on, stays on for a minute and a half.
+> At the instant in which my digital clock, which shows the minutes but not the seconds, changes to show
+> 10:38, the three light bulbs turn off simultaneously. What time will my clock show when
+> they all turn on again together for the first time?
+> N.B. The expression “they turn on every x minutes” means “between one turning on and the next
+> turning on again x minutes pass”. (To indicate, for example, 10:38, write 1038.)
 
 **Answer:** 1106
 [[Quesiti/src_kangourou_squadre_2010_finale#q07|src_kangourou_squadre_2010_finale__Q07]]
@@ -292,7 +301,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the sum of pairs (telescopic) *
+*Result of the sum of pairs (telescopic)*
 
 > The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
 
@@ -308,17 +317,18 @@ level: squadre
 
 *Anno della predizione su cifra unita eta e m^m*
 
-> Numeri dispettosi 
-> Diciamo che un numero intero positivo è “dispettoso” se diviso per 6 dà resto 5 e diviso per 8 dà 
-> resto 7. Trovate i primi due numeri dispettosi e scriveteli nell’ordine (per esempio, se fossero 65 e 
-> 86 dovreste scrivere 6586).
+> La principessa Cunegonda
+> La principessa Cunegonda è nata il primo gennaio del 1992. Una fata, che passava per caso vicino
+> alla culla in cui giaceva Cunegonda appena nata, fece la seguente predizione: “Nel primo anno m in
+> cui la cifra delle unità dell’età di Cunegonda sarà uguale alla cifra delle unità di $m^m$, a Cunegonda
+> accadrà qualcosa di meraviglioso”. La predizione si è poi avverata. In che anno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2008
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -326,10 +336,11 @@ level: squadre
 
 *Year of prediction on units digit age and m^m*
 
-> Pesky numbers
-> We say that a positive integer is "pesky" if divided by 6 it gives remainder 5 and divided by 8 it gives
-> remainder 7. Find the first two pesky numbers and write them in order (for example, if they were 65 and
-> 86 you should write 6586).
+> Princess Cunegonda
+> Princess Cunegonda was born on the first of January 1992. A fairy, who happened to pass by
+> the cradle in which Cunegonda, just born, lay, made the following prediction: “In the first year m in
+> which the units digit of Cunegonda's age will be equal to the units digit of $m^m$, to Cunegonda
+> something wonderful will happen”. The prediction later came true. In what year?
 
 **Answer:** 2008
 [[Quesiti/src_kangourou_squadre_2010_finale#q09|src_kangourou_squadre_2010_finale__Q09]]
@@ -343,23 +354,19 @@ level: squadre
 
 *Minimo lettere alfabeto per identificare 1 milione*
 
-> Quante pretese!   
-> Stai cercando tutti i numeri interi positivi di quattro cifre ciascuno dei quali goda di tutte le seguenti 
-> proprietà: 
-> - le cifre che lo compongono devono essere tutte diverse fra loro; 
-> - deve essere un multiplo di 5;  
-> - se si sopprime la cifra delle migliaia, il numero di tre cifre che resta deve essere un multiplo di 9;   
-> - se si sopprime la cifra delle centinaia, il numero di tre cifre che resta deve essere un multiplo di   
->   11;  
-> - se si sopprime la cifra delle decine, il numero di tre cifre che resta deve essere un multiplo di 7. 
-> Trova la loro somma.
+> Un alfabeto con molte lettere
+> Uno strano paese ha esattamente un milione di abitanti che parlano una lingua con un alfabeto
+> molto ricco. Ogni abitante di quel paese possiede un cognome, un nome e un soprannome le cui tre
+> lettere iniziali sono diverse fra loro. Sapete che è possibile identificare ognuno degli abitanti usando
+> solo le lettere iniziali, nell’ordine, del cognome, del nome e del soprannome. Quante devono essere
+> al minimo le lettere dell’alfabeto usato in quel paese?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0102
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -367,7 +374,12 @@ level: squadre
 
 *Minimum letters of the alphabet to identify 1 million*
 
-> What demands! You're looking for all positive integers of four digits each of which has all of the following properties: - the digits that make it up must all be different from each other; - it must be a multiple of 5; - if you remove the thousands digit, the number of three digits left must be a multiple of 9; - if you remove the hundreds digit, the number of three digits left must be a multiple of 11; - if you remove the tens digit, the number of three digits left must be a multiple of 7. Find their sum.
+> An alphabet with many letters
+> A strange country has exactly one million inhabitants who speak a language with a very
+> rich alphabet. Each inhabitant of that country has a surname, a first name and a nickname whose three
+> initial letters are different from each other. You know that it is possible to identify each of the inhabitants using
+> only the initial letters, in order, of the surname, first name and nickname. How many must
+> the letters of the alphabet used in that country be at minimum?
 
 **Answer:** 0102
 [[Quesiti/src_kangourou_squadre_2010_finale#q10|src_kangourou_squadre_2010_finale__Q10]]
@@ -381,24 +393,18 @@ level: squadre
 
 *Primo esagono con spessore > 130*
 
-> Le porte 
-> In un lunghissimo corridoio ci sono 1.000 porte numerate da 1 a 1.000 che inizialmente sono 
-> chiuse. All’inizio del corridoio ci sono 1.000 persone, numerate da 0 a 999, che agiscono come 
-> segue. La persona 0 percorre il corridoio dall’inizio e modifica lo stato di tutte le porte (dunque le 
-> apre tutte). Dopo di lei, la persona 1 percorre il corridoio dall’inizio: salta una porta (la prima) e 
-> modifica lo stato della seconda (in questo caso la chiude), quindi salta la terza e modifica lo stato 
-> della quarta e così via. Dopo di lei, la persona 2 percorre il corridoio dall’inizio saltando 
-> ordinatamente 2 porte su 3 (cioè la prima e la seconda, la quarta e la quinta e così via) e cambia lo 
-> stato delle porte che non salta. Si procede in questo modo: la persona n per corre il corridoio 
-> dall’inizio saltando ordinatamente n porte su n + 1 e cambiando lo stato di quelle che non salta (cioè 
-> aprendo quelle che trova chiuse e chiudendo quelle che trova aperte). Quando anche la millesima 
-> persona avrà compiuto il proprio percorso, quante saranno le porte rimaste aperte?
+> Lo spessore dell’esagono
+> Chiamiamo “spessore di un esagono regolare” lo spessore della corona circolare delimitata dalla
+> circonferenza ad esso circoscritta e da quella ad esso inscritta (cioè la differenza fra il maggiore e il
+> minore dei due raggi). Immaginiamo ora una sequenza di esagoni regolari, il primo di lato 1, il
+> secondo di lato 2, il terzo di lato 3 e così via. Che posto occupa nella sequenza il primo di questi
+> esagoni il cui spessore supera 130?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-**Risposta:** 0451
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Risposta:** 0971
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -406,9 +412,14 @@ level: squadre
 
 *First hexagon with thickness > 130*
 
-> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that he does not skip. This is how it is done: the person n runs the corridor from the beginning by skipping orderly n doors out of n + 1 and changing the state of those that he does not skip (i.e. opening those that he finds closed and closing those that he finds open). When even the thousandth person has completed his journey, how many doors will remain open?
+> The thickness of the hexagon
+> Let us call “thickness of a regular hexagon” the thickness of the circular ring bounded by the
+> circumference circumscribed about it and by the one inscribed in it (that is, the difference between the greater and the
+> lesser of the two radii). Let us now imagine a sequence of regular hexagons, the first with side 1, the
+> second with side 2, the third with side 3, and so on. What position does the first of these
+> hexagons whose thickness exceeds 130 occupy in the sequence?
 
-**Answer:** 0451
+**Answer:** 0971
 [[Quesiti/src_kangourou_squadre_2010_finale#q11|src_kangourou_squadre_2010_finale__Q11]]
 
 
@@ -420,21 +431,18 @@ level: squadre
 
 *Somma elementi coppie con somma interni 1999*
 
-> La griglia    
-> In ogni cella della griglia 3 × 4 in figura vuoi sistemare un numero intero 
-> positivo rispettando tutte le seguenti regole: 
-> - i numeri devono essere tutti diversi fra loro; 
-> - in ogni riga ogni numero dal secondo (da sinistra) in poi è un multiplo del 
-> precedente; 
-> - in ogni colonna ogni numero dal secondo (dall’alto) in poi è un multiplo del precedente. 
-> Qual è il più piccolo numero che può comparire nella cella indicata con A?
+> Coppie di numeri
+> Trovate tutte le coppie {a,b} di numeri interi positivi, con a < b, tali che la somma di tutti i numeri
+> interi strettamente compresi tra a e b (cioè contemporaneamente maggiori di a e minori di b) sia
+> 1999. Scrivete la somma degli elementi di tutte queste coppie (ad esempio, se le coppie fossero
+> {a,b}, {c,d}, {e,f} dovreste scrivere il numero a + b + c + d + e + f ).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5997
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -442,7 +450,11 @@ level: squadre
 
 *sum of pairs with internal sum 1999*
 
-> The grid In each cell of the grid 3 × 4 in the figure you want to arrange a positive integer by following all the following rules: - the numbers must all be different from each other; - in each row each number from second (left) forward is a multiple of the previous one; - in each column each number from second (from top) forward is a multiple of the previous one. What is the smallest number that can appear in the cell marked with A?
+> Pairs of numbers
+> Find all pairs {a,b} of positive integers, with a < b, such that the sum of all
+> integers strictly between a and b (that is, simultaneously greater than a and less than b) is
+> 1999. Write the sum of the elements of all these pairs (for example, if the pairs were
+> {a,b}, {c,d}, {e,f} you should write the number a + b + c + d + e + f ).
 
 **Answer:** 5997
 [[Quesiti/src_kangourou_squadre_2010_finale#q12|src_kangourou_squadre_2010_finale__Q12]]
@@ -456,20 +468,17 @@ level: squadre
 
 *Minimo massimo elemento di S con prodotto quadrato*
 
-> Anna e il suo cane 
-> Anna sta passeggiando con il suo cane su una pista circolare che contorna un laghetto. La pista è 
-> lunga 500 metri. Ad un certo istante il cane inizia a correre alla velocità di 10 Km all’ora; Anna lo 
-> insegue correndo alla velocità di 8 Km all’ora. Quando la distanza fra il cane e Anna è diventata di 
-> 250 metri, Anna inverte il verso della sua corsa, con l’intenzione di recuperare il cane (che invece 
-> continua a correre nello stesso verso) correndogli incontro. Se le velocità del cane e di Anna 
-> rimangono le stesse, per quanti secondi Anna starà separata dal suo cane?
+> Un insieme di numeri speciale
+> Un insieme S di numeri interi è tale che il suo elemento più piccolo è 1001 e il prodotto di tutti i
+> suoi elementi è un quadrato perfetto. Qual è il più piccolo valore che può avere il più grande
+> elemento di S?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1040
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -477,7 +486,10 @@ level: squadre
 
 *Minimum maximum element of S with square product*
 
-> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The track is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the direction of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+> A special set of numbers
+> A set S of integers is such that its smallest element is 1001 and the product of all its
+> elements is a perfect square. What is the smallest value that the largest
+> element of S can have?
 
 **Answer:** 1040
 [[Quesiti/src_kangourou_squadre_2010_finale#q13|src_kangourou_squadre_2010_finale__Q13]]
@@ -493,19 +505,19 @@ level: squadre
 
 ![[src_kangourou_squadre_2010_finale__prob14.png]]
 
-> L’elezione del sindaco 
-> A Kangcity si è svolto il ballottaggio fra Peter  e Max per l’elezione alla carica di sindaco ed è in 
-> corso lo spoglio delle schede. Tutte le schede consegnate sono valide e non bianche. Per ogni 
-> numero intero k compreso fra 0 e 100, quando k% delle schede sono state scrutinate la commissione 
-> comunica l’esito del voto fino a quel momento. Quando, per un certo numero intero n, n% delle 
-> schede sono state scrutinate, Peter ha ottenuto il 62% dei voti scrutinati e Max il 38%: questo è il 
-> primo momento in cui Peter è sicuro di essere il nuovo sindaco. Quanto vale n?
+> Rettangoli e quadrati
+> L’area della regione rettangolare in figura è 2010 m². La regione è suddivisa in sette quadrati e due
+> rettangoli, come indicato. Le dimensioni di tutti i quadrati e i rettangoli
+> di cui si parla sono espresse, in metri, da numeri interi. I due rettangoli,
+> che in figura appaiono ombreggiati, hanno le stesse dimensioni e
+> quadrati hanno la dimensione massima possibile compatibilmente con i
+> vincoli del problema. Qual è, in metri, il perimetro di ciascuno dei due rettangoli?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0134
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -515,8 +527,13 @@ level: squadre
 
 ![[src_kangourou_squadre_2010_finale__prob14.png]]
 
-> The mayoral election
-> In Kangcity, a runoff was held between Peter and Max for election to the office of mayor, and the counting of the ballots is underway. All the ballots submitted are valid and not blank. For every integer k between 0 and 100, when k% of the ballots have been counted, the electoral commission announces the outcome of the vote up to that moment. When, for a certain integer n, n% of the ballots have been counted, Peter has obtained 62% of the counted votes and Max 38%: this is the first moment at which Peter is sure of being the new mayor. What is the value of n?
+> Rectangles and squares
+> The area of the rectangular region in the figure is 2010 m². The region is divided into seven squares and two
+> rectangles, as shown. The dimensions of all the squares and rectangles
+> referred to are expressed, in metres, by whole numbers. The two rectangles,
+> which appear shaded in the figure, have the same dimensions and
+> squares have the maximum possible size compatible with the
+> constraints of the problem. What is, in metres, the perimeter of each of the two rectangles?
 
 **Answer:** 0134
 [[Quesiti/src_kangourou_squadre_2010_finale#q14|src_kangourou_squadre_2010_finale__Q14]]
@@ -530,24 +547,18 @@ level: squadre
 
 *Massimo studenti con 3 problemi su 8 e un comune*
 
-> Una frazione da semplificare 
->  
-> Qual è il valore della frazione   1001+1003+1005+...+1997 +1999
-> 1+ 3+ 5+...+ 997 + 999
->  ? 
-> A 
-> 
->  
-> Kangourou della Matematica 2009 
-> Coppa a squadre Kangourou - finale 
-> Mirabilandia,  10 maggio 2009
+> L’esame di matematica
+> Alcuni studenti si sono presentati all’esame di matematica. Il professore aveva preparato 8 diversi
+> problemi, tutti della stessa difficoltà, ed è riuscito ad assegnarne 3 ad ogni studente in modo che non
+> vi fossero studenti con più di un problema in comune. Quanto possono essere al massimo gli
+> studenti che si sono presentati all’esame?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
-**Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -555,24 +566,11 @@ level: squadre
 
 *Most students with 3 problems out of 8 and one common*
 
-> A fraction to be simplified
->  
-> What is the value of the fraction (1001+1003+1005+...+1997+1999)/(1+3+5+...+997+999)?
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> A
-> 
->  
-> Kangourou of Mathematics 2009 Kangourou team cup - final by Mirabilandia, 10 May 2009
+> The mathematics exam
+> Some students showed up for the mathematics exam. The professor had prepared 8 different
+> problems, all of the same difficulty, and managed to assign 3 to each student so that there
+> were no students with more than one problem in common. What is the maximum number of
+> students who showed up for the exam?
 
 **Answer:** 0008
 [[Quesiti/src_kangourou_squadre_2010_finale#q15|src_kangourou_squadre_2010_finale__Q15]]

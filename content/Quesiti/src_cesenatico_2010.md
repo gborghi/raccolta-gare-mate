@@ -142,7 +142,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-* divide the two triangles into 4 congruent triangles*
+*divide the two triangles into 4 congruent triangles*
 
 ![[src_cesenatico_2010__prob4.png]]
 
@@ -183,7 +183,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many non-winning strings *
+*how many non-winning strings*
 
 > In the village of Cuccagna, you play the following solitaire. Starting from a finite string of zeros and ones, the following moves are allowed: (i) delete two consecutive zeros; (ii) delete three consecutive zeros;
 > 
@@ -214,7 +214,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite primes divided by 2^(n^3+1) -3^(n^2+1) +5^(n+1) *
+*Infinite primes divided by 2^(n^3+1) -3^(n^2+1) +5^(n+1)*
 
 > Demonstrate that there are infinite prime numbers that divide at least one integer of the form 2n3+1 −3n2+1 + 5n+1 with positive integer n.
 

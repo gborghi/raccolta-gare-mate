@@ -413,7 +413,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare quanti diversi quadrati perfetti sono fattori del 2025. *
+*Contare quanti diversi quadrati perfetti sono fattori del 2025.*
 
 > Quanti quadrati diversi sono fattori del 2025?
 >
@@ -624,7 +624,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra n con 1 < n n9; P = ̊1 - n ̊, Q = 99 - n ̊, R = ̊P - Q ̊; per quanti n è R primo? *
+*Integra n con 1 < n n9; P = ̊1 - n ̊, Q = 99 - n ̊, R = ̊P - Q ̊; per quanti n è R primo?*
 
 > Il numero intero $n$ è tale che $1 < n < 99$. $P$ è la differenza tra 1 e $n$, $Q$ è la differenza tra 99 e $n$ e $R$ è la differenza tra $P$ e $Q$. Per quanti valori di $n$ $R$ è un numero primo?
 >
@@ -921,7 +921,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n Nerdvarks e 12 formiatri mangiano n^2 + 20n + 25 formiche in eguaglianza; quante formiche mangia ogni animale? *
+*n Nerdvarks e 12 formiatri mangiano n^2 + 20n + 25 formiche in eguaglianza; quante formiche mangia ogni animale?*
 
 > Insieme, gli aardvarks $n$ e i 12 formici mangiano $n^2 + 20n + 25$ formiche. Ogni animale mangia lo stesso numero di formiche. Quante formiche mangia ogni animale?
 >

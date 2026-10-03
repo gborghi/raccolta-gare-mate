@@ -140,7 +140,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Druids and impellers (multiple of 3 impellers) *
+*Druids and impellers (multiple of 3 impellers)*
 
 > A rigorous interrogation Gathered together a group of 5 self-styled druids, Arcidruid listens to them one by one to determine if there are impostors infiltrated by the Romans. All the suspects know who the druids are and who the impostors are. Druids always tell the truth, impostors always lie. The five suspects make the following statements: A: The number of impostors present is a multiple of 3. B: There's only one impostor among us. C: A and B are both druids. D: Me and A are not impostors. E: D is lying. In the answer, use the numbers from left to right to indicate what you can say about each of the first 4 individuals: 1 if it's a druid, 2 if it's an impostor, 0 if it can't be determined uniquely.
 
@@ -173,7 +173,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AEFG quadrilateral area with mean points *
+*AEFG quadrilateral area with mean points*
 
 > Great works The site for the construction of the monument to Cleopatra was until yesterday an ABC triangle in A with AB = 144 and AC = 221. Today the work area has been extended to a BCD triangle, with D on the AB extension such that CD = 256. Within the enlarged site, the monument will stand on the surface of the AEFG quadrilateral, with E, F, G mean points of DB, BC, CD. What is the area of this quadrilateral?
 
@@ -448,7 +448,7 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*fourth number (decreasing) *
+*fourth number (decreasing)*
 
 > A rapture with multiple consequences Shortly before being kidnapped by the goats, Parabolix had stored potions received from the other druids in a locked box, the combination of which is a number between 0000 and 9999. Euleric, the most cunning of the Raptor Goths, discovered that this number can be obtained as follows: They are written on a line 4 integers greater than 1, different from each other. In the next row, the 3 products of the previous number pairs are written (the first with the second, the second with the third and the third with the fourth). In the next line, repeat the procedure, writing two products. Multiplying these two, you get the result. If you write in order from major to minor all the numbers of this kind, the fourth is the right combination.
 

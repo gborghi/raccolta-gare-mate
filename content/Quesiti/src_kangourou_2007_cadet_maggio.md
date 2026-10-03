@@ -30,7 +30,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pupils (77 handshakes) *
+*Number of pupils (77 handshakes)*
 
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 77 handshakes were made. How many students (without discriminating between males and females) are in that class?
 
@@ -60,7 +60,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the fourth triangle (quadrilateral diagonals) *
+*Area of the fourth triangle (quadrilateral diagonals)*
 
 ![[src_kangourou_2007_cadet_maggio__probc2.png]]
 
@@ -153,7 +153,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bridges (rectangular grid diagonal) *
+*How many bridges (rectangular grid diagonal)*
 
 > A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one kilometer per side. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be forded, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
 

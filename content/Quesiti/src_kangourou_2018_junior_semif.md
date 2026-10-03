@@ -274,7 +274,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of cube volume / inscribed regular tetrahedron *
+*Ratio of cube volume / inscribed regular tetrahedron*
 
 > (Points 4) A regular tetrahedron is inscribed in a cube whose edges are diagonals of the faces of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
 > 	
@@ -361,7 +361,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime r sums of two prime numbers with equal sums *
+*How many prime r sums of two prime numbers with equal sums*
 
 > (Points 5) A prime number r is the sum of two prime numbers p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? (Warning: 1 is not a prime number!) A) Only 1
 > 	
@@ -405,7 +405,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many integers n is the number n/(n-10) an integers *
+*For how many integers n is the number n/(n-10) an integers*
 
 > (Points 5) For how many integers n is the number n/(n - 10) an integer? A) 4
 > 	
@@ -553,7 +553,7 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio length of rope / shorter piece (discs) *
+*Ratio length of rope / shorter piece (discs)*
 
 > (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
 

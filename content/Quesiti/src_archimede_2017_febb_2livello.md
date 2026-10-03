@@ -173,7 +173,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AD in the perpendicular diagonal quadrilateral *
+*Length AD in the perpendicular diagonal quadrilateral*
 
 > The quadrilateral ABCD has the perpendicular diagonal. We also know that AB = 100, BC = 120, CD = 75. Determine the length of AD.
 >
@@ -516,7 +516,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cifra iniziale di 5^n sapendo che 2^n inizia con 7*
+*Leading digit of 5^n knowing that 2^n starts with 7*
 
 > Sia n un intero positivo tale che la rappresentazione decimale di 2n inizia con la cifra 7 (ovvero
 > la cifra non nulla più a sinistra è 7). Con che cifra inizia la rappresentazione decimale di 5n?
@@ -555,7 +555,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*a1211b divisible by 88, find the numbers *
+*a1211b divisible by 88, find the numbers*
 
 > The rich Creso buys 88 identical vessels. The price of each of them, expressed in drachmas, is an integer (the same for all 88 vessels). We know that Creso pays a total of a1211b drachmas, where a, b are figures to be determined (and which may or may not be distinct). How many drachmas does a single vessel cost?
 
@@ -658,7 +658,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-* isosceles triangle and parallelogram*
+*isosceles triangle and parallelogram*
 
 > DEMOSTRATIVE EXERCISE Given a circumference ω of diameter AB and P an inner point of the AB segment, both M and the middle point of PB. If r, s two parallel lines passing through M, P respectively, do not coincide with the straight AB and are orthogonal to it. Then either H is the orthogonal projection of A over s and K is the point of intersection (different from A) between ω and the straight AH. Finally X, Y are the intersections of r with ω, where X is on the opposite side of H to AB. (a) Demonstrate that the triangle HY K is isosceles. (b) Demonstrate that BXHY is a parallelogram.
 

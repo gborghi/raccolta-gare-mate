@@ -395,11 +395,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children are still hiding *
+*How many children are still hiding*
 
 > A box contains five boxes each of which, in turn, contains five boxes. How many boxes are in all of this? A) 30 B) 31 C) 25 D) 26 E) 27 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D
-> 
-> I'm going to pay. I'm going to pay. 6 Kang 2012 Kang 2012
 
 [[Quesiti/src_kangourou_2012_ecolier#q05|src_kangourou_2012_ecolier__Q05]]
 
@@ -935,7 +933,7 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest interval with at least a 5 digit *
+*Longest interval with at least a 5 digit*
 
 > You have a digital clock in front of you (i.e., a clock that shows the time by indicating the numbers: for example, it writes 12:15 to indicate noon and a quarter). How many minutes is the longest time interval during which at least one of the four digits is 5? A) 10 B) 30 C) 60 D) 70 E) 90 1 x 1 1 x 3 2 x 2 6 −3 6 −5 4 −1 1 + 3 8 −7 9 −7 2 −1
 

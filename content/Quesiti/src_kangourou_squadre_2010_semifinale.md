@@ -17,29 +17,27 @@ level: squadre
 
 *Massimo numero formato con cifre date (somma e prodotto)*
 
-> Hai una discreta mira? 
-> Come nel quesito “Hai una buona mira?” della semifinale, hai 11 palline: 6 colorate di rosso, 
-> indistinguibili fra loro, e 5 colorate di verde, indistinguibili fra loro. Ora sono due le scatole aperte, 
-> una bianca e una nera, nelle quali tenti di lanciare le palline: alcune (eventualmente nessuna) 
-> entreranno in una scatola, altre (eventualmente nessuna) nell’altra, altre (eventualmente nessuna) 
-> finiranno fuori. Quanti sono i possibili diversi esiti ? (Ad esempio: un esito è “3 palline verdi e 2 
-> rosse nella scatola bianca, nessuna verde e 2 rosse nella scatola nera, le altre fuori”, un esito diverso 
-> è “3 palline verdi e 2 rosse nella scatola nera, nessuna verde e 2 rosse nella scatola bianca, le altre 
-> fuori”.)
+> Sei cifre per due numeri
+> Avete a disposizione le cifre 1, 3, 4, 7, 8, 9 per formare due numeri di tre cifre ciascuno, e le
+> dovete impiegare tutte. Volete che sia la somma, sia il prodotto dei due numeri che formate siano i
+> più grandi possibile. Qual è il più grande dei due numeri?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0941
-**Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number formatted with given digits (sum and product) *
+*Maximum number formatted with given digits (sum and product)*
 
-> Do you have a decent target? As in the question "Do you have a good aim?" of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, into which you try to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes are there? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
+> Six digits for two numbers
+> You have the digits 1, 3, 4, 7, 8, 9 available to form two three-digit numbers each, and you
+> must use all of them. You want both the sum and the product of the two numbers you form to be as
+> large as possible. What is the larger of the two numbers?
 
 **Answer:** 0941
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q01|src_kangourou_squadre_2010_semifinale__Q01]]
@@ -53,21 +51,18 @@ level: squadre
 
 *Massimo passeggeri con file distinte (occupazioni)*
 
-> Il circuito 
-> Hai a disposizione alcuni pentagoni regolari e alcuni quadrati; i lati di questi 
-> poligoni hanno tutti la stessa lunghezza. Accostandoli alternando pentagoni a 
-> quadrati, in modo che un lato di un pentagono venga a combaciare con un lato di 
-> un quadrato e viceversa, vuoi comporre restando su un piano un circuito chiuso: 
-> la costruzione dell’anello deve procedere come ti è indicato dalla figura. 
-> Ammesso che sia possibile costruirlo, da quanti poligoni risulterà formato il circuito chiuso? 
-> (Scrivete 0000 se non è possibile costruirlo).
+> Sull’aereo
+> I sedili di un aereo sono disposti in 60 file “orizzontali” di 6 posti ciascuna, contraddistinti dalle
+> lettere A,B, …, F. Quando tutti i passeggeri hanno preso posto, si verifica la seguente circostanza:
+> non ci sono due file in cui i posti occupati siano esattamente gli stessi, cioè tutti e soli quelli
+> contraddistinti dalle stesse lettere. Quanti possono essere al massimo i passeggeri su quell’aereo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0189
-**Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -75,7 +70,11 @@ level: squadre
 
 Maximum number of passengers with separate rows (occupations)
 
-> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches a side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+> On the plane
+> The seats of a plane are arranged in 60 "horizontal" rows of 6 seats each, marked with the
+> letters A,B, …, F. When all the passengers have taken their seats, the following circumstance occurs:
+> there are no two rows in which the occupied seats are exactly the same, that is, all and only those
+> marked with the same letters. What is the maximum number of passengers on that plane?
 
 **Answer:** 0189
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q02|src_kangourou_squadre_2010_semifinale__Q02]]
@@ -89,20 +88,16 @@ Maximum number of passengers with separate rows (occupations)
 
 *Coppie di caselle non adiacenti su scacchiera 8x8*
 
-> Marco sta ancora scrivendo?  
-> Marco ha iniziato a scrivere la sequenza di numeri 
-> 7, 36, 65, 94, … 
-> dove ognuno, dal secondo in poi, è il precedente aumentato di 29. Marco intende fermarsi non 
-> appena avrà scritto un numero le cui cifre siano tutte uguali a nove. Riuscirà Marco a fermarsi e, in 
-> caso affermativo, quanti numeri avrà scritto quando si sarà fermato? (Scrivete 0000 se non riuscirà 
-> a fermarsi.)
+> La scacchiera
+> Quante sono le coppie (non ordinate) di caselle non adiacenti che si trovano su una scacchiera
+> 8 × 8? (Due caselle si dicono “adiacenti” se sono diverse e hanno un lato in comune.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1904
-**Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -110,7 +105,9 @@ Maximum number of passengers with separate rows (occupations)
 
 *Pairs of non-adjacent squares on a chessboard 8x8*
 
-> Is Marco still writing? Marco started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Marco be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+> The chessboard
+> How many (unordered) pairs of non-adjacent squares are there on an
+> 8 × 8 chessboard? (Two squares are called "adjacent" if they are different and share a side.)
 
 **Answer:** 1904
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q03|src_kangourou_squadre_2010_semifinale__Q03]]
@@ -126,24 +123,20 @@ Maximum number of passengers with separate rows (occupations)
 
 ![[src_kangourou_squadre_2010_semifinale__prob4.png]]
 
-> Un torneo ambito 
-> Lo scorso anno ad un torneo di tennis ad eliminazione diretta hanno partecipato 32 giocatori. Nella 
-> prima fase ogni giocatore ne ha affrontato un altro (sono state giocate in totale 16 partite) e il 
-> perdente è stato eliminato. Nella seconda fase ognuno dei 16 vincenti ne ha affrontato un altro (sono 
-> state giocate in totale 8 partite) e il perdente è stato eliminato. Così si è proceduto fino alla quinta 
-> fase (la finale). Tutti gli accoppiamenti (tranne ovviamente l’ultimo) sono avvenuti per sorteggio. 
-> Quest’anno le richieste di partecipazione, tutte accolte, sono state molte di più: guarda caso proprio 
-> 2009. Il comitato organizzatore ha deciso di sorteggiare alcuni giocatori, il minor numero possibile, 
-> da ammettere direttamente alla seconda fase e rendere quindi attuabile a partire dalla seconda fase il 
-> meccanismo illustrato sopra (numero dei giocatori dimezzabile ad ogni fase). Quante partite sono 
-> state giocate complessivamente quest’anno in quel torneo?
+> La tavola di Maria
+> Maria vuole ricoprire una tavola di legno rettangolare di lati 60 e 40 cm
+> utilizzando 6 adesivi quadrati, ciascuno di 22 cm di lato, senza tagliarli o
+> ripiegarli. Allora li deve sovrapporre parzialmente e il risultato finale è
+> quello illustrato in figura (dove le zone in bianco sono ricoperte da un solo
+> adesivo, quelle in grigio da due adesivi, quelle in nero da più di due). Qual
+> è, in cm², l’area della superficie ricoperta da esattamente due adesivi?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0408
-**Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -153,7 +146,13 @@ Maximum number of passengers with separate rows (occupations)
 
 ![[src_kangourou_squadre_2010_semifinale__prob4.png]]
 
-> Last year, 32 players participated in a direct knockout tennis tournament. In the first stage each player faced another (there were 16 matches played in total) and the loser was eliminated. In the second stage each of the 16 winners faced another (there were a total of 8 matches played) and the loser was eliminated. So it went on until the fifth stage (the final). All matches (except, of course, the last one) were drawn. This year, there were many more requests for participation, all of which were accepted: look at 2009. The organising committee decided to draw a number of players, as few as possible, to be admitted directly to the second stage and to make the mechanism described above (number of players halfway through each stage) applicable from the second stage. How many games were played in total this year in that tournament?
+> Maria's board
+> Maria wants to cover a rectangular wooden board with sides 60 and 40 cm
+> using 6 square stickers, each with a side of 22 cm, without cutting them or
+> folding them. So she must overlap them partially and the final result is
+> the one shown in the figure (where the white areas are covered by a single
+> sticker, the gray ones by two stickers, the black ones by more than two). What
+> is, in cm², the area of the surface covered by exactly two stickers?
 
 **Answer:** 0408
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q04|src_kangourou_squadre_2010_semifinale__Q04]]
@@ -167,20 +166,18 @@ Maximum number of passengers with separate rows (occupations)
 
 *Ultime due cifre dell'ultimo termine di sequenza q=p+p^2*
 
-> I sottoinsiemi speciali   
-> Considerate l’insieme {1, 2, … , 151} dei primi 151 interi maggiori di zero. Tra tutti i suoi 
-> sottoinsiemi, volete sceglierne alcuni in modo che l’intersezione fra due qualunque di quelli che 
-> avete scelto sia costituita o da un numero solo o da una sequenza di numeri consecutivi (condizione 
-> soddisfatta, ad esempio, da entrambe le coppie di sottoinsiemi ({1, 2}, {2, 3}) e ({1, 2, 3}, {2, 3, 
-> 4}), ma non dalle coppie ({1, 2}, {3, 4}) o ({1, 2, 4}, {2, 3, 4})). Quanti sottoinsiemi potete 
-> scegliere al massimo?
+> Una sequenza lunga
+> Immaginate una sequenza di 2010 numeri interi positivi costruita con la regola seguente. Il primo (il
+> più piccolo) è 3 e ciascuno dei successivi è la somma del precedente con il quadrato del precedente
+> (cioè, se q è un numero della sequenza e p è il numero che lo precede nella sequenza, si ha q = p +
+> p²). Quali sono le ultime due cifre dell’ultimo (il più grande)?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0092
-**Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -188,7 +185,11 @@ Maximum number of passengers with separate rows (occupations)
 
 *Last two digits of the last sequence term q=p+p^2*
 
-> Special subsets Consider the set {1, 2, … , 151} of the first 151 integers greater than zero. From all its sub-sets, you want to choose some so that the intersection between any two of those you have chosen is either a single number or a sequence of consecutive numbers (condition satisfied, for example, by both pairs of sub-sets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3, 4}), but not by pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many sub-sets can you pick at most?
+> A long sequence
+> Imagine a sequence of 2010 positive integers constructed with the following rule. The first (the
+> smallest) is 3 and each of the following ones is the sum of the previous one with the square of the previous one
+> (that is, if q is a number in the sequence and p is the number that precedes it in the sequence, we have q = p +
+> p²). What are the last two digits of the last (the largest) one?
 
 **Answer:** 0092
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q05|src_kangourou_squadre_2010_semifinale__Q05]]
@@ -202,17 +203,18 @@ Maximum number of passengers with separate rows (occupations)
 
 *Minuti per correggere 84 elaborati insieme*
 
-> Trova la frazione 
-> Il numeratore e il denominatore di una frazione sono entrambi numeri interi maggiori di zero e la 
-> loro somma non supera 103; il valore della frazione è il più alto possibile compatibilmente con il 
-> fatto di essere strettamente minore di 1/3. 
-> Scrivete nell’ordine prima il numeratore e poi il denominatore della frazione.
+> Professori al lavoro
+> Per correggere 32 elaborati di matematica all’esame di terza media, un professore impiega 80
+> minuti; un altro professore, percorreggere lo stesso numero di elaborati, impiega solo 60 minuti.
+> Ogni professore impiega lo stesso tempo a correggere ogni elaborato. Se si mettessero insieme e si
+> ripartissero 84 elaborati, in modo da iniziare e terminare insieme la correzione, quanti minuti
+> impiegherebbero?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0090
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -220,7 +222,12 @@ Maximum number of passengers with separate rows (occupations)
 
 *Minutes to correct 84 papers together*
 
-> Find the fraction The numerator and denominator of a fraction are both integers greater than zero and their sum does not exceed 103; the value of the fraction is as high as possible compatible with the fact that it is strictly less than 1/3. Write in the order first the numerator and then the denominator of the fraction.
+> Professors at work
+> To grade 32 mathematics papers at the middle school exam, one professor takes 80
+> minutes; another professor, to grade the same number of papers, takes only 60 minutes.
+> Each professor takes the same time to grade each paper. If they were to team up and
+> split 84 papers, so as to start and finish grading together, how many minutes
+> would they take?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q06|src_kangourou_squadre_2010_semifinale__Q06]]
@@ -234,19 +241,15 @@ Maximum number of passengers with separate rows (occupations)
 
 *Somma interi pari n in catena di disuguaglianze*
 
-> I mezzi di trasporto 
-> In una strana nazione vi sono 13 città che possono essere collegate tra loro da uno o più dei seguenti 
-> mezzi di trasporto: autobus, treno, aereo. Il presidente, il vice-presidente e il primo ministro devono 
-> poter visitare ogni città, ma ciascuno dei tre si rifiuta di usare uno dei tre mezzi: il presidente  
-> l’autobus, il vice-presidente il treno e il primo ministro l’aereo. Qual è il più piccolo numero di 
-> collegamenti fra le varie città che occorre predisporre per soddisfare tutte le esigenze?
+> Una catena di disuguaglianze
+> Trovate la somma di tutti gli interi positivi pari n tali che – 53 < 2010/(53 – n) < 53 – n.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0302
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -254,7 +257,8 @@ Maximum number of passengers with separate rows (occupations)
 
 *Interest sum equal to n in the chain of inequalities*
 
-> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, airplane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President bus, the Vice-President train and the Prime Minister air. What is the smallest number of city-to-city connections to meet all needs?
+> A chain of inequalities
+> Find the sum of all positive even integers n such that – 53 < 2010/(53 – n) < 53 – n.
 
 **Answer:** 0302
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q07|src_kangourou_squadre_2010_semifinale__Q07]]
@@ -268,18 +272,17 @@ Maximum number of passengers with separate rows (occupations)
 
 *Membri dell'associazione con A doppio di B e 64%*
 
-> Il rettangolo diventa un quadrato  
-> La figura mostra le linee lungo le quali Marco ha tagliato un rettangolo 
-> di cartoncino, i cui lati misuravano 36 e 81 centimetri, ottenendo due 
-> triangoli e un pentagono. Accostando opportunamente i tre pezzi 
-> ricavati, Marco ha potuto realizzare un quadrato. Quanti centimetri è 
-> lungo il segmento indicato con x?
+> L’elezione del presidente
+> Il presidente di un’associazione è stato scelto da tutti i membri fra due candidati, A e B. A ha
+> ottenuto il doppio dei voti di B. 3 membri dell’associazione hanno votato scheda bianca, mentre
+> ciascuno degli altri ha votato solo per A o solo per B. In questo modo, A ha ottenuto il 64% del
+> totale dei voti possibili. Da quanti membri è composta l’associazione?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0075
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -287,7 +290,11 @@ Maximum number of passengers with separate rows (occupations)
 
 Members of the association with double A of B and 64%
 
-> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, producing two triangles and a pentagon. By suitably joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+> The election of the president
+> The president of an association was chosen by all the members from two candidates, A and B. A
+> obtained twice the votes of B. 3 members of the association cast a blank ballot, while
+> each of the others voted only for A or only for B. In this way, A obtained 64% of the
+> total possible votes. How many members is the association composed of?
 
 **Answer:** 0075
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q08|src_kangourou_squadre_2010_semifinale__Q08]]
@@ -301,17 +308,19 @@ Members of the association with double A of B and 64%
 
 *Minimo quadrati da colorare per coprire griglia 25x25*
 
-> Numeri dispettosi 
-> Diciamo che un numero intero positivo è “dispettoso” se diviso per 6 dà resto 5 e diviso per 8 dà 
-> resto 7. Trovate i primi due numeri dispettosi e scriveteli nell’ordine (per esempio, se fossero 65 e 
-> 86 dovreste scrivere 6586).
+> Una griglia da colorare
+> Avete una griglia quadrata formata dall’accostamento di 25 × 25 quadrati di lato 1 e vi divertite a
+> colorare di rosso il bordo dei possibili quadrati i cui lati siano contenuti nel reticolo evidenziato
+> dalla griglia, ovunque siano e di qualunque taglia essi siano. Qual è il minimo numero di quadrati di
+> cui vi basta colorare il bordo se volete che tutte le linee della griglia di partenza risultino
+> interamente colorate di rosso?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -319,10 +328,12 @@ Members of the association with double A of B and 64%
 
 *Minimum squares to color to cover a 25x25 grid*
 
-> Mischievous numbers
-> Let us say that a positive integer is "mischievous" if divided by 6 it gives remainder 5 and divided by 8 it gives
-> remainder 7. Find the first two mischievous numbers and write them in order (for example, if they were 65 and
-> 86 you should write 6586).
+> A grid to color
+> You have a square grid formed by the arrangement of 25 × 25 squares of side 1, and you have fun
+> coloring red the border of the possible squares whose sides are contained in the lattice highlighted
+> by the grid, wherever they are and whatever size they are. What is the minimum number of squares of
+> which you need to color the border if you want all the lines of the starting grid to be
+> entirely colored red?
 
 **Answer:** 0048
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q09|src_kangourou_squadre_2010_semifinale__Q09]]
@@ -336,23 +347,16 @@ Members of the association with double A of B and 64%
 
 *Pagine del libro con 3005 cifre scritte*
 
-> Quante pretese!   
-> Stai cercando tutti i numeri interi positivi di quattro cifre ciascuno dei quali goda di tutte le seguenti 
-> proprietà: 
-> - le cifre che lo compongono devono essere tutte diverse fra loro; 
-> - deve essere un multiplo di 5;  
-> - se si sopprime la cifra delle migliaia, il numero di tre cifre che resta deve essere un multiplo di 9;   
-> - se si sopprime la cifra delle centinaia, il numero di tre cifre che resta deve essere un multiplo di   
->   11;  
-> - se si sopprime la cifra delle decine, il numero di tre cifre che resta deve essere un multiplo di 7. 
-> Trova la loro somma.
+> Un libro con molte pagine
+> Le pagine di un libro sono numerate partendo da 1. Per numerare tutte le pagine, sono state scritte
+> in totale 3005 cifre. Quante pagine ha il libro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1028
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -360,16 +364,9 @@ Members of the association with double A of B and 64%
 
 *Book pages with 3005 written digits*
 
-> What demands!   
-> You are looking for all positive integers of four digits each, every one of which enjoys all of the following 
-> properties: 
-> - the digits that compose it must all be different from one another; 
-> - it must be a multiple of 5;  
-> - if the thousands digit is removed, the three-digit number that remains must be a multiple of 9;   
-> - if the hundreds digit is removed, the three-digit number that remains must be a multiple of   
->   11;  
-> - if the tens digit is removed, the three-digit number that remains must be a multiple of 7. 
-> Find their sum.
+> A book with many pages
+> The pages of a book are numbered starting from 1. To number all the pages, there were written
+> a total of 3005 digits. How many pages does the book have?
 
 **Answer:** 1028
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q10|src_kangourou_squadre_2010_semifinale__Q10]]
@@ -383,25 +380,17 @@ Members of the association with double A of B and 64%
 
 *Somma interi non esprimibili come somma di 5 e 7*
 
-> Le porte 
-> In un lunghissimo corridoio ci sono 1.000 porte numerate da 1 a 1.000 che inizialmente sono 
-> chiuse. All’inizio del corridoio ci sono 1.000 persone, numerate da 0 a 999, che agiscono come 
-> segue. La persona 0 percorre il corridoio dall’inizio e modifica lo stato di tutte le porte (dunque le 
-> apre tutte). Dopo di lei, la persona 1 percorre il corridoio dall’inizio: salta una porta (la prima) e 
-> modifica lo stato della seconda (in questo caso la chiude), quindi salta la terza e modifica lo stato 
-> della quarta e così via. Dopo di lei, la persona 2 percorre il corridoio dall’inizio saltando 
-> ordinatamente 2 porte su 3 (cioè la prima e la seconda, la quarta e la quinta e così via) e cambia lo 
-> stato delle porte che non salta. Si procede in questo modo: la persona n per corre il corridoio 
-> dall’inizio saltando ordinatamente n porte su n + 1 e cambiando lo stato di quelle che non salta (cioè 
-> aprendo quelle che trova chiuse e chiudendo quelle che trova aperte). Quando anche la millesima 
-> persona avrà compiuto il proprio percorso, quante saranno le porte rimaste aperte?
+> Somme vincolate
+> Molti numeri interi positivi, ma non tutti, possono essere ottenuti come somma di addendi ciascuno
+> dei quali sia 5 oppure 7. Scrivete la somma di tutti i numeri interi positivi che non possono essere
+> ottenuti in questo modo; scrivete [0000] nel caso di questi numeri ve ne siano infiniti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0114
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -409,7 +398,10 @@ Members of the association with double A of B and 64%
 
 *Integer sums not expressed as sums of 5 and 7*
 
-> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that he does not skip. This is how it is done: the person n runs the corridor from the beginning by skipping orderly n doors on n + 1 and changing the state of those that he does not skip (i.e. opening those that he finds closed and closing those that he finds open). When the thousandth person too has completed his journey, how many doors will remain open?
+> Constrained sums
+> Many positive integers, but not all, can be obtained as a sum of addends each
+> of which is either 5 or 7. Write the sum of all positive integers that cannot be
+> obtained in this way; write [0000] in the case that there are infinitely many of these numbers.
 
 **Answer:** 0114
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q11|src_kangourou_squadre_2010_semifinale__Q11]]
@@ -423,20 +415,14 @@ Members of the association with double A of B and 64%
 
 *Numero di 4 cifre che e' quadrato e cubo perfetto*
 
-> La griglia    
-> In ogni cella della griglia 3 × 4 in figura vuoi sistemare un numero intero 
-> positivo rispettando tutte le seguenti regole: 
-> - i numeri devono essere tutti diversi fra loro; 
-> - in ogni riga ogni numero dal secondo (da sinistra) in poi è un multiplo del 
-> precedente; 
-> - in ogni colonna ogni numero dal secondo (dall’alto) in poi è un multiplo del precedente. 
-> Qual è il più piccolo numero che può comparire nella cella indicata con A?
+> Un quadrato che è un cubo
+> Qual è l’unico numero di 4 cifre che è contemporaneamente un quadrato e un cubo perfetto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4096
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -444,7 +430,8 @@ Members of the association with double A of B and 64%
 
 *Number of 4 digits that is square and perfect cube*
 
-> The grid In each cell of the grid 3 × 4 in the figure you want to arrange a positive integer by following all the following rules: - the numbers must all be different from each other; - in each row each number from second (left) forward is a multiple of the previous one; - in each column each number from second (from top) forward is a multiple of the previous one. What is the smallest number that can appear in the cell marked with A?
+> A square that is a cube
+> What is the only 4-digit number that is simultaneously a perfect square and a perfect cube?
 
 **Answer:** 4096
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q12|src_kangourou_squadre_2010_semifinale__Q12]]
@@ -458,20 +445,15 @@ Members of the association with double A of B and 64%
 
 *Quanti numeri ABBA di 4 cifre multipli di 11*
 
-> Anna e il suo cane 
-> Anna sta passeggiando con il suo cane su una pista circolare che contorna un laghetto. La pista è 
-> lunga 500 metri. Ad un certo istante il cane inizia a correre alla velocità di 10 Km all’ora; Anna lo 
-> insegue correndo alla velocità di 8 Km all’ora. Quando la distanza fra il cane e Anna è diventata di 
-> 250 metri, Anna inverte il verso della sua corsa, con l’intenzione di recuperare il cane (che invece 
-> continua a correre nello stesso verso) correndogli incontro. Se le velocità del cane e di Anna 
-> rimangono le stesse, per quanti secondi Anna starà separata dal suo cane?
+> Numeri simmetrici
+> Quanti numeri di 4 cifre (significative) della forma ABBA sono multipli di 11?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0090
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -479,7 +461,8 @@ Members of the association with double A of B and 64%
 
 *How many 4-digit ABBA numbers are multiples of 11*
 
-> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The track is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+> Symmetric numbers
+> How many 4-digit (significant) numbers of the form ABBA are multiples of 11?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q13|src_kangourou_squadre_2010_semifinale__Q13]]
@@ -493,19 +476,17 @@ Members of the association with double A of B and 64%
 
 *Prezzo di vendita del formaggio stagionato con 15% guadagno*
 
-> L’elezione del sindaco 
-> A Kangcity si è svolto il ballottaggio fra Peter  e Max per l’elezione alla carica di sindaco ed è in 
-> corso lo spoglio delle schede. Tutte le schede consegnate sono valide e non bianche. Per ogni 
-> numero intero k compreso fra 0 e 100, quando k% delle schede sono state scrutinate la commissione 
-> comunica l’esito del voto fino a quel momento. Quando, per un certo numero intero n, n% delle 
-> schede sono state scrutinate, Peter ha ottenuto il 62% dei voti scrutinati e Max il 38%: questo è il 
-> primo momento in cui Peter è sicuro di essere il nuovo sindaco. Quanto vale n?
+> Il prezzo del formaggio
+> Produrre un quintale di un formaggio fresco pregiato costa ad un caseificio 1200 euro. Prima di
+> essere venduto, il formaggio va lasciato stagionare e la stagionatura gli fa perdere 1/5 del peso
+> iniziale. A quanti euro dovrà essere venduto un quintale di formaggio stagionato, se il caseificio
+> vuole guadagnare il 15% di quello che spende per produrlo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1725
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -513,12 +494,11 @@ Members of the association with double A of B and 64%
 
 *Selling price of aged cheese with 15% profit*
 
-> The election of the mayor
-> In Kangcity a runoff was held between Peter and Max for election to the office of mayor and the counting of the ballots is
-> underway. All ballots submitted are valid and not blank. For every integer k between 0 and 100, when k% of the ballots have been counted the electoral commission
-> announces the outcome of the vote up to that moment. When, for a certain integer n, n% of the
-> ballots have been counted, Peter obtained 62% of the counted votes and Max 38%: this is the
-> first moment at which Peter is sure of being the new mayor. What is the value of n?
+> The price of the cheese
+> Producing one quintal of a prized fresh cheese costs a dairy 1200 euros. Before
+> being sold, the cheese must be left to age, and the aging makes it lose 1/5 of its initial
+> weight. At how many euros must one quintal of aged cheese be sold, if the dairy
+> wants to earn 15% of what it spends to produce it?
 
 **Answer:** 1725
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q14|src_kangourou_squadre_2010_semifinale__Q14]]
@@ -532,24 +512,17 @@ Members of the association with double A of B and 64%
 
 *Codice di 4 cifre quadrato con resto 1 da 2 a 9*
 
-> Una frazione da semplificare 
->  
-> Qual è il valore della frazione   1001+1003+1005+...+1997 +1999
-> 1+ 3+ 5+...+ 997 + 999
->  ? 
-> A 
-> 
->  
-> Kangourou della Matematica 2009 
-> Coppa a squadre Kangourou - finale 
-> Mirabilandia,  10 maggio 2009
+> Il codice segreto
+> Paolo ha scoperto un trucco per ricordare il suo numero di codice di quattro cifre: ha osservato che
+> è un quadrato perfetto e che, diviso per un qualunque intero fra 2 e 9 inclusi, dà come resto 1. Qual
+> è il numero di codice di Paolo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5041
-**Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -557,24 +530,10 @@ Members of the association with double A of B and 64%
 
 *Four-digit square code with remainder 1 from 2 to 9*
 
-> A fraction to be simplified
->  
-> What is the value of the fraction 1001+1003+1005+...+1997+1999 1+3+5+...+997+999?
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> A
-> 
->  
-> Kangourou of Mathematics 2009 Kangourou team cup - final by Mirabilandia, 10 May 2009
+> The secret code
+> Paolo has discovered a trick to remember his four-digit code number: he observed that
+> it is a perfect square and that, divided by any integer between 2 and 9 inclusive, it gives remainder 1. What
+> is Paolo's code number?
 
 **Answer:** 5041
 [[Quesiti/src_kangourou_squadre_2010_semifinale#q15|src_kangourou_squadre_2010_semifinale__Q15]]

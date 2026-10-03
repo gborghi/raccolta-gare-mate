@@ -386,7 +386,7 @@ Most liars among four friends with statements
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement of equation with two roots in (0,1) *
+*True statement of equation with two roots in (0,1)*
 
 > Knowing that the equation ax2 −bx + c = 0, with a > 1, has two positive solutions narrowly less than 1, we can safely say that:
 >
@@ -603,7 +603,7 @@ Most liars among four friends with statements
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square folding ratio b/a *
+*Square folding ratio b/a*
 
 > The square ABCD is drawn on a sheet. The sheet is folded (along a straight line) so that B coincides with the mean point of DC. The side BC is divided by the bend into two segments of lengths a and b, with a ≤b. How much is a b/a?
 >

@@ -144,7 +144,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is between five expressions and an integer *
+*Which is between five expressions and an integer*
 
 > Which of these numbers is an integer? (A) 0,002 · 100 + √ 11025, (B) 32 · 3 · 1,6, (C) (8, 2)2 −(1, 8)2, (D) ( √ 2 + 1)2, (E) 34 1,02 + 5 6√0,0001.
 
@@ -186,7 +186,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Red area near the triangular center of radius *
+*Red area near the triangular center of radius*
 
 > Consider an equilateral triangle T, and it's called G its barycenter. All points inside the triangle whose distance from G is less than or equal to the distance from any of the three vertices shall be colored red. What is the ratio between the red area and the T area? (A) 1 3, (B) 1 4, (C) 2 3, (D) √ 3 9 , (E) √ 3 3 .
 
@@ -414,7 +414,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spieces of a face-counting polyester *
+*Spieces of a face-counting polyester*
 
 > An artist has made a stone sculpture in the shape of a strange polyhedron. The surface of the sculpture is made up of 31 triangular faces, 18 quadrangular faces, 11 pentagonal faces and 7 hexagonal faces. How many beads does polyhedron have? (A) 65, (B) 94, (C) 100, (D) 123, (E) 131.
 

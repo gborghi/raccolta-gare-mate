@@ -62,7 +62,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one divisible by sum of digits *
+*one divisible by sum of digits*
 
 > Demonstrate that, however you take 18 consecutive positive integers less than or equal to 2005, there is at least one divisible by the sum of its digits.
 
@@ -130,7 +130,7 @@ level: nazionale
 
 > Determine for which n ≥3 it is possible to find n positive integers such that two to two have at least one common factor other than 1, but three to three are prime to each other. If we add the condition that all integers are less than 5000, what is the maximum value of n possible?
 
-**Answer:** per ogni n>=3; con limite <5000 il massimo n e 4
+**Answer:** for every n>=3; with limit <5000 the maximum n is 4
 [[Quesiti/src_cesenatico_2005#q04|src_cesenatico_2005__Q04]]
 
 
@@ -166,7 +166,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which h returns to 1*
+*for which h returns to 1*
 
 > Both h is a positive integer and an is the sequence defined for recurrence as follows: a0 = 1 an+1 = (an 2 if an is equal, an + h if an is odd. (For example, if h = 27 we have: a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...) For which values of h exists n > 0 for which an = 1?
 

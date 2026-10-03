@@ -127,7 +127,7 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di spostamenti ortogonali nel percorso di King-Move Hamiltonian su n ×n griglia *
+*Minimum di spostamenti ortogonali nel percorso di King-Move Hamiltonian su n ×n griglia*
 
 > $n \ge 3$ sia un numero intero. Considerate una griglia di quadrati $n \times n$. Si gioca il seguente gioco:
 > 

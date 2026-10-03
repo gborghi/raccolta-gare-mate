@@ -100,7 +100,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il percorso di crescita più lungo garantito nella griglia 10 ×10 con 1100 *
+*Il percorso di crescita più lungo garantito nella griglia 10 ×10 con 1100*
 
 > I numeri $1$ a $100$ vengono inseriti senza ripetizione, uno in ogni cella di una griglia $10 \times 10$. Un percorso *aumentante di lunghezza $k$* in questa griglia è una sequenza di celle $c_1, c_2, \ldots, c_k$ tale che, per ciascuna $i = 2, 3, \ldots, k$, possano le seguenti proprietà:
 > 

@@ -179,7 +179,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which cut-out does not work *
+*which cut-out does not work*
 
 ![[src_kangourou_2023_cadet__prob4.png]]
 
@@ -298,7 +298,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* number instead of ?*
+*number instead of ?*
 
 ![[src_kangourou_2023_cadet__prob6.png]]
 
@@ -402,7 +402,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* which are in conflict*
+*which are in conflict*
 
 ![[src_kangourou_2023_cadet__prob8.png]]
 
@@ -444,7 +444,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* in how many ways*
+*in how many ways*
 
 > Anna has five discs of different sizes. She wants to build a tower by stacking three discs so that each disc (except the first from below) is smaller than the disc on which it rests. In how many ways can she do that? A) 5
 > 	
@@ -716,7 +716,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many positive integers can be written with 6 matches *
+*How many positive integers can be written with 6 matches*
 
 ![[src_kangourou_2023_cadet__prob14.png]]
 
@@ -809,7 +809,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CFE angle measurement *
+*CFE angle measurement*
 
 ![[src_kangourou_2023_cadet__prob16.png]]
 
@@ -1156,7 +1156,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* lots of cotton *
+*lots of cotton*
 
 > Snow White organized a chess tournament for the seven dwarfs, where each dwarf had to play a game with each other dwarf. On Monday, Brontolo played 1 game, Eolo played 2, Pisolo 3, Mammolo 4, Gongolo 5 and Dotto 6. How many games did Cucciolo play on Monday? A) 1
 > 	
@@ -1363,7 +1363,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when 77*
+*when 77*
 
 > In the figure you see a way you can write the number 1015 as a sum of numbers where only the digit 7 appears: in total the digit has been used 10 times. If we want to write the number 2023 as the sum of positive numbers containing only the digit 7, using that digit 19 times, how many times do we have to use the number 77? A) 2
 > 	
@@ -1458,7 +1458,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six consecutive integers on three coins, 6,7,8/23/17 *
+*Six consecutive integers on three coins, 6,7,8/23/17*
 
 ![[src_kangourou_2023_cadet__prob29.png]]
 

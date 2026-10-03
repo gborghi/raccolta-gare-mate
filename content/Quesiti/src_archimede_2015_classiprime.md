@@ -35,7 +35,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding alpha with 2^alpha=4^(4^4) *
+*Finding alpha with 2^alpha=4^(4^4)*
 
 > Find α so that 2α is 444. A α = 512 B α = 8 C α = 128 D α = 256 E α = 232 F α = 216
 
@@ -232,7 +232,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the first container after welding (volumes of prisms) *
+*Height of the first container after welding (volumes of prisms)*
 
 > A rectangular prism-shaped vessel with a square base is tall and narrow and full of water up to the edge. If all the water is poured into another container of the same shape, but with a square base with the three-dimensional side, the water level in the new container reaches the height of 12 mm. How tall was the first container? A 108mm B 36mm C 48mm D 324mm E 144mm F It cannot be determined if the sides of the bases are not known
 
@@ -436,7 +436,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the product of neighbouring integers (difference of products) *
+*Value of the product of neighbouring integers (difference of products)*
 
 > The value of the expression: 1234567896·1234567894−1234567899·1234567891. A 15 B 0 C 10 D 6 E 5 F 31
 

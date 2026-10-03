@@ -67,7 +67,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*time of entry *
+*time of entry*
 
 > There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you hear a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 to that instant included, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 

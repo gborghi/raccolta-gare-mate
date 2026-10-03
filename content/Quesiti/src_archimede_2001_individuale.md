@@ -218,7 +218,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-* settings to turn them all on*
+*settings to turn them all on*
 
 > A panel contains $100$ lamps arranged to form a square of $10$ rows and $10$ columns. Some of them are on, some of them are off. The electrical system is such that when pressing the button corresponding to any of the lamps, all the lamps on its column and all those on its line (including the lamp corresponding to the pressed switch) change status (i.e. they turn on or off).
 > 

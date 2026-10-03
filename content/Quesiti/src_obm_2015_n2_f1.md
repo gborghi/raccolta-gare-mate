@@ -369,7 +369,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'anno successivo dopo il 2015 che coincide con esso (gli stessi giorni e giorni feriali) *
+*L'anno successivo dopo il 2015 che coincide con esso (gli stessi giorni e giorni feriali)*
 
 > Noi diciamo che due anni coincidono se hanno lo stesso numero di giorni e gli stessi giorni della settimana su tutte le date che coincidono. L'anno 2015 coincide con il 2009. Qual è il prossimo anno dopo il 2015 che coincide con il 2015? Ricordate che usiamo multipli di 4 per trovare gli anni a salto del XXI secolo (ma i multipli di 100 non sono salti, eccetto i multipli di 400), che hanno 366 giorni; gli altri hanno 365 giorni.
 > 
@@ -437,7 +437,7 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri nei quadrati bianchi sotto restrizioni di parità e somma massima di probabilità *
+*Summa di numeri nei quadrati bianchi sotto restrizioni di parità e somma massima di probabilità*
 
 > Violeta vuole scrivere i numeri da 1 a 9 nei quadrati della lavagna di sotto, in modo tale che la somma di due numeri nei quadrati vicini sia sempre strana. Inoltre, vuole che la somma dei numeri scritti nei quadrati grigi sia il più grande numero impar. Qual è la somma dei numeri scritti nei quadrati bianchi?
 > 
@@ -882,7 +882,7 @@ Giada che Jade cammini dal segretariato al giardino botanico
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta dei modi per scrivere il 2015 come somma di tre numeri (un pacchetto ripetuto) *
+*Conta dei modi per scrivere il 2015 come somma di tre numeri (un pacchetto ripetuto)*
 
 > A Julieta piace scrivere il numero 2015 come la somma di tre numeri. Non sempre lo scrive come la somma di tre diversi numeri; ad esempio, $2015=670+671+674$ e $175+920+920=2015$. Si noti che nel secondo esempio il numero 920 appare due volte nella stessa somma. In questo modo, in quanti modi possibili due numeri sembrano uguali come lo stesso pacchetto?
 > 

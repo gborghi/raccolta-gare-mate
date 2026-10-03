@@ -371,7 +371,7 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of strings of length 16 of two letters (constraints) *
+*Number of strings of length 16 of two letters (constraints)*
 
 > (Points 6) How many different strings of length 16 of two letters are possible if each string is to begin and end with the same letter, if the initial letter does not appear twice in a row and the other does not appear three times in a row? A) 28 B) 42 C) 44 D) 46 E) 56
 
@@ -514,7 +514,7 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum grid blackout cells 6x2019 (connected domain) *
+*Minimum grid blackout cells 6x2019 (connected domain)*
 
 > (Points 6) In a grid of 6×2019 square cells we say that two cells are adjacent if they share one side. You want to blacken some cells so that
 > 	
@@ -586,7 +586,7 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of radii of circles inscribed in T, P, Q (right triangle) *
+*Sum of radii of circles inscribed in T, P, Q (right triangle)*
 
 > (Points 6) The legs of a right triangle T measure 30 and 40. The altitude relative to the hypotenuse divides T into two triangles P and Q. What is the sum of the radii of the circles inscribed in T, P and Q?
 
@@ -686,7 +686,7 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to buy 30 pieces between three types (max 20 each) *
+*How many ways to buy 30 pieces between three types (max 20 each)*
 
 > (8 points) In a shop there are three different types of items, and for each type, there are 20 pieces. A customer who wants to buy 30 of those pieces, regardless of the type, in how many different ways with respect to the types can he do it?
 > 

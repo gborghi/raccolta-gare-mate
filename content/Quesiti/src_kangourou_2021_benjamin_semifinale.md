@@ -329,7 +329,7 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certainly false claim (Lisa's euro) *
+*Certainly false claim (Lisa's euro)*
 
 > (5 points) If of the following three statements a) Lisa has more than 2021 euros b) Lisa has less than 2021 euros c) Lisa has at least 1 euro one and only one is true, which of the following statements is definitely false? A) Lisa has 2021 euros.
 >   
@@ -659,7 +659,7 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The smallest sum of two numbers with nine digits *
+*The smallest sum of two numbers with nine digits*
 
 > (7 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest sum you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 

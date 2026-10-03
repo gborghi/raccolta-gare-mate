@@ -118,7 +118,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x+f(y))=x+f(f(y)), ritrovare f(2005) *
+*Equazione funzionale f(x+f(y))=x+f(f(y)), ritrovare f(2005)*
 
 > Una funzione $f:\mathbb{R}\to\mathbb{R}$ soddisfa $f(x+f(y))=x+f(f(y))$ per tutti i numeri reali $x$ e $y$. Poiché $f(2)=8$, trovare il valore numerico di $f(2005)$.
 

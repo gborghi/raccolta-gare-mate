@@ -58,7 +58,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'esistenza di a in [1, n/k+1] con n ̊ a ̊ a-1) *
+*Prove l'esistenza di a in [1, n/k+1] con n ̊ a ̊ a-1)*
 
 > Che $n > 1$ sia un numero intero, $k$ sia il numero di fattori primi distinti di $n$. Prova che esiste un numero intero $a$, $1 \le a \le \dfrac{n}{k} + 1$, tale che $n \mid a(a-1)$. (Possibile da Yu Hongbing)
 

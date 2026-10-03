@@ -585,7 +585,7 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the part shown in Figure *
+*Area of the part shown in Figure*
 
 > **What is the area of the part shown in Figure 1?**
 
@@ -617,7 +617,7 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inner number of all circles in figure *
+*Inner number of all circles in figure*
 
 > **What is the number inside all circles? **
 

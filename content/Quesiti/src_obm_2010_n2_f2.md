@@ -29,7 +29,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo in modo che 33N abbia tutte le cifre uguali a 7; trovare la somma di N *
+*N più piccolo in modo che 33N abbia tutte le cifre uguali a 7; trovare la somma di N*
 
 > $N$ sia il numero intero positivo più piccolo in modo tale che $N \times 33$ produca un numero i cui numeri sono tutti uguali a $7$. Trova la somma delle cifre di $N$.
 
@@ -143,7 +143,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integer r,s; quadratico con radici interi; contare i possibili valori di ̊r−s di *
+*Integer r,s; quadratico con radici interi; contare i possibili valori di ̊r−s di*
 
 > $r$ e $s$ siano numeri interi. È noto che l'equazione quadratica $$x^2 - (r + s)x + rs + 2010 = 0$$ ha due soluzioni integrali. Quanti sono i valori possibili di $|r - s|$?
 

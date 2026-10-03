@@ -38,7 +38,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the smallest perfect square 'modern' (containing 2006) *
+*Number of the smallest perfect square 'modern' (containing 2006)*
 
 > A number is said to be modern if, on base 10, it can be expressed by containing a few  of decimal scripts from 2006: for example 20062006 is modern, while 20200606 and 2006200 are not. How many digits does the smallest perfect square of a positive modern have?
 >
@@ -661,7 +661,7 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit numbers without multiples of 12 *
+*Five-digit numbers without multiples of 12*
 
 > How many five-digit numbers (i.e. between 10000 and 99999) do not contain zeros and are multiples of 12?
 

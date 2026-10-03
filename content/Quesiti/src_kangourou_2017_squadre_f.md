@@ -33,7 +33,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little special number (product first = final sum) *
+*Little special number (product first = final sum)*
 
 > Special We call a special number a positive integer of four digits (significant) such that the product of the first two digits is equal to the sum of the last two. For example, 2351 is a special number (2 × 3 = 5 + 1); another special number is 5387. What's the smallest special number?
 

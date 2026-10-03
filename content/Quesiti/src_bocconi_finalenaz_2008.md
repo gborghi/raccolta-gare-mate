@@ -304,7 +304,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Determine the qualities of the upper row axes using the rule of triangles (identical or all different).*
+*Determine the qualities of the upper row axes using the rule of triangles (identical or all different).*
 
 > The grapes of a grape cluster (represented in the figure, in the plan, in small circles) can be of three qualities: A, B or C. When three circles touch two by two, they form a small triangle (see the two examples shown in the figure). In each of these triangles, the three qualities of acin can be either identical or all different. Complete the figure by writing in particular (in order, from left to right) the letters of the upper-line ears.
 
@@ -422,7 +422,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the integer that, multiplied by 4 and by 5, uses each digit from 1 to 9 together once. *
+*Find the integer that, multiplied by 4 and by 5, uses each digit from 1 to 9 together once.*
 
 > Multiply an integer by 4. Then multiply the same integer by 5. So you're going to find that the results of the two multiples, collectively, use every digit from 1 to 9 once and only once. What 's the whole number you started from ?
 

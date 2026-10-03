@@ -1353,7 +1353,7 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum in the 5x5 table with 2x2 binding *
+*Maximum sum in the 5x5 table with 2x2 binding*
 
 ![[src_kangourou_2018_benjamin_marzo__prob27.png]]
 

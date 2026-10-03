@@ -179,7 +179,7 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Crypto-addition: use all digits from 1 to 9 except one, in the column from smallest to largest, sum 2010. *
+*Crypto-addition: use all digits from 1 to 9 except one, in the column from smallest to largest, sum 2010.*
 
 > Substitute the columns with all digits from $1$ to $9$ except one so that: in each column, the digits of the operation are written from top to bottom from smallest to largest; the addition is accurate. The addition is $\_\,\_\,\_\,\_ + \_\,\_ + \_\,\_ = 2010$.
 

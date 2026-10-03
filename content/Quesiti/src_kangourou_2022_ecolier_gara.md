@@ -561,7 +561,7 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the two male children (total of 22 females) *
+*Age of the two male children (total of 22 females)*
 
 ![[src_kangourou_2022_ecolier_gara__prob11.png]]
 

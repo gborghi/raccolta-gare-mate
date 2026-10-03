@@ -171,7 +171,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two three-digit numbers summed up, seven times the sum of the numbers *
+*Two three-digit numbers summed up, seven times the sum of the numbers*
 
 > Two positive integers of three digits each are written consecutively to each other in a certain order: this gives a six-digit number that turns out to be 7 times the product of the two starting numbers. How much is the sum of these two numbers?
 

@@ -123,7 +123,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande t_n reale tale che una disuguaglianza massima simmetrica tenga *
+*Ricerca il più grande t_n reale tale che una disuguaglianza massima simmetrica tenga*
 
 > $n \ge 3$ sia un numero intero positivo. Trovare il più grande numero reale $t_n$, come funzione di $n$, in modo tale che l'ineguaglianza $$\max(|a_1 + a_2|, |a_2 + a_3|, \ldots, |a_{n-1} + a_n|, |a_n + a_1|) \ge t_n \cdot \max(|a_1|, |a_2|, \ldots, |a_n|)$$ sia valida per tutti i numeri reali $a_1, a_2, \ldots, a_n$.
 

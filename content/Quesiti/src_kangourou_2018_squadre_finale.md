@@ -449,7 +449,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers are reduced to zero by multiplying the digits *
+*How many numbers are reduced to zero by multiplying the digits*
 
 > Reducing to a single digit Francis plays this game: multiply together the digits of a two-digit number and, if the result is a two-digit number, multiply the digits again. He continues in this way until he gets a single digit number. From how many numbers can you get zero as the end result?
 

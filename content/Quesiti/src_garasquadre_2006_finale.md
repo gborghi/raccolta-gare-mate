@@ -426,7 +426,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-* report area 1000A/B *
+*report area 1000A/B*
 
 > Defence against dark mathematics group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
 
@@ -531,7 +531,7 @@ This is the maximum value of the data set.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*counting *
+*counting*
 
 > A condemnation to be avoided The followers of the One-who-can-not-be-proved, fierce proponents of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
 
@@ -596,11 +596,9 @@ This is the maximum value of the data set.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*probability no one in front of *
+*probability no one in front of*
 
 > Hardy, Hermita and Ron are going to class with Fracto Malpoysto. The four are randomly arranged in two rows of five seats each. Calculate the probability that everyone sees well, that is, that nobody has anyone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
-> 
-> I'm going to pay. 4 out of 4  Team competition 2006  National final  Problem texts
 
 **Answer:** 0029
 [[Quesiti/src_garasquadre_2006_finale#q19|src_garasquadre_2006_finale__Q19]]

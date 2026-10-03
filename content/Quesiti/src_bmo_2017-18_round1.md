@@ -83,7 +83,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La linea MN divide sia l'area che il perimetro del triangolo ABC *
+*La linea MN divide sia l'area che il perimetro del triangolo ABC*
 
 > Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ è sul lato $BC$ e $BN = AB$. La linea perpendicolare a $AB$ che passa attraverso $N$ incontra $AB$ a $M$. Prova che la linea $MN$ divide sia l'area che il perimetro del triangolo $ABC$ in parti uguali.
 
@@ -139,7 +139,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro quadrati colorati più piccoli, in modo che non si inseriscano in una griglia di 200x200 100 colori *
+*Quattro quadrati colorati più piccoli, in modo che non si inseriscano in una griglia di 200x200 100 colori*
 
 > Se prendiamo una griglia $2 \times 100$ (o $100 \times 2$) di quadrati unitari, e rimuoviamo i quadrati alternativi da un lato lungo, i quadrati rimanenti $150$ formano un $100$-combo. Henry prende una griglia $200 \times 200$ di quadrati unità, e sceglie $k$ di questi quadrati e li colora in modo che James non sia in grado di scegliere $150$ quadrati incolori che formano un $100$-combo. Qual è il minimo valore possibile di $k$?
 

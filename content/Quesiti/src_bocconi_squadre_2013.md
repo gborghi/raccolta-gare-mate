@@ -130,7 +130,7 @@ Minimum time for three friends to meet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three non-zero digits with equal fractions *
+*Three non-zero digits with equal fractions*
 
 > Find three non-zero and distinct digits A, B, C so the following fractional equality is: $$\frac{\overline{ABBBBBBB}}{\overline{BBBBBBBC}} = \frac{A}{C}$$ There are more solutions: find them all!
 
@@ -549,7 +549,7 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance to travel from A to D *
+*Minimum distance to travel from A to D*
 
 > Four oil wells are located in four points of the desert: A, B, C, D, aligned in this order (left to right) and each 2 km apart. When wells in B and C are set on fire, a safety zone is created around them for which it is forbidden to be less than 1 km from B and C.
 > 

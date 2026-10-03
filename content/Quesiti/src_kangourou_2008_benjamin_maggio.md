@@ -218,7 +218,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*LIETI numbers <1000 (square divisible by 7,8,9,10) *
+*LIETI numbers <1000 (square divisible by 7,8,9,10)*
 
 > Let's say an integer greater than zero is LIETO if its square (i.e. the product of the number itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all LIETI numbers less than $1000$.
 

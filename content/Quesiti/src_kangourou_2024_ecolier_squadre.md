@@ -290,7 +290,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of five integers with triple constraint *
+*Minimum sum of five integers with triple constraint*
 
 > Five numbers Five integers greater than zero are all different from each other. However you choose three of the five numbers, their sum is greater than the sum of the other two. What is the smallest possible value for the sum of these five numbers? Answer: 0035.
 

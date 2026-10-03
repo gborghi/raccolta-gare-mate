@@ -17,13 +17,14 @@ level: kangourou
 
 *Quanti interi con prodotto cifre 33*
 
-> Nel disegno vedi due quadrati, ciascuno di lato $3$ cm, uniti per il vertice $C$. Una formica parte dal punto $A$ e percorre il bordo della figura seguendo il tragitto $ABCDEFCGA$. La formica ripete il percorso più volte. Dopo aver percorso una distanza di $2019$ cm, la formica si stanca e si ferma nel vertice in cui si trova in quel momento. Quale lettera lo denota? (vedi figura)
+> Trentatré
+> Quanti numeri interi positivi sono tali che il prodotto delle loro cifre è 33?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -31,7 +32,8 @@ level: kangourou
 
 *Integres with product numbers 33*
 
-> In the drawing you see two squares, each side $3$ cm, joined together for the $C$ vertex. An ant starts from the $A$ point and follows the $ABCDEFCGA$ path along the edge of the figure. The ant repeats the route several times. After travelling a distance of $2019$ cm, the ant gets tired and stops at the top where it is at that moment. What letter denotes it? (see figure)
+> Thirty-three
+> How many positive integers are such that the product of their digits is 33?
 
 **Answer:** 0000
 [[Quesiti/src_kangourou_2019_ecolier_finale#q01|src_kangourou_2019_ecolier_finale__Q01]]
@@ -45,34 +47,28 @@ level: kangourou
 
 *Colorazioni distinte di un cubo (rotazioni)*
 
-> Tre persone hanno attraversato un prato innevato con le scarpe infangate, lasciando le impronte che vedi in figura. In che ordine sono passate?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (vedi figura)
+> Il cubo dipinto
+> Si vogliono dipingere di nero alcune facce di un cubo bianco. Almeno una faccia deve risultare nera
+> e almeno una faccia deve rimanere bianca. Quante diverse colorazioni sono possibili, intendendo
+> uguali due colorazioni se si possono ottenere una dall’altra ruotando il cubo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct colours of a cube (rotations) *
+*Distinct colours of a cube (rotations)*
 
-> Three people walked through a snow-covered meadow with their muddy shoes, leaving the footprints you see in the picture. In what order did they come through?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (see figure)
+> The painted cube
+> We want to paint some faces of a white cube black. At least one face must turn out black
+> and at least one face must remain white. How many different colorings are possible, meaning
+> two colorings are equal if one can be obtained from the other by rotating the cube?
 
 **Answer:** 0008
 [[Quesiti/src_kangourou_2019_ecolier_finale#q02|src_kangourou_2019_ecolier_finale__Q02]]
@@ -86,19 +82,16 @@ level: kangourou
 
 *Distanza del canguro dopo 2019 salti 3 avanti 1 indietro*
 
-> Nella copertina di un libro per bambini sui mezzi di trasporto ci sono due finestre. Quando si apre la copertina, appare quello che mostra la figura. Quali mezzi si vedono quando il libro è chiuso?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (vedi figura)
+> I salti del canguro
+> Un canguro fa sempre salti della stessa lunghezza; si muove lungo una strada rettilinea e dopo aver
+> fatto tre salti in avanti ne fa uno indietro, poi di nuovo tre in avanti e uno indietro e così via.
+> Misurando la strada in salti, quanti salti è lontano il canguro dal punto di partenza dopo 2019 salti?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1011
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -106,13 +99,10 @@ level: kangourou
 
 *Distance of the kangaroo after 2019 jumps 3 forward 1 backward*
 
-> On the cover of a children's book about means of transport there are two windows. When the cover is opened, what is shown in the figure appears. Which means of transport are seen when the book is closed?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (see figure)
+> The kangaroo's jumps
+> A kangaroo always makes jumps of the same length; it moves along a straight road and after having
+> made three jumps forward it makes one backward, then again three forward and one backward, and so on.
+> Measuring the road in jumps, how many jumps is the kangaroo away from the starting point after 2019 jumps?
 
 **Answer:** 1011
 [[Quesiti/src_kangourou_2019_ecolier_finale#q03|src_kangourou_2019_ecolier_finale__Q03]]
@@ -126,34 +116,28 @@ level: kangourou
 
 *Sequenze vincenti testa o croce sei lanci*
 
-> Dalla griglia che vedi nella figura a fianco, Caterina ritaglia una tessera formata da due quadretti accostati. Quale delle seguenti tessere può ottenere?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (vedi figura)
+> Testa o croce
+> Caterina gioca a testa o croce con una moneta. La lancia sei volte di fila e considera vincente il caso
+> in cui esce “testa” consecutivamente per esattamente 3 volte. Quante diverse sequenze che siano
+> l’esito di sei lanci consecutivi risultano vincenti?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning sequences heads or tails six throws *
+*Winning sequences heads or tails six throws*
 
-> From the grid you see in the figure next to her, Catherine cuts out a tile made up of two adjacent squares. Which of the following tiles can she get?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (see figure)
+> Heads or tails
+> Caterina plays heads or tails with a coin. She tosses it six times in a row and considers winning the case
+> in which "heads" comes up consecutively for exactly 3 times. How many different sequences that are
+> the outcome of six consecutive tosses turn out to be winning?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2019_ecolier_finale#q04|src_kangourou_2019_ecolier_finale__Q04]]
@@ -167,19 +151,22 @@ level: kangourou
 
 *Numero pensato per comporre il braccialetto*
 
-> Come mostra la figura, la mamma ha tagliato a metà una torta, poi ha tagliato a metà una delle due metà, ancora ha tagliato a metà una delle due parti ottenute e infine ha tagliato a metà una delle due ultime fette ottenute. Le fette più piccole che ha ottenuto pesano un etto. Quanti etti pesava l'intera torta?
->
-> - **(A)** $6$
-> - **(B)** $8$
-> - **(C)** $12$
-> - **(D)** $16$
-> - **(E)** $20$ (vedi figura)
+> Braccialetti
+> Alice compone dei braccialetti di perline bianche e nere, che iniziano e finiscono con dei fermagli,
+> seguendo questa regola: pensa un numero, lo divide per due e se non ottiene resto infila una perlina
+> nera, se ottiene resto infila una perlina bianca; poi ripete l’operazione sul quoziente che ha ottenuto
+> con la divisione precedente e va avanti così finché non ottiene come quoziente 1: a questo punto
+> infila una perlina bianca (e aggiunge il fermaglio di chiusura). Ad esempio, qui sotto vedete a
+> sinistra il risultato se pensa 5, a destra il risultato se pensa 6:
+> (la forma non circolare a sinistra rappresenta il fermaglio che ha messo prima di iniziare il lavoro,
+> quella a destra rappresenta il fermaglio che ha messo alla fine).
+> Che numero deve avere pensato per comporre il braccialetto che vedete qui sotto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0150
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -187,13 +174,16 @@ level: kangourou
 
 *Number thought up to compose the bracelet*
 
-> As the figure shows, the mother cut a cake in half, then cut one of the two halves in half, then again cut one of the two resulting parts in half, and finally cut one of the last two slices obtained in half. The smallest slices she obtained weigh one hectogram. How many hectograms did the whole cake weigh?
->
-> - **(A)** $6$
-> - **(B)** $8$
-> - **(C)** $12$
-> - **(D)** $16$
-> - **(E)** $20$ (see figure)
+> Bracelets
+> Alice makes bracelets out of white and black beads, which begin and end with clasps,
+> following this rule: she thinks of a number, divides it by two and if she does not get a remainder she threads a black
+> bead, if she gets a remainder she threads a white bead; then she repeats the operation on the quotient she obtained
+> with the previous division and goes on like this until she obtains 1 as the quotient: at this point
+> she threads a white bead (and adds the closing clasp). For example, below you see on the
+> left the result if she thinks of 5, on the right the result if she thinks of 6:
+> (the non-circular shape on the left represents the clasp she put on before starting the work,
+> the one on the right represents the clasp she put on at the end).
+> What number must she have thought of in order to make the bracelet that you see below?
 
 **Answer:** 0150
 [[Quesiti/src_kangourou_2019_ecolier_finale#q05|src_kangourou_2019_ecolier_finale__Q05]]
@@ -207,20 +197,17 @@ level: kangourou
 
 *Numero ABC con A AB BC tutti quadrati perfetti*
 
-> In una classe il numero delle ragazze è il doppio del numero dei ragazzi e lo supera di $8$. Quanti studenti ci sono in quella classe?
->
-> - **(A)** $16$
-> - **(B)** $18$
-> - **(C)** $20$
-> - **(D)** $24$
-> - **(E)** $28$
+> I quadrati perfetti
+> A, B e C sono tre cifre e A è diversa da 0. I tre numeri A, AB e BC ottenuti accostandole possono
+> tutti esprimere l’area (in centimetri quadrati) di quadrati con un lato che misuri un numero intero di
+> centimetri. Che numero è ABC?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0164
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -228,13 +215,10 @@ level: kangourou
 
 *Number ABC with A AB BC all perfect squares*
 
-> In one class the number of girls is twice the number of boys and exceeds it by $8$. How many students are in that class?
->
-> - **(A)** $16$
-> - **(B)** $18$
-> - **(C)** $20$
-> - **(D)** $24$
-> - **(E)** $28$
+> Perfect squares
+> A, B and C are three digits and A is different from 0. The three numbers A, AB and BC obtained by placing them side by side can
+> all express the area (in square centimetres) of squares with a side measuring a whole number of
+> centimetres. What number is ABC?
 
 **Answer:** 0164
 [[Quesiti/src_kangourou_2019_ecolier_finale#q06|src_kangourou_2019_ecolier_finale__Q06]]
@@ -248,20 +232,16 @@ level: kangourou
 
 *Numeri pari con ultime sei cifre uguali in intervallo*
 
-> Linda ha appeso in una bacheca $3$ fotografie usando $8$ puntine da disegno, come ti mostra la figura. Se ne avesse appese $7$ operando alla stessa maniera, quante puntine avrebbe dovuto usare?
->
-> - **(A)** $14$
-> - **(B)** $16$
-> - **(C)** $18$
-> - **(D)** $22$
-> - **(E)** $26$ (vedi figura)
+> Numeri pari
+> Quanti sono i numeri interi pari che sono più grandi di 987.654.321, più piccoli di 1234.567.890 e
+> le cui ultime sei cifre sono tutte uguali tra loro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1235
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -269,13 +249,9 @@ level: kangourou
 
 *Even numbers with the last six digits equal in an interval*
 
-> Linda hung $3$ photographs on a bulletin board using $8$ drawing pins, as the figure shows you. If she had hung $7$ doing the same way, how many pins would she have had to use?
->
-> - **(A)** $14$
-> - **(B)** $16$
-> - **(C)** $18$
-> - **(D)** $22$
-> - **(E)** $26$ (see figure)
+> Even numbers
+> How many even integers are there that are greater than 987,654,321, less than 1,234,567,890 and
+> whose last six digits are all equal to each other?
 
 **Answer:** 1235
 [[Quesiti/src_kangourou_2019_ecolier_finale#q07|src_kangourou_2019_ecolier_finale__Q07]]
@@ -289,19 +265,15 @@ level: kangourou
 
 *Quante figurine quadrate (653 figure 2019 lati)*
 
-> Nella prima figura vedi cinque piastrelle quadrate, tutte uguali fra loro, accostate in un certo modo. Levandone una opportunamente scelta e lasciando le altre nella posizione in cui si trovano, quante delle seguenti forme puoi ottenere?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $4$
-> - **(E)** $5$ (vedi figura)
+> Le figurine
+> Una scatola contiene figurine triangolari e figurine quadrate, per un totale di 653 figurine. Contando
+> i lati di tutte le figurine si ottiene 2019. Quante sono le figurine quadrate?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0060
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -309,13 +281,9 @@ level: kangourou
 
 *How many square tiles (653 figures 2019 sides)*
 
-> In the first figure you see five square tiles, all equal to each other, placed next to each other in a certain way. By removing one suitably chosen and leaving the others in the position in which they are, how many of the following shapes can you obtain?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $4$
-> - **(E)** $5$ (see figure)
+> The stickers
+> A box contains triangular stickers and square stickers, for a total of 653 stickers. Counting
+> the sides of all the stickers gives 2019. How many square stickers are there?
 
 **Answer:** 0060
 [[Quesiti/src_kangourou_2019_ecolier_finale#q08|src_kangourou_2019_ecolier_finale__Q08]]
@@ -329,19 +297,17 @@ level: kangourou
 
 *Perimetro del poligono ortogonale di area 200*
 
-> In figura vedi un percorso ad ostacoli: gli ostacoli sono i quadrati grigi che rappresentano altrettante pozze d'acqua. Per raggiungere l'ultima casella, quella indicata con $X$, il canguro Jump deve compiere dei salti in avanti: quando atterra su una casella, deve ripartire con un salto lungo tante caselle quante sono indicate nella casella da cui parte (ad esempio: $1$ significa che deve atterrare sulla casella successiva, $2$ che deve saltare una casella e così via). Quante caselle deve essere lungo il suo primo salto, se vuole atterrare in $X$ evitando tutte le pozze d'acqua?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $5$
-> - **(E)** Non può riuscire ad evitare tutte le pozze. (vedi figura)
+> Il poligono
+> Nel poligono in figura gli otto lati corti hanno la stessa lunghezza e i quattro lati
+> lunghi hanno la stessa lunghezza, doppia della precedente. Inoltre lati consecutivi
+> sono perpendicolari tra loro. Se il poligono ha area 200 cm², quanti centimetri è
+> lungo il suo perimetro?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0080
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -349,13 +315,11 @@ level: kangourou
 
 *Perimeter of the orthogonal polygon of area 200*
 
-> In the figure you can see an obstacle course: the obstacles are the gray squares representing so many puddles. To reach the last box, the one indicated with $X$, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: $1$ means it must land on the next box, $2$ means it must jump a box, and so on). How many boxes does it have to be along its first jump if it wants to land in $X$ avoiding all the puddles?
->
-> - **(A)** $1$
-> - **(B)** $2$
-> - **(C)** $3$
-> - **(D)** $5$
-> - **(E)** He can't avoid all the wells. (see figure)
+> The polygon
+> In the polygon in the figure, the eight short sides have the same length and the four long
+> sides have the same length, double the previous one. Moreover, consecutive sides
+> are perpendicular to each other. If the polygon has area 200 cm², how many centimeters is
+> its perimeter long?
 
 **Answer:** 0080
 [[Quesiti/src_kangourou_2019_ecolier_finale#q09|src_kangourou_2019_ecolier_finale__Q09]]
@@ -369,20 +333,17 @@ level: kangourou
 
 *Quanti anni meravigliosi nel 21-esimo secolo*
 
-> Sei strisce di carta sono intrecciate e incollate su un vetro trasparente; Franca e Guido le osservano da parti opposte del vetro. La figura ti mostra quello che vede Franca. Che cosa vede Guido?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (vedi figura)
+> Anni meravigliosi
+> Diciamo che un anno è meraviglioso se con le sue cifre si possono comporre due numeri
+> consecutivi di due cifre significative (cioè numeri che non si possono scrivere con una sola cifra):
+> ad esempio il 1330 fu un anno meraviglioso. Quanti anni meravigliosi ci sono nel 21-esimo secolo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -390,13 +351,10 @@ level: kangourou
 
 How many wonderful years in the 21st century
 
-> Six strips of paper are woven and glued onto a transparent glass; Franca and Guido observe them from opposite sides of the glass. The figure shows you what Franca sees. What does Guido see?
->
-> - **(A)**
-> - **(B)**
-> - **(C)**
-> - **(D)**
-> - **(E)** (see figure)
+> Wonderful years
+> Let us say that a year is wonderful if with its digits one can compose two
+> consecutive numbers of two significant digits (that is, numbers that cannot be written with a single digit):
+> for example, 1330 was a wonderful year. How many wonderful years are there in the 21st century?
 
 **Answer:** 0006
 [[Quesiti/src_kangourou_2019_ecolier_finale#q10|src_kangourou_2019_ecolier_finale__Q10]]
@@ -451,20 +409,17 @@ How many wonderful years in the 21st century
 
 *Somma dei numeri nei punti medi del triangolo*
 
-> Alcuni amici hanno delle biglie colorate e possono scambiarle secondo queste regole: per $3$ biglie blu si può ottenere una biglia rossa, per $2$ biglie rosse se ne possono ottenere $5$ verdi. Sara ha $16$ biglie blu. Quante biglie verdi potrebbe ottenere al massimo?
->
-> - **(A)** $5$
-> - **(B)** $10$
-> - **(C)** $13$
-> - **(D)** $15$
-> - **(E)** $20$
+> Numeri su un triangolo
+> Inserisci in ogni vertice e in ogni punto medio dei lati di un triangolo equilatero un diverso numero
+> tra 1, 2, 3, 4, 5, 6 in modo che la somma dei numeri scritti su ogni lato sia 11. Quanto vale la
+> somma dei numeri scritti nei punti medi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0009
-**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -472,13 +427,10 @@ How many wonderful years in the 21st century
 
 *Sum of the numbers at the midpoints of the triangle*
 
-> Some friends have colored marbles and can exchange them according to these rules: for $3$ blue marbles one can obtain one red marble, for $2$ red marbles one can obtain $5$ green ones. Sara has $16$ blue marbles. How many green marbles could she obtain at most?
->
-> - **(A)** $5$
-> - **(B)** $10$
-> - **(C)** $13$
-> - **(D)** $15$
-> - **(E)** $20$
+> Numbers on a triangle
+> Place in each vertex and in each midpoint of the sides of an equilateral triangle a different number
+> among 1, 2, 3, 4, 5, 6 so that the sum of the numbers written on each side is 11. What is the
+> sum of the numbers written at the midpoints?
 
 **Answer:** 0009
 [[Quesiti/src_kangourou_2019_ecolier_finale#q12|src_kangourou_2019_ecolier_finale__Q12]]
@@ -492,33 +444,31 @@ How many wonderful years in the 21st century
 
 *Ruggiti non in risposta (tre leoni)*
 
-> Stefano ha a disposizione le cifre $2$, $0$, $1$ e $9$. In ognuna delle caselle in figura ne deve inserire una e le deve usare tutte. Se vuole che la somma indicata fornisca il risultato più grande possibile, che cifra dovrà inserire nella casella indicata con il punto di domanda?
->
-> - **(A)** $0$ oppure $1$.
-> - **(B)** $0$ oppure $2$.
-> - **(C)** Necessariamente $0$.
-> - **(D)** Necessariamente $1$.
-> - **(E)** Necessariamente $2$. (vedi figura)
+> Tre leoni
+> Tre leoni (padre, madre e cucciolo) vivono in una caverna. Essi ruggiscono seguendo questa regola:
+> ogni tre ruggiti (anche non consecutivi) del padre, la madre risponde con due ruggiti; ogni cinque
+> ruggiti (anche non consecutivi) della madre il cucciolo risponde con tre ruggiti, ma talora madre e
+> cucciolo ruggiscono anche non in risposta. Oggi ciascun leone ha ruggito esattamente 32 volte.
+> Quanti di questi ruggiti non sono state risposte ad altri ruggiti?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0058
-**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rugs not responding (three lions) *
+*Rugs not responding (three lions)*
 
-> Stefano has the digits $2$, $0$, $1$ and $9$. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what digit should you enter in the box shown with the question mark?
->
-> - **(A)** $0$ or $1$.
-> - **(B)** $0$ or $2$.
-> - **(C)** Necessarily $0$.
-> - **(D)** Necessarily $1$.
-> - **(E)** Necessarily $2$. (see figure)
+> Three lions
+> Three lions (father, mother and cub) live in a cave. They roar following this rule:
+> for every three roars (even non-consecutive) of the father, the mother responds with two roars; for every five
+> roars (even non-consecutive) of the mother the cub responds with three roars, but sometimes mother and
+> cub also roar not in response. Today each lion has roared exactly 32 times.
+> How many of these roars were not responses to other roars?
 
 **Answer:** 0058
 [[Quesiti/src_kangourou_2019_ecolier_finale#q13|src_kangourou_2019_ecolier_finale__Q13]]
@@ -532,20 +482,19 @@ How many wonderful years in the 21st century
 
 *Cubetti da aggiungere per inscatolare il cubo*
 
-> Un bicchiere pieno d'acqua pesa $400$ grammi. Lo stesso bicchiere vuoto pesa $100$ grammi. Quanti grammi pesa un bicchiere riempito d'acqua a metà?
->
-> - **(A)** $150$
-> - **(B)** $200$
-> - **(C)** $225$
-> - **(D)** $300$
-> - **(E)** Un numero diverso dai precedenti (vedi figura)
+> Cubi inscatolati
+> Usando cubetti tutti di 1 cm di lato, costruiamo dei cubi più grandi. Diciamo che un cubo
+> “inscatola” un cubo più piccolo quando lo contiene in modo che nessun punto del cubo più piccolo
+> rimanga visibile, in altre parole, quando lo avvolge completamente. Sono partito da un cubetto:
+> usando altri 26 cubetti, ho costruito il più piccolo cubo che lo inscatola. Ora voglio costruire il più
+> piccolo cubo che inscatoli anche questo nuovo cubo: quanti cubetti devo aggiungere?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0098
-**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -553,13 +502,12 @@ How many wonderful years in the 21st century
 
 *Cubes to be added to box the cube*
 
-> A full glass of water weighs $400$ grams. The same empty glass weighs $100$ grams. How many grams does a glass of half-filled water weigh?
->
-> - **(A)** $150$
-> - **(B)** $200$
-> - **(C)** $225$
-> - **(D)** $300$
-> - **(E)** A different number from the previous ones (see figure)
+> Boxed cubes
+> Using small cubes all with a side of 1 cm, we build larger cubes. We say that a cube
+> "boxes" a smaller cube when it contains it in such a way that no point of the smaller cube
+> remains visible, in other words, when it completely wraps it. I started from a small cube:
+> using another 26 small cubes, I built the smallest cube that boxes it. Now I want to build the
+> smallest cube that also boxes this new cube: how many small cubes do I have to add?
 
 **Answer:** 0098
 [[Quesiti/src_kangourou_2019_ecolier_finale#q14|src_kangourou_2019_ecolier_finale__Q14]]
@@ -573,19 +521,17 @@ How many wonderful years in the 21st century
 
 *In quante ore si riempie il serbatoio con 10 rubinetti*
 
-> A Kanglandia la moneta è il kang. Con $5$ kang si comprano una mela e una pera, con $7$ kang una mela e una banana, con $10$ kang una pera e una banana. Quanti kang occorrono per comprare una mela, una pera e una banana?
->
-> - **(A)** $8$
-> - **(B)** $9$
-> - **(C)** $10$
-> - **(D)** $11$
-> - **(E)** $12$
+> Il serbatoio
+> Un serbatoio può essere riempito con 10 rubinetti. Uno di essi lo può riempire in un giorno; due dei
+> rimanenti possono riempirlo ciascuno in due giorni, tre dei rimanenti possono riempirlo ciascuno in
+> tre giorni e gli ultimi quattro possono riempirlo ciascuno in quattro giorni. Se tutti i rubinetti
+> vengono aperti simultaneamente, in quante ore si riempie il serbatoio?
 
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -593,13 +539,11 @@ How many wonderful years in the 21st century
 
 *How many hours to fill the tank with 10 taps*
 
-> In Kangland, the currency is the kang. With $5$ kang you buy an apple and a pear, with $7$ kang an apple and a banana, with $10$ kang a pear and a banana. How many kang do you need to buy an apple, a pear and a banana?
->
-> - **(A)** $8$
-> - **(B)** $9$
-> - **(C)** $10$
-> - **(D)** $11$
-> - **(E)** $12$
+> The tank
+> A tank can be filled with 10 taps. One of them can fill it in one day; two of the
+> remaining ones can each fill it in two days, three of the remaining ones can each fill it in
+> three days and the last four can each fill it in four days. If all the taps
+> are opened simultaneously, in how many hours is the tank filled?
 
 **Answer:** 0006
 [[Quesiti/src_kangourou_2019_ecolier_finale#q15|src_kangourou_2019_ecolier_finale__Q15]]

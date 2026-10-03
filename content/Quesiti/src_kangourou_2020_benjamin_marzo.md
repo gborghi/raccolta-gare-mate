@@ -469,7 +469,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where dog and cat meet (triple speed) *
+*Where dog and cat meet (triple speed)*
 
 ![[src_kangourou_2020_benjamin_marzo__prob10.png]]
 
@@ -529,7 +529,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the place of the question mark (circles 1-10) *
+*Number at the place of the question mark (circles 1-10)*
 
 ![[src_kangourou_2020_benjamin_marzo__prob11.png]]
 
@@ -576,7 +576,7 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How long has Trello been out (clock head-down) *
+*How long has Trello been out (clock head-down)*
 
 > In the cave of the Trello bat, there's a digital clock hanging properly. When Trello comes out of the cave, he sees written on the clock [time]. Before dawn he comes home, hangs upside down and still sees written on the clock [time]. How long has Trello been out of the cave? A) 3 hours and 28 minutes. B) 3 hours and 40 minutes. C) 3 hours and 42 minutes. D) 4 hours and 18 minutes. E) 5 hours and 42 minutes.
 
@@ -702,7 +702,7 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the five X-Y routes is the shortest *
+*Which of the five X-Y routes is the shortest*
 
 ![[src_kangourou_2020_benjamin_marzo__prob15.png]]
 
@@ -745,7 +745,7 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to bring 9 tokens of the same colour (slide 3) *
+*Minimum moves to bring 9 tokens of the same colour (slide 3)*
 
 > Nine tokens are black on one face and white on the other. At first all tokens are set with their black face facing up. You have to turn three tokens every move. What's the minimum number of moves you can take to get all the tokens to the same color? It's mandatory to make at least one move. A) 1
 > 	
@@ -805,7 +805,7 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape cannot be obtained with the two pieces of wire *
+*Which shape cannot be obtained with the two pieces of wire*
 
 ![[src_kangourou_2020_benjamin_marzo__prob17.png]]
 

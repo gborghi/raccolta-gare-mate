@@ -157,7 +157,7 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio AE:EC in triangolo rettangolare con angolo di 45 gradi *
+*Ratio AE:EC in triangolo rettangolare con angolo di 45 gradi*
 
 > C'è un triangolo di uguali dimensioni $ABC$ in cui $\angle BAC$ è un angolo retto. C'è un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$ con $\angle ADE=45^\circ$. Se $BD:DC=1:5$ viene dato, si trova $AE:EC$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
 

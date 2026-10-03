@@ -33,7 +33,7 @@ level: squadre
 
 *Number of circumscribed star belts up to 2001 radius*
 
-> This appropriation is intended to cover expenditure relating to the implementation of the programme.
+> **The IMO Confederation** (15 points)
 > 
 > The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius of 1 Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$ The last belt is the only one with a greater radius than 2001 Imoparsec. How many are in all the belts?
 
@@ -535,7 +535,7 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum symbols to represent 2001 (increase or x7) *
+*Minimum symbols to represent 2001 (increase or x7)*
 
 > The following is the list of countries in the world which have been granted the right to vote:
 > 
@@ -568,7 +568,7 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bisexual years (sum of figures 7) between 0 and 5000 *
+*Bisexual years (sum of figures 7) between 0 and 5000*
 
 > The following table shows the number of calendar days: ** Calendars** (30 points)
 > 
@@ -635,7 +635,7 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of successive scoring moves with a maximum of 4 *
+*Percentage of successive scoring moves with a maximum of 4*
 
 > **Sports competence** (55 points)
 > 
@@ -769,9 +769,9 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last four digits of the maximum coefficient of the polynomial *
+*The last four digits of the maximum coefficient of the polynomial*
 
-> This is a list of the countries of Central and Eastern Europe.
+> **More Archaeology** (45 points)
 > 
 > Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
 > 

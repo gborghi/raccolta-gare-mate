@@ -650,7 +650,7 @@ Alignment that prevents Gina from grouping
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final result by combining arrow tokens *
+*Final result by combining arrow tokens*
 
 ![[src_kangourou_2021_ecolier__prob13.png]]
 

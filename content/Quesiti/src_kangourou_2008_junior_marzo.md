@@ -78,7 +78,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First year with total children > parent *
+*First year with total children > parent*
 
 > The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded down to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
 
@@ -267,7 +267,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the AB segment (Pitagora) *
+*Length of the AB segment (Pitagora)*
 
 ![[src_kangourou_2008_junior_marzo__prob5.png]]
 
@@ -397,7 +397,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial rectangular perimeter (sizes Tom/Jerry) *
+*Initial rectangular perimeter (sizes Tom/Jerry)*
 
 > Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each with a perimeter of 40 cm, Jerry gets two rectangles each with a perimeter of 50 cm. What was the perimeter of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm         E) 100 cm
 
@@ -494,8 +494,6 @@ level: kangourou
 *How many more tests per average 4/5*
 
 > In my classroom, math tests are made up of five questions. In the first test I took, I only answered one of the five questions correctly. If from now on I prepare very well so that I can always answer every question correctly, how many tests do I have to take to get an average of four out of five correct answers? A) 2 B) 3 C) 4 D) 5 E) 6 √5 √5 + √2 √13 B A O K + K O = ------ W O W 1 2 3 4 5 Texts_08.qxp 9-03-2008 14:56 Page 23
-> 
-> I'm going to pay. I'm going to pay. 24 24 Kang 2008 Kang 2008 Questions from N. 11 al N. 20 is worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_junior_marzo#q10|src_kangourou_2008_junior_marzo__Q10]]
@@ -566,7 +564,7 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first wise man (parity) *
+*Sum of cards from the first wise man (parity)*
 
 > A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man read? A) 10 B) 12 C) 6 D) 9 E) 15
 
@@ -673,7 +671,7 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*HG length (parallel chords in a circle) *
+*HG length (parallel chords in a circle)*
 
 ![[src_kangourou_2008_junior_marzo__prob15.png]]
 
@@ -874,7 +872,7 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PBC angle measurement (chain of angles) *
+*PBC angle measurement (chain of angles)*
 
 ![[src_kangourou_2008_junior_marzo__prob19.png]]
 
@@ -1260,7 +1258,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure forming the white spheres (8-pyramid) *
+*Figure forming the white spheres (8-pyramid)*
 
 ![[src_kangourou_2008_junior_marzo__prob27.png]]
 

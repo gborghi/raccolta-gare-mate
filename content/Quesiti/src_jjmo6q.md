@@ -57,7 +57,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max × 1004 ×1005 ×... ×2008 è divisibile per 2 *
+*Max × 1004 ×1005 ×... ×2008 è divisibile per 2*
 
 > Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (cioè trovare il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
 
@@ -348,7 +348,7 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore m×n griglia rosso/blu/nero in modo che ogni colore sia vicino agli altri; trovare valido (m,n) *
+*Colore m×n griglia rosso/blu/nero in modo che ogni colore sia vicino agli altri; trovare valido (m,n)*
 
 > Lasciate che $m, n$ siano numeri interi positivi. Vogliamo colorare ogni cella di una griglia $m \times n$ rosso, blu o nero in modo che tutte le seguenti condizioni si applichino:
 > 

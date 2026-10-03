@@ -745,7 +745,7 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number that cannot be the root of the polynomial *
+*Number that cannot be the root of the polynomial*
 
 > In the polynomial 5x3 + ax2 + bx + 24 the coefficients a and b are integers. Which of the following numbers cannot be a root of the polynomial? A) 1
 > 	
@@ -970,7 +970,7 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AD in quadrilateral with perpendicular diagonals *
+*Length AD in quadrilateral with perpendicular diagonals*
 
 ![[src_kangourou_2017_student_marzo__prob22.png]]
 

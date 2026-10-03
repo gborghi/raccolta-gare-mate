@@ -71,7 +71,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the top of the sum triangle (base row 1-10) *
+*Number at the top of the sum triangle (base row 1-10)*
 
 ![[src_kangourou_2013_squadre_f__prob2.png]]
 

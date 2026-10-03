@@ -17,7 +17,9 @@ level: kangourou
 
 *n con 2016 = radice della somma dei cubi dei primi n interi*
 
-> 1) Sia assegnato un piastrellamento poligonale del piano (cioè ogni piastrella sia un poligono). Dimostra o confuta ciascuna delle seguenti affermazioni. a) Se ogni cerchio con centro in un punto P interseca infinite piastrelle, allora P appartiene a infinite piastrelle. b) Se ogni piastrella contiene un cerchio di raggio 1 ed esiste un numero positivo M tale che ogni piastrella sia contenuta in un cerchio di raggio M, allora ogni punto appartiene ad un numero finito di piastrelle.
+> Per un certo valore di n, 2016 è esprimibile come la radice quadrata
+> della somma dei cubi dei primi n interi positivi. Quanto vale n? Spiega come l'hai
+> determinato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
@@ -32,7 +34,9 @@ level: kangourou
 
 *n with 2016 = root of the sum of the cubes of the first n integers*
 
-> 1) A polygonal tiling of the plane (i.e. each tile is a polygon) is assigned. Prove or refute each of the following statements. (a) If every circle with a center at a point P intersects infinite tiles, then P belongs to infinite tiles. (b) If each tile contains a circle of radius 1 and there is a positive number M such that each tile is contained in a circle of radius M, then each point belongs to a finite number of tiles.
+> For a certain value of n, 2016 can be expressed as the square root
+> of the sum of the cubes of the first n positive integers. What is n? Explain how you
+> determined it.
 
 **Answer:** 63
 [[Quesiti/src_kangourou_2016_student_finale#qs1|src_kangourou_2016_student_finale__QS1]]
@@ -46,7 +50,11 @@ level: kangourou
 
 *Giorni festivi in piu aggiungendo i ponti, anno 3000 giorni*
 
-> 2) Sia ora assegnato un piastrellamento generico del piano. Dimostra o confuta la seguente affermazione: se ogni cerchio con centro in un punto P interseca infinite piastrelle, esiste una retta r passante per P tale che ogni segmento di r contenente P al suo interno intersechi infinite piastrelle. N.B. Per fornire alcune risposte, puoi limitarti a tracciare figure sufficientemente esplicative.
+> Nella strana repubblica di Kang gli anni durano 3000 giorni, numerati
+> da 1 a 3000. I giorni festivi sono quelli il cui numero è divisibile per 6 oppure è un
+> numero primo: gli altri sono giorni lavorativi. Se venisse aggiunto ai giorni festivi anche
+> ogni giorno di “ponte”, cioè giorno lavorativo preceduto e seguito da un giorno festivo,
+> quanti giorni festivi in più ci sarebbero in ogni anno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
@@ -60,7 +68,11 @@ level: kangourou
 
 *Additional holidays by adding bridge days, year 3000 days*
 
-> 2) Now let a generic tiling of the plane be given. Prove or disprove the following statement: if every circle with center at a point P intersects infinitely many tiles, there exists a line r passing through P such that every segment of r containing P in its interior intersects infinitely many tiles. N.B. To provide some answers, you may limit yourself to drawing sufficiently explanatory figures.
+> In the strange republic of Kang, years last 3000 days, numbered
+> from 1 to 3000. Holidays are those whose number is divisible by 6 or is a
+> prime number: the others are working days. If to the holidays there were also added
+> every "bridge" day, that is a working day preceded and followed by a holiday,
+> how many more holidays would there be in each year?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2016_student_finale#qs2|src_kangourou_2016_student_finale__QS2]]
@@ -116,7 +128,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the inverses of the products over all subsets *
+*Sum of the inverses of the products over all subsets*
 
 > Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subset is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
 
@@ -234,7 +246,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Statements on plan tiles (conveyance) *
+*Statements on plan tiles (conveyance)*
 
 ![[src_kangourou_2016_student_finale__probs6.png]]
 

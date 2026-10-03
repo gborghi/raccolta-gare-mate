@@ -31,7 +31,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo quadrante inserito nel quadrato unitario, radio *
+*Circolo quadrante inserito nel quadrato unitario, radio*
 
 > Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi l'arco $AC$ internamente, l'arco $BD$ internamente e anche il lato $AB$. Trova il raggio del cerchio $\Gamma$.
 
@@ -116,7 +116,7 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ceviani triangolari, rapporto tra BP/PQ *
+*Ceviani triangolari, rapporto tra BP/PQ*
 
 > Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. Il $F$ deve essere il punto medio di $AC$. In $P$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare $BP/PQ$.
 

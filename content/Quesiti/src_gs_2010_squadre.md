@@ -345,7 +345,7 @@ The number of shifts for Jake to win $1005.
 
 *Total price of party with progressive abandonment*
 
-> This is the first of a series of reports on the progress of the European Union's efforts in the field of education and training.
+> **The Jazz Party** (40 points)
 > 
 > Matt and Lou are throwing a jazz party together, renting a clubhouse that costs $8 per person per hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour, a ninth of the remaining people leave. After another 60 minutes an eighth of the remaining left the party, and so on with this criterion, until half of those still present left. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
 
@@ -603,7 +603,7 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order arrival with a liar (code) *
+*Order arrival with a liar (code)*
 
 > The race, II** (50 points)
 > 

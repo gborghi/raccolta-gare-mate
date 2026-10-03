@@ -168,7 +168,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta massima della frazione di criptaritmo (MATEM)/(ATJCA) *
+*Valuta massima della frazione di criptaritmo (MATEM)/(ATJCA)*
 
 > Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times J \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore più grande possibile di questa espressione?
 > 

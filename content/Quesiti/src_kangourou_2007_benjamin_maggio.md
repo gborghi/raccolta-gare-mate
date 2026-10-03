@@ -51,7 +51,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of the ADE triangle (parallelogram) *
+*area of the ADE triangle (parallelogram)*
 
 ![[src_kangourou_2007_benjamin_maggio__probb1.png]]
 
@@ -103,7 +103,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum coins for triangles and squares *
+*Minimum coins for triangles and squares*
 
 ![[src_kangourou_2007_benjamin_maggio__probb2.png]]
 
@@ -134,7 +134,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of male pupils (91 handshakes) *
+*Number of male pupils (91 handshakes)*
 
 > In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 91 handshakes were made. If males are fewer than females, how many male students are in that class?
 
@@ -172,7 +172,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining molecule type (reactions with invariant) *
+*Remaining molecule type (reactions with invariant)*
 
 > By reacting with each other, three types of $X$, $Y$ and $\text{Anti-X}$ molecules behave as follows: - if a molecule of $X$ meets one of $Y$, a molecule of $\text{Anti-X}$ is formed that replaces them; - if a molecule of $\text{Anti-X}$ meets one of $Y$, a molecule of $X$ is formed that replaces them; - if a molecule of $X$ and one of $\text{Anti-X}$ meet, they explode, disappear and release energy.
 > 
@@ -242,7 +242,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many candies (combinations 3 = double 2) *
+*How many candies (combinations 3 = double 2)*
 
 > I have candies all different from each other in my pocket, and the number of ways I can choose three is twice the number of ways I can choose two. How many candies do I have in my pocket?
 

@@ -234,7 +234,7 @@ Raphael sceglie carte da un insieme aritmetico che somma a 100
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nove numeri ordinati: mezzo è la media di tutti; trovare la somma totale *
+*Nove numeri ordinati: mezzo è la media di tutti; trovare la somma totale*
 
 > Nove numeri sono scritti in ordine crescente. Il numero medio è la media aritmetica dei nove numeri. La media aritmetica del $5$ più grande è $68$ e la media aritmetica del $5$ più piccolo è $44$. La somma di tutti i numeri è:
 > 

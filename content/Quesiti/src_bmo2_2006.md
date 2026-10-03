@@ -115,7 +115,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esame con bambini 2006, qualsiasi tre domande ≥5 domande; trovare risposte minime corrette *
+*Esame con bambini 2006, qualsiasi tre domande ≥5 domande; trovare risposte minime corrette*
 
 > Un esame composto da sei domande è presentato da bambini $2006$. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Il numero di risposte corrette ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino $1$ $+$ il totale risolto dal bambino $2$ $+ \cdots +$ il totale risolto dal bambino $2006$). Trova il minimo valore possibile di $N$.
 

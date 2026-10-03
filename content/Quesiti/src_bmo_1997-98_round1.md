@@ -31,7 +31,7 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-* 5x5 griglia riempita come quadrato latino; analizzare il punteggio sotto diagonale*
+*5x5 griglia riempita come quadrato latino; analizzare il punteggio sotto diagonale*
 
 > Un quadrato $5\times 5$ è diviso in quadrati unitari $25$. Uno dei numeri $1, 2, 3, 4, 5$ viene inserito in ciascun quadrato di unità in modo tale che ogni riga, ogni colonna e ciascuna delle due diagonali contenga ciascuno dei cinque numeri una volta e solo una volta. La somma dei numeri nei quattro quadrati immediatamente sotto la diagonale dall'alto a sinistra a basso a destra si chiama il \emph{score}. Mostrare che è impossibile che il punteggio sia $20$. Qual è il punteggio più alto possibile?
 

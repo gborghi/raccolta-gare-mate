@@ -434,7 +434,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum numero di adulti paganti in uno stadio dato il totale delle entrate *
+*Minimum numero di adulti paganti in uno stadio dato il totale delle entrate*
 
 > Il prezzo di ingresso in uno stadio di calcio è di R\$$7.50$ for adults and R\$$2.50$ for children. In the last Sunday's game, the stadium collected R\$$3000.00$ da parte di un pubblico inferiore a $600$ che paga lo spettatore. Almeno quanti adulti paganti c'erano nello stadio?
 > 

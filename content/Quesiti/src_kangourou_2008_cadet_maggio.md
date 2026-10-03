@@ -33,7 +33,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final turnout at the polls (increase in percentage) *
+*Final turnout at the polls (increase in percentage)*
 
 > Elections for mayor of Kanguria are held every four years. Voters can exercise their right to vote in a single day.
 > 

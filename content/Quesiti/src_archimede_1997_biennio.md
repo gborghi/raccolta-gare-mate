@@ -77,7 +77,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next number with three digits on the meter *
+*Next number with three digits on the meter*
 
 > A bicycle's meter is 3,733 km. The first time you re-mark a number with three digits will happen.
 >
@@ -209,7 +209,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of an expression with decimals *
+*Value of an expression with decimals*
 
 > What is the value of the expression 0, 1 + 1 0, 1 2 ?
 >

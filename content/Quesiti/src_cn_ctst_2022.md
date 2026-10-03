@@ -88,7 +88,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco multidimensionale con pezzi: trovare il numero minimo di partenze *
+*Gioco multidimensionale con pezzi: trovare il numero minimo di partenze*
 
 > Date le cifre integri positive $n$, $p_1, p_2, \ldots, p_n$ (ciascuno $p_i \ge 2$) e $b_1, b_2, \ldots, b_n$. Lasciate che il $Q = \{(x_1, x_2, \ldots, x_n) \in \mathbb{Z}_{\ge 0}^n \mid 0 \le x_i \le p_i^{b_i} - 1 \text{ for each } i\}$ sia la tabella di gioco. Inizialmente posizionare $M$ pezzi di gioco su $Q$ (senza restrizioni sul numero di pezzi per posizione). Esistono tipi di movimenti legali $n$: il tipo $i$-th rimuove i pezzi $p_i$ dalla posizione $(x_1, \ldots, x_n) \in Q$ (con $x_i \ge 1$) e colloca un pezzo a $(x_1, \ldots, x_i - 1, \ldots, x_n)$. Trovare il valore minimo di $M$ in modo tale che, indipendentemente dal modo in cui i pezzi di gioco $M$ sono inizialmente posizionati, si possa sempre eseguire una sequenza di mosse per ottenere almeno un pezzo all'origine $(0, 0, \ldots, 0)$.
 
@@ -151,7 +151,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*240 numeri complessi sul cerchio unitario che soddisfano le limitazioni di arco: trovare il modulo massimo della somma *
+*240 numeri complessi sul cerchio unitario che soddisfano le limitazioni di arco: trovare il modulo massimo della somma*
 
 > Il $C = \{z \in \mathbb{C} \mid |z| = 1\}$ deve essere il cerchio unitario del piano complesso. 240 numeri complessi $z_1, z_2, \ldots, z_{240} \in C$ (repetite consentite) soddisfano le seguenti condizioni: (1) per qualsiasi arco aperto $\widehat{\Gamma}$ di lunghezza $\dfrac{\pi}{5}$ su $C$, ci sono al massimo $200$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\Gamma}$; (2) per qualsiasi arco aperto $\widehat{\gamma}$ di lunghezza $\dfrac{\pi}{240}$ su $C$, ci sono al massimo $120$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\gamma}$. Trova il massimo di $|z_1 + z_2 + \cdots + z_{240}|$.
 
@@ -209,7 +209,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*m×n griglia con diagonali opzionali che formano un ciclo euleriano: trovare tutte le valenti (m,n) *
+*m×n griglia con diagonali opzionali che formano un ciclo euleriano: trovare tutte le valenti (m,n)*
 
 > In una griglia $m \times n$ (con linee orizzontali $m + 1$ e linee verticali $n + 1$), si può aggiungere al massimo una diagonale per ogni quadrato unitario. Il grafico risultante (vertici in tutti i punti della griglia, bordi sono i segmenti della griglia e le diagonali aggiunte) dovrebbe essere un ciclo euleriano, vale a dire, esiste un percorso chiuso che visita ogni borda esattamente una volta. Trova tutte le coppie $(m, n)$ di integri positivi per le quali questo è possibile.
 
@@ -383,7 +383,7 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo all'interno del cerchio: prova dell'esistenza del punto P facendo angolo d'arco interno ≥ angolo d'arco esterno *
+*Circolo all'interno del cerchio: prova dell'esistenza del punto P facendo angolo d'arco interno ≥ angolo d'arco esterno*
 
 > Dato che il cerchio $\Gamma_2$ è all'interno del cerchio $\Gamma_1$ sul piano. Prova che sul piano esiste un punto $P$ con la seguente proprietà: se $\ell$ è una linea che non attraversa $P$ e che incrocia sia $\Gamma_1$ che $\Gamma_2$ in punti distinti, con $\Gamma_1$ tagliato a $A$ e $B$ e $\Gamma_2$ tagliato a $C$ e $D$ (in modo che $A$, $C$, $D$, $B$ siano in questo ordine su $\ell$), allora $\angle CPD \ge \angle APB$.
 

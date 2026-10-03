@@ -1080,7 +1080,7 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deduction on cardboard/blue figures *
+*Logical deduction on cardboard/blue figures*
 
 > On a table there are some triangles and some squares. Some of these figures are blue and some are red, some of these figures are cardboard and some are metal. We know that:
 

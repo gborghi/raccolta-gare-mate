@@ -77,7 +77,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now in Rome when dinner has been served (closed hours) *
+*Now in Rome when dinner has been served (closed hours)*
 
 > When in Rome it's 13:00, in Mexico City it's 6:00. During the flight that took off at 14:00 from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock showed 18:00 What time was it in Rome when dinner was served? A) 16:00 B) 17:50
 >  

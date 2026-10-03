@@ -110,7 +110,7 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di radii di cerchio mistilineare a cerchio incircolo = tan^2((B-C)/4) *
+*Ratio di radii di cerchio mistilineare a cerchio incircolo = tan^2((B-C)/4)*
 
 > Il $\Gamma$ deve essere il cerchio situato all'interno di un triangolo $ABC$ e che tocca i lati $AB$ e $AC$ e l'incircolo $\Gamma'$ del triangolo esternamente. Indicare che il rapporto tra i raggi di $\Gamma$ e $\Gamma'$ è uguale a $\tan^2\!\dfrac{B-C}{4}$.
 

@@ -282,7 +282,7 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale moltiplicativa f(mn)=f(m)^f(n), trovare il minimo di f(f(n)) *
+*Equazione funzionale moltiplicativa f(mn)=f(m)^f(n), trovare il minimo di f(f(n))*
 
 > $f$ deve essere una funzione definita sull'insieme di integri $\ge 2$ che assume valori nell'insieme di integri $\ge 2$, in modo tale che per tutti gli integri $m, n \ge 2$, $$f(mn) = f(m)^{f(n)}.$$ Trovare il valore minimo possibile di $f(f^{(0)})$, dove $f^{(n)}$ indica la composizione $n$-fold di $f$.
 > 

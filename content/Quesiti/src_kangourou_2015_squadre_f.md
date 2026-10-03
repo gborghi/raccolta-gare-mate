@@ -62,7 +62,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 9 with five odd digits (>=4 different) *
+*Multiple of 9 with five odd digits (>=4 different)*
 
 > Five odd digits How many multiples (positive integers) of 9 are there whose representation consists of five odd digits of which at least four are all different from each other?
 
@@ -208,7 +208,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little lucky number (sum of digits div 17) *
+*Little lucky number (sum of digits div 17)*
 
 > A lucky number Some believe that 17 brings good luck. So let's say that a positive integer is lucky if the sum of its digits is divisible by 17 and, when you add 1 to it, the sum of the digits of the new number you get is still divisible by 17. What's the smallest lucky number?
 
@@ -239,7 +239,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with decreasing residues divided by 10..2 *
+*Minimum n with decreasing residues divided by 10..2*
 
 > Remainders and Divisions What's the smallest positive integer that divided by 10 gives a remainder of 9, divided by 9 gives a remainder of 8, divided by 8 gives a remainder of 7 and so on until "divided by 2 gives a remainder of 1"?
 
@@ -318,7 +318,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of odd sums from products of primes *
+*Maximum number of odd sums from products of primes*
 
 > Daniela and prime numbers Daniela chooses 20 prime integers to her liking, all different from each other. She then multiplies them two by two in every possible way (except the order: for example, product 3 × 5 and product 5 × 3 correspond in one way; she never multiplies a number by itself). Finally, she adds the products thus obtained two by two in every possible way. What's the maximum number of odd sums you could get?
 

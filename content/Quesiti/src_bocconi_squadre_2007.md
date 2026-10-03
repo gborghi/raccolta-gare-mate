@@ -154,7 +154,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of Amerigo square with frame *
+*Side of Amerigo square with frame*
 
 > Amerigo hangs his painting (white square), inserting it into a frame that is also square. The area of the painting is equal to that of the darker surface in the figure.
 > 
@@ -593,7 +593,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles *
+*Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles*
 
 > Jacob wants to completely cover the figure, gluing nine pieces of paper (four rectangles and five squares). However, if you stick $1$ mm of $1 \times 1$ paper on certain boxes, none of them are intended.
 > 
@@ -627,7 +627,7 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height difference between Desiderio and Nando (IMC) *
+*Height difference between Desiderio and Nando (IMC)*
 
 > To measure a person's possible overweight, the World Health Organization (WHO) has introduced a 'body mass index' (BMI) given by the ratio of weight, measured in kg, to height squared (in m).
 > 

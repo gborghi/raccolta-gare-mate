@@ -233,7 +233,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of eggs for each box to contain at least one and each side of the chicken to contain exactly 10. *
+*Minimum number of eggs for each box to contain at least one and each side of the chicken to contain exactly 10.*
 
 > Of chickens
 > 
@@ -680,7 +680,7 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Elimination game on N=2012 cards in a circle (every third card is eliminated): Find the card eliminated immediately after the 2012 card. *
+*Elimination game on N=2012 cards in a circle (every third card is eliminated): Find the card eliminated immediately after the 2012 card.*
 
 > He's having so much fun!
 > 

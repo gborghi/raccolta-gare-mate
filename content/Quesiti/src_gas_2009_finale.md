@@ -36,7 +36,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat and upward quadrilateral area of 45 degrees *
+*Flat and upward quadrilateral area of 45 degrees*
 
 > Race to Mount Fatou The Eye of Tauron O, at the top of the tower of Banach Dˆur, is at the same height as the Voragine of Fatou V, the mouth of the volcano into which Frobbo is about to throw the ring. As soon as the Dark Lord realizes what's about to happen, he sets off his personal orchestral guard from base B of the tower. They run for 1311 metres in the plane up to the point P and for the same ascent along the volcano, with a slope of 45 degrees (without changing horizontal direction). How many hectares does the OVPB quadrilateral cover? (A hectare is the area of a square 100 meters.)
 
@@ -173,8 +173,6 @@ Maximum number of Elves among honest/ foolish prisoners
 *Most perfect square of the form aabb*
 
 > Orcs and squares A battalion of orcs is arranged in square formation. Legalois counts them to know how many arrows to use to knock them down and he notices that their number is the largest perfect square that can be written on a decimal basis, using only two distinct digits, in the shape of aabb. How many orcs does the battalion consist of? Team competition 2009  National final  Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2009  National final  Problem texts
 
 **Answer:** 7744
 [[Quesiti/src_gas_2009_finale#q05|src_gas_2009_finale__Q05]]
@@ -431,7 +429,7 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Track speed, distance to reach *
+*Track speed, distance to reach*
 
 > The Orcs kidnapped Morry and Polino at 3 p.m. yesterday afternoon and set off at full speed to Isengraf, 234 miles away. Areagorn, Legalois and Gim-Lie discovered the traces of the abduction only this morning at 9am and immediately began their pursuit, starting from the same spot. Orcs have a very irregular gait, which depends on the sun and their fatigue. At 15 they leave at full speed, at 3 miles per hour and manage to keep this pace for 6 hours; then they slow down to 1.8 mi/h for the next 6 hours; then again they descend to 1.2 mi/h for the 6 hours
 > 
@@ -677,7 +675,7 @@ How to wear 7 rings on 8 fingers in order*
 
 > Evil Tauron, blinded by the craving for power, tells the story of how he can wear the seven rings of the dwarves on the eight surviving fingers of his hands. For each of these ways, he notes how many and which
 > 
-> I'm going to pay. 4 out of 4  Team competition 2009  National final  Problem ring texts go on which finger and in which order. How many different ways will it count? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
+> go on which finger and in which order. How many different ways will it count? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
 
 **Answer:** 7280
 [[Quesiti/src_gas_2009_finale#q19|src_gas_2009_finale__Q19]]

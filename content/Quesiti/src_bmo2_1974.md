@@ -62,7 +62,7 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea poligonale in 50 ×50 quadrati con vincolo di distanza; prova lunghezza > 1248 *
+*Linea poligonale in 50 ×50 quadrati con vincolo di distanza; prova lunghezza > 1248*
 
 > Una linea poligonale è una linea continua $A_1A_2A_3\ldots A_{n+1}$, dove, per $i = 1$ a $n$, $A_iA_{i+1}$ è un segmento di linea retta.
 > 

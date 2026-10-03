@@ -139,11 +139,9 @@ Maximum x with cubic root x+1184)-root x-1184) = 4
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of 4a^3/b + b + 1/a with a,b positive real *
+*Minimum of 4a^3/b + b + 1/a with a,b positive real*
 
 > The first test [60] Finally came the big day of the Triangle tournament. The competitors are placed before the first test: determine the minimum value of 4a3 b + b+1 a at the variation of a > 0 and b > 0 real numbers. Team competition 2006  Public competition  Problem texts  Pag. 1 di 4
-> 
-> I'm going to pay. 2 out of 4  Team competition 2006  Public competition Problem texts
 
 **Answer:** 0004
 [[Quesiti/src_garasquadre_2006_pubblico#q04|src_garasquadre_2006_pubblico__Q04]]
@@ -434,7 +432,7 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-empty subsets of {1,9} with multiple sums of 3 *
+*Non-empty subsets of {1,9} with multiple sums of 3*
 
 > The Quamditch team[40] Hardy, the captain of the Rapporteur's home Quamditch team must decide the roster of the nine players on his home Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are such that the sum of the elements is multiple of 3?
 
@@ -599,7 +597,7 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sets of consecutive integers with a sum of 1 billion *
+*Sets of consecutive integers with a sum of 1 billion*
 
 > Situation of danger [40] Following the intrusion into the castle of the Higher Mathematical School of the followers of the One-who-can-not-be-demonstrated, all the words of order to enter the houses of the school have been changed. As soon as Hardy, Ron and Hermita try to enter the Reporter's house, the guard ghost asks them how many sets of consecutive integers are there and whose sum is a billion. What answer do you have to give to enter?
 
@@ -671,8 +669,6 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 *maximum of four digits*
 
 > At the divination lesson [10] Poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression there are only 2 digits and multiplication marks, and that the result has four digits and is the maximum possible, what answer should Ron give?
-> 
-> I'm going to pay. 4 out of 4  Team competition 2006  Public competition  Problem texts
 
 **Answer:** 9768
 [[Quesiti/src_garasquadre_2006_pubblico#q19|src_garasquadre_2006_pubblico__Q19]]
@@ -703,7 +699,7 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 <div class="qlang-split" data-lang="en"></div>
 
 
-* report area 1000A/B *
+*report area 1000A/B*
 
 > Defence against dark mathematics [25] Group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
 
@@ -771,7 +767,7 @@ The final figure is not much of (5n)! for the years 2006 to 2009*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*counting *
+*counting*
 
 > A condemnation to be avoided [10] The followers of He-who-can-not-be-proven, fierce supporters of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
 

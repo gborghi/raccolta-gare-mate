@@ -467,7 +467,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of chocolates given (left = received) *
+*Number of chocolates given (left = received)*
 
 > The mother gave her children the same number of chocolates. When they each ate six, they realized that, overall, the chocolates left were as many as they each had received from their mother. What is the total number of chocolates the mother gave? A) 27 B) 48 C) 36 D) 21 E) It may not be any of the above. ? • • • • •
 >  
@@ -686,7 +686,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blocks of 2024...2024 divided by 4 *
+*How many blocks of 2024...2024 divided by 4*
 
 > (Points 6) Consider the alignment of digits 202420242024...20242024 where the ordered quadruple 2024 appears 1,012 times. Each block that is made up of any number of consecutive digits in this alignment and does not start with 0 identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth and so on, identifies the number 4.202.420). How many integers, all different from each other, determined by eligible blocks, are divisible by 4? A) 2021             B) 2024             C) 2025             D) 6067            E) 6070
 > 

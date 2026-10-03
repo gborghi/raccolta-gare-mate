@@ -684,7 +684,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Age of the older sister given the average *
+*Age of the older sister given the average*
 
 > The ages of three sisters are different. The average age of three is 10 years. If we look at sisters in pairs, the average age of one couple is 11 years, that of another is 12 years. How old is the older sister? A) 12
 > 	
@@ -1016,7 +1016,7 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers in the three lower circles (products) *
+*Sum of numbers in the three lower circles (products)*
 
 ![[src_kangourou_2022_cadet_gara__prob21.png]]
 
@@ -1352,7 +1352,7 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of areas of the two squares (grey area 43) *
+*sum of areas of the two squares (grey area 43)*
 
 ![[src_kangourou_2022_cadet_gara__prob27.png]]
 

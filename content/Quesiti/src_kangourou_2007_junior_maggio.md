@@ -91,7 +91,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers whose ab square ends in ab (automorphic) *
+*Numbers whose ab square ends in ab (automorphic)*
 
 > The square of a 2-digit number $\overline{ab}$ ends with the same digits $\overline{ab}$. How many and what numbers have this property?
 

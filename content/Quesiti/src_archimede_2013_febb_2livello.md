@@ -83,7 +83,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and crooks, total number of knights given Yes *
+*Knights and crooks, total number of knights given Yes*
 
 > In the Cavaliers Island (who always tell the truth) and the Furfanti Island (who always lie) a survey is conducted among 2013 residents, in which there are three questions: Tifiper team A?, Tifiper team B? and Tifiper team C?. We know that each islander answers all three questions and ticks for one and only one of the three teams. If the answers are "yes" to 3000, how many of the islanders are knights?
 >
@@ -249,7 +249,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Minimum of ∈ X is equal to x^2+4y^2 *
+*Minimum of ∈ X is equal to x^2+4y^2*
 
 > So x and y are real numbers such that you have x2 + 4y2 = 1; what is the minimum value of x = 2y + 2y = 1?
 >
@@ -334,7 +334,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of sub-sets of {1,5,} with an element intersecting *
+*Pairs of sub-sets of {1,5,} with an element intersecting*
 
 > How many pairs (A, B) of subsets of {1, 2, 3, 4, 5} are ordered such that the intersection between A and B has exactly one element?
 >
@@ -375,7 +375,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(5n-1) = 5^(5n)-1, calculated p(3) *
+*Polynomial with p(5n-1) = 5^(5n)-1, calculated p(3)*
 
 > Knowing that the polynomial p is such that, for every integer n, p(5n −1) = 55n −1, how much will p(3) be worth?
 >
@@ -501,7 +501,7 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total pairs ordered by xy=4(y^2+x) *
+*Total pairs ordered by xy=4(y^2+x)*
 
 > How many pairs of integers (x, y) are such that xy = 4(y2 + x)?
 >
@@ -643,7 +643,7 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 <div class="qlang-split" data-lang="en"></div>
 
 
-* for which n returns to the starting point*
+*for which n returns to the starting point*
 
 > Demonstrative Exercise Be a positive whole. A flea is on the real line and performs a sequence of n jumps of length 1,2,3. . . ,n. The flea can choose the order of the jump lengths and for each jump it can decide whether to jump to the right or to the left. (a) Demonstrate that for n = 2012, the fly can end the jump sequence at the same point from which it started. (b) Demonstrate that for n = 2013 this is not possible. (c) In general, what is the point of departure?
 
