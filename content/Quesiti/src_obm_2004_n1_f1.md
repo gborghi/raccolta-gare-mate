@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare il valore di una somma di grandi numeri*
@@ -60,7 +60,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale dei prodotti indicati è strano? *
@@ -92,7 +92,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale potenza è uguale a 2 sollevata a più potenze sommate?
@@ -124,7 +124,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il 20% di 40 *
@@ -157,7 +157,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semplificare una frazione con 2004 in numeratore e denominatore*
@@ -189,7 +189,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di autobus necessari in modo che ogni autobus porti studenti uguali*
@@ -221,7 +221,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum marmi così ogni studente ottiene lo stesso numero*
@@ -255,7 +255,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione di superficie ombrata in forma di quadrati uguali*
@@ -289,7 +289,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tariffa di taxi: trovare la distanza massima con il denaro dato*
@@ -324,7 +324,7 @@ Quale potenza è uguale a 2 sollevata a più potenze sommate?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale progetto di recinzione per giardino costa di più?
@@ -359,7 +359,7 @@ Quale progetto di recinzione per giardino costa di più?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gruppi di studenti di quinto e sesto anno che visitano una grotta, trovare la dimensione del gruppo*
@@ -394,7 +394,7 @@ Quale progetto di recinzione per giardino costa di più?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coloring una mappa di 5 stati in modo che non due vicini condividono un colore*
@@ -428,7 +428,7 @@ Quale progetto di recinzione per giardino costa di più?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzione?
@@ -460,7 +460,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ultima cifra del prodotto 1×3×5×...×97×99*
@@ -492,7 +492,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro di rettangolo formato da due quadrati di superficie 25 cm2*
@@ -526,7 +526,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Forma ottenuta girando un pentagono regolare 252° attorno al suo centro*
@@ -560,7 +560,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione di persone con i capelli biondi da un grafico delle torte*
@@ -595,7 +595,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Qual è la forma 3D che si forma piegando e unendo pezzi di carta?*
@@ -630,7 +630,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero unitario di una somma a 4 cifre su una calcolatrice sfocata*
@@ -670,7 +670,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ridurre in quale casella si trova la moneta, dati indizi di posizionamento*
@@ -703,7 +703,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valori di peso positivo effettivo per la richiesta di un venditore ambulante*
@@ -738,7 +738,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di percorso che visita tutti i nodi di una mappa interconnessa*
@@ -775,7 +775,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di bastoni per assemblare una disposizione esagonale di 32 esagoni*
@@ -812,7 +812,7 @@ Quando l'assistente di un artigiano deve fermarsi per corrispondere alla produzi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quali visualizzazioni corrispondono all'oggetto 3D mostrato?
@@ -846,7 +846,7 @@ Quali visualizzazioni corrispondono all'oggetto 3D mostrato?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'altezza di una pila di 100 nuove banconote dopo la conversione salariale*

@@ -27,7 +27,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inradius/exradius product relation for split triangle*
@@ -58,7 +58,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Based-a vs. base-b digit ratio inequality iff a>b
@@ -89,7 +89,7 @@ Based-a vs. base-b digit ratio inequality iff a>b
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove bounds 0<=b_n<2 for telescoping sequence sum*
@@ -115,7 +115,7 @@ Based-a vs. base-b digit ratio inequality iff a>b
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find n where six consecutive integers split into equal products*
@@ -143,7 +143,7 @@ Based-a vs. base-b digit ratio inequality iff a>b
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tetrahedron perimeter-squared inequality with equality case*
@@ -169,7 +169,7 @@ Based-a vs. base-b digit ratio inequality iff a>b
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *At most 70% of triangles from 100 points are acute*

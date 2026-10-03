@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many real x satisfy 0<=x<=1, 1/x<=1*
@@ -73,7 +73,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering the sides from the heights of a triangle*
@@ -119,7 +119,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The day Barbara has to start to win the challenge
@@ -162,7 +162,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of books of two different genres between 9.7.4*
@@ -206,7 +206,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MON angle width perpendicular to the beam*
@@ -250,7 +250,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two men's currency with two terms of exchange*
@@ -293,7 +293,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sitting modes for 5 people with two couples adjacent*
@@ -337,7 +337,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Price of sweater if VAT goes from 22% to 24%*
@@ -382,7 +382,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DAE angle width in rectangle with height at diagonal*
@@ -423,7 +423,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of right angles in a convex octahedron*
@@ -468,7 +468,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of tiles compatible with jumps of 2,3,4,5*
@@ -510,7 +510,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x+y by sum of two squares zero*
@@ -554,7 +554,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum 8 with normal and special dice*
@@ -594,7 +594,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full squares of 7 between 1 and 5000*
@@ -645,7 +645,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of knights around table 8 with alternate phrases*
@@ -693,7 +693,7 @@ The day Barbara has to start to win the challenge
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of KQ in a rectangular trapezoid with equal angles*

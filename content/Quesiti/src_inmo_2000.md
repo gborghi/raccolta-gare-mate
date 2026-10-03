@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di contatto in cerchio; la linea PQ divide due lati*
@@ -54,7 +54,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi sistema di numeri interi x+y=1-z, x^3+y^3=1-z^2*
@@ -83,7 +83,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rationi uguali con abc non zero: a+b+c=0 o a=b=c*
@@ -111,7 +111,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero convex con lati e angoli speciali; prova la differenza di angolo 90°*
@@ -138,7 +138,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rota cubica con 1 ≤a ≤b ≤c ≥0: 0: 0
@@ -167,7 +167,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(n) conta i triangoli a lato intero; prova f(1999)>f(1996) e f(2000)=f(1997)*

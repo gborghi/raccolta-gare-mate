@@ -34,7 +34,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dividere una torre di potenza per 4 a potenza.*
@@ -77,7 +77,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale dei numeri dati divide un prodotto delle potenze.*
@@ -121,7 +121,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Facce triangolari numerate di un solido; posizioni di conteggio con facce visibili distinte.*
@@ -163,7 +163,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ana scende e Beatriz sale una scala; trova le frazioni rimanenti al passaggio/finitura.*
@@ -206,7 +206,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *PQRS quadrato, T punto medio di QR, U piede di perpendicolare da Q alla linea PT; trovare TU.*
@@ -250,7 +250,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *X e y distinte soddisfano x - 1/x = y - 1/y; trovare xy.*
@@ -292,7 +292,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a tre cifre, cifre distinte da {0,1,2,3}, che sono multipli di 6.*
@@ -334,7 +334,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande divisore comune di tutti i prodotti di tre numeri positivi dispari consecutivi.*
@@ -377,7 +377,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligono regolare: PQ e TS estesi si incontrano a X con angolo QXS = 140 gradi; trovare numero di lati.*
@@ -427,7 +427,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro amici fanno dichiarazioni sulle loro carte; determinano la dichiarazione falsa.*
@@ -470,7 +470,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esmeralda disegna y=2x+6 ma scambia gli assi; identifica il grafico risultante.*
@@ -509,7 +509,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale frazione è più vicina alla radice quadrata di 7.*
@@ -552,7 +552,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con angolo BAC=140; M punto medio di BC, P su AC con MP perpendicolare a AC; trovare un angolo.*
@@ -597,7 +597,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per disegnare una figura in un tratto da P senza tracciare i bordi.*
@@ -642,7 +642,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Net di un icosaedro con limitazioni di vertice; trovare il numero sulla faccia segnata con la domanda.*
@@ -686,7 +686,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali non negativi a, b con a^3 + a < b - b^3; dedurre l'ordine.*
@@ -728,7 +728,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie ordinate (x,y) di integri positivi con x^2 - y^2 = 2^2010.*
@@ -771,7 +771,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio termina con il pezzo di arachidi.
@@ -816,7 +816,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con X,Y,Z sui lati a rapporto 2; rapporto tra superficie XYZ e triangolo di media.*
@@ -860,7 +860,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di prodotti p(A) su tutti i sottosetti A di {1,...,10}.*
@@ -902,7 +902,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con n=2010^2010 e log n definito, ordinare le tre quantità n!, n^{log n}, (log n)^n.*
@@ -943,7 +943,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'elemento più piccolo e più grande tra i numeri interi positivi distinti con condizione di divisibilità/differenza.*
@@ -984,7 +984,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il valore più basso di x^2+x+1 (o simile) in una condizione su x reale (dichiarazione confusa).*
@@ -1028,7 +1028,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto casuale P in quadrato QRST; probabilità che l'angolo RPQ sia acuto.*
@@ -1072,7 +1072,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il minimo valore positivo di 21 m^2 - n^2 per gli integri positivi m, n.*

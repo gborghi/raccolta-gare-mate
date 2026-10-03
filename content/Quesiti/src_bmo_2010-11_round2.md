@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra angoli uguali dal punto interno utilizzando la costruzione ceviana*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n < 2011 con f(n) = f(2011)*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli enti x, y con x+y dividendo 2(x^2+y^2)-xy*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più grande sottogruppo senza parallelogrammi del 2011×2011 griglia integrale*

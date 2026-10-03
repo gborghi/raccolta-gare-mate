@@ -28,7 +28,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi di diagonali di quadrilaterali ciclici, condizione di angolo uguale*
@@ -64,7 +64,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di polinomi di grado n con proprietà moltiplicative speciali*
@@ -100,7 +100,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'esistenza di un polinomio di grado n con due proprietà interi/non uguali*
@@ -132,7 +132,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero massimo di celle cattive in un array di 3×9*

@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure made with 3 equal sticks supported*
@@ -66,7 +66,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between the heights of two fungi*
@@ -104,7 +104,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The longest of the five paths shown
@@ -136,7 +136,7 @@ The longest of the five paths shown
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Point at which to drill four overlapping squares*
@@ -168,7 +168,7 @@ The longest of the five paths shown
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image of the shirt as seen in the mirror*
@@ -206,7 +206,7 @@ The longest of the five paths shown
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The tallest of the five colorful towers.
@@ -250,7 +250,7 @@ The tallest of the five colorful towers.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * holding their right hand *
@@ -288,7 +288,7 @@ The tallest of the five colorful towers.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Kangourou constellation with 20 stars in total
@@ -326,7 +326,7 @@ Kangourou constellation with 20 stars in total
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pieces of tape after cutting*
@@ -370,7 +370,7 @@ Kangourou constellation with 20 stars in total
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cat's arrival point after 20 metres on the wall*
@@ -414,7 +414,7 @@ Kangourou constellation with 20 stars in total
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of flowers purchased to match the vessels
@@ -458,7 +458,7 @@ Minimum number of flowers purchased to match the vessels
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Hiding word from code 3B 1D 4D 2B
@@ -496,7 +496,7 @@ Hiding word from code 3B 1D 4D 2B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure obtained by joining two shapes*
@@ -532,7 +532,7 @@ Hiding word from code 3B 1D 4D 2B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many points less than Angela has Chiara totalled
@@ -568,7 +568,7 @@ How many points less than Angela has Chiara totalled
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Which one and Eva's house on the map
@@ -604,7 +604,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total leaves remaining on the two branches*
@@ -640,7 +640,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form not used by Mara in construction*
@@ -672,7 +672,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fruits left after the magnet has been transformed*
@@ -710,7 +710,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the same box as paper 4*
@@ -748,7 +748,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positions of black teeth after a small wheel turn*
@@ -784,7 +784,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Duration of the performance of the dance in pairs*
@@ -826,7 +826,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of cookie trays for the dish*
@@ -868,7 +868,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cuts of fruit eaten by Kangie in two weeks*
@@ -910,7 +910,7 @@ Which one and Eva's house on the map
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 It's a shelf that the puzzle can't fit on.

@@ -30,7 +30,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n con n <=1991 e n^2+3n+2 divisibili per 6*
@@ -63,7 +63,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con semicircoli su ciascun lato: prova l'identità della somma di superficie*
@@ -92,7 +92,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC: prova x+y+z+xyz=0 per le espressioni tangenti indicate*
@@ -120,7 +120,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri reali a,b,c in (0,1) con a+b+c=2: dimostrare la somma delle frazioni >=8*
@@ -147,7 +147,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con incentro I, punti X,Y su AB,AC: collinearietà e angolo*
@@ -176,7 +176,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi p per i quali 3^(p-1) divide 2^p+1; 3^(n+2) non divide 2^n+1+1*
@@ -206,7 +206,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le soluzioni reali a un sistema simmetrico di tre equazioni*
@@ -233,7 +233,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10 oggetti di peso intero per un totale di 20: divisione in gruppi di peso uguale se nessun peso supera 10*
@@ -260,7 +260,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construzione tangente in cerchio: triangolo AB'C' simile a ABC*
@@ -289,7 +289,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n per le quali il numero di coppie ordinate (x,y) con 1/x+1/y=1/n è pari a 5*

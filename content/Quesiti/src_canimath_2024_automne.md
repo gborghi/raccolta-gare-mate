@@ -29,7 +29,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Computo (2039−2024) 2/9*
@@ -62,7 +62,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find angolo QDP utilizzando due bisettori angolari dal punto D sul lato del triangolo*
@@ -92,7 +92,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri interi positivi a,b,n con a,b. n e n=a+b+ab; mostrare a=b*
@@ -119,7 +119,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Octogono con integri blu sui lati; i prodotti verticali possono essere 1,2,...,8 in qualche ordine?*
@@ -148,7 +148,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma L*
@@ -177,7 +177,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato, triangoli equilaterali ABE e DAF esteriori; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
@@ -206,7 +206,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali a,b,c>0 con il prodotto di somma in coppia ≥; mostrare a+b+c ≥ (3/4) abc*
@@ -236,7 +236,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcola 1/x + 1/y data x+y = 2024xy*
@@ -268,7 +268,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra a≥2,b≥2 con (a−1)/(b−1)−a/b=1; mostrare a/b e (a−1)/(b−1) sono integri*
@@ -301,7 +301,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di 5 punti con condizioni quadrilaterali e di lunghezza uguale*
@@ -330,7 +330,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma di L (versione lycéen)*
@@ -359,7 +359,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato, triangoli equilaterali ABP e DAQ esteriore; calcolo NM/NC*
@@ -386,7 +386,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_l per k≠l ∙*
@@ -413,7 +413,7 @@ Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100 reales su un cerchio, ogni ≤ somma di due vicini; numero massimo di quelli strettamente positivi *
@@ -445,7 +445,7 @@ Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la più grande α tale che per tutte le x_1,...,x_2024 qualche indice i dia la somma delle parti frazionarie ≤ α*

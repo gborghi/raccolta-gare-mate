@@ -26,7 +26,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Dividere sette formaggi in modo che due persone ottengano tre interi e condividano il settimo ugualmente
@@ -53,7 +53,7 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Chi ha ragione sull'identità di "additività delle frazioni" a/b+c/d=(a+c)/(b+d) *
@@ -80,7 +80,7 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero massimo di numeri di telefono di Parigi in modo che qualsiasi errore a un solo cifra si atterri su un numero non assegnato*
@@ -107,7 +107,7 @@ Dividere sette formaggi in modo che due persone ottengano tre interi e condivida
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza aa'+bb'+cc' <= 2S+R(a+b+c) per i triangoli acuti, e se vale per quelli obtusi*

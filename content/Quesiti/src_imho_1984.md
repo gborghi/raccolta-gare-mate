@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare la doppia disuguaglianza per un'espressione simmetrica con x+y+z=1*
 
 > Si dimostri che $0 \le yz + zx + xy - 2xyz \le \dfrac{7}{27}$, dove $x, y, z$ sono numeri reali non negativi tali che $x + y + z = 1$.
-
-
 
 [[Quesiti/src_imho_1984#q01|src_imho_1984__Q01]]
 
@@ -59,14 +58,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi positivi a, b tali che ab(a+b) non sia divisibile per 7 ma (a+b)^7−a^7−b^7 sia divisibile per 7^7*
 
 > Determinare una coppia di numeri interi positivi $a$ e $b$ tali che:
 > (i) $ab(a+b)$ non sia divisibile per $7$;
 > (ii) $(a+b)^7 - a^7 - b^7$ sia divisibile per $7^7$.
 > Fornire una giustificazione della risposta.
-
-
 
 [[Quesiti/src_imho_1984#q02|src_imho_1984__Q02]]
 
@@ -90,11 +88,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Piano finitamente colorato: qualche colore tocca ogni circonferenza C(X)*
 
 > Nel piano sono dati due punti distinti $O$ e $A$. Per ciascun punto $X$ del piano, diverso da $O$, si indichi con $a(X)$ l'ampiezza dell'angolo formato da $OA$ e $OX$ (misurato in senso antiorario da $OA$ a $OX$, $0 \le a(X) < 2\pi$). Sia $C(X)$ la circonferenza di centro $O$ e raggio di lunghezza $OX \cdot a(X) / OX$. Ogni punto del piano è colorato con uno dei colori di un insieme finito. Si dimostri che esiste un punto $Y$ tale che il suo colore compare sulla circonferenza della circonferenza $C(Y)$.
-
-
 
 [[Quesiti/src_imho_1984#q03|src_imho_1984__Q03]]
 
@@ -118,11 +115,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrilatero convesso ABCD: CD tangente alla circonferenza su AB se e solo se BC ∥ AD*
 
 > Sia $ABCD$ un quadrilatero convesso tale che la retta $CD$ sia tangente alla circonferenza avente come diametro $AB$. Si dimostri che la retta $AB$ è tangente alla circonferenza avente come diametro $CD$ se e solo se le rette $BC$ e $AD$ sono parallele.
-
-
 
 [[Quesiti/src_imho_1984#q04|src_imho_1984__Q04]]
 
@@ -148,13 +144,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza tra somma delle diagonali e doppio perimetro per un n-agono convesso*
 
 > Sia $d$ la somma delle lunghezze di tutte le diagonali di un poligono piano convesso con $n$ vertici ($n > 3$), e sia $p$ il suo perimetro. Si dimostri che
 > $$n - 3 < \frac{2d}{p} < \left\lfloor \frac{n}{2} \right\rfloor \cdot \frac{n + 1}{2} - 2,$$
 > dove $\lfloor x \rfloor$ indica il massimo intero non superiore a $x$.
-
-
 
 [[Quesiti/src_imho_1984#q05|src_imho_1984__Q05]]
 
@@ -178,10 +173,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Interi dispari con ad=bc, a+d=2^k, b+c=2^m implicano a=1*
 
 > Siano $a, b, c, d$ numeri interi dispari tali che $0 < a < b < c < d$ e $ad = bc$. Si dimostri che se $a + d = 2^k$ e $b + c = 2^m$ per alcuni interi $k$ e $m$, allora $a = 1$.
-
-
 
 [[Quesiti/src_imho_1984#q06|src_imho_1984__Q06]]

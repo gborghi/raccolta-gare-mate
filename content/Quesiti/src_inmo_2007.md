@@ -29,7 +29,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto, angolo di bisezione mediana; prova il limite di rapporto *
@@ -60,7 +60,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Representare 9n come somma di tre quadrati con coefficienti non interi*
@@ -87,7 +87,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rede integrali se l'espressione del pavimento è un quadrato perfetto*
@@ -115,7 +115,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contate le permutazioni di (1,...,n) con esattamente due inversioni*
@@ -149,7 +149,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles con condizioni di rapporto; dimostrare polinomial ed equilaterale IF*
@@ -179,7 +179,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei prodotti ciclici per i risultati positivi*

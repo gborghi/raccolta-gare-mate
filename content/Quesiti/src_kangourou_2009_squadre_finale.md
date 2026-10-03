@@ -35,7 +35,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate outputs with two black and white boxes*
@@ -72,7 +72,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of closed-loop polygons pentagon-square*
@@ -109,7 +109,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers have been written by Marco (all figures 9) *
@@ -148,7 +148,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Matches played in the tournament with 2009 players*
@@ -183,7 +183,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum subset with consecutive intersection*
@@ -216,7 +216,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum fraction < 1/3 with sum <= 103*
@@ -250,7 +250,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum connections between 13 cities by three means*
@@ -286,7 +286,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *segment x for converting rectangle into square*
@@ -320,7 +320,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First two odd numbers (reserve 5 mod6, 7 mod8) *
@@ -358,7 +358,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 4-digit numbers with divisibility conditions*
@@ -398,7 +398,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Doors open after passing 1000 people*
@@ -445,7 +445,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number in cell A of the 3x4 multiple grid*
@@ -490,7 +490,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seconds when Anna is separated from the dog (500m track) *
@@ -524,7 +524,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N value when Peter is sure of winning (62%) *
@@ -563,7 +563,7 @@ Maximum fraction < 1/3 with sum <= 103*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fractional value of odd sums shifted by 1000*

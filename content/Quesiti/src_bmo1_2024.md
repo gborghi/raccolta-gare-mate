@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le ortografie di OLYMPIADS da digitare da un tipografo non affidabile*
@@ -61,7 +61,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con ricorrenza implica a_0, a_1 numeri interi consecutivi*
@@ -94,7 +94,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construzione del bisettore angolare e del cerchio implica BZ perpendicolare all'AC*
@@ -123,7 +123,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli integri positivi n in modo tale che n volte 2^n più 1 sia un quadrato perfetto*
@@ -152,7 +152,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *1000 punti rossi/blu sul cerchio; trovare i difetti minimi per l'adiacenza*
@@ -183,7 +183,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligono converso con lati uguali e diagonali uguali di salto a 3; quando devono essere uguali gli angoli?*

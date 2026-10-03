@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altezza dal vertice del triangolo che bisecta angolo laterale opposto*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I delegati dei posti di lavoro della conferenza trovano un insieme di valori di n*
@@ -82,7 +82,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La sequenza definita da recidiva è composta solo da integri*
@@ -109,7 +109,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N sfere unità disposte in modo che ciascuna tocchi esattamente altre due; lunghezza tangente legata*

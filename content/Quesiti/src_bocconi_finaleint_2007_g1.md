@@ -30,7 +30,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Logical riddle: the oldest animal of dogs, crickets and cats
@@ -58,7 +58,7 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three consecutive integers of sum 2007: Find the largest *
@@ -88,7 +88,7 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Cube with constant sum on opposite faces: face opposite to 17
@@ -121,7 +121,7 @@ Cube with constant sum on opposite faces: face opposite to 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Put the digits 1-2-3-4-5 in the boxes of an exact multiplication*
@@ -154,7 +154,7 @@ Cube with constant sum on opposite faces: face opposite to 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight: number of masses between 1 g and 25 g balanced with five marked masses*
@@ -185,7 +185,7 @@ Cube with constant sum on opposite faces: face opposite to 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbered 0 or 2
@@ -216,7 +216,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tronked Sudoku: complete the grid with constraints on rows and columns of different lengths*
@@ -249,7 +249,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Block of boxes: each block of 3 consecutive boxes has the same sum; find the two unknown numbers*
@@ -280,7 +280,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Currency: card price paid with 3 different coins using one of 0,50 euro, remaining in 3 different coins*
@@ -311,7 +311,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Addition to be reconstructed: recover the total of the stripped addition*
@@ -341,7 +341,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two TGVs in reverse direction between A and C passing through B: time between their departure moments*
@@ -372,7 +372,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic addition: complete the table with 1,2,3, two empty boxes per row, and sums at the edges*
@@ -405,7 +405,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Terrain of Pere Icles: area of the pentagon with angles of 45, 90, 225 degrees and diagonal AB=152 m*
@@ -438,7 +438,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs and odd: result of multiplication by symbols equal to numbers (triangle) and odd numbers (square) *
@@ -471,7 +471,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calcions range: how many ways to dispose of 16 calissons (rombs) in the hexagonal box*
@@ -504,7 +504,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tiger head: trace the cut into two pieces along the sides or diagonals at 45 degrees of the grid*
@@ -537,7 +537,7 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mira-Jeu 1 km from Ananas
@@ -569,7 +569,7 @@ Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sandbeds: number of convex polyhedra with 3 spikes per nine-sided tip and base*

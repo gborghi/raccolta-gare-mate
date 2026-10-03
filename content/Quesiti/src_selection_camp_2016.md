@@ -26,7 +26,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettore angolare, tangente di circoncircolo, uguale angolo di intersezione di circoncircolo*
@@ -58,7 +58,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova n minimo per set con partizioni buone esattamente 2015*
@@ -90,7 +90,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi gemelli: esistenza per il grado n+1, non esistenza per il grado n*
@@ -119,7 +119,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto di frazioni min 1 divisibili da un primo odd*
@@ -147,7 +147,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di funzioni che soddisfano un'equazione funzionale razionale*
@@ -174,7 +174,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di strette di mano per garantire l'infezione di tutte le persone del 2015*
@@ -202,7 +202,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la costante minima k per una disuguaglianza di somma rispetto ai valori reali positivi*
@@ -229,7 +229,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio BT/BM quando il cerchio attraversa B,M incontra i lati a P,Q e BPTQ è parallelo sul cerchio*
@@ -257,7 +257,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i quadrupli primari p<q<r<s con p^s - r^q = 3*
@@ -288,7 +288,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimo n per il posizionamento di numeri simili a serpenti nel 2015×2015 grid*
@@ -319,7 +319,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le sequenze definite dalla ricorrenza gcd e lcm diventano infine periodiche*
@@ -346,7 +346,7 @@ level: CAMP Selection Camp
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali con cerchi incisi su quattro sottoquadrilaterali: tre linee simultanee o parallele*

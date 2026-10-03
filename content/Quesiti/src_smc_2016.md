@@ -32,7 +32,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quante volte appare il numero 9 nel 987654321 × 9?*
@@ -72,7 +72,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il venerdì del 10% inferiori al normale. James ha comprato un libro lunedì per 5,50 sterline. Qual è il prezzo di venerdì?
@@ -114,7 +114,7 @@ Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il ven
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato con lati di lunghezza 5. Qual è la distanza del centro?*
@@ -157,7 +157,7 @@ Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati potrebbe essere un altro angolo di questo triangolo?
@@ -200,7 +200,7 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri 2,3,4,5,6 sono posizionati uno per ogni cella in una griglia 3×3 per formare due numeri quadrati a tre cifre. Quale cifra è al centro?*
@@ -244,7 +244,7 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato con BC=3 e triangolo rettangolo ABE con BE=4. Trova l'area della regione ombreggiata ABCF.*
@@ -286,7 +286,7 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore più piccolo?
@@ -329,7 +329,7 @@ Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore pi�
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare piccoli quadrati e triangoli. Quanti piccoli quadrati quando n=7?*
@@ -374,7 +374,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un quadrato ha vertici a (0,0),(1,0),(1,1),(0,1). Quanti dei cinque grafici elencati attraversano esattamente due vertici del quadrato?
@@ -419,7 +419,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri 19 sono posizionati uno per ogni cella in una griglia 3×3; i prodotti delle righe sono 12, 112, 216. Trova il prodotto delle cifre nelle celle ombrate (seconda colonna, prima e terza fila).*
@@ -461,7 +461,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una fila di sei celle, ciascuna cellula interna è uguale alla media dei suoi due vicini. La prima cellula è 10 e l'ultima è 25. Quale numero va nel quadrato segnato X (la terza cella)?*
@@ -502,7 +502,7 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
@@ -544,7 +544,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 5 piastrelle quadrate (lenghezza laterale 1) poste fianco a fianco; un quarto di cerchio su ciascuna piastrella forma una curva continua. Qual è la lunghezza totale della curva?*
@@ -587,7 +587,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale numero intero positivo n è un controesempio di: 'se n non è primo allora n − 2 non è primo'?*
@@ -629,7 +629,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre rettangoli incontrano tre linee rette nei punti P, Q, R con angoli esterni p°, q°, r°. Trova p + q + r.*
@@ -672,7 +672,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per quale valore di k √2016 + √56 è uguale a 14^k?*
@@ -713,7 +713,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine crescente. Quanti codici può scegliere?
@@ -755,7 +755,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La circonferenza di un cerchio di raggio r è divisa in quattro archi uguali; coppie di archi alternative sono unite per formare una regione ombrata. Qual è l'area della regione ombrata?*
@@ -798,7 +798,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *S è un insieme di cinque diversi integri positivi, il più grande m. Nessun quadrilaterale con superficie non zero ha tutte le lunghezze laterali elementi distinti di S. Trova il minimo possibile m.*
@@ -840,7 +840,7 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ è parallela ai lati della piastrella quadrata. Trova l'area dell'ottagono grigio centrale.*
@@ -885,7 +885,7 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dieci dischi uguali si trovano tra due cerchi concentrici; ogni disco tocca i suoi due vicini e entrambi i cerchi; raggio del cerchio interno 1. Trova il raggio del cerchio esterno.*
@@ -928,7 +928,7 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno dei tre mente. Quale dei tre sta mentendo?
@@ -968,7 +968,7 @@ Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno d
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio minimo possibile. Qual è la lunghezza laterale del più piccolo cubo che contiene questa sfera?
@@ -1010,7 +1010,7 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel PQRS quadrato, l'arco QS è un quarto di cerchio con il centro Q. La linea TU è tangente all'arco, con T su QR e U su SR estesa. Trova TR: UR.*
@@ -1052,7 +1052,7 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lasciate che n sia il numero intero più piccolo in modo tale che 7n abbia 2016 cifre. Qual è la cifra di unità di n?*

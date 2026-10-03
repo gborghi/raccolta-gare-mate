@@ -27,11 +27,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Limite di xy + yz + zx - 2xyz per numeri reali non negativi che sommano a 1*
 
 > Si dimostri che $0 \leq yz + zx + xy - 2xyz \leq \dfrac{7}{27}$, dove $x$, $y$ e $z$ sono numeri reali non negativi tali che $x + y + z = 1$.
-
-
 
 [[Quesiti/src_imo_1984#q01|src_imo_1984__Q01]]
 
@@ -60,6 +59,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare gli interi positivi con condizioni di divisibilità modulo potenze di 7*
 
 > Determinare una coppia di interi positivi $a$ e $b$ tali che:
@@ -69,8 +69,6 @@ level: IMO
 > (ii) $(a + b)^7 - a^7 - b^7$ è divisibile per $7^7$.
 > 
 > Giustificare la risposta.
-
-
 
 [[Quesiti/src_imo_1984#q02|src_imo_1984__Q02]]
 
@@ -93,11 +91,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *punto con lo stesso colore sulla sua circonferenza*
 
 > Nel piano sono dati due punti distinti $O$ e $A$. Per ogni punto $X$ del piano, diverso da $O$, si indichi con $a(X)$ la misura dell'angolo tra $OA$ e $OX$ in radianti, misurato in senso antiorario da $OA$ ($0 \leq a(X) < 2\pi$). Sia $C(X)$ la circonferenza di centro $O$ e raggio di lunghezza $OX + a(X)/OX$. Ogni punto del piano è colorato con uno dei colori di un insieme finito. Si dimostri che esiste un punto $Y$ tale che $a(Y) > 0$ e il cui colore compare sulla circonferenza della circonferenza $C(Y)$.
-
-
 
 [[Quesiti/src_imo_1984#q03|src_imo_1984__Q03]]
 
@@ -120,11 +117,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza tangente al diametro AB se e solo se BC parallelo a AD*
 
 > Sia $ABCD$ un quadrilatero convesso tale che la retta $CD$ sia tangente alla circonferenza avente $AB$ come diametro. Si dimostri che la retta $AB$ è tangente alla circonferenza avente $CD$ come diametro se e solo se le rette $BC$ e $AD$ sono parallele.
-
-
 
 [[Quesiti/src_imo_1984#q04|src_imo_1984__Q04]]
 
@@ -150,13 +146,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Limite del rapporto tra somma delle diagonali e perimetro di un poligono convesso*
 
 > Sia $d$ la somma delle lunghezze di tutte le diagonali di un poligono piano convesso con $n$ vertici ($n > 3$), e sia $p$ il suo perimetro. Si dimostri che
 > $$n - 3 < \frac{2d}{p} < \left[\frac{n}{2}\right]\left[\frac{n+1}{2}\right] - 2,$$
 > dove $[x]$ indica il massimo intero non superiore a $x$.
-
-
 
 [[Quesiti/src_imo_1984#q05|src_imo_1984__Q05]]
 
@@ -179,10 +174,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Interi dispari con ad=bc e somme potenze di due implicano a=1*
 
 > Siano $a$, $b$, $c$ e $d$ interi dispari tali che $0 < a < b < c < d$ e $ad = bc$. Si dimostri che se $a + d = 2^k$ e $b + c = 2^m$ per alcuni interi $k$ e $m$, allora $a = 1$.
-
-
 
 [[Quesiti/src_imo_1984#q06|src_imo_1984__Q06]]

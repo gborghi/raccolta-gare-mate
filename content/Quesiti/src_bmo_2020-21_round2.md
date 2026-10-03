@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che ogni numero intero positivo ha un moltiplo 'buono'*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tagliare un quadrato con due tipi di piastrelle quadrate*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *AI e KD si incontrano sul circolo del triangolo ABC*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza in cui a_i - i contiene ogni numero intero esattamente una volta*

@@ -30,7 +30,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotti palindromici di numero di punito*
@@ -61,7 +61,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minima costante C nell'inequità di potenza simmetrica per cinque variabili*
@@ -88,7 +88,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'apparecchio quadrato più grande all'interno di un cubo unitario*
@@ -115,7 +115,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di prove per garantire la radiooperazione con batterie sconosciute*
@@ -142,7 +142,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le linee di Euler di tre subtriangoli al punto Fermat sono simultanee*
@@ -171,7 +171,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di un intero positivo x con a^x + x  b (mod c) *

@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of union three rectangles on diagonals, AB=60 BC=80*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of two digits equal to the square of tens plus cubes *
@@ -97,7 +97,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2x6 corridor layouts with 1x2 and 1x3 tiles*
@@ -131,7 +131,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(2024) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2*
@@ -162,7 +162,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum odd coefficient in the development of (x+y)^13*
@@ -197,7 +197,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of amulets after cube-octahedron-cube*
@@ -230,7 +230,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 4 digits with n = a^a+b^b+c^c+d^d*
@@ -263,7 +263,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *1000*BC with circumference for D,E,S tangent to BC*
@@ -297,7 +297,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n with sum of 24 digits x one perfect 3-digit square*
@@ -333,7 +333,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final grid colours 2024x2024, sum of exponents*
@@ -369,7 +369,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences of 4 dice to return to box 1*
@@ -407,7 +407,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of lettuces with k/(k+1) divisions without residues*
@@ -447,7 +447,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with n less reverse equal to 12345678*
@@ -483,7 +483,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of two minimum disjoint paths on the 2024 grid*
@@ -519,7 +519,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pirates on missions with a rational frequency *
@@ -555,7 +555,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spectre of the polynomial (x-2)
@@ -591,7 +591,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length XY x100 with beam and circumscribed circumference*
@@ -625,7 +625,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic pentagon perimeter of whole sides, BAE=120*
@@ -659,7 +659,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Intersection of two cones projection area*
@@ -695,7 +695,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial pairs with winning strategy in the game (x,y) *
@@ -738,7 +738,7 @@ Maximum odd coefficient in the development of (x+y)^13*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total weights of the dividers of 2310*

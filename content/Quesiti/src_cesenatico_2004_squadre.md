@@ -54,7 +54,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the quadrilateral formed by sentinels on equilateral triangles*
@@ -109,7 +109,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum side of an equilateral triangle to contain three circular coins*
@@ -142,7 +142,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum biscuits with divisible by 3,5,7 with data residues*
@@ -177,7 +177,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that the MCD of two dice is 1*
@@ -210,7 +210,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with a digit sum divisible by 11*
@@ -244,7 +244,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Iterate elimination of peers by 9999 soldiers, middle soldier
@@ -278,7 +278,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First term of recurrence a=7a+1 divisible by 30*
@@ -309,7 +309,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of union of 6 circles on the sides of the regular hexagon*
@@ -341,7 +341,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number of 3 distinct digits equal to the mean of permutations*
@@ -378,7 +378,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x2-y2+z2 given two linear constraints*
@@ -417,7 +417,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Common area of two tangent-circumference mixed trapezoids*
@@ -448,7 +448,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interest sum n with (n-1)/(401-n) perfect square*
@@ -481,7 +481,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of unit segments dividing a triangle by area 1/4*
@@ -513,7 +513,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits whole sum divisible by 30 by 30 divisors*
@@ -550,7 +550,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most large number not expressed in palindrome coins (Frobenius) *
@@ -583,7 +583,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of positive whole solutions of 4x+12y+3z^2=2004*
@@ -616,7 +616,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to write 2004 as the sum of 1 (partitions) *
@@ -674,7 +674,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many binomial coefficients C(37,k) divided by 5*
@@ -710,7 +710,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between equal and odd ways of illuminating 6 windows*
@@ -742,7 +742,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of links between cities on different islands*
@@ -777,7 +777,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Clara wine after cyclical bridges between five friends*
@@ -812,7 +812,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colorations of 8 gems in a circle with 4 types, adjacent to each other*
@@ -846,7 +846,7 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 After which move Chiara will have more Franqi (iterized process)
@@ -881,7 +881,7 @@ After which move Chiara will have more Franqi (iterized process)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum product of factors to be removed to make K square*

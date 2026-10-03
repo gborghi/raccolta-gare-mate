@@ -27,7 +27,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con ceviani simultanei; prova uguale angolo*
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione del 1..2011; mostrare due indici con uguale differenza assoluta*
@@ -83,7 +83,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Squadrati perfetti consecutivi; dimostrare che n-kl è un quadrato perfetto*
@@ -112,7 +112,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triplice di vertici ammissibili in un poligono converso a 20 lati*
@@ -143,7 +143,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con bisettori angolari e punto tangente incircolo; prova FE=AD*
@@ -172,7 +172,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie reali (x,y) che soddisfano un'equazione esponenziale*

@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max contatori su tavola 8x8 senza cinque in fila, colonna o lunga diagonale.*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti con una tangente comune; dimostrare che tre punti sono collineari.*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi simultaneamente un sistema di tre equazioni quadratiche in x, y, z.*
@@ -107,7 +107,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli integri positivi n facendo 12n-119 e 75n-539 entrambi quadrati perfetti.*
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con i lati al massimo 2, 3 e 4; trovare la superficie massima possibile.*
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti ai lati del triangolo si incontrano a A e D; dimostrare che D è il punto medio di AE.*

@@ -67,7 +67,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi di Bernstein (proprietà, ricorrenza, divisione di unità, somme probabilistiche) e lo studio geometrico delle curve di Bezier di grado 0/1/2.*
@@ -170,7 +170,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Discrete Dirichlet problema su un grafico connesso: assegnare reali a punti blu in modo che ciascuno è uguale alla media dei suoi vicini, con dati valori a punti gialli; esistenza (iteration monotone) e unicità della soluzione.*
@@ -253,7 +253,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Representazioni di numeri d'oro (base-phi): regola di equivalenza 011<->100, ogni numero naturale è oro, rappresentazioni d'oro puro (nessun 1 consecutivo), contenuto d'oro, confini, esistenza/unicità e un algoritmo applicato al 2018.*

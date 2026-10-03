@@ -29,7 +29,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a due cifre che non sono né prime né moltiples di 2, 3 o 5*
@@ -64,7 +64,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo CDE da rotazione di 90 gradi di ABC attorno a C; trovare angolo alfa*
@@ -99,7 +99,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri composti in {101, 1001, 10001, ..., 1000000000001}*
@@ -131,7 +131,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perla 90% acqua, disidrata al 60% acqua; trova litri evaporati a partire da 100 kg *
@@ -164,7 +164,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza concatenata 123...9991000; quante volte appare il gruppo 89?*
@@ -199,7 +199,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10 pezzi di 3 collegamenti ciascuno; formano una catena di 30 collegamenti in tempo minimo*
@@ -234,7 +234,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nomero a 3 cifre N volte 7 termina in 171; trovare somma a cifre di N*
@@ -267,7 +267,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti su un cerchio con archi di 35 gradi; n>1 più piccolo con P_n = P_1*
@@ -299,7 +299,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCDE pentagono regolare con triangolo equilaterale interno ABF; angolo di ricerca FCD*
@@ -332,7 +332,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo diviso da 2n+1 radii in settori congruenti; regioni massime tagliate anche da una linea*
@@ -365,7 +365,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Papa-Leguas (Road Runner) corsa a 100 giri; primo giro a 200 km/h; limite di velocità media*
@@ -398,7 +398,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare soluzioni di interi distinti di (-6x^2+12x-2)^(x^2-2x+2)=4*
@@ -431,7 +431,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo palla tirata è la palla di Pedro
@@ -464,7 +464,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque animali (cani dicono la verità, lupi mentono); date le dichiarazioni, contate i lupi*
@@ -497,7 +497,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri interi da 1 a 999 in cui la cifra 1 appare esattamente due volte*
@@ -532,7 +532,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tavola rettangolare (2a < b) spinta attraverso un corridoio angolare rettangolare; larghezza minima del corridoio*
@@ -568,7 +568,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale rete di cubi mostra la sezione trasversale evidenziata del cubo con un piano*
@@ -603,7 +603,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(x)=x^2-3x+4; contare le soluzioni reali di f applicato per 2001 volte è uguale a 2*
@@ -636,7 +636,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono 2001*
@@ -669,7 +669,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD trapezoide destra con angoli retti A,B; M,N punti di mezzo di AB,CD; confronta gli angoli ANB e CMD*
@@ -702,7 +702,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di x reale con x^2+x+1 = 156/(x^2+x) *
@@ -735,7 +735,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto ABC; massimo della somma delle distanze da un punto interno/frontaliero ai tre lati*
@@ -768,7 +768,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f:Z a Z, f(x)=x/10 se 10 divide x altrimenti x+1; a0=2001, n più piccolo con a_n=1*
@@ -802,7 +802,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCDEF esagono tangenziale; AB=1,BC=2,CD=3,DE=4,EF=5; trovare FA*
@@ -837,7 +837,7 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, AB=5, BC=6; massimizza l'angolo C; trova la superficie*

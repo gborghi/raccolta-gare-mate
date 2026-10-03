@@ -30,7 +30,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
@@ -63,7 +63,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Auto-referenziale: quante vocali sono la risposta corretta*
@@ -96,7 +96,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conte dei numeri di "bascio" (3,5 volte un numero intero) in un intervallo*
@@ -130,7 +130,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *FP di spostamento quando una linea di divisione del territorio è spostata sul poligono ABCDEF*
@@ -165,7 +165,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta massima della frazione di criptaritmo (MATEM)/(ATJCA) *
@@ -200,7 +200,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fragzione dipinta con sei triangoli equilaterali laterali-2 e un esagono laterale-1*
@@ -236,7 +236,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca xy data x^3+y^3=5(x+y) e x^2+y^2=4*
@@ -272,7 +272,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Data di vacanza dall'ultima cifra del 2016^2014 e del resto del 2014^2014 mod 11*
@@ -307,7 +307,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quante volte la cifra 7 si ripete in una sequenza per formare il più piccolo multiple di 77*
@@ -342,7 +342,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi di tessitura di una lavagna 4x4 con un quadrato 2x2 e quattro tromini L*
@@ -378,7 +378,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo numero odd con esattamente 10 divisori positivi*
@@ -412,7 +412,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contato di interi positivi pari a 3 volte il loro numero di divisori*
@@ -445,7 +445,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massa di uno studente data la somma pari di cinque studenti*
@@ -477,7 +477,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distanza percorsa da una palla da golf/calcio seguendo un percorso semicircolare*
@@ -513,7 +513,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di distanze distinte tra punti in una griglia 4x4*
@@ -549,7 +549,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum pezzi di torta per parità di condivisione tra 4 o 6 persone*
@@ -584,7 +584,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area oscurata in parallelo con lati divisi in 4 e 3 parti*
@@ -619,7 +619,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conto dei quadrati paralleli all'asse in una griglia 4x2012 che generalizza il caso 4x4*
@@ -652,7 +652,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei valori di m così radici di x^2-mx+m+5=0 sono gambe di un triangolo rettangolo con ipotenuza 5*
@@ -685,7 +685,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi in (23456,65432) con prodotto a numeri unici non multiplo di 7*
@@ -720,7 +720,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di un quadrato con un semicircolo inciso il cui centro si trova su una diagonale*
@@ -755,7 +755,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Migliore potenza di 2 divisione 2011^2012 - 1*
@@ -788,7 +788,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anno in cui è massimizzata l'edizione GCD dell'anno e OBM*
@@ -823,7 +823,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meditazione dell'angolo PBQ dato angolo retto ABC e angolo AFD=40 gradi*
@@ -858,7 +858,7 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme più grande di {1..25} senza due elementi il cui prodotto è un quadrato perfetto*

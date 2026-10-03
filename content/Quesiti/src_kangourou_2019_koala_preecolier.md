@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which rectangle contains only numbers less than 7*
@@ -4277,7 +4277,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which and part of the necklace shown*
@@ -5798,7 +5798,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What part can be cut from the grille*
@@ -5846,7 +5846,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pairs of socks with the same number*
@@ -5892,7 +5892,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many floppy disks did Anna take away from the house?
@@ -5938,7 +5938,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many flowers and composite the deck in the rectangle outside the triangle*
@@ -5984,7 +5984,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How much do the two together cost (sums given in pairs) *
@@ -6032,7 +6032,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How packages will be aligned on the left-hand tape*
@@ -6080,7 +6080,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which two doors to close to stop the mouse*
@@ -6126,7 +6126,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pieces of paper after folding and cutting*
@@ -6172,7 +6172,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which order to remove the five overlapping sheets*
@@ -6219,7 +6219,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different routes for the cat to milk*
@@ -6259,7 +6259,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What Aldo sees from the interwoven strips (opposite view) *
@@ -6293,7 +6293,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A solid of four cubes requires less paint*
@@ -6333,7 +6333,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the long side of the sheet floor*
@@ -6379,7 +6379,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many hours since the third stop in Aroo (total 17 hours) *
@@ -6423,7 +6423,7 @@ How many floppy disks did Anna take away from the house?
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Total number of animals (cow and sheep, 8 sheep remaining)
@@ -6469,7 +6469,7 @@ Total number of animals (cow and sheep, 8 sheep remaining)
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What figure did Mauro cut into three pieces?
@@ -6515,7 +6515,7 @@ What figure did Mauro cut into three pieces?
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many dromedaries (10 animals, 14 foxes) *
@@ -6557,7 +6557,7 @@ What figure did Mauro cut into three pieces?
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
@@ -6601,7 +6601,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How high is the pile of sand (flag auction) *
@@ -6645,7 +6645,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which strip left Gino (color changes) *
@@ -6692,7 +6692,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number to indicate for sure (square sum >63) *
@@ -6743,7 +6743,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of tokens after three exchanges (token changing machine) *

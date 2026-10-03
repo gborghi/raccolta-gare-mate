@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le funzioni su un insieme di n elementi la cui (n-1) -th iterate è costante ma (n-2) -th iterate non è.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un limite inferiore di n/2 per una somma di somme parziali assolute sotto qualsiasi permutazione di una matrice speciale.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi concentrici inseriti e circoscritti intorno alla sezione di un ottaedro regolare da un piano attraverso il suo centro; dimostrare un rapporto legato.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una moneta lanciata n volte; somme parziali con valori di lancio 1 o 2; esprimere la probabilità che le somme parziali colpiscano n in modo ricorrente.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un esagono regolare del lato 1 è coperto da sei dischi unitari; dimostrare che nessun vertice è coperto da due o più dischi.*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *1025 città collegate in coppia da 10 compagnie aeree; dimostrare che alcune compagnie aeree hanno un viaggio di andata e ritorno di lunghezza strana.*

@@ -33,7 +33,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diverter of 3^5*4^4*5^3 between options given*
@@ -78,7 +78,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rear wheel gears given front wheel and beams*
@@ -123,7 +123,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Caramels given to Delia for equal distribution*
@@ -169,7 +169,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Select n because the fly returns to 12 after 12 jumps
@@ -210,7 +210,7 @@ Select n because the fly returns to 12 after 12 jumps
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of equilateral triangle and hexagonal areas inscribed*
@@ -256,7 +256,7 @@ Select n because the fly returns to 12 after 12 jumps
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value x in the grid with equal sums*
@@ -302,7 +302,7 @@ Select n because the fly returns to 12 after 12 jumps
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Last year's report on tobacco-farm relations
@@ -346,7 +346,7 @@ Last year's report on tobacco-farm relations
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vertical pentagon colours without axis of symmetry*
@@ -390,7 +390,7 @@ Last year's report on tobacco-farm relations
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AAC angle in an isosceles triangle with a beam*
@@ -433,7 +433,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perfect squares dividing 1600*
@@ -479,7 +479,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of numerical differences for numbers from 10 to 99*
@@ -525,7 +525,7 @@ Last year's report on tobacco-farm relations
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of drawing three triangles from P without removing a pen*
@@ -590,7 +590,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area covered by 60 degree rotated rubber*
@@ -653,7 +653,7 @@ Last year's report on tobacco-farm relations
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of rope routes spent with prices at power of two*
@@ -697,7 +697,7 @@ Last year's report on tobacco-farm relations
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students with n first and n^3+3 first*
@@ -740,7 +740,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of tangent gold and silver coins *
@@ -783,7 +783,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Orders between a, b and 1 given cubic inequality*
@@ -828,7 +828,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Password counting with capital and diminutive vowels*
@@ -874,7 +874,7 @@ Last year's report on tobacco-farm relations
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded area with rectangle, circle and semicircular *
@@ -924,7 +924,7 @@ Last year's report on tobacco-farm relations
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who lies between four poker players

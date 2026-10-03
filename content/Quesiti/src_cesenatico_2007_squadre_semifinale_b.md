@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 4 multiple digits 25 with condition of central digits*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-luxury cartons (multiple 18) (not multiple 24) in 2007*
@@ -102,7 +102,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragment area larger than the broken kunai (AC=19) *
@@ -137,7 +137,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities n in [1,2007] with 2n in 17 groups (conditions) *
@@ -167,7 +167,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *99-eighth root of the product dividers of 2^8*3^10*
@@ -200,7 +200,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum triangular area by triangulation of polygon+oasis (1492)*
@@ -230,7 +230,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product possible third side values (30 degrees, sides 59.95) *
@@ -262,7 +262,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hexagonal prism paper surface (93 sheets) *
@@ -295,7 +295,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits sum produced by subsets of 1.7.2007*
@@ -328,7 +328,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many multiple palindrome codes 3 odd digits <=7 digits*
@@ -366,7 +366,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smaller whole greater than the area of each shuriken*
@@ -399,7 +399,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum of 105 cos t -208sin t +103
@@ -430,7 +430,7 @@ Maximum of 105 cos t -208sin t +103
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum amount not payable with maximum 7 euro coins*
@@ -462,7 +462,7 @@ Maximum of 105 cos t -208sin t +103
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of distinct roots of x^2-ax+4a with positive integer roots*
@@ -501,7 +501,7 @@ Maximum of 105 cos t -208sin t +103
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term number (a,b,c) with a<b, a<4c, bc^3<=ac^3+b, <=1000*

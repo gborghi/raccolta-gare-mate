@@ -39,6 +39,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Colorazione dei vertici dei quadratini unitari, funzione a scacchiera f(m,n)*
 
 > Nel piano i punti di coordinate intere sono i vertici dei quadrati unitari. I quadrati sono colorati alternativamente in nero e bianco (come una scacchiera).
@@ -53,8 +54,6 @@ level: IMO
 > (b) Si dimostri che $f(m,n) \le \frac{1}{2}\max(m,n)$ per ogni $m$ e $n$.
 > 
 > (c) Si dimostri che non esiste una costante $C$ tale che $f(m,n) < C$ per tutti gli $m$ e $n$.
-
-
 
 [[Quesiti/src_imho_1997#q01|src_imho_1997__Q01]]
 
@@ -79,12 +78,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Le bisettrici degli angoli di un triangolo incontrano la circonferenza circoscritta; si dimostri che AU = TB + TC*
 
 > L'angolo in $A$ è l'angolo più piccolo del triangolo $ABC$. I punti $B$ e $C$ dividono la circonferenza circoscritta al triangolo in due archi. Sia $U$ un punto interno all'arco tra $B$ e $C$ che non contiene $A$. Gli assi dei segmenti $AB$ e $AC$ si intersecano rispettivamente con la retta $AU$ nei punti $V$ e $W$. Le rette $BV$ e $CW$ si intersecano in $T$. Si dimostri che
 > $$AU = TB + TC.$$
-
-
 
 [[Quesiti/src_imho_1997#q02|src_imho_1997__Q02]]
 
@@ -113,6 +111,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Numeri reali con somme parziali limitate; trovare una permutazione con somme parziali limitate*
 
 > Siano $x_1, x_2, \ldots, x_n$ numeri reali che soddisfano le condizioni
@@ -121,8 +120,6 @@ level: IMO
 > $$|x_i| \le \frac{n+1}{2}, \quad i = 1, 2, \ldots, n.$$.
 > Si dimostri che esiste una permutazione $y_1, y_2, \ldots, y_n$ di $x_1, x_2, \ldots, x_n$ tale che
 > $$|y_1 + 2y_2 + \cdots + ny_n| \le \frac{n+1}{2}.$$
-
-
 
 [[Quesiti/src_imho_1997#q03|src_imho_1997__Q03]]
 
@@ -150,6 +147,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Matrice argento: matrice n×n con elementi in {1,...,2n-1}*
 
 > Una matrice $n \times n$ i cui elementi appartengono all'insieme $S = \{1, 2, \ldots, 2n-1\}$ si dice *matrice argentea* se, per ogni $i = 1, 2, \ldots, n$, la riga $i$-esima e la colonna $i$-esima insieme contengono tutti gli elementi di $S$. Si dimostri che
@@ -157,8 +155,6 @@ level: IMO
 > (a) non esiste una matrice d'argento per $n = 1997$;
 > 
 > (b) Esistono matrici d'argento per infiniti valori di $n$.
-
-
 
 [[Quesiti/src_imho_1997#q04|src_imho_1997__Q04]]
 
@@ -183,12 +179,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie di interi positivi (a,b) che soddisfano a^(b²)=b^a*
 
 > Determinare tutte le coppie $(a, b)$ di interi $a, b \ge 1$ che soddisfano l'equazione
 > $$a^{b^2} = b^a.$$
-
-
 
 [[Quesiti/src_imho_1997#q05|src_imho_1997__Q05]]
 
@@ -215,13 +210,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Contare le rappresentazioni di n come somma di potenze di 2; dimostrare limiti su f(2^n)*
 
 > Per ogni intero positivo $n$, sia $f(n)$ il numero di modi in cui si può rappresentare $n$ come somma di potenze di $2$ con esponenti interi non negativi. Rappresentazioni che differiscono solo per l'ordine dei loro addendi si considerano uguali. Ad esempio, $f(4) = 4$, poiché il numero $4$ può essere rappresentato in quattro modi diversi:
 > $$4;\; 2+2;\; 2+1+1;\; 1+1+1+1.$$
 > Si dimostri che, per ogni intero $n \ge 3$,
 > $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
-
-
 
 [[Quesiti/src_imho_1997#q06|src_imho_1997__Q06]]

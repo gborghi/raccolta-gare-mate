@@ -29,7 +29,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre dadi incollati identici su un tavolo; trovare la somma delle tre facce in contatto con il tavolo.*
@@ -59,7 +59,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due mazzi di 50 carte a doppio lato che mostrano ciascuno 1-100; mostrano che tutte le 100 carte possono essere posizionate in modo che le facce verso l'alto mostrino ogni numero da 1 a 100. *
@@ -92,7 +92,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trissezione di un angolo piegato in carta; prova che le linee AA' e AB' dividono l'angolo alfa in tre parti uguali.*
@@ -124,7 +124,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decidere se due potenze distinte di 2 con lo stesso numero di cifre possono essere riorganizzazioni digitali reciprocamente.*

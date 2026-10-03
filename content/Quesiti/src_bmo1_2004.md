@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi equazioni simultanee in quattro variabili reali*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rectangle midpoint and perpendicular; prove triangolare isosceles*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto quello di Barbara.
@@ -109,7 +109,7 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi malvagi di {1,...,10} che non contengono tre numeri interi consecutivi *
@@ -136,7 +136,7 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie prime p,q con p difsq+1 e q difsp+1*

@@ -29,7 +29,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partire prima n naturali in 2 o 3 sottoinsiemi di somma uguale*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una relazione di prodotto in un esagono con lati paralleli*
@@ -85,7 +85,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimprovare la disuguaglianza simmetrica per i reali non negativi che sommano a 1*
@@ -114,7 +114,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summe digitali di numeri del modulo 3n^2+n+1*

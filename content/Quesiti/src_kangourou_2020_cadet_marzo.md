@@ -35,7 +35,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the numbers 2,20,202,2020 are prime*
@@ -80,7 +80,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which fraction has the highest value*
@@ -125,7 +125,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the large, shaded fraction of the square*
@@ -182,7 +182,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the AEF triangle in the grid*
@@ -245,7 +245,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which score cannot be aggregated in the tournament*
@@ -295,7 +295,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum triangles to be added to form a hexagon*
@@ -362,7 +362,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum product of three numbers selected from the list*
@@ -396,7 +396,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the statement made by the liar and the truthful*
@@ -439,7 +439,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Walk time data for mixed journeys*
@@ -492,7 +492,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers in the last column of table 3x3*
@@ -540,7 +540,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Distance written on the broken sign (Atown-Betown-Cetown)
@@ -580,7 +580,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Km per day for the target average of March*
@@ -634,7 +634,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which diagram shows the trajectory as seen from above*
@@ -683,7 +683,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pupils (3/5 swimming, 3/5 dancing, 5 both)
@@ -726,7 +726,7 @@ How many pupils (3/5 swimming, 3/5 dancing, 5 both)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What percentage of increase in Bruno's salary*
@@ -765,7 +765,7 @@ How many pupils (3/5 swimming, 3/5 dancing, 5 both)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum red faces of the 3x3 cube (cubes with two red faces)
@@ -815,7 +815,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little square area (4 rectangles, 6 diagonal) *
@@ -878,7 +878,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of garden with right angles*
@@ -942,7 +942,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of cubes in the neighbourhood (upper and side views) *
@@ -1001,7 +1001,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which band folding configuration is not achievable*
@@ -1051,7 +1051,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of the cube in sixth place (color links) *
@@ -1088,7 +1088,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the major angles of the folded quadrilateral*
@@ -1130,7 +1130,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities A of 4 digits with a meta/third/fifth divisible by 2/3/5*
@@ -1182,7 +1182,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many points did Judge III give to Adam?
@@ -1233,7 +1233,7 @@ How many points did Judge III give to Adam?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers on the sides (products at sum of sums 15) *
@@ -1297,7 +1297,7 @@ How many points did Judge III give to Adam?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many squares of different sizes with 52 triangles*
@@ -1350,7 +1350,7 @@ How many points did Judge III give to Adam?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many glue drops in the pyramid of 4x4 spheres *
@@ -1402,7 +1402,7 @@ How many points did Judge III give to Adam?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum metres of the trainer (three children run 50m) *
@@ -1446,7 +1446,7 @@ How many points did Judge III give to Adam?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of the race (distance between Alberto Bianca Carlo) *
@@ -1492,7 +1492,7 @@ How many points did Judge III give to Adam?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of the 4-digit number (mastermind type indices) *

@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove n divide la somma dei cubi di tutti i naturali inferiori a n e copriamo in n.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con angolo ACB = 2 angolo ABC, D su BC con 2 angolo BAD = angolo ABC; prova 1/BD = 1/AB + 1/AC.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
@@ -108,7 +108,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di cerchio dipinti in tre colori; dimostrare che tre punti dello stesso colore formano un triangolo di uguali osceles.*
@@ -135,7 +135,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (a,b) con a^3+6ab+1 e b^3+6ab+1 entrambi i cubi.*
@@ -162,7 +162,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *X all'interno del triangolo rettangolo (angolo C = 90), proiezioni P,Q,R su BC,CA,AB; dimostrare AR*RB = BP*PC + AQ*QC se X su AB.*
@@ -190,7 +190,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per ogni intero positivo n e t in (1/2,1) esistono a,b in (1999,2000) con (1/2)a^n+1/2)b^n < (ta+(1-t) b)^n.*
@@ -219,7 +219,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzioni c(n,k) con c(n,0)=c(n) =1 e c(n+1,k)=2^k c(n,k)+c(n,k-1); dimostrare c(n,k)=c(n,n-k).*
@@ -246,7 +246,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi positivi m,n con mn dividendo m^2+n^2+m; dimostrare m è un quadrato perfetto.*
@@ -273,7 +273,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Vettori di unità ortogonali in coppia OA, OB, OC; linea/piano attraverso O con proiezioni A',B',C' di A,B,C; trovare l'insieme dei valori di OA'^2+OB'^2+OC'^2.*
@@ -300,7 +300,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set M di n^2+1 interi positivi dove tra qualsiasi n+1 due sono comparabili per divisibilità; dimostrare una catena di divisibilità a_1,...,a_{n+1} con a_{i+1} ̊ a_i.*
@@ -329,7 +329,7 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *D,E,F sui lati BC,CA,AB del triangolo acuto; i circoncircoli di AEF, BFD, CDE si incontrano a P; date tre condizioni di rapporto dimostrano che AD,BE,CF sono altitudini.*

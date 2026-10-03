@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le continue f soddisfacenti f(x) + f(ax)=x*
@@ -57,7 +57,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che il gruppo G di matrici interi è generato da A e B*
@@ -89,7 +89,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di numeri interi autoreferenziali e M * minimo
@@ -118,7 +118,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Convergenza di serie con ricorrenza esponenziale iterata*
@@ -145,7 +145,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione del prodotto di densità superiore implica intersezione modulare*
@@ -172,7 +172,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo tangente razionale, primo p3 mod 4, numeratore divisibile da p*

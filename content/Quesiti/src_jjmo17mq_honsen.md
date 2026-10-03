@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori angolari di due angoli si incontrano sul lato AB*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum n scatole con palle di 10 colori e quantità di colori uguali*
@@ -86,7 +86,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *GCD-min casi di disuguaglianza e di uguaglianza per i numeri interi positivi*
@@ -124,7 +124,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di spostamenti ortogonali nel percorso di King-Move Hamiltonian su n ×n griglia *
@@ -155,7 +155,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equità di angolo in configurazione con circoncircoli e punti di mezzo*

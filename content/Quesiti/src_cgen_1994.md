@@ -29,7 +29,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi p con 50^p < 7^n < 50^(p+1) *
@@ -58,7 +58,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il volume del cilindro tra il cerchio dell'emisfero e la sua proiezione*
@@ -93,7 +93,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza funzionale su N, sequenza raggiunge 0, trovare v(1994) e preimmagine di N*
@@ -126,7 +126,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare la somma delle distanze quadrate dal punto P ai vertici del triangolo attraverso proiezioni*
@@ -159,7 +159,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f ((m^2+n^2)=[f(m)]^2+[f(n)]^2 sui numeri naturali*

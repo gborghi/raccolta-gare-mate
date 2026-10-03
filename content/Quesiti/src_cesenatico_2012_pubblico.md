@@ -34,7 +34,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance travelled in the square (isosceles triangle) *
@@ -69,7 +69,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max geometric mean of the auras (training) *
@@ -102,7 +102,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Determining n=XABY with XY=AB and report*
@@ -136,7 +136,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of n with mcm(1..n) = mcm(1..n-1) *
@@ -171,7 +171,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum points for the Gonioku-Vietnam clash
@@ -206,7 +206,7 @@ Maximum points for the Gonioku-Vietnam clash
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance on the surface of 12 pyramids*
@@ -245,7 +245,7 @@ Maximum points for the Gonioku-Vietnam clash
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area max pentagon with constraints (special pose) *
@@ -280,7 +280,7 @@ Maximum points for the Gonioku-Vietnam clash
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal probability in the final collision (shocks) *
@@ -315,7 +315,7 @@ Maximum points for the Gonioku-Vietnam clash
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min c with d=(a^n-b^n)/(2^c), a,b,c,d odd, n=2^2012*
@@ -349,7 +349,7 @@ Maximum points for the Gonioku-Vietnam clash
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third-digit integer sum with digit 3 or 6 (fusion) *
@@ -381,7 +381,7 @@ Maximum points for the Gonioku-Vietnam clash
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who lies between five wise men and water ownership
@@ -413,7 +413,7 @@ Who lies between five wise men and water ownership
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years on the road >=113 shields (57 divided by pairs) *
@@ -446,7 +446,7 @@ Who lies between five wise men and water ownership
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Max Gonioku wins (mini tournament, min and max)
@@ -481,7 +481,7 @@ Max Gonioku wins (mini tournament, min and max)
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max h^2 between 10 points of contact (cube-sphere-tetrahedron) *
@@ -517,7 +517,7 @@ Max Gonioku wins (mini tournament, min and max)
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-pointed star area on a sphere (s) *
@@ -587,7 +587,7 @@ Max Gonioku wins (mini tournament, min and max)
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences 10 numbers 1-23 with subsequent divisibility*

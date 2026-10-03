@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 On what day did you carve the last letter of KANGOUROU?
@@ -68,7 +68,7 @@ On what day did you carve the last letter of KANGOUROU?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What number was Elisa departing from?
@@ -102,7 +102,7 @@ What number was Elisa departing from?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final position of the pedal after movements*
@@ -140,7 +140,7 @@ What number was Elisa departing from?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minutes to decorate cakes and pastries with two people
@@ -198,7 +198,7 @@ Minutes to decorate cakes and pastries with two people
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure is Marina talking about (round or triangular grey) *
@@ -239,7 +239,7 @@ Minutes to decorate cakes and pastries with two people
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How much did Sandro pay for ice cream and cake?
@@ -277,7 +277,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many strokes does the clock strike between 7.55 and 10.45*
@@ -312,7 +312,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of boxes for 66 eggs*
@@ -342,7 +342,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure has the largest area*
@@ -382,7 +382,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many kids in the class have catfish dogs*
@@ -418,7 +418,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What sum can't have with 13 coins of 5 or 10*
@@ -472,7 +472,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which letter is not covered by folding the sheet*
@@ -512,7 +512,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What and the number of Franks with the dice*
@@ -548,7 +548,7 @@ How much did Sandro pay for ice cream and cake?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many answers did Mr Rossi get wrong?
@@ -583,7 +583,7 @@ How many answers did Mr Rossi get wrong?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What grid can't have written Emanuela
@@ -620,7 +620,7 @@ What grid can't have written Emanuela
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many people were invited to the party with two cakes?
@@ -704,7 +704,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial order of the four friends on the bench*
@@ -743,7 +743,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times the four digits of the watch are equal*
@@ -777,7 +777,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What the construction of dice looks like from behind*
@@ -817,7 +817,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with the three cards 9,9.8*
@@ -874,7 +874,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which piece is certainly not used in the mosaic*
@@ -919,7 +919,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pieces of cheese did the mouse take in the maze*
@@ -957,7 +957,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spectators certainly Italian male and vegetarian*
@@ -1003,7 +1003,7 @@ How many people were invited to the party with two cakes?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *From how many hexagons and formed the fifth figure*

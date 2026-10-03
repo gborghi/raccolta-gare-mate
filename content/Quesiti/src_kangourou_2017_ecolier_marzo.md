@@ -41,7 +41,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table to be inserted for two satisfied equality*
@@ -91,7 +91,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many kangaroos are in the park, Gianni sees.
@@ -139,7 +139,7 @@ How many kangaroos are in the park, Gianni sees.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *One visible number overlapping the two sheets*
@@ -200,7 +200,7 @@ How many kangaroos are in the park, Gianni sees.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number covered by the panda's nose*
@@ -253,7 +253,7 @@ How many kangaroos are in the park, Gianni sees.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two numbers covered by the stain (addition) *
@@ -304,7 +304,7 @@ How many kangaroos are in the park, Gianni sees.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many mirror pieces have exactly four sides?
@@ -362,7 +362,7 @@ How many mirror pieces have exactly four sides?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The picture of the back of Anna's house
@@ -422,7 +422,7 @@ The picture of the back of Anna's house
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True equality between the options given*
@@ -473,7 +473,7 @@ The picture of the back of Anna's house
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Column equivalent to that of six pearls*
@@ -522,7 +522,7 @@ The picture of the back of Anna's house
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum envelopes for 70 balloons (5,10,25) *
@@ -572,7 +572,7 @@ The picture of the back of Anna's house
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How Roby had folded the sheet given the hole.
@@ -623,7 +623,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum boys to sign up for six equal teams *
@@ -698,7 +698,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of a 2x2 square in the 4x4 grid*
@@ -775,7 +775,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum minutes to cook 5 dishes on two ovens*
@@ -825,7 +825,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the circle with the request point (operation chain) *
@@ -881,7 +881,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers under the two spots on the plant*
@@ -943,7 +943,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares for doubling the perimeter of a rectangle 1x10*
@@ -1000,7 +1000,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many metres and length of train (340 m and 110 m) *
@@ -1066,7 +1066,7 @@ How Roby had folded the sheet given the hole.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time limit to leave home and arrive at the choir on time
@@ -1109,7 +1109,7 @@ Time limit to leave home and arrive at the choir on time
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to see two newborns without starting with the lion*
@@ -1158,7 +1158,7 @@ Time limit to leave home and arrive at the choir on time
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The guy who ate the most pizza.
@@ -1230,7 +1230,7 @@ The guy who ate the most pizza.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many faces did Lilli (neighbouring cells) hide?
@@ -1300,7 +1300,7 @@ How many faces did Lilli (neighbouring cells) hide?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coins minted in Enzo (sacks 1 to 10) *
@@ -1355,7 +1355,7 @@ How many faces did Lilli (neighbouring cells) hide?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many possible third shapes for the rectangle 12 squares*

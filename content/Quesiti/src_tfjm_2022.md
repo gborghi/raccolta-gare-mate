@@ -61,7 +61,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligoni pieghevoli: studiare i poligoni piatti ottenuti piegando ripetutamente un poligono convex con pieghe convex, compresa la periodicità delle sequenze risultanti.*
@@ -142,7 +142,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le avvolte su fili elettrici cantano temi musicali determinati da una ricorrenza di tipo riflesso nelle loro posizioni; studiare quali temi appaiono, periodicità, temi più acuti e specie di uccelli generalizzate.*
@@ -212,7 +212,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un professore confinato vuole sostituire Perrine per ricostruire l'arrangamento dei posti a sedere di n alunni; trovare il numero minimo di domande necessarie sotto diversi tipi di domande consentite, con risposte adattive, errori e mentire.
@@ -285,7 +285,7 @@ Un professore confinato vuole sostituire Perrine per ricostruire l'arrangamento 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i goblin possono riparare durante la notte; dimentica tutto ogni giorno, quindi trova una strategia per ridurre al minimo il costo totale senza perdere mai le nugget, quindi generalizzatela a k strumenti, incantesimi di fortuna e salvatori.*
@@ -363,7 +363,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tincering microscopico: quali configurazioni di linea Malo può raggiungere da un'altra utilizzando tre operazioni (riflettere una linea attraverso un'altra, scalare l'intero quadro con lambda, tradurre con un vettore); studiare le configurazioni quadrate e triangolari della griglia e l'interscambiabilità.*
@@ -440,7 +440,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Comuni gemelli: ogni giorno Aliénor sceglie un abitante di A senza corrispondente e Boniface ne assegna uno in B per preservare l'amicizia; studiare gemelli perfetti e la massima compatibilità asimmetrica/simmetrica C(A,B), D(A,B) per città ciclabili e la città infinita Z.*
@@ -527,7 +527,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Passeggiata di cane: n cani si muovono ogni unità al secondo verso il cane successivo (ciclicamente); Boule su un guinzaglio di lunghezza L deve evitare di rompere guinzaglio se rimane messo o si muove; studiare caso triangolare, lunghezza universale di guinzaglio e varianti in cui un cane insegue un gatto su un N-gon o una linea.*
@@ -614,7 +614,7 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perseo e il Gorgone: una ricerca passo dopo passo in cui ciascuno si muove al massimo d_0 per passo e il Gorgone pietrifica Perseo se il segmento tra loro evita l'ostacolo O; determinare le distanze ammissibili d per vari ostacoli (linea, punto, segmento, disco, poligono), caratterizzare possibili set ammissibili e trattare varianti di strategia a velocità continua.*

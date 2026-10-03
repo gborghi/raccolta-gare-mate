@@ -29,7 +29,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *area del parallelo di tangramma data in unità quadrata*
@@ -61,7 +61,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numerare il percorso della griglia; trovare le coordinate del punto 2001*
@@ -90,7 +90,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli anni super-olimpici per la condizione di divisibilità dell'OBM*
@@ -117,7 +117,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con bisettieri esterni che si incontrano; trovare angoli*
@@ -144,7 +144,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme intercambiabili di 4 diversi numeri non zeri; trovare tutti*
@@ -174,7 +174,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi di incatenare una scarpa con 5 paia di fori, modello simmetrico*

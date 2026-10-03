@@ -32,6 +32,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenze complanari, perpendicolari, luogo del punto medio*
 
 > Siano date due circonferenze complanari di raggi $R$ e $r$ ($R > r$) con lo stesso centro. Sia $P$ un punto fisso sulla circonferenza minore e $B$ un punto variabile sulla circonferenza maggiore. La retta $BP$ incontra nuovamente la circonferenza maggiore nel punto $C$. La perpendicolare $l$ alla retta $BP$ nel punto $P$ incontra nuovamente la circonferenza minore nel punto $A$. (Se $l$ è tangente alla circonferenza nel punto $P$, allora $A = P$.)
@@ -39,8 +40,6 @@ level: IMO
 > (i) Determinare l'insieme dei valori di $BC^2 + CA^2 + AB^2$.
 > 
 > (ii) Determinare il luogo dei punti medi di $BC$.
-
-
 
 [[Quesiti/src_imho_1988#q01|src_imho_1988__Q01]]
 
@@ -72,6 +71,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Famiglia di sottoinsiemi con condizioni sull'intersezione e sulla copertura degli elementi*
 
 > Sia $n$ un intero positivo e siano $A_1, A_2, \ldots, A_{2n+1}$ sottoinsiemi di un insieme $B$. Si supponga che
@@ -83,8 +83,6 @@ level: IMO
 > (c) Ogni elemento di $B$ appartiene a almeno due tra gli $A_i$.
 > 
 > Per quali valori di $n$ si può assegnare a ogni elemento di $B$ uno dei numeri $0$ e $1$ in modo che $A_i$ abbia esattamente $n$ dei suoi elementi a cui è stato assegnato $0$?
-
-
 
 [[Quesiti/src_imho_1988#q02|src_imho_1988__Q02]]
 
@@ -115,6 +113,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazioni funzionali sugli interi positivi, contare i punti fissi*
 
 > Una funzione $f$ è definita sugli interi positivi da
@@ -125,8 +124,6 @@ level: IMO
 > per ogni intero positivo $n$.
 > 
 > Determinare il numero degli interi positivi $n$, minori o uguali a $1988$, per i quali vale che $f(n) = n$.
-
-
 
 [[Quesiti/src_imho_1988#q03|src_imho_1988__Q03]]
 
@@ -152,13 +149,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza della somma implica unione di intervalli di lunghezza totale 1988*
 
 > Si dimostri che l'insieme dei numeri reali $x$ che soddisfano la disuguaglianza
 > $$\sum_{k=1}^{70} \frac{k}{x-k} \ge \frac{5}{4}$$
 > è un'unione di intervalli disgiunti la cui somma delle lunghezze è $1988$.
-
-
 
 [[Quesiti/src_imho_1988#q04|src_imho_1988__Q04]]
 
@@ -182,11 +178,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo rettangolo, i punti di incontro degli incentri con i lati, disuguaglianza sull'area*
 
 > Il triangolo $ABC$ è rettangolo in $A$, e $D$ è il piede dell'altezza condotta da $A$. La retta che congiunge gli incentri dei triangoli $ABD$ e $ACD$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $K$ e $L$. Siano $S$ e $T$ le aree dei triangoli $ABC$ e $AKL$ rispettivamente. Si dimostri che $S \ge 2T$.
-
-
 
 [[Quesiti/src_imho_1988#q05|src_imho_1988__Q05]]
 
@@ -212,12 +207,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *ab+1 divide a²+b², il quoziente è un quadrato perfetto*
 
 > Siano $a$ e $b$ numeri interi positivi tali che $ab + 1$ divide $a^2 + b^2$. Si dimostri che
 > $$\frac{a^2 + b^2}{ab + 1}$$
 > è il quadrato di un numero intero.
-
-
 
 [[Quesiti/src_imho_1988#q06|src_imho_1988__Q06]]

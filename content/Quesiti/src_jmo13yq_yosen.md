@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Pagare 777 yen con il minor numero di monete; è consentito il cambio
@@ -55,7 +55,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo intero positivo n tale che le ultime tre cifre del 2003n siano uguali a 113*
@@ -84,7 +84,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le prime p per le quali 2003 ha una somma di base-p di 15*
@@ -113,7 +113,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova x^3+y^3+z^3 data tre equazioni simmetriche potenza-somma*
@@ -140,7 +140,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca BD/BC in parallelo ABCD con angolo bisector incontrazione BC*
@@ -167,7 +167,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo n≥2 quindi 1,...,n può essere organizzato con ogni prodotto adiacente un quadrato perfetto*
@@ -194,7 +194,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le arrangiamenti circolari di 3 colpi rossi, 3 blu e 3 gialli; rotazioni identificate, riflessioni distinte*
@@ -221,7 +221,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i m in [2,2003] che massimizzano il numero di passi per raggiungere 1 sotto odd→+1, anche→÷2*
@@ -248,7 +248,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza minima QR mentre P si muove su BC con angolo QPR=60°, Q su CA, R su AB*
@@ -275,7 +275,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie di cattive relazioni tra 8 persone con vincoli di amicizia/inimicizia*
@@ -302,7 +302,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i piani attraverso esattamente 3 vertici di un icosahedro regolare*
@@ -331,7 +331,7 @@ Pagare 777 yen con il minor numero di monete; è consentito il cambio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare un polinomio intero di grado minimo f(x) con (f(x))^3 - 2 = g(x) h(x), grado g,h ≥ 1*

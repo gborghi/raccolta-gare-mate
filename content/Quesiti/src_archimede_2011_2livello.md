@@ -38,7 +38,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total area of the ceded chocolate cube*
@@ -87,7 +87,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of turtles among foxes/ snakes/turtles
@@ -131,7 +131,7 @@ Maximum number of turtles among foxes/ snakes/turtles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Always true assertion on the coefficient of division of polynomials*
@@ -172,7 +172,7 @@ Maximum number of turtles among foxes/ snakes/turtles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of prime of the form n^(n+1) + 1*
@@ -217,7 +217,7 @@ Maximum number of turtles among foxes/ snakes/turtles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Chances that Nicola will win at least 4 coins in 5 games
@@ -270,7 +270,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arc length of the deleted bars*
@@ -313,7 +313,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of real solutions distinct from the polynomial of degree 6*
@@ -356,7 +356,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 10 different digits with pairs of sums of 9*
@@ -400,7 +400,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from L with maximum PEQ angle (tangency) *
@@ -441,7 +441,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the sixth powers of the solutions of the equation*
@@ -484,7 +484,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (x,y) with x^2-y^2 multiples of 2011 and 2011 dividers*
@@ -528,7 +528,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statement on sequence length with sums of the mark*
@@ -565,7 +565,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-degenerate triangles not congruent by 6 points of importance*
@@ -595,7 +595,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total pairs (x,y) that verify the quartic equation*
@@ -625,7 +625,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *All powers of 3 are decimal places *
@@ -659,7 +659,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Circumference for A,B,X,Y in the acute triangle*
@@ -696,7 +696,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of seats in carriages with 2n stations*

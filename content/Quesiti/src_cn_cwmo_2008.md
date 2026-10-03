@@ -28,7 +28,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'identità del prodotto-somma di una sequenza definita ricorrentemente*
@@ -62,7 +62,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo con triangolo con cerchio inciso, dimostrare una conciclicità e una relazione di rapporto che coinvolgono punti costruiti dall'incircolo*
@@ -93,7 +93,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per m dati numeri interi positivi, dimostrare infinitamente molti n fare una potenza ponderata somma composta*
@@ -125,7 +125,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determinare le condizioni di confine per una sequenza definita da x_{n+1}=a x_n^n + b*
@@ -154,7 +154,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro rane in una linea saltano per riflessione su un'altra rane; dimostrano di non poter raggiungere distanze uguali alle vicine del 2008*
@@ -184,7 +184,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare xyz soggetto a una limitazione radicale simmetrica con x,y,z in (0,1)*
@@ -215,7 +215,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la k più grande consentendo tre set di k-elementi di numeri interi non negativi distinti con somme di componenti uguali a n*
@@ -245,7 +245,7 @@ level: China Western Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un punto interno di un n-gon regolare, dimostrare che la somma delle distanze alle vertici è almeno la somma dei punti di intersezione opposti*

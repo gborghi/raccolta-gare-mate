@@ -32,7 +32,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Orologio analogo: contare quante volte le due mani puntano in una determinata configurazione in un intervallo *
@@ -68,7 +68,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato tagliato a metà e a metà unito in un rettangolo; rapporto di perimetri*
@@ -103,7 +103,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minore differenza positiva tra un numero a cinque cifre e un numero a quattro cifre con tutte e nove cifre distinte*
@@ -136,7 +136,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema di composizione di classe / rapporto con rapporti di scelta multipla*
@@ -171,7 +171,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro quadrati uguali a 20 cm impilati da angolo a centro; superficie della figura risultante*
@@ -212,7 +212,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte da 1 a 2014 di colore giallo/verde/nero ciclicamente; quali dichiarazioni sono vere*
@@ -250,7 +250,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *15 monete di 25 e 10 centesimi per un determinato importo; scegliere l'equazione corretta*
@@ -285,7 +285,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Campare una scala di 18 gradini per 2 secondi e poi per 1 secondi, scendere; passi minimi da calcare*
@@ -322,7 +322,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tabella delle tariffe dirette tra cinque città; costo minimo per visitare tutte*
@@ -359,7 +359,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può risparmiare
@@ -393,7 +393,7 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso in tre segmenti simultanei; date le aree 24, 18, 8; area totale*
@@ -427,7 +427,7 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicenda; tempo totale
@@ -460,7 +460,7 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi positivi a quattro cifre distinte la cui somma è di 7*
@@ -493,7 +493,7 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; quantità ottenute ciascuno
@@ -527,7 +527,7 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato diviso in quattro regioni etichettate A,B,C,D; due delle quali hanno superficie uguale*
@@ -562,7 +562,7 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale minimo *
@@ -595,7 +595,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Classe completa, gli studenti rivendicano 24 o altri numeri; alcuni mentono, altri dicono la verità; studenti totali*
@@ -629,7 +629,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regione grigia come unione di rettangolari uguali senza lacune/sovrapposizioni; trovare zona grigia*
@@ -664,7 +664,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutti i numeri a quattro cifre distinte ordinati; maggiore differenza positiva tra i vicini*
@@ -699,7 +699,7 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Blocco rettangolare di 6 cubi neri e 6 bianchi; identificare la vista da dietro*

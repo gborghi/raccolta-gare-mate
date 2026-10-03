@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of the hidden faces of the 27 cubically glued dice*
@@ -80,7 +80,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who makes the most ravioli between Alberto, Barbara and Ciro
@@ -122,7 +122,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five primes in arithmetic progression of the ratio 6, false sentence*
@@ -164,7 +164,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AD in the perpendicular diagonal quadrilateral *
@@ -207,7 +207,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Related P(2)/P(1/2) for polynomials with prime and reciprocal roots*
@@ -251,7 +251,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to buy 3 non-adjacent houses out of 10 in a row*
@@ -292,7 +292,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between BC and AD midpoints in the enclosed trapezoid*
@@ -336,7 +336,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum MCD of sequences of 2017 distinct integers with given sum*
@@ -378,7 +378,7 @@ Who makes the most ravioli between Alberto, Barbara and Ciro
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
@@ -420,7 +420,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PD length with tangent circle, tangents and data radius*
@@ -465,7 +465,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of removing ball 8 after operations*
@@ -507,7 +507,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cifra iniziale di 5^n sapendo che 2^n inizia con 7*
@@ -546,7 +546,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *a1211b divisible by 88, find the numbers *
@@ -582,7 +582,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *EF length with congruent triangles and data angles*
@@ -616,7 +616,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Infinite terne (x,y,z) with x^2+y^2+z^2 squared, also with MCD 1*
@@ -649,7 +649,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * isosceles triangle and parallelogram*
@@ -717,7 +717,7 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n can only be 0 or 2*

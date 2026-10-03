@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti a una linea, dimostrare la bisezione e il rapporto di superficie*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per a,b,c in (0,1), non tutte le a(1-b),b(1-c),c(1-a) superano 1/4*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'identità di somma dei coefficienti binomiali*
@@ -113,7 +113,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di ricorrenza: dimostra che f_k f_{k+1} è uguale a qualche termine*
@@ -140,7 +140,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Locus del centro di un bordo di cilindro appoggiato su un cerchio fisso*
@@ -167,7 +167,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione x^2+y^2=z^5+z ha infinite soluzioni positive coprime*

@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure is 17 (bullets and bars) *
@@ -75,7 +75,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In what order did the three people pass?
@@ -125,7 +125,7 @@ In what order did the three people pass?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What means are seen in closed books*
@@ -177,7 +177,7 @@ In what order did the three people pass?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which two-square card can be obtained*
@@ -232,7 +232,7 @@ In what order did the three people pass?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many haids weighed the whole cake (target cuts) *
@@ -280,7 +280,7 @@ In what order did the three people pass?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many students if girls are doubles and +8*
@@ -330,7 +330,7 @@ How many students if girls are doubles and +8*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many dots per 7 photographs (shared pattern) *
@@ -384,7 +384,7 @@ How many students if girls are doubles and +8*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many shapes can be obtained by lifting a tile*
@@ -458,7 +458,7 @@ How many students if girls are doubles and +8*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How long is the first leap to avoid the wells*
@@ -511,7 +511,7 @@ How many students if girls are doubles and +8*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What the driver sees from the opposite side of the glass
@@ -566,7 +566,7 @@ What the driver sees from the opposite side of the glass
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total weight of each of the three dogs (balance) *
@@ -616,7 +616,7 @@ What the driver sees from the opposite side of the glass
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of green bulbs from 16 blue bulbs
@@ -666,7 +666,7 @@ Maximum number of green bulbs from 16 blue bulbs
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number in the box? for a maximum of 2,0,1,9*
@@ -718,7 +718,7 @@ Number in the box? for a maximum of 2,0,1,9*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of a glass filled with water *
@@ -760,7 +760,7 @@ Number in the box? for a maximum of 2,0,1,9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many kang per apple, pear and banana together*
@@ -812,7 +812,7 @@ Number in the box? for a maximum of 2,0,1,9*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of tokens after three operations*
@@ -861,7 +861,7 @@ Number in the box? for a maximum of 2,0,1,9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number represents the star (row sum) *
@@ -914,7 +914,7 @@ Number in the box? for a maximum of 2,0,1,9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Of how many squares the frame of a painting is 10x10*
@@ -964,7 +964,7 @@ Number in the box? for a maximum of 2,0,1,9*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of pages if the figure 5 appears 16 times
@@ -1021,7 +1021,7 @@ Maximum number of pages if the figure 5 appears 16 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For how many meters the cat walks along the alley*
@@ -1067,7 +1067,7 @@ Maximum number of pages if the figure 5 appears 16 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants) *
@@ -1120,7 +1120,7 @@ Maximum number of pages if the figure 5 appears 16 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is true about the colours of the triangles*
@@ -1167,7 +1167,7 @@ Maximum number of pages if the figure 5 appears 16 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who ate the cookie (one mind only)
@@ -1226,7 +1226,7 @@ Who ate the cookie (one mind only)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many tablecloths laid in the manner of Figure 1*

@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summe di numeri unici positivi consecutivi inferiori a 400*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il minor numero possibile di giochi di tavolo giocati*
@@ -86,7 +86,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Formazioni di pile di conto di pezzi d'oro di peso 2021 grammi*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il DOE del triangolo prova è equilaterale dato che due cerchi si intersecano*
@@ -146,7 +146,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la media più piccola possibile di un insieme di N dato m(N) per N<2021*
@@ -181,7 +181,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Listi di conteggio di 71 numeri interi che sommano 999.999 con una data ricorrenza*

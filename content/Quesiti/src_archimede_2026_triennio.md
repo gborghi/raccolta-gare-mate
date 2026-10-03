@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to choose the number of problems per subject with constraints*
@@ -74,7 +74,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Round-table riders' or skydivers' positions, excluding rotation*
@@ -115,7 +115,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Martian/Venus age, years past multiple of 3*
@@ -160,7 +160,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CQ length given a square and polygon areas*
@@ -205,7 +205,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of orange faces with 50% likelihood of same colour*
@@ -251,7 +251,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum divider = k times minimum divider >1*
@@ -301,7 +301,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Around area of perpendicular strings, theorem of strings*
@@ -343,7 +343,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial containing 4 digits, value p(10) *
@@ -384,7 +384,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of 4-digit palindromes with palindromic difference*
@@ -437,7 +437,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (a,b) with an integer polynomial p(5,1)=a, p(17,19)=b*
@@ -479,7 +479,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary CAB angle values in trapezoid with conditions on P*
@@ -522,7 +522,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of x+y with constraints and equation with roots*
@@ -566,7 +566,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Running/walking training, value x to finish home*
@@ -613,7 +613,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Terns (x,y,z) with x+y+z+MCD(x,y,z) = 24*
@@ -660,7 +660,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle with BC=BP, ratio BC/AB and parallelogram*
@@ -700,7 +700,7 @@ level: triennio
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grid 11x11 cherries/fish, flowering conditions*
@@ -733,7 +733,7 @@ level: triennio
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Terns (a,b,c) with a!=2^b+2^c*

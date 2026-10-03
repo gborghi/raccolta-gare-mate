@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n that ends with 6 and becomes quadrupled by moving 6*
@@ -83,6 +83,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Reali x con sqrt(3-x)-sqrt(x+1) > 1/2*
 
 > 1962/3.
@@ -106,8 +107,6 @@ level: IMO
 > (a) Si dimostri che il tetraedro SABC è regolare.
 > (b) Si dimostri viceversa che per ogni tetraedro regolare esistono cinque tali sfere.
 
-
-
 [[Quesiti/src_imho_1962#q02|src_imho_1962__Q02]]
 
 
@@ -128,7 +127,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Place of moving XY media on the cube*
@@ -155,7 +154,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Solve cos^2 x + cos^2 2x + cos^2 3x = 1
@@ -181,7 +180,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Building D on the circle by circumcirculating quadrilateral*
@@ -207,7 +206,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Try d=sqrt(r(r-2rho)) (Euler formula) *
@@ -233,7 +232,7 @@ Solve cos^2 x + cos^2 2x + cos^2 3x = 1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tetrahedron with five spheres tangent to the spines and regulated*

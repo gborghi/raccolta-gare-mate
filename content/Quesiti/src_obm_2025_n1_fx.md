@@ -32,7 +32,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anni le cui ultime due cifre dividono esattamente l'anno: trovare le tre successive dopo il 2025, e contarle tra il 1900 e il 1999.*
@@ -69,7 +69,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato del lato x con diagonale di 2 cm decomposto in quattro triangoli; quindi area di IJKL quadrilaterale formata da quadrati costruiti all'interno di un ottagono regolare.*
@@ -106,7 +106,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa lascia tre numeri rimanenti con somma divisibile per 3. Analizzare una posizione e decidere chi vince dall'inizio.*
@@ -145,7 +145,7 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Supersum S(N): somma di tutti i numeri distinti formati dall'ordine delle cifre di N. Trova un multiple di 9 con S(N) un multiple di 9, prova l'implicazione, e trova il più piccolo N con S(N) un multiple di 2025.*
@@ -193,7 +193,7 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il gioco "arrumadinho" su una tavola 2xn: ogni numero di prima riga deve riemergere in una colonna adiacente di seconda riga, e nessun prefisso sinistro della seconda riga equivale a {1,...,k} tranne k=n. Date un esempio di n=8 e contate le carte 2x2025.*

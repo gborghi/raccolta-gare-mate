@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Le circonferenze circoscritte ai triangoli BMR e CNR si incontrano su BC*
 
 > Sia $ABC$ un triangolo acutangolo con $AB \neq AC$. La circonferenza di diametro $BC$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $M$ e $N$. Sia $O$ il punto medio del lato $BC$. Le bisettrici degli angoli $\angle BAC$ e $\angle MON$ si intersecano in $R$. Si dimostri che le circonferenze circoscritte ai triangoli $BMR$ e $CNR$ hanno un punto in comune che giace sul lato $BC$.
-
-
 
 [[Quesiti/src_imho_2004#q01|src_imho_2004__Q01]]
 
@@ -57,12 +56,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Polinomio con radici reali che soddisfa relazioni funzionali*
 
 > Determinare tutti i polinomi $f$ con coefficienti reali tali che, per ogni numero reale $a, b, c$ tale che $ab + bc + ca = 0$, valgano le seguenti relazioni:
 > $$f(a - b) + f(b - c) + f(c - a) = 2f(a + b + c).$$
-
-
 
 [[Quesiti/src_imho_2004#q02|src_imho_2004__Q02]]
 
@@ -94,6 +92,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Ricoprire rettangoli m×n con otomini a forma di forchetta*
 
 > Si definisca un "gancio" come una figura composta da sei quadratini unitari, come mostrato nella figura qui sotto, oppure qualunque altra figura ottenuta applicando rotazioni e riflessioni a questa figura.
@@ -105,8 +104,6 @@ level: IMO
 > \end{itemize}
 
 ![[src_imho_2004__q03.png]]
-
-
 
 [[Quesiti/src_imho_2004#q03|src_imho_2004__Q03]]
 
@@ -132,13 +129,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Reali positivi come lati di un triangolo da una disuguaglianza somma-inverso*
 
 > Sia $n \geq 3$ un numero intero. Siano $t_1, t_2, \ldots, t_n$ numeri reali positivi tali che
 > $$n^2 + 1 > (t_1 + t_2 + \cdots + t_n)\left(\frac{1}{t_1} + \frac{1}{t_2} + \cdots + \frac{1}{t_n}\right).$$
 > Si dimostri che $t_i, t_j, t_k$ sono lunghezze dei lati di un triangolo per ogni $i, j, k$ con $1 \leq i < j < k \leq n$.
-
-
 
 [[Quesiti/src_imho_2004#q04|src_imho_2004__Q04]]
 
@@ -164,13 +160,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrilatero ciclico se e solo se AP=CP tramite bisettrici angolari*
 
 > In un quadrilatero convesso $ABCD$ la diagonale $BD$ non biseca gli angoli $ABC$ e $CDA$. Il punto $P$ si trova all'interno di $ABCD$ e soddisfa
 > $$\angle PBC = \angle DBA \quad \text{and} \quad \angle PDC = \angle BDA.$$.
 > Si dimostri che $ABCD$ è un quadrilatero ciclico se e solo se $AP = CP$.
-
-
 
 [[Quesiti/src_imho_2004#q05|src_imho_2004__Q05]]
 
@@ -194,10 +189,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli n con un multiplo alternato*
 
 > Chiamiamo *alternante* un intero positivo tale che ogni due cifre consecutive nella sua rappresentazione decimale abbiano parità diversa. Determinare tutti gli interi positivi $n$ tali che $n$ abbia un multiplo alternante.
-
-
 
 [[Quesiti/src_imho_2004#q06|src_imho_2004__Q06]]

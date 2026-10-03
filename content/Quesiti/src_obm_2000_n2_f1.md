@@ -29,7 +29,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi positivi inferiori a 1.000.000 il cui cubo perfetto termina con la cifra 1*
@@ -62,7 +62,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di lattine di palma che si inseriscono in una scatola di legno*
@@ -97,7 +97,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione della bandiera sul marciapiede destro dopo che il marciapiede sinistro ruota leggermente*
@@ -139,6 +139,7 @@ level: OBM Nível 2
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Puzzle logico: identificare chi ha pagato l'ingresso al museo*
 
 > Quattro amici vogliono visitare un museo e uno di loro decide di pagare tutti i biglietti di ingresso. Nasce una discussione:
@@ -151,8 +152,6 @@ level: OBM Nível 2
 > A) Mário \quad B) Pedro \quad C) Benjamim \quad D) Carlos
 
 **Risposta:** B
-
-
 [[Quesiti/src_obm_2000_n2_f1#q04|src_obm_2000_n2_f1__Q04]]
 
 
@@ -180,7 +179,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Effetto sulle medie della classe dopo il trasferimento dell'ultimo allievo dalla classe A alla classe B*
@@ -213,7 +212,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova angolo A nel triangolo ABC dato angolo C e angolo bisector-altitudine*
@@ -248,7 +247,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area oscurata all'interno del rettangolo dell'area 12*
@@ -283,7 +282,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
@@ -315,7 +314,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo EAF in cui DEFG è un quadrato al di fuori del pentagono regolare ABCDE*
@@ -348,7 +347,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Two-digit integers equal to twice the product of their digits*
@@ -381,7 +380,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *100° moltiplo positivo di 7 o 8 in ordine crescente*
@@ -414,7 +413,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di carte da rimuovere per garantire tre uguali numeri più piccoli*
@@ -447,7 +446,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che espressione è sempre più grande per i numeri reali positivi x e y*
@@ -482,7 +481,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di intersezione di triangolo e quadrato su rete unità*
@@ -521,7 +520,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Compari a/b e (a+1)/(b+1) dati 0 < a/b < 1*
@@ -554,7 +553,7 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-5 ogni turno
@@ -589,7 +588,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare rettangoli con A e B come vertici su una griglia 9x9*
@@ -624,7 +623,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di figli di Emir Abdel Aziz con vincoli doppi/tripli*
@@ -657,7 +656,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo di viaggio da Iracimimirm a Salvador con ingorghi in movimento*
@@ -692,7 +691,7 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2000° numero in sequenza che riempie le celle bianche della tabella di fila in crescita*

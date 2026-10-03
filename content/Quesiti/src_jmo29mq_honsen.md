@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione diofantina in tre numeri interi positivi*
@@ -58,7 +58,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di scrittura a griglia che massimizza il punteggio multiplo di n di riga/colonna*
@@ -86,7 +86,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale su valori reali positivi*
@@ -112,7 +112,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo su diametro AK tangente a incircolo*
@@ -141,7 +141,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Belle serie e una linea uniforme su non multipli*

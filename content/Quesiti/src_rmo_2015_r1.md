@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali ciclici, diagonali incontrati, circoncircoli, angolo di incentro*
@@ -52,7 +52,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadratici uguali a due enti, dimostrare la differenza dei coefficienti lineari principali è pari*
@@ -79,7 +79,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le frazioni contemporaneamente di due forme lineari date*
@@ -106,7 +106,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per scegliere 3 oggetti non adiacenti non diametralmente opposti tra 28 in un cerchio*
@@ -133,7 +133,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto, punti di mezzo, incircolo sul circoncircolo del triangolo di mezzo punto, rapporto *
@@ -160,7 +160,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i reali a in (3,4) in modo che a(3-2f) sia un intero*

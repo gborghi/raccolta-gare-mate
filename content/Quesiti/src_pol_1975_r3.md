@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza la cui prima n termini somma a zero e che è periodica con il periodo n; dimostrare che qualche indice iniziale N rende tutte le somme parziali da N non negative*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fine molti segmenti su un tetraedro regolare di bordo 1 che uniscono ogni coppia di vertici da un percorso poligonale; la lunghezza totale può essere inferiore a 1+sqrt(3)?*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il più piccolo alfa positivo per il quale qualche beta>0 dà sqrt(1+x)+sqrt(1-x)<=2-x^alpha/beta su [0,1], e il più piccolo beta*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un numero naturale ha tutti i numeri decimali tra 1,3,7,9; dimostra che i suoi numeri possono essere riorganizzati per formare un multiple di 7*
@@ -138,7 +138,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare quando un triangolo con un angolo alfa ammette il circondario R e l'inradio r: iff 2R/r >= 1/(sin(alfa/2)(1-sin(alfa/2)))*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che S(x)=1-x e T(x)=x/2 su [0,1], una composizione f=g1 o ... O gn di questi soddisfa f  1/2)=1975/2^1975?*

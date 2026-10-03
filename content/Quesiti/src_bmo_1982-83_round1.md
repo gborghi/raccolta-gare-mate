@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcento, punto medio, centroide; prova che l'OE è perpendicolare al CD*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi positivi
@@ -86,7 +86,7 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza x_n con x_1=-1, x_2=2; provare nS_n + F_n = 1 per tutte le n*
@@ -117,7 +117,7 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cupola sulla torre: trovare il percorso più corto sulla superficie*
@@ -144,7 +144,7 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10 punti in un cerchio di diametro 5"; provare due entro 2" l'uno dell'altro*
@@ -175,7 +175,7 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione con radici quadrate; trovare p per esattamente una soluzione reale x*

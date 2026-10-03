@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of triangle ABC (shaded area) *
@@ -111,7 +111,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the second knot at right angles*
@@ -151,7 +151,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many questions in the questionnaire (80%)*
@@ -185,7 +185,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many separate dividers has 10^n *
@@ -231,7 +231,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of a rectangular triangle (41 gones) *
@@ -297,7 +297,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of lengths of the two semi-conference routes*
@@ -357,7 +357,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of the cylinder (common cone/cylinder volume) *
@@ -397,7 +397,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to anchor the door sections (cunnel) *
@@ -444,7 +444,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 2 digits with (sum) squared=sum squared*
@@ -481,7 +481,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x (span, whole sides) *
@@ -518,7 +518,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times a child divides his mother*
@@ -554,7 +554,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regional area (squares with 2 common vertices) *
@@ -588,7 +588,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between gamma and alpha angles (percent) *
@@ -622,7 +622,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value x of the solution (2^x exponential equation) *
@@ -681,7 +681,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded region area (two semicircles) *
@@ -713,7 +713,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grandest of 8 numbers (5 consecutive = 3 following) *
@@ -749,7 +749,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Knights and Liars (at least one liar)
@@ -785,7 +785,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points at full coordinates on the sphere r=3*
@@ -815,7 +815,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Graph of the function f in tracts*
@@ -855,7 +855,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Vasses travelled by Marco (constant speed) *
@@ -886,7 +886,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reverse function g (f(g(x))=x) *
@@ -920,7 +920,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number is not x(x+1) for whole x*
@@ -973,7 +973,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max ratio number of 3 digits to sum of digits*
@@ -1006,7 +1006,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities to which x^2+ax+2007 has integer roots*
@@ -1040,7 +1040,7 @@ Knights and Liars (at least one liar)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to exchange gifts without one's own (5 friends)
@@ -1075,7 +1075,7 @@ How to exchange gifts without one's own (5 friends)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the telescopic sum*
@@ -1115,7 +1115,7 @@ How to exchange gifts without one's own (5 friends)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Chapter 100 cells above (spiral 12345) *
@@ -1154,7 +1154,7 @@ How to exchange gifts without one's own (5 friends)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max sequence length of odd numbers*
@@ -1191,7 +1191,7 @@ How to exchange gifts without one's own (5 friends)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *100th element (sum of powers of 3) *
@@ -1256,7 +1256,7 @@ How to exchange gifts without one's own (5 friends)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of Carlo winning (given in turns)

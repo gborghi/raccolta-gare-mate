@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti interi: P(5) divisibile da 2 e P(2) divisibile da 5 implica P(7) divisibile da 10.*
@@ -52,7 +52,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCDEF esagonale converso con AB=BC, CD=DE, EF=FA: le perpendicolari da C,E,A a BD,DF,FB sono simultanee.*
@@ -78,7 +78,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Irazionali positivi a,b,c,d con a+b=1; mostrare c+d=1 se il piano n) + piano n) = piano n) + piano n) per tutti gli integri positivi n.*
@@ -105,7 +105,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi x_1,...,x_n con somma x_i <= somma x_i^2; provare somma x_i^t <= somma x_i^{t+1} per tutte le t>1.*
@@ -131,7 +131,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro ABCD: incircoli di facce ABC e ABD tangenti al bordo AB nello stesso punto; dimostrare che i punti di tangenza su AC,BC,AD,BD sono conciclici.*
@@ -158,7 +158,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina tutti gli integri positivi n per i quali un n x n quadrato può essere tagliato in quadrati 2x2 e 3x3 (laterali paralleli al grande quadrato).*

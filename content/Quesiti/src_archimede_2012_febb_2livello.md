@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *From 3a+b on a-b equal to 2, calculate a^3/b^3*
@@ -81,7 +81,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Football tournament, time Marco plays in defence*
@@ -124,7 +124,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equilateral triangle side given equidistant treasure at 1 and 2 metres*
@@ -165,7 +165,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit numbers less the sum of the digits equal to 45*
@@ -210,7 +210,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum coefficient of degree 1 of the monic polynomial degree 5
@@ -260,7 +260,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Race horses with liars and liars, who and third*
@@ -302,7 +302,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area isosceles triangle ABC with mean D and isosceles BCD*
@@ -345,7 +345,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expenditure increases by 0.5% per annum, a year in which it doubles*
@@ -389,7 +389,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Couples m,n with mn=25! a reduced fraction of less than 1*
@@ -435,7 +435,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance B C data of 30 degree angles on the carton*
@@ -480,7 +480,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting of chess colours 8x8 with bound letters ABCD*
@@ -527,7 +527,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Half sheet x^2 y^2, maximum number of jokes *
@@ -596,7 +596,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Iterated tangent circles, minimum n with area less than 1*
@@ -657,7 +657,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of p(0)^2+q(0)^2 for polynomials with parity constraints*
@@ -689,7 +689,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclostillate of n multiples of 9 and 11*
@@ -729,7 +729,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Debt of weekly sleep, minimum hours of sleep by David*
@@ -766,7 +766,7 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Acute triangle, circocentre, angles and areas of quadrilateral*

@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri reali soddisfano l'uguaglianza che implica che il quadratico ha radice in (0,1) *
@@ -56,7 +56,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la somma minima delle deviazioni assolute da numeri reali distinti*
@@ -85,7 +85,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri naturali con qr-ps=1 e p/q<a/b<r/s implicano b≥q+s*
@@ -112,7 +112,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una figura con esattamente n assi di simmetria nello spazio richiede n odd*
@@ -139,7 +139,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un ottagono equangolare con lati razionali ha un centro di simmetria*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine quale n permette un poliedro con esattamente n bordi*

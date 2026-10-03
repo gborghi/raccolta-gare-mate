@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi, tangente comune; dimostrare che MQ bisecta angolo PMR*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che una certa espressione in n è divisibile per 2000*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto di ritrovamento sul perimetro del triangolo riducendo al minimo la somma delle distanze verso i vertici*
@@ -113,7 +113,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza simile a Collatz; trovare tutti i k per i quali appare 2000*
@@ -142,7 +142,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi di squadre per otto persone in quattro squadre ineguaglie*

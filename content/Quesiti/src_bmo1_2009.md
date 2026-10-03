@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i percorsi in zigzag su una scacchiera standard 8x8*
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori reali di x, y, z che soddisfano un sistema*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma, circolo incontra CP a Q; prova PQ=ACff angolo=60*
@@ -108,7 +108,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi n dove 2008 divide n^2+2008 e 2009 divide n^2+2009*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le sequenze che soddisfano una ricorrenza con un termine razionale periodico*
@@ -166,7 +166,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che la somma cosina ponderata dei lati a cubo è inferiore a abc in triangolo obtuso*

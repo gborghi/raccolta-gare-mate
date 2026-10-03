@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In how many years a year with two digits repeated*
@@ -72,7 +72,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the path of the ant on the box*
@@ -115,7 +115,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different schemes for climbing 8 steps (1 or 2) *
@@ -158,7 +158,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White squares in the tenth square*
@@ -199,7 +199,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to write 546 as the sum of multiples of 3*
@@ -239,7 +239,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eta of Alda (month two years Charles) *
@@ -280,7 +280,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major Marta euro with 20 banknotes*
@@ -321,7 +321,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lock code (digits equal to sum of 4x6) *
@@ -362,7 +362,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimate segments to see 55 squares*
@@ -402,7 +402,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many tallies was the payroll (contracts) *
@@ -442,7 +442,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two numbers exchanged in the magic square*
@@ -483,7 +483,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of four digits with the digits thousand one and three digits equal*
@@ -523,7 +523,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the grey star at the centre of the hexagons*
@@ -564,7 +564,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of tokens of Alessio (residues 1 2 3) *
@@ -605,7 +605,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 € € € € € € € € € € € € € € € € € € € € € € € € € € €
@@ -643,7 +643,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many complete moves with 1000 spins (playing three per spine) *
@@ -676,7 +676,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum four-pen bags with a maximum of two of the same colour*
@@ -704,7 +704,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of books on the shelf (position restrictions) *
@@ -757,7 +757,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the four Julian numbers (equal sums on the diagonals) *
@@ -827,7 +827,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the 6x6 grid with/without special position number*
@@ -895,7 +895,7 @@ How to write 546 as the sum of multiples of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the number of candlesticks per serving (two cuts) *

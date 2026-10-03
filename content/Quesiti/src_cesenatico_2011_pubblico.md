@@ -32,7 +32,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum of 9 dice <= 31*
@@ -68,7 +68,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * missing pieces of bronze *
@@ -101,7 +101,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to pay 4027 ingots with bronze and copper
@@ -137,7 +137,7 @@ How to pay 4027 ingots with bronze and copper
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turned distance from D (cart and decuman) *
@@ -172,7 +172,7 @@ How to pay 4027 ingots with bronze and copper
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of wholly yellow fish*
@@ -205,7 +205,7 @@ How to pay 4027 ingots with bronze and copper
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculated as follows:
@@ -240,7 +240,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three athletes side by side for the first time*
@@ -279,7 +279,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of not detecting saboteurs*
@@ -315,7 +315,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wall perimeter around pyramids (geodetic) *
@@ -349,7 +349,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of base figures 2 of p(128) per product*
@@ -391,7 +391,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of spies among workers (cyclical claims) *
@@ -426,7 +426,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum time broken to two orthogonal lines*
@@ -465,7 +465,7 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 It's likely to return to office 73 (shift)
@@ -499,7 +499,7 @@ It's likely to return to office 73 (shift)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wrapped length of bulge on the mattress*
@@ -533,7 +533,7 @@ It's likely to return to office 73 (shift)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information shall be provided for the purposes of this Regulation:
@@ -576,7 +576,7 @@ The following information shall be provided for the purposes of this Regulation:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Druid beard length (Julian calendar) *

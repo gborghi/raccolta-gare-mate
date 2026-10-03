@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali ciclici da intersezioni di cerchi incircoli*
@@ -56,7 +56,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazione della scheda da movimenti; trovare tutti i n* validi
@@ -87,7 +87,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare n-liste ideali in cui le medie correnti sono interi*
@@ -116,7 +116,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I lati interi del triangolo con angolo A = 3B; dimostrare che un lato è un cubo*

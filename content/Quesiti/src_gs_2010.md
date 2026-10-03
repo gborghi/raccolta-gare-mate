@@ -33,7 +33,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum dog walk in a ball game
@@ -67,7 +67,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Person at the door with Q3 ticket and call rule*
@@ -110,7 +110,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Liar and order of arrival in a race race*
@@ -146,7 +146,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum to be divided between musicians by ages and equal parts*
@@ -180,7 +180,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers other than 10 given product 360360 of numbers 7-17*
@@ -212,7 +212,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Located area between square lake and triangular valleys*
@@ -250,7 +250,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winner's dollars in playing cards with periodic sequences*
@@ -285,7 +285,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum ceilings for maximum surpluses with subsequent divisions*
@@ -319,7 +319,7 @@ Maximum dog walk in a ball game
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Turns so a player stays with half a penny
@@ -352,7 +352,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum beans beyond 2010 to win the game of Nim*
@@ -389,7 +389,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dollars paid with progressive fractional abandonments *
@@ -427,7 +427,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Materials brought by Duncan with combinatoric constraints*
@@ -462,7 +462,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Type of stars to be drawn with 2011 vertices*
@@ -493,7 +493,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of oddities less than 100 difference squares in two ways*
@@ -528,7 +528,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum steps for the polygon side to be below 1/2^2010*
@@ -562,7 +562,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dollars for a 50% chance of extracting two red beads*
@@ -604,7 +604,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Combined numbers with local divisibility constraints*
@@ -634,7 +634,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Logical deductions on the order of a race race*
@@ -660,7 +660,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of a step mausoleum with equal side surfaces*
@@ -687,7 +687,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Type of stars to be drawn with 2010 vertices*
@@ -713,7 +713,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Drappers of 9 volunteers with 3 fixed captains*
@@ -739,7 +739,7 @@ Turns so a player stays with half a penny
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Calculation of a recursive operation n star m (5 star 5)
@@ -765,7 +765,7 @@ Calculation of a recursive operation n star m (5 star 5)
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean number of extractions with 7 red balls*
@@ -791,7 +791,7 @@ Calculation of a recursive operation n star m (5 star 5)
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with 3 stars n multiple of 73*

@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova quattro numeri primi sotto 100 dividendo 3^10 - 2^10*
@@ -54,7 +54,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero converso con punti di trisezione; dimostrare che MNPQ ha 1/3 di superficie*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pandigital a nove cifre; contare quelli con cifre 1-5 in ordine ma non 1-6*
@@ -108,7 +108,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi in contatto con tangente comune; dimostrare AP = PQ*
@@ -136,7 +136,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi a,b,c; dimostrare la disuguaglianza ciclica*
@@ -163,7 +163,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integer n; mostrare 2+sqrt(3+sqrt(12n+1)) intero implica n quadrato perfetto*

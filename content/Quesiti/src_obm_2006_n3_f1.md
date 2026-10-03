@@ -30,7 +30,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema della parola età: Neto aveva la metà dell'età di suo nonno alla fine del 1994; la somma degli anni di nascita è di 3844; trovare l'età di Neto nel 2006.*
@@ -65,7 +65,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare somme distinte di coppie di numeri distinti da {1,2,...,2006}.*
@@ -99,7 +99,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
@@ -133,7 +133,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadrati incollati dai loro vertici l'uno all'altro e a due bastoni verticali; trovare angolo x.*
@@ -168,7 +168,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due reali non-zero distinte a,b con a-b=a/b; trovare un possibile valore di a/b+1/b-ab.*
@@ -203,7 +203,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare i numeri 4,5,6,7,8,9 in spazi che formano tre numeri a due cifre in ordine rigorosamente decrescente; ordini di conteggio.*
@@ -238,7 +238,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale espressione monomiale non può essere uguale a 24 per i numeri interi positivi adatti a,b,c.*
@@ -271,7 +271,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per quanti valori di a è 2a^2+2a+19 non primo.*
@@ -309,7 +309,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi a,b,c sommando a 1 e essendo lati di un triangolo; scegliere l'insieme corretto di disuguaglianze.*
@@ -347,7 +347,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di 9 reali, primi 20, ultimi 4, ogni termine dal terzo in poi è la media aritmetica di tutti i precedenti; trova il secondo termine.*
@@ -382,7 +382,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli reali (x,y,z) soddisfacendo x(x+y+z) = 2005, y(x+y+z) = 2006, z(x+y+z) = 2007.*
@@ -416,7 +416,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arnaldo ha quadrati blu 2x2, gialli 2x2, verdi 3x3; assemblare un quadrato più grande utilizzando almeno tre di ciascuno; ridurre al minimo il numero totale.*
@@ -452,7 +452,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *x,y razionale; dato (x - y√2006)/(4 - y√2006) è razionale, determina il prodotto xy.*
@@ -489,7 +489,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque classi inserite una per una con una media corrente sempre un numero intero; classi 71,76,80,82,91; ritrovare l'ultima inserita.*
@@ -525,7 +525,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo arbitrario ABC, equilaterale ACD e AEB; F,G punti di mezzo di EA e AC; trovare rapporto BD/FG.*
@@ -561,7 +561,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero positivo x è un multiple del 2006 con sqrt(x) tra il 2005 e il 2007; contare possibili x.*
@@ -595,7 +595,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due semicircoli, diametro PS (misura 1) e QR paralleli a PS; semicircolo più piccolo tangente a PS a O; trovare area ombreggiata.*
@@ -640,7 +640,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A partire da (2048,1024), operazione (a,b) ->((3a+b)/4,(a+3b)/4); tra le cinque coppie elencate che sono disponibili.*
@@ -679,7 +679,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *13x17 griglia numerata prima da righe e poi ri-numerata da colonne; celle di conteggio dove i due numeri coincidono.*
@@ -714,7 +714,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altino (1,5 m di altezza) contro una parete di notte, lampada sopra 4 m postata a 10 m dalla parete; scegliere il grafico dell'altezza dell'ombra della parete f(x) contro la distanza x.*
@@ -752,7 +752,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate). *
@@ -789,7 +789,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti A,B nel piano alfa a distanza 8; linee di conteggio di alfa a distanza 2 da A e a distanza 2 da B.*
@@ -823,7 +823,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multipli di 2160.
@@ -857,7 +857,7 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il minimo sui numeri reali x,y,z di sqrt(x^2+1)+sqrt((y-x)^2+4)+sqrt((z-y)^2+1)+sqrt((10-z)^2+9).*
@@ -892,7 +892,7 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di cubo tagliata in quattro regioni per due piani (uno attraverso i bordi AB,CD, l'altro attraverso AE,DF); trovare il volume(s) della più grande regione(s).*

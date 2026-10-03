@@ -27,11 +27,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dieci numeri di due cifre hanno due sottoinsiemi disgiunti con somma uguale*
 
 > Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
-
-
 
 [[Quesiti/src_imo_1972_all#q01|src_imo_1972_all__Q01]]
 
@@ -54,11 +53,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Scomporre un quadrilatero ciclico in n quadrilateri ciclici*
 
 > Si dimostri che se $n \geq 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali può essere inscritto in una circonferenza.
-
-
 
 [[Quesiti/src_imo_1972_all#q02|src_imo_1972_all__Q02]]
 
@@ -85,6 +83,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare che (2m)!(2n)!/(m!n!(m+n)!) è intero*
 
 > Siano $m$ e $n$ due interi non negativi arbitrari. Si dimostri che
@@ -92,8 +91,6 @@ level: IMO
 > $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
 > 
 > è un numero intero. ($0! = 1$.)
-
-
 
 [[Quesiti/src_imo_1972_all#q03|src_imo_1972_all__Q03]]
 
@@ -126,6 +123,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Risolvere un sistema ciclico di disuguaglianze prodotto, numeri reali positivi*
 
 > Determinare tutte le soluzioni $(x_1, x_2, x_3, x_4, x_5)$ del sistema di disuguaglianze
@@ -139,8 +137,6 @@ level: IMO
 > \end{cases}$$
 > 
 > dove $x_1, x_2, x_3, x_4, x_5$ sono numeri reali positivi.
-
-
 
 [[Quesiti/src_imo_1972_all#q04|src_imo_1972_all__Q04]]
 
@@ -166,6 +162,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale limitata implica |g(y)|≤1*
 
 > Siano $f$ e $g$ funzioni a valori reali definite per tutti i numeri reali $x$ e $y$, che soddisfano l'equazione
@@ -173,8 +170,6 @@ level: IMO
 > $$f(x+y) + f(x-y) = 2f(x)g(y)$$
 > 
 > Per ogni $x, y$. Si dimostri che se $f(x)$ non è identicamente nullo e se $|f(x)| \leq 1$ per ogni $x$, allora $|g(y)| \leq 1$ per ogni $y$.
-
-
 
 [[Quesiti/src_imo_1972_all#q05|src_imo_1972_all__Q05]]
 
@@ -198,10 +193,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Tetraedro regolare con un vertice su ciascuno dei quattro piani paralleli*
 
 > Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
-
-
 
 [[Quesiti/src_imo_1972_all#q06|src_imo_1972_all__Q06]]

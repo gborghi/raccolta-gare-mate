@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio n≤2017 per il quale un triangolo a angolo retto di uguali dimensioni ha esattamente n punti di reticola sul suo perimetro*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la sequenza a_n = somma_{i=1}^{n} piano(n/i) soddisfa a_{n+1}>a_n e a_{n+1}=a_n entrambi infinitamente spesso*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico: il bisettore angolare dell'angolo ADB incontra l'AC a N; dimostra CD parallelo ad AB se AN=NC*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il codice segreto a 3 cifre di Bobby: trovare le ipotesi minime che Alex deve garantire per imparare il codice

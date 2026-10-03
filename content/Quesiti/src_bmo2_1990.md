@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove un polinomio con coefficienti interi che assumono il valore 1990 a quattro numeri interi distinti non può assumere il valore 1997.*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con la parte frazionaria f(x) =x-[x], trovare una x positiva con f(x) + f(1/x) =1; chiedere se esistono soluzioni razionali.*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserire la regola cosinica e dimostrare una disuguaglianza della somma delle radici quadrate per i reali positivi a, b, c.*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare d^2/area(T) dove d è la più piccola diagonale tra tutti i rettangoli inseriti in un triangolo T.*
@@ -134,7 +134,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgKwA5dNhmbabxBFtA3zgDYQkBRYqjTC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con il centro I e l'escentro J del triangolo ABC, dimostrare AI.AJ=AB.AC e AI.BJ.CJ=AJ.BI.CI.*

@@ -26,7 +26,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero positivo più piccolo non diviso 9 fattoriali*
@@ -53,7 +53,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri odd a quattro cifre con cifre 1,2,3,4 ciascuna una volta*
@@ -81,7 +81,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le ultime due cifre di $5^{2024}$*
@@ -109,7 +109,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca angolo CAB in ABCD quadrilaterale con angoli dati*
@@ -136,7 +136,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolazione \ab-c per le espressioni simmetriche date in x,y,z*
@@ -163,7 +163,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare triples (a,b,c) che soddisfano due equazioni di potenza simultanee*
@@ -190,7 +190,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutte le superfici di un cubo con due vertici dati*
@@ -217,7 +217,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le prime due cifre della n più piccola con condizioni di somma di cifre su n e n+1*
@@ -244,7 +244,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie di movimenti di cavalieri in griglia di numeri interi 5x5*
@@ -272,7 +272,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta p integrale positiva per un triangolo con un'equazione laterale data*
@@ -302,7 +302,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca 1/a+1/b+1/c data due equazioni simmetriche*
@@ -329,7 +329,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo MAB in quadrato ABCD con trisezione di CD*
@@ -358,7 +358,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore di due equazioni date in numeri interi positivi a,b,c con a>c*
@@ -385,7 +385,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Particelle a (79,80) dopo 80 passaggi di regola di divisione*
@@ -412,7 +412,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno n in modo che 20 numeri interi consecutivi da n formino triangoli acuti*
@@ -439,7 +439,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il numero intero più vicino a f(27)-f(25) per l'equazione funzionale*
@@ -466,7 +466,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza PQ dell'accordo parallela a BC attraverso il punto medio del piede d'altitudine*
@@ -493,7 +493,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le ultime due cifre di r più grande stampate in determinate condizioni su p,q*
@@ -521,7 +521,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore 10 linee tra 5 punti in modo da non esistere un triangolo monocromatico*
@@ -549,7 +549,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di passi per raggiungere 121 da 11 attraverso moltiplicazione per 2 o sottrazione di 3*
@@ -576,7 +576,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Restante quando n diviso per 100, date le condizioni del pavimento*
@@ -603,7 +603,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova m+n+p per il rapporto AC/AB nel triangolo rettangolo con un dato rapporto BD*
@@ -630,7 +630,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo in modo tale che la quarta potenza 1^4,...,14^4 abbia residui distinti mod n *
@@ -657,7 +657,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i polinomi di grado 14 in F in modo tale che il prodotto con q(x) = x^3+x+1 rimanga in F*
@@ -684,7 +684,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca N^2 (quadrato più grande) in un insieme finito di M di quadrati perfetti e 92*
@@ -711,7 +711,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Suma del pavimento(x) per x reale soddisfacente 16+15x+15x^2=pavimento(x)^3*
@@ -740,7 +740,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione mn in cui l'area del triangolo pedale DEF è m*sqrt(n) per il punto isogonale*
@@ -767,7 +767,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N<30 più piccolo con (n^8+3n^4-4)/2 libero da quadrati*
@@ -794,7 +794,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ultime due cifre del conteggio di divisori di n^2 inferiore a n che non dividono n*
@@ -821,7 +821,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di AC a numero intero nel triangolo rettangolo ABC con perimetro e altitudine BD=12*

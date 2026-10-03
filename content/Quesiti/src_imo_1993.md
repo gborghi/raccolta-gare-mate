@@ -29,13 +29,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare che x^n+5x^(n-1)+3 è irriducibile sugli interi*
 
 > Sia f(x) = xn + 5xn−1 + 3, dove n > 1 è un intero. Si dimostri che f(x)
 > non può essere espresso come prodotto di due polinomi non costanti
 > a coefficienti interi.
-
-
 
 [[Quesiti/src_imo_1993#q01|src_imo_1993__Q01]]
 
@@ -63,6 +62,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Calcolare il rapporto e dimostrare che le tangenti sono perpendicolari per D interno*
 
 > Sia D un punto interno al triangolo acutangolo ABC tale che
@@ -70,8 +70,6 @@ level: IMO
 >
 > (a) Calcolare il rapporto (AB · CD)/(AC · BD).
 > (b) Dimostrare che le tangenti in C alle circonferenze circoscritte ai triangoli ACD e BCD sono perpendicolari.
-
-
 
 [[Quesiti/src_imo_1993#q02|src_imo_1993__Q02]]
 
@@ -105,6 +103,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *per quali n rimane un pezzo*
 
 > Su una scacchiera infinita si svolge un gioco nel modo seguente. All'inizio, n² pezzi sono disposti sulla scacchiera formando un blocco di n per n di caselle adiacenti, con un pezzo in ogni casella. Una mossa nel gioco consiste nel saltare orizzontalmente o verticalmente sopra una casella adiacente occupata, per atterrare su una casella vuota immediatamente oltre. Il pezzo sopra cui si è saltato viene rimosso.
@@ -114,8 +113,6 @@ level: IMO
 > Secondo Giorno
 > 19 luglio 1993
 > Tempo a disposizione: 4½ ore
-
-
 
 [[Quesiti/src_imo_1993#q03|src_imo_1993__Q03]]
 
@@ -140,7 +137,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum-altitude function triangle inequality for four points*
@@ -171,12 +168,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Esistenza di una funzione f con f(1)=2, f(f(n))=f(n)+n, crescente*
 
 > Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che
 > $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
-
-
 
 [[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 
@@ -204,7 +200,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of steps to be taken to achieve the desired results.

@@ -36,7 +36,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Year in which Greta's total of children exceeds that of Eva
@@ -80,7 +80,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of school pupils graduated, transferred and enrolled*
@@ -122,7 +122,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of female average grade in class*
@@ -168,7 +168,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many wages between thieves, knights and wages*
@@ -211,7 +211,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number with sum of 83 and product 1024*
@@ -253,7 +253,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of four digit numbers separated by 1,2,3,6*
@@ -299,7 +299,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Research area around the pentagonal building*
@@ -340,7 +340,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second figure of the product (10^4+1)
@@ -386,7 +386,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded area with rectangle, circle and semicircular *
@@ -430,7 +430,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *unit number of 66^66 divided by 2*
@@ -471,7 +471,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers n with n and (n-6)^2+1 both prime*
@@ -514,7 +514,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of side cubes 3 cm given sum of volumes*
@@ -557,7 +557,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Anthony hamiltonian paths on the cube shafts*
@@ -599,7 +599,7 @@ Year in which Greta's total of children exceeds that of Eva
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *External cubic surface area of spheres for midpoints*

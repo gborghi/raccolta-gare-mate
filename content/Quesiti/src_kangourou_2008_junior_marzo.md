@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which vowel remains in box 2*
@@ -75,7 +75,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First year with total children > parent *
@@ -107,7 +107,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Writing in the reverse mirror*
@@ -175,7 +175,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities between A..E are different from 6*
@@ -228,7 +228,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the AB segment (Pitagora) *
@@ -277,7 +277,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum letters to be removed in alphabetical order*
@@ -316,7 +316,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Chapter corresponding to K in OK+KO=WOW*
@@ -353,7 +353,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial rectangular perimeter (sizes Tom/Jerry) *
@@ -388,7 +388,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which are not planar developments of the cut cube*
@@ -447,7 +447,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many more tests per average 4/5*
@@ -483,7 +483,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of age of three older cousins
@@ -522,7 +522,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of cards from the first essay (parity) *
@@ -557,7 +557,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of additions per sum of 100*
@@ -591,7 +591,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits 9 in product 99*n*
@@ -629,7 +629,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *HG length (parallel strings in circumference) *
@@ -665,7 +665,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of difference in digits of 2-digit numbers*
@@ -726,7 +726,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded part area between two regular hexagons*
@@ -765,7 +765,7 @@ Sum of age of three older cousins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum cancellable figures from 2008 to 2008 sum 2008
@@ -801,7 +801,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PBC angle measurement (chain of angles) *
@@ -839,7 +839,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real pairs with sum=product=report*
@@ -875,7 +875,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *6 digit numbers with digit = sum of two previous ones*
@@ -910,7 +910,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubets with at least two different coloured faces*
@@ -959,7 +959,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of k by k! The following information is provided for in Part A of this Annex:
@@ -1000,7 +1000,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of highlighted arc (three tangent circles) *
@@ -1044,7 +1044,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *B+D value on the development of the octahedron*
@@ -1081,7 +1081,7 @@ Maximum cancellable figures from 2008 to 2008 sum 2008
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Product of the two divisions of 3^32-1 between 75 and 85
@@ -1150,7 +1150,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure forming the white spheres (8-pyramid) *
@@ -1199,7 +1199,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum diagonal without points in common (4x4)*
@@ -1247,7 +1247,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many jump sequences 1m/3m by 10m*
@@ -1304,7 +1304,7 @@ Product of the two divisions of 3^32-1 between 75 and 85
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQ segment length (squared arcs) *

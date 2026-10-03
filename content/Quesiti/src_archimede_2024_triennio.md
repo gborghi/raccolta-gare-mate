@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum 1..2024 with a number skipped, multiple of 5*
@@ -77,7 +77,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Knights and crooks, minimum points of advantage of the winner*
@@ -119,7 +119,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total pairs (m,n) which solve n^2+2024n+2024m=2024*
@@ -163,7 +163,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular triangle, circumscribed circumference, measurement of PA*
@@ -206,7 +206,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interi k with q(k) = 0 for composition 2024 times p(x) *
@@ -252,7 +252,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 18000 divisors whose writing ends in 50*
@@ -300,7 +300,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three points in space, existence of P with perpendicular lines*
@@ -342,7 +342,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum b with square shape a/x^2+b/xy+c/y^2 not negative*
@@ -385,7 +385,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *5x5 colours red/blue with binding on the shared sides*
@@ -429,7 +429,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final figures 0 for the maximum product of distinct integers sum 2024*
@@ -489,7 +489,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Insert 1.10 in 13 vertical-ordered boxes*
@@ -534,7 +534,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Region area within 3 from the circumscribed quadrilateral perimeter*
@@ -584,7 +584,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of union of two regular hexagons with parallel diagonals*
@@ -631,7 +631,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 14-sided dice per spin*
@@ -675,7 +675,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *a and a+b of the sample *
@@ -724,7 +724,7 @@ level: triennio
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle, bisector and circumference, isosceles triangle and similarities*
@@ -769,7 +769,7 @@ level: triennio
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Subdivision of 0/1 strings into blocks, counting of strings*

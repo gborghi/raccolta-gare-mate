@@ -8,9 +8,9 @@ level: kangourou
 ---
 <div class="atom-reader" data-gara="Quesiti/src_kangourou_2026_cadet_finale"></div>
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
 *Differenza di peso tra sacchi da terne 50 o 60*
 
@@ -22,9 +22,9 @@ level: kangourou
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Area del quarto quadrilatero in un quadrato*
 
@@ -36,9 +36,9 @@ level: kangourou
 **Risposta:** 280
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_combinatoria,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_combinatoria,skill_astrazione"></span>
 
 *Moneta falsa piu leggera con 6 pesate*
 
@@ -50,9 +50,9 @@ level: kangourou
 **Risposta:** 729
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Centri dei quadrati esterni a un rettangolo*
 
@@ -64,9 +64,9 @@ level: kangourou
 **Risposta:** è un quadrato
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
 *Levare un intero da 1 a 2026 per media intera*
 
@@ -78,9 +78,9 @@ level: kangourou
 **Risposta:** 1 o 2026
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
 
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 *Coppie di palindromi di 4 cifre con somma palindroma*
 
@@ -92,4 +92,3 @@ level: kangourou
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m_rdEMda_XahODCX4UFLBYxv4axPsFQb/view)
-

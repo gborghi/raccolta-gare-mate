@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many kids in the class are in line*
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What time was the photo taken with four watches*
@@ -82,7 +82,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many brown balls in Elena's 20*
@@ -111,7 +111,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final product figure of the odd between 1 and 2012*
@@ -141,7 +141,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of triangles to cut the kangaroo*
@@ -174,7 +174,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A sum of 100 can be obtained on the visible faces of the dice*

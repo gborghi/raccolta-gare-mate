@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who came last in the race?
@@ -54,7 +54,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many apples in total (6 boxes vs 5 with +2) *
@@ -85,7 +85,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which drawing is not traceable without raising the pencil*
@@ -115,7 +115,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number of salads halved by trade*
@@ -151,7 +151,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure shows the three equal rings *
@@ -182,7 +182,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of pages if the figure 4 appears 16 times*
@@ -212,7 +212,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the fraction of the large, grey square*
@@ -243,7 +243,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of whole isosceles triangles with perimeter of 60*
@@ -271,7 +271,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many chocolates are left after the last day*
@@ -301,7 +301,7 @@ Who came last in the race?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What are the three hidden digits given sum 10126*
@@ -332,7 +332,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which island and the treasure (one true scroll) *
@@ -362,7 +362,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the shaded region outside the triangle*
@@ -392,7 +392,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cats in the store give fractions*
@@ -442,7 +442,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the RQS angle with equal segments and QPR=20*
@@ -493,7 +493,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many hugs does Enza exchange (knowledge graph) *
@@ -524,7 +524,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cuts are squared after folding and cutting*
@@ -554,7 +554,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which of the last five rounds he scored *
@@ -582,7 +582,7 @@ What are the three hidden digits given sum 10126*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many euros will Pierino have after selling all of them?
@@ -613,7 +613,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which 4x4 grids cannot be obtained from the two pieces*
@@ -657,7 +657,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N value with diameter for 7 and 23*
@@ -711,7 +711,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of matches in the closed path*
@@ -757,7 +757,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial ratio between the heights of the two candles*
@@ -810,7 +810,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of green cane in the 3x3 grid*
@@ -857,7 +857,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How much did Rita have before she bought (reports) *
@@ -899,7 +899,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which development of the cube the line is closed*
@@ -949,7 +949,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Passengers in the two central carriages (blocks of 5) *
@@ -998,7 +998,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which pair of circles and necessarily of the same colour*
@@ -1041,7 +1041,7 @@ How many euros will Pierino have after selling all of them?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of teams with no more than 250 matches
@@ -1088,7 +1088,7 @@ Maximum number of teams with no more than 250 matches
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What fraction of the ABCD square is shaded*
@@ -1137,7 +1137,7 @@ Maximum number of teams with no more than 250 matches
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White fraction of the surface of the cube (black interior) *

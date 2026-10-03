@@ -28,7 +28,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Floor times fractional part = 2019x; trova tutte le x*
@@ -57,7 +57,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a 8 cifre ab2019cd divisibili per 360*
@@ -86,7 +86,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo con ceviani; indicare a+b=c per le aree di quattro regioni*
@@ -117,7 +117,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Righe su griglia 10x10; somma visibile raggiunge 10^1,...,10^10; trovare k più grande *
@@ -148,7 +148,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x^3), il pavimento x^4) sono quadrati perfetti
@@ -179,7 +179,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma; CP=CB; punti medi M di AP, N di CD; mostrare la BP perpendicolare a MN*
@@ -210,7 +210,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza u_{n+1}=u_n più il suo più grande divisore proprio; mostrare 3^2019 divide u_n alla fine*
@@ -241,7 +241,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *m x n griglia blu/rosso; massimizzare le righe con maggioranza blu più le colonne con maggioranza rossa*

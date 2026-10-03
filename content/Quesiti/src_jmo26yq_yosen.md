@@ -30,7 +30,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un radicale di quattro potenze*
@@ -61,7 +61,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi 1..2016 con mod 20 *
@@ -92,7 +92,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo di due linee in un esagono ciclico*
@@ -123,7 +123,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partzioni della griglia 11x11 in 5 rettangoli, un interno*
@@ -154,7 +154,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area del triangolo BCP da triangoli simili*
@@ -185,7 +185,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto medio su tutti i modi per circolare 100 su 1,200*
@@ -218,7 +218,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum della somma dei quadrati sotto tre equazioni di prodotto*
@@ -249,7 +249,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza XD da un'accordazione incircolare con dati relativi*
@@ -280,7 +280,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie di conteggio (a,b) con due condizioni di divisibilità*
@@ -311,7 +311,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di distanza da percorrere per visitare i punti 2016 su un cerchio*
@@ -342,7 +342,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di 1..1000 con condizione di fase a o b*
@@ -373,7 +373,7 @@ level: JMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maxime conteggio onesto identificabile attraverso i rapporti di contato di bugiardi del villaggio*

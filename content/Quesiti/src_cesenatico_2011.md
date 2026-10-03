@@ -30,7 +30,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the trapezoid into m+n trapezoids of equal area, minimum m+n*
@@ -65,7 +65,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Existence of two scales with MCD terms =1 and >1*
@@ -102,7 +102,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final number unchanged per parity*
@@ -136,7 +136,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *angles and sides *
@@ -168,7 +168,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres of n^3 = p^2 - p - 1 with p prime *
@@ -200,7 +200,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *4 colours are enough, 3 no*

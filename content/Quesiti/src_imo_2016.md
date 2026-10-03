@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BD, FX, ME competitors (AMXE parallelogram) *
@@ -58,7 +58,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Table n×n filled with I,M,O balanced*
@@ -89,7 +89,7 @@ Table n×n filled with I,M,O balanced*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2S divisible by n in whole cyclic polygon*
@@ -118,7 +118,7 @@ Table n×n filled with I,M,O balanced*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum b with fragrant set of P(n) = n^2+n+1*
@@ -147,7 +147,7 @@ Table n×n filled with I,M,O balanced*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum k factors to be deleted without actual solutions*
@@ -178,7 +178,7 @@ Table n×n filled with I,M,O balanced*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fredges on non-collision segments if n occurs*

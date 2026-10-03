@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance traveled by the dog in three hours*
@@ -68,7 +68,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Recursive succession of calls of numbers*
@@ -96,7 +96,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coming orders from claims with a liar*
@@ -126,7 +126,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure division between three musicians per age*
@@ -159,7 +159,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Additions that give 360360 as product*
@@ -190,7 +190,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of uncultivated land between lake and fences*
@@ -221,7 +221,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time series won by Jake and Sline
@@ -253,7 +253,7 @@ Time series won by Jake and Sline
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total remainder equal to the remainder on 2310 plates*
@@ -284,7 +284,7 @@ Time series won by Jake and Sline
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The number of shifts for Jake to win $1005.
@@ -311,7 +311,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bean game strategy, multiple of 9*
@@ -340,7 +340,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total price of party with progressive abandonment*
@@ -379,7 +379,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Assignment of subjects to teachers (logic) *
@@ -414,7 +414,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of different stars with prime p vertices*
@@ -446,7 +446,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of writeable numbers as difference of squares in multiple ways*
@@ -477,7 +477,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum step n with polygon side below threshold*
@@ -507,7 +507,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extractions because the probability exceeds 1/2*
@@ -547,7 +547,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal numbers with divisibility conditions*
@@ -597,7 +597,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Order arrival with a liar (code) *
@@ -635,7 +635,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total height of the ziqqurat per recourse*
@@ -667,7 +667,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting minor p/2 coatings with Eulero*
@@ -700,7 +700,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting soldier surreations on three letters*
@@ -738,7 +738,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Star operation as the number of surreations*
@@ -771,7 +771,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean time to complete extractions*
@@ -806,7 +806,7 @@ The number of shifts for Jake to win $1005.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with 73 3-star divisors n*

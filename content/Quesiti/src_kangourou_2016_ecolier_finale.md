@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little number equal to all ten digits *
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Name of basketball player among three athletes*
@@ -85,7 +85,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last possible figures if sum and product match*
@@ -115,7 +115,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 I can run out of money.
@@ -144,7 +144,7 @@ I can run out of money.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of comparisons to check the 5 heaviest *
@@ -176,7 +176,7 @@ I can run out of money.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bust A or B more convenient by answering randomly*

@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Massimizzare il valore di s4 su sottoinsiemi di quattro elementi di interi positivi*
 
 > Dato un qualunque insieme $A = \{a_1, a_2, a_3, a_4\}$ di quattro interi positivi distinti, indichiamo la somma $a_1 + a_2 + a_3 + a_4$ con $s_A$. Sia $n_A$ il numero delle coppie $(i,j)$ con $1 \le i < j \le 4$ per cui $a_i + a_j$ divide $s_A$. Determinare tutti gli insiemi $A$ di quattro interi positivi distinti per cui $n_A$ assume il valore massimo possibile.
-
-
 
 [[Quesiti/src_imho_2011#q01|src_imho_2011__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Il processo a mulino a vento utilizza ciascun punto come centro infinite volte*
 
 > Sia $\mathcal{S}$ un insieme finito di almeno due punti nel piano. Si assuma che nessuni tre punti di $\mathcal{S}$ siano allineati. Un mulino a vento è un processo che inizia con una retta $\ell$ passante per un solo punto $P \in \mathcal{S}$. La retta ruota in senso orario intorno al punto $P$ fino al primo istante in cui incontra un altro punto appartenente a $\mathcal{S}$. Questo punto, $Q$, diventa il nuovo centro di rotazione e la retta ora ruota in senso orario intorno a $Q$ fino al successivo incontro con un punto di $\mathcal{S}$. Il processo continua all'infinito. Si dimostri che è possibile scegliere un punto $P$ in $\mathcal{S}$ e una retta $\ell$ passante per $P$ in modo che il mulino a vento risultante utilizzi ciascun punto di $\mathcal{S}$ come centro di rotazione un numero infinito di volte.
-
-
 
 [[Quesiti/src_imho_2011#q02|src_imho_2011__Q02]]
 
@@ -86,13 +84,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza funzionale che implica f(x)=0 per x<=0*
 
 > Sia $f : \mathbb{R} \to \mathbb{R}$ una funzione a valori reali definita sull'insieme dei numeri reali che soddisfa
 > $$f(x+y) \le yf(x) + f(f(x))$$
 > per tutti i numeri reali $x$ e $y$. Si dimostri che $f(x) = 0$ per tutti gli $x \le 0$.
-
-
 
 [[Quesiti/src_imho_2011#q03|src_imho_2011__Q03]]
 
@@ -116,11 +113,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Contare i modi per posizionare pesi su una bilancia in modo che il piatto destro non sia più pesante*
 
 > Sia $n > 0$ un intero. Ci viene dato una bilancia e $n$ pesi ciascuno di massa $2^0, 2^1, \ldots, 2^{n-1}$. Dobbiamo posizionare ciascuno dei $n$ pesi sulla bilancia, uno dopo l'altro, in modo che il piatto destro non sia mai più pesante di quello sinistro. A ciascun passo scegliamo uno dei pesi ancora non posizionati e lo poniamo sul piatto sinistro o su quello destro, fino a quando tutti i pesi non siano stati posizionati. Si determini il numero di modi in cui ciò può essere fatto.
-
-
 
 [[Quesiti/src_imho_2011#q04|src_imho_2011__Q04]]
 
@@ -144,11 +140,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Proprietà di divisibilità di f(m)−f(n) per f(m−n) in una funzione su interi positivi*
 
 > Sia $f$ una funzione dall'insieme degli interi all'insieme dei numeri positivi. Si supponga che, per ogni due interi $m$ e $n$, la differenza $f(m) - f(n)$ sia divisibile per $f(m-n)$. Si dimostri che, per tutti gli interi $m$ e $n$ tali che $f(m) \le f(n)$, il numero $f(n)$ è divisibile per $f(m)$.
-
-
 
 [[Quesiti/src_imho_2011#q05|src_imho_2011__Q05]]
 
@@ -172,10 +167,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Le riflessioni della tangente in un vertice incontrano la circonferenza circoscritta tangenzialmente*
 
 > Sia $ABC$ un triangolo acutangolo con circonferenza circoscritta $\Gamma$. Sia $\ell$ una retta tangente a $\Gamma$, e siano $\ell_a$, $\ell_b$, $\ell_c$ le rette ottenute riflettendo $\ell$ rispettivamente rispetto alle rette $BC$, $CA$, $AB$. Si dimostri che la circonferenza circoscritta al triangolo individuato dalle rette $\ell_a$, $\ell_b$, $\ell_c$ è tangente alla circonferenza $\Gamma$.
-
-
 
 [[Quesiti/src_imho_2011#q06|src_imho_2011__Q06]]

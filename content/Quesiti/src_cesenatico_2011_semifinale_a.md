@@ -33,7 +33,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *decode numbers from encrypted message*
@@ -67,7 +67,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who's telling the truth
@@ -102,7 +102,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Line up 8 soldiers with close sums multiple of 3
@@ -135,7 +135,7 @@ Line up 8 soldiers with close sums multiple of 3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Quaternary a,b,c,d with abcd = 35! e ab=n!*
@@ -168,7 +168,7 @@ Quaternary a,b,c,d with abcd = 35! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum stamps of 165 and 210 for 5160*
@@ -203,7 +203,7 @@ Quaternary a,b,c,d with abcd = 35! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *fourth ordered number*
@@ -239,7 +239,7 @@ Quaternary a,b,c,d with abcd = 35! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interest sum with difference squared = square of first*
@@ -274,7 +274,7 @@ Quaternary a,b,c,d with abcd = 35! e ab=n!*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Other, of a kind used in the manufacture of bicycles and bicycles
@@ -307,7 +307,7 @@ Other, of a kind used in the manufacture of bicycles and bicycles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gems at the junction points of strings in 101 acronyms*
@@ -346,7 +346,7 @@ Other, of a kind used in the manufacture of bicycles and bicycles
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided for in the Annex to Delegated Regulation (EU) 2015/61.
@@ -380,7 +380,7 @@ The following information is provided for in the Annex to Delegated Regulation (
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the village search square*
@@ -413,7 +413,7 @@ The following information is provided for in the Annex to Delegated Regulation (
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided by the manufacturer:
@@ -446,7 +446,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AEFG quadrilateral area with mean points *
@@ -477,7 +477,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Convert 1111111111 from base 9 to base 10*
@@ -510,7 +510,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *height*
@@ -547,7 +547,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of whole solutions of ∆x ∆+2 ∆y ∆=4022

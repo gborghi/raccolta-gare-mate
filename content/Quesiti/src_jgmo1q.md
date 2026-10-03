@@ -26,7 +26,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le celle nere di confine in griglia 100x100 con 2500 celle dipinte non adiacenti*
@@ -55,7 +55,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di integri positivi le cui medie cumulative permutevano tutti gli integri positivi*
@@ -83,7 +83,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (m,n) con 2^m = 8n^4 + n^2 - 1*
@@ -110,7 +110,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massimo n garantendo 0/1 assegnamento soddisfacente per tutti gli scritti di parità/ineguaglianza su 100 variabili*
@@ -143,7 +143,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circumcenti di ABC e PQR coincidono; condizione di tangenza incircolare in triangolo acuto*

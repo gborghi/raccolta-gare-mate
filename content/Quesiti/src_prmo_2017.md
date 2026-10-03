@@ -26,7 +26,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare interi positivi <1000 con somma digitali divisibile per 7 e divisibile per 3*
@@ -53,7 +53,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il piano a+b) dato due equazioni radicali nei reali positivi a,b*
@@ -79,7 +79,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I giorni la squadra B lavora da sola per finire il lavoro dopo che A inizia, B si unisce, poi A si ritira*
@@ -106,7 +106,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Migliore a+b per le radici di numeri interi negativi del prodotto di due quadratici*
@@ -132,7 +132,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca n tale che u^40 = v^n = w^60 con u,v,w in progressione geometrica*
@@ -159,7 +159,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca q-p in cui la somma di 1/i(i+1)(i+2) da 1 a 10 è uguale a p/q in termini più bassi*
@@ -185,7 +185,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più piccolo intero positivo n con determinata condizione di pavimento/parti frazionarie*
@@ -212,7 +212,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di modi per spendere esattamente 1000 rupe per penne (Rs.11) e notebook (Rs.13) *
@@ -239,7 +239,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I percorsi per partire dalla città A e tornare dopo aver visitato alcune delle 5 città interconnesse*
@@ -266,7 +266,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi per collocare 4 ospiti in 8 camere corridoio senza due adiacenti o opposti*
@@ -292,7 +292,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre naturale minimo n tale che f(n*pi+x)=f(x) per tutte le x reali*
@@ -318,7 +318,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Total di studenti dati a ragazzi: ragazze = 1:3 e ragazzi presenti uguali al quadrato delle ragazze presenti*
@@ -345,7 +345,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca AB nel rettangolo ABCD con punto medio E di AB e due condizioni di perpendicularità*
@@ -371,7 +371,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero positivo minimo n tale che x^n > 100 dove {x}, piano(x), x sono in GP*
@@ -398,7 +398,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma massima di due integri rimossi da 1..n data media di riposo è di 17*
@@ -424,7 +424,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il termine medio di cinque numeri a 2 cifre distinte in progressione geometrica*
@@ -450,7 +450,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il semiperimetro del triangolo con altitudini 10, 12, 15*
@@ -477,7 +477,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova x^2+y^2+z^2 dati due vincoli quadratici in x,y,z*
@@ -504,7 +504,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il valore di ricerca di c dato 1,2,3 sono radici di x^4+x^2+c=0 (probabile: trovare c) *
@@ -531,7 +531,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli (a,b,c) di numeri interi positivi con a<b<c<10 e (b-a) divide c*
@@ -558,7 +558,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli ordinati (a,b,c) di numeri interi positivi con abc=108*
@@ -585,7 +585,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di poligoni di area finita formati da 10 linee non parallele in coppia*
@@ -612,7 +612,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primaria p più piccola soddisfacendo 7x^2 - 44x + 12 = p per un certo numero intero x*
@@ -639,7 +639,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca KL dove tre ceviani paralleli uguali attraversano il punto interno del triangolo con lati 26,65,78*
@@ -666,7 +666,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ritrovare l'area del triangolo AEF dati aree dei triangoli nel rettangolo ABCD*
@@ -693,7 +693,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca m+n+k per l'area tra due accordi paralleli AB=6, CD=8 in raggio circolare 5*
@@ -720,7 +720,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i raggi di due cerchi con condizioni di tangenza e di sezione*
@@ -747,7 +747,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimo p+q per i numeri primi p,q tale che n^(3pq) -n sia multiplo di 3pq per tutti gli integri positivi n*
@@ -774,7 +774,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più piccola h_n per n<100 dove h_n = gcd(n!+1, (n+1)!)*
@@ -801,7 +801,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero intero più vicino alla radice quadrata della superficie massima del trapezio dato due condizioni di prodotto triangolare*

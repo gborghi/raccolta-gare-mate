@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca N a due cifre dove la somma di 10^N meno N è divisibile per 170*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo all'interno di un altro; accordi tangenti dal punto esterno; rapporto angolare al punto di contatto*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sette tetromino distinte; dimostrano di avere un rettangolo 4x7*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La sequenza attraverso la ricorrenza di pavimento-sqrt contiene numeri interi consecutivi del 2001*
@@ -144,7 +144,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolare se a^2+b^2+c^2 è uguale a 8R^2*

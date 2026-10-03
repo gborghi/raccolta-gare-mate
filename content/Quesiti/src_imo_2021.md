@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A pile contains two cards with a square sum*
@@ -55,7 +55,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the main reason why the European Parliament and the Council have voted in favour of this resolution.
@@ -82,7 +82,7 @@ This is the main reason why the European Parliament and the Council have voted i
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BC, EF, O1O2 competitors (internal point D) *
@@ -109,7 +109,7 @@ This is the main reason why the European Parliament and the Council have voted i
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of the tangent equations AD+DT+TX+XA=...
@@ -138,7 +138,7 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scoyotes and nuts, there is k with a< k< b*
@@ -167,7 +167,7 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A contains at least m/2 elements (sub-sets of sum m^k) *

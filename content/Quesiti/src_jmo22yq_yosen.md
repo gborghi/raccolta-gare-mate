@@ -31,7 +31,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato con due trasversali perpendicolari; trovare lunghezza laterale*
@@ -66,7 +66,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo con angoli di corda tangente 30° e 10°; angolo di ricerca BDC*
@@ -97,7 +97,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Allegare i numeri 19 alle variabili; trovare la somma minima possibile del prodotto triplo massima*
@@ -126,7 +126,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Multiplici di 3 ma non di 9 la cui somma digitali lo eleva a un multiple di 9*
@@ -155,7 +155,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri positivi il cui prodotto di tutti i divisori è uguale a 2^{240}*
@@ -189,7 +189,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2×100 colore rosso/blu a griglia con restrizioni di parità ed esistenza*
@@ -224,7 +224,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con centro circonciso O; punto medio di DE è O; trovare CE*
@@ -257,7 +257,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di conteggio a partire dal 2012, che terminano a 1, ogni termine inferiore al quadrato del precedente*
@@ -288,7 +288,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due giocatori scrivono due interi ciascuno; condizioni prodotto/somma; trovare tutte le possibili somme dei numeri di B*
@@ -319,7 +319,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n in cui livello(1000000/n) - livello(1000000/(n+1)) = 1*
@@ -352,7 +352,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2n×2n griglia; colore esattamente 2n^2 cellule in modo che non due cellule di colore condividono un lato*
@@ -392,7 +392,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cuba lato 2012 tagliato per piano come hexagono IJKLMN; trovare combinazione di superficie*

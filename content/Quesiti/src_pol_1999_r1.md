@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove infinitamente che molti dei numeri 50^n+(50n+1)^50 sono composti.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza (a+b+c+d)^2 <= 3(a^2+b^2+c^2+d^2)+6ab.*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo a destra con uguale occhiaio, D su BC con BD=2CD, E proiezione di B su AD; angolo di calcolo CED.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se x+y, x^2+y^2, x^3+y^3, x^4+y^4 sono numeri interi, dimostra che x^n+y^n è un intero per tutti n.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina tutti gli integri positivi x,y soddisfacendo y^x = x^{50}.*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diagonali quadrilaterali convex si incontrano a P, M al punto medio di AB, MP si incontrano a CD a Q; prova [BCP]:[ADP]=CQ:DQ.*
@@ -188,7 +188,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i polinomi di grado n con esattamente n radici reali non superiori a -1 soddisfacendo a_0^2+a_1 a_n=a_n^2+a_0 a_{n-1}.*
@@ -215,7 +215,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme S di n>=2 elementi: trovare il più piccolo k tale che esistano sottoinsiemi k dove due elementi distinti sono separati da qualche A_j.*
@@ -242,7 +242,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *D,E,F sui lati del triangolo ABC; incircoli dei triangoli AEF, CA, AB tangenti all'incircolo di DEF; dimostrare che AD, BE, CF sono simultanei.*
@@ -269,7 +269,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza x_{n+1}=x_n+1/x_n^2; provare l'esistenza di lim x_n/cuberoot(3n) e trovarla.*
@@ -296,7 +296,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Schema di Urn Polya: pallone bianco+nero più 50 bianchi e 50 neri; 50 volte a tiratura e ritorno con pallone extra dello stesso colore; numero più probabile di pallone bianche.*
@@ -323,7 +323,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutti i vertici di un cubo di bordo si trovano sulla superficie di un tetraedro regolare di bordo 1; trovare tutte le possibili a.*

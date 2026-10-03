@@ -35,7 +35,7 @@ level: squadre
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Red/green ball outputs in two boxes and out*
@@ -72,7 +72,7 @@ Red/green ball outputs in two boxes and out*
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of polygons in a closed circuit pentagon-square*
@@ -109,7 +109,7 @@ Red/green ball outputs in two boxes and out*
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers does Mark write (sequence +29, all digits 9) *
@@ -147,7 +147,7 @@ Red/green ball outputs in two boxes and out*
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Matches played in the knockout tournament with 2009 entries*
@@ -182,7 +182,7 @@ Red/green ball outputs in two boxes and out*
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of consecutive intersecting sub-sets*
@@ -215,7 +215,7 @@ Red/green ball outputs in two boxes and out*
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum fraction < 1/3 with sum of numbers + den <=103*
@@ -249,7 +249,7 @@ Maximum fraction < 1/3 with sum of numbers + den <=103*
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of connections between 13 cities by 3 means
@@ -298,7 +298,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *rectangle 36x81 squared *
@@ -345,7 +345,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First two 'reasonable' numbers (reserve 5 mod6, 7 mod8) *
@@ -383,7 +383,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 4-digit numbers with multiple divisible *
@@ -423,7 +423,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gates opened after 1000 steps (spontaneous splitters) *
@@ -470,7 +470,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum in grid cell A of 3x4 multiples*
@@ -515,7 +515,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seconds of separation between Anna and the dog on the track*
@@ -550,7 +550,7 @@ Minimum number of connections between 13 cities by 3 means
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 N% value for which Peter is certain of the election
@@ -589,7 +589,7 @@ N% value for which Peter is certain of the election
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the odd fraction sum 1001.1999 / 1.999*

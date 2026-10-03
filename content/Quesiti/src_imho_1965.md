@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli x in [0,2π] che soddisfano una disuguaglianza trigonometrica*
 
 > Determinare tutti i valori $x$ nell'intervallo $0 \le x \le 2\pi$ che soddisfano la disuguaglianza
 > $$2\cos x \le \sqrt{1+\sin 2x} - \sqrt{1-\sin 2x} \le \sqrt{2}.$$
-
-
 
 [[Quesiti/src_imho_1965#q01|src_imho_1965__Q01]]
 
@@ -66,6 +65,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che un sistema lineare omogeneo ha solo la soluzione banale*
 
 > Si consideri il sistema di equazioni
@@ -78,8 +78,6 @@ level: IMO
 > (c) in ogni equazione, la somma dei coefficienti è positiva.
 >
 > Si dimostri che il sistema dato ammette un'unica soluzione, $x_1 = x_2 = x_3 = 0$.
-
-
 
 [[Quesiti/src_imho_1965#q02|src_imho_1965__Q02]]
 
@@ -103,11 +101,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Tetraedro tagliato da un piano: il rapporto delle distanze è uguale a k*
 
 > Sia il tetraedro $ABCD$ avente gli spigoli $AB$ e $CD$ di lunghezze rispettivamente $a$ e $b$. La distanza tra le rette sghembe $AB$ e $CD$ è $d$, e l'angolo tra di esse è $\omega$. Il tetraedro $ABCD$ viene diviso in due solidi dal piano $\varepsilon$, parallelo alle rette $AB$ e $CD$. Il rapporto delle distanze di $\varepsilon$ da $AB$ e da $CD$ è uguale a $k$. Si determini il rapporto dei volumi dei due solidi ottenuti.
-
-
 
 [[Quesiti/src_imho_1965#q03|src_imho_1965__Q03]]
 
@@ -131,11 +128,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli insiemi di quattro numeri reali tali che la somma dei prodotti a due a due sia uguale a 2.*
 
 > Determinare tutti gli insiemi di quattro numeri reali $x_1, x_2, x_3, x_4$ tali che la somma di ciascuno di essi con il prodotto degli altri tre sia uguale a $2$.
-
-
 
 [[Quesiti/src_imho_1965#q04|src_imho_1965__Q04]]
 
@@ -159,11 +155,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Luogo del piede dell'ortocentro mentre il punto varia nella regione triangolare*
 
 > Si consideri $\triangle OAB$ con angolo acuto $AOB$. Da un punto $M \ne O$ si conducono le perpendicolari a $OA$ e $OB$, i cui piedi sono rispettivamente $P$ e $Q$. Il punto di intersezione delle altezze di $\triangle OPQ$ è $H$. Qual è il luogo di $H$ se $M$ varia (a) sul lato $AB$, (b) all'interno di $\triangle OAB$?
-
-
 
 [[Quesiti/src_imho_1965#q05|src_imho_1965__Q05]]
 
@@ -187,10 +182,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Stimare il numero dei diametri di un insieme finito di punti nel piano*
 
 > In un piano è dato un insieme di $n$ punti ($n \ge 3$). Ogni coppia di punti è congiunta da un segmento. Sia $d$ la lunghezza del più lungo di questi segmenti. Chiamiamo diametro dell'insieme ogni segmento che li congiunge e ha lunghezza $d$. Si dimostri che il numero dei diametri dell'insieme dato è al più $n$.
-
-
 
 [[Quesiti/src_imho_1965#q06|src_imho_1965__Q06]]

@@ -27,11 +27,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *determinare le altre lunghezze delle diagonali*
 
 > In un quadrilatero convesso piano di area $32$, la somma delle lunghezze di due lati opposti e di una diagonale è $16$. Si determinino tutti i possibili valori della lunghezza dell'altra diagonale.
-
-
 
 [[Quesiti/src_imo_1976_all#q01|src_imo_1976_all__Q01]]
 
@@ -54,11 +53,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Il polinomio iterato P_n(x) = x ha radici reali distinte*
 
 > Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Si dimostri che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
-
-
 
 [[Quesiti/src_imo_1976_all#q02|src_imo_1976_all__Q02]]
 
@@ -81,11 +79,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimensioni della scatola in cui i cubi del volume-2 riempiono esattamente il 40%*
 
 > Un parallelepipedo rettangolo può essere riempito completamente con cubi unitari. Se si dispongono nel parallelepipedo il massimo numero possibile di cubi, ciascuno con volume $2$, in modo che i loro spigoli siano paralleli agli spigoli del parallelepipedo, si riesce a riempire esattamente $40\%$ del volume totale. Determinare tutte le possibili dimensioni di tali parallelepipedi.
-
-
 
 [[Quesiti/src_imo_1976_all#q03|src_imo_1976_all__Q03]]
 
@@ -108,11 +105,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Prodotto massimo di interi positivi la cui somma è 1976*
 
 > Si determini, con dimostrazione, il più grande numero che è prodotto di interi positivi la cui somma è $1976$.
-
-
 
 [[Quesiti/src_imo_1976_all#q04|src_imo_1976_all__Q04]]
 
@@ -143,6 +139,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Sistema con coefficienti +1, 0, -1 ha soluzione intera non nulla limitata*
 
 > Si consideri il sistema di $p$ equazioni in $q = 2p$ incognite $x_1, x_2, \ldots, x_q$:
@@ -157,8 +154,6 @@ level: IMO
 > (b) esista almeno un valore di $j$ per cui $x_j \neq 0$,
 >
 > (c) $|x_j| \leq q$ ($j = 1, 2, \ldots, q$).
-
-
 
 [[Quesiti/src_imo_1976_all#q05|src_imo_1976_all__Q05]]
 
@@ -185,6 +180,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare la forma chiusa del massimo intero della successione ricorsiva u_n*
 
 > Una successione $\{u_n\}$ è definita da
@@ -192,7 +188,5 @@ level: IMO
 > Si dimostri che per ogni intero positivo $n$,
 > $$[u_n] = 2^{[2^n - (-1)^n]/3}$$
 > dove $[x]$ indica il massimo intero $\leq x$.
-
-
 
 [[Quesiti/src_imo_1976_all#q06|src_imo_1976_all__Q06]]

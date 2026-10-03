@@ -26,7 +26,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'LCM più grande di quattro diversi integri positivi a una cifra*
@@ -68,7 +68,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo da una tangente al cerchio su un lato quadrato*
@@ -110,7 +110,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prezzi delle voci per un pagamento a pezzi minimi senza denominazione condivisa*
@@ -137,7 +137,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi positivi la cui somma di divisore limitata è uguale a 1000*
@@ -164,7 +164,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità che ogni i-th carta sia almeno i in una riga casuale*
@@ -197,7 +197,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *C più piccolo ottenuto eliminando una cifra 6 da due moltipli di lunghezza uguale*
@@ -224,7 +224,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di possibili blocchi a tre cifre di quadrato a sei cifre di testa*
@@ -253,7 +253,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero atteso di monete a coda dopo un processo di voltaggio*
@@ -280,7 +280,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma minima di una sequenza reale con vincoli ricorsivi*
@@ -309,10 +309,10 @@ level: JMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Contare le configurazioni dei posti che consentono uno scambio circolare completo dei regali*
 
 > $2008$ ragazzi e $2008$ ragazze si riuniscono per fare uno scambio di regali. Ogni ragazzo prepara un bouquet e ogni ragazza prepara una cioccolata come regalo, e tutti si siedono su sedie disposte in cerchio, tutte rivolte verso l'interno. Ripetono poi l'azione "ogni persona trasmette contemporaneamente il regalo che tiene alla persona immediatamente alla sua destra" un certo numero di volte, dopo di che succede che ogni ragazzo tiene una cioccolata e ogni ragazza tiene un bouquet. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
-
 
 [[Quesiti/src_jmo18yq_yosen#q10|src_jmo18yq_yosen__Q10]]
 
@@ -334,7 +334,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di un quadrilaterale convesso dai lati e dalla distanza diagonale dal punto medio*
@@ -361,7 +361,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare la somma dei prodotti prefissi di una somma tupla a 2008*

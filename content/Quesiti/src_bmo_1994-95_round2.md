@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli interi positivi che soddisfano un'equazione prodotto-uguagli-2*
@@ -54,7 +54,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove equalità angolare se un'altra equalità angolare nella configurazione di punto medio triangolare*
@@ -81,7 +81,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza dei numeri reali in (0,4) *
@@ -110,7 +110,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta coppie di 2n persone; dimostra divisibilità di multinomial*

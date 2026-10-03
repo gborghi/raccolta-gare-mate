@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max contatori su scacchi evitando cinque in ogni riga*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi in contatto, tangente comune, diametro; dimostrare collinearità*
@@ -81,7 +81,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova reali che soddisfano tre equazioni quadratiche simultanee*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova i numeri interi positivi n con quadrati perfetti 12n-119 e 75n-539*
@@ -137,7 +137,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati non più di 2, 3, 4; superficie massima*
@@ -164,7 +164,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti in triangolo; D è il punto medio di AE*

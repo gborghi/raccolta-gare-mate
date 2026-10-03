@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi scaffali.
@@ -53,7 +53,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico; tangente a un cerchio incontra una linea; dimostrare che un triangolo è uguale a un'usocelea.*
@@ -80,7 +80,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza quadratica-formula che condivide il maggior numero di termini successivi con la sequenza di Fibonacci.*
@@ -113,7 +113,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di ciottole con botti rossi e blu; trovare il numero massimo di mosse.*
@@ -146,7 +146,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piedi perpendicolari in un triangolo; dimostrare che quattro punti sono collineari.*
@@ -173,7 +173,7 @@ Conti giorni Anna può distribuire i suoi libri in modo uguale su tutti i suoi s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni intero positivo è la somma di diversi interi incantevoli.*

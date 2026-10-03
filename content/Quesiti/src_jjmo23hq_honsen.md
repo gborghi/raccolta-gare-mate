@@ -28,7 +28,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimi punti buoni su una linea verticale tramite operazioni di punto medio*
@@ -62,7 +62,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di etichettatura reale di 2025-gon regolare con condizione del prodotto*
@@ -91,7 +91,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro punti tangenti incircolo/escircolo su AB e CD sono conciclici*
@@ -122,7 +122,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Al massimo n-3 termini tra a_1,...,a_n sono potenze p-th date divisibilità*
@@ -159,7 +159,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Almeno m2 di triplice ordinate (i,s,t) con s≤t attraverso fogli ciclici*

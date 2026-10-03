@@ -35,7 +35,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Within days the kangaroo will be 8 weeks old*
@@ -81,7 +81,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculation 17+3 and 20-16 in the tables*
@@ -127,7 +127,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *shared with 5 friends, half each*
@@ -168,7 +168,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image of the clown in the mirror*
@@ -215,7 +215,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Geometric figure of the hidden part of the rectangle*
@@ -267,7 +267,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many children have a triangle over the square*
@@ -318,7 +318,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate paths of the mouse in the maze*
@@ -363,7 +363,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First year after 2016 with sum of 9 figures*
@@ -399,7 +399,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct statement on the number of circles/squares/triangles*
@@ -437,7 +437,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hidden numbers on two folders, total 32*
@@ -472,7 +472,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *New sum by replacing 201 with 102*
@@ -516,7 +516,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dark triangles at the next step in the fractal *
@@ -576,7 +576,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What tables to choose to form a square*
@@ -624,7 +624,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *gumps exceed the noses by 18*
@@ -686,7 +686,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of X and Y in the Latin square 1,2,3*
@@ -772,7 +772,7 @@ Within days the kangaroo will be 8 weeks old*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum squares certainly occupied by 8 out of 11 coins
@@ -831,7 +831,7 @@ Maximum squares certainly occupied by 8 out of 11 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Design by rolling the paper on the upper side*
@@ -875,7 +875,7 @@ Maximum squares certainly occupied by 8 out of 11 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A possible total of four siblings, three twins *
@@ -924,7 +924,7 @@ Maximum squares certainly occupied by 8 out of 11 coins
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pears if there are 25 apples on the trees
@@ -980,7 +980,7 @@ How many pears if there are 25 apples on the trees
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which tiles cannot be inserted by colour on the edges*
@@ -1030,7 +1030,7 @@ How many pears if there are 25 apples on the trees
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arrival order from 4 forecasts with 2 accurate each*
@@ -1081,7 +1081,7 @@ How many pears if there are 25 apples on the trees
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Where to place the Z plate in order of weight*
@@ -1131,7 +1131,7 @@ How many pears if there are 25 apples on the trees
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *1*
@@ -1188,7 +1188,7 @@ How many pears if there are 25 apples on the trees
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wherever the passer turned his head, more cinguettii*

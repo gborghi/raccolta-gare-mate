@@ -34,7 +34,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli a pari lato; trovare angolo, lunghezza, segmento*
@@ -75,7 +75,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita dall'ultima cifra della somma dei quattro termini precedenti*
@@ -108,7 +108,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Massetta di 100 pietre; somma di prodotti scritti in quadrati*
@@ -139,7 +139,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco a due giocatori: scegliere alternativamente un numero intero superiore al doppio del precedente; chi raggiunge il 2004?
@@ -172,7 +172,7 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Midpoint of hypotenuse; circumcenters of sub-triangles; tangency*
@@ -205,7 +205,7 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10×10 tabella con numeri 09 ogni 10 volte; più grandi numeri distinti garantiti in una riga*

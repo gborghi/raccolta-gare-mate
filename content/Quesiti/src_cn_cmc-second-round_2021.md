@@ -27,7 +27,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Finamente molte matrici di numeri interi che soddisfano la somma fattoriale ponderata zero*
@@ -56,7 +56,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria del cerchio: prova angolo BCQ uguale angolo BAC*
@@ -85,7 +85,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se n divide 2^n-2 e n>=4, allora (2^n-2)/n è composto*
@@ -113,7 +113,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maxima k in modo che qualsiasi k punti di colore arbitrario sul cerchio di 100 punti possa essere completato per un abbinamento valido*
@@ -143,7 +143,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria triangolare: dimostrare A, P, Q collineari attraverso circoli circolari*
@@ -174,7 +174,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza che soddisfa RMS e condizioni medie: i termini di prova convergono entro 0,001*
@@ -202,7 +202,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximo k per il colore valido di 100 punti di cerchio abbinati come segmenti non incrociati dello stesso colore*
@@ -232,7 +232,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria del centro: la linea PQ incontra il circoncircolo, prova C, I, Q, Y conciclica*
@@ -264,7 +264,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare la somma dei prodotti prefissi di una sequenza non negativa in diminuzione*
@@ -292,7 +292,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *M più grande in modo che ogni 10 numeri in [1,M] contengano tre che formano un quadratico senza radici reali*
@@ -323,7 +323,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali non negativi S=a+2b+3c, T=a+b^2+c^3: trovare min di T-S e massimo di T dato S=4*
@@ -353,7 +353,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria triangolare: X, Y sul bisettore angolare con condizioni angolari, prova A, P, Q collineare*
@@ -383,7 +383,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se m>1, n>1 non è il quadrato perfetto, m divide n^2+n+1, provare │m-n │ > sqrt(3n)-2*
@@ -413,7 +413,7 @@ level: China Mathematical Competition (Second Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rondino di 9 squadre: determinare se T3 può battere T4 e viceversa*

@@ -33,7 +33,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural < 1000 with a sum of 4 digits *
@@ -78,7 +78,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *X+Y for the sum of two periodic decimals as a fraction*
@@ -119,7 +119,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple of 3 with only 1,4,7 digits between 1000 and 100000*
@@ -166,7 +166,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression value with powers of 3 and 9*
@@ -232,7 +232,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parallel GHG area with segments and ratios*
@@ -274,7 +274,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grade of product polynomial/sum*
@@ -343,7 +343,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *H value·(√47+√39) with sum of rationalized radicals*
@@ -414,7 +414,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *UV length between arcs in the midpoint segment*
@@ -476,7 +476,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 4x-1 from (x-7)^8=(x+4)^8*
@@ -518,7 +518,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distribution of 4 sister pairs next to each other*
@@ -572,7 +572,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement PC' from distances of P from the sides*
@@ -619,7 +619,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Command and bargaining orders for cooks (variant) *
@@ -661,7 +661,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies 1 to 100 not dividing the product 50..80*
@@ -713,7 +713,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *F angle with tangent beam and circumference*
@@ -757,7 +757,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BCD area with symmetrical D of A with respect to the bearings*
@@ -801,7 +801,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of two splitters of 18000 coatings*

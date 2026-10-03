@@ -29,7 +29,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many girls do you add to twice as many boys *
@@ -62,7 +62,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Time of departure of the last couple from the castle
@@ -120,7 +120,7 @@ Time of departure of the last couple from the castle
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete tours to read MATE 2018 times*
@@ -176,7 +176,7 @@ Time of departure of the last couple from the castle
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a list of the countries of the European Economic Area.
@@ -209,7 +209,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost of orange pie pie by two equations*
@@ -259,7 +259,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many honest people in the stage lie and honest people *
@@ -292,7 +292,7 @@ This is a list of the countries of the European Economic Area.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many games have A and C played?
@@ -324,7 +324,7 @@ How many games have A and C played?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many times did the fortune teller guess?
@@ -355,7 +355,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple sum of 3 digits of 3 7 and 11*
@@ -390,7 +390,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square garden area with five floors*
@@ -424,7 +424,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of letters in the Clara sequence*
@@ -455,7 +455,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum cube sum of three cubes*
@@ -488,7 +488,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 4 digits with digits 1 2 3 without equal adjacencies*
@@ -522,7 +522,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of parts with three rectangles*
@@ -567,7 +567,7 @@ How many times did the fortune teller guess?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining 5 of the four-digit product*

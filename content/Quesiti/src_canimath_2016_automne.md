@@ -31,7 +31,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La logica: chi ha rotto la finestra tra quattro bambini
@@ -66,7 +66,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo AOF data a triangoli rettangolari con OA=8 cm*
@@ -97,7 +97,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colour 2016 punti collineari in 3 colori, modi di conteggio*
@@ -124,7 +124,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostrare T,X,Z collineare*
@@ -153,7 +153,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i palindromi a quattro cifre equilibrati che sono somme di due palindromi a quattro cifre*
@@ -182,7 +182,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti n≥3 integri posizionabili su un cerchio in modo che ciascuno sia uguale al prodotto di due vicini*
@@ -211,7 +211,7 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco: sostituire n a bordo; chi vince?
@@ -241,7 +241,7 @@ Gioco: sostituire n a bordo; chi vince?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di numeri interi uguali a 1 in un elenco "jolie" di 100 numeri interi positivi*

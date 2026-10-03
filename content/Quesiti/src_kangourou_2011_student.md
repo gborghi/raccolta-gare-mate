@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers on the hexagonal vertices with equal sums per side*
@@ -66,7 +66,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arrival order of three pilots given the overtakes*
@@ -94,7 +94,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Calculation of xy with 2^x=15 and 15^y=32
@@ -134,7 +134,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Identify the non-straight road from the map*
@@ -182,7 +182,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2011 position among 4-digit numbers with sum of 4 digits *
@@ -220,7 +220,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a bearing with hexagon, squares, triangles*
@@ -254,7 +254,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form of the oblique cut of a rolling cylinder*
@@ -291,7 +291,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQRS quadrilateral area with right angles*
@@ -327,7 +327,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Various numbers from 1 to 2011 without multiples of 3*
@@ -358,7 +358,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of dice per team probability between two events*
@@ -416,7 +416,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide a rectangle into three similar rectangles*
@@ -453,7 +453,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of squares 2x2 equal to 10 in the grid 3x3*
@@ -489,7 +489,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of families travelling to a given composition of siblings*
@@ -532,7 +532,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of graphs of functions with equal roots*
@@ -602,7 +602,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle between floor and edge, clean area*
@@ -647,7 +647,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of areas to calculate area of parallelogram X*
@@ -687,7 +687,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Any statement on the parable may be false*
@@ -725,7 +725,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum whole value of the cryptanalytic expression*
@@ -760,7 +760,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of balls with divisibility by 6.7.42*
@@ -832,7 +832,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of club members from two statements*
@@ -882,7 +882,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of n<100 with n2-81 multiple of 100*
@@ -918,7 +918,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many arithmetic progressions contain both *
@@ -956,7 +956,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of f2011(2011) in the sequence of functions*
@@ -990,7 +990,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What can be the total number of balls*
@@ -1038,7 +1038,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum weight of luggage without overhead*
@@ -1075,7 +1075,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the FA side of the tangent hexagon*
@@ -1130,7 +1130,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many distinct overall scores with 3 arrows*
@@ -1182,7 +1182,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of divisors of a for b for c*
@@ -1212,7 +1212,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum allowable value for n in the 4x5 grid*
@@ -1241,7 +1241,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of cubes intersected from the plane to the center of the cube*

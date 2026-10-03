@@ -34,6 +34,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Spostamenti su una griglia rettangolare da A al vertice B*
 
 > Sia dato un intero positivo $r$ e una scacchiera rettangolare $ABCD$ di dimensioni $|AB| = 20$ per $|BC| = 12$. Il rettangolo è suddiviso in una griglia di $20 \times 12$ quadratini unitari. Sono consentiti i seguenti movimenti sulla scacchiera: si può passare da un quadratino a un altro solo se la distanza tra i centri dei due quadratini è $\sqrt{r}$. Si richiede di trovare una sequenza di mosse che porti dal quadratino avente $A$ come vertice a quello avente $B$ come vertice.
@@ -43,8 +44,6 @@ level: IMO
 > (b) Si dimostri che il compito è possibile quando $r = 73$.
 > 
 > (c) Il compito può essere eseguito quando $r = 97$?
-
-
 
 [[Quesiti/src_imho_1996#q01|src_imho_1996__Q01]]
 
@@ -70,14 +69,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Concorrenza degli incentri in un triangolo con punto interno*
 
 > Sia $P$ un punto interno al triangolo $ABC$ tale che
 > $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$.
 > Siano $D$ e $E$ gli incentri dei triangoli $APB$ e $APC$, rispettivamente.
 > Si dimostri che le rette $AP$, $BD$ e $CE$ si incontrano in un punto.
-
-
 
 [[Quesiti/src_imho_1996#q02|src_imho_1996__Q02]]
 
@@ -102,12 +100,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale sugli interi non negativi con somma*
 
 > Sia $S$ l'insieme degli interi non negativi. Determinare tutte le funzioni $f$ da $S$ a sé stessa tali che
 > $$f(m + f(n)) = f(f(m)) + f(n) \quad \forall m, n \in S.$$
-
-
 
 [[Quesiti/src_imho_1996#q03|src_imho_1996__Q03]]
 
@@ -131,11 +128,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Minimo valore del minore dei due quadrati da combinazioni lineari*
 
 > I numeri interi positivi $a$ e $b$ sono tali che i numeri $15a + 16b$ e $16a - 15b$ sono entrambi quadrati di interi positivi. Qual è il minimo valore possibile che può assumere il più piccolo di questi due quadrati?
-
-
 
 [[Quesiti/src_imho_1996#q04|src_imho_1996__Q04]]
 
@@ -160,12 +156,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza sulla somma dei circoraggi per un esagono con lati paralleli*
 
 > Sia $ABCDEF$ un esagono convesso tale che $AB$ sia parallelo a $DE$, $BC$ sia parallelo a $EF$ e $CD$ sia parallelo a $FA$. Siano $R_A, R_C, R_E$ i circoraggi dei triangoli $FAB$, $BCD$, $DEF$ rispettivamente, e sia $P$ il perimetro dell'esagono. Si dimostri che
 > $$R_A + R_C + R_E \ge \frac{P}{2}.$$
-
-
 
 [[Quesiti/src_imho_1996#q05|src_imho_1996__Q05]]
 
@@ -195,6 +190,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Valori uguali in una successione di interi con incrementi biannuali*
 
 > Siano $p$, $q$, $n$ tre interi positivi con $p + q < n$. Sia $(x_0, x_1, \ldots, x_n)$ una tupla di interi di lunghezza $(n+1)$ che soddisfa le seguenti condizioni:
@@ -204,7 +200,5 @@ level: IMO
 > (b) Per ogni $i$ con $1 \le i \le n$, vale $x_i - x_{i-1} = p$ oppure $x_i - x_{i-1} = -q$.
 > 
 > Si dimostri che esistono degli indici $i < j$ con $(i, j) \ne (0, n)$, tali che $x_i = x_j$.
-
-
 
 [[Quesiti/src_imho_1996#q06|src_imho_1996__Q06]]

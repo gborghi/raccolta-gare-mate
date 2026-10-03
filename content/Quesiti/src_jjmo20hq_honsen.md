@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primi (p,q) che rendono p^3+3q^3-32 primi*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pietra su un cerchio, formare una cella con pietra n-1 in movimenti n-2*
@@ -82,7 +82,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo delle sei somme uguale a 1*
@@ -109,7 +109,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo di prova BPE = 90 gradi in triangolo acuto*
@@ -138,7 +138,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n prodotto di pavimenti più 2 *4^[k/2] un quadrato perfetto *

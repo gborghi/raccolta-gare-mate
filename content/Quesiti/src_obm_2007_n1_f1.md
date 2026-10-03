@@ -37,7 +37,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Modello nei prodotti di 101 con puniti; somma a cifre per quelli del 2007*
@@ -72,7 +72,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi positivi a tre cifre la cui somma digitale è uguale a 4*
@@ -105,7 +105,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato (due unità di quadrato danno perimetro 18) quindi 144 in fila; trovare perimetro*
@@ -139,7 +139,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati che si sovrappongono di area 100 con perimetro totale 50; trovare area comune*
@@ -175,7 +175,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri unici fino al 2007 meno somma di numeri pari fino al 2006*
@@ -209,7 +209,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristina quando Silvia mostra le 10h.
@@ -244,7 +244,7 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione a/b tra 0 e 1/7 dalla posizione della linea di numero; trovare possibile a+b*
@@ -279,7 +279,7 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Olimpiade: 15% nessuna, 25% parziale, 156 risolti tutti; trovare il totale dei partecipanti*
@@ -312,7 +312,7 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
@@ -346,7 +346,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'angolo del triangolo equilaterale parallelo al lato quadrato; trovare angolo x*
@@ -381,7 +381,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *CD store moltiplica i prezzi di 0,68; trovare percentuale di sconto *
@@ -417,13 +417,12 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Coda: 7 persone, separarle, 6 dietro Esmeralda, 2 entrano tra loro; trovare la posizione di Esmeralda*
 
 > Esmeralda e Perola si trovano in una coda. Perola osserva che tra loro ci sono $7$ persone e che dietro Esmeralda ci sono $6$ persone. Due persone aggiuntive poi entrano nella coda tra Esmeralda e Perola. Quale dei numeri seguenti non potrebbe essere la posizione di Esmeralda contando dal fronte della coda?
 > 
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
-
-
 
 [[Quesiti/src_obm_2007_n1_f1#q12|src_obm_2007_n1_f1__Q12]]
 
@@ -451,7 +450,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Celle di riempimento della tabella con il prodotto delle intestazioni delle righe e delle colonne; contare le celle a numero odd*
@@ -485,7 +484,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La bottiglia riempie 3 grandi + metà piccole, o 5 piccole + metà piccole; rapporto piccolo: grande*
@@ -520,7 +519,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Codice a barre di barre in bianco e nero con tre larghezze; codici di conteggio per quelle sottili/mediche/spesse separate da sottili bianchi*
@@ -557,7 +556,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Griglia di 1 cm2 quadrati; segmenti che si uniscono ai punti di mezzo per scrivere OBM; trovare area ombrata*
@@ -592,7 +591,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di indovinamento: numero 10-99, detto decine di cifre; massimo tentativi necessari*
@@ -624,7 +623,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Viaggiare 12 minuti a 80 km/h, quindi 15 minuti persi; trovare velocità per arrivare ancora in tempo*
@@ -659,7 +658,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafico a barre: percentuale di correttezza su 60 test, 50 domande; trovare domande sbagliate medie*
@@ -694,7 +693,7 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di 13^1+13^2+...+13^2007*

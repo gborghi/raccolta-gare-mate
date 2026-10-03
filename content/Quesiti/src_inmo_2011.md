@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti su lati con lunghezze uguali e angoli uguali implicano un triangolo equilaterale*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare i numeri naturali espressi come a+b+c con un'espressione *
@@ -82,7 +82,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La radice razionale di P(r)=Q(r)=0 con polinomi a coefficiente intero deve essere un intero*
@@ -111,7 +111,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro vertici scelti tra i nove goni regolari contengono quattro che formano un trapezio*
@@ -140,7 +140,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico con AC·BD=EG·FH implica quattro linee simultanee*
@@ -169,7 +169,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le f:R→R che soddisfano una determinata equazione funzionale*

@@ -33,7 +33,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 From* to MSK-b+1, what relationship is necessarily worth
@@ -80,7 +80,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -123,7 +123,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Treasure distance equidistant from the vertices of a right triangle*
@@ -165,7 +165,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Radices of 2x^3-7x^2-2x+12 with 4a=3(b+c), calculated as a+bc*
@@ -206,7 +206,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Self-referenced statements, identifying false one*
@@ -253,7 +253,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colored area between tangent arcs in square side 2*
@@ -299,7 +299,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ink increases/decreases, between the three years of 2012*
@@ -341,7 +341,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum a+b with 21ab^2 and 15ab perfect cubes*
@@ -382,7 +382,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles trapezoidal area with diagonal and angle of 150 degrees*
@@ -425,7 +425,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting keywords with character restrictions E N V*
@@ -473,7 +473,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Footprint divided by 12 product differences of squares, safe days*
@@ -518,7 +518,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Blue coin revolving around three reds, number of turns*
@@ -554,7 +554,7 @@ Blue coin revolving around three reds, number of turns*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First difference, perfect square product, maximum first p*
@@ -586,7 +586,7 @@ Blue coin revolving around three reds, number of turns*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of red dots (nearest to A) in a given triangle*
@@ -625,7 +625,7 @@ Blue coin revolving around three reds, number of turns*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Martino roulette strategy, minimum play and final capital
@@ -663,7 +663,7 @@ Martino roulette strategy, minimum play and final capital
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *constant and monotonous values*
@@ -699,7 +699,7 @@ Martino roulette strategy, minimum play and final capital
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bissector, APR circus and STC similarities with APC*

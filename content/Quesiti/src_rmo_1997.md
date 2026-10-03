@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *area triangolare e area quadrilaterale da ceviani*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori presi da un termine di sequenza dato la ricorrenza gcd*
@@ -82,7 +82,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi l'equazione che coinvolge le funzioni del pavimento*
@@ -113,7 +113,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove due disuguaglianze nel parallelo ABCD con diagonali perpendicolari*
@@ -146,7 +146,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se tre espressioni reali possono essere lunghezze laterali del triangolo*
@@ -179,7 +179,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie non ordinate {A,B} di sottoinsiemi di X con A non sottoinsieme di B e A∩B≠X*

@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which numerical expression has the maximum value*
@@ -74,7 +74,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In which room is Renata coming through the doors?
@@ -122,7 +122,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many stones can Maciste get (+4 per shot) *
@@ -169,7 +169,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-prime and non-dive 2-digit integers for 2,3,5*
@@ -213,7 +213,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the fraction with terms in progression*
@@ -268,7 +268,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In how many ways 1001 as the sum of two prime *
@@ -318,7 +318,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Logical deduction on green/red extraterrestrials Mars/Venus*
@@ -370,7 +370,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum extraction that ensures a white ball*
@@ -417,7 +417,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the parallel piped given areas A,B,C of the faces*
@@ -462,7 +462,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the alpha angle between two inclined rectangles*
@@ -511,7 +511,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many members of the group with 24 pairs of socks*
@@ -563,7 +563,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of volumes V and W of two intersecting cubes*
@@ -607,7 +607,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *shape of the vessel given the time-level chart*
@@ -648,7 +648,7 @@ In which room is Renata coming through the doors?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pairs (m,n) with squared17-m squared17+n) = 20
@@ -694,7 +694,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number does not divide 18^2017+18^2018*
@@ -754,7 +754,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of p+q+r+s+t+u given the three mean points*
@@ -802,7 +802,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of the octahedron inscribed in the cube of the beam 1*
@@ -835,7 +835,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final score 3 forecast data highlighted on 5*
@@ -866,7 +866,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image when the pentagon rotating by 21 degrees coincides*
@@ -897,7 +897,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of f(0) + f(1) + f(2) + f(3) with f(x+y) = f(x) f(y) *
@@ -928,7 +928,7 @@ How many pairs (m,n) with squared17-m squared17+n) = 20
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of Nadia cards if sum of products and before*
@@ -959,7 +959,7 @@ Sum of Nadia cards if sum of products and before*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of fourth point A on parabola and circumference*
@@ -990,7 +990,7 @@ Sum of Nadia cards if sum of products and before*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the x-vertices of the prism with equal sums*
@@ -1021,7 +1021,7 @@ Sum of Nadia cards if sum of products and before*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of n^2+m with m,n roots of x^2-x-2018=0*
@@ -1050,7 +1050,7 @@ Sum of Nadia cards if sum of products and before*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many positive real solutions of the equation *
@@ -1079,7 +1079,7 @@ Sum of Nadia cards if sum of products and before*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who is the tallest if only one of the brothers lies?
@@ -1108,7 +1108,7 @@ Who is the tallest if only one of the brothers lies?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that the sum of the three maximum values is 18*
@@ -1170,7 +1170,7 @@ The probability that the sum of the three maximum values is 18*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report areas of GIF triangle and IHDE hexagon trapezoid *
@@ -1232,7 +1232,7 @@ The probability that the sum of the three maximum values is 18*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second and tenth digits of factor 15 *
@@ -1261,7 +1261,7 @@ The probability that the sum of the three maximum values is 18*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of participants in the given probability field 1/2*

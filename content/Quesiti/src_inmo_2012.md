@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima del quadrilatero ciclico con angolo lato e centrale dato*
@@ -57,7 +57,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due serie prime con spazio uguale 8; dimostrare 30 divide la differenza degli elementi più piccoli*
@@ -86,7 +86,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di funzioni definite in modo ricorrente; dimostrare che ciascuna è polinomial con coefficienti interi*
@@ -113,7 +113,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i punti interni "buoni" del triangolo che producono 27 subtriangoli di superficie uguale*
@@ -142,7 +142,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo con ceviani che soddisfano le condizioni dell'angolo di pedala deve essere equilaterale*
@@ -180,7 +180,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale sui numeri interi: trovare tutti i valori di f e impostare dove f(n) ≠0*

@@ -50,7 +50,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare pezzi di puzzle distinti (quadrati di unità con protuberanze / buche sui loro lati) e caratterizzare puzzle singoli che possono essere assemblati in un modo essenzialmente unico.*
@@ -130,7 +130,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Confrontare f(a,b), il numero di divisioni euclidiche nell'algoritmo euclidico standard, con g(a,b), il numero minimo utilizzando residui precedenti arbitrari, e trovare le coppie lessicograficamente più piccole.*
@@ -211,7 +211,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un gioco per due giocatori che colloca gli edifici su n parcelli accanto al mare; un edificio di i piani si svolge su parcello i, pavimenti con punti di punteggio di vista sul mare, e si analizzano vantaggi garantiti e punteggi ottimali sotto diverse varianti di regola.*
@@ -278,7 +278,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gallettes des rois: n galettes ciascuna tagliata in k parti contengono febbre nascoste con febbre a_1<=...<=a_n; data la quantità di febbre già trovate, decidete quale galette scegliere per massimizzare (o ridurre al minimo) la possibilità di trovare una febbre, e studiate le galettes inutili.*
@@ -344,7 +344,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una catena di n unità di collegamento con l'angolo orientato a ciascuna articolazione limitato ad un intervallo a seconda dell'alfa; descrivere e calcolare l'area dell'insieme di punti raggiungibile dalla fine libera, con varianti che fissano A_1 e utilizzano angoli vicini a pi/2.*
@@ -403,7 +403,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un gioco di carte simultaneo per due giocatori con carte 1..2n; secondo diverse regole su chi rivela per primo e come passa il lead, determinare il numero di punti che ogni giocatore può garantire e studiare una variante di ridistribuzione delle carte.*
@@ -458,7 +458,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un cavaliere generalizzato che muove un quadrato e poi b quadrati perpendicolari sulla tavola infinita Z^2; determinare per quale (a,b) tutti i quadrati sono raggiungibili, studiare il numero raggiungibile in k movimenti, il numero sul quadrato (0,1), quadrati irregolari e una quantità di tempo di intervento.*
@@ -517,7 +517,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Programmare un torneo di round-robin di n giocatori nel numero minimo di giorni T(n), con punteggio di 1/0; studiare i possibili totali di punti a ciascuna classifica, il primo giorno in cui un giocatore può essere sicuro di essere primo o k-th, quanti giocatori possono conoscere la loro classifica finale, e il numero di possibili classifiche finali.*
@@ -576,7 +576,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un gioco combinatorio con n torce ogni accesa o spenta; i giocatori alternatamente togliono una torcia ma non possono mai ripetere una configurazione, e il giocatore che non può muoversi perde; determinare le strategie di vincita nel gioco cooperativo, un limite di k torce accese, togliere un numero fisso per turno, e il numero di togliere asimmetrico per giocatore.*

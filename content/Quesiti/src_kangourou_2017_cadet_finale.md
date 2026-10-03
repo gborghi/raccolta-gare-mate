@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two overpriced baggage allowances (EUR 11 and EUR 33) *
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 It's okay to choose 9 or 10 in the dice game.
@@ -83,7 +83,7 @@ It's okay to choose 9 or 10 in the dice game.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Best friends with different-tasting candy bars
@@ -111,7 +111,7 @@ Best friends with different-tasting candy bars
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time of two flights with constant wind from A to B*
@@ -140,7 +140,7 @@ Best friends with different-tasting candy bars
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences consecutive with a sum of digits divisible by 7*
@@ -172,7 +172,7 @@ Best friends with different-tasting candy bars
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum circle, diameter pairs and circles containing S*

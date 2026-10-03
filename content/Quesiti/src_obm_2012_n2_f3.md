@@ -30,7 +30,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trasformazioni di amoeba: tubo con 201 amoeba blu e 112 amoeba rosso*
@@ -61,7 +61,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le sequenze Somos distinte contenenti 2012*
@@ -88,7 +88,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Concorrenza di XY, WZ e BC nella configurazione triangolare*
@@ -117,7 +117,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo di ricerca CMD: pentagono regolare inscritto in triangolo equilaterale*
@@ -146,7 +146,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova a+b dato due equazioni nei numeri reali a e b*
@@ -179,7 +179,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i valori m,n,d che consentono la marcatura completa di m×n bar di cioccolato*

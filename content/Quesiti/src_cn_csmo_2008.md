@@ -27,7 +27,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme massimo di {1,...,3n} senza x+y=z*
@@ -57,7 +57,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova termine generale di ricorrenza a_{n+1}=2a_n+n(1+2^n)*
@@ -86,7 +86,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove conciclica O, H, E, M in triangolo con costruzione bisettore angolare*
@@ -126,7 +126,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri di onde a n cifre; trovare f(10) e f(2008) mod 13*
@@ -167,7 +167,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Find largest lambda with |lambda*xy+yz| <= sqrt(5)/2 on unit sphere*
@@ -199,7 +199,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova M, N, D collineare data la tangenza del cerchio e le condizioni del punto medio*
@@ -230,7 +230,7 @@ level: China Southeastern Mathematical Olympiad
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La strategia vincente del capitano Jack nel gioco di selezione della scatola d'oro

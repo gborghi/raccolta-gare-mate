@@ -40,7 +40,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Combinations of 5-digit safe deposit boxes with parity constraints*
@@ -86,7 +86,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Difference between black and white boxes in the So-poko on side 203
@@ -154,7 +154,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles trapezoid area given BOC area and proportions*
@@ -226,7 +226,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seasons of birth of linear system with infinite solutions/no*
@@ -268,7 +268,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum i>0 for which a_i is a multiple of 19 in the recurrence*
@@ -316,7 +316,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many salaries on the island given claims in two days*
@@ -358,7 +358,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Orders of 1,2,4,7,9 giving a multiple of 11*
@@ -403,7 +403,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area area shaded by three arcs in radius circle 1*
@@ -448,7 +448,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that the time dial is horizontal*
@@ -498,7 +498,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of reciprocities of the roots of the reciprocal equation*
@@ -545,7 +545,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which lamp remains on (perfect squares, odd dividers) *
@@ -589,7 +589,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sphere radius given shadow and vertical axis*
@@ -626,7 +626,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most prime of two digits with different priority conditions*
@@ -657,7 +657,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BJ·CK product in the rectangular triangle with projections*
@@ -691,7 +691,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real pairs (x,y) with 4/(x+y) = 1/x + 1/y*
@@ -723,7 +723,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Q the mean point of AP is the ORTOCENTRE of ADE*
@@ -757,7 +757,7 @@ Difference between black and white boxes in the So-poko on side 203
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Are they cubic?

@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reachable points in square with steps (1,1) or (-1,0) *
@@ -62,7 +62,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solid volume at the center of the cutting cube for coloured dies*
@@ -92,7 +92,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits 2007-eighth multiple of 3 before a square*
@@ -123,7 +123,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area quadrilateral ABCD with P within 2,4,6,8 distances*
@@ -186,7 +186,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of the maximum in a 5x5 spiral quintet without row/column*
@@ -220,7 +220,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to divide 4 males and 8 females into 3 mixed teams
@@ -254,7 +254,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of dice with all three colours (assembly) *
@@ -287,7 +287,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Compatible combinations of the zodiac friends/enemies*
@@ -318,7 +318,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum term of arithmetic progression with 0 and sum 10001*
@@ -358,7 +358,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Smaller area of the cut Yin-Yang (coef. pi)*
@@ -390,7 +390,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic mean life forces given together with mean of 3*
@@ -421,7 +421,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum minutes with possibility of rapid doubling*
@@ -454,7 +454,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1) *
@@ -487,7 +487,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A parallelogram area formed by the intersections of segments*
@@ -522,7 +522,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of the radii of two tangent circles in a rectangle*
@@ -555,7 +555,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little b with (mnmn)_b perfect cube, answer b+m+n*
@@ -586,7 +586,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Years orderly divided by k, k-1,... more than 2007*
@@ -618,7 +618,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of iterated merger awards from 95 schools*
@@ -649,7 +649,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic quadrilateral area with E reflection (radius 15) *
@@ -686,7 +686,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of N values with N=sum i/a_i, at positive increases*
@@ -722,7 +722,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Valid sequences of 12 zodiac positions starting from tiger*
@@ -757,7 +757,7 @@ How to divide 4 males and 8 females into 3 mixed teams
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
@@ -792,7 +792,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to assign categories to 8 missions (1 G,2 M,5 P) *
@@ -824,7 +824,7 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of the number of magic morning decks dividers*

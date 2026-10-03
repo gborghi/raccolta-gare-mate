@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sufficient area of a triangle per area of the parallelogram*
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 From which pizza to choose the largest slice
@@ -83,7 +83,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 29^28+4 and first*
@@ -112,7 +112,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which sheets remain in the same position*
@@ -144,7 +144,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum path of the ant and farthest point *
@@ -177,7 +177,7 @@ From which pizza to choose the largest slice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum red vertices with all different distances (21 axis) *

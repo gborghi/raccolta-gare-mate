@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli integri positivi n e r reali in modo tale che 2x^2+2x+1 divida (x+1)^n - r.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto interno del triangolo ABC con angolo PBC = angolo PCA < angolo PAB; linea BP incontra il circoncircolo di nuovo a E, il circoncircolo di APE incontra il CE di nuovo a F; dimostrare che l'APEF è un quadrilaterale convexo e che il rapporto tra la sua area e l'area del triangolo ABP è indipendente da P.*
@@ -85,7 +85,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i positivi a_i e x_i ogni somma a 1, provare 2*sum_{i<j} x_i x_j <= (n-2)/(n-1) + somma a_i x_i^2/(1-a_i), e determinare i casi di uguaglianza.*
@@ -115,7 +115,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro ABCD con angolo BAC = angolo ACD e angolo CDB = angolo DBA; dimostrare AB = CD.*
@@ -144,7 +144,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con p(k) = minimo primo non diviso k, q(k) = prodotto di tutti i primi più piccoli di p(k) (1 se p(k) =2), x_0=1, x_{n+1}=x_n p(x_n)/q(x_n), determinare tutti n con x_n = 111111.*
@@ -171,7 +171,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra le permutazioni f di {1,...,n} con f(i) >= i-1 per tutti i, p_n è la probabilità che una scelta casuale soddisfi anche f(i) <= i+1 per tutti i; determinare tutti n con p_n > 1/3.*

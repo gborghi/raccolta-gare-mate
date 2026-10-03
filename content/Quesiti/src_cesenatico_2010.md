@@ -32,7 +32,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *mediums promoted/received before and after +5*
@@ -65,7 +65,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *product and sum of two reds*
@@ -103,7 +103,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the loan.
@@ -139,7 +139,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * divide the two triangles into 4 congruent triangles*
@@ -180,7 +180,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many non-winning strings *
@@ -211,7 +211,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Infinite primes divided by 2^(n^3+1) -3^(n^2+1) +5^(n+1) *

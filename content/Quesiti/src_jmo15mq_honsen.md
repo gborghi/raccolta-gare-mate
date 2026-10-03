@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Flipping 5 in a row monete sulla griglia 17x17 a tutte le code*
@@ -53,7 +53,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I punti di lattice su segmenti di un'orbita polinomica intera periodica sono costanti*
@@ -80,7 +80,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza a radice cubica per i valori reali positivi che sommano a 1 *
@@ -106,7 +106,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conciclicità di X, F, G, H da tangenti e da una sezione di un cerchio*
@@ -133,7 +133,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di un incarico senza invidia che non è dominato da un altro*

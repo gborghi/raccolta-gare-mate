@@ -27,7 +27,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimise BC/PD+CA/PE+AB/PF for interior point P*
@@ -54,7 +54,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean of smallest elements of r-subsets equals (n+1)/(r+1)*
@@ -80,7 +80,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
@@ -108,7 +108,7 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *largest divides lcm of others*
@@ -137,7 +137,7 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *incenter, circumcenter, or hill *
@@ -172,7 +172,7 @@ Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the case with the Ackermann type function.

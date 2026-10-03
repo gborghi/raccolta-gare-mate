@@ -27,11 +27,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Infiniti valori di a tali che n⁴+a non è mai primo*
 
 > Si dimostri che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per alcun numero naturale $n$.
-
-
 
 [[Quesiti/src_imo_1969_all#q01|src_imo_1969_all__Q01]]
 
@@ -56,13 +55,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Zeri in comune di una somma pesata di coseni differiscono per un multiplo di pi greco*
 
 > Siano $a_1, a_2, \ldots, a_n$ delle costanti reali, $x$ una variabile reale e
 > $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$
 > noto che $f(x_1) = f(x_2) = 0$, si dimostri che $x_2 - x_1$ è un multiplo razionale di $\pi$.
-
-
 
 [[Quesiti/src_imo_1969_all#q02|src_imo_1969_all__Q02]]
 
@@ -86,11 +84,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Condizioni su a perché un tetraedro abbia k spigoli di lunghezza a*
 
 > Per ciascun valore di $k = 1, 2, 3, 4, 5$, determinare condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e gli altri $6 - k$ spigoli di lunghezza $1$.
-
-
 
 [[Quesiti/src_imo_1969_all#q03|src_imo_1969_all__Q03]]
 
@@ -113,11 +110,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Tre circoli tangenti a AB condividono una seconda tangente comune*
 
 > Sia dato un arco semicircolare $\gamma$ costruito sul diametro $AB$. Sia $C$ un punto sull'arco $\gamma$ diverso da $A$ e da $B$, e sia $D$ il punto medio dell'arco $AC$. Sia infine $M$ il piede della perpendicolare da $D$ alla retta $BC$. Si dimostri che $BM = MA + MC$.
-
-
 
 [[Quesiti/src_imo_1969_all#q04|src_imo_1969_all__Q04]]
 
@@ -140,11 +136,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Almeno (n-3 choose 2) quadrilateri convessi da n punti*
 
 > Dati $n > 4$ punti nel piano tali che nessuni tre siano allineati, si dimostri che esistono almeno $\binom{n-3}{2}$ quadrilateri convessi i cui vertici sono quattro dei punti dati $n$.
-
-
 
 [[Quesiti/src_imo_1969_all#q05|src_imo_1969_all__Q05]]
 
@@ -169,11 +164,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare una disuguaglianza di forma quadratica con le condizioni di uguaglianza*
 
 > Si dimostri che per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la seguente disuguaglianza:
 > $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \leq \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}.$$
-
-
 
 [[Quesiti/src_imo_1969_all#q06|src_imo_1969_all__Q06]]

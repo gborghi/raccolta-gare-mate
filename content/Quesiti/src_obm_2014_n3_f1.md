@@ -27,7 +27,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'intero più piccolo del prodotto di potenza con divisori positivi esatti del 2014*
@@ -60,7 +60,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
@@ -88,7 +88,7 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio autoreferenziale di opzioni la cui parola è più lunga di quella corretta*
@@ -116,7 +116,7 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area quadrilaterale costituita da apici di triangoli equilaterali su un quadrato unitario*
@@ -143,7 +143,7 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare il più grande dei cinque poteri di base consecutive *
@@ -171,7 +171,7 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La probabilità che ogni urna colorata riceva esattamente le proprie palle colorate
@@ -199,7 +199,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero a cinque cifre xy26z divisibile per 8, 9 e 11; trovare x*
@@ -229,7 +229,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto telescopico di (1 - F_{k}^2/F_{k+1}^2) su numeri di Fibonacci*
@@ -257,7 +257,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di pressioni a chiave su una calcolatrice di prima operazione limitata per raggiungere 100*
@@ -285,7 +285,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Data di oggi secondo il calendario giuliano data la riforma gregoriana di ottobre 1582*
@@ -315,7 +315,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i pezzi triangolari di trimino con etichette di vertice in senso orario non in diminuzione 0-5*
@@ -345,7 +345,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova a reale dove le radici di x^2-ax+b sono quadrati di radici di x^2-bx+a*
@@ -375,7 +375,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo x in una figura circolare con due triangoli e accordi paralleli *
@@ -407,7 +407,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il minimo possibile valore centrale di un quadrato magico moltiplicativo 3x3*
@@ -434,7 +434,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa delle radici di 1/(1+x)+2/(2+x)+3/(3+x)=1*
@@ -461,7 +461,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di APC data area di APB e P sul bisettore interno da A*
@@ -491,7 +491,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi di riempimento di una lavagna 2x2014 0/1 sotto un vincolo di parità di vicinato*
@@ -519,7 +519,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio ordinato di coppie di integri positivi (a,b) con 2014/(a^2+b^2) un intero*
@@ -547,7 +547,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di cifra di somma alternata di una ricorrenza 2x_{n+1}+x_n*
@@ -576,7 +576,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di soluzioni integrali di un sistema ciclico di tre quadratici*
@@ -603,7 +603,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altezza di un cono la cui base è l'equatore di una sfera di raggio 1 attraverso i punti medi della generatrice*
@@ -631,7 +631,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Produzione dei denominatori delle due frazioni intimamente legate al 2014/51 (vicinanti di Farey) *
@@ -658,7 +658,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione del serbatoio di combustibile utilizzato senza perdite, dato il consumo proporzionale al carico*
@@ -688,7 +688,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza di AD per due triangoli rettangolari a uguale occhio le cui linee di ipotenuza si incrociano a 30 gradi*
@@ -718,7 +718,7 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità che una moneta rettangolare 3x4 atterri completamente all'interno di una piastrella rettangolare 10x20*

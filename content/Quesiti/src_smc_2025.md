@@ -32,7 +32,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande cubo perfetto al massimo 100 costruito da 100 piccoli cubetti; quanti sono rimasti.*
@@ -74,7 +74,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione di triangolo equilaterale ombrato quando diviso in nove triangoli più piccoli con due linee aggiuntive.*
@@ -117,7 +117,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare 25^2 - 24^2 - 23^2 + 22^2 utilizzando la differenza di fattorizzazione dei quadrati.*
@@ -158,7 +158,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri a 2 cifre: un primo, un quadrato perfetto, uno pari; si sommano a 46; trovare il numero pari.*
@@ -200,7 +200,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi di raggio 1, 2, 3 mostrati in un diagramma; trovare il rapporto tra superficie ombrata e superficie del cerchio più grande.*
@@ -243,7 +243,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova x che soddisfa l'equazione di radice quadrata incastonata sqrt(sqrt(sqrt(x) +1) +1) +1 = 3.*
@@ -284,7 +284,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *1000° termine della sequenza di numeri dispari con moltipli di 3 rimossi.*
@@ -326,7 +326,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di forma formata da tre archi di cerchi di raggio 1; P è il centro dell'arco BQ e Q è il centro dell'arco PR.*
@@ -369,7 +369,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piccento quadrati in riga; primo e ultimo ombreggiato; non due ombreggiati adiacenti; non più di tre consecutivi non ombreggiati; trovare la differenza tra i quadrati ombreggiati massimo e min.*
@@ -410,7 +410,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare quanti diversi quadrati perfetti sono fattori del 2025. *
@@ -452,7 +452,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *PQR triangolare rettangolare con angolo PQR = 90°, PQ = 20, PR = 25; M su PR; N su QR; trovare MN dove la superficie del triangolo PQM è metà PQR.*
@@ -495,7 +495,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 3 cifre composti da tre diversi numeri dispari divisibili per 3.*
@@ -537,7 +537,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro quadrati congruenti del lato 2a posizionati da borda a borda; due cerchi con lo stesso centro tracciati attraverso vertici; trovare l'area tra i cerchi.*
@@ -580,7 +580,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le equazioni simultanee x + 1/y = 2 e y + 1/x = 9/4 hanno due coppie di soluzioni reali; trovare la differenza tra i valori possibili di x.*
@@ -621,7 +621,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra n con 1 < n n9; P = ̊1 - n ̊, Q = 99 - n ̊, R = ̊P - Q ̊; per quanti n è R primo? *
@@ -663,7 +663,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato con una diagonale e un cerchio di raggio 2 che tocca la diagonale e due lati; trovare lunghezza laterale del quadrato.*
@@ -708,7 +708,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque integri posizionati in cerchi in modo che qualsiasi numero intero 121 possa essere fatto sommando fino a 5 adiacenti; trovare s quando 1 è nella posizione indicata.*
@@ -751,7 +751,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N intero positivo con 2025 cifre, prima cifra 3; ogni due cifre consecutive formano un moltiplo di 17 o 23; trovare la cifra unità.*
@@ -791,7 +791,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di prezzo del kit di calcio; scopri quante kit complete Eden può comprare con i soldi per nove camicie.*
@@ -832,7 +832,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che 1/x - 1/y = 2025, valutare (x + 2026xy - y)/(2y - 2025xy - 2x).*
@@ -875,7 +875,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *PQRSTU esagono regolare inciso in un cerchio di raggio 5; X sulla circonferenza; trovare XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2.*
@@ -918,7 +918,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n Nerdvarks e 12 formiatri mangiano n^2 + 20n + 25 formiche in eguaglianza; quante formiche mangia ogni animale? *
@@ -958,7 +958,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Jemima fa n'esame; dopo (n-2) le prove la media è stata m; i punteggi completi nella prova n-1 aumentano la media di 4; i punteggi completi nella prova n aumentano la media di 3; trova n.*
@@ -1001,7 +1001,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *F(x) = funzione di pavimento; identificare quale grafico mostra y = x^(F(x)) per x non zero in -2 < x < 2.*
@@ -1046,7 +1046,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati OPQR (area 25) e OSTU; S si trova su QV; triangolo UQV ha angolo retto a V; trovare superficie di OSTU.*

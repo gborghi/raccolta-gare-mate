@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca coppie quadrate perfette a quattro cifre con proprietà di una cifra maggiore*
@@ -61,7 +61,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolo f(1996) da un'equazione funzionale telescopica*
@@ -90,7 +90,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la CO perpendicolare al PQ utilizzando il circolo e la seconda intersezione*
@@ -121,7 +121,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine tutte le n per le quali una funzione di conteggio di coppia di paesaggi è uguale a n+1*
@@ -154,7 +154,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le disuguaglianze di potenza media per due e tre reali positivi*

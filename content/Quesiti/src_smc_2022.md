@@ -33,7 +33,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semplificare un'espressione prodotto delle differenze che coinvolge quinte potenze e denominatori di stile fattoriale.*
@@ -74,7 +74,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il primo più piccolo che è la somma di cinque diversi primi.*
@@ -117,7 +117,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare il numero di parallelo in una figura di esagono regolare divisa in triangoli.*
@@ -162,7 +162,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadrati simmetricamente posizionati dei lati 2 e 5; trovare il rapporto tra l'area del piccolo quadrato e quella della regione ombrata.*
@@ -205,7 +205,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
@@ -246,7 +246,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare l'espressione 4^800 / 8^400.*
@@ -287,7 +287,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero minimo totale di francobolli quando acquisti francobolli di prima classe (85p) e di seconda classe (66p), uno di ciascun tipo alla volta, quindi il costo totale è un numero intero esatto di sterline.*
@@ -330,7 +330,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sessangolo esterno regolare della zona 216 con un modello interno; trovare la superficie della regione ombreggiata.*
@@ -372,7 +372,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare la distanza percorsa dalla luce in un nanosegondo a velocità 3×10^8 m/s.*
@@ -413,7 +413,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare il valore di x soddisfacente (1+2x+3x^2)/(3+2x+x^2) = 3.*
@@ -456,7 +456,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo numerico in cui ogni disco è uguale al prodotto dei due dischi al di sotto e il disco superiore è 2022, trovi n.*
@@ -499,7 +499,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la somma delle cifre del numero intero pari a 6666666^2 - 3333333^2.*
@@ -540,7 +540,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre tappeti (area combinata 90 m^2) coprono un pavimento di 60 m^2; esattamente due strati coprono 12 m^2; trovate l'area coperta da esattamente tre strati.*
@@ -583,7 +583,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il KLMN quadrato contiene quadrati nidificati PQRS e TUVW, ottenuti ciascuno dividendo il lato precedente in rapporto 1:2; trovare la frazione ombrata.*
@@ -626,7 +626,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Corrita di lepre e tartarughe 100 m; quando la lepre finisce la tartaruga è in ritardo di 75 m; la lepre torna indietro; a che distanza si incontrano?*
@@ -669,7 +669,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale dei cinque grafici potrebbe essere uno schema della curva sqrt(x) + sqrt(y) = 1.*
@@ -714,7 +714,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Octogono regolare del lato 1 con quattro angoli triangolari equilaterali (lato 1) rimossi; trovare l'area della forma risultante.*
@@ -757,7 +757,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dati due equazioni simultanee in 3^x e 3^y, trovare il valore di 3^x + 3^y.*
@@ -798,7 +798,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie di numeri reali che soddisfano simultaneamente x^2 - y = 2022 e y^2 - x = 2022.*
@@ -841,7 +841,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area di un quadrato inserito all'interno di un quadrante di un cerchio di raggio 10.*
@@ -886,7 +886,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Logo con due bordi rette di lunghezza 2, due piccoli semicircoli (diametro 2) e due grandi semicircoli; trovare l'area ombrata.*
@@ -929,7 +929,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare coppie di integri (x, y) che soddisfano sqrt(x - sqrt(x+23)) = 2*sqrt(2) - y.*
@@ -972,7 +972,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadrati (zone 10, 10, 40) con vertici sui lati del triangolo FIL; trovare l'area del triangolo FIL.*
@@ -1015,7 +1015,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra x, y con xy = px + qy (p, q costante positiva); quando y è massimo, trovare l'espressione uguale a y - x.*
@@ -1058,7 +1058,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.*

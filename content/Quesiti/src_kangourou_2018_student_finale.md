@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of a square of sides 1,4,7,8*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cards are discarded given probability 1/1001 of the 4 axes*
@@ -84,7 +84,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Show that the solution of x^5+x=10 is irrational
@@ -113,7 +113,7 @@ Show that the solution of x^5+x=10 is irrational
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstrate that a 20-digit number with 11 one is non-square*
@@ -142,7 +142,7 @@ Show that the solution of x^5+x=10 is irrational
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Demonstrate the existence of a circle with exactly n knots *
@@ -173,7 +173,7 @@ Show that the solution of x^5+x=10 is irrational
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Characterization of the convex equilateral polygons *

@@ -30,7 +30,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi che toccano una linea in un punto, rapporto di angolo bisector*
@@ -61,7 +61,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che non tutte le a(1-b), b(1-c), c(1-a) superano il 1/4*
@@ -90,7 +90,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'identità che coinvolge il prodotto dei coefficienti binomiali*
@@ -119,7 +119,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da recidiva; prova la periodicità eventuale*
@@ -146,7 +146,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contenitore cilindrico su cerchio circolare; locus dei centri del bordo circolare*
@@ -173,7 +173,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 L'equazione x^2 + y^2 = z^2 + 2 ha infinite soluzioni

@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatero ciclico da triangolo con angolo obtuso e tangenze incircolari*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La lavagna si sposta da 1 a n lista di trasformazioni a n,1,2,...,n-1*
@@ -100,7 +100,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare n-liste ideali definite da una condizione minima di differenza media non zero*
@@ -129,7 +129,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati interi, hcf 1, angolo A=3B implica un lato cubo perfetto*

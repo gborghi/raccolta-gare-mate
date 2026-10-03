@@ -28,12 +28,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Media di un sottoinsieme chiuso rispetto alla somma è almeno (n+1)/2*
 
 > M è il punto medio di BC e O è il punto sulla retta AM tale che
 > OB sia perpendicolare ad AB;
-
-
 
 [[Quesiti/src_imo_1994#q01|src_imo_1994__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *OQ perpendicolare a EF se e solo se QE=QF*
 
 > Q è un punto arbitrario sul segmento BC diverso da B e C;
-
-
 
 [[Quesiti/src_imo_1994#q02|src_imo_1994__Q02]]
 
@@ -92,6 +90,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Contare i numeri con tre 1 in base 2; suriettività di f*
 
 > Sia E un punto sulla retta AB e F un punto sulla retta AC tali che E, Q, F siano distinti e allineati.
@@ -102,8 +101,6 @@ level: IMO
 > • (a) Si dimostri che, per ogni intero positivo m, esiste almeno un intero positivo k tale che f(k) = m.
 >
 > • (b) Si determinino tutti gli interi positivi m per i quali esiste esattamente un k tale che f(k) = m.
-
-
 
 [[Quesiti/src_imo_1994#q03|src_imo_1994__Q03]]
 
@@ -129,14 +126,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie (m,n) tali che (n^3+1)/(mn-1) sia intero*
 
 > Determinare tutte le coppie ordinate (m, n) di interi positivi tali che
 > n3 + 1
 > mn −1
 > sia un intero.
-
-
 
 [[Quesiti/src_imo_1994#q04|src_imo_1994__Q04]]
 
@@ -161,12 +157,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni f definite in (-1,∞) che soddisfano certe condizioni funzionali e di monotonia*
 
 > Sia S l'insieme dei numeri reali strettamente maggiori di −1.
 > Determinare tutte le funzioni f : S → S che soddisfano le due condizioni:
-
-
 
 [[Quesiti/src_imo_1994#q05|src_imo_1994__Q05]]
 
@@ -190,10 +185,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *condizione di appartenenza al prodotto di primi per insiemi infiniti di numeri primi*
 
 > 6. Si dimostri che esiste un insieme A di interi positivi con la seguente proprietà: per ogni insieme infinito S di numeri primi, esistono due interi positivi m ∈ A e n ∉ A, ognuno dei quali è prodotto di k elementi distinti di S per un certo k ≥ 2.
-
-
 
 [[Quesiti/src_imo_1994#q06|src_imo_1994__Q06]]

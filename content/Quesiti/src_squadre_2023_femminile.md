@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of n numbers of 9999...9 (2023 nine) squared minus one*
@@ -68,7 +68,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of ks dividing 2023 by remainder 43*
@@ -104,7 +104,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to eat 7 boxes of 7 types in order*
@@ -137,7 +137,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABC angle with orthocenter on AC perpendicular to BH*
@@ -172,7 +172,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value f_2023(2023) with f0=1/(1-x) iterated*
@@ -206,7 +206,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum k0 equal to k_100 divisible by 533*
@@ -242,7 +242,7 @@ level: squadre
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BFGD area in an equilateral triangle with iterated perpendiculars*
@@ -274,7 +274,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance G' from the ABG plane in regular tetrahedron*
@@ -312,7 +312,7 @@ level: squadre
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Gnomes answering yes after 1024 nights cell phone machine
@@ -347,7 +347,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Almost palindromic codes ABxyzCD divided by 10*
@@ -383,7 +383,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of filling out the schema with inequalities 6 numbers 1-9*
@@ -419,7 +419,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value f(5) with f(x) = ax3+bx^2+5x-6 and f(a) = f(b) = f(c) = 1 *
@@ -456,7 +456,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of product of first two < 40 plus one square*
@@ -488,7 +488,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rocket triangle area with orthocenter and conditions*
@@ -526,7 +526,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs ordered (a,b) in 1-2023 with mcm=7*MCD*
@@ -561,7 +561,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of not seeing all faces given at 4 on the sixth pitch*
@@ -593,7 +593,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CD length with tangents between two circumferences*
@@ -631,7 +631,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to fill in the inequalities schema 6 numbers 1-9*
@@ -666,7 +666,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of three-digit numbers with average permutations equal to itself*
@@ -699,7 +699,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of cube surface accessible by barbed wire*
@@ -740,7 +740,7 @@ Gnomes answering yes after 1024 nights cell phone machine
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probably Solomon and the brothers saved from 3 fish caught

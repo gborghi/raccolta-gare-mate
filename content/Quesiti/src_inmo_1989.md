@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove polinomio f(x)=x^4+26x^3+52x^2+78x+1989 irriducibile su Z[x]*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le radici di x^3+ax^2+bx+c non possono essere tutte razionali dato a,b,c reale non tutte zero*
@@ -82,7 +82,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un sottoinsieme di {1,11,21,...,551} senza coppie sommate a 552 ha almeno 38 elementi*
@@ -111,7 +111,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare tutti n non è un quadrato tale che il piano(sqrt(n))^2 divide n^2*
@@ -140,7 +140,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che a/(b+c)+b/(c+a)+c/(a+b) si trova rigorosamente tra 1/2 e 2*
@@ -167,7 +167,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo obtouso di scalene: trovare punti su BC esteso con AD=sqrt(BD·CD) *
@@ -194,7 +194,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto: locus di P in modo che il triangolo a pedale DEF sia isoscello o equilaterale*

@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *residual 1 to 7 and remaining 2 to 10*
@@ -78,7 +78,7 @@ level: biennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Day of conversation between two lying mathematicians
@@ -120,7 +120,7 @@ Day of conversation between two lying mathematicians
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of head at the next coin toss*
@@ -164,7 +164,7 @@ Day of conversation between two lying mathematicians
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rhythmic criterion TRE+TRE=SEI, property of the digits *
@@ -218,7 +218,7 @@ Day of conversation between two lying mathematicians
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduction in the percentage of androids after population increase*
@@ -261,7 +261,7 @@ Day of conversation between two lying mathematicians
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of mathematicians at a meeting with constraints*
@@ -306,7 +306,7 @@ Day of conversation between two lying mathematicians
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table pairs where row 2 and multiples of 1*
@@ -351,7 +351,7 @@ Day of conversation between two lying mathematicians
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Chilies eaten by Alberto, split and returned
@@ -393,7 +393,7 @@ Chilies eaten by Alberto, split and returned
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N2 dividers if n has 6 dividers*
@@ -461,7 +461,7 @@ Chilies eaten by Alberto, split and returned
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report area CDE triangle and trapezoid *
@@ -527,7 +527,7 @@ Chilies eaten by Alberto, split and returned
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shorter route for the vertices of a cube*
@@ -585,7 +585,7 @@ Chilies eaten by Alberto, split and returned
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A circular area not covered by an equilateral triangle*
@@ -641,7 +641,7 @@ Chilies eaten by Alberto, split and returned
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability of two balls of the same color
@@ -689,7 +689,7 @@ The probability of two balls of the same color
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which port to choose for the shortest route*
@@ -731,7 +731,7 @@ The probability of two balls of the same color
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coefficient of x^199 in (x^2+x+1)^100*
@@ -775,7 +775,7 @@ The probability of two balls of the same color
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area part shaded with stars in the square*

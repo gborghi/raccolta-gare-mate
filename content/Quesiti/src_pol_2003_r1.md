@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi positivi (x,y) con (x+y) ^2-2(xy) ^2=1.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato a_1>1 e a_{n+1}=a_n^2-a_n+1, dimostrare che la somma delle reciprocità è inferiore a 1/(a_1-1).*
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le tangenti di A, B si incontrano a P; la tangente di C si incontrano a AB a Q. Prova PQ^2=PB^2+QC^2.*
@@ -107,7 +107,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su tutte le sequenze di lunghezza k con termini in {1,...,m}, segna ogni termine più piccolo; prova che la somma dei numeri segnalati è uguale a 1^k+2^k+...+m^k.*
@@ -134,7 +134,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n_1 ha 333 cifre non zero; n_{i+1} sposta l'ultima cifra di n_i all'inizio. Provare che 333 divide quattro, o tutti, di n_1,...,n_333.*
@@ -161,7 +161,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A,B,C,D su cerchio o in ordine; M punto medio di arco AB non contenente C,D; N punto medio di arco CD non contenente A,B. Prova (AN^2-BN^2)/AB=(DM^2-CM^2)/CD.*
@@ -188,7 +188,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte più regali di quelli ricevuti, mentre Renia ha ricevuto sei volte di più di quello che ha dato. Trova il minor numero di regali che Renia avrebbe potuto ottenere.
@@ -215,7 +215,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro ABCD; M,N punti di mezzo di AB,CD. Un punto P su MN soddisfa MP=CN e NP=AC; O è il circosentro. Mostra che O!=P implica OP perpendicolare a MN.*
@@ -241,7 +241,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i polinomi W con coefficienti reali in modo che se x+y è razionale allora W(x)+W(y) è razionale.*
@@ -268,7 +268,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte 1..52; un shuffle è una permutazione pi con pi(i)<pi(i+1) tranne in un indice m. Provare o respingere qualsiasi ordine raggiungibile da qualunque altro in un massimo di 5 mescolanze.*
@@ -294,7 +294,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * ABCD convexa; P su BC, Q su CD con angolo BAP = angolo DAQ. I triangoli ABP e ADQ hanno superficie uguale se i loro ortocentri si trovano su una linea perpendicolare all'AC.*
@@ -322,7 +322,7 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i reali positivi a,b,c,d con A=a^3+b^3+c^3+d^3 e B=bcd+cda+dab+abc, provare (a+b+c+d)^3 <= 4A+24B.*

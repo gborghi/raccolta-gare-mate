@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Parallelogramma coperto da quattro circonferenze unitarie*
 
 > Sia $ABCD$ un parallelogramma dai lati di lunghezza $AB = a$, $AD = 1$ e $\angle BAD = \alpha$. Se $\triangle ABD$ è acuto, si dimostri che i quattro cerchi di raggio 1 con centri in $A$, $B$, $C$, $D$ coprono il parallelogramma se e solo se
 > $$a \le \cos\alpha + \sqrt{3}\sin\alpha.$$
-
-
 
 [[Quesiti/src_imho_1967#q01|src_imho_1967__Q01]]
 
@@ -58,11 +57,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Un tetraedro con spigoli maggiori di 1 ha volume al più 1/8*
 
 > Si dimostri che se esattamente uno spigolo di un tetraedro è maggiore di 1, allora il suo volume è $\le 1/8$.
-
-
 
 [[Quesiti/src_imho_1967#q02|src_imho_1967__Q02]]
 
@@ -88,13 +86,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Divisibilità del prodotto di interi consecutivi per un primo*
 
 > Siano $k$, $m$, $n$ numeri naturali tali che $m + k + 1$ sia un numero primo maggiore di $n + 1$. Sia $c_s = s(s+1)$. Si dimostri che il prodotto
 > $$(c_{m+1} - c_k)(c_{m+2} - c_k)\cdots(c_{m+n} - c_k)$$
 > è divisibile per $c_1 c_2 \cdots c_n$.
-
-
 
 [[Quesiti/src_imho_1967#q03|src_imho_1967__Q03]]
 
@@ -118,11 +115,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangoli acutangoli simili a ABC di area massima*
 
 > Siano $A_0B_0C_0$ e $A_1B_1C_1$ due triangoli acutangoli qualsiasi. Si considerino tutti i triangoli $ABC$ simili a $\triangle A_1B_1C_1$ (in modo che i vertici $A_1$, $B_1$, $C_1$ corrispondano rispettivamente ai vertici $A$, $B$, $C$) e circoscritti al triangolo $A_0B_0C_0$ (con $A_0$ su $BC$, $B_0$ su $CA$ e $C_0$ su $AB$). Tra tutti tali triangoli possibili, determinare quello di area massima e costruirlo.
-
-
 
 [[Quesiti/src_imho_1967#q04|src_imho_1967__Q04]]
 
@@ -151,6 +147,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione di somme di potenze che si annulla infinite volte*
 
 > Consideriamo la successione $\{c_n\}$, dove
@@ -159,8 +156,6 @@ level: IMO
 > $$\vdots$$
 > $$c_n = a_1^n + a_2^n + \cdots + a_k^n,$$
 > con $a_1, a_2, \ldots, a_k$ numeri reali non tutti nulli. Supponiamo che un numero infinito di termini della successione $\{c_n\}$ sia uguale a zero. Determinare tutti i numeri naturali $n$ per cui $c_n = 0$.
-
-
 
 [[Quesiti/src_imho_1967#q05|src_imho_1967__Q05]]
 
@@ -184,10 +179,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Distribuzione delle medaglie in n giorni con la regola 1/7*
 
 > In un concorso sportivo sono stati assegnati $m$ medaglie in $n$ giorni consecutivi ($n > 1$). Il primo giorno è stata assegnata una medaglia e $1/7$ delle medaglie rimanenti tra le $m - 1$ inizialmente disponibili. Il secondo giorno sono state assegnate due medaglie e $1/7$ delle medaglie rimanenti; e così via. L'ultimo giorno, il $n$-esimo, sono state assegnate le medaglie rimanenti, in numero di $n$. Quanti giorni è durato il concorso e quante medaglie sono state assegnate in totale?
-
-
 
 [[Quesiti/src_imho_1967#q06|src_imho_1967__Q06]]

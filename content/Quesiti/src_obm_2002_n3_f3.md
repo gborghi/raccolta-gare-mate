@@ -32,7 +32,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di integri positivi con elementi 2002, nessun elemento è una potenza perfetta*
@@ -65,7 +65,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale convex ciclico con punto M su CD; i triangoli ADM e ABCM hanno superficie e perimetro uguali*
@@ -92,7 +92,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di celle della griglia m×n in modo che le celle adiacenti nelle righe i e i+1 condividano un lato comune*
@@ -119,7 +119,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diametro di un sottoinsieme non vuoto di {1,...,n} definito come differenza di max e min; somma dei diametri di tutti i sottoinsiemi non vuoti*
@@ -148,7 +148,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme finito di quadrati unitari con area 4; riorganizzare per coprire un quadrato unitario*
@@ -179,7 +179,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Arnaldo e Beatriz comunicano tramite segnali di fumo; legato N ≤ 4096 sulla dimensione del dizionario*

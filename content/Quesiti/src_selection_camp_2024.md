@@ -30,7 +30,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza integrale con ricorrenza per alcuni spostamenti fissi c*
@@ -61,7 +61,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, bisettore e riflesso, cerchio; prova angoli uguali*
@@ -92,7 +92,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafica completa dei ponti suddivisi in società del percorso di Hamilton; massimizzazione delle imprese*
@@ -123,7 +123,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo, circoncircolo e un raggio di circolo r, piedi perpendicolari; trovare lunghezza XY*
@@ -156,7 +156,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale con esponente iterato b*f(a)*
@@ -186,7 +186,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca quadrupli interi positivi con 2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c*
@@ -220,7 +220,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La sequenza più lunga di numeri interi in [1,2^2023] senza sottosum sottoscritto a zero*
@@ -251,7 +251,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione su coppie di numeri interi che rende un'espressione un quadrato perfetto*
@@ -282,7 +282,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre permutazioni di 1..n approssimativamente 2 sqrt(n) per somma di radici quadrate*
@@ -316,7 +316,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di sequenza in aumento con divisibilità e densità di primo divisore*
@@ -347,7 +347,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n x n griglia riempita bietivamente sotto una congruenza; massimizzare le coppie adiacenti +1*
@@ -376,7 +376,7 @@ level: CAMP Selection Camp
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, centro ortografico, circoncircoli, riflessione; prova quattro punti conciclici*

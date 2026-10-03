@@ -31,14 +31,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Permutazione che minimizza la somma dei quadrati delle differenze*
 
 > Siano $x_1, x_2, \ldots, x_n$ e $y_1, y_2, \ldots, y_n$ numeri reali tali che
 > $$x_1 \ge x_2 \ge \cdots \ge x_n \quad \text{and} \quad y_1 \ge y_2 \ge \cdots \ge y_n.$$.
 > Si dimostri che, se $z_1, z_2, \ldots, z_n$ è un qualsiasi permutamento di $y_1, y_2, \ldots, y_n$, allora
 > $$\sum_{i=1}^{n}(x_i - y_i)^2 \le \sum_{i=1}^{n}(x_i - z_i)^2.$$.
-
-
 
 [[Quesiti/src_imho_1975#q01|src_imho_1975__Q01]]
 
@@ -64,13 +63,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Successione infinita esprimibile come xp + yq infinite volte*
 
 > Sia $a_1, a_2, a_3, \ldots$ una successione infinita crescente di interi positivi. Si dimostri che per ogni $p \ge 1$ esistono infiniti $a_m$ che possono essere scritti nella forma
 > $$a_m = x \cdot a_p + y \cdot a_q$$
 > con $x, y$ interi positivi e $q > p$.
-
-
 
 [[Quesiti/src_imho_1975#q02|src_imho_1975__Q02]]
 
@@ -94,11 +92,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Condizione sull'angolo in un triangolo con triangoli costruiti esternamente*
 
 > Su ciascun lato di un triangolo arbitrario $ABC$, vengono costruiti esternamente dei triangoli $ABR$, $BCP$, $CAQ$ tali che $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$. Si dimostri che $\angle QRP = 90^\circ$ e $QR = RP$.
-
-
 
 [[Quesiti/src_imho_1975#q03|src_imho_1975__Q03]]
 
@@ -122,11 +119,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Somma delle cifre di 4444^4444 iterata*
 
 > Quando $4444^{4444}$ viene scritto nella notazione decimale, la somma delle sue cifre è $A$. Sia $B$ la somma delle cifre di $A$. Determinare la somma delle cifre di $B$. ($A$ e $B$ sono scritti nella notazione decimale.)
-
-
 
 [[Quesiti/src_imho_1975#q04|src_imho_1975__Q04]]
 
@@ -150,11 +146,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Punti su una circonferenza con distanze reciproche razionali*
 
 > Si stabilisca, motivando la risposta, se è possibile trovare 1975 punti sulla circonferenza di raggio unitario in modo che la distanza tra due qualsiasi di essi sia un numero razionale.
-
-
 
 [[Quesiti/src_imho_1975#q05|src_imho_1975__Q05]]
 
@@ -184,6 +179,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti i polinomi omogenei che soddisfano la condizione di somma ciclica*
 
 > Determinare tutti i polinomi $P$ in due variabili, con le seguenti proprietà:
@@ -193,7 +189,5 @@ level: IMO
 > (ii) per tutti i numeri reali $a, b, c$:
 > $$P(b+c, a) + P(c+a, b) + P(a+b, c) = 0,$$
 > (iii) $P(1, 0) = 1$.
-
-
 
 [[Quesiti/src_imho_1975#q06|src_imho_1975__Q06]]

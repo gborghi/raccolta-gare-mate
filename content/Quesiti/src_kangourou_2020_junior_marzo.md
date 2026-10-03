@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The mother of the daughter of the mother of the mother
@@ -70,7 +70,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *certain assertion*
@@ -105,7 +105,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Less than 4 consecutive integers with sum of 2*
@@ -152,7 +152,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full rings formed by stripes of a shirt*
@@ -209,7 +209,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cifters in two additions of two-digit numbers*
@@ -265,7 +265,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum area of triangle on point grid*
@@ -321,7 +321,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles before cutting 3 squares diagonally*
@@ -369,7 +369,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six-piece cut rod length*
@@ -409,7 +409,7 @@ The mother of the daughter of the mother of the mother
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Distance on the broken sign between three cities
@@ -454,7 +454,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the central cell with sums given*
@@ -503,7 +503,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Effective day to start the 18-day visit*
@@ -540,7 +540,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number cannot be abcd with ab=2cd*
@@ -583,7 +583,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers between 2010 and 2099 divided by square*
@@ -630,7 +630,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the common vertex of 6 equilateral triangles*
@@ -675,7 +675,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 9x+27y given 17x+51y=102*
@@ -725,7 +725,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of tyres at departure after transhipment*
@@ -784,7 +784,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the inclination of the fourth rectangular figure*
@@ -838,7 +838,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle formed by two squares in an equilateral triangle*
@@ -889,7 +889,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distributor to which Luca must stop once*
@@ -935,7 +935,7 @@ Distance on the broken sign between three cities
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that a 9-digit number is divisible by 18*
@@ -974,7 +974,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle perimeter with side 30 and ratio 3/5*
@@ -1020,7 +1020,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the point where the hare turns*
@@ -1058,7 +1058,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Logical deduction on cardboard/blue figures *
@@ -1088,7 +1088,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of overlap of two 3x9 rectangles*
@@ -1121,7 +1121,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum for the fifth face of a square pyramid*
@@ -1152,7 +1152,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubets with exactly one painted face*
@@ -1200,7 +1200,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the grey cell with equal sums*
@@ -1249,7 +1249,7 @@ The probability that a 9-digit number is divisible by 18*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Whoever lost the second day on the iron arm
@@ -1279,7 +1279,7 @@ Whoever lost the second day on the iron arm
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle at the base of 4 equal isosceles triangles*
@@ -1310,7 +1310,7 @@ Whoever lost the second day on the iron arm
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of digits less than 8 integers divisible by last digit*

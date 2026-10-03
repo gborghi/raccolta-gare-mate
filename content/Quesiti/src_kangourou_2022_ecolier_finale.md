@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pages are missing (231 ... (*)
@@ -69,7 +69,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of distinct values as the sum of two from 1 to 2022*
@@ -105,7 +105,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Book thickness (figures and theoretical pages) *
@@ -142,7 +142,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 3 digits with sum of first two = third*
@@ -178,7 +178,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total length of the gift package tape*
@@ -215,7 +215,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of the three numbers from the cuts*
@@ -252,7 +252,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different squares in Figure *
@@ -288,7 +288,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What number did Alice add to the 0 in the queue*
@@ -324,7 +324,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial liters in the tank (two taps) *
@@ -361,7 +361,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the products of the 2-digit numbers *
@@ -398,7 +398,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to write 2022 as the sum of two odd numbers*
@@ -434,7 +434,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time difference between cat and turtle (path) *
@@ -471,7 +471,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many numbers are 4 digits sum 4 and product 0*
@@ -508,7 +508,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fourteenth term of the sum sequence*
@@ -547,7 +547,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of sitting in a row with spaces open to each other*
@@ -595,7 +595,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum moves to unify the 9 bicolor tokens*
@@ -641,7 +641,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time from A to B swimming with the same energy as the counter current*
@@ -669,7 +669,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sarah's position at the classification goal with Gino and Pino*
@@ -699,7 +699,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tasks containing bananas by weight *
@@ -730,7 +730,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible number of Sundays in three consecutive months*
@@ -759,7 +759,7 @@ How many pages are missing (231 ... (*)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many cyclists have at least lied if sum and 36

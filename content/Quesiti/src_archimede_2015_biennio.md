@@ -36,7 +36,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible values of the sum of 200 dice 2/5*
@@ -80,7 +80,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of 5 adjacent walls with 3 colours*
@@ -121,7 +121,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Average age of three friends of Enea
@@ -160,7 +160,7 @@ Average age of three friends of Enea
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of 3^(8^7) *
@@ -205,7 +205,7 @@ Average age of three friends of Enea
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum socks for two pairs of different colours*
@@ -245,7 +245,7 @@ Average age of three friends of Enea
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number of girls at a cross-dance party
@@ -285,7 +285,7 @@ Number of girls at a cross-dance party
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DEF triangle area from midpoints in triangle ABC*
@@ -325,7 +325,7 @@ Number of girls at a cross-dance party
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2015 decimal place of 3/7*
@@ -366,7 +366,7 @@ Number of girls at a cross-dance party
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit codes with product of 18 digits *
@@ -407,7 +407,7 @@ Number of girls at a cross-dance party
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of the five smallest divisors of 40! of a width of not more than 50 mm
@@ -454,7 +454,7 @@ Sum of the five smallest divisors of 40! of a width of not more than 50 mm
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum percentage of palm oil from the order of ingredients
@@ -497,7 +497,7 @@ Maximum percentage of palm oil from the order of ingredients
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of participants knights and crooks around the table*
@@ -542,7 +542,7 @@ Maximum percentage of palm oil from the order of ingredients
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Configuration not obtained by reversing rows/columns*
@@ -585,7 +585,7 @@ Maximum percentage of palm oil from the order of ingredients
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area pentagon with three right angles and given sides*
@@ -650,7 +650,7 @@ Maximum percentage of palm oil from the order of ingredients
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of the rope plate and the fragment sachet*
@@ -714,7 +714,7 @@ Maximum percentage of palm oil from the order of ingredients
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum colours for balls with the same colour as the multipliers*

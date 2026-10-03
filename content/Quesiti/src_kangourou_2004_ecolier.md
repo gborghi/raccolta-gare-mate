@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to the implementation of the programme.
@@ -78,7 +78,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extension of path for deviation*
@@ -129,7 +129,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many swallows at the start*
@@ -162,7 +162,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers in rectangle and circle but not triangle*
@@ -211,7 +211,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many paint squares (black to white) *
@@ -248,7 +248,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the development of the cube (opposite colour faces) *
@@ -289,7 +289,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exact time between four clocks*
@@ -325,7 +325,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which rectangle and negative *
@@ -364,7 +364,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of a pencil *
@@ -396,7 +396,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Stone pads for 350 concrete *
@@ -430,7 +430,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What part of the fruit remains in the basket*
@@ -464,7 +464,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many sheets are missing between pages 24 and 45*
@@ -498,7 +498,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is Sandro's birthday.
@@ -527,7 +527,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which difference is not equal to 671-389*
@@ -565,7 +565,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colour of house number 3*
@@ -611,7 +611,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Products of the figures (sum of 9, 10 figures) *
@@ -650,7 +650,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure cannot be constructed with two pieces*
@@ -710,7 +710,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Of how many triangles the seventh (square numbers) *
@@ -764,7 +764,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number with coefficient 10001 and remainder 1*
@@ -812,7 +812,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many white cubes (three-dimensional chessboard) *
@@ -850,7 +850,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number appears in the sequence minus 3*
@@ -886,7 +886,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of second grid column 2x2*
@@ -923,7 +923,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What score can't have the team *
@@ -975,7 +975,7 @@ This is Sandro's birthday.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which two letters are equal in the multiplication table*

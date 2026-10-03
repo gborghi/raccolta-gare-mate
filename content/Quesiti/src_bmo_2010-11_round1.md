@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimuovere un intero da 1..n; media del restante è 163/4*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'insieme di cubo a con buco quadrato; il volume è numericamente uguale all'area superficiale*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo CAB=2CBA; linea CA incontra perp bisector di BC; prova AB=AC+CM*
@@ -107,7 +107,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *8x8 tabella, monete rosse/bianche/blu; ordini di conteggio con rosso parso per riga e colonna*
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi si incontrano a L,M; P su S2; mostra che l'accordo QR in S1 passa attraverso il punto fisso*
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri a,b,c con a^2+b^2-c^2=ab-bc-ca; prova triangolo con angolo di 60 gradi*

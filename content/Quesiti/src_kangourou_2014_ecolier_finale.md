@@ -29,7 +29,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Goats to be bought because they are half of the animals*
@@ -62,7 +62,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the matching faces of the two dice*
@@ -95,7 +95,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum shifts for every boy to dance with every girl
@@ -125,7 +125,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible scores in three-team mini-tournament*
@@ -154,7 +154,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scoyattolo empties 15 plates in four visits*
@@ -194,7 +194,7 @@ Minimum shifts for every boy to dance with every girl
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Divisibility of the sum of three consecutive integers*

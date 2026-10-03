@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La k più piccola per l' m, n) + h(m, n) = p^k su p prime > 3*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale convex: AC=BD se XY divide angolo DXC*
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *30x30 griglia con voci -1,0,1 che appaiono ciascuno 300 volte; somma di righe/colonne diversa?*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza infinita dall'inizio finito: finitamente molti termini positivi o finitamente molti termini negativi

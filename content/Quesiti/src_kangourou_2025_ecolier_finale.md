@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of apples/pears with cartons and 6 fruits less*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Assignment of colours with 4 red numbers sum green+blue*
@@ -83,7 +83,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little whole number with sum of 30 *
@@ -112,7 +112,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which finger does the 2025 count fall on*
@@ -151,7 +151,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max and min cents of Bob*
@@ -189,7 +189,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of lamps on circular track*

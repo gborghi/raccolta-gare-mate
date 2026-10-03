@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolare, incentro, piede perpendicolare, formula di prova di distanza*
@@ -54,7 +54,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le disuguaglianze che coinvolgono valori reali positivi sommando a 1*
@@ -81,7 +81,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri naturali n con n = 2S(n) ^2, cifre nella base 10*
@@ -108,7 +108,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 6 cifre con esattamente tre numeri unici e tre cifre pari*
@@ -134,7 +134,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Centroide triangolare, circoncircoli che intersecano le linee, dimostrare che G è centroide di AXY*
@@ -161,7 +161,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Progressione aritmetica con sottossequenza geometrica infinita*

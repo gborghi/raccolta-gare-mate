@@ -33,7 +33,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple self-referential years up to 2726*
@@ -68,7 +68,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that at least 2 fixed points in the cube rotation*
@@ -105,7 +105,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different inhabitants from truthful/false/variable statements*
@@ -143,7 +143,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total participants from n,m roots of the quadratic equation*
@@ -180,7 +180,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum combined cardinality closed for (m+n)/MCD(m,n)*
@@ -215,7 +215,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weekly minutes in which a compass needle points north*
@@ -246,7 +246,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle area given the three medians 25,153,160*
@@ -286,7 +286,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expected value of cards with first number before red*
@@ -320,7 +320,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum square side whose area figures are increased by 1*
@@ -356,7 +356,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of sphere with two orthogonal circles tangent to two points*
@@ -394,7 +394,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining pirates on land by succession c(n+1)=2c(n)+1*
@@ -432,7 +432,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of truths in a rectangle with neighbour statements*
@@ -468,7 +468,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of winning with Fibonacci rods*
@@ -503,7 +503,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of bets won in succession a(n+1)=2a(n)+2n-1*
@@ -539,7 +539,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Extractions from 10000 with at least two numbers close to the lot*
@@ -579,7 +579,7 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region of circumscribed pentagon with given altitude*

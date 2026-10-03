@@ -36,7 +36,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare e caratterizzare i numeri a 8 cifre "robusti" e "superrobusti"*
@@ -77,7 +77,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza che coinvolge min e massimo di due integri positivi*
@@ -106,7 +106,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Intersezione del cerchio circoscritto: mostrare che XD e AQ si incontrano sul cerchio*
@@ -133,7 +133,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 5 punti su un cerchio: riflessioni di D su lati di un triangolo acuto
@@ -164,7 +164,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrati di unità bianche massimi circondati da esattamente n quadrati di unità nere*
@@ -195,7 +195,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove 2019 che esistono punti di reticolare reciprocamente visibili nel piano*

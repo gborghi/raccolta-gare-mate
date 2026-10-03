@@ -31,7 +31,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting of red cards in the right packet of a deck divided into two.*
@@ -60,7 +60,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 On the planet Sram, identify the type of inhabitant with two questions.
@@ -89,7 +89,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of cubes visible from a single point of view in a 3x3x3 cube*
@@ -117,7 +117,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of buses to be added on a circular route to reduce the interval.*
@@ -146,7 +146,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seven-segment display: minimum number of segments to be switched off to make an equality true.*
@@ -174,7 +174,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Large family: relations between brothers and sisters.*
@@ -205,7 +205,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of triangles on the surface of a solid formed by two intertwined pyramids.*
@@ -236,7 +236,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parity: the sum of the extracted cards must provide a odd sum for the other cards.*
@@ -265,7 +265,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six points on a straight line not in order: distance between the two most distant points.*
@@ -296,7 +296,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of regions closed by tracing a regular pentagon and hexagon not crossed.*
@@ -329,7 +329,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic pentagon: fill with distinct positive integers with equal sums on each segment.*
@@ -362,7 +362,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Naval Battle: positioning ships on a 6x5 grid by deducing from rotated photos.*
@@ -393,7 +393,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Camel: maximum quantity of water delivered to a camp in the desert with two camels.*
@@ -424,7 +424,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill a 5x5 grid with digits 1-5 (Latin square) consistent with the rows shown at the edges.*
@@ -455,7 +455,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Phetorals: how many people can have guessed their number in a row by chain deduction.*
@@ -484,7 +484,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distinct colours (excluding rotations) of the triangles of the faces of a tetrahedron.*
@@ -515,7 +515,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete a 5x5 grid with 1,2,3 with line, column and diagonal sum constraints in the rectangles.*
@@ -546,7 +546,7 @@ On the planet Sram, identify the type of inhabitant with two questions.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gold: maximum amount of gold NOT exactly obtained from combinations of four types of bricks.*

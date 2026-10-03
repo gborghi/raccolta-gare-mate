@@ -31,7 +31,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i quadrati perfetti parziali a 3 cifre la cui somma di numeri è un quadrato perfetto*
@@ -60,7 +60,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i pezzi tricolori equilaterali triangolari distinti (lato 2) fino alla rotazione*
@@ -93,7 +93,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che un numero specifico di grandi dimensioni è composto*
@@ -130,7 +130,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine la strategia di vincita in 2 ×n gioco di posizionamento di domino*
@@ -167,7 +167,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine se un poligono a 13 lati può piastrellare il piano tramite copie di traduzione*

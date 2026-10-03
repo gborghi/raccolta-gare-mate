@@ -8,9 +8,9 @@ level: squadre
 ---
 <div class="atom-reader" data-gara="Quesiti/src_gsm_2026_squadre"></div>
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,skill_casework_accurato"></span>
 
 *Cavalieri e furfanti in piazza*
 
@@ -22,9 +22,9 @@ level: squadre
 **Risposta:** 4000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,skill_modellizzazione"></span>
 
 *Probabilita due dadi con faccia 1 visibile*
 
@@ -36,9 +36,9 @@ level: squadre
 **Risposta:** 2500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_casework_accurato"></span>
 
 *Somma dei numeri coperti in un quadrato magico 4x4*
 
@@ -50,9 +50,9 @@ level: squadre
 **Risposta:** 0033
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Rapporto AO'' / O''M'' su diametri paralleli*
 
@@ -64,9 +64,9 @@ level: squadre
 **Risposta:** 1931
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Raggio minimo della circonferenza Maggiore*
 
@@ -78,9 +78,9 @@ level: squadre
 **Risposta:** 0300
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_geometria_piana,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_geometria_piana,skill_conteggio_sistematico"></span>
 
 *Rettangoli interi di perimetro 34*
 
@@ -92,9 +92,9 @@ level: squadre
 **Risposta:** 0005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_astrazione"></span>
 
 *Piu grande k con k*117 quadrato sotto 10000*
 
@@ -106,9 +106,9 @@ level: squadre
 **Risposta:** 0052
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,skill_conteggio_sistematico"></span>
 
 *Probabilita oca a tre caselle dal traguardo*
 
@@ -120,9 +120,9 @@ level: squadre
 **Risposta:** 4212
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,skill_conteggio_sistematico"></span>
 
 *Posizioni di un robot che non cambia direzione dopo Sud*
 
@@ -134,9 +134,9 @@ level: squadre
 **Risposta:** 0081
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
 
 *Calzini tricolore in tre cassetti*
 
@@ -148,9 +148,9 @@ level: squadre
 **Risposta:** 2026
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
 *Numeri n<10000 con N(N(n))=1*
 
@@ -162,9 +162,9 @@ level: squadre
 **Risposta:** 0286
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
 
 *Percorso minimo sugli otto spigoli di una piramide*
 
@@ -176,9 +176,9 @@ level: squadre
 **Risposta:** 2118
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_astrazione"></span>
 
 *Massimo 4a+2b con a+3b e 3a-b quadrati*
 
@@ -190,9 +190,9 @@ level: squadre
 **Risposta:** 9850
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_conteggio_sistematico"></span>
 
 *Triangoli a angoli interi non simili*
 
@@ -204,9 +204,9 @@ level: squadre
 **Risposta:** 0258
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_insiemi_funzioni,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_insiemi_funzioni,skill_astrazione"></span>
 
 *Liste di formazioni lecite (chiusura unione e intersezione)*
 
@@ -218,9 +218,9 @@ level: squadre
 **Risposta:** 0029
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
 
 *Somma dei primi rilevanti tra 10 e 100*
 
@@ -232,9 +232,9 @@ level: squadre
 **Risposta:** 0335
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,skill_astrazione"></span>
 
 *Rapporto probabilita ultimo/penultimo al concorso*
 
@@ -246,9 +246,9 @@ level: squadre
 **Risposta:** 0066
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Area ottagono centrale in una stella*
 
@@ -260,9 +260,9 @@ level: squadre
 **Risposta:** 5520
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,skill_casework_accurato"></span>
 
 *Codici di 4 cifre decifrabili in tre lettere*
 
@@ -274,9 +274,9 @@ level: squadre
 **Risposta:** 2781
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,skill_astrazione"></span>
 
 *Piu grande M a 4 cifre non valore di un pentalitico*
 
@@ -288,9 +288,9 @@ level: squadre
 **Risposta:** 9998
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,skill_astrazione"></span>
 
 *Somma A2+B4+...+Z52 di successioni lineari*
 
@@ -301,4 +301,3 @@ level: squadre
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2764
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AVtp0fu4jP205FcBbsarIyxOUmIkSs8-/view)
-

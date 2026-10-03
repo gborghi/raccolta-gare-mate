@@ -32,14 +32,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Suddividere l'insieme 1..1989 in 117 sottoinsiemi di 17 elementi ciascuno con la stessa somma*
 
 > Si dimostri che l'insieme {1, 2, ..., 1989} può essere espresso come unione disgiunta di sottoinsiemi Ai (i = 1, 2, ..., 117) tali che:
 >
 > (i) ciascun Ai contiene 17 elementi;
 > (ii) la somma di tutti gli elementi in ciascun Ai è la stessa.
-
-
 
 [[Quesiti/src_imo_1989#q01|src_imo_1989__Q01]]
 
@@ -71,6 +70,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Area del triangolo definito dalla bisettrice almeno quattro volte ABC*
 
 > In un triangolo acutangolo ABC, la bisettrice interna dell’angolo A incontra nuovamente la circonferenza circoscritta del triangolo in A₁. I punti B₁ e C₁ sono definiti analogamente. Sia A₀ il punto di intersezione della retta AA₁ con le bisettrici esterne degli angoli B e C. I punti B₀ e C₀ sono definiti analogamente. Si dimostri che:
@@ -78,8 +78,6 @@ level: IMO
 > (i) L’area del triangolo A₀B₀C₀ è il doppio dell’area dell’esagono AC₁BA₁CB₁.
 >
 > (ii) L’area del triangolo A₀B₀C₀ è almeno quattro volte l’area del triangolo ABC.
-
-
 
 [[Quesiti/src_imo_1989#q02|src_imo_1989__Q02]]
 
@@ -116,6 +114,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Limite per configurazioni con punti equidistanti: k<1/2+sqrt(2n)*
 
 > Siano n e k interi positivi e sia S un insieme di n punti del piano tale
@@ -133,8 +132,6 @@ level: IMO
 > XXX Olimpiade Internazionale di Matematica
 > Braunschweig, Germania
 > Giorno II
-
-
 
 [[Quesiti/src_imo_1989#q03|src_imo_1989__Q03]]
 
@@ -171,6 +168,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza sulle distanze in un quadrilatero convesso con punto interno P*
 
 > Sia ABCD un quadrilatero convesso tale che i lati AB, AD, BC soddisfino
@@ -188,8 +186,6 @@ level: IMO
 > √
 > BC
 > .
-
-
 
 [[Quesiti/src_imo_1989#q04|src_imo_1989__Q04]]
 
@@ -213,12 +209,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *n interi consecutivi nessuno potenza di primo*
 
 > Si dimostri che per ogni intero positivo n esistono n interi positivi consecutivi
 > nessuno dei quali è una potenza (con esponente intero) di un numero primo.
-
-
 
 [[Quesiti/src_imo_1989#q05|src_imo_1989__Q05]]
 
@@ -244,13 +239,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Più permutazioni di 1..2n con proprietà P che senza*
 
 > Una permutazione (x1, x2, . . . , xm) dell'insieme {1, 2, . . . , 2n}, dove n è un intero
 > positivo, si dice che ha la proprietà P se |xi −xi+1| = n per almeno un i in
 > {1, 2, . . . , 2n −1}. Si dimostri che, per ogni n, le permutazioni con la
 > proprietà P sono più di quelle senza.
-
-
 
 [[Quesiti/src_imo_1989#q06|src_imo_1989__Q06]]

@@ -35,7 +35,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number differs less than ((n+3)/2)^2*
@@ -77,7 +77,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle to the top with four points on the sides of the triangle*
@@ -120,7 +120,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Four-digit numbers with three equal digits and a different one*
@@ -163,7 +163,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grade fraction with grade below 6 average values*
@@ -206,7 +206,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of a cube with two painted faces*
@@ -297,7 +297,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of a sub-parallelogram from data perimeter*
@@ -372,7 +372,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (a,b) with a divisor of b and a+2b=1010*
@@ -413,7 +413,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BAD angle with rim constructed on an isosceles triangle*
@@ -457,7 +457,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of steps to reach a distance of 30 metres*
@@ -511,7 +511,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last number of the 120th row by leaping multiples of 5*
@@ -556,7 +556,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lake portion assisted by the largest port*
@@ -598,7 +598,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordered pairs (m,n) with m<=n and mcm equal to 1515*
@@ -644,7 +644,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final state of the game of candy with invariant*
@@ -686,7 +686,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of k with positive integer root polynomial*
@@ -729,7 +729,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of the tomb ending at 89th number*
@@ -804,7 +804,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inner triangle area with parallel sides at a distance of 2*

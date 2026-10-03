@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of two 3-digit numbers with sum and product max*
@@ -63,7 +63,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of passengers with distinct occupation roles*
@@ -94,7 +94,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of non-adjacent boxes on a chessboard 8x8*
@@ -131,7 +131,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area covered by exactly two square adhesives*
@@ -166,7 +166,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last two digits of the last term sequence q=p+p^2*
@@ -199,7 +199,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes to correct 84 worked together*
@@ -229,7 +229,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interest sum equal to n with -53<2010/(53-n) <53-n*
@@ -261,7 +261,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of association members with A 64% of the votes*
@@ -295,7 +295,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum squares to be coloured per grid 25x25*
@@ -326,7 +326,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 3005-digit book pages*
@@ -357,7 +357,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integer sum not available as sum of 5 and 7*
@@ -386,7 +386,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Single number 4 square digits and perfect cube
@@ -416,7 +416,7 @@ Single number 4 square digits and perfect cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABBA numbers of 4 digits multiplied by 11*
@@ -448,7 +448,7 @@ Single number 4 square digits and perfect cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Precious seasoned cheese with a gain of 15%*
@@ -488,7 +488,7 @@ Single number 4 square digits and perfect cube
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perfect square code with residue 1 from 2 to 9*

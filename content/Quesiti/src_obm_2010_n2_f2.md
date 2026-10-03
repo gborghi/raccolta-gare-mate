@@ -26,7 +26,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo in modo che 33N abbia tutte le cifre uguali a 7; trovare la somma di N *
@@ -55,7 +55,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I triangoli retti ABC e ABD condividono l'ipotenuza AB; trovare l'area del triangolo ABE*
@@ -84,7 +84,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Real p,q soddisfa due quadratici con pq≠1; trovare (pq+p+1)/q*
@@ -111,7 +111,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Billeti da lotteria 100999; premio = somma di cifre; biglietti minimi per garantire il super-premi*
@@ -140,7 +140,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integer r,s; quadratico con radici interi; contare i possibili valori di ̊r−s di *
@@ -171,7 +171,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Count legal 2×2010 bicolori che evitano il monocromatico L-tromino*
@@ -204,7 +204,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie prime m<n con 2m+n, m+2n, m+n−18 tutte prime*
@@ -231,7 +231,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri a due cifre uguali alla loro somma di immagine inversa a cifre essendo un quadrato perfetto*
@@ -258,7 +258,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con bisettori angolari che si incontrano a I; AI=BC e angolo ICA=2·angolo IAC; trovare angolo ABC*

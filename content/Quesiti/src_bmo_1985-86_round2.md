@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Centro di somiglianza dei punti razionali per due segmenti di punti razionali*
@@ -54,7 +54,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il valore massimo di $x^2y + y^2z + z^2x$ soggetto a due restrizioni*
@@ -81,7 +81,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Famiglia di gruppi a 2 elementi con condizione di intersezione; prova di esistenza*
@@ -108,7 +108,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prodotto di coefficienti binomiali divisibili per $n^2$*
@@ -135,7 +135,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Locus del punto medio di $P_1P_2$ per accordi paralleli di due cerchi*

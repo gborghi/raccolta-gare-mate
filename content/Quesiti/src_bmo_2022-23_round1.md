@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le n a tre cifre dove esattamente i numeri 1/k iniziano con la cifra 2*
@@ -55,7 +55,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il numero di numeri quadrati in una sequenza di ricorrenze*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove B1, C1, F, G collineari in triangolo con condizioni di angolo rettangolo*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
@@ -138,7 +138,7 @@ Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che per ogni N≥1 c'è n≥1 con N che non divide f(n)*
@@ -167,7 +167,7 @@ Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova la rana sul cerchio Γ ritorna al punto precedentemente visitato*

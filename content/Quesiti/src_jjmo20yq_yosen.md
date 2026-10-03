@@ -27,7 +27,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i riempimenti di griglia a lettere distinte 2x2 fino alla rotazione/riflessione*
@@ -56,7 +56,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie prime (p,q) con p<=q in modo tale che pq divida 15(p-1)(q-1) *
@@ -87,7 +87,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono inciso in cerchio con rettangolo BCDE e AB=EA=6; trovare raggio*
@@ -118,7 +118,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo AB=5,BC=7,CA=6 con punti ceviani; circoncircolo di BDF tangente a EF*
@@ -147,7 +147,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *45x45 griglia, 2022 cellule nere; massimo n garantendo tutto nero n×n sottogriglia*
@@ -178,7 +178,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre triangoli rettangolari in cascata formano il pentagono dell'area 23; trovare FD*
@@ -209,7 +209,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 5 volte dei numeri interi non negativi che sommano fino al 2022 senza che nessuno sia divisibile per 3*
@@ -240,7 +240,7 @@ level: JJMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri tutti e 8 i valori
@@ -271,7 +271,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta n<=2022 che ammette un multiplo con esattamente una cifra a 0, tutti gli altri 2*
@@ -300,7 +300,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anello di 103 quadrati; A si muove pezzo per c o d, B per a o b; conteggio (a,b,c,d) *
@@ -329,7 +329,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles AB=AC con punto interno simile a Brocard P; trovare BC*
@@ -360,7 +360,7 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *edificio di corridoio a 3 piani, con 40 camere al piano; al massimo robot senza due incontri sui corridoi*

@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nessuna funzione continua asimptotica alla funzione di conteggio primario*
@@ -64,7 +64,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze integrali; infinite N e M con condizioni di rapporto*
@@ -103,7 +103,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Elementi di modulo minimo sotto mappe lineari invertibili su R^2*
@@ -134,7 +134,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrici che soddisfano AB=P(A) implicano A invertibile e AB=BA*
@@ -163,7 +163,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze di termini positivi: divergenza e convergenza delle serie*
@@ -198,7 +198,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Möbius mappe su (-1,1) via tanh; trovare il fattore minimo di contrazione*

@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione numerica a tre cifre n/f(n) in cui f somma cifre, prodotti in coppia, prodotto completo*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare il triangolo ACX con un'angolazione data e le condizioni di punto medio/trisezione*
@@ -86,7 +86,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza integrale u_{n+1}u_{n-1}=k u_n; trovare tutti i k dati u_2000=2000*
@@ -113,7 +113,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Configurazione di circolo tangente e di circolo circoncircolare; prova che l'angolo PAR è uguale all'angolo ABC*
@@ -140,7 +140,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le sequenze in aumento alternate da {1,...,n}; trovare A(20) *

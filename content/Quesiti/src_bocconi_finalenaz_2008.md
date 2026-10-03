@@ -29,7 +29,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Count the balls belonging to any two of the three figures but not to all three.*
@@ -60,7 +60,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find out how many seconds later three periodic sounds (every 2, 3, 4 s) repeat together.*
@@ -89,7 +89,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Holiday duration given the daily fishing pattern and total of 52 fish.*
@@ -120,7 +120,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of vertices of a square base pyramid after cutting all vertices at 1/3 of the vertex.*
@@ -151,7 +151,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of Matteo's chocolates given a system of inequalities on the triple and the double.*
@@ -180,7 +180,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pieces of cake remain for Rosi after the next five picks of friends.*
@@ -209,7 +209,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of 5 cent coins given that each pays 60 cents with six different coins.*
@@ -237,7 +237,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the number of two digits such that, encoding a 2, the value increases by 335.*
@@ -268,7 +268,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete an encrypted addition of three three digits with the digits 1-9 (7 and 9 already used), resulting in 900.*
@@ -301,7 +301,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Determine the qualities of the upper row axes using the rule of triangles (identical or all different).*
@@ -332,7 +332,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), total 45 rounds, one hole in one shot.
@@ -361,7 +361,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance from the starting point of the centre of a billiards ball to a rebound of 45 degrees at 59 degrees.*
@@ -390,7 +390,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full percentage of change in sides of a rectangle given the area reduction between 2% and 3%.*
@@ -419,7 +419,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find the integer that, multiplied by 4 and by 5, uses each digit from 1 to 9 together once. *
@@ -448,7 +448,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABED trapezoid area given the ABC and CDE triangles of areas 32 and 50 cm2 (AB parallel to DE, diagonal in C).*
@@ -476,7 +476,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between DO and SI speed given different on three tracks and total round trip times.*
@@ -506,7 +506,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the white/gray colouring of a floor of 16 large squares with boundaries of identity on the contacts and edges.*
@@ -538,7 +538,7 @@ How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), tota
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the largest equilateral triangle, given 9 points with a constant ratio of distances per stretch to a minimum area of 1 Km2.*

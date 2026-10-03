@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple of 11 closer to 1000*
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MALE number given MELA minimum with distinct digits*
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Written PUZZLES as seen from the inside*
@@ -122,7 +122,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Claim that the truthful and the liar can say
@@ -151,7 +151,7 @@ Claim that the truthful and the liar can say
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with digits that differ by at least 4*
@@ -181,7 +181,7 @@ Claim that the truthful and the liar can say
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum bricks per square side 7*

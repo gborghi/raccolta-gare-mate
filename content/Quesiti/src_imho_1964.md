@@ -28,7 +28,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *When 2^n-1 and 2^n+1 are divisible by 7*
@@ -59,7 +59,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Try a^2(b+c-a)+...<=3abc for the sides of a triangle*
@@ -87,7 +87,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of areas of the four circles inscribed as a function of a,b,c*
@@ -114,7 +114,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *three with the same argument (Ramsey) *
@@ -141,7 +141,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of intersections of 5 points perpendicular to each other*
@@ -167,7 +167,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Testing ABCD volume one third of A1B1C1D0 in the tetrahedron*

@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final product figure of the odd between 1 and 2012*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many spheres for three non-aligned points and minimum radius*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *You can get sum 2012 on the exposed faces of the dice*
@@ -117,7 +117,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to color 20 sheets with the sum rule*
@@ -148,7 +148,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Each polyhedron has two faces with the same number of beads*
@@ -179,7 +179,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sub-totals with multiple sums of n between n integers *

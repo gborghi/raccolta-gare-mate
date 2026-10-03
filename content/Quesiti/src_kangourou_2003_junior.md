@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grades of the angle of the slice (15%) *
@@ -71,7 +71,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second diameter of the wool with quadruple area*
@@ -126,7 +126,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which strip has a larger area*
@@ -179,7 +179,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the odd number for each integer n*
@@ -225,7 +225,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Type of triangle with angles x,2x,3x*
@@ -263,7 +263,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time fraction in which the three sing together*
@@ -297,7 +297,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tenth term succession (Fibonacci with signs) *
@@ -332,7 +332,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure area bounded by elastic (3 circles) *
@@ -373,7 +373,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which module and the fourth (parallellepiped) *
@@ -423,7 +423,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *X in the cryptographic sum XX+YY+ZZ=ZYX*
@@ -501,7 +501,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQT triangle area fraction in the rectangle*
@@ -576,7 +576,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length travelled at different speeds*
@@ -610,7 +610,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table capacity by percentages*
@@ -648,7 +648,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max-min multiple difference of 8 from 888*
@@ -685,7 +685,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential grey/black areas (4 squares) *
@@ -756,7 +756,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the telescopic product up to 2003*
@@ -793,7 +793,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *4 semicircle tangent circle beam*
@@ -828,7 +828,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of all 2003 numerical numbers*
@@ -857,7 +857,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of product figures 2003*A*
@@ -894,7 +894,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the sheet folded diagonally *
@@ -930,7 +930,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of ADE and ABC triangle areas (similar) *
@@ -996,7 +996,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *OPCQ rectangular area (inscribed circle) *
@@ -1039,7 +1039,7 @@ Type of triangle with angles x,2x,3x*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many kids are telling the truth?
@@ -1076,7 +1076,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of second largest number of the first*
@@ -1111,7 +1111,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real (x,y) pairs satisfying the equation*
@@ -1146,7 +1146,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max consecutive integers with sum of non-divisible digits 5*
@@ -1183,7 +1183,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What conclusions about books can be false*
@@ -1224,7 +1224,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many sums of three elements *
@@ -1266,7 +1266,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min moves change chess colour 2x3*
@@ -1308,7 +1308,7 @@ How many kids are telling the truth?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of '1' in numbers up to 7 binary digits*

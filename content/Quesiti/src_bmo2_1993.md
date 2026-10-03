@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma dell'angolo più piccolo per un triangolo inciso con angoli unitari distinti*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova $2^{m-1} \equiv 1 \pmod{m}$ per il tipo Mersenne $m$*
@@ -91,7 +91,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova $PA\sin\alpha = PB\sin\beta = PC\sin\gamma$ per il punto interno*
@@ -118,7 +118,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medio delle somme di differenze digitali su tutti i numeri $m$ a cifre fisse *

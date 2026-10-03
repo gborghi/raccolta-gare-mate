@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little whole number with sum of 100 *
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which finger is counted as 999*
@@ -92,7 +92,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *max and min cents of Bob*
@@ -128,7 +128,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of lamps on circular track*
@@ -157,7 +157,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum red numbers sum of green and blue (1-9)
@@ -210,7 +210,7 @@ Maximum red numbers sum of green and blue (1-9)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum riders on 4x4 grid with declarations*

@@ -32,6 +32,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Suddividere {1,...,1989} in 117 sottoinsiemi disgiunti da 17 elementi ciascuno con la stessa somma*
 
 > Si dimostri che l'insieme $\{1, 2, \ldots, 1989\}$ può essere espresso come unione disgiunta di sottoinsiemi $A_i$ ($i = 1, 2, \ldots, 117$) tali che:
@@ -39,8 +40,6 @@ level: IMO
 > (i) Ogni $A_i$ contiene 17 elementi;
 > 
 > (ii) La somma di tutti gli elementi in ciascun $A_i$ è la stessa.
-
-
 
 [[Quesiti/src_imho_1989#q01|src_imho_1989__Q01]]
 
@@ -68,6 +67,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Bisettrici del triangolo, punti sulla circonferenza circoscritta, relazioni tra aree*
 
 > In un triangolo acutangolo $ABC$ la bisettrice interna dell'angolo $A$ incontra nuovamente la circonferenza circoscritta del triangolo nel punto $A_1$. I punti $B_1$ e $C_1$ sono definiti analogamente. Sia $A_0$ il punto di intersezione della retta $AA_1$ con le bisettrici esterne degli angoli $B$ e $C$. I punti $B_0$ e $C_0$ sono definiti analogamente. Si dimostri che:
@@ -75,8 +75,6 @@ level: IMO
 > (i) L'area del triangolo $A_0B_0C_0$ è il doppio dell'area dell'esagono $AC_1BA_1CB_1$.
 > 
 > (ii) L'area del triangolo $A_0B_0C_0$ è almeno quattro volte l'area del triangolo $ABC$.
-
-
 
 [[Quesiti/src_imho_1989#q02|src_imho_1989__Q02]]
 
@@ -107,6 +105,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insieme di punti con condizione di equidistanza implica k < 1/2 + sqrt(2n)*
 
 > Siano $n$ e $k$ numeri interi positivi e sia $S$ un insieme di $n$ punti nel piano tali che
@@ -117,8 +116,6 @@ level: IMO
 > 
 > Si dimostri che:
 > $$k < \frac{1}{2} + \sqrt{2n}.$$
-
-
 
 [[Quesiti/src_imho_1989#q03|src_imho_1989__Q03]]
 
@@ -143,12 +140,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrilatero convesso con punto particolare implica la disuguaglianza 1/sqrt(h) >= 1/sqrt(AD)+1/sqrt(BC)*
 
 > Sia $ABCD$ un quadrilatero convesso tale che i lati $AB$, $AD$, $BC$ soddisfino $AB = AD + BC$. Esiste un punto $P$ interno al quadrilatero, distante $h$ dalla retta $CD$, tale che $AP = h + AD$ e $BP = h + BC$. Si dimostri che:
 > $$\frac{1}{\sqrt{h}} \ge \frac{1}{\sqrt{AD}} + \frac{1}{\sqrt{BC}}.$$
-
-
 
 [[Quesiti/src_imho_1989#q04|src_imho_1989__Q04]]
 
@@ -172,11 +168,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Per ogni n, determinare n interi consecutivi nessuno dei quali sia una potenza di un numero primo*
 
 > Si dimostri che per ogni intero positivo $n$ esistono $n$ numeri interi positivi consecutivi, dei quali nessuno è una potenza intera di un numero primo.
-
-
 
 [[Quesiti/src_imho_1989#q05|src_imho_1989__Q05]]
 
@@ -200,10 +195,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Le permutazioni di {1,...,2n} con proprietà P superano quelle senza*
 
 > Una permutazione $(x_1, x_2, \ldots, x_{2n})$ dell'insieme $\{1, 2, \ldots, 2n\}$, dove $n$ è un intero positivo, si dice avere la proprietà $P$ se $|x_i - x_{i+1}| = n$ per almeno un $i$ in $\{1, 2, \ldots, 2n-1\}$. Si dimostri che, per ogni $n$, esistono più permutazioni con la proprietà $P$ che senza.
-
-
 
 [[Quesiti/src_imho_1989#q06|src_imho_1989__Q06]]

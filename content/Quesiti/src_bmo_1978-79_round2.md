@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimprovare la disuguaglianza di quattro reali positivi distinti con condizione di interlascio*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli equilaterali con vertice comune; dimostrare due triangoli simili*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita in base alla media di tutti i termini precedenti; trovare $a_{1979}$*
@@ -112,7 +112,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che la somma alternata di espansione binaria è uguale $(-1)^n n!$*

@@ -32,6 +32,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare il rapporto EG/EF noto che AM/AB = t*
 
 > Le corde $AB$ e $CD$ di una circonferenza si intersecano in un punto $E$ interno alla circonferenza. Sia $M$ un punto interno al segmento $EB$. La tangente alla circonferenza passante per i punti $D$, $E$ e $M$ nel punto $E$ interseca le rette $BC$ e $AC$ rispettivamente nei punti $F$ e $G$. Se
@@ -39,8 +40,6 @@ level: IMO
 > determinare
 > $$\frac{EG}{EF}$$
 > in funzione di $t$.
-
-
 
 [[Quesiti/src_imho_1990#q01|src_imho_1990__Q01]]
 
@@ -64,11 +63,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Minimo k punti neri che garantiscono un coloramento buono*
 
 > Sia $n \ge 3$ e si consideri un insieme $E$ di $2n - 1$ punti distinti su una circonferenza. Si supponga che esattamente $k$ di questi punti debbano essere colorati di nero. Un tale coloramento si dice «buono» se esiste almeno una coppia di punti neri tale che l'interno di uno degli archi tra essi contenga esattamente $n$ punti dell'insieme $E$. Determinare il più piccolo valore di $k$ tale che ogni coloramento di $k$ punti dell'insieme $E$ sia buono.
-
-
 
 [[Quesiti/src_imho_1990#q02|src_imho_1990__Q02]]
 
@@ -94,13 +92,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi n > 1 tali che (2^n+1)/n^2 sia un numero intero*
 
 > Determinare tutti gli interi $n > 1$ tali che
 > $$\frac{2^n + 1}{n^2}$$
 > sia un numero intero.
-
-
 
 [[Quesiti/src_imho_1990#q03|src_imho_1990__Q03]]
 
@@ -126,13 +123,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Costruire f: Q+ → Q+ tale che f(xf(y)) = f(x)/y*
 
 > Sia $\mathbb{Q}^+$ l'insieme dei numeri razionali positivi. Si costruisca una funzione $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ tale che
 > $$f(x f(y)) = \frac{f(x)}{y}$$
 > per ogni $x$, $y$ in $\mathbb{Q}^+$.
-
-
 
 [[Quesiti/src_imho_1990#q04|src_imho_1990__Q04]]
 
@@ -165,6 +161,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco a due giocatori su una successione di interi; determinare le strategie vincenti*
 
 > Dato un intero iniziale $n_0 > 1$, due giocatori $\mathcal{A}$ e $\mathcal{B}$ scelgono alternativamente interi $n_1$, $n_2$, $n_3$, $\ldots$ secondo le seguenti regole:
@@ -178,8 +175,6 @@ level: IMO
 > (a) il giocatore $\mathcal{A}$ ha una strategia vincente?
 > (b) il giocatore $\mathcal{B}$ ha una strategia vincente?
 > (c) nessun giocatore ha una strategia vincente?
-
-
 
 [[Quesiti/src_imho_1990#q05|src_imho_1990__Q05]]
 
@@ -205,12 +200,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Poligono convesso con 1990 lati, tutti gli angoli uguali e i lati di lunghezza 1^2, 2^2, ..., 1990^2*
 
 > Si dimostri che esiste un 1990-agono convesso con le seguenti due proprietà:
 > (a) Tutti gli angoli sono uguali.
 > (b) Le lunghezze dei 1990 lati sono i numeri $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in qualche ordine.
-
-
 
 [[Quesiti/src_imho_1990#q06|src_imho_1990__Q06]]

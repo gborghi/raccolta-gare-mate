@@ -30,7 +30,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rapporto di due angoli in una figura con segmenti uguali*
@@ -64,7 +64,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quanti dei dati numeri radicali sono superiori a 10*
@@ -94,7 +94,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare la radice quadrata di 12 alla 12a potenza*
@@ -124,7 +124,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre di dipendenti che parlano entrambe le lingue*
@@ -153,7 +153,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le entrate di lavaggio auto suddivise in dime tra tre persone*
@@ -180,7 +180,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutti i numeri dati media di 5 più grandi e 5 più piccoli*
@@ -210,7 +210,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggiare quadrati con vertici su una griglia a punti*
@@ -240,7 +240,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 L'anno prossimo il 14 giugno è nuovamente sabato
@@ -268,7 +268,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cifri a, b, c con numeri prim di due cifre che sumano aaa*
@@ -302,7 +302,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque integri positivi con determinate condizioni di somma del prodotto, trovare totale *
@@ -331,7 +331,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza MN a partire da piedi perpendicolari, perimetro triangolo ortico 10*
@@ -361,7 +361,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi inferiori a 500 con esattamente 15 divisori*
@@ -389,7 +389,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa delle somme digitali P(1)+...+P(1000) *
@@ -417,7 +417,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi per fare R\$10.00 con monete 10c e 25c, almeno una ciascuna*
@@ -445,7 +445,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le più piccole disuguaglianze in catena e d<40*
@@ -472,7 +472,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa magica di un quadrato magico di ordine-7 con numeri da 1 a 49*
@@ -504,7 +504,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minore x+y che rende la somma delle potenze un quadrato perfetto*
@@ -531,7 +531,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un numero a tre cifre 629 volte inferiore alla somma di tutti gli altri*
@@ -561,7 +561,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di colori a cubo distinti con 5 colori fino alla rotazione*
@@ -590,7 +590,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo IAO tra le direzioni incentro e circoncentro*
@@ -618,7 +618,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di ragazze tra il 60% della classe che svolge attività comunitarie*
@@ -647,7 +647,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione tra tre aree triangolari tra due linee parallele*
@@ -685,7 +685,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine il risultato dell'Austria contro la Danimarca dalla classifica di gruppo*
@@ -723,7 +723,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato magico moltiplicato, trovare la somma A+B+C+D*
@@ -753,7 +753,7 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubini piccoli con faccia rossa e blu provenienti da un cubo tagliato*

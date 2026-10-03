@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto D sul lato BC con AD>BC; scegliere E su AC in modo che AE/EC=BD/(AD-BC); prova AD>BE.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_m_a_n divisibile per 5050.*
@@ -81,7 +81,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *S(x) = somma di cifre; mostra che esistono n_1<...<n_50 con tutte le n_i+S(n_i) uguali.*
@@ -109,7 +109,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n>=2 per le quali il sistema ciclico x_i^2+x_{i+1}^2+50=16x_i+12x_{i+1} ha una soluzione integrale.*
@@ -137,7 +137,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * numeri interi a_i,b_i provare la somma su i<j di (leswi_i_i_i_j_i+ gi_i_i_i_i_i_i) <= somma su tutti i,j di │a_i_i_i_i_i_i_i.*
@@ -167,7 +167,7 @@ Tra i numeri interi 0<a_1<...<a_100<5050 trovate quattro distinti con a_k+a_l_a_
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCDEF esagonale convex con angolo A+C+E=360° e (AB/BC)

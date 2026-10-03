@@ -32,7 +32,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di centro del cerchio circoscritto, centro interno, prova di conciclicità*
@@ -66,7 +66,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la doppia disuguaglianza per la somma parziale armonica meno log n*
@@ -93,7 +93,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molti m >= k con C(m,k) coprimo a l*
@@ -139,7 +139,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Matrice nonneg 3x9 con proprietà (O) sulla prima sottomatrice di tre colonne*

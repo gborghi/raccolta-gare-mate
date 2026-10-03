@@ -59,7 +59,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali scintillanti definiti attraverso parità di pavimento di x^(2^n); dimostrare che ogni intervallo [k,k+1) contiene un reale scintillante unico utilizzando le sequenze a_n, b_n*
@@ -156,7 +156,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Costruzione del percorso lattice M_k con passi i o j; allineamento di tre o più punti; frazioni strette di stile Stern-Brocot/Farey, medianti ingenui, intervalli principali e forze di buco di piccione per forzare n punti allineati*
@@ -262,7 +262,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Torneo di squadra probabile: un duello con monete truccate tra due giocatori, un torneo regolare, il torneo di eliminazione di squadra con probabilità di vittoria a_i/(a_i+b_j), e la prova attraverso trasformazioni del tabellone che la probabilità di vittoria di A è indipendente dall'ordine dei giocatori*

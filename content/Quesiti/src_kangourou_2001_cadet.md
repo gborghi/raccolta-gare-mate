@@ -64,7 +64,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form of sheet folded twice*
@@ -116,7 +116,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Other, of a kind used in the manufacture of foodstuffs
@@ -147,7 +147,7 @@ Other, of a kind used in the manufacture of foodstuffs
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Cutting off a ring to free them all
@@ -177,7 +177,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Joanna's classmates*
@@ -207,7 +207,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *C road route compared to B road*
@@ -238,7 +238,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum product of two numbers of the set*
@@ -279,7 +279,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *COM angle given OND by 60 degrees*
@@ -320,7 +320,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time for the koala family together*
@@ -348,7 +348,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of hexagon area and equilateral triangle*
@@ -379,7 +379,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Trails from A to B without going back*
@@ -410,7 +410,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Intersections of four circumferences*
@@ -438,7 +438,7 @@ Cutting off a ring to free them all
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Night of Nicholas and Michele
@@ -467,7 +467,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *M number in the expression 4xKLMNP4*
@@ -521,7 +521,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BED angle with CE maximum *
@@ -581,7 +581,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Palindromic hours on a digital clock*
@@ -624,7 +624,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of the thirsty Desiree camel*
@@ -668,7 +668,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total turns when found*
@@ -744,7 +744,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of ADB and ACB areas*
@@ -817,7 +817,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most peak face product*
@@ -871,7 +871,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Network mesh with knots and leads*
@@ -916,7 +916,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible number of parts with 4 cuts*
@@ -962,7 +962,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum final score of Joey *
@@ -1015,7 +1015,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of points on the surface of the talisman*
@@ -1059,7 +1059,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First digit of the minimum number with sum 2001*
@@ -1105,7 +1105,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum and maximum cubes from view*
@@ -1148,7 +1148,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total 102 empty boxes given *
@@ -1186,7 +1186,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Hexagons of the football *
@@ -1228,7 +1228,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of children with a product age 1664*
@@ -1272,7 +1272,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Groupes bound by Federico-Daniel*
@@ -1318,7 +1318,7 @@ The Night of Nicholas and Michele
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The stones to be taken to win

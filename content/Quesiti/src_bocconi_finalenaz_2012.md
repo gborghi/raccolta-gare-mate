@@ -33,7 +33,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eleven numbers in alphabetical order, third position*
@@ -67,7 +67,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance in metres between Renato's home and school*
@@ -97,7 +97,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second between first and last clock strike at 11 *
@@ -128,7 +128,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Next date with the sum of the digits equal to 39*
@@ -161,7 +161,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the diagram boxes with numbers from 1 to 10*
@@ -197,7 +197,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Insert + and - between digits 1-9 to get 2012*
@@ -230,7 +230,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of boys in the group with the same sum
@@ -263,7 +263,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Graph with nodes and connections between six boxes*
@@ -300,7 +300,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First factor in multiplication by different symbols*
@@ -335,7 +335,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To divide the surface in steps into two equal parts*
@@ -367,7 +367,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Today's age of the problem child over double age*
@@ -400,7 +400,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of Lilianas with different digits, mean of the other two*
@@ -433,7 +433,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction of the darkest part of the square*
@@ -465,7 +465,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lightness of the channel with two steady-speed boats*
@@ -498,7 +498,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between Arithmeville and Geometry on a square map*
@@ -533,7 +533,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of curved triangle between three tangent circles*
@@ -568,7 +568,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding a, b, c with minimum sum and perfect squares*
@@ -603,7 +603,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nando's Age with forest of 969 trees*
@@ -636,7 +636,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 2011 products obtained by dividing 2012 stones*
@@ -669,7 +669,7 @@ Maximum number of boys in the group with the same sum
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural circuit with nodes and cells connected in order*

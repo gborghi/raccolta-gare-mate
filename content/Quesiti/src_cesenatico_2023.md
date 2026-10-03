@@ -28,7 +28,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *a is power of 54 *
@@ -68,7 +68,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *stability and minimum k*
@@ -102,7 +102,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Existence of a,b distinct from 2023a+s(a) =... e a+2023s(a)=...*
@@ -139,7 +139,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CE *ED maximum if B,O,E,D conical *
@@ -174,7 +174,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum sum and product of squares of differences*
@@ -217,7 +217,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which c traps *

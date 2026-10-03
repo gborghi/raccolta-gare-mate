@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove triangolo ABC simile al triangolo DEF formato da intersezioni di cerchio*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i valori distinti massimi di k di xy/(x+y)^2 dal valore reale del 2023*
@@ -80,7 +80,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo totale garantito che B può raggiungere in n×n gioco a griglia*
@@ -109,7 +109,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli razionali positivi che fanno a+c/b, b+a/c, c+b/a interi*
@@ -136,7 +136,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che il circoncircolo del triangolo PRN è tangente a BC*

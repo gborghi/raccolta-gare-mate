@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Quadrilatero ciclico se e solo se due triangoli hanno aree uguali*
 
 > Nel quadrilatero convesso $ABCD$, le diagonali $AC$ e $BD$ sono perpendicolari e i lati opposti $AB$ e $DC$ non sono paralleli. Si supponga che il punto $P$, in cui si incontrano gli assi dei segmenti $AB$ e $DC$, sia interno a $ABCD$. Si dimostri che $ABCD$ è ciclico se e solo se i triangoli $ABP$ e $CDP$ hanno la stessa area.
-
-
 
 [[Quesiti/src_imho_1998#q01|src_imho_1998__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Valutazione dei giudici ai concorrenti: si dimostri che k/a ≥ (b−1)/(2b)*
 
 > In una gara vi sono $a$ partecipanti e $b$ giudici, dove $b \ge 3$ è un numero dispari. Ogni giudice valuta ciascun partecipante con "superato" o "bocciato". Si supponga che $k$ sia un numero tale che, per ogni coppia di giudici, le loro valutazioni coincidano al più per $k$ partecipanti. Si dimostri che $k/a \ge (b-1)/(2b)$.
-
-
 
 [[Quesiti/src_imho_1998#q02|src_imho_1998__Q02]]
 
@@ -84,11 +82,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi positivi k tali che d(n²)/d(n) = k per qualche n*
 
 > Per ogni intero positivo $n$, sia $d(n)$ il numero dei divisori positivi di $n$ (inclusi $1$ e $n$ stesso). Determinare tutti gli interi positivi $k$ tali che $d(n^2)/d(n) = k$ per qualche $n$.
-
-
 
 [[Quesiti/src_imho_1998#q03|src_imho_1998__Q03]]
 
@@ -112,11 +109,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie (a,b) di interi positivi con divisibilità data*
 
 > Determinare tutte le coppie $(a, b)$ di interi positivi tali che $ab^2 + b + 7$ divide $a^2 b + a + b$.
-
-
 
 [[Quesiti/src_imho_1998#q04|src_imho_1998__Q04]]
 
@@ -140,11 +136,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Costruzione dei punti di tangenza della circonferenza inscritta: l'angolo RIS è acuto*
 
 > Sia $I$ l'incentro del triangolo $ABC$. Sia la circonferenza inscritta nel triangolo $ABC$ tangente ai lati $BC$, $CA$ e $AB$ rispettivamente nei punti $K$, $L$ e $M$. La retta passante per $B$ parallela a $MK$ incontra le rette $LM$ e $LK$ nei punti $R$ e $S$, rispettivamente. Si dimostri che l'angolo $RIS$ è acuto.
-
-
 
 [[Quesiti/src_imho_1998#q05|src_imho_1998__Q05]]
 
@@ -168,10 +163,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale sugli interi positivi; determinare il minimo valore di f(1998)*
 
 > Si considerino tutte le funzioni $f$ dall'insieme $N$ di tutti gli interi positivi in sé stessa che soddisfano $f(t^2 f(s)) = s(f(t))^2$ per ogni $s$ e $t$ in $N$. Determinare il valore minimo possibile di $f(1998)$.
-
-
 
 [[Quesiti/src_imho_1998#q06|src_imho_1998__Q06]]

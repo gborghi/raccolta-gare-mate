@@ -28,7 +28,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto di corda e arco; prova EF·CD = AC·BD*
@@ -59,7 +59,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da ricorrenza dell'indice binario; infinite somme parziali sono quadrati perfetti*
@@ -87,7 +87,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regola per il punteggio degli esami; massimizzazione della somma dei punteggi totali più alti e più bassi*
@@ -115,7 +115,7 @@ level: China Mathematical Competition (Complementary Test)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2t integri non divisibili da s; ogni partizione di 2 ha un gruppo con somma di sottoinsieme divisibile da s*

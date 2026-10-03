@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso 1/n come somma finita di reciprocità triangolari distinte*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La prova D si trova su AQP di cerchio in configurazione triangolare acuta*
@@ -90,7 +90,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
@@ -121,7 +121,7 @@ I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le sequenze di numeri interi positivi con una data ricorrenza e u1=1*

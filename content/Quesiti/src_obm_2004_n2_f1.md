@@ -28,7 +28,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Valore di 2^6+2^6+2^6+2^6-4^4
@@ -62,7 +62,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore del rapporto di due espressioni consecutive di somma integrale*
@@ -98,7 +98,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alto di pile di banconote per salario mensile convertito in cruzados*
@@ -133,7 +133,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rolle minime per costruire una striscia di 32 esagoni*
@@ -168,7 +168,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di numero di prodotto dei numeri odd da 1 a 99*
@@ -202,7 +202,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Figura ottenuta girando un pentagono regolare di 252 gradi nel senso orario*
@@ -235,7 +235,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza p-q tra probabilità di caramelle di sapore uguale e di sapore diverso*
@@ -268,7 +268,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di un rettangolo con perimetro 100 e diagonale x*
@@ -301,7 +301,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unita' mancante di una somma a 4 cifre di cinque numeri consecutivi*
@@ -334,7 +334,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi positivi m che rendono 2004/(m^2-2) un intero positivo*
@@ -367,7 +367,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di x^2+6xy+y^2 data x+y=8 e xy=15*
@@ -401,7 +401,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distanza totale percorsa da un raggio di luce che riflette tra due specchi a 30 gradi*
@@ -436,7 +436,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca angolo x in una figura a zigzag/stella con angoli segnati*
@@ -470,7 +470,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Soluzione 2(2^{2x})=4^x+64 per x*
@@ -503,7 +503,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa massima della somma dei numeri a tre cifre*
@@ -537,7 +537,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale dei cinque piani di giardino ha la lunghezza totale della recinzione più grande*
@@ -571,7 +571,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di confine massimi di un quadrato di 10 cm a distanza 6 da un punto interno*
@@ -605,7 +605,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che due pezzi di carta si pieghano in un cubo*
@@ -638,7 +638,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca PQ nel triangolo rettangolo dove l'altitudine PF dà QF=9, RF=5, PR=13*
@@ -677,7 +677,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Deduzione logica: quale scatola contiene la moneta da indizi di ordine*
@@ -714,7 +714,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area della regione evidenziata in quadrato ABCD con due triangoli equilaterali*
@@ -749,7 +749,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'insieme del foglio quadrato tagliato in 41 unità quadrate più un quadrato più grande*
@@ -781,7 +781,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riduzione percentuale di superficie di una corrispondenza quadrata con 10% in meno di recinzione*
@@ -814,7 +814,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo in cui l'assistente si ferma in modo da corrispondere all'uscita del braccialetto dell'artigiano*
@@ -847,7 +847,7 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a sei cifre con due 1' che vengono visualizzati come 2004 quando la chiave 1 è rotta*

@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *m×n colorazione della griglia: ogni cella nera ha parecchi vicini neri; mostrare m,n odd*
@@ -53,7 +53,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mapa di prodotto digito f(n); trovare tutti gli integri positivi n con f(n)=n*
@@ -80,7 +80,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per i reali non negativi con un ≥b≥c≥0, provare (a+b+c)(a3+b3+c3)≤4(a6+b6+c6); trovare casi di uguaglianza*
@@ -107,7 +107,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Qualsiasi primo p e m positivo: qualche moltiplo di p ha ≥m zeri consecutivi in decimale*
@@ -134,7 +134,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli ABC, PQR: condizioni di punto medio e angolo-bisettore; dimostrare AB+AC=PQ+PR*

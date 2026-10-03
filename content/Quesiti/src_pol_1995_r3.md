@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di sottoinsiemi di {1..2n} senza soluzione a x+y=2z+1*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligono converso tagliato in pentagoni e triangoli, superficie più grande*
@@ -82,7 +82,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza mod p definita con ricursione; trovare il resto di a_n diviso per p*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi con media armonica 1; minimizzare la somma delle espressioni reciproche*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Urn con n fogli etichettati 1..n; numero previsto di disegni divisibili per 4*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Raggi da un punto termico comune; dimostrare esattamente una coppia di punti B,C sui raggi con PA+AB=PC+CB e PB+BC=PA+AC*

@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Tangenza della circonferenza inscritta e punto medio sulla bisettrice del triangolo*
 
 > Sia dato il triangolo $ABC$, e sia $J$ il centro della circonferenza exinscritta opposta al vertice $A$. Questa circonferenza exinscritta è tangente al lato $BC$ nel punto $M$, e alle rette $AB$ e $AC$ rispettivamente nei punti $K$ e $L$. Le rette $LM$ e $BJ$ si incontrano nel punto $F$, mentre le rette $KM$ e $CJ$ si incontrano nel punto $G$. Sia $S$ il punto di intersezione delle rette $AF$ e $BC$, e sia $T$ il punto di intersezione delle rette $AG$ e $BC$. Si dimostri che $M$ è il punto medio di $ST$.
 > 
 > (La circonferenza exinscritta di $ABC$ opposta al vertice $A$ è la circonferenza tangente al segmento $BC$, alla semiretta $AB$ oltre $B$ e alla semiretta $AC$ oltre $C$.)
-
-
 
 [[Quesiti/src_imho_2012#q01|src_imho_2012__Q01]]
 
@@ -61,12 +60,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza con reali positivi la cui somma è n meno 1*
 
 > Sia $n \ge 3$ un intero, e siano $a_2, a_3, \ldots, a_n$ numeri reali positivi tali che $a_2 a_3 \cdots a_n = 1$. Si dimostri che
 > $$(1 + a_2)^2 (1 + a_3)^3 \cdots (1 + a_n)^n > n^n.$$
-
-
 
 [[Quesiti/src_imho_2012#q02|src_imho_2012__Q02]]
 
@@ -97,6 +95,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco dell'indovinello: il giocatore A indica un insieme di numeri interi positivi, B mente al più una volta*
 
 > Il gioco della bugia è un gioco giocato da due giocatori $A$ e $B$. Le regole del gioco dipendono da due interi positivi $k$ e $n$, noti entrambi ai giocatori.
@@ -107,8 +106,6 @@ level: IMO
 > 
 > 1. Se $n \ge 2^k$, allora $B$ può garantire una vittoria.
 > 2. Per tutti i valori sufficientemente grandi di $k$, esiste un intero $n \ge 1.99^k$ tale che $B$ non può garantire una vittoria.
-
-
 
 [[Quesiti/src_imho_2012#q03|src_imho_2012__Q03]]
 
@@ -134,13 +131,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni f: Z → Z tali che a+b+c=0*
 
 > Determinare tutte le funzioni $f : \mathbb{Z} \to \mathbb{Z}$ tali che, per ogni intero $a, b, c$ che soddisfi $a + b + c = 0$, valga l'uguaglianza:
 > $$f(a)^2 + f(b)^2 + f(c)^2 = 2f(a)f(b) + 2f(b)f(c) + 2f(c)f(a).$$
 > (Qui $\mathbb{Z}$ indica l'insieme degli interi.)
-
-
 
 [[Quesiti/src_imho_2012#q04|src_imho_2012__Q04]]
 
@@ -166,13 +162,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Geometria del triangolo: uguaglianza tra piede dell'altezza, punto medio e intersezione*
 
 > Sia $ABC$ un triangolo con $\angle BCA = 90^\circ$, e sia $D$ il piede dell'altezza da $C$. Sia $X$ un punto nel suo interno del segmento $CD$. Sia $K$ il punto sul segmento $AX$ tale che $BK = BC$. Analogamente, sia $L$ il punto sul segmento $BX$ tale che $AL = AC$. Sia infine $M$ il punto di intersezione tra $AL$ e $BK$.
 > 
 > Si dimostri che $MK = ML$.
-
-
 
 [[Quesiti/src_imho_2012#q05|src_imho_2012__Q05]]
 
@@ -197,11 +192,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutti gli interi positivi n rappresentabili come somma di frazioni unitarie con coefficienti non negativi*
 
 > Determinare tutti gli interi positivi $n$ per i quali esistono numeri interi non negativi $a_1, a_2, \ldots, a_n$ tali che
 > $$\frac{1}{2^{a_1}} + \frac{1}{2^{a_2}} + \cdots + \frac{1}{2^{a_n}} = \frac{1}{3^{a_1}} + \frac{2}{3^{a_2}} + \cdots + \frac{n}{3^{a_n}} = 1.$$
-
-
 
 [[Quesiti/src_imho_2012#q06|src_imho_2012__Q06]]

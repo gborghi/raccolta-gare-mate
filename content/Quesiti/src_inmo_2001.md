@@ -31,7 +31,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riflessi del punto P nei lati del triangolo; incentro, circoncentro, ortocentro*
@@ -62,7 +62,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione x2+y2+z2=(x-y)(y-z)(z-x) ha infinite soluzioni interi*
@@ -90,7 +90,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)≤1*
@@ -117,7 +117,7 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)�
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Da nove numeri interi scegliete quattro con a+b-c-d divisibile per 20; otto numeri interi insufficienti*
@@ -146,7 +146,7 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)�
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con punto medio D di BC, condizioni d'angolo; prova AOD equilaterale *
@@ -177,7 +177,7 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)�
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le f:R→R soddisfacenti f:x+y) =f:x)f:y:f:xy)*

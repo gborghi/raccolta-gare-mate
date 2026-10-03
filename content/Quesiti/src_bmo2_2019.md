@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Geometria perpendicolare bisettore, prova triangolo BPE isosceles*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piani di scacchi su tavola n2×n2, trovare valori vincenti di n*
@@ -86,7 +86,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottoinsiemi non vuoti di {1,2,...,p-1} con somma divisibile per p*
@@ -115,7 +115,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni f: R+→R+ con f(x)≤f(y) per x≤y e equazione funzionale*

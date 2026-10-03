@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Termini di numeri interi ordinati in sequenza ricorsiva*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Collezioni di quattro punti coplanari con circondazioni uguali*
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colori bilanciati del 2019×grid del 2019*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nero sequenza reale con limite e superiore al 2020*

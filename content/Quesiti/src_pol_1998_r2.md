@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove o respingere l'esistenza di funzioni f,g su A_n che soddisfano determinate condizioni di composizione*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angolo obtuso C e A=2B; linea attraverso B perpendicolare a BC incontra AC a D; M punto medio di AB; prova angolo AMC = angolo BMD*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza per sei numeri positivi con somma 1 data un limite inferiore su ace+bdf, più caso di uguaglianza*
@@ -111,7 +111,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi (x,y) che soddisfano x^2+3y^2=1998x*
@@ -139,7 +139,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * 7 coppie di reali non-negativi con a_i+b_i<=2, trovare due indici k,m con \a_k-a_m_lease\b_k-b_m_lease<=1*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le estremità AB e CD del tetraedro ABCD sono perpendicolari se esiste un parallelo CDPQ con PA=PB=PD e QA=QB=QC*

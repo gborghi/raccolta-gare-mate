@@ -40,7 +40,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equilateral triangle area inscribed vs meta circle*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remove two boxes to make the equality true*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two out of 10 integers with sum or difference divisible by 10*
@@ -148,7 +148,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little palindrome peak divided by 27*
@@ -181,7 +181,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max tastes for 12 different packs (10 tastes) *
@@ -212,7 +212,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *LIETI numbers <1000 (square divided by 7,8,9,10) *

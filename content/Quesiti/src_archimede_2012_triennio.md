@@ -31,7 +31,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduction of holidays with calendar reform*
@@ -96,7 +96,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of surfaces of two spheres with volume ratio 2*
@@ -129,7 +129,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean speed on the home-school-home route*
@@ -177,7 +177,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square area inscribed with triangular similarities*
@@ -213,7 +213,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prime p, q with p^q+1 prime*
@@ -249,7 +249,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of figures of (10^2013+1)^3*
@@ -292,7 +292,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum divider of n^5-5n^3+4n for n>=3*
@@ -362,7 +362,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expression less than or equal to 1/6+x^2 for each x*
@@ -456,7 +456,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean distance points on the development of the cone*
@@ -523,7 +523,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum 11 with 4 face dice and 8 face dice*
@@ -563,7 +563,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of k with full solution of x^10+kx^2+4=0*
@@ -601,7 +601,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of dividing by 11 a square*
@@ -660,7 +660,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of the squares of the two sides of the hypotenuse.

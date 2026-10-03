@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles with two vertices of the same colour on the circumference*
@@ -71,7 +71,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum value of 3-2x given (5-4x) ((5x-4)=0*
@@ -111,7 +111,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many second numbers between 40 and 70*
@@ -150,7 +150,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Enlargement of the Y angle with X=48 and Z triple Y*
@@ -189,7 +189,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which product of powers and squares of an integer*
@@ -231,7 +231,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Knights and thieves in the post office files*
@@ -270,7 +270,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle perimeter given the three heights and side AB*
@@ -310,7 +310,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pear juice left after mixing and extraction*
@@ -349,7 +349,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of triangle obtained by extending the sides of DEF*
@@ -391,7 +391,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Counting words with letters A,B,C and bonds*
@@ -431,7 +431,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CD side of the trapezoid with perpendicular diagonals*
@@ -477,7 +477,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tracks on a 9x7 board frame in 14 movements*

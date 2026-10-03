@@ -32,7 +32,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many seats on the stages of a theatre from 960*
@@ -72,7 +72,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many real solutions does the system have x2y=150, x3y2=4500
@@ -114,7 +114,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the region defined by circle and strip*
@@ -154,7 +154,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of cylinder and cone side surfaces equal*
@@ -194,7 +194,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Identify the relative in the family relationship of Alberto*
@@ -236,7 +236,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded area with known radius circumference*
@@ -278,7 +278,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statement with quantifiers in the rationales*
@@ -318,7 +318,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the number that is divided by the mcm of the integers 1.100*
@@ -358,7 +358,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive integer solutions of x^x - 2^x - x2 = 10 *
@@ -399,7 +399,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles trapezoidal area with diagonal and angle data*
@@ -438,7 +438,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time setting with maximum likelihood of avoiding the last hour*
@@ -478,7 +478,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of power tower sum units of 2*
@@ -513,7 +513,7 @@ How many real solutions does the system have x2y=150, x3y2=4500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Places in the sprint that make Cipollini win
@@ -541,7 +541,7 @@ Places in the sprint that make Cipollini win
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural with 3 digits on base 10 and 7 on base 2*
@@ -571,7 +571,7 @@ Places in the sprint that make Cipollini win
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turn the wheel to restore the system to initial operation*
@@ -603,7 +603,7 @@ Places in the sprint that make Cipollini win
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many fish has Andrea caught (reduction of 38%) *
@@ -635,7 +635,7 @@ Places in the sprint that make Cipollini win
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pentagon inscribed with diagonal parallel sides is regular*

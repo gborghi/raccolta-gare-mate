@@ -32,7 +32,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural numbers less than 1000 with sum of digits 4*
@@ -75,7 +75,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of two periodic numbers as fraction, X+Y*
@@ -115,7 +115,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple of 3 with only 1,4,7 digits between 1000 and 100000*
@@ -160,7 +160,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of an expression with powers*
@@ -223,7 +223,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *EFG triangle area from parallelogram areas*
@@ -263,7 +263,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grade of a polynomial composed of powers*
@@ -330,7 +330,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *H value for telescopic sum of rationalized roots*
@@ -381,7 +381,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *UV length between midpoints and two arcs in the square*
@@ -423,7 +423,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 4x-1 with (x-7)^8=(x+4)^8*
@@ -463,7 +463,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to sit 4 pairs of sisters next to each other
@@ -514,7 +514,7 @@ How to sit 4 pairs of sisters next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PC length from inner point distances to the sides*
@@ -559,7 +559,7 @@ How to sit 4 pairs of sisters next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arrival orders compatible with partial forecasts*
@@ -599,7 +599,7 @@ How to sit 4 pairs of sisters next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inteers from 1 to 100 not dividing the product from 50 to 80*
@@ -648,7 +648,7 @@ How to sit 4 pairs of sisters next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *F angle with a circular biset tangent *
@@ -689,7 +689,7 @@ How to sit 4 pairs of sisters next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BCD triangular area with D symmetrical to the baricenter*
@@ -731,7 +731,7 @@ How to sit 4 pairs of sisters next to each other
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that two divisors of 18000 are prime to each other*

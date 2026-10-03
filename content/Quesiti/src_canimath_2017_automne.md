@@ -28,7 +28,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Escrivere 225 come somma di 5 o 4 integri positivi consecutivi*
@@ -57,7 +57,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma*
@@ -86,7 +86,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha segnato il sesto gol
@@ -114,7 +114,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n^2 con le ultime due cifre rimosse è di nuovo un quadrato perfetto*
@@ -141,7 +141,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]*
@@ -168,7 +168,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310*
@@ -195,7 +195,7 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S*
@@ -222,7 +222,7 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF divide angolo AFC*

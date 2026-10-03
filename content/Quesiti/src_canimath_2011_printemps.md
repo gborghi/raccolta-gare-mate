@@ -26,7 +26,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Intersezioni circolari circostanti e rapporto di superficie esagonale*
@@ -55,7 +55,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fensatura di un campo quadrato con due restrizioni perimetrali*
@@ -82,7 +82,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sedi per cena a tavola rotonda con due nuovi vicini ciascuno*
@@ -109,7 +109,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadratici con perturbazione a coefficiente piccolo e intervallo radicale superiore a 10000*

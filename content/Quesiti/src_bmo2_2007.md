@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo a lato intero con AC=2007 e condizione di angoli uguali*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Infinitamente molte coppie di numeri interi positivi che rendono una somma di frazioni un numero intero*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'ortocentro equidistante dal circoncentro e dal piede d'altitudine in triangolo a pari scala*
@@ -113,7 +113,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per chiudere le linee in un grafico ferroviario completo di 6 città mantenendolo connesso*

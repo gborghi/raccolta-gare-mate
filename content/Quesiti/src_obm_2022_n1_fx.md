@@ -34,7 +34,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piramida di cubetti della stessa dimensione: base di conteggio, facce dipinte*
@@ -73,7 +73,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri di coppie: la somma dei quadrati di cifre è uguale a una potenza di 4*
@@ -116,7 +116,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti medi quadrati area quadrata interna; ottagone tagliato in angoli trapezoi*
@@ -161,7 +161,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di torneo di calcio: prove/trova vincite min e vincoli di punteggio*
@@ -205,7 +205,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2022-partido numeri: suddivisi in metà il cui prodotto è uguale all'originale*

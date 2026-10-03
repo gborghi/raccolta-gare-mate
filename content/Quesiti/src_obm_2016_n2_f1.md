@@ -31,7 +31,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri alle vertici di un tetraedro dati sommi facciali con 2 e 7*
@@ -63,7 +63,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione di Josias in una linea data alle persone prima e dopo*
@@ -94,7 +94,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le famiglie che non ricevono un giornale, codici a due cifre a poche cifre*
@@ -127,7 +127,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Che lettera può occupare la cella grigia di una griglia 3x3 di O, B, M*
@@ -160,7 +160,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di dolci uguali divisibili tra gruppi di 2, 3 o 4*
@@ -191,7 +191,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare (x^3-1)/(1+x^2+(x+1)^2) per x=2015*
@@ -222,7 +222,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il quale non può essere il lato variabile dei triangoli ABC e ABD*
@@ -253,7 +253,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Qual affermazione sulla media delle note di due classi è vera*
@@ -283,7 +283,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo inciso ECF con accordi paralleli CD e AB, arco CA=44 gradi*
@@ -314,7 +314,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più piccola n con n! un multiple di 2016*
@@ -347,7 +347,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Distanza massima del videogioco dal centro all'angolo dello schermo*
@@ -380,7 +380,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cifri a, b in modo che ab2016 sia divisibile per 11 (e 9)*
@@ -410,7 +410,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca x attraverso i triangoli congruenti BAD, EAC e Pitagora*
@@ -441,7 +441,7 @@ level: OBM Nível 2
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero di bugiardi tra le persone del 2016 che parlano ciascuna della successiva
@@ -472,7 +472,7 @@ Numero di bugiardi tra le persone del 2016 che parlano ciascuna della successiva
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio normale
@@ -502,7 +502,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo x con un poligono regolare e triangoli di uguali dimensioni LBC, CBI*
@@ -533,7 +533,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di operazioni di fusione per igualarne le pile 1,2,...,9,11 sommando a 56 *
@@ -564,7 +564,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La radice quadrata più piccola del prodotto delle dimensioni rettangolari, perimetro 58*
@@ -597,7 +597,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Computare SR=1 in un cerchio con triangoli simili RSA e XYA*
@@ -630,7 +630,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *X più piccolo con x+y=10 che soddisfa un'equazione di conteggio di parità*
@@ -660,7 +660,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di superfici [CHAM]/[AEFG] con quadrato di lato 6*
@@ -693,7 +693,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare prodotti distinti in una tabella di moltiplicazione in stile criptaritmico*
@@ -726,7 +726,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anno successivo dopo il 2016 con 53 sabati*
@@ -757,7 +757,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conte dei numeri a quattro cifre abcd con abcd-(somma di cifre) multiplo di 1000*
@@ -788,7 +788,7 @@ Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio norm
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni colletto di 9 perle a due colori contiene due sequenze equivalenti di 5 perle*

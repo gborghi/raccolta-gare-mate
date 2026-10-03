@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Produced by the three numbers conceived by Adele, Beatrice, Cecilia
@@ -64,7 +64,7 @@ Produced by the three numbers conceived by Adele, Beatrice, Cecilia
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of common points at 2024 circumferences*
@@ -116,7 +116,7 @@ Produced by the three numbers conceived by Adele, Beatrice, Cecilia
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number at the place of the question mark, unrelated sequences*
@@ -273,7 +273,7 @@ Produced by the three numbers conceived by Adele, Beatrice, Cecilia
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which row is 2024 in the module provision*
@@ -427,7 +427,7 @@ Produced by the three numbers conceived by Adele, Beatrice, Cecilia
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of chocolates given (remitted = received) *
@@ -498,7 +498,7 @@ Produced by the three numbers conceived by Adele, Beatrice, Cecilia
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to divide 1.8 in pairs with constant difference*
@@ -539,7 +539,7 @@ Produced by the three numbers conceived by Adele, Beatrice, Cecilia
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who lied among the four grandchildren?
@@ -573,7 +573,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two numbers of Sofia from 2(5x+y) =212*
@@ -620,7 +620,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many blocks of 2024...2024 divided by 4 *
@@ -658,7 +658,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of three digits divisible by 4 with maximum sum of digits*
@@ -691,7 +691,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Francobolli in the first envelope (recurrence of Fibonacci backwards) *
@@ -727,7 +727,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of faces of a 2024-antiprism*
@@ -762,7 +762,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of product figures of 9 numbers 2 or 3 between 600 and 1000*
@@ -813,7 +813,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of six numbers covered on the faces of a cube*
@@ -870,7 +870,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of numbers to say to delete 2.60*
@@ -912,7 +912,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to divide 1.18 into square-sum pairs*
@@ -946,7 +946,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of the first and last integers with consecutive cubes = 2024*
@@ -982,7 +982,7 @@ Who lied among the four grandchildren?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 For how many seconds Aldo is waiting for Bernardo

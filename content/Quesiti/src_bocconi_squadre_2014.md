@@ -31,7 +31,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic multiplication of ILANOM × 4 = MILAN*
@@ -64,7 +64,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit number product for 99 with third digit 5*
@@ -93,7 +93,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flames for flooring 1 m × 1 m with 5 cm squares *
@@ -124,7 +124,7 @@ level: Gara a Squadre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The square root of the number 444...44111...11 - 555...55*
@@ -155,7 +155,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the segment connecting consecutive mediums in a rectangle inscribed in a circle with a diameter of 2 cm*
@@ -188,7 +188,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between area of new triangle and area of initial triangle with squares built on the sides*
@@ -219,7 +219,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integressive pairs (x,y) with (x-y) squared + 2y squared <= 27*
@@ -248,7 +248,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square tiles of 1 dm side to cover room 23 dm × 23 dm*
@@ -278,7 +278,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real system solutions (x+y)^3=z, (y+z)^3=x, (z+x)^3=y*
@@ -307,7 +307,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of integers between 1 and 99 with no subset of sum of 100*
@@ -336,7 +336,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of each of the five chocolate eggs given weighting system*
@@ -366,7 +366,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum value of z in the system x+y+z=10, xy+yz+zx=12*
@@ -397,7 +397,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Common area ratio of triangle to square inside the large triangle*
@@ -430,7 +430,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the darkest part of two rectangles overlapping 8 cm × 2 cm with a common vertex*
@@ -461,7 +461,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number of chocolates in each tray after exchanges between Chiara, Carla and Jacopo*
@@ -490,7 +490,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum volume of parallel piped box with 1 cm cubes, full at maximum 40%*
@@ -521,7 +521,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A figure numbering seven regions of the figure with 1-7 without adjacent consecutive digits*
@@ -552,7 +552,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic square 4×4 with constant symmetrical sum and 15.14 at the center of the fourth line*
@@ -581,7 +581,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of two-plate balanced comparisons to find the two heaviest of 128 objects*
@@ -610,7 +610,7 @@ The square root of the number 444...44111...11 - 555...55*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of regions in which 10 lines divide the plan

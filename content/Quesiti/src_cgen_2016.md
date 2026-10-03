@@ -57,7 +57,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summe di cubi: studio degli insiemi S, S_d, S_i di numeri interi espressi come somme di cubi di numeri interi positivi (distinti, unici distinti), costruendo progressioni aritmetiche arbitrariamente lunghe all'interno di S.*
@@ -136,7 +136,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La fila di alberi che nasconde la foresta: un osservatore all'origine tra gli alberi (dischi di raggio R centrati nei punti della griglia); determinare per quale R ogni direzione è bloccata, utilizzando la razionalità della pendenza e gli argomenti di parità.*
@@ -246,7 +246,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Andando in C: con j = e^{2i pi/3} e variabili basate su dadi Z_k = j^{F_k}, studiare la probabilità p_n che S_n = Z_1+...+Z_n = 0, derivare una forma chiusa tramite binomi, e analizzare la variabile di conteggio X_n degli indici con S_k = 0.*

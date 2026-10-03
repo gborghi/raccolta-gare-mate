@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
@@ -80,7 +80,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area internal region with external beta range*
@@ -140,7 +140,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max cross-sectional tiles on the 8x8 chessboard *
@@ -173,7 +173,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of X printed by the algorithm*
@@ -202,7 +202,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Longest sequence of squares with prime differences*
@@ -231,7 +231,7 @@ Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of distances of P from the six spokes of the tetrahedron*

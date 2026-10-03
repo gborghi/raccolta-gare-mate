@@ -30,7 +30,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande timbro quadrato allineato all'asse che si inserisce all'interno di un pacchetto di una determinata forma, quindi superficie totale con due timbri disgiunti*
@@ -63,7 +63,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggiamento degli orientamenti dei fiumi tra villaggi con altitudini assegnate in modo che l'acqua scorra in discesa; funzioni n_k(P) sulle famiglie di grafici*
@@ -96,7 +96,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistemi monetari S: punti S (pagamenti esatti), prezzi primari S e decomposizioni S; condizioni di finità e unicità*
@@ -129,7 +129,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *operazione di variazione della risoluzione su una striscia di n note che produce m note/silenzi; operazione di accessibilità e minima, quindi versione di immagine 2D*
@@ -162,7 +162,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insiemi di punti/poligoni con tutti gli angoli di gradi interi; massimi sotto convexità, conciclicità, collinearità e restrizioni a due linee*
@@ -195,7 +195,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ierarchie come grafici di legami sociali orientati; emeute (rivolti) che girano e aggiungono legami; stabilità, accessibilità, rivoluzioni sulle tribù complete/coerenti/arbitrali*
@@ -228,7 +228,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Laser riflesso all'interno di un triangolo equilaterale (poi a destra, poi a fianco e a fianco) con lati specchiati e vertici aperti; conteggio dei rimbalzi n(t) *
@@ -261,7 +261,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Suffichi di carte come permutazioni; trovare la sigma del shuffle in giochi minimi, e obiettivi realizzabili (partizioni di obiettivo) per shuffle*

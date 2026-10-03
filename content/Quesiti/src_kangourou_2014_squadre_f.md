@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Biggest first < 30 sum of two first*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of white key figures to get 2014 with 6 keys*
@@ -113,7 +113,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region shaded circle inscribed in square*
@@ -161,7 +161,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum positive sum with a^2+b^2=100*
@@ -195,7 +195,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum n bags to find the heaviest in 2 weights
@@ -225,7 +225,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integral numbers 1-10000 not divisible by 2 or by 5 *
@@ -287,7 +287,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of triangle ABC given triangle DFI for similarities*
@@ -339,7 +339,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *age equal to sum of figures per year*
@@ -371,7 +371,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N=2014x2014 sum of n consecutive *
@@ -402,7 +402,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of ab-bc+ca with product abc=16*
@@ -434,7 +434,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2014! The value of the product shall be calculated as follows:
@@ -473,7 +473,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of three different digits on three adjacent dice*
@@ -508,7 +508,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of grid 3x3 with six sums all different*
@@ -540,7 +540,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many 7-digit palindromes are there *
@@ -575,7 +575,7 @@ Maximum n bags to find the heaviest in 2 weights
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *P-D value sum squared equal to less odd*

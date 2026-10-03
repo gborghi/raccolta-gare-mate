@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non n rende 2n^2+1, 3n^2+1, 6n^2+1 tutti i quadrati*
@@ -54,7 +54,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali con f(xf(x) + f(y))=f(x) ^2+y*
@@ -80,7 +80,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piani perpendicolari; bisettore incontra cerchio, prova angolo bisettato*
@@ -109,7 +109,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza della somma per i reali positivi con a+b+c=1*
@@ -136,7 +136,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafico cubico: ciclo di Hamilton differente da quello dato e il suo inverso*

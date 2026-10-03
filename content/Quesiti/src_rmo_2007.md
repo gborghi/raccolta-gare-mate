@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra angolo CED > 45 in triangolo acuto con angolo bisector e altitudine*
@@ -52,7 +52,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova c+d è la somma di due quadrati data la condizione gcd sui numeri naturali*
@@ -79,7 +79,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le coppie reali (a,b) così una radice di x^2+ax+b implica a^2-2 è anche radice*
@@ -110,7 +110,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a 6 cifre con cifre di {1,2,3,4,5} che appaiono almeno due volte *
@@ -141,7 +141,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezio inserito in cerchio, diagonali che si incontrano a M con OM=2; trovare differenza di lati paralleli*
@@ -171,7 +171,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove le disuguaglianze che confrontano n con la somma delle sue radici per n>=9*

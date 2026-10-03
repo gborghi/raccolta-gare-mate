@@ -36,7 +36,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Applicazione di funzione iterata 2004 volte da una tabella.*
@@ -73,7 +73,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza EF di due punti su un semicircolo i cui piedi sul diametro si trovano a distanze 1 e 8 da A.*
@@ -106,7 +106,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'angolo interno più grande di un triangolo con lati 12, 15, 20.*
@@ -139,7 +139,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di divisori della somma dei sei numeri a tre cifre formati da tre cifre distinte non a zero.*
@@ -172,7 +172,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Auto-referenziale: il prodotto dei numeri nelle alternative errate è un cubo perfetto.*
@@ -205,7 +205,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nello più piccolo in modo che qualsiasi sottoinsieme di n di {1,...,20} contenga due numeri diversi di 8.*
@@ -242,7 +242,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra più vicina a-b per due somme finite di quadrati su denominatori unici.*
@@ -275,7 +275,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo per la sabbia nella parte superiore del cono per raggiungere una determinata frazione di altezza in un orologio di sabbia a doppio cono.*
@@ -307,7 +307,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta f(0) di una funzione interiore che soddisfa f(n) - n+1)
@@ -340,7 +340,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di set di numeri {a,b,c} i cui sei numeri a due cifre si sommano a 484.*
@@ -373,7 +373,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di facce gialle su cinque cubetti bicolori data la probabilità di 1/2 di esattamente due cime gialle.*
@@ -408,7 +408,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per quanti integri positivi m è 2004/(m^2-2) un intero positivo.*
@@ -443,7 +443,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza totale del percorso di un raggio luminoso che riflette tra due specchi a 30 gradi.*
@@ -478,7 +478,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca n dalla fattorizzazione primaria di n!.*
@@ -510,7 +510,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Misura (in radiani) dell'angolo BXC per un quadrato costruito esternamente su un lato di un setttagone regolare.*
@@ -543,7 +543,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieme di radici reali di un'equazione con radici quadrate incastonate.*
@@ -578,7 +578,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area del triangolo ABM in cui M è su AD e BMC è un triangolo rettangolo non isosceles; AB=2, CD=4, BC=6.*
@@ -616,7 +616,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'altezza di una pila di banconote di cruzado pari a un salario di 640 reali, dato il tasso di conversione.*
@@ -657,7 +657,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo di 0,8 m di cubetti impilati in un angolo che una persona di 1,80 m di distanza può vedere attraverso una porta di vetro.*
@@ -696,7 +696,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di palo di fiammifero per costruire un sistema di 32 esagoni.*
@@ -731,7 +731,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La media di classe più piccola e più grande possibile data dalla media delle 10 classi peggiori (3) e 10 migliori (9) di 30 classi.*
@@ -771,7 +771,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Puzzle logico: determinare quale scatola contiene la moneta da indizi di posizione sinistra/destra.*
@@ -808,7 +808,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato perfetto a due cifre N i cui numeri raddoppiati danno un quadrato perfetto a quattro cifre; somma di numeri di N.*
@@ -843,7 +843,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di volte in cui la stringa '21' appare quando i numeri interi da 1 a 999 sono concatenati.*
@@ -876,7 +876,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di integri positivi n che possono essere pesati in uno pesante su un equilibrio a due pannelli con 1, 3, 10 kg di peso posizionati su entrambe le pannelle.*

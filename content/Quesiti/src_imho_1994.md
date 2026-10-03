@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Elementi distinti di {1..n} con condizione sulla somma a coppie*
 
 > Siano $m$ e $n$ numeri interi positivi. Siano $a_1, a_2, \ldots, a_m$ elementi distinti di $\{1, 2, \ldots, n\}$ tali che, ogni volta che $a_i + a_j \le n$ per alcuni $i, j$, $1 \le i \le j \le m$, esiste $k$, $1 \le k \le m$, con $a_k = a_i + a_j$. Si dimostri che
 > $$a_1 + a_2 + \cdots + a_m \ge \frac{n+1}{2}.$$
-
-
 
 [[Quesiti/src_imho_1994#q01|src_imho_1994__Q01]]
 
@@ -62,6 +61,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo isoscele ABC con AB = AC; condizione di perpendicolarità*
 
 > Sia $ABC$ un triangolo isoscele con $AB = AC$. Si supponga che:
@@ -71,8 +71,6 @@ level: IMO
 > 3. $E$ appartenga alla retta $AB$ e $F$ appartenga alla retta $AC$ in modo che $E$, $Q$, $F$ siano distinti e allineati.
 >
 > Si dimostri che $OQ$ è perpendicolare a $EF$ se e solo se $QE = QF$.
-
-
 
 [[Quesiti/src_imho_1994#q02|src_imho_1994__Q02]]
 
@@ -98,6 +96,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Rappresentazioni binarie con esattamente tre 1; esistenza di k*
 
 > Per ogni intero positivo $k$, sia $f(k)$ il numero di elementi nell'insieme $\{k+1, k+2, \ldots, 2k\}$ la cui rappresentazione in base $2$ contiene esattamente tre cifre uguali a $1$.
@@ -105,8 +104,6 @@ level: IMO
 > (a) Si dimostri che, per ogni intero positivo $m$, esiste almeno un intero positivo $k$ tale che $f(k) = m$.
 >
 > (b) Determinare tutti gli interi positivi $m$ per i quali esiste esattamente un $k$ tale che $f(k) = m$.
-
-
 
 [[Quesiti/src_imho_1994#q03|src_imho_1994__Q03]]
 
@@ -132,13 +129,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie ordinate (m,n) di interi positivi tali che (n^3+1)/(mn-1) sia intero*
 
 > Determinare tutte le coppie ordinate $(m, n)$ di interi positivi tali che
 > $$\frac{n^3 + 1}{mn - 1}$$
 > sia un numero intero.
-
-
 
 [[Quesiti/src_imho_1994#q04|src_imho_1994__Q04]]
 
@@ -164,13 +160,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Equazione funzionale sui numeri reali maggiori di -1*
 
 > Sia $S$ l'insieme dei numeri reali strettamente maggiori di $-1$. Determinare tutte le funzioni $f: S \to S$ che soddisfano le seguenti due condizioni:
 > 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ per ogni $x$ e $y$ appartenenti a $S$;
 > 2. $\dfrac{f(x)}{x}$ è strettamente crescente in ciascuno degli intervalli $-1 < x < 0$ e $0 < x$.
-
-
 
 [[Quesiti/src_imho_1994#q05|src_imho_1994__Q05]]
 
@@ -194,10 +189,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Sia A un insieme di interi positivi; il prodotto delle sottopotenze con k elementi è un prodotto di k numeri primi*
 
 > Si dimostri che esiste un insieme $A$ di interi positivi con la seguente proprietà: per ogni insieme infinito $S$ di numeri primi, esistono due interi positivi $m \in A$ e $n \notin A$ tali che ciascuno di essi è prodotto di $k$ elementi distinti dell'insieme $S$, per un certo $k \ge 2$.
-
-
 
 [[Quesiti/src_imho_1994#q06|src_imho_1994__Q06]]

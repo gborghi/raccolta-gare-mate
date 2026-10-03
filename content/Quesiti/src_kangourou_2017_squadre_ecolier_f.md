@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product of two consecutive pages with a sum of 37*
@@ -59,7 +59,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between the largest and smallest sweet number*
@@ -92,7 +92,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time marked by Anna's counterclock*
@@ -123,7 +123,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *More left in Ada and Gino*
@@ -161,7 +161,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value D in the multiplication table*
@@ -193,7 +193,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Within the ages Daniela is 16*
@@ -245,7 +245,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inner segments in square rectangle 40x30*
@@ -296,7 +296,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coins in the savings bank to complete the square figures*
@@ -330,7 +330,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Holidays in 2017 (4 months, first minor)
@@ -364,7 +364,7 @@ Holidays in 2017 (4 months, first minor)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most number of fish caught by Martina (linked sum) *
@@ -394,7 +394,7 @@ Holidays in 2017 (4 months, first minor)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number corresponds to how many times and written*
@@ -427,7 +427,7 @@ Holidays in 2017 (4 months, first minor)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times do the digital clock entries match*
@@ -461,7 +461,7 @@ Holidays in 2017 (4 months, first minor)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many white cubes along the large cube's tips*
@@ -497,7 +497,7 @@ Holidays in 2017 (4 months, first minor)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Working days still needed to clean up the park*
@@ -537,7 +537,7 @@ Holidays in 2017 (4 months, first minor)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of all the non-performing loans of the financial instrument.

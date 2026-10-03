@@ -30,7 +30,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti ciclici e tipo triangolo da sei punti speciali*
@@ -63,7 +63,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza reale periodica definita da ricorrenza a pezzi*
@@ -96,7 +96,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallepiped rettangolari, tetraedri con facce triangolari rettangolari e tetraedri a stampo uguale*
@@ -131,7 +131,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di $f(x)=x^x$ su valori positivi; prova $x^y + y^x > 1$*
@@ -164,7 +164,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri con $k$ termini distinti che si sommano a valori distinti inferiori a $n$*

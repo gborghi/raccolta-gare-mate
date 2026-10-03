@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi tangenti reciprocamente con tangente comune: dimostrare la disuguaglianza*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le squadre di hockey: trovare la catena più grande Benjamin può sempre garantire
@@ -80,7 +80,7 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale ciclico: PQ perp AC implica PQ perp BD*
@@ -107,7 +107,7 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prima p con p^2 = a^3 + b^2: dimostra divisibilità o risultato di fattorizzazione*

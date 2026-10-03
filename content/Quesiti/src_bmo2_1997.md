@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *intere di 9 cifre M e N: sostituzioni di cifre sempre divisibili per 7*
@@ -61,7 +61,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con media uguale altitudine e angoli uguali implica equilaterale*
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare polinomi di grado-5 con coefficienti distinti divisibili da x2−x+1*
@@ -119,7 +119,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Progressioni aritmetiche massime in reciprocità di numeri interi positivi*

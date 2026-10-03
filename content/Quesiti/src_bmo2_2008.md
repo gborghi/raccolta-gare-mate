@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di x^2+y^2+z^2 soggetto a x^3+y^3+z^3-3xyz=1.*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con incentro I e circoncentro O, angolo AIO=90 e CIO=45; trovare AB:BC:CA.*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina il raggio di un cerchio sconosciuto (raggio di un intero positivo al massimo 2008, origine all'interno) utilizzando al massimo sessanta domande di appartenenza all'interno/all'esterno.*
@@ -107,7 +107,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Prova che ci sono infinite coppie di diversi integri positivi x,y con x^3+y^2 dividendo x^2+y^3.

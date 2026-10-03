@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of minimum n with 7n of 2021 digits*
@@ -62,7 +62,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Special position numbers in the grid 2020x2020*
@@ -97,7 +97,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integrated pairs (x,y) with x^2+7y=xy*
@@ -126,7 +126,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Comparison between 129^29 and 4095^17
@@ -156,7 +156,7 @@ Comparison between 129^29 and 4095^17
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alignment of M,N,P in the triangle with inclination*
@@ -192,7 +192,7 @@ Comparison between 129^29 and 4095^17
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Limited sums of succession cubes converging to 0*

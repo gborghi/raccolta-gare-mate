@@ -31,7 +31,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sconto percentuale equivalente di un'offerta di acquisto a prezzo uno-ottenere uno-mezza-prezzo*
@@ -60,7 +60,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Filma di trasparenza del 70% sul vetro del 90%: riduzione totale delle radiazioni*
@@ -91,7 +91,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sei rettangoli identici formano un rettangolo più grande di 21 cm di altezza; trovare area*
@@ -122,7 +122,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La differenza tra un miliardo di milioni e mille di milioni
@@ -152,7 +152,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *libro di 600 pagine stampato in bianco su pagine il cui numero è un multiple di 3 o 4; contare le pagine stampate*
@@ -185,7 +185,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di tutto il platino prodotto in 50 anni (densità 21,45 g/cm3, 110 t/anno); oggetto più vicino *
@@ -215,7 +215,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza in cui ogni termine dal terzo è la somma dei due precedenti; data 2nd=1, 5th=2005, trova 6th*
@@ -246,7 +246,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Puzzle di equilibrio: le figure di forma uguale hanno massa uguale; quanti quadrati bilanciano l'ultima scala*
@@ -277,7 +277,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Treici reali non-zero, più positivi che negativi; 22 dei 78 prodotti in coppia sono negativi; quanti sono negativi*
@@ -308,7 +308,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rete pieghevole di cartone costituisce una scatola rettangolare; trova il suo volume*
@@ -343,7 +343,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quando l'addizione è distributiva sulla moltiplicazione: a+(b*c)=(a+b)*(a+c)*
@@ -373,7 +373,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dicerture incrociate di origine di Paulistas/Baianos; tra tutte, il 20% afferma di Paulista; trova la percentuale vera di Paulistas*
@@ -404,7 +404,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli equilaterali in piedi su una linea con angoli di base 75 e 65; trovare angolo superiore x*
@@ -436,7 +436,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integri O,B,M con tre equazioni prodotto/somma; trovare O+B+M*
@@ -467,7 +467,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Saldi di serratore uguali a pezzi a forma di S (10,5,5,10 cm) utilizzando 20 m di bastone; il cui disegno è l'estremità del pannello*
@@ -498,7 +498,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di mesi in un anno che possono avere cinque domeniche*
@@ -527,7 +527,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri di conteggio compresi tra 10 e 13000 di cifre consecutive in ordine crescente*
@@ -560,7 +560,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rally driver: gambe 240,300,400 km a velocità di 40,75,80 km/h in ordine sconosciuto; tempo totale garantito*
@@ -591,7 +591,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli più piccoli di uguale raggio r, centri a vertici di un quadrato, all'interno di un cerchio più grande; rapporto di aree grigie a/b*
@@ -623,7 +623,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Classe di 9 studenti, >=1 brasiliano; ogni 4 condividono una nazionalità, ogni 5 hanno <=3 di uno; quanti brasiliani*
@@ -653,7 +653,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'orologio fa un plim ogni volta che una mano supera un'altra; conta i plini tra le 12h00m01 e le 23h59m59*
@@ -684,7 +684,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea PQ tangente a N per circolare attraverso L,M,N; LM incontra PQ a R; LM=LN, angolo PNL=alfa<60; trova angolo LRP*
@@ -718,7 +718,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri interi positivi x,y che soddisfano un'equazione radicale nidificata; trovare un possibile valore di y*
@@ -749,7 +749,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare i numeri scelti da 1,10 in cerchi bianchi in modo che la somma dei vicini sia un quadrato perfetto; 2 dato; trovare la somma totale*
@@ -781,7 +781,7 @@ La differenza tra un miliardo di milioni e mille di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 * blocco 1x2x3 laminato su una tavola 8x8 con le facce X, Y, Z in ordine verso il basso; quante cellule distinte sono state toccate*

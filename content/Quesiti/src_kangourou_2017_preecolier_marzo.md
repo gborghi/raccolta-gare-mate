@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Who caught the fish following the ropes *
@@ -82,7 +82,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many five-pointed stars in the figure *
@@ -126,7 +126,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of children from three cherry pie*
@@ -170,7 +170,7 @@ level: kangourou
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many parts the scissor cuts the wire *
@@ -212,7 +212,7 @@ level: kangourou
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What is the design of the butterfly with the stickers*
@@ -252,7 +252,7 @@ level: kangourou
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bricks to complete the igloo*
@@ -290,7 +290,7 @@ level: kangourou
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What collagen did Lydia make*
@@ -332,7 +332,7 @@ level: kangourou
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number was not used in the equality*
@@ -376,7 +376,7 @@ level: kangourou
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bears for two trains with shrimp*
@@ -414,7 +414,7 @@ level: kangourou
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where's Jim after the ride?
@@ -453,7 +453,7 @@ Where's Jim after the ride?
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangles in Figure *
@@ -491,7 +491,7 @@ Where's Jim after the ride?
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the figure at C after six rotations*
@@ -527,7 +527,7 @@ Where's Jim after the ride?
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which dish the apple-carrot-pear ratio *
@@ -565,7 +565,7 @@ Where's Jim after the ride?
 **Fonte:** [apri PDF p.14](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many children behind William in the line?
@@ -603,7 +603,7 @@ How many children behind William in the line?
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 That's the time it was two and a half hours ago.
@@ -641,7 +641,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sheets to make three crowns*
@@ -690,7 +690,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number hidden by the stain in the additions*
@@ -732,7 +732,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cows to double the animal ratio*
@@ -770,7 +770,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure is attached to the two forms*
@@ -808,7 +808,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum minutes to make 30 kangaroo jumps*
@@ -846,7 +846,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which stamp printed the image*
@@ -884,7 +884,7 @@ That's the time it was two and a half hours ago.
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What's written on the last lock?
@@ -929,7 +929,7 @@ What's written on the last lock?
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What toy in the gray compartment*
@@ -969,7 +969,7 @@ What's written on the last lock?
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What image is seen without cutting the rope?

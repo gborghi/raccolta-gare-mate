@@ -27,7 +27,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca soluzioni di numeri interi non negativi all'equazione diofantina esponenziale*
@@ -56,7 +56,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli con lati correlati; dimostrare angolo rettangolo e trovare angoli*
@@ -83,7 +83,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cerchi reciprocamente tangenti; dimostrare che una linea è una tangente comune*
@@ -114,7 +114,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i reali positivi che soddisfano due equazioni simmetriche in quattro variabili*

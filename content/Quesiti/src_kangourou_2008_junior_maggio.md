@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits in the sum of 9+99+...+999..9 (2008) *
@@ -57,7 +57,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of sub-sets with odd number of elements*
@@ -89,7 +89,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding an infinite set of imperfections*
@@ -120,7 +120,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum straight for all angles of 10.90 degrees*
@@ -148,7 +148,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *There are three points with an empty circle inside*
@@ -179,7 +179,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 There is a line that intersects all polygons

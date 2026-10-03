@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colorations of pentagon sides with 3 colours, different consecutive sides*
@@ -60,7 +60,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of triangle side less than 40 and greater than 101*
@@ -93,7 +93,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Square side inscribed in a circle with a large square*
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dispositions numbered 1-9 on a triangular chessboard with constraints*
@@ -160,7 +160,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum ab with 2069 number of Frobenius*
@@ -191,7 +191,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the securities held by the issuer of the securities.
@@ -221,7 +221,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of mcm(k,8) per k from 1 to 136*
@@ -256,7 +256,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability MCD=1 of three extractions with reintroduction from 1-9*
@@ -291,7 +291,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences of 6 0-18 cyclic codes with remaining sum 3 mod 19*
@@ -325,7 +325,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of central and square diamond areas with 1/3 points *
@@ -367,7 +367,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of BMF and BSQ triangle areas in tangent configuration*
@@ -404,7 +404,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Simpson's paradox, minimum ratio of under 50 to MathVillain
@@ -438,7 +438,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle with BEFM conic points, ACB angle*
@@ -469,7 +469,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MCD of all numbers 1^n+...+999^n*
@@ -502,7 +502,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lupin-Jig distance with baricenter and boundary*
@@ -545,7 +545,7 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nim asymmetric game winning values on 2023 matches*

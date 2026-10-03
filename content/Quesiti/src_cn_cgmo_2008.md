@@ -31,7 +31,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisioni di set in sottoinsiemi di 3 elementi con somme di elementi uguali*
@@ -65,7 +65,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubico con tre radici positive: prova la disuguaglianza dei coefficienti *
@@ -97,7 +97,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più piccolo a>1 per i rapporti di area triangolare all'interno di un quadrato*
@@ -132,7 +132,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli equalaterali su lati quadrati convexi; massimizzazione del rapporto y/x*
@@ -166,7 +166,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali di kit con punti conciclici e triangoli simili; dimostrare tre punti collineari*
@@ -200,7 +200,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri positivi con ricorrenza; trovare la soglia di monotonia a*
@@ -231,7 +231,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio armonico 2008x2008 scacchi pieni di quattro lettere*
@@ -261,7 +261,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove the sequence floor(2^n*sqrt(2008))+floor(2^n*sqrt(2009)) ha infiniti termini odd e even*

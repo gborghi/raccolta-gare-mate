@@ -8,9 +8,9 @@ level: kangourou
 ---
 <div class="atom-reader" data-gara="Quesiti/src_kangourou_2026_benjamin_finale"></div>
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,skill_casework_accurato"></span>
 
 *Tre sospettati, uno dice il vero*
 
@@ -22,9 +22,9 @@ level: kangourou
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
 *Differenza di peso tra sacchi da terne 50 o 60*
 
@@ -36,9 +36,9 @@ level: kangourou
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
 
 *Resto modulo 10 dati resti modulo 5 e 4*
 
@@ -50,9 +50,9 @@ level: kangourou
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Area del quarto quadrilatero in un quadrato*
 
@@ -64,9 +64,9 @@ level: kangourou
 **Risposta:** 280
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 *Centri dei quadrati esterni a un rettangolo*
 
@@ -78,9 +78,9 @@ level: kangourou
 **Risposta:** è un quadrato
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
 
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 *Estrazione di biglie per almeno 20 dello stesso colore*
 
@@ -92,4 +92,3 @@ level: kangourou
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 46, tutte
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
-

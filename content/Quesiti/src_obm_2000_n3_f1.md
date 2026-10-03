@@ -35,7 +35,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'espressione più grande per i valori reali positivi x,y*
@@ -77,7 +77,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo di quadrato costruito al di fuori di un pentagono regolare*
@@ -122,7 +122,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ratio di distanze orizzontali a verticali in figura a punti*
@@ -167,7 +167,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max numeri conservati in modo che nessuno sia la differenza di altri due*
@@ -210,7 +210,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Comparizione di (a+1)/(b+1) con a/b quando a/b<1*
@@ -255,7 +255,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(x+y)=x+f(y), trovare f(2000) *
@@ -302,7 +302,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Puzzle logico: cinque carte facciate verso il basso che sommano a 13, dedurre la carta centrale*
@@ -345,7 +345,7 @@ level: OBM Nível 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
@@ -388,7 +388,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte min tratte da 100-999 per garantire somme di tre cifre uguali*
@@ -431,7 +431,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri interi positivi x con piano(x/3)+piano(x/5)... =10*
@@ -476,7 +476,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Legge triangolare dei numeri odd nelle celle bianche; trovare il termine 2000*
@@ -521,7 +521,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi di due classi dopo il passaggio dell'ultimo di classe A alla classe B*
@@ -566,7 +566,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radius del cerchio esterno nel logo dei cerchi tangenti, interno r=1*
@@ -610,7 +610,7 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
@@ -653,7 +653,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due numeri a due cifre la cui somma è il doppio dei loro numeri *
@@ -696,7 +696,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due nuotatori che attraversano una piscina; contano i passaggi in 12 minuti*
@@ -739,7 +739,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum somma dei quadrati di due naturali la cui differenza è di 29*
@@ -782,7 +782,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare interi positivi inferiori a 1000000 i cui cubetti terminano in 1*
@@ -827,7 +827,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i rettangoli con vertici A,B tra le intersezioni della linea della griglia 9x9*
@@ -869,7 +869,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione della bandiera incollata sull'attrezzatura più a destra di una catena di magliatura*
@@ -910,7 +910,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rapporto tra superficie ordinaria dell'esagono e superficie del triangolo equilaterale ABC*
@@ -955,7 +955,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I figli del conte emir sono stati nidificati "escluse 39" con condizioni gemelle/triplici*
@@ -997,7 +997,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Velocità media su un viaggio di 60 km con un tratto lento di traffico *
@@ -1040,7 +1040,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso somma dei coefficienti indicizzati pari di un polinomio di grado-2000*
@@ -1083,7 +1083,7 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri a tre cifre con una cifra uguale alla media delle altre due*

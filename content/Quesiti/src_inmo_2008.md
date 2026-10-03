@@ -26,7 +26,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riflessi di incentro conciclico con incentro di triangolo riflesso*
@@ -53,7 +53,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli naturali primari che soddisfano p^x = y^4 + 4*
@@ -80,7 +80,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set con a^2+bc razionale implica un *sqrt(M) razionale per tutti gli elementi*
@@ -107,7 +107,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La rete di numeri interi a tre colori contiene sempre un triangolo rettangolare con tutti e tre i colori*
@@ -134,7 +134,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La linea OI passa attraverso il centro del cerchio tangente a tre cerchi con iscrizioni uguali*
@@ -161,7 +161,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pollinomio intero P(x) ammette moltipli che sono polinomi in x^2 e x^3*

@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale con punto interno; somma delle distanze quadrate pari al doppio dell'area implica quadrato*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero nella base 2 con esattamente tre cifre a una cifra; prova le condizioni di parità*
@@ -80,7 +80,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Doppia disuguaglianza per somme parziali; prova i limiti utilizzando AM-GM per n>2*
@@ -107,7 +107,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza per relazione di ricorrenza; descrivere il comportamento come n tende all'infinito*
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Elissa di sezione incrociata conica; trovare la condizione per la intersezione di due percorsi di superficie*
@@ -161,7 +161,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare sequenze binarie di lunghezza n con esattamente m zero*

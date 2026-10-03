@@ -30,7 +30,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Definition of the subadditive integer function
@@ -59,7 +59,7 @@ Definition of the subadditive integer function
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Prove three lines through midpoints and reflected touch-points concurrent
@@ -92,7 +92,7 @@ Prove three lines through midpoints and reflected touch-points concurrent
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Decreasing sequence sums of squared ratios bounded near 4*
@@ -127,7 +127,7 @@ Prove three lines through midpoints and reflected touch-points concurrent
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Cubic Diophantine equation has at least three integer solutions
@@ -158,7 +158,7 @@ Cubic Diophantine equation has at least three integer solutions
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find ratio r making B, M, N hillinear in hexagon*
@@ -184,7 +184,7 @@ Cubic Diophantine equation has at least three integer solutions
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Path covering square boundary has two close far-apart points

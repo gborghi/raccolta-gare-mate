@@ -30,7 +30,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due passeggeri partono contemporaneamente l'uno verso l'altro; trovare il tempo di viaggio di ciascun passeggero*
@@ -63,7 +63,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Panel a quadri in 4 colori; quale colore copre la più grande area?*
@@ -92,7 +92,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *8×8 tabella con vicinanza-differenza 1, voci 17 e 3 presenti; trovare la somma delle diagonali principali*
@@ -123,7 +123,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro uccelli a uguale distanza dal posto di osservazione; trovare la distanza data BD=16 e l'angolo BAD=45°*
@@ -154,7 +154,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a partire da 7; ogni termine successivo è la somma digitali del termine precedente al quadrato, più 1; trovare l'elemento 2002*
@@ -187,7 +187,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anni palindromici: i prossimi quattro dopo il 2002, il prossimo palindromice odd, il prossimo palindromice primario dopo il 929*

@@ -26,7 +26,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le persone in sedie circolari si muovono ogni passo non più di un passo; massimizzare il numero totale di passi*
@@ -53,7 +53,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integrazioni su tavolo nero chiuse in coppie; trovare valore massimo espressibile come somma di due*
@@ -82,7 +82,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nomeri reali sulle vertici di (2n+1)-gon regolare; somme adiacenti non negative; prova nS+(n+1)T≥0*
@@ -109,7 +109,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due curve non intersezionate in piano xy; 5 punti scelti; ridurre al minimo la superficie rettaangulare massima allineata all'asse*
@@ -136,7 +136,7 @@ level: JJMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con centro ortografico; quattro intersezioni di circoncircolo-altitudine sono concicliche*

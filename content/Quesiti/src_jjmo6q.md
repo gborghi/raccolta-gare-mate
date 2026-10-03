@@ -27,7 +27,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un'espressione aritmetica con prodotti*
@@ -54,7 +54,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max × 1004 ×1005 ×... ×2008 è divisibile per 2 *
@@ -83,7 +83,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'angolo BFD su un cerchio con sei archi uguali e angolo ACE=68°*
@@ -114,7 +114,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prezzi da pagare con monete di 1000, 100, 10, 1 yen minimizzando la variazione*
@@ -145,7 +145,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area del triangolo CBE in quadrato unitario con un cerchio inciso tangente a CE*
@@ -176,7 +176,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i record di vittorie/perdite in tornei di 6 giocatori in cui tutti i totali di vittorie differiscono*
@@ -205,7 +205,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare triples (a,b,c) di numeri interi positivi con lcm 720, tutti diversi*
@@ -234,7 +234,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca le dimensioni delle classi date le restrizioni e i numeri di coltivazione di tulipani 52, 64*
@@ -267,7 +267,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rondate min per la riunione di scambio di regali per ragazzi e ragazze del 2008*
@@ -302,7 +302,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove X<Y per le aree condivise tra quadrati che si sovrappongono sulla griglia 3×3*
@@ -345,7 +345,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore m×n griglia rosso/blu/nero in modo che ogni colore sia vicino agli altri; trovare valido (m,n) *

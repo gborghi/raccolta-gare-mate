@@ -30,7 +30,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisibilità per 13 da un'identità di prodotto*
@@ -67,7 +67,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riducimento del colore dei marmi rimossi da una scatola*
@@ -99,7 +99,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Percentuale di polpa dopo miscelazione di succo e acqua*
@@ -131,7 +131,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Differenza tra un miliardo e un milione di milioni
@@ -164,7 +164,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sesto termine di una sequenza in cui ogni termine è uguale alla somma di due precedenti*
@@ -196,7 +196,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di api se 10 galloni sono condivisi tra 7 milioni di chilometri di viaggi*
@@ -228,7 +228,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa della popolazione tre anni fa data l'attuale crescita *
@@ -261,7 +261,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valutazione della perdita derivante da una frazione delle entrate totali delle colture*
@@ -294,7 +294,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pagine vuote in un libro di 600 pagine stampato in multipli di 3 e 5*
@@ -328,7 +328,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di un grande rettangolo formato da sei piccoli rettangoli identici*
@@ -365,7 +365,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Immagine speculare dell'orologio che mostra 2h23min*
@@ -401,7 +401,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fraczione di piastra decorativa quadrata dipinta*
@@ -435,7 +435,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riduzione della trasparenza combinando due strati di film solare*
@@ -469,7 +469,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo x tra due triangoli equilaterali che condividono un lato*
@@ -506,7 +506,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Finalità di un pannello a striscia metallica ripetuta*
@@ -545,7 +545,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri in cerchi bianchi con restrizioni adiacenti e quadrate*
@@ -583,7 +583,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di quadrati necessari per bilanciare l'ultima scala*
@@ -618,7 +618,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di due sedie consecutive a due cifre di quadrato perfetto numerate*
@@ -651,7 +651,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nombre massimo di mesi in un anno con cinque domeniche*
@@ -684,7 +684,7 @@ Differenza tra un miliardo e un milione di milioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colori minimi per dipingere la griglia 3x3 senza ripetizione di righe/colonne/diagonali*

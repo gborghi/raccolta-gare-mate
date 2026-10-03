@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of number of cats and dogs*
@@ -69,7 +69,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 With how many companions did the fourth girl dance?
@@ -126,7 +126,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Skyled hexagonal perimeter (star) *
@@ -185,7 +185,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many letters to deliver (odd numbers) *
@@ -222,7 +222,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Black square area (subdivisions) *
@@ -266,7 +266,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of four distinct integers with product 100*
@@ -302,7 +302,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many children with 9 adults in an elevator*
@@ -340,7 +340,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which weights do not have a single piece (parity) *
@@ -379,7 +379,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Litres in the half-sized container*
@@ -417,7 +417,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *QPR angle measurement (isosceles triangles) *
@@ -455,7 +455,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of N with square and cube with same number of digits*
@@ -502,7 +502,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum points to be removed for any aligned terns*
@@ -567,7 +567,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smallest angle in the acute triangle *
@@ -605,7 +605,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded region area (square area 1) *
@@ -644,7 +644,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many liars in the 25th row (sincere/liars) *
@@ -684,7 +684,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of all numbers on the vertices of the solid*
@@ -724,7 +724,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many values of O*T*T*O (criterion) *
@@ -795,7 +795,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What colours the shaded cell is in (4 colours) *
@@ -834,7 +834,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure the angle X by extending two sides (9-agons) *
@@ -878,7 +878,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squares for the tenth drawing of the sequence*
@@ -921,7 +921,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many bars to return to P (right/left) *
@@ -958,7 +958,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ten-digit numbers with adjacent digits that differ by 1*
@@ -1012,7 +1012,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which height corresponds to 1/4 (between 1/5 and 1/3) *
@@ -1054,7 +1054,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eight parallel-piped area ratio on a cube*
@@ -1091,7 +1091,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N quantities with maximum divisor = 45 times the minimum*
@@ -1128,7 +1128,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum side length for 2009 whole squares*
@@ -1165,7 +1165,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which angles of the quadrilateral are < 180 degrees*
@@ -1203,7 +1203,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the triangle (overlapping with the square) *
@@ -1247,7 +1247,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum alignable numbers (adjacent divisibility) *
@@ -1293,7 +1293,7 @@ With how many companions did the fourth girl dance?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differential BC-AB (long biset 2) *

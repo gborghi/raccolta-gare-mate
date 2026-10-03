@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie quadrate perfette a quattro cifre che differiscono di una su due cifre*
@@ -59,7 +59,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolo f  1996) dato f  1) = 1996 e condizione somma ricorrente *
@@ -88,7 +88,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove CO perpendicolare al PQ utilizzando un cerchio attraverso A, O, B*
@@ -119,7 +119,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina tutte le n con q(n) > q(n+1) dove q(n) = piano(n/piano(sqrt n))*
@@ -148,7 +148,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova 4(a^3+b^3) >= (a+b)^3 e 9(a^3+b^3+c^3) >= (a+b+c)^3*

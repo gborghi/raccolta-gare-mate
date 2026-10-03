@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove x è razionale dato x^5 e 20x+19/x sono razionali.*
@@ -52,7 +52,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le linee del centroide incontrano il circoncircolo; condizioni di angolo uguale forzano i triangoli equilaterali.*
@@ -80,7 +80,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra una disuguaglianza per i reali positivi con a+b+c=1.*
@@ -110,7 +110,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Estendere un array 3xk utilizzando 1..3k così le somme di fila e le somme di fila di quadrati sono tutte uguali.*
@@ -136,7 +136,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il segmento di visualizzazione che unisce i punti medi di EF, i piedi correlati sul DF dà XM perpendicolare a MY.*
@@ -163,7 +163,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra 91 numeri interi distinti >1 con >=456 copriemi copriemi, trovate quattro con gcd ciclico in coppia 1.*

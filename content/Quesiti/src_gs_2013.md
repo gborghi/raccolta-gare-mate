@@ -38,7 +38,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of letters of the winner from seven (one says the truth) *
@@ -73,7 +73,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum perimeter after two foldings at the end of a sheet*
@@ -110,7 +110,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Q-p difference per fraction of five-digit codes*
@@ -143,7 +143,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the extended triangle extending the sides of a trapezoid*
@@ -179,7 +179,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lists of four letters with a topological value equal to PDOR*
@@ -213,7 +213,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *White surface of a coat of arms with parallel cross*
@@ -247,7 +247,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of rows of numbers with a double value*
@@ -279,7 +279,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of a beam dividing a trapezoid into two equivalents*
@@ -315,7 +315,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many times a_i is 0 with coefficients and powers of -1*
@@ -356,7 +356,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of f(49/2) for a rational additive function*
@@ -405,7 +405,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in box 5 from true/false speaking boxes*
@@ -438,7 +438,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Date where the area of a rectangular triangle exceeds 1500*
@@ -474,7 +474,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of original pages with torn sheet and date sum*
@@ -510,7 +510,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Q-p difference in the 6-box game of the simple goose*
@@ -542,7 +542,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last three digits of an iterated sub-multiplicate product*
@@ -572,7 +572,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum product p *q of prime with three conditions of prime*
@@ -599,7 +599,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between two cylindrical propeller routes*
@@ -625,7 +625,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of dice in a rectangle with face sum rule 6*
@@ -651,7 +651,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final distance after increasing jumps of 45 degrees (spiral) *
@@ -677,7 +677,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of offices in a building with logical constraints*
@@ -704,7 +704,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangles of 1m perimeter with vertices on a 10x10 grid*
@@ -730,7 +730,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of the ship from the west lighthouse at equal angles*
@@ -757,7 +757,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of convex polyester at the contact points of two rings*
@@ -783,7 +783,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1H80G4K_q1zRkbI78TipCwUTFukBu63sh/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of death in the 14th minute (ball in the groin) *

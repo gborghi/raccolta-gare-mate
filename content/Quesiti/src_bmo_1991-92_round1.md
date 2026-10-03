@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri non zero di n contro n2; casi a due o tre cifre*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCDE pentagono inciso in cerchio con lati paralleli: deve essere regolare?*
@@ -86,7 +86,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca quattro (o più) numeri interi positivi distinti il cui prodotto è divisibile da ogni somma in coppia*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimizzare x2+5y2+8z2 soggetto a yz+zx+xy=−1; esiste un massimo?*
@@ -146,7 +146,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f: Z+→Z+ in aumento rigido con f(n))=3n; ritrovare f(1992)*

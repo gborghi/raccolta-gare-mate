@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il divisore più piccolo che dà il rimanente 114*
@@ -57,7 +57,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'insieme di 5 quadrati congruenti confezionati in rettangolo 8 x 7*
@@ -87,7 +87,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottosette di 1..2001 con somma impar*
@@ -115,7 +115,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radiale del triangolo AFE con triangolo equilaterale inciso*
@@ -143,7 +143,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Somma dei poteri del 2001 mod 13
@@ -171,7 +171,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maxima distanza dal punto fisso alla linea PQ con superficie quadrilaterale fissa*
@@ -205,7 +205,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare quadrati latini 4x4 con condizione di blocco 2x2*
@@ -237,7 +237,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rede reali comuni di due equazioni polinomiche*
@@ -264,7 +264,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'angolo BAC dato AB=CD e il bisettore d'angolo *
@@ -292,7 +292,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regioni tagliate di 10 piani in posizione generale*
@@ -320,7 +320,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare n a 3 cifre con S(6n) >= 12 S(n) *
@@ -350,7 +350,7 @@ Somma dei poteri del 2001 mod 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min S per una griglia 5x9 sommata a 1 con blocchi 2x3 delimitati*

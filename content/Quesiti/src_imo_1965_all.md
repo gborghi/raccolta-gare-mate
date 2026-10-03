@@ -27,7 +27,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solves trig inequality with abs value on [0,2pi]*
@@ -92,6 +92,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che un sistema 3x3 diagonalmente dominante ha solo la soluzione nulla*
 
 > 1965/2.
@@ -117,8 +118,6 @@ level: IMO
 > 1965/6.
 > In un piano è dato un insieme di n punti (n ≥ 3). Ogni coppia di punti è congiunta da un segmento. Sia d la lunghezza del più lungo di questi segmenti. Chiamiamo diametro dell'insieme ogni segmento che congiunge due punti e ha lunghezza d. Si dimostri che il numero di diametri dell'insieme dato è al più n.
 
-
-
 [[Quesiti/src_imo_1965_all#q02|src_imo_1965_all__Q02]]
 
 
@@ -138,7 +137,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume ratio of tetrahedron cut by plane parallel to skew edges*
@@ -164,7 +163,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Find four real where each plus product of other three is 2*
@@ -191,7 +190,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Locus of orthocenter H of pedal triangle OPQ*
@@ -217,7 +216,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prove number of diameters of n-point set is at most n*

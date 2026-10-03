@@ -28,7 +28,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *12 sedie numerate, salti di scarafaggio esattamente 4 numeri*
@@ -59,7 +59,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Compare due somme A e B che comportano reciprocità*
@@ -88,7 +88,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n uguali alla somma dei quadrati dei suoi due più piccoli divisori*
@@ -115,7 +115,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le vere a tali che le espressioni del pavimento siano numeri interi*
@@ -142,7 +142,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due punti su un semicircolo di diametro AD con AB=BC=1, trovi CD*
@@ -173,7 +173,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la N più piccola con 125 elementi distinti che soddisfano due condizioni*
@@ -202,7 +202,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD trapezoide, diagonali che si incontrano a E, linea attraverso E parallela ad AB che si incontrano ad AD a F, angolo di mostra BFC=90*
@@ -229,7 +229,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tre barre tagliate in pezzi; Daphne può garantire un triangolo di ogni colore?

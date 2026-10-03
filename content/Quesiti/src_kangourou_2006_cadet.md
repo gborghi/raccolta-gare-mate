@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of the sub-unit shall be the sum of the sub-unit values of the sub-unit.
@@ -65,7 +65,7 @@ The value of the sub-unit shall be the sum of the sub-unit values of the sub-uni
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The most likely event in the rolling of a dice
@@ -100,7 +100,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded percentage of the regular pentagon*
@@ -137,7 +137,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of grandchildren from grandmother's cake*
@@ -172,7 +172,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the triangle on square sheet*
@@ -217,7 +217,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Centiliters left in the bottle after pouring*
@@ -256,7 +256,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students who participated in both competitions*
@@ -290,7 +290,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total surface area of the two-cubic solid*
@@ -324,7 +324,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum perimeter of triangle with two sides of 7 and one-third of an integer*
@@ -360,7 +360,7 @@ The most likely event in the rolling of a dice
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of girls with distinct friendships
@@ -393,7 +393,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How is the logical circumstance tricked*
@@ -429,7 +429,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Price of the tent as a percentage of contributions*
@@ -474,7 +474,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Seconds to watch the second train parade*
@@ -511,7 +511,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of blue aliens on STAR 1*
@@ -548,7 +548,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of jumps to cover 997 metres*
@@ -580,7 +580,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the large white square in the rectangle*
@@ -613,7 +613,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number increases by 500% to square*
@@ -644,7 +644,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangles not congruent to area 1 side 2*
@@ -693,7 +693,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Missing sum on the sides of the hexagon of rocks*
@@ -733,7 +733,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum routes from A to B avoiding obstacles*
@@ -766,7 +766,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Divisibility of the sum of two integers given the product*
@@ -800,7 +800,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a+b+ab with a^2b+ab^2=30*
@@ -832,7 +832,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What anagram can appear in the second strip*
@@ -919,7 +919,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *First digit of the minimum number with sum 2006 *
@@ -978,7 +978,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum socks to be extracted for 7 pairs paired*
@@ -1020,7 +1020,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum E(1)+...+E(99) of odd numbers*
@@ -1055,7 +1055,7 @@ Maximum number of girls with distinct friendships
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many times faster by increasing by 6 m/s
@@ -1091,7 +1091,7 @@ How many times faster by increasing by 6 m/s
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to approach cars with S closer to T*
@@ -1131,7 +1131,7 @@ How many times faster by increasing by 6 m/s
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum rotation to return the initial pentagon*
@@ -1177,7 +1177,7 @@ How many times faster by increasing by 6 m/s
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a-b between sums of squares and products*

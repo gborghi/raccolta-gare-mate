@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 20x19+20+19*
@@ -73,7 +73,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Written SHAVE as seen in the mirror after 180 degrees of rotation*
@@ -122,7 +122,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different results by adding three dice*
@@ -163,7 +163,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which operation from the smallest result*
@@ -202,7 +202,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to get in and out of two different doors out of five*
@@ -249,7 +249,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum weight of the lightest object (three separate weights sum 97)
@@ -340,7 +340,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True relationship between alpha and beta angles in the 3x3 square*
@@ -397,7 +397,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *In which I draw the shaded and maximum area*
@@ -443,7 +443,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragment of syrup for packing two litres of beverage*
@@ -485,7 +485,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The numbers hidden in the three plates sum 57263*
@@ -524,7 +524,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Measurement of CBE square angle and equilateral triangle
@@ -563,7 +563,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum value of a/b+c/d with distinct integers 1-10*
@@ -601,7 +601,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of the sides of the white rectangle in the flag*
@@ -648,7 +648,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total length of the triathlon course*
@@ -700,7 +700,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to tick the figure with L *
@@ -749,7 +749,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure BD in the triangle divided into 4 equal areas*
@@ -793,7 +793,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A+B value with sum of AAABBBB digits equal to AB*
@@ -853,7 +853,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the contour of the figure with three circles*
@@ -909,7 +909,7 @@ Measurement of CBE square angle and equilateral triangle
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of boxes with identical apples and separate pears
@@ -968,7 +968,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square inscribed in the semicircular*
@@ -1029,7 +1029,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which side is used to form the axis in the development of the octahedron*
@@ -1078,7 +1078,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of A from the centre of the rotating disc*
@@ -1124,7 +1124,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which tern does not appear in sequence 1.99 in groups of 3*
@@ -1162,7 +1162,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many planes pass through three but not four vertices of a cube*
@@ -1213,7 +1213,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which vertices can the fleas be found after 2019 jumps*
@@ -1272,7 +1272,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many values of A with B=2A+1, C=2B+1 and palindrome numbers*
@@ -1326,7 +1326,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of 4 integers at vertices with divisibility constraints*
@@ -1375,7 +1375,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum items to be deleted per perfect square product*
@@ -1429,7 +1429,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQR triangle area built on extensions*
@@ -1484,7 +1484,7 @@ Maximum number of boxes with identical apples and separate pears
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of N of 4 digits with a 3-digit number divided by N *

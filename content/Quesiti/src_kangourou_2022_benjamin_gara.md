@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Question 1 (text not available in the sidecar) *
@@ -60,7 +60,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question 2 (text not available in the sidecar)
@@ -101,7 +101,7 @@ Question 2 (text not available in the sidecar)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of packages for 95 bags*
@@ -151,7 +151,7 @@ Question 2 (text not available in the sidecar)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of vehicles to move to get the black car out
@@ -200,7 +200,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The last three digits of the smallest 12-digit number *
@@ -246,7 +246,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fragments of pizza with ham and vegetables *
@@ -290,7 +290,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope fraction to lift the white cab *
@@ -332,7 +332,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of pieces never to be obtained by dividing by three*
@@ -373,7 +373,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the grey star in the square of area 100*
@@ -418,7 +418,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cubets with exactly 4 faces painted in 2022*
@@ -467,7 +467,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Impossible situation of elephants after biving*
@@ -512,7 +512,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final number following arrows from 12*
@@ -562,7 +562,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of water in the tank at another position*
@@ -631,7 +631,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the shaded rim in the rectangle 90cm2*
@@ -702,7 +702,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image on the fourfold folded sheet*
@@ -752,7 +752,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solid that requires less paint than the four *
@@ -800,7 +800,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum age of Eva turtle by end of 2022*
@@ -849,7 +849,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the circle with question point (Latin square) *
@@ -896,7 +896,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of third dog in descending order*
@@ -968,7 +968,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum for each segment with 3.9*
@@ -1039,7 +1039,7 @@ Minimum number of vehicles to move to get the black car out
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many players are definitely weaker than the loser of the final?
@@ -1092,7 +1092,7 @@ How many players are definitely weaker than the loser of the final?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of the four integers in the first row*
@@ -1139,7 +1139,7 @@ How many players are definitely weaker than the loser of the final?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit code of the suggestion lock*
@@ -1183,7 +1183,7 @@ How many players are definitely weaker than the loser of the final?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Which solid represents Anna's from another perspective
@@ -1233,7 +1233,7 @@ Which solid represents Anna's from another perspective
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many digits can be written in the shadow box*
@@ -1311,7 +1311,7 @@ Which solid represents Anna's from another perspective
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the three numbers in the vertices of the shaded triangle*
@@ -1393,7 +1393,7 @@ Which solid represents Anna's from another perspective
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Flat development that does not produce the solid shown*
@@ -1456,7 +1456,7 @@ Which solid represents Anna's from another perspective
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Where the school is located minimizing distances
@@ -1501,7 +1501,7 @@ Where the school is located minimizing distances
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of cubes from three points of view*
@@ -1593,7 +1593,7 @@ Where the school is located minimizing distances
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of people with table hat

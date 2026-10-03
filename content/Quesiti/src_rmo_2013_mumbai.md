@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo isosceles con circoncircolo, dimostrare BE parallelo ad AD*
@@ -52,7 +52,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli primi (p,q,r) con pq=r+1 e 2p^2+q^2=r^2+1*
@@ -79,7 +79,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i sottoinsiemi non vuoti di {0,1,...,9}*
@@ -106,7 +106,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con D,E su BC,AC; P su ED; rapporto BS/SD*
@@ -137,7 +137,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra gcd(b3,c3)=a2 per le sequenze definite da gcd e lcm*
@@ -164,7 +164,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il divisore comune di P(2013!+1) e Q(2013!+1) per i polinomi dati*

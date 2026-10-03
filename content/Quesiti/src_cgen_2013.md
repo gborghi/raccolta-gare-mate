@@ -48,7 +48,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sare sequenze di numeri interi positivi in cui ogni termine divide la somma di tutti i termini; caratterizzare lunghezze 2-4, distinzione, numeri primi, quelli aritmetici, infinite magnifique sequenze e estensioni.*
@@ -108,7 +108,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli sottili e le trasversali nello spazio; una superficie quadrica S data da xy+yz+zx-(x+y+z)+1=0 contenente tre bordi cubi D1,D2,D3; linee che incontrano S in 0,1,2 punti; le trasversali a quattro linee.*
@@ -173,7 +173,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo rettangolare dall'identità trigonometrica; formula per la distanza di circoncentrocentroide*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La linea poligonale in un quadrato di 50 ×50 deve avere una lunghezza superiore a 1248 *
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Localisso del centro del pavimento e delle due pareti perpendicolari di un cerchio circolare *
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rede cubiche di numeri primi distinti non in AP; o trovare x2+y2+z2 data somma e somma di cubes*

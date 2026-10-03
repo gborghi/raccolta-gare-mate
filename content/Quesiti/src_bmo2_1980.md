@@ -29,7 +29,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedra VLMN e VABC che condividono il vertice V: coincidenza incentro-centroid, confronto volume*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri primi in una sequenza di numeri interi definita da ricorrenza*
@@ -87,7 +87,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una disuguaglianza sommata per sequenze reali con condizione di uguaglianza*
@@ -116,7 +116,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra n persone possono giocare bridge come avversari esattamente una volta se n = 4m*

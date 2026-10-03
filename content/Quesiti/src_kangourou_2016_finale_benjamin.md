@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *product and sum with the same combined figure; possible figures*
@@ -57,7 +57,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *side of the largest triangle *
@@ -87,7 +87,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *days of bridge added to holidays*
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * is suitable for which? *
@@ -150,7 +150,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * 2016m network circular park, plant every 8m, same type every 64m*
@@ -178,7 +178,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * frozen 2 kang with 2 euro *

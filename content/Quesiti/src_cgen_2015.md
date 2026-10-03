@@ -61,7 +61,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C.*
@@ -126,7 +126,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea.*
@@ -185,7 +185,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi predittivi: sequenze di tipo A in cui ogni termine è uguale alla media dei prossimi n termini; mostrare che tali sequenze non possono essere delimitate sopra o sotto, e decidere se esiste una sequenza delimitata non costante.*

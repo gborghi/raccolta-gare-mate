@@ -30,7 +30,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question with multiple replies from February 2005 No.1
@@ -67,7 +67,7 @@ Question with multiple replies from February 2005 No.1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question with multiple answers February 2005 No.2
@@ -115,7 +115,7 @@ Question with multiple answers February 2005 No.2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three integers a,b,c measuring the sides of a non-degenerating triangle*
@@ -147,7 +147,7 @@ Question with multiple answers February 2005 No.2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *dado, three gifts*
@@ -176,7 +176,7 @@ Question with multiple answers February 2005 No.2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * above the parameter *
@@ -206,7 +206,7 @@ Question with multiple answers February 2005 No.2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Party with three girls and three boys around a round table
@@ -236,7 +236,7 @@ Party with three girls and three boys around a round table
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of solutions of the equation with absolute value*
@@ -296,7 +296,7 @@ Party with three girls and three boys around a round table
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *maximum volume of such parts of the cube*
@@ -357,7 +357,7 @@ Party with three girls and three boys around a round table
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real numbers a,b positive integers and maximum of maximum*
@@ -387,7 +387,7 @@ Party with three girls and three boys around a round table
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 It's a game of chips, a winning strategy.
@@ -415,7 +415,7 @@ It's a game of chips, a winning strategy.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies between 1 and 2005 with equal number of divisors*
@@ -440,7 +440,7 @@ It's a game of chips, a winning strategy.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *volume of similar triangles*
@@ -465,7 +465,7 @@ It's a game of chips, a winning strategy.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *diagonal and ordering*
@@ -490,7 +490,7 @@ It's a game of chips, a winning strategy.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Differences between entry centres and tangent segments*
@@ -516,7 +516,7 @@ It's a game of chips, a winning strategy.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordered pairs (x,y) of positive integers and the ratio x+y(x+y) = 2005*
@@ -541,7 +541,7 @@ It's a game of chips, a winning strategy.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question No 16 of the Committee on Budgets
@@ -570,7 +570,7 @@ Question No 16 of the Committee on Budgets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question No 17 of the Council in February 2005
@@ -600,7 +600,7 @@ Question No 17 of the Council in February 2005
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * for which n true*
@@ -625,7 +625,7 @@ Question No 17 of the Council in February 2005
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question No 19 of the Committee on Budgets
@@ -650,7 +650,7 @@ Question No 19 of the Committee on Budgets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles and angles with two lines in a given side square*
@@ -675,7 +675,7 @@ Question No 19 of the Committee on Budgets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Question No 21 of February 2005
@@ -701,7 +701,7 @@ Question No 21 of February 2005
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (x,d) of positive integers and the ratio x+d(x+d) = 2005*
@@ -727,7 +727,7 @@ Question No 21 of February 2005
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *area report *

@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza con x_6=144 e x_{n+3}=x_{n+2}(x_{n+1}+x_n); trovare x_7.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i tripli reali (x,y,z) che soddisfano due equazioni polinomiche simmetriche.*
@@ -82,7 +82,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I medi di tre facce di un tetraedro da D fanno angoli uguali con i loro bordi; dimostrano una disuguaglianza di superficie.*
@@ -109,7 +109,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_1=0, a_n = a_{floor(n/2)} + (-1)^{n(n+1)/2}; indici di conteggio n in [2^k, 2^{k+1}) con a_n=0.*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCDE pentagono convex con DC=DE, angolo DCB=angolo DEA=90 deg; F su AB con AF:BF=AE:BC; dimostrare due ugualità angolari.*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n punti su un cerchio unitario; q = numero di segmenti con punti terminali tra i punti di lunghezza superiori a sqrt 2; prova 3q <= n^2.*

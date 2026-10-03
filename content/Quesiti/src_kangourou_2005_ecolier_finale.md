@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of houses on the same side*
@@ -58,7 +58,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Estimated current minimum and maximum weight*
@@ -90,7 +90,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number 4 digits divisible by each of its digits*
@@ -120,7 +120,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum balls to be erased to reverse the arrow*
@@ -151,7 +151,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *It's good to be first or second in the coin game*
@@ -182,7 +182,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum friends with different rectangles of 10 cards

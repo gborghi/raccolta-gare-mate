@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *lcm(a,b) non è mai uguale a lcm(a+c,b+c)*
@@ -57,7 +57,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La sequenza di raddoppiamento avida è infine costante.
@@ -88,7 +88,7 @@ La sequenza di raddoppiamento avida è infine costante.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A, punto medio di XY, punto medio di BC sono collineari*
@@ -115,7 +115,7 @@ La sequenza di raddoppiamento avida è infine costante.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Incontri giornalieri, ogni coppia scuote una volta, dimensioni uguali
@@ -142,7 +142,7 @@ Incontri giornalieri, ogni coppia scuote una volta, dimensioni uguali
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *somme di potenza divisibile per 2017 forza ogni termine divisibile*

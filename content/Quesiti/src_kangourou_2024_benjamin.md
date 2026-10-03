@@ -39,7 +39,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which square bounces off an identical one by folding the sheet*
@@ -80,7 +80,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 In which square Mia lands only on the right foot
@@ -111,7 +111,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of letters per word containing three words*
@@ -154,7 +154,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the new rectangle consisting of three squares*
@@ -199,7 +199,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Look at the boxes seen from the other side of the wall*
@@ -232,7 +232,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which stack of boxes is not achievable*
@@ -265,7 +265,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of the letter F when C is in front of 2 (wheels) *
@@ -308,7 +308,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of weights to balance 445 g*
@@ -403,7 +403,7 @@ In which square Mia lands only on the right foot
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of rooms with figures of 2 14 times and 5 3 times
@@ -452,7 +452,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What label links the two babies to different equines*
@@ -505,7 +505,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the grey box covering the grid with tiles*
@@ -557,7 +557,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of each rectangle in Figure 30x45*
@@ -609,7 +609,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the remaining figure with carved squares*
@@ -703,7 +703,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Name of box X from the remaining chocolates*
@@ -757,7 +757,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many different numbers are covered by the 16 circles (5 and 13) *
@@ -838,7 +838,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shaded area in the second figure of equal squares*
@@ -917,7 +917,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit numbers with exactly five black dots (Braille) *
@@ -969,7 +969,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many hive cells contain honey*
@@ -1032,7 +1032,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number in the circle with the question mark, sums aligned 23*
@@ -1084,7 +1084,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct inequality for n with 7 pairs more than terns*
@@ -1133,7 +1133,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of numbers on the faces supported (three dice) *
@@ -1185,7 +1185,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the grey rectangle known as three areas and segments*
@@ -1240,7 +1240,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of colours for the seven metro lines*
@@ -1295,7 +1295,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to colour the white face of the cube development
@@ -1367,7 +1367,7 @@ How to colour the white face of the cube development
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 4 digits with a property of type 2024*
@@ -1421,7 +1421,7 @@ How to colour the white face of the cube development
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the question mark label (sum of cubic faces) *
@@ -1470,7 +1470,7 @@ How to colour the white face of the cube development
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of candies (20 per bag, 12 advanced) *
@@ -1513,7 +1513,7 @@ How to colour the white face of the cube development
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pieces of rope does Maya get (12 and 16 cuts)
@@ -1562,7 +1562,7 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to build the seven-piece plough*
@@ -1619,7 +1619,7 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure has Biagio added (increase to 2024) *

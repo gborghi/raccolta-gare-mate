@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti interi, valore ±1 a tre punti interi implica nessun zero interi*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti ottengano due nuovi vicini
@@ -80,7 +80,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n numeri distinti: ridurre al minimo o massimizzare il numero di somme differenti in coppia*
@@ -107,7 +107,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il numero di linee attraverso n punti non collineari è almeno n*
@@ -134,7 +134,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Qualsiasi quadrilaterale convex di quattro punti implica tutti i punti di un poligono convex*
@@ -163,7 +163,7 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Grafica di connettività su n>3 punti: grafico di grado 4 senza triangolo vs. triangolo forzato*

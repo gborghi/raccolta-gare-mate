@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea di altitudine e di punto medio in triangolo acuto; dimostrare SD = SM dove S è il centro circundante di CKL.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rimostra una disuguaglianza che limita una somma quadrata di potenze di a per tutte le sequenze di numeri interi non negativi in aumento rigoroso.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i polinomi a coefficiente intero W in modo tale che W(n) divida 2^n - 1 per ogni n naturale.*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato che x^3,y^3,z^3 condivide un primo mod rimanente p, mostra x^2+y^2+z^2 è divisibile da x+y+z.*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'insfera del tetraedro ABCD tocca la faccia ABC a H; un'exsfera lo tocca a O; se O è il circoncentro allora H è l'ortocentro di ABC.*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per n pari, mostrare che esiste una permutazione di {1,...,n} dove ogni x_{i+1} è una delle quattro espressioni in x_i.*

@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum pieces of the axle to be stored in the 1x1 square*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 29^28+4 and first*
@@ -84,7 +84,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which sheets remain in the same position*
@@ -115,7 +115,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum path of the ant and farthest point *
@@ -146,7 +146,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum red vertices with different distances (21-agon) *
@@ -179,7 +179,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Moving coins on 1000-acre (8x125 and 125x8) *

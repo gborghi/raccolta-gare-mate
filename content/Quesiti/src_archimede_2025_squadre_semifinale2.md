@@ -32,7 +32,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tri-digit integer with exchange of 9 digits difference *
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of squares equal to less four times sum of squares*
@@ -98,7 +98,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs with distinct remains divided by 2,200*
@@ -130,7 +130,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of exactly two agents telling the truth with dice
@@ -162,7 +162,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pentagon with square and triangle isosceles, find AE*
@@ -193,7 +193,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum turn per bench with k^2+kn equal to 5712*
@@ -225,7 +225,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regions in a square with perpendiculars of 30 points*
@@ -260,7 +260,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Primes p,q with pq=83333, calculate p+3q*
@@ -296,7 +296,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *2025th integer with digits divisible by 10*
@@ -328,7 +328,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two intersecting circles, product AX·YD*
@@ -361,7 +361,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of filling the entire grid 2x3 with figures*
@@ -394,7 +394,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular triangles with an area equal to 5 times the perimeter*
@@ -432,7 +432,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area ABC triangle with circumference and data ratios*
@@ -468,7 +468,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Operation to be iterated on rational numbers from 2 to 99*
@@ -500,7 +500,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (n,d) with condition on prime divisors, n<100*
@@ -546,7 +546,7 @@ Probability of exactly two agents telling the truth with dice
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of a square antibody side 10 height 30*

@@ -37,7 +37,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total 12 areas of triangular intersections (p+q) *
@@ -74,7 +74,7 @@ level: gara del pubblico
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of samples taken from the sample.
@@ -108,7 +108,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of 2/81 (power) *
@@ -140,7 +140,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term sum <=30 not covered by two to two*
@@ -171,7 +171,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max p for eggs eaten within 12 hours (success) *
@@ -206,7 +206,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of growth >=2013cm with 37 fungi (numerator) *
@@ -245,7 +245,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different angles of a triangle (rectangles) *
@@ -281,7 +281,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nine number product (system) *
@@ -314,7 +314,7 @@ This is the total number of samples taken from the sample.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a list of all known diseases of the genus Stregauss.
@@ -348,7 +348,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sit at the table (nearby) *
@@ -382,7 +382,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now when the sum Ghiro exceeds 2012/2013*
@@ -414,7 +414,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Days since its foundation (periodic meetings, 451 openings) *
@@ -447,7 +447,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQR triangle area (height, width, median) *
@@ -479,7 +479,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum of (a*b) *(c*d) with x*y=x+y-xy*
@@ -512,7 +512,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *M+m true witnesses at the round table (7999) *
@@ -550,7 +550,7 @@ This is a list of all known diseases of the genus Stregauss.
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Growth modes in 5 steps (multiple chain, 12!)*

@@ -27,7 +27,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AD,BE,CF compete*
@@ -55,7 +55,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *if p+q^2 squared then p^2+q^n is not *
@@ -86,7 +86,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * single mode *
@@ -116,7 +116,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 If the floor is square then the floor is square
@@ -145,7 +145,7 @@ If the floor is square then the floor is square
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AX perpendicular to XC*
@@ -187,7 +187,7 @@ If the floor is square then the floor is square
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many sequences do Barbara win?

@@ -32,7 +32,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Playing with horses/monkeys and calculating track laps*
@@ -71,7 +71,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *classification stated*
@@ -109,7 +109,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Type of figure formed by four rectangular triangles*
@@ -146,7 +146,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *values of the parameter a*
@@ -185,7 +185,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many natural numbers B in product, multiple choice*
@@ -222,7 +222,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Determine the smallest integer number/pair B with sum *
@@ -260,7 +260,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *numbers other than zero*
@@ -298,7 +298,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The value of the input data shall be the sum of the values of the input data.
@@ -337,7 +337,7 @@ The value of the input data shall be the sum of the values of the input data.
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Function/position of vertices and number N of sides*
@@ -397,7 +397,7 @@ The value of the input data shall be the sum of the values of the input data.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Construction/inscription on circumference, beams a,b*
@@ -459,7 +459,7 @@ The value of the input data shall be the sum of the values of the input data.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many positive whole solutions*
@@ -498,7 +498,7 @@ The value of the input data shall be the sum of the values of the input data.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *side of the segment*
@@ -536,7 +536,7 @@ The value of the input data shall be the sum of the values of the input data.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit numbers summed up in form, base sum*
@@ -574,7 +574,7 @@ The value of the input data shall be the sum of the values of the input data.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many real solutions*

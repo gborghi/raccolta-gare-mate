@@ -34,7 +34,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regular decagon, diagonal intersection and circumference S*
@@ -68,7 +68,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of colours*
@@ -100,7 +100,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Growing Z->R functions with differences in image*
@@ -129,7 +129,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term (a,b,c) positive integers with a^2+2^(b+1) = 3^c*
@@ -169,7 +169,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *three equal and direct squares rC*
@@ -211,7 +211,7 @@ level: nazionale
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Commission shall adopt a decision on the implementation of this Regulation.

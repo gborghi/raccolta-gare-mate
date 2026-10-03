@@ -32,7 +32,7 @@ level: OBM Nível 1
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; massimizzare la differenza (trovare la loro somma) e ridurre al minimo la somma (trovare la differenza più piccola possibile).
@@ -69,7 +69,7 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due esagoni diversi con tutti gli angoli interni di 120 gradi; trovare il perimetro di ABCDEF e il valore di ST+PU da lunghezze laterali date.*
@@ -106,7 +106,7 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristina; utilizzando i fatti di divisibilità/coprimalità/parità sui due conti, trova i numeri.*
@@ -145,7 +145,7 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un cubo di legno di borda di 7 cm viene tagliato in quattro blocchi rettangolari mediante tagli paralleli alle sue facce; data la superficie totale di 136, 46, 94 di tre blocchi, si trova la superficie del cubo e la superficie del quarto blocco.*
@@ -184,7 +184,7 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fuse di amoebas in coppie (rosso+rosso->1 azzurro, rosso+blu->2 rosso, blu+blu->2 rosso); da 19 azzurri e 95 rossi, trovare la dimensione massima della prossima generazione e il numero di amoebas azzurri quando il totale è di 100.*

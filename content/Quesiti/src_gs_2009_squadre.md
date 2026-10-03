@@ -26,7 +26,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculate linear combination of light at the top*
@@ -54,7 +54,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *File count of 4 buttons in the grid*
@@ -83,7 +83,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time distribution over three gates, minimum *
@@ -111,7 +111,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Time to fill the fractional volume*
@@ -139,7 +139,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers with the same product and different sum of parity*
@@ -167,7 +167,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three different speed clocks, common time*
@@ -197,7 +197,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope rectangular folding area (I) *
@@ -229,7 +229,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of extraction of red and blue shirts
@@ -258,7 +258,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of the pyramid-mobile *
@@ -287,7 +287,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of trapezoid in the polygon of 33 vertices*
@@ -316,7 +316,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope rectangular folding area (II) *
@@ -346,7 +346,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of practices, factoring of 438516x2*
@@ -374,7 +374,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Final figures of a power of 3 (benefit) *
@@ -407,7 +407,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wake up on Eadrax, time trips and multiples of 9*
@@ -449,7 +449,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magrathea templates, co-circular columns (I) *
@@ -488,7 +488,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of products of independent heaps, induction*
@@ -516,7 +516,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rapid ratio of nearby monorails*
@@ -545,7 +545,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True and false deployed in file*
@@ -577,7 +577,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magrathea templates, lengths with similarities (II) *
@@ -612,7 +612,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Operation and MCD, largest divider of 2009*
@@ -641,7 +641,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of winning double-headed cross game*
@@ -670,7 +670,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum without a number and its triple*
@@ -699,7 +699,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winning strategy chocolate table *
@@ -728,7 +728,7 @@ Probability of extraction of red and blue shirts
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of teams by match count and co-op*

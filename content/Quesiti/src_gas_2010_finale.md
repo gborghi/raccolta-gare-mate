@@ -31,7 +31,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple self-reference years up to 2010*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total participants from n,m roots of the quadratic equation*
@@ -99,7 +99,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
@@ -132,7 +132,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total of integers equal to the square of the sum of their digits*
@@ -173,7 +173,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 4-digit numbers with constraints on sums and even digits*
@@ -209,7 +209,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum round trip time with different speeds*
@@ -243,7 +243,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weekly minutes in which a compass needle points north*
@@ -275,7 +275,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of 5 square tables with 12 seats without rotation*
@@ -312,7 +312,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product a*b with added regular polygons and minimum angle*
@@ -347,7 +347,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean of base 10 of the digits on base 5*
@@ -388,7 +388,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Expected value of multiple cards of 7 before red*
@@ -424,7 +424,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *QRP angle from external beacons with SP=PR=RT*
@@ -459,7 +459,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of bets won in succession a(n+1)=2a(n)+2n-1*
@@ -493,7 +493,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of sphere with two orthogonal circles tangent to two points*
@@ -527,7 +527,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies expressed as [2x]+[4x]+[8x]+[12x]*
@@ -561,7 +561,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-conforming triangles with 144 side polygon vertices*
@@ -595,7 +595,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *mcm of three integers with a+b+c=2010 and 1/a+1/b+1/c=1/58*
@@ -628,7 +628,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area triangle rectangle from area hexagon with outer squares*
@@ -666,7 +666,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum a+b+c with respect to mcm and MCD*
@@ -703,7 +703,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Product a*b with a^2-b^2 perfect square minimum, figures exchanged*
@@ -739,7 +739,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of points on grid intersections in two square maps*
@@ -778,7 +778,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region of circumscribed pentagon with given altitude*
@@ -812,7 +812,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of winning by iterating product of digits 1 to 10000*
@@ -846,7 +846,7 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height/radius ratio of four tangent cones*

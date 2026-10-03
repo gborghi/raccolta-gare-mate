@@ -30,7 +30,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi positivi che fanno due espressioni di numeri interi*
@@ -57,7 +57,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli e condizione di perpendicularità nel triangolo ABC*
@@ -86,7 +86,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni in cui una determinata disuguaglianza si applica a tutti gli integri*
@@ -117,7 +117,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due giocatori, punti speciali sul cerchio; mostrare la frazione di coppie connesse è grande*
@@ -152,7 +152,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le sequenze di numeri interi positivi in cui la condizione gcd è valida per tutti m,n*

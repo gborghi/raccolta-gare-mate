@@ -27,7 +27,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *15 studenti mangiano gelato in gruppi di tre persone ogni sera; ogni coppia mangia insieme esattamente una volta; scopri quanti giorni ha durato il campo.*
@@ -55,7 +55,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre cifre x>y>z>0; somma delle sei permutazioni a tre cifre equivale a 4884; trovare i numeri possibili xyz.*
@@ -88,7 +88,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Essagono ABCDEF con rettangolo BCEF e dati lati uguali; la sua superficie è uguale a quella di un rettangolo con lati consecutivi a e 36; trovare a^2.*
@@ -123,7 +123,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un intero positivo k sulla scheda può essere sostituito da a+b dove ab=k; a partire da n, determinare il numero più piccolo raggiungibile dopo numerose sostituzioni finite.*
@@ -156,7 +156,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per n>=2 numeri a_i in [-1/2,1/2], rimuovendo qualsiasi singolo lascia una somma interiore; dimostrare tutti uguali quando n è pari, e chiedere se forzato quando n è pari.*
@@ -187,7 +187,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli studenti si siedono in modo che una disposizione quadrata lascia 5 sopra, mentre un rettangolo di 7 righe in più delle colonne si siedono tutti esattamente; trovare il maggior numero possibile di studenti.*
@@ -216,7 +216,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni lato di un quadrato unitario è diviso in 3 parti uguali; le linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie.*
@@ -247,7 +247,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_1=1, a_2=7, a_{n+2}=(a_{n+1}^2-1)/a_n; prova 9 a_n a_{n+1}+1 è un quadrato perfetto per tutti n>=1.*

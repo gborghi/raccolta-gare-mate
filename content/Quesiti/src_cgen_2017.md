@@ -75,6 +75,7 @@ level: Concours Général
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Sottoinsiemi finiti A di C di 'tipo S' (ogni due elementi z1, z2 soddisfano z1*z2 = z1^2 + z2^2); studio di b(A), il minimo modulo strettamente maggiore di 1 di un elemento di A (o infinito); esempi, i reticoli Z[j] e insiemi correlati, e determinazione di tutti i possibili valori di b(A).*
 
 > Un sottoinsieme finito $\mathscr{A}$ di $\mathbb{C}$ (l'insieme dei numeri complessi) si dice di tipo $S$ se, per ogni coppia di elementi $z_1$ e $z_2$ appartenenti a $\mathscr{A}$, il prodotto $z_1 z_2$ è uguale alla somma $z_1^2 + z_2^2$ dei loro quadrati.
@@ -139,8 +140,6 @@ level: Concours Général
 >
 > \textbf{6.} Quali sono i possibili valori di $b(\mathscr{A})$?
 
-
-
 [[Quesiti/src_cgen_2017#q01|src_cgen_2017__Q01]]
 
 
@@ -191,7 +190,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema di probabilità. Franck deve superare gli esami MCQ in cui ogni risposta corretta dà +1 punti, ogni risposta sbagliata -1 punti, e nessuna risposta 0 punti. Primo esame: 10 domande, il pass ha bisogno di almeno 7 punti; decidere quali domande rispondere data probabilità di successo p. Secondo esame: 50 domande, passaggio richiede almeno 26 punti; confronta le strategie e trova l'ottimale come funzione di p.*
@@ -282,7 +281,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli nello spazio E con vertici di coordinate interi in un quadro ortonormale. Risultati preliminari sul piano di un'altitudine e della razionalità, dell'irrazionalità di sqrt(n) per n non quadrati e dell'aritmetica delle somme di tre quadrati. Poi studiare quali triangoli (equilaterali, isosceles 3-3-2 e 2-2-3) ammettere una copia simile con tutti i vertici interi, attraverso la tangenza di angoli con la forma r*sqrt(k) con k libero da quadrato.*

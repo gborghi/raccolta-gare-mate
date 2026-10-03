@@ -28,7 +28,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre polinomi di grado uno le cui potenze n-th soddisfano u1^n+u2^n=u3^n sono tutte proporzionali a Ax+B.*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra tutte le linee poligonali chiuse attraverso n punti dati (nessun tre collineari), una di lunghezza minima non si interseca.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *C'è un polinomio a coefficiente interi che si approssimano da 1/2 a 1/1000 su [1/10, 2/10].*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli ABC con AC, BC tangente a una sfera K e fisso A,B su una linea: un triangolo a perimetro massimo ha anche superficie massima.*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutti i sottoinsiemi di un insieme finito possono essere sequenziati in modo che i sottoinsiemi consecutivi differiscano esattamente in un elemento.*
@@ -162,7 +162,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma digitali di 1972^n è illimitata in quanto n tende all'infinito.*

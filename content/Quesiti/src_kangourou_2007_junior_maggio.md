@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max number of numbers chosen without a multiple sum of 3*
@@ -57,7 +57,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shorter route on the cone surface*
@@ -88,7 +88,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers whose ab square ends in ab (automorphic) *
@@ -117,7 +117,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Winning strategy in the 52 card game
@@ -147,7 +147,7 @@ Winning strategy in the 52 card game
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The radius of the third of 7 radii (pro. The following table shows the results of the calculations:
@@ -178,7 +178,7 @@ The radius of the third of 7 radii (pro. The following table shows the results o
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of porous sub-sets of {1,10}*

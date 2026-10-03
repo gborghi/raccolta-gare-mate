@@ -28,7 +28,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piani di pavimentazione di una casa da costruire su una griglia con pareti troppo lunghe (binmus) e celle esterne*
@@ -59,7 +59,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Tre amici condividono due biciclette per ridurre al minimo il tempo per raggiungere la fine di un percorso
@@ -90,7 +90,7 @@ Tre amici condividono due biciclette per ridurre al minimo il tempo per raggiung
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricordare i treni sui binari delle stazioni (terreno, a senso unico, a senso doppio) in modo che sia ammissibile un ordine di arrivo*
@@ -121,7 +121,7 @@ Tre amici condividono due biciclette per ridurre al minimo il tempo per raggiung
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Trovare una pizza vegetariana nascosta in una pila di scatole in pochi movimenti
@@ -152,7 +152,7 @@ Trovare una pizza vegetariana nascosta in una pila di scatole in pochi movimenti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizione di accordi (pareti di Korde) in un disco per evitare che i candidati a poligono regolare si vedano fra loro*
@@ -183,7 +183,7 @@ Trovare una pizza vegetariana nascosta in una pila di scatole in pochi movimenti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Camelioni su un grafico che cambiano colore per propagazione; minimizzazione delle richieste (difficoltà di colorazione) *
@@ -214,7 +214,7 @@ Trovare una pizza vegetariana nascosta in una pila di scatole in pochi movimenti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuzione di cioccolatini a rotonda ai bambini in fila; quando la configurazione diventa equilibrata
@@ -245,7 +245,7 @@ Distribuzione di cioccolatini a rotonda ai bambini in fila; quando la configuraz
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tinging un quartiere di una griglia triangolare equilaterale infinita (Los Angeles) con rhombi (losangi)*

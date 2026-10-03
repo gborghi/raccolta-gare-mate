@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Colorazione di coppie in un insieme, sottoinsiemi di tipo 1 e tipo 2 uguali*
 
 > Sia $S$ l'insieme di tutti gli $(h,k)$ con $h,k$ interi non negativi tali che $h+k < n$. Ogni elemento di $S$ è colorato di rosso o blu, in modo che se $(h,k)$ è rosso e $h' \le h$, $k' \le k$, allora anche $(h',k')$ è rosso. Un sottoinsieme di tipo 1 di $S$ ha $n$ elementi blu con primi membri diversi, mentre un sottoinsieme di tipo 2 di $S$ ha $n$ elementi blu con secondi membri diversi. Si dimostri che il numero di sottoinsiemi di tipo 1 è uguale al numero di sottoinsiemi di tipo 2.
-
-
 
 [[Quesiti/src_imho_2002#q01|src_imho_2002__Q01]]
 
@@ -56,11 +55,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Geometria: l'incentro giace su una corda della circonferenza circoscritta*
 
 > $BC$ è un diametro di una circonferenza di centro $O$. Sia $A$ un punto qualsiasi sulla circonferenza diverso da $\angle AOC > 60^\circ$. Sia $EF$ la corda che è l'asse perpendicolare del segmento $AO$. Sia $D$ il punto medio dell'arco minore $AB$. La retta passante per $OD$ incontra $AC$ nel punto $J$. Si dimostri che $J$ è l'incentro del triangolo $CEF$.
-
-
 
 [[Quesiti/src_imho_2002#q02|src_imho_2002__Q02]]
 
@@ -84,11 +82,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le coppie di interi m>2, n>2 tali che k^n-1 divide k^m-1*
 
 > Determinare tutte le coppie di interi $m > 2$, $n > 2$ tali che esistano infiniti numeri interi positivi $k$ per cui $k^n - 1$ divide $k^m - 1$.
-
-
 
 [[Quesiti/src_imho_2002#q03|src_imho_2002__Q03]]
 
@@ -112,11 +109,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Divisori positivi di n>1 in successione con condizione di divisibilità*
 
 > I divisori positivi di un intero $n > 1$ sono $d_1 < d_2 < \cdots < d_k$, in modo che $d_1 = 1$, $d_k = n$. Sia $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Si dimostri che $d < n^2$ e si determinino tutti gli $n$ per cui $d$ divide $n^2$.
-
-
 
 [[Quesiti/src_imho_2002#q04|src_imho_2002__Q04]]
 
@@ -140,11 +136,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Funzioni reali che soddisfano (f(x)+f(y))(f(u)+f(v))=f(xu-yv)+f(xv+yu)*
 
 > Determinare tutte le funzioni reali definite sui numeri reali tali che $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ per ogni $x, y, u, v$.
-
-
 
 [[Quesiti/src_imho_2002#q05|src_imho_2002__Q05]]
 
@@ -168,10 +163,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *n>2 circonferenze di raggio 1, nessuna retta incontra più di due*
 
 > $n > 2$ circonferenze di raggio 1 sono disegnate nel piano in modo che nessuna retta intersechi più di due di esse. I loro centri sono $O_1, O_2, \ldots, O_n$. Si dimostri che $\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
-
-
 
 [[Quesiti/src_imho_2002#q06|src_imho_2002__Q06]]

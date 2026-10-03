@@ -30,7 +30,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioca su fila quadrata 2022; trova i quadrati massimi A può garantire*
@@ -63,7 +63,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le f stringentemente in aumento con f^100(m) +mn=f(m) f(n) *
@@ -90,7 +90,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il triangolo isosceles, il circoncircolo, il circoncentro di HDF si trova su Gamma*
@@ -118,7 +118,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi positivi con 3^x - 8^y = 2xy+1*
@@ -156,7 +156,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *999 quadrati circolari con reali; trovare m minimo per la proprietà sequenziale*

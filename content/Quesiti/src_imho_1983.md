@@ -30,13 +30,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni che soddisfano due equazioni funzionali*
 
 > Determinare tutte le funzioni $f$ definite sull'insieme dei numeri reali positivi, a valori in numeri reali positivi, che soddisfano le seguenti condizioni:
 > (i) $f(xf(y)) = yf(x)$ per ogni numero reale positivo $x, y$;
 > (ii) $f(x) \to 0$ quando $x \to \infty$.
-
-
 
 [[Quesiti/src_imho_1983#q01|src_imho_1983__Q01]]
 
@@ -60,11 +59,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Punti medi e rette tangenti a due circonferenze complanari*
 
 > Siano $A$ uno dei due punti distinti di intersezione tra due circonferenze complanari disuguali $C_1$ e $C_2$ di centri rispettivamente $O_1$ e $O_2$. Una delle tangenti comuni alle circonferenze tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e $M_2$ il punto medio di $P_2Q_2$. Si dimostri che $\angle O_1AO_2 = \angle M_1AM_2$.
-
-
 
 [[Quesiti/src_imho_1983#q02|src_imho_1983__Q02]]
 
@@ -88,11 +86,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si mostri il più grande intero della forma 2bc - b - c senza divisori comuni*
 
 > Siano $a$, $b$ e $c$ interi positivi, a due a due privi di divisori comuni maggiori di 1. Si dimostri che $2abc - ab - bc - ca$ è il più grande intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x$, $y$ e $z$ sono interi non negativi.
-
-
 
 [[Quesiti/src_imho_1983#q03|src_imho_1983__Q03]]
 
@@ -116,11 +113,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Partizionare un insieme in due sottoinsiemi senza triangolo rettangolo*
 
 > Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi gli estremi $A$, $B$ e $C$). Si determini se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi, almeno uno dei due contiene i vertici di un triangolo rettangolo. Si giustifichi la risposta.
-
-
 
 [[Quesiti/src_imho_1983#q04|src_imho_1983__Q04]]
 
@@ -144,11 +140,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Scegliere 1983 interi positivi distinti in progressione aritmetica*
 
 > È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, in modo che nessuno di essi sia il termine centrale di una progressione aritmetica formata da tre termini consecutivi? Giustificare la risposta.
-
-
 
 [[Quesiti/src_imho_1983#q05|src_imho_1983__Q05]]
 
@@ -174,12 +169,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Dimostrare una disuguaglianza coinvolgente i lati di un triangolo*
 
 > Siano $a$, $b$ e $c$ le lunghezze dei lati di un triangolo. Si dimostri che
 > $$a^2 b(a - b) + b^2 c(b - c) + c^2 a(c - a) \ge 0.$$
 > Determinare quando si ha l'uguaglianza.
-
-
 
 [[Quesiti/src_imho_1983#q06|src_imho_1983__Q06]]

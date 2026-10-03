@@ -30,7 +30,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which geometric figure is missing in the frames*
@@ -67,7 +67,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangles in Figure *
@@ -103,7 +103,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Find the missing part of the box
@@ -139,7 +139,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *total black spots*
@@ -175,7 +175,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *shorter *
@@ -211,7 +211,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which image rotated matches that date*
@@ -247,7 +247,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *View from the top of a round tower*
@@ -283,7 +283,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of numbers outside the square*
@@ -317,7 +317,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *total time*
@@ -351,7 +351,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which construction is impossible*
@@ -385,7 +385,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 ♪ Caramels from Roberta to Cristina to match ♪
@@ -419,7 +419,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *white cubes*
@@ -453,7 +453,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *the missing card*
@@ -485,7 +485,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.14](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Next future date with three 5*
@@ -517,7 +517,7 @@ Find the missing part of the box
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The manufacturer shall provide the manufacturer with the following information:
@@ -549,7 +549,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number in the question mark*
@@ -581,7 +581,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *path length*
@@ -614,7 +614,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many ways*
@@ -646,7 +646,7 @@ The manufacturer shall provide the manufacturer with the following information:
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many pirates?
@@ -678,7 +678,7 @@ How many pirates?
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of*
@@ -710,7 +710,7 @@ This is the total amount of*
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *total together*
@@ -746,7 +746,7 @@ This is the total amount of*
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *true statement *
@@ -786,7 +786,7 @@ This is the total amount of*
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 I'm on my way. I'm coming in.
@@ -822,7 +822,7 @@ I'm on my way. I'm coming in.
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *central number*

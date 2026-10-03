@@ -73,7 +73,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Notabili famiglie di funzioni su [0,+inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato da gruppi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6). *
@@ -163,7 +163,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nomeri interi joviali: numeri interi p che ammette una sequenza di numeri interi >=2 che finiscono a p e la cui reciprocità somma a 1; esempi, due sequenze di numeri interi e un limite superiore ottimale per i numeri interi joviali di ordine fisso dimostrato da induzione.*
@@ -238,6 +238,7 @@ level: Concours Général
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Più di una possibilità su due per tutti: dadi e urne non transitivi; calcolare e confrontare le probabilità di vittoria, analizzare un gioco di scelta, usare la successione di Fibonacci e dimostrare per induzione che esiste una distribuzione non transitiva per ogni n.*
 
 > $\textbf{3.1 Dice and urns}$
@@ -297,7 +298,5 @@ level: Concours Général
 >
 > $\textbf{b.}$
 > Si dimostri, per ogni intero positivo $n \ge 3$, che l’affermazione $\mathscr{N}_n$ è vera.
-
-
 
 [[Quesiti/src_cgen_2019#q03|src_cgen_2019__Q03]]

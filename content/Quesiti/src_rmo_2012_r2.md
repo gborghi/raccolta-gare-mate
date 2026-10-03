@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo quadrante inserito nel quadrato unitario, radio *
@@ -57,7 +57,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insieri positivi con divisibilità, stesso insieme di divisori primi*
@@ -84,7 +84,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie di conteggio {A,B} con sottoinsiemi A,B di {1,...,12} che soddisfano le condizioni*
@@ -113,7 +113,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ceviani triangolari, rapporto tra BP/PQ *
@@ -142,7 +142,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che x^3y+y^3z+z^3x è costante dato due condizioni lineari*

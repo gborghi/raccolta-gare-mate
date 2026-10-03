@@ -36,7 +36,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Next drawing of the reflected series*
@@ -79,7 +79,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sticks after breaking one *
@@ -119,7 +119,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weight of chocolate heart*
@@ -173,7 +173,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number X in the triangle of Tartaglia*
@@ -218,7 +218,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sitting in the canoe*
@@ -260,7 +260,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Correct equality between operations*
@@ -303,7 +303,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students to be added for 6 equal groups*
@@ -344,7 +344,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum distance from Peter to school*
@@ -381,7 +381,7 @@ level: kangourou
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Roberta's age when Cristina has the double
@@ -425,7 +425,7 @@ Roberta's age when Cristina has the double
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Images visible in the mirror*
@@ -471,7 +471,7 @@ Roberta's age when Cristina has the double
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most kangaroos with distinct candies*
@@ -515,7 +515,7 @@ Roberta's age when Cristina has the double
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Train carriages where they meet*
@@ -557,7 +557,7 @@ Roberta's age when Cristina has the double
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solid other than the other four *
@@ -600,7 +600,7 @@ Roberta's age when Cristina has the double
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many more stamps does Arthur have?
@@ -642,7 +642,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles with 17 total vertices*
@@ -686,7 +686,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum firefighters for 11 squares*
@@ -732,7 +732,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Caramel in the trash with the largest number *
@@ -778,7 +778,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shoes remaining after the mile*
@@ -826,7 +826,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Joints used in the construction of 4 cubes*
@@ -869,7 +869,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with a sum of 4*
@@ -913,7 +913,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the canvas of Elsa*
@@ -953,7 +953,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *When all the candles are off*
@@ -995,7 +995,7 @@ How many more stamps does Arthur have?
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the loan.
@@ -1044,7 +1044,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points on the upper face of the dice*

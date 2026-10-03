@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mediano incircolo; prova lati in rapporto 5:10:13*
@@ -60,7 +60,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il beta minimo per la frazione strettamente tra due razionali*
@@ -92,7 +92,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre equazioni condividono la radice; dimostrare che la radice è negativa e la terza ha radici non reali*
@@ -120,7 +120,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il numero a 6 cifre del 2005 con numeri in ordine non crescente*
@@ -150,7 +150,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza costruita aggiungendo cifre non zero; dimostrare infiniti termini pari*
@@ -179,7 +179,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le f: R a R soddisfacenti f(x^2 + yf(z)) = xf(x) + zf(y) *

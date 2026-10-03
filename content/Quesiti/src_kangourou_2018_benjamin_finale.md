@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fast way to calculate S divided 2018*
@@ -56,7 +56,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum cassette that Eugenio holds with 4 vans
@@ -86,7 +86,7 @@ Maximum cassette that Eugenio holds with 4 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *B rounds so that the three tiles are back in line*
@@ -117,7 +117,7 @@ Maximum cassette that Eugenio holds with 4 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rights for two vertices of the cube without pins*
@@ -146,7 +146,7 @@ Maximum cassette that Eugenio holds with 4 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Auto in the six smallest groups by sum of digits*
@@ -174,7 +174,7 @@ Maximum cassette that Eugenio holds with 4 vans
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal distribution of the €8 with the points problem*

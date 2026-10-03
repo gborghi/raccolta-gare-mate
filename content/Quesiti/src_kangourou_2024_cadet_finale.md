@@ -25,7 +25,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The meaning of KAB can be deduced from the answer*
@@ -52,7 +52,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *More are reducing or non-reducing fractions (1..12) *
@@ -99,7 +99,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two triangles with two sides and equal height are congruent*
@@ -145,7 +145,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum antenna distance from the most distant dwelling*
@@ -172,7 +172,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Because the result of Marco is always 1089
@@ -199,7 +199,7 @@ Because the result of Marco is always 1089
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of lines to cover the vertices of the squares*

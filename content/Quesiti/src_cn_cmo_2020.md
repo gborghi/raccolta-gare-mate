@@ -33,7 +33,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con termini unici reali e termini pari immaginari; ridurre al minimo il modulo di somme parziali*
@@ -71,7 +71,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più piccolo n in modo che due congruenze mod m siano risolvibili da numeri interi, un coprimo a m*
@@ -105,7 +105,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n con 36 fattori primi; conteggio di numeri interi copri a n in cinque subintervalli uguali; limite inferiore sulla somma delle differenze quadrate*
@@ -137,7 +137,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto inserito in un cerchio; linea attraverso il centro parallela a AM; dimostrare l'uguaglianza delle somme di angoli*
@@ -172,7 +172,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polyedro convex con vertici di grado 3 e numero pari di ogni k-gon; formica attraversa un percorso di bordo chiuso che divide ugualmente la superficie; prova curva sinistra uguale curva destra*
@@ -206,7 +206,7 @@ level: China Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le funzioni f: N+ -> N+ con f(f(x) + y) dividendo x+f(y)*

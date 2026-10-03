@@ -26,7 +26,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers divisible by 11 with N/11 sum to square digits*
@@ -54,7 +54,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of x for which the inequality is rooted*
@@ -82,7 +82,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Try tan(alpha)=4nh/(((n^2-1) a) in the rectangular triangle*
@@ -108,7 +108,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Building triangle data has, hb and median but*
@@ -139,7 +139,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Medium and point locations on cube segments*
@@ -174,7 +174,7 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cone with inscribed sphere and circumscribed cylinder, minimum k*
@@ -211,7 +211,7 @@ level: IMO
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Points on the axis of an isosceles trapezoid at right angles*

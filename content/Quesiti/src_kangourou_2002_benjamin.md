@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-palindromic alignment *
@@ -69,7 +69,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Line that cannot be part of the profile*
@@ -106,7 +106,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The euro that John gives to Stephen
@@ -147,7 +147,7 @@ The euro that John gives to Stephen
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Members of the Kangourou family*
@@ -190,7 +190,7 @@ The euro that John gives to Stephen
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum mice for one colour of each *
@@ -227,7 +227,7 @@ The euro that John gives to Stephen
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is a list of the countries of the European Union.
@@ -259,7 +259,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Collana with two thirds black heart*
@@ -299,7 +299,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sweets eaten by Andrea*
@@ -342,7 +342,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distinct angles less than 180 degrees *
@@ -384,7 +384,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bags in the third box*
@@ -442,7 +442,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle area from the midpoints*
@@ -496,7 +496,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the square IV*
@@ -540,7 +540,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Movement of the bee in the hive*
@@ -579,7 +579,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Raise the height of the ceiling*
@@ -633,7 +633,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Relation between coloured areas Q,T,S,P*
@@ -684,7 +684,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *False claim on animals*
@@ -721,7 +721,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of salt in solution*
@@ -760,7 +760,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum intersection points of three figures*
@@ -799,7 +799,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color as opposed to white*
@@ -839,7 +839,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the weights of the five boys*
@@ -884,7 +884,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tops eaten by 15 cats in 15 hours*
@@ -926,7 +926,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Applause by multiples or digit 3*
@@ -964,7 +964,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of segment lengths in the rectangle*
@@ -1005,7 +1005,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ascended length given time difference*
@@ -1044,7 +1044,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering of the last dish*
@@ -1089,7 +1089,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most sum of digits of the sum of digits *
@@ -1139,7 +1139,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sizes for 7 slices with one star*
@@ -1184,7 +1184,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total weight of the hexagonal network*
@@ -1228,7 +1228,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Matches played throughout the tournament*
@@ -1297,7 +1297,7 @@ This is a list of the countries of the European Union.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers in the centre with equal sums*

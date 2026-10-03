@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *gcd operazione sulla lavagna, numero finale non quadrato*
@@ -53,7 +53,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *le linee BX e CY si incontrano sul circolo di ADE*
@@ -82,7 +82,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
@@ -114,7 +114,7 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *nessuna etichettatura di griglia infinita con 1,2,3 soddisfa tutte e tre le condizioni*
@@ -145,7 +145,7 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *trovare tutte le funzioni su coppie con condizioni di impostazione di livello e di spostamento*

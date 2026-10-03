@@ -50,7 +50,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Completamento di piastrelle per puzzle doministiche su k×n reti*
@@ -119,7 +119,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza minima della valigia per confezionare n piastrelle quadrate perfettamente o quasi in rotazione*
@@ -194,7 +194,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco strategico di pizza-sharing: massimizzazione del guadagno con le pizze circolari e quadrate*
@@ -285,7 +285,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco per due giocatori che muove mobili in un magazzino 1D e 2D*
@@ -368,7 +368,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scapping etichette poligonali rimuovendo i triangoli con una regolazione unità*
@@ -443,7 +443,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La polizia drone cattura il ladro sul grafico della città in pochi giorni.
@@ -528,7 +528,7 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Movimento di oggetti nella foresta di Chambord di alberi di reticola integrale tramite traduzioni e rotazioni*
@@ -614,7 +614,7 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Robot auto-replicanti su galassie planetarie modulari e distribuzioni improprie*

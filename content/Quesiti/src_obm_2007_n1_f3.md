@@ -34,7 +34,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i quadrati verniciati nel modello della griglia; trova la griglia con 199 quadrati verniciati*
@@ -73,7 +73,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due tappeti coprono 81 m2 di pavimento; tappeto B area duplice tappeto A; trovare la superficie del pavimento non coperta*
@@ -118,7 +118,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre carte a faccia in giù con diversi numeri interi positivi che sommano a 13 aumentando da sinistra a destra; dedurre la carta centrale*
@@ -175,7 +175,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construire tabelle di numeri naturali le cui somme di righe e colonne sono esattamente da 1 a n; determinare la fattibilità*
@@ -218,7 +218,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa digitali di 9 volte il prodotto di cinque e due numeri di repunito del 2007*

@@ -80,7 +80,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Aggregazione su una parabola: un'operazione definita geometricamente tramite sezioni/tangenti a y=x^2 che raggiungono la linea y=-1; associazione, quindi una sequenza di punti e la sua convergenza tramite altezze di razionali.*
@@ -198,7 +198,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze positive e limitate: per la ricorrenza u_{n+2}=u_{n+1}^2 - alfa u_n^4 con u_0=u_1=1, determinare quale alfa reale rende tutti i termini positivi (proprietà P) e quali rendono la sequenza limitata (proprietà B).*
@@ -260,7 +260,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(x+1)=1/2+sqrt(f(x)-f(x)^2): mostrare una soluzione continua, dimostrare che ogni soluzione è periodica, e produrre infinite soluzioni continue con f(0)=1/2.*

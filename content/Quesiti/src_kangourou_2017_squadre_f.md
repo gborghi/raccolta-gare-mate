@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little special number (product first = final sum) *
@@ -62,7 +62,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
@@ -93,7 +93,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dcba = double of abb with different digits*
@@ -123,7 +123,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of n positive n with n^2+12 divisible by n+4*
@@ -153,7 +153,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many blue dots given the probability of 9/11*
@@ -191,7 +191,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *parallelograms on the keyboard*
@@ -225,7 +225,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum surface area by gluing cubes 1, 8 and 27*
@@ -258,7 +258,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum euro in the jacket with pocket restrictions*
@@ -291,7 +291,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of subsets of 7 in arithmetic progression*
@@ -324,7 +324,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wheat in the removed box (trip blue red) *
@@ -354,7 +354,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *United number of 1^3+2^3+...+2017^3*
@@ -421,7 +421,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Squared sum of trapezoidal areas S1 and S4 in hexagons*
@@ -487,7 +487,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining partition by 9 of the large number*
@@ -521,7 +521,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of areas T and P with the same perimeter*
@@ -568,7 +568,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number ending in 2017 for 123*

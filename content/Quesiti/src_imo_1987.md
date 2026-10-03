@@ -35,6 +35,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Somma di k volte i numeri di permutazioni con k punti fissi uguale a n!*
 
 > Sia pn(k) il numero delle permutazioni dell'insieme {1, . . . , n}, n ≥1, che
@@ -45,8 +46,6 @@ level: IMO
 > k · pn(k) = n!.
 > (Osservazione: una permutazione f di un insieme S è una corrispondenza biunivoca di S in sé.
 > Un elemento i di S si dice punto fisso della permutazione f se f(i) = i.)
-
-
 
 [[Quesiti/src_imo_1987#q01|src_imo_1987__Q01]]
 
@@ -73,11 +72,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *I quadrilatero AKNM e il triangolo ABC hanno aree uguali*
 
 > In un triangolo acutangolo ABC, la bisettrice interna dell'angolo A interseca BC in L e la circonferenza circoscritta ad ABC nuovamente in N. Dall punto L si conducono le perpendicolari a AB e AC; i piedi di queste perpendicolari sono rispettivamente K e M. Si dimostri che il quadrilatero AKNM e il triangolo ABC hanno la stessa area.
-
-
 
 [[Quesiti/src_imo_1987#q02|src_imo_1987__Q02]]
 
@@ -113,6 +111,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Combinazione intera limitata di reali con norma unitaria è piccola*
 
 > Siano x1, x2, . . . , xn numeri reali tali che x2
@@ -129,8 +128,6 @@ level: IMO
 > Havana, Cuba
 > Giorno II
 > 11 luglio 1987
-
-
 
 [[Quesiti/src_imo_1987#q03|src_imo_1987__Q03]]
 
@@ -154,12 +151,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Nessuna funzione sui numeri naturali con f(f(n))=n+1987*
 
 > Si dimostri che non esiste alcuna funzione f dall'insieme degli interi non negativi in sé
 > tale che f(f(n)) = n + 1987 per ogni n.
-
-
 
 [[Quesiti/src_imo_1987#q04|src_imo_1987__Q04]]
 
@@ -185,14 +181,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *n punti con distanze irrazionali e aree triangolari razionali*
 
 > Sia n un intero maggiore o uguale a 3. Si dimostri che esiste un insieme di n
 > punti del piano tale che la distanza tra due punti qualsiasi è irrazionale
 > e tre punti qualsiasi determinano un triangolo non degenere di area
 > razionale.
-
-
 
 [[Quesiti/src_imo_1987#q05|src_imo_1987__Q05]]
 
@@ -219,10 +214,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Polinomio quadratrico che genera numeri primi estende la primalità a un intervallo più ampio*
 
 > Sia n un intero maggiore o uguale a 2. Si dimostri che se k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ √(n/3), allora k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ n − 2.
-
-
 
 [[Quesiti/src_imo_1987#q06|src_imo_1987__Q06]]

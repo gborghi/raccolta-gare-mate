@@ -54,7 +54,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco che mangia chip su un layout di n pile di n chip: due giocatori si alternano, un chip può essere mangiato solo se i suoi vicini sono ancora coperti; contare gli stati e analizzare le strategie ottimali, quindi ripetere su un layout di piramide.*
@@ -141,7 +141,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sulla lavagna Morris dei Nove Uomini, definire una 'figura di miglio': punti e segmenti dritti con ciascun segmento che detiene 3 punti e ogni punto su 2 segmenti; trovare il numero minimo di punti, la connessione, le classi di somiglianza e il conteggio, con una variante generalizzata.*
@@ -231,7 +231,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra N barili, esattamente k sono contaminati da un colorante letale; utilizzando i rilevatori che testano miscele di barili scelti, si trova una strategia che riduce al minimo il numero di rilevatori $D_{N,k}(S)$ in modelli di rilevatori perfetti, sensibili alla soglia, probabilistici e dinamici.*
@@ -318,7 +318,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Collane di perle di lunghezza l con valori interi sommati al prezzo p, considerati uguali fino alla rotazione e evitando m perle di valore 0 consecutivo; collane di conteggio $C(l,p,m)$ e l'insieme ristretto $C_D(l,p,m)$ utilizzando solo valori in un sottinsieme D.*
@@ -410,7 +410,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Su un muro di arrampicata modellato in piano, definire un "cammino" di n afferrature ciascuna a distanza l dalla precedente, che sali all'interno dell'angolo alfa della verticale; trovare le condizioni per la coesistenza di due percorsi distinti, il numero minimo di afferrature e le disposizioni che massimizzino il numero di percorsi distinti.*
@@ -494,7 +494,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In una griglia di sgabelli m x n, le persone si sentono a proprio agio vicino ai vicini occupati; studiare i sedili quasi completi e il numero massimo di posti seduti, quindi varianti con sedili orientati verso la distanza 1, con fontane d'acqua che sostituiscono i sedili, e il numero previsto di posti seduti sotto arrivo casuale uniforme E(m,n).*
@@ -576,7 +576,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Definire un numero "permutativo" il cui doppio ha le stesse cifre tranne una cifra (0-4), sostituito dal doppio; "rotativo" sposta la prima cifra a durare e "fitatorio" sposta l'ultima cifra a durare. Decidere l'esistenza e contare tali numeri a n cifre, anche in altre basi.*
@@ -663,7 +663,7 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'algoritmo di classificazione inserimento-per-intervallo di Gaston inserisce a_k nella posizione k-th in cui il subintervallo [(k-1)/k, k/k] cade; studiare i punti fissi, il conteggio N(L) delle preimmagini, la sua min/max sulle permutazioni, il conteggio di classificazione iterata N'(L), e il numero peggiore di iterazioni da ordinare.*

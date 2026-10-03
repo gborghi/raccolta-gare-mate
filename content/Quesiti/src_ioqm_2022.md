@@ -27,7 +27,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo inciso in cerchio, tangente attraverso B, zona limitata*
@@ -56,7 +56,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma ABCD, punto P su AB, Q su AD, trovare AC/AT*
@@ -85,7 +85,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezoide, bisector interno incontra BC a E, incircolo di ABE tocca AB a M, trovare angolo DAE*
@@ -114,7 +114,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4 mosse ciascuna
@@ -143,7 +143,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno m in modo che la somma dei quadrati di 11 integri consecutivi da m sia un quadrato perfetto*
@@ -172,7 +172,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I numeri interi positivi a,b con a^3-b^3-ab=25, trovano i più grandi a^2+b^3*
@@ -201,7 +201,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie ordinate (a,b) in {10,...,30} con GCD(a,b)=LCM(a,b)-a-b*
@@ -230,7 +230,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I primi p e q soddisfano q^2+3p=197p^2+q, scrivono q/p=l+m/n, trovano il massimo l+m+n*
@@ -259,7 +259,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati 18, x<100, esattamente 35 valori integri validi per il terzo lato*
@@ -288,7 +288,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a 10 cifre 9876543210, contare i nuovi numeri ottenuti scambiando coppie di cifre adiacenti disgiunte*
@@ -317,7 +317,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diametro AB, C su cerchio, perpendicolare da C incontra il cerchio a D ed E, cerchio centrato a C raggio CD incontra l'omega a P,Q, trovare PQ dato perimetro di PEQ è 24*
@@ -346,7 +346,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angoli 60 e 30, trapezio BPQR interno, ritrovare il rapporto di superficie minimo *
@@ -375,7 +375,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, D su BC con AD=BC, angoli x,y,z in AP, trovare angolo più grande ABC*
@@ -408,7 +408,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri complessi con tre equazioni di somma simmetriche, trovare m+n per x/yz+y/zx+z/xy=m/n*
@@ -439,7 +439,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Real x,y con xy=1, trovare il più grande e il più piccolo di un'espressione simmetrica, calcolare T+t*
@@ -470,7 +470,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reals a,b,c soddisfa tre equazioni, abc prende due valori razionali, trova r+s+t+u*
@@ -499,7 +499,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(n) = n meno il più grande divisore primo di n, trovare piano(sqrt(N)) dove f(f(N)))=97*
@@ -530,7 +530,7 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
@@ -559,7 +559,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *String di n 1s, inserire + segni per sommare a 1000, contare n valido, trovare la somma di numeri di conto*
@@ -588,7 +588,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti di riferimento di permutazione, trovare il massimo n>=3 per L(n) un quadrato perfetto*
@@ -617,7 +617,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ante sul vertice cubo, si muove al vertice adiacente ogni 10 minuti, viaggi di un'ora di ritorno al punto di partenza*
@@ -646,7 +646,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenze binarie amichevoli con n termini, trovare la più piccola n>=2 con F_n>100*
@@ -675,7 +675,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC, media AD divide angolo BAC in rapporto 1:2, EB perp AB, BE=3, BA=4, trovare il numero intero più vicino a BC*
@@ -704,7 +704,7 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire 52 palle identiche in 4 scatole, nessuna scatola vuota, differenze in coppia non multipli di 6*

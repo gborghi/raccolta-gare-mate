@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How long does the same 4 digits on the watch *
@@ -58,7 +58,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remove two boxes for true equality*
@@ -95,7 +95,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum colours in 10 separate bags*
@@ -125,7 +125,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of n^2 with n>2008*
@@ -156,7 +156,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 After all those seconds, Pimpy's back next to Arturo.
@@ -188,7 +188,7 @@ After all those seconds, Pimpy's back next to Arturo.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cutting and reconstituting the cake (two cuts) *

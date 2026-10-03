@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies 1-2018 multiples of both 20 and 14*
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Train length and timing of the two-way train*
@@ -93,7 +93,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible alignments 1 to 14 with condition max/min*
@@ -142,7 +142,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *6 square strip colouring modes with rotation*
@@ -189,7 +189,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of white/black cells not on the same line/column*
@@ -224,7 +224,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value a*b*b given that b/a = a,b decimal *
@@ -260,7 +260,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grams of material after 20 days (evaporation) *
@@ -291,7 +291,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum common divisors of two three-digit integers*
@@ -321,7 +321,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the difference in products close to 20182018*
@@ -354,7 +354,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Difference between max and min 5 digit palindromes divided by 45
@@ -386,7 +386,7 @@ Difference between max and min 5 digit palindromes divided by 45
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *one and 36 more than the average of the other two *
@@ -418,7 +418,7 @@ Difference between max and min 5 digit palindromes divided by 45
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular perimeter after folding of the canvas*
@@ -452,7 +452,7 @@ Difference between max and min 5 digit palindromes divided by 45
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rope length AB with three tangent circles, area 18pi*
@@ -484,7 +484,7 @@ Difference between max and min 5 digit palindromes divided by 45
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of the values 1 to 2 to 2 to 2 to 2 plus 4 to 2 plus... up to 100^2*
@@ -526,7 +526,7 @@ Sum of the values 1 to 2 to 2 to 2 to 2 plus 4 to 2 plus... up to 100^2*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of decimal places and units of 2^2019*

@@ -56,7 +56,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Propagation of good mood among leprechauns on a friendship graph; a number j is realizable if good mood can spread to all leprechauns starting from one.*
@@ -139,7 +139,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'acqua scorre attraverso una rete triangolare di tubi scivoli (tipi I, X, Z) che si dividono e si fondono; determinare quali distribuzioni di ingresso/uscita sono raggiungibili.*
@@ -222,7 +222,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diverse famiglie di schemi di marcatura graduano una piastra di torta circolare in modo da poterla tagliare in pezzi convexi di uguale dimensione; confrontano i numeri di graduation necessari.*
@@ -297,7 +297,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le larghezza delle ali delle farfalle si trasformano dimezzando o scalare (selezione media/massimale, duplicazione di ramificazione); studiare se le dimensioni rimangono limitate o crescono, e dedurre la legge di scalazione casuale.*
@@ -370,7 +370,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gerrymandering: spostamento di capitali distrettuali all'interno della loro cella Voronoi ogni anno; caratterizzare quali configurazioni di capitali sono raggiungibili su un disco, piano e dimensioni superiori.*
@@ -445,7 +445,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Optimizzare l'intervallo tra le fermate degli autobus su una linea in cui la velocità dell'autobus diminuisce con il numero di passeggeri V_k = V_0/(1+ln(k+1)); ridurre al minimo il tempo di aggregazione e di viaggio con le strategie di tenuta/scappa-stop.*
@@ -520,7 +520,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tollaggi stradali tra n città etichettati 1..n; tollaggio su una strada pari al massimo delle etichette dei suoi punti di fine; ottimizzazione del costo totale su vari grafici di rete, più un gioco di numerazione tra king e ASMR.*
@@ -609,7 +609,7 @@ level: TFJM²
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco per due giocatori colorando 2n punti su un cerchio (arancio/blu); il vincitore forma l'arco monocromatico più lungo. Studiare le strategie e le probabilità di vincere contro avversari casuali e qualificati.*

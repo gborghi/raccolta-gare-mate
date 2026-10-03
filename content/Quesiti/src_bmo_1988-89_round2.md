@@ -31,7 +31,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il più piccolo intero positivo a per quadratici con radici in (0,1)*
@@ -65,7 +65,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di righe di 5 A, 5 B, 5 C con ciascuna lettera adiacente alla lettera identica*
@@ -96,7 +96,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(n+1) per polinomio di grado n con f(k)=1/(k+1) per k=0,...,n*
@@ -123,7 +123,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca BM nel triangolo ABC dato BAM e BMC hanno uguali inradii*

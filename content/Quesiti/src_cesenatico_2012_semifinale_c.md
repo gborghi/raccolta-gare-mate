@@ -34,7 +34,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Starting day of collection of figures (doubles 1/13) *
@@ -69,7 +69,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Antenates Matemaya (branches with 7 males and 7 females) *
@@ -102,7 +102,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance tower A from the centre of the circle*
@@ -136,7 +136,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Other roots of x^2-bx+c=0 (b is odd, b is odd) *
@@ -171,7 +171,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of high power figures*
@@ -205,7 +205,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max gold in the two statues (weights and bonds) *
@@ -244,7 +244,7 @@ level: nazionale
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum red area on the faces of the parallel piped*
@@ -279,7 +279,7 @@ level: nazionale
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Water in the tetrahedral pool inscribed*
@@ -315,7 +315,7 @@ level: nazionale
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Guess consecutive number after 2012 No*
@@ -349,7 +349,7 @@ level: nazionale
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Somma |coeff| polinomio max grado con radici intere*
@@ -387,7 +387,7 @@ level: nazionale
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max roots >1 of palindrome polynomial of degree 2012*
@@ -420,7 +420,7 @@ level: nazionale
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Sun and Moon are likely to lose to an uninjured man.
@@ -453,7 +453,7 @@ The Sun and Moon are likely to lose to an uninjured man.
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Second year pyramid (counting zero) *
@@ -488,7 +488,7 @@ The Sun and Moon are likely to lose to an uninjured man.
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *consecutive scores (ABCD) *
@@ -521,7 +521,7 @@ The Sun and Moon are likely to lose to an uninjured man.
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minutes earned by the slowing Earth
@@ -589,7 +589,7 @@ Minutes earned by the slowing Earth
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Second light destroys surface from cubic vertices

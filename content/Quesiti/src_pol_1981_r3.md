@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due linee di intersezione si trovano in piani ortogonali; dimostrare l'esistenza di un cerchio i cui punti si trovano tutti sulla linea di intersezione di tali coppie di piani.*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC i bisettori perpendicolari di AB e AC incontrano BC a X e Y; dimostrare BC=XY se B tan C = 3 o = -1.*
@@ -81,7 +81,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una disuguaglianza di prodotto che limita il prodotto di x-alpha^k/(x+alpha^k) al prodotto di (1-alpha^k)/(1+alpha^k).*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n marcatori ognuno etichettato da un numero intero; se due condividono l'etichetta k, rinominare uno k+1 e l'altro k-1; dimostrare che tutti diventano distinti dopo numerose mosse finite.*
@@ -136,7 +136,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi (x,y) con x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un tetraedro di volume V con S la somma dei quadrati delle sue lunghezze di bordo, provare V <= S*sqrt(S)/(72*sqrt(3)).*

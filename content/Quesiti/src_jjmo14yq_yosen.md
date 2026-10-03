@@ -29,7 +29,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli interi con a*b e b*c entrambi pari*
@@ -60,7 +60,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza massima del segmento PQ per i punti che vedono AB a 60 e 120 gradi*
@@ -93,7 +93,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Medi di verniciare una griglia 6x6 coperte da una lavagna trasparente dipinta opaca*
@@ -132,7 +132,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La maggior parte delle persone ottiene almeno una mela in più dell'arancia*
@@ -163,7 +163,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca DF con ceviani che triseggono angolo A in tre parti a 45 gradi*
@@ -196,7 +196,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare m per i numeri interi positivi con m(m+57)=n(n+57)*
@@ -227,7 +227,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione di ricerca BA:BC data il punto medio della BD e angoli uguali*
@@ -258,7 +258,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande multiple di 37 con tutti i numeri distinti*
@@ -291,7 +291,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i coloranti rosso/blu della piramide a 15 rettangoli con propagazione verso il basso*
@@ -326,7 +326,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di quadrilaterale non convexa con angolo riflesso a D*
@@ -361,7 +361,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min autoincroci del percorso a un tempo su una figura triangolare di 2016 riga*
@@ -394,7 +394,7 @@ level: JJMO Yosen
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero massimo N di configurazioni di posizionamento delle frecce che concordano sugli obiettivi*

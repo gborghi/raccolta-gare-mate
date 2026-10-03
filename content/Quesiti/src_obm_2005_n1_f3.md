@@ -28,7 +28,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di piccoli cubetti necessari per formare una singola faccia di un grande cubo vuoto*
@@ -61,7 +61,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli rettangolari con gambe parallele ai bordi della griglia su una tabella 5x5*
@@ -98,7 +98,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri scritti in diagonale su una lavagna da 100x100 a partire dalla riga 1 colonna 50; trovare n e posizione del 2005*
@@ -135,7 +135,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rectangle ABCD con diagonali; triangolo BME con ME=MB e BE=BA; trovare la sua superficie e dimostrare BD parallela EC*
@@ -170,7 +170,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Proprietà P (numero perfetto) definita come somma di divisori positivi uguali a 2n; dimostrare che nessun quadrato perfetto ha proprietà P*

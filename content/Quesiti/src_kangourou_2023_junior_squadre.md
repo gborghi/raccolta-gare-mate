@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities of n in -2023..2023 with 1+4n multiple of 5*
@@ -59,7 +59,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of perimeter of two similar triangles*
@@ -94,7 +94,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of three-digit MEDI numbers*
@@ -126,7 +126,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cards with four axes given probability *
@@ -157,7 +157,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n/10 with 2023 cubes ending in 1*
@@ -191,7 +191,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Now given the motion of the spider on the watch*
@@ -259,7 +259,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length FE squared with AG, GF*
@@ -320,7 +320,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number 3 with several distinct divisors*
@@ -352,7 +352,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different alignments by deleting the letters ANCONA*
@@ -382,7 +382,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Less than 6 consecutive, maximum product of 10 digits*
@@ -413,7 +413,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full pairs of 10xy-x^2-9y^2=2023 *
@@ -444,7 +444,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n/100 divisible by 75 with 75 dividers*
@@ -478,7 +478,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tables purchased today at discounted prices*
@@ -510,7 +510,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of the euro available from the account*
@@ -565,7 +565,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *T whole triangle area, data AB,AC,ADC*

@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum four-pen bags with a maximum of two of the same colour*
@@ -57,7 +57,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the region bounded by four equal arcs*
@@ -89,7 +89,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the 6x6 grid with/without special position number*
@@ -120,7 +120,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the number of candlesticks per serving (two cuts) *
@@ -170,7 +170,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance of P from A by minimum route C-M (reflection) *
@@ -218,7 +218,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of units of n with 7n of 2021 digits*

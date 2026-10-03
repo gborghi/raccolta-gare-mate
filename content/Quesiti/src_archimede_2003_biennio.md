@@ -33,7 +33,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A resident's sign (knight/knight/normal) claiming to be a knight*
@@ -75,7 +75,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Position of an internal point at three circumferences*
@@ -116,7 +116,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the square given the radius of circumference, length 1*
@@ -158,7 +158,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between maximum and minimum number of sheets on the grid*
@@ -202,7 +202,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangles on a 5-pointed star with regular angles*
@@ -246,7 +246,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a region bounded in a square grid*
@@ -289,7 +289,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of decimal places, polynomial in n*
@@ -344,7 +344,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of digits with f(7n) +...; equivalent innate*
@@ -387,7 +387,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of pieces by cutting a ribbon with folds*
@@ -427,7 +427,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number to obtain a numeric value, base 10*
@@ -468,7 +468,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding F given a positive integer and factors of the figure *
@@ -510,7 +510,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Filling cells and bets on a chessboard, count*
@@ -553,7 +553,7 @@ level: biennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *full/empty volume report*
@@ -597,7 +597,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many true statements in the self-reference rectangle*
@@ -637,7 +637,7 @@ level: biennio
 **Anche in triennio:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantities n with 8n+50 multiple of 2n+1*
@@ -676,7 +676,7 @@ level: biennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 If the value of the input data is less than the value of the input data, the value of the input data shall be less than the input data.
@@ -733,7 +733,7 @@ If the value of the input data is less than the value of the input data, the val
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of angles at the ends of a five-pointed star*
@@ -805,7 +805,7 @@ If the value of the input data is less than the value of the input data, the val
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-degenerate triangles with vertices at six data points*
@@ -867,7 +867,7 @@ If the value of the input data is less than the value of the input data, the val
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *John's final distance after 186 steps to the diagram*
@@ -911,7 +911,7 @@ If the value of the input data is less than the value of the input data, the val
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Comparison of grey areas with square tangent circles*

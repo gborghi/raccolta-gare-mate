@@ -38,7 +38,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers placed with exactly 29 multiples, not prime*
@@ -83,7 +83,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Oblique side of rectangular trapezoid by sums of squares*
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of reaching the summit with biforcations*
@@ -171,7 +171,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies n with n^2 and n^3 sums of consecutive *
@@ -213,7 +213,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to deduce the number thought*
@@ -261,7 +261,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Remaining Form 6 of recurring term of succession*
@@ -313,7 +313,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to tie a loop through six hooks*
@@ -358,7 +358,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Major area of brick perimeter for two rooms*
@@ -403,7 +403,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six-digit numbers from three consecutive pairs, not divided by 2/5/11*
@@ -442,7 +442,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of cubic roots of a fifth degree polynomial*
@@ -483,7 +483,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most integer value of (x^2+xy+y^2)/10 below 9999 *
@@ -520,7 +520,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum k with MCD(k^2021-1,k^2020-1) equal to 2021*
@@ -578,7 +578,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * sum of max and min that say the real *
@@ -621,7 +621,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum height of parallel piped on a plane inclined by 30 degrees*
@@ -665,7 +665,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the fourth root of a plus the fourth root of b*
@@ -700,7 +700,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n to divide cards 1..n into four squares is equal to *
@@ -728,7 +728,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio between lower and upper beam of glass solid*
@@ -757,7 +757,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five-digit codes with a product of 108 digits *
@@ -785,7 +785,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of infection by meeting six pairs*
@@ -814,7 +814,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to arrange ten people on two files for the photo*
@@ -842,7 +842,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height in the lower cone when the two cones have equal chocolate*

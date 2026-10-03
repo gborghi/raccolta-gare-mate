@@ -37,7 +37,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle, bisector and center circle*
@@ -80,7 +80,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers with 4 divisors and sum of divisors 42*
@@ -125,7 +125,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shoes in packages, minimum packages for three pairs*
@@ -170,7 +170,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequence sum of 4 consecutive constant, sum total*
@@ -217,7 +217,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Round table students, four types, sum of*
@@ -262,7 +262,7 @@ Round table students, four types, sum of*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Calculator +1 and x3, numbers that can be obtained without exploding*
@@ -305,7 +305,7 @@ Round table students, four types, sum of*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inscribed trapezoid, perpendicular diagonals, area ratio*
@@ -349,7 +349,7 @@ Round table students, four types, sum of*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-point play, who's second in the round*
@@ -393,7 +393,7 @@ Round table students, four types, sum of*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equation between polynomials, certain property*
@@ -437,7 +437,7 @@ Round table students, four types, sum of*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Full colour with 6 colours, conditions*
@@ -482,7 +482,7 @@ Full colour with 6 colours, conditions*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Circles centered in perfect squares, castle perimeter*
@@ -528,7 +528,7 @@ Full colour with 6 colours, conditions*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Chess tournament, matches, final zeros of n *
@@ -566,7 +566,7 @@ Full colour with 6 colours, conditions*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Knights and thieves at the table, 3 are wrong
@@ -596,7 +596,7 @@ Knights and thieves at the table, 3 are wrong
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples (x,y) with x+y and xy+1 powers of 2*
@@ -629,7 +629,7 @@ Knights and thieves at the table, 3 are wrong
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lamp lamps in a row, moved with first ratio *
@@ -660,7 +660,7 @@ Knights and thieves at the table, 3 are wrong
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Isosceles triangle, circus, conic points*
@@ -696,7 +696,7 @@ Knights and thieves at the table, 3 are wrong
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Self-descriptive 'correct' numbers, maximum number counting *

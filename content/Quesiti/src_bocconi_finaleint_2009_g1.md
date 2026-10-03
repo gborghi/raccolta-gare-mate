@@ -34,7 +34,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of L-tetramins that can be placed without overlapping in a 6x5 chessboard. *
@@ -66,7 +66,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Initial number of seeds, derived from a ratio between three times the dates and the remaining seeds.*
@@ -96,7 +96,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *37th succession number obtained by adding the digits and multiplying by 7.*
@@ -126,7 +126,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum side of a square containing without overlap two rectangles of data.*
@@ -159,7 +159,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete a self-referential sentence with two digits so that it is true.*
@@ -191,7 +191,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five sums on the segments are five consecutive numbers.
@@ -223,7 +223,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Small number written only with digits 4 and 6 (at least one of each) divisible by 4 or 6.*
@@ -255,7 +255,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of columns on a nine-point grid without three columns of the same colour at the vertices of an equilateral triangle.*
@@ -287,7 +287,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of points visible on the faces of a cube 3x3x3 made up of 27 dice.*
@@ -317,7 +317,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of moves (turn 7 glasses at a time) to bring all 9 glasses to the drying stage.*
@@ -349,7 +349,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total minimum length of cut to reconstitute a whole side square from a rectangle cut into two pieces.*
@@ -381,7 +381,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the region reachable by a dog tied with a 3 m rope to a top of a 1 m side hexagonal fold.*
@@ -411,7 +411,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a triangle known by two conditions of reciprocal coverage with a side square of 4 cm.*
@@ -441,7 +441,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding all two-digit simplifiable fractions a/b by (erroneously) deleting the common denominator, such as 49/98=4/8.*
@@ -471,7 +471,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of different cubes drawing a diagonal on each of the six faces.*
@@ -501,7 +501,7 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that an ant, after 7 random movements on the tips of a cube, has passed through all 8 vertices
@@ -533,7 +533,7 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ratio of large and small radii in the blade of tangent circle arcs, with integer radii in mm.*
@@ -567,7 +567,7 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To arrange the numbers from 2 to 16 in the triangle discs with the same sum on the 9 lines and vertices a<b<c.*

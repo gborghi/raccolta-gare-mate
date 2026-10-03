@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un intero positivo con il primo numero 1 triplicato spostandolo*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il rapporto massimo e min PC/PD sul segmento AB del quadrato*
@@ -82,7 +82,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angoli di quadrilaterali convexi con cos somma zero implica ciclico*
@@ -109,7 +109,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore equo di p per il gioco di monete pregiudiziale con sequenze HHH o HTH*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le diagonali di quadrilaterali convexi si incontrano a O; dimostrare che la PQ è perpendicolare a RS*
@@ -169,7 +169,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione razionale x,y soddisfacente implica che 1-xy è quadrato di razionale*

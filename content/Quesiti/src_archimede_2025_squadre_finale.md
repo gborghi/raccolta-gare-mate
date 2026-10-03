@@ -35,7 +35,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers equal to 3 digits with hundreds > sum of other digits*
@@ -67,7 +67,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum eulerian path widths on icosahedron*
@@ -101,7 +101,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of n digits with 2025n digits written from 1 to n*
@@ -139,7 +139,7 @@ level: squadre
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to arrange 8 towers not in the same colour*
@@ -201,7 +201,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum exaggeration area on the lattice with side-boundary constraints*
@@ -257,7 +257,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Prime sum of the form n^4-2023n^2+1*
@@ -292,7 +292,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial with p(p(x))=p(x) +x^4+x^2+1, calculated p(2025) *
@@ -327,7 +327,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 5 distinct non-zero digits self-divisible*
@@ -363,7 +363,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of all coins equal to reverse currency movements*
@@ -403,7 +403,7 @@ level: squadre
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle with condition on circus, AC*
@@ -447,7 +447,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *As a reference to the calculator (a^3+1)/(a+1)^3*
@@ -485,7 +485,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mean sum of 2025,abcd minimum with 10000 judges*
@@ -517,7 +517,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The last four digits of 1^7+2^7+...+2025^7*
@@ -555,7 +555,7 @@ The last four digits of 1^7+2^7+...+2025^7*
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Distance BC from AE, AD, DM (median, biset, height)
@@ -595,7 +595,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different areas with a symmetrical triangle to the centre*
@@ -636,7 +636,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Iterated equilateral triangles 1000a/b, last rod*
@@ -671,7 +671,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Radio-circumference-touched lattice shafts 2025*
@@ -704,7 +704,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * x^2+3xy+5y^2=3149 and
@@ -739,7 +739,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode 8 towers not included 4 white 4 black*
@@ -774,7 +774,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *10000 times real root product of 16x^4-16x^3-4x+1 *
@@ -821,7 +821,7 @@ Distance BC from AE, AD, DM (median, biset, height)
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of sub-tetrahedron by volume of sub-tetrahedron *

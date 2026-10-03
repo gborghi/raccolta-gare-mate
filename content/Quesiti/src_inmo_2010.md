@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo, bisettore angolare, punti di intersezione, PQ parallelo a BC*
@@ -57,7 +57,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le n>1 in modo che n2 non divida (n-2)!*
@@ -86,7 +86,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i reali non zero x,y,z che soddisfano un sistema di equazioni*
@@ -115,7 +115,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare 6 tupli dove ogni elemento è uguale ad un'espressione in termini adiacenti*
@@ -144,7 +144,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, ortocentro, circoncentro; Q sulla linea HO, prova AK perpendicolare*
@@ -179,7 +179,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza definita da recidiva; prova 2^k divide a_n se 2^k divide a_{2^n}*

@@ -39,7 +39,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum difference between two angles of an integer scalene triangle*
@@ -87,7 +87,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of knights on the island of crooks and knights*
@@ -131,7 +131,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many consecutive fifty with equal mean and product mult 11 and 13*
@@ -177,7 +177,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum n per polygon with angles in progression of 30*
@@ -221,7 +221,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure of HK in rectangle divided into three congruent *
@@ -287,7 +287,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length PB in rectangular triangle with angles of 30-60*
@@ -357,7 +357,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the BCQ triangle in the garden of Santina*
@@ -396,7 +396,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of power units for 2024*
@@ -444,7 +444,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the dodecahedron around the regular hexagon*
@@ -491,7 +491,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of coins in 12 pockets with separate counts*
@@ -551,7 +551,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure area obtained by removing rectangles from a square*
@@ -587,7 +587,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perfect square after n*
@@ -633,7 +633,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which number cannot be produced from the dividers*
@@ -674,7 +674,7 @@ level: Classi Prime
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Any number between 2 and 900 has exactly 3 divisors.
@@ -715,7 +715,7 @@ Any number between 2 and 900 has exactly 3 divisors.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to divide 6 girls into 3 teams by 2
@@ -777,7 +777,7 @@ How to divide 6 girls into 3 teams by 2
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Scribers who know how to play chess and ladies (together) *
@@ -821,7 +821,7 @@ How to divide 6 girls into 3 teams by 2
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unordered pairs of balls of different colour*
@@ -862,7 +862,7 @@ How to divide 6 girls into 3 teams by 2
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of three numbers given the combined sum 396*

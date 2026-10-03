@@ -30,14 +30,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Processo di ordinamento della catena di monete, monete finali dello stesso tipo*
 
 > La banca di Oslo emette due tipi di moneta: alluminio (indicato con $A$) e bronzo (indicato con $B$). Marianne possiede $n$ monete in alluminio e $n$ monete in bronzo, disposte in fila in un ordine iniziale arbitrario. Una catena è qualsiasi sottosequenza di monete consecutive dello stesso tipo. Dato un fissato intero positivo $k \le 2n$, Marianne ripete ripetutamente l'operazione seguente: identifica la catena più lunga che contiene la moneta $k^{\text{th}}$ a partire da sinistra, e sposta tutte le monete di tale catena all'inizio della fila. Ad esempio, se $n = 4$ e $k = 4$, il processo a partire dall'ordinamento $AABBBABA$ sarebbe
 > $$AABBBABA \to BBBAAABA \to AAABBBBA \to BBBBAAA A \to AAAABBBB \to BBBBAAAA \to \cdots$$
 >
 > Determinare tutte le coppie $(n, k)$ con $1 \le k \le 2n$ tali che, partendo da qualsiasi ordinamento iniziale, in qualche momento del processo le rimanenti $n$ monete siano tutte dello stesso tipo.
-
-
 
 [[Quesiti/src_imho_2022#q01|src_imho_2022__Q01]]
 
@@ -62,12 +61,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni f: R+ → R+ tali che xf(y) + yf(x) ≤ 2*
 
 > Sia $\mathbb{R}^+$ l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f\colon \mathbb{R}^+ \to \mathbb{R}^+$ tali che, per ogni $x \in \mathbb{R}^+$, esista esattamente un $y \in \mathbb{R}^+$ che soddisfi
 > $$x f(y) + y f(x) \le 2.$$
-
-
 
 [[Quesiti/src_imho_2022#q02|src_imho_2022__Q02]]
 
@@ -91,11 +89,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Insieme di numeri primi dispari su un cerchio, prodotto di vicini forma x²+x+k*
 
 > Sia $k$ un intero positivo e sia $S$ un insieme finito di numeri primi dispari. Si dimostri che esiste al più un modo (a meno di rotazione e riflessione) per disporre gli elementi di $S$ intorno a una circonferenza in modo che il prodotto di ogni coppia di elementi vicini sia della forma $x^2 + x + k$ per qualche intero positivo $x$.
-
-
 
 [[Quesiti/src_imho_2022#q03|src_imho_2022__Q03]]
 
@@ -119,11 +116,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Pentagono convesso ABCDE con BC=DE, si dimostri che P,S,Q,R sono ciclici*
 
 > Sia $ABCDE$ un pentagono convesso tale che $BC = DE$. Si assuma che esista un punto $T$ interno a $ABCDE$ tale che $TB = TD$, $TC = TE$ e $\angle ABT = \angle TEA$. Sia la retta $AB$ che interseca le rette $CD$ e $CT$ rispettivamente nei punti $P$ e $Q$. Sia la retta $AE$ che interseca le rette $CD$ e $DT$ rispettivamente nei punti $R$ e $S$. Si assuma inoltre che i punti $P$, $Q$, $A$, $S$ giacciano sulla stessa retta in quest'ordine. Si dimostri che i punti $P$, $S$, $Q$, $R$ sono conciclici.
-
-
 
 [[Quesiti/src_imho_2022#q04|src_imho_2022__Q04]]
 
@@ -148,12 +144,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le terne (a,b,p) di interi positivi, con p primo, tali che a^b + b = p^a*
 
 > Determinare tutte le terne $(a, b, p)$ di interi positivi con $p$ primo e
 > $$a^b + b = p^a.$$
-
-
 
 [[Quesiti/src_imho_2022#q05|src_imho_2022__Q05]]
 
@@ -181,6 +176,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Percorsi in salita su quadrato nordico: determinare il minimo totale come funzione di n*
 
 > Sia $n$ un intero positivo. Una scacchiera nordica è una tabellone $n \times n$ che contiene tutti gli interi da $1$ a $n^2$, in modo che ogni cella contenga esattamente un numero. Due celle si dicono adiacenti se condividono un lato comune. Ogni cella che è adiacente soltanto a celle contenenti numeri più grandi viene detta valle. Un cammino in salita è una sequenza di una o più celle tale che:
@@ -190,7 +186,5 @@ level: IMO
 > (iii) i numeri scritti nelle celle della sequenza formano una successione crescente.
 >
 > Determinare, in funzione di $n$, il numero minimo possibile di cammini in salita in una scacchiera nordica.
-
-
 
 [[Quesiti/src_imho_2022#q06|src_imho_2022__Q06]]

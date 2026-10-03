@@ -32,7 +32,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *height*
@@ -65,7 +65,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 A, b, c, d with abcd = 40! e ab=n!*
@@ -98,7 +98,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gems at the 127-acre rope junction points*
@@ -137,7 +137,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Druids and impellers (multiple of 3 impellers) *
@@ -170,7 +170,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AEFG quadrilateral area with mean points *
@@ -210,7 +210,7 @@ A, b, c, d with abcd = 40! e ab=n!*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Line up 9 soldiers with close sums multiple of 3
@@ -245,7 +245,7 @@ Line up 9 soldiers with close sums multiple of 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following information is provided by the manufacturer:
@@ -279,7 +279,7 @@ The following information is provided by the manufacturer:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who's telling the truth
@@ -314,7 +314,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *decode numbers*
@@ -347,7 +347,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum stamps of 255 and 210 for 7050*
@@ -379,7 +379,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres with different squares = square of first*
@@ -410,7 +410,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Convert 111111111 from base 9 to base 10*
@@ -445,7 +445,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *fourth number (decreasing) *
@@ -476,7 +476,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of whole solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of
@@ -510,7 +510,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the village search square*
@@ -549,7 +549,7 @@ Who's telling the truth
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Other, of a kind used in the manufacture of bicycles and bicycles

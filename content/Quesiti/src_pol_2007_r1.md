@@ -29,7 +29,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli reali risolvendo un sistema quadratico simmetrico.*
@@ -56,7 +56,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca coppie di numeri interi positivi che rendano k^2+4m e m^2+5k quadrati perfetti.*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un quadrilaterale convex con AB=CD che non è un parallelo, le proiezioni di AB e CD sulla linea MN (M,N punti di mezzo di diagonali) sono entrambe uguali a MN.*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determina il numero di sequenze di lunghezza n con termini in {0,...,9} in modo tale che tra tutti i tre termini consecutivi almeno due siano uguali.*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo acuto con angolo C = 45 gradi, il circondario O e l'ortocentro H, la linea attraverso O perpendicolare a CO incontra AC e BC a K e L; dimostrare OK+KH=OL+LH.*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dimostrare un'ineguaglianza reciproca a tre termini, dilimitata sopra da un'espressione simmetrica di tipo AM.*
@@ -192,7 +192,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un tetraedro ABCD, Q è l'intersezione del bisettore dell'angolo ABC con AC e P è simmetrica a D circa Q; dimostra che esiste un triangolo con lati RR'=BC/2 condizione. (Vedi avvertenze: parti di questo problema sono illeggibili.)*
@@ -221,7 +221,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un primo p, mostrare che c'è una permutazione di 1..p-1 i cui prodotti parziali sono tutti modulo p distinto.*
@@ -248,7 +248,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con F(k) il prodotto di tutti i divisori di k, dimostrare o respingere che due naturali distinti hanno F uguale.*
@@ -277,7 +277,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In un triangolo acuto, due catene di piedi perpendicolari sui lati danno i triangoli PQR e STU; dimostrano che sono congruenti.*
@@ -308,7 +308,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di {1,...,6n-1} che soddisfano due condizioni di monotonicità a differenza di indice.*
@@ -340,7 +340,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esprimere un polinomio positivo su [a,b] come P^2 più (x-a)(b-x) volte la somma dei quadrati.*

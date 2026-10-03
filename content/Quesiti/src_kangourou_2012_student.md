@@ -38,7 +38,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Look at the dial of the watch with different hands*
@@ -69,7 +69,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Gold with water level above 30 cm from the chart*
@@ -102,7 +102,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of rectangles with area 60 and whole sides*
@@ -134,7 +134,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Color of the sum of a number red and a number blue*
@@ -166,7 +166,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of the nested root square
@@ -225,7 +225,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Central number of a list of sums of subgroups*
@@ -259,7 +259,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum positive integer n with n^200 < 5^300 *
@@ -292,7 +292,7 @@ Maximum positive integer n with n^200 < 5^300 *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What function satisfies a given report*
@@ -327,7 +327,7 @@ Maximum positive integer n with n^200 < 5^300 *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Winks on real x with x^3<64<x^2*
@@ -374,7 +374,7 @@ Maximum positive integer n with n^200 < 5^300 *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the alpha angle in a regular 5-pointed star*
@@ -421,7 +421,7 @@ Maximum positive integer n with n^200 < 5^300 *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle phi in the regular 5-pointed star*
@@ -456,7 +456,7 @@ Maximum positive integer n with n^200 < 5^300 *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 True statement for x with x3<64<x2*
@@ -495,7 +495,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum percentage of the group that made all trips*
@@ -532,7 +532,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Girls/boys average grade ratio*
@@ -569,7 +569,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area three-square area union region and triangle in sheath *
@@ -605,7 +605,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Post sold twice with total number 857*
@@ -644,7 +644,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area pentagon after folding a rectangle*
@@ -707,7 +707,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BEG square triangle area with mean points*
@@ -746,7 +746,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Distance between 1 and 2 on a rectangular clock*
@@ -784,7 +784,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of parallel straight intersections with parabola *
@@ -818,7 +818,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum function with absolute values*
@@ -884,7 +884,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Confronto volumi ellissoidi di rotazione attorno agli assi*
@@ -960,7 +960,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n operations to recover 7/8*
@@ -997,7 +997,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of path of vertex of triangle rotating around square*
@@ -1034,7 +1034,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cyclic sum permutations divisible by 3*
@@ -1070,7 +1070,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of zeros in real 50 with 522 negative products*
@@ -1113,7 +1113,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Center of the data cube three vertices in space*
@@ -1151,7 +1151,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total of first 100 terms of recurring succession*
@@ -1187,7 +1187,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Valore |a-b| con ab uguale somma dei 24 restanti*
@@ -1236,7 +1236,7 @@ True statement for x with x3<64<x2*
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *pairs of both pairs*

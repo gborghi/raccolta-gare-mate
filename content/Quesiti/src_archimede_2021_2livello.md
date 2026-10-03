@@ -34,7 +34,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *6 digit palindrome numbers divisible by 33*
@@ -77,7 +77,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle with median AC=AM, length AC*
@@ -119,7 +119,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the sum of the amounts reported in the report.
@@ -168,7 +168,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equation with roots, distinct values of c*
@@ -210,7 +210,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial with p(α) =β and p(β) =α, sum of α+β*
@@ -255,7 +255,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbered horses and horsemen, possible values of horses*
@@ -300,7 +300,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle, bisector, ratio (AB/BC) ^2 *
@@ -348,7 +348,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Stripe of 8 boxes, operations, combinations obtained*
@@ -392,7 +392,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equation with fractional part, according to floor value*
@@ -434,7 +434,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Terms with 2^a+2^b+2^c divider of 8^a+8^b+8^c*
@@ -483,7 +483,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equilateral triangle, point with angle 60°, minimum area *
@@ -529,7 +529,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six-fold with sum of 168 cubes, remaining form 6*
@@ -569,7 +569,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers with specular properties, counting up to 3 digits*
@@ -601,7 +601,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grided cabbage, possible values of n*
@@ -638,7 +638,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangle, projections, cycles and squares*
@@ -683,7 +683,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Succession by fraction, interruption and rationality*
@@ -729,7 +729,7 @@ This is the sum of the amounts reported in the report.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spiral grid, forcing to be reached, finite number*

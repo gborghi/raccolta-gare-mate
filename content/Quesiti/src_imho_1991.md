@@ -29,12 +29,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza sul rapporto dell'incentro con le bisettrici angolari*
 
 > Dato un triangolo $ABC$, sia $I$ il centro della sua circonferenza inscritta. Le bisettrici degli angoli $A$, $B$, $C$ incontrano i lati opposti rispettivamente nei punti $A'$, $B'$, $C'$. Si dimostri che
 > $$\frac{1}{4} < \frac{AI \cdot BI \cdot CI}{AA' \cdot BB' \cdot CC'} \le \frac{8}{27}.$$
-
-
 
 [[Quesiti/src_imho_1991#q01|src_imho_1991__Q01]]
 
@@ -60,13 +59,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Resti aritmetici mod n implicano che n sia 1, 2, 4, potenza di primo o il doppio di uno di questi*
 
 > Sia $n > 0$ un intero e sia $a_1, a_2, \ldots, a_k$ l'insieme di tutti i numeri naturali minori di e primi rispetto a $n$. Se
 > $$a_2 - a_1 = a_3 - a_2 = \cdots = a_k - a_{k-1} > 0,$$
 > si dimostri che $n$ deve essere o $1$, o $2$, o $4$, o una potenza di un primo dispari, oppure il doppio di una potenza di un primo dispari.
-
-
 
 [[Quesiti/src_imho_1991#q02|src_imho_1991__Q02]]
 
@@ -90,11 +88,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Più piccolo sottoinsieme di {1,...,280} con n elementi che contiene cinque membri a due a due coprimi*
 
 > Sia $S = \{1, 2, 3, \ldots, 280\}$. Determinare il più piccolo intero $n$ tale che ogni sottoinsieme di $n$ elementi di $S$ contenga cinque numeri a due a due primi tra loro.
-
-
 
 [[Quesiti/src_imho_1991#q03|src_imho_1991__Q03]]
 
@@ -120,13 +117,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Etichettare gli spigoli di un grafo connesso in modo che il MCD agli vertici sia 1*
 
 > Sia $G$ un grafo connesso avente $k$ spigoli. Si dimostri che è possibile etichettare gli spigoli $1, 2, \ldots, k$ in modo tale che, in ogni vertice appartenente a due o più spigoli, il massimo comun divisore degli interi che etichettano quegli spigoli sia uguale a $1$.
 > 
 > [Un grafo è costituito da un insieme di punti, detti vertici, unitamente a un insieme di archi che collegano certe coppie di vertici distinti. Ogni coppia di vertici distinti $u$, $v$ appartiene a al più un arco. Il grafo $G$ è connesso se per ogni coppia di vertici distinti $x$, $y$ esiste una certa sequenza di vertici $x = v_0, v_1, v_2, \ldots, v_m = y$ tale che ciascuna coppia $v_i, v_{i+1}$, $(0 \le i < m)$ è collegata da un arco del grafo $G$.]
-
-
 
 [[Quesiti/src_imho_1991#q04|src_imho_1991__Q04]]
 
@@ -150,11 +146,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Punto interno del triangolo con uno degli angoli PAB, PBC, PCA al più di 30°*
 
 > Sia $ABC$ un triangolo e $P$ un punto interno a $ABC$. Si dimostri che almeno uno degli angoli $\angle PAB$, $\angle PBC$, $\angle PCA$ è minore o uguale a $30^\circ$.
-
-
 
 [[Quesiti/src_imho_1991#q05|src_imho_1991__Q05]]
 
@@ -182,6 +177,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Costruire una successione limitata tale che |x_i - x_j||i-j|^a ≥ 1*
 
 > Una successione infinita $x_0, x_1, x_2, \ldots$ di numeri reali si dice *limitata* se esiste una costante $C$ tale che $|x_i| \le C$ per ogni $i \ge 0$.
@@ -189,7 +185,5 @@ level: IMO
 > Dato un qualsiasi numero reale $a > 1$, si costruisca una successione infinita limitata $x_0, x_1, x_2, \ldots$ tale che
 > $$|x_i - x_j| \cdot |i - j|^a \ge 1$$
 > per ogni coppia di interi non negativi distinti $i$, $j$.
-
-
 
 [[Quesiti/src_imho_1991#q06|src_imho_1991__Q06]]

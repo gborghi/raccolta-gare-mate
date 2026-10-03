@@ -44,7 +44,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Premiere partie: caratteristiche di un triangolo pseudo rettangolare e di loci di piano complesso.*
@@ -112,7 +112,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Deuxieme partie: condizioni equivalenti per un triangolo pseudo rettangolare, tripli laterali razionali/inti e le relative equazioni diofantine.*
@@ -167,7 +167,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Troisieme partie: superficie sotto il ramo dell'iperbola y=sqrt(x^2-1) attraverso una decomposizione trapezoide di stile Fermat, e un rapporto di superficie limitante.*
@@ -218,7 +218,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quatrieme partie: costruzione 3D di triangoli pseudo rettangolari che danno la superficie x^2+y^2=z^2+1, e punti interi su di essa.*

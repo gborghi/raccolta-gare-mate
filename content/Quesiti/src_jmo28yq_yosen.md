@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di tabella a due cifre contenente la cifra 5*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
@@ -87,7 +87,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di trapezzoide retto data due diagonali e un angolo di 45 gradi *
@@ -118,7 +118,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Restante di 1111^2018 modulo 11111*
@@ -149,7 +149,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contando le sequenze di inversione che girano in alternativa la riga Othello tutta nera*
@@ -180,7 +180,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza AX in triangoli rettangolari con isosceles nidificati*
@@ -209,7 +209,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partzioni di 1-12 in coppie con totale i-j = 30 *
@@ -238,7 +238,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum della somma del prodotto ciclico dei punti su tre permutazioni*
@@ -267,7 +267,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza DE dalle intersezioni di linea tangente incircolare e eccircolare A*
@@ -296,7 +296,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rescultati di partite di pratica che danno esattamente 2 possibili campioni*
@@ -325,7 +325,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di enti interi pari alla somma delle delezioni a 7 cifre di base*
@@ -354,7 +354,7 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo con a_{N+1}-a_N non uguale a 1*

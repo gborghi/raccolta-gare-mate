@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Base B in which 41 is divisible by 14*
@@ -66,7 +66,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability that ab+bcd+d2 extract is odd*
@@ -135,7 +135,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of alternate signs of a/11-(a/11)^2*
@@ -230,7 +230,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *BG^2 with equilateral triangles on a square*
@@ -310,7 +310,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Destinations from which to return to school*
@@ -349,7 +349,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PS distance in the regular dodecagon*
@@ -384,7 +384,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Real number of roots of the polynomial $p_{22}$*
@@ -422,7 +422,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Weighted sum of squares in Q1..Q10 squares*
@@ -510,7 +510,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AED angle amplifier with hinges*
@@ -589,7 +589,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic-force-4 token settings *
@@ -628,7 +628,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of development cup with hexagons*
@@ -664,7 +664,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of n with Kn=4096 geometric sequence*
@@ -701,7 +701,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum days with progressive heights*
@@ -738,7 +738,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colors of 20 shields with 15 equal pairs*
@@ -786,7 +786,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *GC+FC with equilateral triangles and circumference*
@@ -822,7 +822,7 @@ level: squadre
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies between -400 and 400 differences in sums of squares*

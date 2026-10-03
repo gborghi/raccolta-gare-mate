@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un primo impar p, dimostrare che ci sono unici interi positivi x,y con x^2=y(y+p) e trovarli.*
@@ -54,7 +54,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza che limita una somma di reciprocità di somme a tre termini tra due espressioni.*
@@ -83,7 +83,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un triangolo il cui radio di circonferenza soddisfa AB^2+AC^2=BC^2-R^2; dimostrare che gli angoli sono determinati in modo unico e trovarli.*
@@ -124,7 +124,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Comunità nanna con tre tipi di amicizia (uno di ciascuno per nano), connessa; dimostrare che il conteggio è pari >2 e che per isolare un gruppo i conteggi distrutti dei tre tipi sono tutti pari o tutti odd.*

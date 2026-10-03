@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construire triangoli con un'anca uguale a 120 gradi, mostrando il PQR equilaterale*
@@ -57,7 +57,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Risolvi y^3 = x^3 + 8x^2 - 6x + 8 in numeri interi positivi*
@@ -87,7 +87,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza diminuente con somme parziali limitate; prova somma di termini 1/k < 3*
@@ -114,7 +114,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numeri a 7 cifre con cifre da 1-7 ogni volta, non divisibili per 5, trovare 2000° nell'ordine*
@@ -143,7 +143,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il bisettore angolare incontra il circoncircolo a D; mostra BE perpendicolare ad AD e AO parallelo a BD*
@@ -174,7 +174,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore minimo di ab in modo tale che a^n b^(n+1) sia divisibile per 2000 per tutte le n*
@@ -203,7 +203,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutte le a reali per le quali x^4 - 2ax^2 + x + a^2 - a = 0 ha tutte le radici reali*

@@ -46,7 +46,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate between areas for subsequent halving*
@@ -79,7 +79,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last two digits of 2^99 by periodicity*
@@ -108,7 +108,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume ratio by mass and density*
@@ -137,7 +137,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs with mod 9 product equal to figure (table) *
@@ -165,7 +165,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polyphony perimeter of arc circumference*
@@ -194,7 +194,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Natural minime with 11 dividers (scarp) *
@@ -225,7 +225,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Arithmetic characters with ten distinct letters*
@@ -260,7 +260,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Table of numbers with row and column sums*
@@ -291,7 +291,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Whole solutions of the symmetrical system*
@@ -322,7 +322,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of reaching the end of roads*
@@ -353,7 +353,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diagonal intersection points are polygons of 21 vertices*
@@ -384,7 +384,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diophantine equation iterated on i and j*
@@ -413,7 +413,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Direct sum count*
@@ -442,7 +442,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Turn with two factors 2 in total bricks*
@@ -471,7 +471,7 @@ level: squadre
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total produced by ten factors (power) *
@@ -500,7 +500,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of poles with alignments*
@@ -531,7 +531,7 @@ level: squadre
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Winning expected game dice backwards
@@ -562,7 +562,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of circumferences entered under threshold*
@@ -599,7 +599,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *System of congruences with incorrect equations (Chinese remains) *
@@ -634,7 +634,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangulation with the formula of Euler*
@@ -667,7 +667,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eight arcs paths in the graph*
@@ -698,7 +698,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum parts of a sphere with n cuts*
@@ -729,7 +729,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum minimum distance to be achieved in the subdivision*
@@ -764,7 +764,7 @@ Winning expected game dice backwards
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of A after 10 launches (cube) *

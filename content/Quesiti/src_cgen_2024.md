@@ -63,7 +63,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza ricorrentemente definita u_{n+1}=1/(n+1)+sqrt(u_n): positività, monotonicità, convergenza e assimptotica*
@@ -178,7 +178,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile Monty-Hall, strategie ottimali per Sophie e Germain su n-1 round*
@@ -352,7 +352,7 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *insiemi E(x)={ent(k/x): k in N*} di parti integri; caratterizzare i reali alfa,beta i cui insiemi hanno intersezione vuota (P-cap) o unione N* (P-cup); teoremi di tipo Beatty tramite un argomento di reticola geometrica*

@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i numeri interi positivi a,b,c,x,y,z che soddisfano due equazioni simmetriche*
@@ -56,7 +56,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a base di Fibonacci: trovare tutti n≥4 dove il termine è uguale a 1*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Pentagono base della piramide: intersezioni diagonali di cinque trapezioni sono coplanari*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_0=a_1 e ricorrenza di Fibonacci: infiniti termini divisibili per 7*
@@ -139,7 +139,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti D,E sul lato AB con rapporto AC2/CB2: dimostrare angoli uguali ACD e BCE*
@@ -166,7 +166,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tavola d' scacchi in cerchio: cambia i segni nelle righe/colonne/diagonali; raggiunge 1 in esattamente un quadrato?*

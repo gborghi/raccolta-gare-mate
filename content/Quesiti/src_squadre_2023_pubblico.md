@@ -30,7 +30,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to eat breakfast with food restrictions*
@@ -61,7 +61,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Right distance s from the centre of Gamma2, rays 8 and 52*
@@ -94,7 +94,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary value of fractions 1/(k^2-4) type telescopic*
@@ -128,7 +128,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum f(2023) for polynomials with f(x^2) = f(2x-1) + f(x) ^2*
@@ -160,7 +160,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values N>337 with test equal to 337 by rolling k dice*
@@ -190,7 +190,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N values with 8n^3+11n^2+16n-20 perfect cube, sum*
@@ -220,7 +220,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum k with 2^k divided by the maximum number of subsets *
@@ -255,7 +255,7 @@ level: squadre
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reflect triangular path length, BCD=54 degrees*
@@ -290,7 +290,7 @@ level: squadre
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rest mod 2023 of sum 2^(2 x_k) with cubic recurrence*
@@ -324,7 +324,7 @@ level: squadre
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AS for dividing an equilateral triangle into 4 equal areas*
@@ -365,7 +365,7 @@ level: squadre
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n+B for pairs of covers with a thickness of 2+5 and a thickness of 2+5 *
@@ -435,7 +435,7 @@ level: squadre
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *f(11) with f obtained from (x-1)^9 by modifying the terms*

@@ -31,7 +31,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il termine 2003 della sequenza di numeri interi positivi con quadrati perfetti eliminati.*
@@ -66,7 +66,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare il tipo di grafico di una linea e di una sezione conica date le condizioni di parametro.*
@@ -101,7 +101,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Una linea di 60 gradi attraverso l'obiettivo di una parabola la incontra a A, B; trovare il segmento PF dal bisettore perpendicolare di AB.*
@@ -138,7 +138,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il massimo di un'espressione trigonometrica su un dato intervallo.*
@@ -173,7 +173,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il valore minimo di un'espressione a due variabili soggetta a un vincolo.*
@@ -208,7 +208,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il volume di un tetraedro dato due bordi opposti, la loro distanza e angolo.*
@@ -240,7 +240,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi una disuguaglianza cubica che comporta valori assoluti.*
@@ -270,7 +270,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area del triangolo focale di un'ellisse dato il rapporto delle distanze focali.*
@@ -301,7 +301,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'intervallo di un parametro in modo che un insieme di soluzioni sia contenuto in un altro.*
@@ -332,7 +332,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca b - d dati rapporti di log e una condizione di differenza sui numeri interi positivi.*
@@ -363,7 +363,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'altezza di un cilindro con 8 palle unità in due strati di 4.*
@@ -394,7 +394,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare il limite del rapporto somma-conteggio di un insieme di frazioni decimali.*
@@ -424,7 +424,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che una somma di tre radici quadrate è delimitata sopra da una costante.*
@@ -455,7 +455,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una curva parametrica nel piano complesso che incontra una linea centrale di un triangolo in un punto esatto, e trovala.*
@@ -484,7 +484,7 @@ level: China Mathematical Competition
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare il locus di tutte le linee di piega formate piegando un cerchio per adattare un punto di confine a un punto interno.*

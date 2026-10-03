@@ -34,7 +34,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which figure has the greyest white area*
@@ -68,7 +68,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Colors used to write MATHEMATIC with equal letters*
@@ -104,7 +104,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solts needed to hang towels*
@@ -141,7 +141,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which grid given the colour of the cells indicated*
@@ -372,7 +372,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many children are still hiding *
@@ -412,7 +412,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who won and how many more points to the goal
@@ -452,7 +452,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many gray tiles have fallen*
@@ -489,7 +489,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eta of chicks born on 24 February observed in March*
@@ -575,7 +575,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many of the 4 squares can be made with two L*
@@ -615,7 +615,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many figures can be obtained by joining two tiles to L*
@@ -653,7 +653,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Total number of cars in the parking lot*
@@ -689,7 +689,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sweets decorated with both grapes and nuts*
@@ -749,7 +749,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number to be entered in the gray cell of the sudoku*
@@ -804,7 +804,7 @@ Who won and how many more points to the goal
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many rabbits have 44 legs
@@ -847,7 +847,7 @@ How many rabbits have 44 legs
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Longest interval with at least a 5 digit *
@@ -887,7 +887,7 @@ How many rabbits have 44 legs
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What and the white part of the block*
@@ -929,7 +929,7 @@ How many rabbits have 44 legs
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of jumps to reach the 22nd step*
@@ -993,7 +993,7 @@ How many rabbits have 44 legs
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many points in the square with the domain demand point *
@@ -1032,7 +1032,7 @@ How many rabbits have 44 legs
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of two three-digit numbers with 1-6*
@@ -1067,7 +1067,7 @@ How many rabbits have 44 legs
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many ways are Laura Maria Nadia Oreste
@@ -1104,7 +1104,7 @@ How many ways are Laura Maria Nadia Oreste
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What figure shows the clock at 8 and 11*
@@ -1141,7 +1141,7 @@ How many ways are Laura Maria Nadia Oreste
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Which number was Michele started from?
@@ -1180,7 +1180,7 @@ Which number was Michele started from?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side of the two final squares from sheet 192x84*
@@ -1219,7 +1219,7 @@ Which number was Michele started from?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most games lost with 80 points in 38 games*

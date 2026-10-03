@@ -28,7 +28,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area del quadrilatero interno nel pentagono regolare dell'area 1*
@@ -59,7 +59,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Un cittadino esiliato può mai tornare nella sua città originaria?
@@ -88,7 +88,7 @@ Un cittadino esiliato può mai tornare nella sua città originaria?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Quante volte Adriano e Bruno si sono affrontati a ping-pong?
@@ -115,7 +115,7 @@ Quante volte Adriano e Bruno si sono affrontati a ping-pong?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove sqrt(2) ha una cifra decimale non zero tra le posizioni 1.000.000 e 3.000.000*

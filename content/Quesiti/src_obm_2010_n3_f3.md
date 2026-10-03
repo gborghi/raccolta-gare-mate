@@ -28,7 +28,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali che soddisfano f(a+b)=f(ab) per a,b* irrazionale
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti reali: trovare n,k con k con n cifre e più di P(n) divisori*
@@ -84,7 +84,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'ombra più grande (area di proiezione ortogonale) di un cubo solido di bordo unitario*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterale convex: le perpendicolari nei punti di metà si incontrano su diagonali se le diagonali sono perpendicolari*
@@ -140,7 +140,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n per le quali n punti (nessun 3 collineari) possono essere colorati in modo che ogni triangolo non abbia un angolo obtuso*
@@ -168,7 +168,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di integri positivi (a,b) con 3^a = 2b^2 + 1*

@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non provare alcuna soluzione integrale a $x^n+y^n=z^n$ con $0<x\le n$, $0<y\le n$*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca 7 numeri interi consecutivi con un polinomio a coefficiente interi di grado-5 che scompare su 5 di essi*
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato inserito in semicircolo; linea attraverso il vertice e il punto d'arco passa attraverso l'incentro del triangolo*
@@ -117,7 +117,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i valori iniziali $a_0$ che rendono la ricorrenza $a_{n+1}=2^n-3a_n$ in aumento *
@@ -144,7 +144,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Partito di 10: ogni 3 contiene 2 estranei; dimostra l'esistenza di 4 reciproci estranei*

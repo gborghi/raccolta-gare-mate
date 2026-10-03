@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove x^8+y^8+z^8=n^8 non ha una soluzione integrale con 0<=x,y,z<n*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova 7 numeri interi consecutivi che ammettenne un polinomio di grado-5 con proprietà date*
@@ -83,7 +83,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea retta attraverso P o Q e A o B passa attraverso l'incentro del triangolo ABC*
@@ -113,7 +113,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca i valori iniziali che rendono la ricorrenza a_{n+1}=2^n-3a_n rigorosamente in aumento*
@@ -140,7 +140,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dieci persone senza reciproca conoscenza triple implica quattro reciproci sconosciuti*

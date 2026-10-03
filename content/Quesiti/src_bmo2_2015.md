@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il termine 2015 di una sequenza definita da una formula iterativa a radice quadrata a partire dal 2014.*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'equivalenza di due dichiarazioni di parità sulla formazione di un consiglio scolastico con un allievo per classe.*
@@ -90,7 +90,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi interamente tangenti; un accordo variabile del cerchio esterno tangente all'interno. Prova che il locus dell'incentro del triangolo AQP è un cerchio tangente a entrambi a A.*
@@ -125,7 +125,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lattice punti in cui P vede Q se PQ segmento non contiene nessun altro punto reticolo; definire un n-loop e chiedere se esiste un 100-loop.*

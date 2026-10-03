@@ -38,7 +38,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri iscritti: una cifra è la somma di tutte le altre cifre*
@@ -75,7 +75,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco di tre pile di monete; l'ultimo giocatore a dividere una pila vince tutte le monete*
@@ -114,7 +114,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La carta quadrata piegata a ciascun vertex forma una ruota di pin; trova il rapporto area grigio/bianco e area sovrapposizione*
@@ -153,7 +153,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza mediante concatenamento di numeri interi consecutivi; cifra unitaria del decimo termine e prima comparsa del 2013*
@@ -192,7 +192,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Riempire la griglia 3x3 con numeri interi positivi distinti in modo che due numeri adiacenti si dividano tra loro*

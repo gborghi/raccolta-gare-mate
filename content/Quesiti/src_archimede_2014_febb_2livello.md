@@ -35,7 +35,7 @@ level: 2 livello
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that two colored tetrahedra are indistinguishable
@@ -76,7 +76,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *phrases which are necessarily true*
@@ -116,7 +116,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum side l so that three pizzas are on the table*
@@ -160,7 +160,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Game with the last two digits of 51n+50, numbers available*
@@ -206,7 +206,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True/false statements, how many values can be assumed n*
@@ -242,7 +242,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Potenze di 4 che in base 3 usano solo 0 e al piu due 1*
@@ -290,7 +290,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of a single-grid spacecraft footprint*
@@ -342,7 +342,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of real terns of the symmetric system x+y+z, etc.*
@@ -390,7 +390,7 @@ The probability that two colored tetrahedra are indistinguishable
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of no collision between five friends in the wheelchair
@@ -434,7 +434,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Non-zero coefficients of the product of binomials (1+x^3^k) *
@@ -478,7 +478,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different podium scores with 10.8,5 points in 16 races*
@@ -521,7 +521,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ABXY trapezoidal area with parallels and beams*
@@ -560,7 +560,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Exponent of the first 2 in product of (5^d-1) *
@@ -594,7 +594,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Horse on a 3x3 chessboard, 12 moves in the opposite corner*
@@ -632,7 +632,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grid colour with row/column constraints, pairs (m,n) *
@@ -662,7 +662,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six mean points on a circumference of an equilateral triangle*
@@ -691,7 +691,7 @@ Probability of no collision between five friends in the wheelchair
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs (a,b) with a+1 divided by b-1 and b divided by a^2+a+2*

@@ -30,7 +30,7 @@ level: nazionale
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Three-digit numbers with n0 (without zero) proper divisor of n*
@@ -65,7 +65,7 @@ level: nazionale
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *show angAPM=angPBA*
@@ -95,7 +95,7 @@ level: nazionale
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MCD of a^n+(a+1)^n+(a+2)^n is power of 3*
@@ -125,7 +125,7 @@ level: nazionale
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *to show AX=2R*
@@ -153,7 +153,7 @@ level: nazionale
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Intero as a sum of 2015 2014 two-way powers*
@@ -186,7 +186,7 @@ level: nazionale
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum number of special boxes*

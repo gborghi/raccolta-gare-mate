@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplici di razionali positivi con somma integrale, somma reciproca, prodotto*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tangenti da punto su linea a cerchio, linea di punto medio ha punto fisso*
@@ -82,7 +82,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mappe su sottoinsiemi riguardanti intersezioni-min, limite di radice n-th*
@@ -109,7 +109,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre navi con capacità di coprime m e n, versate per ottenere qualsiasi k litro *
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Centro parallelepiped, somma ponderata delle distanze quadrate disuguaglianza*
@@ -165,7 +165,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n reali, somma zero, somma unità di quadrati, quattro soddisfano la doppia disuguaglianza con somma di cubetti*

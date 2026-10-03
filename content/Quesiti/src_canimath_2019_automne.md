@@ -27,7 +27,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi unici tra il 1 e il 2019 inclusi*
@@ -55,7 +55,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piccoli e mucche; contare mucche a seconda del numero totale di animali e del numero di pantofole*
@@ -83,7 +83,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con angolo ABC = 60°; trovare tutti i valori dell'angolo ACB*
@@ -110,7 +110,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di IXJY quadrilaterale all'interno del rettangolo ABCD dell'area 4*
@@ -138,7 +138,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi a 3 cifre i cui numeri formano una progressione aritmetica da sinistra a destra*
@@ -171,7 +171,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max token su tavola 8x8 con al massimo 4 per riga/colonna; poi anche al massimo 4 per grande diagonale*
@@ -207,7 +207,7 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
@@ -235,7 +235,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra con esattamente 300 unità, senza zeri decimali, e un quadrato perfetto*
@@ -262,7 +262,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piccoli e mucche; contare mucche per animali totali e pantofole (versione liceale) *
@@ -290,7 +290,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di calzini disegnati per garantire due colori diversi da 6 blu e 6 rossi*
@@ -317,7 +317,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area quadrilaterale IXJY all'interno del rettangolo ABCD dell'area 4 (versione liceale) *
@@ -350,7 +350,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Max tokens su tabella 8x8 con restrizioni di riga/colonna; poi anche grande restrizione diagonale (lycée)*
@@ -384,7 +384,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra con esattamente 300 unità, senza zeri, e quadrato perfetto (versione liceale) *
@@ -415,7 +415,7 @@ L'ordinamento rigoroso delle frazioni implica l'ordinamento dei loro medianti?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
@@ -445,7 +445,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altezze del triangolo ABC: piedi E, F; mostra AFHE come parallelo dato AH perpendicolare a EF*
@@ -476,7 +476,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2020 punti su un cerchio numerato 12020; trovare 1010 accordi che corrispondono a ciascun punto una volta con la somma a-b pari a 1010^2*
@@ -509,7 +509,7 @@ Gioco di divisione: dimostra che Paul vince per N=2019 e perde per N=2020
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di una sequenza di interi rigorosamente positivi che soddisfano a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1}) *

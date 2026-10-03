@@ -37,7 +37,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alignment not obtained by exchanging two cards*
@@ -79,7 +79,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *3 flies and 2 spiders such as 9 canaries and cats*
@@ -118,7 +118,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure not composable with 4 equal shapes*
@@ -157,7 +157,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 1111x3333 given as 1111x1111*
@@ -200,7 +200,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum bridges to be closed to separate islands A and B*
@@ -249,7 +249,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € € €
@@ -296,7 +296,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *brothers/sisters of Maria and Martino*
@@ -345,7 +345,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * Correct order of the three rhinos by weight*
@@ -390,7 +390,7 @@ level: kangourou
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many more questions has Nino solved than Piero
@@ -440,7 +440,7 @@ How many more questions has Nino solved than Piero
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How Beppe had folded the sheet given the hole
@@ -489,7 +489,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sixth face of the dice with equal opposite sums*
@@ -540,7 +540,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Shares by cutting into 9 and 8 parts*
@@ -591,7 +591,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lightness of 2 and 3 seated data couch*
@@ -639,7 +639,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Smaller box sizes for construction*
@@ -678,7 +678,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 7 digits by deleting 24 digits*
@@ -720,7 +720,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number on the last key (letter-digit encryption) *
@@ -786,7 +786,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Km routes on Thursday, 2 km more per day, total 70*
@@ -833,7 +833,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *True statement on letters/numbers with row-column sums*
@@ -873,7 +873,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Orders of A,T,R sticks for maximum amount of money*
@@ -944,7 +944,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure area of three squares overlaid by 2,4,6 cm*
@@ -1016,7 +1016,7 @@ How Beppe had folded the sheet given the hole
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Manufacture from materials of any heading, except those of heading 8546.
@@ -1079,7 +1079,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of entering 1.5. with major rules below/right*
@@ -1146,7 +1146,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Image of the kangaroo in the grey triangle by symmetry*
@@ -1187,7 +1187,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimate different results by multiplying 5 numbers by 2 or 3*
@@ -1238,7 +1238,7 @@ Manufacture from materials of any heading, except those of heading 8546.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Changes in the face of kangaroos
@@ -1288,7 +1288,7 @@ Changes in the face of kangaroos
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *5 with a red, 6 with a blue*
@@ -1337,7 +1337,7 @@ Changes in the face of kangaroos
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum tiles to be exchanged for 4-way symmetry*
@@ -1380,7 +1380,7 @@ Changes in the face of kangaroos
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The order in which the three girls take the balls
@@ -1446,7 +1446,7 @@ The order in which the three girls take the balls
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most odd numbers in the sum pyramid*
@@ -1520,7 +1520,7 @@ The order in which the three girls take the balls
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to colour a map of 4 regions with 4 colours*

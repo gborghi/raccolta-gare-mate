@@ -30,7 +30,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Proprietà di numeri a tre cifre con somma di cifre e condizioni di prodotto*
@@ -65,7 +65,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizioni di punto medio e angolo del triangolo con locus*
@@ -98,7 +98,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza che soddisfa la ricorrenza con parametro fisso k*
@@ -125,7 +125,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti su un cerchio con condizione tangente e angolare*
@@ -152,7 +152,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORjg8oK20RzBUsEqiFQSeXvzbK2UlGLq/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Seguenza alternativa di integri con equazione funzionale*

@@ -27,7 +27,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrato di lato 10 cm, X punto medio di AB, triangolo isosceles ABY; area di sovrapposizione con quadrato è di 99 cm2, trovare XY.*
@@ -54,7 +54,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutte le ore a 55 km/h; odometro passa da abc a cba con a>=1 e a+b+c<=7; trovare tutti gli abc.*
@@ -81,7 +81,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2016 persone in fila, ciascun cretino/cavaliere; ognuno punta su qualcuno davanti e li etichetta; rigorosamente più cretini che cavalieri; osservatore identifica tutti.*
@@ -108,7 +108,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trapezoide ABCD con diagonali di lunghezza uguale; dimostrare che la somma delle distanze da qualsiasi M a tre vertici supera la distanza fino al quarto.*
@@ -135,7 +135,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque reales a<b<c<d<e; tre somme in coppia più piccole sono 32,36,37 e due più grandi sono 48,51; trovare tutte le e possibili.*
@@ -162,7 +162,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Convex 2016-gon tagliato da diagonali non incrocianti in triangoli 2014; può esattamente la metà avere tutti e tre i lati come diagonali?*
@@ -189,7 +189,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra 18 numeri interi consecutivi <= 2016, mostrare che almeno uno è divisibile dalla somma delle sue cifre.*
@@ -218,7 +218,7 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prova di classe: almeno 2/3 delle domande difficili e almeno 2/3 degli studenti hanno fatto bene; è possibile; ripeti con 3/4 e 7/10.*

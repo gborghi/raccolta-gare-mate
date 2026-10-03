@@ -33,7 +33,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Angela's age in the months following Carlotta's birth
@@ -73,7 +73,7 @@ Angela's age in the months following Carlotta's birth
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *An estimated number of ants in Italy*
@@ -115,7 +115,7 @@ Angela's age in the months following Carlotta's birth
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many solutions has 2^(2x) = 4^(x+1) *
@@ -162,7 +162,7 @@ Angela's age in the months following Carlotta's birth
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which pie chart matches the column chart*
@@ -199,7 +199,7 @@ Angela's age in the months following Carlotta's birth
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Total sum 2001-2031 divided by 31
@@ -242,7 +242,7 @@ Total sum 2001-2031 divided by 31
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many figures can be drawn in a single stretch*
@@ -297,7 +297,7 @@ Total sum 2001-2031 divided by 31
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many holes *
@@ -347,7 +347,7 @@ Total sum 2001-2031 divided by 31
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Paper form for lateral surface of cone trunk*
@@ -395,7 +395,7 @@ Total sum 2001-2031 divided by 31
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of the loan.
@@ -442,7 +442,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Eligible acute convex quadrilateral angles *
@@ -483,7 +483,7 @@ This is the total amount of the loan.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the underlying asset.
@@ -523,7 +523,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Parts of the plane divided by x-axis and two parabolas*
@@ -571,7 +571,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number in the question mark*
@@ -616,7 +616,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *e=b, a+b=d, e-d=b: the major*
@@ -661,7 +661,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *average of six*
@@ -703,7 +703,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *first actual encounter*
@@ -747,7 +747,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *price report*
@@ -807,7 +807,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ray product*
@@ -872,7 +872,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many distinct colours*
@@ -924,7 +924,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *face indicated*
@@ -1000,7 +1000,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of all 100 numbers in the Pythagorean table*
@@ -1046,7 +1046,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *which is straight and the y-axis *
@@ -1095,7 +1095,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * likelihood of Lia winning *
@@ -1134,7 +1134,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many *
@@ -1181,7 +1181,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers of 3 digits as the sum of 9 powers distinct from 2*
@@ -1229,7 +1229,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many *
@@ -1311,7 +1311,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *report areas*
@@ -1386,7 +1386,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *blue rectangles *
@@ -1437,7 +1437,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of the last *
@@ -1501,7 +1501,7 @@ This is the total value of the underlying asset.
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total number of units of measurement.

@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Non ci sono interi a, b, c, d (non tutti 0) con a^2 b=c^2 e b^2 a=d^2*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; risolvere f_n(x)=1*
@@ -83,7 +83,7 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ineguaglianza sulle reciprocità dei lati del triangolo*
@@ -110,7 +110,7 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto A all'interno del cerchio, accordo PQ attraverso A, tangenti e linea perpendicolare; dimostrare AK=AL*
@@ -138,7 +138,7 @@ Le funzioni di valore assoluto <iterate f_{n+1}=li_f_n-2 khi, f_0=li_x khi; riso
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
@@ -167,7 +167,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Continuous f con qualche iterate uguale a 1 per ogni x; mostrare f(1)=1*
@@ -196,7 +196,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli simili costruiti al di fuori dell'ABCD quadrilaterale; se ABCD è parallelo, allora il PQRS è *
@@ -223,7 +223,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se
@@ -250,7 +250,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2n partecipanti, ciascuno conosciuto con >=n altri; coppia in n camere doppie per conoscenza*
@@ -278,7 +278,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove (1-p^m)^n + (1-q^n)^m >= 1 per p,q non negativo con p+q=1*
@@ -305,7 +305,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Perimetro triangolare 2p, radio circundante R, radio ininterrato r: mostra p < 2(R+r) *
@@ -332,7 +332,7 @@ Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro: somma di angolo diedro opposto uguale se somma di bordo opposto uguale *

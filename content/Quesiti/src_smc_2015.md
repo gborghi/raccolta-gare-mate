@@ -33,7 +33,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare 2015^2 meno 2016 volte 2014*
@@ -74,7 +74,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di tutte le soluzioni di 6x = 150/x*
@@ -114,7 +114,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Aumento percentuale del costo della benzina per litro per Louise*
@@ -156,7 +156,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Frazione dell'area del cerchio più grande all'interno del cerchio più piccolo che passa attraverso il suo centro*
@@ -198,7 +198,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di numeri di n, dove n è la media di 17, 23 e 2n*
@@ -241,7 +241,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri da 5 a 10 messi in cerchi; la somma dei cerchi toccanti è primo; quale numero è nel cerchio ombroso?*
@@ -283,7 +283,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quale delle cinque espressioni a frazione nidificata ha il valore maggiore?*
@@ -326,7 +326,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare il numero di modi per piegare la rete a 8 quadrati (6 ombrati) in un cubo*
@@ -369,7 +369,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro linee rette disegnate su carta; numero di punti in cui due o più linee si incrociano*
@@ -409,7 +409,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca n tra 1 e 20, dove la somma di 1 a n è uguale alla somma di (n+1) a 20*
@@ -450,7 +450,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di altezze distinte di torri costruite da blocchi di altezza di 4 cm, 6 cm o 10 cm*
@@ -492,7 +492,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Angolo y in termini di alfa e beta per le linee tangenti da un punto a un cerchio inscritto in un triangolo*
@@ -535,7 +535,7 @@ level: Senior Mathematical Challenge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho mentito"
@@ -577,7 +577,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il lato sconosciuto di un triangolo con superficie di 88 unità quadrate e due lati 10 e 22*
@@ -619,7 +619,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'originale profondità dell'acqua in un vaso cilindrico più grande dopo che un vaso più piccolo è stato spinto verso il basso all'interno*
@@ -660,7 +660,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di modi per allineare sei Fnargs (una di ciascuna coppia: rosso/blu, 2/3/4 di teste) da sinistra a destra*
@@ -702,7 +702,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radio di cerchi più piccoli in un diagramma di otto cerchi disposti in coppie concentriche alle angoli di un quadrato*
@@ -745,7 +745,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande intero k il cui quadrato k^2 è un fattore di 10!*
@@ -787,7 +787,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza laterale del più piccolo quadrato in una configurazione di tre quadrati con basi su una linea*
@@ -829,7 +829,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di carta di colore nero quando un cuscinetto di inchiostro quadrato è girato 180 gradi circa l'angolo*
@@ -871,7 +871,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza dell'AP in un triangolo XYZ con linee attraverso un punto parallelo ai lati*
@@ -914,7 +914,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di f(2015) dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1)) *
@@ -955,7 +955,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande fattore primo della somma di tutti i 24 numeri a quattro cifre formati da quattro diversi numeri non zero*
@@ -996,7 +996,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le carte N più grandi (integer 1-25) che possono essere posizionate in una riga in modo che ogni coppia adiacente condivide un fattore primo*
@@ -1037,7 +1037,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valuta di f(500) per una funzione moltiplicativa con f(10)=14 e f(40)=20*

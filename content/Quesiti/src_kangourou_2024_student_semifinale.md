@@ -49,7 +49,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the regular octagon with square inscribed area 2*
@@ -100,7 +100,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Heritage distribution inversely proportional to the ages *
@@ -139,7 +139,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Probability of diamonds in box 9 after opening
@@ -168,7 +168,7 @@ Probability of diamonds in box 9 after opening
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For the area of square with integer vertices cannot be 27*
@@ -197,7 +197,7 @@ Probability of diamonds in box 9 after opening
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Birthday with true/false statements
@@ -232,7 +232,7 @@ Birthday with true/false statements
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of three-digit product terms with more than zero *
@@ -282,7 +282,7 @@ Birthday with true/false statements
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of students to cover all eight problems
@@ -324,7 +324,7 @@ Minimum number of students to cover all eight problems
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many strips can be obtained by changing colour in 4 squares*
@@ -370,7 +370,7 @@ Minimum number of students to cover all eight problems
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of redundant cameras on the road 1000m
@@ -404,7 +404,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of (cd-ab)(c+d) with sum and inverse sum of zero*
@@ -454,7 +454,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Entire numbers between 0 and 10 expressed as four *
@@ -524,7 +524,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum angles < 170 degrees in the convex polygon*
@@ -557,7 +557,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with Sn+S(n-1)>2024 diagonal polygon*
@@ -594,7 +594,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum problems with distinct corrections/errors for 50*
@@ -659,7 +659,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with AnBnC area < 10 in a rectangular triangle*
@@ -727,7 +727,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two-digit integers with a coefficient of 7 per digit sum*
@@ -764,7 +764,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum consecutive integers whose cube sum and 2024*
@@ -804,7 +804,7 @@ Maximum number of redundant cameras on the road 1000m
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *1/p prob red and green bags always different*

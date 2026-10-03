@@ -36,7 +36,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most representative number code digits*
@@ -72,7 +72,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many star numbers between 2000 and 3000*
@@ -104,7 +104,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grams of yellow per 220 grams of green*
@@ -139,7 +139,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Number of Aldo and Cristina, sum of 99 difference max
@@ -191,7 +191,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of yellow beads given 25 green beads*
@@ -239,7 +239,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the two smallest multiples, sum 2024*
@@ -272,7 +272,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum sum of five integers with ternary binding *
@@ -309,7 +309,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes from the last hour with the same figures exchanged*
@@ -345,7 +345,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Larger number without digit 1, product 20*
@@ -377,7 +377,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grams weight of each item in the box*
@@ -409,7 +409,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 2 digits with product of digits 1 *
@@ -441,7 +441,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number with remainder equal to the quotient for 45*

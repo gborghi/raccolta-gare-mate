@@ -33,7 +33,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un intero positivo n da due condizioni di condivisione del denaro*
@@ -67,7 +67,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che la BP divide l'angolo EBC utilizzando piedi e semicircoli perpendicolari*
@@ -97,7 +97,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Almeno n in modo che qualsiasi 2-colore di {1,...,n} abbia monocromatica x+y+z=w*
@@ -128,7 +128,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il minimo termine possibile più grande nella progressione aritmetica di quattro numeri primi distinti*
@@ -162,7 +162,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La prova S contiene tutti i razionali in (0,1) con proprietà di chiusura*

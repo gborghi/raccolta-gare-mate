@@ -32,7 +32,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many carriages and what the train is made of*
@@ -67,7 +67,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Figure area bounded by elastic (3 circles) *
@@ -104,7 +104,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sphere volume correction with radial diameter in place*
@@ -136,7 +136,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The following table summarizes the results of the calculations:
@@ -178,7 +178,7 @@ The following table summarizes the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which combination uniquely determines the triangle*
@@ -216,7 +216,7 @@ The following table summarizes the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Students promoted in 2003 from secondary education*
@@ -248,7 +248,7 @@ The following table summarizes the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most likely value of difference of two dice*
@@ -283,7 +283,7 @@ The following table summarizes the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Values of m per single common point curve/parabola*
@@ -319,7 +319,7 @@ The following table summarizes the results of the calculations:
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to cover a chessboard with dominoes
@@ -360,7 +360,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number that cannot appear (numerical triangle) *
@@ -411,7 +411,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of 5e+12f+13g (sided distances) *
@@ -451,7 +451,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of two adjacent white seals*
@@ -483,7 +483,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nested root expression value 1+2003*2005*
@@ -519,7 +519,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Acute triangle area of 12,13,15*
@@ -554,7 +554,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many terms of seventh powers between 5^21 and 2^49*
@@ -589,7 +589,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max n of two digits with 10^n + 1 multiple of 101*
@@ -625,7 +625,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area region shaded by two squares*
@@ -657,7 +657,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of 100 to 99 to 2+... + 2 to 2 to 2*
@@ -718,7 +718,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of a^3+1/a^3 given to a+1/a*
@@ -760,7 +760,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of regions divided into the polygons entered *
@@ -799,7 +799,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Solutions of f(f(x)))=0 from the graph*
@@ -837,7 +837,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum x whole on circumference*
@@ -872,7 +872,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Property of S=A+B+(A-B)+(A+B) with prime *
@@ -923,7 +923,7 @@ How to cover a chessboard with dominoes
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Price that maximizes profit
@@ -999,7 +999,7 @@ Price that maximizes profit
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fraction area of triangle APM in the rectangle*
@@ -1074,7 +1074,7 @@ Price that maximizes profit
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Term to 2003 of the periodic succession*
@@ -1113,7 +1113,7 @@ Price that maximizes profit
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *ACF triangle area in the rectangle*
@@ -1151,7 +1151,7 @@ Price that maximizes profit
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Different results for the sum of 12 cube vectors*
@@ -1185,7 +1185,7 @@ Price that maximizes profit
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Couples of foreign segments in the hexagon*
@@ -1233,7 +1233,7 @@ Price that maximizes profit
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Polynomial f ((x^2-1) given f ((x^2+1) *

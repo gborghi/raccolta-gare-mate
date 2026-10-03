@@ -28,7 +28,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La curva B divide l'area tra due curve paraboliche A e C*
@@ -57,7 +57,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le partizioni di 15 domino in tre sottoinsiemi a catena chiusa*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nessun poliedro converso ha tutte le facce esagonali*
@@ -111,7 +111,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'inverso di una matrice strutturata 16x16*
@@ -138,7 +138,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Probabilità che esattamente un giocatore abbia un completo in bridge*
@@ -165,7 +165,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che CZ divide AB in condizioni di perpendicularità in triangolo*
@@ -194,7 +194,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esprimere le relazioni cicliche tra le radici di un cubo in termini di coefficienti*
@@ -239,6 +239,7 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Derivare i teoremi di Wilson e di Fermat mediante l'identità del prodotto polinomiale*
 
 > Sia $n$ un numero primo dispari. È necessario scrivere il prodotto
@@ -258,8 +259,6 @@ level: BMO Round 1
 > $$(i) \quad n \mid (n-1)! + 1;$$
 > $$(ii) \quad n \mid x^{n-1} - 1.$$.
 > ($p \mid q$ significa che $p$ divide $q$ senza resto.)
-
-
 
 [[Quesiti/src_bmo1_1974#q08|src_bmo1_1974__Q08]]
 
@@ -282,7 +281,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo per cadere su una tavola una barra verticale inclinata alla base*
@@ -314,7 +313,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Attrazione gravitazionale del frusto conico troncato sulla massa vertebrale*

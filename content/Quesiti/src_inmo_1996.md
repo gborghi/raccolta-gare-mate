@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza e unicità della condizione di divisibilità per s+j*
@@ -57,7 +57,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circoli concentrici C1, C2 con radii R e 3R; ortocentri*
@@ -86,7 +86,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi sistema ciclico di quattro equazioni cubiche in a,b,c,d,e*
@@ -113,7 +113,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli ordinati (A,B,C) dei sottogruppi con A⊂B⊂C del set di n-elementi*
@@ -142,7 +142,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_{n+2}=2a_{n+1}-a_n+2; dimostra a_{4m+2} è un termine*
@@ -169,7 +169,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *2n×2n array binario con 5n zero; rimuovere n righe e n colonne per rimuovere tutti i zero*

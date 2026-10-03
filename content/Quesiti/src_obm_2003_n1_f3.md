@@ -26,7 +26,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri interi positivi inferiori a 1000 la cui somma digitali è di 7*
@@ -57,7 +57,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza più lunga che termina con 103 dove ogni termine più la somma digitali dà il termine successivo*
@@ -92,7 +92,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
@@ -129,7 +129,7 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *area comune di due quadrati che condividono un centro-vertice; area di quadrato formata da centri di quadrati sui lati di un parallelo*
@@ -166,7 +166,7 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Construire il perimetro di un rettangolo a partire da bacche di lunghezza intera del 2003 rompendo alcune: una rottura non è sempre sufficiente, due rotture sono sempre sufficienti*

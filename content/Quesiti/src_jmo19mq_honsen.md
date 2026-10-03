@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n con 2^n+n dividendo 8^n+n^n*
@@ -59,7 +59,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tanti interi della lavagna con somma pari: dimostra che l'etichettatura a croce circolare equivale a somme parziali*
@@ -88,7 +88,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i triples (n1,n2,n3) di numeri interi positivi con b1*b2=b3*
@@ -115,7 +115,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente a BC e circoncircolo: prova la proprietà del bisettore angolare a A*
@@ -144,7 +144,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni a valore reale non negativo che soddisfano un'equazione funzionale*

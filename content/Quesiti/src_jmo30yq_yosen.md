@@ -29,12 +29,12 @@ level: JMO Yosen
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Contare i multipli di 7 che sono 4 volte un quadrato perfetto, fino a 10^9*
 
 > Quanti multipli positivi di $7$ che non superano $10^9$ sono della forma $4k^2$ per qualche intero positivo $k$?
 
 **Risposta:** 14
-
 
 [[Quesiti/src_jmo30yq_yosen#q01|src_jmo30yq_yosen__Q01]]
 
@@ -59,7 +59,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esagono regolare, triangolo equilaterale CGH all'interno, area del triangolo EFH*
@@ -90,7 +90,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi di conteggio di 1-6 in griglia 2x3 con celle adiacenti diverse*
@@ -119,7 +119,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contate i numeri interi positivi n dove le somme digitali di n^2 e n^3 sono ciascuna da 1 a 8*
@@ -150,7 +150,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minore n positiva uguale a (x1^2-1) ((x2^2-2)...(x10^2-10) per gli integri xi*
@@ -181,7 +181,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadrati nidificati con due vertici condivisi, trovare area ombrata*
@@ -212,7 +212,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i riempimenti della griglia 2x1010 con 1-5 in modo tale che le celle adiacenti differiscano di 2 o 3*
@@ -246,7 +246,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di 100 integri positivi che soddisfano due condizioni, trovare minimo a_100*
@@ -279,7 +279,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale moltiplicativa f(mn)=f(m)^f(n), trovare il minimo di f(f(n)) *
@@ -314,7 +314,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posizionare 4 pezzi neri e 4 bianchi su scacchi 8x8, uno per riga/colonna, ordini di conteggio*
@@ -347,7 +347,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo con 5 punti, due cerchi tangenti si incontrano a K, trovare lunghezza CQ*
@@ -381,7 +381,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza massima di buona sequenza di numeri interi positivi distinti non superiore a 30 con modello di divisibilità*

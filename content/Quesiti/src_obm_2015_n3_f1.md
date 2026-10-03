@@ -31,7 +31,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero 19 in 3 ×3 griglia: somma pari dei vicini, massimizzazione della somma quadrata bianca *
@@ -66,7 +66,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Altezza massima della torre impilata 55 cubetti di tre colori, senza due adiacenti dello stesso colore*
@@ -101,7 +101,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore di CP in modo che due regioni di due rettangoli che si sovrappongono abbiano aree uguali*
@@ -136,7 +136,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Auto-referenziale: contare vocali e consonanti nella risposta corretta*
@@ -169,7 +169,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anno successivo dopo il 2015 con calendario identico (lo stesso giorno della settimana per ogni data) *
@@ -202,7 +202,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con diversi lati interi, lato più grande 2015, riducendo al minimo l'area*
@@ -235,7 +235,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trova il tempo totale di camminata
@@ -268,7 +268,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare quale numero sia la radice di un quadratico con coefficienti interi dispari*
@@ -301,7 +301,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi n dividendo 2032 con il rimanente 17*
@@ -334,7 +334,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio dei momenti dell'orologio incollati e incollati in senso inverso nell'anno fisso 2015*
@@ -369,7 +369,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lunghezza CF: tangente da C a semicircolo di diametro AB nel quadrato ABCD del lato 4*
@@ -404,7 +404,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Relazione angolare nel triangolo ABC con punto medio M di AB e lunghezze laterali date*
@@ -437,7 +437,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tempo per il prodotto di due numeri aggiornati iterativamente per superare 10^50*
@@ -474,7 +474,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme massimo di bordi dodecaedro che sono abbracciati in coppia*
@@ -511,7 +511,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caricare le dimensioni possibili di un insieme finito perfetto di numeri reali*
@@ -544,7 +544,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nello più piccolo di questo n! finisce esattamente nel 2016 con i zeri tracciati*
@@ -577,7 +577,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radius r min in modo che ogni cerchio di radius 1 centrato su un punto reticolo sia tagliato da un cerchio di radius-r*
@@ -610,7 +610,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quante cifre ha il più piccolo m con funzione somma di numeri f(m) = 2015 *
@@ -643,7 +643,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottogruppi non vuoti C di A∪B con dimensioni di intersezione uguali*
@@ -676,7 +676,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i multipli a quattro cifre di 99 con tutti i cifre distinti*
@@ -709,7 +709,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximo numero di radici razionali distinte di polinomio a coefficiente interi con P(0)=2015*
@@ -742,7 +742,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Min angoli obtusosi tra tutti i triangoli formati da 5 punti non collineari*
@@ -775,7 +775,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il lato più piccolo del triangolo formato da tangenti attraverso intersezioni bisettoricircolo*
@@ -808,7 +808,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum x+y per numeri interi positivi che soddisfano una determinata equazione razionale*
@@ -841,7 +841,7 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare la somma di 1/[n2(n+1)2] utilizzando l'identità della serie di Basilea*

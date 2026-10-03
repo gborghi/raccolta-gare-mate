@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Si dimostri che f(x) non è prodotto di due polinomi interi non costanti*
 
 > Sia $f(x) = x^n + 5x^{n-1} + 3$, dove $n > 1$ è un intero. Si dimostri che $f(x)$ non può essere espresso come prodotto di due polinomi non costanti a coefficienti interi.
-
-
 
 [[Quesiti/src_imho_1993#q01|src_imho_1993__Q01]]
 
@@ -60,6 +59,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Rapporti e circonferenze circoscritte perpendicolari in un triangolo acutangolo ABC*
 
 > Sia $D$ un punto interno al triangolo acutangolo $ABC$ tale che $\angle ADB = \angle ACB + 90^\circ$ e $AC \cdot BD = AD \cdot BC$.
@@ -67,8 +67,6 @@ level: IMO
 > (a) Si calcoli il rapporto $(AB \cdot CD)/(AC \cdot BD)$.
 > 
 > (b) Si dimostri che le tangenti nei punti $C$ alle circonferenze circoscritte ai triangoli $\triangle ACD$ e $\triangle BCD$ sono perpendicolari.
-
-
 
 [[Quesiti/src_imho_1993#q02|src_imho_1993__Q02]]
 
@@ -94,13 +92,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco sulla scacchiera: determinare n perché rimanga un solo pezzo*
 
 > Su una scacchiera infinita si gioca un gioco secondo le seguenti regole. All'inizio, $n^2$ pezzi sono disposti su un blocco di $n \times n$ quadrati adiacenti, uno per ogni quadrato. Un movimento nel gioco consiste in un salto orizzontale o verticale sopra un quadrato adiacente occupato, verso un quadrato non occupato immediatamente oltre. Il pezzo che è stato superato viene rimosso.
 > 
 > Determinare i valori di $n$ per cui il gioco può terminare con un solo pezzo rimasto sul tabellone.
-
-
 
 [[Quesiti/src_imho_1993#q03|src_imho_1993__Q03]]
 
@@ -127,14 +124,13 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza triangolare con le altezze del triangolo PQR*
 
 > Dati tre punti $P$, $Q$, $R$ nel piano, definiamo $m(PQR)$ come la lunghezza minima delle tre altezze del triangolo $\triangle PQR$. (Se i punti sono allineati, poniamo $m(PQR) = 0$.)
 > 
 > Si dimostri che per punti $A$, $B$, $C$, $X$ nel piano,
 > $$m(ABC) \le m(ABX) + m(AXC) + m(XBC).$$
-
-
 
 [[Quesiti/src_imho_1993#q04|src_imho_1993__Q04]]
 
@@ -158,11 +154,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Determinare tutte le funzioni f: N→N con due condizioni date*
 
 > Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che $f(1) = 2$, $f(f(n)) = f(n) + n$ per ogni $n \in \mathbf{N}$, e $f(n) < f(n+1)$ per ogni $n \in \mathbf{N}$?
-
-
 
 [[Quesiti/src_imho_1993#q05|src_imho_1993__Q05]]
 
@@ -192,6 +187,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Lampade in cerchio: mostrare che tutte tornano accese dopo M(n) passi*
 
 > Ci sono $n$ lampade $L_0, \ldots, L_{n-1}$ disposte in cerchio ($n > 1$), dove indichiamo $L_{n+k} = L_k$. (Ogni lampada in ogni istante è accesa o spenta.) Si eseguono i passi $s_0, s_1, \ldots$ nel modo seguente: al passo $s_i$, se $L_{i-1}$ è accesa, si cambia lo stato di $L_i$ da accesa a spenta o viceversa, altrimenti non si fa nulla. Inizialmente tutte le lampade sono accese. Si dimostri che:
@@ -201,7 +197,5 @@ level: IMO
 > (b) Se $n = 2^k$, possiamo prendere $M(n) = n^2 - 1$;
 > 
 > (c) Se $n = 2^k + 1$, possiamo prendere $M(n) = n^2 - n + 1$.
-
-
 
 [[Quesiti/src_imho_1993#q06|src_imho_1993__Q06]]

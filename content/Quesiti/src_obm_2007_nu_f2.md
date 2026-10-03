@@ -28,7 +28,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La composizione iterata ff...f=0 ha una soluzione reale data ac<0*
@@ -57,7 +57,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un grande sottoinsieme di {1,...,N} contiene un sottointervallo di densità aritmetica spostata*
@@ -90,7 +90,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Limita di suprema del modulo radice più grande sui polinomi monomici normalizzati*
@@ -120,7 +120,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *F continua con ff=exp cresce più velocemente di qualsiasi polinomio*
@@ -151,7 +151,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le radici quadrate simmetriche reali di una matrice simmetrica reale*
@@ -184,7 +184,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *S(a,b)=S(c,d) se ab/cd è un quadrato razionale e S(a,b) ∩S(c,d) contiene non zero razionale*

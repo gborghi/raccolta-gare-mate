@@ -27,7 +27,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzioni
@@ -56,7 +56,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova $a^2+b^2$ dato $a+b=a/b+b/a$ per i numeri interi positivi*
@@ -85,7 +85,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due quadratici condividono esattamente una radice comune; trovare $k$*
@@ -114,7 +114,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio non-zero con coefficienti interi divisibili per $n$ per tutti i $n$ positivi; trovare $P(0)$*
@@ -143,7 +143,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Segmenti di linea di conteggio con entrambe le estremità a vertici di un cubo*
@@ -172,7 +172,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa della funzione a numeri pari $E$ da 1 a 100*
@@ -201,7 +201,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cifre $N$ la cui cifra-somma con la sua inversione è un quadrato perfetto*
@@ -232,7 +232,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radio della piastra circolare data lunghezza e sagitta dell'accordo *
@@ -263,7 +263,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Più piccola superficie quadrata contenente $2\times3$ e $3\times4$ rettangoli non sovrapposti*
@@ -292,7 +292,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande perimetro del triangolo rettangolo intero con un lato 12*
@@ -321,7 +321,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa degli inradi di tre triangoli formati dal punto $P$ sul lato del rettangolo*
@@ -350,7 +350,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova $a^2 - b^2 + c^2$ da due equazioni lineari*
@@ -379,7 +379,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande prodotto di 3 primmi distinti $x$, $y$, $10x+y$; somma di cifre*
@@ -408,7 +408,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di donne presenti alla festa dato il numero di coppie di danza*
@@ -437,7 +437,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova $xy$ con $3^x + 2^y = 985$ e $3^{2x} - 2^{2y} = 473$*
@@ -466,7 +466,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *angolo $\angle ADF$ in un triangolo acuto con punti di mezzo e condizioni di angolo uguale*
@@ -495,7 +495,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsieme massimo di $\{1,\ldots,100\}$ senza due elementi che si sommano a 125*
@@ -524,7 +524,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Valore dell'espressione razionale simmetrica $P$ quando $a+b+c=0$*
@@ -553,7 +553,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *angolo $\angle PYX$ per cerchi tangenti interni con diametro tangente al cerchio interno*
@@ -582,7 +582,7 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei rimanenti mod 37 per i numeri a quattro cifre consecutive in diminuzione*

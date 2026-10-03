@@ -30,7 +30,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi positivi con rapporto fattoriale di media primaria e numeri interi*
@@ -63,7 +63,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Armoni di cerchio di conte che garantiscono la vittoria della partita a griglia B*
@@ -97,7 +97,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni a valore reale che soddisfano una determinata equazione funzionale*
@@ -129,7 +129,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i numeri interi n>=2 e stringente aumento delle sequenze di numeri interi positivi con condizione di divisibilità*
@@ -156,7 +156,7 @@ level: JEGMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che due perpendicolari si incontrano su un circoncircolo data condizione di conciclicità*

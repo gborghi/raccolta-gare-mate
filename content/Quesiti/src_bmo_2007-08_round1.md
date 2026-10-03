@@ -29,7 +29,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Evaluare una frazione delle potenze quarta e seconda*
@@ -60,7 +60,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca soluzioni a numeri interi positivi di due equazioni simultanee*
@@ -88,7 +88,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diametro e perpendicolari in un cerchio; prova LS = LT*
@@ -117,7 +117,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che un'espressione di un dato numero intero è un quadrato perfetto*
@@ -151,7 +151,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto interno del triangolo; dimostrare un'uguaglianza sinusoide*
@@ -185,7 +185,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Recurrenza sui numeri interi positivi; prova i valori dei numeri interi e le soluzioni di conteggio a f(n)=2n*

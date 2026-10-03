@@ -28,7 +28,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of true statements*
@@ -58,7 +58,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of whole solutions*
@@ -88,7 +88,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *value of an expression*
@@ -120,7 +120,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of pupils in class*
@@ -153,7 +153,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *value of the sum 1/4+1/16+...*
@@ -186,7 +186,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of winning with dice/numbered list*
@@ -216,7 +216,7 @@ level: triennio
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equal/disparate coefficients in expression, multiple choice*
@@ -245,7 +245,7 @@ level: triennio
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the difference between the two.
@@ -275,7 +275,7 @@ This is the difference between the two.
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pairs of positive integers (x,y) with equation, solutions*
@@ -306,7 +306,7 @@ This is the difference between the two.
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *containing numbers from 1 to 2005*
@@ -339,7 +339,7 @@ This is the difference between the two.
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *part number*
@@ -371,7 +371,7 @@ This is the difference between the two.
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *pass/volume for the number of vertices*
@@ -401,7 +401,7 @@ This is the difference between the two.
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Problem of the equation with positive integers p,q (demonstration) *

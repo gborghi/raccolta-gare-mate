@@ -25,7 +25,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * fair or advantageous for those *
@@ -54,7 +54,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of liars on an island in 15 regions
@@ -82,7 +82,7 @@ Maximum number of liars on an island in 15 regions
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *There is polyhedron with each triangular flat section*
@@ -109,7 +109,7 @@ Maximum number of liars on an island in 15 regions
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Characterizing n with p^2+n divisible by 40, p prime>5*
@@ -138,7 +138,7 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of pairs of points between n points*
@@ -169,7 +169,7 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Inequality between sums of squares with non-increasing sequences*

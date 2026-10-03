@@ -32,6 +32,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo acutangolo con circocentro; disuguaglianza sugli angoli implica limite sulla somma degli angoli*
 
 > Sia $ABC$ un triangolo acutangolo con circocentro $O$. Sia $P$ il piede dell'altezza da $A$ su $BC$.
@@ -39,8 +40,6 @@ level: IMO
 > Si supponga che $\angle BCA \ge \angle ABC + 30^\circ$.
 > 
 > Si dimostri che $\angle CAB + \angle COP < 90^\circ$.
-
-
 
 [[Quesiti/src_imho_2001#q01|src_imho_2001__Q01]]
 
@@ -66,13 +65,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza con tre numeri reali positivi e radici quadrate*
 
 > Si dimostri che
 > $$\frac{a}{\sqrt{a^2+8bc}}+\frac{b}{\sqrt{b^2+8ca}}+\frac{c}{\sqrt{c^2+8ab}}\ge 1$$
 > per tutti i numeri reali positivi $a$, $b$ e $c$.
-
-
 
 [[Quesiti/src_imho_2001#q02|src_imho_2001__Q02]]
 
@@ -101,6 +99,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Ventuno ragazze e ragazzi; il principio del pigeonhole fornisce un problema risolto da 3 di ciascuno*
 
 > Ventuno ragazze e ventun ragazzi hanno partecipato a un concorso matematico.
@@ -109,8 +108,6 @@ level: IMO
 > - Per ogni ragazza e ogni ragazzo, almeno un problema è stato risolto da entrambi.
 > 
 > Si dimostri che esiste un problema risolto da almeno tre ragazze e da almeno tre ragazzi.
-
-
 
 [[Quesiti/src_imho_2001#q03|src_imho_2001__Q03]]
 
@@ -136,13 +133,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Permutazioni di 1..n con somme pesate; n! divide la differenza tra due somme*
 
 > Sia $n$ un intero dispari maggiore di $1$, e siano $k_1, k_2, \ldots, k_n$ degli interi dati. Per ciascuna delle $n!$ permutazioni $a = (a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$, sia
 > $$S(a) = \sum_{i=1}^{n} k_i\, a_i.$$
 > Si dimostri che esistono due permutazioni $b$ e $c$, con $b \ne c$, tali che $n!$ è un divisore di $S(b) - S(c)$.
-
-
 
 [[Quesiti/src_imho_2001#q04|src_imho_2001__Q04]]
 
@@ -170,6 +166,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triangolo con due bisettrici degli angoli e una condizione su una lunghezza; determinare tutti gli angoli possibili*
 
 > In un triangolo $ABC$, sia $AP$ a bisecare $\angle BAC$, con $P$ su $BC$, e sia $BQ$ a bisecare $\angle ABC$, con $Q$ su $CA$.
@@ -177,8 +174,6 @@ level: IMO
 > Si sa che $\angle BAC = 60^\circ$ e che $AB + BP = AQ + QB$.
 > 
 > Quali sono gli angoli possibili del triangolo $ABC$?
-
-
 
 [[Quesiti/src_imho_2001#q05|src_imho_2001__Q05]]
 
@@ -204,12 +199,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Interi a>b>c>d>0 con condizione sul prodotto; ab+cd non è primo*
 
 > Siano $a$, $b$, $c$, $d$ interi tali che $a > b > c > d > 0$. Supponiamo che
 > $$ac + bd = (b + d + a - c)(b + d - a + c).$$
 > Si dimostri che $ab + cd$ non è primo.
-
-
 
 [[Quesiti/src_imho_2001#q06|src_imho_2001__Q06]]

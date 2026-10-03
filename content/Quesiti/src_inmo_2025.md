@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli integri positivi n in modo tale che u_n/n sia un intero*
@@ -57,7 +57,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Alice cancella i numeri su una lavagna per lasciare un numero rimasto*
@@ -89,7 +89,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Euclide utilizza uno splitter per disegnare il circoncircolo del triangolo ABC*
@@ -120,7 +120,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più grande t_n reale tale che una disuguaglianza massima simmetrica tenga *
@@ -147,7 +147,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Greedy Griphook raccoglie monete da un 2000gon*
@@ -174,7 +174,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che esistono infiniti numeri da pagare per le banconote con copie b-1*

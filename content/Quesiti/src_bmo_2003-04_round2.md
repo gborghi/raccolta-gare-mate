@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo tangente a lato di triangolo equilaterale; prova l'uguaglianza di lunghezza*
@@ -59,7 +59,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca un numero intero con 0 del 2004 e 0 del 2004 in binario, divisibile per 2004*
@@ -90,7 +90,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Signolo della somma di cubetti equivalente a segno della somma di quinto poteri sotto somma zero*
@@ -125,7 +125,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un numero limitato di blocchi di cifre distinte implica razionalità*

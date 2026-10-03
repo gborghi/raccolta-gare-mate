@@ -28,7 +28,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I token in vertici di un normale 1997-gon portano integri con totale strettamente positivo; un vertice di partenza può permetterti di raccogliere tutti i token mantenendo la somma corrente positiva, e quanti vertici?*
@@ -59,7 +59,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il volume di un cilindro destro inserito in una capsula formata da una sfera e da un cono che condividono lo stesso asse*
@@ -88,7 +88,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'area massima della proiezione ortogonale di un cubo unitario su un piano*
@@ -121,7 +121,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Definire lambda(alpha) per un rapporto tra le potenze alfa delle lunghezze laterali e le medie di un triangolo; calcolare lambda(2), il limite come alfa tende a 0, e la condizione per l'indipendenza di alpha*
@@ -155,7 +155,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per un angolo alfa orientato fisso, trovare il locus Gamma del punto C vedendo AB sotto quell'angolo, mostrare il centroid G e incenter descrivo archi, quindi scegliere C minimizzando GI e massimizzare quel minimo su alfa*

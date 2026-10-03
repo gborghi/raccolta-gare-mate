@@ -26,7 +26,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area rimossa dal quadrato per formare un ottagono regolare*
@@ -56,7 +56,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione delle radici dell'equazione funzionale*
@@ -85,7 +85,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita da prodotto ricorsivo; somma di numeri del fattore primo più grande*
@@ -114,7 +114,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostrato di camminata di formiche Distanza totale *
@@ -142,7 +142,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Disposizioni di sedute su tavolo circolare con condizione distintiva*
@@ -169,7 +169,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero a tre cifre con la somma dei quadrati di cifre uguali a quadrato*
@@ -196,7 +196,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Differenza di angolo dell'orologio tra due volte quando le mani sono perpendicolari*
@@ -224,7 +224,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare n in [3,100] in modo tale che x^2+x+1 sia divisibile da n per qualche intero x*
@@ -250,7 +250,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Razionale più vicino a 22/7 con denominatore inferiore a 100*
@@ -277,7 +277,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Bissettori d'angolo su circoncircolo iterato; angolo più piccolo del nuovo triangolo*
@@ -306,7 +306,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli simili a ABC con cos A cos B sin C = 1*
@@ -335,7 +335,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa di n per il quale f(n+5)/f(n) è un numero intero, numeri buoni*
@@ -362,7 +362,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum somma positiva di prodotti di coppie provenienti da ±1 sequenza*
@@ -389,7 +389,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La più piccola n >= 10 con n+6 primo e 9n+7 quadrato perfetto*
@@ -416,7 +416,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I coppie di diagonali paralleli in 10 goni regolari *
@@ -443,7 +443,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scuola paga un supplemento per lo scambio di penne e notebook*
@@ -470,7 +470,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triplici ordinati (a,b,c) con 30a+50b+70c <= 343*
@@ -497,7 +497,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coppie (a, b) con gcd 1 e lcm 495*
@@ -524,7 +524,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area quadrilaterale con DC perpendicolare in cerchio*
@@ -551,7 +551,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N più piccolo dei rimanenti di progressione aritmetica 11,12,13*
@@ -578,7 +578,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primo più piccolo nella partizione del set E = {5,6,7,8,9}*
@@ -605,7 +605,7 @@ level: PRMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
@@ -634,7 +634,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area massima del quadrilatero ciclico data dalle distanze dal punto Fermat*
@@ -661,7 +661,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande fattore primo del numero di colori per la griglia rettangolare*
@@ -688,7 +688,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Diametro della parete circolare del villaggio vista da un dato punto*
@@ -715,7 +715,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minore x+y+z data xy+z=160*
@@ -742,7 +742,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Disturbi di conteggio di BHARAT*
@@ -769,7 +769,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel numero intero più grande non superiore a r1+r2+r3 per i triangoli angolari incircoli*
@@ -796,7 +796,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Integra più vicina all'area del triangolo ABC con data media e bisector*
@@ -823,7 +823,7 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numero di elementi di E suddivisi in 3 sottogruppi con somme uguali*

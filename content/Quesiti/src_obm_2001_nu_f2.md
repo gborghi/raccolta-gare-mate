@@ -26,7 +26,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le perpendicolari dei punti su una linea avvolgono una parabola*
@@ -53,7 +53,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni linea attraverso l'origine incontra infinitamente molti cerchi centrati in punti interi*
@@ -81,7 +81,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di X in SL(2,Z) tale che X^t AX sia uguale a una delle quattro matrici*
@@ -110,7 +110,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare percorsi distinti da A a B sulla figura di segmento unitario senza rivedere un punto*
@@ -143,7 +143,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale per I(u) definita da un'integrale, quindi calcola I(u) *
@@ -176,7 +176,7 @@ level: OBM Nível Universitário
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mappa soggettiva sul disco unitario che preserva la distanza implica isometria*

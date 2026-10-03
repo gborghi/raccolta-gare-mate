@@ -27,7 +27,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti gli enti a,b,c che soddisfano un'identità polinomica*
@@ -56,7 +56,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra che il PQ passa attraverso il centroide se 3xy = bx + cy*
@@ -83,7 +83,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Espresso la superficie del triangolo ABC attraverso le aree di OBC, OCA, OAB*
@@ -121,7 +121,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo di numeri: ogni riga della riga 3 contiene un numero pari*
@@ -151,7 +151,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nessun angolo superiore a 90 gradi implica sin A + sin B + sin C > 2*
@@ -182,7 +182,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi con ricorrenza: dimostra a_n è sempre odd*

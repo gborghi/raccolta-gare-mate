@@ -28,7 +28,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set finito con 2023 coppie di prodotti quadrati; trovare 4 elementi senza prodotto in coppie quadrate*
@@ -61,7 +61,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *101 polinomi ciclici nei reali positivi; mostrare che non tutti possono avere tutte le radici reali*
@@ -92,7 +92,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le c >= 1 per le quali una funzione f: N -> N soddisfa due condizioni*
@@ -119,7 +119,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin vince
@@ -148,7 +148,7 @@ Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *n punti euclidici; Gauss registra il livello di < log2 d) per ciascuna coppia; mostrano meno di 2n valori distinti*
@@ -182,7 +182,7 @@ Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Utilizzando uno strumento di ciclo, costruire un cerchio centrato su uno dei due punti dati che attraversano l'altro*

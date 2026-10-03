@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La radice irrazionale comune di due polinomi cubici implica un altro *
@@ -53,7 +53,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Soluzione in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$ *
@@ -81,7 +81,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nonneg reals sommati a $\le\frac{1}{2}$: prodotto $(1-x_i)\ge\frac{1}{2}$ *
@@ -108,7 +108,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Suma dei quadrati delle aree di proiezione facciale costante se parallelepiped è cubo*
@@ -135,7 +135,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le diagonali $AD$, $BE$, $CF$ area di divisione dell'esagono converso sono simultanee*
@@ -162,7 +162,7 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tra i sei punti del piano, rapporto tra la distanza più lunga e la distanza più breve $\ge\sqrt{3}$*

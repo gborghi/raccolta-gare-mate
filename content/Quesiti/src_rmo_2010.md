@@ -28,7 +28,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Le superfici medie geometriche nell'esagono diagonale simultaneo*
@@ -57,7 +57,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre quadratici uguali in un punto implica coefficienti uguali*
@@ -85,7 +85,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare numeri a 4 cifre con numeri non a zero divisibili per 4 non per 8*
@@ -113,7 +113,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre numeri interi positivi distinti, somma minima, condizione reciproca*
@@ -142,7 +142,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il riflesso di A nella linea di angolo-bisettore EF si trova su BC*
@@ -171,7 +171,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta n in {1,...,2010} dove il pavimento(n/pavimento(sqrt(n))) è uguale al pavimento(((n+1)/pavimento(sqrt(n+1)))*

@@ -30,7 +30,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro con due coppie di bordi ortogonali; ridurre al minimo un'espressione di grado-6*
@@ -63,7 +63,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reale sequenza con ricorrenza del pavimento; prova di periodicità*
@@ -95,7 +95,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca l'intervallo di una funzione definita da un'espressione del pavimento radicale-nido*
@@ -130,7 +130,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro*
@@ -163,7 +163,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'esistenza di un insieme di punti 2n-5 che attraversa tutti i triangoli da un insieme di punti n*

@@ -35,7 +35,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JihN9Eqo9Bow2H0rK1U6n_bOKeneSjKF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Type-T_n funzioni trinomiali su [-1,1]: mostrare una funzione pieziosa è di qualche tipo T_N*
@@ -77,7 +77,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JihN9Eqo9Bow2H0rK1U6n_bOKeneSjKF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *3x3 array riempito di 1...9: prodotti di righe e colonne, limite 72 e 90*
@@ -196,7 +196,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JihN9Eqo9Bow2H0rK1U6n_bOKeneSjKF/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli di tipo W (mediani perpendicolari da A e B): loci geometrici, quindi soluzioni a lato intero e divisori primi di u^2-uv-v^2*

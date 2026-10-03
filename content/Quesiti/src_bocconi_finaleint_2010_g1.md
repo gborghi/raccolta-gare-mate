@@ -33,7 +33,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of squares to move to form a large square.*
@@ -66,7 +66,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the year dominoes so that adjacent boxes show the same figure.*
@@ -99,7 +99,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Complete the star disks so that four aligned disks contain the numbers 1 to 4.*
@@ -132,7 +132,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of faces to be glued by joining two excavators to minimize surface area.*
@@ -165,7 +165,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Minimum number of doors so that each room has exactly three doors and you can get out.
@@ -196,7 +196,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum score by forming squares and triangles with 12 matches.*
@@ -227,7 +227,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum end result on the operation wheel starting from a number between 1 and 9.*
@@ -260,7 +260,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fill the six disks of the star with the numbers 1 to 6 giving the total of the links.*
@@ -291,7 +291,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding the mysterious number common to four additions with hidden digits.*
@@ -322,7 +322,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Count the true uncrossed quadrilaterals as shown in Figure 1*
@@ -355,7 +355,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of ways to write 1.7. in boxes without adjacent boxes differing by 3.*
@@ -386,7 +386,7 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of sides of a polygon of Pogo decomposable into rectangular triangles 30-60-90.*
@@ -415,7 +415,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Volume of odd box filled to 64% with 2 cm thickness cubes.*
@@ -446,7 +446,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cut the gray surface of seven circles and squares into two equal parts with a straight line.*
@@ -479,7 +479,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Select and scan numbers in a table minimizing the product of the five numbers selected.*
@@ -512,7 +512,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Finding the multiplier of a cyclic sequence with digit removal or multiplication operations.*
@@ -543,7 +543,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Determining nine digits of the 2002-2010 range in a sequence generated by iterated substitutions.*
@@ -572,7 +572,7 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Diameter of the large circle of the ant, triangle data and circles of 1 mm diameter.*

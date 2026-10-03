@@ -33,7 +33,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *3x3 grid colours with odd number of greens per row/column*
@@ -78,7 +78,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinates of the ant after 2025 days of spiral steps*
@@ -120,7 +120,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum distance between two points in a square, distances from the sides*
@@ -164,7 +164,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Tri-digit integers m with f(m) = f(m-1) +25, sum and product of digits*
@@ -207,7 +207,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of first/non-first counts per 100 lines*
@@ -253,7 +253,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area triangle AB'C' with symmetries to the center*
@@ -301,7 +301,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum sum of true/false test scores with known consensus responses*
@@ -343,7 +343,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full sequences of 50 (+1) and 50 (-1) whose partial sums are 0..49*
@@ -386,7 +386,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value q(4) of the polynomial with roots the squares of the roots of p*
@@ -430,7 +430,7 @@ level: triennio
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N2 cheese dividers with n=3^14·7^40 *
@@ -491,7 +491,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Triangle area given side, median and height*
@@ -536,7 +536,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum p(-2) of a quartic polynomial with constraints and p(a)>=a^3*
@@ -587,7 +587,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ball-cassette combinations with MCD(a,b)=1 *
@@ -634,7 +634,7 @@ level: triennio
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A angle of an isosceles triangle with AD+BD=BC*
@@ -678,7 +678,7 @@ level: triennio
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Berenice determines the numbers from adjacent sums*
@@ -728,7 +728,7 @@ level: triennio
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Height, symmetrical and cyclic, similarity and perpendicularity AP
@@ -761,7 +761,7 @@ Height, symmetrical and cyclic, similarity and perpendicularity AP
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total amount of aid granted by the Member State in accordance with Article 107 (1) of the Treaty.

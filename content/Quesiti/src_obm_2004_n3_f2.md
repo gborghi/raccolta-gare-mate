@@ -28,7 +28,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i valori interi di un'espressione di somma data le restrizioni di radice*
@@ -55,7 +55,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trovare il rapporto massimo CD/AD nel trapezoide destro con diagonale perpendicolare*
@@ -82,7 +82,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta le diverse squadre di calcio formate durante l'anno scolastico*
@@ -111,7 +111,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni dei numeri naturali per un'equazione diofantina esponenziale*
@@ -138,7 +138,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti i numeri sinistri a 4 cifre (la somma delle prime è uguale alla somma degli esponenti) *
@@ -165,7 +165,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Determine gli angoli del triangolo dato la condizione di collinearietà dell'ortocentro, dell'incentro, del circumcentro*

@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 3 cifre che "detonano" 314 (ogni cifra è strettamente maggiore).*
@@ -53,7 +53,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Interi positivi m,n con 15m=20n; mn è necessariamente un multiple di cui il valore.*
@@ -80,7 +80,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se x^2=x+3, trovi x^3.*
@@ -109,7 +109,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A'B'C'D' quadrato da una rotazione di 25 gradi in senso orario di ABCD circa il punto medio di AB; angolo acuto tra AC e B'D'.*
@@ -138,7 +138,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Uno dei cinque numeri divide la somma degli altri quattro; quale uno.*
@@ -164,7 +164,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa; dato che non è stato punito, questa affermazione è certamente vera.*
@@ -193,7 +193,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel minimo n>1 per posizionare n pezzi su n×n tabella senza due nella stessa riga, colonna o diagonale.*
@@ -224,7 +224,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel quadrato ABCD del lato 4 con K su AD, L su AB, M su BC e KLM un triangolo rettangolo con angolo retto uguale a L, trovare l'area del CDKM quadrilaterale.*
@@ -255,7 +255,7 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Su una mappa del quartiere (case A, B, C, D), contare da quante case si può iniziare un percorso attraversando ogni strada esattamente una volta.
@@ -285,7 +285,7 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dal mezzogiorno, quando le mani dell'ora e del minuto formano per la prima volta un angolo di 145 gradi.*
@@ -314,7 +314,7 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tutto il numero positivo n tale che il numero di divisori di 2n è uguale al doppio del numero di divisori di n; concludere quale è n.*
@@ -341,7 +341,7 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale e il resto spostato; contare i modi.*
@@ -368,7 +368,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *6 domande test per 18 studenti; ogni studente ha ottenuto esattamente 4 corrette e ogni domanda ha avuto lo stesso numero di risposte corrette; trovare m.*
@@ -395,7 +395,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione f:Z->Z con f(0)=0, f(1)=1, f(2)=2 e f(x+12)=f(x+21)=f(x; trovare f(2009).*
@@ -424,7 +424,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Semicircolo sul diametro AB, centro O, con CD=BC e angolo BAD=72 gradi; trovare angolo DEC.*
@@ -453,7 +453,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La minima k reale tale che 2x^2-12xy+ky^2>=0 per tutte le x,y reali.*
@@ -480,7 +480,7 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, trovi la differenza più grande tra i due numeri primi.
@@ -507,7 +507,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un sottoinsieme di {1,...,20} è 'superpar' quando due dei suoi elementi hanno un prodotto pari; trovare il numero massimo di elementi.*
@@ -534,7 +534,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *S_n è la somma dei primi dieci multipli positivi di n; calcola S_1+S_2+...+S_10.*
@@ -563,7 +563,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi tangenti esternamente (radii 3 e 4) con tangenti esterni comuni a P,Q e R,S e tangente interna che li incontrano a M,N; rapporto tra le aree dei quadrilaterali MNPQ e MNRS.*
@@ -591,7 +591,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due auto partono contemporaneamente da A e B verso l'altra su una strada retta; date le distanze distanti quando ciascuna raggiunge il punto medio M, si trova la distanza tra le città.*
@@ -618,7 +618,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N è una torre di potenza di otto del 2009; sommare ripetutamente i numeri a una singola cifra (radice digitale); trovarla.*
@@ -647,7 +647,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubbi impilati in un blocco; data la sua vista sinistra e la sua vista anteriore, determinare quale delle figure non può essere la vista superiore.*
@@ -676,7 +676,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lappe di notebook rettangolare con confini gialli di 24 cm e confini rossi di 36 cm; ciascun punto dipingue il colore del suo lato più vicino; trova la zona gialla.*
@@ -703,7 +703,7 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I lati di un triangolo formano una progressione aritmetica con differenza comune t; trovare la distanza tra incentro e centroide.*

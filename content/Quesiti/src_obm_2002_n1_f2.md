@@ -30,7 +30,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anni di palindrome: dopo il 2002; dopo il 1991 *
@@ -65,7 +65,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Farm diviso in lotti triangolari; trovare la superficie originale data il lotto più piccolo è di 40 alqueires*
@@ -94,7 +94,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *A partire dal 2002, raggiungere il 13 raddoppiando o rimuovendo ripetutamente la cifra delle unità*
@@ -121,7 +121,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre amici con abiti e scarpe di tre colori; dedurre il colore del vestito di ogni amico*
@@ -148,7 +148,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Stick di raccolta: punteggiate esattamente 40 punti; contate un numero distinto di bastoni sufficienti *
@@ -175,7 +175,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fill 8×8 grid con diversi numeri interi positivi in cui le celle adiacenti differiscono di 1; trova la somma diagonale*

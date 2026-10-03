@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati integri consecutivi e raggio 4; ritrovare il raggio circundato*
@@ -54,7 +54,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i tripli numeri interi positivi (a,b,c) che soddisfano un'equazione prodotto dalle frazioni*
@@ -83,7 +83,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi un sistema di due equazioni polinomiche in x e y reali*
@@ -114,7 +114,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numero a cifre n con cifre distinte e ogni 3 cifre consecutive divisibili per 5*
@@ -145,7 +145,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In triangolo ABC prova $(b+c)^2 \ge a^2 + 4h_a^2$*
@@ -172,7 +172,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per qualsiasi numero intero positivo n, costruire due razionali non integrali le cui differenze di potenza sono interi*
@@ -199,7 +199,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un sottogruppo di 50 elementi di {1,...,100} senza due elementi che sommano a 100 contiene un quadrato*

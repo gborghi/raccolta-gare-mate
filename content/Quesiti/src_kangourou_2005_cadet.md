@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minutes in the target third of a quarter of the day*
@@ -61,7 +61,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Form length of path on cubic surface*
@@ -98,7 +98,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Papers after five cuts in 10*
@@ -131,7 +131,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Percentage of students with bicycles and rollerblades
@@ -165,7 +165,7 @@ Percentage of students with bicycles and rollerblades
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum kangaroo movements 2 per row and column*
@@ -205,7 +205,7 @@ Percentage of students with bicycles and rollerblades
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle A with relations between angles of the triangle*
@@ -243,7 +243,7 @@ Percentage of students with bicycles and rollerblades
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Ice cream servings with three girls and two boys
@@ -281,7 +281,7 @@ Ice cream servings with three girls and two boys
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of floor space perpendicular to the walls*
@@ -319,7 +319,7 @@ Ice cream servings with three girls and two boys
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of poles with first single and then paired crows*
@@ -356,7 +356,7 @@ Ice cream servings with three girls and two boys
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum KANGOUROU number with increasing code *
@@ -426,7 +426,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Objective score inversely proportional to area*
@@ -485,7 +485,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Contribution to cover travel expenses*
@@ -538,7 +538,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AB on a grid with Pythagorean theorem*
@@ -591,7 +591,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Work days of the guardian until Sunday rest*
@@ -621,7 +621,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which is not a plane development of a cube*
@@ -675,7 +675,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Height of water in the bucket after 20 l/m2 of rain*
@@ -716,7 +716,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle x between equilateral triangle and pentagon*
@@ -753,7 +753,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Possible sum of two numbers with difference 987*
@@ -797,7 +797,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Track length on n semicirculars*
@@ -838,7 +838,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Unusual numbers less than 100 with length 3*
@@ -909,7 +909,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DBEF rectangular area with two rectangles*
@@ -960,7 +960,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum of the largest with an average of 10 of 10 integers*
@@ -997,7 +997,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Wine remaining after three substitutions with water*
@@ -1037,7 +1037,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of ten corners on five lines per P*
@@ -1080,7 +1080,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A claim that the alternating liar cannot make*
@@ -1123,7 +1123,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers between 10 and 99 more than tripled by exchanging digits*
@@ -1161,7 +1161,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area shaded region exaggerated with two arcs*
@@ -1209,7 +1209,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Coordinate particle after two hours of travel*
@@ -1246,7 +1246,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Result of the six-digit product (divisibility) *
@@ -1313,7 +1313,7 @@ Maximum KANGOUROU number with increasing code *
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum attempts for combination lock

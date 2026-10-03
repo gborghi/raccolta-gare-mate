@@ -28,7 +28,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che ogni intero positivo n ha un chapa con esattamente n cifre*
@@ -57,7 +57,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova m minimo così ogni distribuzione degli adesivi 2011 tra 33 amici è incompleta*
@@ -85,7 +85,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *area pentagonale convexa-1: i triangoli da vertici consecutivi soddisfano le disuguaglianze di superficie*
@@ -113,7 +113,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
@@ -140,7 +140,7 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto con centro ortografico: bisettieri angolari di BFC e BHC si incontrano su BC*
@@ -168,7 +168,7 @@ Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il prodotto ciclico delle differenze dei reali non negativi del 2011 con la somma data è limitato*

@@ -27,7 +27,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Calcolare un'espressione aritmetica con prodotti e somme*
@@ -56,7 +56,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area di PQRS quadrato con vertici sui lati del rettangolo ABCD*
@@ -87,7 +87,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Frazione con numeratore e denominatore interi più vicini a 1, con somma 109*
@@ -116,7 +116,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca angolo DEF dove DEF è il triangolo di contatto di ABC con angolo BAC=70°*
@@ -150,7 +150,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Monete massime su 8 ×8 griglia: al massimo una faccia in su per riga, al massimo una faccia in giù per colonna*
@@ -181,7 +181,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Volume di cubo formato dall'unione dei centroidi di facce adiacenti di un ottaedro regolare*
@@ -212,7 +212,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i modi per scegliere 3 carte da 20 carte a numeri blu (110 ciascuna in 2 copie) che si sommano a 16*
@@ -239,7 +239,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ritrovare triples di integri positivi reciprocamente coprimi dove due di entrambi sono quadrati perfetti, con somma minima *
@@ -266,7 +266,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare copriemi (x,y,z) dove decine di cifre di x·z e y·z sono uguali a decine di cifre di x e y*
@@ -297,7 +297,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le soluzioni integrali di x2+xy+y2+3x+3y+6=0 con x=1 escluso; quindi tutte le coppie di numeri integrali*
@@ -328,7 +328,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare colori di 3 ×3 griglie con 3 o 4 colori; celle adiacenti di colori diversi*
@@ -371,7 +371,7 @@ level: JJMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inserire la griglia m×n con numeri interi: non zero in ≥1 cella per vicinato di fila, t(S)=0 per ogni cella*

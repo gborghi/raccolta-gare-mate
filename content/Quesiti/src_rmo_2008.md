@@ -25,7 +25,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *In triangolo acuto *
@@ -56,7 +56,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Due sequenze infinite di numeri interi positivi che soddisfano quattro condizioni
@@ -84,7 +84,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cubico con tutte le radici reali positive: limiti sui coefficienti*
@@ -111,7 +111,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conta i numeri a 6 cifre con somma di 10 cifre, ognuno di 0,1,2,3 che appaiono almeno una volta*
@@ -138,7 +138,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Progressione armonica di numeri interi positivi in aumento rigoroso con n=20, b divide c*
@@ -165,7 +165,7 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i triangoli obtus con perimetro 2008*

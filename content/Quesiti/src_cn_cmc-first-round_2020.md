@@ -27,7 +27,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza geometrica con termini dati, trovare il valore di registro*
@@ -56,7 +56,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti finali dell'ellisse e punto foci condizione del prodotto, rapporto di ricerca*
@@ -85,7 +85,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggio di sottoinsiemi di {1,...,20} con almeno 2 integri consecutivi*
@@ -114,7 +114,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ratio numero complesso reale, ritrovare il modulo minimo spostato*
@@ -143,7 +143,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi permutazioni di un insieme di integri gaussiani di 9 elementi con moduli non in diminuzione*
@@ -171,7 +171,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro regolare, area di sezione trasversale di sfera attraverso i punti di mezzo del bordo*
@@ -200,7 +200,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilatore convex con condizione vettoriale sul punto P, trovare rapporto di superficie*
@@ -229,7 +229,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le buone posizioni delle carte etichettate con coppie in scatole*
@@ -258,7 +258,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Elisse con condizione di perpendicularità, trovare il prodotto di tangenti di angoli*
@@ -287,7 +287,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi su superficie ellipsoidale, riducendo al minimo la somma ponderata delle reciprocità *
@@ -316,7 +316,7 @@ level: China Mathematical Competition (First Round)
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tre punti sull'iperbola xy=1 che formano triangolo rettangolo, area min*

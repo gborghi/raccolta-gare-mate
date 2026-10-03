@@ -33,7 +33,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordering the sides from the heights of a triangle*
@@ -76,7 +76,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Price of sweater if VAT goes from 22% to 25%*
@@ -121,7 +121,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of tiles compatible with jumps of 3,4,5,6*
@@ -164,7 +164,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Two men's currency with two terms of exchange*
@@ -206,7 +206,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value x+y of the sum of two powers equal to zero*
@@ -249,7 +249,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Estimate of product mcm 2160 and odd MCD*
@@ -291,7 +291,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sides of regular polygon containing triangle with angle 54*
@@ -332,7 +332,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of right angles in a convex decagon*
@@ -372,7 +372,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Multiple perfect squares of 7 between 1 and 6000*
@@ -415,7 +415,7 @@ level: triennio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure DA in a cyclic quadrilateral with a right angle*
@@ -459,7 +459,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability sum 10 with normal and special dice*
@@ -507,7 +507,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of KQ in a rectangular trapezoid with similar triangles*
@@ -549,7 +549,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sitting modes for 6 people with two couples adjacent*
@@ -594,7 +594,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sets of 2 or 3 conditional hashtags*
@@ -645,7 +645,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of knights around table of 10 with alternate phrases*
@@ -689,7 +689,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *A'B'C' triangle perimeter by squares on an equilateral triangle*
@@ -733,7 +733,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of 24 by throwing 4 dice*
@@ -781,7 +781,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the rectangle inscribed with the figure to the heart*
@@ -826,7 +826,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *False claim on holes and protrusions of a puzzle nxn*
@@ -872,7 +872,7 @@ level: triennio
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DFE angle with cyclic FEPO quadrilateral*

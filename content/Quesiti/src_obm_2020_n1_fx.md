@@ -35,7 +35,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo diviso dalla sua diagonale in triangoli bianchi, grigi e blu; trovare aree e la superficie di un nuovo rettangolo costruito sulla diagonale*
@@ -80,7 +80,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Un dado standard (la somma delle facce opposte è pari a 7) ruota su una lavagna 3x3 da A a H; determina la faccia superiore e le due facce laterali visibili*
@@ -121,7 +121,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa dei numeri decimali iniziali di 7/33 e 11/41 dopo il punto decimale: raggiungere esattamente 1202, mostrare che il 2020 è impossibile, raggiungere almeno 2021*
@@ -163,7 +163,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificare i numeri primi etichettati A,B,C,D nell'elenco; i numeri primadoidi (ogni due cifre consecutive formano un primo, tutti i numeri distinti); dimostrare che non ci sono primadoidi a 6 cifre e trovare il più grande *
@@ -208,7 +208,7 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Poligoni semplici e linee rette che tagliano i loro lati senza passare attraverso vertici: costruzioni e un argomento di parità*

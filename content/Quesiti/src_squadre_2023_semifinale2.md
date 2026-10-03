@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pentagon side colours with 3 colours*
@@ -60,7 +60,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Side square in circumference with side square 1200*
@@ -93,7 +93,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of minor side triangle 38 and major side 181*
@@ -127,7 +127,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum ab with 2023 number of Frobenius*
@@ -159,7 +159,7 @@ level: squadre
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the securities held by the issuer of the securities.
@@ -190,7 +190,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sequences of 6 cyclic codes 0-22 with remaining sum 3 mod 23*
@@ -220,7 +220,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate of diamond areas with 1/4-sided dots*
@@ -255,7 +255,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Sum of mcm(k,8) per k from 1 to 120*
@@ -290,7 +290,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of MCD=1 of three extractions from 1-9*
@@ -325,7 +325,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of BMF and BSQ triangle areas*
@@ -367,7 +367,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Dispositions numbered 1-8 on a triangular chessboard with constraints*
@@ -404,7 +404,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Lupin-Jig distance with barycenter 63 and 153*
@@ -438,7 +438,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Nim game winning values on 2022 matches*
@@ -469,7 +469,7 @@ This is the total value of the securities held by the issuer of the securities.
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Simpson's paradox with 7.5% and 10%
@@ -502,7 +502,7 @@ Simpson's paradox with 7.5% and 10%
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *CAB angle in an isosceles triangle with conicles*
@@ -545,7 +545,7 @@ Simpson's paradox with 7.5% and 10%
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *MCD of all numbers 1^n+...+9999^n*

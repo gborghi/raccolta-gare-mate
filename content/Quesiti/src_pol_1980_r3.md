@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area di ottagone inserita in cerchio con lunghezze laterali alternate 1 e 2*
@@ -55,7 +55,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'equazione $a^2+b^2+c^2=3abc$ ha soluzioni di numeri naturali maggiori di qualsiasi $n$*
@@ -84,7 +84,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scelta il numero intero iniziale $k$ per massimizzare la probabilità di raggiungere esattamente 100*
@@ -114,7 +114,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Decomponere qualsiasi polinomio a tre variabili in parti simmetriche e antisimetriche*
@@ -141,7 +141,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il tetraedro con tutti e sei i triangoli di bordo medio uguali di superficie è regolare*
@@ -169,7 +169,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove l'identità combinatoria sommata a $2^{2n}$*

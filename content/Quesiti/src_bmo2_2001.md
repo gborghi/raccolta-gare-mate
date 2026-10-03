@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Marmi trasferiti tra due giocatori; trovare q/p in termini di n*
@@ -58,7 +58,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
@@ -87,7 +87,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con angolo bisector e angolo retto; prova uguale angolo*
@@ -118,7 +118,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *N nani in un cerchio; trovare la somma massima e minima delle differenze di altezza*

@@ -40,7 +40,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number in the grey column*
@@ -86,7 +86,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of allied/enemy relations between five households*
@@ -116,7 +116,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length AB in cyclic configuration with perpendicular*
@@ -147,7 +147,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Coefficient of x^2006 in product of polynomials
@@ -176,7 +176,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum useful combinations of 36 ingredients (condition) *
@@ -205,7 +205,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Deposition of dice that minimizes the spread of magic numbers*
@@ -234,7 +234,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value of f^(((11) by iterating square sum of digits *
@@ -263,7 +263,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little multiple of 73 with square >=63 divisors*
@@ -292,7 +292,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of colouring square base prism with 6 colours*
@@ -324,7 +324,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Six circles on a hexagon (coefficient of adhesion) perimeter di pi)*
@@ -361,7 +361,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum truth sheets in 10000 lying/sincere circles*
@@ -396,7 +396,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of cubes with 11x11x11 integer grid vertices*
@@ -428,7 +428,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum 4 digits produced by only 2 digits and multiples*
@@ -461,7 +461,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rate 1000 A/B area triangles in the two-dimensional plane *
@@ -510,7 +510,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Magic square coast partially filled*
@@ -557,7 +557,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rational sum of a/30 less than 10*
@@ -591,7 +591,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Integres >9 with strictly increasing numbers*
@@ -623,7 +623,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Interies equal to [4000,7000] with all other digits *
@@ -658,7 +658,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of 4 people on 2 rows (seeing well) *
@@ -705,7 +705,7 @@ Coefficient of x^2006 in product of polynomials
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AED angle with arcing midpoints in the enclosure*

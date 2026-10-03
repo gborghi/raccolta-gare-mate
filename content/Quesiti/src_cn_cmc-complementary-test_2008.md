@@ -36,7 +36,7 @@ level: China Mathematical Competition (Complementary Test)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *quadrilaterale convex, riducendo al minimo f(P)=PA*BC+PD*CA+PC*AB; conciclicità al minimo e numero minimo.*
@@ -70,7 +70,7 @@ level: China Mathematical Competition (Complementary Test)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Funzione periodica con periodi T e 1, 0<T<1; mostra un sottoperiodo 1/p quando T è razionale e una sequenza diminuente di periodi irrazionali quando T è irrazionale.*
@@ -102,7 +102,7 @@ level: China Mathematical Competition (Complementary Test)
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato a_k>=0 (k=1..2008), dimostrare l'esistenza di una sequenza x_n con una relazione di serie prescritta se la somma dell'a_k supera 1.*

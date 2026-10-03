@@ -28,7 +28,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Increased surface area of the solid excavated*
@@ -58,7 +58,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Min a with sum of a+...+9a at equal figures*
@@ -87,7 +87,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 There's always a dominant team in the ring.
@@ -116,7 +116,7 @@ There's always a dominant team in the ring.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Five numbers from sums of two to two*
@@ -168,7 +168,7 @@ There's always a dominant team in the ring.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *NBM angle degrees (rotation) *
@@ -227,7 +227,7 @@ There's always a dominant team in the ring.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max cross-sectional tiles on the 8x8 chessboard *

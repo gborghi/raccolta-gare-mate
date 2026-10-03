@@ -58,7 +58,7 @@ level: Olympiades Première
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 1 (tutti i candidati): dieci problemi brevi, per lo più indipendenti sulle percentuali, la classificazione, i pesi, la forma del vetro, il rapporto dorato, i quadrilaterali articolati, gli specchi angolari, il rotolo del nastro e la classificazione di una tavola.*
@@ -187,7 +187,7 @@ level: Olympiades Première
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 2 (traccia generale, specialità matematica): set di STD (tutti i sottosetti sommano distinte)  esempi/contresempi, una sequenza ricorsiva dimostrata geometrica, e limiti inferiori per le sequenze di STD utilizzando un argomento probabilistico (varianza).*
@@ -316,7 +316,7 @@ level: Olympiades Première
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esercizio 3 (traccia generale senza specialità matematica, e tutta la traccia tecnologica): Piramide di Pascal di differenze assolute  costruzione, conteggio delle entrate, piramidi perfette, e dove la più grande entrata deve essere attraverso un argomento di percorso più grande vicino.*

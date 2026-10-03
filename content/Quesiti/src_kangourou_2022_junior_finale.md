@@ -26,7 +26,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Each term of the sequence 1007,10017,... Divisible by 53*
@@ -67,7 +67,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of the inner circle at three circumferences*
@@ -111,7 +111,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of 2x1 tiles in the 36-square region*
@@ -143,7 +143,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many pairs (m,n) with 1/m+1/n=1/2022*
@@ -173,7 +173,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The red and green sides of the octagon have the same sum*
@@ -202,7 +202,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The final 10-digit number has at least two equal digits*

@@ -30,7 +30,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi equazioni simultanee in quattro numeri reali*
@@ -58,7 +58,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rettangolo con punto medio e perpendicolare; prove triangolo isosceles*
@@ -85,7 +85,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di carte: Alice punta sempre almeno quanto Barbara
@@ -112,7 +112,7 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i sottosetti malvagi (nessun tre successivi) di {1,...,10} *
@@ -139,7 +139,7 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primi p,q,r con q di p-1, rp-1; trovare tutti i valori di pq*

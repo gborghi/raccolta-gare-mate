@@ -30,6 +30,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Coppie (n,k) monete con n a sinistra dello stesso tipo*
 
 > La banca di Oslo emette due tipi di moneta: alluminio (indicato con A) e bronzo (indicato con B). Marianne possiede $n$ monete in alluminio e $n$ monete in bronzo, disposte in fila in un ordine iniziale arbitrario. Una **catena** è qualsiasi sottosequenza di monete consecutive dello stesso tipo. Dato un fissato numero intero positivo $k \leqslant 2n$, Marianne ripete ripetutamente l’operazione seguente: identifica la catena più lunga che contiene la moneta numero $k$ partendo da sinistra, e sposta tutte le monete di tale catena all’estremo sinistro della fila. Ad esempio, se $n = 4$ e $k = 4$, il processo a partire dall’ordinamento AABBBABA sarebbe
@@ -37,8 +38,6 @@ level: IMO
 > $$\text{AABBBABA} \to \text{BBBAAABA} \to \text{AAABBBBA} \to \text{BBBBAAAA} \to \text{BBBBAAAA} \to \cdots$$
 >
 > Determinare tutte le coppie $(n, k)$ con $1 \leqslant k \leqslant 2n$ tali che, per ogni ordinamento iniziale, in qualche momento del processo le prime $n$ monete a sinistra siano tutte dello stesso tipo.
-
-
 
 [[Quesiti/src_imo_2022#q01|src_imo_2022__Q01]]
 
@@ -62,12 +61,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *R+->R+ con unica y soddisfacente*
 
 > Sia $\mathbb{R}^+$ l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f : \mathbb{R}^+ \to \mathbb{R}^+$ tali che, per ogni $x \in \mathbb{R}^+$, esista esattamente un $y \in \mathbb{R}^+$ che soddisfi
 > $$xf(y) + yf(x) \leqslant 2.$$
-
-
 
 [[Quesiti/src_imo_2022#q02|src_imo_2022__Q02]]
 
@@ -91,11 +89,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Unico modo di disporre primi con prodotto x^2+x+k*
 
 > Sia $k$ un intero positivo e sia $S$ un insieme finito di numeri primi dispari. Si dimostri che esiste al più un modo (a meno di rotazione e riflessione) per disporre gli elementi di $S$ intorno a una circonferenza in modo che il prodotto di ogni coppia di elementi vicini sia della forma $x^2 + x + k$ per qualche intero positivo $x$.
-
-
 
 [[Quesiti/src_imo_2022#q03|src_imo_2022__Q03]]
 
@@ -119,11 +116,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *P,S,Q,R conciclici nel pentagono convesso*
 
 > Sia $ABCDE$ un pentagono convesso tale che $BC = DE$. Si assuma che esista un punto $T$ interno a $ABCDE$ tale che $TB = TD$, $TC = TE$ e $\angle ABT = \angle TEA$. Sia la retta $AB$ che interseca le rette $CD$ e $CT$ rispettivamente nei punti $P$ e $Q$. Si assuma che i punti $P, B, A, Q$ giacciano sulla loro retta in quest'ordine. Sia la retta $AE$ che interseca le rette $CD$ e $DT$ rispettivamente nei punti $R$ e $S$. Si assuma che i punti $R, E, A, S$ giacciano sulla loro retta in quest'ordine. Si dimostri che i punti $P, S, Q, R$ sono conciclici.
-
-
 
 [[Quesiti/src_imo_2022#q04|src_imo_2022__Q04]]
 
@@ -148,12 +144,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Triple (a,b,p) con a^p=b!+p, p primo*
 
 > Determinare tutte le terne $(a, b, p)$ di interi positivi con $p$ primo e
 > $$a^p = b! + p.$$
-
-
 
 [[Quesiti/src_imo_2022#q05|src_imo_2022__Q05]]
 
@@ -185,6 +180,7 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Minimo numero di cammini uphill in quadrato nordico*
 
 > Sia $n$ un intero positivo. Un **quadrato nordico** è un tabellone $n \times n$ contenente tutti gli interi da $1$ a $n^2$ in modo tale che ogni cella contenga esattamente un numero. Due celle diverse si dicono **adiacenti** se condividono un lato comune. Ogni cella che è adiacente soltanto a celle contenenti numeri più grandi viene detta **valle**. Un **percorso in salita** è una sequenza di una o più celle tale che:
@@ -196,7 +192,5 @@ level: IMO
 > (iii) i numeri scritti nelle celle della sequenza sono in ordine crescente.
 > 
 > Determinare, in funzione di $n$, il numero minimo possibile di percorsi in salita in un quadrato nordico.
-
-
 
 [[Quesiti/src_imo_2022#q06|src_imo_2022__Q06]]

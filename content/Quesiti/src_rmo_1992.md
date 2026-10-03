@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova tutti gli enti n in modo tale che n2+19n+92 sia un quadrato perfetto.*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Anteri positivi a,b,c senza fattore comune; (a+b) è un quadrato perfetto.*
@@ -80,7 +80,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il più grande fattore primo a 3 cifre di C(2000,1000).*
@@ -109,7 +109,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico con diagonale AC che si riunisce BD a E; prova EA2+EB2+EC2+ED2=4R2.*
@@ -137,7 +137,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico; le distanze x,y,z da A alle linee BD,BC,CD soddisfano BD/x=BC/y+CD/z.*
@@ -165,7 +165,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale con punti di mezzo P,Q di CD,AB; linee che si incontrano; prove area ADX+area BCY=area PXQY.*
@@ -193,7 +193,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza 1 < somma di 1/(1001) a 1/(3001) < 4/3.*
@@ -222,7 +222,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Solvi il sistema simmetrico (x+y) ((x+y+z) = 18, (y+z) ((x+y+z) = 30, (z+x) ((x+y+z) = 24) in termini di A.*
@@ -249,7 +249,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Octogono ciclico ABCDEFGH con lati alternati a,a,a,a,b,b,b,b; trovare il circondario in termini di a e b.*

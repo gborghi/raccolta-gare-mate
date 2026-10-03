@@ -28,11 +28,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Due mucchi di carte hanno sempre una somma che è un quadrato perfetto*
 
 > Sia $n \geq 100$ un numero intero. Ivan scrive ciascuno dei numeri $n, n+1, \ldots, 2n$ su carte diverse. Poi mescola queste $n+1$ carte e le divide in due mazzetti. Si dimostri che almeno uno dei due mazzetti contiene due carte tali che la somma dei numeri scritti su di esse è un quadrato perfetto.
-
-
 
 [[Quesiti/src_imho_2021#q01|src_imho_2021__Q01]]
 
@@ -58,13 +57,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Disuguaglianza con doppia somma e radici quadrate di valori assoluti*
 
 > Si dimostri che la disuguaglianza
 > $$\sum_{i=1}^{n}\sum_{j=1}^{n}\sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n}\sum_{j=1}^{n}\sqrt{|x_i + x_j|}$$
 > è valida per tutti i numeri reali $x_1, \ldots, x_n$.
-
-
 
 [[Quesiti/src_imho_2021#q02|src_imho_2021__Q02]]
 
@@ -88,11 +86,10 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Concorrenza di BC, EF, O1O2 nella configurazione del triangolo acutangolo*
 
 > Sia $D$ un punto interno al triangolo acutangolo $ABC$ con $AB > AC$, tale che $\angle DAB = \angle CAD$. Il punto $E$ sul segmento $AC$ soddisfa $\angle ADE = \angle BCD$, il punto $F$ sul segmento $AB$ soddisfa $\angle FDA = \angle DBC$ e il punto $X$ sulla retta $AC$ soddisfa $CX = BX$. Siano $O_1$ e $O_2$ i circocentri dei triangoli $ADC$ e $EXD$ rispettivamente. Si dimostri che le rette $BC$, $EF$ e $O_1O_2$ sono concorrenti.
-
-
 
 [[Quesiti/src_imho_2021#q03|src_imho_2021__Q03]]
 
@@ -117,12 +114,11 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Circonferenza tangente ai lati di un quadrilatero convesso dà somma uguale*
 
 > Sia $\Gamma$ una circonferenza di centro $I$, e sia $ABCD$ un quadrilatero convesso tale che ciascuno dei segmenti $AB$, $BC$, $CD$ e $DA$ sia tangente a $\Gamma$. Sia $\Omega$ la circonferenza circoscritta al triangolo $AIC$. Il prolungamento di $BA$ oltre $A$ incontra $\Omega$ in $X$, e il prolungamento di $BC$ oltre $C$ incontra $\Omega$ in $Z$. Il prolungamento di $AD$ oltre $D$ incontra $\Omega$ in $Y$, e il prolungamento di $CD$ oltre $D$ incontra $\Omega$ in $T$. Si dimostri che
 > $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
-
-
 
 [[Quesiti/src_imho_2021#q04|src_imho_2021__Q04]]
 
@@ -148,13 +144,12 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gli scambi di noci di Jumpy permettono sempre di trovare noci adiacenti*
 
 > Due scoiattoli, Bushy e Jumpy, hanno raccolto 2021 noci per l'inverno. Jumpy numeri le noci da 1 a 2021 e scavò 2021 piccoli buchi disposti in un ordine circolare sulla terra intorno al loro albero preferito. Il giorno dopo Jumpy si accorse che Bushy aveva messo una noce in ogni buco, ma senza badare alla numerazione. Infelice, Jumpy decide di riordinare le noci effettuando una sequenza di 2021 mosse. Nella $k$-esima mossa, Jumpy scambia le posizioni delle due noci adiacenti alla noce $k$.
 > 
 > Si dimostri che esiste un valore di $k$ tale che, nel suo $k$-esimo turno, Jumpy scambia alcuni noci $a$ e $b$ in modo che $a < k < b$.
-
-
 
 [[Quesiti/src_imho_2021#q05|src_imho_2021__Q05]]
 
@@ -178,10 +173,9 @@ level: IMO
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Il vincolo sulle somme dei sottoinsiemi impone l'esistenza di un grande sottoinsieme a intersezione non vuota*
 
 > Siano $m \geq 2$ un intero, $A$ un insieme finito di interi (non necessariamente positivi), e $B_1, B_2, \ldots, B_m$ sottoinsiemi di $A$. Si assuma che per ogni $k = 1, 2, \ldots, m$ la somma degli elementi di $B_k$ sia uguale a $m^k$. Si dimostri che $A$ contiene almeno $m/2$ elementi.
-
-
 
 [[Quesiti/src_imho_2021#q06|src_imho_2021__Q06]]

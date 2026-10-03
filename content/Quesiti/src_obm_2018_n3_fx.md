@@ -36,7 +36,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colorazione/numerazione di cubo unitario in n×n×n cubo; conteggio per numero giornaliero*
@@ -83,7 +83,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti i quadrupli "dobralho" (A,B,C,D) che soddisfano le condizioni di divisibilità*
@@ -120,7 +120,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, cerchi attraverso A e H tangenti a circolo, riflessi di O sui lati; dimostrare tre linee simultanee*
@@ -154,7 +154,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tangenza in cerchio in XYZ; quindi triangoli congruenti e quadri ciclici per altitudini/incentri*
@@ -193,7 +193,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tabella con 110; cancellare a,b scrivere a+b+ab/S; trovare il numero di operazioni e il valore massimo rimanente*
@@ -226,7 +226,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Summa digitali s(n): trovare tutte le coppie di numeri interi positivi (a,b) che rendono s(an+b)−s(n) finitamente valutate*

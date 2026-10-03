@@ -32,7 +32,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Questioni preliminari: un'identità vettoriale, la concomitanza delle altitudini (ortocentro) e una caratterizzazione dell'ortocentro attraverso il circoncentro.*
@@ -75,7 +75,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prima parte: determinare insieme ortocentrici con 3 e 4 elementi, studiare l'insieme ortocentrico generato da 4 punti conciclici, e trovare l'insieme ortocentrico di un cerchio e di un disco.*
@@ -118,7 +118,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Seconda parte: domande probabilistiche su triangoli le cui vertici sono tra le vertici $2n$ di un poligono regolare iscritto in un cerchio di raggio $R$ incentrato su $O$ (probabilità del triangolo retto, probabilità del triangolo acuto, aspettativa di distanza quadrata da $O$ all'ortocentro).*
@@ -167,7 +167,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Terza parte: coordinate dell'ortocentro di un triangolo con date coordinate; insieme ortocentrico ottenuto da una linea più un punto esterno; e proprietà di un insieme ortocentrico contenuto nell'unione dei due assi di coordinate.*
@@ -224,7 +224,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quarta parte: costruzione di notevoli insieme ortocentrici sull'iperbola $xy=k$; condizioni ortocentriche per i punti sull'iperbola; un quadratico con radici irrazionali e similitudine $z\mapsto(1-ri)z$; e che i punti di coordinate interi di $X$ formino un insieme ortocentrico infinito.*
@@ -276,7 +276,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quinta parte: una iterazione $X_{n+1}=\mathcal{H}(X_n)$ partendo da quattro punti in posizione generale, utilizzando un risultato di somiglianza che relaziona l'iperbola $xy=1$ e il locus degenerato $xy=0$; mostrare il periodo minimo $m$ è $1$ o $2$ e caratterizzare gli insiemi iniziali che raggiungono ciascuno di essi.*

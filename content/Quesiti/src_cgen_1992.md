@@ -44,7 +44,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sottoinsiemi convexi di piano e di un delta di mappa di simmetria*
@@ -93,7 +93,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli e quadrilaterali inseriti che massimizzano la somma dei lati quadrati*
@@ -130,7 +130,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedro inserito nella sfera: tre condizioni equivalenti*
@@ -168,7 +168,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Convergenza e eventuale monotonia di una ricorrenza di radice quadrata*
@@ -199,7 +199,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Unità di polvere di 10^1992 / (10^83 + 7) *

@@ -40,7 +40,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Value k for which the polynomial is divisible by 57x-1*
@@ -91,7 +91,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of infinite areas of triangles with mean points*
@@ -121,7 +121,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ball beam inscribed in triangular tetrahedron*
@@ -157,7 +157,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Invariant 5x5 grids for 90 degree rotation*
@@ -192,7 +192,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Numbers 5 digits with remainder 3 mod 4 and reversed remainder 3 mod 5*
@@ -228,7 +228,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum movements to force a monochromatic equilateral triangle*
@@ -265,7 +265,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measure AB with orthocenter circocenter and parallel HO*
@@ -299,7 +299,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular triangles with 20 rectangles in 4 directions*
@@ -333,7 +333,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of left hands with 490 extra handshakes between right hands*
@@ -381,7 +381,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum n with a_n<1 in geometric progression*
@@ -417,7 +417,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Green balls with the same colour as different *
@@ -451,7 +451,7 @@ level: squadre
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of cows in the pasture forever, grass growing
@@ -512,7 +512,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *p(14) with functional equation and p(10)=100*
@@ -557,7 +557,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of a cubic polynomial with 3 distinct whole roots*
@@ -597,7 +597,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *HCK angle in a rectangular triangle with hinges*
@@ -664,7 +664,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pyramid volume known volume part removed from the plan*
@@ -711,7 +711,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Common tangent length PQ at two semicircumferences*
@@ -748,7 +748,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability Phineas first pitcher in the fourth round*
@@ -784,7 +784,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of distribution of up to 20 balls with order constraints*
@@ -820,7 +820,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Catalan numbers, ways to divide a triangle into 10 pieces*
@@ -880,7 +880,7 @@ Maximum number of cows in the pasture forever, grass growing
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Candace coordinates for the maximum area of the triangle with ellipses*

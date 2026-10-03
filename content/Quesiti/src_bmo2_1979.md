@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza per quattro differenti valori positivi o trova il contromodo*
@@ -55,7 +55,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due triangoli equilaterali condividono il vertice C; dimostrare che i triangoli O'M e OA'B' sono simili*
@@ -84,7 +84,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza definita con somme di fondo; determina a_1979*
@@ -112,7 +112,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Identificazione della somma binaria dei numeri interi positivi*

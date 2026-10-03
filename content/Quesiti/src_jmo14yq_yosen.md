@@ -27,7 +27,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Scatole di 10 e 6 mele per un totale di 38; combinazioni di scatole da contare.*
@@ -56,7 +56,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca il CD nel triangolo ABC con il punto D su BC, dati lati e angoli uguali.*
@@ -84,7 +84,7 @@ level: JMO Yosen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 operazioni.
@@ -111,7 +111,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le coppie di numeri interi positivi (m,n) con 7m+3n=10^2004 e m divide n.*
@@ -143,7 +143,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Strictamente crescente sequenza di interi positivi del 2004; nessun prodotto di due termini è uguale a un altro; ridurre al minimo l'ultimo termine.*
@@ -172,7 +172,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca f(x) soddisfacente f(x)+f(1/(1-x))=1/x per tutte le x non 0 o 1.*
@@ -199,7 +199,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Area al di fuori del triangolo ABC (laterali 16, 5√5, 9) all'interno della distanza 6 sia da B che da C.*
@@ -228,7 +228,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Maximizzare il minimo di un'espressione somma di frazioni su valori reali positivi sommati a 1.*
@@ -255,7 +255,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *7 politici, fazioni con condizione di coesistenza; trovare la dimensione massima delle fazioni.*
@@ -282,7 +282,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due operazioni polinomiche applicate al polinomio di grado 2; trovare la costante k nel risultato.*
@@ -309,7 +309,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale convexa con AD=CD, BD=BC e angoli dati; trovare angolo BAD.*
@@ -340,7 +340,7 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Minimum di N punti in piano che garantiscono una subsequenza monotone-inclinazione di 2004 punti.*

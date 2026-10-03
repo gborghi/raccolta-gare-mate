@@ -32,7 +32,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova quale n in 3.12 ammette una disposizione di cerchio felice*
@@ -63,7 +63,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Carte in cerchio, somme vicine divisibili per 3*
@@ -96,13 +96,12 @@ level: BMO Round 1
 
 <div class="qlang-split" data-lang="it"></div>
 
+
 *Gioco che sostituisce n con |a-b| partendo da 10^6*
 
 > Rhian e Jack stanno giocando a un gioco in cui all'inizio sul quaderno nero è scritto il numero $10^6$. Se il numero $n$ presente sul quaderno può essere espresso come $a + b$ per due diversi interi positivi $a$ e $b$, un giocatore può effettuare una mossa scegliendo tali $a$ e $b$ e sostituire $n$ con $|a - b|$. Rhian inizia, e i giocatori effettuano le mosse alternativamente. Perde chi non riesce a muovere.
 > 
 > Determinare, con dimostrazione, chi vince la partita.
-
-
 
 [[Quesiti/src_bmo_2024-25_round1#q03|src_bmo_2024-25_round1__Q03]]
 
@@ -128,7 +127,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo acuto, P sulla media AM con AB=CP, prova angolo CPB=90*
@@ -159,7 +158,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno n non divisibile p; prova divisibilità per p*
@@ -188,7 +187,7 @@ level: BMO Round 1
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *4x4x4 cubo di zuccheri a 3 sapori; trovare 12 sapori identici in 9 coppie di distanza uguale*

@@ -26,7 +26,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrato con vertici su tre linee parallele a distanza di 3 anni; trovare superficie*
@@ -53,7 +53,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Numeri da 1 a 101 scritti in rosso/blu; contare i numeri rossi con vincoli*
@@ -80,7 +80,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con lati primari distinti in AP; trovare a/L per il perimetro minimo*
@@ -107,7 +107,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *numeri a 6 cifre con solo cifre a,b,c; somma 5939399406; maggior rimanente di abc mod 100*
@@ -134,7 +134,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Parallelogramma ABCD con lato più lungo due volte più corto; bisectori di angolo formano XYZW; area di ABCD*
@@ -161,7 +161,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Reali positivi x,y,z con tre restrizioni quadratiche; trovare p+q dove l'espressione è uguale a p*sqrt(q)*
@@ -188,7 +188,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare le mappe non in diminuzione da {1,2,3} a {1,2,3,4,5}*
@@ -217,7 +217,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più grande numero intero N con pavimento(sqrt(pavimento(sqrt(N))=4; trovare la somma digitali di N*
@@ -246,7 +246,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza P_n definita da ricorrenza lineare; area del pentagono P0, P2, P4, P6, P8*
@@ -275,7 +275,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio di grado minimo con coefficienti interi che soddisfano P(sqrt(7)+sqrt(5))=2(sqrt(7)-sqrt(5)); trovare P(2)*
@@ -302,7 +302,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *4 coppie sposate sedute a turno per sesso in un cerchio; nessun marito accanto alla moglie *
@@ -329,7 +329,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *12x12 tabella; corve N minime per garantire 7 reciprocamente non attaccanti*

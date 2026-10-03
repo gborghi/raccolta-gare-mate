@@ -30,7 +30,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Trova il più piccolo intero positivo a per quadratici con due radici in (0,1)*
@@ -63,7 +63,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Conteggi di conteggio delle lettere in cui ciascuna lettera è adiacente a una lettera identica*
@@ -94,7 +94,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio di grado n con f(k)=1/(k+1); trovare f(n+1)*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punto M su AC del triangolo ABC con cerchi incisi; trovare IM in termini di lati*

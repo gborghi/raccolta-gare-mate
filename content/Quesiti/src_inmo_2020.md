@@ -25,7 +25,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il circolo dei triangoli ACD e XAY si trova sul bisettore perp di O1O2*
@@ -55,7 +55,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Condizione di simmetria soddisfacente polinomial espressa in potenze di (1-x^2) *
@@ -82,7 +82,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il più piccolo sottoinsieme S di cifre in modo che ogni intero positivo sia uguale a p + q con cifre in S*
@@ -110,7 +110,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza di n numeri reali con la somma 2n*
@@ -143,7 +143,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Caratterizzare quali numeri regolari di vertici poligonistici possono essere incorniciati su linee parallele*
@@ -176,7 +176,7 @@ level: INMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *5x5 tabella non può essere coperta da 16 trombini con ogni quadrato coperto una o due volte*

@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This appropriation is intended to cover expenditure relating to:
@@ -62,7 +62,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Positive integer pairs (a,b) with a<=222 and a/2< b<2a/3*
@@ -92,7 +92,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * length of BC*
@@ -123,7 +123,7 @@ This appropriation is intended to cover expenditure relating to:
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
@@ -156,7 +156,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Reduced fractions m/n with 0<m/n<1 and m*n=20!*
@@ -188,7 +188,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of the values of a*
@@ -222,7 +222,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 * with how many zeros ends *
@@ -257,7 +257,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *AP reduced*
@@ -286,7 +286,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *volts in seconds exceeds minutes *
@@ -317,7 +317,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *report areas of star David and hexagon*
@@ -348,7 +348,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Little N of 4 digits with sum of last digits of N^2 and N = 10000*
@@ -381,7 +381,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum integer 4 distinct non-zero digits with digits greater than the adjacent mean*
@@ -424,7 +424,7 @@ The amount of the sum of the sums of the sums of the sums of the sums of the sum
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the assets under management of the institution.
@@ -460,7 +460,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Regular coloured tetrahedra with 20 colours without rotation*
@@ -499,7 +499,7 @@ This is the total value of the assets under management of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of squares of the roots of x^3-46x^2+55x-7*

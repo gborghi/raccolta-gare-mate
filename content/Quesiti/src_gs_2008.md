@@ -34,7 +34,7 @@ level: squadre
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Cost of the most expensive meal with fractional gifts
@@ -65,7 +65,7 @@ Cost of the most expensive meal with fractional gifts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Members of the Atlantic chorus with overlapping percentages*
@@ -98,7 +98,7 @@ Cost of the most expensive meal with fractional gifts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most of two numbers with 2457 digits one multiple of the other*
@@ -131,7 +131,7 @@ Cost of the most expensive meal with fractional gifts
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of journeys for transporting 100 tonnes of stone
@@ -165,7 +165,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alcoholic strength of a mixed cocktail*
@@ -204,7 +204,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *T-shirts of four monkeys with aversions *
@@ -236,7 +236,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the longest path between the diagonals of a trapezoid*
@@ -272,7 +272,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Painted area of a letter obtained by cutting a cylinder*
@@ -303,7 +303,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Angle width in a five-pointed star*
@@ -338,7 +338,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max/min difference on the starting side after five target cuts*
@@ -372,7 +372,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of one W obtained by superimposing two Vs of paper*
@@ -402,7 +402,7 @@ Maximum number of journeys for transporting 100 tonnes of stone
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum n with 2^2008+2^3599+2^n perfect square
@@ -433,7 +433,7 @@ Maximum n with 2^2008+2^3599+2^n perfect square
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The probability that four birthdays fall on different days
@@ -464,7 +464,7 @@ The probability that four birthdays fall on different days
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most perfect square of 4 digits with the last digit 5*
@@ -496,7 +496,7 @@ The probability that four birthdays fall on different days
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between rooms owned on multiples of 1792*
@@ -529,7 +529,7 @@ The probability that four birthdays fall on different days
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of three tangent ponds between two sidewalks at 60 degrees*
@@ -561,7 +561,7 @@ The probability that four birthdays fall on different days
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How to wear T-shirts with quantity and aversions*
@@ -594,7 +594,7 @@ The probability that four birthdays fall on different days
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Shortest path between two ants on a 3D letter
@@ -624,7 +624,7 @@ Shortest path between two ants on a 3D letter
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Full base with 14th power given*
@@ -664,7 +664,7 @@ Shortest path between two ants on a 3D letter
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of prismatic megaliths in a strip
@@ -699,7 +699,7 @@ Maximum number of prismatic megaliths in a strip
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Configurations of 10 entities around a table (adjacent shift) *
@@ -736,7 +736,7 @@ Maximum number of prismatic megaliths in a strip
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum triangular billiards course with two rebounds*
@@ -766,7 +766,7 @@ Maximum number of prismatic megaliths in a strip
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to wear T-shirts without colour aversions
@@ -797,7 +797,7 @@ How to wear T-shirts without colour aversions
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Year of the Apocalypse by true/false self-referential phrases*

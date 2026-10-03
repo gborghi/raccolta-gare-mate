@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Recurrenza della sequenza: trovare a1 in modo che tutti i termini siano numeri interi odd*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sett di punti di caratterizzazione in cui ogni triangolo ha uguale radius di circonferenza*
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i colori bilanciati di una griglia 2019×2019*
@@ -119,7 +119,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricorrenza della sequenza: risultati di limitazione e di non limitazione*

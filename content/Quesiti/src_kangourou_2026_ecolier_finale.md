@@ -8,9 +8,9 @@ level: kangourou
 ---
 <div class="atom-reader" data-gara="Quesiti/src_kangourou_2026_ecolier_finale"></div>
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 *Disposizione gettoni colorati su griglia triangolare*
 
@@ -23,9 +23,9 @@ level: kangourou
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
 
 *Famiglie di 3, 4 o 5 persone per un totale di 63*
 
@@ -37,9 +37,9 @@ level: kangourou
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,skill_casework_accurato"></span>
 
 *Tre sospettati, uno dice il vero*
 
@@ -51,9 +51,9 @@ level: kangourou
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_geometria_solida,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_geometria_solida,skill_modellizzazione"></span>
 
 *Mattoni interi per un camino a base quadrata*
 
@@ -65,9 +65,9 @@ level: kangourou
 **Risposta:** 30
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
-<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
 
 *Eta di Giovanni: resti 3 mod 5 e 2 mod 4*
 
@@ -79,9 +79,9 @@ level: kangourou
 **Risposta:** 18, 38, 58, 78, 98
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
 
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="it"></div>
+
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,skill_astrazione"></span>
 
 *Terna pari e operazione somma meno 1*
 
@@ -92,4 +92,3 @@ level: kangourou
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** NO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rQjGy9R9Tn2ol7PljqkqXpPCisQvpafB/view)
-

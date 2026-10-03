@@ -30,7 +30,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *exists n with xn+2=xn*
@@ -64,7 +64,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *set of the median points*
@@ -106,7 +106,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Are 72, 71 and 72^71 Egyptians?
@@ -142,7 +142,7 @@ Are 72, 71 and 72^71 Egyptians?
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *XS=PS e AX=DQ*
@@ -194,7 +194,7 @@ Are 72, 71 and 72^71 Egyptians?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *minimum guards per perimeter and area*
@@ -235,7 +235,7 @@ Are 72, 71 and 72^71 Egyptians?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum Mn for 1/a1+a1/a2+...+a(n-1)/year with increasing integers*

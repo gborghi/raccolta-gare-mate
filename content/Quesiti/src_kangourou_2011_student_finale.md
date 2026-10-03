@@ -27,7 +27,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max number of distinct digits divisible by each of its digits*
@@ -55,7 +55,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who skips a circuit with a ditch without falling and why
@@ -90,7 +90,7 @@ Who skips a circuit with a ditch without falling and why
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *number of C always equal*
@@ -123,7 +123,7 @@ Who skips a circuit with a ditch without falling and why
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many distinct values sum the perimeter of 4 triangles area 1/4*
@@ -152,7 +152,7 @@ Who skips a circuit with a ditch without falling and why
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *For which m the ant comes out of the tiled box*
@@ -181,7 +181,7 @@ Who skips a circuit with a ditch without falling and why
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum elements of subset A with ratios not exceeding 2*

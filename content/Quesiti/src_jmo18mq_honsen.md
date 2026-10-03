@@ -26,7 +26,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio intero con radice n^2 non è mai uguale a 1 a^2*
@@ -57,7 +57,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gli giocatori in un cerchio passano carte rosse/bianche; il massimo dei ruoli è di equilibrio*
@@ -88,7 +88,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo attraverso A e circoncentro incontra lati; PQ=BC, angolo *
@@ -116,7 +116,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
@@ -146,7 +146,7 @@ level: JMO Honsen
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Esistenza di n che rappresenta ogni razionale come numero intero più n frazioni unitarie*

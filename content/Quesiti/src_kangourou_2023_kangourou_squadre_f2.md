@@ -29,7 +29,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference of surface area given difference of cubic volumes*
@@ -60,7 +60,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many girls have passed average exams*
@@ -95,7 +95,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Gamme of glues for parallel 7x6x5
@@ -126,7 +126,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *N value in water mixtures*
@@ -158,7 +158,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *greater than six minimum numbers, sum of 2023*
@@ -191,7 +191,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum straight lines to cover square vertices*
@@ -221,7 +221,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Greatest than five consecutive, 10 digit product*
@@ -253,7 +253,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *PQ length in square partitioned*
@@ -286,7 +286,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum k with 193k+9 perfect square*
@@ -318,7 +318,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum side intersections 3 red 5 blue*
@@ -350,7 +350,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Track length, diametrically opposite departures*
@@ -388,7 +388,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost crown smaller proportional diameter*
@@ -424,7 +424,7 @@ Gamme of glues for parallel 7x6x5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How to read BANANA in the table*
@@ -485,7 +485,7 @@ How to read BANANA in the table*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rectangular area ABCD from area triangle FMN*
@@ -560,7 +560,7 @@ How to read BANANA in the table*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *M+m minimum possible 100 numbers in line*

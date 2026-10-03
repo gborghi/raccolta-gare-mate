@@ -26,7 +26,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ogni bambino del campo 2010^2010 ha almeno tre amici; decidete se i bambini possono sempre essere elencati in modo che ogni coppia di amici abbia almeno 2010 bambini tra loro.*
@@ -53,7 +53,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel triangolo ABC con centroide G e D il punto medio di CA, la linea attraverso G parallela a BC incontra AB a E; prova angolo AEC = angolo DGC se angolo ACB = 90 gradi.*
@@ -80,7 +80,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Con un intero x >= 3 e n = x^6 - 1, p primo e k un intero positivo con p^k dividendo n, mostrare p^{3k} < 8n.*
@@ -108,7 +108,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove la disuguaglianza ciclica 4(x+y+z) ^3 > 27(x^2 y + y^2 z + z^2 x) per tutti i reali positivi x, y, z.*

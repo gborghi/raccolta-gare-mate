@@ -31,7 +31,7 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Distribuire le palline bianche e nere in due urne per massimizzare la probabilità di disegnare una pallina bianca
@@ -67,7 +67,7 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangoli ABC (chiamati cartesiani) con lati interi e angolo A = 2pi/3: lunghezze razionali, incircolo/escircolo e caratterizzazione numerologica*
@@ -100,7 +100,7 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set E di raggio R delle sfere (H) mantenendo i punti B,C strettamente all'esterno mentre la sfera (A) si trova strettamente all'interno; non vuoto e il limite superiore minimo*

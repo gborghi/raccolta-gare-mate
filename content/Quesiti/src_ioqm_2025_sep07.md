@@ -26,7 +26,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *60% di x è 40; trovare x% di 60*
@@ -55,7 +55,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri interi positivi ≤100 divisibili per 3 ma non per 2*
@@ -84,7 +84,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *area rettangolare laterale integrale 20; perimetro minimo*
@@ -113,7 +113,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare triangoli a lato intero con perimetro 23*
@@ -142,7 +142,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i numeri a 3 cifre $\overline{abc}$ con $a\neq 0$ e $c=a+b$*
@@ -170,7 +170,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'età di una persona in quadrato perfetto nel 2025 e 2012; m cubo perfetto anni dopo il 2025*
@@ -198,7 +198,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *La somma di due reali è un intero positivo n, la somma dei quadrati è n+1012; max n*
@@ -226,7 +226,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Colore 4 vertici di quadrilaterali con 4 colori; lati e diagonali AC ottengono punti terminali di colore diverso*
@@ -254,7 +254,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quattro lati e una diagonale di quadrilaterali; lunghezze 10,20,28,50,75; trovare diagonale*
@@ -282,7 +282,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cilindro con altezza e raggio interi; superficie pari al volume; k più piccolo dove il volume è kπ*
@@ -309,7 +309,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Frazione a/b più vicina a 3/4 con gcd(a,b)=1 e b≤15, a/b≠3/4; trovare a+b*
@@ -336,7 +336,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Cinque cifre $\overline{abcab}$ divisibili per $\overline{ab}$ ma non 13; somma di più grandi cifre*
@@ -363,7 +363,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrilaterali con lati e angoli dati 30° e 90°; angolo acuto tra le diagonali*
@@ -392,7 +392,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Equazione funzionale f(mn+1)=f(m) f(n)-f(n)-m+2, f(0)=1; più grande N con la somma f(k)<100*
@@ -419,7 +419,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *6 coupon e 6 bulleti; coppie inserite insieme in bulleti; nessun coupon in bulleto con numero identico*
@@ -448,7 +448,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomi di due gradi-2 con determinate condizioni di rapporto; trovare f(5) *
@@ -475,7 +475,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *MTAI parallelogramma con area 40/41 e MI=1/MT; meno diagonale MA al quadrato è uguale a/b; trovare
@@ -502,7 +502,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Permutazioni di cifre di 223334444; contare numeri interi a nove cifre con almeno un 3 a destra dell'ultimo 4*
@@ -529,7 +529,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto ABC, DEFG quadrato con F su AC, G su un cerchio incentrato su A; trovare superficie di DEFG*
@@ -559,7 +559,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *f(n) = rimanente di n^n diviso per 7; periodo più piccolo T*
@@ -587,7 +587,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Lista (a+1)n2, m2, a(n+1)2 è di tre integri consecutivi; più grande m2*
@@ -614,7 +614,7 @@ level: IOQM
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le coppie vincenti (m,n) *
@@ -641,7 +641,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Rectangle ABCD, punti M su AB e N su BC con MC=CD, MD=MN, C,D,M,N conciclici; trovare m+n*
@@ -668,7 +668,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *P(x)=x^2025 diviso da Q(x)=x^4+x^3+2x^2+x+1; trovare R(3)*
@@ -695,7 +695,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per quanti n di {1,...,37} può essere diviso in n coppie con prodotto delle somme al quadrato*
@@ -722,7 +722,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima *
@@ -751,7 +751,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contare i tripli ordinati (a,b,c) con 1 ≤a,b,c≤50 soddisfacenti (lcm(a,c)+lcm(b,c))/(a+b)=26c/27*
@@ -778,7 +778,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Posibile intero non quadrato a; sqrt(x-sqrt(x+a))=sqrt(a)-y; più grande a<100*
@@ -805,7 +805,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato *
@@ -833,7 +833,7 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Radio S del cerchio 10; S1 e S2 toccano S internamente e si incontrano a due punti A, B; angolo OAB=90°; somma dei raggi*

@@ -26,7 +26,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo ABC con angolo ACB=120°, bisettore incontra lati, prova KLN equilaterale*
@@ -53,7 +53,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Primo p con 2p uguale alla somma dei quadrati di quattro positivi consecutivi, dimostra p-7 divisorio per 36*
@@ -82,7 +82,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con coefficienti reali di grado 2, a,b,c separati in coppia con f(a) = bc; trovare f(a+b+c) *
@@ -113,7 +113,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Set X di N numeri a quattro cifre dai numeri 1-8, qualsiasi due cifre condividano un numero in X, trovare il numero più piccolo N*
@@ -146,7 +146,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I lati di un triangolo a,b,c con espressione T_n, con una condizione di rapporto data trovano tutti i perimetri*
@@ -173,7 +173,7 @@ level: RMO
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale ciclico, diagonali che si incontrano a P, Q su BC con PQ perp AC, dimostrare la linea di collegamento dei circoncentri di APD e BQD parallele ad AD*

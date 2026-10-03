@@ -26,7 +26,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo di centri di cerchio simile al triangolo originale*
@@ -53,7 +53,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Coefficienti binomiali mod 3: il conteggio del resto-1 supera il conteggio del resto-2*
@@ -84,7 +84,7 @@ level: BMO Round 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica*
@@ -117,7 +117,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Contate soluzioni di x^2 - {x^2} = (x-{x})^2 in [1,N]*
@@ -146,7 +146,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *L'area curva della superficie di un cono inclinato con base ellittica*
@@ -173,7 +173,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Divisibilità per m: l'esistenza di y dall'esistenza di x con x^2-a divisibile per m*
@@ -203,7 +203,7 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Quadrillatore a cerchio inciso: quattro quantità associate sono uguali*

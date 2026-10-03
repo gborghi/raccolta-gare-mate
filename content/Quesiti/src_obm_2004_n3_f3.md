@@ -26,7 +26,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I cerchi di quattro triangoli in quadrilaterali convexi condividono un punto di rombo*
@@ -57,7 +57,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le n per le quali un triangolo può essere diviso in n triangoli con uguale grado di vertice*
@@ -90,7 +90,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza di numeri interi con ricorrenza cubica: più della metà dei termini può essere negativa?*
@@ -121,7 +121,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *10x10 tabella con cifre 09 ogni 10 volte; più grande n garantendo una riga/colonna con ≥n cifre distinte*
@@ -152,7 +152,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza con a_n·a_{n+4}=a_{n+1}a_{n+3}+a_{n+2}^2 e 1s iniziali; mostrare tutti i termini sono interi*
@@ -187,7 +187,7 @@ level: OBM Nível 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Punti periodici di una mappa piana; dimostrare che A_b ha un minimo e trovarlo*

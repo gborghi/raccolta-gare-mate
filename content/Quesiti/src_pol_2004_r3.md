@@ -26,7 +26,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Due cerchi attraverso la tangente D a A e B; collinearità di D, E, F*
@@ -53,7 +53,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Polinomio con valori di coprimo; insieme infinito di coprimo in coprimo *
@@ -80,7 +80,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Più alto numero di tripli di sorteggi nel torneo di round-robin*
@@ -108,7 +108,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Inequità che coinvolge radici quadrate per reali a, b, c*
@@ -135,7 +135,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Il maggior numero di linee equivalenti attraverso un punto nello spazio*
@@ -164,7 +164,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Meno numero di termini consecutivi divisibili per m in una sequenza ricorsiva*

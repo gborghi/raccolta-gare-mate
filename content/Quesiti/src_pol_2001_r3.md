@@ -27,7 +27,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una disuguaglianza che coinvolge somme di i*x_i e x_i per n reali non negativi.*
@@ -54,7 +54,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Mostra la somma delle distanze da un punto interno di un tetraedro regolare con bordo 1 alle sue vertici è massima di 3.*
@@ -83,7 +83,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Per la ricorrenza x_{n+2}=x_{n+1}+x_n, mostrare alcuni a,b danno più di 2000 valori multipli ma nessuno dà infinitamente molti.*
@@ -110,7 +110,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Se 2^n*a+b è un quadrato perfetto per tutte le n naturali, mostrare a=0.*
@@ -137,7 +137,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Nel parallelo ABCD, K su BC e L su CD con BK*AD=DL*AB; DK e BL si incontrano a P. Indicare l'angolo DAP = angolo BAC.
@@ -167,7 +167,7 @@ level: Olimpiade Polacca Round 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dato il 2000 di incremento degli integri positivi al di sotto di 10^100, trovare due sottoinsiemi non vuoti con dimensioni uguali, somme di elementi uguali e somme di quadrati uguali.*

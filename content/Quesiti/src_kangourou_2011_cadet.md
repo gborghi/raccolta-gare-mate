@@ -31,7 +31,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which of the five numbers is the largest *
@@ -64,7 +64,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is not the case with the manufacturer's products.
@@ -99,7 +99,7 @@ This is not the case with the manufacturer's products.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Within minutes the clock shows again 0.1,1.2*
@@ -149,7 +149,7 @@ This is not the case with the manufacturer's products.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference between large and intermediate square areas*
@@ -197,7 +197,7 @@ This is not the case with the manufacturer's products.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Score of the game won by the Kang team
@@ -240,7 +240,7 @@ Score of the game won by the Kang team
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many mice did Felix take on the third day?
@@ -276,7 +276,7 @@ How many mice did Felix take on the third day?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Spectators certainly Italian male and vegetarian*
@@ -310,7 +310,7 @@ How many mice did Felix take on the third day?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which cannot be an area of triangle with sides 6 and 8*
@@ -345,7 +345,7 @@ How many mice did Felix take on the third day?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Somma del piu grande e piu piccolo numero di 3 cifre somma cifre 8*
@@ -403,7 +403,7 @@ How many mice did Felix take on the third day?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to make the figure at L * symmetrical
@@ -449,7 +449,7 @@ How many mice did Felix take on the third day?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 This is the total value of the assets of the institution.
@@ -485,7 +485,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max common points at more than one of four two-to-two tangent circumferences*
@@ -521,7 +521,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many F-points give DEF triangle area 1 *
@@ -560,7 +560,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What pair to remove without changing the mean*
@@ -603,7 +603,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Region X colour on a 4 colour map*
@@ -654,7 +654,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the square given sum of perimeter of 6 rectangles*
@@ -704,7 +704,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *To which number to add 1 to minimize the product*
@@ -741,7 +741,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which development of the cube corresponds to the black line*
@@ -806,7 +806,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Greatest of 11 consecutive numbers to sum p*
@@ -852,7 +852,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What form of card block the insertion of the other*
@@ -889,7 +889,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *X+Y if 24X8Y is divisible by 4,5,9*
@@ -935,7 +935,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which set of rods does not have a regular hexagon*
@@ -999,7 +999,7 @@ This is the total value of the assets of the institution.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who lies between Ida Mara Olga
@@ -1037,7 +1037,7 @@ Who lies between Ida Mara Olga
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many shots did Michele take?
@@ -1079,7 +1079,7 @@ How many shots did Michele take?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which friend lives on Curva Street (not straight) *
@@ -1116,7 +1116,7 @@ How many shots did Michele take?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Measurement of the BDC angle in the quadrilateral*
@@ -1152,7 +1152,7 @@ How many shots did Michele take?
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 True statement about the ages of Eva and Rita
@@ -1201,7 +1201,7 @@ True statement about the ages of Eva and Rita
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum whole value of the cryptanalytic expression*
@@ -1240,7 +1240,7 @@ True statement about the ages of Eva and Rita
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number of cells to be touched to find 2 adjacent blue cells*
@@ -1286,7 +1286,7 @@ True statement about the ages of Eva and Rita
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length of the x side of the triangle obtained by reconstituting*

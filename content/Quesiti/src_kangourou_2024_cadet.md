@@ -39,7 +39,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which closed cord cannot be set to 8*
@@ -86,7 +86,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *What percentage and greater is the area of the second figure*
@@ -129,7 +129,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Quantity of 4-digit numbers with three tokens 1.5,11*
@@ -178,7 +178,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which pentagon leaves two black closed curves *
@@ -233,7 +233,7 @@ level: kangourou
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many peaks does the solid have after removing 4 pyramids?
@@ -282,7 +282,7 @@ How many peaks does the solid have after removing 4 pyramids?
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Maximum number of children in elevators with 9 adults
@@ -339,7 +339,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Summary of the four integers hidden by the product lines/columns*
@@ -391,7 +391,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *20*
@@ -436,7 +436,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Grades of the angle between redistributed slices of the cake*
@@ -486,7 +486,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum difference between two of 4 distinct integers with mean 5*
@@ -537,7 +537,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Which table completes the magic square 4x4*
@@ -612,7 +612,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Rage of circumference data nearest and farthest points *
@@ -670,7 +670,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Difference A-B between two shaded triangles in the square*
@@ -732,7 +732,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Fish eaten by the other chicken (44 to one) *
@@ -785,7 +785,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many cubes are needed to extend the structure*
@@ -831,7 +831,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Meter of kangaroo paths in 2024 jumps (jumps/descends) *
@@ -872,7 +872,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the fourth rectangle known to the other three*
@@ -919,7 +919,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of decrease in mass of dried mushroom*
@@ -973,7 +973,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many triangular bricks are needed with 3000 hexagons*
@@ -1018,7 +1018,7 @@ Maximum number of children in elevators with 9 adults
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 What paper remains on the table from Ada's statements.
@@ -1068,7 +1068,7 @@ What paper remains on the table from Ada's statements.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of three digits with 5 horizontal and 10 vertical lines*
@@ -1130,7 +1130,7 @@ What paper remains on the table from Ada's statements.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to blacken two squares for a single axis*
@@ -1194,7 +1194,7 @@ What paper remains on the table from Ada's statements.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Perimeter of the rectangle with three tangent semicirculars*
@@ -1243,7 +1243,7 @@ What paper remains on the table from Ada's statements.
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 How many kangaroos never got the ball (50, jump 6)
@@ -1311,7 +1311,7 @@ How many kangaroos never got the ball (50, jump 6)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many ways to choose n in the product diagram (720) *
@@ -1376,7 +1376,7 @@ How many kangaroos never got the ball (50, jump 6)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *How many eggs the customer has purchased (double pigeon chicken) *
@@ -1425,7 +1425,7 @@ How many kangaroos never got the ball (50, jump 6)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *sum of alpha+beta+gamma angles on square paper*
@@ -1476,7 +1476,7 @@ How many kangaroos never got the ball (50, jump 6)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Who wrote the truth on the parchment (30 coins)
@@ -1520,7 +1520,7 @@ Who wrote the truth on the parchment (30 coins)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 When Claudius and Leo meet for the second time
@@ -1586,7 +1586,7 @@ When Claudius and Leo meet for the second time
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Area of the pentagon with regions of the given area*

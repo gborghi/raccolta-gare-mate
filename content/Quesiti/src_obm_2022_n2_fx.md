@@ -38,7 +38,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Gioco con pile di pietra: sequenze, tabella, invariante di pile di pietra singola*
@@ -79,7 +79,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sistema di equazioni cicliche in a, b, c; determinare abc*
@@ -105,7 +105,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo con incentro e circoncircolo; quattro punti conciclici*
@@ -133,7 +133,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Linea tangente parallela e cerchio inscritto in triangolo; trovare il perimetro dato AQ=1*
@@ -162,7 +162,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Processo di aggiunta del divisore a partire dal 2022; trovare il numero non raggiungibile più grande*
@@ -189,7 +189,7 @@ level: OBM Nível 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *I più grandi sottoinsiemi di k di dimensioni 1011 di {1,...,2023} possono essere di 2 colori con coppie incrociate*

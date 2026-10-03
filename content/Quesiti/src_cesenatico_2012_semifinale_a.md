@@ -33,7 +33,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *how many of these were collected by Death*
@@ -68,7 +68,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *n with a batch of 594 movements*
@@ -101,7 +101,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum number >=7 digits with 4-digit divisor*
@@ -135,7 +135,7 @@ level: nazionale
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 Sum of exponents of 2 in n! for n=1.63*
@@ -170,7 +170,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum beam for dividing rotating solid *
@@ -205,7 +205,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *1/95+1/n=1/m*
@@ -244,7 +244,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of a safe land (circular shield) *
@@ -280,7 +280,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *value of (12*7) + 17*
@@ -315,7 +315,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Pages eaten by worms between volumes*
@@ -349,7 +349,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Probability of different dice throws of -2 and +4 days*
@@ -381,7 +381,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Alien speed (overtaking and crossing on track) *
@@ -414,7 +414,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *intersection of triangles in square*
@@ -447,7 +447,7 @@ Sum of exponents of 2 in n! for n=1.63*
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1 of this Article. on two sides)*
@@ -482,7 +482,7 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Max of persons in the shelter (hexagonal polygon area) *
@@ -516,7 +516,7 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum exagone layer for N circles (packaging) *
@@ -584,7 +584,7 @@ The Commission shall adopt implementing acts in accordance with the procedure re
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Separate settings of 8 ring disks*

@@ -57,7 +57,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Peter's Weights: per una sequenza finita di n reals si definisce il suo peso come il più grande dei valori del tipo di somma parziale assoluta.
@@ -113,7 +113,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circoscritta; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; un criterio per la concomitanza di altitudini tramite prodotti dotati di vettori di direzione unità.*
@@ -185,7 +185,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Problema di probabilità sul numero D_n di palle eliminate/rimanenti: studiare le probabilità p_j che il numero di palla j venga eliminato nella prima selezione, la probabilità più grande M_n, il risultato più probabile attraverso la proprietà P_n (P(D_n=n)=M_n), e una catena di disuguaglianze P(D_n=k)<=P(D_n=k+1) per k<=n-2. SOLO le domande da 8 a 17 sono visibili nelle immagini (la dichiarazione/impostazione e le domande da 1-7 non sono mostrate).*
@@ -287,7 +287,7 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Que la force soit avec f!: una funzione positiva f su un sottoinsieme di intervalli I di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tanc).*

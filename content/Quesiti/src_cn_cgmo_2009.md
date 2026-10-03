@@ -28,7 +28,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Fine molti tripli numeri interi positivi che soddisfano abc=2009(a+b+c).*
@@ -59,7 +59,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Triangolo retto inciso in cerchio, punto E in arco, punto F nel raggio EC, BF incontra il cerchio a D, circondamento O del centro di DEF; dimostrare A,C,O collineare.*
@@ -94,7 +94,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Dati n punti sugli assi di coordinate con coordinate interi dilimitate da n, ridurre al minimo la somma ciclica delle distanze quadrate tra punti consecutivi.*
@@ -124,7 +124,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Piani d' scacchi su n punti collegati da segmenti; si muove verso vicini senza scambi; trova il numero minimo di segmenti in un insieme armonico.*
@@ -156,7 +156,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove una disuguaglianza del prodotto triplo per i numeri reali x,y,z >= 1.*
@@ -187,7 +187,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Circolo interamente tangente ad un altro, tangente di corda a C, punto medio M di arco, piede N di perpendicolare; prova AC*CB = 2r*MN.*
@@ -221,7 +221,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Regione di 4n quadrati su una tavola da 10x10 a piastrellare da n pezzi da 1x4 e da n pezzi da 2x2; minimizzare n per la piastrellare da una data combinazione.*
@@ -254,7 +254,7 @@ level: China Girls' Mathematical Olympiad
 > [!warning] Estratto da verificare con la fonte.
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Sequenza a_n = n*sqrt5 - piano(n*sqrt5); calcolo max e min su a_1..a_2009.*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
@@ -58,7 +58,7 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutte le funzioni interi che soddisfano 2f(f(n))=5f(n)−2n*
@@ -87,7 +87,7 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Prove che l'AXPY quadrilaterale è ciclico in configurazione triangolare acuta*
@@ -116,7 +116,7 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca tutti (m,n) per i quali n pile di oggetti m possono essere svuotate*

@@ -28,7 +28,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *Ricerca la più piccola k per lcm+hcf=p^k in numeri interi positivi*
@@ -57,7 +57,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *ABCD quadrilaterale convex: prova AC=BD se XY divide angolo DXC*
@@ -88,7 +88,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 *30x30 griglia con le voci -1,0,1; 300 di ciascuna; somma di righe e colonne diverse?*
@@ -121,7 +121,7 @@ level: BMO Round 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
 
 
-<span class="qlang-split" data-lang="it"></span>
+<div class="qlang-split" data-lang="it"></div>
 
 
 Sequenza infinita da somme parziali: finitamente molti termini positivi o finitamente molti termini negativi?

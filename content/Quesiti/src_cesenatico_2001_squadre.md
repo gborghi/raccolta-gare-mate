@@ -28,7 +28,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of circumscribed star belts up to 2001 radius*
@@ -64,7 +64,7 @@ level: squadre
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 The position of the planet (24.25) in the order of the planets
@@ -98,7 +98,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Equipment of the damaged ship distributable between four ships*
@@ -130,7 +130,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum perimeter of triangle with double angle and side 55*
@@ -184,7 +184,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *DC length in rectangular triangle with whole sides*
@@ -262,7 +262,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *exact answer to the numeric crossword*
@@ -321,7 +321,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Mode of payment 50 with three different banknotes*
@@ -353,7 +353,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Decimal figures of the product arcs after 2001 biset movements*
@@ -385,7 +385,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum number of piles of stones with union and division*
@@ -426,7 +426,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Most known polynomial term based on 11 for whole roots*
@@ -467,7 +467,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum radius of the conical roof covering the house per month*
@@ -499,7 +499,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Length less segment on rectangular clock*
@@ -531,7 +531,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum symbols to represent 2001 (increase or x7) *
@@ -564,7 +564,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Bisexual years (sum of figures 7) between 0 and 5000 *
@@ -596,7 +596,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Maximum area of rectangular pool with triangular sidewalk*
@@ -631,7 +631,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Percentage of successive scoring moves with a maximum of 4 *
@@ -665,7 +665,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Report of areas of the square field divided by perimeter difference*
@@ -697,7 +697,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Innaig field size given the shared work*
@@ -729,7 +729,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Cost of the car borrowed and shares owned*
@@ -765,7 +765,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *The last four digits of the maximum coefficient of the polynomial *
@@ -801,7 +801,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Last 4 digits of the fivefold account every 20 years*
@@ -836,7 +836,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Number of honest polynomials of degree plus five*
@@ -873,7 +873,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Minimum to which the sum of the months corresponds to the ordinary sum*
@@ -911,7 +911,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Ordered pairs of 385 divisors with m divisor of n*
@@ -946,7 +946,7 @@ The position of the planet (24.25) in the order of the planets
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
 
 
-<span class="qlang-split" data-lang="en"></span>
+<div class="qlang-split" data-lang="en"></div>
 
 
 *Third ray tangent fountain with two fountains and avenue*
