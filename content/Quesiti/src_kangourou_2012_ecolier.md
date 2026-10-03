@@ -37,11 +37,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure has the greyest white area*
+*Which figure has the white area larger than the gray one*
 
 ![[src_kangourou_2012_ecolier__prob2.png]]
 
-> Barbara wants to write the word "mathematics" in color on a sheet, so that the same letters are written in the same color and different letters are written in different colors. How many colors do you need? A) 6 B) 7 C) 8 D) 9 E) 10
+> Barbara wants to write the word MATEMATICA on a sheet of paper in colors, so that equal letters are written with the same color and different letters are written with different colors. How many colors does she need?
+> A) 6
+> B) 7
+> C) 8
+> D) 9
+> E) 10
 
 [[Quesiti/src_kangourou_2012_ecolier#q01|src_kangourou_2012_ecolier__Q01]]
 
@@ -73,7 +78,7 @@ level: kangourou
 
 *Colors used to write MATHEMATIC with equal letters*
 
-> In four of the following five figures the area of the white part is equal to the area of the grey part. How are the two areas different? A) B) C) D) E)
+> In four of the following five figures the area of the white part is equal to the area of the grey part. In which figure are the two areas different? A) B) C) D) E)
 
 [[Quesiti/src_kangourou_2012_ecolier#q02|src_kangourou_2012_ecolier__Q02]]
 
@@ -107,11 +112,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solts needed to hang towels*
+*Clothespins needed to hang the towels*
 
 ![[src_kangourou_2012_ecolier__prob3.png]]
 
-> The owner of a restaurant washed three towels and put them to dry on a rope in the garden using four shovels as shown in the figure. Now he has to wash 9 towels and he wants to stretch them out to dry the same way, using as few springs as possible. How much will you need? A) 8 B) 10 C) 12 D) 14 E) 16
+> The owner of a restaurant washed 3 napkins and hung them out to dry on a rope in the garden using 4 clothespins as the figure shows you.
+> Now he has to wash 9 napkins and wants to hang them out
+> to dry, in the same way, using the smallest possible
+> number of clothespins. How many will he need?
+> A) 8
+> B) 10
+> C) 12
+> D) 14
+> E) 16
 
 [[Quesiti/src_kangourou_2012_ecolier#q03|src_kangourou_2012_ecolier__Q03]]
 
@@ -144,11 +157,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which grid given the colour of the cells indicated*
+*Which grid given the coloring of the indicated cells*
 
 ![[src_kangourou_2012_ecolier__prob4.png]]
 
-> Ileana coloured gray cells A2, B1, B2, B3, B4, C3, D3 and D4 of the grid in the figure. Which of the following did you get? A) B) C) D) E)
+> Ileana colored gray the cells A2, B1, B2, B3, B4, C3,
+> D3 and D4 of the grid in the figure. Among the following, which is the grid
+> that she obtained?
+> A) 
+> B) 
+> C) 
+> D)
+> E)
 
 [[Quesiti/src_kangourou_2012_ecolier#q04|src_kangourou_2012_ecolier__Q04]]
 
@@ -415,11 +435,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who won and how many more points to the goal
+*Who won and by how many more points on the target*
 
 ![[src_kangourou_2012_ecolier__prob6.png]]
 
-> Ada and Gino play the highest scorer by shooting three arrows each at a numbered target. The score is calculated by adding the points obtained with the individual arrows. The figure shows you where Ada's arrows and Gino's arrows ended. Who won and how many points did he score more than the other? (a) Knee, with 3 points in addition B) Knee, with 4 points in addition C) Knee, with 2 points in addition D) Knee, with 2 points in addition E) Knee, with 4 points in addition
+> Ada and Gino play to see who scores the
+> highest score by throwing 3 darts
+> each at a numbered target. The score is calculated by adding the points obtained with the individual darts. The figure
+> shows you where Ada's darts and
+> Gino's darts landed. Who won and how many points more than the other did they score?
+> A) Ada, with 3 points more
+> B) Gino, with 4 points more
+> C) Ada, with 2 points more
+> D) Gino, with 2 points more
+> E) Ada, with 4 points more
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_ecolier#q06|src_kangourou_2012_ecolier__Q06]]
@@ -459,7 +488,7 @@ Who won and how many more points to the goal
 
 ![[src_kangourou_2012_ecolier__prob7.png]]
 
-> A wall was tiled with square tiles, all of the same size, but alternating two different types: white streaks and grays. Some of the tiles, some of the tiles inside the wall, have fallen and the figure shows you the ones left. How many gray tiles have fallen? A) 9 B) 8 C) 7 D) 6 E) 5
+> A wall was tiled with square tiles, all of the same size, but alternating two different types: striped white and gray. Some of the tiles in the inner part of the wall have fallen and the figure shows you the ones left. How many gray tiles have fallen? A) 9 B) 8 C) 7 D) 6 E) 5
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_ecolier#q07|src_kangourou_2012_ecolier__Q07]]
@@ -492,9 +521,9 @@ Who won and how many more points to the goal
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of chicks born on 24 February observed in March*
+*Age of chicks born on 24 February observed in March*
 
-> There's a candlestick on each of the 15 tables in a restaurant. On six tables there is a five-armed candlestick, on the other tables a three-armed candlestick. How many candles do you need if you want each candlestick to be complete? (A) 45 B) 50 C) 57 D) 63 E) 75 Questions from N. 9 al N. 16 is worth 4 points each.
+> There's a candlestick on each of the 15 tables in a restaurant. On six tables there is a five-armed candlestick, on the other tables a three-armed candlestick. How many candles do you need if you want each candlestick to be complete? A) 45 B) 50 C) 57 D) 63 E) 75 Questions from N. 9 to N. 16 are worth 4 points each.
 
 [[Quesiti/src_kangourou_2012_ecolier#q08|src_kangourou_2012_ecolier__Q08]]
 
@@ -582,9 +611,65 @@ Who won and how many more points to the goal
 
 ![[src_kangourou_2012_ecolier__prob10.png]]
 
-> In the leap years, February has 29 days. 2012 is a leap year, and today, March 15, 2012, at noon, my grandfather's chickens turned 20. What day did they come out of the egg? (a) 19 February (b) 21 February (c) 23 February (d) 24 February (e) 26 February 1 2 3 4 5 6 7 8 9 10 15 20 30 35 4045 5055 60 65 70 75 100 1 2 3 4 5 6 7 8 9 10 15 20 25 30 35 4045 5055 60 65 65 70 75 100 Mike Ada Gino
+> In leap years the month of February has 29 days. 2012 is a leap year and today, 15 March 2012, at noon my grandfather's chicks turned 20 days old. On what day did they come out of the egg?
+> A) 19 February
+> B) 21 February
+> C) 23 February
+> D) 24 February                           
+> E) 26 February
+> 1
+> 2
+> 3
+> 4
+> 5
+> 6
+> 7
+> 8
+> 9
+> 10
+> 15
+> 20
+> 25
+> 30
+> 35
+> 4045 5055
+> 60
+> 60
+> 65
+> 70
+> 75
+> 100
+> 1
+> 2
+> 3
+> 4
+> 5
+> 6
+> 7
+> 8
+> 9
+> 10
+> 15
+> 20
+> 25
+> 30
+> 35
+> 4045 5055
+> 60
+> 60
+> 65
+> 70
+> 75
+> 100
+> Mike
+> Jake
+> Ada
+> Gino
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2012 Kang 2012
+> Pag. 
+> Pag. 7
+> Kang 2012
+> Kang 2012
 
 [[Quesiti/src_kangourou_2012_ecolier#q09|src_kangourou_2012_ecolier__Q09]]
 
@@ -618,11 +703,11 @@ Who won and how many more points to the goal
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many figures can be obtained by joining two tiles to L*
+*How many figures can be obtained by joining two tiles in an L shape*
 
 ![[src_kangourou_2012_ecolier__prob10.png]]
 
-> Joan has L-shaped cards, all of which are the same as the one in the figure to the right. How many of the following four figures can you get by drawing two cards at a time? A) 0 B) 1 C) 2 D) 3 E) 4
+> Joan has L-shaped tiles, all of which are the same as the one in the figure to the right. How many of the following four figures can you get by joining two tiles at a time? A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_ecolier#q10|src_kangourou_2012_ecolier__Q10]]
@@ -692,7 +777,7 @@ Who won and how many more points to the goal
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sweets decorated with both grapes and nuts*
+*Minimum sweets decorated with both raisins and nuts*
 
 > Grandma made 20 candy for her grandchildren. He decorated some with grapes, some with nuts, and some with both grapes and nuts: first, he put grapes on 15 sweets, then he put nuts on 15 sweets. How many must be the candy decorations with both grapes and nuts? A) 4 B) 5 C) 6 D) 8 E) 10
 
@@ -775,7 +860,7 @@ Who won and how many more points to the goal
 \end{document}
 ```
 
-> Look at the grid in the figure. Gianni must first calculate the result of the operations indicated and then fill the empty cells so that each row and column contains, either as a result of the operations or because he entered it, each of the numbers 1, 2, 3, 4. What number should Gianni put in the gray cell? A) 1 B) 2 C) 3 D) 4 E) 3 o 4
+> Look at the grid in the figure. Gianni must first calculate the result of the operations indicated and then fill the empty cells so that each row and column contains, either as a result of the operations or because he entered it, each of the numbers 1, 2, 3, 4. What number should Gianni put in the gray cell? A) 1 B) 2 C) 3 D) 4 E) 3 or 4
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_ecolier#q13|src_kangourou_2012_ecolier__Q13]]
@@ -936,7 +1021,12 @@ How many rabbits have 44 legs
 
 ![[src_kangourou_2012_ecolier__prob17.png]]
 
-> A little ladder has a ladder with many steps. He wants to get to exactly the 22nd step, but he can only do three-step jumps up or four-step jumps down. What's the smallest number of jumps that allows you to reach your goal? A) 7 B) 9 C) 10 D) 12 E) 15
+> A grasshopper has before it a large staircase with many steps. It wants to arrive exactly at the 22nd step, but it can only make jumps of 3 steps up or 4 down. What is the smallest number of jumps that allows it to reach the goal? 
+> A) 7
+> B) 9
+> C) 10
+> D) 12
+> E) 15
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_ecolier#q17|src_kangourou_2012_ecolier__Q17]]
@@ -996,13 +1086,37 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many points in the square with the domain demand point *
+*How many dots are in the square with the question mark of the domino*
 
 ![[src_kangourou_2012_ecolier__prob18.png]]
 
-> Each domino card consists of two squares, each of which has a number of points, from 0 to 6. Franco had drawn seven dominoes: two squares of different cards had a side in common only if they had the same number of points. In this way he had obtained a kind of snake, on which stick counted 29 points. His brother removed two cards from the snake, the ones that occupied the white spots in the figure. How many points were in the square with the question mark? A) 2 B) 3 C) 4 D) 5 E) 6 Pag. I'm going to pay. 8 Kang 2012 Kang 2012 nd 2 step st 1 step rd 3 these ground Start 1° step 2° step 3° step ?
+> Each tile of the game of dominoes consists of two squares placed side by side; on each square there are some dots, from 0 to 6. Franco had placed seven domino tiles side by side: two squares of different tiles had a side in common only if they had the same number of dots. In this way he had obtained a kind of snake, on whose "back" 29 dots were counted. His brother removed from the snake two tiles, those that occupied the places left white in the figure. How many dots were there in the square indicated with the question mark?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
+> Pag. 
+> Pag. 8
+> Kang 2012
+> Kang 2012
+> nd
+> 2  step
+> st
+> 1  step
+> rd
+> 3  ste
+> ground
+> Start
+> 1st step
+> 2nd step
+> 3rd step
+> ?
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2012 Kang 2012
+> Pag. 
+> Pag. 9
+> Kang 2012
+> Kang 2012
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_ecolier#q18|src_kangourou_2012_ecolier__Q18]]
@@ -1037,7 +1151,7 @@ How many rabbits have 44 legs
 
 *Maximum sum of two three-digit numbers with 1-6*
 
-> Using all the digits 1, 2, 3, 4, 5 and 6, Enrica wants to form two numbers of three digits each. He also wants the sum of these two numbers to be as large as possible. What's the maximum amount you can get? A) 975 B) 999 C) 1083 D) 1173 E) 1221
+> Using all the digits 1, 2, 3, 4, 5 and 6, Enrica wants to form two numbers of three digits each. She also wants the sum of these two numbers to be as large as possible. What's the maximum amount you can get? A) 975 B) 999 C) 1083 D) 1173 E) 1221
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_ecolier#q19|src_kangourou_2012_ecolier__Q19]]
@@ -1070,7 +1184,7 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many ways are Laura Maria Nadia Oreste
+In how many ways do Laura Maria Nadia Oreste arrange themselves
 
 > Laura, Maria, Nadia and Oreste want to be photographed sitting on a bench. Laura and Maria want to be close because they're very close friends; Oreste wants to be close to Laura. How many different ways can they be disposed of? A) 2 B) 4 C) 5 D) 6 E) 7
 
@@ -1111,7 +1225,7 @@ How many ways are Laura Maria Nadia Oreste
 
 ![[src_kangourou_2012_ecolier__prob21.png]]
 
-> A clock has three different hands: it works properly, but we have not been told which hands indicate hours, minutes or seconds. The figure shows the clock at noon, 55 minutes and 30 seconds. What figure does the clock draw at 8 and 11 minutes? A) B) C) D) E)
+> A clock has three different hands: it works properly, but we have not been told which hand indicates hours, minutes or seconds. The figure shows the clock at noon, 55 minutes and 30 seconds. What figure shows the clock at 8 and 11 minutes? A) B) C) D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_ecolier#q21|src_kangourou_2012_ecolier__Q21]]
@@ -1144,9 +1258,9 @@ How many ways are Laura Maria Nadia Oreste
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which number was Michele started from?
+What number did Michele start from?
 
-> Michele chose a number, multiplied it for himself, added 1 to the product, multiplied the sum obtained by 10, added 3 to the new product, multiplied the new sum by 4 and got as the final result 2012. What number did he start from? A) 11 B) 9 C) 8 D) 5 E) None of the above
+> Michele chose a number, multiplied it by itself, added 1 to the product, multiplied the sum obtained by 10, added 3 to the new product, multiplied the new sum by 4 and got as the final result 2012. What number did he start from? A) 11 B) 9 C) 8 D) 5 E) None of the above
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_ecolier#q22|src_kangourou_2012_ecolier__Q22]]

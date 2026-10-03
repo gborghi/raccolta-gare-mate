@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How long does the same 4 digits on the watch *
+*How long ago were the same 4 digits on the watch*
 
-> There's always four digits on my digital watch. It's now 8:08. How long ago did the same four digits last appear before now on my watch (not necessarily in the same order)?
+> There's always four digits on my digital watch. It's now 20:08. How long ago did the same four digits last appear before now on my watch (not necessarily in the same order)?
 
 **Answer:** 11h48m
 [[Quesiti/src_kangourou_2008_ecolier_maggio#qe1|src_kangourou_2008_ecolier_maggio__QE1]]
@@ -67,9 +67,9 @@ level: kangourou
 
 > In the underlying grid the $=$ symbol cannot be removed, but two boxes can be removed so that the resulting equality is verified. Write that equation.
 > 
-> The grid shall contain the following sequence boxes: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
+> The grid contains the following boxes in sequence: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
 
-**Answer:** uguaglianza
+**Answer:** equality
 [[Quesiti/src_kangourou_2008_ecolier_maggio#qe2|src_kangourou_2008_ecolier_maggio__QE2]]
 
 
@@ -98,11 +98,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum colours in 10 separate bags*
+*Maximum colours in 10 distinct bags*
 
-> A toy retailer has a large quantity of bags of 10 different colours; he wants to pack 10 bags of bags so that: - the number of colours in each bag is the same; - different bags differ by the colour of at least one bag.
+> A toy shopkeeper has, in large quantity, marbles of 10 different colours; he wants to make up 10 bags of marbles so that:
+> - the number of colours present in each bag is the same;
+> - different bags differ by the colour of at least one marble.
 > 
-> What is the maximum number of colors that can be present in the bags?
+> What is the maximum number of colours that can be present in the bags?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2008_ecolier_maggio#qe3|src_kangourou_2008_ecolier_maggio__QE3]]
@@ -130,7 +132,7 @@ level: kangourou
 
 *Minimum sum of n^2 with n>2008*
 
-> Anna is playing like this: she picks an integer greater than $2008$, multiplies it for herself and sums all the numbers of the result she found. What's the lowest amount you could get?
+> Anna is playing like this: she picks an integer greater than $2008$, multiplies it by itself and sums all the digits of the result she found. What's the lowest sum she could get?
 
 **Answer:** 1
 [[Quesiti/src_kangourou_2008_ecolier_maggio#qe4|src_kangourou_2008_ecolier_maggio__QE4]]
@@ -163,7 +165,7 @@ After all those seconds, Pimpy's back next to Arturo.
 
 ![[src_kangourou_2008_ecolier_maggio__probe5.png]]
 
-> Arthur the Kangaroo and his little sister Pimpy are playing a run on the outline of an equilateral triangle-shaped owl. They both make one jump every second, but Arturo covers the distance on one side with 10 jumps while Pimpy needs 15 jumps. If they start together and they both continue to run in the same direction, after how many seconds does Pimpy find himself next to Arthur again for the first time?
+> Arthur the Kangaroo and his little sister Pimpy are playing a run on the outline of an equilateral triangle-shaped flowerbed. They both make one jump every second, but Arthur covers the distance on one side with 10 jumps while Pimpy needs 15 jumps. If they start together and they both continue to run in the same direction, after how many seconds does Pimpy find herself next to Arthur again for the first time?
 
 **Answer:** 90
 [[Quesiti/src_kangourou_2008_ecolier_maggio#qe5|src_kangourou_2008_ecolier_maggio__QE5]]
@@ -195,7 +197,7 @@ After all those seconds, Pimpy's back next to Arturo.
 
 ![[src_kangourou_2008_ecolier_maggio__probe6.png]]
 
-> Claudio was commissioned to make a large cake in the shape of a triangle drawn on the square sheet on the right (the side of each square is 5 centimeters). After filling it with cream, Claudio realizes that it is the right size, but the shape drawn on the left. Of course the cake can't be turned upside down! His assistant suggests that in order to satisfy the customer, he should cut two large slices and approach the cake differently from what is left of the cake. If you were Claudio, what would you do? (see figure)
+> Claudio was commissioned to make a large cake in the shape of a triangle drawn on the square sheet on the right (the side of each square is 5 centimeters). After filling it with cream, Claudio realizes that it is the right size, but the shape drawn on the left. Of course the cake can't be turned upside down! His assistant suggests that in order to satisfy the customer, before covering it with the icing, he should cut two large slices and place them differently next to what remains of the cake. If you were Claudio, what would you do? (see figure)
 
-**Answer:** costruzione
+**Answer:** construction
 [[Quesiti/src_kangourou_2008_ecolier_maggio#qe6|src_kangourou_2008_ecolier_maggio__QE6]]

@@ -34,9 +34,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the sub-unit shall be the sum of the sub-unit values of the sub-unit.
+*Value of 20x(0+6)-(20x0)+6*
 
-> 20x (0+6)-(20x 0)+ 6 = A) 0 B) 106 C) 114 D) 126 E) 12
+> 20x (0+6)-(20x 0)+ 6 =
+> A) 0
+> B) 106
+> C) 114
+> D) 126
+> E) 12
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q01|src_kangourou_2006_cadet__Q01]]
@@ -68,9 +73,9 @@ The value of the sub-unit shall be the sum of the sub-unit values of the sub-uni
 <div class="qlang-split" data-lang="en"></div>
 
 
-The most likely event in the rolling of a dice
+The most likely event in the rolling of a die
 
-> Let's throw a dice with faces numbered 1 to 6. Which of the following is most likely? The output of a number A) less than 5 B) odd C) divisible by 3 D) greater than 3 E) equal
+> Let's throw a die with faces numbered 1 to 6. Which of the following is most likely? The output of a number A) less than 5 B) odd C) divisible by 3 D) greater than 3 E) even
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_cadet#q02|src_kangourou_2006_cadet__Q02]]
@@ -107,7 +112,7 @@ The most likely event in the rolling of a dice
 
 ![[src_kangourou_2006_cadet__prob3.png]]
 
-> The O-point is the center of the regular pentagon in the figure. What percentage of the pentagon is shaded? A) il 10% B) il 20% C) il 25% D) il 30% E) il 40%
+> The O-point is the center of the regular pentagon in the figure. What percentage of the pentagon is shaded? A) 10% B) 20% C) 25% D) 30% E) 40%
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q03|src_kangourou_2006_cadet__Q03]]
@@ -142,7 +147,7 @@ The most likely event in the rolling of a dice
 
 *Number of grandchildren from grandmother's cake*
 
-> One grandmother tells her grandchildren, "If I made two cakes for each of you, I would have enough pasta left to make exactly three more cakes. But I can't make three cakes for each of you, because I wouldn't have pasta for the last two cakes". How many grandchildren does that grandmother have? A) 6 B) 5 C) 4 D) 3 E) 2
+> One grandmother tells her grandchildren, "If I made two cakes for each of you, I would have enough dough left to make exactly three more cakes. But I can't make three cakes for each of you, because I wouldn't have dough for the last two cakes". How many grandchildren does that grandmother have? A) 6 B) 5 C) 4 D) 3 E) 2
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_cadet#q04|src_kangourou_2006_cadet__Q04]]
@@ -220,7 +225,7 @@ The most likely event in the rolling of a dice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Milliliters remaining in the bottle after pouring*
+*Centiliters remaining in the bottle after pouring*
 
 > A 1/3 liter bottle is filled to 3/4 of its capacity. How many centiliters of liquid will it contain after pouring out 20 centiliters into a glass?
 > (A) 24.5 (B) 7.5 (C) 5 (D) 13 (E) 0 (i.e., it will be empty)
@@ -274,7 +279,7 @@ The most likely event in the rolling of a dice
 
 *Students who participated in both competitions*
 
-> A survey of 2006 students in Milan highlighted that last year 1500 of them participated in the mathematics competition "Kangourou" and 1200 in the literary competition "Young Writers". If only 6 of the students interviewed did not participate in any competition, how many did they participate in both competitions? A) 300 B) 500 C) 600 D) 700 E) 1000
+> A survey of 2006 students in Milan highlighted that last year 1500 of them participated in the mathematics competition "Kangourou" and 1200 in the literary competition "Young Writers". If only 6 of the students interviewed did not participate in any competition, how many participated in both competitions? A) 300 B) 500 C) 600 D) 700 E) 1000
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q07|src_kangourou_2006_cadet__Q07]]
@@ -378,7 +383,7 @@ The most likely event in the rolling of a dice
 
 Maximum number of girls with distinct friendships
 
-> There are 21 students in a class and there are no two girls who are friends with the same number of boys in the class. How many girls can be in that class at most? A) 13 B) 10 C) 9 D) 12 E) 11 Questions from N. 11 al N. 20 is worth 4 points each.
+> There are 21 students in a class and there are no two girls who are friends with the same number of boys in the class. How many girls can be in that class at most? A) 13 B) 10 C) 9 D) 12 E) 11 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_cadet#q10|src_kangourou_2006_cadet__Q10]]
@@ -409,9 +414,14 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How is the logical circumstance tricked*
+*What the pencil case is like based on the logical conditions*
 
-> My trick is one color: if it's blue, it's round; if it's square, it's red; if it's blue or yellow; if it's yellow, it's square; it's square or round. How's my trick? A) red and square B) red and round C) square and blue D) blue and round E) yellow and round
+> My pencil case is of a single color: if it is blue, it is round; if it is square, it is red; it is blue or yellow; if it is yellow, it is square; it is square or round. What is my pencil case like?
+> A) red and square  
+> B) red and round    
+> C) square and blue  
+> D) blue and round
+> E) yellow and round
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q11|src_kangourou_2006_cadet__Q11]]
@@ -529,7 +539,7 @@ Maximum number of girls with distinct friendships
 
 *Number of blue aliens on STAR 1*
 
-> An alien convoy crosses space aboard the starship STAR 1. They're three different colors: green, purple and blue. The greens have two tentacles, the lilies have three, and the blues have five. The greens are as many as the lilies and the blues are 10 more than the greens. Together they have 250 tentacles. How many blue aliens travel on STAR 1? A) 15 B) 20 C) 25 D) 30 E) 40
+> An alien convoy crosses space aboard the starship STAR 1. They're three different colors: green, purple and blue. The greens have two tentacles, the lilacs have three, and the blues have five. The greens are as many as the lilacs and the blues are 10 more than the greens. Together they have 250 tentacles. How many blue aliens travel on STAR 1? A) 15 B) 20 C) 25 D) 30 E) 40
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q14|src_kangourou_2006_cadet__Q14]]
@@ -566,7 +576,7 @@ Maximum number of girls with distinct friendships
 
 *Minimum number of jumps to cover 997 metres*
 
-> When the Kangaroo Jumpy pushes with his left leg, he jumps 2 meters; when he pushes with his right, he jumps 4 meters; finally, when he pushes with both legs, he jumps 7 meters. What's the minimum number of jumps on Jumpy to cover an exact distance of 997 meters? A) 146 B) 145 C) 144 D) 143 E) 142
+> When the Kangaroo Jumpy pushes with his left leg, he jumps 2 meters; when he pushes with his right, he jumps 4 meters; finally, when he pushes with both legs, he jumps 7 meters. What's the minimum number of jumps sufficient for Jumpy to cover an exact distance of 997 meters? A) 146 B) 145 C) 144 D) 143 E) 142
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_cadet#q15|src_kangourou_2006_cadet__Q15]]
@@ -598,7 +608,7 @@ Maximum number of girls with distinct friendships
 
 *Side of the large white square in the rectangle*
 
-> A rectangle is divided into 7 squares. The side of the uncolonned gray squares on the right measures 8. How big is the side of the great white square? A) 15 B) 18        C) 20 D) 24           E) 30
+> A rectangle is divided into 7 squares. The side of the stacked gray squares on the right measures 8. How big is the side of the great white square? A) 15 B) 18        C) 20 D) 24           E) 30
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_cadet#q16|src_kangourou_2006_cadet__Q16]]
@@ -660,9 +670,9 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangles not congruent to area 1 side 2*
+*Non-congruent isosceles triangles area 1 side 2*
 
-> How many isosceles (two to two non-congruent triangles) of area 1 have a long side 2? A) 0                B) 1                C) 2                D) 3                E) 4
+> How many isosceles triangles (no two congruent) of area 1 have a side of length 2? A) 0                B) 1                C) 2                D) 3                E) 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q18|src_kangourou_2006_cadet__Q18]]
@@ -769,7 +779,7 @@ Maximum number of girls with distinct friendships
 
 *Minimum routes from A to B avoiding obstacles*
 
-> The figure shows a square divided into 25 squares, each of which is marked with the centre; 3 obstacles are most often marked. We want to go from A to B by going from one center to another only by vertical and/or horizontal lines, avoiding obstacles and the shortest path. How many routes from A to B meet all these conditions? A) 6 B) 8 C) 9 D) 11 E) 12 Questions from N. 21 al N. 30 is worth 5 points each.
+> The figure shows a square divided into 25 squares, each of which is marked with the centre; 3 obstacles are marked with a thicker line. We want to go from A to B by going from one center to another only by vertical and/or horizontal lines, avoiding obstacles and the shortest path. How many routes from A to B meet all these conditions? A) 6 B) 8 C) 9 D) 11 E) 12 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_cadet#q20|src_kangourou_2006_cadet__Q20]]
@@ -866,9 +876,13 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What anagram can appear in the second strip*
+*Which anagram can appear in the second strip*
 
-> On the first strip you see 11 cards, each with two letters. On the second you see the same cards arranged differently. Which of the following may appear in the second line of the second deck of cards? (a) the number of children in the family (b) the number of children in the family (c) the number of children in the family (d) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family (e) the number of children in the family
+> On the first strip you see 11 cards, each with two letters. On the
+> second you see the same cards arranged in a different order. Which of
+> the following writings can appear in the second row of the second strip of cards? 
+> A) ANJAMKILIOR       B) RLIIMKOJNAA            C) JANAMKILIRO
+> D) ANMAIKOLIRJ       E) RAONJMILIKA
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q23|src_kangourou_2006_cadet__Q23]]
@@ -955,7 +969,7 @@ Maximum number of girls with distinct friendships
 
 *First digit of the minimum number with sum 2006 *
 
-> What is the first digit of the smallest positive integer whose sum is 2006? A) 1 B) 3 C) 5 D) 6 E) 8 M I S S I S S I P P I K
+> What is the first digit of the smallest positive integer the sum of whose digits is 2006? A) 1 B) 3 C) 5 D) 6 E) 8 M I S S I S S I P P I K
 >  
 > I
 >  
@@ -979,7 +993,7 @@ Maximum number of girls with distinct friendships
 >  
 > A B Cadet_06bis.qxp 20/02/2006 23.52 Page 20
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 2006 Kang
+> Pag. 21 21 Kang 2006 Kang
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_cadet#q24|src_kangourou_2006_cadet__Q24]]
@@ -1056,7 +1070,7 @@ Maximum number of girls with distinct friendships
 
 *sum E(1)+...+E(99) of odd numbers*
 
-> Denotes with E(n) the sum of the odd digits of the number n. For example E(7)=7, E(2)=0 and E(3245)=8. How much is E(1)+E(2)+E(3)+...+E(99)? A) 300 B) 400 C) 450 D) 500 E) 550
+> Denote by E(n) the sum of the odd digits of the number n. For example E(7)=7, E(2)=0 and E(3245)=8. What is E(1)+E(2)+E(3)+...+E(99)? A) 300 B) 400 C) 450 D) 500 E) 550
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_cadet#q26|src_kangourou_2006_cadet__Q26]]
@@ -1091,7 +1105,7 @@ Maximum number of girls with distinct friendships
 
 How many times faster by increasing by 6 m/s
 
-> Piero cycles from a point P to a point Q at a constant speed. If it increased its speed by 3 meters per second, it would reach Q three times faster (that is, taking a third of the time). How many times faster would you get to Q if it increased its speed by 20 feet per second? A) 4 B) 5 C) 6 D) 4,5 E) 8
+> Piero cycles from a point P to a point Q at a constant speed. If it increased its speed by 3 meters per second, it would reach Q three times faster (that is, taking a third of the time). How many times faster would you get to Q if it increased its speed by 6 meters per second? A) 4 B) 5 C) 6 D) 4,5 E) 8
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_cadet#q27|src_kangourou_2006_cadet__Q27]]
@@ -1125,9 +1139,9 @@ How many times faster by increasing by 6 m/s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to approach cars with S closer to T*
+*Ways to arrange cars with S closer than T*
 
-> A locomotive pulls a train of five cars, S, T, U, V and W. In how many ways can the wagons be approached if the locomotive is to be closer to the S-wagon than the T-wagon? A) 120 B) 60 C) 48 D) 30 E) 10
+> A locomotive pulls a train of five cars, S, T, U, V and W. In how many ways can the cars be arranged if the locomotive is to be closer to car S than to car T? A) 120 B) 60 C) 48 D) 30 E) 10
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_cadet#q28|src_kangourou_2006_cadet__Q28]]
@@ -1167,7 +1181,7 @@ How many times faster by increasing by 6 m/s
 
 *Minimum rotation to return the initial pentagon*
 
-> In the figure a regular pentagon OABCD is represented and the pentagons obtained from it are obtained by first making a centre O rotation leading to the OD side overlapping to the OA side (and OA to OA'), then a centre O rotation leading to the OA side overlapping to the OD' side (and OD' to OA'). Continuing this way, what is the minimum number of rotations sufficient to bring the pentagon back to its original position? A) 6 B) 10 C) 12 D) 15 E) 20
+> In the figure a regular pentagon OABCD is represented and the pentagons obtained from it are obtained by first making a centre O rotation leading to the OD side overlapping to the OA side (and OA to OD'), then a centre O rotation leading to the OA side overlapping to the OD' side (and OD' to OA''). Continuing this way, what is the minimum number of rotations sufficient to bring the pentagon back to its original position? A) 6 B) 10 C) 12 D) 15 E) 20
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_cadet#q29|src_kangourou_2006_cadet__Q29]]

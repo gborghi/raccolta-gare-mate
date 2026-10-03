@@ -39,7 +39,7 @@ level: squadre
 
 > The tickets from James
 >   
-> There are 200 tickets numbered from 1 to 200. James wants to match as many of these tickets as possible so that, for each pair of tickets he forms, the sum of the numbers shown on the tickets is 100. How many different couples can he form? Attention: pairs should not be considered ordered, for example pairs {1,99} and {99,1} should be considered as a single pair.
+> There are 200 tickets numbered from 1 to 200. James wants to match as many of these tickets as possible so that, for each pair of tickets he forms, the sum of the numbers shown on the tickets is 100. How many different pairs can he form? Attention: pairs should not be considered ordered, for example pairs {1,99} and {99,1} should be considered as a single pair.
 
 **Answer:** 49
 [[Quesiti/src_kangourou_2016_squadre_a#q01|src_kangourou_2016_squadre_a__Q01]]
@@ -100,9 +100,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x if the central number (9x) is 9 consecutive*
+*Value of x if the central number (9x) of 9 consecutive*
 
-> The central number The sum of 9 consecutive integers is 31000; the central number is 9x. How much is x ?
+> The central number The sum of 9 consecutive integers is 31000; the central number is 9x. What is the value of x ?
 
 **Answer:** 499
 [[Quesiti/src_kangourou_2016_squadre_a#q03|src_kangourou_2016_squadre_a__Q03]]
@@ -131,9 +131,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N with 6 dividers, product of 5 = 5000*
+*N with 6 divisors, product of 5 = 5000*
 
-> Exactly 6 The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of five of these is 5000. Which of these five is missing?
+> Exactly 6 The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of five of these is 5000. Which divisor is not among these five?
 
 **Answer:** 25
 [[Quesiti/src_kangourou_2016_squadre_a#q04|src_kangourou_2016_squadre_a__Q04]]
@@ -222,7 +222,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope EF diagonal in the rectangle 48x36*
+*Diagonal EF of the rhombus in the 48x36 rectangle*
 
 ![[src_kangourou_2016_squadre_a__prob6.png]]
 
@@ -241,10 +241,18 @@ Minimum number of cubes for filling 160x140x100
 \end{document}
 ```
 
-> Look at the figure. The sides AB and AD of the rectangle ABCD are 48 and 36 cm long respectively, the AECF being a rim. How many centimeters does your EF diagonal measure?
+> The rhombus 
+> Look at the figure. The sides AB and AD of the rectangle ABCD are 
+> respectively 48 and 36 cm long, AECF is a rhombus. How many centimetres 
+> does its diagonal EF measure?    
 >  
 >  
-> D A B C F E
+> D
+> A
+> B
+> C
+> F
+> E
 
 **Answer:** 45
 [[Quesiti/src_kangourou_2016_squadre_a#q06|src_kangourou_2016_squadre_a__Q06]]
@@ -274,9 +282,13 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After the first few minutes double the second candle*
+*After how many minutes will the first candle be double the second*
 
-> The two candles Two candles have the same length and, once lit, the consumption of each is directly proportional to the time. One of the two candles goes out in 10 hours, the other in eight hours. If they are switched on at the same time, after how many minutes will the length of the first be twice the length of the second?
+> The two candles 
+> Two candles have the same length and, once lit, the consumption of each is directly 
+> proportional to time. One of the two candles burns out in 10 hours, the other in 8 hours. If they are 
+> lit at the same time, after how many minutes will the length of the first be double the 
+> length of the second?
 
 **Answer:** 400
 [[Quesiti/src_kangourou_2016_squadre_a#q07|src_kangourou_2016_squadre_a__Q07]]
@@ -305,9 +317,9 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many circumferences to divide the circular crown*
+*How many circles to divide the circular crown*
 
-> The circular crown You have a circular crown whose outer and inner rays measure 12 and 2 cm respectively. You want to divide it into circular crowns, each with an area equal to that of the inner circle that was removed to form the initial crown. How many circles do you have to trace?
+> The circular crown You have a circular crown whose outer and inner radii measure 12 and 2 cm respectively. You want to divide it into circular crowns, each with an area equal to that of the inner circle that was removed to form the initial crown. How many circumferences do you have to draw?
 
 **Answer:** 34
 [[Quesiti/src_kangourou_2016_squadre_a#q08|src_kangourou_2016_squadre_a__Q08]]
@@ -339,7 +351,7 @@ Minimum number of cubes for filling 160x140x100
 
 *Km traveled by the train that slows down every half hour*
 
-> The train is at noon. From this moment on, for half an hour, a train will travel at 195 km/h; then, again for half an hour, it will travel at 190 km/h and so on, decreasing its speed by 5 km/h every half an hour until it stops. How many miles has he traveled from noon until he stops?
+> It is exactly noon. From this moment on, for half an hour, a train will travel at 195 km/h; then, again for half an hour, it will travel at 190 km/h and so on, decreasing its speed by 5 km/h every half an hour until it stops. How many kilometers has it traveled from noon until it stops?
 
 **Answer:** 1950
 [[Quesiti/src_kangourou_2016_squadre_a#q09|src_kangourou_2016_squadre_a__Q09]]
@@ -399,7 +411,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Medium speed second destination route total mean data*
+*Average speed second half of journey given total average*
 
 > Average speed A train has completed half of a journey at an average speed of 50 km/h. What was its average speed (in km/h) for the remainder of the route, if the average speed on the entire route was 75 km/h?
 
@@ -429,9 +441,9 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of N^2 divided by 23 given N=16 mod 23 *
+*Remainder of N^2 divided by 23 given N=16 mod 23 *
 
-> Divide a positive integer N divided by 23 gives 16. What's the rest of N2 divided by 23?
+> A positive integer N divided by 23 gives remainder 16. What is the remainder of N^2 divided by 23?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2016_squadre_a#q12|src_kangourou_2016_squadre_a__Q12]]
@@ -460,7 +472,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of greater than 20 distinct integers mean 101 *
+*Maximum of the largest of 20 distinct integers with mean 101 *
 
 > The arithmetic mean of 20 positive integers all different from each other is 101. What is the maximum value of the largest of these 20 numbers?
 
@@ -524,7 +536,7 @@ Minimum number of cubes for filling 160x140x100
 \end{document}
 ```
 
-> The grid You want to insert the numbers 1, 2, 3, 4, 5, 6, 8, 9 into the still empty cells of the grid in the figure so that you always get the same number whether you add the numbers in a column or add those in a row. How much is the sum of the numbers in the shaded cells?
+> The grid You want to insert the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 into the still empty cells of the grid in the figure so that you always get the same number whether you add the numbers in a column or add those in a row. What is the sum of the numbers in the shaded cells?
 
 **Answer:** 22
 [[Quesiti/src_kangourou_2016_squadre_a#q14|src_kangourou_2016_squadre_a__Q14]]
@@ -562,9 +574,9 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum result by entering brackets and marks in 1.5.*
+*Maximum result by entering brackets and marks in 1..5.*
 
-> Symbols I have sequence 1 □ 2 □ 3 □ 4 □ 5. I put a left bracket ( and a right bracket ) in the sequence and I replace two of the symbols □ with the symbol + and two with the symbol  so that the result of the resulting algebraic expression is as high as possible. What is this result?
+> Symbols I have sequence 1 □ 2 □ 3 □ 4 □ 5. I put a left bracket ( and a right bracket ) in the sequence and I replace two of the symbols □ with the symbol + and two with the symbol – so that the result of the resulting algebraic expression is as high as possible. What is this result?
 >  
 >  
 >  

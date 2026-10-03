@@ -50,7 +50,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table 2×1 at most on a 36-square region*
+*Tiles 2×1 at most on a 36-square region*
 
 ![[src_kangourou_2022_student_finale__probs1.png]]
 
@@ -72,7 +72,7 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure, you see a region of the plane obtained by joining 36 squares all equal to each other and a card obtained by joining two squares identical to those of the region. How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the cards, but remember that you also have to justify why you can't place a larger number. (see figure)
+> In the figure, you see a region of the plane obtained by joining 36 squares all equal to each other and a tile obtained by joining two squares identical to those of the region. How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the tiles, but remember that you also have to justify why you can't place a larger number. (see figure)
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2022_student_finale#qs1|src_kangourou_2022_student_finale__QS1]]
@@ -105,9 +105,9 @@ level: kangourou
 
 ![[src_kangourou_2022_student_finale__probs2.png]]
 
-> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). It shows that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides. (see figure)
+> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). Show that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides. (see figure)
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2022_student_finale#qs2|src_kangourou_2022_student_finale__QS2]]
 
 
@@ -132,9 +132,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*two digits equal to *
+*two equal digits*
 
-> Consider the number $20232022$ in decimal notation; subtract its first digit from the right (the number of units) and add it to the number obtained with the remaining digits. Continue this way until you get a 10-digit number. It shows that this number you got has at least two digits equal.
+> Consider the number $20232022$ in decimal notation; remove its first digit from the right (the units digit) and add it to the number obtained from the remaining digits. Proceed in this way until you obtain a 10-digit number. Prove that this number you have obtained has at least two equal digits.
 
 **Answer:** dimostrazione
 [[Quesiti/src_kangourou_2022_student_finale#qs3|src_kangourou_2022_student_finale__QS3]]
@@ -218,7 +218,7 @@ level: kangourou
 \end{document}
 ```
 
-> Determine the area of the region where the interior points on a regular pentagon on side 1 are more than 1 distance from at least one of the vertices. (see figure)
+> Determine the area of the region where the interior points of a regular pentagon with side 1 are more than 1 distance from at least one of the vertices. (see figure)
 
 **Answer:** √3/2 - π/3
 [[Quesiti/src_kangourou_2022_student_finale#qs4|src_kangourou_2022_student_finale__QS4]]
@@ -303,9 +303,9 @@ level: kangourou
 \end{document}
 ```
 
-> In the plane with a monometric orthogonal cartesian system $Oxy$, we introduce a new notion of distance: the distance from the point $(x, y)$ to the point $(a, b)$ is the largest of the numbers $|x-a|$ and $|y-b|$ (which may coincide). The axis of a segment is defined, in relation to this new concept of distance, in the usual way, that is, as the place of the points equidistant from the ends of the segment. Describe the axis of the $(-1, 0)$ and $(1, 0)$ extreme segment with respect to the new concept of distance (NON with respect to Euclidean distance). (see figure)
+> In the plane with a monometric orthogonal cartesian system $Oxy$, we introduce a new notion of distance: the distance from the point $(x, y)$ to the point $(a, b)$ is the largest of the numbers $|x-a|$ and $|y-b|$ (which may coincide). The axis of a segment is defined, in relation to this new concept of distance, in the usual way, that is, as the place of the points equidistant from the ends of the segment. Describe the axis of the $(-1, 0)$ and $(1, 0)$ extreme segment with respect to the new concept of distance (NOT with respect to Euclidean distance). (see figure)
 
-**Answer:** descrizione luogo
+**Answer:** description of locus
 [[Quesiti/src_kangourou_2022_student_finale#qs5|src_kangourou_2022_student_finale__QS5]]
 
 
@@ -330,9 +330,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-negative integers as a union of disjoint transfers of A0*
+*Non-negative integers as a union of disjoint translates of A0*
 
-> It shows that it is possible to express the set of non-negative integers as a union $\bigcup_{n=0}^{\infty} A_n$, where the $A_n$ are two-to-two disjoint subsets, each consisting of infinite elements, and such that, for each $n \geq 1$, $A_n$ is obtained by adding the same constant, dependent on $n$, to each element of $A_0$.
+> Prove that it is possible to express the set of non-negative integers as a union $\bigcup_{n=0}^{\infty} A_n$, where the $A_n$ are two-to-two disjoint subsets, each consisting of infinite elements, and such that, for each $n \geq 1$, $A_n$ is obtained by adding the same constant, dependent on $n$, to each element of $A_0$.
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2022_student_finale#qs6|src_kangourou_2022_student_finale__QS6]]

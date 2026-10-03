@@ -46,7 +46,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_semifinale__prob1.png]]
 
-> (Points 2) In the figure you see a gray square on the side 6 cm and a side 5 cm that has a vertex in the center of the gray square. How many square centimetres does the area of the darkest quadrilateral measure that is the intersection of the two squares? A) 7
+> (Points 2) In the figure you see a gray square with side 6 cm and one with side 5 cm that has a vertex in the center of the gray square. How many square centimetres does the area of the darkest quadrilateral measure that is the intersection of the two squares? A) 7
 > 	
 > B) 8
 > 	
@@ -125,7 +125,7 @@ level: kangourou
 
 *How many digits has 4^5 x 5^13*
 
-> When the integer 45 × 513 is written in decimal notation, how many digits does it have? A) 18           B) 17 C) 16           	 D) 13 E) 12
+> When the integer 4^5 × 5^13 is written in decimal notation, how many digits does it have? A) 18           B) 17 C) 16           	 D) 13 E) 12
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q03|src_kangourou_2018_benjamin_semifinale__Q03]]
@@ -198,13 +198,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum amount with four notes*
+*Minimum amount with four coupons*
 
-> (Points 4) A shop delivers four notes to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first cut it reads: Pay N euro, if the price in euro is N×N. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? (a) two euros.
+> (Points 4) A shop delivers four coupons to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first coupon it reads: Pay N euro, if the price in euro is N×N. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? A) 2 euros.
 > 	
 > B) Less than 2 but more than 1 euro.
 > 	
-> (c) 1 euro. D) 0 euro (you can have it for free).
+> C) 1 euro. D) 0 euro (you can have it for free).
 > 	
 > 	
 > E) Less than 1 euro but not 0.
@@ -241,9 +241,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value from the seat-back seats*
+*Value of N from the chairlift seats*
 
-> (Points 4) The seats of a wheelchair are fixed to the rope so that the distance between two consecutive seats is always the same. They are numbered 1, 2, 3, ..., N and after the number N seat count the number 1: Stefania is sitting on the number 42 seat. When Stefania is exactly halfway through the trip, she meets the seat number 120 (which goes the opposite way). How much is N? A) 78 B) 81 C) 102 D) 156 E) 162
+> (4 points) The seats of a chairlift are attached to the cable in such a way that the distance between two
+> consecutive seats is always the same. They are numbered 1, 2, 3, …, N and after seat number
+> N the number 1 reappears: Stefania is sitting on seat number 42. When Stefania is exactly
+> halfway through the trip, she meets seat number 120 (which is going in the opposite direction). What is N?
+> A) 78	 	
+> B) 81	 	
+> C) 102		
+> D) 156		
+> E) 162
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q06|src_kangourou_2018_benjamin_semifinale__Q06]]
@@ -275,7 +283,7 @@ level: kangourou
 
 *Distance between Aldo and Bruno at the finish*
 
-> (Point 5) Aldo and Bruno compete on a 1000-meter route (starting at the same moment and from the same point) and each runs at a constant speed. When Aldo is 100 metres away from the river, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in meters) that separates Aldo from Bruno when Aldo cuts the finish line? A) 111            	B) 114           	 C) 115         	 D) 120             E) 122
+> (Point 5) Aldo and Bruno compete on a 1000-meter route (starting at the same moment and from the same point) and each runs at a constant speed. When Aldo is 100 metres away from the finish line, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in meters) that separates Aldo from Bruno when Aldo cuts the finish line? A) 111            	B) 114           	 C) 115         	 D) 120             E) 122
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q07|src_kangourou_2018_benjamin_semifinale__Q07]]
@@ -310,7 +318,7 @@ level: kangourou
 
 *ABC angle given with known angles*
 
-> In an ABC triangle the three bisettes meet at a point I. The degree measurements of the AIB, BIC and CIA angles are 110, 130 and 120 respectively. How many degrees does the angle ABC measure? A) 20 B) 30 C) 40 D) 60 E) 80
+> In an ABC triangle the three bisectors meet at a point I. The degree measurements of the AIB, BIC and CIA angles are 110, 130 and 120 respectively. How many degrees does the angle ABC measure? A) 20 B) 30 C) 40 D) 60 E) 80
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q08|src_kangourou_2018_benjamin_semifinale__Q08]]
@@ -344,11 +352,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of three and four consecutive *
+*Number that is the sum of three and of four consecutive integers*
 
-> (Points 6) Which of the following numbers is either the sum of three consecutive integers or the sum of four consecutive integers? A) 20182018 B) 20192019 C) 20202020 D) 20212021	          E) 20222022
+> (6 points) Which of the following numbers is both the sum of three consecutive integers and the sum of 
+> four consecutive integers?
+> A) 20182018	 	
+> B) 20192019	 	
+> C) 20202020	 	
+> D) 20212021	          E) 20222022
 > 
-> Open-ended questions
+> Open-response questions
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q09|src_kangourou_2018_benjamin_semifinale__Q09]]
@@ -379,11 +392,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most square tiles in the anti-chamber*
+*Most square tiles in the antechamber*
 
 ![[src_kangourou_2018_benjamin_semifinale__prob10.png]]
 
-> I tiled the floor of my antique with square tiles all equal to each other, without cutting any. The result is what you see in the figure. What's the maximum number of tiles I can use?
+> I tiled the floor of my antechamber with square tiles all equal to each other, without cutting any. The result is what you see in the figure. What's the maximum number of tiles I can use?
 
 **Answer:** 0024
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q10|src_kangourou_2018_benjamin_semifinale__Q10]]
@@ -414,7 +427,7 @@ level: kangourou
 
 *Last 4 digits of the maximum sum with product 10^10*
 
-> (Points 5) The product of 10 positive integers (not necessarily different from each other) is 1010. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
+> (Points 5) The product of 10 positive integers (not necessarily different from each other) is 10^10. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
 
 **Answer:** 0009
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q11|src_kangourou_2018_benjamin_semifinale__Q11]]
@@ -446,7 +459,7 @@ level: kangourou
 
 *How many kangaroos around the round table*
 
-> Twenty-two kangaroos and koalas sit around a round table. Kangaroos seem to tell the truth, koalas always lie. Ten of these animals say, "He who is seated at my right hand is of my own species". The other 12 say, "He who is seated at my right hand is of a different species". How many kangaroos are around the table?
+> Twenty-two kangaroos and koalas sit around a round table. Kangaroos always tell the truth, koalas always lie. Ten of these animals say, "He who is seated at my right hand is of my own species". The other 12 say, "He who is seated at my right hand is of a different species". How many kangaroos are around the table?
 
 **Answer:** 0010
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q12|src_kangourou_2018_benjamin_semifinale__Q12]]
@@ -499,7 +512,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lengths of the sixth row for an equilateral triangle*
+*Lengths of the sixth stick for an equilateral triangle*
 
 ![[src_kangourou_2018_benjamin_semifinale__prob13.png]]
 
@@ -523,7 +536,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Point 6) Paola has five stripes of 2, 3, 4, 5, and 6 centimeters in length and can choose the length of a sixth stripe so that using all six stripes she can form an equilateral triangle. How many different lengths can the sixth list have? (The figure shows you how you can build the triangle with a sixth row 4 cm long, and this is one of the possible lengths.)
+> (Point 6) Paola has five sticks of 2, 3, 4, 5, and 6 centimeters in length and can choose the length of a sixth stick so that using all six sticks she can form an equilateral triangle. How many different lengths can the sixth stick have? (The figure shows you how you can build the triangle with a sixth stick 4 cm long, and this is one of the possible lengths.)
 
 **Answer:** 0004
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q13|src_kangourou_2018_benjamin_semifinale__Q13]]
@@ -554,9 +567,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum apples for equal baskets after barley*
+*Minimum apples for equal baskets after bartering*
 
-> (Points 6) Fruits may be exchanged on the market under the following rule: the value of 4 apples is equal to 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows you to carry out your plan?
+> (Points 6) Fruits may be exchanged on the market under the following rule: the value of 4 apples is equal to 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows her to carry out her plan?
 
 **Answer:** 0023
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q14|src_kangourou_2018_benjamin_semifinale__Q14]]
@@ -587,7 +600,7 @@ level: kangourou
 
 *How many parallelograms with vertices between 8 points *
 
-> (Points 6) Two circles with the same centre (but different radius) shall be intersected at 8 points by two different diameters of the radius of the circle. How many parallelograms do 4 of these 8 points have for vertices?
+> (Points 6) Two circles with the same centre (but different radius) are intersected at 8 points by two different diameters of the larger circle. How many parallelograms have 4 of these 8 points as vertices?
 
 **Answer:** 0004
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q15|src_kangourou_2018_benjamin_semifinale__Q15]]
@@ -616,9 +629,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of products of digits 1 to 99*
+*Sum of products of digits 1 to 99*
 
-> (Points 7) For each natural number between 1 and 99 included, the product of its digits is calculated (which coincides with the number itself if the number is one digit). All products thus obtained are therefore added. What is the result?
+> (Points 7) For each natural number from 1 to 99 inclusive, the product of its digits is calculated (which coincides with the number itself if the number is one digit). All the products thus obtained are then added. What is the result?
 
 **Answer:** 2070
 [[Quesiti/src_kangourou_2018_benjamin_semifinale#q16|src_kangourou_2018_benjamin_semifinale__Q16]]
@@ -695,7 +708,7 @@ level: kangourou
 
 *Sum of a+b in unknown-digit equality*
 
-> (Points 8) If the equality 29a031 × 342 = 100900b02 is true where a, b are two (different) digits, what is the sum of a + b? 2 cm 4 cm 4 cm 6 cm 3 cm 5 cm
+> (Points 8) If the equality 29a031 × 342 = 100900b02 is true where a, b are two (different) digits, what is the sum of a + b? 2 4 4 6 3 5
 > 
 > 0024 0009 0010 0004 0023 0004 2070 0007 0011
 

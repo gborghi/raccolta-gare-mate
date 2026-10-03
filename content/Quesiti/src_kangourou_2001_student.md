@@ -38,7 +38,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum grey mice with group boundings*
+*Maximum grey mice with group constraint*
 
 > Joseph has 100 mice each of which is either white or gray. However you choose a group of seven mice, at least four are white. What is the maximum number of gray mice Joseph can have?
 >
@@ -115,7 +115,7 @@ Maximum number of balls in a cubic box
 
 *Value of log10 2 given log2 10*
 
-> If log 2 10 = then log 10 2 is valid.
+> If   log 2 10 = a  then log 10 2 equals
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_student#q03|src_kangourou_2001_student__Q03]]
@@ -146,9 +146,13 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integral numbers not prime < 1000 with sum of 2 digits *
+*Non-prime integers <1000 with digit sum 2*
 
-> How many positive integers are prime numbers not less than 1000 whose sum of digits (in decimal form) is 2? (A) 2 (B) 4 (C) 6 (D) 7 (E) a number different from the previous ones.
+> How many positive non-prime integers less than 1000 have the sum of whose
+> digits (in decimal representation) equal to 2?
+> (A) 2
+>  (B) 4      (C) 6
+>    (D) 7             (E) a number different from the previous ones.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_student#q04|src_kangourou_2001_student__Q04]]
@@ -176,9 +180,10 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability number equal to or greater than 399*
+*Probability of an even number greater than 399*
 
-> What is the probability that, if you randomly choose a 3-digit number (significant), it is equal to or greater than 399?
+> What is the probability that, by randomly choosing a 3-digit number (significant digits),
+> it is even and greater than 399?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_student#q05|src_kangourou_2001_student__Q05]]
@@ -254,13 +259,13 @@ Maximum number of balls in a cubic box
 
 ![[src_kangourou_2001_student__prob7.png]]
 
-> In the figure next to BC it is parallel to AE and BD is parallel to CE. If x is the area of the ABCD quadrilateral and y is the area of the ACE triangle, then
+> In the figure beside, BC is parallel to AE and BD is parallel to CE. If x is the area of the ABCD quadrilateral and y is the area of the ACE triangle, then
 >
 > - **(A)** x = y
 > - **(B)** x = 2 y
 > - **(C)** 2 x = y
-> - **(D)** e true a different relationship between x and y
-> - **(E)** e it is impossible to determine with these data alone, what is the relationship between x and y.
+> - **(D)** there is a different relationship between x and y
+> - **(E)** it is impossible to determine with these data alone, what is the relationship between x and y.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_student#q07|src_kangourou_2001_student__Q07]]
@@ -296,7 +301,7 @@ Maximum number of balls in a cubic box
 
 *Quaternary x< y< z< t with xyzt-1=2001*
 
-> The number of different positive integers (x, y, z, t) such that x < y < z < t and xyzt - 1 = 2001, is equal to
+> The number of different quadruples of positive integers (x, y, z, t) such that x < y < z < t and xyzt - 1 = 2001, is equal to
 >
 > - **(A)** 10
 > - **(B)** 7
@@ -380,9 +385,9 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True claim with MCD(m,35)>10*
+*True claim with GCD(m,35)>10*
 
-> m is a positive integer such that MCD (m, 35) > 10. Which of the following is certainly true? (A) the decimal representation of m has at least 3 digits (B) m is multiple of 35 (C) m is divisible by 15 (D) m is divisible by 25 (E) m is divisible by either 5 or 7 but not both. Note: MCD (a, b) indicates the maximum common divisor between a and b. The questions from N. 11 al N. 20 is worth 4 points each.
+> m is a positive integer such that GCD (m, 35) > 10. Which of the following is certainly true? (A) the decimal representation of m has at least 3 digits (B) m is multiple of 35 (C) m is divisible by 15 (D) m is divisible by 25 (E) m is divisible by either 5 or 7 but not both. Note: GCD (a, b) indicates the greatest common divisor between a and b. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_student#q10|src_kangourou_2001_student__Q10]]
@@ -419,16 +424,16 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circumferences tangent to C1, C2 and r *
+*Circles tangent to C1, C2 and r *
 
 ![[src_kangourou_2001_student__prob11.png]]
 
-> Two circles C1 and C2 of different radii are tangent externally and both tangent to the same straight line r (v. (Figure 1). Which of the following statements is true?
+> Two circles C1 and C2 of different radii are tangent externally and both tangent to the same straight line r (see figure). Which of the following statements is true?
 >
-> - **(A)** There is no tangent circumference at C1, C2 and r
-> - **(B)** There is only one tangent circumference at C1, C2 and r
-> - **(C)** There are exactly two rings tangent to C1, C2 and r
-> - **(D)** There are exactly four rings tangent to C1, C2 and r.
+> - **(A)** There is no circle tangent to C1, C2 and r
+> - **(B)** There is exactly one circle tangent to C1, C2 and r
+> - **(C)** There are exactly two circles tangent to C1, C2 and r
+> - **(D)** There are exactly four circles tangent to C1, C2 and r
 > - **(E)** None of the statements (A), (B), (C), (D) are true.
 
 **Answer:** C
@@ -487,7 +492,7 @@ Maximum number of balls in a cubic box
 \end{document}
 ```
 
-> The figure below shows the flat development of a solid bounded by three 4 cm side squares and two equilateral triangles. What is the volume of the solid?
+> The figure below shows the net of a solid bounded by three 4 cm side squares and two equilateral triangles. What is the volume of the solid?
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_student#q12|src_kangourou_2001_student__Q12]]
@@ -570,7 +575,7 @@ Maximum number of balls in a cubic box
 
 *Term after 10^8 in squares*
 
-> Let's say 1, 4, 9, 16, the sequence of squares of natural numbers. The number 10 8 is an end of this sequence. Which of the following numbers is the next term of succession?
+> Let's say 1, 4, 9, 16, the sequence of squares of natural numbers. The number 10 8 is a term of this sequence. Which of the following numbers is the next term of the sequence?
 >
 > - **(A)** (10 4 + 1)²
 > - **(B)** (10 8 + 1)²
@@ -648,7 +653,7 @@ Maximum number of balls in a cubic box
 \end{document}
 ```
 
-> ABCDEF is a regular hexagon. So the vector matches the vector.
+> ABCDEF is a regular hexagon. Then the vector coincides with the vector
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_student#q15|src_kangourou_2001_student__Q15]]
@@ -690,7 +695,7 @@ Maximum number of balls in a cubic box
 > In a tournament between 4 football teams (each team has played every other team once and only once), the final ranking is as follows: team A 7 points, team B 4 points, team C 3 points, team D 3 points. (In football matches a team gets 3 points when it wins, 1 point when it draws, 0 points if it loses). How did the meeting between Team A and Team D end?
 >
 > - **(A)** A has necessarily won
-> - **(B)** They're even.
+> - **(B)** They drew.
 > - **(C)** D has necessarily won
 > - **(D)** depends on the outcome of the challenge between A and B
 > - **(E)** Depends on the outcome of the challenge between A and C.
@@ -774,11 +779,11 @@ Maximum number of balls in a cubic box
 
 *Littleest number among the expressions *
 
-> The hypotenuse of a right triangle is 0.9 cm long while the lengths of the catheters are a cm and b cm. Which is the smallest of the following numbers?
+> The hypotenuse of a right triangle is 0.9 cm long while the lengths of the legs are a cm and b cm. Which is the smallest of the following numbers?
 >
 > - **(A)** a² + b²
 > - **(B)** (a + b)²
-> - **(C)** 0,9
+> - **(C)** 0.9
 > - **(D)** a + b
 > - **(E)** ab.
 
@@ -818,17 +823,20 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum cubes from view*
+*Minimum and maximum small cubes from views*
 
 ![[src_kangourou_2001_student__prob19.png]]
 
-> Next to it you have the view from the left and front of a building made by approaching small cubes. How many cubes were used? The minimum and maximum number of cubes compatible with the illustrations shown are required.
+> Next to it you have the left and front views of a construction
+> obtained by placing small cubes side by side. How many small cubes were
+> used? The minimum and the maximum number
+> of small cubes compatible with the depictions shown are required.
 >
-> - **(A)** 7 e 13
-> - **(B)** 8 e 13
-> - **(C)** 7 e 15
-> - **(D)** 7 e 16
-> - **(E)** 8 e 16. AF AD BC ⋅ + − 2 . This appropriation is intended to cover expenditure relating to the implementation of the common agricultural policy. Class of students. This item is not intended to be used. 5
+> - **(A)** 7 and 13
+> - **(B)** 8 and 13
+> - **(C)** 7 and 15
+> - **(D)** 7 and 16
+> - **(E)** 8 and 16. AF AD BC ⋅ + − 2 . CE (E) FB (D) FD (C) CA (B) AA ) (A Kangourou 15 March 2001. Category Student. Page No. 5
 
 **Answer:** E
 [[Quesiti/src_kangourou_2001_student#q19|src_kangourou_2001_student__Q19]]
@@ -869,7 +877,7 @@ Maximum number of balls in a cubic box
 > - **(B)** 36°
 > - **(C)** 45°
 > - **(D)** 54°
-> - **(E)** 60°. The questions from N. 21 al N. 30 is worth 5 points each.
+> - **(E)** 60°. The questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_student#q20|src_kangourou_2001_student__Q20]]
@@ -903,7 +911,7 @@ Maximum number of balls in a cubic box
 
 ![[src_kangourou_2001_student__prob21.png]]
 
-> Find the length of the larger side of the rectangle shown in Figure 1 (the smaller side measures 1), knowing that the round figures are all circles.
+> Find the length of the larger side of the rectangle shown in the figure (the smaller side measures 1), knowing that the round figures are all circles.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_student#q21|src_kangourou_2001_student__Q21]]
@@ -945,13 +953,13 @@ Maximum number of balls in a cubic box
 
 ![[src_kangourou_2001_student__prob22.png]]
 
-> The cells of a grid of 43 rows × 43 columns are coloured with 4 colours 1, 2, 3, 4 as shown in Figure 1. Which color is used more often than each of the other three?
+> The cells of a grid of 43 rows × 43 columns are coloured with 4 colours 1, 2, 3, 4 as shown in the figure. Which color is used more often than each of the other three?
 >
 > - **(A)** Colour 1
 > - **(B)** Colour 2
 > - **(C)** Colour 3
 > - **(D)** Colour 4
-> - **(E)** I don't know.
+> - **(E)** none.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_student#q22|src_kangourou_2001_student__Q22]]
@@ -989,7 +997,7 @@ Maximum number of balls in a cubic box
 
 *Value w(2001^2001) sum of the numbers iterated*
 
-> For each positive integer n we calculate the sum of its digits (in decimal representation), then the sum of the digits of the number obtained and so on, until we get a single-digit number that is denoted by w(n). The number w (2001 2001) is equal to
+> For each positive integer n we calculate the sum of its digits (in decimal representation), then the sum of the digits of the number obtained and so on, until we get a single-digit number that is denoted by w(n). The number w(2001^2001) is equal to
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -1072,7 +1080,7 @@ Maximum number of balls in a cubic box
 
 *Product number m*n logarithmic data*
 
-> Let m and n be two positive integers such that log 10 m = 12.3... and log 10 = 15.4... How many digits does the product m⋅n have?
+> Let m and n be two positive integers such that log 10 m = 12.3... and log 10 n = 15.4... How many digits does the product m⋅n have?
 >
 > - **(A)** 15
 > - **(B)** 16
@@ -1122,7 +1130,7 @@ Minimum crossings for two men and boys
 > - **(B)** 5
 > - **(C)** 9
 > - **(D)** 11
-> - **(E)** 13. .5 2 (E) 5 (D) 2.5 (C) 2 5 2 (B) 5 2) A (+ − + − Kangourou 15 March 2001. Class of students. This item is not intended to be used. 6
+> - **(E)** 13. Kangourou 15 March 2001. Category Student. Page No. 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_student#q26|src_kangourou_2001_student__Q26]]
@@ -1152,11 +1160,11 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EF length of rope in the rectangle*
+*EF chord length in the rectangle*
 
 ![[src_kangourou_2001_student__prob27.png]]
 
-> If ABCD is a rectangle and k is a circumference centered on A and passing through C, what is the length of the EF string? (see figure).
+> If ABCD is a rectangle and k is a circle centered at A and passing through C, what is the length of the chord EF? (see figure).
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_student#q27|src_kangourou_2001_student__Q27]]
@@ -1191,9 +1199,10 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary number and denomination of the telescopic product*
+*Sum of numerator and denominator of the telescoping product*
 
-> Adding the numerator and denominator, when these are reduced to the minimum, to the result of the following expression
+> Adding the numerator and the denominator, when they are reduced to their lowest terms, of the result of the following expression
+> one obtains
 >
 > - **(A)** 2001
 > - **(B)** 3002
@@ -1358,15 +1367,45 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fat triangle area in the convex hexagon*
+*Area of triangle FAT in the convex hexagon*
 
 ![[src_kangourou_2001_student__prob30.png]]
 
-> The AD, BE, CF diagonals of an ABCDEF convex hexagon all pass through the same T-point. How much is the area of the FAT triangle, if the areas of the others are those shown in the figure?    − ⋅ ⋅   − ⋅   − ⋅   − 2 2 2 2 2001 1 1
+> The diagonals AD, BE, CF of a convex hexagon ABCDEF all pass through
+> the same point T. What is the area of triangle FAT, if the areas of the others
+> are those indicated in the figure?
+> 
+> 
+> 
+> −
+> ⋅
+> ⋅
+> 
+> 
+> −
+> ⋅
+> 
+> 
+> −
+> ⋅
+> 
+> 
+> −
+> 2001
+> 1
+> 1
 >  
 > ....
 >  
-> 4 1 1 3 1 1 2 1 1
+> 4
+> 1
+> 1
+> 3
+> 1
+> 1
+> 2
+> 1
+> 1
 >   
 > 25.
 >  
@@ -1376,29 +1415,48 @@ Minimum crossings for two men and boys
 >  
 > (D)
 >      
-> 13 37 2 (C)
+> 13
+> 37
+> 2 
+> (C)
 >       
-> 25 20 2 (B)
+> 25
+> 20
+> 2 
+> (B)
 >     
-> 50 ) A ( ⋅ ⋅
+> 50
+>  )
+> A
+> (
+> ⋅
+> ⋅
 >  
-> I'm going to do something else.
+> other.
 >  
 > (E)
 >      
-> 5 24
+> 5
+> 24
 >  
 > (D)
 >      
-> 3 10
+> 3
+> 10
 >  
 > (C)
 >      
-> 3 (B)
+> 3 
+> (B)
 >      
-> 5 6 ) A (
+> 5
+> 6 )
+> A
+> (
 > 
-> 1 Answers Category Student Competition of 15 March 2001
+> 1
+> Answers Category Student
+> Competition of 15 March 2001
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_student#q30|src_kangourou_2001_student__Q30]]

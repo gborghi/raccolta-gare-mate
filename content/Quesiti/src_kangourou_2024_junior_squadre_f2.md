@@ -35,7 +35,7 @@ level: squadre
 
 *Minimum ABC with mean divisible permutations of 60*
 
-> Divisable by 60 What is the smallest natural number of three digits ABC, all distinct from each other and different from zero, such that the average of all the numbers that you get by permuting the three digits (ABC included) is an integer divisible by 60?
+> Divisible by 60 What is the smallest natural number of three digits ABC, all distinct from each other and different from zero, such that the average of all the numbers that you get by permuting the three digits (ABC included) is an integer divisible by 60?
 
 **Answer:** 0127
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q01|src_kangourou_2024_junior_squadre_f2__Q01]]
@@ -68,7 +68,7 @@ level: squadre
 
 *Maximum sum and minimum length of distribution network*
 
-> The network A plot of land square 1 km side is divided into rectangular sections each of which may be 5 m × 20 m or 6 m × 12 m in size. The individual portions are separated by a network and the overall layout is fenced off, always by a network: taking into account all possible layouts, what is the sum between the maximum and minimum length in kilometres of the network as a whole required?
+> The net A plot of land square 1 km side is divided into rectangular sections each of which may be 5 m × 20 m or 6 m × 12 m in size. The individual portions are separated by a net and the overall plot is fenced off, always by a net: taking into account all possible layouts, what is the sum between the maximum and minimum length in kilometres of the net as a whole required?
 
 **Answer:** 0504
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q02|src_kangourou_2024_junior_squadre_f2__Q02]]
@@ -97,9 +97,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets without two consecutive elements, at least 2 *
+*Subsets without two consecutive elements, at least 2 elem*
 
-> The subset Consider the sum of the first 11 positive integers {1, 2, ..., 9, 10, 11}. How many of its subsets of at least two elements that do not contain two consecutive numbers?
+> The subsets  
+> Consider the set {1, 2, …, 9, 10, 11} of the first 11 positive integers. How many of its subsets 
+> with at least two elements do not contain two consecutive numbers?
 
 **Answer:** 0221
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q03|src_kangourou_2024_junior_squadre_f2__Q03]]
@@ -133,7 +135,7 @@ level: squadre
 
 *sum of first pair elements (a,b) whole roots*
 
-> The equation Consider the equation (in the unknown x), dependent on the two parameters a and b, x3  10x2 + ax  b = 0. There are ordered pairs (a, b) of strictly positive integers such that the equation has three (real) solutions all of which are strictly positive integers. How much is the sum of the first elements of these pairs? (If you believe there are infinite pairs, write 9999).
+> The equation Consider the equation (in the unknown x), dependent on the two parameters a and b, x3 – 10x2 + ax – b = 0. There are ordered pairs (a, b) of strictly positive integers such that the equation has three (real) solutions all of which are strictly positive integers. What is the sum of the first elements of these pairs? (If you believe there are infinite pairs, write 9999).
 
 **Answer:** 0220
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q04|src_kangourou_2024_junior_squadre_f2__Q04]]
@@ -162,9 +164,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most subgrids score 10x10*
+*Maximum score for 10x10 subgrids*
 
-> The grid A competitor has a grid square 10 × 10. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What's the maximum score you can get?
+> The grid A competitor has a 10 × 10 square grid. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What is the maximum score it can total?
 
 **Answer:** 3410
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q05|src_kangourou_2024_junior_squadre_f2__Q05]]
@@ -196,9 +198,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value f(0) recursive function of McCarthy *
+*Value f(0) McCarthy recursive function*
 
-> The value in 0 Consider the function f defined on the set of non-negative integers, to values in the set of integers, as follows: for n non-negative integers, put f(n) = n  10 if n > 100, f(n) = f (f(n + 11)) if 0 ≤ n ≤ 100. How much is f?
+> The value at 0
+> Consider the function f defined on the set of non-negative integers, with values in the set
+> of integers, as follows: for n a non-negative integer let
+> f(n) = n – 10 if n > 100,
+> f(n) = f (f(n + 11)) if 0 ≤ n ≤ 100.
+> What is f(0)?
 
 **Answer:** 0091
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q06|src_kangourou_2024_junior_squadre_f2__Q06]]
@@ -324,7 +331,7 @@ level: squadre
 \end{document}
 ```
 
-> The rectangle In the figure to the right, ABCD is a rectangle, E is the middle point of DC and AF, FG, GB are each 1/3 long AB. The area of the EHK triangle is 27. What is the area of the rectangle ABCD?
+> The rectangle In the figure to the right, ABCD is a rectangle, E is the middle point of DC and AF, FG, GB are each 1/3 of AB long. The area of the EHK triangle is 27. What is the area of the rectangle ABCD?
 >  
 >  
 > K B C D E F G A H
@@ -358,7 +365,7 @@ level: squadre
 
 *First four digits max n with n^2+2024n squared*
 
-> Perfect square Write the first four digits (left) of the largest natural number n such that n2 + 2024n is a perfect square.
+> Perfect square Write the first four digits (from the left) of the largest natural number n such that n^2 + 2024n is a perfect square.
 
 **Answer:** 2550
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q08|src_kangourou_2024_junior_squadre_f2__Q08]]
@@ -387,9 +394,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of N (1001 units) divided by 1001*
+*Remainder of N (1001 units) divided by 1001*
 
-> The remainder The positive integer N consists of 1,001 digits all equal to 1. What's the rest of the division of N by 1.001?
+> The remainder The positive integer N consists of 1,001 digits all equal to 1. What's the remainder of the division of N by 1.001?
 
 **Answer:** 0100
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q09|src_kangourou_2024_junior_squadre_f2__Q09]]
@@ -454,9 +461,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum subset elements equal to sums of 1.100*
+*Minimum number of elements in a subset with equal sums 1..100*
 
-> I want to divide the sum of the first 100 positive integers into two sub-sets so that the two sums of the integers in the two sub-sets coincide and that one of the two has the least number of elements possible. What's this number?
+> Partition  
+> I want to partition the set of the first 100 positive integers into two disjoint subsets so that the 
+> two sums of the integers present in the two subsets coincide and that one of the two has the smallest 
+> possible number of elements. What is this number?
 
 **Answer:** 0030
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q11|src_kangourou_2024_junior_squadre_f2__Q11]]
@@ -486,9 +496,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Percentage of area S with respect to area T triangle 3.4,5
+Percentage of area S with respect to area T triangle 3,4,5
 
-> The dimensions of the sides of a T triangle are 3, 4 and 5. The height and median of this triangle relative to the top of the major angle are sides of the same S triangle. What percentage of the area of T is the area of S?
+> The dimensions of the sides of a T triangle are 3, 4 and 5. The height and median of this triangle relative to the vertex of the largest angle are sides of the same S triangle. What percentage of the area of T is the area of S?
 
 **Answer:** 0014
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q12|src_kangourou_2024_junior_squadre_f2__Q12]]
@@ -521,7 +531,7 @@ Percentage of area S with respect to area T triangle 3.4,5
 
 *Coordinates of cube vertices with first coordinates 0*
 
-> The vertex Compared to a system of orthogonal (monometric) Cartesian axes fixed for space, the three points (4, 0, 3), (6, 4, 1) and (2, 8, 5) represent three of the vertices of a cube. Only one of the remaining 5 vertices has as its first coordinate 0: what are its coordinates in order? (The coordinates required are all integers not less than 10, so the answer must be [00AB].)
+> The vertex Compared to a system of orthogonal (monometric) Cartesian axes fixed for space, the three points (4, 0, 3), (6, 4, 1) and (2, 8, 5) represent three of the vertices of a cube. Only one of the remaining 5 vertices has as its first coordinate 0: what are its coordinates in order? (The coordinates required are all non-negative integers less than 10, so the answer must be [00AB].)
 
 **Answer:** 0047
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q13|src_kangourou_2024_junior_squadre_f2__Q13]]
@@ -555,7 +565,7 @@ Percentage of area S with respect to area T triangle 3.4,5
 
 How many cards show a white face after 2024 moves
 
-> The cards There are 2024 cards, each with a white face and the other gray, numbered from 1 to 2024 with the same number on both faces. Initially, they all show the white face. 2024 moves are performed: for 1 ≤ k ≤ 2024, the k-eighth move consists of flipping all the cards that have a number divisible by k (since on the first move all the cards are flipped, on the second only the cards that have an equal number, and so on). After 2024 moves, how many cards show the white face?
+> The cards There are 2024 cards, each with a white face and the other gray, numbered from 1 to 2024 with the same number on both faces. Initially, they all show the white face. 2024 moves are performed: for 1 ≤ k ≤ 2024, the k-th move consists of flipping all the cards that have a number divisible by k (since on the first move all the cards are flipped, on the second only the cards that have an even number, and so on). After 2024 moves, how many cards show the white face?
 
 **Answer:** 1980
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q14|src_kangourou_2024_junior_squadre_f2__Q14]]
@@ -600,7 +610,7 @@ How many cards show a white face after 2024 moves
 > 
 > Kangourou of Mathematics 2024 Junior Cup to teams Final 2 Cervia, 6 May 2024
 >  
-> Securities and replies
+> Titles and answers
 
 **Answer:** 1024
 [[Quesiti/src_kangourou_2024_junior_squadre_f2#q15|src_kangourou_2024_junior_squadre_f2__Q15]]

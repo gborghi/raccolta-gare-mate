@@ -40,9 +40,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now in Rome when dinner has been served (closed hours) *
+*Time in Rome when dinner was served (time zones) *
 
-> (2 points) When in Rome it's 1:00, in Mexico City it's 6:00. During the flight that took off at 2 p.m. from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock was ticking at 6 p.m. What time was it in Rome when dinner was served? A) 16:00 B) 17:50
+> (2 points) When in Rome it's 13:00, in Mexico City it's 6:00. During the flight that took off at 14:00 from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock showed 18:00. What time was it in Rome when dinner was served? A) 16:00 B) 17:50
 >  
 > C) 18:30
 >  
@@ -129,7 +129,7 @@ level: kangourou
 
 ![[src_kangourou_2022_benjamin_semifinale__prob3.png]]
 
-> (3 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
+> (3 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only 5. B) Only 1. C) Only 2 and 5. D) Only 3 and 4. E) Only 4 and 5.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_benjamin_semifinale#q03|src_kangourou_2022_benjamin_semifinale__Q03]]
@@ -177,7 +177,7 @@ level: kangourou
 
 ![[src_kangourou_2022_benjamin_semifinale__prob4.png]]
 
-> (4 points) Between 6:00 a.m. and 12:00 a.m. on the same day, how many times do the hands of a traditional clock form a right angle? A) 12
+> (4 points) Between 6:00 a.m. and 12:00 p.m. on the same day, how many times do the hands of a traditional clock form a right angle? A) 12
 >  
 > B) 11 C) 10 D) 6
 >  
@@ -225,7 +225,7 @@ level: kangourou
 
 *End product unit number of numbers 2021-2029*
 
-> (4 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. It proceeds on the eight numbers remaining the same by getting seven and so on, until there is only one number left on the sheet. What is the unit number of this number? A) 0
+> (4 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining the same way, getting seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
 >  
 > B) 2
 >  
@@ -267,9 +267,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unordered pairs of parallel beams in a cube*
+*Unordered pairs of parallel edges in a cube*
 
-> (4 points) How many different pairs of (unsorted) parallel shafts are there in a cube? A) 6
+> (4 points) How many different pairs of (unordered) parallel edges are there in a cube? A) 6
 >  
 > B) 8
 >  
@@ -307,11 +307,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additional ploughing for grass from 25 to 30 metres*
+*Supplementary fertiliser for a lawn from 25 to 30 metres*
 
-> (5 points) 60 kg of manure is needed to fertilize a 25 square metre lawn. Which of the following figures is closest to the quantity, expressed in kilograms, of additional manure needed to fertilise the same way a 30 square meter lawn? A) 10
->  
-> B) 12 C) 15 D) 20 E) 30
+> (5 points) To fertilise a square lawn with a side of 25 metres, 60 kg of fertiliser are needed. Which
+> of the following numbers is closest to the quantity, expressed in kilograms, of supplementary fertiliser
+> needed to fertilise in the same way a square lawn with a side of 30 metres?
+> A) 10
+> 
+> B) 12
+> C) 15
+> D) 20
+> E) 30
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_benjamin_semifinale#q07|src_kangourou_2022_benjamin_semifinale__Q07]]
@@ -390,7 +396,7 @@ level: kangourou
 \end{document}
 ```
 
-> (5 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is four times Bice's. Right now Ada is on top A while Bice is on top B. How many of the following statements are correct? Ada and Bice will never be together at summit B. Ada and Bice will never be together at C Summit. Ada and Bice will never be together at summit D. - Sometimes Ada and Bice will be together at summit A. Ada and Bice can't be together except at one of the summits. (A) 0 (none)
+> (5 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is four times Bice's. Right now Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. A) 0 (none)
 >  
 > B) 1
 >  
@@ -438,7 +444,7 @@ level: kangourou
 
 *Most likely number of people who knew the answer *
 
-> (6 points) To a closed answer question by Kangourou like this, with 5 options for the answer, 10,000 students answered. Of these, some were able to determine the correct answer based on their knowledge, others were able to guess by choosing quite randomly from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
+> (6 points) To a multiple-choice Kangourou question like this, with 5 options for the answer, 10,000 students answered. Of these, some were able to determine the correct answer based on their knowledge, others guessed by choosing completely at random from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
 >  
 > C) 1.500
 >  
@@ -474,7 +480,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of (number*10) divided by 6 with number=2 mod 6*
+*Remainder of (number*10) divided by 6 with number=2 mod 6*
 
 > (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
 
@@ -508,7 +514,7 @@ level: kangourou
 
 *Distance between oases A and B with two camels*
 
-> (5 points) In the desert, two oases A and B are at the end of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many miles apart are the two oases?
+> (5 points) In the desert, two oases A and B are at the end of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many kilometers apart are the two oases?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2022_benjamin_semifinale#q11|src_kangourou_2022_benjamin_semifinale__Q11]]
@@ -540,11 +546,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Detail mileage with petrol in the tank*
+*Kilometers to be traveled with gasoline in the tank*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob12.png]]
 
-> (5 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many miles can the car go?
+> (5 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many kilometers can the car go?
 
 **Answer:** 0250
 [[Quesiti/src_kangourou_2022_benjamin_semifinale#q12|src_kangourou_2022_benjamin_semifinale__Q12]]
@@ -572,7 +578,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient number of 111...999 divided by 111*
+*Digits of the quotient of 111...999 divided by 111*
 
 > (6 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 
@@ -685,7 +691,7 @@ level: kangourou
 
 How many cherries did Donatella eat in total
 
-> (6 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without advancing any. One kept it for himself and the others gave it to his friends. Donatella ate all her cherries right away. Then three of her friends gave her, each, exactly one-quarter the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
+> (6 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without leaving any left over. She kept one for herself and gave the others to her friends. Donatella ate all her cherries right away. Then three of her friends gave her, each, exactly one-quarter the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
 
 **Answer:** 0189
 [[Quesiti/src_kangourou_2022_benjamin_semifinale#q15|src_kangourou_2022_benjamin_semifinale__Q15]]
@@ -775,7 +781,7 @@ How many cherries did Donatella eat in total
 \end{document}
 ```
 
-> (7 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
+> (7 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2022_benjamin_semifinale#q16|src_kangourou_2022_benjamin_semifinale__Q16]]
@@ -818,7 +824,7 @@ How many cherries did Donatella eat in total
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to sit in cars with constraints*
+*Ways to sit in a car with constraints*
 
 > (7 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are to be considered different if at least one of the car seats is occupied by different persons.) a a 2a b 2b 2b 4b V P A B C
 
@@ -856,7 +862,7 @@ How many cherries did Donatella eat in total
 
 *Minimum number of operations to reach 2022 from 1*
 
-> (8 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the road results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
+> (8 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained step by step, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
 >  
 > D D D 0002 0012 0250 0025 0048 0189 0015 0016 0009
 

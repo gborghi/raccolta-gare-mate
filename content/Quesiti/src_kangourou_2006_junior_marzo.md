@@ -90,7 +90,7 @@ Advanced cubes building the largest cube
 
 *When the difference between clocks is 1 hour*
 
-> If answer B is wrong, then neither are D and E. You know that in the questions put by Kangourou, one and only one of the answers is correct. So you can conclude that the correct answer is A A B B C C D D E E
+> If answer B is wrong, then neither are D and E. You know that in the questions put by Kangourou, one and only one of the answers is correct. So you can conclude that the correct answer is A) A               B) B              C) C              D) D                 E) E
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_junior_marzo#q03|src_kangourou_2006_junior_marzo__Q03]]
@@ -119,7 +119,7 @@ Advanced cubes building the largest cube
 
 *Number of books in the library (25% and 1/9) *
 
-> 4. Peter says that exactly 25% of his personal library is made up of literature books, while exactly 1/9 of it is made up of mathematics books. The number of Junior Junior books in Peter's library is known to be between 50 and 100. How many books is that library made of? A) 50 B) 54 C) 64 D) 72 E) 92
+> 4. Peter says that exactly 25% of his personal library is made up of literature books, while exactly 1/9 of it is made up of mathematics books. The number of Junior books in Peter's library is known to be between 50 and 100. How many books is that library made of? A) 50 B) 54 C) 64 D) 72 E) 92
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_junior_marzo#q04|src_kangourou_2006_junior_marzo__Q04]]
@@ -146,9 +146,9 @@ Advanced cubes building the largest cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum minutes for numbers to be multiplied by 5
+Minimum minutes for numbers to become multiples of 5
 
-> 5. On the board are the numbers 1, 2, 3, 4. Every minute Luisa calls two numbers and replaces each with the number she gets by adding 1. What's the minimum number of minutes passed that all the numbers written on the board can be multiplied by 5? A) 4 B) 5 C) 8 D) 10 E) Such a configuration can never occur. Kang 2006 Pag. 22 22 Kang 2006 Pag.
+> 5. On the board are the numbers 1, 2, 3, 4. Every minute Luisa erases two numbers and replaces each with the number she gets by adding 1. What's the minimum number of minutes passed that all the numbers written on the board can become multiples of 5? A) 4 B) 5 C) 8 D) 10 E) Such a configuration can never occur. Kang 2006 Pag. 22 22 Kang 2006 Pag.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_junior_marzo#q05|src_kangourou_2006_junior_marzo__Q05]]
@@ -176,11 +176,11 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the fourth arc (angles in the centre) *
+*Length of the fourth arc (central angles)*
 
 ![[src_kangourou_2006_junior_marzo__prob6.png]]
 
-> 6. A circumference is divided into four arcs: the 2 lengths of three of them are 2, 5, 6 meters. How many 5 m is the length of the fourth arc if the arc of length x 2 insists on an angle in the center of 30 degrees? A) 7 B) 9 C) 13 6 D) 3π E) 11
+> 6. A circle is divided into four arcs: the 2 lengths of three of them are 2, 5, 6 meters. How many 5 30° meters is the fourth arc long, if on the arc of length x 2 there rests a central angle of 30 degrees? A) 7 B) 9 C) 13 6 D) 3π E) 11
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_junior_marzo#q06|src_kangourou_2006_junior_marzo__Q06]]
@@ -206,9 +206,9 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of departure of two trains*
+*Time for two trains to pass each other*
 
-> 7. Two trains of the same length are traveling to meet each other on a double track line, the first at 100 km/h and the second at 120 km/h. When they cross, from a window of the second train, a passenger observes that it takes exactly six seconds for the first train to completely slide in front of them. In how many seconds does a passenger on the first train see the second train parade in front of him? A) 5 B) 6 C) Between 6 and 7 D) 7 E) More than 7
+> 7. Two trains of the same length are traveling to meet each other on a double track line, the first at 100 km/h and the second at 120 km/h. When they cross, from a window of the second train, a passenger observes that it takes exactly six seconds for the first train to completely pass in front of them. In how many seconds does a passenger on the first train see the second train pass in front of him? A) 5 B) 6 C) Between 6 and 7 D) 7 E) More than 7
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_junior_marzo#q07|src_kangourou_2006_junior_marzo__Q07]]
@@ -236,7 +236,7 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of the circle with target area (signal) *
+*Radius of the circle with target area (signal)*
 
 ![[src_kangourou_2006_junior_marzo__prob8.png]]
 
@@ -267,9 +267,9 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of possible beams of a prism*
+*Possible number of edges of a prism*
 
-> 9. Only one of those we're proposing can be the number of prism interpretations. What kind? A) 100 B) 200 C) 2005 D) 2006 E) 2007
+> 9. Only one of the numbers we propose can be the number of edges of a prism. Which one? A) 100 B) 200 C) 2005 D) 2006 E) 2007
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_junior_marzo#q09|src_kangourou_2006_junior_marzo__Q09]]
@@ -296,9 +296,9 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report and/or report given ab,bc,cd,de*
+*Ratio e/a given ab,bc,cd,de*
 
-> 10. The numbers a, b, c, d, and are positive and we know that ab = 2, bc = 3, Junior Junior cd = 4, de = 5. How much is the report worth ? A) 15/8 B) 5/6 C) 3/2 D) 4/5 E) The information is insufficient. The questions from N. 11 al N. 20 is worth 4 points each.
+> 10. The numbers a, b, c, d, e are positive and it is known that ab = 2, bc = 3, Junior Junior cd = 4, de = 5. What is the value of the ratio e/a ? A) 15/8 B) 5/6 C) 3/2 D) 4/5 E) The information is insufficient. Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_junior_marzo#q10|src_kangourou_2006_junior_marzo__Q10]]
@@ -324,9 +324,9 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of the lady (equation) *
+*Age of the lady (equation)*
 
-> 11. A person with little touch asked a lady about her age. The lady, somewhat resented, replied: "If I were to die at the age of one hundred, my age today would be four-thirds of the time I would live". How old is the lady? A) 20 B) 40 C) 50 D) 60 E) 80 Kang 2006 Pag. 23 23
+> 11. A tactless person asked a lady about her age. The lady, somewhat resented, replied: "If I were to die at the age of one hundred, my age today would be four-thirds of half the time I would have left to live". How old is the lady? A) 20 B) 40 C) 50 D) 60 E) 80 Kang 2006 Pag. 23 23
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_junior_marzo#q11|src_kangourou_2006_junior_marzo__Q11]]
@@ -352,9 +352,9 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major angle of the triangle (rounded rim) *
+*Largest angle of the triangle (circumscribed rhombus)*
 
-> 12. Answer D. U n r o m b or i n c u l a d i a g o n a l e m i n o r and m s u r a q u a n t or i l l a t or is obtained by the approximation of two equilateral triangles (equal).
+> 12. Answer D). A rhombus in which the shorter diagonal measures as much as the side is obtainable by joining two equilateral triangles (equal).
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_junior_marzo#q12|src_kangourou_2006_junior_marzo__Q12]]
@@ -382,11 +382,11 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ladge of the largest square (rectangle in 6 squares) *
+*Side of the largest square (rectangle divided into 6 squares)*
 
 ![[src_kangourou_2006_junior_marzo__prob13.png]]
 
-> 13. The rectangle in the figure is divided into six quadrants. The smallest side of the square measures one centimeter. How many centimeters does the side of the larger quadrant measure? 1 1 A) 5.5 B) 6 C) 7 D) 8 E) A value different from the previous ones. K A N
+> 13. The rectangle in the figure is divided into six squares. The side of the smallest square measures one centimetre. How many centimetres does the side of the largest square measure? 1 1 A) 5.5 B) 6 C) 7 D) 8 E) A value different from the previous ones. K A N
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_junior_marzo#q13|src_kangourou_2006_junior_marzo__Q13]]
@@ -415,7 +415,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 *Number represented by A (KAN+KAG+KNG=2006) *
 
-> 14. Each letter represents a digit: the letters equal- + K A G represent the same digits and the letters different digits + K N G different. What number does the letter A represent? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
+> 14. Each letter represents a digit: the letters equal- + K A G represent the same digit and different letters represent different digits + K N G different. What number does the letter A represent? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_junior_marzo#q14|src_kangourou_2006_junior_marzo__Q14]]
@@ -490,7 +490,7 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exagonal perimeter intersection of two triangles*
+*Hexagonal perimeter intersection of two triangles*
 
 ![[src_kangourou_2006_junior_marzo__prob16.png]]
 
@@ -553,11 +553,29 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of the largest number with square pairs*
+*Digits of the largest number with square pairs*
 
-> How many digits has the largest integer with this property: each pair of its consecutive digits represents a perfect square? A) 5 B) 4 C) 3 D) 6 E) 10 1 K A N + K A G + K N G ------- 2 0 0 6 3 6 junior_06.qxp
+> How many digits does the largest integer with this property have:
+> every pair of its consecutive digits represents a perfect square?
+> A) 5            
+> B) 4              C) 3              D) 6            
+> E) 10
+> 1
+> 1
+> K A N
+> + K A G
+> + K N G
+> -------  
+> 2 0 0 6
+> 3
+> 6
+> junior_06.qxp  20/02/2006  23.44  Page 24
 > 
-> I'm going to pay. I'm going to pay. 25 25 Kang 2006 Kang
+> Pag. 
+> Pag. 25
+> 25
+> Kang 2006
+> Kang 2006
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_junior_marzo#q17|src_kangourou_2006_junior_marzo__Q17]]
@@ -627,7 +645,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 *Number of children (average family age) *
 
-> 19. Answer C. Both n the number of children: adding up the years of all members of the family gets 18(n + 2), adding up the years of all members excluding the father gets 14(n + 1). So it has to be 18 ((n + 2)  14 ((n + 1) = 38, so we get n = 4.
+> 19. Answer C. Let n be the number of children: adding up the years of all members of the family gets 18(n + 2), adding up the years of all members excluding the father gets 14(n + 1). So it has to be 18(n + 2) - 14(n + 1) = 38, so we get n = 4.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_junior_marzo#q19|src_kangourou_2006_junior_marzo__Q19]]
@@ -669,7 +687,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 *Maximum EUR to secure the prize (balls) *
 
-> In a moon park there is a box containing: - 15 balls, each half red and half blue; - 12 balls, each half blue and half green; - 9 balls, each half green and half red. Taking a ball out of the box at random costs a euro. If you present seven balls that have at least one color in common, you are given a prize that you care very much about. How many euros will you have to spend, at most, to secure the prize? A) 7 B) 8 C) 9 D) 10 E) 11 Questions from N. 21 al N. 30 is worth 5 points each.
+> In an amusement park there is a box containing: - 15 balls, each half red and half blue; - 12 balls, each half blue and half green; - 9 balls, each half green and half red. Taking a ball out of the box at random costs a euro. If you present seven balls that have at least one color in common, you are given a prize that you care very much about. How many euros will you have to spend, at most, to secure the prize? A) 7 B) 8 C) 9 D) 10 E) 11 Questions from N. 21 to N. 30 is worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_junior_marzo#q20|src_kangourou_2006_junior_marzo__Q20]]
@@ -810,7 +828,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 ![[src_kangourou_2006_junior_marzo__prob23.png]]
 
-> Two squares of 1 metre side are in the position indicated in the figure: they share a vertex and one side of one of the two beds on a diagonal of the other. What is the area of the quadrilateral at their intersection in square meters? A)               B) C) D) E)
+> Two squares of 1 metre side are in the position indicated in the figure: they share a vertex and one side of one of the two lies on a diagonal of the other. What is the area of the quadrilateral at their intersection in square meters? A)               B) C) D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_junior_marzo#q23|src_kangourou_2006_junior_marzo__Q23]]
@@ -853,7 +871,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 ![[src_kangourou_2006_junior_marzo__prob24.png]]
 
-> A square PQRS of 10 centimetres on the side rotates without slipping along a segment. Initially the vertices P and Q lie on the segment: the first rotation takes place by making a pin in Q and carrying R on the segment, as indicated in the figure; the subsequent ones take place as suggested by the figure. The rotations end when, for the first time, the P vertex comes back into contact with the segment. What is the length of the curve described by P in centimetres? A) B) C) D) E)
+> A square PQRS of 10 centimetres on the side rotates without slipping along a segment. Initially the vertices P and Q lie on the segment: the first rotation takes place by pivoting on Q and carrying R on the segment, as indicated in the figure; the subsequent ones take place as suggested by the figure. The rotations end when, for the first time, vertex P comes back into contact with the segment. What is the length of the curve described by P in centimetres? A) B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_junior_marzo#q24|src_kangourou_2006_junior_marzo__Q24]]
@@ -889,9 +907,18 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the cube with 6 colours*
+*Colorings of the cube with 6 colors*
 
-> You have six different colors available to color the six faces of a cube: you can only use one color per face and you have to use all the colors. How many different colors of the cube are possible? (Two colours are understood to be different if and only if they cannot be obtained from each other by rotating the cube.)
+> You have six different colors available to color the six faces of a
+> cube: you can use only one color per face and you must use all the colors.
+> How many different colorings of the cube are possible?  (Two colorings
+> are considered different if and only if they cannot be obtained from one another
+> by rotating the cube.)
+> A) 24
+> B) 30
+> C) 36
+> D) 42
+> E) 48
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_junior_marzo#q25|src_kangourou_2006_junior_marzo__Q25]]
@@ -968,11 +995,59 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of three distinct digits with a major inverse*
+*3-digit numbers with distinct digits whose reverse is greater*
 
-> The number 257 has three distinct digits: if written in the reverse order, you get the number 752 which is larger than the original. How many three-digit numbers (including 257) have this property? A) 124 B) 252 C) 324 D) 288 E) 360 1 2 − 2 2 1 2 + 1 2 + 2 3 − P Q S R π 10 2 5 5 π + π 2 5 10 π + π 2 10 5 π + π 2 10 10 π + π junior_06.qxp 20/02/2006 23.44
+> The number 257 has three distinct digits: if they are written in reverse order, the number 752 is obtained, which is larger than the original one. How many three-digit numbers with distinct digits (including 257) have this
+> property? 
+> A) 124             B) 252            C) 324            D) 288            E) 360 
+> 1
+> 2 −
+> 2
+> 2
+> 2
+> 1
+> 2 +
+> 1
+> 2 +
+> 2
+> 3 −
+> P
+> Q
+> S
+> R
+> π
+> 10
+> 2
+> 5
+> 5
+> π
+> +
+> π
+> 2
+> 5
+> 10
+> π
+> +
+> π
+> 2
+> 10
+> 5
+> π
+> +
+> π
+> 2
+> 10
+> 10
+> π
+> +
+> π
+> junior_06.qxp  20/02/2006  23.44  Pagina 26
 > 
-> I'm going to pay. I'm going to pay. 27 27 Kang 2006 Kang
+> Pag. 
+> Pag. 27
+> 27
+> Kang 2006
+> Kang 2006
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_junior_marzo#q26|src_kangourou_2006_junior_marzo__Q26]]
@@ -1050,7 +1125,7 @@ Minimum minutes for numbers to be multiplied by 5
 
 ![[src_kangourou_2006_junior_marzo__prob28.png]]
 
-> The final result of a football match is 5-4 in favour of the home team that scored first and, since then, has always been ahead. How many different ways can the final score be matured? (i.e. in how many different orders can the networks have been marked?) A) 17 B) 13 C) 20 D) 14 E) 9
+> The final result of a football match is 5-4 in favour of the home team that scored first and, since then, has always been ahead. How many different ways can the final score be matured? (i.e. in how many different orders can the goals have been scored?) A) 17 B) 13 C) 20 D) 14 E) 9
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_junior_marzo#q28|src_kangourou_2006_junior_marzo__Q28]]
@@ -1080,7 +1155,7 @@ Minimum minutes for numbers to be multiplied by 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of X with X+Y+Z=60 (digit sums) *
+*How many X with X+Y+Z=60 (digit sums) *
 
 > We denote with Y the sum of the digits of the positive integer X and with Z the sum of the digits of the number Y. For how many positive integers X happens that X + Y + Z is equal to 60 ? A) 0 B) 1 C) 2 D) 3 E) More than 3
 

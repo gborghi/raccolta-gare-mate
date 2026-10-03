@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining tables to be examined at a*
+*Remaining cards to be examined at one*
 
-> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of two sheets per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
+> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of two cards per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many cards would he have left to examine at one o'clock that afternoon?
 
 **Answer:** 120
 [[Quesiti/src_kangourou_2005_cadet_finale#qc1|src_kangourou_2005_cadet_finale__QC1]]
@@ -60,9 +60,9 @@ level: kangourou
 
 Greek cross on chessboard 7x7 negative total sum*
 
-> Consider a chessboard $7 \times 7$ and call a Greek cross each configuration of 5 of its cross-arranged boxes so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). You can have 49 integers, not necessarily all of them equal to each other, on the 49 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive?
+> Consider a chessboard $7 \times 7$ and call a Greek cross each configuration of 5 of its cross-arranged squares so that each box has at least one side in common with another square of the cross (so each cross has 4 equal arms each consisting of a square). You can have 49 integers, not necessarily all of them equal to each other, on the 49 squares, one per square, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive?
 
-**Answer:** Si
+**Answer:** Yes
 [[Quesiti/src_kangourou_2005_cadet_finale#qc2|src_kangourou_2005_cadet_finale__QC2]]
 
 
@@ -103,7 +103,7 @@ Greek cross on chessboard 7x7 negative total sum*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded rectangular area in rectangular triangle*
+*Shaded rectangle area in right triangle*
 
 ![[src_kangourou_2005_cadet_finale__probc3.png]]
 
@@ -122,7 +122,7 @@ Greek cross on chessboard 7x7 negative total sum*
 \end{document}
 ```
 
-> Look at the figure. The $ABC$ triangle is rectangular and the point $P$ is $1$ cm away from both the $AB$ catheter, which is $8$ cm long, and the $BC$ hypotenuse, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
+> Look at the figure. The $ABC$ triangle is right-angled and the point $P$ is $1$ cm away from both the leg $AB$, which is $8$ cm long, and the hypotenuse $BC$, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
 
 **Answer:** 5 cm2
 [[Quesiti/src_kangourou_2005_cadet_finale#qc3|src_kangourou_2005_cadet_finale__QC3]]
@@ -157,7 +157,7 @@ Next eclipse of two rotating planets
 
 > Kang is an imaginary star that owns two planets: Enigma and Math. They move in the same plane, each describing a circular orbit centered in Kang with constant angular velocity, but different from each other. In fact, Enigma, the furthest, rotates around Kang clockwise in 7 days, while Math takes 5 days, rotating counterclockwise. At this moment an eclipse of Enigma by Math can be observed (see figure). How long before the next eclipse occurs? (see figure)
 
-**Answer:** 3 giorni meno 2 ore
+**Answer:** 3 days minus 2 hours
 [[Quesiti/src_kangourou_2005_cadet_finale#qc4|src_kangourou_2005_cadet_finale__QC4]]
 
 
@@ -186,9 +186,9 @@ Next eclipse of two rotating planets
 
 *Possible values of x+y with x+y+xy=90*
 
-> If $x$ and $y$ are two strictly positive integers such that $$x + y + xy = 90,$$ is obtained, what are the possible values of the sum $x + y$?
+> If $x$ and $y$ are two strictly positive integers such that $$x + y + xy = 90,$$ how many possible values are there for of the sum $x + y$?
 
-**Answer:** uno, 18
+**Answer:** one, 18
 [[Quesiti/src_kangourou_2005_cadet_finale#qc5|src_kangourou_2005_cadet_finale__QC5]]
 
 
@@ -217,11 +217,11 @@ Next eclipse of two rotating planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of finalists sum of high figures to itself*
+*Number of finalists sum of digits raised to themselves*
 
-> One conjecture predicts that in 2080 the World Final of Kangourou will be held in Mirabilandia and that the number of finalists: - will have a representation on base 10 consisting of 4 digits all different from 0; - will be the sum of the four numbers that are obtained by raising to itself each of the four digits that appear in the representation (so if, for example, the digits 2 and 7 appear, two of the additions would be $2^2$ and $7^7$).
+> A fortune teller predicts that in 2080 the World Final of Kangourou will be held in Mirabilandia and that the number of finalists: - will have a representation in base 10 consisting of 4 digits all different from 0; - will be the sum of the four numbers that are obtained by raising to itself each of the four digits that appear in the representation (so if, for example, the digits 2 and 7 appear, two of the addends would be $2^2$ and $7^7$).
 > 
-> It determines, through these indications, how many finalists predict the fortune teller for that memorable edition of Kangourou.
+> Determine, thanks to these indications, how many finalists the fortune teller predicts for that memorable edition of Kangourou.
 
 **Answer:** 3435
 [[Quesiti/src_kangourou_2005_cadet_finale#qc6|src_kangourou_2005_cadet_finale__QC6]]

@@ -167,7 +167,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* when approximated to exactly three others*
+* how many adjacent to exactly three others*
 
 ![[src_kangourou_2022_koala__prob4.png]]
 
@@ -199,7 +199,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight ripped from the treasure map *
+*Piece ripped from the treasure map*
 
 ![[src_kangourou_2022_koala__prob5.png]]
 
@@ -235,7 +235,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob6.png]]
 
-> Peter draws these four tiles together to form a square. Which of the following figures can be obtained? (see figure)
+> Peter places these four tiles together to form a square. Which of the following figures can be obtained? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2022_koala#q06|src_kangourou_2022_koala__Q06]]
@@ -267,7 +267,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob7.png]]
 
-> A drop of ink fell on a square piece of paper, as you can see in the picture. How many paintings are stained? (see figure)
+> A drop of ink fell on a piece of squared paper, as you can see in the picture. How many squares are stained? (see figure)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_koala#q07|src_kangourou_2022_koala__Q07]]
@@ -295,11 +295,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cost of the tray*
+*cost of the sandwich*
 
 ![[src_kangourou_2022_koala__prob8.png]]
 
-> Alice and Emma are at the bar. Alice pays 12 euros for a straw and a fruit juice. Emma pays 14 euros for a straw and two fruit juices. How much does a braid cost?
+> Alice and Emma are at the café. Alice pays 12 euros for a sandwich and a fruit juice. Emma pays 14 euros for a sandwich and two fruit juices. How much does a sandwich cost?
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_koala#q08|src_kangourou_2022_koala__Q08]]
@@ -331,7 +331,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob9.png]]
 
-> Gloria wrote a number on the sand and then covered each number with an ant. The result is what you see in the figure. He covered different numbers with different ants and the same numbers with the same ants. Which of the following numbers could be Gloria's number? (see figure)
+> Gloria wrote a number on the sand and then covered each digit with an ant. The result is what you see in the figure. She covered different digits with different ants and the same digits with the same ants. Which of the following numbers could be Gloria's number? (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_koala#q09|src_kangourou_2022_koala__Q09]]
@@ -363,11 +363,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cangaroo to koala by avoiding blue spots*
+*Kangaroo to koala by avoiding blue spots*
 
 ![[src_kangourou_2022_koala__prob10.png]]
 
-> The kangaroo you see in the drawing can move: - only horizontally or vertically - only one square at a time - only without crossing blue-spotted squares. If you want to reach the koala, what's the longest route? The arrows in the answers indicate the direction of the kangaroo's steps. (see figure)
+> The kangaroo you see in the drawing can move: - only horizontally or vertically - only one square at a time - only without crossing blue-spotted squares. If it wants to reach the koala, what's the longest route? The arrows in the answers indicate the direction of the kangaroo's steps. (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_koala#q10|src_kangourou_2022_koala__Q10]]
@@ -431,7 +431,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob12.png]]
 
-> If you look at this pile of records from above, which of the five figures do you see? (see figure)
+> If you look at this pile of discs from above, which of the five figures do you see? (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_koala#q12|src_kangourou_2022_koala__Q12]]
@@ -491,11 +491,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square-sided edge loom 5*
+*Tiles to border a square with side 5*
 
 ![[src_kangourou_2022_koala__prob14.png]]
 
-> Catherine has drawn 3 squares and now she frames them with frames made by drawing together a number of tiles like this one (on the side $\frac{1}{2}$). How many cards do you use to square side five? (see figure)
+> Caterina has drawn 3 squares and now she borders them with frames made by placing many tiles like this one (with side $\frac{1}{2}$). How many tiles does she use to border the square with side 5? (see figure)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_koala#q14|src_kangourou_2022_koala__Q14]]
@@ -527,7 +527,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob15.png]]
 
-> Anna attached these four stickers. He attacked the star after attacking the square, but before attacking the triangle. Which of the following may be the figure you see after Anna completes her play? (see figure)
+> Anna attached these four stickers. She attached the star after attaching the square, but before attaching the triangle. Which of the following may be the figure you see after Anna completes her play? (see figure)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_koala#q15|src_kangourou_2022_koala__Q15]]
@@ -559,7 +559,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob16.png]]
 
-> On the right you see a square sheet. Some paintings have a figure. If you fold the same sheet along the vertical line, how many of the figures on the right side of the vertical line overlap exactly with the similar figures on the left side? (see figure)
+> On the right you see a sheet of grid paper. Some squares contain a figure. If you fold the same sheet along the vertical line, how many of the figures on the right side of the vertical line overlap exactly with the similar figures on the left side? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_koala#q16|src_kangourou_2022_koala__Q16]]
@@ -619,11 +619,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little-sized oil shale*
+*Flowerbed with the smallest area*
 
 ![[src_kangourou_2022_koala__prob18.png]]
 
-> The green figures represent aids. The black circles represent points: the distance of each of them from each of the points closest to it is always the same. What's the shell with the smallest surface area? (see figure)
+> The green figures represent flowerbeds. The small black circles represent points: the distance of each of them from each of the points closest to it is always the same. Which is the flowerbed with the smallest area? (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_koala#q18|src_kangourou_2022_koala__Q18]]
@@ -655,7 +655,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob19.png]]
 
-> Every birthday Mary received a gift of teddy bears: a teddy bear on her first birthday, two on her second birthday, and so on, every birthday she received one more teddy bear than the previous year. And he kept them all. After the party for his sixth birthday, how many bears does he have in all?
+> Every birthday Mary received a gift of teddy bears: a teddy bear on her first birthday, two on her second birthday, and so on, every birthday she received one more teddy bear than the previous year. And she kept them all. After the party for her sixth birthday, how many bears does she have in all?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_koala#q19|src_kangourou_2022_koala__Q19]]
@@ -683,11 +683,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*higher sum of the numbers*
+*highest sum of the numbers*
 
 ![[src_kangourou_2022_koala__prob20.png]]
 
-> Dino moves from the entrance to the exit of this house through the rooms and can't go through a room more than once. Dino sums up all the numbers he finds in the rooms he's going through. What's the highest amount Dino can get? (see figure)
+> Dino moves from the entrance to the exit of this house through the rooms and can't go through a room more than once. Dino sums up all the numbers he finds in the rooms he's going through. What's the highest sum Dino can get? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_koala#q20|src_kangourou_2022_koala__Q20]]
@@ -798,7 +798,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob22.png]]
 
-> Kanga's car can only turn right; it can never turn left. Which of the following roads can you take, if you choose the starting point appropriately? (see figure)
+> Kanga's car can only turn right; it can never turn left. Which of the following roads can it take, if you choose the starting point appropriately? (see figure)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_koala#q22|src_kangourou_2022_koala__Q22]]
@@ -830,7 +830,7 @@ level: kangourou
 
 ![[src_kangourou_2022_koala__prob23.png]]
 
-> There are 30 schoolchildren in a classroom, boys and girls. Each bench has two seats and each child has a girl as a bench partner. However, only half of the girls have a child as a partner. How many kids are in that class?
+> There are 30 schoolchildren in a classroom, boys and girls. Each bench has two seats and each child has a girl as a bench partner. However, only half of the girls have a boy as a partner. How many kids are in that class?
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_koala#q23|src_kangourou_2022_koala__Q23]]

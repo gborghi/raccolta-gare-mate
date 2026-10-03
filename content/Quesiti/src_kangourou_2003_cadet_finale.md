@@ -36,9 +36,9 @@ level: kangourou
 
 ![[src_kangourou_2003_cadet_finale__probc1.png]]
 
-> The figure represents a square obtained by approximating 9 smaller squares. You must enter all the numbers from $1$ to $9$, one per square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
+> The figure represents a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one per square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
 
-**Answer:** disposizione
+**Answer:** arrangement
 [[Quesiti/src_kangourou_2003_cadet_finale#qc1|src_kangourou_2003_cadet_finale__QC1]]
 
 
@@ -63,9 +63,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum balls by 15 of the same colour*
+*Minimum balls for 15 of the same colour*
 
-> A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be extracted to be sure that they have at least $15$ of the same colour?
+> A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be drawn to be sure in advance of having at least $15$ of the same colour?
 
 **Answer:** 75
 [[Quesiti/src_kangourou_2003_cadet_finale#qc2|src_kangourou_2003_cadet_finale__QC2]]
@@ -141,7 +141,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary lengths of the 7 parallel segments*
+*Sum of lengths of the 7 parallel segments*
 
 ![[src_kangourou_2003_cadet_finale__probc4.png]]
 
@@ -164,7 +164,7 @@ level: kangourou
 \end{document}
 ```
 
-> The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the $BC$ catheter, each having one end on the $AB$ catheter and the other on the hypotenuse. The length of the $BC$ catheter is $10$ meters. What is the sum of the lengths of these $7$ segments?
+> The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the leg $BC$, each having one end on the leg $AB$ and the other on the hypotenuse. The leg $BC$ is $10$ meters long. What is the sum of the lengths of these $7$ segments?
 
 **Answer:** 35
 [[Quesiti/src_kangourou_2003_cadet_finale#qc4|src_kangourou_2003_cadet_finale__QC4]]
@@ -190,7 +190,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time between the overlapping of the tiles*
+*Time between the overlapping of the hands*
 
 > The hour hand of a clock completes a complete turn in $12$ hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
 
@@ -221,7 +221,7 @@ level: kangourou
 
 *Seven digit integers divisible by 2003*
 
-> What are the positive integers of $7$ digits divisible by $2003$?
+> How many positive integers of $7$ digits divisible by $2003$?
 
 **Answer:** 4493
 [[Quesiti/src_kangourou_2003_cadet_finale#qc6|src_kangourou_2003_cadet_finale__QC6]]

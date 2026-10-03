@@ -96,9 +96,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer numbers between 20-radq21 and 20+radq21*
+*Integer numbers between 20-√21 and 20+√21*
 
-> How many integers are between 20  √21 and 20 + √21? A) 9
+> How many integers are between 20 – √21 and 20 + √21? A) 9
 > 	
 > B) 10
 > 	
@@ -142,15 +142,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Surface area of a broken cube parallel-piped*
+*Surface area of a rectangular parallelepiped from a broken cube*
 
-> A cube whose beam measures 1 is broken into two identical parallel pipes (rectangles). What is the surface area of one of these parallel pipes? A)
+> A cube whose edge measures 1 is broken into two identical (rectangular) parallelepipeds.
+> What is the surface area of one of these parallelepipeds?
+> A) 	
 > 	
-> B) 2
+> B) 2	
 > 	
-> C) 3
+> C) 3	
 > 	
-> D) 4
+> D) 4	
 > 	
 > E) 5
 
@@ -273,21 +275,49 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Direction of the slope of the axle as seen from two points*
+*Direction of inclination of the pole seen from two points*
 
 ![[src_kangourou_2021_student_gara__prob5.png]]
 
-> The storm tonight made the flagpole tilt in the backyard of our school. Whether viewed from the north-west or viewed from the east, the tip of the mast is visible to the right of its base. In which of the directions shown in the figures can the axle be tilted? A)
+> Last night's storm tilted the flagpole in our school's garden. Whether looking from the northwest or looking from the east, the tip of the pole appears to the right of its base. In which of the directions shown in the figures can the pole be tilted?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
-> (e) The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and with the opinion of the Committee on Budgetary Control and the Committee on Budgetary Control.
+> E) 
+> Fri
+> Sat   Sun   Mon    Tue     Wed    Thu
+> −1° C −4° C 0° C
+> 0° C
+> 3° C −3° C −5° C
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
 > 
-> x y 0
+> x
+> y
+> 0
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_student_gara#q05|src_kangourou_2021_student_gara__Q05]]
@@ -358,15 +388,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The largest of the powers and roots of x=root
+*The largest among powers and roots of x=root*
 
-> Let 's say x is equal . Of the following numbers, which is the largest? A) x4
+> Let x =     . Among the following numbers, which is the largest?
+> A) x4	
 > 	
-> B) x2
+> B) x2	
 > 	
-> C) x
+> C) x	
 > 	
-> D) √x
+> D) √x	
 > 	
 > E) √x
 
@@ -497,7 +528,7 @@ The largest of the powers and roots of x=root
 
 ![[src_kangourou_2021_student_gara__prob10.png]]
 
-> The parabola in the figure is represented by an equation of the form y = ax2 + bx + c with distinct real numbers a, b and c. Which of the following equations can represent the line drawn in the figure? A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a I questions from N. 11 al N. 20 is worth 4 points each.
+> The parabola in the figure is represented by an equation of the form y = ax2 + bx + c with distinct real numbers a, b and c. Which of the following equations can represent the line drawn in the figure? A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_student_gara#q10|src_kangourou_2021_student_gara__Q10]]
@@ -533,15 +564,16 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of odd divisors by 7!*
+*Fraction of odd divisors of 7!*
 
-> What a fraction of the sum of the divisors of 7! It's made up of odd numbers? A)
+> What fraction of the set of divisors of 7! is made up of odd numbers?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
 > E)
 
@@ -576,9 +608,9 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A combination of the numbers a+b with a in A and b in B*
+*The set of the numbers a+b with a in A and b in B*
 
-> Both A = (0, 1) ∪ (2, 3) the union of the real intervals (0, 1) and (2, 3); and B = (1, 2) ∪ (3, 4). What is the sum of the numbers a + b with a in A and b in B ? A) (1, 7) B) (1, 5) ∪ (5, 7) C) (1, 3) ∪ (3, 7) D) (1, 3) ∪ (3, 5) ∪ (5, 7) E) None of the above answers are correct.
+> Let A = (0, 1) ∪ (2, 3) be the union of the real intervals (0, 1) and (2, 3); and B = (1, 2) ∪ (3, 4). What is the set of the numbers a + b with a in A and b in B ? A) (1, 7) B) (1, 5) ∪ (5, 7) C) (1, 3) ∪ (3, 7) D) (1, 3) ∪ (3, 5) ∪ (5, 7) E) None of the above answers are correct.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_student_gara#q12|src_kangourou_2021_student_gara__Q12]]
@@ -633,9 +665,9 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where the three-digit numbers inverted increase by 99*
+*How many three-digit numbers increase by 99 when reversed*
 
-> For a positive integer with 3 significant digits, consider the following property: by writing the digits in reverse order you get a number, always 3 digits, greater than 99 units than the original. How many three-digit numbers have this property? A) 8
+> For a positive integer with 3 significant digits, consider the following property: by writing the digits in reverse order you get a number, always 3 digits, greater by 99 units than the original. How many three-digit numbers have this property? A) 8
 > 	
 > B) 64
 > 	
@@ -678,9 +710,9 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of odd sums of adjacent terns*
+*Maximum number of odd sums of adjacent triples*
 
-> We want to align, in any order, the first 1000 positive integers and, for each set of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
+> We want to align, in any order, the first 1000 positive integers and, for each triple of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_student_gara#q14|src_kangourou_2021_student_gara__Q14]]
@@ -724,7 +756,7 @@ The largest of the powers and roots of x=root
 
 ![[src_kangourou_2021_student_gara__prob15.png]]
 
-> A triangle is divided into smaller triangles as shown in the figure. The number written on each of the small triangles indicates its perimeter. What is the perimeter of the great triangle? A) 31
+> A triangle is divided into smaller triangles as shown in the figure. The number written on each of the small triangles indicates its perimeter. What is the perimeter of the large triangle? A) 31
 > 	
 > B) 34
 > 	
@@ -766,9 +798,9 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of p(N) product numbers from 10 to 100*
+*Sum of p(N) product of digits from 10 to 100*
 
-> Given a positive integer N, written in decimal form, we denote the product of its digits with p(N: for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)? A) 2025 B) 4500 C) 5005 D) 5050 E) None of the above answers are correct.
+> Given a positive integer N, written in decimal form, we denote the product of its digits with p(N): for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)? A) 2025 B) 4500 C) 5005 D) 5050 E) None of the above answers are correct.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_student_gara#q16|src_kangourou_2021_student_gara__Q16]]
@@ -813,7 +845,7 @@ The largest of the powers and roots of x=root
 
 ![[src_kangourou_2021_student_gara__prob17.png]]
 
-> Each cell of Table 5 × 5 in Figure 5 contains a number, but some numbers are written in white and therefore invisible. You know that the sum of the numbers in each row and in each column is always the same. What is the number in the box given by the question mark? A) 8
+> Each cell of the 5 × 5 table in the figure contains a number, but some numbers are written in white and therefore invisible. You know that the sum of the numbers in each row and in each column is always the same. What is the number in the cell indicated by the question mark? A) 8
 > 	
 > B) 10
 > 	
@@ -868,7 +900,7 @@ The largest of the powers and roots of x=root
 
 ![[src_kangourou_2021_student_gara__prob18.png]]
 
-> A ribbon resting on a table is partially made up of three coins, as shown in the figure. Under each coin the tape can be passed, with equal probability, in one of the following two ways: If you pull the two ends of the tape, what is the probability that a knot will form on the tape? A)
+> A ribbon resting on a table is partially covered by three coins, as shown in the figure. Under each coin the ribbon can pass, with equal probability, in one of the following two ways: If you pull the two ends of the ribbon, what is the probability that a knot will form on the ribbon? A)
 > 	
 > B)
 > 	
@@ -1010,19 +1042,24 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Graph of residual thickness of the rolled roll*
+*Graph of the residual thickness of the unrolled roll*
 
 ![[src_kangourou_2021_student_gara__prob20.png]]
 
-> A roll of paper dryer is inserted into a special support. A very attractive puppy adds an end to it and moves away. Which of the following graphs best represents the residual thickness y of the roll as a function of the length x of the strip of paper already rolled? A)
+> A roll of paper towels is inserted in a suitable holder. A mischievous puppy
+> bites one end and walks away. Which of the following graphs best
+> represents the residual thickness y of the roll as a function of the length x of the strip
+> of paper already unrolled?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
-> E) Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_student_gara#q20|src_kangourou_2021_student_gara__Q20]]
@@ -1066,7 +1103,7 @@ The largest of the powers and roots of x=root
 
 ![[src_kangourou_2021_student_gara__prob21.png]]
 
-> The figure shows the graph of a function f: [5, 5] → R. How many distinct solutions are there to the equation f (f (x)) = 0? A) 2
+> The figure shows the graph of a function f: [–5, 5] → R. How many distinct solutions are there to the equation f (f (x)) = 0? A) 2
 > 	
 > B) 4
 > 	
@@ -1207,11 +1244,69 @@ The largest of the powers and roots of x=root
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the product (s) of the product concerned.
+*Value of the sum f(2)/f(1)+...+f(2021)/f(2020) with f multiplicative*
 
-> The function f is such that for every x, y, f (x + y) = f (x) ∙ f (y); also f (1) = 2. What is the value of + + ... +                   ? A) B) 2 C) 22021 – 1 D) 2020
+> The function f is such that, for every x, y, f (x + y) = f (x) ∙ f (y); moreover f (1) = 2.
+> What is the value of
+>                                     +            + ... +                   ?
+> A) 	
+>      B) 2	  	
+> C) 22021 – 1	
+>      D) 2020	
 >      
-> E) None of the other answers are correct. x y x y 1 1 x y 1 1 x y 1 1 x y 1 1 x y 1 1 O 1 2 3 4 5 –1 –2 –3 –4 –5 1 2 3 4 5 –1 –2 –3 f (2) -------- f (1) f (3) -------- f (2) f (2021) -------------- f (2020) 1---- 2
+> E) None of the other answers is correct.
+> x
+> y
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> O
+> 1
+> 2
+> 3
+> 4
+> 5
+> –1
+> –2
+> –3
+> –4
+> –5
+> 1
+> 2
+> 3
+> 4
+> 5
+> –1
+> –2
+> –3
+>  f (2)
+> -------- 
+>  f (1)
+>  f (3)
+> -------- 
+>  f (2)
+>  f (2021)
+> -------------- 
+>  f (2020)
+>  1---- 
+>  2
 >
 
 **Answer:** E
@@ -1253,11 +1348,11 @@ This is the total value of the product (s) of the product concerned.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Of whom and of whom the kangaroo s*
+Whose child is the little kangaroo s?*
 
 ![[src_kangourou_2021_student_gara__prob24.png]]
 
-> Five kangaroos, called A, B, C, D and E, each have a child that we indicate with the letters s, t, u, v and z. In the photos in the first group, exactly two children are matched to their mother, while in the second group the correct matches are exactly three. Whose son is the kangaroo ? A) A
+> Five kangaroos, called A, B, C, D and E, each have a child that we indicate with the letters s, t, u, v and z. In the photos in the first group, exactly two children are matched to their mother, while in the second group the correct matches are exactly three. Whose child is the little kangaroo s? A) A
 > 	
 > B) B
 > 	
@@ -1314,7 +1409,7 @@ Of whom and of whom the kangaroo s*
 
 ![[src_kangourou_2021_student_gara__prob25.png]]
 
-> The solid in the figure has 12 faces which are regular pentagons, while the other faces are squares or equilateral triangles. Each pentagonal face is adjacent to five square faces while each triangular face is adjacent to three square faces. On each face is a number: 5 on the pentagonal ones, 1 on the triangular ones and 1 on the square ones. What is the sum of all the numbers that appear on the surface of the solid? A) 20
+> The solid in the figure has 12 faces which are regular pentagons, while the other faces are squares or equilateral triangles. Each pentagonal face is adjacent to five square faces while each triangular face is adjacent to three square faces. On each face is a number: 5 on the pentagonal ones, 1 on the triangular ones and -1 on the square ones. What is the sum of all the numbers that appear on the surface of the solid? A) 20
 > 	
 > B) 50
 > 	
@@ -1365,11 +1460,11 @@ Of whom and of whom the kangaroo s*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles separated by 15 points on circumference less than symmetry*
+*Distinct triangles from 15 points on a circumference up to symmetry*
 
 ![[src_kangourou_2021_student_gara__prob26.png]]
 
-> 15 points are evenly distributed (i.e. the distance between two adjacent points is constant) over a circumference. Triangles are formed by choosing as vertices three of these points in every possible way. If we consider two triangles which are identical and can be obtained by rotation or reflection, how many different triangles can be generated? A) 19
+> 15 points are evenly distributed (i.e. the distance between two adjacent points is constant) over a circumference. Triangles are formed by choosing as vertices three of these points in every possible way. If we consider two triangles that can be obtained one from the other by rotation or reflection as identical, how many different triangles can be generated? A) 19
 > 	
 > B) 91
 > 	
@@ -1507,7 +1602,7 @@ Of whom and of whom the kangaroo s*
 
 ![[src_kangourou_2021_student_gara__prob28.png]]
 
-> Two flat mirrors OP and OQ form a sharp ring. An XY beam of light parallel to QO hits the OP mirror in Y. The beam is flexed and hits the OQ mirror, reflected again and hits the OP mirror, reflected a third time and hits the OQ mirror in R by forming a right angle, as suggested in the next sketch, which otherwise only illustrates the sequence of reflections, without any precision being claimed about the width of angles. You know the OR distance is 5cm. What is the distance d in centimetres between the X-ray and the OQ mirror? A) 4
+> Two flat mirrors OP and OQ form an acute angle. A ray of light XY parallel to QO hits the OP mirror in Y. The ray is reflected and hits the OQ mirror, reflected again and hits the OP mirror, reflected a third time and hits the OQ mirror in R by forming a right angle, as suggested in the next sketch, which otherwise only illustrates the sequence of reflections, without any precision being claimed about the width of angles. You know the OR distance is 5cm. What is the distance d in centimetres between the ray XY and the OQ mirror? A) 4
 > 	
 > B) 4,5
 > 	
@@ -1553,11 +1648,10 @@ Of whom and of whom the kangaroo s*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimo valore di M(k) massimo di |4x^2-4x+k| su [-1,1]*
+*Minimum value of M(k), the maximum of |4x^2-4x+k| on [-1,1]*
 
-> Sia M(k) il massimo valore di | 4x2 – 4x + k | al variare di x nell’intervallo [–1,1], 
-> dove il parametro k può essere qualunque numero reale. Al variare di k, qual è il mi­
-> nimo valore possibile di M(k)?
+> Let M(k) be the maximum value of | 4x2 – 4x + k | as x varies in the interval [–1,1], 
+> where the parameter k can be any real number. As k varies, what is the minimum possible value of M(k)?
 > A) 4	
 > 	
 > B) 	
@@ -1622,7 +1716,7 @@ Of whom and of whom the kangaroo s*
 
 *Probability of A winning by 3 points *
 
-> The rules of a certain two-player game state that, in order to win, one of the players must be able to gain a 3-point advantage over the other. A and B are playing, and right now, A has a point advantage. If there is a point at each turn and the two players have the same chance of winning it, what is the probability that A will win the final? (You can assume that there is a winner, that is, that the game cannot go on forever.) A)
+> The rules of a certain two-player game state that, in order to win, one of the players must be able to gain a 3-point advantage over the other. A and B are playing, and right now, A has a point advantage. If a point is at stake at each turn and the two players have the same chance of winning it, what is the probability that A will win in the end? (You can assume that there is a winner, that is, that the game cannot go on forever.) A)
 > 	
 > B)
 > 	
@@ -1630,7 +1724,7 @@ Of whom and of whom the kangaroo s*
 > 	
 > D)
 > 	
-> E) O P Q R X Y d 5
+> E)
 > 
 > Student Answers
 >

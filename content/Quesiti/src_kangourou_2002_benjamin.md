@@ -111,7 +111,7 @@ level: kangourou
 
 The euro that John gives to Stephen
 
-> John has 132 euros while Stefano has only 86. How many euros must John give to Stephen for the two to have the same number of euros?
+> John has 132 euros while Stephen has only 86. How many euros must John give to Stephen for the two to have the same number of euros?
 >  
 > A. 23 B. 32 C. 33 D. 43 E. 46
 
@@ -152,12 +152,18 @@ The euro that John gives to Stephen
 
 *Members of the Kangourou family*
 
-> Kangourou's parents have three daughters. Every girl has two brothers. How many members of the Kangourou family are there?
+> Daddy and mummy Kangourou have 3 daughters. Each girl has 2 brothers. How many 
+> members of the Kangourou family are there? 
 >  
-> A. 11 B. 9 C. 8 D. 7 E. 5
+> A. 11 
+>  B. 9  
+> C. 8  
+> D. 7  
+> E. 5 
 >  
 > 
-> I'm not going to lie to you. This item is not intended to be used. 2
+> Benjamin 2002. Page No. 
+> 2
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_benjamin#q04|src_kangourou_2002_benjamin__Q04]]
@@ -195,7 +201,7 @@ The euro that John gives to Stephen
 
 *Minimum mice for one colour of each *
 
-> The magician Antony has 14 grey mice in his magic hat, 8 white and 6 black. What is the minimum number of mice you have to pull out of your magic hat, blindfolded, to be absolutely sure that, among the extracted mice, there is at least one for each color?
+> The magician Antony has 14 grey mice in his magic hat, 8 white and 6 black. What is the minimum number of mice you have to pull out of his magic hat, blindfolded, to be absolutely sure that, among the extracted mice, there is at least one for each color?
 >  
 > A. 23 B. 22 C. 21 D. 15 E. 9
 
@@ -230,11 +236,14 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of the countries of the European Union.
+*Birthday day*
 
-> One day after my birthday, this year, it would have been correct to say, "After tomorrow it's Thursday". What day of the week did I turn 10 this year?
+> One day after my birthday, this year, it would have been correct to say "The day after tomorrow will be a Thursday". On which day of the week did I have my birthday this year?
 >  
-> A. Monday B. Tuesday C. Wednesday D. Thursday E. Friday
+> A. Monday
+> B. Tuesday  
+> C. Wednesday
+> D. Thursday E. Friday
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_benjamin#q06|src_kangourou_2002_benjamin__Q06]]
@@ -262,11 +271,11 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Collana with two thirds black heart*
+*Necklace with two thirds black hearts*
 
 ![[src_kangourou_2002_benjamin__prob7.png]]
 
-> In which of the following collars are two-thirds of the total blackhearts?
+> In which of the following necklaces are two-thirds of the hearts black?
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_benjamin#q07|src_kangourou_2002_benjamin__Q07]]
@@ -304,7 +313,7 @@ This is a list of the countries of the European Union.
 
 *Minimum sweets eaten by Andrea*
 
-> Three children ate a total of 17 sweets. Andrea ate more candy than each of the other children. How many must have eaten at least?
+> Three children ate a total of 17 sweets. Andrea ate more sweets than each of the other children. How many must have eaten at least?
 >  
 > A. 5
 >  
@@ -349,7 +358,7 @@ This is a list of the countries of the European Union.
 
 ![[src_kangourou_2002_benjamin__prob9.png]]
 
-> How many smaller angles of 180°, two by two of different sizes, can be seen in the figure next to each other, if you also consider the angles you get by approaching adjacent angles?
+> How many angles less than 180°, two by two of different measure, can be seen in the figure beside, if you also consider the angles obtained by joining adjacent angles?
 >  
 > A. 6 B. 7 C. 8 D. 9 E. 10
 
@@ -387,18 +396,19 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bags in the third box*
+*Marbles in the third box*
 
-> They want to divide 49 balls into three boxes so that the first box contains half the balls of the second and the second half the balls of the third. How many balls will the third box have to hold?
+> We want to divide 49 marbles into three boxes so that the first box contains 
+> half of the marbles of the second and the second half of the marbles of the third. 
+> How many marbles must the third box contain? 
 >  
-> A. 16 B. 17 C. 7     D. 14 E. 28
->  
->  
->  
->  
->  
-> 
-> I'm not going to lie to you. This item is not intended to be used. 3 Questions from N. 11 al N. Twenty is worth four points.
+>  A. 16 
+>   B. 17   
+> C. 7     D. 14 
+> E. 28 
+> Benjamin 2002. Page N. 
+> 3 
+> Questions from No. 11 to No. 20 are worth 4 points
 
 **Answer:** E
 [[Quesiti/src_kangourou_2002_benjamin#q10|src_kangourou_2002_benjamin__Q10]]
@@ -461,7 +471,7 @@ This is a list of the countries of the European Union.
 \end{document}
 ```
 
-> The area of a rectangle is equal to 1. What is the area of the triangle obtained by cutting the rectangle according to the connecting line the mean points of two consecutive sides (v. (Figure 1)
+> The area of a rectangle is equal to 1. What is the area of the triangle obtained by cutting the rectangle according to the line joining the midpoints of two consecutive sides (see figure)
 >  
 > A. 1 / 3 B. 1 / 4 C. 2 / 5 D. 3 / 8 E. 1 / 8
 
@@ -584,7 +594,7 @@ This is a list of the countries of the European Union.
 
 *Raise the height of the ceiling*
 
-> One room is four meters wide, five meters long and three meters high. It wants to increase its volume by 60 cubic meters, leaving its width and length unchanged. How much do you have to raise the ceiling?
+> One room is four meters wide, five meters long and three meters high. We want to increase its volume by 60 cubic meters, leaving its width and length unchanged. How much do you have to raise the ceiling?
 >  
 > A. 3 m. B. 4 m. C. 5 m. D. 12 m. E. 20 m.
 
@@ -636,23 +646,33 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between coloured areas Q,T,S,P*
+*Relationship between the colored areas Q,T,S,P*
 
 ![[src_kangourou_2002_benjamin__prob15.png]]
 
-> There are 4 equal squares; the midpoints of the sides are shown in the figure with black balls. A certain portion of each square has been painted. The areas of the coloured portions have been designated as Q, T, S, P (see figure). Which of the following reports is true?
+> There are 4 equal squares; the midpoints of the sides have been
+> indicated in the figure with black dots. In each square a certain
+> portion has been colored. The areas of the colored portions
+> have been named Q, T, S, P (see figure).
+> Which of the following relationships is true?
 >  
-> A. S < P < Q = T
+> A. S < P < Q = T 
 >  
-> B. S < Q = T = P C. S < Q = P < T
+> B. S < Q = T = P  
+> C. S < Q = P < T  
 >  
-> D. S < P < Q < T E. P < S < Q < T.
+> D. S < P < Q < T  
+> E. P < S < Q < T. 
 >  
 >  
 >  
-> Q T S P
+> Q
+> T
+> S 
+> P
 > 
-> I'm not going to lie to you. This item is not intended to be used. 4
+> Benjamin 2002. Page N.
+> 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_benjamin#q15|src_kangourou_2002_benjamin__Q15]]
@@ -687,11 +707,18 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False claim on animals*
+*False statement about the animals*
 
-> Fabio, Giulia, Mauro and Nadia each own one animal. Their animals are a dog, a canary, a cat and a red fish. Mauro's animal has hair; Fabio's has 4 legs; Nadia has a little bird and both Julia and Mauro do not own cats. Which of the following is false?
+> Fabio, Giulia, Mauro and Nadia each own only one animal. Their animals 
+> are a dog, a canary, a cat and a goldfish. Mauro's animal has 
+> fur; Fabio's has 4 legs; Nadia has a small bird and both Giulia and Mauro 
+> do not own cats. Which of the following statements is false? 
 >  
-> A. Fabio has a dog B. Nadia has a C-canary. Julia has a D-fish. Fabio has an E cat. Mauro has a dog.
+>      A. Fabio has a dog  
+> B. Nadia has a canary 
+> C. Giulia has a fish 
+> D. Fabio has a cat  
+> E. Mauro has a dog
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_benjamin#q16|src_kangourou_2002_benjamin__Q16]]
@@ -804,9 +831,9 @@ This is a list of the countries of the European Union.
 
 *Color as opposed to white*
 
-> Each face of a cube is painted in a different color. Paul, Andrew and Benedict, one by one, take the cube in their hands and tell what colors they see. Paul: "Blue, white and yellow"; Sandro: "Black, blue and red"; Benedict: "Green, black and white". What color is her face opposite the white one?
+> Each face of a cube is painted in a different color. Paul, Andrew and Benedict, one by one, take the cube in their hands and tell what colors they see. Paul: "Blue, white and yellow"; Andrew: "Black, blue and red"; Benedict: "Green, black and white". What color is the face opposite the white one?
 >  
-> A. Red B. Blue C. black D. Green E. yellow
+> A. Red B. Blue C. Black D. Green E. Yellow
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_benjamin#q19|src_kangourou_2002_benjamin__Q19]]
@@ -844,13 +871,13 @@ This is a list of the countries of the European Union.
 
 *Summary of the weights of the five boys*
 
-> Five guys climb pairs on a scale in every possible combination. The weight of beds is, in kilograms: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding up the weights of the five boys gets
+> Five boys go up on a scale in pairs in every possible combination. The weights read are, in kilograms: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding up the weights of the five boys gives
 >  
 > A. 225 kg B. 230 kg C. 239 kg D. 240 kg E. 247 kg
 >    
 >  
 >  
-> The questions from N. 21 al N. 30 is worth 5 points.
+> The questions from N. 21 to N. 30 are worth 5 points.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2002_benjamin#q20|src_kangourou_2002_benjamin__Q20]]
@@ -887,14 +914,20 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tops eaten by 15 cats in 15 hours*
+*Mice eaten by 15 cats in 15 hours*
 
-> A cat and a half eats a mouse and a half in an hour and a half. How many mice can 15 cats eat in 15 hours?
+> One and a half cats eat one and a half mice in one and a half hours. How many mice 
+> can 15 cats eat in 15 hours? 
 >  
-> A. 15 B. 45 C. 60 D. 125 E. 150
+> A. 15 
+> B. 45  
+> C. 60  
+> D. 125 
+> E. 150 
 >  
 > 
-> I'm not going to lie to you. This item is not intended to be used. 5
+> Benjamin 2002. Page N. 
+> 5
 
 **Answer:** E
 [[Quesiti/src_kangourou_2002_benjamin#q21|src_kangourou_2002_benjamin__Q21]]
@@ -973,7 +1006,7 @@ This is a list of the countries of the European Union.
 
 > The sides of the rectangle in the figure are long a and b. What is the sum of the lengths of the segments drawn within the rectangle, knowing that each segment is parallel to one of the sides?
 >  
-> A. 3(a + b) B. 3a + b C. 3a + 2b D. 2a + 3b E. It 's impossible to answer .
+> A. 3(a + b) B. 3a + b C. 3a + 2b D. 2a + 3b E. impossible to answer
 
 **Answer:** A
 [[Quesiti/src_kangourou_2002_benjamin#q23|src_kangourou_2002_benjamin__Q23]]
@@ -1092,21 +1125,21 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most sum of digits of the sum of digits *
+*Maximum digit sum of the digit sum*
 
-> What is the maximum value of the sum of digits of the sum of digits of a 3-digit number?
+> What is the maximum value of the "sum of the digits of the sum of the digits" of a 
+> 3-digit number? 
 >  
-> A. 9 B. 10 C. 11 D. 12 E. 18
->  
->  
->  
->  
->  
->  
->  
-> a b
+> A. 9 
+> B. 10  
+> C. 11  
+> D. 12  
+> E. 18 
+> a 
+> b 
 > 
-> I'm not going to lie to you. This item is not intended to be used. 6
+> Benjamin 2002. Page N. 
+> 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2002_benjamin#q26|src_kangourou_2002_benjamin__Q26]]
@@ -1142,11 +1175,11 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sizes for 7 slices with one star*
+*Minimum cuts for 7 slices with one star*
 
 ![[src_kangourou_2002_benjamin__prob27.png]]
 
-> John's mother prepares a cake for his son's birthday and decorates the surface with 7 stars by positioning them as in the figure. She wants to divide the cake into 7 parts, even in different sizes, but in such a way that each part contains exactly one star. What is the minimum number of straight cuts to be made on the cake to achieve the goal?
+> John's mother prepares a cake for her son's birthday and decorates the surface with 7 stars by positioning them as in the figure. She wants to divide the cake into 7 parts, even in different sizes, but in such a way that each part contains exactly one star. What is the minimum number of straight cuts to be made on the cake to achieve the goal?
 >  
 >  
 > A. 3 B. 4 C. 5 D. 6 E. 7
@@ -1233,7 +1266,7 @@ This is a list of the countries of the European Union.
 
 *Matches played throughout the tournament*
 
-> 32 teams participate in a volleyball tournament. At each stage of the tournament the teams are divided into groups of four teams. In each group, each team meets the others only once. The top two teams from each group qualify for the next stage, the other two are eliminated. After the final stage (with four teams) the remaining two teams play the final to determine the winning team. How many games will be played throughout the tournament?
+> 32 teams participate in a water polo tournament. At each stage of the tournament the teams are divided into groups of four teams. In each group, each team meets the others only once. The top two teams from each group qualify for the next stage, the other two are eliminated. After the final stage (with four teams) the remaining two teams play the final to determine the winning team. How many games will be played throughout the tournament?
 >  
 > A. 49 B. 89 C. 91 D. 97 E. 181
 
@@ -1300,7 +1333,7 @@ This is a list of the countries of the European Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers in the centre with equal sums*
+*Numbers in the center with equal sums*
 
 ![[src_kangourou_2002_benjamin__prob30.png]]
 
@@ -1319,19 +1352,28 @@ This is a list of the countries of the European Union.
 \end{document}
 ```
 
-> You want to place the numbers from 1 to 7 in the circles of the figure (a number for each circle) so that you get the same sum every time 3 circles are aligned. Which of the following statements is true?
+> We want to place the numbers from 1 to 7 in the circles of the figure (one number per
+> each circle) so that the same sum is obtained every time 3 circles are
+> aligned. Which of the following statements is true?
 >  
-> A. It's impossible to do that.
->  
->  
->  
->  
->      
-> B. There's only one number that can occupy the center circle C. There are exactly two different numbers that can occupy the center circle D. There are exactly three different numbers that can occupy the center circle E. All seven numbers can occupy the center circle.
+> A. it is impossible to do so   
+> B. there is only one number that can occupy the central
+> circle  
+> C. there are exactly two different numbers that can
+> occupy the central circle
+> D. there are exactly three different numbers that can
+> occupy the central circle
+> E. all seven numbers can occupy the central circle.
 >  
 >  
 > 
-> Kangourou Italy Competition of 21 March 2002 Category Benjamin For first and secondary school students Solutions The correct answer is indicated in square brackets after the question number.
+> Kangourou Italia
+> Competition of 21 March 2002
+> Category Benjamin
+> For first- and second-year middle school students
+> Solutions
+> The correct answer is indicated in square brackets
+> after the question number.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2002_benjamin#q30|src_kangourou_2002_benjamin__Q30]]

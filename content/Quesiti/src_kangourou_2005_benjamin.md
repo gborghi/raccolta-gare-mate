@@ -34,9 +34,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the securities issued by the issuer.
+*Value of 2005x100+2005*
 
-> How much is 2005 x 100 plus 2005? A) 2005002005 B) 20052005 C) 2007005 D) 202505 E) 22055
+> What is the value of 2005 x 100 + 2005?
+> A) 2005002005
+> B) 20052005
+> C) 2007005
+> D) 202505
+> E) 22055
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q01|src_kangourou_2005_benjamin__Q01]]
@@ -71,7 +76,7 @@ This is the total value of the securities issued by the issuer.
 
 *Which number is not a multiple of 3*
 
-> Clear picks an integer and multiplies it by 3: which of the following numbers can't be the result? A) 103 B) 105 C) 204 D) 444 E) 987
+> Chiara picks an integer and multiplies it by 3: which of the following numbers can't be the result? A) 103 B) 105 C) 204 D) 444 E) 987
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_benjamin#q02|src_kangourou_2005_benjamin__Q02]]
@@ -111,7 +116,7 @@ This is the total value of the securities issued by the issuer.
 
 ![[src_kangourou_2005_benjamin__prob3.png]]
 
-> There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos that you can change the box if you want every row and column in the table to contain exactly 2 kangaroos. A) 0 B) 1 C) 2 D) 3 E) 4
+> There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want every row and column of the table to contain exactly 2 kangaroos. A) 0 B) 1 C) 2 D) 3 E) 4
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_benjamin#q03|src_kangourou_2005_benjamin__Q03]]
@@ -146,7 +151,7 @@ This is the total value of the securities issued by the issuer.
 
 *Female name initials*
 
-> In a family there are three children: two boys and one girl. Their names start with the letters A, B and C. Between the letters A and B, one and one is the initial of a male's name and so is between the letters B and C. What letter does a female's name begin with? A) A B) B C) C D) the data are insufficient E) the data contradict each other
+> In a family there are three children: two boys and one girl. Their names start with the letters A, B and C. Between the letters A and B, exactly one is the initial of a boy's name and so is between the letters B and C. What letter does the girl's name begin with? A) A B) B C) C D) the data are insufficient E) the data contradict each other
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_benjamin#q04|src_kangourou_2005_benjamin__Q04]]
@@ -185,7 +190,7 @@ This is the total value of the securities issued by the issuer.
 
 ![[src_kangourou_2005_benjamin__prob5.png]]
 
-> The figure shows a cube with a beam of 12 cm. An ant moves on the surface of the cube from tip A to tip B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
+> The figure shows a cube with an edge of 12 cm. An ant moves on the surface of the cube from vertex A to vertex B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q05|src_kangourou_2005_benjamin__Q05]]
@@ -222,11 +227,20 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2005% of 200* calculated
+*Calculating 2005% of 200*
 
-> The 2005% of 200 is A) 401200 B) 401000 C) 4210 D) 4010 B A Benjamin_05_D.qxp 21/02/2005 16.04 Page 10
+> 2005% of 200 equals 
+> A) 401200           B) 401000         C) 4210           D) 4010       
+> B
+> A
+> Benjamin_05_D.qxp  21/02/2005  16.04  Page 10
 > 
-> I'm going to pay. I'm going to pay. 11 11 Kang 2005 Kang 2005 E) You cannot calculate 2005% of a number, you can calculate 100% at most.
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2005
+> Kang 2005
+> E) You cannot calculate 2005% of a number, you can calculate at most 100%.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q06|src_kangourou_2005_benjamin__Q06]]
@@ -261,7 +275,7 @@ This is the total value of the securities issued by the issuer.
 
 *Number of chocolates divided by remainder 8*
 
-> At my birthday party, we were less than 10. We split up the chocolates: each of us had 12 and we're up to 8. How many were the chocolates? A) 116 B) 108 C) 188 D) 98 E) It is not possible to establish it without further information.
+> At my birthday party, we were less than 10. We split up the chocolates: each of us had 12 and 8 were left over. How many were the chocolates? A) 116 B) 108 C) 188 D) 98 E) It is not possible to establish it without further information.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_benjamin#q07|src_kangourou_2005_benjamin__Q07]]
@@ -298,7 +312,7 @@ This is the total value of the securities issued by the issuer.
 
 *Multiple common library shelves*
 
-> A carpenter built a 250-centimeter-tall bookstore, but he placed the supports for the shelves on one side 20 cm apart from each other and on the other side 25 cm apart, always starting from the base. How many perfectly horizontal floors can the library house, including the basement? A) 1 B) 2 C) 3 D) 4 E) 5
+> A carpenter built a 250-centimeter-tall bookcase, but he placed the supports for the shelves on one side 20 cm apart from each other and on the other side 25 cm apart, always starting from the base. How many perfectly horizontal shelves can the library house, including the base? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_benjamin#q08|src_kangourou_2005_benjamin__Q08]]
@@ -335,7 +349,7 @@ This is the total value of the securities issued by the issuer.
 
 *Liter of water to be added per syrup ratio*
 
-> A certain beverage is prepared correctly if it is obtained by mixing 1 part syrup with 5 parts water. Alfonso mistakenly mixed 5 parts of syrup with 1 part of water, resulting in 3 liters of the mixture. By adding an appropriate amount of water, Alfonso can obtain a drink in which the established proportions are respected. How many liters of water can you add? A) 12 B) 12,5 C) 6,5 D) 30 E) 5
+> A certain beverage is prepared correctly if it is obtained by mixing 1 part syrup with 5 parts water. Alfonso mistakenly mixed 5 parts of syrup with 1 part of water, resulting in 3 liters of the mixture. By adding an appropriate amount of water, Alfonso can obtain a drink in which the established proportions are respected. How many liters of water does he need to add? A) 12 B) 12,5 C) 6,5 D) 30 E) 5
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_benjamin#q09|src_kangourou_2005_benjamin__Q09]]
@@ -373,7 +387,7 @@ This is the total value of the securities issued by the issuer.
 
 Who's definitely involved in the theft?
 
-> There was a robbery in a warehouse and the thieves had to use a car to take the refurbishment. After investigating, the police concluded that the perpetrators should be found among Andrea, Bruno and Carlo. It is known that Andrea cannot drive and that Carlo only acts in the company of Bruno. Who's definitely involved in the theft? A) both Bruno and Charles B) each of the three C) only Andrea D) only Bruno E) only Charles I 11 al N. 20 is worth 4 points each.
+> There was a robbery in a warehouse and the thieves had to use a car to take away the loot. After investigating, the police concluded that the perpetrators should be found among Andrea, Bruno and Carlo. It is known that Andrea cannot drive and that Carlo only acts in the company of Bruno. Who's definitely involved in the theft? A) both Bruno and Carlo B) each of the three C) only Andrea D) only Bruno E) only Carlo Questions 11 to 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q10|src_kangourou_2005_benjamin__Q10]]
@@ -439,7 +453,7 @@ Who's definitely involved in the theft?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area partly grown as vegetables in the garden*
+*Area of the vegetable-growing part in the garden*
 
 ![[src_kangourou_2005_benjamin__prob11.png]]
 
@@ -458,9 +472,30 @@ Who's definitely involved in the theft?
 \end{document}
 ```
 
-> In the drawing you can see the garden of the Verdi family: it is rectangular, has an area of 30 m2 and is divided into three rectangular parts. The part where the flowers grow has the indicated side 2 m long and 10 m2 in area. The strawberry-grown part shall have the indicated side 3 m long. What's the area of the vegetable-growing part? A) 4 m2 B) 6 m2 C) 8 m2 D) 10 m2 E) 12 m2 strawberries and vegetables flowers 3 m2 Benjamin_05_D.qxp 21/02/2005 16.04 Page 11
+> In the drawing you see the Verdi family's garden:
+> it is rectangular, has an area of 30
+> m2 and is divided into three rectangular parts. The
+> part where the flowers grow has the indicated side
+> 2 m long and area 10 m2. The part cultivated with
+> strawberries has the indicated side 3 m long. What is
+> the area of the part cultivated with vegetables?
+> A) 4 m2
+> B) 6 m2
+> C) 8 m2
+> D) 10 m2
+> E) 12 m2
+> strawberries
+> vegetables
+> flowers
+> 3 m
+> 2 m
+> Benjamin_05_D.qxp  21/02/2005  16.04  Page 11
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2005 Kang
+> Pag. 
+> Pag. 12
+> 12
+> Kang 2005
+> Kang 2005
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_benjamin#q11|src_kangourou_2005_benjamin__Q11]]
@@ -496,7 +531,7 @@ Who's definitely involved in the theft?
 
 Minimum locks to be opened for 50 coins
 
-> There are five suitcases in a trunk, each containing three drawers, each containing 10 gold coins. The trunks, suitcases and drawers are all locked. What's the minimum number of locks you need to open to get 50 gold coins? A) 5 B) 6 C) 7 D) 8 E) 9
+> There are five suitcases in a trunk, each containing three drawers, each containing 10 gold coins. The trunk, suitcases and small boxes are all locked. What's the minimum number of locks you need to open to get 50 gold coins? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q12|src_kangourou_2005_benjamin__Q12]]
@@ -538,7 +573,7 @@ Minimum locks to be opened for 50 coins
 
 ![[src_kangourou_2005_benjamin__prob13.png]]
 
-> The figure shows 5 rectangles of equal size, each side of which is labelled with an integer. You have to arrange these rectangles, moving them parallel to each other (i.e. without turning them or turning them over), in the positions from I to V indicated, so that the labels on the matching sides are the same. Which of the rectangles do you want to put in position I? A) A B) B C) C D) D E) E
+> The figure shows 5 rectangles of equal size, each side of which is labelled with an integer. You have to arrange these rectangles, translating them parallel to themselves (i.e. without turning them or turning them over), in the positions from I to V indicated, so that the labels on the matching sides are the same. Which of the rectangles must you put in position I? A) A B) B C) C D) D E) E
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_benjamin#q13|src_kangourou_2005_benjamin__Q13]]
@@ -570,7 +605,7 @@ Minimum locks to be opened for 50 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of five consecutive integers summed 2005*
+*Maximum of five consecutive integers with sum 2005*
 
 > If the sum of five consecutive integers greater than zero is 2005, the largest number is A) 401 B) 403 C) 404 D) 405 E) 2001
 
@@ -603,11 +638,11 @@ Minimum locks to be opened for 50 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cube allows the given development*
+*Which cube allows the given net*
 
 ![[src_kangourou_2005_benjamin__prob15.png]]
 
-> Only one of the following cubes admits the development shown on the right. What kind? A)                  B)                   C) D)                              E)
+> Only one of the following cubes admits the net shown on the right. Which one? A)                  B)                   C) D)                              E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_benjamin#q15|src_kangourou_2005_benjamin__Q15]]
@@ -760,9 +795,9 @@ Minimum locks to be opened for 50 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of dividers of 100*
+*Number of divisors of 100*
 
-> How many different divisors between them (including 1 and 100) does the number 100 have? A) 3 B) 6 C) 7 D) 8 E) 9 19.All around a rectangular sheet there is an alleyway which is always the same width along the sides (see figure). The outer perimeter of the driveway is 16 m longer than the inner one. How wide is the driveway? (a) 1 m (b) 2 m (c) 4 m (d) 8 m (e) depends on the dimensions of the flooring
+> How many different divisors (including 1 and 100) does the number 100 have? A) 3 B) 6 C) 7 D) 8 E) 9 19.All around a rectangular flowerbed there is an alleyway which is always the same width along the sides (see figure). The outer perimeter of the driveway is 16 m longer than the inner one. How wide is the driveway? A) 1 m B) 2 m C) 4 m D) 8 m E) depends on the dimensions of the flowerbed
 
 **Answer:** E
 [[Quesiti/src_kangourou_2005_benjamin#q18|src_kangourou_2005_benjamin__Q18]]
@@ -801,7 +836,7 @@ Minimum locks to be opened for 50 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lightness of the road by perimeter difference*
+*Path width from difference of perimeters*
 
 ![[src_kangourou_2005_benjamin__prob19.png]]
 
@@ -816,7 +851,7 @@ Minimum locks to be opened for 50 coins
 \end{document}
 ```
 
-> 19. (B) The difference in length between each outer side and the corresponding inner side is 4 m, so the outer side at each side and the narrowness is 2 m from the inner side; this is the width of the sidewalk.
+> 19. (B) The difference in length between each outer side and the corresponding inner side is 4 m, so the outer side at each of its ends protrudes by 2 m relative to the inner side; this is the width of the path.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_benjamin#q19|src_kangourou_2005_benjamin__Q19]]
@@ -885,7 +920,7 @@ Minimum locks to be opened for 50 coins
 \end{document}
 ```
 
-> It counts how many triangles and how many squares you can find in the figure. How much larger is the number of triangles than the number of squares? A) 0 B) 1 C) 2 D) 3 E) 4 Questions from N. 21 al N. 30 is worth 5 points each.
+> It counts how many triangles and how many squares you can find in the figure. How much larger is the number of triangles than the number of squares? A) 0 B) 1 C) 2 D) 3 E) 4 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q20|src_kangourou_2005_benjamin__Q20]]
@@ -925,11 +960,22 @@ Minimum locks to be opened for 50 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of digits less than 208359*
+*Maximum sum of digits of a number less than 208359*
 
-> The sum of the digits of an integer less than 208359 (and greater than zero) may be at most A) 26 B) 35 C) 45 D) 46 E) 50 Benjamin_05_D.qxp 21/02/2005 16.04 Page 13
+> The sum of the digits of a positive integer less than 208359 (and
+> greater than zero) can be at most
+> A) 26
+> B) 35
+> C) 45
+> D) 46
+> E) 50
+> Benjamin_05_D.qxp  21/02/2005  16.04  Page 13
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2005 Kang
+> Pag. 
+> Pag. 14
+> 14
+> Kang 2005
+> Kang 2005
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q21|src_kangourou_2005_benjamin__Q21]]
@@ -965,7 +1011,7 @@ Minimum locks to be opened for 50 coins
 
 *How many hours a day the sign is true*
 
-> From noon to midnight, Snoopy sleeps in her crib and from midnight to midnight she tells fairy tales. There's a sign on the cuff that says, "Two hours ago, Snoopy was doing the same thing he'll do in an hour". How many hours a day does what's written on the billboard match the real thing? A) 3 B) 6 C) 12 D) 18 E) 21
+> From noon to midnight, Snoopy sleeps in her crib and from midnight to noon she tells fairy tales. There's a sign on the doghouse that says, "Two hours ago, Snoopy was doing the same thing she'll do in an hour". How many hours a day does what's written on the sign match the real thing? A) 3 B) 6 C) 12 D) 18 E) 21
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q22|src_kangourou_2005_benjamin__Q22]]
@@ -1108,7 +1154,7 @@ How many of the seven dwarfs lie
 
 *Months beginning and ending on the same day of the week*
 
-> From the beginning of 2005 to all of 2025, how many months start and end on the same day of the week? A) 5 B) 20 C) 21 D) 147 E) 16
+> From the beginning of 2005 through the end of 2025, how many months start and end on the same day of the week? A) 5 B) 20 C) 21 D) 147 E) 16
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_benjamin#q26|src_kangourou_2005_benjamin__Q26]]
@@ -1153,7 +1199,7 @@ How many of the seven dwarfs lie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Clock digits readable upside down*
+*Clock digits readable in a mirror*
 
 ![[src_kangourou_2005_benjamin__prob27.png]]
 
@@ -1210,7 +1256,7 @@ How many of the seven dwarfs lie
 
 ![[src_kangourou_2005_benjamin__prob28.png]]
 
-> There are strange mountains in Kangaland. You can see the pictures below on the first line. On the second line these mountains are represented in a plan that highlights the contours of the sections of these mountains with horizontal planes imagined to be drawn at the following four levels (equally spaced): 0, 250, 500, 750 meters above sea level. The plants are not in the same order as the photos. Do you know how to rearrange them properly? A) 3412 B) 3214 C) 3421 D) 1324         E) 3241
+> There are strange mountains in Kangaland. You can see the pictures below on the first line. On the second line these mountains are represented in a plan that highlights the contours of the sections of these mountains with horizontal planes imagined to be drawn at the following four levels (equally spaced): 0, 250, 500, 750 meters above sea level. Due to a cartographer's error, the plans are not in the same order as the photos. Do you know how to rearrange them properly? A) 3412 B) 3214 C) 3421 D) 1324         E) 3241
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_benjamin#q28|src_kangourou_2005_benjamin__Q28]]
@@ -1246,7 +1292,7 @@ How many of the seven dwarfs lie
 
 *Sitting at the right end of the bench*
 
-> Dora, Lara, Mara, Sara and Vera are sitting on a bench. Mara doesn't sit at the right end and Dora doesn't sit at the left end. Sara doesn't sit on either end. Vera is not sitting next to Sara and Sara is not sitting next to Dora. Lara is sitting to Dora's right, but not necessarily beside her. Which of the five girls is sitting on the right end of the bench? (A) cannot be established (B) True (C) Sara (D) Lara (E) Dora
+> Dora, Lara, Mara, Sara and Vera are sitting on a bench. Mara doesn't sit at the right end and Dora doesn't sit at the left end. Sara doesn't sit on either end. Vera is not sitting next to Sara and Sara is not sitting next to Dora. Lara is sitting to Dora's right, but not necessarily beside her. Which of the five girls is sitting on the right end of the bench? (A) cannot be established (B) Vera (C) Sara (D) Lara (E) Dora
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_benjamin#q29|src_kangourou_2005_benjamin__Q29]]

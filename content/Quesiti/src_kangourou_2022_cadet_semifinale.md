@@ -42,7 +42,7 @@ level: kangourou
 
 ![[src_kangourou_2022_cadet_semifinale__prob1.png]]
 
-> (2 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
+> (2 points) Palloni Gonfiati has ordered a stamp bearing its name. The figure shows five stamps that were delivered to it, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only 5. B) Only 1. C) Only 2 and 5. D) Only 3 and 4. E) Only 4 and 5.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q01|src_kangourou_2022_cadet_semifinale__Q01]]
@@ -83,7 +83,7 @@ level: kangourou
 
 ![[src_kangourou_2022_cadet_semifinale__prob2.png]]
 
-> (3 points) Between 6:00 a.m. and 12:00 a.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
+> (3 points) Between 6:00 a.m. and 12:00 p.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
 >  
 > B) 11 C) 10 D) 6
 >  
@@ -126,9 +126,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unit number of final product 2021-2029*
+*Units digit of final product 2021-2029*
 
-> (3 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, selects two randomly, eliminates them, and replaces them with their product. It proceeds on the eight numbers remaining the same by getting seven and so on, until there is only one number left on the sheet. What is the unit number of this number? A) 0
+> (3 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, selects two randomly, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining in the same way, obtaining seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
 >  
 > B) 2
 >  
@@ -175,11 +175,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additional meadows for grass from 25 to 30 metres (fraction) *
+*Supplementary fertilizer for a lawn from 25 to 30 meters (fraction)*
 
-> (4 points) A certain quantity of manure is required to fertilize a 25 square metre lawn. Which of the following figures is closest to the amount of additional fertilizer needed to fertilise a 30 square metre lawn in the same way? A) q/6
+> (4 points) To fertilize a square lawn with a side of 25 meters, a certain quantity q of
+> fertilizer is needed. Which of the following numbers is closest to the amount of supplementary fertilizer needed
+> to fertilize, in the same way, a square lawn with a side of 30 meters?
+> A) q/6
 >  
-> B) q/5 C) q/4 D) q/3 E) q/2 1 2 3 4 5
+> B) q/5  
+> C) q/4  
+> D) q/3  
+> E) q/2 
+> 1 
+> 2 
+> 3 
+> 4
+> 5
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q04|src_kangourou_2022_cadet_semifinale__Q04]]
@@ -258,7 +269,7 @@ level: kangourou
 \end{document}
 ```
 
-> (4 points) In the figure you can see a square on the edge of which Ada and Bice train to run, each without ever changing direction, but we don't know whether in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is four times Bice's. Right now Ada is on top A while Bice is on top B. How many of the following statements are correct? Ada and Bice will never be together at summit B. Ada and Bice will never be together at C Summit. Ada and Bice will never be together at summit D. - Sometimes Ada and Bice will be together at summit A. Ada and Bice can't be together except at one of the summits. (A) 0 (none)
+> (4 points) In the figure you can see a square on the edge of which Ada and Bice train to run, each without ever changing direction, but we don't know whether in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is four times Bice's. Right now Ada is on vertex A while Bice is on vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. A) 0 (none)
 >  
 > B) 1
 >  
@@ -308,7 +319,7 @@ level: kangourou
 
 ![[src_kangourou_2022_cadet_semifinale__prob6.png]]
 
-> (4 points) The straight circular cylinder in the figure is 8 cm high and the base circumference is 12 cm long. The two diameters shown in the two bases are parallel. An ant starts from the A-end of the diameter of the lower base and wants to reach the B-end of the diameter of the upper base, moving on the lateral surface of the cylinder. How many centimeters is the shortest path you can take? A) 8
+> (4 points) The straight circular cylinder in the figure is 8 cm high and the base circumference is 12 cm long. The two diameters shown in the two bases are parallel. An ant starts from the A-end of the diameter of the lower base and wants to reach the B-end of the diameter of the upper base, moving on the lateral surface of the cylinder. How many centimeters is the shortest path it can take? A) 8
 >  
 > B) 10 C) 14 D) 15 E) 20
 
@@ -350,7 +361,7 @@ level: kangourou
 
 *Most likely number of people who knew the answer *
 
-> Kangourou's closed answer question, with 5 answer options, was answered by 10,000 students. Of these, some have been able to determine the correct answer based on their knowledge, others have tried to guess by choosing quite randomly among the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
+> A Kangourou multiple-choice question like this, with 5 answer options, was answered by 10,000 students. Of these, some have been able to determine the correct answer based on their knowledge, others tried to guess by choosing completely at random among the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
 >  
 > C) 1.500
 >  
@@ -395,9 +406,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the numbers can be the sum (switched figure) *
+*How many of the numbers can be the sum (moved digit) *
 
-> (5 points) Simona writes an integer of four digits, then raises her last digit and moves it head to the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
+> (5 points) Simona writes an integer of four digits, then removes its last digit and moves it to the front of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
 >  
 > B) 1
 >  
@@ -487,7 +498,7 @@ level: kangourou
 
 *Distance between oases A and B with two camels*
 
-> (4 points) In the desert, two oases A and B are at the ends of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many miles apart are the two oases?
+> (4 points) In the desert, two oases A and B are at the ends of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many kilometers apart are the two oases?
 
 **Answer:** 12
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q10|src_kangourou_2022_cadet_semifinale__Q10]]
@@ -514,7 +525,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient number of 111...999 divided by 111*
+*Number of digits of the quotient of 111...999 divided by 111*
 
 > (5 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 
@@ -550,7 +561,7 @@ level: kangourou
 
 How many cherries did Donatella eat
 
-> (5 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without advancing any. One kept it for himself and the others gave it to his friends. Donatella ate all her cherries right away. So three of her friends gave her, each, exactly a quarter of the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
+> (5 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without any left over. She kept one for herself and gave the others to her friends. Donatella ate all her cherries right away. So three of her friends gave her, each, exactly a quarter of the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
 
 **Answer:** 189
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q12|src_kangourou_2022_cadet_semifinale__Q12]]
@@ -586,7 +597,7 @@ How many cherries did Donatella eat
 
 ![[src_kangourou_2022_cadet_semifinale__prob13.png]]
 
-> (6 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
+> (6 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q13|src_kangourou_2022_cadet_semifinale__Q13]]
@@ -618,7 +629,7 @@ How many cherries did Donatella eat
 
 *How to sit in cars with constraints*
 
-> (6 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
+> (6 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while there are no constraints on the remaining two. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q14|src_kangourou_2022_cadet_semifinale__Q14]]
@@ -647,7 +658,7 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unused digit by writing 2022 as a sum of three digits*
+*Unused digit by writing 2022 as a sum of three numbers*
 
 > (6 points) The number 2022 can be written as the sum of three numbers that in total use 9 of the 10 digits each exactly once. What number is not used in the sum? Write 9999 if you think there's more than one possible answer.
 
@@ -684,9 +695,9 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum operations to be achieved by 2022 by 1*
+*Minimum operations to reach 2022 from 1*
 
-> (7 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add up 4. Starting from number 1 and running in sequence one at a time operations like these on the road results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
+> (7 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add up 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
 >  
 > A B C
 
@@ -723,7 +734,13 @@ How many cherries did Donatella eat
 
 *How many pairs m,n with 1/m+1/n=1/3*
 
-> (7 points) How many pairs of integers m, n with m  n satisfy the equality 1 m + 1 n = 13?
+> (7 points) How many pairs of integers m, n with m  n satisfy the equality   
+> 1
+> 𝑚+ 
+> 1
+> 𝑛= 
+> 1
+> 3 ?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2022_cadet_semifinale#q17|src_kangourou_2022_cadet_semifinale__Q17]]

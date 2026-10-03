@@ -29,9 +29,10 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First between 11^2 and 12^2 sum of two squares*
+*Prime between 11^2 and 12^2 sum of two squares*
 
-> First number What is the first number between 112 and 122 that is the sum of two squares?
+> Prime number 
+> What is the prime number between 112 and 122 that is the sum of two squares?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q01|src_kangourou_2021_squadre_finale__Q01]]
 
@@ -62,7 +63,7 @@ level: squadre
 
 *How many households on the bus (sum of km 2021) *
 
-> Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families travel. Every family is exactly made up of father, mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travelers, including driver, you get 2021. How many families are there?
+> Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families are travelling. Each family consists of exactly a father, a mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travellers, including the driver, gives 2021. How many families are there?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q02|src_kangourou_2021_squadre_finale__Q02]]
 
@@ -93,7 +94,7 @@ level: squadre
 
 *Maximum opposite sum of products of sequence 0,1,-1*
 
-> Product sum Any term in a sequence of 2021 integers is 1 or 0 or −1. For each unordered pair of terms in the sequence, the product of the terms that make up the sequence is executed; all the products obtained are added. When we vary all the possible sequences of this kind, what is the maximum value we can get for the opposite of this sum?
+> Product sum Any term in a sequence of 2021 integers is 1 or 0 or −1. For each unordered pair of terms in the sequence, the product of the terms that make up the pair is computed; all the products obtained are added. When we vary all the possible sequences of this kind, what is the maximum value we can get for the opposite of this sum?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q03|src_kangourou_2021_squadre_finale__Q03]]
 
@@ -156,7 +157,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of weights of 5-digit numbers with 1.5.*
+*sum of weights of 5-digit numbers with 1..5.*
 
 > We call the weight of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the weight of 5142 is 4. Consider all the positive five-digit integers that you can write using for each of them all the digits 1, 2, 3, 4, 5 and add up their weights: what number do you get?
 
@@ -188,7 +189,7 @@ level: squadre
 
 *AEG triangle area with two adjacent squares*
 
-> The triangle The side of an ABCD square measures 19 cm. On the CD side a G-point is located and, externally to the ABCD square, the 14 cm side GCEF square is constructed. What is the area in square centimetres of the AEG triangle?
+> The side of a square ABCD measures 19 cm. On the CD side a point G is located and, externally to the ABCD square, the square GCEF with side 14 cm is constructed. What is the area in square centimetres of the AEG triangle?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q06|src_kangourou_2021_squadre_finale__Q06]]
 
@@ -221,7 +222,7 @@ level: squadre
 
 *Bus speed (order to two distributors) *
 
-> The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order of buses, cars, trucks. What is the speed of the bus in km/h?
+> The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order bus, car, truck. What is the speed of the bus in km/h?
 >  
 > ϕ
 
@@ -254,9 +255,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much does Francesco have (residues and liabilities)
+*How many euros does Francesco have (remainders and constraints)*
 
-> Coin When he emptied his saviour to count his savings, Francis discovered that it contained only one euro coins. He arranged them in stacks of three coins each and got a euro in advance. Then he arranged them in stacks of four coins each and got another euro. The same thing happened when he arranged them in piles of five euros each. With these savings, Francesco could buy a 65-euro book, but not a 150-euro ticket. How many euros does Francesco have?
+> Coins
+> When he emptied his piggy bank to count his savings, Francesco discovered that it
+> contained only 1-euro coins. He arranged them in piles of 3 coins each and had one euro left over.
+> So he arranged them in piles of 4 coins each and again had one euro left over. The same thing
+> happened when he arranged them in piles of 5 euros each. With these savings Francesco could
+> buy a book costing 65 euros, but not the ticket for a trip costing 150 euros.
+> How many euros does Francesco have?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q08|src_kangourou_2021_squadre_finale__Q08]]
 
@@ -282,9 +289,9 @@ How much does Francesco have (residues and liabilities)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of vertices (angles in arithmetic progression) *
+*Number of vertices (angles in arithmetic progression) *
 
-> How many peaks? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
+> How many vertices? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q09|src_kangourou_2021_squadre_finale__Q09]]
 
@@ -311,9 +318,9 @@ How much does Francesco have (residues and liabilities)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres from 1 to 2021 without the digit 6*
+*Integers from 1 to 2021 without the digit 6*
 
-> Without six John writes all integers from 1 to 2021 except those containing the number 6. How many numbers does he write?
+> Without six John writes all integers from 1 to 2021 except those containing the digit 6. How many numbers does he write?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q10|src_kangourou_2021_squadre_finale__Q10]]
 
@@ -343,7 +350,7 @@ How much does Francesco have (residues and liabilities)
 
 *Solutions (X,Y) with 135X6Y divisible by 12*
 
-> The letters Mauro must replace with a digit each letter appearing in the 135X6Y alignment so that the resulting number is divisible by 12. How many solutions (X,Y) does this problem admit? (It is not excluded that X may coincide with Y).
+> The letters Mauro must replace with a digit each letter appearing in the number 135X6Y so that the resulting number is divisible by 12. How many solutions (X,Y) does this problem admit? (It is not excluded that X may coincide with Y).
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q11|src_kangourou_2021_squadre_finale__Q11]]
 
@@ -374,7 +381,7 @@ How much does Francesco have (residues and liabilities)
 
 *The last four digits of the largest strongest number *
 
-> Numbers  strong Let's say a number is  strong if every pair of its consecutive digits is a number that is power, at least second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the number of thousands, the number of hundreds, etc. in the order.
+> Numbers "strong" Let's say a number is "strong" if every pair of its consecutive digits is a number that is a power, at least of second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the digit of the thousands, that of the hundreds, etc. in order.
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q12|src_kangourou_2021_squadre_finale__Q12]]
 
@@ -404,7 +411,7 @@ How much does Francesco have (residues and liabilities)
 
 *F in cents (gift collection) *
 
-> Alice's birthday present is at a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each child. How many cents is the quotient of the division M: F ?
+> Alice's birthday is during a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each boy. How many cents is the quotient of the division M: F ?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q13|src_kangourou_2021_squadre_finale__Q13]]
 
@@ -459,7 +466,7 @@ How much does Francesco have (residues and liabilities)
 \end{document}
 ```
 
-> Black rectangle The black rectangle in the figure has dimensions of 8 × 4. It is located in the intersection between the edge of a square and the inscribed circumference, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
+> Black rectangle The black rectangle in the figure has dimensions of 8 × 4. It is located in the gap between the edge of a square and the inscribed circle, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q14|src_kangourou_2021_squadre_finale__Q14]]
 
@@ -489,8 +496,8 @@ How much does Francesco have (residues and liabilities)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little advance number of 4 digits *
+*Smallest early number of 4 digits *
 
-> If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called advance. What's the smallest four-digit advance number?
+> If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called early numbers. What's the smallest four-digit early number?
 
 [[Quesiti/src_kangourou_2021_squadre_finale#q15|src_kangourou_2021_squadre_finale__Q15]]

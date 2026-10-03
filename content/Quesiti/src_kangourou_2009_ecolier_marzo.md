@@ -36,9 +36,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For what amount is the balance needed (coin) *
+*For what amount is change needed (coins) *
 
-> You have a five-euro banknote, a two-euro coin and a one-euro coin in your pocket and you must pay one of the following amounts: A) 3 € B) 4 € C) 6 € D) 7 € E) 8 € Which of these must you necessarily expect the rest?
+> You have a five-euro banknote, a two-euro coin and a one-euro coin in your pocket and you must pay one of the following amounts: A) 3 € B) 4 € C) 6 € D) 7 € E) 8 € For which of these must you necessarily wait for change?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q01|src_kangourou_2009_ecolier_marzo__Q01]]
@@ -110,7 +110,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extremity of six and a half rods*
+*Ends of six and a half sticks*
 
 > Four sticks have a total of eight ends. How many ends do six and a half sticks have in all? A) 6 B) 8 C) 12 D) 13 E) 14
 
@@ -197,9 +197,9 @@ How many cubes did Anna take away?
 
 *How many times 6 in four rounds with a total of 23*
 
-> Enrica has thrown a dice four times. The sides of the dice are numbered from 1 to 6 and, adding up the scores on each roll, Enrica has totaled 23. How many times did you get 6? A) 0 B) 1 C) 2 D) 3 E) 4 Texts_09.qxp 15-04-2009 20:23 Page 5
+> Enrica has thrown a die four times. The faces of the die are numbered from 1 to 6 and, adding up the scores on each roll, Enrica has totaled 23. How many times did she get 6? A) 0 B) 1 C) 2 D) 3 E) 4 Texts_09.qxp 15-04-2009 20:23 Page 5
 > 
-> I'm going to pay. I'm going to pay. 6 Kang 2009 Kang 2009
+> Pag. 6 Kang 2009
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q05|src_kangourou_2009_ecolier_marzo__Q05]]
@@ -239,7 +239,7 @@ How many cubes did Anna take away?
 
 ![[src_kangourou_2009_ecolier_marzo__prob6.png]]
 
-> Antonio glued 10 rectangular sheets on the table, all of them equal in size, as shown in the figure; the sides of the sheets are 4 and 6 inches. On them Antonio drew the line marked in grease, constructed by connecting the centers of the sheets by means of straight lines. How many centimeters is the line traced by Antonio? A) 24 B) 40 C) 46 D) 50 E) 56
+> Antonio glued 10 rectangular sheets on the table, all of them equal in size, as shown in the figure; the sides of the sheets are 4 and 6 centimeters. On them Antonio drew the line marked in bold, constructed by connecting the centers of the sheets by means of straight lines. How many centimeters is the line traced by Antonio? A) 24 B) 40 C) 46 D) 50 E) 56
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q06|src_kangourou_2009_ecolier_marzo__Q06]]
@@ -275,11 +275,11 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial squares of the chocolate table*
+*Initial squares of the chocolate bar*
 
 ![[src_kangourou_2009_ecolier_marzo__prob7.png]]
 
-> Peter had a chocolate table divided into squares. He gave a five-square strip to his brother and a seven-square strip to his sister; the strips were removed from the tablet as shown in the figure. How many squares did the chocolate table initially consist of? A) 20 B) 40 C) 50 D) 60 E) 80
+> Peter had a chocolate bar divided into squares. He gave a five-square strip to his brother and a seven-square strip to his sister; the strips were removed from the bar as shown in the figure. How many squares did the chocolate bar initially consist of? A) 20 B) 40 C) 50 D) 60 E) 80
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q07|src_kangourou_2009_ecolier_marzo__Q07]]
@@ -322,7 +322,7 @@ How many cubes did Anna take away?
 
 ![[src_kangourou_2009_ecolier_marzo__prob8.png]]
 
-> You have a cube and you want to color each of the vertices by following the rule: two vertices that are at the ends of the same vertex must receive different colors. What's the smallest number of colors that allows you to achieve your goal? A) 2 B) 3 C) 4 D) 6 E) 8 Questions from N. 9 al N. 16 is worth 4 points each.
+> You have a cube and you want to color each of the vertices by following the rule: two vertices that are at the ends of the same edge must receive different colors. What's the smallest number of colors that allows you to achieve your goal? A) 2 B) 3 C) 4 D) 6 E) 8 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q08|src_kangourou_2009_ecolier_marzo__Q08]]
@@ -355,7 +355,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of the many Tuesday boys=girls*
+*In how many Tuesdays boys=girls*
 
 > There are currently 25 boys and 19 girls in a dance school. Starting next Tuesday, two boys and three girls will be added every Tuesday. How many Tuesdays will the number of girls be equal to the number of boys? A) 6 B) 5 C) 4 D) 3 E) 2
 
@@ -409,13 +409,35 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many strips on the 10 cm reel*
+*How many tick marks on the 10 cm ruler*
 
 ![[src_kangourou_2009_ecolier_marzo__prob10.png]]
 
-> The figure represents a reel exactly 10 centimeters long. The millimetres are indicated by vertical stripes. How many lines are these? A) 101 B) 95 C) 98 D) 99 E) 100 11.One side of a rectangle is 8 cm long and is twice the length of the other side. How many centimeters is the length of the side of a square that has the same perimeter as the rectangle? A) 4 B) 6 C) 8 D) 12 E) 24 brother and sister 1 2 Texts_09.qxp 15-04-2009 20:23 Page 6
+> The figure represents a ruler exactly 10 centimeters long. The millimeters are indicated
+> by the vertical tick marks. How many of these tick marks are there?
+> A) 101
+> B) 95
+> C) 98
+> D) 99
+> E) 100
+> 11.One side of a rectangle is 8 centimeters long and is twice
+> the other side. How many centimeters long is the side of a square that has
+> the same perimeter as the rectangle?
+> A) 4
+> B) 6
+> C) 8
+> D) 12
+> E) 24
+> brother
+> sister
+> 1
+> 2
+> Testi_09.qxp  15-04-2009  20:23  Page 6
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2009 Kang 2009
+> Pag. 
+> Pag. 7
+> Kang 2009
+> Kang 2009
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q10|src_kangourou_2009_ecolier_marzo__Q10]]
@@ -441,7 +463,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the isoperimetric square at the rectangle*
+*Side of the square isoperimetric to the rectangle*
 
 > 11. Answer B) The perimeter of the rectangle measures () 24482 =+ cm., so the side of the square is 6 cm long.
 
@@ -554,11 +576,19 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of two digits with more sparklers*
+*Two-digit number with the most toothpicks*
 
 ![[src_kangourou_2009_ecolier_marzo__prob13.png]]
 
-> The ten digits in the figure are constructed by appropriately joining all the same sparklers together. Between the two-digit numbers, I built the one that requires the use of the most spices. How many have I used? A) 10 B) 11 C) 12 D) 13 E) 14
+> The ten digits in the figure are constructed
+> by suitably placing toothpicks all equal to each other. Among the two-digit
+> numbers, I constructed the one that requires
+> the use of the greatest quantity of toothpicks. How many did I use?
+> A) 10
+> B) 11
+> C) 12
+> D) 13
+> E) 14
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q13|src_kangourou_2009_ecolier_marzo__Q13]]
@@ -593,7 +623,7 @@ How many cubes did Anna take away?
 
 *How many mushrooms has Bice collected*
 
-> Anna, Bice and Carla collected a total of seven mushrooms. Each of them collected at least one fungus, but each collected a different number of fungi from each of the other two. Anna collected the least of them all and Carla the most. How many mushrooms did Bice collect? A) 1 B) 2 C) 3 D) 4 E) The situation described cannot have occurred.
+> Anna, Bice and Carla collected a total of seven mushrooms. Each of them collected at least one mushroom, but each collected a different number of mushrooms from each of the other two. Anna collected the least of them all and Carla the most. How many mushrooms did Bice collect? A) 1 B) 2 C) 3 D) 4 E) The situation described cannot have occurred.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q14|src_kangourou_2009_ecolier_marzo__Q14]]
@@ -627,7 +657,7 @@ How many cubes did Anna take away?
 
 ![[src_kangourou_2009_ecolier_marzo__prob15.png]]
 
-> You have the two dominoes you see in the figure, and you're free to approach them as you please. Which of the following figures can't you make?
+> You have the two dominoes you see in the figure, and you're free to place them side by side as you please. Which of the following figures can't you make?
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q15|src_kangourou_2009_ecolier_marzo__Q15]]
@@ -673,9 +703,9 @@ How many cubes did Anna take away?
 
 *What time does the clock go back to *
 
-> At 6:15, your digital clock, which at that time marked the exact time, fell to the ground and began to go backwards, yet keeping the exact time. At 7:30, you looked at the clock again. What time did it say? A) 17:00 B) 17:45 C) 18:30 D) 19:00 E) 19:15 1 2 3 4 A B C D E Texts_09.qxp 15-04-2009 20:23 Page 7
+> At 6:15, your digital clock, which at that time marked the exact time, fell to the ground and began to go backwards, yet keeping the exact time. At 19:30, you looked at the clock again. What time did it say? A) 17:00 B) 17:45 C) 18:30 D) 19:00 E) 19:15 1 2 3 4 A B C D E Texts_09.qxp 15-04-2009 20:23 Page 7
 > 
-> The questions from N. 17 al N. Twenty-four is worth five points each.
+> The questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q16|src_kangourou_2009_ecolier_marzo__Q16]]
@@ -709,7 +739,7 @@ How many cubes did Anna take away?
 
 *How many different digits in the sum of 1+11+...*
 
-> You've calculated the following sum 1 + 11 + 111 + ... + 111111111 + 11111111 which is the sum of the first ten integers that you can write using only the number 1. How many different numbers do you see in the result? A) 2 B) 5 C) 8 D)9 E) 10
+> You've calculated the following sum 1 + 11 + 111 + ... + 111111111 + 1111111111 which is the sum of the first ten integers that you can write using only the number 1. How many different digits do you see in the result? A) 2 B) 5 C) 8 D)9 E) 10
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q17|src_kangourou_2009_ecolier_marzo__Q17]]
@@ -785,7 +815,16 @@ How many cubes did Anna take away?
 
 ![[src_kangourou_2009_ecolier_marzo__prob19.png]]
 
-> Gino and Silvia's houses are on the same side of the street. Before Gino's house, there are 27 other houses, then there are 13 more. Silvia's house, on the other hand, has more houses on her left than on her right. How many houses are there between Gino's and Silvia's (without counting theirs)? A) 6 B) 7 C) 8 D) 14 E) 21
+> Gino's and Silvia's houses are on the same side of the same street.
+> Before Gino's house there are
+> another 27 houses, after it there are
+> another 13. Silvia's house instead has as many houses to its left as to its right. How many houses are there between Gino's and
+> Silvia's (without counting theirs)?
+> A) 6
+> B) 7
+> C) 8
+> D) 14
+> E) 21
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q19|src_kangourou_2009_ecolier_marzo__Q19]]
@@ -821,7 +860,7 @@ How many cubes did Anna take away?
 
 *What code (sum of even numbers = odd) *
 
-> A secret code is made up of 6 digits; the sum of the even digits is equal to the sum of the odd digits. The code certainly corresponds to one of the following, where the figures indicated with * are unreadable. What kind? A) 81**61 B) 7*727* C) 4*4141 D) 12*9*8    E) 181*2*
+> A secret code is made up of 6 digits; the sum of the digits in even positions is equal to the sum of the digits in odd positions. The code certainly corresponds to one of the following, where the figures indicated with * are unreadable. Which one? A) 81**61 B) 7*727* C) 4*4141 D) 12*9*8    E) 181*2*
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q20|src_kangourou_2009_ecolier_marzo__Q20]]
@@ -869,11 +908,30 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many figures did you have in 2006 (Fibonacci) *
+*How many stickers did he have in 2006 (Fibonacci)*
 
-> George collects football figures. Each year the number of his figures is the sum of the numbers of his figures in the two years immediately preceding. Last year George had 60 figures and this year he has 96. How many figurines did he have in 2006? (a) 20 (b) 24 (c) 36 (d) 40 (e) 48 pages. I'm going to pay. This is a list of the official languages of the European Union.
+> Giorgio collects footballer stickers. Each year the number of
+> his stickers is the sum of the numbers of his stickers in the two
+> immediately preceding years. Last year Giorgio had 60 stickers and
+> this year he has 96. How many stickers did he have in 2006?
+> A) 20
+> B) 24
+> C) 36
+> D) 40
+> E) 48
+> Pag. 
+> Pag. 8
+> Kang 2009
+> Kang 2009
+> Gino
+> 27
+> 13
+> Testi_09.qxp  15-04-2009  20:23  Pagina 8
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2009 Kang 2009
+> Pag. 
+> Pag. 9
+> Kang 2009
+> Kang 2009
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q21|src_kangourou_2009_ecolier_marzo__Q21]]
@@ -909,9 +967,9 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Furth palindrome number after 15951*
+*Next palindrome number after 15951*
 
-> A palindrome number is a number that remains the same if it is read from right to left instead of from left to right: for example, numbers 101 and 1221 are palindromes, while number 1231 is not. My car's meter now has the palindrome number 15951. How many miles will I have to travel to get the next palindrome number? A) 100 B) 110 C) 710 D) 900 E) 1010
+> A palindrome number is a number that remains the same if it is read from right to left instead of from left to right: for example, numbers 101 and 1221 are palindromes, while number 1231 is not. My car's meter now has the palindrome number 15951. How many kilometres will I have to travel to get the next palindrome number? A) 100 B) 110 C) 710 D) 900 E) 1010
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_ecolier_marzo#q22|src_kangourou_2009_ecolier_marzo__Q22]]
@@ -970,7 +1028,7 @@ How many cubes did Anna take away?
 
 ![[src_kangourou_2009_ecolier_marzo__prob23.png]]
 
-> John drew a line consisting of a few straight segments. At the end of each segment he always turned at right angles, either to the right or to the left of the source line. At each turn, he posted on a sheet one of the X or Y symbols aside: one of the two, you don't know which, always indicates that he turned left, the other that he turned right. On the separate sheet is the sequence XYYYXX: which of the following could be the line drawn by John from the point W? 24.In the village of Piedistrani each inhabitant has the left foot longer than one or two numbers compared to the right foot. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends decide to get together and buy the shoes together, then pair them together in the way that suits them. In doing so, each of you takes two shoes and one of the number 36 and one of the number 45 remain unused. So the minimum possible number of these friends is A) 5 B) 6 C) 7 D) 8 E) 9 W W W W A) B) C) D) E) Texts_09.qxp 15-04-2009 20:23 Page 9
+> John drew a line consisting of a few straight segments. At the end of each segment he always turned at right angles, either to the right or to the left with respect to the direction of arrival. At each turn, he recorded on a separate sheet one of the symbols X or Y: one of the two, you don't know which, always indicates that he turned left, the other that he turned right. On the separate sheet is the sequence XYYYXX: which of the following could be the line drawn by John from the point W? 24.In the village of Piedistrani each inhabitant has the left foot longer than one or two numbers compared to the right foot. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends decide to get together and buy the shoes together, then pair them together in the way that suits them. In doing so, each one takes two shoes and one of the number 36 and one of the number 45 remain unused. So the minimum possible number of these friends is A) 5 B) 6 C) 7 D) 8 E) 9 W W W W A) B) C) D) E) Texts_09.qxp 15-04-2009 20:23 Page 9
 > 
 > 2009 Ecolier Category For fourth and fifth year students of primary school
 

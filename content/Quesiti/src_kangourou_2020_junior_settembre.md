@@ -59,9 +59,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of minimum n with 7n of 2021 digits*
+*Units digit of the minimum n such that 7n has 2021 digits*
 
-> Be $n$ the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the unit number of $n$?
+> Let $n$ be the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the units digit of $n$?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2020_junior_settembre#q02|src_kangourou_2020_junior_settembre__Q02]]
@@ -100,7 +100,7 @@ level: kangourou
 > 
 > (a) there is at least one special number for each method of filling the grid;
 > 
-> (b) there is at least one special number for any method of filling the grid;
+> (b) there is at least one special number for some method of filling the grid;
 > 
 > (c) for each method of filling the grid there is at most a special number.
 
@@ -129,9 +129,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Poligons convex over 2020 points containing p*
+*Convex polygons on 2020 points that contain p*
 
-> A circle shall be marked with $2020$ two-by-two distinct points. All possible convex polygons (i.e. unwoven polygons having all the interior angles of size less than $180°$) whose vertices are some of the marked points shall be considered. Whether $p$ any of the points marked. Are there more polygons containing $p$ or those not containing it, or are there the same number?
+> On a circle, $2020$ points are marked, all distinct from one another. Consider all possible convex polygons (that is, non-self-intersecting polygons whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ or more that do not contain it, or are there equal numbers?
 
 **Answer:** contengono p
 [[Quesiti/src_kangourou_2020_junior_settembre#q04|src_kangourou_2020_junior_settembre__Q04]]
@@ -158,9 +158,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integrated pairs (x,y) with x^2+7y=xy*
+*Integer pairs (x,y) with x^2+7y=xy*
 
-> How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
+> How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2020_junior_settembre#q05|src_kangourou_2020_junior_settembre__Q05]]
@@ -187,10 +187,10 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignment of M,N,P in the triangle with inclination*
+*Alignment of M,N,P in the triangle with incircle*
 
 ![[src_kangourou_2020_junior_settembre__prob6.png]]
 
-> A center circumference $I$ is inscribed in a triangle $ABC$: denotes with $D$ and $E$ its tangent points on the sides $BC$ and $AC$ respectively. Also denote with $M$ and $N$ the mean points of $BC$ and $AB$ respectively and with $P$ the intersection between the connecting line $A$ with $I$ and the connecting line $D$ with $E$. It shows that $M$, $N$ and $P$ are aligned.
+> A circle with center $I$ is inscribed in a triangle $ABC$: denote by $D$ and $E$ its points of tangency with the sides $BC$ and $AC$ respectively. Denote furthermore by $M$ and $N$ respectively the midpoints of $BC$ and $AB$ and by $P$ the intersection between the line joining $A$ with $I$ and the one joining $D$ with $E$. Prove that $M$, $N$ and $P$ are collinear.
 
 [[Quesiti/src_kangourou_2020_junior_settembre#q06|src_kangourou_2020_junior_settembre__Q06]]

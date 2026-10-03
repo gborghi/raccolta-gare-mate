@@ -36,7 +36,7 @@ level: kangourou
 
 On what day did you carve the last letter of KANGOUROU?
 
-> Angelo wants to carve the word KANGOUROU into the wood. He can carve a letter a day and he starts on Thursday. What day of the week will you carve your last letter? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
+> Angelo wants to carve the word KANGOUROU into the wood. He can carve a letter a day and he starts on Thursday. On what day of the week will he carve the last letter? A) Monday B) Tuesday C) Wednesday D) Thursday E) Friday
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_ecolier#q01|src_kangourou_2011_ecolier__Q01]]
@@ -71,11 +71,17 @@ On what day did you carve the last letter of KANGOUROU?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What number was Elisa departing from?
+*What number had Elisa started from*
 
 ![[src_kangourou_2011_ecolier__prob2.png]]
 
-> Based on a number, Elisa performed the operations shown in Figure 6. What number did she start from? A) 9 B) 7 C) 4 D) 0 E) 1
+> Starting from a certain number, Elisa
+> carried out the operations shown in the figure, obtaining 6 as a result. What number had she started from?
+> A) 9
+> B) 7
+> C) 4
+> D) 0
+> E) 1
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_ecolier#q02|src_kangourou_2011_ecolier__Q02]]
@@ -105,11 +111,11 @@ What number was Elisa departing from?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final position of the pedal after movements*
+*Final position of the token after movements*
 
 ![[src_kangourou_2011_ecolier__prob3.png]]
 
-> Charles placed a pedal in a square grid box, as shown in the figure to the right. Now he enjoys moving it, one box at a time, first to the right, then up, then to the left, then down, and finally back to the right. Which of the following figures shows the final position of the foot?
+> Charles placed a token in a square grid box, as shown in the figure to the right. Now he enjoys moving it, one box at a time, first to the right, then up, then to the left, then down, and finally back to the right. Which of the following figures shows the final position of the token?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_ecolier#q03|src_kangourou_2011_ecolier__Q03]]
@@ -145,7 +151,7 @@ What number was Elisa departing from?
 
 Minutes to decorate cakes and pastries with two people
 
-> A customer ordered three cream cakes and three pancakes from a bakery. When you get to the bakery, the desserts are almost ready. In order to do it as quickly as possible, the baker has a waitress help him. Each dessert, however, must be decorated by one person: if it takes nine minutes to decorate a cream cake and three minutes to decorate a pancake, how many minutes will the customer have to wait? A) 9 B) 12 C) 15 D) 18 E) 24
+> A customer ordered three cream cakes and three panettoni from a bakery. When you get to the bakery, the desserts are almost ready. In order to do it as quickly as possible, the baker has a clerk help him. Each dessert, however, must be decorated by one person: if it takes nine minutes to decorate a cream cake and three minutes to decorate a panettone, how many minutes will the customer have to wait? A) 9 B) 12 C) 15 D) 18 E) 24
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_ecolier#q04|src_kangourou_2011_ecolier__Q04]]
@@ -308,7 +314,7 @@ How much did Sandro pay for ice cream and cake?
 
 *How many strokes does the clock strike between 7.55 and 10.45*
 
-> The clock of a bell tower at the clock of each hour beats the number of strokes corresponding to the hour (e.g. at 7.00 beats 7 strokes, at 8.00 beats 8 strokes and so on). In addition, it hits one shot every hour full plus 30 minutes (e.g. 7:30 a.m., 8:30 a.m., etc.). How many shots did you hit on the clock between 7:55 and 10:45 on the same day? A) 6 B) 18 C) 27 D) 30 E) 33
+> The clock of a bell tower strikes at the stroke of each hour the number of strokes corresponding to the hour (e.g. at 7.00 beats 7 strokes, at 8.00 beats 8 strokes and so on). In addition, it strikes one stroke at every hour plus 30 minutes (e.g. 7:30 a.m., 8:30 a.m., etc.). How many strokes does the clock strike in all between 7:55 and 10:45 on the same day? A) 6 B) 18 C) 27 D) 30 E) 33
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_ecolier#q07|src_kangourou_2011_ecolier__Q07]]
@@ -343,7 +349,7 @@ How much did Sandro pay for ice cream and cake?
 
 *Minimum number of boxes for 66 eggs*
 
-> Boxing eggs can be done using boxes of 6 eggs and boxes of 12 eggs. What is the minimum number of boxes that can contain 66 eggs? A) 5 B) 6 C) 9 D) 11 E) 13 Questions from N. 9 al N. 16 is worth 4 points each.
+> Boxing eggs can be done using boxes of 6 eggs and boxes of 12 eggs. What is the minimum number of boxes that can contain 66 eggs? A) 5 B) 6 C) 9 D) 11 E) 13 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_ecolier#q08|src_kangourou_2011_ecolier__Q08]]
@@ -413,7 +419,7 @@ How much did Sandro pay for ice cream and cake?
 
 *How many kids in the class have catfish dogs*
 
-> The boys in one class have a total of eight cats, six dogs and three fish. Every boy has at least one animal, no one has more than two, and whoever has two certainly has a dog, but he doesn't have two dogs. Exactly two boys have both a dog and a fish and exactly three boys have both a cat and a dog. How many kids are in that class? A) 11 B) 12 C) 13 D) 14 E) 17
+> The kids in one class have a total of eight cats, six dogs and three fish. Every kid has at least one animal, no one has more than two, and whoever has two certainly has a dog, but he doesn't have two dogs. Exactly two kids have both a dog and a fish and exactly three kids have both a cat and a dog. How many kids are in that class? A) 11 B) 12 C) 13 D) 14 E) 17
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_ecolier#q10|src_kangourou_2011_ecolier__Q10]]
@@ -501,13 +507,34 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which letter is not covered by folding the sheet*
+*Which letter is not covered when folding the sheet*
 
 ![[src_kangourou_2011_ecolier__prob12.png]]
 
-> Note the figure: If you fold the sheet along the line, which letter will not be covered in a gray square? A) A B) B C) C D) D E) and B) A) C) D) E) A B D E C
+> Look at the figure: if you fold the sheet along the
+> indicated line, which of the letters will not be covered by a
+> small gray square?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) E
+> B)
+> A)
+> C)
+> D)
+> E)
+> A
+> B
+> D
+> E
+> C
+> Testi_11Mat.qxp  19-05-2011  21:20  Page 6
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 201 Kang 2011
+> Pag. 
+> Pag. 7
+> Kang 201
+> Kang 2011
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_ecolier#q12|src_kangourou_2011_ecolier__Q12]]
@@ -541,9 +568,17 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What and the number of Franks with the dice*
+*What is Franco's number with the dice*
 
-> Anna, Bruno, Cecilia, Dario, Enrica, and Franco throw a dice (numbered 1 to 6) and get numbers all different from each other. Anna's number is twice that of Bruno and three times that of Cecilia. Darius' number is four times that of Henry. What's Franco's number? A) 2 B) 3 C) 4 D) 5 E) 6
+> Anna, Bruno, Cecilia, Dario, Enrica and Franco roll a die (numbered from
+> 1 to 6) and get numbers all different from each other. Anna's number is twice
+> Bruno's and three times Cecilia's. Dario's number is four
+> times Enrica's. What is Franco's number?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_ecolier#q13|src_kangourou_2011_ecolier__Q13]]
@@ -579,7 +614,7 @@ How much did Sandro pay for ice cream and cake?
 
 How many answers did Mr Rossi get wrong?
 
-> A TV quiz is based on the following rules. Each participant has an initial allocation of 10 points and must answer 10 questions: he earns one point for each correct answer he provides and loses one point for each wrong answer. After answering all the questions in the quiz, Mr. Rossi finds himself with 14 points. How many answers did you get wrong? A) 7 B) 4 C) 5 D) 3 E) 6
+> A TV quiz is based on the following rules. Each participant has an initial allocation of 10 points and must answer 10 questions: he earns one point for each correct answer he provides and loses one point for each wrong answer. After answering all the questions in the quiz, Mr. Rossi finds himself with 14 points. How many answers did he get wrong? A) 7 B) 4 C) 5 D) 3 E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_ecolier#q14|src_kangourou_2011_ecolier__Q14]]
@@ -612,11 +647,11 @@ How many answers did Mr Rossi get wrong?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What grid can't have written Emanuela
+Which grid could Emanuela not have written
 
 ![[src_kangourou_2011_ecolier__prob15.png]]
 
-> Emanuela enjoys writing her name on some grids like the ones in the answers. Enter a letter in each box in the order following this rule: it can start from any box but, if a letter is written in a box, the next one must be written in a box that has a side or a vertex in common with the previous one. Which of these grids could not have been filled by Emanuel?
+> Emanuela enjoys writing her name on some grids like the ones in the answers. Enter a letter in each box in the order following this rule: it can start from any box but, if a letter is written in a box, the next one must be written in a box that has a side or a vertex in common with the previous one. Which of these grids could not have been filled by Emanuela?
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_ecolier#q15|src_kangourou_2011_ecolier__Q15]]
@@ -651,7 +686,7 @@ What grid can't have written Emanuela
 
 How many people were invited to the party with two cakes?
 
-> Two cakes were brought to a party. Each was divided into four parts and three pieces were obtained from each of these parts. Each guest had exactly one slice and three slices went forward. How many guests were there? A) 24 B) 21 C) 18 D) 27 E) 13 Questions from N. 17 al N. Twenty-four is worth five points each.
+> Two cakes were brought to a party. Each was divided into four parts and three pieces were obtained from each of these parts. Each guest had exactly one slice and three slices were left over. How many guests were there? A) 24 B) 21 C) 18 D) 27 E) 13 Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_ecolier#q16|src_kangourou_2011_ecolier__Q16]]
@@ -810,7 +845,7 @@ How many people were invited to the party with two cakes?
 
 ![[src_kangourou_2011_ecolier__prob19.png]]
 
-> Four identical dice have been folded together to form the structure you see in the figure to the right. The sum of the points on two opposite sides of each dice is always 7. What does the building look like from behind?
+> Four identical dice have been placed together to form the structure you see in the figure to the right. The sum of the points on two opposite sides of each die is always 7. What does the construction look like from behind?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_ecolier#q19|src_kangourou_2011_ecolier__Q19]]
@@ -846,7 +881,7 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with the three cards 9,9.8*
+*Three-digit numbers with the three cards 9,9,8*
 
 ![[src_kangourou_2011_ecolier__prob20.png]]
 
@@ -909,12 +944,12 @@ How many people were invited to the party with two cakes?
 
 > Stefano has assembled the mosaic shown in the figure on the right
 > by joining identical pieces, without overlapping or even partially overlapping.
-> Which of the following pieces could certainly not have been used?
+> Which of the following pieces was certainly not used?
 >
 > Page
 > Page 8
-> Kang 201
 > Kang 2011
+> Kang 20111
 > A)
 > B)
 > C)

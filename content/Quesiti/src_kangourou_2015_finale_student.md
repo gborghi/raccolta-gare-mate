@@ -31,11 +31,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The measurement shall be carried out in accordance with the methodology set out in Annex II.
+*measure of angle ABC*
 
 ![[src_kangourou_2015_finale_student__probs1.png]]
 
-> The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
+> The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
 
 **Answer:** 45 gradi
 [[Quesiti/src_kangourou_2015_finale_student#qs1|src_kangourou_2015_finale_student__QS1]]
@@ -66,7 +66,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 
 > 2 . You want to draw on one of these sheets a grid of size (n + 1) × n and the one on the shorter side is made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of n? S3. (11 points) The currency in use in Khangland is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that for every positive integer N, the different possible ways to realize the sum of N + 1 kang are in the narrowest number.
 
-**Answer:** 1 e 2
+**Answer:** 1 and 2
 [[Quesiti/src_kangourou_2015_finale_student#qs2|src_kangourou_2015_finale_student__QS2]]
 
 
@@ -95,11 +95,11 @@ The measurement shall be carried out in accordance with the methodology set out 
 
 *Mode of making N+1 kang >Mode for N kang*
 
-> In Kangland, the currency in use is the kang and there are only $1$, $2$ or $3$ kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that, for each positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in strictly higher numbers than the different possible ways to realize the amount of $N$ kang.
+> In Kangland, the currency in use is the kang and there are only $1$, $2$ or $3$ kang coins. Obviously, with coins like these, you can make any amount of an integer kang. Prove that, for every positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in strictly higher numbers than the different possible ways to realize the amount of $N$ kang.
 > 
-> Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode (but not the $2+2$ mode).
+> Note: to obtain, for example, $4$ kang, the way $1+1+2$ must be considered the same as the way $1+2+1$ (but not the way $2+2$).
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2015_finale_student#qs3|src_kangourou_2015_finale_student__QS3]]
 
 
@@ -124,9 +124,9 @@ The measurement shall be carried out in accordance with the methodology set out 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*total number of cracks in one hour*
+*number of caws in one hour*
 
-> $51$ crows are lined up on a branch of a large tree. Whenever one of them crawls, his right and his left, if they exist, are in flight. Every crow that takes flight flies for exactly one minute, then takes its place by immediately making a crackling sound. This morning the first to crawl was the raven at the end of the branch and then they continued, according to the rule described, for exactly one hour: at the end of the hour all the flying ravens returned to the branch making one last crawl sound. How many were there at that hour, from the first to the last moment included, the scratches made?
+> $51$ crows are perched in a row on a branch of a large tree. Each time (and only each time) one of them caws, its neighbor to the right and the one to the left, if they exist, take flight. Every crow that takes flight flies for exactly one minute, then returns to its place immediately letting out a loud caw. This morning the first to caw was the crow at the end of the branch, and then they continued, according to the described rule, for exactly one hour: when the hour was up, all the crows in flight returned to the branch, each letting out one last loud caw. How many caws were made in that hour, from the first to the last instant inclusive?
 
 **Answer:** 931
 [[Quesiti/src_kangourou_2015_finale_student#qs4|src_kangourou_2015_finale_student__QS4]]
@@ -153,7 +153,7 @@ The measurement shall be carried out in accordance with the methodology set out 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of parallel lines on the sides per 100 regions*
+*Minimum number of parallel lines to the sides per 100 regions*
 
 > Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly $100$ regions?
 
@@ -181,9 +181,9 @@ The measurement shall be carried out in accordance with the methodology set out 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*complanary or spherical?*
+*coplanar or on a sphere?*
 
-> Three circles in space are two to two tangents and the three tangent points are all different from each other. Does it necessarily follow that the three circumferences are either planar or lie on the same sphere?
+> Three circles in space are pairwise tangent and the three tangent points are all different from each other. Does it necessarily follow that the three circles are either coplanar or lie on the same sphere?
 
-**Answer:** e' vero
+**Answer:** true
 [[Quesiti/src_kangourou_2015_finale_student#qs6|src_kangourou_2015_finale_student__QS6]]

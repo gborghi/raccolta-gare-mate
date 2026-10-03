@@ -33,9 +33,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to the implementation of the programme.
+*Calculate (2008-200-8)+2008*
 
-> (2008 – 200 – 8) + 2008 = ? A) 3008 B) 3888 C) 3800 D) 3808         E) 2808
+> (2008 – 200 – 8) + 2008 = ? 
+> A) 3008 
+> B) 3888 
+> C) 3800 
+> D) 3808         E) 2808
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q01|src_kangourou_2008_benjamin_marzo__Q01]]
@@ -67,11 +71,15 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sagoms obtained by approaching two equilateral triangles*
+*Shapes obtainable by placing two equilateral triangles side by side*
 
 ![[src_kangourou_2008_benjamin_marzo__prob2.png]]
 
-> Carolina has 2 identical equilateral triangle-shaped cards as shown in the figure. He draws them together or overlaps them partially on a sheet, then traces the outline of the resulting figure on the sheet. Only one of the shapes you see below cannot be obtained with this procedure. What kind?
+> Carolina has 2 identical cardboard pieces shaped like equilateral triangles, like the ones
+> shown in the figure. She places them side by side or partially overlaps them on a
+> sheet, then traces on the sheet the outline of the resulting figure. Only one of the
+> shapes you see below cannot be obtained with this procedure.
+> Which one?
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q02|src_kangourou_2008_benjamin_marzo__Q02]]
@@ -108,7 +116,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 *Order of three transformations of a number*
 
-> Iole, Lidia, Nadia and Pina are playing numbers. Lidia said 3 and the others each intervened once and only once and the last one said 14. You know Iole multiplied by 3, Nadia subtracted 1 and Pina added 2. In what order did the three girls after Lydia intervene? (a) IPN (b) PIN (c) INP (d) NIP (e) PNI
+> Iole, Lidia, Nadia and Pina are playing numbers. Lidia said 3 and the others each intervened once and only once and the last one said 14. You know Iole multiplied by 3, Nadia subtracted 1 and Pina added 2. In what order did the three girls after Lidia intervene? (a) IPN (b) PIN (c) INP (d) NIP (e) PNI
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q03|src_kangourou_2008_benjamin_marzo__Q03]]
@@ -159,9 +167,26 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 ![[src_kangourou_2008_benjamin_marzo__prob4.png]]
 
-> In the pirate school, each student must sew a black and white flag, subject to the following condition: the black part must cover exactly three-fifths of the flag. How many of the following flags meet this requirement? A) None B) One C) Two D) Three E) Four A) B) C) D) E) Text_08.qxp 9-03-2008 14:56
+> At the pirates' school every student must sew a white and
+> black flag, respecting the following condition: the black part must cover exactly three fifths of the flag. How many of the following flags respect
+> this condition?
+> A) None
+> B) One
+> C) Two
+> D) Three
+> E) Four
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_08.qxp  9-03-2008  14:56  Page 10
 > 
-> I'm going to pay. I'm going to pay. 11 11 Kang 2008 Kang
+> Pag. 
+> Pag. 11
+> 11
+> Kang 2008
+> Kang 2008
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q04|src_kangourou_2008_benjamin_marzo__Q04]]
@@ -201,7 +226,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 ![[src_kangourou_2008_benjamin_marzo__prob5.png]]
 
-> Anna wants to place 12 coins on the figure so that there are exactly 3 coins on each circumference and exactly 3 coins on each of the four diameters. He's already put in 11 coins. Where will you put the rest of it? A) B B) J C) L D) D E) F
+> Anna wants to place 12 coins on the figure so that there are exactly 3 coins on each circumference and exactly 3 coins on each of the four diameters. She has already placed 11 coins. Where must she place the remaining one? A) B B) J C) L D) D E) F
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q05|src_kangourou_2008_benjamin_marzo__Q05]]
@@ -275,7 +300,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 *Three-digit numbers with a sum of 3 digits *
 
-> 'The sum of the digits of an integer represented in decimal form is 3': how many three-digit numbers verify this condition? A) 3 B) 4 C) 5 D) 6 E) 8
+> 'The sum of the digits of an integer represented in decimal form is 3': how many three-digit numbers satisfy this condition? A) 3 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q07|src_kangourou_2008_benjamin_marzo__Q07]]
@@ -347,11 +372,11 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of grey of a periodic brake*
+*Percentage of grey of a periodic frieze*
 
 ![[src_kangourou_2008_benjamin_marzo__prob9.png]]
 
-> What you see in the figure is a frieze, made up of white or grey square bricks, all of which are the same size. What percentage of the grain is gray? A) 50% B) 60% C) 62,5% D) 66,6 % E) 75%
+> What you see in the figure is a frieze, made up of white or grey square bricks, all of which are the same size. What percentage of the frieze is grey? A) 50% B) 60% C) 62,5% D) 66,6 % E) 75%
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q09|src_kangourou_2008_benjamin_marzo__Q09]]
@@ -608,9 +633,19 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*weight of the letter pound*
+*value of the letter pound*
 
-> The five different symbols used below each represent a different number and the operations indicated are all correct. @ + @ + @ =  # + # + # = & + & = £ How much is £? A) 0 B) 2 C) 6 D) 8 E) 9
+> The five different symbols used below each represent a
+> different digit and the operations indicated are all correct.
+> @ + @ + @ = ∗
+> # + # + # = &
+> ∗+ & = £
+> What is the value of "£"?
+> A) 0
+> B) 2
+> C) 6
+> D) 8
+> E) 9
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q13|src_kangourou_2008_benjamin_marzo__Q13]]
@@ -681,9 +716,9 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum N people in 60 seats each next to each other*
+*Minimum N people in 60 seats each next to another*
 
-> As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are sitting at this table so that each person is sitting next to the other. The smallest value of N that makes the situation possible is A) 40 B) 30 C) 20 D) 10 E) None of the above.
+> As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are sitting at this table so that each person is sitting next to another. The smallest value of N that makes the situation possible is A) 40 B) 30 C) 20 D) 10 E) None of the above.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q15|src_kangourou_2008_benjamin_marzo__Q15]]
@@ -737,11 +772,36 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with a unit of decimal place*
+*2-digit numbers with units greater than tens*
 
-> How many 2-digit numbers are such that the number of units is greater than the number of tens? A) 26 B) 18 C) 9 D) 30 E) 36 1 6 11 12 2 3 1 4 A B 1 3 3 4 Text_08.qxp 9-03-2008 14:56 Page 12
+> How many 2-digit numbers are such that the units digit is greater
+> than the tens digit?
+> A) 26 
+> B) 18 
+> C)9 
+> D) 30 
+> E) 36
+> 1
+> 6
+> 11
+> 12
+> 2
+> 3
+> 1
+> 4
+> A
+> B
+> 1
+> 3
+> 3
+> 4
+> Testi_08.qxp  9-03-2008  14:56  Page 12
 > 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2008 Kang
+> Pag. 
+> Pag. 13
+> 13
+> Kang 2008
+> Kang 2008
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q16|src_kangourou_2008_benjamin_marzo__Q16]]
@@ -781,7 +841,7 @@ With so many matches, it's impossible to make a triangle.
 
 ![[src_kangourou_2008_benjamin_marzo__prob17.png]]
 
-> Joan throws two arrows at the target. The resulting score is the sum of the scores achieved with the individual arrows (0 if the arrow does not hit the target): for example, in the figure we see a situation in which the resulting score is 5. How many different scores can Giovanna get? A) 4 B) 6 C) 8 D) 9 E) 10
+> Giovanna throws two arrows at the target. The resulting score is the sum of the scores achieved with the individual arrows (0 if the arrow does not hit the target): for example, in the figure we see a situation in which the resulting score is 5. How many different scores can Giovanna get? A) 4 B) 6 C) 8 D) 9 E) 10
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q17|src_kangourou_2008_benjamin_marzo__Q17]]
@@ -814,9 +874,9 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of Ada and Ivo under linear conditions*
+*Ages of Ada and Ivo from linear conditions*
 
-> Ada and Ivo are coming of age today. In two years Ivo will be twice as old as he was two years ago, while in three years Ada will be three times as old as she was three years ago. Which of the following is correct? A) Ivo is one year older than Ada B) Ada is one year older than Ivo C) Ada and Ivo are the same age D) Ivo is two years older than Ada E) Ada is two years older than Ivo
+> Ada and Ivo have their birthdays today. In two years Ivo will be twice as old as he was two years ago, while in three years Ada will be three times as old as she was three years ago. Which of the following is correct? A) Ivo is one year older than Ada B) Ada is one year older than Ivo C) Ada and Ivo are the same age D) Ivo is two years older than Ada E) Ada is two years older than Ivo
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q18|src_kangourou_2008_benjamin_marzo__Q18]]
@@ -1032,7 +1092,7 @@ With so many matches, it's impossible to make a triangle.
 
 ![[src_kangourou_2008_benjamin_marzo__prob23.png]]
 
-> 23. Answer D) We see that, as you can only move horizontally or vertically, when you move from one box to the next, the color of the box changes. So I can't cover the whole path if I start from a white box, because the white boxes are less than grey. Starting instead from a grey box you can complete the path as required: if it is dangle I can complete horizontally the line to which it belongs, move vertically to the adjacent line, complete this horizontally, go vertically to the last line and complete this; from the central grey box you can cover all the boxes only once if you move into a box
+> 23. Answer D) We see that, as you can only move horizontally or vertically, when you move from one box to the next, the color of the box changes. So I can't cover the whole path if I start from a white box, because the white boxes are less than grey. Starting instead from a grey box you can complete the path as required: if it is in a corner I can complete horizontally the row to which it belongs, move vertically to the adjacent row, complete this horizontally, go vertically to the last row and complete this; from the central grey box you can cover all the boxes only once if you move into a box
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q23|src_kangourou_2008_benjamin_marzo__Q23]]
@@ -1126,7 +1186,7 @@ With so many matches, it's impossible to make a triangle.
 \end{document}
 ```
 
-> The drawing shows the transportation map of a city. There are 4 buses that follow a circular route: - the route of the first, C-D-E-F-G-H-C, is 17 km long; - the route of the second, A-B-C-F-G-H-A, is 12 km long; - the route of the third, A-B-C-D-E-F-G-H-A, is 20 km long. How many miles is the C-F-G-H-C path of the fourth? A) 5 B) 8 C) 9 D) 12 E) 15
+> The drawing shows the transportation map of a city. There are 4 buses that follow a circular route: - the route of the first, C-D-E-F-G-H-C, is 17 km long; - the route of the second, A-B-C-F-G-H-A, is 12 km long; - the route of the third, A-B-C-D-E-F-G-H-A, is 20 km long. How many kilometers is the C-F-G-H-C path of the fourth? A) 5 B) 8 C) 9 D) 12 E) 15
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q24|src_kangourou_2008_benjamin_marzo__Q24]]
@@ -1163,9 +1223,9 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first essay (parity) *
+*Sum of cards from the first sage (parity) *
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he has caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first sage, after looking only at the numbers written on the cards he has caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first sage read? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q25|src_kangourou_2008_benjamin_marzo__Q25]]
@@ -1254,13 +1314,37 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of shots rotating around the shell*
+*Order of the shots while going around the flowerbed*
 
 ![[src_kangourou_2008_benjamin_marzo__prob27.png]]
 
-> Benedetta turns around the arrow taking photographs: she begins to walk at the point indicated by the arrow and follows its direction. After a full tour, he took these four pictures. In what order were the shots taken? A) 2431 B) 4213 C) 2143 D) 2134 E) 3214 A H G F and D C B 4 3 2 1 Texts_08.qxp 9-03-2008 14:56 Page 14
+> Benedetta goes around the flowerbed taking photographs: she starts walking at the point indicated by the arrow and
+> follows its direction. After a complete lap she has taken
+> these 4 photos. In what order were the shots taken?
+> A) 2431
+> B) 4213
+> C) 2143
+> D) 2134
+> E) 3214
+> A
+> H
+> G
+> F
+> E
+> D
+> C
+> B
+> 4
+> 3
+> 2
+> 1
+> Testi_08.qxp  9-03-2008  14:56  Page 14
 > 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2008 Kang 2008
+> Pag. 
+> Pag. 15
+> 15
+> Kang 2008
+> Kang 2008
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q27|src_kangourou_2008_benjamin_marzo__Q27]]
@@ -1294,9 +1378,16 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the input data.
+*Cryptarithm KAN+GA=ROO, value RN-KG*
 
-> In the KAN + GA = ROO equality, each letter represents one of the ten digits and different letters represent different digits. So the difference RN  KG is A) 10 B) 11 C) 12 D) 21 E) 22
+> In the equality KAN + GA = ROO each letter represents one of the ten
+> digits and different letters represent different digits. Then the difference
+> RN – KG equals
+> A) 10
+> B) 11
+> C) 12
+> D) 21
+> E) 22
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_benjamin_marzo#q28|src_kangourou_2008_benjamin_marzo__Q28]]
@@ -1356,7 +1447,7 @@ This is the total value of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the areas of the 27 equilateral triangles*
+*Sum of the areas of the 27 equilateral triangles*
 
 ![[src_kangourou_2008_benjamin_marzo__prob29.png]]
 

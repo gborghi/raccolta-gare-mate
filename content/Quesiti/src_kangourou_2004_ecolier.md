@@ -30,9 +30,10 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to the implementation of the programme.
+*Sum 2001+2002+2003+2004+2005*
 
-> What is the result of the sum 2001 + 2002 + 2003 + 2004 + 2005 = ? A) 1015       B) 5010       C) 10150     D) 11005     E) 10015
+> What is the result of the sum   2001 + 2002 + 2003 + 2004 + 2005 = ?
+> A) 1015       B) 5010       C) 10150     D) 11005     E) 10015
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_ecolier#q01|src_kangourou_2004_ecolier__Q01]]
@@ -100,7 +101,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 \end{document}
 ```
 
-> In the drawing below, you can see the road between town A and town B, shown by a continuous line, and the deviation for ongoing work in section A' B, shown by a drawn line. How many kilometers does the path from A to B extend because of the deviation? A) 4 B) 8 C) 6 D) 10 E) cannot be answered without further information
+> In the drawing below, you can see the road between town A and town B, shown by a continuous line, and the deviation for ongoing work in section A' B', shown by a dashed line. How many kilometers does the path from A to B extend because of the deviation? A) 4 B) 8 C) 6 D) 10 E) cannot be answered without further information
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_ecolier#q02|src_kangourou_2004_ecolier__Q02]]
@@ -132,9 +133,15 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many swallows at the start*
+*How many swallows at the beginning*
 
-> There were some swirls on the light strings. At some point, five of those squirrels flew away, and three new squirrels landed. Now we're counting the swallows on the light strings, they're 12. How many squirrels were on the wires at the beginning? A)  8           B)  9 C)  10 D)  12         E)  14
+> There were some swallows on the power lines. At a certain moment 5 of
+> those swallows flew away, and 3 new swallows landed.
+> We now count the swallows on the power lines: there are 12. How many swallows
+> were perched on the lines at the beginning? 
+> A)  8           B)  9
+> C)  10
+> D)  12         E)  14
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_ecolier#q03|src_kangourou_2004_ecolier__Q03]]
@@ -169,7 +176,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 ![[src_kangourou_2004_ecolier__prob4.png]]
 
-> What numbers are written inside the rectangle and the circle but not inside the triangle? A) 5 e 11 B) 1 e 10     C) 13 D) 3 e 9      E) 6, 7 e 4
+> What numbers are written inside the rectangle and the circle but not inside the triangle? A) 5 and 11 B) 1 and 10     C) 13 D) 3 and 9      E) 6, 7 and 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_ecolier#q04|src_kangourou_2004_ecolier__Q04]]
@@ -251,11 +258,11 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the development of the cube (opposite colour faces) *
+*What is the net of the cube (opposite colour faces) *
 
 ![[src_kangourou_2004_ecolier__prob6.png]]
 
-> A cube (the one in the figure to the right) is painted so that each face and its opposite face have the same color, different from the colors of the other faces. Which of the following developments is that of the surface of the cube? A)                B)                    C)                  D)               E)
+> A cube (the one in the figure to the right) is painted so that each face and its opposite face have the same color, different from the colors of the other faces. Which of the following nets is that of the surface of the cube? A)                B)                    C)                  D)               E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_ecolier#q06|src_kangourou_2004_ecolier__Q06]]
@@ -292,11 +299,11 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exact time between four clocks*
+*Exact time among four clocks*
 
 ![[src_kangourou_2004_ecolier__prob7.png]]
 
-> In the drawing below you can see four clocks represented at the same time. Only one indicates the exact time; another marks a delay of 20 minutes, a third is 20 minutes ahead, and finally a fourth is still. What's the exact time? A) 4 and 45 minutes B) 5 and 5 minutes C) 5 and 25 minutes D) 5 and 40 minutes E) cannot be answered without further information
+> In the drawing below you can see four clocks represented at the same time. Only one indicates the correct time; another marks a delay of 20 minutes, a third is 20 minutes ahead, and finally the fourth is stopped. What is the correct time? A) 4 and 45 minutes B) 5 and 5 minutes C) 5 and 25 minutes D) 5 and 40 minutes E) cannot be answered without further information
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_ecolier#q07|src_kangourou_2004_ecolier__Q07]]
@@ -367,11 +374,18 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of a pencil *
+*Weight of a fountain pen*
 
-> Seven pencils weigh 30 grams more than two. A pencil and a pencil together weigh 15 grams. How many grams does a pen weigh ? A) 6 B) 7 C)8            D) 9 E) 10
+> 7 pencils weigh 30 grams more than 2 pencils. A pencil and a fountain pen together weigh 15 grams. How many grams does a fountain pen weigh?
+> A) 6
+> B) 7
+> C)8            D) 9
+> E) 10
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2004 Kang 2004
+> Pag. 
+> Pag. 7
+> Kang 2004
+> Kang 2004
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_ecolier#q09|src_kangourou_2004_ecolier__Q09]]
@@ -399,9 +413,11 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stone pads for 350 concrete *
+*Shovelfuls of stones for 350 of concrete*
 
-> To make concrete, you must mix 4 stone slabs, 2 sand slabs and 1 concrete slab. How many stone slabs are required to produce 350 concrete slabs ? A) 200        B) 150         C)  100       D)  87,5      E)  50
+> To make concrete you need to mix 4 shovelfuls of stones,
+> 2 shovelfuls of sand and 1 shovelful of cement. How many shovelfuls of stones are required to obtain 350 shovelfuls of concrete?
+> A) 200        B) 150         C)  100       D)  87.5      E)  50
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_ecolier#q10|src_kangourou_2004_ecolier__Q10]]
@@ -435,7 +451,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 *What part of the fruit remains in the basket*
 
-> Elizabeth brings Clement a basket of apples and oranges. Clemente eats half the apples and a third of the oranges. What part of the fruit remains in the basket? (a) half of all fruit B) more than half of all fruit C) two fifths of all fruit D) less than one third of all fruit E) one third of all fruit
+> Elizabeth brings Clement a basket of apples and oranges. Clement eats half the apples and a third of the oranges. What part of the fruit remains in the basket? (a) half of all fruit B) more than half of all fruit C) two fifths of all fruit D) less than one third of all fruit E) one third of all fruit
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_ecolier#q11|src_kangourou_2004_ecolier__Q11]]
@@ -501,9 +517,9 @@ This appropriation is intended to cover expenditure relating to the implementati
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is Sandro's birthday.
+Sandro's birthday day.
 
-> Angelo, born in March, is 52 days older than his classmate Sandro. This year, Angelo celebrated his birthday on Tuesday. What day of the week will Sandro celebrate his birthday this year? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
+> Angelo, born in March, is 52 days older than his classmate Sandro. This year, Angelo celebrated his birthday on Tuesday. What day of the week will Sandro celebrate his birthday this year? A) Monday B) Tuesday C) Wednesday D) Thursday E) Friday
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_ecolier#q13|src_kangourou_2004_ecolier__Q13]]
@@ -532,7 +548,7 @@ This is Sandro's birthday.
 
 *Which difference is not equal to 671-389*
 
-> What difference isn't equal to 671 minus 389? A)  771 −489     B)  681 −399    C) 669 −391     D) 1871 −1589    E) 600 −318
+> Which difference is not equal to 671 − 389? A)  771 −489     B)  681 −399    C) 669 −391     D) 1871 −1589    E) 600 −318
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_ecolier#q14|src_kangourou_2004_ecolier__Q14]]
@@ -572,7 +588,7 @@ This is Sandro's birthday.
 
 ![[src_kangourou_2004_ecolier__prob15.png]]
 
-> There are five houses on Rainbow Street: one blue, one red, one yellow, one pink and one green. The houses are numbered from 1 to 5 (as shown in Figure 1). We know that: - the blue house and the yellow house have equal numbers; - the red house is only near the blue house; - the blue house is between the green house and the red house. What color is the house number 3 ? A) blue B) red C) yellow D) pink E) green
+> There are five houses on Rainbow Street: one blue, one red, one yellow, one pink and one green. The houses are numbered from 1 to 5 (as shown in Figure 1). We know that: - the blue house and the yellow house have even numbers; - the red house is only near the blue house; - the blue house is between the green house and the red house. What color is the house number 3 ? A) blue B) red C) yellow D) pink E) green
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_ecolier#q15|src_kangourou_2004_ecolier__Q15]]
@@ -614,11 +630,25 @@ This is Sandro's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of the figures (sum of 9, 10 figures) *
+*Product of the digits (sum 9, 10 digits)*
 
-> The sum of the digits of a 10-digit number is equal to 9. How much is the product of the numbers in this number? A) 0 B) 1 C) 45 D) 9x8x7x6x ... x2x1 E) depends on the digits that make up the number 1 2 3 4 5
+> The sum of the digits of a 10-digit number is equal to 9. What
+> is the product of the digits of this number?
+> A)  0     
+> B)  1            C)  45   
+> D) 9x8x7x6x … x2x1
+> E)  it depends on the digits that make up the number
+> 1
+> 2
+> 3
+> 4
+> 5
 > 
-> I'm going to pay. I'm going to pay. 8 Kang 2004 Kang 2004 Questions from N. 17 al N. Twenty-four is worth five points each.
+> Pag. 
+> Pag. 8
+> Kang 2004
+> Kang 2004
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_ecolier#q16|src_kangourou_2004_ecolier__Q16]]
@@ -657,7 +687,7 @@ This is Sandro's birthday.
 
 ![[src_kangourou_2004_ecolier__prob17.png]]
 
-> Figures A, B, D are constructed by approximating 7 cubes (equal to each other), C by approximating 8. Which of these figures cannot be constructed using two different pieces from those shown next to each other ? A) A B) B C) C D) D E) None, all figures can be constructed in this way
+> Figures A, B, D are constructed by placing 7 cubes side by side (equal to each other), C by placing 8 side by side. Which of these figures cannot be constructed using two different pieces from those shown next to each other ? A) A B) B C) C D) D E) None, all figures can be constructed in this way
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_ecolier#q17|src_kangourou_2004_ecolier__Q17]]
@@ -739,7 +769,7 @@ This is Sandro's birthday.
 \end{document}
 ```
 
-> Here you see three triangles in succession. The second and third are obtained by approximating 4 and 9 triangles equal to the first respectively. Imagine continuing to build triangles like this. How many triangles equal to the first will make up the seventh triangle of the series (i.e. the fourth you build)? A) 21 B) 25 C) 35 D) 49                 E) 64
+> Here you see three triangles in succession. The second and third are obtained by placing 4 and 9 triangles equal to the first side by side respectively. Imagine continuing to build triangles like this. How many triangles equal to the first will make up the seventh triangle of the series (i.e. the fourth you build)? A) 21 B) 25 C) 35 D) 49                 E) 64
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_ecolier#q18|src_kangourou_2004_ecolier__Q18]]
@@ -767,9 +797,9 @@ This is Sandro's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number with coefficient 10001 and remainder 1*
+*Number with quotient 10001 and remainder 1*
 
-> A number divided by 2004 provides as a quotient 10001 and as a residual 1. What 's the number ? A) 2006005    B) 2004005     C) 20032004      D) 20042005     E) 20052005
+> A number divided by 2004 provides as a quotient 10001 and as a remainder 1. What 's the number ? A) 2006005    B) 2004005     C) 20032004      D) 20042005     E) 20052005
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_ecolier#q19|src_kangourou_2004_ecolier__Q19]]
@@ -815,13 +845,28 @@ This is Sandro's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white cubes (three-dimensional chessboard) *
+*How many white small cubes (3D chessboard)*
 
 ![[src_kangourou_2004_ecolier__prob20.png]]
 
-> The cube shown in the figure is full and is constructed using white cubes and black cubes, all of the same size. Two cubes that fit together for a whole face always have a different color. The cubes containing the vertices of the large cube are all black. How many white cubes were used? A) 62 B) 63         C) 64 D) 65         E) 68 A B C D
+> The cube shown in the figure is solid and is
+> built using white small cubes and black small cubes,
+> all of the same size. Two small cubes that match along an entire face always have
+> different colors. The small cubes that contain the vertices of the large
+> cube are all black. How many white small cubes were
+> used?
+> A) 62 
+> B) 63         C) 64  
+> D) 65         E) 68
+> A
+> B
+> C
+> D
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2004 Kang 2004
+> Page 
+> Page 9
+> Kang 2004
+> Kang 2004
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_ecolier#q20|src_kangourou_2004_ecolier__Q20]]
@@ -926,7 +971,7 @@ This is Sandro's birthday.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What score can't have the team *
+*What score can't the team have*
 
 > After three football championship games, one team scored three goals and suffered one. In the championship, three points are awarded for each win, one point for each draw and zero points for each defeat. What score, among those listed, can't that team have in the standings today? A) 7 B) 6 C) 5 D) 4 E) 3
 

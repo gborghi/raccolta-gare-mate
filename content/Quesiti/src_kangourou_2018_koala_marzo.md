@@ -63,7 +63,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Line connecting the hooks in the order of dots*
+*Line connecting the ladybirds in the order of dots*
 
 ![[src_kangourou_2018_koala_marzo__prob2.png]]
 
@@ -99,7 +99,7 @@ level: kangourou
 
 ![[src_kangourou_2018_koala_marzo__prob3.png]]
 
-> Alice drew a line by connecting the tips of the drawing according to the number of dots: she started with the tip with a single dot, reached that with two, and then continued in increasing order. Which of the following lines did you draw? (see figure)
+> Alice drew a line connecting the ladybugs in the figure according to the number of dots: she started from the ladybug with a single dot, reached the one with two, and then continued in increasing order. Which of the following lines did she draw? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_koala_marzo#q03|src_kangourou_2018_koala_marzo__Q03]]
@@ -131,7 +131,7 @@ level: kangourou
 
 ![[src_kangourou_2018_koala_marzo__prob4.png]]
 
-> Mary glued some four-pointed stars, all of them equal, to the result you see in the picture. How many stars did you use at least? (see figure)
+> Maria glued some four-pointed stars, all identical to each other, obtaining the result you see in the figure. What is the minimum number of stars she used? (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_koala_marzo#q04|src_kangourou_2018_koala_marzo__Q04]]
@@ -163,7 +163,7 @@ level: kangourou
 
 ![[src_kangourou_2018_koala_marzo__prob5.png]]
 
-> How many kangaroos do you have to move from left to right in order to have the same number of kangaroos in both parks? (see figure)
+> How many kangaroos do you have to move from the left park to the right one in order to have the same number of kangaroos in both parks? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_koala_marzo#q05|src_kangourou_2018_koala_marzo__Q05]]
@@ -197,16 +197,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is cooked and blown away (20 residual dots) *
+*Which ladybug flew away (20 spots remaining)*
 
 ![[src_kangourou_2018_koala_marzo__prob6.png]]
 
-> One of these cockroaches flies away. The remaining cockroaches have a total of 20 dots. Which little bitch flew away? (see figure)
+> One of these ladybugs flies away: the ladybugs that remain have 20 spots in total. Which ladybug flew away? (see figure)
 >
-> - **(A)** The one on the left.
-> - **(B)** The second one on the right.
-> - **(C)** The one on the right.
-> - **(D)** The second one on the left.
+> - **(A)** The leftmost one.
+> - **(B)** The second from the right.
+> - **(C)** The rightmost one.
+> - **(D)** The second from the left.
 > - **(E)** The one in the middle.
 
 **Answer:** B
@@ -239,7 +239,7 @@ level: kangourou
 
 ![[src_kangourou_2018_koala_marzo__prob7.png]]
 
-> Emilia has many pearls of different shapes and colors. Prepare groups of 4 beads and align them according to a pattern (see figure). What will be the 16th group? (see figure)
+> Emilia has many beads of different shapes and colors. Prepare groups of 4 beads and align them according to a pattern (see figure). What will be the 16th group? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_koala_marzo#q07|src_kangourou_2018_koala_marzo__Q07]]
@@ -271,7 +271,7 @@ How many discs does Marco see from above?
 
 ![[src_kangourou_2018_koala_marzo__prob8.png]]
 
-> Mark has inserted several wooden discs into a pile: the drawing shows what Mark sees as he looks at the building from the front. How many discs does Marco see looking at her from above? (see figure)
+> Mark has inserted several wooden discs onto a peg: the drawing shows what Mark sees as he looks at the building from the front. How many discs does Marco see looking at it from above? (see figure)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_koala_marzo#q08|src_kangourou_2018_koala_marzo__Q08]]
@@ -299,11 +299,11 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which brush should be removed last*
+*Which broom must be removed last*
 
 ![[src_kangourou_2018_koala_marzo__prob9.png]]
 
-> A witch-crazy witch dropped her five flying saucers. He removes them one by one without moving the ones still on the ground. What's the last fucking thing left to take off? (see figure)
+> A clumsy little witch has dropped her 5 flying brooms. She removes them one after another without moving those still on the ground. Which broom is left for her to remove last? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_koala_marzo#q09|src_kangourou_2018_koala_marzo__Q09]]
@@ -331,7 +331,7 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design seen overlapping the two transparent squares*
+*Drawing seen overlapping the two transparent squares*
 
 ![[src_kangourou_2018_koala_marzo__prob10.png]]
 
@@ -367,7 +367,7 @@ How many discs does Marco see from above?
 
 ![[src_kangourou_2018_koala_marzo__prob11.png]]
 
-> Paul reproduced on a square sheet, twice, the same greca (see figure). Now it will repeat it a third time: which of the points indicated will the greek pass? (The second Greek starts and ends where the blue balls are placed.) (see figure)
+> Paul reproduced on a square sheet, twice, the same Greek key pattern (see figure). Now it will repeat it a third time: which of the points indicated will the Greek key pattern pass? (The second Greek starts and ends where the blue dots are placed.) (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_koala_marzo#q11|src_kangourou_2018_koala_marzo__Q11]]
@@ -405,13 +405,13 @@ How many discs does Marco see from above?
 
 ![[src_kangourou_2018_koala_marzo__prob12.png]]
 
-> Lisa has four pieces, each of which could fit into her puzzle frame, but she needs three to fill the frame. Which one's going to split? (see figure)
+> Lisa has four pieces, each of which could fit into her puzzle frame, but she needs three to fill the frame. Which one will she discard? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
 > - **(C)** C
 > - **(D)** D
-> - **(E)** C o D
+> - **(E)** C or D
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_koala_marzo#q12|src_kangourou_2018_koala_marzo__Q12]]
@@ -443,7 +443,7 @@ How many discs does Marco see from above?
 
 ![[src_kangourou_2018_koala_marzo__prob13.png]]
 
-> Diana scored 6 points with the three arrows on the first target (the one on the left) and 8 points with the arrows on the second one (the one in the center). How many points did you make with the arrows on the third? (see figure)
+> Diana scored 6 points with the three arrows on the first target (the one on the left) and 8 points with the arrows on the second one (the one in the center). How many points did she make with the arrows on the third? (see figure)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_koala_marzo#q13|src_kangourou_2018_koala_marzo__Q13]]
@@ -471,7 +471,7 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Crossing of the dog with 3 right and 2 left turns*
+*Path of the dog with 3 right and 2 left turns*
 
 ![[src_kangourou_2018_koala_marzo__prob14.png]]
 
@@ -567,11 +567,11 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many gnoms are wet (fungal headings) *
+*How many gnomes get wet (fungi capacity) *
 
 ![[src_kangourou_2018_koala_marzo__prob17.png]]
 
-> A storm breaks out and 33 gnoms seek shelter under the four mushrooms you see in the figure. Under each mushroom can be as many gnomes as there are the large white dots on the mushroom's hat. You can only see the front of each fungus in the drawing, but on the opposite side there are the same number of dots. How many gnoms do they get wet? (see figure)
+> A storm breaks out and 33 gnomes seek shelter under the four mushrooms you see in the figure. Under each mushroom can be as many gnomes as there are the large white dots on the mushroom's hat. You can only see the front of each fungus in the drawing, but on the opposite side there are the same number of dots. How many gnomes get wet? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_koala_marzo#q17|src_kangourou_2018_koala_marzo__Q17]]
@@ -599,11 +599,11 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of ice cream with 36 euros and offer 6=5*
+*Maximum number of ice creams with 36 euros and offer 6=5*
 
 ![[src_kangourou_2018_koala_marzo__prob18.png]]
 
-> At the supermarket, an ice cream costs one euro, but if you buy six, you only pay five euros. What's the largest amount of ice cream you can buy for 36 euros?
+> At the supermarket, an ice cream costs one euro, but if you buy six, you only pay five euros. What's the largest number of ice creams you can buy for 36 euros?
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_koala_marzo#q18|src_kangourou_2018_koala_marzo__Q18]]
@@ -660,11 +660,11 @@ Maximum number of ice cream with 36 euros and offer 6=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Within days the two forcers will have the same coins
+Within days the two chests will have the same coins
 
 ![[src_kangourou_2018_koala_marzo__prob20.png]]
 
-> A pirate has two couriers: the one on the left has 10 coins, the other one is empty. Starting tomorrow, the pirate will put one coin every day in the left and two in the right. In how many days will the two forcers have the same number of coins?
+> A pirate has two chests: the one on the left has 10 coins, the other one is empty. Starting tomorrow, the pirate will put one coin every day in the left and two in the right. In how many days will the two chests have the same number of coins?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_koala_marzo#q20|src_kangourou_2018_koala_marzo__Q20]]
@@ -692,11 +692,11 @@ Within days the two forcers will have the same coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of paper after the two target cuts*
+*How many pieces of paper after the two cuts in half*
 
 ![[src_kangourou_2018_koala_marzo__prob21.png]]
 
-> Alice has three pieces of white paper, two black and two gray. First, cut every piece of non-black paper in half; then cut every piece of non-white paper in half. How many pieces of paper do you have at the end?
+> Alice has three pieces of white paper, two black and two gray. First, cut every piece of non-black paper in half; then cut every piece of non-white paper in half. How many pieces of paper does she have at the end?
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_koala_marzo#q21|src_kangourou_2018_koala_marzo__Q21]]
@@ -724,11 +724,11 @@ Within days the two forcers will have the same coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the fitting with overlapping adhesives*
+*Length of the fence with overlapping stickers*
 
 ![[src_kangourou_2018_koala_marzo__prob22.png]]
 
-> A boy has some stickers two inches wide and one inches high, and with these he draws a stitched one like the one in the picture. How many centimeters is the fence? (see figure)
+> A boy has some stickers 5 centimetres wide and 1 centimetre high: with these he draws a fence like the one in the figure. How many centimetres long is the fence? (see figure)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_koala_marzo#q22|src_kangourou_2018_koala_marzo__Q22]]
@@ -760,7 +760,7 @@ Within days the two forcers will have the same coins
 
 ![[src_kangourou_2018_koala_marzo__prob23.png]]
 
-> The alleyway from Anna's house to Mary's is 16 meters long. Instead, from Maria's house to Gianni's house, it's 20 meters and from Maria's house at the crossroads, it's 9 meters. How many yards is the alleyway from Anna's house to Gianni's? (see figure)
+> The alleyway from Anna's house to Maria's is 16 meters long. Instead, from Maria's house to Gianni's house, it's 20 meters and from Maria's house to the crossroads, it's 9 meters. How many meters is the alleyway from Anna's house to Gianni's? (see figure)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_koala_marzo#q23|src_kangourou_2018_koala_marzo__Q23]]
@@ -792,7 +792,7 @@ Cheaper and more expensive toy by price
 
 ![[src_kangourou_2018_koala_marzo__prob24.png]]
 
-> Ornella bought some toys. Their price satisfies all these equality (see figure). Which are, in order, the cheapest and most expensive toys? (see figure)
+> Ornella bought some toys. Their price satisfies all these equalities (see figure). Which are, in order, the cheapest and most expensive toys? (see figure)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_koala_marzo#q24|src_kangourou_2018_koala_marzo__Q24]]

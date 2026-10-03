@@ -31,9 +31,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*5^6 as the sum of N plus 5*
+*5^6 as a sum of N addends equal to 5*
 
-> Additives The number 56 can be obtained either as a product of 6 factors each equal to 5 or as the sum of N additives each equal to 5. How much is N?
+> Addends 
+> The number 56 can be obtained both as a product of 6 factors each equal to 5 and as a sum 
+> of N addends each equal to 5. What is the value of N?
 
 **Answer:** 3125
 [[Quesiti/src_kangourou_2017_squadre_a#q01|src_kangourou_2017_squadre_a__Q01]]
@@ -64,9 +66,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many coins Luisa and leaving home (three expenses) *
+*How many coins did Luisa leave home with (three expenses) *
 
-> When she left the house, Luisa had only one-euro coins in her purse. She went into three stores and spent half of what she had in her purse when she went in plus 50 cents. She has always paid the exact amount requested without receiving a balance and, after the three purchases, she has 23 euros left. How many coins did Luisa leave home with?
+> When she left the house, Luisa had only one-euro coins in her purse. She went into three stores and spent half of what she had in her purse when she went in plus 50 cents. She has always paid the exact amount requested without receiving change and, after the three purchases, she has 23 euros left. How many coins did Luisa leave home with?
 
 **Answer:** 191
 [[Quesiti/src_kangourou_2017_squadre_a#q02|src_kangourou_2017_squadre_a__Q02]]
@@ -98,7 +100,7 @@ level: squadre
 
 *Blue cubes in contact with red ones in the box 5x6x7*
 
-> A box without a lid has a base of 5 and 6 and a height of 7. There were 210 cubes on side one in the box. Those who touch the box are red, the others are blue. How many blue cubes share at least one face with a red one?
+> A box without a lid has a base of 5 and 6 and a height of 7. There were 210 cubes of side 1 in the box. Those who touch the box are red, the others are blue. How many blue cubes share at least one face with a red one?
 
 **Answer:** 62
 [[Quesiti/src_kangourou_2017_squadre_a#q03|src_kangourou_2017_squadre_a__Q03]]
@@ -160,9 +162,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangle perimeter with an integer catheter 11*
+*Right triangle perimeter with an integer leg 11*
 
-> You only know one catheter In a right triangle the dimensions of the sides, expressed in centimeters, are all integers. One of the catheters measures 11 centimeters. How many centimeters does the perimeter measure?
+> You only know one leg In a right triangle the dimensions of the sides, expressed in centimeters, are all integers. One of the legs measures 11 centimeters. How many centimeters does the perimeter measure?
 
 **Answer:** 132
 [[Quesiti/src_kangourou_2017_squadre_a#q05|src_kangourou_2017_squadre_a__Q05]]
@@ -195,9 +197,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of RETI values in AMO+AMO+AMO=RETI (max and min) *
+*Sum of RETI values in AMO+AMO+AMO=RETI (max and min) *
 
-> The RETI Peter replaces each letter of the expression AMO + AMO + AMO = RETI with a digit, replacing different letters with different digits, so as to obtain a correct equality. Andrew does the same thing, but Peter gets the greatest possible value for RETI and Andrew the smallest compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrew and Peter?
+> Peter replaces each letter of the expression AMO + AMO + AMO = RETI with a digit, replacing different letters with different digits, so as to obtain a correct equality. Andrew does the same thing, but Peter gets the greatest possible value for RETI and Andrew the smallest compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrew and Peter?
 
 **Answer:** 3816
 [[Quesiti/src_kangourou_2017_squadre_a#q06|src_kangourou_2017_squadre_a__Q06]]
@@ -225,7 +227,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the six Fibonacci numbers (first 4, last 47) *
+*sum of the six Fibonacci-like numbers (first 4, last 47) *
 
 > The sum In a sequence of six numbers, the first one is 4 and the last one is 47. Each number from the third is the sum of the previous two. What's the sum of all six numbers?
 
@@ -289,7 +291,7 @@ Percentage of pensioners in the city
 
 *Three-digit increasing numbers*
 
-> Let's say a number of three significant digits is growing if the digits are all different and that of the hundreds is less than that of the tens which is less than that of the units. How many numbers are growing?
+> Let's say a three-digit number is "increasing" if the digits are all different and that of the hundreds is less than that of the tens which is less than that of the units. How many increasing numbers are there?
 
 **Answer:** 84
 [[Quesiti/src_kangourou_2017_squadre_a#q09|src_kangourou_2017_squadre_a__Q09]]
@@ -318,9 +320,9 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs with sums between 1 and 103*
+*Pairs with even sums between 1 and 103*
 
-> How many couples? For how many pairs (unordered) of integers, different from each other, between 1 and 103, both included, does it happen that the sum of the two numbers that make up the pair is an equal number?
+> How many pairs? For how many pairs (unordered) of integers, different from each other, between 1 and 103, both included, does it happen that the sum of the two numbers that make up the pair is an even number?
 
 **Answer:** 2601
 [[Quesiti/src_kangourou_2017_squadre_a#q10|src_kangourou_2017_squadre_a__Q10]]
@@ -462,7 +464,7 @@ Percentage of pensioners in the city
 \end{document}
 ```
 
-> The two squares look at the figure. The area of the ABCD square is 23 cm2 while the area of the EFGH square is 777 cm2. How many centimeters from point A to point F?
+> The two squares Observe the figure. The area of the ABCD square is 23 cm2 while the area of the EFGH square is 777 cm2. How many centimeters is point A from point F?
 
 **Answer:** 20
 [[Quesiti/src_kangourou_2017_squadre_a#q12|src_kangourou_2017_squadre_a__Q12]]
@@ -494,9 +496,14 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of N first factor in the encrypted product*
+*How many N prime factor in the encrypted product*
 
-> Product In the product _ _ _  9 _ = _ 3 _ _ the first factor N is a 3-digit number, while the second factor is a 2-digit number with 9 as the number of decimal places. The result is a four-digit number that has three as the number of hundreds. How many numbers can N be the first factor?
+> The product 
+> In the product  
+> _ _ _   9 _ = _ 3 _ _ 
+> the first factor N is a 3-digit number, while the second factor is a two-digit number with 9 
+> as the tens digit. The result is a 4-digit number that has 3 as the hundreds digit. 
+> How many numbers N can be the first factor?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2017_squadre_a#q13|src_kangourou_2017_squadre_a__Q13]]
@@ -532,7 +539,7 @@ Percentage of pensioners in the city
 
 *Possible first-second pairs in the menu*
 
-> The menu The restaurant of a hotel, open only in the evening, offers a choice of some first and some second dishes, the latter in greater quantity than the former. Last April, a couple of tourists ate dinner at the hotel every night and always wanted to order a different pair of first- and second-hand dishes. In this way all possible pairs were ordered, some even more than once but, during the first week, neither of them ordered the same dish twice. How many possible pairs of firsts and seconds can be obtained from the dishes in the menu?
+> The menu The restaurant of a hotel, open only in the evening, offers a choice of some first and some second dishes, the latter in greater quantity than the former. Last April, a couple of tourists ate dinner at the hotel every night and always wanted to order a different pair of first and second dishes. In this way all possible pairs were ordered, some even more than once but, during the first week, neither of them ordered the same dish twice. How many possible pairs of first and second dishes can be obtained from the dishes in the menu?
 
 **Answer:** 56
 [[Quesiti/src_kangourou_2017_squadre_a#q14|src_kangourou_2017_squadre_a__Q14]]
@@ -579,7 +586,7 @@ Percentage of pensioners in the city
 
 *Couple (x,y) with x^2+y^2-16y=2017*
 
-> The solution pair Determine the ordered pair (x,y) of positive integers with x < y that satisfies the equation x2 + y2  16y  2017. In the answer, the values of x and y are given in the order. A B C D E F G H
+> The solution pair Determine the ordered pair (x,y) of positive integers with x < y that satisfies the equation x^2 + y^2 - 16y = 2017. In the answer, the values of x and y are given in the order. A B C D E F G H
 > 
 > Kangourou of Mathematics 2017 Kangourou Cup to teams Semifinal round A Cervia, 6 May 2017
 >  

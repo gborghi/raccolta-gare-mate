@@ -33,9 +33,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much more of the sum of the peers than the sum of the odd ones*
+*By how much does the sum of the even numbers exceed that of the odd numbers*
 
-> Paola and Enrico Consider all positive integers up to and including 2012: Paola calculates the sum of all odd numbers and Enrico the sum of all even numbers. How much more money did Enrico get than Paola?
+> Paola and Enrico 
+> Consider all positive integers up to 2012 inclusive: Paola calculates the sum of all the 
+> odd ones and Enrico the sum of all the even ones. By how much does the sum obtained by Enrico exceed that 
+> obtained by Paola?
 
 **Answer:** 1006
 [[Quesiti/src_kangourou_2012_squadre_finale#q01|src_kangourou_2012_squadre_finale__Q01]]
@@ -95,7 +98,7 @@ level: squadre
 
 *Number of digits of 8^5 * 5^17 * 7^3 *
 
-> Multiplication From how many digits is the number 85 × 517 × 73?
+> Multiplication How many digits does the number 8^5 × 5^17 × 7^3 have?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2012_squadre_finale#q03|src_kangourou_2012_squadre_finale__Q03]]
@@ -124,9 +127,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute angle launches 10 minutes after angle 90*
+*Acute angle of clock hands 10 minutes after a 90-degree angle*
 
-> In the village of Marco, the bell tower has a large traditional clock and only plays at full hours. At a certain hour in the afternoon, when the bell rings, the lancet forms a 90-degree angle. How many degrees does the sharp angle the lancet forms 10 minutes later?
+> Marco's town clock tower
+> In Marco's town, the clock tower has a large traditional clock and it chimes only on the "full" hours.
+> At a certain afternoon hour, when the clock tower chimes, the hands form an angle
+> of 90 degrees. How many degrees does the acute angle that the hands form 10 minutes later measure?
 
 **Answer:** 35
 [[Quesiti/src_kangourou_2012_squadre_finale#q04|src_kangourou_2012_squadre_finale__Q04]]
@@ -156,9 +162,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum final zero of n if the product dividers has 15 zeroes*
+*Maximum final zero of n if the product of divisors has 15 zeroses*
 
-> Multiply all divisors A positive integer n is such that, if you multiply all its divisors, including n, you get a number whose writing (decimal) ends with 15 zeros. With how many zeros at most can you finish writing (decimal) of n?
+> Multiply all divisors A positive integer n is such that, if you multiply all its divisors, including n, you get a number whose writing (decimal) ends with 15 zeros. With how many zeros at most can the decimal representation of n end?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2012_squadre_finale#q05|src_kangourou_2012_squadre_finale__Q05]]
@@ -189,7 +195,7 @@ level: squadre
 
 *Number of cube cubes (1/8 red, 1/4 white) *
 
-> Cube and cubes A cube is less than a meter high and is obtained by approaching more than 300 cubes one-tenth of a metre each side. One-eighth of these are red, a quarter are white and the rest are green. How many cubes is the cube made of?
+> Cube and cubes A cube is less than a meter high and is obtained by placing more than 300 cubes each with a side of one decimetre. One-eighth of these are red, a quarter are white and the rest are green. How many cubes is the cube made of?
 
 **Answer:** 512
 [[Quesiti/src_kangourou_2012_squadre_finale#q06|src_kangourou_2012_squadre_finale__Q06]]
@@ -248,9 +254,10 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For a large divisor of 2^14-1 divided by the number *
+*Largest divisor of 2^14-1 distinct from the number*
 
-> Large divisors What is the largest divisor of the number 214  1 distinct from the number itself?
+> Large divisors 
+> What is the largest divisor of the number 214 – 1 distinct from the number itself?
 
 **Answer:** 5461
 [[Quesiti/src_kangourou_2012_squadre_finale#q08|src_kangourou_2012_squadre_finale__Q08]]
@@ -279,7 +286,7 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining pages summed up page numbers today 5106*
+*Remaining pages given the sum of page numbers today 5106*
 
 > Roberto's book to read must read a 630-page book. Yesterday he read a third of it and the sum of the page numbers he will read today is 5106. After today's reading, how many pages of the book will he have left to read?
 
@@ -309,9 +316,11 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of all final goods and services produced within the Union.
+*Value of the product (2012-0)*...*(0-2012)*
 
-> How many factors! Find the value of the following product (2012  0) × (2011  1) × (2010  2) × ... × (2  2010) × (1  2011) × (0  2012).
+> So many factors!
+> Find the value of the following product
+>   (2012 – 0) × (2011 – 1) × (2010 – 2) × … × (2 – 2010) × (1 – 2011) × (0 – 2012).
 
 **Answer:** 0
 [[Quesiti/src_kangourou_2012_squadre_finale#q10|src_kangourou_2012_squadre_finale__Q10]]
@@ -345,7 +354,7 @@ This is the total value of all final goods and services produced within the Unio
 
 *Train length (James 45m, Luke 30m) *
 
-> The train passes. James and Luke are both standing in the middle of the sidewalk of a station where a freight train is arriving, which is traveling at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they begin to walk at the same speed along the sidewalk, James in the same direction as the train and Luke in the opposite direction. They both stop when they are reached by the train's tail: James walked 45 meters, Luke walked 30 meters. How long is the train?
+> James and Luke are both standing in the middle of the platform of a station where a freight train is arriving, which is traveling at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they begin to walk at the same speed along the platform, James in the same direction as the train and Luke in the opposite direction. They both stop when they are reached by the train's tail: James walked 45 meters, Luke walked 30 meters. How long is the train?
 
 **Answer:** 180
 [[Quesiti/src_kangourou_2012_squadre_finale#q11|src_kangourou_2012_squadre_finale__Q11]]
@@ -412,7 +421,7 @@ This is the total value of all final goods and services produced within the Unio
 
 *Two-digit numbers whose reduction is iterated by 0*
 
-> Reducing a positive integer greater than or equal to 10 means that we multiply its digits by them. Of course, the reduction operation can be iterated (i.e. repeated on the result obtained): for example, doing it twice consecutively on number 57, you get 15. How many positive integers of two digits are such that, iterating on them the reduction operation, at some point you get 0?
+> Reducing a positive integer greater than or equal to 10 means that we multiply its digits together. Of course, the reduction operation can be iterated (i.e. repeated on the result obtained): for example, doing it twice consecutively on number 57, you get 15. How many positive integers of two digits are such that, iterating on them the reduction operation, at some point you get 0?
 
 **Answer:** 24
 [[Quesiti/src_kangourou_2012_squadre_finale#q13|src_kangourou_2012_squadre_finale__Q13]]
@@ -441,7 +450,7 @@ This is the total value of all final goods and services produced within the Unio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangles with vertices of polygons 2012 sides*
+*Equilateral triangles with vertices on a 2012-sided polygon*
 
 > Inscribed triangles How many equilateral triangles can be constructed whose vertices are vertices of the same regular polygon of 2012 sides?
 

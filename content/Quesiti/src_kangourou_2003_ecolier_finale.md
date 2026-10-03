@@ -33,7 +33,7 @@ level: kangourou
 
 > In one store, fruit packages of two types are on sale: packages of 2 oranges and 4 apples each and packages of 5 oranges and 3 apples each. After I bought some packages at that store, I find myself with nine oranges in all. How many apples have I bought in total?
 
-**Answer:** 11 mele
+**Answer:** 11 apples
 [[Quesiti/src_kangourou_2003_ecolier_finale#qe1|src_kangourou_2003_ecolier_finale__QE1]]
 
 
@@ -61,7 +61,7 @@ level: kangourou
 
 > A class is made up of 23 children. Some of them have only one pen, others two pens and the remaining three pens. The children who have one pen are as many as those who have three. Finally, the teacher has five pens. How many pens are in that class?
 
-**Answer:** 51 penne
+**Answer:** 51 pens
 [[Quesiti/src_kangourou_2003_ecolier_finale#qe2|src_kangourou_2003_ecolier_finale__QE2]]
 
 
@@ -118,7 +118,7 @@ level: kangourou
 
 > We have a two-plate scale and a set of weights comprising only one weight for each of these sizes, in grams: $1, 2, 5, 10$. What are the possible weights for an object that we can weigh exactly with our own scales?
 
-**Answer:** interi 1..18
+**Answer:** integers 1..18
 [[Quesiti/src_kangourou_2003_ecolier_finale#qe4|src_kangourou_2003_ecolier_finale__QE4]]
 
 
@@ -159,7 +159,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert 1.9, with sums of 20 around the vertices*
+*Insert 1..9, with sums of 20 around the vertices*
 
 ![[src_kangourou_2003_ecolier_finale__probe5.png]]
 
@@ -177,9 +177,9 @@ level: kangourou
 \end{document}
 ```
 
-> The figure you're going to get is a square taken from 9 smaller squares. You must enter all the numbers from $1$ to $9$, one for each square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. As you can see, the numbers $3$ and $5$ have already been placed: enter the remainder. (see figure)
+> The figure you're going to get is a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one for each square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. As you can see, the numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
 
-**Answer:** due soluzioni
+**Answer:** two solutions
 [[Quesiti/src_kangourou_2003_ecolier_finale#qe5|src_kangourou_2003_ecolier_finale__QE5]]
 
 
@@ -244,7 +244,7 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. It can be moved from $P$ to $Q$ only by following the lines drawn and only by moving from top to bottom. How many possible routes to go from $P$ to $Q$? (see figure)
+> Look at the figure. You can move from $P$ to $Q$ only by following the lines drawn and only by moving from top to bottom. How many possible routes are there to go from $P$ to $Q$? (see figure)
 
 **Answer:** 20
 [[Quesiti/src_kangourou_2003_ecolier_finale#qe6|src_kangourou_2003_ecolier_finale__QE6]]

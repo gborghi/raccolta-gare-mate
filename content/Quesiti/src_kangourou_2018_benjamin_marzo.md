@@ -44,7 +44,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob1.png]]
 
-> The figure shows Piero placing three objects on the table. What image does Piero see if he looks at the table above? A)
+> The figure shows Piero placing three objects on the table. What image does Piero see if he looks at the table from above? A)
 > 	
 > B) C)
 > 	
@@ -112,7 +112,7 @@ level: kangourou
 \end{document}
 ```
 
-> The star in the figure consists of four equilateral triangles and a square. The perimeter of the square is 36 cm. How much is the star? A) 144 cm B) 120 cm C) 104 cm D) 90 cm E) 72 cm
+> The star in the figure consists of four equilateral triangles and a square. The perimeter of the square is 36 cm. What is the perimeter of the star? A) 144 cm B) 120 cm C) 104 cm D) 90 cm E) 72 cm
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_benjamin_marzo#q02|src_kangourou_2018_benjamin_marzo__Q02]]
@@ -157,7 +157,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob3.png]]
 
-> Look at the figure: a rectangular garden is divided into 20 identical square courtyards. Two snakes, Slow and Fast, move along the outer edge of the garden starting, at the same moment, from the S-summit, but in different directions. Veloce's speed is twice that of Slow. Which point of the perimeter will they meet? A) A
+> Look at the figure: a rectangular garden is divided into 20 identical identical square flowerbeds. Two snakes, Slow and Fast, move along the outer edge of the garden starting, at the same moment, from vertex S, but in different directions. Fast's speed is twice that of Slow. Which point of the perimeter will they meet? A) A
 > 	
 > B) B
 > 	
@@ -208,7 +208,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob4.png]]
 
-> Look at the figure: Alice correctly subtracted two two-digit numbers; then she deleted two digits. What is the sum of the deleted numbers? A) 8
+> Look at the figure: Alice correctly subtracted two two-digit numbers; then she deleted two digits. What is the sum of the deleted digits? A) 8
 > 	
 > B) 9
 > 	
@@ -261,11 +261,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What day is the 25th of the month*
+*On which day does the 25th of the month fall*
 
 ![[src_kangourou_2018_benjamin_marzo__prob5.png]]
 
-> The figure shows the calendar of a certain month. Unfortunately, an ink stain covers most of the dates. What day is the 25th of that month? (a) Monday (b) Wednesday (c) Thursday (d) Saturday (e) Saturday (e) Sunday (e) Monday (d) Wednesday (c) Thursday (d) Saturday (e) Saturday (e) Sunday (d) Monday (d) Monday (d) Monday (d) Wednesday (c) Wednesday (d) Thursday (d) Thursday (d) Saturday (e) Saturday (d) Saturday (d) Sunday) Monday (d) Monday (d) Monday (d) Monday (d) Monday (d) Monday (d) Monday (d) Wednesday (d) Wednesday (d) Wednesday (d) Thursday (d) Saturday (e) Saturday (d) Sunday) Monday (d) Sunday) Monday (d) Monday (d) Monday (d) Monday (d) Monday (d) Wednesday (d) Friday (e) Saturday (e) Saturday (e) Saturday (e) Saturday (e) Sunday)
+> The figure shows the calendar of a certain month. Unfortunately
+> an ink stain covers most
+> of the dates. On which day does the 25th of that month fall?
+> A) Monday	
+> B) Wednesday	
+> C) Thursday
+> D) Saturday	
+> E) Sunday
+> Fast
+> Slow
+> L
+> M
+> M
+> G
+> S
+> V
+> D
 >
 
 **Answer:** D
@@ -308,7 +324,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob6.png]]
 
-> In the figure, you see three squares. The smallest side is 6 cm long. How many centimetres is the length of the side of the largest square? A) 8
+> In the figure, you see three squares. The side of the smallest square is 6 cm long. How many centimetres is the length of the side of the largest square? A) 8
 > 	
 > B) 10
 > 	
@@ -358,7 +374,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob7.png]]
 
-> The squares here next to each other are congruent. In which of these areas is the area of the portion painted in black the largest? A) A
+> The squares here next to each other are congruent. In which of them is the area of the portion painted in black the largest? A) A
 > 	
 > B) B
 > 	
@@ -463,7 +479,7 @@ level: kangourou
 
 ![[src_kangourou_2018_benjamin_marzo__prob9.png]]
 
-> In the first round, Diana scored 14 points with three arrows on the back of the net; in the second round, she scored 16. How many points did you score in the third round? A) 17
+> In the first round, Diana scored 14 points with three arrows on the target; in the second round, she scored 16. How many points did she score in the third round? A) 17
 > 	
 > B) 18
 > 	
@@ -518,11 +534,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which door is behind the lion*
+*Behind which door is the lion*
 
 > Four doors lead to four rooms in which a lion is hidden. Above each door is written a statement, but only one of the four is true.
 > 	
-> • On the front is written: The lion is not behind this door.
+> • On the first is written: The lion is not behind this door.
 > 	
 > • On the second is written: The lion is behind this door.
 > 	
@@ -530,7 +546,7 @@ level: kangourou
 > 	
 > • On the fourth it says: The Earth is larger than the Sun. Behind which door is the lion? A) The first. B) The second. C) The third. D) The fourth. E) The information is not sufficient to answer. 2 cm 2 cm 14 points 16 points ???
 > 
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_benjamin_marzo#q10|src_kangourou_2018_benjamin_marzo__Q10]]
@@ -709,11 +725,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of axle cut into 9 pieces*
+*Length of board cut into 9 pieces*
 
 ![[src_kangourou_2018_benjamin_marzo__prob14.png]]
 
-> Peter cut into 9 pieces a rectangular wooden axis, 8 cm wide, with parallel cuts on the side 8 cm long. One piece is a square, the other rectangles. Then he put all the pieces together to form a square, as shown in the figure. How long was the axis? A) 150
+> Peter cut into 9 pieces a rectangular wooden board, 8 cm wide, with parallel cuts on the side 8 cm long. One piece is a square, the other rectangles. Then he put all the pieces together to form a square, as shown in the figure. How long was the board? A) 150
 > 	
 > B) 168
 > 	
@@ -761,7 +777,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The ball weighs 30 g
+Which ball weighs 30 g
 
 ![[src_kangourou_2018_benjamin_marzo__prob15.png]]
 
@@ -806,7 +822,7 @@ The ball weighs 30 g
 
 Who gets the fifth shot in the ball game
 
-> Two boys  Enrico and Paolo  and three girls  Alda, Luisa and Valeria  play ball with a strange rule. When a guy gets the ball, he can throw it to another guy or a girl. When a girl gets the ball, she throws it to another girl, but not to whoever threw it. Start Henry and launch to Alda. Who makes the fifth shot? A) Alda B) Henry C) Louise D) Paul E) Valeria
+> Two boys  Enrico and Paolo  and three girls  Alda, Luisa and Valeria  play ball with a strange rule. When a guy gets the ball, he can throw it to another guy or a girl. When a girl gets the ball, she throws it to another girl, but not to whoever threw it. Henry starts and throws to Alda. Who makes the fifth shot? A) Alda B) Enrico C) Luisa D) Paolo E) Valeria
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_benjamin_marzo#q16|src_kangourou_2018_benjamin_marzo__Q16]]
@@ -843,7 +859,7 @@ Who gets the fifth shot in the ball game
 
 *On what day the recipients exceed 100*
 
-> On Monday, Alexandra sent a photo to five friends. The next day each of the five sent the photo to two friends, each of whom, the next day, sent it to two other friends and so on, for a few days. If each person sent the photo only to people who hadn't seen it before and only in one day, on what day of the week did the number of people who received the photo go up to 100? A) Wednesday B) Thursday C) Friday D) Saturday E) Sunday
+> On Monday, Alexandra sent a photo to five friends. The next day each of the five sent the photo to two friends, each of whom, the next day, sent it to two other friends and so on, for a few days. If each person sent the photo only to people who hadn't seen it before and only in one day, on what day of the week did the number of people who received the photo exceed 100? A) Wednesday B) Thursday C) Friday D) Saturday E) Sunday
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_benjamin_marzo#q17|src_kangourou_2018_benjamin_marzo__Q17]]
@@ -883,11 +899,11 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of all numbers in the triangular table*
+*Sum of all the numbers in the triangular table*
 
 ![[src_kangourou_2018_benjamin_marzo__prob18.png]]
 
-> Emilia wants to insert a number into each cell of a triangular table so that the sum of the numbers in two cells sharing a side is the same. He's already entered two numbers. What will be the sum of all the numbers in the table? A) 18
+> Emilia wants to insert a number into each cell of a triangular table so that the sum of the numbers in two cells sharing a side is the same however she chooses them. She has already entered two numbers. What will be the sum of all the numbers in the table? A) 18
 > 	
 > B) 20
 > 	
@@ -931,11 +947,11 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which development cannot be of the colored cube*
+*Which net cannot be of the colored cube*
 
 ![[src_kangourou_2018_benjamin_marzo__prob19.png]]
 
-> Each face of a cube has been painted in only one color: black, gray, or white. Opposite faces were given different colors. Which of the following development plans cannot be the development of such a cube? A) B)
+> Each face of a cube has been painted in only one color: black, gray, or white. Opposite faces were given different colors. Which of the following nets cannot be the net of such a cube? A) B)
 > 	
 > C)
 > 	
@@ -985,7 +1001,7 @@ Who gets the fifth shot in the ball game
 > 	
 > C) 2
 > 	
-> D) 3 E) There is not enough information to decide. The questions from N. 21 al N. 30 is worth 5 points each.
+> D) 3 E) There is not enough information to decide. The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_benjamin_marzo#q20|src_kangourou_2018_benjamin_marzo__Q20]]
@@ -1034,7 +1050,7 @@ Who gets the fifth shot in the ball game
 
 ![[src_kangourou_2018_benjamin_marzo__prob21.png]]
 
-> Francis correctly summed two three-digit numbers. In the figure, the digits that formed the numbers were replaced with letters: equal letters for equal numbers, different letters for different numbers. What number is represented by the letter B? A) 0
+> Francis correctly summed two three-digit numbers. In the figure, the digits that formed the numbers were replaced with letters: equal letters for equal digits, different letters for different digits. What number is represented by the letter B? A) 0
 > 	
 > B) 2
 > 	
@@ -1042,7 +1058,7 @@ Who gets the fifth shot in the ball game
 > 	
 > D) 5
 > 	
-> E) 6 A B C  + C B A  = D D D D
+> E) 6 A B C  + C B A  =
 >
 
 **Answer:** A
@@ -1138,7 +1154,7 @@ Who gets the fifth shot in the ball game
 
 ![[src_kangourou_2018_benjamin_marzo__prob23.png]]
 
-> Four indistinguishable cells are each placed in a different 4 x 4 grid cell. One of them sleeps and doesn't move. Each time a whistle is made, the other three move into an adjacent cell already free at the time of the whistle, without ending in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came to the previous whistle. The first figure shows the result of the first three whistles. Which of the following images represents a possible situation after the fourth whistle? A) B) C) D) E)
+> Four indistinguishable ladybugs are each in a different cell of a 4 x 4 grid. One of them sleeps and doesn't move. Each time a whistle is made, the other three move into an adjacent cell already free at the time of the whistle, without ending in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came to the previous whistle. The first figure shows the result of the first three whistles. Which of the following images represents a possible situation after the fourth whistle? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_benjamin_marzo#q23|src_kangourou_2018_benjamin_marzo__Q23]]
@@ -1175,7 +1191,7 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum groups with the same sum of 2 to 10*
+*Maximum groups with the same sum from 2 to 10*
 
 > Nicola wants to distribute the nine numbers 2, 3, 4, ..., 10 into certain groups, so that the sum of the numbers appearing in each group is the same for all groups. How many groups can you get at most? A) 2
 > 	
@@ -1285,7 +1301,7 @@ Who gets the fifth shot in the ball game
 
 > A writer has signed many copies of his book and numbered them from number 1. Copies are kept in a gradual order in some boxes: each box contains the same amount of volumes as the others, and the boxes are also numbered starting with the number 1. It is known that volume n. 40 is in the fourth box, which volume n. 73 is in the seventh box and that volume n. 99 is in box nine. How many volumes does each box contain?
 > 	
-> (A) Surely 11.
+> A) Surely 11.
 > 	
 > B) Surely 12.
 > 	
@@ -1341,7 +1357,7 @@ Who gets the fifth shot in the ball game
 
 ![[src_kangourou_2018_benjamin_marzo__prob27.png]]
 
-> In each cell of this table 5 × 5 we have to write 1 or 0 so that every square 2 × 2 contained in table 5 × 5 contains exactly 3 equal numbers. There are several ways to do this. If we add up all the numbers in the table we can get a maximum of A) 22.
+> In each cell of this table 5 × 5 we have to write 1 or 0 so that every square 2 × 2 contained in the 5 × 5 table contains exactly 3 equal numbers. There are several ways to do this. If we add up all the numbers in the table we can get a maximum of A) 22.
 > 	
 > B) 21.
 > 	
@@ -1389,7 +1405,7 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of possible numbers at the point of application*
+*sum of possible numbers at the question mark*
 
 ![[src_kangourou_2018_benjamin_marzo__prob28.png]]
 
@@ -1445,11 +1461,11 @@ Who gets the fifth shot in the ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden points in the covered domain card*
+*Hidden points in the covered domino tile*
 
 ![[src_kangourou_2018_benjamin_marzo__prob29.png]]
 
-> There are eight dominoes on the table: as you can see, one is half covered by another. The eight cards can be inserted (without necessarily respecting the rules of the master) into a square of 4 × 4 so that the number of points in each row and in each column is the same. How many dots are hidden on the cover of the card? Remember, in each half of each card, the points can be 0 to 6. A) 1
+> There are eight dominoes on the table: as you can see, one is half covered by another. The eight cards can be inserted (without necessarily respecting the rules of dominoes) into a square of 4 × 4 so that the number of points in each row and in each column is the same. How many dots are hidden in the covered part of the tile? Remember, in each half of each card, the points can be 0 to 6. A) 1
 > 	
 > B) 2
 > 	
@@ -1511,7 +1527,7 @@ Maximum lie around the round table
 
 ![[src_kangourou_2018_benjamin_marzo__prob30.png]]
 
-> Fourteen people are sitting around a round table. Each of them is either a liar (that is, always thinking) or always telling the truth. Each of them says, "Both my neighbors are liars". What is the maximum number of liars sitting on that board? A) 7
+> Fourteen people are sitting around a round table. Each of them is either a liar (that is, always lying) or always telling the truth. Each of them says, "Both my neighbors are liars". What is the maximum number of liars sitting at that table? A) 7
 > 	
 > B) 8
 > 	

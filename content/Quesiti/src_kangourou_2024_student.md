@@ -36,9 +36,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*-2 multiplied by 10, +2 squared, double of a prime*
+*-2 from a multiple of 10, +2 from a square, double of a prime*
 
-> It's missing two units to be a multiple of 10, it has two too many to be a perfect square, but it's double a prime number. It's one of the following numbers. What kind? A) 258 B) 78
+> It's missing two units to be a multiple of 10, it has two too many to be a perfect square, but it's double a prime number. It's one of the following numbers. Which one? A) 258 B) 78
 > 	
 > C) 58 D) 38 E) 18
 
@@ -79,7 +79,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student__prob2.png]]
 
-> Look at the figure: seven congruent pentagons, each with two internal 90 degree angles, surround an eighth white pentagon, similar to the previous ones. Which of the following pentagons can be replaced with the white one (perhaps by rotating it, but not by flipping it) so that only a single black curve that intersects itself is left in place? A)                 B)               C) D)               E)
+> Look at the figure: seven congruent pentagons, each with two internal 90 degree angles, surround an eighth white pentagon, congruent to the previous ones. Which of the following pentagons can replace the white one (perhaps by rotating it, but not by flipping it) so that only a single black curve that intersects itself is left in place? A)                 B)               C) D)               E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_student#q02|src_kangourou_2024_student__Q02]]
@@ -163,11 +163,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right y=x+1 in axes with inverted orientation*
+*Line y=x+1 in axes with inverted orientation*
 
 ![[src_kangourou_2024_student__prob4.png]]
 
-> When using an orthogonal Cartesian axis system, Pamela has her own way of doing this: reversing the orientation of both axes. In Pamela's system, which of the following is the line of equation y = x + 1? A)
+> When using an orthogonal Cartesian coordinate system, Pamela has her own way of doing this: reversing the orientation of both axes. In Pamela's system, which of the following is the line of equation y = x + 1? A)
 > 	
 > B)
 > 	
@@ -207,9 +207,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 6 in a set of dice*
+*Probability of 6 with a loaded die*
 
-> A dice has been tricked: now the probability of getting 2, 3, 4 or 5 is always 1/6, but the probability of getting 6 is twice the probability of getting 1. Now what's the probability of getting 6? A) 1/4 B) 1/6
+> A die has been loaded: now the probability of getting 2, 3, 4 or 5 is always 1/6, but the probability of getting 6 is twice the probability of getting 1. Now what's the probability of getting 6? A) 1/4 B) 1/6
 > 	
 > C) 7/36 D) 2/9 E) 5/18
 
@@ -265,11 +265,36 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum 16^15 four times as power*
+*Sum 16^15 four times expressed as a power*
 
-> Which of the following numbers corresponds to the result of the sum 1615 + 1615 + 1615 + 1615 + 1615 ? A) 1619 B) 431
-> 	
-> C) 460 D) 1660 E) 260 x y 1 1 x y 1 1 x y 1 1 x y 1 1 x y 1 1
+> Which of the following numbers coincides with the result of the sum
+> 1615 + 1615 + 1615 + 1615 ?
+> A) 1619
+> B) 431
+>
+> C) 460
+> D) 1660
+> E) 260
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
+> x
+> y
+> 1
+> 1
 >
 
 **Answer:** B
@@ -313,7 +338,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student__prob7.png]]
 
-> Each of the triangles and each of the squares (not those divided into two triangles) in the figure must be coordinated so that each time two of these figures are in contact, even for a single point (vertical), they receive different colors. What is the minimum number of colours sufficient to achieve the intention? A) 5 B) 6 C) 7 D) 8 E) 9
+> Each of the triangles and each of the squares (not those divided into two triangles) in the figure must be coloured so that each time two of these figures are in contact, even for a single point (vertex), they receive different colors. What is the minimum number of colours sufficient to achieve the intention? A) 5 B) 6 C) 7 D) 8 E) 9
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_student#q07|src_kangourou_2024_student__Q07]]
@@ -354,7 +379,7 @@ level: kangourou
 
 *Minimum moves to turn 6 cards by flipping 4*
 
-> Six playing cards are lined up on a table, and none of them shows the back. One move consists of flipping exactly four cards (not necessarily consecutive). What's the minimum number of moves enough to make all the cards turn? A) 3
+> Six playing cards are lined up on a table, and none of them shows the back. One move consists of flipping exactly four cards (not necessarily consecutive). What's the minimum number of moves enough to make all the cards show the back? A) 3
 > 	
 > B) 4
 > 	
@@ -399,7 +424,7 @@ level: kangourou
 
 *Outcome not obtained by multiplying by 6 or 10*
 
-> Suppose you play like this. Starting with a number, you draw a coin. If you hit it, multiply that number by 6, if you cross it, multiply that number by 10. If you start from number 1 and apply this rule to every result you get, you'll never get any of the results listed below. What kind? A) 2100 × 320 × 580 B) 290 × 320 × 580 C) 290 × 320 × 570 D) 2110 × 380 × 530 E) 250 × 550
+> Suppose you play like this. Starting with a number, you toss a coin: if it comes up heads, multiply that number by 6; if it comes up tails, multiply that number by 10. If you start from number 1 and apply this rule to every result you get, you'll never get any of the results listed below. What kind? A) 2100 × 320 × 580 B) 290 × 320 × 580 C) 290 × 320 × 570 D) 2110 × 380 × 530 E) 250 × 550
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_student#q09|src_kangourou_2024_student__Q09]]
@@ -450,7 +475,7 @@ level: kangourou
 > 	
 > C) B = (A + C) / 2 D) B = 2(A + C) / 3
 > 	
-> E) B = 3(A + C) / 5 The questions from N. 11 al N. 20 is worth 4 points each.
+> E) B = 3(A + C) / 5 The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_student#q10|src_kangourou_2024_student__Q10]]
@@ -487,7 +512,7 @@ level: kangourou
 
 *Any single statement on n is necessarily true*
 
-> With respect to a certain positive integer n which we do not know, we know that each and only one of the statements listed is true. Which one is it? A) n is divisible by 3.
+> With respect to a certain positive integer n which we do not know, we know that one and only one of the statements listed is true. Which one is it? A) n is divisible by 3.
 > 	
 > B) n is divisible by 6. C) n is odd. D) n is equal to 2.
 > 	
@@ -547,11 +572,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagonal polygonal length mean points tetrahedral shoulders*
+*Hexagonal polygonal length mean points tetrahedron edges*
 
 ![[src_kangourou_2024_student__prob12.png]]
 
-> The figure shows a tetrahedron (not regular) ABCD, on each of which the middle point is marked. By combining the middle points with segments in an appropriate order, the closed non-flat hexagonal polygon MNPQRSM is obtained. If the lengths of the rods are the ones shown in the figure (the integers 5 to 10), how long is the polygon? A) 19
+> The figure shows a tetrahedron (not regular) ABCD, on each edge of which the midpoint is marked. By joining the midpoints with segments in an appropriate order, the closed non-flat hexagonal polygon MNPQRSM is obtained. If the lengths of the edges are the ones shown in the figure (the integers 5 to 10), how long is the polygon? A) 19
 > 	
 > B) 20
 > 	
@@ -600,11 +625,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the square of a function of a,b,c*
+*Side of the large square as a function of a,b,c*
 
 ![[src_kangourou_2024_student__prob13.png]]
 
-> The three smallest squares of the four shown in the figure have sides of lengths a, b, c. The vertex A of the largest square coincides with a vertex of the square on side a, the opposite vertex C with a vertex of the square on side c. The tip B of the side b square lies on one side of the larger square. Which of the following expressions gives the size of the side of the largest square? A) (a + b + c) / 2 B) √a2 + b2 + c2 C)  √(a + b)2 + c2 D) √(b − a)2 + c2 E) √a2  + ab + b2 + c2
+> The three smallest squares of the four shown in the figure have sides of lengths a, b, c. The vertex A of the largest square coincides with a vertex of the square on side a, the opposite vertex C with a vertex of the square on side c. The vertex B of the square with side b lies on one side of the larger square. Which of the following expressions gives the length of the side of the largest square? A) (a + b + c) / 2 B) √a2 + b2 + c2 C)  √(a + b)2 + c2 D) √(b − a)2 + c2 E) √a2  + ab + b2 + c2
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_student#q13|src_kangourou_2024_student__Q13]]
@@ -647,7 +672,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student__prob14.png]]
 
-> The figure shows a neighbourhood in a city where all the streets are in one direction, the one indicated by the arrows. You can still go in from R and you can go out from S or T. At every turn in which it is possible to do so, Arianna chooses at random how to proceed (legally). What is the probability that Arianna will come out of T? A) 3 / 32 B) 3 / 16 C) 1 / 4 D) 3 / 8 E) 1 / 2
+> The figure shows a neighbourhood in a city where all the streets are one-way, in the direction indicated by the arrows. You can still go in from R and you can go out from S or T. At every junction where it is possible to do so, Arianna chooses at random how to proceed (legally). What is the probability that Arianna will come out of T? A) 3 / 32 B) 3 / 16 C) 1 / 4 D) 3 / 8 E) 1 / 2
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_student#q14|src_kangourou_2024_student__Q14]]
@@ -689,7 +714,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student__prob15.png]]
 
-> The figure shows a square of 6 cm on the side with a diagonal, a semicircular and a quarter of a circumference. All these lines have their ends at two vertices of the square. How many square centimetres is the area of the shaded region? A) 9
+> The figure shows a square with a side of 6 cm with a diagonal, a semicircle and a quarter of a circle. All these lines have their ends at two vertices of the square. How many square centimetres is the area of the shaded region? A) 9
 > 	
 > B) 3π
 > 	
@@ -755,7 +780,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum AX+XD when varying from X to BC of the trapezoid*
+*Minimum AX+XD as X varies on BC of the trapezoid*
 
 ![[src_kangourou_2024_student__prob16.png]]
 
@@ -822,7 +847,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the expression between p and q (p<q) and the major*
+*Which expression between p and q (p<q) is the largest*
 
 > Two positive numbers p and q are given, with p < q. Which of the following expressions gives the largest number? A) (p + 3q) / 4
 > 	
@@ -868,7 +893,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit integers shall contain at least one digit, 1,2,3*
+*How many three-digit integers contain at least one digit 1,2,3*
 
 > How many three-digit positive integers (therefore between 100 and 999, extremes included) contain at least one of the digits 1, 2, 3? A) 27 B) 147 C) 441 D) 557 E) 606 a b c X
 >
@@ -957,7 +982,7 @@ level: kangourou
 
 > Two candles of equal height begin to burn at the same moment and each one is consumed evenly over time. One would take 4 hours to run out, the other 5 hours. After how many hours will one be three times as long as the other? A) 40 / 11 B) 45 / 12 C) 63 / 20 D) 3
 > 	
-> E) 47 / 14 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 47 / 14 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_student#q20|src_kangourou_2024_student__Q20]]
@@ -1000,7 +1025,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student__prob21.png]]
 
-> There are six cards, each of which has a number pair, a number on each face. The six pairs are (5, 12), (3, 11), (0, 16), (7, 8), (4, 14) and (9, 10). You can choose how to line up the cards and what face each card should show. Choose a provision, the numbers that appear in it, the operations shown in the figure: What is the minimum result that can be achieved? A) – 23 B) – 24 C) – 25 D) – 26 E) – 27
+> There are six cards, each of which has a number pair, a number on each face. The six pairs are (5, 12), (3, 11), (0, 16), (7, 8), (4, 14) and (9, 10). You can choose how to line up the cards and what face each card should show. Once a disposition is chosen, the operations shown in the figure must be performed on the numbers that appear in it: What is the minimum result that can be achieved? A) – 23 B) – 24 C) – 25 D) – 26 E) – 27
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_student#q21|src_kangourou_2024_student__Q21]]
@@ -1106,7 +1131,7 @@ level: kangourou
 
 ![[src_kangourou_2024_student__prob23.png]]
 
-> The figure shows a tape 12 cm wide and 2 cm high, folded into two perpendicular pieces. If the position of the bend varies as described, how many centimetres is the minimum distance between the two points X and Y? A) 6 √2 B) 7 √2 C) 10 D) 8
+> The figure shows a tape 12 cm long and 2 cm high, folded into two perpendicular pieces. If the position of the bend varies as described, how many centimetres is the minimum distance between the two points X and Y? A) 6 √2 B) 7 √2 C) 10 D) 8
 > 	
 > E) 6 + √2
 >       
@@ -1240,17 +1265,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any statement on rational and false points*
+*Which statement about rational points is false*
 
-> Let's say that a point in the plane, with an orthogonal Cartesian system, is rational if both of its coordinates are rational numbers (i.e. expressible as the quotient of integers). Which of the following claims is false?
+> We say that a point in the plane, equipped with an orthogonal Cartesian system,
+> is "rational" if both of its coordinates are rational numbers (that is, expressible
+> as a quotient of integers). Which of the following statements is false?
 > 	
-> (a) There is a straight line without rational points.
+> A) There exists a line with no rational points.
 > 	
-> B) There is a line that contains infinite points of rational thought.
+> B) There exists a line that contains infinitely many rational points.
 > 	
-> C) There is a line that contains only one rational point.
+> C) There exists a line that contains only one rational point.
 > 	
-> D) There is a line that contains exactly two rational points.
+> D) There exists a line that contains exactly two rational points.
 > 	
 > E) No line contains only rational points.
 
@@ -1352,7 +1379,7 @@ level: kangourou
 
 *sum of the two zeros of f with f(20-x) = f(22+x) *
 
-> A function f, real and defined on the whole real axis, is such that f (20  x) = f (22 + x) for every value of x and is void for exactly two distinct values of x. What is the sum of these two values? A) – 1 B) 20
+> A function f, real and defined on the whole real axis, is such that f (20 – x) = f (22 + x) for every value of x and vanishes for exactly two distinct values of x. What is the sum of these two values? A) – 1 B) 20
 > 	
 > C) 21
 > 	
@@ -1394,9 +1421,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles of the dodecahedron with an angle of at least 45 degrees*
+*Triangles of the dodecagon with at least one angle of 45 degrees*
 
-> Consider a regular dodecagon. How many triangles, the vertices of which are vertices of the dodecahedron, have at least an angle of 45 degrees? A) 48
+> Consider a regular dodecagon. How many triangles, the vertices of which are vertices of the dodecagon, have at least an angle of 45 degrees? A) 48
 > 	
 > B) 60
 > 	

@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Why number pairs = sum of prime n-1 integers*
+*Why number pairs = sum of the first n-1 integers*
 
 > You have $n$ objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: $\{A,B\}$, $\{A,C\}$ and $\{B,C\}$). Whatever the $n$ number of objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first $n-1$ positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
 
@@ -88,7 +88,7 @@ level: kangourou
 
 *Minimum visits to empty 15 plates*
 
-> In a cabin in the woods, there are 15 plates in a row: the first one has 1 nut, the second one has 2 nuts, the third one has 3 nuts, and so on until the 15th plate has 15 nuts. Every now and then a squirrel comes into the cage, picks up a few plates and eats nuts, taking the same number from each of the plates chosen. What's the smallest number of visits to the cottage that allows him to eat all the nuts?
+> In a cabin in the woods, there are 15 plates in a row: the first one has 1 nut, the second one has 2 nuts, the third one has 3 nuts, and so on until the 15th plate has 15 nuts. Every now and then a squirrel comes into the cabin, picks up a few plates and eats nuts, taking the same number from each of the plates chosen. What's the smallest number of visits to the cottage that allows him to eat all the nuts?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2014_cadet_finale#q03|src_kangourou_2014_cadet_finale__Q03]]
@@ -136,7 +136,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the rectangular triangle from the beam (4 and 5) *
+*Area of the right triangle from the angle bisector (4 and 5) *
 
 ![[src_kangourou_2014_cadet_finale__prob4.png]]
 
@@ -160,7 +160,7 @@ level: kangourou
 \end{document}
 ```
 
-> The beam of one of the sharp corners of a rectangular triangle divides the opposite triangle into two segments, one 4 cm long and the other 5 cm long. Calculate the area of the triangle.
+> The angle bisector of one of the acute angles of a right triangle divides the opposite leg into two segments, one 4 cm long and the other 5 cm long. Calculate the area of the triangle.
 
 **Answer:** 54 cm^2
 [[Quesiti/src_kangourou_2014_cadet_finale#q04|src_kangourou_2014_cadet_finale__Q04]]
@@ -192,7 +192,7 @@ level: kangourou
 
 ![[src_kangourou_2014_cadet_finale__prob5.png]]
 
-> $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). It shows you can do it by just blacking out 20 squares. (Answer by appropriately blacking 20 squares of the grid shown below.) (see figure)
+> $n$ squares of an $8 \times 8$ grid are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). Show that you can do it by blacking out only 20 squares. (Answer by appropriately blacking 20 squares of the grid shown below.) (see figure)
 
 [[Quesiti/src_kangourou_2014_cadet_finale#q05|src_kangourou_2014_cadet_finale__Q05]]
 
@@ -218,7 +218,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For quantities n the product (p+1) is divisible by n*
+*For how many n is the product (p+1) divisible by n*
 
 > A natural number $n$ is broken down into prime factors in 2014 (not necessarily all of them distinct from each other). Each prime factor is added to 1 and the new 2014 numbers obtained are multiplied by each other, resulting in a number $m$. For how many integers $n$ does it happen that, with these premises, $m$ is divisible by $n$?
 

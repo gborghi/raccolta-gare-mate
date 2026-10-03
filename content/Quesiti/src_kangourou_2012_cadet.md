@@ -36,7 +36,7 @@ level: kangourou
 
 *How much does a chocolate bar cost*
 
-> Four tablets of chocolate cost six euros more than one table. How much does a chocolate bar cost? (a) 1 euro B) 2 euro C) 3 euro D) 4 euro E) 5 euro
+> Four chocolate bars cost six euros more than one bar. How much does a chocolate bar cost? A) 1 euro B) 2 euro C) 3 euro D) 4 euro E) 5 euro
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_cadet#q01|src_kangourou_2012_cadet__Q01]]
@@ -68,9 +68,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In a few minutes, the launch will be in the northwest.
+*In how many minutes will the hand be pointing North-West*
 
-> A traditional clock is placed on a table with the dial facing up. Now his minute-run is pointed exactly northeast. In how many minutes will this launch be directed for the first time exactly Northwest? A) 45 B) 40 C) 30 D) 20 E) 15
+> A traditional clock is placed on a table with its face pointing upwards.
+> Right now its minute hand is pointing exactly North-East. In how many minutes will this hand be pointing exactly North-West for the first time?
+> A) 45
+> B) 40
+> C) 30
+> D) 20
+> E) 15
 
 **Answer:** A
 [[Quesiti/src_kangourou_2012_cadet#q02|src_kangourou_2012_cadet__Q02]]
@@ -110,7 +116,7 @@ In a few minutes, the launch will be in the northwest.
 
 ![[src_kangourou_2012_cadet__prob3.png]]
 
-> Mary has five cardboard letters like those drawn below. With a pair of scissors, he cuts each one of them once (along a straight line) so that each letter produces as many pieces as possible. Which letter produces the most pieces? A) B) C) D) E)
+> Mary has five cardboard letters like those drawn below. With a pair of scissors, she cuts each one of them once (along a straight line) so that each letter produces as many pieces as possible. Which letter produces the most pieces? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_cadet#q03|src_kangourou_2012_cadet__Q03]]
@@ -178,7 +184,7 @@ How many heads does the dragon have after the cuts?
 
 *sum of the five digits with product 5*
 
-> A number (in decimal form) has five digits. Multiplying them by them, we get 5. What is the sum of the five digits? A) 1 B) 5 C) 6 D) 25 E) A number different from the previous one
+> A number (in decimal form) has five digits. Multiplying them together, we get 5. What is the sum of the five digits? A) 1 B) 5 C) 6 D) 25 E) A number different from the previous one
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_cadet#q05|src_kangourou_2012_cadet__Q05]]
@@ -257,11 +263,11 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longer route from A to B without repeating sidewalks*
+*Longest route from A to B without repeating sidewalks*
 
 ![[src_kangourou_2012_cadet__prob7.png]]
 
-> In the public gardens there are 9 avenues arranged as shown in the figure. Every alley is 50 meters long. Anna wants to go from A to B without going down the same alleyway more than once. How many meters is the longest path you can choose to follow? A) 450 B) 400 C) 350 D) 300 E) 200
+> In the public gardens there are 9 avenues arranged as shown in the figure. Every alley is 50 meters long. Anna wants to go from A to B without going down the same alleyway more than once. How many meters is the longest path she can choose to follow? A) 450 B) 400 C) 350 D) 300 E) 200
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_cadet#q07|src_kangourou_2012_cadet__Q07]]
@@ -345,7 +351,7 @@ How many heads does the dragon have after the cuts?
 
 ![[src_kangourou_2012_cadet__prob9.png]]
 
-> William folds a sheet of paper in half as shown in the figure. If he makes two straight cuts with the scissors and then reopens the sheet, he certainly cannot get one of the following shapes. What kind? A) B) C) D) E)
+> William folds a sheet of paper in half as shown in the figure. If he makes two straight cuts with the scissors and then reopens the sheet, he certainly cannot get one of the following shapes. Which one? A) B) C) D) E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_cadet#q09|src_kangourou_2012_cadet__Q09]]
@@ -430,9 +436,21 @@ How many heads does the dragon have after the cuts?
 
 *Minimum sum of two 4-digit numbers with digits 1-8*
 
-> Using each of the digits 1, 2, 3, 4, 5, 6, 7, 8 exactly once, we form two 4-digit numbers so that their sum is as small as possible. What is the value of that sum? A) 2468 B) 3825 C) 4023 D) 4734 E) 6912 A B
+> Using each of the digits 1, 2, 3, 4, 5, 6, 7, 8 exactly once
+> we form two 4-digit numbers in such a way that their sum is as small as possible. What is the value of that sum? 
+> A) 2468
+> B) 3825
+> C) 4023
+> D) 4734
+> E) 6912
+> A
+> B
 > 
-> I'm going to pay. I'm going to pay. I'm going to tell you something.
+> Pag. 
+> Pag. 18
+> 18
+> Kang 2012
+> Kang 2012
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_cadet#q11|src_kangourou_2012_cadet__Q11]]
@@ -470,11 +488,21 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the peas flour before variation*
+*Area of the pea patch before the change*
 
 ![[src_kangourou_2012_cadet__prob12.png]]
 
-> Mrs. Ortolani has a field where she grows peas and strawberries in two rectangular orchards next to each other as shown in the figure. This year, he extended one side of the peas' owl by 3 meters so that the owl became square. In this way the area of the strawberry shed has been reduced by 15 m2. Before the change, how many square meters did the area of the peas shell measure? A) 5 B) 9 C) 10 D) 15 E) 18
+> Mrs Ortolani has a field in which she grows
+> peas and strawberries in two adjacent rectangular patches as shown in the figure. This year she
+> lengthened by 3 metres one of the sides of the pea
+> patch so that the patch became square.
+> By doing so the area of the strawberry patch decreased by 15 m2. Before the change, how many square
+> metres did the area of the pea patch measure?
+> A) 5 
+> B) 9 
+> C) 10 
+> D) 15 
+> E) 18
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_cadet#q12|src_kangourou_2012_cadet__Q12]]
@@ -514,7 +542,7 @@ How many heads does the dragon have after the cuts?
 
 ![[src_kangourou_2012_cadet__prob13.png]]
 
-> Barbara wants to complete the grid that follows by inserting a number into each of the empty cells. He wants the sum of the first three numbers (left) to be 100, the sum of the three numbers in the middle is 200 and the sum of the last three is 300. What number do you have to put in the central cell of the grid? A) 50 B) 60 C) 70 D) 75 E) 100
+> Barbara wants to complete the grid that follows by inserting a number into each of the empty cells. She wants the sum of the first three numbers (left) to be 100, the sum of the three numbers in the middle to be 200 and the sum of the last three is 300. What number do you have to put in the central cell of the grid? A) 50 B) 60 C) 70 D) 75 E) 100
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_cadet#q13|src_kangourou_2012_cadet__Q13]]
@@ -590,7 +618,7 @@ How many heads does the dragon have after the cuts?
 
 *Any number on paper with more than 100*
 
-> We have four cards. The numbers 2, 5, 7 and 12 are each written on one side of a paper; on the opposite side one of the following attributes is instead written: divisible by 7, primo, dispare, greater than 100. It is known that in each paper the number written does not correspond to the attribute written on the opposite face. What number is written on the paper with the attribute  greater than 100? A) 2 B) 5 C) 7 D) 12 E) 2 or 5, but it is not possible to decide
+> We have four cards. The numbers 2, 5, 7 and 12 are each written on one side of a card; on the opposite side one of the following attributes is instead written: divisible by 7, prime, odd, greater than 100. It is known that in each card the number written does not correspond to the attribute written on the opposite face. What number is written on the card with the attribute  greater than 100? A) 2 B) 5 C) 7 D) 12 E) 2 or 5, but it is not possible to decide
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_cadet#q15|src_kangourou_2012_cadet__Q15]]
@@ -741,7 +769,7 @@ How many heads does the dragon have after the cuts?
 
 Maximum number of mice seen by Leo*
 
-> A form of cut-up cheese was left unattended and the rats stole pieces all day. Lion, a lazy cat, noted that each mouse stole less than 10 pieces of cheese, that each mouse stole a different number of pieces from the others, that no mouse stole exactly twice the pieces of another mouse. What is the maximum number of different mice that Leo could have seen? A) 4 B) 5 C) 6 D) 7 E) 8
+> A form of cut-up cheese was left unattended and the mice stole pieces all day. Leo, a lazy cat, noted that each mouse stole less than 10 pieces of cheese, that each mouse stole a different number of pieces from the others, that no mouse stole exactly twice the pieces of another mouse. What is the maximum number of different mice that Leo could have seen? A) 4 B) 5 C) 6 D) 7 E) 8
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_cadet#q17|src_kangourou_2012_cadet__Q17]]
@@ -774,9 +802,9 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between Anna and Louis on the mobile sidewalk*
+*Distance between Anna and Luigi on the moving walkway*
 
-> At the airport there is a 500-metre-long horizontal mobile sidewalk that moves at a speed of 4 km/h. Anna and Luigi climb together on the moving sidewalk: Luigi stands still while Anna walks at a speed of 6 km/h: in the moment she leaves the moving sidewalk, how many meters is Anna from Luigi? A) 100 B) 160 C) 200 D) 250 E) 300
+> At the airport there is a 500-metre-long horizontal moving walkway that moves at a speed of 4 km/h. Anna and Luigi climb together on the moving walkway: Luigi stands still while Anna walks at a speed of 6 km/h: in the moment she leaves the moving walkway, how many meters is Anna from Luigi? A) 100 B) 160 C) 200 D) 250 E) 300
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_cadet#q18|src_kangourou_2012_cadet__Q18]]
@@ -849,11 +877,11 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What positions are occupied on the same side of the cube*
+*What positions are occupied by the same face of the cube*
 
 ![[src_kangourou_2012_cadet__prob20.png]]
 
-> A cube rolls on the floor, spinning around its shoulders. The plane adherent face passes in the order through the positions 1, 2, 3, 4, 5, 6 and 7 shown in the figure. Only two of these positions are occupied on the same side of the cube: which? A) 1 and 7 B) 1 and 6 C) 1 and 5 D) 2 and 7 E) 2 and 6 The questions from N. 21 al N. 30 is worth 5 points each.
+> A cube rolls on the floor, rotating around its edges. The face touching the plane passes in order through the positions 1, 2, 3, 4, 5, 6 and 7 shown in the figure. Only two of these positions are occupied by the same face of the cube: which? A) 1 and 7 B) 1 and 6 C) 1 and 5 D) 2 and 7 E) 2 and 6 The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_cadet#q20|src_kangourou_2012_cadet__Q20]]
@@ -900,11 +928,11 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the tower by rolling the five cubes*
+*Height of the tower by stacking the five cubes*
 
-> Paolo has five cubes. When you align them from the smallest to the largest, the height difference of two consecutive cubes is always 2 cm. The height of the major cube coincides with the height of the tower which is formed by overlapping the two smaller cubes. How tall is the tower formed by stacking all five cubes? A) 6 B) 14 C) 22 D) 44 E) 50 1 2 3 4 5 6 7
+> Paolo has five cubes. When you align them from the smallest to the largest, the height difference of two consecutive cubes is always 2 cm. The height of the largest cube coincides with the height of the tower which is formed by overlapping the two smaller cubes. How tall is the tower formed by stacking all five cubes? A) 6 B) 14 C) 22 D) 44 E) 50 1 2 3 4 5 6 7
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 2012 Kang 2012
+> Page 20 Kang 2012 Kang 2012
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_cadet#q21|src_kangourou_2012_cadet__Q21]]
@@ -1019,7 +1047,7 @@ Maximum number of mice seen by Leo*
 
 *Which numbers are definitely adjacent in the circle*
 
-> David arranges the twelve integers from 1 to 12 in a circle, so that two adjacent numbers always differ by 2 or 3. Which of the following figures is certainly adjacent? A) 5 e 8 B) 3 e 5 C) 7 e 9 D) 6 e 8 E) 4 e 6
+> David arranges the twelve integers from 1 to 12 in a circle, so that two adjacent numbers always differ by 2 or 3. Which of the following numbers are certainly adjacent? A) 5 and 8 B) 3 and 5 C) 7 and 9 D) 6 and 8 E) 4 and 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_cadet#q23|src_kangourou_2012_cadet__Q23]]
@@ -1058,7 +1086,7 @@ Maximum number of mice seen by Leo*
 
 ![[src_kangourou_2012_cadet__prob24.png]]
 
-> The region you see in the figure is obtained by approximating a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
+> The region you see in the figure is obtained by placing side by side a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_cadet#q24|src_kangourou_2012_cadet__Q24]]
@@ -1138,11 +1166,27 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three-digit numbers with the odd property *
+*Sum of the three-digit numbers with the strange property*
 
-> There are some three-digit (significant) positive integers that have the following property: either if you remove the first digit, or if you remove the last digit, you get a perfect square. How much is the sum of all three-digit numbers with this strange property? A) 1013 B) 1177 C) 1465 D) 1993 E) 2016 A B C D M N
+> There exist some (positive integer) three-digit numbers (with significant digits) that
+> have the following property: whether you remove the first digit or you remove the last digit, you obtain a perfect square. What is the sum of all the three-digit numbers (with significant digits) with this strange property?
+> A) 1013
+> B) 1177
+> C) 1465
+> D) 1993
+> E) 2016
+> A
+> B
+> C
+> D
+> M
+> N
 > 
-> I'm going to pay. I'm going to pay. This is a list of the countries of the European Union.
+> Pag. 
+> Pag. 21
+> 21
+> Kang 2012
+> Kang 2012
 
 **Answer:** D
 [[Quesiti/src_kangourou_2012_cadet#q26|src_kangourou_2012_cadet__Q26]]
@@ -1180,7 +1224,7 @@ How many people were dancing at that moment?
 
 *Most stories that start on odd pages*
 
-> There are 30 stories in a book. The stories all have different lengths: 1, 2, 3, ..., 30 faces, but they are not said to be in increasing order of length. Every story begins in a new face and there are no white faces between one story and another. The first story begins on page 1. How many stories can start on a weird page? A) 15 B) 18 C) 20 D) 21 E) 23
+> There are 30 stories in a book. The stories all have different lengths: 1, 2, 3, ..., 30 pages, but they are not said to be in increasing order of length. Every story begins on a new page and there are no blank pages between one story and another. The first story begins on page 1. How many stories can start on an odd page? A) 15 B) 18 C) 20 D) 21 E) 23
 
 **Answer:** E
 [[Quesiti/src_kangourou_2012_cadet#q27|src_kangourou_2012_cadet__Q27]]
@@ -1216,7 +1260,7 @@ How many people were dancing at that moment?
 
 *How many distinct positions of the rotating equilateral triangle*
 
-> An equilateral triangle rotates, always in the same direction, around its center before 3 degrees, then 9 degrees, then 27 degrees, and so on (i.e. at the next rotation of the wheel of 3n degrees). How many different positions (including the first) will the triangle occupy during these rotations? A) 3 B) 4 C) 5 D) 6 E) 360
+> An equilateral triangle rotates, always in the same direction, around its center before 3 degrees, then 9 degrees, then 27 degrees, and so on (i.e. at the n-th rotation it rotates by 3n degrees). How many different positions (including the first) will the triangle occupy during these rotations? A) 3 B) 4 C) 5 D) 6 E) 360
 
 **Answer:** B
 [[Quesiti/src_kangourou_2012_cadet#q28|src_kangourou_2012_cadet__Q28]]
@@ -1250,9 +1294,16 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which length cannot have the folded and cut barrel*
+*What length cannot the folded and cut string have*
 
-> A spago was folded in half, and then again in half, and then again in half. Eventually, the folded sponge was cut once and formed into several pieces. One is 9 cm long, the other 4 cm. Then the length in centimetres of the entire length A) cannot be 52. B) It cannot be 68. (c) it cannot be 72. D) it cannot be 88. (e) it may be any of the measures proposed.
+> A string was folded in half, and then in half again and then in half
+> again. In the end the string folded in this way was cut only once and several
+> pieces were formed. One of them is 9 cm long, another 4 cm. Then the length in centimetres of the entire string 
+> A) cannot be 52.
+> B) cannot be 68.
+> C) cannot be 72.
+> D) cannot be 88.
+> E) can be any of the proposed measurements.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2012_cadet#q29|src_kangourou_2012_cadet__Q29]]
@@ -1307,7 +1358,7 @@ How many people were dancing at that moment?
 > (D) 1/4
 > (E) 1/8
 > 
-> SOLUTIONS CAYLEY 2012
+> SOLUTIONS CADET 2012
 
 **Answer:** A
 

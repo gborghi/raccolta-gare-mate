@@ -152,7 +152,7 @@ level: IMO
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_ricorsione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="it"></div>
 
 
 *Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
@@ -166,13 +166,12 @@ level: IMO
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
+<div class="qlang-split" data-lang="en"></div>
 
 
-*Esistenza di una funzione f con f(1)=2, f(f(n))=f(n)+n, crescente*
+*Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
 
-> Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che
-> $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
+> There is a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
 
 [[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 

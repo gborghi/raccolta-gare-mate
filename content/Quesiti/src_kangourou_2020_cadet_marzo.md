@@ -248,9 +248,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which score cannot be aggregated in the tournament*
+*Which score cannot be scored in the tournament*
 
-> There are four teams in a football tournament. Every team meets every other team exactly once. In each match the winning team gets 3 points, the losing team 0 points; in the event of a tie, both teams get 1 point. Once all the matches of the tournament have been played, which of the following scores cannot be aggregated by any of the four teams? A) 4
+> There are four teams in a football tournament. Every team meets every other team exactly once. In each match the winning team gets 3 points, the losing team 0 points; in the event of a tie, both teams get 1 point. Once all the matches of the tournament have been played, which of the following scores cannot be scored by any of the four teams? A) 4
 > 	
 > B) 5
 > 	
@@ -399,9 +399,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the statement made by the liar and the truthful*
+*What statement do the liar and the truthful one make*
 
-> Two friends are meeting. One of the two always lies, while the other always tells the truth. Both make one of the following statements: Which? A) Only one of us is telling the truth.
+> Two friends are meeting. One of the two always lies, while the other always tells the truth. Each makes one of the following statements: Which? A) Only one of us is telling the truth.
 > 	
 > B) We're both telling the truth. C) I always lie. D) I'm telling the truth. E) You're telling the truth.
 
@@ -444,7 +444,7 @@ level: kangourou
 
 *Walk time data for mixed journeys*
 
-> When John goes to school by public transport and returns home on foot, his round trip takes 3 hours; when he goes back and forth by public transport, the trip takes 1 hour. How many hours would that journey take if John walked (and always at the same pace) on both occasions? A) Three and a half
+> When John goes to school by public transport and returns home on foot, his round trip takes 3 hours; when he goes back and forth by public transport, the trip takes 1 hour (the transport takes the same time in both directions). How many hours would that journey take if John walked (and always at the same pace) on both occasions? A) Three and a half
 > 	
 > B) 4
 > 	
@@ -507,7 +507,7 @@ level: kangourou
 > 	
 > D) 45
 > 	
-> E) 47 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 47 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2020_cadet_marzo#q10|src_kangourou_2020_cadet_marzo__Q10]]
@@ -585,7 +585,7 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 
 *Km per day for the target average of March*
 
-> Anna had proposed walking an average of five kilometers a day for the whole month of March. On the evening of March 16, she realized that she had traveled 95 km up to that point. How many miles a day does he have to walk on average in the next few days of the month to reach his goal? A) 5,4 B) 5
+> Anna had proposed walking an average of five kilometers a day for the whole month of March. On the evening of March 16, she realized that she had traveled 95 km up to that point. How many kilometers a day does she have to walk on average in the next few days of the month to reach her goal? A) 5,4 B) 5
 > 	
 > C) 4
 > 	
@@ -637,17 +637,30 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which diagram shows the trajectory as seen from above*
+*Which diagram shows the truss seen from above*
 
 ![[src_kangourou_2020_cadet_marzo__prob13.png]]
 
-> Which of the following diagrams shows what you would see by looking from above at the trachea in the figure? A)
-> 	
-> B)
-> 	
-> C) D)
-> 	
-> E) 27 20 ? 24 26 40 Atown 2 km 4 km Atown 7 km Betown Betown
+> Which of the following diagrams shows what you would see
+> looking from above at the truss in the figure?
+> A) 	
+	
+   B) 	
+	
+     C)
+> D) 	
+	
+   E)
+> 27 20
+> ?
+> 24
+> 26
+> 40
+> Atown  2 km
+> 4 km
+> Atown  7 km
+> Betown
+> Betown
 >
 
 **Answer:** B
@@ -897,7 +910,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 \end{document}
 ```
 
-> Silvia's garden has the shape shown in the figure, where all convex corners are straight. The drawing also shows some of the measurements, in meters, of the sides of Silvia's garden. How many meters does the perimeter of the garden measure? A) 22
+> Silvia's garden has the shape shown in the figure, where all convex corners are right angles. The drawing also shows some of the measurements, in meters, of the sides of Silvia's garden. How many meters does the perimeter of the garden measure? A) 22
 > 	
 > B) 23
 > 	
@@ -1018,7 +1031,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 > 	
 > E) 3, 4, 2, 1, 5 3 4 5 1 2 3 4 5
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2020_cadet_marzo#q20|src_kangourou_2020_cadet_marzo__Q20]]
@@ -1133,7 +1146,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities A of 4 digits with a meta/third/fifth divisible by 2/3/5*
+*Four-digit numbers A with half/third/fifth divisible by 2/3/5*
 
 > How many positive integers A of four significant digits are such that half of the number A is divisible by 2, one third of the number A is divisible by 3 and one fifth of the number A is divisible by 5? A) 1
 > 	
@@ -1302,15 +1315,33 @@ How many points did Judge III give to Adam?
 
 *How many squares of different sizes with 52 triangles*
 
-> Sofia has 52 identical isosceles rectangles. He wants to use some of it, or possibly all of it, to build a square, approaching them without overlap. How many different-sized squares can you build? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
-> (e) 9 Adam Berta Emilio I 2 0 II 2 0 III 7 5 3 4 11 David Summa Clara
+> Sofia has 52 identical isosceles right triangles. She wants to use some of them, or possibly all of them, to build a square, placing them next to each other without overlapping. How many squares of different sizes can she build?
+> A) 5	
+	
+> B) 6	
+	
+> C) 7	
+	
+> D) 8	
+	
+> E) 9	
+> Adamo Berta
+> Emilio
+> I
+> 2
+> 0
+> II
+> 2
+> 0
+> III
+> 7
+> 5
+> 3
+> 4
+> 11
+> Davide
+> Sum
+> Clara
 >
 
 **Answer:** D
@@ -1357,7 +1388,7 @@ How many points did Judge III give to Adam?
 
 ![[src_kangourou_2020_cadet_marzo__prob27.png]]
 
-> Claudio builds a pyramid using the same metal spheres. The base square is formed by 4×4 spheres, as shown in the figure; the following planes are formed by 3×3 spheres, 2×2 spheres and finally by a sphere. The four squares (projected on the base plane) are concentric, and their sides are parallel. Claudio puts a drop of glue in each point of contact between two spheres. How many drops of glue do you use to build the pyramid? A) 72
+> Claudio builds a pyramid using the same metal spheres. The base square is formed by 4×4 spheres, as shown in the figure; the following planes are formed by 3×3 spheres, 2×2 spheres and finally by a sphere. The four squares (projected on the base plane) are concentric, and their sides are parallel. Claudio puts a drop of glue in each point of contact between two spheres. How many drops of glue does he use in total to build the pyramid? A) 72
 > 	
 > B) 85
 > 	
@@ -1407,7 +1438,7 @@ How many points did Judge III give to Adam?
 
 *Minimum metres of the trainer (three children run 50m) *
 
-> Four children are standing on the four corners of a 10-meter-sized pool. Their coach's on one side of the pool. When he calls them, three of them come out and run toward him along the shortest possible path along the sides of the pool: they run 50 meters in all. How many metres at least must the trainer walk to reach the fourth child (always moving along the sides of the pool)? A) 10
+> Four children are standing on the four corners of a 10 m × 25 m pool. Their coach's on one side of the pool. When he calls them, three of them come out and run toward him along the shortest possible path along the sides of the pool: they run 50 meters in all. How many metres at least must the trainer walk to reach the fourth child (always moving along the sides of the pool)? A) 10
 > 	
 > B) 12
 > 	
@@ -1497,7 +1528,7 @@ How many points did Judge III give to Adam?
 
 *Number of units of the 4-digit number (mastermind type indices) *
 
-> The following statements fully identify a four digit number: 4 1 3 2: only two digits are correct but both in the wrong place, 9 8 2 6: only one digit is correct and in the right place, 5 0 7 9: only two digits are correct, only one is in the right place, the other is in the wrong place, 7 6 4 2: none of the digits is correct. What is the unit number of the four-digit number in question? A) 0
+> The following statements fully identify a four digit number: 4 1 3 2: only two digits are correct but both in the wrong place, 9 8 2 6: only one digit is correct and in the right place, 5 0 7 9: only two digits are correct, only one is in the right place, the other is in the wrong place, 7 6 4 2: none of the digits is correct. What is the units digit of the four-digit number in question? A) 0
 > 	
 > B) 1
 > 	
@@ -1507,7 +1538,7 @@ How many points did Judge III give to Adam?
 > 	
 > E) 9
 > 
-> Answers
+> Answer
 
 **Answer:** C
 [[Quesiti/src_kangourou_2020_cadet_marzo#q30|src_kangourou_2020_cadet_marzo__Q30]]

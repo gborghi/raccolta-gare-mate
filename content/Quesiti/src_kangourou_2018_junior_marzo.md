@@ -45,7 +45,7 @@ level: kangourou
 
 ![[src_kangourou_2018_junior_marzo__prob1.png]]
 
-> In each grid cell 3 × 3 in the figure a number has been entered. The numbers in the individual rows and the numbers in the individual columns were then added: five out of the six results obtained are indicated. What's the sixth? A) 4
+> In each cell of the 3 × 3 grid in the figure a number has been entered. The numbers in the individual rows and the numbers in the individual columns were then added: five out of the six results obtained are indicated. What's the sixth? A) 4
 > 	
 > B) 7 C) 8 D) 9
 > 	
@@ -88,7 +88,7 @@ level: kangourou
 
 *Third whole side odd triangle of sides 5 and 2*
 
-> In a triangle (not reduced to a segment) two sides are lengths 5 and 2 respectively and the length of the third side is an odd integer. Which of the following numbers is the measure of the third side? A) 3
+> In a triangle (not reduced to a segment) two sides have lengths 5 and 2 respectively and the length of the third side is an odd integer. Which of the following numbers is the measure of the third side? A) 3
 > 	
 > B) 1
 > 	
@@ -216,9 +216,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of baskets with 42,60.90 fruit (MCD)
+Maximum number of baskets with 42,60,90 fruit (MCD)
 
-> Mary picked 42 apples, 60 peas and 90 cherries. He wants to divide the fruits into baskets of identical content, using them all. How many baskets can it make up? A) 3
+> Mary picked 42 apples, 60 apricots and 90 cherries. She wants to divide the fruits into baskets of identical content, using them all. How many baskets can she make? A) 3
 > 	
 > B) 6
 > 	
@@ -269,7 +269,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 
 ![[src_kangourou_2018_junior_marzo__prob6.png]]
 
-> I summed two numbers correctly and then, as you can see in the figure, I replaced some numbers with the letters P, Q, R and S. What 's the sum of P + Q + R + S ? A) 14
+> I summed two numbers correctly and then, as you can see in the figure, I replaced some digits with the letters P, Q, R and S. What is the value of the sum P + Q + R + S ? A) 14
 > 	
 > B) 15
 > 	
@@ -308,7 +308,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 
 *Value of 25% of 2018 plus 2018% of 25*
 
-> Adding the 25% from 2018 to the 2018% of 25 what do you get? A) 1009 B) 2016 C) 2018 D) 3027 E) 5045
+> Adding the 25% of 2018 to the 2018% of 25 what do you get? A) 1009 B) 2016 C) 2018 D) 3027 E) 5045
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_junior_marzo#q07|src_kangourou_2018_junior_marzo__Q07]]
@@ -351,7 +351,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 
 ![[src_kangourou_2018_junior_marzo__prob8.png]]
 
-> You can go from point A to point B in the figure only by following the directions and lines indicated by the arrows. How many different routes are possible? A) 20
+> You can go from point A to point B in the figure only by following the directions and orientations indicated by the arrows. How many different routes are possible? A) 20
 > 	
 > B) 16
 > 	
@@ -397,7 +397,7 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 
 *Distance d of wire extended by 10 m around the equator*
 
-> Suppose that the earth is a perfect sphere and imagines it stretching a wire, of the same width as the equator, so that it covers the equator exactly. Now extend the wire by 10 metres and imagine that it can be placed around the equator so as to have a uniform distance from it, i.e. so that all the points of the wire have the same distance d (measured in metres) from the equator. So you have A) d < 0.001
+> Suppose that the earth is a perfect sphere and imagine stretching a wire, of the same length as the equator, so that it covers the equator exactly. Now extend the wire by 10 metres and imagine that it can be placed around the equator so as to have a uniform distance from it, i.e. so that all the points of the wire have the same distance d (measured in metres) from the equator. So you have A) d < 0.001
 > 	
 > B) 0,001 ≤ d < 0,01 C) 0,01 ≤ d < 0,1
 > 	
@@ -440,15 +440,15 @@ Maximum number of baskets with 42,60.90 fruit (MCD)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of two dice with highest probability between 7.8, 9.10*
+Sum of two dice with highest probability between 7, 8, 9, 10*
 
-> Two regular dice (faces numbered from one to six) are thrown without makeup. Which of the numbers 7, 8, 9, and 10 is most likely to be the sum of the two scores? A) 7
+> Two regular dice (faces numbered from one to six) are thrown not loaded. Which of the numbers 7, 8, 9, and 10 is most likely to be the sum of the two scores? A) 7
 > 	
 > B) 8
 > 	
 > C) 9
 > 	
-> D) 10 E) 7 and 8 have the same probability. The questions from N. 11 al N. 20 is worth 4 points each.
+> D) 10 E) 7 and 8 have the same probability. The questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2018_junior_marzo#q10|src_kangourou_2018_junior_marzo__Q10]]
@@ -594,11 +594,11 @@ Sum of two dice with highest probability between 7.8, 9.10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unshaded area in square with 8 semicircumferences*
+*Unshaded area in square with 8 semicircles*
 
 ![[src_kangourou_2018_junior_marzo__prob13.png]]
 
-> Observe the figure: in a square on side 4 eight semicircles of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What is the area of the unshaded part of the square? A) 2π
+> Observe the figure: in a square of side 4 eight semicircles of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What is the area of the unshaded part of the square? A) 2π
 > 	
 > B) 8
 > 	
@@ -701,7 +701,7 @@ How many trains to or from Z between 40 trains and 5 cities
 
 *Percentage of students studying a language*
 
-> In a training centre you can study foreign languages, programming and accounting. 35% of those studying a language study English; 13% of the students study a language other than English. No student studies more than one language. What percentage of pupils at the centre study a language? A) 13% B) 20% C) 22% D) 48% E) 65%
+> In a training centre you can study foreign languages, programming and accounting. 35% of those studying a language study English; 13% of the students at the centre study a language other than English. No student studies more than one language. What percentage of the students at the centre study a language? A) 13% B) 20% C) 22% D) 48% E) 65%
 
 **Answer:** B
 [[Quesiti/src_kangourou_2018_junior_marzo#q15|src_kangourou_2018_junior_marzo__Q15]]
@@ -788,7 +788,7 @@ How many trains to or from Z between 40 trains and 5 cities
 
 *How many 3-digit numbers can be deleted = one ninth*
 
-> How many three-digit positive integers are such that the two-digit number obtained by changing the central digit is a ninth of the original three-digit number? A) 1
+> How many three-digit positive integers are such that the two-digit number obtained by deleting the central digit is a ninth of the original three-digit number? A) 1
 > 	
 > B) 2
 > 	
@@ -833,7 +833,7 @@ How many trains to or from Z between 40 trains and 5 cities
 
 *How many times 2018^2 under roots to get 2018^10*
 
-> Why is this equation √20182 + 20182 + ... + 20182 = 201810 true, how many times does 20182 have to appear under the square root? A) 5
+> Why is this equation √(2018^2 + 2018^2 + ... + 2018^2) = 2018^10 true, how many times does 2018^2 have to appear under the square root? A) 5
 > 	
 > B) 8
 > 	
@@ -917,7 +917,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 
 > Determine how many digits the result of operation 102018 × (102018 - 1) × 1/9 has. A) 2017 B) 2018 C) 4035 D) 4036 E) 4037
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_junior_marzo#q20|src_kangourou_2018_junior_marzo__Q20]]
@@ -1001,9 +1001,9 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of the four numbers given the four average results*
+*Maximum of the four numbers given the four average results*
 
-> Consider this procedure: give four positive integers, choose three, calculate their arithmetic mean, and sum the fourth number. Maria set four numbers and the corresponding results for the four possible ways (selection of three out of four numbers) of applying the procedure are 17, 21, 23 and 29: what is the value of the largest of the four numbers set by Maria? A) 12
+> Consider this procedure: given four positive integers, choose three, calculate their arithmetic mean, and sum the fourth number. Maria set four numbers and the corresponding results for the four possible ways (selection of three out of four numbers) of applying the procedure are 17, 21, 23 and 29: what is the value of the largest of the four numbers set by Maria? A) 12
 > 	
 > B) 15
 > 	
@@ -1052,7 +1052,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 
 *How many faces are painted if 45 cubes are unpainted*
 
-> Henry built a cube by gluing together a number of identical cubes. Then he painted some of the faces of the big cube. His sister dropped the cube that decayed into the starting cubes. Of these cubes, 45 have no painted faces. How many faces of the big cube did Henry paint? A) 2
+> Henry built a cube by gluing together a number of identical cubes. Then he painted some of the faces of the big cube. His sister dropped the cube that broke apart into the original cubes. Of these cubes, 45 have no painted faces. How many faces of the big cube did Henry paint? A) 2
 > 	
 > B) 3
 > 	
@@ -1100,11 +1100,11 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N tangent circumferences in the circular crown*
+*Maximum N tangent circles in the circular annulus*
 
 ![[src_kangourou_2018_junior_marzo__prob24.png]]
 
-> The smaller radius of a circular crown is 1, the larger is 9. They want to draw N circles within the circular crown so that • each is tangent to both the circles that delimit the circular crown and • the circles do not have more than one point in common at two to two. The figure next to it, not in scale, illustrates a possible position for one of the N circumferences. What's the greatest possible value for N?
+> The smaller radius of a circular annulus is 1, the larger is 9. We want to draw N circles within the circular annulus so that • each is tangent to both the circles that delimit the circular crown and • no two circles have more than one point in common. The figure next to it, not in scale, illustrates a possible position for one of the N circles. What's the greatest possible value for N?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_junior_marzo#q24|src_kangourou_2018_junior_marzo__Q24]]
@@ -1216,7 +1216,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 
 ![[src_kangourou_2018_junior_marzo__prob26.png]]
 
-> Look at the picture: Diana drew a rectangular grid of 12 squares on a square sheet, then blacked out some of the squares, and on each remaining white square she wrote down the number of black squares that share a side with it. Now it does the same thing with a rectangular grid of 2018 squares. What is the maximum value you can get if you add up all the numbers in the grid? A) 1262 B) 2017 C) 2018 D) 3025 E) 3027
+> Look at the picture: Diana drew a rectangular grid of 12 squares on a sheet of graph paper, then blacked out some of the squares, and on each remaining white square she wrote down the number of black squares that share a side with it. Now she does the same thing with a rectangular grid of 2018 squares. What is the maximum value you can get if you add up all the numbers in the grid? A) 1262 B) 2017 C) 2018 D) 3025 E) 3027
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_junior_marzo#q26|src_kangourou_2018_junior_marzo__Q26]]
@@ -1270,17 +1270,33 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many statements about deaf cows are true*
+*How many statements about the deaf ladybugs are true*
 
 ![[src_kangourou_2018_junior_marzo__prob27.png]]
 
-> Four indistinguishable cochineals, some of which may be large, are each in a different grid cell 4 × 4. Whenever a whistle is sounded, all the non-deaf and only deaf cockroaches move into an adjacent cell that is already free at the time of the whistle, without ending up in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came at the previous whistle. The first figure shows that at the beginning the coccinelle occupies the cells (2,1), (3,1), (3,2) and (4,3). If the second figure shows the result after the third whistle, how many of the following statements can be true? • None of the chicks are deaf (all of the chicks have moved). • Only the first and last coconut are deaf (3.2). • Only the head in the initial and final position is deaf (4,3). • Only the two young ones in the final position (2,2) and (2,4) are deaf. A) 0
+> Four indistinguishable ladybugs, some of which might be deaf, each sit in a different cell of a 4 × 4 grid. Each time 
+> a whistle is blown, all the non-deaf ladybugs, and only those, move 
+> to an adjacent cell that is free at the moment of the whistle, without two of them ending up 
+> in the same cell: they can move up, down, right or left, 
+> but they cannot return to the cell from which they came at the previous whistle. 
+> The first figure shows that initially the ladybugs occupy cells (2,1), 
+> (3,1), (3,2) and (4,3). If the second figure shows the result after the third whistle, 
+> how many of the following statements can be true?
+> •	
+> No ladybug is deaf (all the ladybugs have moved). 
+> •	
+> Only the ladybug in initial and final position (3,2) is deaf.
+> •	
+> Only the ladybug in initial and final position (4,3) is deaf.
+> •	
+> The two ladybugs in final position (2,2) and (2,4) are deaf and only they are.
+> A) 0	
 > 	
-> B) 1
+> B) 1	
 > 	
-> C) 2
+> C) 2	
 > 	
-> D) 3
+> D) 3	
 > 	
 > E) 4
 
@@ -1324,7 +1340,7 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 
 ![[src_kangourou_2018_junior_marzo__prob28.png]]
 
-> Look at the figure: from a cube on side three, seven cubes on side one have been removed. Now let's cut this hole cube with a plane passing through the center of the cube and perpendicular to one of its 4 diagonals. Which of the following figures will the section look like? A) B)
+> Look at the figure: from a cube of side three, seven cubes of side one have been removed. Now let's cut this holed cube with a plane passing through the center of the cube and perpendicular to one of its 4 diagonals. Which of the following figures will the section look like? A) B)
 > 	
 > C)
 > 	
@@ -1425,11 +1441,11 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope length BD in the 60-degree rope circle*
+*Chord length BD in the circle with 60-degree chords*
 
 ![[src_kangourou_2018_junior_marzo__prob30.png]]
 
-> Look at the figure: in a circle with a diameter of AD, two AB and AC strings have been drawn that form an angle of 60°. The BE segment is perpendicular to AC, and EC measures 3 cm. How many inches is the BD rope ? A) √3
+> Look at the figure: in a circle with a diameter of AD, two chords AB and AC have been drawn that form an angle of 60°. The BE segment is perpendicular to AC, and EC measures 3 cm. How many centimeters is the chord BD ? A) √3
 > 	
 > B) 2
 > 	

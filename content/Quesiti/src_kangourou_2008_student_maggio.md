@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of sub-sets with odd number of elements*
+*Number of subsets with odd number of elements*
 
-> *(5 points) * A set of $n$ objects ($n \geq 1$) is given. How many of its sub-sets are made up of an odd number of elements?
+> *(5 points) * A set of $n$ objects ($n \geq 1$) is given. How many of its subsets are made up of an odd number of elements?
 
 **Answer:** 2^(n-1)
 [[Quesiti/src_kangourou_2008_student_maggio#qs1|src_kangourou_2008_student_maggio__QS1]]
@@ -62,11 +62,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*IMPERFECT sets are available*
+*IMPERFECT sets exist*
 
-> *(7 points) * Call a perfect set $A$ of positive integers such that: - it is composed of infinite numbers; - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
+> *(7 points)* Call IMPERFECT a set $A$ of positive integers such that:
+> - it consists of infinitely many numbers;
+> - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
 > 
-> Are there perfect sets? Justify the answer.
+> Do IMPERFECT sets exist? Justify the answer.
 
 **Answer:** si
 [[Quesiti/src_kangourou_2008_student_maggio#qs2|src_kangourou_2008_student_maggio__QS2]]
@@ -96,7 +98,7 @@ level: kangourou
 
 > *(11 points) * Can we find, for each $n > 1$, $n$ non-zero natural integers for which the sum is equal to the product?
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2008_student_maggio#qs3|src_kangourou_2008_student_maggio__QS3]]
 
 
@@ -122,9 +124,9 @@ level: kangourou
 
 *Three points with an empty circle inside*
 
-> *(14 points) * In a plane some non-hill points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
+> *(14 points) * In a plane some non-collinear points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2008_student_maggio#qs4|src_kangourou_2008_student_maggio__QS4]]
 
 
@@ -156,11 +158,11 @@ There is a line that intersects all polygons
 
 ![[src_kangourou_2008_student_maggio__probs5.png]]
 
-> *(18 points) * In the plane are assigned some polygons, not necessarily convex, in finite number. They are arranged in such a way that any two of them have at least one thing in common. Demonstrate that there is a line that crosses them all.
+> *(18 points) * In the plane are assigned some polygons, not necessarily convex, in finite number. They are arranged in such a way that any two of them have at least one point in common. Demonstrate that there is a line that crosses them all.
 > 
 > Does the statement remain true if instead of polygons, they are considered generic sets of points?
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2008_student_maggio#qs5|src_kangourou_2008_student_maggio__QS5]]
 
 
@@ -191,7 +193,7 @@ There is a line that intersects all polygons
 
 > In a certain country wealth is distributed very unevenly: in fact, taken from any group of at least 10 people, at least 90% of their total wealth is concentrated in no more than 10% of the people.
 > 
-> It is shown that there must be a person in that country who holds at least 85% of the total wealth of the country.
+> Prove that there must be a person in that country who holds at least 85% of the total wealth of the country.
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2008_student_maggio#qs6|src_kangourou_2008_student_maggio__QS6]]

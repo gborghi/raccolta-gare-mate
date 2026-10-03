@@ -31,7 +31,7 @@ level: kangourou
 
 *Three larger Matteo numbers (product = sum of digits) *
 
-> We call "Matthew's number" a four-digit number such that the product of the first two digits is equal to the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are Matthew's three greatest numbers?
+> We call a "Matteo number" a four-digit number such that the product of the first two digits is equal to the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are the three greatest Matteo numbers?
 
 **Answer:** 9299, 9190, 9181
 [[Quesiti/src_kangourou_2005_benjamin_finale#qb1|src_kangourou_2005_benjamin_finale__QB1]]
@@ -63,7 +63,7 @@ level: kangourou
 
 ![[src_kangourou_2005_benjamin_finale__probb2.png]]
 
-> A geometer had to delimit a portion of land so as to obtain a side square $2005$ m. The first bounded side is perpendicular to the second and the second to the third, but, by mistake, they measure in the order $2005$ m, $2006$ m, $2007$ m (i.e. the side measuring $2005$ m is the opposite of the side measuring $2007$ m). If the fourth side of the polygon is plotted by joining the two remaining free vertices, how many square meters is the delimited portion larger than expected?
+> A geometer had to delimit a portion of land so as to obtain a square with side $2005$ m. The first bounded side is perpendicular to the second and the second to the third, but, by mistake, they measure in the order $2005$ m, $2006$ m, $2007$ m (i.e. the side measuring $2005$ m is the opposite of the side measuring $2007$ m). If the fourth side of the polygon is plotted by joining the two remaining free vertices, how many square meters is the delimited portion larger than expected?
 
 **Answer:** 4011 m2
 [[Quesiti/src_kangourou_2005_benjamin_finale#qb2|src_kangourou_2005_benjamin_finale__QB2]]
@@ -89,9 +89,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining tables to be examined at a*
+*Remaining cards to be examined at one*
 
-> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of $2$ tabs per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
+> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of $2$ cards per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
 
 **Answer:** 120
 [[Quesiti/src_kangourou_2005_benjamin_finale#qb3|src_kangourou_2005_benjamin_finale__QB3]]
@@ -122,11 +122,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum locks purchased from Silvia*
+*Minimum laces purchased by Silvia*
 
-> Five girls, including Silvia, bought some hair locks. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by three of them is greater than that bought by the other two.
+> Five girls, including Silvia, bought some hair laces. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by three of them is greater than that bought by the other two.
 > 
-> What's the minimum number of ties that Silvia could have bought? Reason for the answer.
+> What is the minimum number of laces that Silvia could have bought? Justify your answer.
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2005_benjamin_finale#qb4|src_kangourou_2005_benjamin_finale__QB4]]
@@ -157,11 +157,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum extractions to empty urns (variations +/-1) *
+*Minimum number of draws to empty an urn (variations +/-1)*
 
-> There are balls in an urn. We count subsequent extractions following strictly this procedure: - at the first extraction a ball is taken; - at each subsequent extraction (including the last) one more or one less ball is taken than the previous extraction.
+> In an urn there are $35$ balls. We perform successive draws following this procedure rigorously:
+> - at the first draw one ball is taken;
+> - at every subsequent draw (including the last) one more ball or one fewer ball must be taken compared to the previous draw.
 > 
-> What is the minimum number of extractions sufficient for the urn to remain empty? Reason for the answer.
+> What is the minimum number of draws sufficient for the urn to remain empty? Motivate your answer.
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2005_benjamin_finale#qb5|src_kangourou_2005_benjamin_finale__QB5]]
@@ -197,7 +199,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the regular exaggeration into 8 equal parts*
+*Dividing a regular hexagon into 8 equal parts*
 
 ![[src_kangourou_2005_benjamin_finale__probb6.png]]
 
@@ -209,7 +211,7 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see a regular hexagon. Can you divide it into parts of equal shape and size? In the event of a negative answer, you must give reasons for this, and in the event of an affirmative answer, illustrate directly on the figure the subdivision you propose. (see figure)
+> In the figure you see a regular hexagon. Can you divide it into $8$ parts of the same shape and size? If the answer is no, you must justify it; if the answer is yes, illustrate the division you propose directly on the figure. (see figure)
 
 **Answer:** Si
 [[Quesiti/src_kangourou_2005_benjamin_finale#qb6|src_kangourou_2005_benjamin_finale__QB6]]

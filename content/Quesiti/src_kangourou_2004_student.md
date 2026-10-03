@@ -66,9 +66,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Mirrors of a pyramid with 17 faces
+*Edges of a pyramid with 17 faces*
 
-> A pyramid has 17 faces. How many branches do you have? A) 16 B) 17 C) 18 D) 32         E) 34
+> A pyramid has 17 faces. How many edges does it have?
+> A) 16
+> B) 17
+> C) 18
+> D) 32         E) 34
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_student#q02|src_kangourou_2004_student__Q02]]
@@ -100,7 +104,7 @@ Mirrors of a pyramid with 17 faces
 
 *Minimum real x with x^2-2004< 0*
 
-> The smallest real number x that results in inequality x2 −2004 < 0 is: A) −2004 B) 2004 C) 0 D) E) −
+> The smallest real number x that results in inequality x2 −2004 < 0 is: A) −2004 B) 2004 C) 0 D) −√2004 E) √2004
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_student#q03|src_kangourou_2004_student__Q03]]
@@ -132,9 +136,9 @@ Mirrors of a pyramid with 17 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertical polygons with sum of angles one seventh of 16-gon*
+*Vertices of a polygon with sum of angles one seventh of 16-gon*
 
-> How many vertices of a regular polygon is the sum of its interior angles equal to one seventh of the sum of the interior angles of a regular 16-zone? A)  3 B) 4 C)  6 D) 7 E) 10
+> How many vertices does a regular polygon have if the sum of its interior angles is equal to one seventh of the sum of the interior angles of a regular 16-gon? A)  3 B) 4 C)  6 D) 7 E) 10
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_student#q04|src_kangourou_2004_student__Q04]]
@@ -175,7 +179,7 @@ Mirrors of a pyramid with 17 faces
 
 ![[src_kangourou_2004_student__prob5.png]]
 
-> s is an odd positive integer. In a s-side square the squares on side 1 centered on the diagonals were painted in black (see the example in figure, where s = 7). What is the area of the unpainted region? A)s2 + 1 − 2s B)s2 + 4 − 4s C) 2s2 + 1− 4s D) s2 −1 −2s E) s2 − 2s
+> s is an odd positive integer. In a s-side square the unit squares centered on the diagonals were painted in black (see the example in figure, where s = 7). What is the area of the unpainted region? A)s2 + 1 − 2s B)s2 + 4 − 4s C) 2s2 + 1− 4s D) s2 −1 −2s E) s2 − 2s
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_student#q05|src_kangourou_2004_student__Q05]]
@@ -218,11 +222,25 @@ Mirrors of a pyramid with 17 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of celebrations in a group of 100 people*
+*Number of celebrities in a group of 100 people*
 
-> By definition, in a group of people a celebrity is a person in the group who is known to every other person in the group, but doesn't know any other person in the group. Consider a group of 100 people: within it the number of celebrities A) is necessarily 0 B) is necessarily 1 C) is necessarily 0 or 1 D) is necessarily 0 or 100 E) is necessarily 1 or 2 2004
+> By definition, in a group of people a "celebrity" is a person in the group who is known by every other person in the group, but
+> who does not know any other person in the group. Consider a
+> group of 100 people: within it the number of celebrities
+> A)  is necessarily 0
+> B)  is necessarily 1
+> C)  is necessarily 0 or 1
+> D)  is necessarily 0 or 100
+> E) is necessarily 1 or 2
+> 2004
+> 2004
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 2004 Kang 2004 tudent
+> Pag. 
+> Pag. 29
+> 29
+> Kang 2004
+> Kang 2004
+> tudent
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_student#q06|src_kangourou_2004_student__Q06]]
@@ -326,7 +344,7 @@ Mirrors of a pyramid with 17 faces
 
 *Possible product of five numbers chosen from 1,2,4*
 
-> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied by them. Only one of the following numbers could be the product obtained: which? A) 100        B) 256        C) 768       D) 2048      E) 4096
+> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which? A) 100        B) 256        C) 768       D) 2048      E) 4096
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_student#q08|src_kangourou_2004_student__Q08]]
@@ -358,9 +376,9 @@ Mirrors of a pyramid with 17 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Original legs of sheep and shepherds*
+*Initial legs of sheep and shepherds*
 
-> In one pasture there were 15 sheep and some shepherds. After half the shepherds and a third of the sheep have moved away from the pasture, there are a total of 50 legs. How many legs were they initially? A) 60 B) 72 C) 80 D) 90         E) 100
+> In one pasture there were 15 sheep and some shepherds. After half the shepherds and a third of the sheep have moved away from the pasture, there are a total of 50 legs. How many legs were there initially? A) 60 B) 72 C) 80 D) 90         E) 100
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_student#q09|src_kangourou_2004_student__Q09]]
@@ -426,9 +444,9 @@ Mirrors of a pyramid with 17 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares with vertices in (-1,-1) and axes of symmetry*
+*Squares with a vertex in (-1,-1) and axes of symmetry*
 
-> Consider the Cartesian plan. How many squares have a vertex in (-1,-1) such that at least one of the coordinate axes is the axis of symmetry of the square itself? A) 2 B) 3 C) 4 D) 5 E) 6
+> Consider the Cartesian plane. How many squares have a vertex in (-1,-1) such that at least one of the coordinate axes is the axis of symmetry of the square itself? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_student#q11|src_kangourou_2004_student__Q11]]
@@ -462,7 +480,7 @@ Mirrors of a pyramid with 17 faces
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum paper to be extracted per product divided by 4*
+Minimum cards to be extracted per product divisible by 4*
 
 > In a non-transparent box, there are 100 cards, numbered 1 to 100. What is the minimum number of cards we need to extract from the box in the dark, to make sure that the product of the numbers that appear on the extracted cards is divisible by four? A) 51 B) 52 C) 53 D) 54         E) 55
 
@@ -520,11 +538,39 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of Martian tentacles above average*
+*Percentage of Martians with above-average tentacles*
 
-> Every Martian has one, two or three tentacles on his head. Exactly 1% of the Martian population consists of individuals with three tentacles, while 97% consists of individuals with two tentacles and the remainder - 4 3 7 4 3 5 4 + 2 3 3 4 3 6 + A E D B C
+> Every Martian has one, two or three tentacles on their head.
+> Exactly 1% of the Martian population consists of individuals with three
+> tentacles, while 97% consists of individuals with two tentacles and the remain-
+> 4
+> 3
+> 7
+> 4
+> 3
+> 5
+> 4 +
+> 2
+> 3
+> 3
+> 4
+> 3
+> 6 +
+> A
+> E
+> D
+> B
+> C
 > 
-> I'm going to pay. I'm going to pay. 30 30 Kang 2004 Kang 2004 tudent you 2% has only one tentacle. What percentage of Martians have more tentacles on their heads than the average of the entire Martian population? A) 1%          B) 3%         C) 97%       D) 98%       E) 99%
+> Pag. 
+> Pag. 30
+> 30
+> Kang 2004
+> Kang 2004
+> tudent
+> te 2% has only one tentacle. What percentage of Martians has more tentacles
+> on their head than the average of the entire Martian population? 
+> A) 1%          B) 3%         C) 97%       D) 98%       E) 99%
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_student#q13|src_kangourou_2004_student__Q13]]
@@ -555,7 +601,7 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with the same square and cube as the final figure*
+*Two-digit numbers with the same final digit for square and cube*
 
 > How many two-digit numbers have squares and cubes ending in the same number? A) 1 B) 9 C) 18 D) 27 E) more than thirty
 
@@ -589,7 +635,7 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A positive integer count on a 3 basis weighted *
+*Counting positive integers in balanced base 3*
 
 > How many positive integers can be written in the form a0 + 3 a1 + 32 a2 + 33 a3 + 34 a4 with a0 , a1 , a2 , a3 , a4 belonging to the set {-1, 0, 1}? A) 5 B) 80 C) 81 D) 121        E) 243
 
@@ -655,9 +701,9 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangles with vertices of a 14-zone *
+*Right triangles with vertices of a 14-gon *
 
-> How many rectangular triangles have three of the 14 vertices of a regular 14? A) 72 B) 82 C) 84 D) 88 E) other answer
+> How many right triangles have three of the 14 vertices of a regular 14-gon? A) 72 B) 82 C) 84 D) 88 E) other answer
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_student#q17|src_kangourou_2004_student__Q17]]
@@ -705,7 +751,7 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ramage inscribed in a quarter circle*
+*Radius of circle inscribed in a quarter circle*
 
 ![[src_kangourou_2004_student__prob18.png]]
 
@@ -722,7 +768,7 @@ Minimum paper to be extracted per product divided by 4*
 \end{document}
 ```
 
-> A circumference K is inscribed in the circular sector which is a quarter of a circle of radius 6, as shown in Figure 1. What's the radius of K? A) B) C) 2,5 D) 3 E)
+> A circle K is inscribed in the circular sector which is a quarter of a circle of radius 6, as shown in Figure 1. What's the radius of K? A) B) C) 2,5 D) 3 E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_student#q18|src_kangourou_2004_student__Q18]]
@@ -754,9 +800,14 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Produced sign in geometric succession a3<a2<a4*
+*Sign of the product in a geometric sequence a3<a2<a4*
 
-> In a geometrical sequence of 1, 2, 3, ... the following inequalities are obtained: a 3 < a 2 < a 4 . Then surely A) to 3 Aa 4 > 0 B) to 2 Aa 3 < 0 C) to 2 Aa 4 < 0 D) to 2 < 0 E) to 2 Aa 3 > 0
+> In a geometric sequence a 1, a 2, a 3, ... the following inequalities hold: a 3 < a 2 < a 4 .
+> Then certainly
+> A) a 3 Aa 4 > 0                B)a 2 Aa 3 < 0   
+> C) a 2 Aa 4 < 0
+> D)a 2 < 0   
+> E) a 2 Aa 3 > 0
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_student#q19|src_kangourou_2004_student__Q19]]
@@ -822,13 +873,48 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last figure of 11^2004*
+*Second-to-last digit of 11^2004*
 
-> What is the latest figure for 112004? A) 0 B) 1 C) 2 D) 3 E) 4 ( ) 2
+> What is the second-to-last digit of 112004?
+> A) 0  
+> B) 1
+> C) 2
+> D) 3
+> E) 4
+> (
+> )
+> 2
 >  
-> 2 12 22 2 12 22 − − + 2 2 6 − 2 2 3 ( ) 1 2 6 − K
+> 2
+> 12
+> 22
+> 2
+> 12
+> 22
+> −
+> −
+> +
+> 2
+> 2
+> 6 −
+> 2
+> 2
+> 3
+> (
+> )
+> 1
+> 2
+> 6
+> −
+> K
 > 
-> I'm going to pay. I'm going to pay. 31 31 Kang 2004 Kang 2004 tudent Questions from N. 21 al N. 30 is worth 5 points.
+> Pag. 
+> Pag. 31
+> 31
+> Kang 2004
+> Kang 2004
+> tudent
+> Questions from No. 21 to No. 30 are worth 5 points
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_student#q20|src_kangourou_2004_student__Q20]]
@@ -1041,11 +1127,42 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arc ray that hangs from an equilateral triangle*
+*Arc radius that bisects an equilateral triangle*
 
-> An equilateral triangle has side 4. The radius of the arc of circumference, centered at any of the vertices, dividing the triangle into two parts having the same area, is: A) B) C) D) E) f 1 -1 1 -1 g 0 x y π 3 12 π 3 24 π 3 30 π 3 6 π 3 48
+> An equilateral triangle has side 4. The radius of the arc of a circle, centered at any one of the vertices, that divides the triangle
+> into two parts having the same area, is:
+> A)              B)              C)              D)               E)  
+> f
+> 1
+> -1
+> 1
+> -1
+> g
+> 0
+> x
+> y
+> π
+> 3
+> 12
+> π
+> 3
+> 24
+> π
+> 3
+> 30
+> π
+> 3
+> 6
+> π
+> 3
+> 48
 > 
-> I'm going to pay. I'm going to pay. 32 32 Kang 2004 Kang 2004 also
+> Pag. 
+> Pag. 32
+> 32
+> Kang 2004
+> Kang 2004
+> tudent
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_student#q24|src_kangourou_2004_student__Q24]]
@@ -1081,9 +1198,9 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 120 after 200 steps (divers) *
+*Number in place of 120 after 200 steps (divisors) *
 
-> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of equal place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the ninth step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find instead of 120? A) 16 B) 12 C) 20         D)24 E) 32
+> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of even place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16 B) 12 C) 20         D)24 E) 32
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_student#q25|src_kangourou_2004_student__Q25]]
@@ -1117,11 +1234,11 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles not degenerating by 18 points*
+*Non-degenerate triangles from 18 points*
 
 ![[src_kangourou_2004_student__prob26.png]]
 
-> How many triangles (not degenerates) have their vertices 3 of the 18 points shown in the figure? A) 816 B) 711 C) 777       D) 717 E) 811
+> How many triangles (non-degenerate) have their vertices 3 of the 18 points shown in the figure? A) 816 B) 711 C) 777       D) 717 E) 811
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_student#q26|src_kangourou_2004_student__Q26]]
@@ -1155,9 +1272,9 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number c of sum of 1554 of the permutations*
+*Digit c from sum 1554 of the permutations*
 
-> a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by exchanging these three digits is 1554. What 's c ? A) 3 B) 4 C) 5 D) 6 E) 7
+> a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by permuting these three digits is 1554. What digit is c ? A) 3 B) 4 C) 5 D) 6 E) 7
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_student#q27|src_kangourou_2004_student__Q27]]
@@ -1187,9 +1304,12 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n2 digits with n=999...9*
+*Sum of digits of n^2 with n=999...9*
 
-> The number n = 999 ... 9 has the decimal representation formed by 999 nine. What 's the sum of the digits of number two ? A) 8982 B) 8991       C) 9000     D) 9009      E) 9018
+> The number n = 999 … 9 has the decimal representation formed
+> by 999 nines. What is the sum of the digits of n 2 ?
+> A) 8982
+> B) 8991       C) 9000     D) 9009      E) 9018
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_student#q28|src_kangourou_2004_student__Q28]]
@@ -1283,17 +1403,41 @@ Minimum paper to be extracted per product divided by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products BD x AC in convex quadrilateral *
+*Product BD x AC in a convex quadrilateral*
 
 ![[src_kangourou_2004_student__prob30.png]]
 
-> Either ABCD is a convex quadrilateral of unit area, with AB and BD bases of the isosceles triangles ABD and DBC respectively. Furthermore, knowing that angle B D measures 100° and angle A B measures 20° (see figure), the product is equal to:
+> Let ABCD be a convex quadrilateral of unit area, with AB and BD
+> bases of the isosceles triangles ABD and DBC respectively. Knowing furthermore that angle B   D measures
+> 100° and angle A  B measures 20° (see figure), the
+> product             is equal to:
+> A)   
+> B)   
+> C)  
+> D)  
+> E) other answer
+> 100°
+> 20°
+> A
+> B
+> D
+> C
+> 2
+> 3
+> 3
+> 3
+> 4
+> BD
 >  
 > x
 >  
-> AC Cˆ Dˆ
+> AC
+> Cˆ
+> Dˆ
 > 
-> Students 2004 - Page n° 1 SolutionStudents 2004
+> Students 2004 -  Page  n°
+> 1
+> SOLUTIONS STUDENT 2004
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_student#q30|src_kangourou_2004_student__Q30]]

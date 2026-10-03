@@ -31,7 +31,7 @@ level: kangourou
 
 Each term of the sequence 1007,10017,... Divisible by 53*
 
-> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (hence $1007, 10017, 100117, 1001117, \ldots$). It shows that each whole of the sequence is divisible by $53$.
+> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (hence $1007, 10017, 100117, 1001117, \ldots$). Show that every integer in the sequence is divisible by $53$.
 
 [[Quesiti/src_kangourou_2022_junior_finale#qj1|src_kangourou_2022_junior_finale__QJ1]]
 
@@ -70,7 +70,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of the inner circle at three circumferences*
+*Radius of the inner circle at the three circumferences*
 
 ![[src_kangourou_2022_junior_finale__probj2.png]]
 
@@ -85,7 +85,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 \end{document}
 ```
 
-> In the figure you can see three radius circles $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. How much is the radius of the latter? (see figure)
+> In the figure you can see three circles of radius $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. What is the radius of the latter? (see figure)
 
 **Answer:** 1 - 1/raddt3
 [[Quesiti/src_kangourou_2022_junior_finale#qj2|src_kangourou_2022_junior_finale__QJ2]]
@@ -118,7 +118,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 ![[src_kangourou_2022_junior_finale__probj3.png]]
 
-> In the figure you can see a region of the plane obtained by joining $36$ squares all equal to each other, and a card obtained by joining two squares identical to those of the region (the $2 \times 1$ table). How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the cards, but remember that you also have to justify why you can't place a larger number. (see figure)
+> In the figure you can see a region of the plane obtained by joining $36$ squares all equal to each other, and a tile obtained by joining two squares identical to those of the region (the $2 \times 1$ tile). How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the tiles, but remember that you also have to justify why you can't place a larger number. (see figure)
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2022_junior_finale#qj3|src_kangourou_2022_junior_finale__QJ3]]
@@ -148,7 +148,8 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *How many pairs (m,n) with 1/m+1/n=1/2022*
 
-> For all ordered pairs $(m, n)$ of positive integers $$\frac{1}{m} + \frac{1}{n} = \frac{1}{2022}\,?$$
+> For how many ordered pairs $(m, n)$ of positive integers does
+> $$\frac{1}{m} + \frac{1}{n} = \frac{1}{2022}\,?$$
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2022_junior_finale#qj4|src_kangourou_2022_junior_finale__QJ4]]
@@ -180,7 +181,7 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 ![[src_kangourou_2022_junior_finale__probj5.png]]
 
-> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). It shows that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides.
+> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). Show that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides.
 
 [[Quesiti/src_kangourou_2022_junior_finale#qj5|src_kangourou_2022_junior_finale__QJ5]]
 
@@ -207,6 +208,6 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 
 *The final 10-digit number has at least two equal digits*
 
-> Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the number of units) and add it to the number obtained by the remaining digits. Continue this way until you get a $10$ number. It shows that this number you got has at least two digits equal.
+> Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the units digit) and add it to the number obtained by the remaining digits. Continue this way until you get a $10$-digit number. Prove that this number you obtained has at least two equal digits.
 
 [[Quesiti/src_kangourou_2022_junior_finale#qj6|src_kangourou_2022_junior_finale__QJ6]]

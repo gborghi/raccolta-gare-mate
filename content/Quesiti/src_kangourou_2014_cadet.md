@@ -88,7 +88,17 @@ level: kangourou
 
 *Word that certainly does not appear by adding two letters to VOLANO*
 
-> Georgia lined up on the table six tiles, each engraved with a letter, forming the word VOLANO. Mattia added to Georgia's two cards (also with a letter each) we don't know where (one or both can also be found at the beginning or end of the word), but he didn't change the order of the cards aligned by Georgia. Which of the following words certainly does not appear on the table now? (a) Flying B) Flying C) Flying D) Flying E) Flying
+> Giorgia lined up six tiles on the table, on each of which a letter is engraved,
+> so as to form the word VOLANO. Mattia added to Giorgia's tiles
+> two tiles (also with one letter each) we do not know where (they may also
+> be one or both at the beginning or at the end of the word), but he did not change the order
+> of the tiles lined up by Giorgia. Which of the following words certainly does not appear
+> now on the table?
+> A) SVOLTANO	 	
+> B) VIOLANDO	 	
+> C) VOGLIANO        
+> D) VOLTARON	 	
+> E) EVOLVANO
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_cadet#q02|src_kangourou_2014_cadet__Q02]]
@@ -123,11 +133,14 @@ level: kangourou
 
 *2014-2014*
 
-> What is the result of 2014 × 2014: 2014  2014 ? A) 0
-> 	
-> B) 1
-> 	
-> C) 2013 D) 2014 E) 4028
+> What is the result of  2014 × 2014 : 2014 – 2014 ?
+> A) 0	
+	
+> B) 1	
+	
+> C) 2013		
+> D) 2014		
+> E) 4028
 
 **Answer:** A
 [[Quesiti/src_kangourou_2014_cadet#q03|src_kangourou_2014_cadet__Q03]]
@@ -160,9 +173,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter of wire between tiles in room 10x6*
+*Meters of wire between tiles in room 10x6*
 
-> A room 10 meters long and 6 meters wide is paved with square tiles of 1 meter on the side. You want to insert a finishing plastic wire between the individual tiles and between the tiles and the walls or doors, leaving no hole. How many yards of wire do you need? A) 100 B) 115 C) 125 D) 136 E) 172
+> A room 10 meters long and 6 meters wide is paved with square tiles of 1 meter on the side. You want to insert a finishing plastic wire between the individual tiles and between the tiles and the walls or doors, leaving no hole. How many meters of wire do you need? A) 100 B) 115 C) 125 D) 136 E) 172
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_cadet#q04|src_kangourou_2014_cadet__Q04]]
@@ -255,7 +268,7 @@ level: kangourou
 
 ![[src_kangourou_2014_cadet__prob6.png]]
 
-> Elisa has some square sheets of paper with an area of 4 sqm. He cuts them into squares and rectangular triangles as shown in the figure to the left. He then disposes of some of these pieces carved to form a stylized eagle, as shown in the figure to the right. What is the area of the eagle in dm2? A) 6
+> Elisa has some square sheets of paper with an area of 4 dm2. She cuts them into squares and right triangles as shown in the figure to the left. She then arranges some of these cut pieces to form a stylized eagle, as shown in the figure to the right. What is the area of the eagle in dm2? A) 6
 > 	
 > B) 5
 > 	
@@ -299,7 +312,7 @@ level: kangourou
 
 *Bucket capacity (half and then three quarters) *
 
-> A bucket was half full. I added two gallons of water and it's now three-quarters full. What is the capacity (in litres) of the bucket? A) 10 B) 8
+> A bucket was half full. I added two litres of water and it's now three-quarters full. What is the capacity (in litres) of the bucket? A) 10 B) 8
 > 	
 > C) 6
 > 	
@@ -345,17 +358,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs to be added per cube of bead 3*
+*Small cubes to add to make a cube with edge 3*
 
 ![[src_kangourou_2014_cadet__prob8.png]]
 
-> George constructed the solid shown in the figure next door by gluing 7 cubes each of 1 cm of grain. How many cubes identical to these must he add for a cube whose beam is 3 cm long? A) 12
+> Giorgio built the solid shown in the figure 
+> beside by gluing 7 small cubes each with an edge of 1 cm. 
+> How many cubes identical to these must he add to form 
+> a cube whose edge is 3 cm long?
+> A) 12	
 > 	
-> B) 14
+> B) 14	
 > 	
-> C) 16
+> C) 16	
 >        
-> D) 18
+> D) 18	
 > 	
 > E) 20
 
@@ -444,11 +461,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most white grains parched before the fifth gray*
+*Maximum white grains removed before the fifth gray*
 
 ![[src_kangourou_2014_cadet__prob10.png]]
 
-> The bracelet in the figure has gray and white grains. Arianna slides the grains one by one, choosing from time to time the end of the bracelet from which to slide. What is the maximum number of white grains that Arianna can parade if she stops as soon as she takes out the fifth gray grain? A) 4
+> The bracelet in the figure has gray and white grains. Arianna removes the grains one by one, each time choosing the end of the bracelet from which to remove them. What is the maximum number of white grains that Arianna can remove if she stops as soon as she takes out the fifth gray grain? A) 4
 > 	
 > B) 5
 > 	
@@ -496,7 +513,7 @@ level: kangourou
 
 *Weeks of the period with 15 lessons difference*
 
-> For a period of time, James took piano lessons twice a week and Anna once every two weeks. By the end of the period, James had taken 15 lessons more than Anna. How many weeks was the period considered? A) 30
+> For a period of time, James took piano lessons twice a week and Anna once every two weeks. By the end of the period, James had taken 15 lessons more than Anna. How many weeks did the period consist of? A) 30
 > 	
 > B) 25
 > 	
@@ -564,7 +581,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region covered by the 5 overlapping circles*
+*Area of the region covered by the 5 overlapping circles*
 
 ![[src_kangourou_2014_cadet__prob12.png]]
 
@@ -578,11 +595,27 @@ level: kangourou
 \end{document}
 ```
 
-> The area of each circle in the figure is 1 cm2; the area common to two overlapping circles is 1 cm2. What is the area in square centimetres of the region covered by the five circles? A)
+> The area of each of the circles in the figure is
+> 1 cm2; the area common to two overlapping circles is
+>     cm2. What is, in square centimetres, the area
+> of the region covered by the 5 circles?
+> A) 	
 > 	
-> B) 4
+> B) 4 	
 > 	
-> C)  35 ------ 8 D)  39 ------ 8 E)  19 ------ 4 9---- 2 1---- 8
+> C)  35
+> ------ 
+>   8  	
+> D)  39
+> ------ 
+>   8   	
+> E)  19
+> ------ 
+>   4   
+>  9---- 
+>  2
+>  1---- 
+>  8
 >
 
 **Answer:** A
@@ -622,7 +655,7 @@ level: kangourou
 
 *Age of granddaughter (powers of 2 plus 100) *
 
-> This year a friend of mine, her daughter and her granddaughter all have ages that, in years, are powers of two and the sum of their ages is 100 years. How old is your granddaughter? A) 1
+> This year a friend of mine, her daughter and her granddaughter all have ages that, in years, are powers of two and the sum of their ages is 100 years. How old is the granddaughter? A) 1
 > 	
 > B) 2
 > 	
@@ -684,7 +717,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of each rectangle squared side 24*
+*Area of each rectangle in a square of side 24*
 
 ![[src_kangourou_2014_cadet__prob14.png]]
 
@@ -757,7 +790,7 @@ When heart and arrow match for the first time
 
 ![[src_kangourou_2014_cadet__prob15.png]]
 
-> Two heart-shaped and arrow-shaped bases are placed in the triangles shown in the figure. They begin to move at the same moment: the arrow moves 3 places in the direction of the hour, the heart 4 places in the direction of the hour and then they stop. The procedure is repeated several times. After how many operations of the procedure are the heart and arrow found for the first time in the same triangular region? A) 7
+> Two heart-shaped and arrow-shaped bases are placed in the triangles shown in the figure. They begin to move at the same moment: the arrow moves 3 places in the direction of the hour, the heart 4 places in the opposite direction of the hour and then they stop. The procedure is repeated several times. After how many operations of the procedure are the heart and arrow found for the first time in the same triangular region? A) 7
 > 	
 > B) 8
 > 	
@@ -827,7 +860,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BAC angle given the angle between height and width*
+*BAC angle given the angle between altitude and bisector*
 
 ![[src_kangourou_2014_cadet__prob16.png]]
 
@@ -855,7 +888,7 @@ When heart and arrow match for the first time
 \end{document}
 ```
 
-> In the ABC triangle shown in Figure 1, BH is the height relative to the AC side while AD is the angle bisector in A. The measure of the oblique angle formed by BH and AD is quadrupled by the measure of α of the angle BAD. How many degrees does the angle BAC measure ? A) 30 B) 45
+> In the ABC triangle shown in Figure 1, BH is the altitude relative to the AC side while AD is the angle bisector in A. The measure of the obtuse angle formed by BH and AD is four times the measure α of the angle BAD. How many degrees does the angle BAC measure ? A) 30 B) 45
 > 	
 > C) 60
 > 	
@@ -897,9 +930,9 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time to finish the two baths with data times*
+*Minimum time to finish the two bathrooms with given times*
 
-> Six children share an apartment with two bathrooms, which they use every morning from 7:00 a.m. onwards. They use the bathrooms one at a time, each the first bathroom they find free, but they each stay there regularly for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organize themselves properly, at what time, at the earliest, will they be able to finish using the toilets? A) 7:45 B) 7:46 C) 7:47 D) 7:48 E) 7:50
+> Six children share an apartment with two bathrooms, which they use every morning from 7:00 a.m. onwards. They use the bathrooms one at a time, each the first bathroom they find free, but they each stay there regularly for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organize themselves properly, at what time, at the earliest, will they be able to finish using the bathrooms? A) 7:45 B) 7:46 C) 7:47 D) 7:48 E) 7:50
 
 **Answer:** B
 [[Quesiti/src_kangourou_2014_cadet#q17|src_kangourou_2014_cadet__Q17]]
@@ -936,13 +969,17 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lengths of the three sides from the rectangular beams*
+*Lengths of the three parts from the angle bisectors in the rectangle*
 
-> A rectangle has sides 6 cm long and 11 cm wide. Let's plot the angles of the vertices at the two ends of one of the two major sides: they divide the opposite side into three parts. What are the centimeter lengths of these three parts? A) 1, 9, 1
+> A rectangle has sides of length 6 cm and 11 cm. We draw the bisectors of the 
+> angles whose vertex is at the two endpoints of one of the two longer sides: they divide 
+> the opposite side into three parts. What are the lengths in centimeters of these three parts?
+> A) 1, 9, 1	
 > 	
-> B) 2, 7, 2
+> B) 2, 7, 2	
 > 	
-> C) 3, 5, 3 D) 4, 3, 4
+> C) 3, 5, 3	
+> D) 4, 3, 4	
 > 	
 > E) 5, 1, 5
 >
@@ -981,11 +1018,19 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many coins were in the fortress
+*How many coins were there in the chest*
 
-> A pack of pirates caught a forcible man with several gold coins. They divide the loot so that each has the same number of coins. If there were four pirates less, each one would get 10 more coins; whereas if there were 50 coins less, each one would get 5 less coins. How many coins were in the fortress? A) 80
-> 	
-> B) 100 C) 120 D) 150 E) 250
+> A crew of pirates has fished out a chest with several gold coins. They
+> divide the loot so that each has the same number of coins. If there
+> were four fewer pirates each would receive 10 more coins; instead if there
+> were 50 fewer coins, each would receive 5 fewer coins. How many coins
+> were there in the chest?
+> A) 80	
+	
+> B) 100	 	
+> C) 120	 	
+> D) 150	 	
+> E) 250
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_cadet#q19|src_kangourou_2014_cadet__Q19]]
@@ -1030,7 +1075,7 @@ How many coins were in the fortress
 > 	
 > D) 44
 > 	
-> E) 32.5 Questions from n. 21 al n. 30 is worth 5 points each.
+> E) 32.5 Questions from n. 21 to n. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2014_cadet#q20|src_kangourou_2014_cadet__Q20]]
@@ -1153,16 +1198,24 @@ How many coins were in the fortress
 <div class="qlang-split" data-lang="en"></div>
 
 
-* heavier than weights (defective balance) *
+*Heaviest object from the weighings (faulty scale)*
 
-> An old scale does not work well: if an object weighs less than 1000 g, the scale indicates the correct weight, but if the object weighs 1000 g or more, the scale indicates any number, but in any case greater than 1000 g. We have five objects A, B, C, D and E, each weighing less than 1,000 grams. We denote their weights in grams, respectively, with their names (ad. es. Weighing in at grams. If we weigh the objects in pairs, the scale indicates the following weights: B + D = 1200, C + E = 2100, B + E = 800, B + C = 900, A + E = 700. What's the heaviest object? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
+> An old scale works badly: if an object weighs less than 1000 g, the
+> scale shows the correct weight, but if the object weighs 1000 g or more, the scale shows
+> any number, but in any case greater than 1000 g. We have 5 objects A, B,
+> C, D and E, each of unknown weight less than 1000 g. We denote their weights in grams
+> respectively with their names (e.g. A weighs A grams). If we weigh the objects in
+> pairs, the scale shows the following weights:
+> B + D = 1200,    C + E = 2100,    B + E = 800,    B + C = 900,    A + E = 700.
+> Which is the heaviest object?
+> A) A	
+	
+> B) B	
+	
+> C) C	
+	
+> D) D	
+	
 > E) E
 
 **Answer:** D
@@ -1256,7 +1309,7 @@ How many coins were in the fortress
 \end{document}
 ```
 
-> In the figure you see an ABCD rectangular trapezoid. The numbers inserted into two of the triangles determined by the trapezoidal diagonals denote the area in square metres of the respective triangles. What is the area of the ABCD trapezoid in square metres? A) 60
+> In the figure you see a right trapezoid ABCD. The numbers inserted into two of the triangles determined by the diagonals of the trapezoid denote the area in square metres of the respective triangles. What is the area of the ABCD trapezoid in square metres? A) 60
 > 	
 > B) 45
 > 	
@@ -1303,9 +1356,9 @@ How many coins were in the fortress
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum numbers from 1 to 20 with no more than double the minor*
+*Maximum numbers from 1 to 20 with no greater being double the smaller*
 
-> Among all integers 1 to 20 included, Riccardo wants to select a few so that, however he extracts two of the selected numbers, the greater is not twice the smaller. How many can you pick at most? A) 14
+> Among all integers 1 to 20 included, Riccardo wants to select a few so that, however he chooses two of the selected numbers, the greater is not twice the smaller. How many can he pick at most? A) 14
 > 	
 > B) 13
 > 	
@@ -1351,7 +1404,7 @@ How many coins were in the fortress
 
 *Ratio between the speeds of the two parts of the journey*
 
-> Vincenzo used to go from the center of the village to his garden by bicycle. Today he had planned to arrive at 3 p.m. but, after covering 3/4 of the distance travelled at constant speed, he realized that he had taken 2/3 of the time planned for the full journey. From that point on, he rode more smoothly, always at a steady speed, and arrived at the time he had planned. What is the relationship between the speed of the first part and that of the second part of the journey? A) 5 : 4 B) 4 : 3 C) 3 : 2 D) 2 : 1 E) 3 : 1
+> Vincenzo used to go from the center of the village to his garden by bicycle. Today he had planned to arrive at 3 p.m. but, after covering 3/4 of the distance travelling at constant speed, he realized that he had taken 2/3 of the time planned for the full journey. From that point on, he rode more smoothly, always at a steady speed, and arrived at the time he had planned. What is the ratio between the speed of the first part and that of the second part of the journey? A) 5 : 4 B) 4 : 3 C) 3 : 2 D) 2 : 1 E) 3 : 1
 
 **Answer:** C
 [[Quesiti/src_kangourou_2014_cadet#q25|src_kangourou_2014_cadet__Q25]]
@@ -1393,11 +1446,11 @@ How many coins were in the fortress
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design on the opposite side of the cube parallel-piped*
+*Design on the opposite side of the cuboid*
 
 ![[src_kangourou_2014_cadet__prob26.png]]
 
-> The figure on the right shows 4 cubes indistinguishable by the dimensions and decorations that appear on each face. We draw them together to form a parallel piped, on one of whose faces appears the large black circle shown in the figure to the left. Which of the following drawings appears on the opposite face? A)
+> The figure on the right shows 4 cubes indistinguishable by the dimensions and decorations that appear on each face. We place them together to form a cuboid, on one of whose faces appears the large black circle shown in the figure to the left. Which of the following drawings appears on the opposite face? A)
 > 	
 > B)
 > 	
@@ -1456,7 +1509,7 @@ How many coins were in the fortress
 
 *How many are from the Greens (Green/Red/Yellow) *
 
-> In one room there are 25 people, each of whom belongs to one of the following fraternities: the Greens, who always tell the truth, the Reds, who always lie, and the Giants, who, if they answer one question truthfully, lie to the next and vice versa. Each of these people was asked in the order: • Are you Green?  and 17 answered yes, •  are from Yellow? and 12 answered yes, •  are from Red? and 8 answered yes. How many are the Greens? A) 4
+> In one room there are 25 people, each of whom belongs to one of the following fraternities: the Greens, who always tell the truth, the Reds, who always lie, and the Yellows, who, if they answer one question truthfully, lie to the next and vice versa. Each of these people was asked in the order: • "Are you Green?" and 17 answered yes, • "Are you Yellow?" and 12 answered yes, • "Are you Red?" and 8 answered yes. How many are the Greens? A) 4
 > 	
 > B) 5
 > 	
@@ -1502,7 +1555,7 @@ How many coins were in the fortress
 
 *Minimum value of M with divisible by 2 and 13*
 
-> On the board were written some positive integers all different from each other. Exactly two of them are divisible by 2 and exactly 13 of them are divisible by 13. If M is the largest of these numbers, what is the smallest value that M can sum? A) 143 B) 260 C) 273 D) 299 E) 325
+> On the board were written some positive integers all different from each other. Exactly two of them are divisible by 2 and exactly 13 of them are divisible by 13. If M is the largest of these numbers, what is the smallest value that M can take? A) 143 B) 260 C) 273 D) 299 E) 325
 >
 
 **Answer:** C
@@ -1552,7 +1605,7 @@ How many coins were in the fortress
 
 ![[src_kangourou_2014_cadet__prob29.png]]
 
-> In a pond there are 16 leaves of nymph, arranged in a pattern of 4×4 as shown in the figure. A frog sits on a leaf in one of the corners. It can jump from leaf to leaf horizontally or vertically; it can never land on an adjacent leaf and cannot visit the same leaf twice. What is the largest number of leaves (including the starting one) that the frog can visit? A) 16
+> In a pond there are 16 water lily leaves, arranged in a pattern of 4×4 as shown in the figure. A frog sits on a leaf in one of the corners. It can jump from leaf to leaf horizontally or vertically; moreover in its jumps it can never land on an adjacent leaf and cannot visit the same leaf twice. What is the largest number of leaves (including the starting one) that the frog can visit? A) 16
 > 	
 > B) 15
 > 	
@@ -1634,7 +1687,7 @@ How many coins were in the fortress
 
 > A square of side length 5 must be tiled with square tiles of side length 1, all bearing the same pattern shown in the figure. It is required that two adjacent tiles always have contacting edges of the same color, black or gray. On the border of the square, some tiles will abut with their black edge and others with one of their gray edges. What is the smallest number of gray edges that must necessarily appear on the border of the square?
 >
-> (A) 4
+> A) 4
 > 	
 > B) 5	
 > 	

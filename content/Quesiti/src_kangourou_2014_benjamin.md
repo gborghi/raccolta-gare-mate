@@ -50,7 +50,7 @@ level: kangourou
 
 ![[src_kangourou_2014_benjamin__prob1.png]]
 
-> Paul has some cards on each of which a letter appears and aligns them as shown in the first figure. In order for the word KANGOUROU to appear correctly written, however, some cards must be rotated, in some lines, once or twice by 90 degrees. The second figure shows you the rotations to perform on the letter K and one of the letters U. How many 90-degree rotations in total do you have to do to make the spelling look right? A) 4
+> Paul has some cards on each of which a letter appears and has aligned them as shown in the first figure. In order for the word KANGOUROU to appear correctly written, however, some cards must be rotated, in some direction, once or twice by 90 degrees. The second figure shows you the rotations to perform on the letter K and one of the letters U. How many 90-degree rotations in total do you have to do to make the spelling look right? A) 4
 > 	
 > B) 5
 > 	
@@ -168,9 +168,9 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three missing digits in the addendum*
+*sum of the three missing digits in the addition*
 
-> In the addition that we're showing you, the central digits of each addendum have been replaced by the dollar symbol. What is the sum of these numbers? A) 0
+> In the addition that we're showing you, the central digits of each addend have been replaced by the dollar symbol. What is the sum of these digits? A) 0
 > 	
 > B) 1
 > 	
@@ -331,9 +331,9 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flammiferi per square side with 62 total*
+*Matches per side of the square with 62 total*
 
-> Catherine has 62 matches, all of them equal. Using all of them, without breaking them, he arranged them so as to form some (one or more) equilateral triangles and a square, which have no points in common. He used six matches on each side of a triangle. How many did you use for each side of the square? A) 2
+> Catherine has 62 matches, all of them equal. Using all of them, without breaking them, she arranged them so as to form some (one or more) equilateral triangles and a square, which have no points in common. He used six matches on each side of a triangle. How many did she use for each side of the square? A) 2
 > 	
 > B) 6
 > 	
@@ -381,11 +381,11 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum white pearls to be displayed with grays*
+*Minimum white pearls to be removed with grays*
 
 ![[src_kangourou_2014_benjamin__prob8.png]]
 
-> Franca's necklace you see in the picture contains the gray and white pearls. Franca wants to give Bruna five of the gray pearls, slicing them from the ends. Since finding the pearls again takes a long time, Franca wants to parade with the greys the few white pearls that will allow her to achieve her goal. What's this number? A) 2
+> Franca's necklace you see in the picture contains the gray and white pearls. Franca wants to give Bruna five of the gray pearls, removing them from the ends. Since putting the pearls back on takes a long time, Franca wants to remove, together with the grays, the minimum number of white pearls that allows her to achieve her goal. What's this number? A) 2
 > 	
 > B) 3
 > 	
@@ -487,7 +487,7 @@ Weight of the largest piece of cake
 
 ![[src_kangourou_2014_benjamin__prob10.png]]
 
-> Bianca's digital clock is partially damaged: all three horizontal lines of the figure to the right (minutes) are not illuminated. The clock has just been taken from the picture shown on the left to the one shown on the right. What time is it right now? (A) 12:40 B) 12:44 C) 12:47 D) 12:48 E) 12:49 Questions from n. 11 al n. 20 is worth 4 points each.
+> Bianca's digital clock is partially damaged: all three horizontal lines of the figure to the right (minutes) are not illuminated. The clock has just been taken from the picture shown on the left to the one shown on the right. What time is it right now? (A) 12:40 B) 12:44 C) 12:47 D) 12:48 E) 12:49 Questions from n. 11 to n. 20 are worth 4 points each.
 
 [[Quesiti/src_kangourou_2014_benjamin#q10|src_kangourou_2014_benjamin__Q10]]
 
@@ -525,11 +525,22 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many children eat ice cream today
+*How many children eat ice cream today*
 
 ![[src_kangourou_2014_benjamin__prob11.png]]
 
-> Guido has composed the small mosaic you see in the figure and can choose one of the four remaining tiles to complete it. He wants the black part to have the same area as the white part once it's done. What is the plaster to replace the question mark? (A) B) C) D) E) E) Any of the four tiles placed cannot make the two areas equal. + x ?
+> Guido has composed the small mosaic that you see in the figure and can choose
+> one of four remaining tiles to complete it. He wants that, once
+> completed, the black part has the same area as the white part. Which
+> tile must he put in place of the question mark?
+> A) 	
+>                B) 	
+>              C) 	
+>           D) 	
+> E) Whichever of the four tiles he puts, he will not be able to make the two areas equal.
+> +
+> x
+> ?
 >
 
 [[Quesiti/src_kangourou_2014_benjamin#q11|src_kangourou_2014_benjamin__Q11]]
@@ -572,7 +583,7 @@ How many children eat ice cream today
 
 *Simona's road and direction to Elena*
 
-> Elena and Simona live in a completely flat area. The two friends continue to walk from the same point, but they follow different paths. Elena goes 1 km north, then 2 km west, then 4 km south and finally 1 km west and stops to wait for Simona. Simona, on the other hand, goes 1 Km east, then 4 Km south, then 4 Km west: from the point where she arrived, how many roads and in which direction will Simona still have to go to get to where Elena arrived? A) Simona has already arrived where Elena has arrived.
+> Elena and Simona live in a completely flat area. The two friends start walking from the same point, but they follow different paths. Elena goes 1 km north, then 2 km west, then 4 km south and finally 1 km west and stops to wait for Simona. Simona, on the other hand, goes 1 Km east, then 4 Km south, then 4 Km west: from the point where she arrived, how much distance and in which direction will Simona still have to go to get to where Elena arrived? A) Simona has already arrived where Elena has arrived.
 > 	
 > B) 1 km north. C) 1 km northwest.
 > 	
@@ -617,7 +628,7 @@ How many children eat ice cream today
 
 How many kids are gonna eat ice cream today?
 
-> At summer camp, seven kids eat ice cream every day, nine kids eat ice cream a day yes and one no while the rest of the kids never eat ice cream. Thirteen kids ate the ice cream yesterday. How many kids are gonna eat ice cream today? A) 7
+> At summer camp, seven kids eat ice cream every day, nine kids eat ice cream every other day while the rest of the kids never eat ice cream. Thirteen kids ate ice cream yesterday. How many kids are gonna eat ice cream today? A) 7
 > 	
 > B) 8
 > 	
@@ -663,9 +674,9 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum non-square whole rectangles in square 7*
+*Maximum non-square integer rectangles in a 7 square*
 
-> What is the maximum number of non-square rectangles, whose sides measure an integer number of centimetres, that can be inserted without overlapping into a square of 7 centimetres on the side? A) 14
+> What is the maximum number of non-square rectangles, whose sides measure an integer number of centimetres, that can be inserted without overlapping into a square of 7 centimetres side? A) 14
 > 	
 > B) 18
 > 	
@@ -760,9 +771,9 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit number sum with product 135*
+*Sum of digits of a three-digit number with product 135*
 
-> An integer has three digits: if we multiply them between them, we get 135. How much would you get if we added them up? A) 14
+> An integer has three digits: if we multiply them together, we get 135. What do we get if we add them up? A) 14
 > 	
 > B) 15
 > 	
@@ -806,7 +817,7 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bags do you need for groups of 3 and 5 with no leftovers*
+*How many balls do you need for groups of 3 and 5 with no remainder*
 
 > A restaurant has 16 tables; each table has 3, 4 or 6 seats. The restaurant can accommodate a total of 72 guests; a total of 36 guests can be accommodated in 3- or 4-seat tables. How many are the three-seater tables? A) 5
 > 	
@@ -857,11 +868,20 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number opposite to 4 on the dice given adjacencies*
+*Number opposite 4 on the die given the adjacencies*
 
-> Five friends, Ada, Bice, Carla, Dinah, and Enrica, are sitting at a round table, clockwise from Ada in the order we've listed them. At a certain moment, all but one, who does not move, exchange their seats with one of the two friends sitting next to each other. The new arrangement is now Ada, Enrica, Bice, Dinah, Carla, in this order always starting from Ada and always clockwise. Who stayed still? A) Ada
+> Five friends, Ada, Bice, Carla, Dina and Enrica are seated at a round table, clockwise starting from Ada in the order in which we have listed them. At a precise moment, all except one, who does not move, swap their place with one of the two friends seated beside them. The new arrangement is now Ada, Enrica, Bice, Dina, Carla, in this order always starting from Ada and always clockwise. Who remained still?
+> A) Ada	
 > 	
-> (b) Bise C) Carla D) Dina E) Enrica D and C B A
+> B) Bice	 	
+> C) Carla	 	
+> D) Dina	 	
+> E) Enrica
+> D
+> E
+> C
+> B
+> A
 >
 
 [[Quesiti/src_kangourou_2014_benjamin#q18|src_kangourou_2014_benjamin__Q18]]
@@ -902,7 +922,7 @@ How many kids are gonna eat ice cream today?
 
 *Minimum chocolates to be added (remaining 2 mod 3 and 5) *
 
-> Miriam has some chocolates. Whether you group them into groups of 3 or you group them into groups of 5, you always have 2. How many more must you take to a minimum if you want them to be grouped into groups of three or grouped into groups of five and no one is left with them? A) 3
+> Miriam has some chocolates. Whether you group them into groups of 3 or you group them into groups of 5, you always have 2. What is the minimum number she must take more if she wants that, whether grouping them into groups of 3 or into groups of 5, none are left over? A) 3
 > 	
 > B) 1
 > 	
@@ -951,7 +971,7 @@ How many kids are gonna eat ice cream today?
 
 *Face opposite to 4 of the numbered cube*
 
-> The faces of a cube are numbered from 1 to 6. We know that faces 1 and 6 have a joint and that the same thing happens to faces 1 and 5, 1 and 2, 6 and 5, 6 and 4, 6 and 2. Which face is opposite face 4? A) 1
+> The faces of a cube are numbered from 1 to 6. We know that faces 1 and 6 share an edge and that the same thing happens to faces 1 and 5, 1 and 2, 6 and 5, 6 and 4, 6 and 2. Which face is opposite face 4? A) 1
 > 	
 > B) 2
 > 	
@@ -959,7 +979,7 @@ How many kids are gonna eat ice cream today?
 > 	
 > D) 5
 >         
-> E) Further information is needed to answer. Questions from n. 21 al n. 30 is worth 5 points each.
+> E) Further information is needed to answer. Questions from n. 21 to n. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2014_benjamin#q20|src_kangourou_2014_benjamin__Q20]]
@@ -1007,7 +1027,7 @@ How many kids are gonna eat ice cream today?
 
 ![[src_kangourou_2014_benjamin__prob21.png]]
 
-> In the figure (left) you see a cube shaped by 27 equal cubes. You want to remove some cubes so that, looking at the cube from each of the faces that appear in the figure (i.e. from above, front and right) you always see the image on the right. What's the least number of cubes you can lift to reach your goal? A) 4
+> In the figure (left) you see a cube shaped by 27 equal cubes. You want to remove some cubes so that, looking at the cube from each of the faces that appear in the figure (i.e. from above, front and right) you always see the image on the right. What's the least number of cubes you can remove to reach your goal? A) 4
 > 	
 > B) 5
 >  	
@@ -1057,7 +1077,7 @@ How many kids are gonna eat ice cream today?
 
 What song was playing on the way home after an hour?
 
-> Five songs A, B, C, D and E are recorded on a recording: A lasts 3 minutes, B 2 and a half minutes, C 2 minutes, D 1 minute and a half, E 4 minutes. There are no pauses between one song and the next, and once the E is over, the record starts immediately with the A. Pino left the house, without stopping the record, while the song C was being played and came back exactly an hour later. What song was she playing when she came home? A) A
+> Five songs A, B, C, D and E are recorded on a record: A lasts 3 minutes, B 2 and a half minutes, C 2 minutes, D 1 minute and a half, E 4 minutes. There are no pauses between one song and the next, and once the E is over, the record starts immediately with the A. Pino left the house, without stopping the record, while the song C was being played and came back exactly an hour later. What song was being played when he came home? A) A
 > 	
 > B) B
 > 	
@@ -1101,9 +1121,9 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of two-digit dividers for 2014*
+*Number of two-digit divisors of 2014*
 
-> How many two-digit integers are 2014 divisors? A) 2
+> How many two-digit positive integers are divisors of 2014? A) 2
 > 	
 > B) 3
 > 	
@@ -1300,7 +1320,7 @@ What song was playing on the way home after an hour?
 
 ![[src_kangourou_2014_benjamin__prob26.png]]
 
-> Look at the figure. On a transparent plastic cube a decorative line is drawn, retracting some of the beads and some of the diagonals of some faces. For each of its faces, imagine flattening the cube by squeezing it perpendicular to that face (thus, of the five moving faces, only the opposite face will remain intact, while the other four will be compressed, each on one side of that face). Any of the following images can then be obtained, except one. What kind? A) B) C) D) E)
+> Look at the figure. On a transparent plastic cube a decorative line is drawn, tracing over some of the edges and some of the diagonals of some faces. For each of its faces, imagine flattening the cube by squeezing it perpendicular to that face (thus, of the five moving faces, only the opposite face will remain intact, while the other four will be compressed, each on one side of that face). Any of the following images can then be obtained, except one. Which one? A) B) C) D) E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2014_benjamin#q26|src_kangourou_2014_benjamin__Q26]]
@@ -1378,16 +1398,20 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Times of only grass for the rabbit Tim*
+*Grass-only days for Tim the rabbit*
 
-> Tim Rabbit likes carrots and carrots. On the days when you're not on a diet, you eat 9 carrots or 2 carrots or 4 carrots and 1 carrot. On the days she's on a diet, instead, she eats only grass. In the last 10 days, he's eaten a total of 30 carrots and 9 carrots. How many of those 10 days did you only eat weed? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> Tim the rabbit likes carrots and carob beans. On days when he is not on a diet, he eats either 9 
+> carrots or 2 carob beans or 4 carrots and 1 carob bean. On days when he is on a diet, instead, he eats 
+> only grass. In the last 10 days he ate a total of 30 carrots and 9 carob beans. On how many 
+> of these 10 days did he eat only grass?
+> A) 0	
+	
+> B) 1	
+	
+> C) 2	
+	
+> D) 3	
+	
 > E) 4
 
 **Answer:** C

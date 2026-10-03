@@ -34,13 +34,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product number 5 digits sum 37*
+*Minimum product of digits of a 5-digit number with sum 37*
 
-> You have a bag of coriander and you'd like to know how many, at least roughly. Think of using the following strategy:
+> You have a bag of confetti and would like to know how many there are, at least approximately. You decide to use the following strategy:
 > 
-> - you extract 50 of them and mark them with a mark, then put them back in the bag and mix all the candies so that the ones you've marked can evenly be distributed inside the bag; - you extract 70 of them at random and find out that out of these 70, only two have been marked by you.
+> - you draw 50 and mark them with a sign, then put them back in the bag and mix all the confetti so that the ones you marked can distribute uniformly inside the bag;
+> - you then draw 70 at random and discover that, among these 70, only two were marked by you.
 > 
-> Based on this experiment, what is a reliable number for the coriander in the bag?
+> Based on this experiment, what is a reliable number for the confetti contained in the bag?
 
 [[Quesiti/src_kangourou_2021_junior_finale#q01|src_kangourou_2021_junior_finale__Q01]]
 
@@ -67,7 +68,7 @@ level: kangourou
 
 Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
-> When you observe two spheres of different rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+> When you observe two spheres of different radii from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
 [[Quesiti/src_kangourou_2021_junior_finale#q02|src_kangourou_2021_junior_finale__Q02]]
 
@@ -101,15 +102,17 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum time to restore 10 containers*
+*Maximum pourings to restore 10 containers*
 
 ![[src_kangourou_2021_junior_finale__prob3.png]]
 
-> Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We make some transitions between the containers; for each container, at each transition, we write down the amount of water that is in or out. For example, mark the containers with A, B, etc. And using the same unit of measurement, we could have an annotation like
+> Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We perform some pourings between the containers; for each container, at each pouring, we note the quantity of water added or removed. For example, denoting the containers with A, B, etc. and always using the same unit of measurement, we could have a note like
 > 
-> This is the first time I've ever seen a person who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a man who's been in a relationship with a relationship with a woman who's been in a relationship with her.
+> | | A | B | C | D | E | F | G | H | I | J |
+> |---|---|---|---|---|---|---|---|---|---|---|
+> | pouring 1 | +1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | −1 |
 > 
-> At the end of these operations, the initial amount of water in each container is to be restored, thus minimizing the number of transis. If we adopt a proper strategy, how many frames will be needed, at most?
+> At the end of these operations we want to restore in each container the initial quantity of water, minimizing the number of pourings. By adopting a suitable strategy, how many pourings might be needed, at most?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2021_junior_finale#q03|src_kangourou_2021_junior_finale__Q03]]
@@ -152,7 +155,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different plane developments of a cube*
+*Number of different plane nets of a cube*
 
 ![[src_kangourou_2021_junior_finale__prob4.png]]
 ![[src_kangourou_2021_junior_finale__prob4b.png]]
@@ -171,7 +174,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 \end{document}
 ```
 
-> In the figure you see a plane development of a cube, that is, a possible plane approach of the sides of the cube so that you can reconstruct the cube by folding the figure along the common sides of the two sides appropriately. How many different planes of development between them has a cube, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
+> In the figure you see a plane net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that you can reconstruct the cube by folding the figure along the sides common to two faces. How many different plane nets of a cube are there, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
 
 **Answer:** 11
 [[Quesiti/src_kangourou_2021_junior_finale#q04|src_kangourou_2021_junior_finale__Q04]]
@@ -206,11 +209,11 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
 > You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by entering, one for each box, all the integers from $1$ to $m \times n$ so that the sum of the numbers entered in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when
 > 
-> a) $m = 2021$ e $n = 2020$?
+> a) $m = 2021$ and $n = 2020$?
 > 
-> b) $m = 2020$ e $n = 2021$?
+> b) $m = 2020$ and $n = 2021$?
 
-**Answer:** a)No b)Si
+**Answer:** a)No b)Yes
 [[Quesiti/src_kangourou_2021_junior_finale#q05|src_kangourou_2021_junior_finale__Q05]]
 
 
@@ -235,9 +238,9 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate c1+..+cn>=n if product ci=1 (AM-GM) *
+*Prove c1+..+cn>=n if product ci=1 (AM-GM) *
 
-> It shows that for any $n$-upple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
+> Show that for any $n$-tuple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
 
 [[Quesiti/src_kangourou_2021_junior_finale#q06|src_kangourou_2021_junior_finale__Q06]]
 
@@ -302,7 +305,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n with 2021 = n + sum of n*
+*sum of n with 2021 = n + sum of digits of n*
 
 > Look at the figure. A rectangle with a perimeter of 30 cm is divided into four rectangles, one of which is a square of area $9\text{ cm}^2$. How many centimetres does the perimeter of the $ABCD$ rectangle measure? (see figure)
 > 
@@ -339,9 +342,13 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
 *Minimum L for segments covering the triangle*
 
-> Alberto drew three triangles on a grid. Of these, exactly two have the same area, exactly two are isosceles and exactly two are rectangular triangles. In the figure to the right, two of the three triangles are shown. What could be the third? (see figure)
+> Alberto drew three triangles on a grid. Of them, exactly two have the same area, exactly two are isosceles, and exactly two are right triangles. In the figure on the right, two of the three triangles are shown. Which could be the third? (see figure)
 > 
-> (see Figure A) (see Figure B) (see Figure C) (see Figure D) (see Figure D) (see Figure E) (see Figure E)
+> A) (see figure A)
+> B) (see figure B)
+> C) (see figure C)
+> D) (see figure D)
+> E) (see figure E)
 
 [[Quesiti/src_kangourou_2021_junior_finale#q09|src_kangourou_2021_junior_finale__Q09]]
 
@@ -407,11 +414,15 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the sizes of three distinct digits of numbers*
+*Sum of the sizes of the numbers with 3 distinct digits*
 
-> Anna chose a number $A$ and subtracted it from $\frac{1}{10}$, Beatrice chose a number $B$ and multiplied it by $\frac{1}{10}$. Anna and Beatrice got the same result. So, what?
+> Anna chose a number $A$ and subtracted $\frac{1}{10}$ from it, Beatrice chose a number $B$ and multiplied it by $\frac{1}{10}$. Anna and Beatrice obtained the same result. Therefore
 > 
-> (a) certainly $A < B$. (b) certainly $A > B$. (c) certainly $A \times B > 0$. D) $A$ is certainly different from $B$, but it could be either $A < B$ or $A > B$. E) None of the above claims are correct.
+> A) certainly $A < B$.
+> B) certainly $A > B$.
+> C) certainly $A \times B > 0$.
+> D) certainly $A$ is different from $B$, but it could be either $A < B$ or $A > B$.
+> E) none of the previous statements is correct.
 
 [[Quesiti/src_kangourou_2021_junior_finale#q11|src_kangourou_2021_junior_finale__Q11]]
 
@@ -443,7 +454,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
 *Length of the bridge (Aldo and Carlo) *
 
-> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The $6°$ step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest degree?
+> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The $6°$ step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest step?
 > 
 > A) 6 B) 7 C) 8 D) 9 E) 10
 
@@ -512,7 +523,7 @@ Maximum n with 4^27 + 4^1025 + 4^n perfect square
 
 *Value a+b figures of 4^2021 and 25^2021*
 
-> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the rest. For how many positive integers, less than 2021, does the same thing happen, that is, the rest of the four divisions is always 5?
+> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the remainder. For how many positive integers, less than 2021, does the same thing happen, that is, the remainder of the four divisions is always 5?
 > 
 > (a) 4 (b) 3 (c) 2 (d) 1 (e) none
 

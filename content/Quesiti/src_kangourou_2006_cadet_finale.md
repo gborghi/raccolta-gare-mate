@@ -124,9 +124,9 @@ level: kangourou
 \end{document}
 ```
 
-> A metal bar, which for simplicity's sake is assumed to be threaded and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall makes an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does$M$describe on the wall? Reason for your statement. (see figure)
+> A metal bar, which for simplicity's sake is assumed to be filiform and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall forms an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does $M$ describe on the wall? Reason for your statement. (see figure)
 
-**Answer:** quarto di circonferenza
+**Answer:** quarter of a circle
 [[Quesiti/src_kangourou_2006_cadet_finale#qc2|src_kangourou_2006_cadet_finale__QC2]]
 
 
@@ -177,9 +177,9 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows a base rectangle $a$ and height $b$, and a square with a vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that provide (with respect to appropriate units of measurement) the area and perimeter of the rectangle if the square has sides $2$? (see figure)
+> The figure shows a rectangle with base $a$ and height $b$, and a square with a vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that provide (with respect to appropriate units of measurement) the area and perimeter of the rectangle if the square has sides $2$? (see figure)
 
-**Answer:** sono uguali
+**Answer:** they are equal
 [[Quesiti/src_kangourou_2006_cadet_finale#qc3|src_kangourou_2006_cadet_finale__QC3]]
 
 
@@ -210,7 +210,7 @@ level: kangourou
 
 ![[src_kangourou_2006_cadet_finale__probc4.png]]
 
-> A circle has been divided into a number of points (at least 4), for example as shown in Figure 1. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
+> A circle has been divided into a number of spikes (at least 4), for example as shown in the figure. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2006_cadet_finale#qc4|src_kangourou_2006_cadet_finale__QC4]]
@@ -245,7 +245,7 @@ level: kangourou
 
 ![[src_kangourou_2006_cadet_finale__probc5.png]]
 
-> In the operation indicated, each letter represents a digit: equal letters represent equal numbers and different letters represent different numbers; furthermore, no letter represents the $0$ digit. How much is the result worth?
+> In the operation indicated, each letter represents a digit: equal letters represent equal digits and different letters represent different digits; furthermore, no letter represents the $0$ digit. What is the result?
 > 
 > $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
 
@@ -278,5 +278,5 @@ level: kangourou
 
 > It considers the numbers of $3$ digits whose digits can be rearranged to form sets of consecutive digits (e.g. the digits of $786$ may be rearranged in the row $678$, consisting of consecutive digits). How many of these numbers have a odd number of divisors (different between them)?
 
-**Answer:** due
+**Answer:** two
 [[Quesiti/src_kangourou_2006_cadet_finale#qc6|src_kangourou_2006_cadet_finale__QC6]]

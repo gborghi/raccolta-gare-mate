@@ -44,7 +44,7 @@ level: kangourou
 
 *Final product unit number for 2021..2029*
 
-> (2 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. It proceeds on the eight numbers remaining the same by getting seven and so on, until there is only one number left on the sheet. What is the unit number of this number? A) 0
+> (2 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining in the same way, obtaining seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
 >  
 > B) 2
 >  
@@ -86,11 +86,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additional grass areas 30 vs. 25 metres on the side*
+*Additional fertilizer for a lawn 30 vs 25 meters per side*
 
-> (3 points) A certain amount of manure is required to fertilize a 25 square metre lawn. Which of the following figures is closest to the amount of additional manure needed to fertilize a 30 square foot lawn in the same way? A) q/6
+> (3 points) To fertilize a square lawn with a side of 25 meters, a certain quantity q of
+> fertilizer is needed. Which of the following numbers is closest to the amount of additional fertilizer needed
+> to fertilize in the same way a square lawn with a side of 30 meters?
+> A) q/6
 >  
-> B) q/5 C) q/4 D) q/3 E) q/2
+> B) q/5  
+> C) q/4  
+> D) q/3  
+> E) q/2
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_junior_semifinale#q02|src_kangourou_2022_junior_semifinale__Q02]]
@@ -172,7 +178,7 @@ level: kangourou
 \end{document}
 ```
 
-> (3 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is three times Bice's. Right now Ada is on top A while Bice is on top B. How many of the following statements are correct? Ada and Bice will never be together at summit B. Ada and Bice will never be together at C Summit. Ada and Bice will never be together at summit D. - Sometimes Ada and Bice will be together at summit A. Ada and Bice can't be together except at one of the summits. (A) 0 (none)
+> (3 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is three times Bice's. Right now Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. (A) 0 (none)
 >  
 > B) 1
 >  
@@ -268,7 +274,7 @@ level: kangourou
 
 *Four-digit number with the last digit shifted to the head, sum*
 
-> (4 points) Simona writes a four-digit integer, then raises her last digit and moves it head to the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
+> (4 points) Simona writes a four-digit integer, then removes its last digit and moves it to the head of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
 >  
 > B) 1
 >  
@@ -310,7 +316,7 @@ level: kangourou
 
 *which perimeter is impossible*
 
-> (4 points) The dimensions of four rectangles are a × b, b × c, c × d and d × a, where all numbers a, b, c and d are positive integers and express lengths in metres. Their total area is 105 square meters. Which of the following numbers is certainly not the sum of their perimeter in meters? A) 88 B) 104 C) 124 D) 152 E) None, all could be.
+> (4 points) The dimensions of four rectangles are a × b, b × c, c × d and d × a, where all numbers a, b, c and d are positive integers and express lengths in metres. Their total area is 105 square meters. Which of the following numbers is certainly not the sum of their perimeters in meters? A) 88 B) 104 C) 124 D) 152 E) None, all could be.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_junior_semifinale#q06|src_kangourou_2022_junior_semifinale__Q06]]
@@ -392,11 +398,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four radii circles 1, outer edge length*
+*Four circles of radius 1, outer edge length*
 
 ![[src_kangourou_2022_junior_semifinale__prob8.png]]
 
-> (5 points) The figure shows four radius 1 circumferences with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the black striped arches? A) 3π
+> (5 points) The figure shows four circles of radius 1 with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the thickened black dashed arcs? A) 3π
 >  
 > B) 3π/2 C) 8π/3
 >  
@@ -441,7 +447,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* equal to or less than 4x, find n*
+*even/odd product, prob 4x, find n*
 
 > (6 points) Anna and Ernesto play as follows. On the table there are n covered cards numbered from 1 to n, where n is an even number. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. You know, the probability of Anna winning is four times the probability of Ernesto winning. How much is n? A) 6
 >  
@@ -480,7 +486,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient number of 111222...999 divided by 111*
+*Number of digits in the quotient of 111222...999 divided by 111*
 
 > (4 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 >  
@@ -519,7 +525,7 @@ level: kangourou
 
 ![[src_kangourou_2022_junior_semifinale__prob11.png]]
 
-> (5 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
+> (5 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2022_junior_semifinale#q11|src_kangourou_2022_junior_semifinale__Q11]]
@@ -550,9 +556,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five people in cars with restrictions, provisions*
+*Five people in a car with restrictions, provisions*
 
-> (5 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
+> (5 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while there are no constraints on the remaining two. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2022_junior_semifinale#q12|src_kangourou_2022_junior_semifinale__Q12]]
@@ -585,7 +591,7 @@ level: kangourou
 
 *minimum steps from 1 to 2022*
 
-> (6 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the road results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
+> (6 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes exactly 3: 1 × 3 + 4 − 1.)
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2022_junior_semifinale#q13|src_kangourou_2022_junior_semifinale__Q13]]
@@ -618,9 +624,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs m<n with 1/m+1/n=1/3*
+*Pairs of integers m<n with 1/m+1/n=1/3*
 
-> (6 points) How many pairs of integers m, n with m  n satisfy the equality 1 m + 1 n = 13?
+> (6 points) How many pairs of integers m, n with m  n satisfy the equality   
+> 1
+> 𝑚+ 
+> 1
+> 𝑛= 
+> 1
+> 3 ?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2022_junior_semifinale#q14|src_kangourou_2022_junior_semifinale__Q14]]
@@ -651,9 +663,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equal board within*
+*edge equal to interior*
 
-> (6 points) Let's call a rectangle of full size m × n fair if the following happens: when it is divided into m squares on the unit side, the squares along the edge are as many as the remaining ones (i.e. those that are tightly inside). How many, if any, are equal rectangles? (A rectangle m × n shall be considered to be identical to the rectangle n × m; if you believe that there are infinitely many equal rectangles, answer 9999.)
+> (6 points) We call a rectangle of integer dimensions m × n fair if the following happens:
+> when it is divided into mn unit squares, the squares that lie along the edge are as many
+> as the remaining ones (that is, those that lie strictly in the interior). How many fair
+> rectangles are there, if any exist? (An m × n rectangle must be considered identical to the n × m rectangle; if you believe that there
+> are infinitely many fair rectangles, answer 9999.)
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2022_junior_semifinale#q15|src_kangourou_2022_junior_semifinale__Q15]]
@@ -682,9 +698,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last decimal point not less than 1/5^2022*
+*Last non-zero decimal digit of 1/5^2022*
 
-> (7 points) What is the last decimal digit other than 0 in number 1 52022 ?
+> (7 points) What is the last decimal digit other than 0 of the number
+> 1
+> 52022 ?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2022_junior_semifinale#q16|src_kangourou_2022_junior_semifinale__Q16]]
@@ -716,7 +734,7 @@ level: kangourou
 
 *Integer coefficient polynomials with roots 1+√2, min sum
 
-> (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + √2 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
+> (7 points) Indicate with P the set of polynomials with integer coefficients that have 1 + √2 among their roots and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) as P varies in P?
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2022_junior_semifinale#q17|src_kangourou_2022_junior_semifinale__Q17]]
@@ -758,9 +776,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with x2+y and x+y2 both squared*
+*Pairs (x,y) with x²+y and x+y² both squared*
 
-> (8 points) For how many pairs (x, y) of positive integers does it happen that both integers x2 + y and x + y2 are perfect squares? (Write 9999 if you think there are infinite pairs.)
+> (8 points) For how many pairs (x, y) of positive integers does it happen that both integers x² + y and x + y² are perfect squares? (Write 9999 if you think there are infinite pairs.)
 >  
 > 25 15 16 9 3 2 4 4 0
 >  

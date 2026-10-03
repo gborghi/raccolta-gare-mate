@@ -67,9 +67,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remains of 3x divided by 6 given remainder of x equal to 3*
+*Remainder of 3x divided by 6 given remainder of x equal to 3*
 
-> 2. Dividing by 6 the positive integer x gets the remaining 3. What 's the rest of the JUNIOR division by 6 of 3x ? A) 4 B) 3 C) 2 D) 1 E) 0
+> 2. Dividing the positive integer x by 6 gives remainder 3. What is the remainder in the JUNIOR division by 6 of 3x ? A) 4 B) 3 C) 2 D) 1 E) 0
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_junior_marzo#q02|src_kangourou_2016_junior_marzo__Q02]]
@@ -152,7 +152,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair other than the sum of the squares*
+*Pair that is not a vertex of the square*
 
 > 5. Four of the ordered pairs you find in the answers, in a Cartesian reference system, represent the vertices of a square. Which one is not a vertex of this square? A) (-1, 3) C) (-2, -1) D) (1, 1) E) (3, -2) B) (0, -4)
 
@@ -180,9 +180,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The result of the test shall be the following: * result of 000000 minus 00*
+*result of 000000 minus 00*
 
-> 6. Luke, who has not yet learned the ordinary notation of negative numbers, has devised his own way of representing integers before zero; considering the relative integers closest to zero he would write: 0000, 000, 00, 0, 1, 2, 3, ... . Using its notation, what is the result of 000000  00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
+> 6. Luke, who has not yet learned the ordinary notation of negative numbers, has devised his own way of representing integers before zero; considering the relative integers closest to zero he would write: 0000, 000, 00, 0, 1, 2, 3, ... . Using its notation, what is the result of 000000 – 00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
 
 **Answer:** C
 [[Quesiti/src_kangourou_2016_junior_marzo#q06|src_kangourou_2016_junior_marzo__Q06]]
@@ -211,7 +211,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 
 *Impossible sum by throwing two dice with negative odds*
 
-> 7. I have odd dice. On each of their faces there's a number from 1 to 6, but every odd number has the minus sign pressed on it, so the corresponding number is negative. By rolling two of these dice and adding up the numbers on the upper faces, which of the following numbers can never be obtained? A) 3 B) 4 C) 5 D) 7 E) 8
+> 7. I have strange dice. On each of their faces there's a number from 1 to 6, but every odd number is preceded by the minus sign, so the corresponding number is negative. By rolling two of these dice and adding up the numbers on the upper faces, which of the following numbers can never be obtained? A) 3 B) 4 C) 5 D) 7 E) 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2016_junior_marzo#q07|src_kangourou_2016_junior_marzo__Q07]]
@@ -237,7 +237,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Abounding letter exchanges from VELO to LOVE*
+*Adjacent letter exchanges from VELO to LOVE*
 
 > 8. How many times do I have to swap two adjacent letters to change, step by step, the word VELO into the word LOVE? A) 3 B) 4 C) 5 D) 6 E) 7
 
@@ -268,7 +268,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 
 *5 digits, no pairs sum 10*
 
-> 9. Sonia wrote five different positive integers to one digit on the board. He discovered that the sum of two of any of them is never 10. Which of these numbers is Sonia sure wrote on the board? A) 1 B) 2 C) 3 D) 4 E) 5
+> 9. Sonia wrote five different one-digit positive integers on the board. She discovered that the sum of two of any of them is never 10. Which of these numbers is Sonia certain to have written on the board? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_junior_marzo#q09|src_kangourou_2016_junior_marzo__Q09]]
@@ -294,9 +294,9 @@ The result of the test shall be the following: * result of 000000 minus 00*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure not to be inserted into the side square 1 dm*
+*Figure that cannot fit in a square with side 1 dm*
 
-> 10. Which of the following geometric figures is not inserted into a square of 1 dm side? A) A circle with a radius of 5 cm. (b) A regular octagon on the side of 3.5 cm. C) A rectangular triangle with a hypotenuse of 1 dm. JUNIOR D) An equilateral triangle with a perimeter of 3 dm. E) None of them. The questions from N. 11 al N. 20 is worth 4 points each.
+> 10. Which of the following geometric figures cannot fit in a square with side 1 dm? A) A circle with radius 5 cm. B) A regular octagon with side 3.5 cm. C) A right triangle with hypotenuse 1 dm long. JUNIOR D) An equilateral triangle with perimeter 3 dm. E) None. Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_junior_marzo#q10|src_kangourou_2016_junior_marzo__Q10]]
@@ -322,9 +322,9 @@ The result of the test shall be the following: * result of 000000 minus 00*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major between a,b,c,d given system of equality*
+*Largest among a,b,c,d given a system of equalities*
 
-> 11. Four real numbers a, b, c, d prove these equality: a + 5 = $b^{2}$  1 = $c^{2}$ + 3 = d  4. Which of them is greater? (a) (b) (c) (d) (e) It is impossible to establish.
+> 11. Four real numbers a, b, c, d satisfy these equalities: a + 5 = $b^{2}$ – 1 = $c^{2}$ + 3 = d – 4. Which of them is the largest? A) a B) b C) c D) d E) It is impossible to determine.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2016_junior_marzo#q11|src_kangourou_2016_junior_marzo__Q11]]
@@ -362,7 +362,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between two squared circumferences*
+*Distance between two circles*
 
 ![[src_kangourou_2016_junior_marzo__prob12.png]]
 
@@ -376,7 +376,7 @@ The result of the test shall be the following: * result of 000000 minus 00*
 \end{document}
 ```
 
-> 12. In the figure you see a square divided into nine side squares.
+> 12. In the figure you see a square divided into nine squares of side.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_junior_marzo#q12|src_kangourou_2016_junior_marzo__Q12]]
@@ -419,17 +419,20 @@ The result of the test shall be the following: * result of 000000 minus 00*
 
 *Missing result of the tennis tournament*
 
-> A direct elimination tennis tournament is over. The results of six of the seven final matches (quarter-finals, semi-finals and final) were (not necessarily in this order): Bianca beats Anna, Carla beats Daniela, Gina beats Hether, Gina beats Carla, Carla beats Bianca and Emma beats Franca. What's the missing result?
+> A single-elimination tennis tournament has ended. The outcomes of six of the seven 
+> final matches (quarter-finals, semi-finals and final) were (not necessarily 
+> in this order): Bianca beats Anna, Carla beats Daniela, Gina beats Hether, Gina 
+> beats Carla, Carla beats Bianca and Emma beats Franca. What is the missing result? 
 > 	
-> A) Gina beats white .
+> A) Gina  beats  Bianca	
 > 	
-> B) Carla beats up Anna
+> B) Carla  beats  Anna	
 > 	
-> C) Emma beats up Carla
+> C) Emma  beats  Carla
 > 	
-> D) White beats Hether
+> D) Bianca  beats  Hether	
 > 	
-> Gina is beating Emma.
+> E) Gina  beats  Emma
 >
 
 **Answer:** E
@@ -642,7 +645,7 @@ Number in place of ? in the magic square multiplied by *
 
 ![[src_kangourou_2016_junior_marzo__prob16.png]]
 
-> Andrea has twelve identical cylinders, a circular section 2 cm in diameter; she has them in two groups of six, wrapping each group with plastic film. He thus obtained two solids whose bases are shown in the figures, which we will call for short parallelogram and triangle. As regards the perimeter of the two bases, it can be stated that A) the parallelogram is shorter than π cm. (b) the parallelogram is shorter than 4 cm. (c) that of the triangle is shorter than π cm. D) the triangle is shorter than 4 cm. E) are of the same length.
+> Andrea has twelve identical cylinders, a circular section 2 cm in diameter; she has them in two groups of six, wrapping each group with plastic film. He thus obtained two solids whose bases are shown in the figures, which we will call for short parallelogram and triangle. As regards the perimeter of the two bases, it can be stated that A) that of the parallelogram is shorter than π cm. (b) the parallelogram is shorter than 4 cm. (c) that of the triangle is shorter than π cm. D) that of the triangle is shorter than 4 cm. E) are of the same length.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2016_junior_marzo#q16|src_kangourou_2016_junior_marzo__Q16]]
@@ -682,7 +685,7 @@ Number in place of ? in the magic square multiplied by *
 
 * sum exceeds by 31 that of Alice *
 
-> I have eight identical, unmarked envelopes; in each one I have entered one and only one of the numbers 1, 2, 4, 8, 16, 32, 64, 128. Eva randomly picks some of these envelopes, Alice takes the others. The sum of the numbers in Eva's envelope is 31 times greater than the numbers in Alice's. How many envelopes did Eva take? A) 2
+> I have eight identical, unmarked envelopes; in each one I have entered one and only one of the numbers 1, 2, 4, 8, 16, 32, 64, 128. Eva randomly picks some of these envelopes, Alice takes the others. The sum of the numbers in Eva's envelopes exceeds by 31 that of the numbers in Alice's. How many envelopes did Eva take? A) 2
 > 	
 > B) 3
 > 	
@@ -735,7 +738,7 @@ Number in place of ? in the magic square multiplied by *
 
 *Minimum colours for grid 3x3 diagonal column rows*
 
-> Piero wants to color the cells of a grid on side 3 so that each row, each column and each of the two diagonals is made up of 3 cells of different colors. What is the minimum number of colours that Piero can achieve with intent? A) 3
+> Piero wants to color the cells of a 3x3 grid so that each row, each column and each of the two diagonals is made up of 3 cells of different colors. What is the minimum number of colours that Piero can use to succeed? A) 3
 > 	
 > B) 4
 > 	
@@ -743,7 +746,7 @@ Number in place of ? in the magic square multiplied by *
 > 	
 > D) 6
 > 	
-> E) 7 20 1 ?
+> E) 7
 >
 
 **Answer:** C
@@ -782,7 +785,7 @@ Number in place of ? in the magic square multiplied by *
 
 ![[src_kangourou_2016_junior_marzo__prob19.png]]
 
-> The figure shows a cube in which four corners have been highlighted. What is the sum of their measurements in degrees? A) 315 B) 330 C) 345 D) 360 E) 375
+> The figure shows a cube in which four angles have been highlighted. What is the sum of their measurements in degrees? A) 315 B) 330 C) 345 D) 360 E) 375
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_junior_marzo#q19|src_kangourou_2016_junior_marzo__Q19]]
@@ -866,13 +869,20 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rolling length wrapped 5 times around the pallet*
+*A climbing plant wound 5 times around the pole*
 
 ![[src_kangourou_2016_junior_marzo__prob21.png]]
 
-> A rattlesnake wrapped itself exactly five times around a 12-foot-tall, 15-inch-wide pole, as shown in the figure. During its growth the increase in its height has been constant over time. How long is the plant? A) 0,75 B) 1,0
+> A climbing plant has wound itself exactly 5 times around a 
+> pole one metre high with a circumference of 15 cm, as shown in the 
+> figure. During growth its increase in height was constant 
+> over time. How many metres long is the plant?
+> A) 0.75	 	
+> B) 1.0	
 > 	
-> C) 1,25 D) 1,5 E) 1,75
+> C) 1.25	 	
+> D) 1.5	 	
+> E) 1.75
 
 **Answer:** C
 [[Quesiti/src_kangourou_2016_junior_marzo#q21|src_kangourou_2016_junior_marzo__Q21]]
@@ -1007,7 +1017,7 @@ Maximum remaining two digits divided by the sum of its digits
 \end{document}
 ```
 
-> Imagine a square divided into 25 equal cells. Initially, all cells are white, as shown in the diagram on the left. With each move, you can change the color of a pair of cells that have one side in common: the white cells turn dark and vice versa. What's the minimum number of moves to turn a square into a colorful chessboard like the figure on the right? A) 11
+> Imagine a square divided into 25 equal cells. Initially, all cells are white, as shown in the diagram on the left. With each move, you can change the color of a pair of cells that have one side in common: the white cells turn dark and vice versa. What's the minimum number of moves to turn the square into a chessboard colored like the figure on the right? A) 11
 > 	
 > B) 12
 > 	
@@ -1056,9 +1066,9 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oren per branch dragged by the current, boat 4 and 6 hours*
+*Hours per branch dragged by the current, boat 4 and 6 hours*
 
-> The cities X and Y rise along a river. A motorboat takes four hours to travel, following the current, from X to Y. When you go back from Y to X, using the same power you used back then, it takes 6 hours. In how many hours would the current carry a tree branch from X to Y, assuming there are no obstacles along its path? A) 5
+> The cities X and Y rise along a river. A motorboat takes four hours to travel, following the current, from X to Y. When you go back from Y to X, using the same power used on the way there, it takes 6 hours. In how many hours would the current carry a tree branch from X to Y, assuming there are no obstacles along its path? A) 5
 > 	
 > B) 10
 > 	
@@ -1104,7 +1114,7 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 2016 between permutations of 1.7*
+*Number in place of 2016 between permutations of 1..7*
 
 > If we list all the seven-digit numbers in increasing order that we can write using all the numbers from 1 to 7 for each, what's the number in place of 2016 on the list? A) 3547612 B) 3547621 C) 3657421 D) 4125673 E) 4125736
 
@@ -1175,7 +1185,7 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum to three to three never prime out of four consecutive *
+*sum three at a time never prime among four consecutive *
 
 > James wrote four consecutive positive integers. Adding three to three of these numbers in four possible ways never gets a prime number. What's the smallest whole James could have written? A) 12 B) 10 C) 7 D) 6 E) 3
 
@@ -1214,7 +1224,7 @@ Maximum remaining two digits divided by the sum of its digits
 
 Eva's sport, four round-table athletes
 
-> Four athletes sit around a round table; each of them practices one sport, judo, swimming, fencing, and volleyball. The swimmer sits to Ada's left; the judo player stands in front of Bruno; Eve and Philip sit side by side. There's a woman to the left of the volleyball player. What sport does Eva play? A) Judo B) Swimming C) Volley D) Scherm E) The information is insufficient.
+> Four athletes sit around a round table; each of them practices one sport, judo, swimming, fencing, and volleyball. The swimmer sits to Ada's left; the judo player stands in front of Bruno; Eva and Filippo sit side by side. There's a woman to the left of the volleyball player. What sport does Eva play? A) Judo B) Swimming C) Volleyball D) Fencing E) The information is insufficient.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2016_junior_marzo#q28|src_kangourou_2016_junior_marzo__Q28]]
@@ -1248,9 +1258,9 @@ Eva's sport, four round-table athletes
 <div class="qlang-split" data-lang="en"></div>
 
 
-Next month with a surprising date (eight digits apart)
+Next month with a surprising date (eight distinct digits)
 
-> A date may be written as GG.MM.AAAA: e.g. The date today is 17.03.2016. Let's say it's a "surprising" date if the eight digits that appear in it are two to two distinct. What month will the next "surprising" date fall? (a) March (b) June (c) July (d) August (e) December
+> A date may be written as GG.MM.AAAA: e.g. The date today is 17.03.2016. Let's say it's a "surprising" date if the eight digits that appear in it are all distinct. What month will the next "surprising" date fall? (a) March (b) June (c) July (d) August (e) December
 
 **Answer:** B
 [[Quesiti/src_kangourou_2016_junior_marzo#q29|src_kangourou_2016_junior_marzo__Q29]]
@@ -1293,7 +1303,7 @@ Next month with a surprising date (eight digits apart)
 
 *Handshakes of P2016 given handshake pattern*
 
-> At a conference the 2016 participants were registered with the abbreviations P1, ..., P2016. Each participant from P1 to P2015 shook hands with a number of participants exactly equal to that in their registration stamp. How many participants did P2016 shake hands with? A) 1 B) 504 C) 672 D) 1008 E) 2015
+> At a conference the 2016 participants were registered with the abbreviations P1, ..., P2016. Each participant from P1 to P2015 shook hands with a number of participants exactly equal to that in their registration code. How many participants did P2016 shake hands with? A) 1 B) 504 C) 672 D) 1008 E) 2015
 > 
 > Category
 

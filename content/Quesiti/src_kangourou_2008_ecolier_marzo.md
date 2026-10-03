@@ -36,9 +36,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which symbol makes true 1+1*1-2=100*
+*Which symbol makes 1+1*1-2=100 true*
 
-> Consider the equation 1 + 1 1  2 = 100. Which of the following signs or numbers do you need to replace with the symbol  to make it true? A) + B) – C) x D) 0 E) 1
+> Consider the equality 1 + 1 ∗1 – 2 = 100.
+> Which of the following signs or digits must you substitute for the symbol ∗
+> to make it true?
+> A) + 
+> B) – 
+> C) x 
+> D) 0 
+> E) 1
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q01|src_kangourou_2008_ecolier_marzo__Q01]]
@@ -111,7 +118,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What a flower the mother receives
+What flower does the mother receive
 
 > Miriam brings her mother, grandmother, aunt, and two sisters a flower for each. Do you know that • the flowers for the sisters and the aunt are the same color; • the grandmother does not receive a rose. What flower does the mother receive, if Miriam's gift is the one listed below? A) A yellow tulip. B) A red rose. C) A red carnation. D) A yellow rose. E) A yellow carnation.
 
@@ -271,9 +278,9 @@ What a flower the mother receives
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hours could the call start*
+*How many times could the call start*
 
-> Lucia's digital clock is flawed: sometimes it shows the digit 8 instead of the digit 0, and sometimes it shows the digit 0 instead of the digit 8. At the beginning of a phone call, Lucia looked at her watch and read 20:08. How many different times could that phone call have started? A) 1 B) 2 C) 3 D) 4 E) 8
+> Lucia's digital clock is flawed: sometimes it shows the digit 8 instead of the digit 0, and sometimes it shows the digit 0 instead of the digit 8. At the beginning of a phone call, Lucia looked at her clock and read 20:08. How many different times could that phone call have started? A) 1 B) 2 C) 3 D) 4 E) 8
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q05|src_kangourou_2008_ecolier_marzo__Q05]]
@@ -316,7 +323,7 @@ What a flower the mother receives
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which parts 4 lines per point divide the sheet*
+*Into how many parts do 4 lines through a point divide the sheet*
 
 ![[src_kangourou_2008_ecolier_marzo__prob6.png]]
 
@@ -329,7 +336,7 @@ What a flower the mother receives
 \end{document}
 ```
 
-> In the figure you see a sheet of paper marked with a dot. If you draw on the sheet four lines, all of which are different from each other, but all of which pass through that point, how many parts does the sheet divide? A) 4                B) 6 C) 5 D) 8 E) 12
+> In the figure you see a sheet of paper marked with a dot. If you draw on the sheet four lines, all of which are different from each other, but all of which pass through that point, into how many parts is the sheet divided? A) 4                B) 6 C) 5 D) 8 E) 12
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q06|src_kangourou_2008_ecolier_marzo__Q06]]
@@ -362,7 +369,7 @@ What a flower the mother receives
 
 Who is the tallest of all
 
-> Aldo is taller than Bruno, but lower than Enrico. Darius is taller than Charles, but lower than Aldo. Who's the tallest of them all? (A) Aldo B) Bruno C) Charles D) Darius E) Henry
+> Aldo is taller than Bruno, but lower than Enrico. Dario is taller than Carlo, but lower than Aldo. Who's the tallest of them all? A) Aldo B) Bruno C) Carlo D) Dario E) Enrico
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q07|src_kangourou_2008_ecolier_marzo__Q07]]
@@ -398,7 +405,7 @@ Who is the tallest of all
 
 Who can build a full cube
 
-> Andrea has eight cubes, Bernardo has 12, Caesar has 16, Diana has 20. Every boy's cubes are all the same. Of these guys, who can build a big full cube using all its cubes? A) Just Andrew. B) Only Caesar. C) Both Diana and Bernardo. D) Both Andrea and Diana. E) None of the four. The questions from N. 9 al N. 16 is worth 4 points each.
+> Andrea has eight cubes, Bernardo has 12, Cesare has 16, Diana has 20. Every boy's cubes are all the same. Of these guys, who can build a big full cube using all its cubes? A) Only Andrea. B) Only Caesar. C) Both Diana and Bernardo. D) Both Andrea and Diana. E) None of the four. The questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q08|src_kangourou_2008_ecolier_marzo__Q08]]
@@ -437,11 +444,22 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many years combined = 4 times thousands *
+*In how many years units = 4 times thousands*
 
-> The number that represents the year 2008 has the number of units equal to four times the number of thousands. In how many years will the same situation be repeated for the first time? A) 10 B) 100 C) 1000 D) 2008 E) A number of years different from the previous ones. This is the main reason why we are not prepared to accept the proposal.
+> The number expressing the year 2008 has the units digit equal to
+> four times the thousands digit. In how many years will the same situation
+> occur again for the first time?
+> A) 10
+> B) 100
+> C) 1000
+> D) 2008
+> E) A number of years different from the previous ones.
+> Testi_08.qxp  9-03-2008  14:56  Page 6
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2008 Kang 2008
+> Pag. 
+> Pag. 7
+> Kang 2008
+> Kang 2008
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q09|src_kangourou_2008_ecolier_marzo__Q09]]
@@ -583,7 +601,7 @@ Who can build a full cube
 \end{document}
 ```
 
-> Joan throws two arrows at the target, and she's sure to hit him. The resulting score is the sum of the scores achieved with the individual arrows: for example, in the figure we see a situation in which the resulting score is 5. How many different scores among them can Giovanna get (5 included)? A) 4 B) 6 C) 8 D) 9 E) 10
+> Giovanna throws two arrows at the target, and she's sure to hit it. The resulting score is the sum of the scores achieved with the individual arrows: for example, in the figure we see a situation in which the resulting score is 5. How many different scores among them can Giovanna get (5 included)? A) 4 B) 6 C) 8 D) 9 E) 10
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q12|src_kangourou_2008_ecolier_marzo__Q12]]
@@ -738,7 +756,7 @@ Who can build a full cube
 \end{document}
 ```
 
-> In the figure you can see the plant of a square garden, divided into a swimming pool (P), a rooftop (A), a play area (G) and a greenhouse (S). The roof and the play area are both square. The perimeter of the roof measures 12 metres, the perimeter of the play area 20 metres. What is the perimeter of the pool in meters? A) 10 B) 12 C) 14 D) 16 E) 18
+> In the figure you can see the plan of a square garden, divided into a swimming pool (P), a flowerbed (A), a play area (G) and a greenhouse (S). The flowerbed and the play area are both square. The perimeter of the flowerbed measures 12 metres, the perimeter of the play area 20 metres. What is the perimeter of the pool in meters? A) 10 B) 12 C) 14 D) 16 E) 18
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q15|src_kangourou_2008_ecolier_marzo__Q15]]
@@ -771,9 +789,16 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many years on Frettoloso*
+*How many years old on Frettoloso*
 
-> On the fast-moving planet, a year lasts three months, a month lasts 10 days, and a day lasts as long as a day on planet Earth. Joan on Earth has 360 days. How old would she be on "Friday"? A) 4 B) 6 C) 10 D) 12 E) Another number. The questions from N. 17 al N. Twenty-four is worth five points each.
+> On the planet Frettoloso a year lasts 3 months, a month lasts 10 days and a day lasts like a day on planet Earth. Giovanna, on
+> Earth, is 360 days old. How many years old would she be on Frettoloso?
+> A) 4 
+> B) 6 
+> C) 10 
+> D) 12 
+> E) Another number.
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q16|src_kangourou_2008_ecolier_marzo__Q16]]
@@ -808,7 +833,7 @@ Who can build a full cube
 
 *Weight of the kangaroo in autumn 2004*
 
-> A kangaroo gets 5 pounds in winter and 4 pounds in summer. Her weight is monitored in spring and autumn. In the spring of 2008, the kangaroo weighed 100 pounds. How many pounds did he weigh in the fall of 2004? A) 92 B) 93 C) 95 D) 96 E) 98
+> A kangaroo gains 5 kilograms in winter and loses 4 kilograms in summer. Her weight is monitored in spring and autumn. In the spring of 2008, the kangaroo weighed 100 kilograms. How many kilograms did she weigh in the fall of 2004? A) 92 B) 93 C) 95 D) 96 E) 98
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q17|src_kangourou_2008_ecolier_marzo__Q17]]
@@ -926,13 +951,32 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What shape can't have the pyramid section*
+*Which shape cannot the cross-section of the pyramid have*
 
 ![[src_kangourou_2008_ecolier_marzo__prob20.png]]
 
-> A full pyramid with a square base, outwardly painted black, is cut into two parts with a flat cut. Since the pyramid is of clear wood, each of the two sides has a clear face while all the others are obviously black. Which of the following cannot be the shape of the clear face? I'm going to pay. I'm going to pay. 8 Kang 2008 Kang 2008 P G A S Texts_08.qxp 9-03-2008 14:56 Page 8
+> A solid pyramid with a square base, externally painted black, is cut into two parts
+> with a plane cut. Since the pyramid is made of light wood, each of the two parts has one light face while all the others are evidently black. Which
+> of the following cannot be the shape of the light face?
+> Pag. 
+> Pag. 8
+> Kang 2008
+> Kang 2008
+> P
+> G
+> A
+> S
+> Testi_08.qxp  9-03-2008  14:56  Pagina 8
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2008 Kang 2008 A) Square B) Trapezoid C) Triangle D) Pentagon E) All the shapes listed are possible
+> Pag. 
+> Pag. 9
+> Kang 2008
+> Kang 2008
+> A) Square 
+> B) Trapezoid 
+> C) Triangle 
+> D) Pentagon   
+> E) All the shapes listed are possible
 
 **Answer:** E
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q20|src_kangourou_2008_ecolier_marzo__Q20]]
@@ -964,7 +1008,7 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural quantities 2 to 3 digits greater than the sum of the digits *
+*Natural numbers with 2 to 3 digits greater than the sum of the digits *
 
 > How many two- or three-digit natural integers are greater than the sum of their digits? A) 1 B) 100 C) 989 D) 990 E) 999
 
@@ -1002,7 +1046,7 @@ Who can build a full cube
 
 *How many dates are readable in reverse*
 
-> If you read the date 21.02 (February 21) from right to left, you get 20.12 and in this case it is still a possible date (December 20). However, the date 10.09 (10 September) does not have this property (there is no date 90 January). How many dates in a year do they have this property (i.e. are like February 21st)? A) 30 B) 18 C) 36 D) 35 E) Depends on the year
+> If you read the date 21.02 (February 21) from right to left, you get 20.12 and in this case it is still a possible date (December 20). However, the date 10.09 (10 September) does not have this property (there is no date 90 January). How many dates in a year have this property (i.e. are like February 21st)? A) 30 B) 18 C) 36 D) 35 E) Depends on the year
 
 **Answer:** 34
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q22|src_kangourou_2008_ecolier_marzo__Q22]]
@@ -1036,7 +1080,7 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At least as many people as the same age*
+*At least how many people of the same age*
 
 > In a square, 2008 people gathered. None of them are over 50. What is the largest number for which the following is true: Are we sure that there are at least that number of people in the square who are the same age? A) 39 B) 40 C) 41 D) 42 E) None of the above.
 

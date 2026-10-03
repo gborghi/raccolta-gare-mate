@@ -39,19 +39,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who caught the fish following the ropes *
+*Who caught the fish by following the lines*
 
 ![[src_kangourou_2017_preecolier_marzo__prob1.png]]
 
-> Who took the fish?
+> Who caught the fish?
 >
-> Five cats (Aldo, Bruno, Carlo, Davide, Enrico) each hold a fishing rod. The threads are tangled together and end with friends, one of whom caught a fish. Following the wire, who caught the fish?
+> Five cats (Aldo, Bruno, Carlo, Davide, Enrico) each hold a fishing rod. The lines get tangled in a knotted way and end with hooks, one of which has caught a fish. By following the line, who caught the fish?
 >
 > - **(A)** Aldo
 > - **(B)** Bruno
-> - **(C)** Charles
-> - **(D)** David , please .
-> - **(E)** Henry (see figure)
+> - **(C)** Carlo
+> - **(D)** Davide
+> - **(E)** Enrico (see figure)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2017_preecolier_marzo#q01|src_kangourou_2017_preecolier_marzo__Q01]]
@@ -133,7 +133,7 @@ level: kangourou
 
 ![[src_kangourou_2017_preecolier_marzo__prob3.png]]
 
-> This is a cherry pie. I've split it up among the kids in attendance, and now every kid has a slice of cake with three cherries on it and there's no leftovers. How many children are there?
+> This is a cherry pie. I've split it up among the kids in attendance, and now every kid has a slice of pie with three cherries on it and there's no leftovers. How many children are there?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -173,11 +173,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many parts the scissor cuts the wire *
+*How many parts the scissors cut the wire *
 
 ![[src_kangourou_2017_preecolier_marzo__prob4.png]]
 
-> If it follows the drawn line, how many parts will the scissor cut the wire?
+> If it follows the dashed line, how many parts will the scissors cut the wire?
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -219,7 +219,7 @@ level: kangourou
 
 ![[src_kangourou_2017_preecolier_marzo__prob5.png]]
 
-> Elena wants to decorate this butterfly with these adhesives: 2 blue circles (large), 2 black circles (small), 2 pink circles (large). What drawing can he get?
+> Elena wants to decorate this butterfly with these stickers: 2 blue circles (large), 2 black circles (small), 2 pink circles (large). What drawing can she get?
 > 
 > (A) (B) (C) (D) (E)
 > 
@@ -257,7 +257,7 @@ level: kangourou
 
 *How many bricks to complete the igloo*
 
-> In the figure, you see the image of an igloo. Every complete brick was made with a sticker and these sticks are all the same between them. How many more do I have to paste to complete the drawing?
+> In the figure, you see the image of an igloo. Every complete brick was made with a sticker and these stickers are all the same. How many more do I have to paste to complete the drawing?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -293,9 +293,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What collagen did Lydia make*
+*What necklace did Lydia make*
 
-> With a string and four beads Lydia made this collar: two large (dark) beads and two small (clear) alternating beads. Of the necklaces pictured below, which is the one made by Lydia?
+> With a string and four beads Lydia made this necklace: two large (dark) beads and two small (clear) alternating beads. Of the necklaces pictured below, which is the one made by Lydia?
 > 
 > (A) (B) (C) (D) (E)
 > 
@@ -419,7 +419,7 @@ level: kangourou
 
 Where's Jim after the ride?
 
-> At one point Jim and Ben were riding on a racetrack at the seats shown in the figure. Then the ride went around taking Ben to where Jim used to be: Where is Jim now?
+> At one point Jim and Ben were riding on a carousel at the seats shown in the figure. Then the ride went around taking Ben to where Jim used to be: Where is Jim now?
 > 
 > (A) (B) (C) (D) (E)
 > 
@@ -456,7 +456,7 @@ Where's Jim after the ride?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in Figure *
+*How many triangles in the figure*
 
 > How many triangles are there in this figure?
 >
@@ -496,7 +496,7 @@ Where's Jim after the ride?
 
 *Position of the figure at C after six rotations*
 
-> Alfredo has carved out of a square sheet the C-shaped figure you see in the drawing and now rotates it on the table plane: in the drawing you see the position of the figure after each of the first three rotations. In total, the figure makes six rotations, each of a quarter of a turn.
+> Alfredo has cut out of a squared sheet the C-shaped figure you see in the drawing and now rotates it on the table plane: in the drawing you see the position of the figure after each of the first three rotations. In total, the figure makes six rotations, each of a quarter of a turn: in which position is the figure at the end?
 > 
 > (A) (B) (C) (D) (E)
 > 
@@ -570,7 +570,7 @@ Where's Jim after the ride?
 
 How many children behind William in the line?
 
-> 25 children are in line and 16 of them are in front of Paolo. If Paul is right in front of William, how many children are in line behind William?
+> 25 children are in line and 16 of them are in front of Paolo. If Paolo is right in front of William, how many children are in line behind William?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -606,9 +606,9 @@ How many children behind William in the line?
 <div class="qlang-split" data-lang="en"></div>
 
 
-That's the time it was two and a half hours ago.
+What time was it two and a half hours ago?
 
-> The clock is one and a half. What time was it two and a half hours ago?
+> The clock shows half past one. What time was it two and a half hours ago?
 > 
 > (A) (B) (C) (D) (E)
 > 
@@ -646,7 +646,7 @@ That's the time it was two and a half hours ago.
 
 *Minimum sheets to make three crowns*
 
-> Lisa is drawing crowns like the one next to her using stickers with these shapes: a cross ($+$), a circle ($\bullet$), a horizontal strip ($-$). The adhesives can be separated from separate sheets which have these two compositions: sheet 1 contains 2 strips and 1 circle and 1 cross; sheet 2 contains 4 circles, 2 crosses and 2 crosses. What's the minimum number of sheets Lisa will have to use if she wants to make 3 crowns?
+> Lisa is drawing crowns like the one next to her using stickers with these shapes: a cross ($+$), a circle ($\bullet$), a horizontal strip ($-$). The stickers can be separated from separate sheets which have these two compositions: sheet 1 contains 2 strips and 1 circle and 1 cross; sheet 2 contains 4 circles, 2 strips and 2 crosses. What's the minimum number of sheets Lisa will have to use if she wants to make 3 crowns?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -773,9 +773,9 @@ That's the time it was two and a half hours ago.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is attached to the two forms*
+*Which figure by placing the two molds side by side*
 
-> Gaia has two identical cardboard formulas and has decorated a face of each formulas this way: a grid with the box at the top right and the box at the bottom left colored in black. Which of the following figures can be obtained by approaching the two ants?
+> Gaia has two identical cardboard molds and has decorated one face of each mold in this way: a grid $2 \times 3$ with the top-right cell and the bottom-left cell colored black. Which of the following figures can she obtain by placing the two molds side by side?
 > 
 > (A) (B) (C) (D) (E)
 > 
@@ -940,8 +940,8 @@ What's written on the last lock?
 >
 > - **(A)** the green train
 > - **(B)** the chicken
-> - **(C)** The doll
-> - **(D)** The coloured train
+> - **(C)** the doll
+> - **(D)** the colorful train
 > - **(E)** the blue monster (see figure)
 
 **Answer:** E

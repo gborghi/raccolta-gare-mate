@@ -43,7 +43,7 @@ level: kangourou
 
 ![[src_kangourou_2022_junior_gara__prob1.png]]
 
-> On the roof of a square-based building there are some buildings, also square-based, two of which have another on the roof always square-based. All the individual buildings are parallel piers. The bases are of four different sizes: 40, 20, 10 and 5 m2. They want to paint all the roofs in dark gray, as the figure suggests. How many square meters is the area to be painted? A) 1.600 B) 2.100 C) 2.150
+> On the roof of a square-based building there are some buildings, also square-based, two of which have another on the roof always square-based. All the individual buildings are rectangular parallelepipeds. The bases are of four different sizes: 40, 20, 10 and 5 m2. They want to paint all the roofs in dark gray, as the figure suggests. How many square meters is the area to be painted? A) 1.600 B) 2.100 C) 2.150
 
 **Answer:** B
 [[Quesiti/src_kangourou_2022_junior_gara#q01|src_kangourou_2022_junior_gara__Q01]]
@@ -165,11 +165,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many tables for a side post 9*
+*How many tables for a station with side 9*
 
 ![[src_kangourou_2022_junior_gara__prob4.png]]
 
-> By attaching rectangular tables, all of which are 2 × 1, two meeting rooms have been set up, creating square stands as shown in the figure. Following the same pattern, how many tables do you need to set up a position on side 9? A) 10
+> By attaching rectangular tables, all of which are 2 × 1, two meeting rooms have been set up, creating square stations as shown in the figure. Following the same pattern, how many tables do you need to set up a station with side 9? A) 10
 >   
 > B) 11
 >   
@@ -252,7 +252,7 @@ level: kangourou
 
 *Number with N<N/2, N>2N and N+N^2=0*
 
-> A number is smaller than its half, larger than its double, and, if you add to its square, the result is 0. What's the number? A) −2 B) −1 C) 0
+> A number is smaller than its half, larger than its double, and, if you add it to its square, the result is 0. What's the number? A) −2 B) −1 C) 0
 >   
 > D) 1
 >   
@@ -289,7 +289,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment value of 202,2x2,022/(20,22x2022) *
+*Value of the fraction 202,2x2,022/(20,22x2022)*
 
 > What is the value of the fraction ------------------------ ? 20,22 × 2022 A) 0,01 B) 0,1 C) 1
 >   
@@ -386,7 +386,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many candidates can already opt out of the election*
+*How many candidates can already rule out the election*
 
 > In an assembly, the president is elected from among five candidates. Each voter has only one vote available. When 90% of the votes were scrutinized the result was as follows: Ada got 14 votes, Bruno 11, Carla 10, Diana 8 and Enrico 2. How many of these five candidates can already deduce that they will not be elected president? A) 1
 >   
@@ -441,7 +441,7 @@ level: kangourou
 
 ![[src_kangourou_2022_junior_gara__prob10.png]]
 
-> The figure shows five squares, three of which indicate the area in square metres, and two rectangular triangles bounded by them. What is the area, in square metres, of the square indicated by the point in question? A) 14
+> The figure shows five squares, for three of which the area in square metres is indicated, and two rectangular triangles bounded by them. What is the area, in square metres, of the square indicated by the point in question? A) 14
 >   
 > B) 15
 >   
@@ -571,7 +571,7 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows three large circles and four small ones. Each large circle contains exactly two small circles; the centers of all the circles and all the tangent points between the circumscriptions that delimit them are aligned on the same straight line. The radius of each small circle measures 1. How much is the shaded area worth? A) π
+> The figure shows three large circles and four small ones. Each large circle contains exactly two small circles; the centers of all the circles and all the tangent points between the circumferences that delimit them are aligned on the same straight line. The radius of each small circle measures 1. How much is the shaded area worth? A) π
 >   
 > B) 2π
 >   
@@ -621,7 +621,7 @@ level: kangourou
 
 ![[src_kangourou_2022_junior_gara__prob12.png]]
 
-> Look at the figure. An ant leaves the axis indicated by X to reach the axis indicated by Y. On the route he must visit an X and only once every other hexagon and can leave a hexagon only to take himself to an adjacent one (i.e. one side in common with it). How many routes are there? A) 2
+> Look at the figure. An ant leaves the hexagon indicated by X to reach the hexagon indicated by Y. On the route he must visit X and every other hexagon only once and can leave a hexagon only to move to an adjacent one (i.e. one side in common with it). How many routes are there? A) 2
 >   
 > B) 3
 >   
@@ -665,7 +665,7 @@ level: kangourou
 
 *Number which cannot be the sum of the maximum ages*
 
-> In a group of six people each knows, in addition to their own, the age of each of the others and the six ages are consecutive numbers. If you ask each of them the age of the oldest and add the answers, which of the following numbers can certainly not be the result? A) 95
+> In a group of six people each knows, in addition to their own, the age of each of the others and the six ages are consecutive numbers. If you ask each of them the age of the oldest of the others and add the answers, which of the following numbers can certainly not be the result? A) 95
 >   
 > B) 125 C) 167 D) 205 E) 233
 
@@ -826,9 +826,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds of pedestrian delay from the cyclist*
+*Seconds of delay of the runner compared to the cyclist*
 
-> A cyclist and a podiatrist move on a circular circuit 550 metres long with constant speeds of 10 m/s for the cyclist and 1 m/s for the podiatrist. They start in opposite directions from the same point of the circuit: when they meet the cyclist, he continues his race, while the podium player immediately turns and starts chasing the cyclist. How many seconds later than the rider will the podium finisher have reached the starting point? A) 45 B) 50 C) 55 D) 100 E) 505 Y
+> A cyclist and a runner move on a circular circuit 550 metres long with
+> constant speeds of 10 m/s for the cyclist, of 1 m/s for the runner. They start in opposite directions from
+> the same point of the circuit: when they meet, the cyclist continues his ride,
+> while the runner immediately turns around and starts chasing the cyclist. With how many
+> seconds of delay compared to the cyclist will the runner have reached the starting point?
+> A) 45     
+> B) 50     
+> C) 55     
+> D) 100    
+> E) 505  
+> Y
 >
 
 **Answer:** A
@@ -916,7 +926,7 @@ level: kangourou
 
 ![[src_kangourou_2022_junior_gara__prob19.png]]
 
-> The picture is a map of a small park; the three lines connecting each of the two opposite sides of the square represent as many trails. A tree has already been planted in the middle of the park. What is the minimum number of trees, properly planted which, each of the three paths would have the same number of trees on both sides of it? Of course, trees must be planted off the trails. A) 1
+> The picture is a map of a small park; the three lines connecting each of the two opposite sides of the square represent three paths. A tree has already been planted in the middle of the park. What is the minimum number of trees, planted appropriately, each of the three paths would have the same number of trees on both of its sides? Of course, trees must be planted off the trails. A) 1
 >   
 > B) 2
 >   
@@ -965,15 +975,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In what order can five rings be removed*
+*In how many orders can five rings be removed*
 
 ![[src_kangourou_2022_junior_gara__prob20.png]]
 
-> The figure shows a hand: three fingers have some rings, five in total. If you want to remove all the rings, how many different orders can you do it in? (Naturally no ring can scavalcarne another.)
+> The figure shows a hand: on three fingers there are some 
+> rings, five in total. Wanting to remove all the rings, in how many different 
+> orders is  
+> it possible to do so? (Naturally no ring can "climb over" 
+> another.) 
+> A) 16  
 >   
-> B) 20
+> B) 20  
 >   
-> (C) 24 D) 30 E) 45 Questions from N. 21 al N. 30 is worth 5 points each.
+> C) 24    
+> D) 30    
+> E) 45  
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2022_junior_gara#q20|src_kangourou_2022_junior_gara__Q20]]
@@ -1016,7 +1034,7 @@ level: kangourou
 
 ![[src_kangourou_2022_junior_gara__prob21.png]]
 
-> The figure shows two congruent isosceles rectangles, each of which is inscribed with a square. The area of P squared is 45. What is the area of the square R ? A) 35
+> The figure shows two congruent isosceles right triangles, each of which is inscribed with a square. The area of the square P is 45. What is the area of the square R ? A) 35
 >   
 > B) 40
 >   
@@ -1108,19 +1126,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pirates were given the loot?
+*How many pirates were there given the loot*
 
-> Some pirates shared a loot of 200 gold and 600 silver coins. Each captain had five gold and ten silver coins, each sailor three.
+> Some pirates divided up a loot of 200 gold coins and 600 silver coins. Each leader got 5 gold coins and 10 silver, each sailor 3
 >  
-> 1
+> 1 
 >  
-> P R
+> P
+> R
 > 
-> Gold and eight silver coins, one gold and six silver coins each. How many pirates were there? A) 50
+> gold coins and 8 silver, each cabin boy 1 gold coin and 6 silver. How many were the
+> pirates? 
+> A) 50  
 >   
-> B) 60
+> B) 60  
 >   
-> C) 72 D) 80 E) 90
+> C) 72    
+> D) 80    
+> E) 90
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_junior_gara#q23|src_kangourou_2022_junior_gara__Q23]]
@@ -1166,9 +1189,9 @@ How many pirates were given the loot?
 
 ![[src_kangourou_2022_junior_gara__prob24.png]]
 
-> The four squares that make up each face of a cube 2 × 2 × 2 must each contain one and only one of the following symbols: a square, a circle, an X. Two squares that have one side in common (even if they lie on a spike) must host different symbols. The figure shows the three visible faces of a cube that obeys these rules. Which of the following three symbol distributions is possible for a cube that complies with these rules? A) 6 circles, 8 squares, 10 X.
+> The four squares that make up each face of a cube 2 × 2 × 2 must each contain one and only one of the following symbols: a square, a circle, an X. Two squares that have one side in common (even if they lie on an edge) must host different symbols. The figure shows the three visible faces of a cube that obeys these rules. Which of the following three symbol distributions is possible for a cube that complies with these rules? A) 6 circles, 8 squares, 10 X.
 >   
-> B) 7 circles, 8 squares, 9 X. C) 5 circles, 8 squares 11 X.
+> B) 7 circles, 8 squares, 9 X. C) 5 circles, 8 squares, 11 X.
 >   
 > D) 7 circles, 7 squares, 10 X. E) None of them.
 
@@ -1206,9 +1229,9 @@ How many pirates were given the loot?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What can be deduced from Bruna's application (positive/negative set) *
+*What can be deduced from Bruna's question (positive/negative set) *
 
-> The members of a strange sect are of two types: the positive, who ask only questions to which the correct answer is Yes and the negative, who ask only questions to which the correct answer is No. I met with Alberto and Bruna. Bruna asked me, "Are Albert and I both negative? What can I tell?
+> The members of a strange sect are of two types: the positive, who ask only questions to which the correct answer is Yes and the negative, who ask only questions to which the correct answer is No. I met with Alberto and Bruna. Bruna asked me: "Are Alberto and I both negative?" What can I deduce?
 >  
 > A) Alberto and Bruna are both positive. B) Alberto and Bruna are both negative. C) Alberto is positive, Bruna is negative. D) Alberto is negative, Bruna is positive. E) I cannot draw any of the above conclusions.
 
@@ -1248,9 +1271,19 @@ How many pirates were given the loot?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight in the same weight group of 9 units*
+*Weight in the same group as the 9-hectogram weight*
 
-> Over a century ago, a drug dealer weighed the goods using a two-plate scale and 12 weights: the lighter one-hectare weight and the others weighing a larger one-hectare weight. The druggist divided the weights into three groups of four weights each: the total weight of one of the three groups was 41 hectares, the weight of another group 26 hectares. Which of the following weights was in the same 9 hectare weight group? A) 3 hg B) 5 hg C) 7 hg D) 8 hg E) 10 hg
+> More than a century ago a grocer weighed goods using a two-pan balance 
+> and 12 weights: the lightest weight of 1 hectogram and the others each weighing one hectogram more 
+> than the previous one. The grocer had divided the weights into three groups of four weights 
+> each: the total weight of those in one of the three groups was 41 hectograms, that of the 
+> weights in another group 26 hectograms. Which of the following weights was in the same group as the 
+> 9-hectogram weight? 
+> A) 3 hg   
+> B) 5 hg   
+> C) 7 hg   
+> D) 8 hg   
+> E) 10 hg  
 >
 
 **Answer:** C
@@ -1293,7 +1326,7 @@ How many pirates were given the loot?
 
 ![[src_kangourou_2022_junior_gara__prob27.png]]
 
-> Look at the figure. ABCD and EFGB are two squares whose diagonal lengths are 7 and 10 cm respectively; the point P is the center of the square-E to ABCD. How many square centimetres does the area of the FPD triangle measure ? A) 14,5 B) 15
+> Look at the figure. ABCD and EFGB are two squares whose diagonal lengths are 7 and 10 cm respectively; the point P is the center of the square ABCD. How many square centimetres does the area of the FPD triangle measure ? A) 14,5 B) 15
 >   
 > C) 15,75 D) 16,5 E) 17,5 F
 
@@ -1334,7 +1367,7 @@ How many pirates were given the loot?
 
 *Which number is not a product of the digits of N+1*
 
-> The product of the digits of a positive integer N is 20. Which of the following numbers is certainly not the product of the numbers N + 1? A) 40
+> The product of the digits of a positive integer N is 20. Which of the following numbers is certainly not the product of the digits of N + 1? A) 40
 >  
 > B) 30
 >  
@@ -1377,7 +1410,7 @@ How many pirates were given the loot?
 
 ![[src_kangourou_2022_junior_gara__prob29.png]]
 
-> The figure shows five circles of centers A, B, C, D, E, each externally tangent to the two edges, and the convex pentagon whose vertices are the centers of the circles. The lengths of the sides of the pentagon are as follows: AB = 16, BC = 14, CD = 17, DE = 13, AE = 14 (the figure is indicative only, not scale). What?
+> The figure shows five circles of centers A, B, C, D, E, each externally tangent to the two adjacent circles, and the convex pentagon whose vertices are the centers of the circles. The lengths of the sides of the pentagon are as follows: AB = 16, BC = 14, CD = 17, DE = 13, AE = 14 (the figure is indicative only, not to scale). What?
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_junior_gara#q29|src_kangourou_2022_junior_gara__Q29]]
@@ -1490,7 +1523,7 @@ How many pirates were given the loot?
 >  
 > 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0 X A B E E B A C B D B D D D E A A E C B B D D E C C E D A C
 >  
-> Is it the center of the radius circle? A) A
+> is the center of the circle with greater radius? A) A
 >   
 > B) B
 >   

@@ -252,13 +252,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum weight of the lightest object (three separate weights sum 97)
+*Maximum weight of the lightest object (three distinct weights sum 97)*
 
-> Three objects each weigh an integer of kilograms, but they weigh two to two different things. In total, they weigh 200 pounds. How many kilograms can the lightest object weigh at most? A) 1
+> Three objects each weigh an integer number of kilograms, but have pairwise 
+> different weights. Altogether they weigh 97 kilograms. How many kilograms can the 
+> lightest object weigh at most?
+> A) 1	
 > 	
-> B) 30
+> B) 30	
 > 	
-> C) 31 D) 32
+> C) 31 	 	
+> D) 32	
 > 	
 > E) 33
 
@@ -361,7 +365,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 \end{document}
 ```
 
-> The square in the side figure is obtained by approximating 9 identical squares and is divided into three angular sectors. α and β are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true? (A) α = β B) β = 30° C) α + β = 60° D) 2β + α = 90° E) None. 1---- 2 SHAVE SHAV E E E VAHS EVAH S and V A H S 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8
+> The square in the side figure is obtained by placing 9 identical small squares side by side and is divided into three angular sectors. α and β are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true? (A) α = β B) β = 30° C) α + β = 60° D) 2β + α = 90° E) None. 1---- 2 SHAVE SHAV E E E VAHS EVAH S and V A H S 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8
 >
 
 **Answer:** E
@@ -446,9 +450,9 @@ Maximum weight of the lightest object (three separate weights sum 97)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment of syrup for packing two litres of beverage*
+*Fraction of syrup for making two litres of beverage*
 
-> A beverage should be packaged by mixing raspberry syrup with water in a ratio of 1: 7. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage? A) 1/4 B) 1/2
+> A beverage should be packaged by mixing raspberry syrup with water in a ratio of 1: 7. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to make two liters of beverage? A) 1/4 B) 1/2
 > 	
 > C) 2/7 D) 4/7 E) 1
 
@@ -492,7 +496,7 @@ Maximum weight of the lightest object (three separate weights sum 97)
 
 ![[src_kangourou_2019_junior_marzo__prob10.png]]
 
-> Three five-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlapped. You know the sum of the three numbers is 57263. What are the hidden numbers? A) 0, 2 e 2. B) 2, 4 e 9. C) 2, 7 and 8. D) 5, 7 e 8. (e) None of the preceding three. The questions from N. 10 al N. 20 is worth 4 points each.
+> Three five-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlapped. You know the sum of the three numbers is 57263. What are the hidden numbers? A) 0, 2 and 2. B) 2, 4 and 9. C) 2, 7 and 8. D) 5, 7 and 8. E) None of the preceding three. The questions from N. 10 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_junior_marzo#q10|src_kangourou_2019_junior_marzo__Q10]]
@@ -604,11 +608,11 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of the sides of the white rectangle in the flag*
+*Ratio of the sides of the white rectangle in the flag*
 
 ![[src_kangourou_2019_junior_marzo__prob13.png]]
 
-> The flag of Kanglandia is rectangular, its sides are in a ratio of 3:5, and it is divided into four rectangles of equal area, as shown in the figure. What is the ratio of the sides of a white rectangle? A) 1 : 3 B) 1 : 4 C) 2 : 7 D) 3 : 10 E) 4 : 15
+> The flag of Kanglandia is rectangular, its sides are in a ratio of 3:5, and it is divided into four rectangles of equal area, as shown in the figure. What is the ratio of the sides of the white rectangle? A) 1 : 3 B) 1 : 4 C) 2 : 7 D) 3 : 10 E) 4 : 15
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_junior_marzo#q13|src_kangourou_2019_junior_marzo__Q13]]
@@ -703,11 +707,11 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to tick the figure with L *
+*How many ways to tile the figure with L tiles*
 
 ![[src_kangourou_2019_junior_marzo__prob15.png]]
 
-> A 3 x 2 rectangle can be tiled with L tiles like this in the two different ways that we show you on the side. How many different ways can you tick, with tiles of the same type, the figure you see below? A) 1
+> A 3 x 2 rectangle can be tiled with L tiles like this in the two different ways that we show you on the side. How many different ways can you tile, with tiles of the same type, the figure you see below? A) 1
 > 	
 > B) 2
 > 	
@@ -873,7 +877,7 @@ Measurement of CBE square angle and equilateral triangle
 \end{document}
 ```
 
-> The figure we're showing you is made by partially overlapping three circles all within a centimeter radius. Their three centers are aligned and the circumference of the median passes through the centers of the other two. How many centimetres does the contour line of the figure measure? A) 10π / 3 B) 5π / 3 C) 2π / √3 D) 2π√3 E) 4π
+> The figure we're showing you is made by partially overlapping three circles all with a radius of one centimeter. Their three centers are aligned and the circumference of the median passes through the centers of the other two. How many centimetres does the contour line of the figure measure? A) 10π / 3 B) 5π / 3 C) 2π / √3 D) 2π√3 E) 4π
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_junior_marzo#q18|src_kangourou_2019_junior_marzo__Q18]]
@@ -912,9 +916,9 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of boxes with identical apples and separate pears
+Maximum number of boxes with identical apples and distinct pears
 
-> Some boxes contain apples and pears: the number of apples is the same for all boxes, while there are no two boxes that contain the same number of pears. Apples are 60 and pears are 60. How many can the boxes be at most? A) 20
+> Some boxes contain apples and pears: the number of apples is the same for all boxes, while there are no two boxes that contain the same number of pears. In total there are 60 apples and also 60 pears. How many can the boxes be at most? A) 20
 > 	
 > B) 15
 > 	
@@ -985,9 +989,9 @@ Maximum number of boxes with identical apples and separate pears
 \end{document}
 ```
 
-> The figure shows a square having two vertices on a semicircular and the other two on the diameter of the same semicircular, which is 2 cm long. How many square centimetres is the area of the square? A) 4 / 5 B) π / 4 C) 1 D) 4 / 3 E) 2 / √3
+> The figure shows a square having two vertices on a semicircle and the other two on the diameter of the same semicircle, which is 2 cm long. How many square centimetres is the area of the square? A) 4 / 5 B) π / 4 C) 1 D) 4 / 3 E) 2 / √3
 > 
-> The questions from N. 20 al N. 30 is worth 5 points each.
+> The questions from N. 20 to N. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_junior_marzo#q20|src_kangourou_2019_junior_marzo__Q20]]
@@ -1032,11 +1036,11 @@ Maximum number of boxes with identical apples and separate pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which side is used to form the axis in the development of the octahedron*
+*Which side is used to form the edge in the development of the octahedron*
 
 ![[src_kangourou_2019_junior_marzo__prob21.png]]
 
-> In the figure you can see the development of an octahedron and the reconstituted octahedron. In development, five of the sides of triangles that make up the faces are numbered. When the octahedron is reconstituted, the side denoted by x compete to form a spigol together with one of the numbered sides: which? A) 1
+> In the figure you can see the development of an octahedron and the reconstituted octahedron. In development, five of the sides of triangles that make up the faces are numbered. When the octahedron is reconstituted, the side denoted by x combines to form an edge together with one of the numbered sides: which? A) 1
 > 	
 > B) 2
 > 	
@@ -1083,7 +1087,7 @@ Maximum number of boxes with identical apples and separate pears
 
 *Distance of A from the centre of the rotating disc*
 
-> Two points A and B are marked on a circle rotating at a constant speed. A is more than 3 cm away from the center of the disk than B and rotates at a speed that is two and a half times that of B. How far is A from the center of the disk? A) 10
+> Two points A and B are marked on a circle rotating at a constant speed. A is 3 cm farther from the center of the disk than B and rotates at a speed that is two and a half times that of B. How far is A from the center of the disk? A) 10
 > 	
 > B) 9
 > 	
@@ -1127,9 +1131,9 @@ Maximum number of boxes with identical apples and separate pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tern does not appear in sequence 1.99 in groups of 3*
+*Which triple does not appear in sequence 1..99 in groups of 3*
 
-> The integers 1 to 99 are written one after the other in increasing order, leaving no spaces between them. The sequence thus obtained is sequenced every three digits, thus obtaining a sequence of terne ordered by digits, as suggested below: 123456789101112...979899! (123) (456) (789) (101) (112) … (979) (899). Which of the following does not appear in the sequence of the terns? A) (222) B) (444) C) (464) D) (646) E) (888)
+> The integers 1 to 99 are written one after the other in increasing order, leaving no spaces between them. The sequence thus obtained is divided every three digits, thus obtaining a sequence of ordered triples of digits, as suggested below: 123456789101112...979899! (123) (456) (789) (101) (112) … (979) (899). Which of the following does not appear in the sequence of triples? A) (222) B) (444) C) (464) D) (646) E) (888)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_junior_marzo#q23|src_kangourou_2019_junior_marzo__Q23]]
@@ -1167,7 +1171,7 @@ Maximum number of boxes with identical apples and separate pears
 
 *How many planes pass through three but not four vertices of a cube*
 
-> How many different floors pass through three, but not four, vertices of a cube? A) 1
+> How many different planes pass through three, but not four, vertices of a cube? A) 1
 > 	
 > B) 2
 > 	
@@ -1216,11 +1220,11 @@ Maximum number of boxes with identical apples and separate pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which vertices can the fleas be found after 2019 jumps*
+*Which vertices can the flea be found after 2019 jumps*
 
 ![[src_kangourou_2019_junior_marzo__prob25.png]]
 
-> The geometric figure you see on the side is obtained by combining eight segments each of the eight vertices of the outer octagon with each of the eight vertices of the inner octagon. A flea that is now on the A-denoted vertex can only jump from one vertex to an adjacent one. Which of the peaks P, Q, R, S, T can be found after 2019 jumps? A) Only in P, R or S. B) In all but R. C) Only in Q.
+> The geometric figure you see on the side is obtained by combining eight segments each of the eight vertices of the outer octagon with each of the eight vertices of the inner octagon. A flea that is now on the A-denoted vertex can only jump from one vertex to an adjacent one. Which of the vertices P, Q, R, S, T can it be found after 2019 jumps? A) Only in P, R or S. B) In all but R. C) Only in Q.
 > 	
 > D) Only in T.
 > 	
@@ -1380,7 +1384,7 @@ Maximum number of boxes with identical apples and separate pears
 
 *Minimum items to be deleted per perfect square product*
 
-> What is the smallest number of elements that must be deleted from the beginning of integers {10, 20, 30, 40, 50, 60, 70, 80, 90} if the product of the remaining numbers is to be a perfect square? A) 1
+> What is the smallest number of elements that must be deleted from the set of integers {10, 20, 30, 40, 50, 60, 70, 80, 90} if the product of the remaining numbers is to be a perfect square? A) 1
 > 	
 > B) 2
 > 	
@@ -1436,7 +1440,7 @@ Maximum number of boxes with identical apples and separate pears
 
 ![[src_kangourou_2019_junior_marzo__prob29.png]]
 
-> The figure shows an ABC triangle of area S. D the middle point of BC, three points P, Q, R were marked on the segments BA, DA and CA respectively so that AP is twice AB, AQ is triple AD and AR is quadruple AC. What is the area of the PQR triangle? A) S
+> The figure shows an ABC triangle of area S. Let D be the midpoint of BC; three points P, Q, R were marked on the extensions of the segments BA, DA and CA respectively so that AP is twice AB, AQ is triple AD and AR is quadruple AC. What is the area of the PQR triangle? A) S
 > 	
 > B) 2S
 > 	

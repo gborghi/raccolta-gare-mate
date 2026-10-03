@@ -33,9 +33,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the underlying asset shall be the value of the underlying asset.
+*Value of (1-2)-(3-4)-...-(99-100)*
 
-> The value of the expression (1 −2) −(3 −4) −(5 −6) −... −(99 −100) è A) 0 B) 49 C) − 48        D) 48         E) 50
+> The value of the expression  (1 −2) −(3 −4) −(5 −6) −... −(99 −100) is
+> A) 0
+> B) 49 
+> C) − 48        D) 48         E) 50
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_junior#q01|src_kangourou_2004_junior__Q01]]
@@ -64,9 +67,9 @@ The value of the underlying asset shall be the value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colouring them with other colours*
+*Confetti of other colors*
 
-> You have 2004 coriandals (each of one color). Half of them are blue, a quarter are red and a sixth are green. How many other colors are there? A) 167         B) 334        C) 501        D) 1002      E) 1837
+> You have 2004 confetti (each of one color). Half of them are blue, a quarter are red and a sixth are green. How many confetti are of other colors? A) 167         B) 334        C) 501        D) 1002      E) 1837
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_junior#q02|src_kangourou_2004_junior__Q02]]
@@ -93,9 +96,10 @@ The value of the underlying asset shall be the value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Mirrors of a pyramid with 7 faces
+*Edges of a pyramid with 7 faces*
 
-> A pyramid has seven faces. How many branches do you have? A) 7            B) 8            C) 12          D) 14         E) 21
+> A pyramid has 7 faces. How many edges does it have?
+> A) 7            B) 8            C) 12          D) 14         E) 21
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q03|src_kangourou_2004_junior__Q03]]
@@ -132,7 +136,7 @@ Mirrors of a pyramid with 7 faces
 
 ![[src_kangourou_2004_junior__prob4.png]]
 
-> In an ABCD quadrilateral some angles are known (see Figure, where the measurements are given in degrees). We also know that the BC side is as long as the AD side. How many degrees does the angle A to C measure? A) 30          B) 50          C) 55          D) 65         E) 70
+> In an ABCD quadrilateral some angles are known (see Figure, where the measurements are given in degrees). We also know that the BC side is as long as the AD side. How many degrees does the angle AC measure? A) 30          B) 50          C) 55          D) 65         E) 70
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_junior#q04|src_kangourou_2004_junior__Q04]]
@@ -163,7 +167,7 @@ Mirrors of a pyramid with 7 faces
 
 John's points in ping-pong (system)
 
-> Giovanni and Stefano are playing ping-pong. Right now, if John had five more points, he'd have doubled Stephen's, while if he had seven fewer points, he'd have half Stephen's. How many points does Giovanni have right now? A) 5            B) 7            C) 9           D) 11          E) 15
+> Giovanni and Stefano are playing ping-pong. Right now, if Giovanni had five more points, he'd have doubled Stefano's, while if he had seven fewer points, he'd have half Stefano's. How many points does Giovanni have right now? A) 5            B) 7            C) 9           D) 11          E) 15
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_junior#q05|src_kangourou_2004_junior__Q05]]
@@ -208,11 +212,28 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nights at the youngest (proportions) *
+*Nuts to the youngest (proportions)*
 
-> Alessia, Beatrice, and Carla have collected a total of 770 nuts and decide to divide them proportionally to their age. According to this criterion, if Alessia touched 4 nuts, Carla would touch 3, if Beatrice touched 7 nuts, Alessia would touch 6. How many nuts of those crops are for the youngest of the three? A) 264        B) 256       C) 218         D) 198       E) 180 Dˆ A B C D 30° 75° 50° ?
+> Alessia, Beatrice and Carla have collected a total of 770 nuts
+> and decide to divide them proportionally to their age. According to
+> this criterion, if Alessia were to get 4 nuts, Carla would get 3; if Beatrice were to get 7 nuts, Alessia would get 6. How many nuts of those collected are due to the youngest of the
+> three?
+> A) 264        B) 256       C) 218         D) 198       E) 180
+> Dˆ
+> A
+> B
+> C
+> D
+> 30°
+> 75°
+> 50°
+> ?
 > 
-> I'm going to pay. I'm going to pay. 23 23 Kang 2004 Kang 2004
+> Pag. 
+> Pag. 23
+> 23
+> Kang 2004
+> Kang 2004
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_junior#q06|src_kangourou_2004_junior__Q06]]
@@ -242,9 +263,9 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What scale and map*
+*What scale is the map*
 
-> The floor of a shed is rectangular in shape with sides of 40 meters and 60 meters. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimeters. What's the scale on the map? A) 1:50       B) 1:100       C) 1:150      D) 1:160     E) 1:200
+> The floor of a shed is rectangular in shape with sides of 40 meters and 60 meters. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimeters. What scale is the map? A) 1:50       B) 1:100       C) 1:150      D) 1:160     E) 1:200
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_junior#q07|src_kangourou_2004_junior__Q07]]
@@ -278,7 +299,7 @@ John's points in ping-pong (system)
 
 *How many biscuits are in the tray*
 
-> In one tray, between cookies and chocolates, there are 30 candy bars in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
+> In one tray, among cookies and chocolates, there are 30 sweets in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q08|src_kangourou_2004_junior__Q08]]
@@ -369,7 +390,7 @@ John's points in ping-pong (system)
 
 ![[src_kangourou_2004_junior__prob10.png]]
 
-> The figure shows a section of a bench constructed using, as indicated, three half-circular trunks: two of a diameter of 2 decimeter each to be made from the base and one of a diameter of 4 decimeter to be made from the seats. How high is the bench? A) 3 B) C) 2,85 D) E) 2,5 I questions from N. 11 al N. 20 is worth 4 points each.
+> The figure shows a section of a bench constructed using, as indicated, three half-circular trunks: two of a diameter of 2 decimeters each acting as the base and one of a diameter of 4 decimeters acting as the seat. How many decimeters high is the bench? A) 3 B) C) 2,85 D) E) 2,5 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_junior#q10|src_kangourou_2004_junior__Q10]]
@@ -399,7 +420,7 @@ John's points in ping-pong (system)
 
 *Possible product of five choices from 1,2,4*
 
-> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied by them. Only one of the following numbers could be the product obtained: which? A) 100         B) 256        C) 768       D) 2048      E) 4096
+> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which? A) 100         B) 256        C) 768       D) 2048      E) 4096
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_junior#q11|src_kangourou_2004_junior__Q11]]
@@ -547,11 +568,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of water in submerged tank II*
+*Water height in the submerged can II*
 
 ![[src_kangourou_2004_junior__prob14.png]]
 
-> Look at the figure. In TANIC I, the base of which has an area of 2 square centimetres, the water reaches a height of 5 centimetres. The 7 cm high and 1 cm2 square of the base of the tank II is immersed, empty, in the bottom of the tank I until it is anchored. At this point a portion of the water flows into TANK II. How high does the water reach in TANK II? A) 1 cm B) 2 cm C) 3 cm D) 4 cm E) 5 cm
+> Observe the figure. In can I, whose base has an area of
+> 2 square decimeters, the water reaches a height of 5 centimeters. Can
+> II, 7 centimeters tall and whose base has an area of 1 square decimeter, is immersed, empty, in can I until it is
+> anchored to the bottom of the latter. At this point some of the water
+> pours into can II. What height does the water reach in can II?
+> (Consider the thickness of the
+> walls of the cans negligible.)
+> A) 1 cm          B) 2 cm
+> C) 3 cm        D) 4 cm
+> E) 5 cm
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q14|src_kangourou_2004_junior__Q14]]
@@ -611,9 +641,9 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of distances traveled by tickets*
+*Ratio of distances traveled by hands*
 
-> A clock has a traditional dial (12 hours). The hour hand is 4 centimeters long, while the minute hand is 8 centimeters long. What is the relationship between the distances traveled from the ends of the two lances between noon and 3 p.m. on the same day? A) 1:2         B) 1:4         C) 1:6         D) 1:12        E) 1:24
+> A clock has a traditional dial (12 hours). The hour hand is 4 centimeters long, while the minute hand is 8 centimeters long. What is the ratio between the distances traveled by the tips of the two hands between noon and 3 p.m. on the same day? A) 1:2         B) 1:4         C) 1:6         D) 1:12        E) 1:24
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_junior#q16|src_kangourou_2004_junior__Q16]]
@@ -659,11 +689,28 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many days and length of vacation (rain) *
+*How many days did the vacation last (rain)*
 
-> The Kangourou family was on vacation in London for a few days. During the holidays, it rained in 15 different days, but: - rainy mornings were always followed by dry afternoons; - rainy afternoons were always preceded by dry mornings; - dry mornings were around 12 and dry afternoons were around 13. How long was the vacation? A) 15 B) 16 C) 19 D) 20 E) 25 tonnes II 7 5 tonnes I
+> The Kangourou family was on vacation in London for a few days. During the vacation, it rained on 15 different days, but:
+> - rainy mornings were always followed by dry afternoons;
+> - rainy afternoons were always preceded by dry mornings;
+> - the dry mornings were 12 in all and the dry afternoons
+> were 13 in all.
+> How many days did the vacation last?
+> A) 15
+> B) 16
+> C) 19
+> D) 20         E) 25
+> can II
+> 7
+> 5
+> can I
 > 
-> I'm going to pay. I'm going to pay. 25 25 Kang 2004 Kang
+> Pag.
+> Pag. 25
+> 25
+> Kang 2004
+> Kang 2004
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_junior#q17|src_kangourou_2004_junior__Q17]]
@@ -698,7 +745,7 @@ John's points in ping-pong (system)
 
 ![[src_kangourou_2004_junior__prob18.png]]
 
-> The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecahedron measures 36 centimetres. What's the square of the area in square centimeters worth? A) 48          B) 72          C) 108        D) 115,2      E) 144
+> The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecagon measures 36 centimetres. What is the area of the square, in square centimetres? A) 48          B) 72          C) 108        D) 115,2      E) 144
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_junior#q18|src_kangourou_2004_junior__Q18]]
@@ -736,7 +783,7 @@ John's points in ping-pong (system)
 
 ![[src_kangourou_2004_junior__prob19.png]]
 
-> Look at the figure. The circumference of centre C and centre D meet at points A and B. The angle A B measures 60 degrees, while the angle A B measures 90 degrees. What is the relationship between the greater and lesser of the two radii of the circumferences? A) 4:3         B) C) 3:2        D) E)2:1
+> Look at the figure. The circumference of centre C and centre D meet at points A and B. The angle A C B measures 60 degrees, while the angle A D B measures 90 degrees. What is the ratio between the greater and the lesser of the two radii of the circumferences? A) 4:3         B) C) 3:2        D) E)2:1
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_junior#q19|src_kangourou_2004_junior__Q19]]
@@ -778,7 +825,7 @@ John's points in ping-pong (system)
 
 ![[src_kangourou_2004_junior__prob20.png]]
 
-> A square 2003 side mosaic is obtained by attaching white tiles and gray tiles to side 1. The gray tiles are all only those centered on the diagonals (as in the figure, where the situation is represented by a side square 7). How many white tiles are there? A) 20022 B) 2002 x 2001 C) 20032 D) 2003 x 2004 E) 20042 Questions from N. 21 al N. 30 is worth 5 points each.
+> A square mosaic of side 2003 is obtained by placing white tiles and gray tiles of side 1. The gray tiles are all only those centered on the diagonals (as in the figure, where the situation is represented for a square of side 7). How many white tiles are there? A) 20022 B) 2002 x 2001 C) 20032 D) 2003 x 2004 E) 20042 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_junior#q20|src_kangourou_2004_junior__Q20]]
@@ -841,13 +888,46 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times did the climber go back?
+*How many times did the climber turn back*
 
 ![[src_kangourou_2004_junior__prob21.png]]
 
-> A very distracted mountaineer crosses a mountain faithfully following the pattern shown in Figure 1, thus never crossing horizontal tracks. The mountaineer moves from point A to point B, but occasionally returns to his steps to look for personal effects he has lost. The diagram in Figure 2 shows the time t in ascending order and the quota Q (expressed in relation to the same unit of measurement- 1 : 3 1 : 2 D A B C 60° fig. 1 Fig. 2 A B Q Q t 0 1 Cˆ Dˆ
+> A very absent-minded climber crosses a mountain following
+> faithfully the profile shown in figure 1, therefore without ever traveling horizontal stretches. The climber goes from point A to point B,
+> but from time to time he retraces his steps to look for personal belongings that he has lost. The diagram in figure 2 has time
+> t on the x-axis and altitude Q on the y-axis (expressed with respect to the same unit of measure
+> 1
+> :
+> 3
+> 1
+> :
+> 2
+> D
+> A
+> B
+> C
+> 60°
+> fig. 1
+> fig. 2
+> A
+> B
+> Q
+> Q
+> t
+> 0
+> 1
+> Cˆ
+> Dˆ
 > 
-> I'm going to pay. I'm going to pay. 26 26 Kang 2004 Kang 2004 ra of Figure 1) and shows, instantly at a moment, the altitude at which the climber is located (in the instant 0 he starts from A while in the instant 1 he reaches B). How many times has the climber come back to look for something? A) 1             B) 2            C) 3           D) 4           E) 5
+> Pag. 
+> Pag. 26
+> 26
+> Kang 2004
+> Kang 2004
+> of figure 1) and shows, moment by moment, the altitude at which the
+> climber is (at instant 0 he leaves from A while at instant 1 he reaches
+> B). How many times did the climber turn back to look for something?
+> A) 1             B) 2            C) 3           D) 4           E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q21|src_kangourou_2004_junior__Q21]]
@@ -880,11 +960,16 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Folded rectangular rim area*
+*Area of the rhombus from a folded rectangle*
 
 ![[src_kangourou_2004_junior__prob22.png]]
 
-> The KLMN rim in the figure is obtained by folding two opposite vertices of an appropriate rectangle to match the midpoint of the diagonal. The shortest side of the rectangle measures . What's the size of the rim? A) 3             B)               C) 2           D) 4           E)3
+> The rhombus KLMN in the figure is obtained by folding two opposite vertices of a suitable rectangle until they coincide with the
+> midpoint of the diagonal. The shorter of the sides of the
+> rectangle measures
+> . What is the area of the
+> rhombus?
+> A) 3             B)               C) 2           D) 4           E)3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q22|src_kangourou_2004_junior__Q22]]
@@ -917,9 +1002,9 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 120 after 200 steps (divers) *
+*Number in place of 120 after 200 steps (divisors) *
 
-> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of equal place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the ninth step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find instead of 120? A) 16          B) 12          C) 8           D) 32          E) 24
+> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those in even positions). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16          B) 12          C) 8           D) 32          E) 24
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_junior#q23|src_kangourou_2004_junior__Q23]]
@@ -953,11 +1038,16 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal ratio/PQ segment (similar) *
+*Ratio of diagonals/segment PQ (similar)*
 
 ![[src_kangourou_2004_junior__prob24.png]]
 
-> Look at the figure. A rectangle is represented in which the diagonals are drawn and the segment joining a vertex to the middle of one of the sides that do not converge. What is the ratio between the length of the diagonal and the length of the PQ segment? (a) cannot be answered because it depends on the measures of the rectangle (b) 6 (c) 13/3 (d) 4 (e) 3
+> Observe the figure. It shows a rectangle in which the diagonals and the segment joining a vertex to the midpoint of
+> one of the sides that do not meet there are drawn. What is
+> the ratio between the length of the diagonals and the
+> length of segment PQ?
+> A) it is not possible to answer because it depends on the measurements of the rectangle
+> B) 6            C) 13/3      D) 4           E) 3
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_junior#q24|src_kangourou_2004_junior__Q24]]
@@ -1003,13 +1093,29 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AB given area shaded region*
+*Length AB given the area of the shaded region*
 
 ![[src_kangourou_2004_junior__prob25.png]]
 
-> The ones in the figure are circles. The area of the shaded region is 2π. How long is the AB segment? A) 1 B) 2 C) 3 D) 4 E) cannot be answered because it depends on the radii of the circles K L M N P Q A B
+> Those in the figure are circles. The area of the shaded
+> region is 2π. How long is the segment AB?
+> A) 1            B) 2            C) 3           D) 4
+> E) it is not possible to answer because it depends on the
+> radii of the circles
+> K
+> L
+> M
+> N
+> P
+> Q
+> A
+> B
 > 
-> I'm going to pay. I'm going to pay. 27 27 Kang 2004 Kang
+> Pag. 
+> Pag. 27
+> 27
+> Kang 2004
+> Kang 2004
 
 **Answer:** D
 [[Quesiti/src_kangourou_2004_junior#q25|src_kangourou_2004_junior__Q25]]
@@ -1038,9 +1144,9 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wheel length (cylinder) *
+*Length of rolled-up runner (cylinder)*
 
-> A rectangular pass is made with a 1 cm thick carpet that, rolled over itself for its entire length, provides a cylinder whose base is (approximately) a circle of 1 meter in diameter. Which of the following numbers is closest to the length of the pass in meters? A) 20         B) 50          C) 75         D) 150         E) 300
+> A rectangular runner is made with a 1 cm thick carpet that, rolled over itself for its entire length, provides a cylinder whose base is (approximately) a circle of 1 meter in diameter. Which of the following numbers is closest to the length of the runner in meters? A) 20         B) 50          C) 75         D) 150         E) 300
 
 **Answer:** C
 [[Quesiti/src_kangourou_2004_junior#q26|src_kangourou_2004_junior__Q26]]
@@ -1078,7 +1184,7 @@ How many times did the climber go back?
 
 ![[src_kangourou_2004_junior__prob27.png]]
 
-> The figure shows two circles between them tangent to each other whose radii are in the ratio 1:2. The small circle continuously rolls, without creeping, within the large circle, along the edge of the latter which guides it. Which of the following is the trajectory from the small circle point P which, at the moment the figure refers to, is at the center of the large circle? A)              B)              C)               D) E)
+> The figure shows two circles mutually tangent whose radii are in the ratio 1:2. The small circle continuously rolls, without slipping, within the large circle, along the edge of the latter which guides it. Which of the following is the trajectory of point P of the small circle which, at the moment the figure refers to, is at the center of the large circle? A)              B)              C)               D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2004_junior#q27|src_kangourou_2004_junior__Q27]]
@@ -1107,7 +1213,7 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of three-digit n with product div 7*
+*How many three-digit n with product div 7*
 
 > How many integers n of exactly three digits (in decimal form), not more than 200, are such that the product (n + 1)(n + 2)(n + 3) is divisible by 7? A) 43         B) 31          C) 34          D) 24          E) 39
 
@@ -1140,9 +1246,10 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at 2004th place (div 5 or 11) *
+*Number in the 2004th position (divisible by 5 or 11)*
 
-> On the board were written, in increasing order, all integers from 1 to 10,000. Then all but those numbers that are not divisible by 5 or 11 were deleted, resulting in a new succession. Which of the remaining numbers comes in fourth place in this new sequence in 2004? A) 1000      B) 5000      C) 10000     D) 6545     E) 7348
+> On the blackboard, all the integers from 1 to 10000 were written in increasing order. Then all and only those numbers that are divisible neither by 5 nor by 11 were erased, obtaining a new sequence. Which among the remaining numbers comes to be in the 2004th position of this new sequence?
+> A) 1000      B) 5000      C) 10000     D) 6545     E) 7348
 
 **Answer:** E
 [[Quesiti/src_kangourou_2004_junior#q29|src_kangourou_2004_junior__Q29]]
@@ -1176,11 +1283,16 @@ How many times did the climber go back?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ten-digit numbers with equal sums *
+*10-digit numbers with equal sums in even/odd positions*
 
-> Determine how many ten-digit numbers meet the following requirements: the first digit is 1, all the remaining nine digits are 0 or 1, the sum of the odd digits is equal to the sum of the even digits. A) 29         B) 126         C) 81          D) 32         E) 64 P
+> Determine how many ten-digit numbers satisfy the
+> following requirements: the first digit is 1, all the remaining nine digits are
+> 0 or 1, the sum of the digits in odd positions is equal to the sum
+> of the digits in even positions.
+> A) 29         B) 126         C) 81          D) 32         E) 64
+> P
 > 
-> The European Union has also adopted a number of amendments.
+>  JUNIOR 2004 SOLUTIONS
 
 **Answer:** B
 [[Quesiti/src_kangourou_2004_junior#q30|src_kangourou_2004_junior__Q30]]

@@ -82,7 +82,7 @@ In what order did the three people pass?
 
 ![[src_kangourou_2019_ecolier_marzo__prob2.png]]
 
-> Three people walked through a snow-covered meadow with their scarves, leaving the footprints you see in the picture. In what order did they come through? A)
+> Three people walked through a snow-covered meadow with their muddy shoes, leaving the footprints you see in the picture. In what order did they come through? A)
 > 	
 > B)
 > 	
@@ -128,11 +128,11 @@ In what order did the three people pass?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What means are seen in closed books*
+*What vehicles are seen when the book is closed*
 
 ![[src_kangourou_2019_ecolier_marzo__prob3.png]]
 
-> There are two windows on the cover of a children's book on transportation. When you open the cover, you see what shows the figure. What means do you see when the book is closed? A)
+> There are two windows on the cover of a children's book on transportation. When you open the cover, you see what shows the figure. What vehicles do you see when the book is closed? A)
 > 	
 > 	
 > B)
@@ -184,7 +184,7 @@ In what order did the three people pass?
 
 ![[src_kangourou_2019_ecolier_marzo__prob4.png]]
 
-> From the grid you see in the figure next to her, Catherine cuts a card made of two adjacent boards. Which of the following cards can you obtain? A)
+> From the grid you see in the figure next to her, Catherine cuts a card made of two adjacent squares. Which of the following cards can you obtain? A)
 >  	
 > B)
 >  	
@@ -192,7 +192,7 @@ In what order did the three people pass?
 >         
 > D)
 >  	
-> E) , , , , , , , , , ,
+> E)
 >
 
 **Answer:** A
@@ -235,17 +235,23 @@ In what order did the three people pass?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many haids weighed the whole cake (target cuts) *
+*How many hectograms did the whole cake weigh (cut in half)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob5.png]]
 
-> As shown in the figure, the mother cut a cake in half, then cut in half one of the two halves, then cut in half one of the two parts and finally cut in half one of the last two slices. The smallest slices weigh one hectare. How much did the whole cake weigh? A) 6
+> As the figure shows, the mother cut a 
+> cake in half, then cut one of the two 
+> halves in half, then again cut one of the two parts 
+> obtained in half, and finally cut one of the two last 
+> slices obtained in half. The smallest slices she ob-
+> tained weigh one hectogram. How many hectograms did the whole cake weigh?
+> A) 6	
 > 	
-> B) 8
+> B) 8 	
 > 	
-> C) 12
+> C) 12	
 > 	
-> D) 16
+> D) 16	
 > 	
 > E) 20
 
@@ -337,7 +343,7 @@ How many students if girls are doubles and +8*
 
 ![[src_kangourou_2019_ecolier_marzo__prob7.png]]
 
-> Linda hung three photographs in a tray using eight drawing dots, as you can see in the figure. If he had hung 7 of them in the same way, how many dots would he have had to use? A) 14
+> Linda hung three photographs on a notice board using eight drawing pins, as you can see in the figure. If she had hung 7 of them in the same way, how many pins would she have had to use? A) 14
 > 	
 > B) 16
 > 	
@@ -387,11 +393,11 @@ How many students if girls are doubles and +8*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many shapes can be obtained by lifting a tile*
+*How many shapes can be obtained by removing a tile*
 
 ![[src_kangourou_2019_ecolier_marzo__prob8.png]]
 
-> In the first figure, you see five square tiles, all of them equal to each other, approached in a certain way. If you take one of them and leave the others where they are, how many of the following shapes can you get? A) 1
+> In the first figure, you see five square tiles, all of them equal to each other, placed next to each other in a certain way. If you remove a suitably chosen one and leave the others in the position where they are, how many of the following shapes can you get? A) 1
 > 	
 > B) 2
 > 	
@@ -399,7 +405,7 @@ How many students if girls are doubles and +8*
 > 	
 > D) 4
 > 	
-> E) 5 Questions from N. 9 al N. 16 is worth 4 points each.
+> E) 5 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_ecolier_marzo#q08|src_kangourou_2019_ecolier_marzo__Q08]]
@@ -465,7 +471,7 @@ How many students if girls are doubles and +8*
 
 ![[src_kangourou_2019_ecolier_marzo__prob9.png]]
 
-> In the figure you can see an obstacle course: the obstacles are the gray squares representing as many water wells. In order to reach the last box, the box indicated by X, the Jump kangaroo must make leaps forward: when landing on a saddle, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: 1 means it must land on the next box, 2 means it must jump a box, etc.). How many boxes does it have to be along its first jump if it wants to land in X avoiding all the water wells? 2 4 1 h 3 3 h 4 1 4 h 3 h 3 1 h X A) 1
+> In the figure you can see an obstacle course: the obstacles are the gray squares representing as many puddles of water. In order to reach the last box, the box indicated by X, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: 1 means it must land on the next box, 2 means it must jump a box, etc.). How many boxes long must its first jump be if it wants to land in X avoiding all the puddles of water? 2 4 1 h 3 3 h 4 1 4 h 3 h 3 1 h X A) 1
 > 	
 > B) 2
 > 	
@@ -473,7 +479,7 @@ How many students if girls are doubles and +8*
 > 	
 > D) 5
 >          
-> E) He can't avoid all the wells.
+> E) It cannot avoid all the puddles.
 >
 
 **Answer:** B
@@ -573,7 +579,7 @@ What the driver sees from the opposite side of the glass
 
 ![[src_kangourou_2019_ecolier_marzo__prob11.png]]
 
-> Look at the balance sheets in the figure where three identical dogs and two weights, one 12 and the other 20 kg, appear. The weight in kilograms of each of the dogs is expressed by an integer. What kind? A) 7
+> Look at the scales in the figure where three identical dogs and two weights, one 12 and the other 20 kg, appear. The weight in kilograms of each of the dogs is expressed by an integer. Which one? A) 7
 > 	
 > B) 8
 > 	
@@ -619,9 +625,9 @@ What the driver sees from the opposite side of the glass
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of green bulbs from 16 blue bulbs
+Maximum number of green beads from 16 blue beads
 
-> Some friends have colored beads and can exchange them according to these rules: for 3 blue beads you can get a red bead, for 2 red beads you can get 5 green beads. Sara has 16 blue balls. How many green balls could he get at most? A) 5
+> Some friends have colored beads and can exchange them according to these rules: for 3 blue beads you can get a red bead, for 2 red beads you can get 5 green beads. Sara has 16 blue beads. How many green beads could she get at most? A) 5
 > 	
 > B) 10
 > 	
@@ -669,11 +675,11 @@ Maximum number of green bulbs from 16 blue bulbs
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in the box? for a maximum of 2,0,1,9*
+Number in the box ? for a maximum sum with 2,0,1,9*
 
 ![[src_kangourou_2019_ecolier_marzo__prob13.png]]
 
-> Stefano has numbers 2, 0, 1 and 9. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what figure should you enter in the box shown with the question mark? A) 0 or 1.
+> Stefano has the digits 2, 0, 1 and 9. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what digit should you enter in the box shown with the question mark? A) 0 or 1.
 > 	
 > B) 0 or 2.
 > 	
@@ -721,7 +727,7 @@ Number in the box? for a maximum of 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of a glass filled with water *
+*Weight of a glass half-filled with water*
 
 ![[src_kangourou_2019_ecolier_marzo__prob14.png]]
 
@@ -765,7 +771,7 @@ Number in the box? for a maximum of 2,0,1,9*
 
 *How many kang per apple, pear and banana together*
 
-> In Kangland, the currency is the kang. With 5 kang you buy an apple and a pear, with 7 kang an apple and a banana, with 10 kang a pear and a banana. How many kangs does it take to produce an apple, a pear and a banana? A) 8
+> In Kangland, the currency is the kang. With 5 kang you buy an apple and a pear, with 7 kang an apple and a banana, with 10 kang a pear and a banana. How many kangs does it take to buy an apple, a pear and a banana? A) 8
 > 	
 > B) 9
 > 	
@@ -825,7 +831,7 @@ Number in the box? for a maximum of 2,0,1,9*
 > 	
 > D) 5
 > 	
-> E) 9 Questions from N. 17 al N. Twenty-four is worth five points each.
+> E) 9 Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_ecolier_marzo#q16|src_kangourou_2019_ecolier_marzo__Q16]]
@@ -917,7 +923,7 @@ Number in the box? for a maximum of 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of how many squares the frame of a painting is 10x10*
+*How many squares make up the frame of a 10x10 painting*
 
 ![[src_kangourou_2019_ecolier_marzo__prob18.png]]
 
@@ -967,7 +973,7 @@ Number in the box? for a maximum of 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of pages if the figure 5 appears 16 times
+Maximum number of pages if the digit 5 appears 16 times
 
 > The pages of a booklet are numbered from 1. In total, the number 5 appears 16 times in the numbering. How many pages can a booklet have at most? A) 49
 > 	
@@ -1024,11 +1030,11 @@ Maximum number of pages if the figure 5 appears 16 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many meters the cat walks along the alley*
+*For how many meters does the cat walk along the alley*
 
 ![[src_kangourou_2019_ecolier_marzo__prob20.png]]
 
-> A driveway has the dimensions shown in the figure. A cat walks along the stretched line that is exactly halfway along each straight stretch of the driveway. How many feet does a cat walk? A) 63
+> A driveway has the dimensions shown in the figure. A cat walks along the dashed line that is exactly halfway along each straight stretch of the driveway. How many meters does the cat walk? A) 63
 > 	
 > B) 68 C) 69 D) 71
 > 	
@@ -1127,7 +1133,7 @@ Maximum number of pages if the figure 5 appears 16 times
 
 ![[src_kangourou_2019_ecolier_marzo__prob22.png]]
 
-> Mary has nine small triangles: three red, three yellow and three blue. By approaching them as shown in the figure, he formed a large triangle following this rule: if two small triangles have a side in common, they must be of different colors. In the figure you can see where a red triangle (R), a yellow triangle (G) and two blue triangles (B) are located; the other triangles are numbered. Which of the following statements is true? A) 1 is yellow and 3 is blue.
+> Mary has nine small triangles: three red, three yellow and three blue. By placing them as shown in the figure, she formed a large triangle following this rule: if two small triangles have a side in common, they must be of different colors. In the figure you can see where a red triangle (R), a yellow triangle (G) and two blue triangles (B) are located; the other triangles are numbered. Which of the following statements is true? A) 1 is yellow and 3 is blue.
 > 	
 > B) 1 is blue and 2 is red.
 >      
@@ -1229,19 +1235,39 @@ Who ate the cookie (one mind only)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many tablecloths laid in the manner of Figure 1*
+*How many napkins hung in the manner of figure 1*
 
 ![[src_kangourou_2019_ecolier_marzo__prob24.png]]
 
-> Emilio stretched out to dry the towels used in his restaurant. He started using two boots, as shown in Figure 1. At some point, however, he realized that the laundry sheets he had would not be enough for him. Then he began to stretch out the towels as shown in Figure 2. At the end of the work, he laid out a total of 35 rolls and used 58 laundry racks. How many napkins did you spread out in the way shown in Figure 1? A) 12
+> Emilio hung out to dry the napkins used in 
+> his restaurant. He started by using two clothespins, 
+> as shown in figure 1. 
+> At a certain point, however, 
+> he realized that the 
+> clothespins he 
+> had would not be enough for him. So he started 
+> hanging the napkins as shown in figure 2. 
+> When the work was finished, he had hung a total of 35 
+> napkins and used 58 clothespins. 
+> How many napkins did he hang in the manner shown in figure 1?
+> A) 12	
 > 	
-> B) 13
+> B) 13	
 > 	
-> C) 21
+> C) 21	
 > 	
-> D) 22
+> D) 22	
 > 	
-> E) 23 B B G R 5 1 2 4 3 and 1 Figure 1 Figure 2
+> E) 23 
+> B
+> B
+> G
+> R
+> 5 1 2
+> 4 3
+> e 1
+> Figure 1 
+> Figure 2
 >
 
 **Answer:** D

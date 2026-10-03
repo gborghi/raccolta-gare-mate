@@ -35,7 +35,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many carriages and what the train is made of*
+*How many carriages is the train made of*
 
 > On the train journey to Mirabilandia, Lisa sits in the seventh carriage from the train's head, while Marco sits in the sixth carriage from the tail; Marco is closer than Lisa to the train's head and among their carriages there is another carriage. How many carriages is the train made of? (a) 15 (b) 14 (c) 13 (d) 10 (e) indefinite reply
 
@@ -107,9 +107,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sphere volume correction with radial diameter in place*
+*Sphere volume correction with diameter instead of radius*
 
-> Andrea calculated the volume of a sphere, but, in applying the known formula, he mistakenly used the diameter instead of the radius. What should you do with the result to get the right answer? A) Divide it by two B) Divide it by four. C) Divide it by six. D) Divide it by eight. E) Divide it by 16. n+2003        n+2003
+> Andrea calculated the volume of a sphere, but, in applying the known formula, he mistakenly used the diameter instead of the radius. What should he do with the result to get the right answer? A) Divide it by two B) Divide it by four. C) Divide it by six. D) Divide it by eight. E) Divide it by 16. n+2003        n+2003
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_student#q03|src_kangourou_2003_student__Q03]]
@@ -139,9 +139,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table summarizes the results of the calculations:
+*Simplification of powers 2^(n+2003)+2^(n+2003)*
 
-> 2 + 2           = n+2004               2n+4006             2n+4006                  2n+2003                 n+2003 A) 2             B)  2 C) 4                D)  4                 E) 4
+> 2
+> + 2           = 
+> n+2004               2n+4006             2n+4006                  2n+2003                 n+2003
+> A) 2             B)  2
+> C) 4                D)  4                 E) 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_student#q04|src_kangourou_2003_student__Q04]]
@@ -183,9 +187,20 @@ The following table summarizes the results of the calculations:
 
 *Which combination uniquely determines the triangle*
 
-> For which of the following combinations of sides and angles does a uniquely determined ABC triangle exist? A) AB = 11cm, BC = 19cm, CA = 7cm B) AB = 11cm, BC = 6cm, ? BAC (i.e. measure of the angle BAC) = 63° C) AB = 11cm, CA = 7cm, ? CBA = 128° D) AB = 11 cm, ? BAC = 63°, ? CBA = 128° E) None of the above. I'm not going anywhere. 1 Fig. 2
+> For which of the following combinations of sides and angles does a uniquely determined triangle ABC exist?
+> A) AB = 11cm, BC = 19cm, CA = 7cm
+> B) AB = 11cm, BC = 6cm, ? BAC (i.e. measure of angle BAC) = 63°
+> C) AB = 11cm, CA = 7cm, ? CBA = 128°
+> D) AB = 11cm, ? BAC = 63°, ? CBA = 128°
+> E) None of the above.
+> Fig. 1
+> Fig. 2
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 2003 Kang
+> Pag. 
+> Pag. 29
+> 29
+> Kang 2003
+> Kang 2003
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_student#q05|src_kangourou_2003_student__Q05]]
@@ -221,7 +236,7 @@ The following table summarizes the results of the calculations:
 
 *Students promoted in 2003 from secondary education*
 
-> The average number of students promoted by a particular school in the four years 1999 to 2002 was 325 students per year, while in the five years 1999 to 2003 the average was more than 20%. How many students were promoted from the school in 2003? A)  650 B)  600 C)  455 D)  390 E)  345
+> The average number of students promoted by a particular school in the four years 1999 to 2002 was 325 students per year, while in the five years 1999 to 2003 the average was 20% higher. How many students were promoted from the school in 2003? A)  650 B)  600 C)  455 D)  390 E)  345
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_student#q06|src_kangourou_2003_student__Q06]]
@@ -253,7 +268,7 @@ The following table summarizes the results of the calculations:
 
 *Most likely value of difference of two dice*
 
-> Let's draw two dice (with the faces numbered 1 to 6, as in use), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equal B) 0 C) 1 D) 2 E) 3
+> Let's draw two dice (with the faces numbered 1 to 6, as usual), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equally likely B) 0 C) 1 D) 2 E) 3
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_student#q07|src_kangourou_2003_student__Q07]]
@@ -286,9 +301,9 @@ The following table summarizes the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of m per single common point curve/parabola*
+*Values of m for a single common point of curve/parabola*
 
-> The sum of all the values of the parameter m for which the curves of equations x2+y2 = 1 and y = x2+m have exactly one point in common is A) {-5/4, -1, 1} B) {-5/4, 1} C) {-1, 1} D) {-5/4} E) {1}
+> The set of all the values of the parameter m for which the curves of equations x2+y2 = 1 and y = x2+m have exactly one point in common is A) {-5/4, -1, 1} B) {-5/4, 1} C) {-1, 1} D) {-5/4} E) {1}
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_student#q08|src_kangourou_2003_student__Q08]]
@@ -326,7 +341,7 @@ How to cover a chessboard with dominoes
 
 ![[src_kangourou_2003_student__prob9.png]]
 
-> How many distinct ways are there to cover all the white boxes on the chessboard in the figure, using the usual 1 x 2 dominoes? A) 8 B) 16 C) 32 D) 64 E) 128
+> How many distinct ways are there to cover all the white squares on the chessboard in the figure, using the usual 1 x 2 dominoes? A) 8 B) 16 C) 32 D) 64 E) 128
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_student#q09|src_kangourou_2003_student__Q09]]
@@ -367,7 +382,7 @@ How to cover a chessboard with dominoes
 
 ![[src_kangourou_2003_student__prob10.png]]
 
-> We build a numerical triangle by putting a whole number greater than 1 in each box, following the instructions below. Which of the following numbers cannot appear in the shadow box? Instructions A) 60 B) 88 C) 90 D) 100 E) 154 Questions from N. 11 al N. Twenty is worth four points.
+> We build a numerical triangle by putting a whole number greater than 1 in each box, following the instructions below. Which of the following numbers cannot appear in the shadow box? Instructions A) 60 B) 88 C) 90 D) 100 E) 154 Questions from N. 11 to N. 20 are worth four points.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_student#q10|src_kangourou_2003_student__Q10]]
@@ -414,13 +429,29 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 5e+12f+13g (sided distances) *
+*Value of 5e+12f+13g (distances to the sides)*
 
 ![[src_kangourou_2003_student__prob11.png]]
 
-> Both ABC a triangle and D a point inside the triangle, having distances and, f , g from the sides as in the figure (which highlights the dimensions of the sides). What is the value of the expression 5e + 12f + 13g? A) 120 B) 90 C) 60 D) 30 E) It is not possible to determine the value without further information on the position of D. X Y X x Y
+> Let ABC be a triangle and let D be a point inside
+> the triangle, having distances e, f , g from the sides as
+> in the figure (which highlights the measurements of the sides). 
+> What is the value of the expression 5e + 12f + 13g?
+> A)  120
+> B)  90
+> C)  60
+> D)  30
+> E)  It is not possible to determine the value without further information on the
+> position of D.
+> X
+> Y
+> X x Y
 > 
-> I'm going to pay. I'm going to pay. 30 30 Kang 2003 Kang
+> Pag. 
+> Pag. 30
+> 30
+> Kang 2003
+> Kang 2003
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_student#q11|src_kangourou_2003_student__Q11]]
@@ -454,9 +485,16 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two adjacent white seals*
+*Probability of two white seagulls being adjacent*
 
-> Two white crab and eight gray crab are flying over a river. Suddenly they land on one of the banks of the river, arranged in a straight line in random order. What is the probability that the two white cabbages are next to each other? A) 1/5 B) 1/6 C) 1/7 D) 1/8 E) 1/9
+> Two white seagulls and eight grey seagulls fly over a river.
+> Suddenly they land on one of the river banks, arranging themselves in a straight
+> line in random order. What is the probability that the two white seagulls are next to each other?
+> A) 1/5
+> B) 1/6
+> C) 1/7
+> D) 1/8
+> E) 1/9
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_student#q12|src_kangourou_2003_student__Q12]]
@@ -524,7 +562,7 @@ How to cover a chessboard with dominoes
 
 *Acute triangle area of 12,13,15*
 
-> 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acutangle triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
+> 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acute triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_student#q14|src_kangourou_2003_student__Q14]]
@@ -594,7 +632,7 @@ How to cover a chessboard with dominoes
 
 *Max n of two digits with 10^n + 1 multiple of 101*
 
-> Now, since 10n+1 is a multiple of 101 and n is a two-digit number, what's the maximum possible value for n? A) 92 B) 94 C)  96 D)  98 E) 99
+> Now, since 10^n+1 is a multiple of 101 and n is a two-digit number, what's the maximum possible value for n? A) 92 B) 94 C)  96 D)  98 E) 99
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_student#q16|src_kangourou_2003_student__Q16]]
@@ -632,7 +670,7 @@ How to cover a chessboard with dominoes
 
 ![[src_kangourou_2003_student__prob17.png]]
 
-> The figure shows two squares, with sides of 2 m and 1 m respectively. What's the area of the shaded region? A) 1 m2 B) 2 m2 C) 2 m2 D) 4 m2 E) Depends on the position of the two squares
+> The figure shows two squares, with sides of 2 m and 1 m respectively. What's the area of the shaded region? A) 1 m2 B) 2 m2 C) 2√2 m2 D) 4 m2 E) Depends on the position of the two squares
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_student#q17|src_kangourou_2003_student__Q17]]
@@ -660,9 +698,10 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of 100 to 99 to 2+... + 2 to 2 to 2*
+*Sum 100^2-99^2+...+2^2-1^2*
 
-> The sum of 1002 - 992 + 982 - ... + 22 - 12 is equal to A) 2002; B) 2020; C) 4040; D) 5050; E) 8008
+> The sum   1002 - 992 + 982 - …  + 22 - 12 is equal to
+> A) 2002;         B) 2020;           C) 4040;            D) 5050;            E) 8008
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_student#q18|src_kangourou_2003_student__Q18]]
@@ -721,11 +760,41 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a^3+1/a^3 given to a+1/a*
+*Value of a^3+1/a^3 given a+1/a*
 
-> Knowing that a > 0 is , how much is it worth ? A) 4 B) 3 C) 6 D) 5 E) 6 ? ? ? ? ? ? 2005 2003 1 2002 1 2001 1 2000 1 65 6 1 2 ? ? ? ? ? ? ? ? a a 3 3 1 a a ? 6 6 6 6
+> Knowing that a > 0 and                      , what is the value of                  ? 
+> A) 4 
+> B) 3
+> C) 6
+> D) 5 
+> E) 6
+> 2005
+> 2003
+> 1
+> 2002
+> 1
+> 2001
+> 1
+> 2000
+> 1
+> 65
+> 6
+> 1
+> 2
+> a
+> a
+> 3
+> 3
+> 1
+> a
+> a
+> ?
 > 
-> I'm going to pay. I'm going to pay. 31 31 Kang 2003 Kang
+> Pag. 
+> Pag. 31
+> 31
+> Kang 2003
+> Kang 2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_student#q19|src_kangourou_2003_student__Q19]]
@@ -763,11 +832,11 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of regions divided into the polygons entered *
+*Number of disjoint regions in inscribed polygons *
 
 ![[src_kangourou_2003_student__prob20.png]]
 
-> So let's first draw an equilateral triangle, then let's draw the circumference of the circle around it; now let's circle this circle around a square, and the square around another circle; this new circle around a regular pentagon, and so on. We repeat this construction, with new circumferences and new regular polygons (each having one side more than the previous one) until we trace the regular polygon of 16 sides. How many segregated regions are contained within the last polygon? A) 232 B) 240 C) 248 D) 264 E) 272 Questions from N. 21 al N. 30 is worth 5 points.
+> So let's first draw an equilateral triangle, then let's draw the circle circumscribed about it; now let's circumscribe a square about this circle, and circumscribe another circle about the square; about this new circle let's circumscribe a regular pentagon, and so on. We repeat this construction, with new circumferences and new regular polygons (each having one side more than the previous one) until we trace the regular polygon of 16 sides. How many segregated regions are contained within the last polygon? A) 232 B) 240 C) 248 D) 264 E) 272 Questions from N. 21 al N. 30 is worth 5 points.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_student#q20|src_kangourou_2003_student__Q20]]
@@ -802,11 +871,11 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of f(f(x)))=0 from the graph*
+*Solutions of f(f(f(x)))=0 from the graph*
 
 ![[src_kangourou_2003_student__prob21.png]]
 
-> The graph of the function f, illustrated by the figure, consists of a segment and two semirettes. What is the sum of all solutions of the equation f (f (f (x)))=0? A) {-4, 0} B) {-8, -4, 0} C) {-12, -8, -4, 0} D) Together empty E) {-16, -12, -8, -4, 0}
+> The graph of the function f, illustrated by the figure, consists of a segment and two semirettes. What is the set of all solutions of the equation f (f (f (x)))=0? A) {-4, 0} B) {-8, -4, 0} C) {-12, -8, -4, 0} D) Empty set E) {-16, -12, -8, -4, 0}
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_student#q21|src_kangourou_2003_student__Q21]]
@@ -842,7 +911,7 @@ How to cover a chessboard with dominoes
 
 *Minimum x whole on circumference*
 
-> A point P(x, r) belongs to the center circumference (2,2) and radius r. Now, knowing that r > 2 and both x and r are positive integers, what's the smallest possible value for x? A) 1 B) 2 C) 4 D) 6 E) 8
+> A point P(x, r) belongs to the circle with center (2,2) and radius r. Now, knowing that r > 2 and both x and r are positive integers, what's the smallest possible value for x? A) 1 B) 2 C) 4 D) 6 E) 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_student#q22|src_kangourou_2003_student__Q22]]
@@ -875,9 +944,15 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Property of S=A+B+(A-B)+(A+B) with prime *
+*Properties of S=A+B+(A-B)+(A+B) with primes*
 
-> Let's say that A>B>1, and B is a positive integer such that A, B, A-B, A+B are all prime numbers. So S=A+B+(A-B)+(A+B) A) is equal to B) is a multiple of 3 C) is a multiple of 5 D) is a multiple of 7 E) is a prime number
+> Suppose that A> B>1, and that B is a positive integer such that A, B, A-B,
+> A+B are all prime numbers. Then S=A+B+(A-B)+(A+B)
+> A) is even
+> B) is a multiple of 3
+> C) is a multiple of 5
+> D) is a multiple of 7
+> E) is a prime number
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_student#q23|src_kangourou_2003_student__Q23]]
@@ -1077,9 +1152,18 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term to 2003 of the periodic succession*
+*Term a_2003 of the periodic sequence*
 
-> The sequence (an) is defined as follows: a0 = 4 a1 = 6 an+1 = (an) / (an-1), with n > 1. So 2003 is equal to: A) 3/2 B) 2/3 C) 4 D) 1/4 E) 1/6
+> The sequence (an) is defined as follows:  
+> a0 = 4
+> a1 = 6
+> an+1 = (an) / (an-1) , with n > 1.  
+> Then a2003 is equal to:
+> A) 3/2
+> B) 2/3
+> C) 4
+> D) 1/4
+> E) 1/6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_student#q26|src_kangourou_2003_student__Q26]]
@@ -1156,7 +1240,7 @@ Price that maximizes profit
 
 *Different results for the sum of 12 cube vectors*
 
-> By associating a verse with it, Peter transforms each vertex of a cube into a vector of equal length; thus adding up all 12 vectors thus obtained. How many different results can Peter achieve in this way (using all possible choices on the verses)? A) 25 B) 27 C) 64 D) 100 E) 125
+> By associating a direction with it, Peter transforms each edge of a cube into a vector of equal length; thus adding up all 12 vectors thus obtained. How many different results can Peter achieve in this way (using all possible choices on the directions)? A) 25 B) 27 C) 64 D) 100 E) 125
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_student#q28|src_kangourou_2003_student__Q28]]
@@ -1188,9 +1272,9 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples of foreign segments in the hexagon*
+*Pairs of disjoint segments in the hexagon*
 
-> Let's consider the six vertices of a regular hexagon, and all the segments that connect any two of these points. We call two of these segments "foreign" if they have nothing in common (including the extremes). How many pairs of "foreign" segments are there? A) 26 B) 28 C) 30 D) 34 E) 36
+> Let's consider the six vertices of a regular hexagon, and all the segments that connect any two of these points. We call two of these segments "disjoint" if they have nothing in common (including the extremes). How many pairs of "disjoint" segments are there? A) 26 B) 28 C) 30 D) 34 E) 36
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_student#q29|src_kangourou_2003_student__Q29]]
@@ -1236,7 +1320,7 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial f ((x^2-1) given f ((x^2+1) *
+*Polynomial f (x^2-1) given f (x^2+1)*
 
 > If f is a polynomial such that f (x2 + 1) = x4 + 4x2 . So f (x2 - 1) is the polynomial A) x4 - 4x2 B) x4 C) x4 + 4x2 - 4 D) x4 - 4 E) None of the previous answers is correct A B C D P Q R M A D E B C F
 

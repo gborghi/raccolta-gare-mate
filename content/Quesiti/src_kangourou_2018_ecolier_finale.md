@@ -34,7 +34,7 @@ level: kangourou
 
 *How many girls do you add to twice as many boys *
 
-> Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many boys?
+> Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many as boys?
 
 **Answer:** 0028
 [[Quesiti/src_kangourou_2018_ecolier_finale#q01|src_kangourou_2018_ecolier_finale__Q01]]
@@ -67,7 +67,7 @@ level: kangourou
 
 Time of departure of the last couple from the castle
 
-> The Ghost Castle One of the attractions of an amusement park is the Ghost Castle: to get around it you have to take a two-seater carriage; one passes every 2 minutes and the complete tour lasts 26 minutes. A group of 12 friends shows up at 11:40 p.m. and the first couple leaves immediately. If everyone gets on the wagons in pairs and doesn't lose a single wagon, what time does the last couple leave the castle? To give the answer, type in a row the hours and minutes; e.g. 11:40 is 1140.
+> The Ghost Castle One of the attractions of an amusement park is the Ghost Castle: to get around it you have to take a two-seater carriage; one passes every 2 minutes and the complete tour lasts 26 minutes. A group of 12 friends shows up at 11:40 a.m. and the first couple leaves immediately. If everyone gets on the wagons in pairs and doesn't lose a single wagon, what time does the last couple leave the castle? To give the answer, type in a row the hours and minutes; e.g. 11:40 is 1140.
 
 **Answer:** 1216
 [[Quesiti/src_kangourou_2018_ecolier_finale#q02|src_kangourou_2018_ecolier_finale__Q02]]
@@ -148,7 +148,7 @@ Time of departure of the last couple from the castle
 \end{document}
 ```
 
-> MATE I marked on a circumference 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels a point yes and a point no I do several complete turns, clockwise, around the circumference until I read the word MATE for 2018 times: here I stop. How many times have I done a full circle?
+> MATE I marked on a circle 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels one point yes and one point no I do several complete turns, clockwise, around the circle until I read the word MATE for 2018 times: here I stop. How many times have I done a complete turn?
 
 **Answer:** 1345
 [[Quesiti/src_kangourou_2018_ecolier_finale#q03|src_kangourou_2018_ecolier_finale__Q03]]
@@ -179,11 +179,13 @@ Time of departure of the last couple from the castle
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is a list of the countries of the European Economic Area.
+*Cryptarithm ABB+ABB=CDBA find CDBA*
 
 ![[src_kangourou_2018_ecolier_finale__prob4.png]]
 
-> The sum of A, B, C and D are four different digits that make the addition correct: What number is C D B A?
+> The sum 
+> A, B, C and D are four digits different from each other that make the addition correct: 
+> What number is C D B A ?
 
 **Answer:** 1798
 [[Quesiti/src_kangourou_2018_ecolier_finale#q04|src_kangourou_2018_ecolier_finale__Q04]]
@@ -212,9 +214,9 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of orange pie pie by two equations*
+*Cost of a small pizza, a small cake and an orange from two equations*
 
-> From the bakery Three friends are from the bakery: Alda spends 18 euros for 10 pizzas, 4 cakes and an orange, Bianca spends 13.50 euros for 7 pizzas, 3 cakes and an orange. How many cents does Carla spend on a pizza, a cake and an orange?
+> From the bakery Three friends are from the bakery: Alda spends 18 euros for 10 small pizzas, 4 small cakes and an orange, Bianca spends 13.50 euros for 7 small pizzas, 3 small cakes and an orange. How many cents does Carla spend on a small pizza, a small cake and an orange?
 
 **Answer:** 0450
 [[Quesiti/src_kangourou_2018_ecolier_finale#q05|src_kangourou_2018_ecolier_finale__Q05]]
@@ -262,9 +264,28 @@ This is a list of the countries of the European Economic Area.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many honest people in the stage lie and honest people *
+*How many truth-tellers in the liars and truth-tellers stadium*
 
-> There are 2,817 people in a stadium. Every one is either a liar or a truthful one. At one to one 2816 they leave the stadium saying In the stadium there are more liars than sincere. How many honest people were there in the stadium initially? M M M X A A A T T T E E E A B B + A B B = C D B A
+> The liars 
+> In a stadium there are 2817 people. Each one is either a liar (always lies) or a truth-teller (always 
+> tells the truth). One by one 2816 leave the stadium saying "In the stadium there are more 
+> liars than truth-tellers left". How many truth-tellers were there initially in the stadium? 
+> M 
+> M
+> M
+> X
+> A
+> A
+> A
+> T 
+> T
+> T 
+> E
+> E
+> E
+>     A B B + 
+>     A B B = 
+> C D B A
 > 
 > 2
 
@@ -327,9 +348,13 @@ How many games have A and C played?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times did the fortune teller guess?
+*How many times did the fortune teller guess correctly*
 
-> A fortune teller was called to court to make forecasts for the next day every night. The next morning, the king, if he guessed, gave him four gold coins, if he had mistaken the tax of three gold coins. The morning after the 35th prediction the king releases the fortune teller. Lndvino discovers that in this game of prizes and taxes he has neither lost nor gained us. How many times have you guessed?
+> The fortune teller 
+> A fortune teller was called to court to make every evening the weather forecasts for the next day. The 
+> following morning the king, if he has guessed correctly, gives him 4 gold coins, if he has made a mistake taxes him 3 gold 
+> coins. The morning after the thirty-fifth forecast the king dismisses the fortune teller. The fortune teller discovers that 
+> in this game of rewards and taxes he has neither lost nor gained. How many times did he guess correctly?
 
 **Answer:** 0015
 [[Quesiti/src_kangourou_2018_ecolier_finale#q08|src_kangourou_2018_ecolier_finale__Q08]]
@@ -358,9 +383,11 @@ How many times did the fortune teller guess?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple sum of 3 digits of 3 7 and 11*
+*Sum of 3-digit multiples of 3, 7 and 11*
 
-> Three-digit numbers Catherine writes the three-digit numbers that are multiples of either 3, 7, or 11, and then she adds them up. What's your number?
+> 3-digit numbers
+> Caterina writes the three-digit numbers that are multiples of both 3, 7, and 11 and then adds them up. What
+> number does she get?
 
 **Answer:** 2310
 [[Quesiti/src_kangourou_2018_ecolier_finale#q09|src_kangourou_2018_ecolier_finale__Q09]]
@@ -393,11 +420,11 @@ How many times did the fortune teller guess?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square garden area with five floors*
+*Square garden perimeter with five flowerbeds*
 
 ![[src_kangourou_2018_ecolier_finale__prob10.png]]
 
-> The garden A square garden contains five square floors (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flower are exactly on the horizontal and vertical lines). If the total area of the orchards is 25 square meters, how many meters does the perimeter of the garden measure?
+> The garden A square garden contains five square flowerbeds (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flowerbed are exactly on the horizontal and vertical lines). If the total area of the flowerbeds is 25 square meters, how many meters does the perimeter of the garden measure?
 
 **Answer:** 0040
 [[Quesiti/src_kangourou_2018_ecolier_finale#q10|src_kangourou_2018_ecolier_finale__Q10]]
@@ -491,9 +518,13 @@ How many times did the fortune teller guess?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 4 digits with digits 1 2 3 without equal adjacencies*
+*4-digit numbers with digits 1 2 3 without equal adjacent digits*
 
-> Bice Bice numbers only love 4-digit numbers that satisfy both of these properties:  there are no numbers other than 1, 2 or 3 in the number  there are no two adjacent numbers equal How many 4-digit numbers does Bice love?
+> Bice's numbers 
+> Bice only loves 4-digit numbers that satisfy both of these properties:  
+>  the number does not contain digits other than 1, 2 or 3  
+>  there are no two equal adjacent digits 
+> How many 4-digit numbers does Bice love?
 
 **Answer:** 0024
 [[Quesiti/src_kangourou_2018_ecolier_finale#q13|src_kangourou_2018_ecolier_finale__Q13]]

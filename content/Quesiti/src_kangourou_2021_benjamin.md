@@ -37,7 +37,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallel piped composed of six bricks*
+*Parallelepiped composed of six bricks*
 
 ![[src_kangourou_2021_benjamin__prob1.png]]
 
@@ -75,7 +75,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times do you shake two left hands*
+*How many times are two left hands held together*
 
 ![[src_kangourou_2021_benjamin__prob2.png]]
 
@@ -113,11 +113,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the addition to the card puzzle*
+*Result of the addition in the tile puzzle*
 
 ![[src_kangourou_2021_benjamin__prob3.png]]
 
-> By correctly inserting the five cards in the puzzle, you get a rectangle in which you read an addition. What is the result? A) 22 B) 32 C) 41 D) 122 E) 203
+> By correctly fitting the five puzzle tiles together, you get a rectangle in which you read an addition. What is the result? A) 22 B) 32 C) 41 D) 122 E) 203
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_benjamin#q03|src_kangourou_2021_benjamin__Q03]]
@@ -162,11 +162,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Course for writing the larger number*
+*Path that makes you write the greatest number*
 
 ![[src_kangourou_2021_benjamin__prob4.png]]
 
-> In the figure, you can see how Lisa put the numbers 1 through 9 in a square. Lisa plays like this: she draws a path that connects some numbers and then composes the number she gets by transcribing the numbers she encounters along the path, starting with the one she marked with a star. For example, on the left-hand side of the road, you would write the number 42685. Which of the following paths allows Lisa to write the largest number? A) B) C) D) E) 1 2 2 0
+> In the figure, you can see how Lisa put the digits 1 through 9 in a square. Lisa plays like this: she draws a path that connects some digits and then composes the number she gets by transcribing in order the digits she encounters along the path, starting with the one she marked with a star. For example, with the path on the left, she would write the number 42685. Which of the following paths allows Lisa to write the largest number? A) B) C) D) E) 1 2 2 0
 >
 
 **Answer:** E
@@ -206,11 +206,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number corresponding to the height on the cylinder*
+*Number corresponding to the mark on the cylinder*
 
 ![[src_kangourou_2021_benjamin__prob5.png]]
 
-> A tape meter is wrapped around a cylinder as shown in the figure. What number corresponds to the height indicated by the point in question? A) 53
+> A tape meter is wrapped around a cylinder as shown in the figure. What number corresponds to the mark indicated by the question mark? A) 53
 > 	
 > B) 60
 > 	
@@ -261,7 +261,7 @@ level: kangourou
 
 ![[src_kangourou_2021_benjamin__prob6.png]]
 
-> Sofia wants to write the word genius by extracting a letter from each of these five vessels. What letter should you extract from vessel 4? A) O
+> Sofia wants to write the word GENIO by extracting a letter from each of these five vessels. What letter should you extract from vessel 4? A) O
 > 	
 > B) E
 > 	
@@ -269,7 +269,7 @@ level: kangourou
 > 	
 > D) G
 > 	
-> E) He can't.
+> E) She can't.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_benjamin#q06|src_kangourou_2021_benjamin__Q06]]
@@ -350,11 +350,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Originally folded sheet *
+*Original shape of the sheet folded twice*
 
 ![[src_kangourou_2021_benjamin__prob8.png]]
 
-> Mary had a sheet of paper. He folded it exactly in half and then folded it in half again and got the figure to the right. Of the P, Q and R shapes you see on the left, which could have been the original paper? A) Only P. B) Only Q. C) Only R. D) Only P or Q. E) Any one of the three forms.
+> Mary had a sheet of paper. She folded it exactly in half and then folded it in half again and got the figure to the right. Of the P, Q and R shapes you see on the left, which could have been the original paper? A) Only P. B) Only Q. C) Only R. D) Only P or Q. E) Any one of the three forms.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_benjamin#q08|src_kangourou_2021_benjamin__Q08]]
@@ -387,7 +387,7 @@ level: kangourou
 
 *Sure assertion by taking 20 fruits*
 
-> In one box were 20 apples and 20 pears. Carlo accidentally took 20 fruits from the box and Luca took all the rest. Which of the following is certainly true? A) Charles took at least one pear. B) Charles took the same number of apples and pears. C) Charles took the same number of apples as Luke. D) Charles took as many pears as the apples that Luke took. E) Charles took the same number of pears as Luke.
+> In one box were 20 apples and 20 pears. Carlo took 20 fruits at random from the box and Luca took all the rest. Which of the following is certainly true? A) Carlo took at least one pear. B) Carlo took the same number of apples and pears. C) Carlo took the same number of apples as Luca. D) Carlo took as many pears as the apples that Luca took. E) Carlo took the same number of pears as Luca.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_benjamin#q09|src_kangourou_2021_benjamin__Q09]]
@@ -454,7 +454,7 @@ level: kangourou
 
 ![[src_kangourou_2021_benjamin__prob10.png]]
 
-> In a square, Dani has mapped segments with extremes at the summit of the square or midpoints of its sides or other previously identified segments. Then he colored one of the figures delimited by the segments and observed that he colored 1/8 of the large square. What's Dani's design? A)
+> In a square, Dani has mapped segments with endpoints at a vertex of the square or midpoints of its sides or other previously identified segments. Then he colored one of the figures delimited by the segments and observed that he colored 1/8 of the large square. What's Dani's design? A)
 > 	
 > B)
 > 	
@@ -464,7 +464,7 @@ level: kangourou
 > 	
 > E) vessel 1 N E E G N I O N O E NG O E vessel 2 vessel 3 vessel 4 vessel 5 P Q R
 > 
-> The questions from N. 11 al N. 20 is worth 4 points each.
+> The questions from N. 11 to N. 20 is worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_benjamin#q10|src_kangourou_2021_benjamin__Q10]]
@@ -500,7 +500,7 @@ level: kangourou
 
 *Smaller sum by cutting 5021972970 into three*
 
-> Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip into two dots; thus he got three numbers that he then went to add up. What's the smallest sum that Julius could have gotten? A) 3244 B) 3444 C) 5172 D) 5217 E) 5444
+> Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip at two points; thus he got three numbers that he then went to add up. What's the smallest sum that Giulio could have gotten? A) 3244 B) 3444 C) 5172 D) 5217 E) 5444
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_benjamin#q11|src_kangourou_2021_benjamin__Q11]]
@@ -549,7 +549,7 @@ level: kangourou
 
 ![[src_kangourou_2021_benjamin__prob12.png]]
 
-> The map shows the capitals A, B and C of three circular bus lines and some of the places they connect. • Capital route A - zoo - port - capital A is 10 km long; • Capital route B - park - zoo - capital B is 12 km long; • Capital route C - port - park - capital C is 13 km long; • The mixed route on three lines: zoo - park - port - zoo is 15 km long. How long is the circular path along the outermost road shown on the map? A) 18 B) 20
+> The map shows the terminals A, B and C of three circular bus lines and some of the places they connect. • Terminal route A - zoo - port - terminal A is 10 km long; • Terminal route B - park - zoo - terminal B is 12 km long; • Terminal route C - port - park - terminal C is 13 km long; • The mixed route on three lines: zoo - park - port - zoo is 15 km long. How long is the circular path along the outermost road shown on the map? A) 18 B) 20
 > 	
 > C) 25 D) 35 E) 50
 
@@ -590,7 +590,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tessera that can't be in the middle of the maze*
+*Tile that can't be in the middle of the maze*
 
 ![[src_kangourou_2021_benjamin__prob13.png]]
 
@@ -653,7 +653,7 @@ Number at the top? with sums of 30 in hexagons*
 
 ![[src_kangourou_2021_benjamin__prob14.png]]
 
-> In some vertices of the three hexagons shown in the figure, numbers were numbered. We want to put numbers in the other vertices too so that the sum of the six numbers surrounding each hexagon is 30. What number should be inserted in the top marked with the question mark? A) 3
+> In some vertices of the three hexagons shown in the figure, numbers were inserted. We want to put numbers in the other vertices too so that the sum of the six numbers surrounding each hexagon is 30. What number should be inserted in the vertex marked with the question mark? A) 3
 > 	
 > B) 4
 > 	
@@ -834,17 +834,21 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair of batteries not to be carried out in turns*
+*Pair of piles that cannot be achieved in turns*
 
 ![[src_kangourou_2021_benjamin__prob17.png]]
 
-> Roberto has four white tokens and Vittorio has four grays. They in turn display one of their tokens to form two equal height piles. Roberto starts the game. Which of the five pairs of batteries you see below can't be made? A)
+> Roberto has four white tokens and Vittorio has four grey ones. They take turns pla­
+> cing one of their tokens so as to form two piles of equal height. Roberto 
+> starts the game. Which of the five pairs of piles that you see below cannot be 
+> achieved?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
 > E)
 
@@ -893,7 +897,7 @@ The color of the sphere? in the spherical pyramid*
 
 ![[src_kangourou_2021_benjamin__prob18.png]]
 
-> For the bike, I have a combination lock made up of four gears, each of which returns in the order the numbers from 0 to 9, as you can tell from the figures. To play, after I had inserted the correct combination, my little brother turned each bar in the same direction and the same number of shots. Now the lock shows the combination 6348. Which of the following cannot be the correct combination of my lock? A)
+> For the bike, I have a combination lock made up of four gears, each of which shows in order the digits from 0 to 9, as you can tell from the figures. To play, after I had inserted the correct combination, my little brother turned each gear in the same direction and by the same number of clicks. Now the lock shows the combination 6348. Which of the following cannot be the correct combination of my lock? A)
 > 	
 > B)
 > 	
@@ -934,9 +938,16 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Mix with less dark green *
+*Mixture that gives the least dark green*
 
-> Carla wants to paint the walls of her room green. The green tempera you bought in the store is too dark, so think about mixing it with white tempera. It makes several test mixes: which of the following will give the darker green color? A) 1 part green and 2 parts white. B) 2 parts green and 3 parts white. C) 2 parts green and 5 parts white. D) 4 parts green and 7 parts white. E) 4 parts green and 9 parts white.
+> Carla wants to paint the walls of her room green. The green tempera paint bought
+> in the shop is too dark, so she thinks of mixing it with white tempera paint. She makes several
+> test mixtures: which of the following will give the least dark green color?
+> A) 1 part green and 2 parts white.
+> B) 2 parts green and 3 parts white.
+> C) 2 parts green and 5 parts white.
+> D) 4 parts green and 7 parts white.
+> E) 4 parts green and 9 parts white.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_benjamin#q19|src_kangourou_2021_benjamin__Q19]]
@@ -1005,7 +1016,7 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Treaty for the crossing of freight and high-speed trains *
+*Section where freight and express trains cross*
 
 ![[src_kangourou_2021_benjamin__prob20.png]]
 
@@ -1023,9 +1034,9 @@ The color of the sphere? in the spherical pyramid*
 
 > The railway line connecting X and Y is double track.
 >  
-> The trains travel there at constant speed. It takes 180 minutes for a freight train, 60 minutes for a high-speed train. If at the same time a freight train leaves from X and a high-speed train from Y, which route will they cross? (a) In section XA. (b) In section AB. (c) In the BC section. D) In the CD. E) In the DE section. D ? E B C A D B D E B A E C D C E A X A B C D E Y
+> The trains travel there at constant speed. It takes 180 minutes for a freight train, 60 minutes for a high-speed train. If at the same time a freight train leaves from X and a high-speed train from Y, in which section will they cross? A) In section XA. B) In section AB. C) In section BC. D) In section CD. E) In section DE. D ? E B C A D B D E B A E C D C E A X A B C D E Y
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_benjamin#q20|src_kangourou_2021_benjamin__Q20]]
@@ -1064,7 +1075,7 @@ The color of the sphere? in the spherical pyramid*
 
 > Anna, Bob, Cecilia, Dani and Eva are sitting around a round table. Anna is not close to Bob, Dani is close to Eva. Who are the two people sitting next to Cecilia? A) Anna and Bob. B) Bob and Dani.
 > 	
-> C) Dani and Eva. D) Eve and Anna. E) There is insufficient information to establish this.
+> C) Dani and Eva. D) Eva and Anna. E) There is insufficient information to establish this.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2021_benjamin#q21|src_kangourou_2021_benjamin__Q21]]
@@ -1196,11 +1207,17 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weighing fruit in pairs *
+*Heaviest fruit from pairwise weighings*
 
-> Weighs four pairs of fruits. Apples and oranges weigh as much as pears and fish. Apples and pears weigh less than oranges with fish. Pears and oranges weigh less than apples with fish. Which fruit is heavier? A) The apple.
+> Weigh four fruits in pairs. The apple and the orange weigh as much as the pear and the peach. 
+> The apple and the pear weigh less than the orange with the peach. The pear and the orange weigh 
+> less than the apple with the peach. Which fruit is the heaviest?
+> A) The apple.	
 > 	
-> (b) Orange. (c) Fishing. D) The pear. E) There is insufficient data to establish this.
+> B) The orange.	
+> C) The peach.	
+>           D) The pear.	
+> E) The data are insufficient to determine it.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_benjamin#q24|src_kangourou_2021_benjamin__Q24]]
@@ -1245,7 +1262,7 @@ Maximum number of pancakes with ingredients given
 
 ![[src_kangourou_2021_benjamin__prob25.png]]
 
-> We want to add to the drawing of the colored squares so that we can create a symmetrical figure with respect to each of the four axes of symmetry of the grid. What's the minimum number of squares you can do that for? A) 1
+> We want to add to the drawing of the colored squares so that we can create a symmetrical figure with respect to each of the four axes of symmetry of the grid. What is the minimum number of squares that allows you to do this? A) 1
 > 	
 > B) 9
 > 	
@@ -1299,15 +1316,24 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of true/false diamonds and diamonds *
+*Sum of doubloons and diamonds from the true/false answers*
 
-> To the two questions How many doubles and how many diamonds does your friend Barbanera have? three pirates each gave a true and a false answer. Their answers were: (1) It has 8 double-edged diamonds and 6 diamonds. (2) It has seven double and four diamonds. (3) It has seven double and seven diamonds. What is the sum of the number of duplicates and the number of diamonds owned by Barbanera? A) 11
+> To the two questions "How many doubloons and how many diamonds does your friend Blackbeard have?"
+> three pirates each gave one true and one false answer. Their answers were:
+> (1)	
+> He has 8 doubloons and 6 diamonds.
+> (2)	
+> He has 7 doubloons and 4 diamonds.
+> (3)	
+> He has 7 doubloons and 7 diamonds.
+> What is the sum of the number of doubloons and the number of diamonds owned by Blackbeard?
+> A) 11	
 > 	
-> B) 12
+> B) 12	
 > 	
-> C) 13
+> C) 13	
 > 	
-> D) 14
+> D) 14	
 > 	
 > E) 15
 >
@@ -1354,7 +1380,7 @@ Maximum number of pancakes with ingredients given
 
 ![[src_kangourou_2021_benjamin__prob27.png]]
 
-> Look at the figure: On each of the three shelves, there are a total of 64 deciliters of apple juice. Bottles have three different sizes: large, medium and small. How many decibels of apple juice does the average bottle contain? A) 3
+> Look at the figure: On each of the three shelves, there are a total of 64 deciliters of apple juice. Bottles have three different sizes: large, medium and small. How many deciliters of apple juice does the medium bottle contain? A) 3
 > 	
 > B) 6
 > 	
@@ -1403,7 +1429,7 @@ Maximum number of pancakes with ingredients given
 
 *Cubets with at least one red line on the diagonals*
 
-> A cube has a length of 7 cm and consists of many cubes with a length of 1 cm attached to each other. On each of the faces of the larger cube were drawn the two diagonals with a red pennant. How many cubes have at least one face with at least one red line on it? A) 54
+> A cube has an edge length of 7 cm and consists of many small cubes with an edge length of 1 cm glued to each other. On each of the faces of the larger cube were drawn the two diagonals with a red marker. How many cubes have at least one face with at least one red line on it? A) 54
 > 	
 > B) 62
 > 	
@@ -1449,16 +1475,19 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of even numbers obtained by adding N and sum of digits*
+*How many even numbers obtained by adding N and the sum of its digits*
 
-> Lucia transforms the numbers from 1 to 100 by following this rule: for each number, N replaces the number that is obtained by adding to N the sum of its digits. Of the numbers so obtained, how many are equal? A) 49
-> 	
-> B) 50
-> 	
-> C) 51
-> 	
-> D) 45
-> 	
+> Lucia transforms the numbers from 1 to 100 following this rule: to each number N she
+> replaces it with the number obtained by adding to N the sum of its digits. Among the numbers
+> thus obtained, how many are even?
+> A) 49	
+	
+> B) 50	
+	
+> C) 51	
+	
+> D) 45	
+	
 > E) 55
 
 **Answer:** A
@@ -1504,9 +1533,9 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of witches given the sum of 36*
+*Minimum number of witches given the sum of 36*
 
-> A group of 10 witches and fairies attend a party: each of them is given a card with a number from 1 to 10 printed on it and there are no two participants with the same number. It is well known that fairies always tell the truth, while witches can also lie. Each of them is asked to give the number printed on their ticket and each of them answers with a number between 1 and 10. The sum of the numbers pronounced is 36. What's the minimum number of witches at the party? A) 1
+> A group of 10 witches and fairies attend a party: each of them is given a card with a number from 1 to 10 printed on it and there are no two participants with the same number. It is well known that fairies always tell the truth, while witches can also lie. Each of them is asked to give the number printed on their card and each of them answers with a number between 1 and 10. The sum of the numbers pronounced is 36. What's the minimum number of witches at the party? A) 1
 > 	
 > B) 3
 > 	
@@ -1516,7 +1545,7 @@ Minimum number of witches given the sum of 36*
 > 	
 > E) 7
 > 
-> Answered by Benjamin
+> BENJAMIN Answers
 >
 
 **Answer:** B

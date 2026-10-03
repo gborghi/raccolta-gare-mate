@@ -31,7 +31,7 @@ level: kangourou
 
 The following information shall be provided:
 
-> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of$S$ is an integer number of kilograms. However, the average weight of $S$ objects would remain an integer number of kilograms if you replaced each $S$ object weighing 2, 3 or 4 kilograms, respectively, with an object weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of $S$ objects?
+> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of $S$ is an integer number of kilograms. However, the average weight of $S$ objects would remain an integer number of kilograms if I replaced each object of $S$ weighing 2, 3 or 4 kilograms, respectively, with an object weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of the objects of $S$?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2023_junior_finale#qj1|src_kangourou_2023_junior_finale__QJ1]]
@@ -57,9 +57,9 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*fair play or not *
+*fair game or not*
 
-> Andrea and Julius play dice as follows. Together they throw six dice (traditional, equals): if he throws 3 out of at least one dice, Andrew earns a euro from Julius; otherwise, Julius earns two euros from Andrew. Is it a fair game or is it advantageous for either of us? In this second case, for whom?
+> Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea earns one euro from Giulio; otherwise, Giulio earns two euros from Andrea. Is it a fair game or is it advantageous for one of the two? In this second possible case, for whom?
 
 **Answer:** Giulio favorito
 [[Quesiti/src_kangourou_2023_junior_finale#qj2|src_kangourou_2023_junior_finale__QJ2]]
@@ -92,7 +92,7 @@ This is the maximum amount of lying.
 
 ![[src_kangourou_2023_junior_finale__probj3.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person in my neighborhood who lies all the time". How many people can be at most lying all the time? (Two inhabitants mean neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person among my neighbours who always lies". What is the maximum possible number of inhabitants who always lie? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2023_junior_finale#qj3|src_kangourou_2023_junior_finale__QJ3]]
@@ -142,7 +142,7 @@ This is the maximum amount of lying.
 \end{document}
 ```
 
-> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the middle point of the side $AB$. Let's rotate the square with a spindle in the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a spindle in $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
+> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the midpoint of the side $AB$. Let's rotate the square with a pivot at the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a pivot at $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
 
 **Answer:** (π/2)(1+√5)
 [[Quesiti/src_kangourou_2023_junior_finale#qj4|src_kangourou_2023_junior_finale__QJ4]]
@@ -172,7 +172,7 @@ This is the maximum amount of lying.
 
 > $n$ shall be an integer with $0 \leq n < 40$ and $p$ a prime number greater than 5 such that $p^2 + n$ is divisible by 40. Show that $n$ can only take two values and specify which ones.
 
-**Answer:** n=39 o n=31
+**Answer:** n=39 or n=31
 [[Quesiti/src_kangourou_2023_junior_finale#qj5|src_kangourou_2023_junior_finale__QJ5]]
 
 
@@ -198,7 +198,7 @@ This is the maximum amount of lying.
 
 *pairs at maximum distance ≤ n*
 
-> $n$ distinct points are assigned in the plan ($n \geq 2$). It shows that, when $n$ varies, the number of pairs of such points reaching the maximum possible distance is at most $n$ and may be $n$.
+> There are $n$ distinct points in the plane ($n \geq 2$). Prove that, as $n$ varies, the number of pairs of such points that achieve the maximum possible distance is at most $n$ and can be $n$.
 
 **Answer:** al più n, può essere n
 [[Quesiti/src_kangourou_2023_junior_finale#qj6|src_kangourou_2023_junior_finale__QJ6]]

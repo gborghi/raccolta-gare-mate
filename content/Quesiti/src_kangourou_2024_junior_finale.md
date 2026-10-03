@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*More are reducing or non-reducing fractions (1..12) *
+*Are there more reducible or irreducible fractions (1..12) *
 
-> Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 included. Are these more reducing fractions or irreducible fractions?
+> Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 inclusive. Are there more reducible fractions or irreducible fractions?
 
 [[Quesiti/src_kangourou_2024_junior_finale#qj1|src_kangourou_2024_junior_finale__QJ1]]
 
@@ -124,7 +124,7 @@ level: kangourou
 
 *Establish which city the aircraft operates in (calendar, cafe) *
 
-> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which he operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
+> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which it operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
 
 [[Quesiti/src_kangourou_2024_junior_finale#qj3|src_kangourou_2024_junior_finale__QJ3]]
 
@@ -155,7 +155,7 @@ level: kangourou
 
 ![[src_kangourou_2024_junior_finale__probj4.png]]
 
-> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not verticals. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); but what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
+> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not vertices. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); but what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
 
 [[Quesiti/src_kangourou_2024_junior_finale#qj4|src_kangourou_2024_junior_finale__QJ4]]
 
@@ -207,7 +207,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-There are four perfect square ABBA palindromes.
+Do there exist 4-digit perfect square ABBA palindromes?
 
 > Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
 

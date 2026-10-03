@@ -32,9 +32,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little odd number of 3 digits divisible by 11 by binding *
+*Smallest odd 3-digit number divisible by 11 with constraint *
 
-> Divide 11 Find the smallest three-digit odd positive integer, divisible by 11 and such that the number of hundreds is greater than the number of units.
+> Divisible by 11 Find the smallest three-digit odd positive integer, divisible by 11 and such that the hundreds digit is greater than the units digit.
 
 **Answer:** 231
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q01|src_kangourou_2017_squadre_junior_f__Q01]]
@@ -66,7 +66,7 @@ level: squadre
 
 How many grandchildren does Grandma Anna have (cousins)
 
-> Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Peter have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children) does Grandma Anna have?
+> Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Pietro have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children of children) does Grandma Anna have?
 
 **Answer:** 10
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q02|src_kangourou_2017_squadre_junior_f__Q02]]
@@ -97,7 +97,7 @@ How many grandchildren does Grandma Anna have (cousins)
 
 *sum of 100 and integers z with z^2+12 divisible by z+4*
 
-> Whole division What is the sum of 100 and the sum of the integers z (marked) such that z2 + 12 is divisible by z + 4?
+> Whole division What is the sum of 100 and the sum of the integers z (signed) such that z^2 + 12 is divisible by z + 4?
 
 **Answer:** 52
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q03|src_kangourou_2017_squadre_junior_f__Q03]]
@@ -137,7 +137,7 @@ How many grandchildren does Grandma Anna have (cousins)
 
 ![[src_kangourou_2017_squadre_junior_f__prob4.png]]
 
-> Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul had forgotten the pattern of pressing the keys to unlock it. Just remember that the keys were the vertices of a parallelogram and were struck clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
+> Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul had forgotten the pattern of pressing the keys to unlock it. He only remembers that the keys were the vertices of a parallelogram and were pressed clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
 
 **Answer:** 176
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q04|src_kangourou_2017_squadre_junior_f__Q04]]
@@ -165,9 +165,9 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blue dots given the probability of 9/11*
+*How many blue caps given the probability of 9/11*
 
-> Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the odds of blindly catching a blue cap are 9/11. How many blue caps are in the box?
+> Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the probability of blindly catching a blue cap is 9/11. How many blue caps are in the box?
 
 **Answer:** 225
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q05|src_kangourou_2017_squadre_junior_f__Q05]]
@@ -231,9 +231,13 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of subsets of 7 in arithmetic progression*
+*How many subsets of 7 in arithmetic progression*
 
-> Arithmetic progressions Consider the sum of the first 100 positive integers. From this set we form all subsets consisting of 7 numbers which, when ordered in increasing order, form an arithmetic progression (e.g. This is the first time I have heard of this. How many distinct sets of this form exist?
+> Arithmetic progressions
+> Consider the set of the first 100 positive integers. From this set we form all the
+> subsets consisting of 7 numbers that, when ordered in increasing order, form an
+> arithmetic progression (e.g. {1,2,3,4,5,6,7} or {5,8,11,14,17,20,23}). How many distinct sets
+> of this form exist?
 
 **Answer:** 784
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q07|src_kangourou_2017_squadre_junior_f__Q07]]
@@ -355,9 +359,10 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*United number of 1^3+2^3+...+2017^3*
+*Units digit of 1^3+2^3+...+2017^3*
 
-> Sum of cubes What is the unit number 13 + 23 + 33 + ... + 20163 + 20173 ?
+> Sum of cubes 
+> What is the units digit of the number 13 + 23 + 33 + … + 20163 + 20173 ?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q09|src_kangourou_2017_squadre_junior_f__Q09]]
@@ -389,9 +394,9 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of areas T and P with the same perimeter*
+*Ratio of areas T and P with the same perimeter*
 
-> The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them down below; for example, to indicate the fraction 1/2 write 0102.
+> The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them one after the other; for example, to indicate the fraction 1/2 write 0102.
 
 **Answer:** 907
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q10|src_kangourou_2017_squadre_junior_f__Q10]]
@@ -454,7 +459,7 @@ How many grandchildren does Grandma Anna have (cousins)
 
 *Minimum surface area by gluing cubes 1, 8 and 27*
 
-> Three cubes I have glued three cubes of volume 1 cm3, 8 cm3 and 27 cm3 along their faces so that the total surface of the resulting solid is as small as possible. How many square inches does that area measure?
+> Three cubes I have glued three cubes of volume 1 cm³, 8 cm³ and 27 cm³ along their faces so that the total surface of the resulting solid is as small as possible. How many square centimeters does that area measure?
 
 **Answer:** 72
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q12|src_kangourou_2017_squadre_junior_f__Q12]]
@@ -486,9 +491,9 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum tokens and modes in non-adjacent 8x2 grid*
+*Maximum tokens and ways in non-adjacent 8x2 grid*
 
-> The tokens I want to put tokens on the boxes of a grid 82 (one token per box) subject to the condition that there are no tokens in two boxes that have one side or one vertex in common. What's the maximum number of tokens I can put in and how many different ways? (First write the number of tokens and then the number of ways: for example, to indicate 1 token and 8 ways write 0108.)
+> The tokens I want to put tokens on the boxes of a grid 8×2 (one token per box) subject to the condition that there are no tokens in two boxes that have one side or one vertex in common. What's the maximum number of tokens I can put in and how many different ways? (First write the number of tokens and then the number of ways: for example, to indicate 1 token and 8 ways write 0108.)
 
 **Answer:** 480
 [[Quesiti/src_kangourou_2017_squadre_junior_f#q13|src_kangourou_2017_squadre_junior_f__Q13]]
@@ -516,7 +521,7 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies 1-1000 without dividers 3, 5, 7*
+*Integers 1-1000 without divisors 3, 5, 7*
 
 > Prohibited Divisors How many of the first 1000 positive integers have neither 3, nor 5, nor 7 in their divisors?
 
@@ -578,11 +583,11 @@ How many grandchildren does Grandma Anna have (cousins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of possible check-in boxes in the walk*
+*Sum of possible arrival squares in the walk*
 
 ![[src_kangourou_2017_squadre_junior_f__prob15.png]]
 
-> Walk Gianni starts from box P and takes a walk on the table depicted on the side going from a grey box to one adjacent to it (i.e. it has a side in common with it) so that you visit all 20 grey boxes once and only once. What is the sum of the numbers in the possible mailboxes?
+> Walk Gianni starts from box P and takes a walk on the table depicted on the side going from a grey box to one adjacent to it (i.e. it has a side in common with it) so that you visit all 20 grey boxes once and only once. What is the sum of the numbers in the possible arrival squares?
 >  
 >  
 >  

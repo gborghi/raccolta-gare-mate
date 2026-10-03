@@ -32,9 +32,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table A-B of difference between the two products*
+*Sign of the difference A-B between the two products*
 
-> Does the difference between the two numbers $$A = 201920192019 \times 20202020 \quad \text{e} \quad B = 202020202020 \times 20192019.$$ $A - B$ be positive, zero or negative?
+> Consider the two numbers
+> $$A = 201920192019 \times 20202020 \quad \text{e} \quad B = 202020202020 \times 20192019.$$
+> Is the difference $A - B$ positive, zero or negative?
 
 **Answer:** nulla
 [[Quesiti/src_kangourou_2019_cadet_finale#q01|src_kangourou_2019_cadet_finale__Q01]]
@@ -145,9 +147,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Because Elvira wants to start playing the 66-figure game.
+*Why Elvira wants to start in the game of the 66 tokens*
 
-> Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why? Why?
+> Gianni and Elvira play in this way. There are 66 tokens on the table: at each turn each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, insists on being the one to start. Why?
 
 **Answer:** strategia vincente
 [[Quesiti/src_kangourou_2019_cadet_finale#q03|src_kangourou_2019_cadet_finale__Q03]]
@@ -174,9 +176,9 @@ Because Elvira wants to start playing the 66-figure game.
 <div class="qlang-split" data-lang="en"></div>
 
 
-In a few years the full moon will return to February.
+*In how many years will the full moon return at Ferragosto*
 
-> Last August 15th, a full moon day in February. Assuming that the lunar cycle is exactly 28 days long, how many years from now will there be a full moon again in February? (If, for example, it happens next year, you should answer: in 1 year.)
+> Last August 15, the day of Ferragosto, there was a full moon. Assuming that the lunar cycle is exactly 28 days, in how many years will there be a full moon at Ferragosto again for the first time? (If, for example, it happened next year, you should answer: in 1 year.)
 
 **Answer:** 22
 [[Quesiti/src_kangourou_2019_cadet_finale#q04|src_kangourou_2019_cadet_finale__Q04]]
@@ -235,11 +237,11 @@ In a few years the full moon will return to February.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the VD beam of the rectangular base pyramid*
+*Length of the edge VD of the rectangular base pyramid*
 
 ![[src_kangourou_2019_cadet_finale__prob6.png]]
 
-> A rectangular-based pyramid is known for the lengths of three of the four oblique vertices connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$ Can the length of the vertex $VD$ be determined? If yes, it determines that length; if not, it identifies the measurements of two pyramids that meet the problem data where the length of the $VD$ beam is different.
+> A rectangular-based pyramid is known for the lengths of three of the four oblique edges connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$ Can the length of the edge $VD$ be determined? If yes, determine that length; if not, identify the measurements of two pyramids that meet the problem data where the length of the edge $VD$ is different.
 
 **Answer:** 60
 [[Quesiti/src_kangourou_2019_cadet_finale#q06|src_kangourou_2019_cadet_finale__Q06]]

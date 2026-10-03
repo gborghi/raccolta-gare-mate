@@ -65,7 +65,7 @@ level: kangourou
 
 *Minimum difference between numbers with sum of digits divisible by 5*
 
-> Imagine a list in which all positive integers appear in increasing order whose sum is divisible by 5 (the list will begin as follows: 5, 14, 19, 23, ...). What is the smallest possible difference between a number and the one before it in this list?
+> Imagine a list in which all positive integers appear in increasing order the sum of whose digits is divisible by 5 (the list will begin as follows: 5, 14, 19, 23, ...). What is the smallest possible difference between a number and the one before it in this list?
 
 **Answer:** 1
 [[Quesiti/src_kangourou_2011_cadet_finale#qc2|src_kangourou_2011_cadet_finale__QC2]]
@@ -93,7 +93,7 @@ level: kangourou
 
 *Minimum length of wire per cylinder encountered by each generator*
 
-> A straight circular cylinder has a base of 1 cm radius and a height of 4 cm. The $P$ and $Q$ points, respectively on the lower and upper base, are on the same generator (each line perpendicular to the bases that intersects the cylinder's side surface is called a 'generator'). One wire has one wire in $P$ and the other in $Q$ and meets each generator at least once. What is the minimum possible length of the wire?
+> A straight circular cylinder has bases of radius 1 cm and a height of 4 cm. The $P$ and $Q$ points, respectively on the lower and upper base, are on the same generator (each line perpendicular to the bases that intersects the cylinder's side surface is called a 'generator'). A wire has one end in $P$ and the other in $Q$ and meets each generator at least once. What is the minimum possible length of the wire?
 
 **Answer:** 2pi*sqrt rect diag
 [[Quesiti/src_kangourou_2011_cadet_finale#qc3|src_kangourou_2011_cadet_finale__QC3]]
@@ -121,7 +121,7 @@ level: kangourou
 
 Who skips a pit circuit without falling and why
 
-> Ada, Bruna, and Carla jump on their own jumper whose base is practically a point. Each of them always jumps the same length; the lengths are 70, 80 and 85 cm respectively. They all follow, starting at the same point and moving in the same direction, a 400-meter-long circular circuit, which is traversed by a 73-cm-wide moat. It happens that only one of them can make two complete laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on ropes.)
+> Ada, Bruna, and Carla jump on their own jumper whose base is practically a point. Each of them always jumps the same length; the lengths are 70, 80 and 85 cm respectively. They all follow, starting at the same point and moving in the same direction, a 400-meter-long circular circuit, which is traversed by a 73-cm-wide moat. It happens that only one of them can make two complete laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on chords.)
 
 **Answer:** Bruna
 [[Quesiti/src_kangourou_2011_cadet_finale#qc4|src_kangourou_2011_cadet_finale__QC4]]
@@ -163,7 +163,7 @@ Who skips a pit circuit without falling and why
 > 
 > - in each row the number of boxes with the letter $A$ is not less than the number of boxes with the letter $B$ and the number of boxes with the letter $C$; - in each column the number of boxes with the letter $B$ is not less than the number of boxes with the letter $A$ and the number of boxes with the letter $C$.
 > 
-> It shows that you can achieve your goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why? Why?
+> Show that you can achieve the goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why?
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2011_cadet_finale#qc5|src_kangourou_2011_cadet_finale__QC5]]
@@ -190,9 +190,9 @@ Who skips a pit circuit without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct values of the sum of the perimeter of 4 triangles area 1/4*
+*How many distinct values of the sum of the perimeters of 4 triangles area 1/4*
 
-> There are several ways of dividing a square of side 1 into 4 triangles each of area $\frac{1}{4}$ (to "separate" means to break down without overlapping if not, if possible, sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
+> There are several ways of dividing a square of side 1 into 4 triangles each of area $\frac{1}{4}$ (by "divide" we mean to decompose without overlaps except, possibly, of sides). The sum of the perimeters of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2011_cadet_finale#qc6|src_kangourou_2011_cadet_finale__QC6]]

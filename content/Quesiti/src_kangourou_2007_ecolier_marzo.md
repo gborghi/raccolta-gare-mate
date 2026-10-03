@@ -41,7 +41,7 @@ level: kangourou
 
 ![[src_kangourou_2007_ecolier_marzo__prob1.png]]
 
-> Look at the figure. Zoe follows one of the paths from home to school and never returns. When he passes on a number, he notes it. Which of those suggestions did she write down when she got to school? A) 1, 2 e 4 B) 2, 3 e 4 C) 2, 3 e 5 D) 1, 5 e 6 E) 1, 2 e 5
+> Look at the figure. Zoe follows one of the paths from home to school and never returns. When she passes over a number, she notes it. Which triples of numbers, among those proposed, could she have noted when she arrived at school? A) 1, 2 and 4 B) 2, 3 and 4 C) 2, 3 and 5 D) 1, 5 and 6 E) 1, 2 and 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q01|src_kangourou_2007_ecolier_marzo__Q01]]
@@ -72,9 +72,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Common letters to KANGOUROU and PROBLEM
+Common letters to KANGOUROU and PROBLEMA
 
-> How many letters do the words KANGOUROU and PROBLEM have in common? A) 1 B) 2 C) 3 D) 4 E) 5
+> How many letters do the words KANGOUROU and PROBLEMA have in common? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q02|src_kangourou_2007_ecolier_marzo__Q02]]
@@ -139,7 +139,7 @@ Common letters to KANGOUROU and PROBLEM
 
 ![[src_kangourou_2007_ecolier_marzo__prob4.png]]
 
-> From a rectangle constructed with a square sheet of paper I carved the figure side by side. I've got one of the following: Which one?
+> From a rectangle constructed with a square sheet of paper I cut out the figure shown beside it. One of the following figures remained: which one?
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q04|src_kangourou_2007_ecolier_marzo__Q04]]
@@ -260,7 +260,7 @@ Common letters to KANGOUROU and PROBLEM
 
 ![[src_kangourou_2007_ecolier_marzo__prob7.png]]
 
-> What number must be inserted into the gray cloud for the calculation to be accurate?
+> What number must be inserted into the gray cloud for the calculation to be correct?
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q07|src_kangourou_2007_ecolier_marzo__Q07]]
@@ -297,7 +297,7 @@ Common letters to KANGOUROU and PROBLEM
 
 How to exchange gifts (3 friends)
 
-> For Christmas, three friends intend to exchange gifts in this way: each makes only one gift (not to herself, of course) and receives one. How many ways can the project be implemented? A) 1 B) 2 C) 3 D) 4 E) 5 Questions from N. 9 al N. 16 is worth 4 points each.
+> For Christmas, three friends intend to exchange gifts in this way: each makes only one gift (not to herself, of course) and receives one. How many ways can the project be implemented? A) 1 B) 2 C) 3 D) 4 E) 5 Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q08|src_kangourou_2007_ecolier_marzo__Q08]]
@@ -332,9 +332,19 @@ How to exchange gifts (3 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third doll by size (matrioska) *
+*Third doll by size (matryoshka)*
 
-> A matrioska is made up of 5 dolls of different colors, one contained in the other. That blue is smaller than the green, but not the yellow. The blue one is bigger than both the blue and the green one, but smaller than the red one. What color is the third doll in order of size? A) green B) red C) blue D) blue E) yellow
+> A matryoshka is made up of 5 dolls of
+> different colors, one contained inside the other. The
+> blue one is smaller than the green one, but not than the yellow one. The blue one is larger than both the
+> blue and the
+> green one, but smaller than the red one. What
+> color is the third doll in order of size?
+> A) green   
+> B) red
+> C) blue 
+> D) blue 
+> E) yellow
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q09|src_kangourou_2007_ecolier_marzo__Q09]]
@@ -366,9 +376,15 @@ How to exchange gifts (3 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-He was born in the town of Matteo in the village of Matteo.
+*Matteo's date of birth*
 
-> Elisa, who is one year and one day younger than her brother Matteo, was born on January 2002. What is Matthew's date of birth? (a) 2 January 2003 (b) 2 January 2001 (c) 31 December 2000 (d) 31 December 2001 (e) 30 December 2000
+> Elisa, who is one year and one day younger than her brother Matteo, was
+> born on January 1, 2002. What is Matteo's date of birth?
+> A) January 2, 2003  
+> B) January 2, 2001    
+> C) December 31, 2000
+> D) December 31, 2001
+> E) December 30, 2000
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q10|src_kangourou_2007_ecolier_marzo__Q10]]
@@ -430,7 +446,7 @@ He was born in the town of Matteo in the village of Matteo.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of rectangles in figure *
+*Total number of rectangles in the figure*
 
 ![[src_kangourou_2007_ecolier_marzo__prob11.png]]
 
@@ -445,9 +461,29 @@ He was born in the town of Matteo in the village of Matteo.
 \end{document}
 ```
 
-> What is the total number of rectangles that you see in the figure? A) 5 B) 12 C) 7 D) 10 E) None of the above - 2 : 3 + 4 5 ? A) 1 B) 3 C) 7 D) 9 E) a number different from the previous Text_07.qxp 16-04-2007 12:02 Page 6
+> What is the total number of rectangles that can be seen in the figure?
+> A) 5 
+> B) 12 
+> C) 7 
+> D) 10 
+> E) none of the preceding
+> - 2
+> : 3
+> + 4
+> 5
+> ?
+> A) 1 
+> B) 3    
+> C) 7  
+> D) 9   
+> E) a number different from the
+> preceding ones
+> Testi_07.qxp  16-04-2007  12:02  Page 6
 > 
-> I'm going to pay. I'm going to pay. 7 Kang 2007 Kang 2007
+> Pag. 
+> Pag. 7
+> Kang 2007
+> Kang 2007
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q11|src_kangourou_2007_ecolier_marzo__Q11]]
@@ -559,7 +595,7 @@ How many seats can Arrigo sit in?
 
 *Which statement can be true (sport) *
 
-> Anna, Bianca, Cecilia, and Diana each practice one of the following sports: karate, soccer, volleyball, and judo. Anna does not practice sports that use a ball, the white judoka often goes to the stadium to attend football matches. Which of the following statements can be true? A) Anna plays volleyball B) Bianca plays soccer C) Cecilia plays volleyball D) Diana plays karate E) Anna plays judo
+> Anna, Bianca, Cecilia, and Diana each practice one of the following sports: karate, soccer, volleyball, and judo. Anna does not practice sports that use a ball, Bianca, the judoka, often goes to the stadium to attend football matches. Which of the following statements can be true? A) Anna plays volleyball B) Bianca plays soccer C) Cecilia plays volleyball D) Diana plays karate E) Anna plays judo
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q14|src_kangourou_2007_ecolier_marzo__Q14]]
@@ -593,9 +629,17 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many seats in the gauge*
+*How many seats in the carousel*
 
-> The seats of a wheelchair are equipspaced (i.e. the distance of a seat from the one following it is always the same) and numbered in order 1, 2, 3, ... . In this procession Peter is seated on seat number 11, exactly on the other side of Mary occupying seat number 4. How many seats are there on that ride? A) 13 B) 14 C) 16 D) 17 E) 22
+> The seats of a carousel are equally spaced (that is, the distance from one seat to
+> the one that follows it is always the same) and numbered in order 1, 2, 3, … . In this carousel Pietro is sitting on seat number 11, exactly on the other side
+> from Maria, who occupies seat number 4. How many seats are there in that
+> carousel?  
+> A) 13
+> B) 14 
+> C) 16 
+> D) 17 
+> E) 22
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q15|src_kangourou_2007_ecolier_marzo__Q15]]
@@ -643,7 +687,7 @@ How many seats can Arrigo sit in?
 
 *Possible number in the cell? (Latin 3×3)*
 
-> The numbers 1, 2, and 3 must be written in the cells of the table shown so that each of the numbers 1, 2, and 3 appears exactly once in each row and each column. Isabella has already started filling in some numbers in the table: which number can be written in the cell marked with a question mark?
+> The numbers 1, 2, and 3 must be written in the cells of the table shown so that each of the numbers 1, 2, and 3 appears in each row and each column. Isabella has already started filling in some numbers in the table: which number can be written in the cell marked with a question mark?
 >
 > A) only 1
 > B) only 2
@@ -732,7 +776,7 @@ How many seats can Arrigo sit in?
 
 *Who waits for who and for how long (watches) *
 
-> Chiara and Donatella have an appointment at 7:05. When she arrives, Donatella thinks she's 15 minutes early, but her watch is 7 minutes behind; Chiara thinks she's 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other and for how long? A) Donatella waits for 5 minutes B) Donatella waits for 14 minutes C) Donatella waits for 11 minutes D) Donatella waits for 5 minutes E) Donatella waits for 11 minutes
+> Chiara and Donatella have an appointment at 7:05. When she arrives, Donatella thinks she's 15 minutes early, but her watch is 7 minutes behind; Chiara thinks she's 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other and for how long? A) Donatella waits for 5 minutes B) Donatella waits for 14 minutes C) Donatella waits for 11 minutes D) Chiara waits for Donatella for 5 minutes E) Chiara waits for Donatella for 11 minutes
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q18|src_kangourou_2007_ecolier_marzo__Q18]]
@@ -766,9 +810,9 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of invisible points of 7 stacked dice*
+*Sum of invisible points of 7 stacked dice*
 
-> A dice is a cube whose faces are numbered from 1 to 6. The sum of the numbers on two opposite sides is always 7. Seven dice are stacked as shown in the figure. Imagine that you can observe the piles from every angle. What is the sum of the points that are still invisible, hidden between the dice or under the piles? A) 49 B) 47 C) 46 D) 42 E) 35
+> A die is a cube whose faces are numbered from 1 to 6. The sum of the numbers on two opposite faces is always 7. Seven dice are stacked as shown in the figure. Imagine that you can observe the piles from every angle. What is the sum of the points that are still invisible, hidden between the dice or under the piles? A) 49 B) 47 C) 46 D) 42 E) 35
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q19|src_kangourou_2007_ecolier_marzo__Q19]]
@@ -864,9 +908,9 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White boxes in the next square*
+*White cells in the next square*
 
-> The figure shows a sequence of three "squared" squares with some blackened squares. How many white boxes will the next square have if we build it on the same principle? A) 50 B) 60 C) 65 D) 70 E) 75
+> The figure shows a sequence of three "squared" squares with some blackened cells. How many white cells will the next square have if we build it on the same principle? A) 50 B) 60 C) 65 D) 70 E) 75
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q21|src_kangourou_2007_ecolier_marzo__Q21]]
@@ -897,9 +941,14 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to the implementation of the programme.
+*Sum 2007+...+2016*
 
-> 2007 + 2008 + 2009 + 2010 + 2011 + 2012 + 2013 + 2014 + 2015 + 2016 = A) 20115 B) 10205 C) 2125 D) 202007 E) 20075
+> 2007 + 2008 + 2009 + 2010 + 2011 + 2012 + 2013 + 2014 + 2015 + 2016 =
+> A) 20115 
+> B) 10205 
+> C) 2125 
+> D) 202007 
+> E) 20075
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q22|src_kangourou_2007_ecolier_marzo__Q22]]
@@ -934,7 +983,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 *Minimum cards for larger closed circuit *
 
-> Anna has a large number of square cards like the one next to her. Approaching four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
+> Anna has a large number of square cards like the one next to her. Placing four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q23|src_kangourou_2007_ecolier_marzo__Q23]]
@@ -982,7 +1031,7 @@ This appropriation is intended to cover expenditure relating to the implementati
 
 *Years of Fabio today (age of friends) *
 
-> Fabio, Luca and Mauro are turning 10 today. The sum of their ages today is 22 years; when Fabio will have the age that Luke has today that sum will be 28 years; when Fabio will have the age that Mauro has today that sum will be 37 years. How old is Fabio today? A) 4 B) 5 C) 6 D) 7 E) 8 8 white boxes 21 white boxes 40 white boxes Text_07.qxp 16-04-2007 12:02 Page 9
+> Fabio, Luca and Mauro have their birthday today. The sum of their ages today is 22 years; when Fabio will have the age that Luca has today that sum will be 28 years; when Fabio will have the age that Mauro has today that sum will be 37 years. How old is Fabio today? A) 4 B) 5 C) 6 D) 7 E) 8 8 white boxes 21 white boxes 40 white boxes Text_07.qxp 16-04-2007 12:02 Page 9
 > 
 > 1 Kangourou of Mathematics 2007 Category Écolier For fourth or fifth graders of primary school
 

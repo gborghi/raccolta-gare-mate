@@ -30,7 +30,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final product figure of the odd between 1 and 2012*
+*Final digit of the product of the odd numbers between 1 and 2012*
 
 > If all odd integers between $1$ and $2012$ are multiplied by each other, what number does the product end with?
 
@@ -58,9 +58,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many spheres for three non-aligned points and minimum radius*
+*How many spheres for three non-collinear points and minimum radius*
 
-> Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smaller be determined?
+> Assigned three non-collinear points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smallest be determined?
 
 **Answer:** infinite
 [[Quesiti/src_kangourou_2012_junior_finale#qj2|src_kangourou_2012_junior_finale__QJ2]]
@@ -93,7 +93,7 @@ level: kangourou
 
 ![[src_kangourou_2012_junior_finale__probj3.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of the dots on opposite faces is always $7$), as shown in the figure. It joins two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
+> Peter wants to line up a number of traditional dice (the sum of the dots on opposite faces is always $7$), as shown in the figure. He glues two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
 
 **Answer:** no
 [[Quesiti/src_kangourou_2012_junior_finale#qj3|src_kangourou_2012_junior_finale__QJ3]]
@@ -122,7 +122,7 @@ level: kangourou
 
 *How many ways to color 20 sheets with the sum rule*
 
-> Twenty cards are numbered with integers from $1$ to $20$. We want to colour each card of a single color, white or black, so that the following rule is observed: if two (different) cards of numbers $m$ and $n$ have the same color and $m + n < 21$, then the number card $m + n$ must also have that color. How many different ways can we assign colors?
+> Twenty tiles are numbered with integers from $1$ to $20$. We want to colour each tile of a single color, white or black, so that the following rule is observed: if two (different) cards of numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile numbered $m + n$ must also have that color. How many different ways can we assign colors?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2012_junior_finale#qj4|src_kangourou_2012_junior_finale__QJ4]]
@@ -151,13 +151,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Each polyhedron has two faces with the same number of beads*
+*Each polyhedron has two faces with the same number of edges*
 
 ![[src_kangourou_2012_junior_finale__probj5.png]]
 
-> It shows that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of vertices. Are there any polyhedra that don't have three faces with the same number of beads?
+> Prove that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of edges. Are there any polyhedra that don't have three faces with the same number of edges?
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2012_junior_finale#qj5|src_kangourou_2012_junior_finale__QJ5]]
 
 
@@ -182,9 +182,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-totals with multiple sums of n between n integers *
+*Subset with sum a multiple of n among n integers*
 
-> Demonstrate that, however positive integers $n$ ($n \geq 1$) are assigned, some of them can always be chosen so that their sum is a multiple of $n$.
+> Prove that, however $n$ ($n \geq 1$) positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
 
 **Answer:** dimostrazione
 [[Quesiti/src_kangourou_2012_junior_finale#qj6|src_kangourou_2012_junior_finale__QJ6]]

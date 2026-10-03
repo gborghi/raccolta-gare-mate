@@ -45,7 +45,7 @@ level: kangourou
 
 ![[src_kangourou_2023_junior__prob1.png]]
 
-> In the image on the left, the dial of a clock is outlined. In the one on the right, the dial is covered by a concentric opaque disc, of the same radius, which has two circular windows. If the opaque disk is rotated so that in one of the two windows the number 10 appears, what numbers can appear in the second window? A) 2 e 6 B) 3 e 7 C) 3 e 6 D) 1 e 9 E) 2 e 7
+> In the image on the left, the dial of a clock is outlined. In the one on the right, the dial is covered by a concentric opaque disc, of the same radius, which has two circular windows. If the opaque disk is rotated so that in one of the two windows the number 10 appears, what numbers can appear in the second window? A) 2 and 6 B) 3 and 7 C) 3 and 6 D) 1 and 9 E) 2 and 7
 
 **Answer:** A
 [[Quesiti/src_kangourou_2023_junior#q01|src_kangourou_2023_junior__Q01]]
@@ -79,7 +79,7 @@ level: kangourou
 
 *which day between 2023 days*
 
-> Today is Thursday. What day will it be in 2023 days? A) Tuesday. (b) Wednesday. (c) Thursday. D) Friday. E) Saturday.
+> Today is Thursday. What day will it be in 2023 days? A) Tuesday. B) Wednesday. C) Thursday. D) Friday. E) Saturday.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_junior#q02|src_kangourou_2023_junior__Q02]]
@@ -119,11 +119,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time-to-speed chart of the home-school journey*
+*Speed-time chart of the home-school journey*
 
 ![[src_kangourou_2023_junior__prob3.png]]
 
-> To go to school, Maria leaves home and runs to a metro station, gets off the train at the second station and walks to school. Which of the following can be the chart of the speed that Mary kept from home to school in relation to time? A)
+> To go to school, Maria leaves home and runs to a metro station, gets off the train at the second station and walks to school. Which of the following can be the chart of the speed that Maria kept from home to school in relation to time? A)
 > 	
 > B)
 > 	
@@ -171,7 +171,7 @@ level: kangourou
 
 *possible total number of bars*
 
-> A stationary straight line consists of vertical bars and horizontal bars; for every two vertical bars that are adjacent there are exactly 4 horizontal bars that connect them. Obviously, the stationary starts and ends with vertical bars. Which of the following can be the total number of bars? A) 95
+> A straight fence consists of vertical bars and horizontal bars; for every two vertical bars that are adjacent there are exactly 4 horizontal bars that connect them. Obviously, the fence starts and ends with vertical bars. Which of the following can be the total number of bars? A) 95
 > 	
 > B) 96
 > 	
@@ -283,16 +283,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n0 such that (n+1)! has a digit greater than n!*
+*Minimum n0 such that (n+1)! has one more digit than n!*
 
-> For every positive integer n, the factorial of n is defined as n! = n × (n – 1) × … × 2 × 1. What is the smallest integer n0 such that, for every n ≥ n0, the decimal expression of the number (n + 1)? It contains at least one digit more than n. ? A) 3
-> 	
-> B) 2
-> 	
-> C) 6
-> 	
-> D) 9
-> 	
+> For every positive integer n, the factorial of n is defined as 
+> n! = n × (n – 1) × … × 2 × 1. 
+> What is the smallest integer n0 such that, for every n ≥ n0, the decimal expression of the
+> integer (n + 1)! contains at least one more digit than that of n! ?
+> A) 3	
+	
+> B) 2	
+	
+> C) 6	
+	
+> D) 9	
+	
 > E) 10
 
 **Answer:** C
@@ -515,7 +519,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of figures of (4^7) ^9 × (5^2) ^64 *
+*sum of digits of (4^7) ^9 × (5^2) ^64 *
 
 > What is the sum of the digits of the number (47)9 × (52)64 ? A) 1
 > 	
@@ -525,7 +529,7 @@ That's what I'm talking about.
 > 	
 > D) 14
 > 	
-> E) 102 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 102 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_junior#q10|src_kangourou_2023_junior__Q10]]
@@ -703,7 +707,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*third fraction*
+*third piece*
 
 > A 95-meter-long rope is cut into three pieces so that the third is one and a half times the second and the second is one and a half times the first. How long is the third piece? A) 36
 > 	
@@ -752,7 +756,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*perimeter report*
+*perimeter ratio*
 
 ![[src_kangourou_2023_junior__prob15.png]]
 
@@ -797,9 +801,9 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*black feet with right foot*
+*black steps with the right foot*
 
-> One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. How many black steps did you put your right foot on? (A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
+> One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. On how many black steps did she put her right foot? A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_junior#q16|src_kangourou_2023_junior__Q16]]
@@ -838,15 +842,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*common divider of min and max*
+*common divisor of min and max*
 
-> Let's say a positive integer of two digits is less-potencies if any of its digits is a nk-type number with n whole and k whole greater than 1. For example, 53 is a powerless number, whereas 54 is not (because 4 = 22). Which of the following numbers is a divisor of both the smallest and the largest of the non-potential numbers? A) 2
+> We say that a two-digit positive integer is "power-free" if none
+> of its digits is a number of the type nk with n an integer and k an integer greater than 1. For
+> example 53 is a power-free number, while 54 is not (since 4 = 22). Which
+> of the following numbers is a divisor of both the smallest and the largest of the
+> power-free numbers?
+> A) 2	
+	
 > 	
-> B) 3
+> B) 3	
+	
 > 	
-> C) 5
+> C) 5	
+	
 > 	
-> D) 11
+> D) 11	
+	
 > 	
 > E)13
 
@@ -890,7 +903,7 @@ That's what I'm talking about.
 
 ![[src_kangourou_2023_junior__prob18.png]]
 
-> The figure shows a large square divided into 9 identical squares containing three circles. The side of the square is about 30 cm; the radii of the three circles are 4 cm (circle up to left), 3 cm (circle up to right), 5 cm (circle down to right). How many square centimetres is the area of the shaded part of the large square? A) 400 B) 500 C) 400 + 50π D) 500 – 25π E) 500 + 25π
+> The figure shows a large square divided into 9 identical squares containing three circles. The side of the square measures 30 cm; the radii of the three circles are 4 cm (top-left circle), 3 cm (top-right circle), 5 cm (bottom-right circle). How many square centimetres is the area of the shaded part of the large square? A) 400 B) 500 C) 400 + 50π D) 500 – 25π E) 500 + 25π
 
 **Answer:** D
 [[Quesiti/src_kangourou_2023_junior#q18|src_kangourou_2023_junior__Q18]]
@@ -928,7 +941,7 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer Min = arithmetic mean of five prime *
+*Integer Min = arithmetic mean of five primes *
 
 > What is the smallest positive integer that matches the arithmetic mean of five prime numbers? A) 2
 > 	
@@ -989,7 +1002,7 @@ That's what I'm talking about.
 
 ![[src_kangourou_2023_junior__prob20.png]]
 
-> The tower on the left in the figure consists of 90 blocks numbered from 1 (the first down) to 90 (the last up). Taking from the tower on the left the three upper blocks and keeping them numbered and ordered, they were placed at the base of a new tower, the construction of which continued with this criterion, i.e. taking from the top to groups of three the remaining blocks and placing them above those already stacked, until the tower on the left was exhausted and was reconstructed as on the right. In this second tower, how many blocks are there between the block numbered 39 and the block numbered 40, these exclusions? A) 4
+> The tower on the left in the figure consists of 90 blocks numbered from 1 (the first at the bottom) to 90 (the last at the top). Taking from the tower on the left the three upper blocks and keeping them numbered and ordered, they were placed at the base of a new tower, the construction of which continued with this criterion, i.e. taking from the top to groups of three the remaining blocks and placing them above those already stacked, until the tower on the left was exhausted and was reconstructed as on the right. In this second tower, how many blocks are there between the block numbered 39 and the block numbered 40, these excluded? A) 4
 > 	
 > B) 3
 > 	
@@ -997,7 +1010,7 @@ That's what I'm talking about.
 > 	
 > D) 1
 > 	
-> E) 0 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 0 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_junior#q20|src_kangourou_2023_junior__Q20]]
@@ -1035,15 +1048,22 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to:
+*term in position 2023*
 
-> A sequence of integers is constructed as follows: the first 4 are in the order 2, 0, 2, 3; from the fifth onwards, each term of the sequence is the smallest nonnegative integer other than the previous four. What's the number in place of the 2023 sequence? A) 0
+> A sequence of integers is constructed as follows: the first 4 are, in order,
+> 2, 0, 2, 3; from the fifth onward, each term of the sequence is the smallest non-
+> negative integer different from the previous four. What is the number in position 2023 of the sequence?
+> A) 0	
+	
 > 	
-> B) 1
+> B) 1	
+	
 > 	
-> C) 2
+> C) 2	
+	
 > 	
-> D) 3
+> D) 3	
+	
 > 	
 > E) 4
 
@@ -1089,7 +1109,7 @@ This appropriation is intended to cover expenditure relating to:
 
 ![[src_kangourou_2023_junior__prob22.png]]
 
-> The two semicircles in the figure have a radius of 1, are externally tangent and the extension of each diameter is tangent to the other. What 's the square of the length of the AB segment ? A) 16
+> The two semicircles in the figure have a radius of 1, are externally tangent and the extension of each diameter is tangent to the other. What is the square of the length of the AB segment ? A) 16
 > 	
 > B) 8 + 4√3 C) 12
 > 	
@@ -1182,7 +1202,7 @@ This appropriation is intended to cover expenditure relating to:
 \end{document}
 ```
 
-> Look at the figure. Seven nonnegative integers of a digit, all different from each other, must each be inserted into one of the circles in the figure so that the product of the numbers inserted into each of the three threads of aligned circles is the same as the variation of the threads. What number shall be inserted in place of the question mark? A) 2
+> Look at the figure. Seven nonnegative integers of a digit, all different from each other, must each be inserted into one of the circles in the figure so that the product of the numbers inserted into each of the three triples of aligned circles is the same as the triples vary. What number shall be inserted in place of the question mark? A) 2
 > 	
 > B) 3
 > 	
@@ -1294,7 +1314,7 @@ This appropriation is intended to cover expenditure relating to:
 
 *duration of the journey*
 
-> When a smartphone's battery is fully charged, it allows you to talk on the phone for 20 hours or surf the Internet for 32 hours; if the smartphone is not used, the battery runs out in 80 hours. Charge consumption is uniform over time. During a trip, I talked for a third of the time, I browsed the internet for another third of the time, and I didn't use my smartphone for the remaining third of the time. The battery was half-charged at the start, and the charge ran out just after the trip. How many hours did the trip take? A) 10
+> When a smartphone's battery is fully charged, it allows you to talk on the phone for 20 hours or surf the Internet for 32 hours; if the smartphone is not used, the battery runs out in 80 hours. Charge consumption is uniform over time. During a trip, I talked for a third of the time, I browsed the internet for another third of the time, and I didn't use my smartphone for the remaining third of the time. The battery was half-charged at the start, and the charge ran out exactly at the end of the trip. How many hours did the trip take? A) 10
 > 	
 > B) 12
 > 	
@@ -1340,11 +1360,11 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which development is not possible*
+*which net is not possible*
 
 ![[src_kangourou_2023_junior__prob26.png]]
 
-> A closed line has been drawn on the outer surface of a rectangular prism. Which of the above is certainly not the plane development of the prism? A)
+> A closed line has been drawn on the outer surface of a rectangular prism. Which of those listed is certainly not the plane net of the prism? A)
 > 	
 > B)
 > 	
@@ -1390,16 +1410,19 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 'equi' n - sum of digits = number of 3 digits equal to *
+*'Fair' numbers n - sum of digits = a 3-digit number with equal digits*
 
-> A positive integer n of three digits is called equo if, subtracting from n the sum of its digits, you get a number of three digits equal to each other. How many numbers are even? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 20
-> 	
+> A positive integer n with three digits is called "fair" if, by subtracting from n the
+> sum of its digits, one obtains a three-digit number with all digits equal. How many
+> fair numbers are there?
+> A) 1	
+	
+> B) 2	
+	
+> C) 3	
+	
+> D) 20	
+	
 > E) 30
 
 **Answer:** D
@@ -1439,7 +1462,7 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pen to be extracted*
+*pens to be extracted*
 
 > Three (non-transparent) boxes contain 10 red pens, 10 green pens, 5 red pens and 5 green pens. There is a label on each box which should indicate its contents, but no label is applied to the box to which it should refer. How many pens do you need to extract to be able to put the correct label on each box? A) 2
 > 	
@@ -1546,9 +1569,9 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignments 1.9. with each successive mult of 3 *
+*Alignments 1..9 with each successive triple multiple of 3 *
 
-> How many ways can integers from 1 to 9, 1 and 9 be aligned so that for each set of consecutive numbers in the alignment, the sum of the three numbers in the set is a multiple of 3? A) 64 B) 63
+> How many ways can integers from 1 to 9, 1 and 9 included, be aligned so that for each triple of numbers that are consecutive in the alignment, the sum of the three numbers in the triple is a multiple of 3? A) 64 B) 63
 > 	
 > C) 29 D) 6 × 5 × 4 × 3 × 2
 > 	

@@ -98,7 +98,7 @@ level: kangourou
 
 How many cyclists have at least lied if sum and 36
 
-> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell them their order of arrival in that race, of course with a number between 1 and 10. The reporter sums up the answers you give him and gets 36. He concludes that some certainly lied - how many, at least?
+> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell them their order of arrival in that race, of course with a number between 1 and 10. The reporter sums up the answers given to him and gets 36. He concludes that some certainly lied - how many, at least?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2022_cadet_finale#qc2|src_kangourou_2022_cadet_finale__QC2]]
@@ -127,7 +127,7 @@ How many cyclists have at least lied if sum and 36
 
 *Number of equilateral triangles joining vertices of a cube*
 
-> Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
+> Of the triangles obtained by joining three vertices of the same cube, how many are equilateral?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2022_cadet_finale#qc3|src_kangourou_2022_cadet_finale__QC3]]
@@ -153,9 +153,9 @@ How many cyclists have at least lied if sum and 36
 <div class="qlang-split" data-lang="en"></div>
 
 
-Each term of the sequence 1007,10017,... Divisible by 53*
+Each term of the sequence 1007,10017,... divisible by 53*
 
-> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$ and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (so $1007$, $10017$, $100117$, $1001117$, $\ldots$). It shows that each whole of the sequence is divisible by $53$.
+> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$ and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (so $1007$, $10017$, $100117$, $1001117$, $\ldots$). Prove that every integer of the sequence is divisible by $53$.
 
 [[Quesiti/src_kangourou_2022_cadet_finale#qc4|src_kangourou_2022_cadet_finale__QC4]]
 

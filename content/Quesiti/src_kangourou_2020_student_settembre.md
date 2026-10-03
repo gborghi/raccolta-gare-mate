@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of minimum n with 7n of 2021 digits*
+*Units digit of the minimum n such that 7n has 2021 digits*
 
-> Be $n$ the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the unit number of $n$?
+> Let $n$ be the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the units digit of $n$?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2020_student_settembre#q01|src_kangourou_2020_student_settembre__Q01]]
@@ -71,7 +71,7 @@ level: kangourou
 > 
 > (a) there is at least one special number for each method of filling the grid;
 > 
-> (b) there is at least one special number for any method of filling the grid;
+> (b) there is at least one special number for some method of filling the grid;
 > 
 > (c) for each method of filling the grid there is at most a special number.
 
@@ -100,9 +100,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integrated pairs (x,y) with x^2+7y=xy*
+*Integer pairs (x,y) with x^2+7y=xy*
 
-> How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
+> How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2020_student_settembre#q03|src_kangourou_2020_student_settembre__Q03]]
@@ -133,7 +133,7 @@ Comparison between 129^29 and 4095^17
 
 > Which of the two numbers $129^{29}$ and $4095^{17}$ is greater?
 
-**Answer:** il secondo
+**Answer:** the second
 [[Quesiti/src_kangourou_2020_student_settembre#q04|src_kangourou_2020_student_settembre__Q04]]
 
 
@@ -195,15 +195,15 @@ Comparison between 129^29 and 4095^17
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Limited sums of succession cubes converging to 0*
+*Boundedness of sums of cubes of a sequence converging to 0*
 
-> **Premise: ** a sequence of real numbers $\{c_i\}_{i \in \mathbb{N}}$ is said to be convergent to $0$ if, for each real number $\varepsilon > 0$, there exists an index $i_0$ such that, for each $i > i_0$, $|c_i| < \varepsilon$.
+> **Preliminary note:** a sequence of real numbers $\{c_i\}_{i \in \mathbb{N}}$ is said to converge to $0$ if it happens that, for every real number $\varepsilon > 0$, there exists an index $i_0$ such that, for every $i > i_0$, one has $|c_i| < \varepsilon$.
 > 
-> Decide whether the following statement is true or false by reasoning the answer.
+> Decide whether the following statement is true or false, justifying the answer.
 > 
-> 'Whether $\{c_i\}_{i \in \mathbb{N}}$ is a sequence of real numbers converging to $0$ such that $|c_1 + c_2 + \cdots + c_n| < 2$ is obtained for each $n \in \mathbb{N}$. Then there is $M > 0$ such that you have $|c_1^3 + c_2^3 + \cdots + c_n^3| < M$ for every $n \in \mathbb{N}$".
+> "Let $\{c_i\}_{i \in \mathbb{N}}$ be a sequence of real numbers converging to $0$ such that one has $|c_1 + c_2 + \cdots + c_n| < 2$ for every $n \in \mathbb{N}$. Then there exists $M > 0$ such that one has $|c_1^3 + c_2^3 + \cdots + c_n^3| < M$ for every $n \in \mathbb{N}$."
 > 
-> (It may be useful to know that if a positive $a$ number is set, there is a $M = M(a)$ number such that for each $n \in \mathbb{N}$ $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ $a > 1$ $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ exists.)
+> (It may be useful to know that, once a positive number $a$ is fixed, there exists a number $M = M(a)$ such that one has $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ for every $n \in \mathbb{N}$ if and only if $a > 1$.)
 
 **Answer:** FALSA
 [[Quesiti/src_kangourou_2020_student_settembre#q06|src_kangourou_2020_student_settembre__Q06]]

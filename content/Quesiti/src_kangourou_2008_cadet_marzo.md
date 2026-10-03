@@ -131,7 +131,7 @@ level: kangourou
 
 *Number of evaluating officers*
 
-> Twelve questions are awarded in a competition: the papers are distributed among the members of the judging panel so that all papers relating to a question are evaluated by two commissioners and that each commissioner evaluates the papers of three questions. How many members of the committee are there? A) 6 B) 8 C) 12 D) 18 E) 24
+> Twelve questions are assigned in a competition: the papers are distributed among the members of the judging panel so that all papers relating to a question are evaluated by two officers and that each commissioner evaluates the papers of three questions. How many members of the committee are there? A) 6 B) 8 C) 12 D) 18 E) 24
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q03|src_kangourou_2008_cadet_marzo__Q03]]
@@ -310,7 +310,7 @@ level: kangourou
 
 *Maximum number of identical decks (MCD) *
 
-> A flower garden has 24 white roses, 42 red roses, and 36 yellow roses. He wants to make a lot of identical decks, using all the flowers. How many decks can he make up at most? A) 4 B) 6 C) 8 D) 10 E) 12
+> A florist has 24 white roses, 42 red roses, and 36 yellow roses. She wants to make many identical bouquets, using all the flowers. How many bouquets can she make at most? A) 4 B) 6 C) 8 D) 10 E) 12
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q06|src_kangourou_2008_cadet_marzo__Q06]]
@@ -346,11 +346,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cut-top cube mirrors*
+*Edges of the cube with cut-off vertices*
 
 ![[src_kangourou_2008_cadet_marzo__prob7.png]]
 
-> All of its vertices were cut into a cube, as shown in the figure. How many branches does the new solid thus obtained possess? A) 26 B) 30 C) 36 D) 40 E) 48
+> All the vertices of a cube have been sawn off, as
+> shown in the figure. How many edges does the new
+> solid obtained in this way have?
+> A) 26
+> B) 30
+> C) 36
+> D) 40
+> E) 48
 
 **Answer:** C
 [[Quesiti/src_kangourou_2008_cadet_marzo#q07|src_kangourou_2008_cadet_marzo__Q07]]
@@ -384,7 +391,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray angle between three competing lines*
+*Gray angle between three concurrent lines*
 
 ![[src_kangourou_2008_cadet_marzo__prob8.png]]
 
@@ -455,7 +462,7 @@ level: kangourou
 
 Number of friends by 15 handshakes
 
-> Some friends greet each other, each shaking hands with the others. If the handshakes were 15, how many friends are there? A) 15 B) 6 C) 5 D) 7 E) 14 Questions from N. 11 al N. 20 is worth 4 points each.
+> Some friends greet each other, each shaking hands with the others. If the handshakes were 15, how many friends are there? A) 15 B) 6 C) 5 D) 7 E) 14 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q10|src_kangourou_2008_cadet_marzo__Q10]]
@@ -571,7 +578,7 @@ Number of friends by 15 handshakes
 
 *Minimum runs to visit four islands*
 
-> We want to visit four islands A, B, C, D starting from the mainland, using the ferries that connect them. C is connected in the two verses to the mainland; A and C are connected in the two verses as well as A and D. A and B can only be reached from the mainland as A from B. What is the minimum number of races sufficient to visit all the islands (with departure and arrival on the mainland)? A) 6 B) 5 C) 8 D) 4 E) 7
+> We want to visit four islands A, B, C, D starting from the mainland, using the ferries that connect them. C is connected in both directions to the mainland; A and C are connected in both directions as well as A and D. A and B can only be reached from the mainland as A from B. What is the minimum number of trips sufficient to visit all the islands (with departure and arrival on the mainland)? A) 6 B) 5 C) 8 D) 4 E) 7
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_cadet_marzo#q13|src_kangourou_2008_cadet_marzo__Q13]]
@@ -642,7 +649,7 @@ Number of friends by 15 handshakes
 
 ![[src_kangourou_2008_cadet_marzo__prob15.png]]
 
-> A face of a cube is cut along its two diagonals. Which of the following is not a development plan of such a cube? A) 1 e 3 B) 1 e 5 C) 3 e 4 D) 3 e 5         E) 2 e 4
+> A face of a cube is cut along its two diagonals. Which of the following are not nets of such a cube? A) 1 and 3 B) 1 and 5 C) 3 and 4 D) 3 and 5         E) 2 and 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_cadet_marzo#q15|src_kangourou_2008_cadet_marzo__Q15]]
@@ -702,7 +709,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares dividing the square into two equal areas*
+*Broken lines that divide the square into two equal areas*
 
 ![[src_kangourou_2008_cadet_marzo__prob16.png]]
 
@@ -718,9 +725,26 @@ Number of friends by 15 handshakes
 \end{document}
 ```
 
-> On this grid, five points are highlighted. Of all the fractions connecting the 5 points formed by 4 consecutive segments, how many are those that divide the square into two regions of equal area? A) 0 B) 1 C) 2 D) 3 E) 4 1 2 3 4 5 Text_08.qxp 9-03-2008 14:56 Page 18
+> On this grid, 5 points are highlighted. Among
+> all the broken lines joining the 5 points made up of 4
+> consecutive segments, how many are those that divide the square into two regions of equal area?  
+> A) 0 
+> B) 1 
+> C) 2 
+> D) 3 
+> E) 4
+> 1
+> 2
+> 3
+> 4
+> 5
+> Testi_08.qxp  9-03-2008  14:56  Pagina 18
 > 
-> I'm going to pay. I'm going to pay. 19 19 Kang 2008 Kang
+> Pag. 
+> Pag. 19
+> 19
+> Kang 2008
+> Kang 2008
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_cadet_marzo#q16|src_kangourou_2008_cadet_marzo__Q16]]
@@ -832,7 +856,7 @@ Number of friends by 15 handshakes
 
 *Sum of cards from the first essay (parity) *
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards from the box: the first takes three, the second two from the remaining ones; the last two remain locked in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards from the box: the first takes three, the second two from the remaining ones; the last two remain locked in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man drew? A) 10 B) 12 C) 6 D) 9 E) 15
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q18|src_kangourou_2008_cadet_marzo__Q18]]
@@ -907,7 +931,7 @@ Number of friends by 15 handshakes
 
 *Minimum points on a straight line to achieve 9 distances*
 
-> There are points on a straight line. Some of the distances between them are: 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm, 7 cm, 8 cm, 9 cm. What is the minimum number of points that allows this condition to be achieved? A) 4 B) 5 C) 6 D) 7 E) 8 Questions from N. 21 al N. 30 is worth 5 points each.
+> There are points on a straight line. Some of the distances between them are: 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm, 7 cm, 8 cm, 9 cm. What is the minimum number of points that allows this condition to be achieved? A) 4 B) 5 C) 6 D) 7 E) 8 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q20|src_kangourou_2008_cadet_marzo__Q20]]
@@ -1000,7 +1024,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of girls (45%<p/q<50%)*
+*Minimum number of girls (45%<p/q<50%)*
 
 > In a company, girls make up more than 45% but less than 50%. What's the minimum number of girls you have to think are part of that company? A) 3 B) 4 C) 5 D) 6 E) 7
 
@@ -1040,7 +1064,7 @@ Minimum number of girls (45%<p/q<50%)*
 
 *What is the answer on the seventh day*
 
-> A guy always tells the truth on Thursday and Friday, always lies on Tuesday, while on the other days of the week he lies or tells the truth without a rule. He was asked his name for seven days in a row and in the first six he provided the following answers in order: Luke, Mario, Luke, Mario, Piero, Mario. What did you answer on the seventh day? A) Luke B) Mario C) Piero D) Rita E) There is not enough data to decide.
+> A guy always tells the truth on Thursday and Friday, always lies on Tuesday, while on the other days of the week he lies or tells the truth without a rule. He was asked his name for seven days in a row and in the first six he provided the following answers in order: Luca, Mario, Luca, Mario, Piero, Mario. What did he answer on the seventh day? A) Luca B) Mario C) Piero D) Rita E) There is not enough data to decide.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2008_cadet_marzo#q23|src_kangourou_2008_cadet_marzo__Q23]]
@@ -1074,9 +1098,16 @@ Minimum number of girls (45%<p/q<50%)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Single coloured crabs (inclusion and exclusion) *
+*Kangaroos of a single colour (inclusion-exclusion)*
 
-> Matilde drew 36 kangaroos using three distinct colors. The white was used for 25 kangaroos, the red for 28 and the black for 20. Only five kangaroos were used in all three colors. How many of the designed kangaroos are of the same color? A) No one. B) 4 C) 12 D) 31 E) It is impossible to establish with certainty.
+> Matilde drew 36 kangaroos using three distinct colours. White was used for 25 kangaroos, red for 28 and black for 20. Only
+> for 5 kangaroos were all three colours used. How many of the
+> drawn kangaroos are of a single colour?
+> A) None. 
+> B) 4    
+> C) 12  
+> D) 31 
+> E) It is impossible to determine it with certainty.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q24|src_kangourou_2008_cadet_marzo__Q24]]
@@ -1109,9 +1140,15 @@ Minimum number of girls (45%<p/q<50%)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many special first-rate tubes *
+*How many special triples of primes*
 
-> We call special a set of positive primes if their product is equal to five times their sum. How many special suits are there? A) 0 B) 1 C) 2 D) 4 E) 6
+> We call a triple of positive prime numbers "special" if their
+> product is equal to five times their sum. How many special triples exist?
+> A) 0
+> B) 1
+> C) 2
+> D) 4
+> E) 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q25|src_kangourou_2008_cadet_marzo__Q25]]
@@ -1154,11 +1191,25 @@ Minimum number of girls (45%<p/q<50%)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Comparison of sets A,B (product figures)
+*Comparison of sets A,B (product of digits)*
 
-> A is a sum of five digits such that the product of their digits is 25 and B is a sum of five digits such that the product of their digits is 15. Which of the two sets contains the most elements? What is the relationship between the number of elements in the largest set and the number of elements in the other? A) Total A; ratio 5/3. (B) set A; ratio 2. (c) whole B; ratio 5/3. (D) whole B; report 2. E) A and B have the same number of elements; ratio 1. This is a list of the countries of the European Union.
+> Let A be the set of 5-digit numbers such that the product of
+> their digits is 25 and B the set of 5-digit numbers such that the product
+> of their digits is 15. Which of the two sets contains more elements? What
+> is the ratio between the number of elements of the larger set and the
+> number of elements of the other?
+> A) the set A; ratio 5/3. 
+> B) the set A; ratio 2.
+> C) the set B; ratio 5/3.
+> D) the set B; ratio 2.
+> E) A and B have the same number of elements; ratio 1.
+> Testi_08.qxp  9-03-2008  14:56  Page 20
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 2008 Kang
+> Pag. 
+> Pag. 21
+> 21
+> Kang 2008
+> Kang 2008
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_cadet_marzo#q26|src_kangourou_2008_cadet_marzo__Q26]]
@@ -1198,7 +1249,7 @@ Comparison of sets A,B (product figures)
 
 ![[src_kangourou_2008_cadet_marzo__prob27.png]]
 
-> Four identical dice are drawn as shown in the figure. The faces of each dice are numbered from 1 to 6, but the dice are not standard, i.e. the sum of the points of two opposite faces may not be worth 7. What is the sum total of the dots that appear on the six faces, each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23
+> Four identical dice are placed side by side as shown in the figure. The faces of each die are numbered from 1 to 6, but the dice are not standard, i.e. the sum of the points of two opposite faces may not be worth 7. What is the sum total of the dots that appear on the six faces, each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23
 
 **Answer:** B
 [[Quesiti/src_kangourou_2008_cadet_marzo#q27|src_kangourou_2008_cadet_marzo__Q27]]
@@ -1233,7 +1284,7 @@ Comparison of sets A,B (product figures)
 
 *sum of difference in digits of 2-digit numbers*
 
-> For every two-digit number, we subtract the unit number from the decimal number. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
+> For every two-digit number, we subtract the units digit from the tens digit. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
 
 **Answer:** D
 [[Quesiti/src_kangourou_2008_cadet_marzo#q28|src_kangourou_2008_cadet_marzo__Q28]]
@@ -1268,7 +1319,7 @@ Comparison of sets A,B (product figures)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rational squares are perfect (MCD,mcm) *
+*How many rational numbers are perfect squares (GCD,lcm)*
 
 > The greatest common divisor of two positive integers m and n is 12 and their least common multiple is a perfect square. So how many of the five rational numbers are perfect squares? A) 1 B) 2 C) 3 D) 4 E) No decision can be made without further information.
 
@@ -1326,7 +1377,7 @@ Comparison of sets A,B (product figures)
 
 *False claim on M (area 1) *
 
-> We denote with M the product of the perimeter of a triangle for the sum of the three heights of the same triangle. Which of the following is false if the area of the triangle is 1? A) M can be greater than 1000. B) M is always greater than 6. C) M can be equal to 18. D) If the triangle is rectangular, then M>16. E) M may be less than 12. m . I am not going to say anything about this, but I am going to tell you something.
+> We denote with M the product of the perimeter of a triangle for the sum of the three heights of the same triangle. Which of the following is false if the area of the triangle is 1? A) M can be greater than 1000. B) M is always greater than 6. C) M can be equal to 18. D) If the triangle is right-angled, then M>16. E) M may be less than 12. m . n m 4 n 4 m 3 n 3
 > 
 >  
 >  

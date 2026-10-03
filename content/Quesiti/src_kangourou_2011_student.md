@@ -71,7 +71,7 @@ level: kangourou
 
 *Arrival order of three pilots given the overtakes*
 
-> Let's say we write in decreasing order all positive integers of 4 significant digits whose sum of digits is 4. What position does the 2011 issue occupy on this list? A) The sixth B) The seventh C) The eighth D) The ninth E) The tenth
+> Let's say we write in decreasing order all positive integers of 4 significant digits whose sum of digits is 4. What position does the number 2011 occupy on this list? A) The sixth B) The seventh C) The eighth D) The ninth E) The tenth
 
 [[Quesiti/src_kangourou_2011_student#q02|src_kangourou_2011_student__Q02]]
 
@@ -141,7 +141,12 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 ![[src_kangourou_2011_student__prob4.png]]
 
-> During a road trip by car on a rough road, Michela drew the sketch you see in the picture: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, the streets of Arccia, Righello and Chiodo are all straight. Fourth Avenue is Curva Street. Which one of the four friends lives on Curva Street? A) Angela B) White C) Clear D) Donated E) Can not be deduced from the sketch available
+> During a car trip on a bumpy road, Michela drew the sketch you see in the figure: it shows the houses of her four friends, the streets where they live and the intersections between these streets. In reality, however, via Freccia, via Righello and via Chiodo are all straight streets. The fourth street is via Curva. Which of the four friends lives on via Curva?
+> A) Angela
+> B) Bianca
+> C) Chiara
+> D) Donata             
+> E) It cannot be deduced from the sketch available
 
 [[Quesiti/src_kangourou_2011_student#q04|src_kangourou_2011_student__Q04]]
 
@@ -240,11 +245,11 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a bearing with hexagon, squares, triangles*
+*Perimeter of a tessellation with hexagon, squares, triangles*
 
 ![[src_kangourou_2011_student__prob6.png]]
 
-> The region in the figure can be broken down, as indicated, into a regular hexagon on side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
+> The region in the figure can be broken down, as indicated, into a regular hexagon of side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
 
 [[Quesiti/src_kangourou_2011_student#q06|src_kangourou_2011_student__Q06]]
 
@@ -274,11 +279,11 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form of the oblique cut of a rolling cylinder*
+*Form of the oblique cut of a unrolled cylinder*
 
 ![[src_kangourou_2011_student__prob7.png]]
 
-> A rectangular sheet of paper is wrapped around a cylinder so as to cover it without overlap with itself; if the cylinder is cut with a passing plane for the points A and B in the figure, and the bottom of the sheet is then stretched on a plane, which of the following figures can be the image?
+> A rectangular sheet of paper is wrapped around a cylinder so as to cover it without overlap with itself; if the cylinder is cut with a plane passing through points A and B in the figure, and the bottom of the sheet is then stretched on a plane, which of the following figures can be the image?
 
 [[Quesiti/src_kangourou_2011_student#q07|src_kangourou_2011_student__Q07]]
 
@@ -315,7 +320,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 ![[src_kangourou_2011_student__prob8.png]]
 
-> What is the area of the ABCD quadrilateral in the figure, if AB is as long as BC, BE is long as 5 and the angles ABC, ADC and BED are straight? A) 20 B) 22,5 C) 25 D) 27,5 E) 30
+> What is the area of the ABCD quadrilateral in the figure, if AB is as long as BC, BE is as long as 5 and the angles ABC, ADC and BED are right angles? A) 20 B) 22,5 C) 25 D) 27,5 E) 30
 
 [[Quesiti/src_kangourou_2011_student#q08|src_kangourou_2011_student__Q08]]
 
@@ -347,9 +352,16 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Various numbers from 1 to 2011 without multiples of 3*
+*Odd numbers from 1 to 2011 without the multiples of 3*
 
-> Andrea wrote all odd numbers from 1 to 2011 on a board and then Roberto deleted all but the multiples of 3. How many numbers are left written on the board? A) 335 B) 336 C) 671 D) 1005 E) 1006
+> Andrea wrote on a blackboard all the odd numbers from 1 to 2011 and then
+> Roberto erased all and only the multiples of 3. How many numbers remained
+> written on the blackboard?
+> A) 335
+> B) 336
+> C) 671
+> D) 1005 
+> E) 1006
 
 [[Quesiti/src_kangourou_2011_student#q09|src_kangourou_2011_student__Q09]]
 
@@ -436,11 +448,41 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide a rectangle into three similar rectangles*
+*Dividing a rectangle into three similar rectangles*
 
-> To decide who will dive first in an icy lake, Massimo and Ugo want to throw dice and rely on the result of the throws according to the following rule: if they don't come out 6 will dive Massimo, if there is only one 6 will dive Ugo while if they come out more 6 will both give up bathing. How many dice do they have to throw if they want the risk of diving first to be evenly distributed between them? A) 3 B) 5 C) 6 D) 9 E) It is not possible that the risk is the same √2 √3 √2 B A) B) C) D) E) C D B A 5 E
+> To decide who will dive first into a frozen lake, Massimo and Ugo
+> want to throw some dice and base the outcome on the results of the throws according to the following
+> rule: if no 6 comes up, Massimo will dive; if there is only one 6, Ugo will dive,
+> while if more 6s come up they will both give up taking a swim. How many dice
+> must they throw if they want the risk of diving first to be equally shared between the two of them?
+> A) 3 
+> B) 5
+> C)  6
+> D)  9          
+> E) It is not possible for the risk to be the same   
+> √2
+> √3
+> √2
+> B
+> A
+> A)
+> B)
+> C)
+> D)
+> E)
+> C
+> D
+> B
+> A
+> 5
+> E
+> Testi_11Mat.qxp  19-05-2011  21:27  Page 28
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 201 Kang 2011
+> Pag. 
+> Pag. 29
+> 29
+> Kang 201
+> Kang 2011
 
 [[Quesiti/src_kangourou_2011_student#q11|src_kangourou_2011_student__Q11]]
 
@@ -509,7 +551,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of families travelling to a given composition of siblings*
+*Number of families on a trip given composition of siblings*
 
 > Forty-eight boys are taking part in a ski trip. Some of them are together with brothers (or sisters): precisely 6 participate with exactly 1 brother, 9 with exactly 2 and 4 with exactly 3 brothers. All the others have no brothers (or sisters) taking part in the trip. How many families have children taking part in the trip? A) 19 B) 25 C) 31 D) 36 E) 48
 
@@ -556,7 +598,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 ![[src_kangourou_2011_student__prob14.png]]
 
-> How many of the following functions y = x2 ; y = −x2 ; y = ; y = − ; y = ; y = − ; y = − ; y = ; y = − have the graph included in the figure? A) 0 B) 2 C) 4 D) 6 E) 8
+> How many of the following functions y = x2 ; y = −x2 ; y = 
+> ; 
+> y = −
+> ; y = 
+> ; y = −
+> ; 
+> y = 
+> ; y = −
+> have their
+> graph included in the figure?
+> A) 0
+> B) 2
+> C) 4
+> D) 6
+> E) 8
 
 [[Quesiti/src_kangourou_2011_student#q14|src_kangourou_2011_student__Q14]]
 
@@ -622,13 +678,50 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle between floor and edge, clean area*
+*Angle between windshield wiper and edge, clean area*
 
 ![[src_kangourou_2011_student__prob15.png]]
 
-> The rear windscreen of a car is constructed so that the windscreen brush w and the r-link arm are of equal length and are rigidly connected to form an angle measuring α radiants . The windshield rotates on the C-side of the arm and cleans the surface as shown in the figure. How much radiant does it measure the angle β formed by the right edge of the cleaned surface and the tangent to its upper curved side at the point of contact between the curved side and the right edge? (a) (b) (c) (d) (c) (d) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e)
+> The rear windshield wiper of a car is
+> constructed so that the wiper blade w and
+> the connecting arm r have equal length and are rigidly connected forming
+> an angle measuring α radians . The windshield wiper rotates on the end C of the arm and cleans the
+> surface as illustrated in the figure. What
+> is the measure in radians of the angle β formed by the right edge of the cleaned surface and by the tangent to its upper curved side at the point of contact between the curved side and the right edge?
+> A) 
+> B) π −
+> C) 
+> − α
+> D) 
+> + α
+> E) π + α
+> 2
+> π
+> 2
+> 3π
+> 2
+> α
+> 2
+> 3π-α
+> 2
+> √|x|
+> √|x|
+> √-x
+> √-x
+> √x
+> √x
+> α
+> β
+> C
+> w
+> r
+> Testi_11Mat.qxp  19-05-2011  21:27  Pagina 29
 > 
-> I'm going to pay. I'm going to pay. 30 30 Kang 201 Kang 2011
+> Pag. 
+> Pag. 30
+> 30
+> Kang 201
+> Kang 2011
 
 [[Quesiti/src_kangourou_2011_student#q15|src_kangourou_2011_student__Q15]]
 
@@ -707,11 +800,11 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any statement on the parable may be false*
+*Any statement on the parabola may be false*
 
 ![[src_kangourou_2011_student__prob17.png]]
 
-> In the plane with the usual orthogonal cartesian reference system Oxy, the point A(1, -10 was marked on the equation parabola y = ax2 + bx + c; the axes and much of the graph of the parabola were then deleted, and what remains is seen in the figure. Which of the following claims may be false? A) a > 0 B) b < 0 C) a+b+c < 0 D) b2 > 4ac E) c < 0
+> In the plane with the usual orthogonal cartesian reference system Oxy, the point A(1, -10) was marked on the equation parabola y = ax2 + bx + c; the axes and much of the graph of the parabola were then deleted, and what remains is seen in the figure. Which of the following claims may be false? A) a > 0 B) b < 0 C) a+b+c < 0 D) b2 > 4ac E) c < 0
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_student#q17|src_kangourou_2011_student__Q17]]
@@ -745,9 +838,16 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum whole value of the cryptanalytic expression*
+*Minimum integer value of the cryptarithmetic expression*
 
-> In the expression, each letter represents a number different from zero; equal letters represent equal numbers and different letters represent different numbers. What is the smallest integer value that this expression can assume? (A) 1 B) 2 C) 3 D) 5 E) 7
+> In the expression
+> each letter represents a digit other than zero; equal letters represent equal digits and
+> different letters represent different digits. What is the smallest integer value that this expression can take? ("•" indicates the product.)
+> A) 1
+> B) 2
+> C)3
+> D) 5
+> E) 7
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_student#q18|src_kangourou_2011_student__Q18]]
@@ -780,9 +880,9 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of balls with divisibility by 6.7.42*
+*Minimum number of balls with divisibility by 6, 7, 42*
 
-> Each ball in a lottery day has a positive integer. On exactly 30 balls, there's a number divisible by 6, on exactly 20 a number divisible by 7 and on exactly 10 a number divisible by 42. How many balls should there be in the urna at least? A) 30 B) 40 C) 53 D) 54 E) 60
+> Each ball in a lottery urn has a positive integer. On exactly 30 balls, there's a number divisible by 6, on exactly 20 a number divisible by 7 and on exactly 10 a number divisible by 42. How many balls should there be in the urn at least? A) 30 B) 40 C) 53 D) 54 E) 60
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_student#q19|src_kangourou_2011_student__Q19]]
@@ -904,7 +1004,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 *sum of n<100 with n2-81 multiple of 100*
 
-> What is the sum of all positive integers n less than 100 such that n2 - 81 is a multiple of 100? (0 must be considered as a multiple of 100) A) 200 B) 100 C) 90 D) 81 E) 50
+> What is the sum of all positive integers n less than 100 such that n^2 - 81 is a multiple of 100? (0 must be considered as a multiple of 100) A) 200 B) 100 C) 90 D) 81 E) 50
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_student#q21|src_kangourou_2011_student__Q21]]
@@ -940,7 +1040,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 *How many arithmetic progressions contain both *
 
-> Consider the two arithmetic progressions 5, 20, 35, and 35, 61, 87, ... How many different arithmetic progressions of positive integers do both contain? A) 0 B) 3 C) 5 D) 26 E) Infinite
+> Consider the two arithmetic progressions 5, 20, 35, ... and 35, 61, 87, ... How many different arithmetic progressions of positive integers do both contain? A) 0 B) 3 C) 5 D) 26 E) Infinite
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_student#q22|src_kangourou_2011_student__Q22]]
@@ -1212,9 +1312,15 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of divisors of a for b for c*
+*Minimum number of divisors of a times b times c*
 
-> The positive integers a, b, and c are such that a2 = 2b3 = 3c5. What is the minimum number of possible divisors of the number a ? b . c , including 1 and a . b . What about you? A) 30 B) 49 C) 60 D) 77 E) 1596
+> The positive integers a, b and c are such that a2 = 2b3 = 3c5 . What is the minimum possible number of divisors of the number a . b . c , counting also 1 and a . b . c
+> itself?
+> A) 30
+> B) 49
+> C) 60
+> D) 77
+> E) 1596
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_student#q28|src_kangourou_2011_student__Q28]]
@@ -1244,7 +1350,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 *Minimum allowable value for n in the 4x5 grid*
 
-> In each cell of a 4x5 grid a positive integer has been inserted. The numbers entered are two to two different from each other. Each pair of adjacent numbers (i.e. in cells having a common side) has a common divisor greater than
+> In each cell of a 4x5 grid a positive integer has been inserted. The numbers entered are two to two different from each other. Each pair of adjacent numbers (i.e. in cells having a common side) has a common divisor greater than n
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_student#q29|src_kangourou_2011_student__Q29]]

@@ -42,7 +42,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which closed cord cannot be set to 8*
+*Which closed string cannot be arranged as an 8*
 
 ![[src_kangourou_2024_cadet__prob1.png]]
 
@@ -89,11 +89,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What percentage and greater is the area of the second figure*
+*By what percentage is the area of the second figure greater*
 
 ![[src_kangourou_2024_cadet__prob2.png]]
 
-> The first figure represents a rope; in the second figure the two sides of the rope are the hypotenuses of two rectangular triangles whose minor catheters are aligned. What percentage of the total area of the second figure is greater than that of the first? A) 20% B) 25% C) 30% D) 40% E) 50%
+> The first figure represents a rhombus; in the second figure the 
+> two sides of the rhombus are the hypotenuses of two right triangles whose 
+> shorter legs are aligned. By what percentage is the total area of the second figure greater than that of the first?
+> A) 20%  
+> B) 25%  
+> C) 30%  
+> D) 40%  
+> E) 50%
 
 **Answer:** E
 [[Quesiti/src_kangourou_2024_cadet#q02|src_kangourou_2024_cadet__Q02]]
@@ -132,9 +139,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of 4-digit numbers with three tokens 1.5,11*
+*Quantity of 4-digit numbers with three tokens 1, 5, 11*
 
-> Alice has the three tokens you see in the figure, each of which represents one of the numbers 1, 5, 11. He wants to place them next to each other so that they're a four-digit number. How many different numbers can it make up? A) 3
+> Alice has the three tokens you see in the figure, each of which represents one of the numbers 1, 5, 11. She wants to place them next to each other so as to compose a four-digit number. How many different numbers can she compose? A) 3
 >  
 > B) 4
 >  
@@ -236,11 +243,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many peaks does the solid have after removing 4 pyramids?
+How many vertices does the solid have after removing 4 pyramids?
 
 ![[src_kangourou_2024_cadet__prob5.png]]
 
-> Julius has a regular wooden tetrahedron. From it it removes the four small pyramids shown in the figure in the dark. How many peaks does the solid have left? A) 8
+> Julius has a regular wooden tetrahedron. From it he removes the four small pyramids shown in dark in the figure. How many vertices does the solid have left? A) 8
 >  
 > B) 9
 >  
@@ -285,9 +292,9 @@ How many peaks does the solid have after removing 4 pyramids?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of children in elevators with 9 adults
+Maximum number of children in an elevator with 9 adults
 
-> The user notes of a large elevator say that it can carry up to 12 adults or 20 children. Based on these notes, what is the maximum number of children that can climb an elevator with nine adults? A) 3
+> The user notes of a large elevator say that it can carry up to 12 adults or 20 children. Based on these notes, what is the maximum number of children that can ride in the elevator with nine adults? A) 3
 >  
 > B) 4
 >  
@@ -342,7 +349,7 @@ Maximum number of children in elevators with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the four integers hidden by the product lines/columns*
+*Sum of the four integers hidden by the row/column products*
 
 ![[src_kangourou_2024_cadet__prob7.png]]
 
@@ -360,7 +367,7 @@ Maximum number of children in elevators with 9 adults
 \end{document}
 ```
 
-> In each grid box in the figure, we wrote a different positive integer. Then we covered the numbers. The figure shows the four product of the numbers in the individual rows and columns. What's the sum of the four hidden integers? A) 10  B) 12 C) 13  D) 14  E) 15
+> In each grid box in the figure, we wrote a different positive integer. Then we covered the numbers. The figure shows the four products of the numbers in the individual rows and columns. What's the sum of the four hidden integers? A) 10  B) 12 C) 13  D) 14  E) 15
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_cadet#q07|src_kangourou_2024_cadet__Q07]]
@@ -398,7 +405,7 @@ Maximum number of children in elevators with 9 adults
 
 ![[src_kangourou_2024_cadet__prob8.png]]
 
-> The clock in the figure marks exactly 10:20. What is the width of the convex angle formed by the hour and minute intervals? A) 162°30’ B) 165° C) 167°30’ D) 170° E) 172°15’
+> The clock in the figure marks exactly 10:20. What is the width of the convex angle formed by the hour and minute hands? A) 162°30’ B) 165° C) 167°30’ D) 170° E) 172°15’
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_cadet#q08|src_kangourou_2024_cadet__Q08]]
@@ -443,7 +450,7 @@ Maximum number of children in elevators with 9 adults
 
 ![[src_kangourou_2024_cadet__prob9.png]]
 
-> Laura made a cake and split it into 10 equal slices. He ate one slice and then redistributed the others so that the angle between the two sides from the same cut of two nearby slices was always the same, as shown in the figure. How many degrees does that angle measure? A) 5
+> Laura made a cake and split it into 10 equal slices. She ate one slice and then redistributed the others so that the angle between the two sides from the same cut of two nearby slices was always the same, as shown in the figure. How many degrees does that angle measure? A) 5
 >  
 > B) 4
 >  
@@ -499,7 +506,7 @@ Maximum number of children in elevators with 9 adults
 >  
 > D) 13
 >  
-> E) 25 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 25 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_cadet#q10|src_kangourou_2024_cadet__Q10]]
@@ -540,11 +547,11 @@ Maximum number of children in elevators with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which table completes the magic square 4x4*
+*Which tile completes the magic square 4x4*
 
 ![[src_kangourou_2024_cadet__prob11.png]]
 
-> Sergio has four square-shaped boxes, each containing a number: the figure shows you three. He can draw them together to form a square 4 where, for each row and column, the sum of the numbers each contains is always the same. Which of the following is the fourth box? A)
+> Sergio has four tiles made of square cells, each containing a number: the figure shows you three. He can place them together to form a 4x4 square where, for each row and column, the sum of the numbers each contains is always the same. Which of the following is the fourth tile? A)
 >  
 > B)
 >  
@@ -615,7 +622,7 @@ Maximum number of children in elevators with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of circumference data nearest and farthest points *
+*Radius of circumference given nearest and farthest points*
 
 > In the plane a point P and a circumference γ are given. The point of γ closest to P is 20 cm from P, the farthest is 24. Then the measurement in centimetres of the radius of the circumference A) must be 2. B) must be 4. C) must be 12. D) must be 22. E) It could be either 2, or 22. 6 8 4 12 12 6 3 9 1 2 4 5 8 7 11 10 2 2 1 2 2 1 3 1 1 2 3 1 2 1 1 3 2 1 0 1 2 1 2 2 2 2 2 3
 >
@@ -697,7 +704,7 @@ Maximum number of children in elevators with 9 adults
 \end{document}
 ```
 
-> The side of the square in the figure is 10 m long. The square is divided into five triangles by three segments, as shown. The two shaded triangles have areas, in square meters, A and B. How much is the difference A  B ? A) 0 B) 1 C) 2 D) 5 E) 10
+> The side of the square in the figure is 10 m long. The square is divided into five triangles by three segments, as shown. The two shaded triangles have areas, in square meters, A and B. How much is the difference A – B ? A) 0 B) 1 C) 2 D) 5 E) 10
 
 **Answer:** A
 [[Quesiti/src_kangourou_2024_cadet#q13|src_kangourou_2024_cadet__Q13]]
@@ -737,7 +744,7 @@ Maximum number of children in elevators with 9 adults
 
 *Fish eaten by the other chicken (44 to one) *
 
-> The cage Paola fishes 12 fish for her two chickens every day and gives 7 fish every day to the first chicken she sees and 5 fish every second: they eat all the fish. A chicken has eaten 44 fish in the last few days. How many fish did the other chicken eat in the same days ? A) 34
+> The seagull Paola fishes 12 fish for her two chicks every day and gives 7 fish every day to the first chick she sees and 5 fish every second: they eat all the fish. A chick has eaten 44 fish in the last few days. How many fish did the other chick eat in the same days ? A) 34
 >  
 > B) 40
 >  
@@ -836,7 +843,7 @@ Maximum number of children in elevators with 9 adults
 
 *Meter of kangaroo paths in 2024 jumps (jumps/descends) *
 
-> A kangaroo jumps up a hill and then jumps down the same road. Her ascent jumps are all about a meter. Even his descending jumps are all the same length, but with a descending jump he travels three times the distance he travels with a climbing jump. The entire kangaroo makes 2024 jumps. How many meters does the kangaroo go through? A) 506 B) 1012 C) 2024 D) 3036 E) 4048
+> A kangaroo jumps up a hill and then jumps down the same road. His ascent jumps all measure 1 m. Even his descending jumps are all the same length, but with a descending jump he travels three times the distance he travels with a climbing jump. In total the kangaroo makes 2024 jumps. How many meters does the kangaroo go through? A) 506 B) 1012 C) 2024 D) 3036 E) 4048
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_cadet#q16|src_kangourou_2024_cadet__Q16]]
@@ -924,7 +931,7 @@ Maximum number of children in elevators with 9 adults
 
 *Percentage of decrease in mass of dried mushroom*
 
-> Water constitutes 80% of the mass of a fresh fungus. Water, on the other hand, constitutes only 20% of the mass of the same dried mushroom. What percentage decreases the mass of the fungus during drying? A) 60
+> Water constitutes 80% of the mass of a fresh mushroom. Water, on the other hand, constitutes only 20% of the mass of the same dried mushroom. By what percentage does the mass of the mushroom decrease during drying? A) 60
 >  
 > B) 70
 >  
@@ -976,11 +983,11 @@ Maximum number of children in elevators with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangular bricks are needed with 3000 hexagons*
+*How many triangular tiles are needed with 3000 hexagons*
 
 ![[src_kangourou_2024_cadet__prob19.png]]
 
-> Tiziana plans to cover a large rectangular floor with bricks arranged according to a repeated pattern. It will use hexagonal and triangular bricks, which are held together as shown in the figure. For the work Tiziana plans to use 3000 hexagonal bricks. Approximately, how many triangular bricks will you need? A) 1000 B) 1500 C) 3000 D) 6000 E) 9000 A B 10 m ? 16 18 24
+> Tiziana plans to cover a large rectangular floor with tiles arranged according to a repeated pattern. She will use hexagonal and triangular tiles, which are held together as shown in the figure. For the work Tiziana plans to use 3000 hexagonal tiles. Approximately, how many triangular tiles will she need? A) 1000 B) 1500 C) 3000 D) 6000 E) 9000 A B 10 m ? 16 18 24
 >
 
 **Answer:** D
@@ -1021,9 +1028,9 @@ Maximum number of children in elevators with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-What paper remains on the table from Ada's statements.
+Which card remains on the table from Ada's statements.
 
-> Nine cards numbered 1 to 9 were placed face down on the table. Ada, Bea, Cloe and Dinah each took two of these cards. Ada says, The sum of my numbers is 6. Bea says, "The difference between my numbers is 5". Cloe says, The product of my numbers is 18. Dina says, "One of my numbers is twice the other". All four statements are true. What number is left on the table? A) 1
+> Nine cards numbered 1 to 9 were placed face down on the table. Ada, Bea, Cloe and Dinah each took two of these cards. Ada says, "The sum of my numbers is 6". Bea says, "The difference between my numbers is 5". Cloe says, "The product of my numbers is 18". Dina says, "One of my numbers is twice the other". All four statements are true. What number is left on the table? A) 1
 >  
 > B) 3
 >  
@@ -1031,7 +1038,7 @@ What paper remains on the table from Ada's statements.
 >  
 > D) 8
 >  
-> E) 9 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 9 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2024_cadet#q20|src_kangourou_2024_cadet__Q20]]
@@ -1075,7 +1082,7 @@ What paper remains on the table from Ada's statements.
 
 ![[src_kangourou_2024_cadet__prob21.png]]
 
-> The figure shows how to write the digits from 0 to 9 using horizontal and vertical lines. Gioia chooses three different digits: in total its digits have 5 horizontal and 10 vertical. How much is the sum of these three digits? A) 9
+> The figure shows how to write the digits from 0 to 9 using horizontal and vertical lines. Gioia chooses three different digits: in total her digits have 5 horizontal and 10 vertical lines. How much is the sum of these three digits? A) 9
 >  
 > B) 10
 >  
@@ -1147,7 +1154,7 @@ What paper remains on the table from Ada's statements.
 \end{document}
 ```
 
-> Orlando wants to blacken two more squares in the side-by-side drawing so that the resulting overall figure (not just the one formed by the black squares) has a single axis of symmetry. How many different ways can Orlando complete the drawing? A) 2
+> Orlando wants to blacken two more squares in the drawing alongside so that the resulting overall figure (not just the one formed by the black squares) has a single axis of symmetry. How many different ways can Orlando complete the drawing? A) 2
 >  
 > B) 3
 >  
@@ -1197,11 +1204,11 @@ What paper remains on the table from Ada's statements.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the rectangle with three tangent semicirculars*
+*Perimeter of the rectangle with three tangent semicircles*
 
 ![[src_kangourou_2024_cadet__prob23.png]]
 
-> The drawing represents three semicircles with diameters on one side of a rectangle. The half-circle of the intermediate radius is tangent to the other two and each of the latter is tangent to one of the two smaller sides of the rectangle. Furthermore, the major radius semicircular is tangent on the major side as well, while the minimum distances of the other two on that side of the rectangle are 5 cm and 7 cm, as shown. If the length of the major side is 36 cm, how many centimeters does the perimeter of the rectangle measure? A) 82
+> The drawing represents three semicircles with diameters on one side of a rectangle. The semicircle of the intermediate radius is tangent to the other two and each of the latter is tangent to one of the two smaller sides of the rectangle. Furthermore, the semicircle of the major radius is tangent to the major side as well, while the minimum distances of the other two from that side of the rectangle are 5 cm and 7 cm, as shown. If the length of the major side is 36 cm, how many centimeters does the perimeter of the rectangle measure? A) 82
 >  
 > B) 92
 >  
@@ -1248,7 +1255,7 @@ What paper remains on the table from Ada's statements.
 
 How many kangaroos never got the ball (50, jump 6)
 
-> A group of 50 kangaroos is in a circle playing with a ball like this. Whoever receives the ball throws the ball to the sixth kangaroo after him in a clockwise direction, who takes it and releases it with the same pattern. Kangaroo Flower has now taken the ball for the 100th time. How many kangaroos have never caught the ball? A) 0
+> A group of 50 kangaroos is in a circle playing with a ball like this. Whoever receives the ball throws the ball to the sixth kangaroo after him in a counterclockwise direction, who takes it and releases it with the same pattern. Kangaroo Flower has now taken the ball for the 100th time. How many kangaroos have never caught the ball? A) 0
 >  
 > B) 8
 >  
@@ -1331,7 +1338,7 @@ How many kangaroos never got the ball (50, jump 6)
 \end{document}
 ```
 
-> Note the figure: under each box A of the first and second row (from above) there are two boxes, B and C. Daniel wants to insert a number in each box of the diagram so that each box A contains the product of the numbers contained in the corresponding boxes B and C. In particular, you want the box in the first row to contain 720. How many different ways can you choose the number n ? A) 1
+> Note the figure: under each box A of the first and second row (from above) there are two boxes, B and C. Daniel wants to insert a number in each box of the diagram so that each box A contains the product of the numbers contained in the corresponding boxes B and C. In particular, he wants the box in the first row to contain 720. In how many different ways can he choose the number n ? A) 1
 >  
 > B) 4
 >  
@@ -1381,7 +1388,7 @@ How many kangaroos never got the ball (50, jump 6)
 
 *How many eggs the customer has purchased (double pigeon chicken) *
 
-> Marianna brings chicken eggs and pigeon eggs to the market. He placed them, without distinction, in baskets containing 4, 6, 12, 13, 22 and 29 eggs. His first client buys all the eggs in a basket. Marianna observes that, in this way, she was left with twice as many chicken eggs as the number of pigeon eggs. How many eggs did the client buy? A) 4
+> Marianna brings chicken eggs and pigeon eggs to the market. She placed them, without distinction, in baskets containing 4, 6, 12, 13, 22 and 29 eggs. Her first customer buys all the eggs in a basket. Marianna observes that, in this way, she was left with twice as many chicken eggs as the number of pigeon eggs. How many eggs did the customer buy? A) 4
 >  
 > B) 12
 >  
@@ -1432,7 +1439,7 @@ How many kangaroos never got the ball (50, jump 6)
 
 ![[src_kangourou_2024_cadet__prob27.png]]
 
-> I drew on a square sheet of paper the three corners highlighted in the figure. If their measurements in degrees are in the order α, β and γ, what is the sum of α + β + γ? A) 60
+> I drew on a square sheet of paper the three angles highlighted in the figure. If their measurements in degrees are in the order α, β and γ, what is the sum of α + β + γ? A) 60
 >  
 > B) 70
 >  
@@ -1483,7 +1490,7 @@ Who wrote the truth on the parchment (30 coins)
 
 ![[src_kangourou_2024_cadet__prob28.png]]
 
-> Captain Flint has asked four of his pirates to write on a parchment how many of the 30 coins in the treasure trunk are gold, how many are silver, and how many are bronze. In the figure, you see the scroll torn apart with only one part of each one's answers. It is known that only one pirate wrote the truth on the scroll, while the other three wrote the false in each of the three voices. Is it possible to determine with certainty who wrote the truth and if so who is it? A) Yes, Tom. B) Sì, Al. C) Yes, Pit. D) Yes, Jim. E) It cannot be established with certainty.
+> Captain Flint has asked four of his pirates to write on a parchment how many of the 30 coins in the treasure trunk are gold, how many are silver, and how many are bronze. In the figure, you see the scroll torn apart with only one part of each one's answers. It is known that only one pirate wrote the truth on the scroll, while the other three wrote the false in each of the three entries. Is it possible to determine with certainty who wrote the truth and if so who is it? A) Yes, Tom. B) Yes, Al. C) Yes, Pit. D) Yes, Jim. E) It cannot be established with certainty.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_cadet#q28|src_kangourou_2024_cadet__Q28]]
@@ -1525,7 +1532,7 @@ Who wrote the truth on the parchment (30 coins)
 
 When Claudius and Leo meet for the second time
 
-> Claudius and Leo travel on the same road: Claudius goes from point A to point B of the road and then immediately returns to A; Leo goes from point B to point A of the road and then immediately returns to B. Both depart at the same instant and travel at a constant speed, but Claudio's speed is three times Leo's. Claudius and Leo find themselves at the same point on the road for the first time, 15 minutes after departure. How many minutes after the departure will this happen a second time? A) 20
+> Claudius and Leo travel on the same road: Claudius goes from point A to point B of the road and then immediately returns to A; Leo goes from point B to point A of the road and then immediately returns to B. Both depart at the same instant and travel at a constant speed, but Claudius's speed is three times Leo's. Claudius and Leo find themselves at the same point on the road for the first time, 15 minutes after departure. How many minutes after the departure will this happen a second time? A) 20
 >  
 > B) 25
 >  

@@ -55,7 +55,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of keys and arrangement between four friends*
+*Minimum number of keys and arrangement among four friends*
 
 ![[src_kangourou_2024_benjamin_finale__probb1.png]]
 
@@ -83,7 +83,7 @@ level: kangourou
 \end{document}
 ```
 
-> Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to your own home that each of you must leave to your friends, considering them as a whole? And how are the left keys to be arranged?
+> Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to his own home that each of them must leave to the friends, considering them as a whole? And how are the left keys to be arranged?
 
 [[Quesiti/src_kangourou_2024_benjamin_finale#qb1|src_kangourou_2024_benjamin_finale__QB1]]
 
@@ -134,9 +134,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colorings of 8 objects with different coloured adjoints*
+*Colorings of 8 objects with adjacent objects of different colours*
 
-> Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colours are eligible?
+> Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colourings are admissible?
 
 [[Quesiti/src_kangourou_2024_benjamin_finale#qb3|src_kangourou_2024_benjamin_finale__QB3]]
 
@@ -161,9 +161,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*It is more the reducible or non-reducible fractions (1..6) *
+*Are there more reducible or irreducible fractions (1..6) *
 
-> Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are these more reducing fractions or irreducible fractions?
+> Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are there more reducible fractions or irreducible fractions?
 
 [[Quesiti/src_kangourou_2024_benjamin_finale#qb4|src_kangourou_2024_benjamin_finale__QB4]]
 
@@ -216,6 +216,6 @@ level: kangourou
 
 Because the result of Marco is always 1089
 
-> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco.
+> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, he puts a $0$ in front of this difference, otherwise it remains unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco: explain why.
 
 [[Quesiti/src_kangourou_2024_benjamin_finale#qb6|src_kangourou_2024_benjamin_finale__QB6]]

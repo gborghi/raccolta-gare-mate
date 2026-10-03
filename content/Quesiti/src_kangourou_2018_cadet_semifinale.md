@@ -45,7 +45,7 @@ level: kangourou
 
 > (Points 2) A certain N number of chocolates was divided among seven boys so that five of them all had the same number greater than 0, and, of the remaining two, one had twice the other. So N A) can't be 19.
 > 	
-> (b) It cannot be 20.
+> B) cannot be 20.
 > 	
 > 	
 > (c) it cannot be 21. D) it cannot be 22.
@@ -142,15 +142,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum amount with four notes*
+*Minimum amount with four coupons*
 
-> (Points 3) A shop delivers four notes to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first cut it says: Pay the square root of the price if the price in euro is a perfect square. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? (a) two euros.
+> (Points 3) A shop delivers four coupons to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first coupon it says: Pay the square root of the price if the price in euro is a perfect square. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? A) two euros.
 > 	
 > 	
 > 	
 > B) Less than 2 but more than 1 euro.
 > 	
-> (c) 1 euro.
+> C) 1 euro.
 > 	
 > 	
 > 	
@@ -228,7 +228,7 @@ level: kangourou
 
 *Distance between Aldo and Bruno at the finish*
 
-> Aldo and Bruno compete on a 1000-meter course (starting at the same moment and point) and each runs at a constant speed. When Aldo is 100 metres away from the river, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in metres) that separates Aldo from Bruno when Aldo cuts the finish line? A) 111            B) 114           C) 115
+> Aldo and Bruno compete on a 1000-meter course (starting at the same moment and point) and each runs at a constant speed. When Aldo is 100 metres from the finish, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in metres) that separates Aldo from Bruno when Aldo crosses the finish line? A) 111            B) 114           C) 115
 > 	
 > D) 120 E) 122
 
@@ -298,7 +298,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 4) In the figure you see a rectangle 6 × 12 and a circle. The centre is the same for both figures and the short sides of the rectangle are equal to the circle. What is the area of the region shared by both, which is shaded in the figure? A) 24π - 3√3 B) 24π + 18√3
+> (Points 4) In the figure you see a rectangle 6 × 12 and a circle. The centre is the same for both figures and the short sides of the rectangle are tangent to the circle. What is the area of the region shared by both, which is shaded in the figure? A) 24π - 3√3 B) 24π + 18√3
 > 	
 > C) 12π + 18√3 D) 18π - 8√3 E) 18π + 12√3
 
@@ -332,9 +332,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of three and four consecutive *
+*Number as sum of three and of four consecutive*
 
-> (Points 5) Which of the following numbers is either the sum of three consecutive integers or the sum of four consecutive integers? A) 20182018 B) 20192019 C) 20202020 D) 20212021	          E) 20222022
+> (Points 5) Which of the following numbers is both the sum of three consecutive integers and the sum of four consecutive integers? A) 20182018 B) 20192019 C) 20202020 D) 20212021	          E) 20222022
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q07|src_kangourou_2018_cadet_semifinale__Q07]]
@@ -362,7 +362,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the number and multiple of 11*
+*Which number is a multiple of 11*
 
 > (Points 5) Which of the following numbers is a multiple of 11? A) 102018 + 11           B) 102018 + 111     C) 102018 + 1111           D) 102018 + 2111      E) 102018 + 3111
 
@@ -455,7 +455,7 @@ level: kangourou
 
 *Last 4 digits of the maximum sum with product 10^10*
 
-> (Points 4) The product of 10 positive integers (not necessarily different from each other) is 1010. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
+> (Points 4) The product of 10 positive integers (not necessarily different from each other) is 10^10. If M is the maximum value that the sum of these 10 numbers can have, what are the last 4 digits of M?
 
 **Answer:** 0009
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q10|src_kangourou_2018_cadet_semifinale__Q10]]
@@ -508,7 +508,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lengths of the sixth row for an equilateral triangle*
+*Lengths of the sixth stick for an equilateral triangle*
 
 ![[src_kangourou_2018_cadet_semifinale__prob11.png]]
 
@@ -532,7 +532,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 5) Cinzia has 5 stripes 2, 3, 4, 5 and 6 centimeters long and can choose the length of a sixth stripe so as to form, using all six, an equilateral triangle. How many different lengths can the sixth list have? (The figure shows you how you can build the triangle with a sixth row 4 cm long, and this is one of the possible lengths.)
+> (Points 5) Cinzia has 5 sticks 2, 3, 4, 5 and 6 centimeters long and can choose the length of a sixth stick so as to form, using all six, an equilateral triangle. How many different lengths can the sixth stick have? (The figure shows you how you can build the triangle with a sixth stick 4 cm long, and this is one of the possible lengths.)
 
 **Answer:** 0004
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q11|src_kangourou_2018_cadet_semifinale__Q11]]
@@ -563,9 +563,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum apples for equal baskets after barley*
+*Minimum apples for equal baskets after bartering*
 
-> The following rule applies: 4 apples are worth 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows you to carry out your plan?
+> At the market, fruit can be bartered according to the following rule: 4 apples are worth 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows her to carry out her plan?
 
 **Answer:** 0023
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q12|src_kangourou_2018_cadet_semifinale__Q12]]
@@ -594,9 +594,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of products of digits 1 to 99*
+*Sum of products of digits from 1 to 99*
 
-> (Points 6) For every natural number between 1 and 99 included, the product of its digits (which coincides with the number itself if the number is a single digit) is calculated. All products thus obtained are therefore added. What is the result?
+> (Points 6) For every natural number between 1 and 99 included, the product of its digits (which coincides with the number itself if the number is a single digit) is calculated. All the products thus obtained are then added. What is the result?
 
 **Answer:** 2070
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q13|src_kangourou_2018_cadet_semifinale__Q13]]
@@ -625,9 +625,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value from the seat-back seats*
+*Value of N from the chairlift seats*
 
-> (Points 6) The seats on a wheelchair are fixed to the rope so that the distance between two consecutive seats is always the same. They are numbered 1, 2, 3, ..., N and after the number N seat count the number 1: Stefania is sitting on the number 42 seat. When Stefania is exactly halfway through the trip, she meets the seat number 120 (which goes the opposite way). How much is N ?
+> (6 points) The seats of a chairlift are attached to the cable in such a way that the distance between two
+> consecutive seats is always the same. They are numbered 1, 2, 3, …, N and after seat number
+> N the number 1 reappears: Stefania is sitting on seat number 42. When Stefania is exactly
+> halfway through the trip, she meets seat number 120 (which is going in the opposite direction). What is the value of N ?
 
 **Answer:** 0156
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q14|src_kangourou_2018_cadet_semifinale__Q14]]
@@ -686,9 +689,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External angle between tangents with two circumferences*
+*External angle between tangents to two circumferences*
 
-> (Points 7) Two planar circles of the same radius pass each through the centre of the other: call P one of the two intersecting points. How many degrees does the outer angle between the circles formed by the two tangent lines in P on the two circumferences measure?
+> (Points 7) Two planar circles of the same radius pass each through the centre of the other: call P one of the two intersection points. How many degrees does the outer angle between the circles formed by the two tangent lines in P on the two circumferences measure?
 
 **Answer:** 0120
 [[Quesiti/src_kangourou_2018_cadet_semifinale#q16|src_kangourou_2018_cadet_semifinale__Q16]]
@@ -767,7 +770,7 @@ level: kangourou
 
 *Most difference in score between two competitors*
 
-> (Points 8) In the competition you are running, there are 36 points for multiple-choice questions and corresponding penalties for incorrect answers (see page 4). Assume that two competitors, A and B, answer all nine questions, that A does not answer all of them correctly and B does not answer all of them wrongly. How many points can the difference between A's score and B's score in multiple-choice questions be worth at most? 2 cm 4 cm 4 cm 6 cm 3 cm 5 cm
+> (Points 8) In the competition you are running, there are 36 points for multiple-choice questions and corresponding penalties for incorrect answers (see page 4). Assume that two competitors, A and B, answer all nine questions, that A does not answer all of them correctly and B does not answer all of them wrongly. How many points can the difference between A's score and B's score in multiple-choice questions be worth at most? 2 4 4 6 3 5
 > 
 > 0009 0004 0023 2070 0156 0007 0120 0011 0040
 

@@ -48,7 +48,7 @@ level: kangourou
 
 ![[src_kangourou_2021_benjamin_semifinale__prob1.png]]
 
-> (2 points) In the figure you see a large triangle divided into 16 small triangles. Imagine that each small triangle represents a room and that the bars on its sides represent as many doors as one room to the adjacent ones. When choosing the appropriate room to leave, how many rooms can you visit at most by passing once from each room you visit?
+> (2 points) In the figure you see a large triangle divided into 16 small triangles. Imagine that each small triangle represents a room and that the bars on its sides represent as many doors that allow you to pass from one room to the adjacent ones. By choosing appropriately the room from which to start, how many rooms can you visit at most by passing once from each room you visit?
 >   
 > A) 9 B) 10 C) 11          D) 12 E) 13
 
@@ -135,7 +135,7 @@ level: kangourou
 
 How many rabbits eat carrots today?
 
-> (3 points) Bianca has 20 rabbits: she feeds 9 of them carrots every day, the others only one day yes and one no, not necessarily all on the same day. They ate 16 rabbits yesterday. How many rabbits will eat carrots today?
+> (3 points) Bianca has 20 rabbits: she feeds 9 of them carrots every day, the others only one day yes and one no, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today?
 >   
 > A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
 
@@ -176,9 +176,9 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to add numbers 1.8. to get 30*
+*How to add numbers 1..8 to get 30*
 
-> (4 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same additives in a different order should not be considered as a different way).
+> (4 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same addends in a different order should not be considered as a different way).
 >   
 > A) 4
 >   
@@ -281,7 +281,7 @@ How many rabbits eat carrots today?
 
 *Minimum minutes to cross the Tibetan Bridge*
 
-> (4 points) Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, where no more than two people can cross at a time; it is dark and therefore a stack is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed?
+> (4 points) Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, where no more than two people can cross at a time; it is dark and therefore a flashlight is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed?
 >   
 > A) 24
 >   
@@ -335,7 +335,7 @@ How many rabbits eat carrots today?
 >   
 > B) Lisa has no euro.
 >   
-> C) Lisa has a thousand euros.
+> C) Lisa has 1000 euros.
 >  
 > (D) Claim (c) is false. E) The statement c) is true.
 
@@ -373,13 +373,18 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining by 9 of the number approaching 21.0*
+*Remainder when dividing by 9 of the number formed by placing 21..0 side by side*
 
-> (5 points) What is the remainder of the division by 9 of the number 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 10 , obtained by approaching the numbers of the first 22 natural numbers in descending order?
+> (5 points) What is the remainder of the division by 9 of the number  
+> 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0,  
+> obtained by placing side by side the digits of the first 22 natural numbers in decreasing order?  
 >   
-> A) 0
+> A) 0   
 >   
-> B) 2 C) 4 D) 6 E) 8
+> B) 2      
+> C) 4      
+> D) 6      
+> E) 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q08|src_kangourou_2021_benjamin_semifinale__Q08]]
@@ -422,7 +427,7 @@ How many rabbits eat carrots today?
 
 *Maximum speed ratio between Sandro and Carlo without overtaking*
 
-> Carlo likes to run, Sandro likes to ride a bicycle. They want to train on the same road, 1.5 km long: Sandro leaves at the beginning of the road, Carlo 1 km ahead. They start at the same moment, they go in the same direction, and each one moves at a constant speed. If Sandro doesn't overtake Carlo, how much is the ratio between Sandro's speed and Carlo's speed?
+> Carlo likes to run, Sandro likes to ride a bicycle. They want to train on the same road, 1.5 km long: Sandro leaves at the beginning of the road, Carlo 1 km ahead. They start at the same moment, they go in the same direction, and each one moves at a constant speed. If Sandro doesn't overtake Carlo, what is the maximum value of the ratio between Sandro's speed and Carlo's speed?
 >   
 > A) 3
 >   
@@ -464,7 +469,7 @@ How many rabbits eat carrots today?
 
 *Matches won by Edward in the card game*
 
-> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
+> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has 4 points and Teresa 3. How many games has Edward won?
 
 **Answer:** 13
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q10|src_kangourou_2021_benjamin_semifinale__Q10]]
@@ -494,7 +499,7 @@ How many rabbits eat carrots today?
 
 Max tosses to make sure a number goes out 3 times
 
-> (5 points) How many times at most might it be necessary to roll a dice to make sure that at least one number comes out 3 times?
+> (5 points) How many times at most might it be necessary to roll a die to make sure that at least one number comes out 3 times?
 
 **Answer:** 13
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q11|src_kangourou_2021_benjamin_semifinale__Q11]]
@@ -525,9 +530,13 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins in each forcer (<270 and >200 for 3) *
+*Coins in each chest (<270 and >200 for 3)*
 
-> (5 points) A pirate has 4 couriers in each of which there is the same number of gold coins. You know that • in all, the four forcers contain less than 270 coins; • 3 of them, however you choose them, contain more than 200 coins. How many coins each forzer contains?
+> (5 points) A pirate has 4 chests, each containing the same number of gold coins. He knows
+> that
+> • in total, the four chests contain fewer than 270 coins;
+> • 3 of them, no matter how he chooses them, contain more than 200 coins.
+> How many coins does each chest contain?
 
 **Answer:** 67
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q12|src_kangourou_2021_benjamin_semifinale__Q12]]
@@ -554,7 +563,7 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years since the last year = two consecutive integers approximated*
+*Years since the last year = two consecutive integers joined*
 
 > (6 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
@@ -619,7 +628,7 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infectious crabs on day six*
+*Contagious kangaroos on day six*
 
 > (6 points) A new virus has spread on Kangaroo Island, which is home to a thousand kangaroos. Every infected kangaroo has a cold for exactly 5 days after the day it contracted the infection and is contagious only during those five days. Every day during this period the kangaroo infects exactly another kangaroo. The virus was carried by a single kangaroo who caught a cold (and then became contagious) exactly on the day he arrived on the island. Considering that day as the first, how many contagious kangaroos will there be on day six?
 
@@ -652,7 +661,7 @@ Max tosses to make sure a number goes out 3 times
 
 *The smallest sum of two numbers with nine digits *
 
-> (7 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest amount you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
+> (7 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest sum you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
 
 **Answer:** 356
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q16|src_kangourou_2021_benjamin_semifinale__Q16]]
@@ -680,9 +689,10 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many slices of pizza did Marco eat?
+*How many slices of pizza did Marco eat*
 
-> (7 points) A pizza was cut into less than 10 slices all of the same size. Mark ate some of them: more but less than the whole pizza. How many slices did you eat?
+> (7 points) A pizza was cut into fewer than 10 slices, all of the same size. Marco ate 
+> some of them: in total more than  but less than  of the whole pizza. How many slices did he eat?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q17|src_kangourou_2021_benjamin_semifinale__Q17]]
@@ -714,11 +724,14 @@ How many slices of pizza did Marco eat?
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of N in (N-1) +...+(N-2021) = 1+..+2021*
+*Value of N in (N-1)+...+(N-2021)=1+..+2021*
 
-> (8 points) If N is an integer greater than zero and (N  1) + (N  2) + ... + (N  2021) = 1 + 2 + ... + 2021 what is N?
+> (8 points) If N is an integer greater than zero and  
+> (N – 1) + (N – 2) + … + (N – 2021) = 1 + 2 + … + 2021  
+> what is the value of N?  
 >   
-> This appropriation is intended to cover expenditure on research and technological development in the Member States.
+> Answers  
+> A  0003  0013  0067  0101  4578  0031  0356  0005  2022
 
 **Answer:** 2022
 [[Quesiti/src_kangourou_2021_benjamin_semifinale#q18|src_kangourou_2021_benjamin_semifinale__Q18]]

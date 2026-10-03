@@ -32,7 +32,7 @@ level: kangourou
 
 *Invariant final figure subtracting the reversed number*
 
-> Write a positive integer of two distinct digits, write the number you get by inverting the digits (this second number can possibly be of a single digit, if the unit number of the first is $0$) and subtract the smallest from the largest of these two numbers. Repeat the procedure on the result you get until you get a single-digit number as a result. Does this one-digit number depend on the number you chose initially? Justify your answer.
+> Write a positive integer of two distinct digits, write the number you get by inverting the digits (this second number can possibly be of a single digit, if the units digit of the first is $0$) and subtract the smallest from the largest of these two numbers. Repeat the procedure on the result you get until you get a single-digit number as a result. Does this one-digit number depend on the number you chose initially? Justify your answer.
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2017_student_finale#qs1|src_kangourou_2017_student_finale__QS1]]
@@ -61,9 +61,9 @@ level: kangourou
 
 *Sequences consecutive with a sum of digits divisible by 7*
 
-> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each sequence number is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
+> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
 
-**Answer:** al massimo due
+**Answer:** at most two
 [[Quesiti/src_kangourou_2017_student_finale#qs2|src_kangourou_2017_student_finale__QS2]]
 
 
@@ -91,9 +91,9 @@ level: kangourou
 
 *Pair diameter and minimum circle of a set*
 
-> Whether $S$ is an arbitrary finite set of plan points (at least $2$): it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the demonstration of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diameter** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diameter pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
+> Whether $S$ is an arbitrary finite set of points in the plane (at least $2$): it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the proof of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diametrical** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diametrical pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
 
-**Answer:** No; Si
+**Answer:** No; Yes
 [[Quesiti/src_kangourou_2017_student_finale#qs3|src_kangourou_2017_student_finale__QS3]]
 
 
@@ -118,7 +118,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cube inscribed in a regular dodecahedron*
+*Cubes inscribed in a regular dodecahedron*
 
 > How many different cubes can be inscribed in (i.e. have the vertices in common with the vertices of) a regular dodecahedron?
 
@@ -153,7 +153,7 @@ level: kangourou
 
 ![[src_kangourou_2017_student_finale__probs5.png]]
 
-> A rectangle $9 \times 7$ is divided into $63$ squares of sides $1$, obtaining a lattice. Imagine planting a spindle in each of the vertices of the squares (one spindle in each common multiple-square vertex) and wanting to pass a thread by stretching it between one spindle and the other, so as to walk at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of the wire? (It overlooks the fact that it is necessary to rotate around some spindles, i.e. assume that the spindles are $0$ thick).
+> A rectangle $9 \times 7$ is divided into $63$ squares of side $1$, obtaining a lattice. Imagine planting a pin in each of the vertices of the squares (one pin in each vertex common to several squares) and wanting to pass a thread by stretching it between one pin and the other, so as to cover at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of thread sufficient? (Ignore the fact that it is necessary to turn around some pins, i.e. assume that the pins are $0$ thick).
 
 **Answer:** 155
 [[Quesiti/src_kangourou_2017_student_finale#qs5|src_kangourou_2017_student_finale__QS5]]
@@ -179,9 +179,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Funktion that sends each interval over all [0,1]*
+*Function that sends each interval over all [0,1]*
 
-> Is there a $f$ function from the $[0,1]$ range itself such that the image through $f$ of each range in $[0,1]$ is all $[0,1]$? If your answer is no, explain why, if yes, indicate how an example can be obtained.
+> Is there a $f$ function from the interval $[0,1]$ into itself such that the image through $f$ of each interval contained in $[0,1]$ is all $[0,1]$? If your answer is no, explain why, if yes, indicate how an example can be obtained.
 
-**Answer:** Si
+**Answer:** Yes
 [[Quesiti/src_kangourou_2017_student_finale#qs6|src_kangourou_2017_student_finale__QS6]]

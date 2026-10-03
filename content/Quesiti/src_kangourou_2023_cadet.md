@@ -42,7 +42,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less part of a collection of segments*
+*Missing part of a collection of segments*
 
 ![[src_kangourou_2023_cadet__prob1.png]]
 
@@ -179,11 +179,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which cut does not go *
+*which cut-out does not work *
 
 ![[src_kangourou_2023_cadet__prob4.png]]
 
-> The figure shows a rectangular carton of 4 dm × 6 dm. You want to cover it with identical paper cuts of shape and size. It's not allowed to overlay or leave holes. Which of the following cuts cannot be used? A)
+> The figure shows a rectangular carton of 4 dm × 6 dm. You want to cover it with identical paper cut-outs in shape and size. It's not allowed to overlay or leave holes. Which of the following cut-outs cannot be used? A)
 > 	
 > B)
 > 	
@@ -321,7 +321,7 @@ level: kangourou
 \end{document}
 ```
 
-> In each of the vertices of the rim in the figure a number is written, covered with a circle: for each side of the rim, the sum of the two numbers written in the vertices coincides with the number visible next to the side. What number should be written in the place of the question mark? A) 11
+> In each of the vertices of the rhombus in the figure a number is written, covered with a circle: for each side of the rhombus, the sum of the two numbers written in the vertices coincides with the number visible next to the side. What number should be written in the place of the question mark? A) 11
 > 	
 > B) 12
 > 	
@@ -362,7 +362,7 @@ level: kangourou
 
 *how much to spin to match*
 
-> John throws 150 coins on the table. Only 40% of the coins show the side Testa: how many coins must be rotated so that the number of coins showing Testa is equal to that of the coins showing Cross? A) 10 B) 15
+> John throws 150 coins on the table. Only 40% of the coins show the side Heads: how many coins must be rotated so that the number of coins showing Heads is equal to that of the coins showing Tails? A) 10 B) 15
 > 	
 > C) 20 D) 25 E) 30
 
@@ -406,7 +406,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet__prob8.png]]
 
-> At the edges of a track there are four A, B, C, D self-driving cars traveling on straight paths. The drawing shows for each of them the starting position, the direction of march and how much road it takes in 5 seconds. Which cars will collide? A) A e B B) A e C C) A e D D) B e C E) C e D
+> At the edges of a track there are four A, B, C, D bumper cars traveling on straight paths. The drawing shows for each of them the starting position, the direction of march and how much distance it covers in 5 seconds. Which cars will collide? A) A and B B) A and C C) A and D D) B and C E) C and D
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_cadet#q08|src_kangourou_2023_cadet__Q08]]
@@ -446,7 +446,7 @@ level: kangourou
 
 * in how many ways*
 
-> Anna has five discs of different sizes. He wants to build a tower over three discs so that each disc (except the first from below) is smaller than the disc on which it rests. How many ways can you do that? A) 5
+> Anna has five discs of different sizes. She wants to build a tower by stacking three discs so that each disc (except the first from below) is smaller than the disc on which it rests. In how many ways can she do that? A) 5
 > 	
 > B) 6
 > 	
@@ -500,7 +500,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet__prob10.png]]
 
-> In each of the grid boxes here next to Eva wants to write a different integer chosen from 1 to 8. He has already entered three: what number must he write in the shadow box if he wants the two sums of the numbers in the two rows to be equal and the four sums of the numbers in the four columns to be equal? A) 1
+> In each of the grid boxes here next to Eva wants to write a different integer chosen from 1 to 8. She has already entered three: what number must she write in the shaded box if he wants the two sums of the numbers in the two rows to be equal and the four sums of the numbers in the four columns to be equal? A) 1
 > 	
 > B) 2
 > 	
@@ -508,7 +508,7 @@ level: kangourou
 > 	
 > D) 6
 > 	
-> E) 7 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 7 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_cadet#q10|src_kangourou_2023_cadet__Q10]]
@@ -541,9 +541,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number next to *
+*next number*
 
-> Francesca wrote three consecutive whole numbers of three digits in their natural order, but instead of the digits she used symbols: here, there, there. Which of the following is the next number? A) §§ì B) à§à C) §òì D) §ìà E) §ò§
+> Francesca wrote three consecutive three-digit integers in their natural order,
+> but instead of digits she used symbols: àìì, §òò, §òà. Which of the
+> following is the next number?
+> A) §§ì	
+> B) à§à	
+> C) §òì	
+> D) §ìà  	
+> E) §ò§
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_cadet#q11|src_kangourou_2023_cadet__Q11]]
@@ -582,11 +589,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*beam length*
+*radius length*
 
 ![[src_kangourou_2023_cadet__prob12.png]]
 
-> The figure shows five semicircles all of the same radius and with diameters contained in the same line. The numbers on this line indicate the distances between the highlights. How long is the radius of each semicircle? A) 12 B) 16
+> The figure shows five semicircles all of the same radius and with diameters contained in the same line. The numbers on this line indicate the distances between the marked points. How long is the radius of each semicircle? A) 12 B) 16
 > 	
 > C) 18
 > 	
@@ -643,17 +650,32 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Red cube mirrors so that each face has one *
+*Red edges of the cube so that every face has one*
 
-> You want to color some of the grains of a cube red, so that each face of the cube has at least one red grain. What's the minimum number of buds that you can color red? A) 2
+> We want to color some edges of a cube red, so that every face of the
+> cube has at least one red edge. What is the minimum number of edges that suffice
+> to color red?
+> A) 2 	
 > 	
-> B) 3
+> B) 3 	
 > 	
-> C) 4
+> C) 4 	
 > 	
-> D) 5
+> D) 5 	
 > 	
-> E) 6 A B C D 4 3 8 12 12 22 16 22
+> E) 6
+> A
+> B
+> C
+> D
+> 4
+> 3
+> 8
+> 12
+> 12
+> 22
+> 16
+> 22
 >
 
 **Answer:** B
@@ -698,7 +720,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet__prob14.png]]
 
-> The figure shows how to construct each figure by approaching matches. How many positive integers can each be written using exactly six matches (as indicated)? A) 2
+> The figure shows how to construct each digit by placing matches side by side. How many positive integers can each be written using exactly six matches (as indicated)? A) 2
 > 	
 > B) 4
 > 	
@@ -742,7 +764,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Departments 1 from two vertices of a unit square*
+*Points at a distance of 1 from two vertices of a unit square*
 
 > A square has a side one centimeter long. How many points on the plane on which the square is drawn are exactly 1 cm away from two of the vertices of the square? A) 4
 > 	
@@ -791,7 +813,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet__prob16.png]]
 
-> The ABC triangle shown in the figure isosceles and its angle at the apex of the ABC measures 40°. The EAB and DCA angles have the same size. How many degrees does the CFE angle measure ? A) 55 B) 60 C) 65 D) 70 E) 75
+> The ABC triangle shown in the figure is isosceles and its vertex angle ABC measures 40°. The EAB and DCA angles have the same size. How many degrees does the CFE angle measure ? A) 55 B) 60 C) 65 D) 70 E) 75
 
 **Answer:** D
 [[Quesiti/src_kangourou_2023_cadet#q16|src_kangourou_2023_cadet__Q16]]
@@ -833,7 +855,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet__prob17.png]]
 
-> Tom, Giulio and Lidia each fired six shots at a different target. The arrows dropped within the same region (circle or circular crown) total the same number of points. Tom scored 46 points and Julius 34. How many did Lydia make? A) 37 B) 38
+> Tom, Giulio and Lidia each fired six shots at a different target. The arrows dropped within the same region (circle or circular crown) total the same number of points. Tom scored 46 points and Giulio 34. How many did Lydia make? A) 37 B) 38
 > 	
 > C) 39 D) 40 E) 41
 
@@ -920,7 +942,7 @@ level: kangourou
 
 *min to be added*
 
-> Angelo drew two perpendicular semirettes with the same origin O. He now wants to draw other semicircles with origin O so that for each choice of values 10, 20, 30, 40, 50, 60, 70, 80 there are two of the semicircles in the drawing that contain an angle measuring as many degrees as the value indicates. What's the minimum number of semirettes he can add? A) 2
+> Angelo drew two perpendicular semirettes with the same origin O. He now wants to draw other half-lines with origin O so that for each choice of values 10, 20, 30, 40, 50, 60, 70, 80 there are two of the half-lines in the drawing that contain an angle measuring as many degrees as the value indicates. What's the minimum number of semirettes he can add? A) 2
 > 	
 > B) 3
 > 	
@@ -982,7 +1004,7 @@ level: kangourou
 
 > The sum of 2023 consecutive integers is 2023. What is the sum of the digits of the largest among these numbers?
 >
-> (A) 4
+> A) 4
 > 	
 > B) 5 	
 > 	
@@ -1045,7 +1067,7 @@ level: kangourou
 
 *maximum number of kangaroos*
 
-> Some koalas and some kangaroos are arranged in a circle. There are three koalas in total, and none of them have another koala by their side. There are exactly three kangaroos with another kangaroo next to them. How many kangaroos are there? A) 4
+> Some koalas and some kangaroos are arranged in a circle. There are three koalas in total, and none of them have another koala by their side. There are exactly three kangaroos with another kangaroo next to them. What is the maximum number of kangaroos? A) 4
 > 	
 > B) 5
 > 	
@@ -1189,7 +1211,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet__prob24.png]]
 
-> The figure shows a geometric shape broken down into nine regions. Elizabeth wants to write a different integer number between 1 and 9 in each of them, so that for each pair of adjacent regions (i.e. they share a side) the product of the numbers contained in them is not more than 15. How many ways can you do that? Two different ways that can be obtained from each other by rotation of the figure should be considered. A) 12 B) 8
+> The figure shows a geometric shape broken down into nine regions. Elizabeth wants to write a different integer number between 1 and 9 in each of them, so that for each pair of adjacent regions (i.e. they share a side) the product of the numbers contained in them is not more than 15. How many ways can you do that? Two ways that can be obtained from each other by rotation of the figure are considered different. A) 12 B) 8
 > 	
 > C) 32 D) 24 E) 16
 
@@ -1227,11 +1249,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This item is intended to record the information provided by the manufacturer.
+*position*
 
-> Martina's in line, and she's got as many people in front of her as she's got behind her. There are also two of his friends, both behind him: one in 19th and the other in 28th place. The number of people in line is a multiple of 3. What is the position of the tail of Martina? A) 14 B) 15
+> Martina is waiting in line and has as many people in front of her as she has behind her. 
+> There are also two of her friends, both behind her: one in 19th and the other in 
+> 28th place. The number of people in the line is a multiple of 3. In which position 
+> of the line is Martina?
+> A) 14 	 	
+> B) 15 	
 > 	
-> C) 16 D) 17 E) 18
+> C) 16 	 	
+> D) 17 	 	
+> E) 18
 
 **Answer:** D
 [[Quesiti/src_kangourou_2023_cadet#q25|src_kangourou_2023_cadet__Q25]]
@@ -1285,11 +1314,11 @@ This item is intended to record the information provided by the manufacturer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who use the road indicated*
+*how many use the road indicated*
 
 ![[src_kangourou_2023_cadet__prob26.png]]
 
-> Some mice live in three adjacent houses connected by two-to-two roads. Last night, each mouse left its home and went to one of the other two, always taking the shortest route. The figures in the design show how many mice there were yesterday and how many there are today in each house. How many mice have taken the path indicated by the arrow? A) 11
+> Some mice live in three adjacent houses connected pairwise by a road. Last night, each mouse left its home and went to one of the other two, always taking the shortest route. The figures in the design show how many mice there were yesterday and how many there are today in each house. How many mice have taken the path indicated by the arrow? A) 11
 > 	
 > B) 12
 > 	
@@ -1336,7 +1365,7 @@ This item is intended to record the information provided by the manufacturer.
 
 * when 77*
 
-> In the figure you see a way you can write the number 1015 as a sum of numbers where only the number 7 appears: in total the number has been used 10 times. If we want to write the number 2023 as the sum of positive numbers containing only the number 7, using that number 19 times, how many times do we have to use the number 77? A) 2
+> In the figure you see a way you can write the number 1015 as a sum of numbers where only the digit 7 appears: in total the digit has been used 10 times. If we want to write the number 2023 as the sum of positive numbers containing only the digit 7, using that digit 19 times, how many times do we have to use the number 77? A) 2
 > 	
 > B) 3
 > 	
@@ -1383,11 +1412,11 @@ This item is intended to record the information provided by the manufacturer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*report small/large hexagonal areas*
+*ratio of small/large hexagon areas*
 
 ![[src_kangourou_2023_cadet__prob28.png]]
 
-> The figure shows a regular hexagon broken down into four quadrilaterals and a smaller regular hexagon. The ratio of the grey region to the small area is 4/3. What is the ratio between the area of the small and the area of the large? A) 3/11 B) 1/3
+> The figure shows a regular hexagon broken down into four quadrilaterals and a smaller regular hexagon. The ratio of the area of the grey region to that of the small hexagon is 4/3. What is the ratio between the area of the small and the area of the large? A) 3/11 B) 1/3
 > 	
 > C) 2/3 D) 3/4 E) 3/5
 
@@ -1433,7 +1462,7 @@ This item is intended to record the information provided by the manufacturer.
 
 ![[src_kangourou_2023_cadet__prob29.png]]
 
-> James wrote on a sheet six consecutive integers; he then cut out from the sheet six francobolli, each containing one of the numbers and glued them onto the faces of three coins, one for each face. Then he threw these coins three times. On the first launch he saw numbers 6, 7, 8; on the second launch the sum of the numbers he saw was 23 and the third was 17. What's the sum of the numbers that didn't show up the first time? A) 18 B) 19
+> James wrote on a sheet six consecutive integers; he then cut out from the sheet six stamps, each containing one of the numbers and glued them onto the faces of three coins, one for each face. Then he threw these coins three times. On the first throw he saw numbers 6, 7, 8; on the second throw the sum of the numbers he saw was 23 and the third was 17. What's the sum of the numbers that didn't show up the first time? A) 18 B) 19
 > 	
 > C) 23 D) 24 E) 30
 
@@ -1483,7 +1512,7 @@ This item is intended to record the information provided by the manufacturer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min tenth batch points *
+*min points tenth game*
 
 > A rugby team scored 24 points in the seventh game of the 2022 season, 17 points in the eighth and 25 points in the ninth. The average score per game after nine games was higher than the average after the first six games; the average after ten games was higher than 22. What is the minimum number of points that the team can have scored in the tenth game? A) 22 B) 23
 > 	

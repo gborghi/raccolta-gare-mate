@@ -32,9 +32,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Today's cost (with total input of 1.70) *
+*Cost of the newspaper (with supplement total 1.70)*
 
-> The newspaper with the insert A newspaper with the insert costs 1 euro 70 cents. Daily and insert can be purchased separately and the daily costs 70 cents more than the insert. How many cents does a daily cost?
+> The newspaper with the supplement       
+>         A newspaper with the supplement costs 1 euro and 70 cents. The newspaper and the supplement can be 
+> bought separately and the newspaper costs 70 cents more than the supplement. How many cents does the 
+> newspaper cost?
 
 **Answer:** 120
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q01|src_kangourou_2015_squadre_ecolier_f__Q01]]
@@ -64,9 +67,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 10-cent coins (20 coins, 5 euro) *
+*How many 10-cent coins (20 coins, 5 euros)*
 
-> Isabella Isabella's coins have 20 coins in her purse, for a total value of 5 euros. Some coins are 10 cents, others 20 cents, others 50 cents. Fifty-cent coins are more than ten-cent coins. How much are those 10 cents?
+> Isabella's coins             
+>         Isabella has 20 coins in her purse, for a total value of 5 euros. Some coins are 
+> 10 cents, others 20 cents, others 50 cents. The 50-cent coins are more than 
+> the 10-cent ones. How many are the 10-cent ones?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q02|src_kangourou_2015_squadre_ecolier_f__Q02]]
@@ -98,7 +104,7 @@ level: squadre
 
 *Last four digits after writing 1788 digits*
 
-> One by one Alberto writes down the whole numbers starting from 1, this way: 1 2 3 4 5 6 7 8 9 10 11 12... . When you write 1788 digits, you get tired and stop. What are the last four digits you wrote?
+> One by one Alberto writes down the whole numbers starting from 1, this way: 1 2 3 4 5 6 7 8 9 10 11 12... . When he has written 1788 digits, he gets tired and stops. What are the last four digits he wrote?
 
 **Answer:** 1632
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q03|src_kangourou_2015_squadre_ecolier_f__Q03]]
@@ -178,7 +184,7 @@ The longest route in the nine park alleys
 \end{document}
 ```
 
-> In the figure, you can see the layout of nine park avenues, each 100 meters long. Caesar wants to walk from point A to point B without going through any avenue twice, even passing more than once by any of the points where two or more avenues meet. How many meters is the longest path you can take?
+> In the figure, you can see the layout of nine park avenues, each 100 meters long. Caesar wants to walk from point A to point B without going through any avenue twice, while also passing more than once through some of the points where two or more avenues meet. How many meters is the longest path he can take?
 
 **Answer:** 700
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q04|src_kangourou_2015_squadre_ecolier_f__Q04]]
@@ -249,7 +255,7 @@ The longest route in the nine park alleys
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob6.png]]
 
-> The rectangles In the figure you see a grid with 6 rows and 5 columns, formed by approaching 30 squares all of the same size. Five of these squares are blackened. How many rectangles that do not contain any black squares can be found in the grid? Attention: among rectangles should also be considered squares, regardless of their size!
+> The rectangles In the figure you see a grid with 6 rows and 5 columns, formed by placing side by side 30 squares all of the same size. Five of these squares are blackened. How many rectangles that do not contain any black squares can be found in the grid? Attention: among rectangles should also be considered squares, regardless of their size!
 
 **Answer:** 99
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q06|src_kangourou_2015_squadre_ecolier_f__Q06]]
@@ -280,7 +286,7 @@ The longest route in the nine park alleys
 
 *Route length up and down doubling speed*
 
-> A cyclist climbs a mountain road constantly maintaining a speed of 21 kilometers per hour. When it goes down the same road, it doubles its speed, taking 50 minutes less time to climb. How many miles is that road?
+> A cyclist climbs a mountain road constantly maintaining a speed of 21 kilometers per hour. When he goes down the same road, he doubles his speed, taking 50 minutes less than the time he took to climb. How many kilometers is that road?
 
 **Answer:** 35
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q07|src_kangourou_2015_squadre_ecolier_f__Q07]]
@@ -314,7 +320,7 @@ The longest route in the nine park alleys
 
 *Maximum difference by exchanging two digits of 4129*
 
-> The difference Emma exchanges between them two of the digits of the number 4129. Luigi does the same thing, not knowing what numbers Emma traded. What is the maximum difference between Emma's number and Luigi's? B A
+> Emma exchanges two of the digits of the number 4129. Luigi does the same thing, without knowing which digits Emma exchanged. What is the maximum difference between Emma's number and Luigi's?
 
 **Answer:** 7695
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q08|src_kangourou_2015_squadre_ecolier_f__Q08]]
@@ -347,9 +353,9 @@ The longest route in the nine park alleys
 <div class="qlang-split" data-lang="en"></div>
 
 
-Turtles with 13 flavors out of 15 without lemon and pistachio together*
+Cakes with 13 flavors out of 15 without lemon and pistachio together*
 
-> The ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to pack an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors, including lemon and pistachio, told her that she can put up to 13 of them in her cake. Roberta's mom doesn't want the lemon and pistachio flavours in the cake. How many different cakes with 13 flavors can each choose Roberta's mom? (Two cakes are different if one has at least one taste that is not in the other.)
+> The ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to pack an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors, including lemon and pistachio, told her that she can put up to 13 of them in her cake. Roberta's mom doesn't want the lemon and pistachio flavors in the cake. Among how many different cakes with 13 flavors each can Roberta's mom choose? (Two cakes are different if one has at least one taste that is not in the other.)
 
 **Answer:** 27
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q09|src_kangourou_2015_squadre_ecolier_f__Q09]]
@@ -415,9 +421,14 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little knives to fill the sugar container*
+*Small spoons to fill the sugar jar*
 
-> The sugar container Giulia can fill with sugar by pouring a sugar container into it - 6 small spoons, 3 medium spoons and 1 large spoon, - or 2 small spoons, 1 medium spoon and 3 large spoons, - or 4 medium spoons and 2 large spoons, all filled with sugar. How many small spoons full of sugar do you need to fill the jar?
+> The sugar jar              
+>        Giulia can fill a jar with sugar by pouring into it 
+> - 6 small spoons, 3 medium spoons and 1 large spoon,  
+> - or 2 small spoons, 1 medium spoon and 3 large spoons,  
+> - or 4 medium spoons and 2 large spoons,  
+> all full of sugar. How many small spoons full of sugar are needed to fill the jar?
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q11|src_kangourou_2015_squadre_ecolier_f__Q11]]
@@ -450,7 +461,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 
 *Date written today counting months every 30 days*
 
-> What a carelessness! At Christmas, Alexander received a notebook of 365 pages. Every day, starting from the first of January last year and starting on the first page, Alexander wrote the date of the day (without the year) on the first page he found free: he started by writing 0101, then 0201 and so on (in some days of February he wrote for example 1302). To his hesitation, however, he wrote the dates as if every month had 30 days. What date did you write this morning?
+> How careless! At Christmas, Alexander received a notebook of 365 pages. Every day, starting from the first of January last year and starting on the first page, Alexander wrote the date of the day (without the year) on the first page he found free: he started by writing 0101, then 0201 and so on (in some days of February he wrote for example 1302). Through his carelessness, however, he wrote the dates as if every month had 30 days. What date did he write this morning?
 
 **Answer:** 805
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q12|src_kangourou_2015_squadre_ecolier_f__Q12]]
@@ -485,11 +496,11 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between black and white tiles 4000 black edge *
+*Difference between black and white tiles edge 4000 black*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob13.png]]
 
-> The mosaic you see in the figure is a mosaic formed by joining white square sheets and black square sheets, all of the same size. The outer edge of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but the outer edge of which, however, is made up of 4,000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
+> The mosaic you see in the figure is a mosaic formed by joining white square tiles and black square tiles, all of the same size. The outer edge of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but the outer edge of which, however, is made up of 4,000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
 
 **Answer:** 2001
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q13|src_kangourou_2015_squadre_ecolier_f__Q13]]
@@ -521,9 +532,14 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last year with maximum year ratio*
+*Last year with the maximum year quotient*
 
-> In this millennium, for a year between 2010 and 2999, we call the product of the year the quotient of the first with the last digit of the year divided by the sum of the two central digits. For example, this year's coefficient is 2 × 5: (0 + 1) = 10. In some of the next few years, the annual rate will be higher than 10. What will be the last year of this third millennium in which the annual rate will be as high as possible?
+> In this millennium          
+>       For a year between 2010 and 2999, let us call the quotient of the year the product of the 
+> first and the last digit of the year divided by the sum of the two middle digits. For example, the 
+> quotient of this year is 2 × 5 : (0 + 1) = 10. In some of the coming years, the quotient of the year 
+> will be greater than 10. What will be the last year of this third millennium in which the quotient of the year 
+> will be the greatest possible?
 
 **Answer:** 2109
 [[Quesiti/src_kangourou_2015_squadre_ecolier_f#q14|src_kangourou_2015_squadre_ecolier_f__Q14]]
@@ -568,7 +584,7 @@ Turtles with 13 flavors out of 15 without lemon and pistachio together*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob15.png]]
 
-> Four cubes The solid you see in the figure, prepared for EXPO 2015, is made by approaching four cubes, each two and a half meters by the side. It has to be painted on all sides, including the base, because every face of it has to be visible to the public. The cost of painting is two euros a kilogram and it takes five kilograms of paint to paint an area of four and a half square meters. How many euros will be spent on the paint needed to give a colorful hand to the solid?
+> Four cubes The solid you see in the figure, prepared for EXPO 2015, is obtained by placing four cubes side by side, each with a side of two and a half meters. It has to be painted on all sides, including the base, because every face of it has to be visible to the public. The paint costs two euros per kilogram and it takes five kilograms of paint to paint an area of four and a half square meters. How many euros will be spent on the paint needed to give a coat of paint to the solid?
 >  
 > 
 >  

@@ -63,11 +63,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question 2 (text not available in the sidecar)
+*Question 2 (text not available in the sidecar)*
 
-> With her boat, Elena turned around some buoys following the path shown in the figure. Which bows did Elena turn around in the off-season? (see figure)
+> With her little boat, Elena went around some buoys following the route shown in the figure. Around which buoys did Elena go in a counterclockwise direction? (see figure)
 > 
-> A) 1 e 4 B) 2, 3 e 5 C) 2 e 3 D) 1, 4 e 5 E) 1 e 3
+> A) 1 and 4
+> B) 2, 3 and 5
+> C) 2 and 3
+> D) 1, 4 and 5
+> E) 1 and 3
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_benjamin_gara#q02|src_kangourou_2022_benjamin_gara__Q02]]
@@ -104,9 +108,9 @@ Question 2 (text not available in the sidecar)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of packages for 95 bags*
+*Minimum number of packages for 95 marbles*
 
-> The bookstore sells beans in packs of 5, 10 or 25. Tom bought exactly 95 beans. What's the minimum number of packages you can buy? A) 4
+> The stationer sells marbles in packs of 5, 10 or 25. Tom bought exactly 95 marbles. What's the minimum number of packages he could have bought? A) 4
 >   
 > B) 5
 >   
@@ -158,7 +162,7 @@ Minimum number of vehicles to move to get the black car out
 
 ![[src_kangourou_2022_benjamin_gara__prob4.png]]
 
-> In the garage shown in the figure, vehicles can only move forward or backward, but they cannot turn. What is the minimum number of vehicles a black car can move out of the garage? A) 2
+> In the garage shown in the figure, vehicles can only move forward or backward, but they cannot turn. What is the minimum number of vehicles to move for the black car to get out of the garage? A) 2
 >   
 > B) 3
 >   
@@ -207,9 +211,9 @@ Minimum number of vehicles to move to get the black car out
 
 ![[src_kangourou_2022_benjamin_gara__prob5.png]]
 
-> Bianca brings up the seven cards you see in the picture.
+> Bianca places the seven cards side by side you see in the picture.
 >  
-> So the resulting 12-digit number is as small as possible. What are the last three digits of that number?
+> so that the resulting 12-digit number is as small as possible. What are the last three digits of that number?
 > 
 > A) 699 B) 113 C) 551 D) 967 E) 459
 
@@ -249,9 +253,9 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragments of pizza with ham and vegetables *
+*Slices of pizza with ham and vegetables *
 
-> A pizza boy cut a pizza into 12 slices and then cooked it using the ingredients he had: mushrooms, ham and vegetables. She put only mushrooms on three slices; she put ham on seven slices and vegetables on five slices. Not one slice is left unsecured. How many slices are found to have both ham and vegetables? A) 1
+> A pizza maker cut a pizza into 12 slices and then topped it using the ingredients he had: mushrooms, ham and vegetables. He put only mushrooms on three slices; he put ham on seven slices and vegetables on five slices. No slice was left without topping. How many slices have both ham and vegetables? A) 1
 >   
 > B) 2
 >   
@@ -293,11 +297,11 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope fraction to lift the white cab *
+*Spin fraction to lift the white cab *
 
 ![[src_kangourou_2022_benjamin_gara__prob7.png]]
 
-> One of the two white cabins currently located further down in the panoramic wheel is to be taken to the farthest position from the ground. To that end, which of the following fractions of a full lap is enough to make the wheel complete? A) 5/6 B) 1/2 C) 5/12 D) 1/6 E) 1/12
+> One of the two white cabins currently located further down in the Ferris wheel is to be taken to the farthest position from the ground. To that end, which of the following fractions of a full lap is enough to make the wheel complete? A) 5/6 B) 1/2 C) 5/12 D) 1/6 E) 1/12
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_benjamin_gara#q07|src_kangourou_2022_benjamin_gara__Q07]]
@@ -337,7 +341,7 @@ Minimum number of vehicles to move to get the black car out
 
 *Number of pieces never to be obtained by dividing by three*
 
-> Julia has a very long tape. He cuts it into three pieces; then he takes each piece one after another and divides it back into three and repeats this operation several times. In the course of his work every now and then, as soon as he has finished dividing some pieces into three, he stops and counts the number of pieces he has obtained: which of the following numbers can he never get? A) 13
+> Julia has a very long tape. She cuts it into three pieces; then she takes each piece one after another and divides it back into three and repeats this operation several times. In the course of her work every now and then, as soon as he has finished dividing some pieces into three, he stops and counts the number of pieces he has obtained: which of the following numbers can he never get? A) 13
 >   
 > B) 17
 >   
@@ -421,7 +425,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubets with exactly 4 faces painted in 2022*
+*Small cubes with exactly 4 faces painted in 2022*
 
 ![[src_kangourou_2022_benjamin_gara__prob10.png]]
 
@@ -431,7 +435,7 @@ Minimum number of vehicles to move to get the black car out
 >   
 > C) 46 D) 54
 >   
-> E) 60 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 60 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_benjamin_gara#q10|src_kangourou_2022_benjamin_gara__Q10]]
@@ -470,13 +474,22 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible situation of elephants after biving*
+*Impossible situation of elephants after the fork*
 
 ![[src_kangourou_2022_benjamin_gara__prob11.png]]
 
-> Five adult elephants and four young elephants, lined up as shown, move along a track in the savannah without ever crossing over. When
+> Five 
+> adult 
+> elephants 
+> and 
+> four 
+> baby elephants, lined up as in the figure, move 
+> along a track in the savanna without ever overtaking one another. 
+> When  
 > 
-> And they come to the diversion, every one of them turning to the right or to the left, without a rule. Which of the following cannot be the case after everyone has crossed the divide? A)
+> they reach the fork, each of them turns right or left, without a rule. 
+> Which of the following cannot be the situation after all of them have passed the 
+> fork? A)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_benjamin_gara#q11|src_kangourou_2022_benjamin_gara__Q11]]
@@ -519,7 +532,7 @@ Minimum number of vehicles to move to get the black car out
 
 ![[src_kangourou_2022_benjamin_gara__prob12.png]]
 
-> Clear starts from 12 and follows the path of the arrows by applying the rules (multiplication or division) shown in the figure to the left. What number does it end with? A) 3
+> Chiara starts from 12 and follows the path of the arrows by applying the rules (multiplication or division) shown in the figure to the left. What number does it end with? A) 3
 >   
 > B) 6
 >   
@@ -569,7 +582,7 @@ Minimum number of vehicles to move to get the black car out
 
 ![[src_kangourou_2022_benjamin_gara__prob13.png]]
 
-> The figure shows a water tank in the form of a straight parallel piped (i.e. box with all rectangular faces) in two different positions. Its dimensions are 1m×2m×4m and when placed on a face of 2m×4m the water in it reaches a height of 25 cm. What height does the parallelepiped reach when lying on a face measuring 1m×2m? A) 25 cm B) 50 cm C) 75 cm D) 1 m E) 1,25 m
+> The figure shows a water tank in the form of a right parallelepiped (i.e. box with all rectangular faces) in two different positions. Its dimensions are 1m×2m×4m and when placed on a face of 2m×4m the water in it reaches a height of 25 cm. What height does it reach when lying on a face measuring 1m×2m? A) 25 cm B) 50 cm C) 75 cm D) 1 m E) 1,25 m
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_benjamin_gara#q13|src_kangourou_2022_benjamin_gara__Q13]]
@@ -634,7 +647,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded rim in the rectangle 90cm2*
+*Area of the shaded rhombus in the rectangle 90cm2*
 
 ![[src_kangourou_2022_benjamin_gara__prob14.png]]
 
@@ -652,7 +665,7 @@ Minimum number of vehicles to move to get the black car out
 \end{document}
 ```
 
-> In the figure you see a rectangle that has an area of 90 cm2. From the midpoints of its two sides of greater length, the segments connecting them to its four vertices have been mapped. How many square centimetres is the area of the shaded rim? A) 18
+> In the figure you see a rectangle that has an area of 90 cm2. From the midpoints of its two sides of greater length, the segments connecting them to its four vertices have been mapped. How many square centimetres is the area of the shaded rhombus? A) 18
 >   
 > B) 22
 >   
@@ -705,11 +718,11 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image on the fourfold folded sheet*
+*Image on the sheet folded in four*
 
 ![[src_kangourou_2022_benjamin_gara__prob15.png]]
 
-> The figure shows a drawing made on a square sheet of transparent paper. The sheet is folded twice as shown in the figure. Which of the following images can be seen on the fourfold folded sheet? A)
+> The figure shows a drawing made on a square sheet of transparent paper. The sheet is folded twice as shown in the figure. Which of the following images can be seen on the sheet folded in four? A)
 >  
 > B)
 >  
@@ -759,7 +772,7 @@ Minimum number of vehicles to move to get the black car out
 
 ![[src_kangourou_2022_benjamin_gara__prob16.png]]
 
-> By removing, as suggested by the figure, cubes of different sizes from a complete A cube, three more solids can be obtained. Which of the four solids requires the least amount of paint to be fully painted? A) A
+> By removing, as suggested by the figure, cubes of different sizes from a complete cube A, three more solids can be obtained. Which of the four solids requires the least amount of paint to be fully painted? A) A
 >   
 > B) B
 >   
@@ -805,7 +818,7 @@ Minimum number of vehicles to move to get the black car out
 
 *Minimum age of Eva turtle by end of 2022*
 
-> The year 2022 is a special year as the figure 2 appears three times. It's the third time the turtle Eva has seen a year with three digits equal. How old will Eva be at the end of 2022? A) 18
+> The year 2022 is a special year as the figure 2 appears three times. It's the third time the turtle Eva has seen a year with three equal digits. What is the minimum age Eva will be at the end of 2022? A) 18
 >   
 > B) 20
 >   
@@ -852,11 +865,11 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the circle with question point (Latin square) *
+*Number in the circle with question mark (Latin square) *
 
 ![[src_kangourou_2022_benjamin_gara__prob18.png]]
 
-> Andrea wants to complete the diagram so that in each row, in each column and in each set of four circles connected by segments all four numbers 1, 2, 3, 4 (one per circle) appear. What number should Andrew write in the circle indicated by the question mark? A) 1
+> Andrea wants to complete the diagram so that in each row, in each column and in each set of four circles connected by segments all four numbers 1, 2, 3, 4 (one per circle) appear. What number should Andrea write in the circle indicated by the question mark? A) 1
 >   
 > B) 2
 >   
@@ -971,7 +984,7 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum for each segment with 3.9*
+*Maximum sum on each segment with 3..9*
 
 ![[src_kangourou_2022_benjamin_gara__prob20.png]]
 
@@ -992,17 +1005,25 @@ Minimum number of vehicles to move to get the black car out
 \end{document}
 ```
 
-> James writes the seven numbers 3, 4, 5, 6, 7, 8, 9 in the circles of the figure, paying attention to ensuring that the sums of the three numbers on each segment are equal. What is the maximum sum that James can get on each segment?
+> Giacomo writes the seven numbers 3, 4, 5, 6, 7, 8, 9 in the circles
+> of the figure, taking care to make the sums of the three numbers
+> on each segment equal. What is the
+> maximum sum that Giacomo can obtain on each segment?  
 >   
-> E) E) 6
+> E)   
+> E) 6 
 > 
-> A) 102 A)
+> A) 102   
+> A)   
 >   
-> A) 28
+> A) 28  
 >   
-> B) 18
+> B) 18  
 >   
-> (c) 22 D) 16 E) 20 Questions from N. 21 al N. 30 is worth 5 points each.
+> C) 22    
+> D) 16    
+> E) 20 
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_benjamin_gara#q20|src_kangourou_2022_benjamin_gara__Q20]]
@@ -1099,7 +1120,7 @@ How many players are definitely weaker than the loser of the final?
 
 ![[src_kangourou_2022_benjamin_gara__prob22.png]]
 
-> In the table next to each animal represents a positive integer and different animals represent different numbers. Under each column the sum of the two numbers represented by the animals occupying it is indicated. What is the maximum value of the sum of the four integers in the first line? A) 18
+> In the table alongside, each animal represents a positive integer and different animals represent different numbers. Under each column the sum of the two numbers represented by the animals occupying it is indicated. What is the maximum value of the sum of the four integers in the first row? A) 18
 >   
 > B) 19
 >   
@@ -1142,11 +1163,11 @@ How many players are definitely weaker than the loser of the final?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit code of the suggestion lock*
+*Three-digit code of the lock from the clues*
 
 > Paul has to open a three-digit lock. Francis gives him these suggestions: - in sequence 682 only one of the digits is correct and it is in the right place, - in sequence 614 only one of the digits is correct, but it is in a wrong place, - in sequence 206 exactly two digits are correct, but both are in the wrong places, - in sequence 738 all the digits are wrong. What's the code to open the lock?
 >  
-> B) 082 C) 642 D) 042 E) 012
+> A) 062 B) 082 C) 642 D) 042 E) 012
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_benjamin_gara#q23|src_kangourou_2022_benjamin_gara__Q23]]
@@ -1236,11 +1257,11 @@ Which solid represents Anna's from another perspective
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits can be written in the shadow box*
+*How many numbers can be written in the shaded box*
 
 ![[src_kangourou_2022_benjamin_gara__prob25.png]]
 
-> Albert chooses four of the five numbers 2, 3, 4, 5 and 6 and inserts each of them into one of the frames in the figure so as to write a correct equality. How many of the five numbers can Albert write in the shaded box? A) 1
+> Albert chooses four of the five numbers 2, 3, 4, 5 and 6 and inserts each of them into one of the boxes in the figure so as to write a correct equality. How many of the five numbers can Albert write in the shaded box? A) 1
 >   
 > B) 2
 >   
@@ -1396,27 +1417,27 @@ Which solid represents Anna's from another perspective
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat development that does not produce the solid shown*
+*Plane net that does not produce the solid shown*
 
 ![[src_kangourou_2022_benjamin_gara__prob27.png]]
 
-> Look at this picture:
+> Look at this image:  
 >  
-> Which of the following development plans, if re-wrapped, does not produce a solid that, by an opA)
+> Which of the following plane nets, if folded back up, does not produce a solid that, from a suitable point of view, has this appearance? 
 >   
-> D) 4
+> A)   
 >   
-> E) 5
+> D) 4  
 >   
-> Do you have a point of view, do you?
+> E) 5 
 >   
-> B)
+> B)   
 >   
-> C)
+> C)  
 >   
-> D)
+> D)   
 >   
-> E)
+>       E)  
 >
 
 **Answer:** B
@@ -1461,7 +1482,7 @@ Which solid represents Anna's from another perspective
 
 Where the school is located minimizing distances
 
-> Four countries A, B, C and D are aligned in this order along the road linking them, each country at a constant distance of 10 km from the next. There are 10 students in country A, 20 in country B, 30 in country C and 40 in country D. The authorities built the school so that the sum of the distances traveled by the various students to school was as small as possible. Where is the school? A) In A.
+> Four villages A, B, C and D are aligned in this order along the road linking them, each village at a constant distance of 10 km from the next. There are 10 students in village A, 20 in village B, 30 in village C and 40 in village D. The authorities built the school so that the sum of the distances traveled by the various students to school was as small as possible. Where is the school? A) In A.
 >   
 > B) In B . C) Exactly halfway between B and C. D) In C.
 >   
@@ -1596,7 +1617,7 @@ Where the school is located minimizing distances
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of people with table hat
+Maximum number of people with a hat at the table
 
 > Thirty people are sitting around a round table. Some of them wear hats. Those who wear the hat always tell the truth, while those who do not wear it can either lie or tell the truth. Each of them says, "At least one of my two neighbors doesn't wear a hat". How many people can wear the hat at most? A) 5
 >   

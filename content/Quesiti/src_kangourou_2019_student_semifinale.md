@@ -39,7 +39,7 @@ level: kangourou
 
 *Trajectory of the vertex A in two rotations of the rectangle*
 
-> (Points 2) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled from summit A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
+> (Points 2) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled by vertex A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_student_semifinale#q01|src_kangourou_2019_student_semifinale__Q01]]
@@ -73,7 +73,7 @@ level: kangourou
 
 The probability that a 4-digit palindrome is divisible by 7*
 
-> (Points 3) If you randomly pick a four-digit palindrome integer, what is the probability that it is divisible by 7? A) 1/9         	   B) 1/8 C) 1/7 D) 1/6 E) 1/5
+> (Points 3) If you randomly pick a four-digit significant palindrome integer, what is the probability that it is divisible by 7? A) 1/9         	   B) 1/8 C) 1/7 D) 1/6 E) 1/5
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_semifinale#q02|src_kangourou_2019_student_semifinale__Q02]]
@@ -107,9 +107,13 @@ The probability that a 4-digit palindrome is divisible by 7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which whole area cube shaft in the cut*
+*Which edge of the cube gives an integer area in the cut*
 
-> Cutting a cube with a plane passing through two of its opposite vertices and the midpoints of two opposite vertices not containing these vertices gives a quadrilateral whose area, in square centimetres, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the cube's tips? (A) 1 B) √ 8 C) √ 12 D) √ 27 E) None
+> (3 points) By cutting a cube with a plane that passes through two of its opposite vertices and through the midpoints of two opposite edges that do not contain those vertices, one obtains a quadrilateral whose area, in square centimeters, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the edges of the cube?
+> A) 1                 B) √8	 	
+> C) √12	
+> D) √27  	
+> E) None
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_semifinale#q03|src_kangourou_2019_student_semifinale__Q03]]
@@ -153,11 +157,11 @@ The probability that a 4-digit palindrome is divisible by 7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where the ball folds the left edge of the grid 4x2019*
+Where the ball hits the left edge of the grid 4x2019*
 
 ![[src_kangourou_2019_student_semifinale__prob4.png]]
 
-> (Points 4) In Figure A, B, C, D and E, the 5 points of contact between the left vertical edge of a rectangular grid 4× 2019 and the horizontal segments delimiting the square cells of that grid are indicated (from the top). A ball (shaped points!) is thrown from the point E towards the inside of the grid at an angle of 45 degrees (as opposed to the sides of the grid) and bounces regularly whenever it hits the edges of the grid: the figure suggests the initial trajectory of the ball. When the ball hits the left edge of the grid for the first time, where does it hit it? A) A B) B
+> (Points 4) In Figure A, B, C, D and E, the 5 points of contact between the left vertical edge of a rectangular grid 4× 2019 and the horizontal segments delimiting the square cells of that grid are indicated (from the top). A ball (dotted!) is thrown from the point E towards the inside of the grid at an angle of 45 degrees (as opposed to the sides of the grid) and bounces regularly whenever it hits the edges of the grid: the figure suggests the initial trajectory of the ball. When the ball hits the left edge of the grid for the first time, where does it hit it? A) A B) B
 > 	
 > C) C D) D E) E
 
@@ -195,7 +199,7 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central number in alignment 1-17 with sums squared*
+*Central number in alignment 1-17 with square sums*
 
 > (Points 4) The integers from 1 to 17 included have been aligned so that the sum of two consecutive numbers is always a perfect square (and of course in the alignment each appears once and only once). What number is in the centre of the alignment? A) 3
 > 	
@@ -239,9 +243,9 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the hundreds of 2019xN data dividers of 3N and 5N*
+*Hundreds digit of 2019xN given divisors of 3N and 5N*
 
-> (Points 4) Of a positive integer N we know that the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the number of hundreds of the 2019 number × N? Note: The divisors of a number include 1 and the number itself. A) 1
+> (Points 4) Of a positive integer N we know that the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the hundreds digit of the number 2019 × N? Note: The divisors of a number include 1 and the number itself. A) 1
 > 	
 > B) 3
 > 	
@@ -283,9 +287,16 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate sums with additions 3 and 5 (link) *
+*How many distinct sums with addends 3 and 5 (constraints)*
 
-> How many sums of all the different ones can be obtained by adding up at least two integers and at most nine integers, each of which is either 3 or 5, if you want there to be no more than six additions equal to 3 and no more than three additions equal to 5? A) 23 B) 25 C) 28 D) 26 E) 27
+> (Points 5) How many sums all different from each other can be obtained by adding at least two
+> integers and at most nine integers, each of which is either 3 or 5, if we want there to be no more than six
+> addends equal to 3 and no more than three addends equal to 5?
+> A) 23
+> B) 25
+> C) 28
+> D) 26
+> E) 27
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_student_semifinale#q07|src_kangourou_2019_student_semifinale__Q07]]
@@ -323,7 +334,7 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of 6 digits for the whole until 2019*
+*Maximum sum of digits in base 6 for an integer up to 2019*
 
 > (Points 5) For an integer that does not exceed 2019, what is the largest possible sum of digits if you write it in base six (i.e. using the digits from 0 to 5) and if that sum is also written in base six? A) 15 B) 20 C) 22 D) 24 E) 32 A B C D E
 
@@ -360,9 +371,9 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of 16 two-letter length alignments (links) *
+*Number of strings of length 16 of two letters (constraints) *
 
-> (Points 6) How many different alignments of 16 two-letter lengths are possible if each alignment is to begin and end with the same letter, if the initial letter does not appear twice in a row and the other does not appear three times in a row? A) 28 B) 42 C) 44 D) 46 E) 56 Questions to be answered
+> (Points 6) How many different strings of length 16 of two letters are possible if each string is to begin and end with the same letter, if the initial letter does not appear twice in a row and the other does not appear three times in a row? A) 28 B) 42 C) 44 D) 46 E) 56
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_student_semifinale#q09|src_kangourou_2019_student_semifinale__Q09]]
@@ -393,7 +404,7 @@ Where the ball folds the left edge of the grid 4x2019*
 
 *Maximum k by hanging a digit to the right of N to get kN*
 
-> (Points 4) To the (decimal) notation of a positive integer N I added a figure outside: thus I obtained a number (with a figure more than N) which is k times N, with k integers. What 's the maximum value of k ?
+> (Points 4) To the (decimal) notation of a positive integer N I added a digit to the right: thus I obtained a number (with one more digit than N) which is k times N, with k an integer. What 's the maximum value of k ?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2019_student_semifinale#q10|src_kangourou_2019_student_semifinale__Q10]]
@@ -422,9 +433,12 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of parallel-piped beads with an octahedral volume of 150 *
+*Maximum sum of edges of a rectangular parallelepiped with octahedron volume 150*
 
-> (Points 5) In each parallel-piped rectangle the centers of the six faces are the vertices of an octahedron. If the measures of the parallel-pipedal shoulders are each expressed in an integer number of centimetres and the volume of the octahedron is 150 cm3, what is the maximum value of the sum of the measures of the parallel-pipedal shoulders?
+> (5 points) In every rectangular parallelepiped the centers of the six faces are the vertices of an octahedron. If 
+> the measures of the edges of the parallelepiped are each expressed by an integer number of centimeters 
+> and the volume of the octahedron is 150 cm3, what can the sum of the measures of the 
+> edges of the parallelepiped be at most?
 
 [[Quesiti/src_kangourou_2019_student_semifinale#q11|src_kangourou_2019_student_semifinale__Q11]]
 
@@ -454,9 +468,14 @@ Where the ball folds the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many voters lied in the two cities of the referendum
+*How many voters lied in the two towns of the referendum*
 
-> (Parliament adopted the legislative resolution) In two cities, A with 8,400 voters and B with 6,900 voters, immediately after the vote, each voter was asked how they voted: in both cities half of the responses received were SI and half were NO. However, it turned out that in A SI won with 70% of the vote while in B NO always won with 70% of the vote. If, consistent with the results obtained, in A as few voters as possible lied and in B as many as possible, how many voters lied overall in the two cities?
+> (Points 5) A referendum was held in Kanglandia. In two small towns, A with 8,400 voters and B with 
+> 6,900 voters, immediately after the vote every voter was asked how they had voted: in both 
+> towns half of the answers obtained were "YES" and half were "NO". Once the count was done, however, it 
+> turned out that in A "YES" won with 70% of the votes while in B "NO" won also with 70% 
+> of the votes. If, consistently with the results obtained, in A the smallest possible number of 
+> voters lied and in B the largest, how many voters lied in total in the two towns?
 
 [[Quesiti/src_kangourou_2019_student_semifinale#q12|src_kangourou_2019_student_semifinale__Q12]]
 
@@ -497,14 +516,14 @@ How many voters lied in the two cities of the referendum
 
 *Minimum grid blackout cells 6x2019 (connected domain) *
 
-> (Points 6) In a grid of 6 square cells we say that two cells are adjacent if we share one side. You want to blacken some cells so that
+> (Points 6) In a grid of 6×2019 square cells we say that two cells are adjacent if they share one side. You want to blacken some cells so that
 > 	
 > (a) each white cell is adjacent to a black cell;
 > 	
-> (b) either two blackened cells are selected, they can be connected by a sequence
+> (b) however two blackened cells are chosen, they can be connected by a sequence
 > 	
 > 	
-> order of black cells starting with one of the two and terminating with the other, each
+> ordered sequence of black cells starting with one of the two and terminating with the other, each
 > 	
 > 	
 > (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to get the purpose?
@@ -536,9 +555,13 @@ How many voters lied in the two cities of the referendum
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum score Giraffe (geometric vs arithmetic)
+*Minimum score Giraffes (geometric vs arithmetic)*
 
-> The Kangaroos and the Giraffes faced each other in a basketball game. The match lasted four times: at the end of the first the teams were tied, but in the end the Kangaroos won with a margin of victory. The Crab scores, individually considered in the four times, are in geometric progression, while those of the Giraffe are in arithmetic progression. What's the minimum score for the total score at the end of the Giraffe game?
+> (6 points)  The Kangaroos team and the Giraffes team faced each other in a basketball
+> game. The game lasted four quarters: at the end of the first the teams were tied, but in the end
+> the Kangaroos won by a one-point margin. The Kangaroos' scores, considered individually in the
+> four quarters, are in geometric progression, while those of the Giraffes are in arithmetic progression.
+> What is the minimum possible value for the total score achieved at the end of the game by the Giraffes?
 
 [[Quesiti/src_kangourou_2019_student_semifinale#q14|src_kangourou_2019_student_semifinale__Q14]]
 
@@ -563,9 +586,9 @@ Minimum score Giraffe (geometric vs arithmetic)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of circle rays inscribed in T, P, Q (rectangular triangle) *
+*Sum of radii of circles inscribed in T, P, Q (right triangle) *
 
-> (Points 6) The catheters of a right triangle T are 30 and 40. The height relative to the hypotenuse divides T into two triangles P and Q. What is the sum of the radii of the circles inscribed in T, P and Q?
+> (Points 6) The legs of a right triangle T measure 30 and 40. The altitude relative to the hypotenuse divides T into two triangles P and Q. What is the sum of the radii of the circles inscribed in T, P and Q?
 
 [[Quesiti/src_kangourou_2019_student_semifinale#q15|src_kangourou_2019_student_semifinale__Q15]]
 
@@ -593,9 +616,12 @@ Minimum score Giraffe (geometric vs arithmetic)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of the two brake pads of the reel*
+*Minimum sum of the two break marks of the ruler*
 
-> (Points 7) Enrica had a reel with more than five tails, numbered in sequence: accidentally she broke it in two with the breaking point on horseback between the two tails. By chance, the sum of the numbers on both sides is the same. What is the minimum value of the sum of the numbers denoting the two horse-drawn ticks whose reel has been broken?
+> (7 points) Enrica had a ruler with more than five marks, numbered in sequence: accidentally
+> she broke it into two parts with the breaking point between two marks. By chance, the
+> sum of the numbers present on the two parts is the same. What must be, at minimum, the sum of the
+> numbers that denote the two marks between which the ruler broke?
 
 [[Quesiti/src_kangourou_2019_student_semifinale#q16|src_kangourou_2019_student_semifinale__Q16]]
 
@@ -621,9 +647,9 @@ Minimum score Giraffe (geometric vs arithmetic)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum elements together for 2019 ways to choose two disjoint sub-sets*
+*Minimum number of elements in a set for 2019 ways of choosing two disjoint subsets*
 
-> (Points 7) What is the minimum number of elements that a set must have in order for there to be at least two different ways of choosing two non-empty sub-sets?
+> (7 points) What is the minimum number of elements that a set must have, so that there are at least 2019 different ways of choosing two non-empty disjoint subsets of it?
 
 [[Quesiti/src_kangourou_2019_student_semifinale#q17|src_kangourou_2019_student_semifinale__Q17]]
 
@@ -662,7 +688,7 @@ Minimum score Giraffe (geometric vs arithmetic)
 
 *How many ways to buy 30 pieces between three types (max 20 each) *
 
-> (Documents 8) In a shop there are three different types of items, and for each type, there are 20 pieces. A customer who wants to buy 30 of those pieces, regardless of the type, how many different ways than the types can he do it?
+> (8 points) In a shop there are three different types of items, and for each type, there are 20 pieces. A customer who wants to buy 30 of those pieces, regardless of the type, in how many different ways with respect to the types can he do it?
 > 
 > 0019 0902 7200 4040 0074 0024 0029 0008 0331
 

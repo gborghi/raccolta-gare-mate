@@ -36,11 +36,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Angela's age in the months following Carlotta's birth
+*Angela's age in months when Carlotta was born*
 
-> Angela was born in 1997, her younger sister Carlotta in 2001. When Carlotta was born, Angela's age, in months, was certainly less than 48.
+> Angela was born in 1997, her little sister Carlotta in 2001. When Carlotta was born
+> Angela's age, in months, certainly was
+> A) less than 48.	 	
 > 	
-> B) between 47 and 61. (c) between 35 and 49. D) greater than 48. (e) between 36 and 60.
+> B) between 47 and 61.	              
+> C) between 35 and 49.	 	
+> D) greater than 48.            
+> E) between 36 and 60.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_student#q01|src_kangourou_2015_marzo_student__Q01]]
@@ -76,7 +81,7 @@ Angela's age in the months following Carlotta's birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*An estimated number of ants in Italy*
+*Estimating the number of ants in Italy*
 
 > In Italy, it is estimated that there are about 500,000 ants per individual. If the Italian population is about 60 million individuals, how many ants are there in Italy? A) 3 × 106
 > 	
@@ -120,7 +125,7 @@ Angela's age in the months following Carlotta's birth
 
 *How many solutions has 2^(2x) = 4^(x+1) *
 
-> How many solutions does the equation 22x = 4x + 1 have? A) 0
+> How many solutions does the equation 2^(2x) = 4^(x+1) have? A) 0
 > 	
 > (B) Infinite (C) 2
 > 	
@@ -304,7 +309,7 @@ Total sum 2001-2031 divided by 31
 
 ![[src_kangourou_2015_marzo_student__prob7.png]]
 
-> A square sheet of paper such as that in the figure folded along the lines drawn so as to reduce it to a square of 1/9 of the area of the starting line. In this square, a corner is cut and the sheet is stretched again. How many holes (wholly surrounded by paper) are there on the sheet? A) 0
+> A square sheet of paper such as that in the figure is folded along the dashed lines so as to reduce it to a small square of area 1/9 of the starting one. In this square, a corner is cut and the sheet is stretched again. How many holes (wholly surrounded by paper) are there on the sheet? A) 0
 > 	
 > B) 1
 > 	
@@ -350,11 +355,11 @@ Total sum 2001-2031 divided by 31
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paper form for lateral surface of cone trunk*
+*Paper form for lateral surface of truncated cone*
 
 ![[src_kangourou_2015_marzo_student__prob8.png]]
 
-> A glass is shaped like a cone trunk (see figure). We want to cut out colored paper to cover the side surface of the glass. What shape, among those shown in the following figures, must the paper have if we want it to cover the entire surface without overlapping and without any areas where the paper overlaps itself? A) B) C) D) E)
+> A glass is shaped like a truncated cone (see figure). We want to cut out colored paper to cover the side surface of the glass. What shape, among those shown in the following figures, must the paper have if we want it to cover the entire surface without overlapping and without any areas where the paper overlaps itself? A) B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_student#q08|src_kangourou_2015_marzo_student__Q08]]
@@ -445,9 +450,9 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eligible acute convex quadrilateral angles *
+*Eligible values for acute angles of a convex quadrilateral *
 
-> The list of all eligible values for the number of sharp angles of a convex quadrilateral is one of the following: which? A) 0, 1, 2.
+> The list of all eligible values for the number of acute angles of a convex quadrilateral is one of the following: which? A) 0, 1, 2.
 > 	
 > B) 0, 1, 2, 3.
 > 	
@@ -455,7 +460,7 @@ This is the total amount of the loan.
 > 	
 > D) 0, 1, 3.
 > 	
-> E) 1, 2, 3. The questions from N. 11 al N. 20 is worth 4 points each.
+> E) 1, 2, 3. The questions from N. 11 to N. 20 is worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2015_marzo_student#q10|src_kangourou_2015_marzo_student__Q10]]
@@ -486,9 +491,14 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the underlying asset.
+*Value of root of expression with 2015*
 
-> What is the value of √ (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015) ? A) √ 2015 B) 2015 C) 2016 D) 2017 E) 4030
+> What is the value of √ (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015)  ? 
+> A) √ 2015	
+> B) 2015		
+> C) 2016		
+> D) 2017		
+> E) 4030
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_student#q11|src_kangourou_2015_marzo_student__Q11]]
@@ -582,7 +592,7 @@ This is the total value of the underlying asset.
 > 	
 > B) -16 C) -8 D) -3
 > 	
-> E) He can 't do it
+> E) She can't do it
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_student#q13|src_kangourou_2015_marzo_student__Q13]]
@@ -619,9 +629,9 @@ This is the total value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*e=b, a+b=d, e-d=b: the major*
+*e=b, a+b=d, e-d=b: the largest*
 
-> These are the five positive integers, different from each other, a, b, c, d, e. We know that c: e = b, a + b = d, and - d = b. Which is the largest of the five integers? A) a
+> These are the five positive integers, different from each other, a, b, c, d, e. We know that c: e = b, a + b = d, e - d = b. Which is the largest of the five integers? A) a
 > 	
 > B) b
 > 	
@@ -666,7 +676,7 @@ This is the total value of the underlying asset.
 
 *average of six*
 
-> The geometric mean of n numbers is defined as the n-th root of the product of n numbers. If the geometric mean of two sets of numbers is 3 and 12, what is the geometric mean of the set formed by all six numbers? A) 4
+> The geometric mean of n numbers is defined as the n-th root of the product of n numbers. If the geometric mean of two triples of numbers is 3 and 12, what is the geometric mean of the set formed by all six numbers? A) 4
 > 	
 > B) 6
 > 	
@@ -750,9 +760,9 @@ This is the total value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*price report*
+*price ratio*
 
-> A car salesman bought and sold two cars. Compared to the purchase prices, it resold the first one at a price above 40% and the second one at a price above 60%. The total revenue for the two cars was 54% more than the sum of the purchase prices. What is the ratio of the prices paid by the dealer for the first and second cars? (A) 2:3 B) 20:27 C) 3:7 D) 7:12 E) The information is not sufficient to answer.
+> A car salesman bought and sold two cars. Compared to the purchase prices, it resold the first one at a price above 40% and the second one at a price above 60%. The total revenue for the two cars was 54% more than the sum of the purchase prices. What is the ratio of the prices paid by the dealer for the first and second cars? A) 2:3 B) 20:27 C) 3:7 D) 7:12 E) The information is not sufficient to answer.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2015_marzo_student#q17|src_kangourou_2015_marzo_student__Q17]]
@@ -810,7 +820,7 @@ This is the total value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ray product*
+*product of the radii*
 
 ![[src_kangourou_2015_marzo_student__prob18.png]]
 
@@ -834,9 +844,9 @@ This is the total value of the underlying asset.
 \end{document}
 ```
 
-> The diagram shows three concentric circles and two of their diameters, each orthogonal. The areas of the three shaded areas are equal to each other, and the radius of the smallest circle is 1. What is the product of the three-circle rays? A) √ 6 B) 3
+> The diagram shows three concentric circles and two of their diameters, mutually orthogonal. The areas of the three shaded areas are equal to each other, and the radius of the smallest circle is 1. What is the product of the radii of the three circles? A) √ 6 B) 3
 > 	
-> C) D) 2√2 E) 6
+> C) 2√3 D) 2√2 E) 6
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_student#q18|src_kangourou_2015_marzo_student__Q18]]
@@ -877,7 +887,7 @@ This is the total value of the underlying asset.
 
 *how many distinct colours*
 
-> In a basket there are 2015 beads, numbered from 1 to 2015. The colour of a seed depends on the sum of the digits of the number attributed to it: all seedlings which have the same number as the sum of the digits have the same colour. How many different colors are the balls of the basket? A) 10
+> In a basket there are 2015 beads, numbered from 1 to 2015. The colour of a bead depends on the sum of the digits of the number attributed to it: all and only the beads which have the same number as the sum of the digits have the same colour. How many distinct colours are the beads of the basket? A) 10
 > 	
 > B) 27
 > 	
@@ -931,11 +941,11 @@ This is the total value of the underlying asset.
 
 ![[src_kangourou_2015_marzo_student__prob20.png]]
 
-> A traditional dice has numbers on opposite sides whose sum is 7. Two identical dice were drawn as shown in the figure. What number can appear on the right face indicated by the arrow, not visible in the figure? A) Only five.
+> A traditional die has numbers on opposite faces whose sum is 7. Two identical dice were drawn as shown in the figure. What number can appear on the right face indicated by the arrow, not visible in the figure? A) Only 5.
 > 	
 > (B) Only two. C) 2 or 5.
 > 	
-> D) 1, 2, 3 o 5.
+> D) 1, 2, 3 or 5.
 > 	
 > E) 2, 3 o 5. The questions from N. 21 al N. 30 is worth 5 points each.
 
@@ -1053,7 +1063,7 @@ This is the total value of the underlying asset.
 
 ![[src_kangourou_2015_marzo_student__prob22.png]]
 
-> The curve in the figure is described by the equation (x2 + y2 - 2x) 2 = 2 (x2 + y2). Then four lines are drawn, indicated by a, b, c, d. Which of these represents the y-axis? A) a
+> The curve in the figure is described by the equation (x2 + y2 - 2x)2 = 2 (x2 + y2). Then four lines are drawn, indicated by a, b, c, d. Which of these represents the y-axis? A) a
 > 	
 > B) b
 > 	
@@ -1100,7 +1110,7 @@ This is the total value of the underlying asset.
 
 * likelihood of Lia winning *
 
-> Bea has a classic dice, with the numbers 1, 2, 3, 4, 5 and 6 on the six faces. Lia, on the other hand, has a special dice that returns two out of three faces and five on the other three. Both dice are equal, which means that the probability of a face coming out is the same for all faces. The game states that, when Bea and Lia throw their dice, the one with the highest score wins, while if the scores are equal, there is a tie. At each throw, what's the probability that Lia wins? A) 1/3 B) 7/18 C) 7/12 D) 1/2 E) A different value from the previous ones.
+> Bea has a classic dice, with the numbers 1, 2, 3, 4, 5 and 6 on the six faces. Lia, on the other hand, has a special die that shows 2 on three of its faces and 5 on the other three. Both dice are equal, which means that the probability of a face coming out is the same for all faces. The game states that, when Bea and Lia throw their dice, the one with the highest score wins, while if the scores are equal, there is a tie. At each throw, what's the probability that Lia wins? A) 1/3 B) 7/18 C) 7/12 D) 1/2 E) A different value from the previous ones.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2015_marzo_student#q23|src_kangourou_2015_marzo_student__Q23]]
@@ -1184,9 +1194,9 @@ This is the total value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 3 digits as the sum of 9 powers distinct from 2*
+*Numbers of 3 digits as the sum of 9 distinct powers of 2*
 
-> How many different positive numbers of three significant digits can be obtained as the sum of exactly nine powers of 2 all different from each other ? A) 1
+> How many different positive numbers of three significant digits can be obtained as the sum of exactly nine distinct powers of 2 ? A) 1
 > 	
 > B) 2
 > 	
@@ -1234,7 +1244,7 @@ This is the total value of the underlying asset.
 
 *how many *
 
-> Let's consider all ABC triangles rectangles in B, with AB length 20 and such that all their sides have full size. How many distinct triangles exist with these properties? A) 1
+> Let's consider all ABC right triangles at B, with AB of length 20 and such that all their sides have integer length. How many distinct triangles exist with these properties? A) 1
 > 	
 > B) 2
 > 	
@@ -1350,7 +1360,7 @@ This is the total value of the underlying asset.
 \end{document}
 ```
 
-> In the rectangle ABCD drawn in Figure, M1 is the mean point of DC, M2 is the mean point of AM1, M3 is the mean point of BM2 and M4 is the mean point of CM3. What is the relationship between the area of the quadrilateral M1M2M3M4 and that of the rectangle ABCD? A) 7/16 B) 3/16 C) 7/32 D) 9/32 E) 1/5
+> In the rectangle ABCD drawn in Figure, M1 is the midpoint of DC, M2 is the midpoint of AM1, M3 is the midpoint of BM2 and M4 is the midpoint of CM3. What is the ratio between the area of the quadrilateral M1M2M3M4 and that of the rectangle ABCD? A) 7/16 B) 3/16 C) 7/32 D) 9/32 E) 1/5
 >
 
 **Answer:** C
@@ -1442,7 +1452,7 @@ This is the total value of the underlying asset.
 
 *number of the last *
 
-> 96 members of a mathematics club stand in circles and start counting. One starts by saying 1, your neighbor says 2, the next 3 and so on, continuing along the circle always in the same direction. Every person who says an even number leaves the circle, and the ones left start the second round starting from 97, of course. They keep going until there's only one person left. What's the number that this person said in the first round? A) 1
+> 96 members of a mathematics club stand in a circle and start counting. One starts by saying 1, his neighbor says 2, the next 3 and so on, continuing along the circle always in the same direction. Every person who says an even number leaves the circle, and the ones left start the second round starting from 97, of course. They keep going until there's only one person left. What's the number that this person said in the first round? A) 1
 > 	
 > B) 17
 > 	
@@ -1506,12 +1516,12 @@ This is the total value of the underlying asset.
 
 *common digit*
 
-> Roberto and Guglielmo replace digits with the letters in the word KANGAROO,
+> Roberto and Guglielmo replace the letters in the word KANGAROO with digits,
 > to form an 8-digit number divisible by 11. Each of them replaces identical letters with the same digit and different letters with different digits.
 > In doing so, Guglielmo writes the largest possible multiple of 11 he can form, and Roberto the smallest, but in both cases the same letter is replaced by the same digit.
 > What is this digit?
 >
-> (A) 0
+> A) 0
 > 	
 > B) 3	
 > 	

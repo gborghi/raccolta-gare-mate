@@ -36,7 +36,7 @@ level: kangourou
 
 *00*
 
-> What time is it 17 hours after 5:00? A) 8:00 B) 10:00 C) 11:00 D) 12:00 E) 13:00
+> What time is it 17 hours after 17:00? A) 8:00 B) 10:00 C) 11:00 D) 12:00 E) 13:00
 
 **Answer:** B
 [[Quesiti/src_kangourou_2017_cadet_marzo#q01|src_kangourou_2017_cadet_marzo__Q01]]
@@ -171,7 +171,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference of the perimeter of two concentric rectangles*
+*Difference of the perimeters of two concentric rectangles*
 
 ![[src_kangourou_2017_cadet_marzo__prob4.png]]
 
@@ -188,7 +188,7 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you can see two rectangles: the opposite sides of the inner rectangle are parallel to those of the outer rectangle and the distances between the sides are those indicated. How many meters do you measure the difference between the lengths of the two perimeter? A) 12
+> In the figure you can see two rectangles: the opposite sides of the inner rectangle are parallel to those of the outer rectangle and the distances between the sides are those indicated. How many meters do you measure the difference between the lengths of the two perimeters? A) 12
 > 	
 > B) 16
 > 	
@@ -232,9 +232,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fourth left seventh right *
+*Lia fourth on the left seventh on the right*
 
-> A group of girls are sitting in a circle. Lia is the fourth on Anne's left and the seventh on her right. How many girls are in the group? A) 9
+> A group of girls are sitting in a circle. Lia is the fourth on Anna's left and the seventh on her right. How many girls are in the group? A) 9
 > 	
 > B) 10
 > 	
@@ -286,7 +286,7 @@ level: kangourou
 
 ![[src_kangourou_2017_cadet_marzo__prob6.png]]
 
-> In the figure, the dotted segment with the black line forms seven equilateral triangles. The width of the scored segment is 20. What's the length of the black line? A) 25
+> In the figure, the dotted segment with the black line forms seven equilateral triangles. The length of the dotted segment is 20. What's the length of the black line? A) 25
 > 	
 > B) 30
 > 	
@@ -331,9 +331,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of two positive integers with product 2017*
+*Sum of two positive integers with product 2017*
 
-> The product of two positive integers is 2017. What's their sum? A) 680 B) 1008 C) 1009 D) 2018 E) Depends on the whole selected. 3m 3m 2m 4m
+> The product of two positive integers is 2017. What's their sum? A) 680 B) 1008 C) 1009 D) 2018 E) Depends on the integers chosen. 3m 3m 2m 4m
 >
 
 **Answer:** D
@@ -379,7 +379,7 @@ level: kangourou
 
 ![[src_kangourou_2017_cadet_marzo__prob8.png]]
 
-> Mark folded a sheet of paper in half twice and then drilled a hole in the folded sheet. When I open the sheet, the result is what you see in the figure. In which of the following ways did Mark fold the sheet? A)
+> Mark folded a sheet of paper in half twice and then drilled a hole in the folded sheet. When he opens the sheet, the result is what you see in the figure. In which of the following ways did Mark fold the sheet? A)
 >  	
 > B)
 > 	
@@ -431,7 +431,7 @@ level: kangourou
 
 ![[src_kangourou_2017_cadet_marzo__prob9.png]]
 
-> The drawing shows four overlapping hearts. The heart surfaces are 1 cm2, 4 cm2, 9 cm2 and 16 cm2. How many square inches is the visible shaded region? A) 9
+> The drawing shows four overlapping hearts. The areas of the hearts are 1 cm2, 4 cm2, 9 cm2 and 16 cm2. How many square centimeters is the visible shaded region? A) 9
 > 	
 > B) 10
 > 	
@@ -519,7 +519,7 @@ level: kangourou
 
 *Outcome of odd alternate sum from 99 to 11*
 
-> 99  97 + 95  93 + ... + 15  13 + 11: what is the result of this expression where I wrote, alternating the characters, all odd numbers from 99 to 11? A) 59
+> 99 – 97 + 95 – 93 + ... + 15 – 13 + 11: what is the result of this expression where I wrote, alternating the signs, all odd numbers from 99 to 11? A) 59
 > 	
 > B) 55
 > 	
@@ -637,7 +637,7 @@ level: kangourou
 \end{document}
 ```
 
-> On the opposite sides of an 8 cm side square, two segments, each 1 cm long, were divided. Then two segments were drawn, connecting the ends of the 1 cm long segments, as shown in the figure. How many cm2 is the shaded area? A) 2
+> On the opposite sides of an 8 cm side square, two segments, each 1 cm long, were highlighted. Then two segments were drawn, connecting the ends of the 1 cm long segments, as shown in the figure. How many cm2 is the shaded area? A) 2
 > 	
 > B) 4
 > 	
@@ -676,9 +676,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*35% women, 252 more men*
+*35% women, men 252 more*
 
-> This year exactly 35% of the participants in the Kangourou marathon were women and the men were 252 times more than the women. Between men and women, how many were in all the marathons? A) 802 B) 810 C) 822 D) 824 E) 840
+> This year exactly 35% of the participants in the Kangourou marathon were 
+> women and the men were 252 more than the women. Between men and women, how many 
+> marathon runners were there in all? 
+> A) 802	 	
+> B) 810	 	
+> C) 822	 	
+> D) 824	 	
+> E) 840
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_cadet_marzo#q14|src_kangourou_2017_cadet_marzo__Q14]]
@@ -717,9 +724,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Emma's estate with divisibility conditions for 5*
+*Emma's age with divisibility conditions for 5*
 
-> Four cousins are 3, 8, 12, and 14. Their names, in alphabetical order, are Ada, Emma, Iva, and Olga. The sum of the ages of Olga and Ada is divisible by 5. The sum of Olga and Iva's ages is also divisible by 5. How old is Emma? A) 14
+> Four cousins are 3, 8, 12, and 14 years old. Their names, in alphabetical order, are Ada, Emma, Iva, and Olga. The sum of the ages of Olga and Ada is divisible by 5. The sum of Olga and Iva's ages is also divisible by 5. How old is Emma? A) 14
 > 	
 > B) 12
 > 	
@@ -802,7 +809,7 @@ level: kangourou
 \end{document}
 ```
 
-> Mara wants to write a number in each box of the grid here on the side, so that the sum of all the numbers is 35, that the sum of the numbers in the first three boxes (left) is 22, and that the sum of the numbers in the last three boxes is 25. He's already written two of the numbers. What's the product of the numbers he'll write on the grey boxes? A) 63
+> Mara wants to write a number in each box of the grid here on the side, so that the sum of all the numbers is 35, that the sum of the numbers in the first three boxes (left) is 22, and that the sum of the numbers in the last three boxes is 25. She has already written two of the numbers. What is the product of the numbers she will write on the grey boxes? A) 63
 > 	
 > B) 108 C) 0
 > 	
@@ -902,7 +909,7 @@ Maximum networks of Michele, the other three make 20
 
 ![[src_kangourou_2017_cadet_marzo__prob18.png]]
 
-> The figure shows the plan of a square table. It has a regular decoration. What percentage of the population is black? A) 16% B) 24% C) 25% D) 32% E) 36% 1 cm 1 cm 8 cm 3 4
+> The figure shows the plan of a square table. It has a regular decoration. What percentage of the plane is black? A) 16% B) 24% C) 25% D) 32% E) 36% 1 cm 1 cm 8 cm 3 4
 >
 
 **Answer:** D
@@ -941,7 +948,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of running two non-consecutive days per week*
+*Ways of running on two non-consecutive days per week*
 
 > George wants to go running exactly twice a week and always on the same days of the week, but he doesn't want to go running two days in a row. How many different ways can he accomplish his plan? A) 16
 > 	
@@ -1018,7 +1025,7 @@ Maximum networks of Michele, the other three make 20
 \end{document}
 ```
 
-> Emilia wants to write a number in each cell of a grid 3 × 3 so that the sums of the numbers written in two cells that have one side in common are all the same. As the figure shows, he's already written two numbers. What is the sum of all the numbers in the grid? A) 18
+> Emilia wants to write a number in each cell of a grid 3 × 3 so that the sums of the numbers written in two cells that have one side in common are all the same. As the figure shows, she's already written two numbers. What is the sum of all the numbers in the grid? A) 18
 > 	
 > B) 20
 > 	
@@ -1026,7 +1033,7 @@ Maximum networks of Michele, the other three make 20
 > 	
 > D) 22
 > 	
-> E) 23 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 23 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_cadet_marzo#q20|src_kangourou_2017_cadet_marzo__Q20]]
@@ -1101,11 +1108,11 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exchange moves of ten kangaroos watching *
+*Exchange moves of ten kangaroos watching each other *
 
 ![[src_kangourou_2017_cadet_marzo__prob22.png]]
 
-> A video game starts with ten kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more trades. How many moves will Angelo make? A) 15
+> A video game starts with ten kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more swaps. How many moves will Angelo make? A) 15
 > 	
 > B) 16
 > 	
@@ -1151,7 +1158,7 @@ Maximum networks of Michele, the other three make 20
 
 *Minimum x+y with distinct angles of the triangle *
 
-> In a triangle the three angles are two to two different and have an integer number of degrees as a measure. Denotes with x the degree measure of the smallest and with y the degree measure of the largest between the three angles. What 's the least possible value of x + y ? A) 61 B) 90
+> In a triangle the three angles are pairwise different and have an integer number of degrees as a measure. Denote with x the degree measure of the smallest and with y the degree measure of the largest between the three angles. What 's the least possible value of x + y ? A) 61 B) 90
 > 	
 > C) 91
 > 	
@@ -1194,7 +1201,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum different results by adding 2 or 5 to 1.9.*
+*Minimum different results by adding 2 or 5 to 1..9.*
 
 > On the board are written the nine numbers: 1, 2, 3, 4, 5, 6, 7, 8 and 9. To some of them Diana adds 2, to all the others she adds 5. What is the smallest number of different results that Diana can achieve? A) 5
 > 	
@@ -1245,9 +1252,9 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many buses exceed the car on the route*
+*How many buses does the car overtake on the route*
 
-> Every 3 minutes a bus departs from the airport directly to the city centre. A person can leave the airport at the same time as a bus leaves and travels to the city centre on the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses exceed the car, excluding the bus with which she left? A) 8
+> Every 3 minutes a bus departs from the airport directly to the city centre. A car leaves the airport at the same instant as a bus leaves and travels to the city centre following the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses does the car overtake, excluding the bus with which it left? A) 8
 > 	
 > B) 9
 > 	
@@ -1300,7 +1307,7 @@ Maximum networks of Michele, the other three make 20
 
 ![[src_kangourou_2017_cadet_marzo__prob26.png]]
 
-> Michele had 110 cubes. He glued a part of it together to form a large cube with 9 tunnels running through the entire cube as shown in the figure. How many cubes did you not use? A) 37
+> Michele had 110 cubes. He glued some of them together to form a large cube with 9 tunnels running through the entire cube as shown in the figure. How many cubes did he not use? A) 37
 > 	
 > B) 30
 > 	
@@ -1347,9 +1354,9 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2017-th number of the succession 2,3,6,8,8,...*
+*2017-th digit of the sequence 2,3,6,8,8,...*
 
-> Each number in the sequence beginning with 2, 3, 6, 8, 8 is obtained as follows: the first two digits are 2 and 3 and then each number is the number of units of the product of the two digits preceding it in the sequence. What's the 2017th figure in this sequence? A) 2
+> Each digit in the sequence beginning with 2, 3, 6, 8, 8 is obtained as follows: the first two digits are 2 and 3 and then each digit is the units digit of the product of the two digits preceding it in the sequence. What's the 2017th digit in this sequence? A) 2
 > 	
 > B) 3
 > 	
@@ -1428,7 +1435,7 @@ Maximum networks of Michele, the other three make 20
 \end{document}
 ```
 
-> Sarah wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 5
+> Sara wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 5
 > 	
 > B) 7
 > 	
@@ -1472,7 +1479,7 @@ Maximum networks of Michele, the other three make 20
 
 *Meter of the second between two encounters on the circular track*
 
-> Two friends are training on a 720-meter-long circular track. They run in opposite directions, both at constant speed. The first takes four minutes to complete a lap, the second takes five. How many yards does the second run between two consecutive meetings with his friend? A) 355 B) 350 C) 340 D) 330 E) 320
+> Two friends are training on a 720-meter-long circular track. They run in opposite directions, both at constant speed. The first takes four minutes to complete a lap, the second takes five. How many meters does the second run between two consecutive meetings with his friend? A) 355 B) 350 C) 340 D) 330 E) 320
 
 **Answer:** E
 [[Quesiti/src_kangourou_2017_cadet_marzo#q29|src_kangourou_2017_cadet_marzo__Q29]]
@@ -1554,7 +1561,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EOFM area report on ABCD in the parallelogram*
+*Ratio of area EOFM to ABCD in the parallelogram*
 
 ![[src_kangourou_2017_cadet_marzo__prob30.png]]
 
@@ -1590,7 +1597,7 @@ Maximum networks of Michele, the other three make 20
 \end{document}
 ```
 
-> The figure (indicative only) shows an ABCD parallelogram of area S. We have indicated with O the intersection point of the diagonals, with M a point of the DC segment, with E the intersection point between AM and BD and with F the intersection point between BM and AC. The sum of the areas of the AED and BFC triangles is S/3. What is the relationship between the area of the EOFM quadrilateral and that of ABCD? A) 1 / 6 B) 1 / 8 C) 1 / 10 D) 1 / 12 E) 1 / 14 A B C D M O E F
+> The figure (indicative only) shows an ABCD parallelogram of area S. We have indicated with O the intersection point of the diagonals, with M a point of the DC segment, with E the intersection point between AM and BD and with F the intersection point between BM and AC. The sum of the areas of the AED and BFC triangles is S/3. What is the ratio between the area of the EOFM quadrilateral and that of ABCD? A) 1 / 6 B) 1 / 8 C) 1 / 10 D) 1 / 12 E) 1 / 14 A B C D M O E F
 >
 
 **Answer:** D

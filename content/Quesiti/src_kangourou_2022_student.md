@@ -120,7 +120,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit integers divisible by 13*
+*Three-digit integers divisible by 13*
 
 > How many three-digit positive integers are divisible by 13?
 >
@@ -229,9 +229,9 @@ level: kangourou
 
 ![[src_kangourou_2022_student__prob5.png]]
 
-> Four circles, all of radius 1, intersect as shown in the figure. What is the perimeter of the shaded figure? A) p 3p B) A number closely spaced between --- and 2p 2
+> Four circles, all of radius 1, intersect as shown in the figure. What is the perimeter of the shaded figure? A) p B) A number strictly between 3p/2 and 2p
 >  
-> 3p 2 C) ---   D) 2p E) p 2
+> C) 3p/2   D) 2p E) p/2
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_student#q05|src_kangourou_2022_student__Q05]]
@@ -302,9 +302,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real solutions of (x-2) 2+(x+2) 2=0*
+*Real solutions of (x-2)²+(x+2)²=0*
 
-> How many real solutions does the equation (x − 2) 2 + (x + 2) 2 = 0 have ? A) 0
+> How many real solutions does the equation (x − 2)² + (x + 2)² = 0 have ? A) 0
 >   
 > B) 1
 >   
@@ -357,7 +357,7 @@ level: kangourou
 
 ![[src_kangourou_2022_student__prob8.png]]
 
-> Four straight lines intersect forming eight congruent angles (see figure). Which of the bows drawn in black has the same length as the small circle drawn in gray? The rays of the small circumference and the arcs are highlighted by the squaring. A) A
+> Four straight lines intersect forming eight congruent angles (see figure). Which of the arcs drawn in black has the same length as the small circle drawn in gray? The radii of the small circumference and the arcs are highlighted by the grid. A) A
 >   
 > B) B
 >   
@@ -461,7 +461,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* distance between median points AB and CD*
+* distance between midpoints of AB and CD*
 
 ![[src_kangourou_2022_student__prob10.png]]
 
@@ -481,9 +481,9 @@ level: kangourou
 >  
 > 3 2 3 5 −4 E)  a < 0 A B C D E
 > 
-> Page 28 The distance between A and C is 12 cm and that between B and D is 18 cm. How many centimeters is the distance between the median point of AB and the median point of CD ? A) 15 B) 12 C) 18 D) 6
+> Page 28 The distance between A and C is 12 cm and that between B and D is 18 cm. How many centimeters is the distance between the midpoint of AB and the midpoint of CD ? A) 15 B) 12 C) 18 D) 6
 >   
-> E) 9 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 9 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2022_student#q10|src_kangourou_2022_student__Q10]]
@@ -524,7 +524,7 @@ level: kangourou
 
 ![[src_kangourou_2022_student__prob11.png]]
 
-> By checking the water meter in her bathroom, Antonia sees the number in the figure and notices that it is made up of numbers all different from each other. How many cubic meters of water will be used (from now on) when, for the first time, the numbers on the meter will all be different again? A) 0,006 B) 0,034 C) 0,086 D) 0,137 E) 1,048
+> By checking the water meter in her bathroom, Antonia sees the number in the figure and notices that it is made up of digits all different from each other. How many cubic meters of water will be used (from now on) when, for the first time, the digits on the meter will all be different again? A) 0,006 B) 0,034 C) 0,086 D) 0,137 E) 1,048
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_student#q11|src_kangourou_2022_student__Q11]]
@@ -569,7 +569,7 @@ level: kangourou
 
 ![[src_kangourou_2022_student__prob12.png]]
 
-> The large square in the figure is divided by two squares and two rectangles. The midpoints of their inner sides to the great square are the vertices of the shaded quadrilateral, which has area 3. What is the area of the white part of the large square? A) 15
+> The large square in the figure is divided by two lines into two squares and two rectangles. The midpoints of their inner sides to the great square are the vertices of the shaded quadrilateral, which has area 3. What is the area of the white part of the large square? A) 15
 >   
 > B) 18
 >   
@@ -614,15 +614,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the goods and services produced by the Union during the calendar year.
+*GCD of 2^2021+2^2022 and 3^2021+3^2022*
 
-> What is the maximum common divisor of 22021 + 22022 and 32021 + 32022 ? A) 22021 B) 1
+> What is the Greatest Common Divisor of 22021 + 22022  and  32021 + 32022 ? 
+> A) 22021   
+> B) 1  
 >   
-> C) 2
+> C) 2  
 >   
-> D) 6
+> D) 6  
 >   
-> E) 12 , m 3
+> E) 12 
+> , 
+> m
+> 3
 >
 
 **Answer:** E
@@ -756,7 +761,7 @@ Question 15 Student 2022 (figure)
 
 ![[src_kangourou_2022_student__prob16.png]]
 
-> Look at the figure. A rectangular parallel-piped whose surface has area S has been cut by six planes, so that each face of the parallel-piped appears parallel to two of these planes. In this way, the parallelepiped is broken into 27 smaller parallelepiped. The distance of each plane from its parallel faces is not specified. What is, in terms of S, the sum of the surface areas of all 27 parallel pipes? A) 2 S B) (5/2) S
+> Look at the figure. A rectangular parallelepiped whose surface has area S has been cut by six planes, so that each face of the parallelepiped appears parallel to two of these planes. In this way, the parallelepiped is broken into 27 smaller parallelepiped. The distance of each plane from its parallel faces is not specified. What is, in terms of S, the sum of the surface areas of all 27 parallelepipeds? A) 2 S B) (5/2) S
 >   
 > C) 3 S D) 4 S E) None of the other answers are correct.
 
@@ -798,7 +803,7 @@ Question 15 Student 2022 (figure)
 
 *third value in order of size*
 
-> The average of five integers is 24. The average of the three youngest is 19, and the average of the three oldest is 28. What's the third of the five numbers in order of magnitude? A) 20
+> The average of five integers is 24. The average of the three smallest is 19, and the average of the three largest is 28. What's the third of the five numbers in order of magnitude? A) 20
 >   
 > B) 21
 >   
@@ -853,7 +858,7 @@ Question 15 Student 2022 (figure)
 
 ![[src_kangourou_2022_student__prob18.png]]
 
-> In an ABC triangle, two rectangles of dimensions 1 × 5 and 2 × 3 are inscribed, as shown in Figure 1. What is the height of the triangle relative to the base BC? 8 A) 3
+> In an ABC triangle, two rectangles of dimensions 1 × 5 and 2 × 3 are inscribed, as shown in the figure. What is the height of the triangle relative to the base BC? A) 3
 >   
 > B)
 >   
@@ -985,7 +990,7 @@ The following information shall be provided:
 \end{document}
 ```
 
-> The circle in the figure is centered on the origin of an orthogonal Cartesian system and has a radius of 5. How many points on the circumference of the boundary have both integers? A) 4
+> The circle in the figure is centered on the origin of an orthogonal Cartesian system and has a radius of 5. How many points on the circumference that delimits it have both coordinates integers? A) 4
 >   
 > B) 8
 >   
@@ -1075,7 +1080,7 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third digit integers = five times the product of the digits*
+*3-digit integers = five times the product of the digits*
 
 > How many three-digit positive integers are equal to five times the product of their own digits? A) 1
 >   
@@ -1197,7 +1202,7 @@ Try Martina not in the final
 
 ![[src_kangourou_2022_student__prob24.png]]
 
-> The drawing shows the position of a square in an orthogonal Cartesian system. Each point (x, y) of the square is sent to point ( , ). In which of the following figures is transformed x
+> The drawing shows the position of a square in an orthogonal Cartesian system. Each point (x, y) of the square is sent to point (1/x, 1/y). In which of the following figures is it transformed
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_student#q24|src_kangourou_2022_student__Q24]]
@@ -1256,7 +1261,7 @@ Try Martina not in the final
 >   
 > C) 5
 >   
-> D) 10 E) Numerations involving different numbers of red sides are possible. The square? A)
+> D) 10 E) Numberings involving different numbers of red sides are possible.
 >   
 > C)
 >   
@@ -1309,7 +1314,7 @@ Try Martina not in the final
 
 ![[src_kangourou_2022_student__prob26.png]]
 
-> Note the figure: the edge of the AFMG rectangle is intersected by two circumferences, at eight points which delimit six outer segments of the circles. The lengths of five of these are known: AB = 8, CD = 26, EF = 22, GH = 12 and JK = 24. How long is the LM segment ? A) 14
+> Note the figure: the edge of the AFMG rectangle is intersected by two circles, at eight points which delimit six outer segments of the circles. The lengths of five of these are known: AB = 8, CD = 26, EF = 22, GH = 12 and JK = 24. How long is the LM segment ? A) 14
 >   
 > B) 15
 >   
@@ -1361,7 +1366,7 @@ Try Martina not in the final
 
 ![[src_kangourou_2022_student__prob27.png]]
 
-> The ABC triangle in the figure is equilateral on side 60. A laser beam enters from a hole in the point R on the AC side, 20 distant from the top of A, with an inclination such as follows: the beam meets the side AB at the point P, reflects itself in accordance with the law of reflection on the point Q of the side BC and, always by reflection, exits the triangle by passing back from the point R, from where B Q C entered. How far is P from A ? A) 21
+> The ABC triangle in the figure is equilateral with side 60. A laser beam enters from a hole in the point R on the AC side, 20 from vertex A, with an inclination such as follows: the beam meets the side AB at the point P, reflects in accordance with the law of reflection on the point Q of the side BC and, always by reflection, exits the triangle by passing back from the point R, from where it had entered. How far is P from A ? A) 21
 >   
 > B) 24
 >   
@@ -1402,9 +1407,14 @@ Try Martina not in the final
 
 *value of a2*
 
-> The first term a1 of a sequence of real numbers is between 0 and 1. For all n ≥ 1, a2n = a2 × an + 1 and a2n + 1 2 n What is the value of a2? A) Equal to a1. B) 2
->  
->  
+> The first term a1 of a 
+> sequence of real numbers is 
+> between 0 and 1. For all n ≥ 
+> 1, a2n = a2 × an + 1 and a2n + 1 2 n What is 
+> the value of a2? 
+> A) Equal to a1.    B) 2  
+  
+  
 > C) 3
 
 **Answer:** D
@@ -1572,11 +1582,60 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the number of items in the table:
+*minimum seats*
 
-> A football match between the Kang North and Kang South teams is played in a stadium that has a grandstand with seats for spectators arranged rectangularly. In each horizontal row of seats there are exactly 11 North Kang fans, while in each vertical row of seats there are exactly 14 South Kang fans. The seats not occupied by the fans are exactly 17. How many seats can the grandstand have? A) 500 B) 660 C) 690 D) 840 E) 994
+> A football match between the Kang Nord team and the Kang Sud team is played
+> in a stadium that has a stand with seats for spectators arranged in a rectangle. In
+> every horizontal row of seats there are exactly 11 Kang Nord fans, while in
+> every vertical row of seats there are exactly 14 Kang Sud fans. The seats not
+> occupied by fans are exactly 17. What is the minimum number of seats the stand can have?
+> A) 500
+> B) 660
+> C) 690
+> D) 840
+> E) 994
 >  
-> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0
+> 0 
+> 1
+> 1 
+> 1
+> 2 
+> 1
+> 3 
+> 1
+> 4 
+> 1
+> 5 
+> 1
+> 6 
+> 1
+> 7 
+> 1
+> 8 
+> 1
+> 9 
+> 2
+> 0 
+> 2
+> 1 
+> 2
+> 2 
+> 2
+> 3 
+> 2
+> 4 
+> 2
+> 5 
+> 2
+> 6 
+> 2
+> 7 
+> 2
+> 8 
+> 2
+> 9 
+> 3
+> 0
 
 **Answer:** B
 [[Quesiti/src_kangourou_2022_student#q30|src_kangourou_2022_student__Q30]]

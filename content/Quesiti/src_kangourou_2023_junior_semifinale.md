@@ -35,7 +35,7 @@ level: kangourou
 
 *Difference between a three-digit number and an inverted number*
 
-> (Points 2) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the number of hundreds and that of units are exchanged between them, while that of tens is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
+> (Points 2) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the hundreds digit and the units digit are exchanged, while the tens digit is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q01|src_kangourou_2023_junior_semifinale__Q01]]
 
@@ -70,7 +70,7 @@ level: kangourou
 
 ![[src_kangourou_2023_junior_semifinale__prob2.png]]
 
-> (Points 3) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π  3)/4 C) 1  π/4 D) (3π/4)  1 E) (4  π)/2
+> (Points 3) In the figure you see a decorated window. Half-circles and quarter-circles that you see that appear uncolored all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π – 3)/4 C) 1 – π/4 D) (3π/4) – 1 E) (4 – π)/2
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q02|src_kangourou_2023_junior_semifinale__Q02]]
 
@@ -98,7 +98,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer numbers <40 with sum of squares of perfect square digits*
+*Integers <40 whose sum of squares of digits is a perfect square*
 
 > (Points 3) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14
 
@@ -128,7 +128,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum known attempts the constraints on figures*
+*maximum attempts given the constraints on digits*
 
 > The code of a safe deposit box is a four digit number. The sum of the last two is a prime number of two digits which, read in the order, are the first two digits of the code. With only this information, how many attempts will it take, at most, to open the box? A) 4           B) 8            C) 12           D) 16           E) 20
 
@@ -159,7 +159,7 @@ level: kangourou
 
 *Minimum sum of three numbers TAP, BAT, CAD with distinct digits*
 
-> (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters are different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
+> (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a digit, different letters are different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q05|src_kangourou_2023_junior_semifinale__Q05]]
 
@@ -186,9 +186,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of product figures of 9 numbers of numbers 2 or 3 between 600 and 1200*
+*sum of the digits of the product of 9 numbers with digits 2 or 3 between 600 and 1200*
 
-> The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the figures for this product? A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility.
+> The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the digits of this product? A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility.
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q06|src_kangourou_2023_junior_semifinale__Q06]]
 
@@ -218,7 +218,7 @@ level: kangourou
 
 *Maximum number of parts by cutting three spheres with two planes*
 
-> (Points 5) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle on side 3. What is the largest number of parts in which the three spheres can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            12) 12
+> (Points 5) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle of side 3. What is the largest number of parts in which the three spheres can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            E) 12
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q07|src_kangourou_2023_junior_semifinale__Q07]]
 
@@ -245,9 +245,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sign of m and n for an expression to be whole*
+*Sign of m and n for an expression to be an integer*
 
-> (Points 5) It is known that the three numbers m, n and (8m × 102m) / (5  m  n × 203m) are all integers and not zero. Which of the following statements is true? A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
+> (Points 5) It is known that the three numbers m, n and (8m × 102m) / (5 – m – n × 203m) are all integers and not zero. Which of the following statements is true? A) m < 0, n > 0       B) m > 0, n > 0          C) m > 0, n < 0          D) m < 0, n < 0         E) m + n ≥ 0
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q08|src_kangourou_2023_junior_semifinale__Q08]]
 
@@ -289,7 +289,7 @@ level: kangourou
 
 Where lies live.
 
-> A village has 5 houses, each resident lives in one of these 5 houses and in each one lives someone. All the inhabitants living in four of them always tell the truth, all the inhabitants living in the remaining house always lie. The following statements were collected from house to house: House A: In this house live 3 people, In this village live more than 17 people. House B: In this house live 4 people, In this village live more than 21 people. House C: In this house live 5 people, The number of people living in this village is NOT 25. House D: In this house there are 6 people, In this village there are less than 29 people. House E: In this house live 7 people, In this village live less than 33 people. What house do liars live in? A) In house A. B) In house B. C) In house C. D) In house D. E) In house E.
+> A village has 5 houses, each resident lives in one of these 5 houses and in each one lives someone. All the inhabitants living in four of them always tell the truth, all the inhabitants living in the remaining house always lie. The following statements were collected from house to house: House A: "In this house live 3 people", "In this village live more than 17 people". House B: "In this house live 4 people", "In this village live more than 21 people". House C: "In this house live 5 people", "The number of people living in this village is NOT 25". House D: "In this house there are 6 people", "In this village there are less than 29 people". House E: "In this house live 7 people", "In this village live less than 33 people". What house do liars live in? A) In house A. B) In house B. C) In house C. D) In house D. E) In house E.
 > 
 > Open-ended questions
 
@@ -320,9 +320,9 @@ Where lies live.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mauritius ball weight given product 81 and sum of 1001 *
+*Maurizio's ball weights given product 81 and sum 1001*
 
-> Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
+> Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Carlo's box. Multiplying the weight of one of Maurizio's balls by that of one of Carlo's balls gives 81; adding up the weights of all the balls gives 1001. How many grams does each of Maurizio's balls weigh?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q10|src_kangourou_2023_junior_semifinale__Q10]]
 
@@ -392,7 +392,7 @@ Where lies live.
 \end{document}
 ```
 
-> In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) must be inserted so that the letters A and B are not in adjacent sectors. How many different ways can integration be carried out?
+> In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) must be inserted so that the letters A and B are not in adjacent sectors. In how many different ways can the insertion be carried out?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q11|src_kangourou_2023_junior_semifinale__Q11]]
 
@@ -420,7 +420,7 @@ Where lies live.
 
 Find n after random operations with result 78*
 
-> Gaia plays like this. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
+> Gaia plays like this. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product he randomly adds either 5 or 6. From the sum he randomly subtracts either 5 or 6. If the end result is 78, what number is n?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q12|src_kangourou_2023_junior_semifinale__Q12]]
 
@@ -448,9 +448,12 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits that can be deleted to make the number divisible by 9*
+*Sum of digits that can be removed to make the number divisible by 9*
 
-> (Points 6) The number 7 2 3 1 1 2 3 7 2 1 3 7 2 1 3 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
+> (6 points) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it we want to remove exactly one digit and
+> obtain, from the alignment of the remaining digits (one fewer than before), a new number that is divisible
+> by 9. There are several ways to do this. What is the sum of the digits that can be removed over the various
+> possible ways?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q13|src_kangourou_2023_junior_semifinale__Q13]]
 
@@ -475,7 +478,7 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little first person p>2 with p^3+7p^2 perfect square*
+*Smallest prime p>2 with p^3+7p^2 perfect square*
 
 > (Points 6) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect square?
 
@@ -506,7 +509,7 @@ Find n after random operations with result 78*
 
 *A-B value with sums of squares and consecutive products*
 
-> (Points 6) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B?
+> (Points 6) Let A be the sum of the squares of all positive integers from 1 to 2,023 included and let B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A – B?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q15|src_kangourou_2023_junior_semifinale__Q15]]
 
@@ -535,7 +538,7 @@ Find n after random operations with result 78*
 
 *Minimum k with (x^2+y^2+z^2)^2 <= k(x^4+y^4+z^4) *
 
-> (Points 7) What is the smallest real number k such that the inequality (x2 + y2 + z2) 2 ≤ k (x4 + y4 + z4) is worth for every tern {x, y, z} of real numbers?
+> (Points 7) What is the smallest real number k such that the inequality (x2 + y2 + z2) 2 ≤ k (x4 + y4 + z4) holds for every triple {x, y, z} of real numbers?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q16|src_kangourou_2023_junior_semifinale__Q16]]
 
@@ -562,9 +565,11 @@ Find n after random operations with result 78*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of two numbers subtracted from 1.17 equal to the sum of the remaining *
+*Product of two numbers removed from 1..17 equal to the sum of the remaining ones*
 
-> (Points 7) From the sum of integers 1 to 17, these included, two numbers can be taken so that their product matches the sum of the remaining numbers and there is only one way to do so. How much is that product worth?
+> (7 points) From the set of integers between 1 and 17, these included, one can remove two numbers so 
+> that their product coincides with the sum of the remaining ones and there is only one way to do it. What is the value of this 
+> product?
 
 [[Quesiti/src_kangourou_2023_junior_semifinale#q17|src_kangourou_2023_junior_semifinale__Q17]]
 

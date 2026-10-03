@@ -149,7 +149,7 @@ level: kangourou
 
 > A rectangle $R$ is given. Externally to $R$, on each side of $R$ a square is constructed, one side of which coincides with that side of $R$. What can be said about the polygon whose vertices are the centers of the four squares?
 
-**Answer:** è un quadrato
+**Answer:** it is a square
 
 [[Quesiti/src_kangourou_2026_benjamin_finale#qb5|src_kangourou_2026_benjamin_finale__QB5]]
 
@@ -179,6 +179,6 @@ level: kangourou
 
 > In a bag there are 46 green, red or yellow marbles. I know that, by drawing them at random, to be certain of having at least 10 of the same color I must draw 26. How many must I plan to draw to be certain of having at least 20 of the same color?
 
-**Answer:** 46, tutte
+**Answer:** 46, all of them
 
 [[Quesiti/src_kangourou_2026_benjamin_finale#qb6|src_kangourou_2026_benjamin_finale__QB6]]

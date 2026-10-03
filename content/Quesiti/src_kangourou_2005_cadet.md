@@ -30,7 +30,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes in the target third of a quarter of the day*
+*Minutes in half of a third of a quarter of a day*
 
 > How many minutes is half a third of a quarter of a day? A) 20         B) 30        C) 60           D) 120           E) 150
 
@@ -68,7 +68,7 @@ level: kangourou
 
 ![[src_kangourou_2005_cadet__prob2.png]]
 
-> The figure shows a cube with a beam of 12 cm. An ant moves on the surface of the cube from tip A to tip B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
+> The figure shows a cube with an edge of 12 cm. An ant moves on the surface of the cube from vertex A to vertex B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q02|src_kangourou_2005_cadet__Q02]]
@@ -103,7 +103,7 @@ level: kangourou
 
 *Papers after five cuts in 10*
 
-> Anna cuts a sheet of paper into 10 pieces. Then he takes one of these pieces and cuts it back into 10 pieces and goes on like this three more times (that's a total of 5 times). How many pieces of paper do you end up with? A) 40 B) 45 C) 46 D) 47 E) 50
+> Anna cuts a sheet of paper into 10 pieces. Then she takes one of these pieces and cuts it back into 10 pieces and goes on like this three more times (that's a total of 5 times). How many pieces of paper does she end up with? A) 40 B) 45 C) 46 D) 47 E) 50
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_cadet#q03|src_kangourou_2005_cadet__Q03]]
@@ -172,7 +172,7 @@ Percentage of students with bicycles and rollerblades
 
 ![[src_kangourou_2005_cadet__prob5.png]]
 
-> There are eight kangaroos in the drawing boxes on the right. Find the minimum number of kangaroos that you can change the box if you want every row and column in the table to contain exactly 2 kangaroos. A) 0            B) 1           C)  2         D) 3        E) 4
+> There are eight kangaroos in the drawing boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want every row and column of the table to contain exactly 2 kangaroos. A) 0            B) 1           C)  2         D) 3        E) 4
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q05|src_kangourou_2005_cadet__Q05]]
@@ -290,7 +290,7 @@ Ice cream servings with three girls and two boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of floor space perpendicular to the walls*
+*Area of floor of a room with perpendicular walls*
 
 ![[src_kangourou_2005_cadet__prob8.png]]
 
@@ -330,7 +330,7 @@ Ice cream servings with three girls and two boys
 
 *Number of poles with first single and then paired crows*
 
-> The ravens that live in my garden all rose up in flight; then each ravens leaned on a different pole, except one that unfortunately found no free poles. After a while, they moved and now they're backed up on the pair of poles and one pole is free. How many poles are in my garden? A) 2 B) 3 C) 4 D) 5 E) 6
+> The ravens that live in my garden all rose up in flight; then each crow perched on a different pole, except one that unfortunately found no free poles. After a while, they moved and now they're perched on the poles in pairs and one pole is free. How many poles are in my garden? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_cadet#q09|src_kangourou_2005_cadet__Q09]]
@@ -367,7 +367,7 @@ Ice cream servings with three girls and two boys
 
 Maximum KANGOUROU number with increasing code *
 
-> The sequence of 7 letters AGKNORU (in alphabetical order) is associated with a sequence of 7 digits all different from each other, arranged in increasing order. Each chosen sequence is a code, respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? (a) 987654321 B) 987654354 C) 536478679 D) 536479879 E) 536454859 Questions from N. 11 al N. 20 is worth 4 points each.
+> The sequence of 7 letters AGKNORU (in alphabetical order) is associated with a sequence of 7 digits all different from each other, arranged in increasing order. Each chosen sequence is a code, respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 987654321 B) 987654354 C) 536478679 D) 536479879 E) 536454859 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q10|src_kangourou_2005_cadet__Q10]]
@@ -435,7 +435,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Objective score inversely proportional to area*
+*Target score inversely proportional to area*
 
 ![[src_kangourou_2005_cadet__prob11.png]]
 
@@ -459,9 +459,27 @@ Maximum KANGOUROU number with increasing code *
 \end{document}
 ```
 
-> Consider the target in the figure: the score that can be achieved is inversely proportional to the area of the affected region. If a centre in Region B is worth 10 points, a centre in Region C is worth A) 5 points B) 8 points C) 16 points D) 20 points E) 24 points a a a a b D C B A Cadet_05_D.qxp 21/02/2005 16.10 Page 17
+> Consider the target in the figure: the score
+> that can be obtained is inversely proportional to the area of the region hit. If a hit
+> in region B is worth 10 points, a hit in the
+> region C is worth 
+> A) 5 points
+> B) 8 points
+> C) 16 points
+> D) 20 points
+> E) 24 points 
+> b
+> D
+> C
+> B
+> A
+> Cadet_05_D.qxp  21/02/2005  16.10  Page 17
 > 
-> I'm going to pay. I'm going to pay. 18 18 Kang 2005 Kang
+> Pag. 
+> Pag. 18
+> 18
+> Kang 2005
+> Kang 2005
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q11|src_kangourou_2005_cadet__Q11]]
@@ -494,9 +512,16 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Contribution to cover travel expenses*
+*Contribution to cover trip expenses*
 
-> A group of classmates are planning a trip. If each contributed EUR 14 to travel expenses, they would receive EUR 4 less than necessary; if each contributed EUR 16, they would receive EUR 6. What must each person contribute to collect exactly the amount needed for the trip? This appropriation is intended to cover expenditure relating to:
+> A group of classmates is planning a trip. If
+> each contributed 14 euros to the travel expenses, they would have
+> 4 euros less than needed; if instead each of them contributed
+> 16 euros, they would have 6 euros left over. What must each one's contribution be in order to collect exactly the amount needed for the trip? 
+> A) 14.40 euros
+> B) 14.60 euros      C) 14.80 euros
+> D) 15.00 euros
+> E) 15.20 euros
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_cadet#q12|src_kangourou_2005_cadet__Q12]]
@@ -565,7 +590,7 @@ Maximum KANGOUROU number with increasing code *
 \end{document}
 ```
 
-> On a grid of square mesh such as the one shown in the figure, two strands are drawn connecting node A with node C and the other with node B. If AC is 3 meters long, how many meters is AB? A) 5 B) C) 13/3 D) E) another number
+> On a grid of square mesh such as the one shown in the figure, two wires are stretched connecting node A with node C and the other with node B. If AC is 3 meters long, how many meters is AB? A) 5 B) C) 13/3 D) E) another number
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q13|src_kangourou_2005_cadet__Q13]]
@@ -630,11 +655,11 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not a plane development of a cube*
+*Which is not a net of a cube*
 
 ![[src_kangourou_2005_cadet__prob15.png]]
 
-> Which of the following is not the plane development of a cube?
+> Which of the following is not the net of a cube?
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q15|src_kangourou_2005_cadet__Q15]]
@@ -684,11 +709,33 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of water in the bucket after 20 l/m2 of rain*
+*Water height in the bucket after 20 l/m2 of rain*
 
-> Tonight it rained heavily: 20 litres of rain fell per square meter. How high is the water level in the bucket I left, empty and unturned, in the garden? A) 2 mm B) 5 mm C) 1 cm D) 2 cm E) 5 cm 8 13 15 A C B A) B) C) D) E) Cadet_05_D.
+> Last night it rained heavily: 20 liters of rain per square meter fell. How high is the water level in the bucket
+> that I had left, empty and not upside down, in the garden?
+> A) 2 mm
+> B) 5 mm
+> C) 1 cm
+> D) 2 cm
+> E) 5 cm
+> 8
+> 13
+> 15
+> A
+> C
+> B
+> A)
+> B)
+> C)
+> D)
+> E)
+> Cadet_05_D.qxp  21/02/2005  16.10  Page 18
 > 
-> I'm going to pay. I'm going to pay. 19 19 Kang 2005 Kang
+> Pag. 
+> Pag. 19
+> 19
+> Kang 2005
+> Kang 2005
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q16|src_kangourou_2005_cadet__Q16]]
@@ -810,7 +857,7 @@ Maximum KANGOUROU number with increasing code *
 
 ![[src_kangourou_2005_cadet__prob19.png]]
 
-> In the figure we have a number of equal circumferences: their centers are aligned and they are two to two tangents (externally). Starting from the first circle to the left, we alternate the upper and lower semicircles with the pen until we reach the rightmost point in the last circle. What is the length of the pen track, if the number of circumferences is n and the distance between the outermost points of the first and last is d? A) dn B) πdn C) 2πdn D) πd /2 E) πd
+> In the figure we have a number of equal circumferences: their centers are aligned and they are pairwise tangent (externally). Starting from the first circle to the left, we alternate the upper and lower semicircles with the pen until we reach the rightmost point in the last circle. What is the length of the pen track, if the number of circles is n and the distance between the outermost points of the first and last is d? A) dn B) πdn C) 2πdn D) πd /2 E) πd
 
 **Answer:** D
 [[Quesiti/src_kangourou_2005_cadet#q19|src_kangourou_2005_cadet__Q19]]
@@ -918,7 +965,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DBEF rectangular area with two rectangles*
+*Rectangle area DBEF with two rectangles*
 
 ![[src_kangourou_2005_cadet__prob21.png]]
 
@@ -934,9 +981,36 @@ Maximum KANGOUROU number with increasing code *
 \end{document}
 ```
 
-> In the figure two rectangles ABCD and DBEF are represented. If AB and AD are 4 cm and 3 cm respectively, what is the area of the DBEF rectangle? A) 10 cm2 B) 12 cm2 C) 13 cm2 D) 14 cm2 E) 16 cm2 x ... 1 2 3 n-1 n d A D F E B C 3 cm 4 cm Cadet_05_D.qxp 21/02/2005 16.10 Page 19
+> The figure shows two rectangles ABCD and DBEF. If AB and AD measure
+> 4 cm and 3 cm respectively, what is the area of rectangle DBEF?
+> A) 10 cm2
+> B) 12 cm2
+> C) 13 cm2
+> D) 14 cm2
+> E) 16 cm2
+> x
+> ...
+> 1
+> 2
+> 3
+> n-1
+> n
+> d
+> A
+> D
+> F
+> E
+> B
+> C
+> 3 cm
+> 4 cm
+> Cadet_05_D.qxp  21/02/2005  16.10  Page 19
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 2005 Kang
+> Pag. 
+> Pag. 20
+> 20
+> Kang 2005
+> Kang 2005
 
 **Answer:** B
 [[Quesiti/src_kangourou_2005_cadet#q21|src_kangourou_2005_cadet__Q21]]
@@ -1046,7 +1120,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of ten corners on five lines per P*
+*sum of ten angles on five lines through P*
 
 ![[src_kangourou_2005_cadet__prob24.png]]
 
@@ -1091,7 +1165,7 @@ Maximum KANGOUROU number with increasing code *
 
 *A claim that the alternating liar cannot make*
 
-> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't have? A) The number of my friends is a prime number. B) My friends are as many as my friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my friends, three are older than me.
+> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't he have made? A) The number of my friends is a prime number. B) I have as many male friends as female friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my female friends, three are older than me.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2005_cadet#q25|src_kangourou_2005_cadet__Q25]]
@@ -1180,11 +1254,17 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area shaded region exaggerated with two arcs*
+*Area of the shaded region hexagon with two arcs*
 
 ![[src_kangourou_2005_cadet__prob27.png]]
 
-> The figure represents a regular hexagon on side 2 and two arcs of radius 2 with each centered on a vertex of the hexagon. What is the size (in square units) of the shaded region? A) B) C) D) E)
+> The figure represents a regular hexagon with side 2 and two circular arcs of
+> radius 2, each having its center at a vertex of the hexagon. What is the measure (in square units) of the shaded region?
+> A)
+> B) 
+> C) 
+> D) 
+> E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2005_cadet#q27|src_kangourou_2005_cadet__Q27]]
@@ -1265,7 +1345,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the six-digit product (divisibility) *
+*Result of the product of six numbers (divisibility) *
 
 > One of the following numbers is the result of operation 333 x 743 x 710 x 352 x 745 x 298. What kind? A) 13727978688124880 B) 13727978688124800 C) 12727978688123000 D) 12727978688124800 E) 14727978688124836
 

@@ -34,9 +34,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min cards to be rolled over*
+*min cards to turn over*
 
-> Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an equal number. Marta wants to check if Aldo's telling the truth, but she wants to roll as few cards as possible. How many cards will he have to roll at most? A) 1           B) 2             C) 3            D) 4            E) 5
+> Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an even number. Marta wants to check if Aldo's telling the truth, but she wants to turn over as few cards as possible. How many cards will she have to turn over at most? A) 1           B) 2             C) 3            D) 4            E) 5
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q01|src_kangourou_2023_cadet_semifinale__Q01]]
 
@@ -69,7 +69,7 @@ level: kangourou
 
 *time of entry *
 
-> There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you feel a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 noon onwards, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
+> There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you hear a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 to that instant included, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q02|src_kangourou_2023_cadet_semifinale__Q02]]
 
@@ -100,7 +100,7 @@ level: kangourou
 
 *possible difference*
 
-> (Points 3) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the number of hundreds and that of units are exchanged between them, while that of tens is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378             B) 295            C) 196                D) 495             E) 504
+> (Points 3) Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the hundreds digit and the units digit are exchanged, while the tens digit is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378             B) 295            C) 196                D) 495             E) 504
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q03|src_kangourou_2023_cadet_semifinale__Q03]]
 
@@ -163,7 +163,7 @@ level: kangourou
 
 ![[src_kangourou_2023_cadet_semifinale__prob5.png]]
 
-> (Picture 4) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π  3)/4 C) 1  π/4 D) (3π/4)  1 E) (4  π)/2
+> (Points 4) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π – 3)/4 C) 1 – π/4 D) (3π/4) – 1 E) (4 – π)/2
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q05|src_kangourou_2023_cadet_semifinale__Q05]]
 
@@ -255,7 +255,7 @@ level: kangourou
 
 *minimum sum*
 
-> (Points 5) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters of different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
+> (Points 5) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a digit, different letters different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q08|src_kangourou_2023_cadet_semifinale__Q08]]
 
@@ -287,7 +287,7 @@ level: kangourou
 
 *max parts with two planes*
 
-> (Points 6) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle on side 3. What is the largest number of parts in which the three spheres can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            12) 12
+> (Points 6) Three spheres of radius 1 are arranged in space so that their centers form an equilateral triangle of side 3. What is the largest number of parts in which the three spheres can be divided by cutting the spheres with two planes? A) 8            B) 9             C) 10             D) 11            E) 12
 > 
 > Open-ended questions
 
@@ -365,7 +365,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 4) In the triangle ABC shown in the figure, the EC height conducted by C meets the BAC angle's AD beam at the point O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
+> (Points 4) In the triangle ABC shown in the figure, the altitude EC drawn from C meets the bisector AD of angle BAC at the point O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q10|src_kangourou_2023_cadet_semifinale__Q10]]
 
@@ -396,7 +396,7 @@ level: kangourou
 
 *weight Mauritius*
 
-> Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
+> Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Carlo's box. Multiplying the weight of one of Maurizio's balls by that of one of Carlo's balls gives 81; adding up the weights of all the balls gives 1001. How many grams does each of Maurizio's balls weigh?
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q11|src_kangourou_2023_cadet_semifinale__Q11]]
 
@@ -450,9 +450,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
-> (Points 6) Some numbers, all different from each other, are written at different points in a conference so that each number is the product of the two numbers written next to it. How many numbers are written?
+> (6 points) Some numbers, all different from each other, are written next to distinct points of a circle so that each is the product of the two numbers written adjacent to it. How many numbers are written?
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q13|src_kangourou_2023_cadet_semifinale__Q13]]
 
@@ -518,7 +518,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) should be inserted so that the letters A and B are not in adjacent sectors. How many different ways can inclusion be made?
+> (Points 6) In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) should be inserted so that the letters A and B are not in adjacent sectors. In how many different ways can the insertion be made?
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q14|src_kangourou_2023_cadet_semifinale__Q14]]
 
@@ -546,7 +546,7 @@ level: kangourou
 
 Find n *
 
-> Gaia plays like that. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
+> Gaia plays like that. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product he randomly adds either 5 or 6. From the sum he randomly subtracts either 5 or 6. If the end result is 78, what number is n?
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q15|src_kangourou_2023_cadet_semifinale__Q15]]
 
@@ -574,9 +574,9 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of removable figures*
+*sum of removable digits*
 
-> (Points 7) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
+> (Points 7) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the digits that can be eliminated in varying ways?
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q16|src_kangourou_2023_cadet_semifinale__Q16]]
 
@@ -601,7 +601,7 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min first p>2 so that p3+7p2 is perfectly squared*
+*Min prime p>2 such that p3+7p2 is a perfect square*
 
 > (Points 7) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a perfect square?
 
@@ -637,6 +637,6 @@ Find n *
 
 *value of A-B*
 
-> (Points 8) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B? 1 5 2 3 4
+> (Points 8) Let A be the sum of the squares of all positive integers from 1 to 2,023 included and let B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A - B? 1 5 2 3 4
 
 [[Quesiti/src_kangourou_2023_cadet_semifinale#q18|src_kangourou_2023_cadet_semifinale__Q18]]

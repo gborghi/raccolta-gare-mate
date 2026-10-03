@@ -39,16 +39,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ticks on the snow axe*
+*How many marks on the snow pole*
 
-> A snow height measuring rod is 3 metres long and has a tail every 15 centimetres from the ends (which are tailless). How many turkeys are on the raft? A) 20
-> 	
-> B) 12
-> 	
-> C) 21
-> 	
-> D) 15
-> 	
+> A pole for measuring the height of snow is 3 meters long and has a mark every 15
+> centimeters starting from the ends (which have no marks). How many marks are on the pole?
+> A) 20	
+	
+> B) 12	
+	
+> C) 21	
+	
+> D) 15	
+	
 > E) 19
 
 **Answer:** E
@@ -84,7 +86,14 @@ level: kangourou
 
 *Which word has the same symmetry as MAMMA*
 
-> If the word MAMMA is written vertically, as shown in the figure, you can see that the word feels a symmetry with respect to a vertical line. Which of the following words, written vertically, has the same kind of symmetry? (A) Box B) Grandfather C) Mother D) Milk E) Emptiness
+> Writing the word MAMMA vertically, as in the figure, one sees that the word has
+> a symmetry with respect to a vertical line. Which of the following words, written
+> vertically, has the same type of symmetry?
+> A) BOCCE	
+> B) NONNO	
+> C) AVEVA	
+> D) LATTA
+> E) VUOTI
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_cadet_marzo#q02|src_kangourou_2018_cadet_marzo__Q02]]
@@ -121,7 +130,7 @@ level: kangourou
 
 *Number to be replaced by asterisk*
 
-> If you want it to be true, what number do you have to replace the asterisk in the equation 2 × 18 × 14 = 6 × * × 7? A) 8
+> If you want it to be true, what number do you have to replace with the asterisk in the equation 2 × 18 × 14 = 6 × * × 7? A) 8
 > 	
 > B) 9
 >  	
@@ -216,11 +225,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many paths of the ball up to the B lane *
+*How many paths of the ball up to lane B *
 
 ![[src_kangourou_2018_cadet_marzo__prob5.png]]
 
-> The video of an electronic game is shown in the figure. Each ball, falling on the first ball from the upper container, bounces over the bottom ball immediately to the right or left at random and then proceeds downward bouncing always smoothly: in the figure you can see one of the possible paths of a ball. How many different routes can the ball take to get to runway B? A) 2
+> The screen of an electronic game is shown in the figure. Each ball, falling on the first peg from the upper container, bounces on the peg immediately below to the right or left at random and then proceeds downward bouncing always randomly: in the figure you can see one of the possible paths of a ball. How many different paths can the ball take to get to lane B? A) 2
 > 	
 > B) 3
 > 	
@@ -273,7 +282,7 @@ level: kangourou
 
 ![[src_kangourou_2018_cadet_marzo__prob6.png]]
 
-> A large rectangle is made up of nine rectangles identical to those shown in the figure. If the larger side of each rectangle is 10 cm long, how many centimeters does the perimeter of the larger rectangle measure? A) 40
+> A large rectangle is made up of nine rectangles identical placed side by side as in the figure. If the larger side of each rectangle is 10 cm long, how many centimeters does the perimeter of the larger rectangle measure? A) 40
 > 	
 > B) 48
 > 	
@@ -315,7 +324,7 @@ level: kangourou
 
 In what month could you have that thought?
 
-> I remember thinking, exactly a month ago, it was the same day of the week as two days ago. In which of the following months may I have had this thought? (a) January (b) February (c) March (d) April (e) May
+> I remember thinking: "Exactly a month ago it was the same day of the week as two days ago." In which of the following months may I have had this thought? A) January B) February C) March D) April E) May
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_cadet_marzo#q07|src_kangourou_2018_cadet_marzo__Q07]]
@@ -364,7 +373,7 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the centers of the two circumferences*
+*Distance between the centers of the two circles*
 
 ![[src_kangourou_2018_cadet_marzo__prob8.png]]
 
@@ -378,7 +387,7 @@ In what month could you have that thought?
 \end{document}
 ```
 
-> A rectangle 11 cm long and 7 cm wide contains two circumferences, each tangent to three of the four sides of the rectangle, as shown in the figure. What is the distance, in centimetres, between the centers of the two circumferences? A) 1
+> A rectangle 11 cm long and 7 cm wide contains two circles, each tangent to three of the four sides of the rectangle, as shown in the figure. What is the distance, in centimetres, between the centers of the two circles? A) 1
 > 	
 > B) 2
 > 	
@@ -422,7 +431,7 @@ In what month could you have that thought?
 
 *What number is deleted because the sum is 2018*
 
-> The following seven numbers were written on the board: 375, 388, 395, 400, 408, 428, 440. Two were deleted: the sum of the five remaining issues is 2018. Which of the following is one of the two numbers Samuel deleted? A) 408
+> The following seven numbers were written on the board: 375, 388, 395, 400, 408, 428, 440. Two were deleted: the sum of the five remaining numbers is 2018. Which of the following is one of the two numbers Samuele deleted? A) 408
 > 	
 > B) 440
 > 	
@@ -525,7 +534,7 @@ In what month could you have that thought?
 > 	
 > D) 2
 > 	
-> E) 2.5 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 2.5 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2018_cadet_marzo#q10|src_kangourou_2018_cadet_marzo__Q10]]
@@ -569,7 +578,7 @@ In what month could you have that thought?
 
 ![[src_kangourou_2018_cadet_marzo__prob11.png]]
 
-> Martha correctly multiplied two two-digit numbers and then, as shown in the figure, deleted three digits. What is the sum of these figures? A) 5
+> Martha correctly multiplied two two-digit numbers and then, as shown in the figure, deleted three digits. What is the sum of these digits? A) 5
 > 	
 > B) 6
 > 	
@@ -617,7 +626,7 @@ In what month could you have that thought?
 
 *Number of uncolored squares in the rectangle*
 
-> A rectangle is divided into 40 identical squares. The rectangle contains more than one row of squares. Andrea found the center line of squares and colored it. How many squares have you not painted? A) 20
+> A rectangle is divided into 40 identical squares. The rectangle contains more than one row of squares. Andrea found the center line of squares and colored it. How many squares did he not color? A) 20
 > 	
 > B) 30
 > 	
@@ -667,7 +676,7 @@ In what month could you have that thought?
 
 *Minimum copies to be weighed for the desired precision*
 
-> Philip wants to know the weight of a book less than half a gram (i.e. he accepts a measurement that differs from the real one by a maximum of half a gram). However, it has at its disposal a scale which provides a measure with an error of not more than 10 grams. What is the smallest number of identical copies of that book that Philip has to weigh together to be sure he has the desired accuracy? A) 5
+> Philip wants to know the weight of a book less than half a gram (i.e. he accepts a measurement that differs from the real one by a maximum of half a gram). However, he has at his disposal a scale which provides a measure with an error of not more than 10 grams. What is the smallest number of identical copies of that book that Philip has to weigh together to be sure he has the desired accuracy? A) 5
 > 	
 > B) 10
 > 	
@@ -713,9 +722,9 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Behind which leads the lion with only one true sign
+Behind which door is the lion with only one true sign
 
-> Behind three closed doors there are three rooms: in one there is a lion hidden. A sign on the first door says: The lion is here; a sign on the second door says: The lion is not here; a sign on the third door says: 2 + 3 = 2 × 3. If only one of the signs is telling the truth, which door is the lion hiding behind? A) The first.
+> Behind three closed doors there are three rooms: in one there is a lion hidden. A sign on the first door says: "The lion is here"; a sign on the second door says: "The lion is not here"; a sign on the third door says: "2 + 3 = 2 × 3". If only one of the signs is telling the truth, which door is the lion hiding behind? A) The first.
 > 	
 > B) The second.
 > 	
@@ -810,9 +819,9 @@ Behind which leads the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the first is certainly included in the list*
+*Which prime is certainly included in the list*
 
-> Alice wants to write a list of prime numbers less than 100, using each of the digits 1, 2, 3, 4 and 5 exactly once and without using any other digits. Which number is definitely on your list? A) 2
+> Alice wants to write a list of prime numbers less than 100, using each of the digits 1, 2, 3, 4 and 5 exactly once and without using any other digits. Which prime number is definitely on her list? A) 2
 > 	
 > B) 5
 > 	
@@ -912,7 +921,7 @@ Behind which leads the lion with only one true sign
 
 ![[src_kangourou_2018_cadet_marzo__prob18.png]]
 
-> In the drawing a rectangle and a straight line parallel to its major side are represented. Points A and B belong to r. The sum of the areas of the two shaded triangles is 10 cm2. How many square centimetres does the area of the rectangle measure? A) 18
+> In the drawing a rectangle and a straight line r parallel to its major side are represented. Points A and B belong to r. The sum of the areas of the two shaded triangles is 10 cm2. How many square centimetres does the area of the rectangle measure? A) 18
 > 	
 > B) 20
 > 	
@@ -956,9 +965,9 @@ Behind which leads the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less sum in table 3x3 with integers 1-9 *
+*Missing sum in table 3x3 with integers 1-9*
 
-> James wrote in each box of a table 3 a different integer from 1 to 9. Then he calculated the sum of the integers in each row and column of the table. Five of the six results (in unspecified order) are 12, 13, 15, 16 and 17. What's the missing sum? A) 17
+> James wrote in each box of a 3 × 3 table a different integer from 1 to 9. Then he calculated the sum of the integers in each row and column of the table. Five of the six results (in unspecified order) are 12, 13, 15, 16 and 17. What's the missing sum? A) 17
 > 	
 > B) 16
 > 	
@@ -1026,7 +1035,7 @@ Behind which leads the lion with only one true sign
 > 	
 > E) 2 10° 14° 33° 26° α A B r
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2018_cadet_marzo#q20|src_kangourou_2018_cadet_marzo__Q20]]
@@ -1066,7 +1075,7 @@ Behind which leads the lion with only one true sign
 
 *N value for Amalia to win*
 
-> 130 people voted in favour of the parents' representative on the Institute's board, each for only one of the three candidates: Simone, Carlo and Amalia. At some point in the drawing of the cards the preferences for Simone are 24, for Charles 29 and for Amalia 37 and the chairman of the seat notes: If Amalia still receives at least N votes, she wins. How much is N ? A) 13
+> 130 people voted for the parents' representative on the Institute's board, each for only one of the three candidates: Simone, Carlo and Amalia. At some point in the counting of the ballots the preferences for Simone are 24, for Carlo 29 and for Amalia 37 and the chairman of the polling station notes: If Amalia still receives at least N votes, she wins. How much is N ? A) 13
 > 	
 > B) 14
 >  	
@@ -1118,7 +1127,7 @@ Behind which leads the lion with only one true sign
 
 ![[src_kangourou_2018_cadet_marzo__prob22.png]]
 
-> The figure shows the flat development of a rectangular-based box and the sum of the measures, in centimetres, of some of its shoots. How many cubic centimeters does the volume of the box measure? A) 43
+> The figure shows the net of a rectangular-based box and the sum of the measures, in centimetres, of some of its edges. How many cubic centimeters does the volume of the box measure? A) 43
 > 	
 > B) 70
 > 	
@@ -1169,7 +1178,7 @@ Behind which leads the lion with only one true sign
 
 ![[src_kangourou_2018_cadet_marzo__prob23.png]]
 
-> Rita wrote a number (relative whole) in each of the cells on the edge of a table 5 × 6. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you see two of the numbers she wrote. What number did you write in the x-numbered cell? A) 10
+> Rita wrote a number (relative whole) in each of the cells on the edge of a table 5 × 6. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you see two of the numbers she wrote. What number did she write in the cell marked with x? A) 10
 > 	
 > B) 7
 > 	
@@ -1217,11 +1226,11 @@ Behind which leads the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many metres and width of the pool*
+*How many metres wide is the pool*
 
 ![[src_kangourou_2018_cadet_marzo__prob24.png]]
 
-> Stefano and Giovanni are having a contest. Stephen runs around the pool shown in the figure, while John swims along the larger side of the pool. Stephen runs three times as fast as John swims. John crosses the pool six times by swimming at the same time as Stefano runs around the pool five times. How wide is the pool? A) 25
+> Stefano and Giovanni are having a contest. Stefano runs around the pool shown in the figure, while Giovanni swims along the larger side of the pool. Stefano runs three times as fast as Giovanni swims. Giovanni crosses the pool six times by swimming at the same time as Stefano runs around the pool five times. How wide is the pool? A) 25
 > 	
 > B) 30
 > 	
@@ -1325,7 +1334,7 @@ How much did Adele spend?
 
 ![[src_kangourou_2018_cadet_marzo__prob26.png]]
 
-> By connecting a few knots of a square mesh grid with segments and arcs of circumference, Federica drew the stylized dove you see in the figure and then colored the dove and the rectangular background differently. If the area of the part of the drawing occupied by the dove is 192 cm2, what are the dimensions in centimetres of the two sides of the rectangle? A) 6 × 4 B) 12 × 8 C) 20 × 12 D) 24 × 16 E) 30 × 20 26 cm 7 cm 10 cm x 50 m ?
+> By connecting a few nodes of a square grid with segments and arcs of circles, Federica drew the stylized dove you see in the figure and then colored the dove and the rectangular background differently. If the area of the part of the drawing occupied by the dove is 192 cm2, what are the dimensions in centimetres of the two sides of the rectangle? A) 6 × 4 B) 12 × 8 C) 20 × 12 D) 24 × 16 E) 30 × 20 26 cm 7 cm 10 cm x 50 m ?
 >
 
 **Answer:** D
@@ -1361,7 +1370,7 @@ How much did Adele spend?
 
 *Length of next jump by average 3.82*
 
-> Viola is training for the long jump. Today, the average length of jumps made so far is 3.80 meters. With a new jump of 3.99 m, his average jump has risen to 3.81 m. How long should his next jump be to bring his current average to 3.82 meters? A) 3,97 B) 4,00 C) 4,01 D) 4,03 E) 4,04
+> Viola is training for the long jump. Today, the average length of jumps made so far is 3.80 meters. With a new jump of 3.99 m, her average jump has risen to 3.81 m. How long should her next jump be to bring his current average to 3.82 meters? A) 3,97 B) 4,00 C) 4,01 D) 4,03 E) 4,04
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_cadet_marzo#q27|src_kangourou_2018_cadet_marzo__Q27]]
@@ -1511,11 +1520,11 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to properly align the sheets*
+*Minimum moves to correctly match the tiles*
 
 ![[src_kangourou_2018_cadet_marzo__prob29.png]]
 
-> In dominoes, two cards are matched correctly if half of the two cards that are in contact contain the same number of points. Six cards are aligned as shown in the figure. The moves allowed to make sure that they are properly approached are of two types: swapping the position of two cards (without rotating them) or rotating a 180° card (leaving it in the same position as the sequence). What is the minimum number of moves by which you can get all the tiles to be aligned correctly? A) 1
+> In dominoes, two tiles are matched correctly if the halves of the two tiles that are in contact contain the same number of points. Six tiles are aligned as shown in the figure. The moves allowed to make sure that they are properly matched are of two types: swapping the position of two tiles (without rotating them) or rotating a tile by 180° (leaving it in the same position as the sequence). What is the minimum number of moves by which you can get all the tiles to be matched correctly? A) 1
 > 	
 > B) 2
 > 	
@@ -1523,7 +1532,7 @@ How much did Adele spend?
 > 	
 > D) 4
 > 	
-> (e) No sequence of moves allows the six cards to be properly joined.
+> E) No sequence of moves allows the six tiles to be matched correctly.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2018_cadet_marzo#q29|src_kangourou_2018_cadet_marzo__Q29]]
@@ -1595,7 +1604,7 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the angle at the B-summary of the isosceles triangle*
+*Measurement of the angle at vertex B of the isosceles triangle*
 
 ![[src_kangourou_2018_cadet_marzo__prob30.png]]
 
@@ -1623,7 +1632,7 @@ How much did Adele spend?
 \end{document}
 ```
 
-> In the figure you see an isosceles triangle ABC of vertex B, on whose oblique sides a point K and a point L have been fixed so that the three segments AK, KL and LB are congruent and BK is congruent to AC. How many degrees does the angle in vertex B measure ? A) 30
+> In the figure you see an isosceles triangle ABC of vertex B, on whose equal sides a point K and a point L have been fixed so that the three segments AK, KL and LB are congruent and BK is congruent to AC. How many degrees does the angle in vertex B measure ? A) 30
 > 	
 > B) 35
 > 	

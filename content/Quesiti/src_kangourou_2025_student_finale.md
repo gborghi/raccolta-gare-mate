@@ -33,11 +33,11 @@ level: kangourou
 
 *Rational intervals boxed with empty intersection*
 
-> For $a < b$ rational numbers, the set, which we will denote with $R[a; b]$, is said to be ** rational closed interval** if it contains all but the rational numbers between $a$ and $b$, $a$ and $b$ included. Show or refute the following statement:
+> For $a < b$ rational numbers, the set, which we will denote with $R[a; b]$, is said to be ** rational closed interval** if it contains only the rational numbers between $a$ and $b$, $a$ and $b$ included. Show or refute the following statement:
 > 
 > 'If $\{A_n\} = \{R[a_n; b_n]\}$ ($n = 1, 2, \ldots$) is a sequence of closed, rational and boxed intervals (i.e. $A_{n+1} \subseteq A_n$ for each $n$), then the intersection of $A_n$ cannot be empty.'
 
-**Answer:** Falso
+**Answer:** False
 [[Quesiti/src_kangourou_2025_student_finale#qs1|src_kangourou_2025_student_finale__QS1]]
 
 
@@ -62,7 +62,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In as many as 270 ways as consecutive integers *
+*In how many ways 270 as consecutive integers*
 
 > How many different ways can $270$ be obtained by adding consecutive positive integers?
 
@@ -96,9 +96,9 @@ level: kangourou
 
 ![[src_kangourou_2025_student_finale__probs3.png]]
 
-> Two points on the circumference of a circle $\Gamma$ are extremes of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
+> Two points on the circumference of a circle $\Gamma$ are endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
-**Answer:** Si
+**Answer:** Yes
 [[Quesiti/src_kangourou_2025_student_finale#qs3|src_kangourou_2025_student_finale__QS3]]
 
 
@@ -134,7 +134,7 @@ level: kangourou
 > 
 > (b) If we can both choose the deck to play with (and the choice must be made before playing), should I be the first or the second to choose?
 
-**Answer:** a)terzo b)secondo
+**Answer:** a) third b) second
 [[Quesiti/src_kangourou_2025_student_finale#qs4|src_kangourou_2025_student_finale__QS4]]
 
 
@@ -167,7 +167,7 @@ level: kangourou
 > 
 > 'For each $n \geq 3$ there are $n$ integers all different from each other such that each of them divides the sum of the remaining $n - 1$.'
 
-**Answer:** vera
+**Answer:** true
 [[Quesiti/src_kangourou_2025_student_finale#qs5|src_kangourou_2025_student_finale__QS5]]
 
 
@@ -194,7 +194,7 @@ level: kangourou
 
 *Number of choices of 10 elements with increasing distances*
 
-> Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers and be $n$ large enough to achieve the following. You want to select an ordered subset of $S$ (i.e. you inherit the order from $S$) of $10$ such elements that the second gives at least $1$ from the first, the third gives at least $2$ from the second, the fourth gives at least $3$ from the third and so on until the tenth gives at least $9$ from the ninth. Note: the distance between a number chosen and the previous number chosen is not required to increase as the number chosen increases; for example, the second could deviate $5$ from the first and the third could deviate $2$ from the second. If $n$ is eligible, how many different choices are possible?
+> Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers and be $n$ large enough to achieve the following. You want to select an ordered subset of $S$ (i.e. you inherit the order from $S$) of $10$ such elements that the second is at least $1$ away from the first, the third is at least $2$ away from the second, the fourth is at least $3$ away from the third and so on until the tenth is at least $9$ away from the ninth. Note: the distance between a number chosen and the previous number chosen is not required to increase as the number chosen increases; for example, the second could be $5$ away from the first and the third could be $2$ away from the second. If $n$ is eligible, how many different choices are possible?
 
 **Answer:** (n-36)!/((n-46)!10!)
 [[Quesiti/src_kangourou_2025_student_finale#qs6|src_kangourou_2025_student_finale__QS6]]

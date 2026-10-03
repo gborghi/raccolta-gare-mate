@@ -72,7 +72,7 @@ level: kangourou
 > 
 > You are player A and you have to place your symbol X: enter it so that you are sure to win. (see figure)
 
-**Answer:** terza riga prima colonna
+**Answer:** third row, first column
 [[Quesiti/src_kangourou_2004_ecolier_finale#qe1|src_kangourou_2004_ecolier_finale__QE1]]
 
 
@@ -99,7 +99,7 @@ level: kangourou
 
 *Max visible cubes of the cube 11x11x11*
 
-> A wood cube of $11$ cm, obtained by gluing together $11 \times 11 \times 11$ side cubes of $1$ cm, shall be rested on a table. What is the maximum number of unit cubes I can see at least one face of, if I can choose the position from which to observe the large cube, but once the choice is made I can't move anymore?
+> A wood cube of $11$ cm, obtained by gluing together $11 \times 11 \times 11$ unit cubes of $1$ cm, shall be rested on a table. What is the maximum number of unit cubes I can see at least one face of, if I can choose the position from which to observe the large cube, but once the choice is made I can't move anymore?
 
 **Answer:** 331
 [[Quesiti/src_kangourou_2004_ecolier_finale#qe2|src_kangourou_2004_ecolier_finale__QE2]]
@@ -128,11 +128,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cards in the 0-0..8-8 domain *
+*How many cards in the 0-0..8-8 dominoes *
 
 ![[src_kangourou_2004_ecolier_finale__probe3.png]]
 
-> A variation of the game of dominoes contains all the cards with the number pairs between double zero and double eight. Each number pair is exactly once. For example, the card in the figure is $2 \times 4$ but also $4 \times 2$. How many cards do you have for the game? (see figure)
+> A variation of the game of dominoes contains all the cards with the number pairs between double zero and double eight. Each number pair appears exactly once. For example, the card in the figure is $2 \times 4$ but also $4 \times 2$. How many cards do you have for the game? (see figure)
 
 **Answer:** 45
 [[Quesiti/src_kangourou_2004_ecolier_finale#qe3|src_kangourou_2004_ecolier_finale__QE3]]
@@ -160,7 +160,7 @@ level: kangourou
 
 *Minimum distance between red and green flags*
 
-> A path length $1800$ meters is divided into $15$ equal parts of each other, planting red flags in the ground $16$; it is also divided into $6$ equal parts of each other, planting green flags in the ground $7$. What is, in metres, the minimum distance between two distinct points on the route marked by both a red flag and a green flag?
+> A path length $1800$ meters is divided into $15$ equal parts of each other, planting $16$ red flags in the ground; it is also divided into $6$ equal parts of each other, planting $7$ green flags in the ground. What is, in metres, the minimum distance between two distinct points on the route marked by both a red flag and a green flag?
 
 **Answer:** 600
 [[Quesiti/src_kangourou_2004_ecolier_finale#qe4|src_kangourou_2004_ecolier_finale__QE4]]
@@ -187,9 +187,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White spaces on the last line (numbers 1.150) *
+*White spaces on the last line (numbers 1..150) *
 
-> My computer screen allows me to write $80$ characters (letters, numbers or white spaces) on each line. If there is not enough space for a word or a number at the end of the line, the word or number is entirely moved to the next line. I write the numbers from $1$ to $150$ (in digits) and I leave a blank space between each number and its next. How many white spaces are left on the last line after the last zero?
+> My computer screen allows me to write $80$ characters (letters, numbers or white spaces) on each line. If there is not enough space for a word or a number at the end of the line, the word or number is entirely moved to the next line. I write the numbers from $1$ to $150$ (in digits) and I leave a blank space between each number and the following one. How many white spaces are left on the last line after the last zero?
 
 **Answer:** 73
 [[Quesiti/src_kangourou_2004_ecolier_finale#qe5|src_kangourou_2004_ecolier_finale__QE5]]
@@ -215,9 +215,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many grandchildren and great-grandchildren (exact divisions) *
+*How many grandchildren and little eggs (exact divisions)*
 
-> For Easter, Grandma made us grandchildren find a basket with many Easter sheep. When the time came to divide them, the grandmother invented this criterion, which takes into account the right of priority in choosing the older grandchildren and the throat of the younger ones: the first grandchild would take $1$ oatmeal and the sixth part of the remaining oats, the second $2$ oatmeal and the sixth part of the remaining oats, the third $3$ oats and the sixth part of the remaining oats and so on until the eggs are exhausted. To our surprise, the divisions were always accurate, and we all ended up with the same number of ovets! The grandmother commented that with more oats she could not have done the same miracle. How many of us and how many oats were in the basket?
+> For Easter, grandma had a basket with many Easter eggs waiting for us grandchildren. When the time came to divide them, grandma invented this criterion, which takes into account the right of priority in choosing of the older grandchildren and the greed of the younger ones: the first grandchild would have taken $1$ little egg and the sixth part of the remaining little eggs, the second $2$ little eggs and the sixth part of the remaining ones, the third $3$ little eggs and the sixth part of the remaining ones, and so on until the eggs were used up. To our surprise, the divisions always came out exact and in the end we all had the same number of little eggs! Grandma commented that with more little eggs she could not have performed the same miracle. How many of us are there and how many little eggs were in the basket?
 
 **Answer:** 5 nipoti 25 ovetti
 [[Quesiti/src_kangourou_2004_ecolier_finale#qe6|src_kangourou_2004_ecolier_finale__QE6]]

@@ -34,7 +34,7 @@ level: squadre
 
 *sum m+M two-digit numbers with constraints on sum of digits*
 
-> Summums Call m the smallest two-digit number whose sum is still a two-digit number. Call M the largest two-digit number whose sum is a single-digit number. How much is m + m?
+> Sums Call m the smallest two-digit number whose sum is still a two-digit number. Call M the largest two-digit number whose sum is a single-digit number. How much is m + M?
 
 **Answer:** 109
 [[Quesiti/src_kangourou_2016_squadre_f#q01|src_kangourou_2016_squadre_f__Q01]]
@@ -63,9 +63,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability out of 100 that the first and last are squared*
+*Probability out of 100 that the first and last are squares*
 
-> Gertrude's objects Gertrude has five objects: three squares and two circles. If you put them in random rows on the table, how many chances out of 100 are there that the first and last object are two squares?
+> Gertrude's objects Gertrude has five objects: three squares and two circles. If she arranges them in a random row on the table, how many chances out of 100 are there that the first and last object are two squares?
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2016_squadre_f#q02|src_kangourou_2016_squadre_f__Q02]]
@@ -138,7 +138,7 @@ level: squadre
 \end{document}
 ```
 
-> The broken triangle In the following, we use WZ to denote the length of the general segment of the W and Z extremes. Look at the figure. In triangle ABC the angle in B is straight and the point X is such that BX/XC  5/4 and AB  3CX. The area of the triangle CXA is 54 cm2. What is the length in centimeters of the perimeter of CXA ?
+> The broken triangle In the following, we use WZ to denote the length of the general segment of endpoints W and Z. Look at the figure. In triangle ABC the angle in B is straight and the point X is such that BX/XC = 5/4 and AB = 3CX. The area of the triangle CXA is 54 cm2. What is the length in centimeters of the perimeter of CXA ?
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2016_squadre_f#q03|src_kangourou_2016_squadre_f__Q03]]
@@ -170,7 +170,7 @@ level: squadre
 
 *Remaining two thirds speed by average 21 (impossible) *
 
-> Gianni the cyclist Gianni has to make a certain bike ride. Until now, he has covered a third of it at an average speed of 7 km/h. What must be its average speed in the remaining two thirds if it wants its average speed along the entire route to be 21 km/h? (Write [9999] if you think it's impossible for him to get what he wants.)
+> Gianni the cyclist Gianni has to make a certain bike ride. Until now, he has covered a third of it at an average speed of 7 km/h. What must be his average speed in the remaining two thirds if he wants his average speed along the entire route to be 21 km/h? (Write [9999] if you think it's impossible for him to get what he wants.)
 
 **Answer:** 9999
 [[Quesiti/src_kangourou_2016_squadre_f#q04|src_kangourou_2016_squadre_f__Q04]]
@@ -201,7 +201,7 @@ level: squadre
 
 *sum of digits of the minimum multiple of 35 with equal digits*
 
-> For 35 M it is the smallest multiple (positive integer) of 35 whose digits are all equal to each other. What's the sum of the digits of M?
+> For 35, M is the smallest multiple (positive integer) of 35 whose digits are all equal to each other. What's the sum of the digits of M?
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2016_squadre_f#q05|src_kangourou_2016_squadre_f__Q05]]
@@ -237,11 +237,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sections for drawing a cube of 1000 cubes*
+*Segments for drawing a cube of 1000 cubes*
 
 ![[src_kangourou_2016_squadre_f__prob6.png]]
 
-> Drawing cubes Figures show, in perspective, two cubes; the second is obtained by approaching 8 cubes equal to the first. How many segments will it take to draw, with the same kind of perspective, the cube obtained by approaching 1000 cubes equal to the first? To understand what we mean by "section", we'll tell you that to draw the first cube, 9 segments were drawn, to draw the second, 15 were drawn.
+> Drawing cubes Figures show, in perspective, two cubes; the second is obtained by placing 8 cubes equal to the first side by side. How many segments will it take to draw, with the same kind of perspective, the cube obtained by placing 1000 cubes equal to the first side by side? To understand what we mean by "segment", we'll tell you that to draw the first cube, 9 segments were drawn, to draw the second, 15 were drawn.
 
 **Answer:** 63
 [[Quesiti/src_kangourou_2016_squadre_f#q06|src_kangourou_2016_squadre_f__Q06]]
@@ -270,9 +270,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum initial confectionery with fractions taken from two *
+*Minimum initial confetti with fractions taken by two*
 
-> A vase contains some confetti. She passes Simone and takes 1/15 of it; then she passes Sarah and takes 1/8 of what Simon left behind. Before Simon arrived, the vessel required the smallest amount of confetti with which it was possible for this to happen. How many confections were there?
+> Confetti 
+> A jar contains some confetti. Simone comes by and takes 1/15 of them; then Sara comes by and takes 1/8 of 
+> those left by Simone. Before Simone arrived, the jar contained the smallest quantity of 
+> confetti with which it was possible for this to happen. How many confetti were there?
 
 **Answer:** 60
 [[Quesiti/src_kangourou_2016_squadre_f#q07|src_kangourou_2016_squadre_f__Q07]]
@@ -306,7 +309,7 @@ level: squadre
 
 *Total number of overtakes between the three skaters*
 
-> Skaters Aldo, Bruno and Carlo enjoy skating on a circular track. They start at the same moment from the same point and in the same direction; each skates at a constant speed: Bruno goes faster than Carlo, but less fast than Aldo. They stop as soon as they find themselves all three together. When they stop, Aldo has overtaken Carlo 10 times. How many overlaps between the three of them took place before that time? (Write [9999] if you think the situation described is impossible.)
+> Skaters Aldo, Bruno and Carlo enjoy skating on a circular track. They start at the same moment from the same point and in the same direction; each skates at a constant speed: Bruno goes faster than Carlo, but less fast than Aldo. They stop as soon as they find themselves all three together. When they stop, Aldo has overtaken Carlo 10 times. How many overtakes between the three of them took place before that time? (Write [9999] if you think the situation described is impossible.)
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2016_squadre_f#q08|src_kangourou_2016_squadre_f__Q08]]
@@ -407,9 +410,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequential integers whose cubes give 2016*
+*Sum of consecutive integers whose cubes give 2016*
 
-> 2016 and the 2016 cubes are expressible as the sum of the third powers of some consecutive positive integers. How much is the sum of these numbers?
+> 2016 and the cubes  
+> 2016 can be expressed as the sum of the third powers of some consecutive positive integers. 
+> What is the sum of these numbers?
 
 **Answer:** 42
 [[Quesiti/src_kangourou_2016_squadre_f#q10|src_kangourou_2016_squadre_f__Q10]]
@@ -439,7 +444,7 @@ level: squadre
 
 *2016 sum of powers of 2 consecutive times*
 
-> 2016 and powers of 2 2016 is expressed as the sum of powers of 2 with exponents that are consecutive positive integers. How much is the sum of these exponents?
+> 2016 and powers of 2 2016 is expressed as the sum of powers of 2 with exponents that are consecutive positive integers. What is the sum of these exponents?
 
 **Answer:** 45
 [[Quesiti/src_kangourou_2016_squadre_f#q11|src_kangourou_2016_squadre_f__Q11]]
@@ -467,7 +472,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many divisors has the number 2016*
+*How many divisors does the number 2016 have*
 
 > Divisors of 2016 How many divisors does the number 2016 have?
 
@@ -502,7 +507,7 @@ level: squadre
 
 *How to colour the vertices of the square with 3 colours*
 
-> When the vertices are colored you have three different colors available to color the ABCD vertices of a square. You want adjacent vertices to receive different colors. How many different ways can you do that? Keep in mind that each vertex has a name, so two colors should be considered different when each vertex receives different colors.
+> You have three different colors available to color the ABCD vertices of a square. You want adjacent vertices to receive different colors. How many different ways can you do that? Keep in mind that each vertex has a name, so two colorings should be considered different when some vertex receives different colors.
 
 **Answer:** 18
 [[Quesiti/src_kangourou_2016_squadre_f#q13|src_kangourou_2016_squadre_f__Q13]]
@@ -539,28 +544,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ex-couples with the sum of the two numbers *
+*How many hexapairs with maximum sum of the two numbers*
 
-> The call examples excavate a pair of three-digit integers written using all but the digits 1 through 6. How many examples are such that the sum of the two numbers that make up them is the greatest? Attention: the hexapoles are unordered pairs; in other words, the hexapole {123,456} coincides with the hexapole {456,123}.
+> The hexapairs 
+> I call a hexapair a pair of three-digit integers written using all and only the digits from 1 
+> to 6. How many hexapairs are there such that the sum of the two numbers composing them is maximum? 
+> Attention: hexapairs are unordered pairs; in other words, the hexapair {123,456} coincides 
+> with the hexapair {456,123}. 
+> Kangourou of Mathematics 2016 
+> Kangourou Team Cup   
+> Final - Cervia, May 8, 2016 
 >  
 >  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> 
->  
->  
-> Kangourou of Mathematics 2016 Kangourou Team Cup Final - Cervia, 8 May 2016
->  
->  
-> Questions and solutions
+>    Questions and solutions
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2016_squadre_f#q14|src_kangourou_2016_squadre_f__Q14]]

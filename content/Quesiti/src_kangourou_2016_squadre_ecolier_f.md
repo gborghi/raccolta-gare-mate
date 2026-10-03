@@ -32,7 +32,7 @@ level: squadre
 
 *Number equal to three times its own double*
 
-> Who are they? I'm triple my double. What number are they?
+> Who am I? I'm triple my double. What number am I?
 
 **Answer:** 0
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q01|src_kangourou_2016_squadre_ecolier_f__Q01]]
@@ -62,9 +62,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multipliers of 3 by adding 4 from 7 to 200*
+*Multiples of 3 by adding 4 from 7 to 200*
 
-> The numbering to the number 7 we add up 4, then again 4, then again 4 and so on until we first overcome the number 200: that's where we stop. Let's just consider the numbers we got by doing all these sums: how many of them are multiples of 3?
+> The numbering to the number 7 we add up 4, then again 4, then again 4 and so on until we first exceed the number 200: that's where we stop. Let's just consider the numbers we got by doing all these sums: how many of them are multiples of 3?
 
 **Answer:** 16
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q02|src_kangourou_2016_squadre_ecolier_f__Q02]]
@@ -123,7 +123,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many leg cows = 300 + double heads*
+*How many cows from legs = 300 + double heads*
 
 > Cows On a farm, there are only cows and chickens. The total number of legs is equal to 300 plus twice the total number of heads. How many cows are there?
 
@@ -186,9 +186,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum canisters for singing to win (96-83)
+*Minimum baskets for Cantu to win (96-83)*
 
-> Canestri In a basketball game, Milan defeated Cantù by 96 to 83. Knowing that the baskets made can be worth 1 or 2 or 3 points, what is the minimum number of baskets Cantù would have had to make to win?
+> Baskets
+> In a basketball game, Milano beat Cantù 96 to 83. Knowing that the baskets made
+> can be worth 1 or 2 or 3 points, what is the minimum number of baskets that Cantù
+> would have had to make to win?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q06|src_kangourou_2016_squadre_ecolier_f__Q06]]
@@ -219,7 +222,7 @@ Minimum canisters for singing to win (96-83)
 
 Distance B-C between four cities on the road
 
-> The four cities Traveling on a state road meet in the order of four cities we will call A, B, C and D. If the distance between A and D is 250 km, that between C and A is 135 km and that between B and D is 165 km, how many kilometers is B from C?
+> The four cities Traveling on a highway, one encounters in order four cities we will call A, B, C and D. If the distance between A and D is 250 km, that between C and A is 135 km and that between B and D is 165 km, how many kilometers is B from C?
 
 **Answer:** 50
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q07|src_kangourou_2016_squadre_ecolier_f__Q07]]
@@ -251,7 +254,7 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length in mm of the microkang trailer*
+*Length in mm of the microkang train*
 
 > Measurements in Kangland. In Kangland, lengths are not measured in meters, but in kang. A kang is 1.6 meters long, consists of 80 minikang and each minikang consists of 80 microkang. Anna's train is 3344 microkang long. How many millimeters is it?
 >  
@@ -287,9 +290,13 @@ Distance B-C between four cities on the road
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimate the initial apples in the dish with fractions taken*
+*Minimum initial apples in the dish with fractions taken*
 
-> Apples In the dish there are apples. Anna took a few of them: they amounted to a third of the apples in the dish plus a third of the apples. Luigi took more: their quantity was equal to one third of the apples left in the dish plus one third of the apples. Now there's a whole number of apples left in the plate. What is the minimum number of apples that could be in the dish initially?
+> The apples 
+> There are some apples in the dish. Anna took some: their quantity equals one third of the 
+> apples present in the dish plus one third of an apple. Luigi took others: their quantity equals one 
+> third of the apples remaining in the dish plus one third of an apple. Now an integer number of 
+> apples has remained in the dish. What is the minimum number of apples that could have been initially in the dish?
 
 **Answer:** 8
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q09|src_kangourou_2016_squadre_ecolier_f__Q09]]
@@ -349,7 +356,7 @@ Distance B-C between four cities on the road
 
 *Seven-digit numbers with exactly six 9*
 
-> I've listed all the seven-digit numbers (i.e. from 1,000,000 to 9,999 999 included) where there are exactly six 9. How many numbers are on my list?
+> I've listed all the seven-digit numbers (i.e. from 1,000,000 to 9,999,999 included) where there are exactly six 9s. How many numbers are on my list?
 
 **Answer:** 62
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q11|src_kangourou_2016_squadre_ecolier_f__Q11]]
@@ -411,9 +418,9 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*File and place at the concert from seating and file constraints*
+*Row and place at the concert from seating and row constraints*
 
-> In a concert hall there are 20 rows, each with 16 seats, numbered from left to right, for the viewer. The number of seats on my right is equal to the number of files in front of me and it's double the seats on my left. What row and where am I sitting? Write the result by first indicating the row number and then the seat number, in both cases using two digits (possibly 01 to indicate 1, etc.).
+> In a concert hall there are 20 rows, each with 16 seats, numbered from left to right, for the viewer. The number of seats on my right is equal to the number of rows in front of me and it's double the seats on my left. What row and where am I sitting? Write the result by first indicating the row number and then the seat number, in both cases using two digits (possibly 01 to indicate 1, etc.).
 
 **Answer:** 1106
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q13|src_kangourou_2016_squadre_ecolier_f__Q13]]
@@ -443,9 +450,9 @@ How much does Maria have (Lucia, Maria, Nina = 31)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum tents of 5 seats for 31 boys with no seats
+Minimum number of 5-seat tents for 31 boys with no empty seats
 
-> In camp A group of 31 boys go camping with their tents: some are three-seaters, others are five-seaters. What is the minimum number of five-seat tents you can carry if everyone has a seat but there are no open spaces in any of the tents?
+> In camp A group of 31 boys go camping with their tents: some are three-seaters, others are five-seaters. What is the minimum number of five-seat tents they may have brought, if everyone has a place but there are no empty places in any of the tents?
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q14|src_kangourou_2016_squadre_ecolier_f__Q14]]
@@ -479,33 +486,16 @@ Minimum tents of 5 seats for 31 boys with no seats
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The unit of the product of all three-digit oddities*
+*Units digit of the product of all three-digit odd numbers*
 
-> A very large product Multiply all odd numbers by three digits: what is the number of units of the product?
+> A very large product 
+> Let's multiply all three-digit odd numbers: what is the units digit of the product?  
+> 3 
 >  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> 
-> 3
->  
-> Kangourou of Mathematics 2016 Cup for teams Kangourou Ecolier Cervia, 6 May 2016
->  
->  
->  
->  
->  
->  
-> Questions and solutions
+> Kangourou of Mathematics 2016   
+> Kangourou Ecolier Team Cup   
+> Cervia, 6 May 2016 
+>       Questions and solutions
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2016_squadre_ecolier_f#q15|src_kangourou_2016_squadre_ecolier_f__Q15]]

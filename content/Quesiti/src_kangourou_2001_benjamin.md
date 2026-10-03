@@ -37,15 +37,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units of measurement.
+*Calculate 2x0+0x1*
 
-> The kangaroo calculates: 2 × 0 + 0 × 1. The result is
+> The kangaroo calculates:
+> 2 × 0 + 0 × 1.
+> The result is
 >
 > - **(A)** 2
 > - **(B)** 0
 > - **(C)** 1
 > - **(D)** 2001
-> - **(E)** 3. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 2
+> - **(E)** 3. Kangourou 15 March 2001, category Benjamin. Page No. 2
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_benjamin#q01|src_kangourou_2001_benjamin__Q01]]
@@ -77,7 +79,7 @@ This is the total number of units of measurement.
 
 ![[src_kangourou_2001_benjamin__prob2.png]]
 
-> Which of the following corresponds to the one in the figure?
+> Which of the following sheets corresponds to the one folded in the figure?
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_benjamin#q02|src_kangourou_2001_benjamin__Q02]]
@@ -110,14 +112,14 @@ This is the total number of units of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late clock after 24 hours*
+*Clock delay after 24 hours*
 
 > Grandpa's old watch lags 20 seconds an hour. What will be the clock's delay after 24 hours?
 >
 > - **(A)** 7 minutes
 > - **(B)** 8 minutes
-> - **(C)** Nine minutes .
-> - **(D)** 10 minutes .
+> - **(C)** 9 minutes
+> - **(D)** 10 minutes
 > - **(E)** 11 minutes.
 
 **Answer:** B
@@ -224,9 +226,9 @@ This is the total number of units of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product S for F of siblings and siblings
+Product S times F of siblings
 
-> Henry has three sisters and five brothers. His sister Sabina has "S" sisters and "F" brothers. How much is the product of S for F?
+> Henry has three sisters and five brothers. His sister Sabina has "S" sisters and "F" brothers. What is the product of S times F?
 >
 > - **(A)** 8
 > - **(B)** 10
@@ -301,13 +303,13 @@ Product S for F of siblings and siblings
 
 *Number not obtained by doubling 4 times*
 
-> Clear thinks of an integer. It doubles that number, doubles the result again, doubles it again, and then doubles it again. Which of the following numbers certainly cannot be the result?
+> Chiara thinks of an integer. It doubles that number, doubles the result again, doubles it again, and then doubles it again. Which of the following numbers certainly cannot be the result?
 >
 > - **(A)** 80
 > - **(B)** 1200
 > - **(C)** 48
 > - **(D)** 84
-> - **(E)** 880. . 15 1 (E) 12 1 (D) 10 1 (C) 8 1 (B) 6 1 ) A (Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 3
+> - **(E)** 880. (Kangourou 15 March 2001, category Benjamin. Page No. 3
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_benjamin#q08|src_kangourou_2001_benjamin__Q08]]
@@ -389,17 +391,19 @@ Product S for F of siblings and siblings
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum firefighters for 11 squares*
+*Minimum matches for 11 squares*
 
 ![[src_kangourou_2001_benjamin__prob10.png]]
 
-> Find the minimum number of matches you need to add to the figure so you get exactly 11 squares.
+> Find the minimum number of matches that must be
+> added to the figure in order to obtain exactly
+> 11 squares.
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** 6. The questions from N. 11 al N. 20 is worth 4 points each.
+> - **(E)** 6. Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_benjamin#q10|src_kangourou_2001_benjamin__Q10]]
@@ -441,7 +445,7 @@ When Nikita and Sasha meet again
 > - **(B)** After 8 minutes
 > - **(C)** After 10 minutes
 > - **(D)** After 12 minutes
-> - **(E)** You can't answer, because it depends on the length of the runway.
+> - **(E)** You can't answer, because it depends on the length of the track.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_benjamin#q11|src_kangourou_2001_benjamin__Q11]]
@@ -475,7 +479,7 @@ When Nikita and Sasha meet again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edward's euro with third-party coins*
+*Edward's euros with third coins*
 
 > Edward has 201 coins. One third of these are 1 euro coins, one third are 5 euro coins and the rest are 10 euro coins. How many euros does Edward own?
 >
@@ -483,7 +487,7 @@ When Nikita and Sasha meet again
 > - **(B)** 201
 > - **(C)** 972
 > - **(D)** 1062
-> - **(E)** 2001. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 4
+> - **(E)** 2001. Kangourou 15 March 2001, category Benjamin. Page No. 4
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_benjamin#q12|src_kangourou_2001_benjamin__Q12]]
@@ -516,9 +520,16 @@ When Nikita and Sasha meet again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing centimetres in George*
+*Missing centimetres for Giorgio*
 
-> We're in the final of the 10km athletics competition at school. George runs for 9,641 feet, 3,456 inches, and 12,340 millimeters, and after that distance he falls to the ground exhausted and can no longer go on. How many inches are they down to the finish line? (A) 1 060 cm (B) 160 cm  (C) 106 cm   (D) 100 cm (E) 96 cm.
+> We are at the final of the 10 kilometres for the school athletics
+> competitions. Giorgio runs for 9 641 metres, 3 456 decimetres and 12 340
+> millimetres and after this distance he collapses to the ground exhausted and can no
+> longer continue. How many centimetres is he missing to reach the
+> finish line?
+> (A) 1 060 cm
+> (B) 160 cm  (C) 106 cm   (D) 100 cm
+> (E) 96 cm.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_benjamin#q13|src_kangourou_2001_benjamin__Q13]]
@@ -638,9 +649,9 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length by rectangular field*
+*Length of a second rectangular field*
 
-> The length of a rectangular field is 80 m and the area is 3 200 m2. Find the length of another rectangular field whose area and width are both half the corresponding of the first field.
+> The length of a rectangular field is 80 m and the area is 3 200 m². Find the length of another rectangular field whose area and width are both half the corresponding of the first field.
 >
 > - **(A)** 20 m
 > - **(B)** 40 m
@@ -683,13 +694,13 @@ Red dragon heads
 
 *Time for other subjects of Susanna*
 
-> Susanna takes exactly one hour to do all her homework. He spends a third of his time on math and two-fifths on geography. How long does it take to do the other subjects?
+> Susanna takes exactly one hour to do all her homework. She spends a third of her time on math and two-fifths of the remaining time on geography. How long does it take to do the other subjects?
 >
 > - **(A)** 12 minutes .
 > - **(B)** 20 minutes .
 > - **(C)** 24 minutes .
 > - **(D)** 36 minutes .
-> - **(E)** 40 minutes, please.
+> - **(E)** 40 minutes.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_benjamin#q17|src_kangourou_2001_benjamin__Q17]]
@@ -722,14 +733,14 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Current age of Susy*
+*Susy's current age*
 
-> Three years ago the three twins Paolo, Simone, and Billy and their sister Susy, who was four years older than them, had been together for 24 years. How old is Susy now?
+> Three years ago the three triplets Paolo, Simone and Billy with their sister Susy, who was four years "older" than them, added up together to 24 years. How old is Susy currently?
 >
 > - **(A)** 5 years
 > - **(B)** 8 years
 > - **(C)** 9 years
-> - **(D)** 12 years 15 years. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 5
+> - **(D)** 12 years (E) 15 years. Kangourou 15 March 2001, category Benjamin. Page No. 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_benjamin#q18|src_kangourou_2001_benjamin__Q18]]
@@ -812,15 +823,18 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-The amount to be paid in the form of dividends shall be the sum of the following:
+*Cristina's Euros divided into parts*
 
-> During their holidays, Alberto, Brenda and Cristina earned 280 euros together. Alberto worked twice as long as Brenda and four times as long as Cristina. They decide to share their earnings fairly. How many euros does Cristina have?
+> During their holidays Alberto, Brenda and Cristina earned together
+> 280 Euros. Alberto worked twice the time of Brenda and four times the
+> time of Cristina. They decide to divide their earnings fairly.
+> How many Euros does Cristina get?
 >
 > - **(A)** 30
 > - **(B)** 40
 > - **(C)** 50
 > - **(D)** 60
-> - **(E)** 70. The questions from N. 21 al N. 30 is worth 5 points each.
+> - **(E)** 70. Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_benjamin#q20|src_kangourou_2001_benjamin__Q20]]
@@ -905,17 +919,17 @@ The amount to be paid in the form of dividends shall be the sum of the following
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Booth on the sidewheel*
+*Cabins on the panoramic wheel*
 
 ![[src_kangourou_2001_benjamin__prob22.png]]
 
-> The biggest attraction of a Luna Park is the large panoramic wheel (the figure shows a similar but smaller one). The cabins are equidistant and numbered 1, 2, 3, ... At the moment when cabin n. 25 is in the lowest position cabin n. 8 is in the highest position. How many cabins are there on that view wheel?
+> The biggest attraction of a Luna Park is the large panoramic wheel (the figure shows a similar but smaller one). The cabins are equidistant and numbered 1, 2, 3, ... At the moment when cabin n. 25 is in the lowest position cabin n. 8 is in the highest position. How many cabins are there on that panoramic wheel?
 >
 > - **(A)** 33
 > - **(B)** 34
 > - **(C)** 35
 > - **(D)** 36
-> - **(E)** 37. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 6
+> - **(E)** 37. Kangourou 15 March 2001, category Benjamin. Page N. 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2001_benjamin#q22|src_kangourou_2001_benjamin__Q22]]
@@ -949,9 +963,11 @@ The amount to be paid in the form of dividends shall be the sum of the following
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oxygen phases for 34 students*
+*Beeches for oxygen for 34 students*
 
-> A 100-year-old beech produces 1.7 kg of oxygen in an hour. How much of this kind of work is needed to supply 34 students with oxygen for an hour, knowing that each student consumes 0.7 kg of oxygen in an hour?
+> A 100-year-old beech produces 1.7 kg of oxygen in one hour. How many beeches
+> of this type are needed to supply oxygen for one hour to 34 students, knowing
+> that each student consumes 0.7 kg of oxygen in one hour?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -1109,7 +1125,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 
 *Numbers in multiplication by 45xA3*
 
-> Replace each letter with a digit so that the result of multiplication is accurate. 45 × A3 = 3BCD The sum of the four digits entered is:
+> Replace each letter with a digit so that the result of multiplication is exact. 45 × A3 = 3BCD The sum of the four digits inserted is:
 >
 > - **(A)** 20
 > - **(B)** 21
@@ -1156,7 +1172,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 
 ![[src_kangourou_2001_benjamin__prob27.png]]
 
-> In a side 5 cube, constructed by adjoining side 1 cubes, holes were made (from side to side) as shown in the figure. How many cubes on side one are left?
+> In a side 5 cube, constructed by adjoining side 1 cubes, holes were made (from side to side) as shown in the figure. How many unit cubes are left?
 >
 > - **(A)** 88
 > - **(B)** 80
@@ -1211,7 +1227,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area exaggerated given star area*
+*Area of hexagon given star area*
 
 ![[src_kangourou_2001_benjamin__prob28.png]]
 
@@ -1233,7 +1249,7 @@ The amount to be paid in the form of dividends shall be the sum of the following
 > - **(B)** 9
 > - **(C)** 12
 > - **(D)** 15
-> - **(E)** 18. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 7
+> - **(E)** 18. Kangourou 15 March 2001, category Benjamin. Page N. 7
 
 **Answer:** C
 [[Quesiti/src_kangourou_2001_benjamin#q28|src_kangourou_2001_benjamin__Q28]]
@@ -1263,11 +1279,11 @@ The amount to be paid in the form of dividends shall be the sum of the following
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid with a larger total area*
+*Solid with a larger total surface area*
 
 ![[src_kangourou_2001_benjamin__prob29.png]]
 
-> All of the following solids, obtained by adjoining all equal cubes, have the same volume. Which has the largest total area?
+> All of the following solids, obtained by adjoining identical cubes, have the same volume. Which has the largest total surface area?
 
 **Answer:** A
 [[Quesiti/src_kangourou_2001_benjamin#q29|src_kangourou_2001_benjamin__Q29]]
@@ -1304,13 +1320,15 @@ The amount to be paid in the form of dividends shall be the sum of the following
 
 *Minimum difference between two 3-digit numbers*
 
-> Using the digits 1 to 6 only once, you can form two three-digit numbers (e.g. 645 and 321, which differ by 324). Look for the two three-digit numbers whose difference is as small as possible. The slightest difference is:
+> Using the digits from 1 to 6 only once each, you can form two three-digit numbers
+> (for example 645 and 321, which differ by 324). Find the two three-digit numbers
+> whose difference is as small as possible. The smallest difference is:
 >
 > - **(A)** 69
 > - **(B)** 56
 > - **(C)** 49
 > - **(D)** 47
-> - **(E)** 38. This appropriation is intended to cover expenditure relating to the implementation of the programme. This item is not intended to be used. 1 Answers Category Benjamin Competition of 15 March 2001
+> - **(E)** 38. Answers category Benjamin, 15 March 2001. Page No. 1 Answers Category Benjamin Competition of 15 March 2001
 
 **Answer:** D
 [[Quesiti/src_kangourou_2001_benjamin#q30|src_kangourou_2001_benjamin__Q30]]

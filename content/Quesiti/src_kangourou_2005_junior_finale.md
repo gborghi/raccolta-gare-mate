@@ -33,11 +33,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum locks purchased from Silvia*
+*Minimum laces purchased by Silvia*
 
-> Five girls, including Silvia, bought some hair locks. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by three of them is greater than that bought by the other two.
+> Five girls, including Silvia, bought some hair laces. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by any three of them is greater than that bought by the other two.
 > 
-> What's the minimum number of ties that Silvia could have bought? Reason for the answer.
+> What is the minimum number of laces that Silvia could have bought? Justify your answer.
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2005_junior_finale#qj1|src_kangourou_2005_junior_finale__QJ1]]
@@ -106,7 +106,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the regular exaggeration into 8 equal parts*
+*To divide the regular hexagon into 8 equal parts*
 
 ![[src_kangourou_2005_junior_finale__probj3.png]]
 
@@ -118,9 +118,9 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see a regular hexagon. Can you divide it into parts of equal shape and size? In the case of a negative answer, you must give reasons; in the case of an affirmative answer, explain directly on the figure the subdivision you propose, together with any clarifications you deem appropriate. (see figure)
+> In the figure you see a regular hexagon. Can you divide it into 8 parts of equal shape and size? In the case of a negative answer, you must give reasons; in the case of an affirmative answer, explain directly on the figure the subdivision you propose, together with any clarifications you deem appropriate. (see figure)
 
-**Answer:** Si
+**Answer:** Yes
 [[Quesiti/src_kangourou_2005_junior_finale#qj3|src_kangourou_2005_junior_finale__QJ3]]
 
 
@@ -144,9 +144,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of development coefficients of (2x-y+z) ^8*
+*Sum of expansion coefficients of (2x-y+z) ^8*
 
-> What is the algebraic sum of all the coefficients (each with its own sign) of $(2x - y + z)^8$ development?
+> What is the algebraic sum of all the coefficients (each with its own sign) of the expansion of $(2x - y + z)^8$?
 
 **Answer:** 256
 [[Quesiti/src_kangourou_2005_junior_finale#qj4|src_kangourou_2005_junior_finale__QJ4]]
@@ -175,9 +175,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Product of factories not squared but divided by 50! *
+*Product of the factorials is not a square but it is divided by 50!*
 
-> For each positive integer $n$, "factor of $n$"  is said and the symbol $n!$  indicates the product of all integers from $1$ to $n$ included, each considered once and only once (so you have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). It shows that the $$1! \times 2! \times \cdots \times 99! \times 100!$$ product of the factors of the first positive $100$ integers is not a perfect square, but its quotient with $50!$ is.
+> For every positive integer $n$, the "factorial of $n$" — denoted by the symbol $n!$ — is the product of all integers from $1$ to $n$ inclusive, each considered once and only once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). Show that the product
+> $$1! \times 2! \times \cdots \times 99! \times 100!$$
+> of the factorials of the first $100$ positive integers is not a perfect square, but its quotient by $50!$ is.
 
 **Answer:** dimostrazione
 [[Quesiti/src_kangourou_2005_junior_finale#qj5|src_kangourou_2005_junior_finale__QJ5]]
@@ -250,9 +252,9 @@ level: kangourou
 \end{document}
 ```
 
-> Consider a chessboard $7 \times 7$ from which the $4$ corner boxes have been removed; call ** Greek cross ** any configuration of $5$ its cross-ordered boxes so that each box has at least one side in common with another box of the cross (so each box has $4$ equal arms each made up of a box). It shows that it is possible to arrange $45$ integers (not necessarily all of them different from each other) on the remaining $45$ boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive.
+> Consider a chessboard $7 \times 7$ from which the $4$ corner boxes have been removed; call **Greek cross** any configuration of $5$ of its boxes arranged in a cross so that each box has at least one side in common with another box of the cross (so each cross has $4$ equal arms each made up of one box). Show that it is possible to arrange $45$ integers (not necessarily all of them different from each other) on the remaining $45$ boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive.
 > 
-> (Suggest: identify a conveniently small $S$ set of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
+> (Hint: identify a conveniently small set $S$ of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
 
-**Answer:** dimostrazione
+**Answer:** proof
 [[Quesiti/src_kangourou_2005_junior_finale#qj6|src_kangourou_2005_junior_finale__QJ6]]

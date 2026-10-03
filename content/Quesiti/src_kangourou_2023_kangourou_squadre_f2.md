@@ -34,7 +34,7 @@ level: squadre
 
 *Difference of surface area given difference of cubic volumes*
 
-> Cube difference The measurements in meters of the sides of two cubes are integers. The difference (positive) in their volumes is 37 m3. How many square meters is the difference (positive) between their surfaces?
+> Cube difference The measurements in meters of the sides of two cubes are integers. The difference (positive) in their volumes is 37 m3. How many square meters is the difference (positive) between their surface areas?
 
 **Answer:** 0042
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q01|src_kangourou_2023_kangourou_squadre_f2__Q01]]
@@ -65,7 +65,7 @@ level: squadre
 
 *How many girls have passed average exams*
 
-> Examination A university examination was taken by 210 students. The average score (in thirty) reported by the girls is 25, the average score reported by the boys is 20; the average score calculated for all participants is 23. How many girls have passed the exam?
+> Examination A university examination was taken by 210 students. The average score (out of thirty) reported by the girls is 25, the average score reported by the boys is 20; the average score calculated for all participants is 23. How many girls have passed the exam?
 
 **Answer:** 0126
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q02|src_kangourou_2023_kangourou_squadre_f2__Q02]]
@@ -196,7 +196,7 @@ Gamme of glues for parallel 7x6x5
 
 *Minimum straight lines to cover square vertices*
 
-> On a huge square sheet of square paper, with 2,023 squares per side, you want to draw lines, none parallel to those that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one straight. What is the smallest number of lines that is sufficient to trace?
+> On a huge square sheet of square paper, with 2,023 squares per side, you want to draw lines, none parallel to those that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
 
 **Answer:** 4046
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q06|src_kangourou_2023_kangourou_squadre_f2__Q06]]
@@ -224,7 +224,7 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greatest than five consecutive, 10 digit product*
+*Largest of five consecutive, 10-digit product*
 
 > Ten digits A 10-digit integer is the product of five consecutive integers and is the largest 10-digit integer that enjoys this property. Which is the largest of the five consecutive integers?
 
@@ -323,7 +323,7 @@ Gamme of glues for parallel 7x6x5
 
 *Maximum side intersections 3 red 5 blue*
 
-> Angela's job at intersections is to draw three red triangles and five blue triangles on a sheet of paper. The number N of intersection points between different coloured sides must be finite. What is the maximum possible value of N?
+> Angela has this task: on a sheet of paper she must draw three red triangles and five blue triangles on a sheet of paper. The number N of intersection points between different coloured sides must be finite. What is the maximum possible value of N?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q10|src_kangourou_2023_kangourou_squadre_f2__Q10]]
@@ -355,7 +355,7 @@ Gamme of glues for parallel 7x6x5
 
 *Track length, diametrically opposite departures*
 
-> Circular track Paul and Gino train to run along a circular track. They start from diametrically opposite points, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the runway?
+> Circular track Paul and Gino train to run along a circular track. They start from diametrically opposite points, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the track?
 
 **Answer:** 0350
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q11|src_kangourou_2023_kangourou_squadre_f2__Q11]]
@@ -427,11 +427,11 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to read BANANA in the table*
+*How to read BANANA in the table*
 
 ![[src_kangourou_2023_kangourou_squadre_f2__prob13.png]]
 
-> BANANA How many different ways can the word BANANA be read in the table below, keeping in mind that for each cell letta, the next cell must share a side with it and that the same cell can be letta multiple times?
+> BANANA How many different ways can the word BANANA be read in the table below, keeping in mind that for each cell read, the next cell must share a side with it and that the same cell can be read multiple times?
 
 **Answer:** 0084
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q13|src_kangourou_2023_kangourou_squadre_f2__Q13]]
@@ -516,7 +516,7 @@ How to read BANANA in the table*
 \end{document}
 ```
 
-> The area of the rectangle In the figure, ABCD is a rectangle, F is the middle point of the side AB, N is the middle point of the side BC and M is the common point to the straight lines containing one side AB, the other the DN segment. The area of the triangle FMN is 99. What is the area of the rectangle ABCD?
+> The area of the rectangle In the figure, ABCD is a rectangle, F is the midpoint of the side AB, N is the midpoint of the side BC and M is the common point to the straight lines containing one side AB, the other the DN segment. The area of the triangle FMN is 99. What is the area of the rectangle ABCD?
 
 **Answer:** 0264
 [[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q14|src_kangourou_2023_kangourou_squadre_f2__Q14]]
@@ -565,7 +565,7 @@ How to read BANANA in the table*
 
 *M+m minimum possible 100 numbers in line*
 
-> One hundred numbers in line In an alignment of 100 positive integers, we know that each of the numbers other than the first of the alignment and the last is the arithmetic mean of the two adjacent numbers. We also know that one of the 100 numbers is 2.023 and there are no more. For the smallest of the numbers of the alignment there are several possible values: if M is the largest of these possible values and m is the smallest, how much is M + m?
+> One hundred numbers in line In an alignment of 100 positive integers, we know that each of the numbers other than the first of the alignment and the last is the arithmetic mean of the two adjacent numbers. We also know that one of the 100 numbers is 2.023 and there are no greater ones. For the smallest of the numbers of the alignment there are several possible values: if M is the largest of these possible values and m is the smallest, how much is M + m?
 >  
 > A B C D F M N P Q axis 4 cm
 > 

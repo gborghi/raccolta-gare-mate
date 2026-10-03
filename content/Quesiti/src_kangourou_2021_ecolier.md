@@ -87,7 +87,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish with the nose towards the ring by stretching the rope*
+*Fish with their snouts towards the ring while stretching the rope*
 
 ![[src_kangourou_2021_ecolier__prob2.png]]
 
@@ -137,11 +137,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the addition to the card puzzle*
+*Result of the addition in the tile puzzle*
 
 ![[src_kangourou_2021_ecolier__prob3.png]]
 
-> By embedding the four cards in the puzzle correctly, you get a rectangle in which you read an addition. What is the result? A) 6
+> By fitting the four puzzle tiles together correctly, you get a rectangle in which you read an addition. What is the result? A) 6
 > 	
 > B) 15
 > 	
@@ -195,7 +195,7 @@ level: kangourou
 
 ![[src_kangourou_2021_ecolier__prob4.png]]
 
-> Alessia drew the smiling sun you see here. Which of the following fragments is part of his drawing? A)
+> Alessia drew the smiling sun you see here. Which of the following fragments is part of her drawing? A)
 > 	
 > B) C)
 > 	
@@ -240,11 +240,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Highest scored score *
+*Target with the highest score*
 
 ![[src_kangourou_2021_ecolier__prob5.png]]
 
-> In the answers, you see the targets hit by five boys during a shooting match with the arch. Richard has totaled the highest score: what's his target? A)
+> In the answers, you see the targets hit by five boys during a shooting match with the bow. Riccardo has totaled the highest score: what's his target? A)
 >  	
 > B)
 >  	
@@ -291,18 +291,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of heels on the meter wrapped in the cylinder*
+*Number at the mark on the tape measure wrapped around the cylinder*
 
 ![[src_kangourou_2021_ecolier__prob6.png]]
 
-> A tape meter is wrapped around a cylinder as shown in the figure. What number corresponds to the height indicated by the point in question? A) 33
-> 	
-> B) 42
-> 	
-> C) 48
-> 	
-> D) 53
-> 	
+> A tape measure is wrapped around a cylinder as
+> shown in the figure. Which number is found at
+> the mark indicated by the question mark?
+> A) 33	
+	
+> B) 42	
+	
+> C) 48	
+	
+> D) 53	
+	
 > E) 69
 
 **Answer:** C
@@ -340,9 +343,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gold flame stars given 20 total and +6*
+*Gold flame little stars given 20 total and +6*
 
-> Daniel exploded a silver fireworks and a gold one at the same time. In all, the two fires have produced 20 stars. The golden fire gave out six more stars than the silver one. How many stars did the golden fire give out? A) 9
+> Daniel exploded a silver fireworks and a gold one at the same time. In all, the two fireworks have produced 20 little stars. The golden firework gave out six more little stars than the silver one. How many little stars did the golden firework give out? A) 9
 > 	
 > B) 10
 > 	
@@ -386,11 +389,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of each white ball from the balance sheet*
+*Weight of each white ball from the balance*
 
 ![[src_kangourou_2021_ecolier__prob8.png]]
 
-> Rossana has some spheres, three different colors. Spheres of the same colour have the same weight. The balance sheets in the figure show the overall weight of some groups of these spheres. What's the weight of each white sphere? (A) 3 kg B) 4 kg C) 5 kg D) 6 kg E) 7 kg I Questions from N. 9 al N. 16 is worth 4 points each.
+> Rossana has some spheres, three different colors. Spheres of the same colour have the same weight. The balances in the figure show the overall weight of some groups of these spheres. What's the weight of each white sphere? A) 3 kg B) 4 kg C) 5 kg D) 6 kg E) 7 kg Questions from N. 9 to N. 16 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2021_ecolier#q08|src_kangourou_2021_ecolier__Q08]]
@@ -428,9 +431,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flows remaining on the three branches of the eucalyptus*
+*Leaves remaining on the three branches of eucalyptus*
 
-> A koala ate some leaves from three branches of eucalyptus. Each branch had 20 leaves: the koala from the first branch ate some and from the second branch ate as many leaves as were left on the first. Finally, he ate two leaves from the third branch. How many leaves in all are left on the three branches? A) 20
+> A koala ate some leaves from three branches of eucalyptus. Each branch had 20 leaves: the koala from the first branch ate some and from the second branch ate as many leaves as were left on the first. Finally, he ate 2 leaves from the third branch. How many leaves in all are left on the three branches? A) 20
 > 	
 > B) 22
 > 	
@@ -490,9 +493,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro in cash at the opening given the freezing charge*
+*Euro in the cash register at the opening given the ice cream sales*
 
-> This morning, when he opened the store, the ice cream maker Mario had a certain amount of money in his safe. After selling six ice cream, he had 70 euros in his pocket. Now that he's sold a total of 16 ice cream, he's got 120 euros in his pocket. All the ice cream sold were the same price: how many euros did Mario have in his safe when he opened the store? A) 20
+> This morning, when he opened the store, the ice cream maker Mario had a certain amount of money in the cash register. After selling six ice creams, he had 70 euros in the cash register. Now that he's sold a total of 16 ice creams, he has 120 euros in the cash register. All the ice creams sold had the same price: how many euros did Mario have in the cash register when he opened the store? A) 20
 > 	
 > B) 30
 > 	
@@ -549,7 +552,7 @@ Alignment that prevents Gina from grouping
 
 ![[src_kangourou_2021_ecolier__prob11.png]]
 
-> Every card in a strange deck of cards brings back one of the figures on the right. Nina and Gina play like this: one line up five cards of the deck on the table and the other tries to match all the cards containing the same figure by making only one exchange between two cards. Which of the following alignments must Nina choose if she wants to prevent Gina from achieving her goal? A)
+> Every card in a strange deck of cards shows one of the figures on the right. Nina and Gina play like this: one lines up five cards of the deck on the table and the other tries to match all the cards containing the same figure by making only one exchange between two cards. Which of the following alignments must Nina choose if she wants to prevent Gina from achieving her goal? A)
 > 	
 > B)
 >  	
@@ -594,11 +597,18 @@ Alignment that prevents Gina from grouping
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form to be taken from the vessel 4*
+*Cookie to take from jar 4*
 
 ![[src_kangourou_2021_ecolier__prob12.png]]
 
-> Sofia wants to take five different ants from these five vessels. You can only take one cup of foam. What form should you take from pot 4? A) B) C) D) E) He can't.
+> Sofia wants to take 5 different cookies from these
+> five jars. She can take only one cookie from each
+> jar. Which cookie must she take from jar 4?
+> A) 	
+> B) 	
+> C) 	
+> D) 	
+> E) She cannot do it.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2021_ecolier#q12|src_kangourou_2021_ecolier__Q12]]
@@ -644,7 +654,7 @@ Alignment that prevents Gina from grouping
 
 ![[src_kangourou_2021_ecolier__prob13.png]]
 
-> Look at the figure: in each of the five tokens there's a number overlaid by an arrow. If the arrows in two adjacent tokens have opposite sides, we replace these two tokens with a new token where the number is the sum of the two numbers and the arrow is oriented as it was on the larger number, as shown in this example. If we follow this rule, what is the end result? A)
+> Look at the figure: in each of the five tokens there's a number with an arrow above it. If the arrows in two adjacent tokens point in opposite directions, we replace these two tokens with a new token where the number is the sum of the two numbers and the arrow is oriented as it was on the larger number, as shown in this example. If we follow this rule, what is the end result? A)
 > 	
 > B)
 > 	
@@ -716,9 +726,9 @@ Alignment that prevents Gina from grouping
 <div class="qlang-split" data-lang="en"></div>
 
 
-Box in which Eva attacked the flower
+Box in which Eva attached the flower
 
-> Eva has the five stickers shown here next to her: she attaches one in each of the five frames of this board so that the star is not in box 5, the fruit is in box 1 or box 2, the flower is either adjacent to the circle or the triangle. In what frame did Eve attach the flower? A) 1
+> Eva has the five stickers shown here next to her: she attaches one in each of the five frames of this board so that the star is not in box 5, the fruit is in box 1 or box 2, the flower is adjacent both to the circle and to the triangle. In what frame did Eva attach the flower? A) 1
 > 	
 > B) 2
 > 	
@@ -726,7 +736,7 @@ Box in which Eva attacked the flower
 > 	
 > D) 4
 > 	
-> E) 5 Vase 1 Vase 2 Vase 5 Vase 3 Vase 4 10 20 9 3 7 11 4 15 => 50 48 49 50 49 1 2 3 4 5
+> E) 5 Vaso 1 Vaso 2 Vaso 5 Vaso 3 Vaso 4 10 20 9 3 7 11 4 15 => 50 48 49 50 49 1 2 3 4 5
 >
 
 **Answer:** D
@@ -770,7 +780,7 @@ Box in which Eva attacked the flower
 
 ![[src_kangourou_2021_ecolier__prob15.png]]
 
-> On a very high building there are 4 fire stairs, as shown in the figure. For three of the stairs, the corresponding heights in metres are indicated at the top. How long is the remaining ladder? A) 12
+> On a very high building there are 4 fire ladders, as shown in the figure. For three of the ladders, the corresponding heights in metres are indicated at the top. How long is the remaining ladder? A) 12
 > 	
 > B) 14
 > 	
@@ -822,20 +832,26 @@ Box in which Eva attacked the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Waiting for the three cups after the tenth move*
+*Appearance of the three cups after the tenth move*
 
 ![[src_kangourou_2021_ecolier__prob16.png]]
 
-> Nora lined up 3 cups on the kitchen table and played like this: she takes the leftmost cup, turns it over and deposits the other two cups to the right. The figure shows the first move. How will the three cups appear after the tenth move? A)
+> Nora has lined up 3 cups on the kitchen table and plays
+> like this: she takes the leftmost cup, turns it upside down and places it
+> to the right of the other two cups. The figure shows the first move.
+> How will the three cups appear after the tenth move?
+> A)	
 >  	
 > 	
-> B)
+> B) 	
 > 	
 > 	
-> C) D)
+> C) 
+> D)	
 >  	
 > 	
-> E) Questions from N. 17 al N. Twenty-four is worth five points each.
+> E) 
+> Questions from No. 17 to No. 24 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2021_ecolier#q16|src_kangourou_2021_ecolier__Q16]]
@@ -881,7 +897,7 @@ Box in which Eva attacked the flower
 
 ![[src_kangourou_2021_ecolier__prob17.png]]
 
-> As you can see in the figure, Luca has a square field with 16 trees and an inner fence, consisting of nine movable modules, divided into four regions: one with 8 trees, two with 3 trees and one with 2 trees. It wants to move some of the modules so that it forms exactly three regions, two of which have six trees. What is the minimum number of modules you can move your project to? A) 2
+> As you can see in the figure, Luca has a square field with 16 trees and an inner fence, consisting of nine movable modules, divided into four regions: one with 8 trees, two with 3 trees and one with 2 trees. He wants to move some of the modules so as to form exactly three regions, two of which have six trees. What is the minimum number of modules he must move to carry out his plan? A) 2
 > 	
 > B) 3
 > 	
@@ -929,11 +945,11 @@ Box in which Eva attacked the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which paper to fold for equal sums*
+*Which card to flip for equal sums*
 
 ![[src_kangourou_2021_ecolier__prob18.png]]
 
-> I have seven cards: each card has two numbers, each one upside down. At this time, the cards are arranged as shown. I want to make sure that the sum of the numbers on the top line is equal to the sum of the numbers on the bottom line. To achieve my purpose, I just have to flip one of the cards. What kind? A) A
+> I have seven cards: each card has two numbers, each one upside down with respect to the other. At this time, the cards are arranged as shown. I want to make sure that the sum of the numbers on the top line is equal to the sum of the numbers on the bottom line. To achieve my purpose, I just have to flip one of the cards. Which one? A) A
 > 	
 > B) C
 > 	
@@ -1004,7 +1020,7 @@ Box in which Eva attacked the flower
 
 ![[src_kangourou_2021_ecolier__prob19.png]]
 
-> I put one of the numbers from 1 to 9 in each square of the grid below, just repeat. In the figure you see the sums of all the pairs of numbers written in adjacent squares. What number is in the gray square? A) 4
+> I put one of the numbers from 1 to 9 in each square of the grid below, without repetition. In the figure you see the sums of all the pairs of numbers written in adjacent squares. What number is in the grey square? A) 4
 > 	
 > B) 5
 > 	
@@ -1053,18 +1069,19 @@ Box in which Eva attacked the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-Balloon certainly hit to total 30
+*Balloon certainly hit to total 30*
 
 ![[src_kangourou_2021_ecolier__prob20.png]]
 
-> Mine throws a series of arrows at five balloons. When you hit one, you get the score you think you're getting. If at the end of the game you've scored 30 points, which balloon did Mia hit? A) 3
-> 	
-> B) 9
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
+> Mia throws a series of darts at five balloons. When she hits one she gets the score shown on it. If at the end of the game she has totaled 30 points, which balloon has Mia certainly hit?
+> A) 3	
+	
+> B) 9	
+	
+> C) 13	
+	
+> D) 14	
+	
 > E) 18
 
 **Answer:** A
@@ -1152,7 +1169,7 @@ Balloon certainly hit to total 30
 
 ![[src_kangourou_2021_ecolier__prob22.png]]
 
-> Each of the five boxes in the picture contains either apples or bananas but not both types of fruit. The total weight of all bananas is three times the weight of all apples. What kind of boxes are apples in? A) 1 e 2 B) 2 e 3 C) 2 e 4 D) 3 e 4 E) 1 e 4
+> Each of the five boxes in the picture contains either apples or bananas but not both types of fruit. The total weight of all bananas is three times the weight of all apples. Which boxes contain the apples? A) 1 and 2 B) 2 and 3 C) 2 and 4 D) 3 and 4 E) 1 and 4
 
 **Answer:** E
 [[Quesiti/src_kangourou_2021_ecolier#q22|src_kangourou_2021_ecolier__Q22]]
@@ -1198,7 +1215,7 @@ Number in the square? with arrows min->max*
 
 ![[src_kangourou_2021_ecolier__prob23.png]]
 
-> Elena wants to write all the numbers from 1 to 9, one in each of the squares shown next to it. As the example of the two numbers already entered by Elena shows, the arrows are directed from minor to major. What number should be written in the square with the question mark? A) 2
+> Elena wants to write all the numbers from 1 to 9, one in each of the squares shown beside. As the example of the two numbers already entered by Elena shows, the arrows are directed from smaller to larger. What number should be written in the square with the question mark? A) 2
 > 	
 > B) 3
 > 	
@@ -1264,13 +1281,40 @@ Number in the square? with arrows min->max*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Forms to be used for balance sheet *
+*Shapes to put for the balance of the scale*
 
 ![[src_kangourou_2021_ecolier__prob24.png]]
 
-> As you can see in the figure, Martino has placed on three scales some formulas: some are hexagonal, some are square and some are triangular. What and how many ants must he put on the left plate of the third balance sheet for the balance to be balanced? A) A square. B) Two squares. C) A hexagon. D) A triangular one. E) Two triangles. 3 9 13 14 18 5 2 kg 6 kg 5 kg 7 kg 1 2 3 4 16 kg 7 ? 5
+> As you can see in the figure, Martino has placed on three scales 
+> some shapes: some are hexagonal        , others square
+>       and still others triangular     . Which and how many shapes 
+> must he put on the left pan of the third scale in order
+> for the scale to be in equilibrium?
+> A) One square.		
+> B) Two squares.	
+> C) One hexagonal.	
+> D) One triangular.	
+> E) Two triangular.
+> 3
+> 9
+> 13
+> 14
+> 18
+> 5
+> 2 kg
+> 6 kg
+> 5 kg
+> 7 kg
+> 1
+> 2
+> 3
+> 4
+> 16 kg
+> 7
+> ?
+> 5
 > 
-> ECOLIER replies
+> ECOLIER Answers 
 >
 
 **Answer:** A

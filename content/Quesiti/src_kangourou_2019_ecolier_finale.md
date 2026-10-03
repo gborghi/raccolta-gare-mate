@@ -66,7 +66,7 @@ level: kangourou
 
 *Distinct colours of a cube (rotations) *
 
-> Three people walked through a snow-covered meadow with their scarves, leaving the footprints you see in the picture. In what order did they come through?
+> Three people walked through a snow-covered meadow with their muddy shoes, leaving the footprints you see in the picture. In what order did they come through?
 >
 > - **(A)**
 > - **(B)**
@@ -104,9 +104,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Canguro distance after 2019 jumps 3 forward 1 back*
+*Distance of the kangaroo after 2019 jumps 3 forward 1 backward*
 
-> There are two windows on the cover of a children's book on transportation. When you open the cover, you see what shows the figure. What means do you see when the book is closed?
+> On the cover of a children's book about means of transport there are two windows. When the cover is opened, what is shown in the figure appears. Which means of transport are seen when the book is closed?
 >
 > - **(A)**
 > - **(B)**
@@ -145,9 +145,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning sequences head or cross six throws *
+*Winning sequences heads or tails six throws *
 
-> From the grid you see in the figure next to her, Catherine cuts a card made up of two adjacent boards. Which of the following cards can you get?
+> From the grid you see in the figure next to her, Catherine cuts out a tile made up of two adjacent squares. Which of the following tiles can she get?
 >
 > - **(A)**
 > - **(B)**
@@ -185,15 +185,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Designed number to make up the bracelet*
+*Number thought up to compose the bracelet*
 
-> As shown in the figure, the mother cut a cake in half, then cut in half one of the two halves, then cut in half one of the two parts she got, and finally cut in half one of the last two slices she got. The smallest slices you got weigh an octet. How much did the whole cake weigh?
+> As the figure shows, the mother cut a cake in half, then cut one of the two halves in half, then again cut one of the two resulting parts in half, and finally cut one of the last two slices obtained in half. The smallest slices she obtained weigh one hectogram. How many hectograms did the whole cake weigh?
 >
 > - **(A)** $6$
 > - **(B)** $8$
 > - **(C)** $12$
 > - **(D)** $16$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $20$ (see figure)
 
 **Answer:** 0150
 [[Quesiti/src_kangourou_2019_ecolier_finale#q05|src_kangourou_2019_ecolier_finale__Q05]]
@@ -267,15 +267,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal numbers with the last six digits in the interval*
+*Even numbers with the last six digits equal in an interval*
 
-> Linda hung pictures in a box using drawing dots, as you can see in the figure. If he had suspended$7$operating in the same way, how many dots would he have had to use?
+> Linda hung $3$ photographs on a bulletin board using $8$ drawing pins, as the figure shows you. If she had hung $7$ doing the same way, how many pins would she have had to use?
 >
 > - **(A)** $14$
 > - **(B)** $16$
 > - **(C)** $18$
 > - **(D)** $22$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $26$ (see figure)
 
 **Answer:** 1235
 [[Quesiti/src_kangourou_2019_ecolier_finale#q07|src_kangourou_2019_ecolier_finale__Q07]]
@@ -307,15 +307,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many square figures (653 figures 2019 sides) *
+*How many square tiles (653 figures 2019 sides)*
 
-> In the first figure, you see five square tiles, all of them equal to each other, approached in a certain way. If you take one of them and leave the others where they are, how many of the following shapes can you get?
+> In the first figure you see five square tiles, all equal to each other, placed next to each other in a certain way. By removing one suitably chosen and leaving the others in the position in which they are, how many of the following shapes can you obtain?
 >
 > - **(A)** $1$
 > - **(B)** $2$
 > - **(C)** $3$
 > - **(D)** $4$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $5$ (see figure)
 
 **Answer:** 0060
 [[Quesiti/src_kangourou_2019_ecolier_finale#q08|src_kangourou_2019_ecolier_finale__Q08]]
@@ -349,7 +349,7 @@ level: kangourou
 
 *Perimeter of the orthogonal polygon of area 200*
 
-> In the figure you can see an obstacle course: the obstacles are the gray squares representing so many water wells. To reach the last box, the one indicated with $X$, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: $1$ means it must land on the next box, $2$ means it must jump a box, and so on). How many boxes does it have to be along its first jump if it wants to land in$X$avoiding all the water wells?
+> In the figure you can see an obstacle course: the obstacles are the gray squares representing so many puddles. To reach the last box, the one indicated with $X$, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: $1$ means it must land on the next box, $2$ means it must jump a box, and so on). How many boxes does it have to be along its first jump if it wants to land in $X$ avoiding all the puddles?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -429,15 +429,15 @@ How many wonderful years in the 21st century
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer 4 distinct digits divisible by each digit*
+*Largest 4-digit integer with distinct digits divisible by each digit*
 
-> Look at the balance sheets in the figure where three identical dogs and two weights appear, one of $12$ and the other of $20$ pounds. The weight in kilograms of each of the dogs is expressed by an integer. What kind?
+> Observe the scales in the figure where three identical dogs and two weights appear, one of $12$ and the other of $20$ kilograms. The weight in kilograms of each of the dogs is expressed by a positive integer. Which one?
 >
 > - **(A)** $7$
 > - **(B)** $8$
 > - **(C)** $9$
 > - **(D)** $10$
-> - **(E)** The following table shows the results of the evaluation:
+> - **(E)** $11$ (see figure)
 
 **Answer:** 9864
 [[Quesiti/src_kangourou_2019_ecolier_finale#q11|src_kangourou_2019_ecolier_finale__Q11]]
@@ -470,9 +470,9 @@ How many wonderful years in the 21st century
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers in the middle points of the triangle*
+*Sum of the numbers at the midpoints of the triangle*
 
-> Some friends have colored tiles and can exchange them according to these rules: for blue tiles you can get a red tiles, for red tiles you can get a green tiles. Sara has blue balls. How many green balls could he get at most?
+> Some friends have colored marbles and can exchange them according to these rules: for $3$ blue marbles one can obtain one red marble, for $2$ red marbles one can obtain $5$ green ones. Sara has $16$ blue marbles. How many green marbles could she obtain at most?
 >
 > - **(A)** $5$
 > - **(B)** $10$
@@ -512,13 +512,13 @@ How many wonderful years in the 21st century
 
 *Rugs not responding (three lions) *
 
-> Stefano has the figures $2$, $0$, $1$ and $9$. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what figure should you enter in the box shown with the question mark?
+> Stefano has the digits $2$, $0$, $1$ and $9$. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what digit should you enter in the box shown with the question mark?
 >
 > - **(A)** $0$ or $1$.
 > - **(B)** $0$ or $2$.
-> - **(C)** If necessary $0$.
-> - **(D)** If necessary $1$.
-> - **(E)** If necessary $2$. (see figure)
+> - **(C)** Necessarily $0$.
+> - **(D)** Necessarily $1$.
+> - **(E)** Necessarily $2$. (see figure)
 
 **Answer:** 0058
 [[Quesiti/src_kangourou_2019_ecolier_finale#q13|src_kangourou_2019_ecolier_finale__Q13]]
@@ -551,7 +551,7 @@ How many wonderful years in the 21st century
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs to be added to box the cube*
+*Cubes to be added to box the cube*
 
 > A full glass of water weighs $400$ grams. The same empty glass weighs $100$ grams. How many grams does a glass of half-filled water weigh?
 >

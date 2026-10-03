@@ -30,7 +30,7 @@ level: kangourou
 
 *The meaning of KAB can be deduced from the answer*
 
-> In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
+> In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kanglandic language, and you ask them: "Is it true that KAB means 'yes'?" The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
 
 [[Quesiti/src_kangourou_2024_cadet_finale#qc1|src_kangourou_2024_cadet_finale__QC1]]
 
@@ -55,9 +55,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*More are reducing or non-reducing fractions (1..12) *
+*Are there more reducible or irreducible fractions (1..12) *
 
-> Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are these more reducing fractions or irreducible fractions?
+> Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are there more reducible fractions or irreducible fractions?
 
 [[Quesiti/src_kangourou_2024_cadet_finale#qc2|src_kangourou_2024_cadet_finale__QC2]]
 
@@ -150,7 +150,7 @@ level: kangourou
 
 *Minimum antenna distance from the most distant dwelling*
 
-> Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. In metres, what is the minimum distance the antenna can have from the home that will make it the furthest away?
+> Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. In metres, what is the minimum distance the antenna can have from the dwelling that turns out to be the furthest away?
 
 [[Quesiti/src_kangourou_2024_cadet_finale#qc4|src_kangourou_2024_cadet_finale__QC4]]
 
@@ -177,7 +177,7 @@ level: kangourou
 
 Because the result of Marco is always 1089
 
-> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco.
+> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, prefix $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco: explain why.
 
 [[Quesiti/src_kangourou_2024_cadet_finale#qc5|src_kangourou_2024_cadet_finale__QC5]]
 

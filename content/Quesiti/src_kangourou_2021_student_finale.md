@@ -31,7 +31,7 @@ level: kangourou
 
 *Ratio of volumes of two spheres of the same size *
 
-> (**5 points**) When you look at two different spheres of rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+> (**5 points**) When you look at two spheres of different radii from a distance, they appear to you to be of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
 
 **Answer:** 1000000
 [[Quesiti/src_kangourou_2021_student_finale#qs1|src_kangourou_2021_student_finale__QS1]]
@@ -66,15 +66,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of bars to restore containers*
+*Maximum number of pourings to restore the containers*
 
 ![[src_kangourou_2021_student_finale__probs2.png]]
 
-> (**7 points**) Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We make a loop between the containers; for each container, at each loop, we write down the amount of water that's in or out. For example, mark the containers with A, B, etc. And using the same unit of measurement all the time, we could have an annotation like:
+> (**7 points**) Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We perform pourings between the containers; for each container, at each pouring, we note the quantity of water added or removed. For example, denoting the containers by A, B, etc. and always using the same unit of measurement, we could have a note such as:
 > 
-> This is the first time I've ever seen a person who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a woman who has been in a relationship with a woman who has been in a relationship with a woman who has been in a relationship with a man who has been in a relationship with a woman who has been in a relationship with a relationship with a woman who has been in a relationship with a relationship with a woman who has been a relationship with a woman who has been with a relationship with a woman who has been with a relationship with a man who has been with a relationship with a woman who has had a
+> | | A | B | C | D | E | F | G | H | I | J |
+> |---|---|---|---|---|---|---|---|---|---|---|
+> | pouring 1 | +1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | −1 |
 > 
-> At the end of these operations, the initial amount of water in each container is to be restored, thus minimizing the number of transis. If we adopt a proper strategy, how many frames will be needed, at most?
+> At the end of these operations we want to restore in each container the initial quantity of water, minimizing the number of pourings. By adopting a suitable strategy, how many pourings could be necessary, at most?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2021_student_finale#qs2|src_kangourou_2021_student_finale__QS2]]
@@ -121,7 +123,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of distinct plane developments of a cube*
+*Number of distinct plane nets of a cube*
 
 ![[src_kangourou_2021_student_finale__probs3.png]]
 
@@ -142,7 +144,7 @@ level: kangourou
 \end{document}
 ```
 
-> (**11 points**) In the figure you see a plane development of a cube, that is, a possible plane approach of the sides of the cube so that the cube can be reconstructed by folding the figure along the two sides. How many different planes of development between them has a cube, considering identical two developments achievable from each other by rotation and/or reflection?
+> (**11 points**) In the figure you see a plane net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that the cube can be reconstructed by folding the figure appropriately along the sides common to two faces. How many plane nets different from each other does a cube have, considering two nets obtainable one from the other by rotations and/or reflections to be identical?
 > 
 > (see figure)
 
@@ -179,11 +181,11 @@ level: kangourou
 
 > (**14 points**) You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by entering, one for each box, all the integers from $1$ to $m \cdot n$ so that the sum of the numbers entered in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when:
 > 
-> a) $m = 2021$ e $n = 2020$?
+> a) $m = 2021$ and $n = 2020$?
 > 
-> b) $m = 2020$ e $n = 2021$?
+> b) $m = 2020$ and $n = 2021$?
 
-**Answer:** a) No; b) Si
+**Answer:** a) No; b) Yes
 [[Quesiti/src_kangourou_2021_student_finale#qs4|src_kangourou_2021_student_finale__QS4]]
 
 
@@ -217,7 +219,7 @@ level: kangourou
 > 
 > 'Assigned $n$ positive real numbers $a_1, a_2, \ldots, a_n$, for each rearrangement of $b_1, b_2, \ldots, b_n$ $$\frac{a_1}{b_1} + \frac{a_2}{b_2} + \cdots + \frac{a_n}{b_n} \geq n.$$'
 
-**Answer:** VERA
+**Answer:** TRUE
 [[Quesiti/src_kangourou_2021_student_finale#qs5|src_kangourou_2021_student_finale__QS5]]
 
 
@@ -241,8 +243,8 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exists multiple of 2021 in binary with 2021 zeros and 2021 ones*
+*There exists a multiple of 2021 in binary with 2021 zeros and 2021 ones*
 
-> (**22 points**) Demonstrates that there exists a positive integer divisible by $2021$ and expressible, in significant binary notation (i.e. the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
+> (**22 points**) Prove that there exists a positive integer divisible by $2021$ and expressible, in significant binary notation (i.e. the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
 
 [[Quesiti/src_kangourou_2021_student_finale#qs6|src_kangourou_2021_student_finale__QS6]]

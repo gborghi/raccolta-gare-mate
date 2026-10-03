@@ -35,7 +35,7 @@ level: kangourou
 
 *min odd numbers*
 
-> Adele wrote a number consisting of 3 odd numbers and some even numbers, while Marco wrote a number consisting of 2 odd numbers and some even numbers. Gianna added Adele's number to Marco's. How many odd numbers will Gianna get at least? A) 0 (i.e. it may not have) B) 1 C) 2 D) 3 E) 4
+> Adele wrote a number consisting of 3 odd digits and some even digits, while Marco wrote a number consisting of 2 odd digits and some even digits. Gianna added Adele's number to Marco's. How many odd digits will Gianna's result have at least? A) 0 (i.e. it may not have) B) 1 C) 2 D) 3 E) 4
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q01|src_kangourou_2023_benjamin_semifinale__Q01]]
 
@@ -111,7 +111,7 @@ Sum of Gabriele's triple renata, number discarded
 \end{document}
 ```
 
-> (Points 3) See the grid on the right where the integers from 1 to 9 are shown. Gabriele picked four of these numbers, Renata picked four more. The sum of the numbers chosen by Renata is three times the sum of the numbers chosen by Gabriele. What's the number neither of you picked? A) 1           B) 5             C) 7             D) 8           E) 9
+> (Points 3) See the grid on the right where the integers from 1 to 9 are shown. Gabriele picked four of these numbers, Renata picked four more. The sum of the numbers chosen by Renata is three times the sum of the numbers chosen by Gabriele. What's the number neither of them picked? A) 1           B) 5             C) 7             D) 8           E) 9
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q02|src_kangourou_2023_benjamin_semifinale__Q02]]
 
@@ -141,9 +141,9 @@ Sum of Gabriele's triple renata, number discarded
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min cards to be rolled over*
+*min cards to turn over*
 
-> (Points 3) Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an equal number. Marta wants to check if Aldo's telling the truth, but she wants to roll as few cards as possible. How many cards will he have to roll at most? A) 1           B) 2             C) 3            D) 4            E) 5
+> (Points 3) Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an even number. Marta wants to check if Aldo's telling the truth, but she wants to turn over as few cards as possible. How many cards will she have to turn over at most? A) 1           B) 2             C) 3            D) 4            E) 5
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q03|src_kangourou_2023_benjamin_semifinale__Q03]]
 
@@ -173,11 +173,14 @@ Sum of Gabriele's triple renata, number discarded
 <div class="qlang-split" data-lang="en"></div>
 
 
-This item is intended to record the information provided for in the Annex to this Regulation.
+*column of 2023*
 
 ![[src_kangourou_2023_benjamin_semifinale__prob4.png]]
 
-> (Points 4) The integers 1 to 9,000 were placed in a huge 9-column table according to the criterion shown in the figure. In which column is the number 2.023 entered? A) A           B) D           C) F            D) H           E) I
+> (4 points) The integers from 1 to 9,000 were entered into
+> a huge table with 9 columns according to the criterion shown
+> in the figure. In which column was the number 2,023 entered?
+> A) A           B) D           C) F            D) H           E) I
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q04|src_kangourou_2023_benjamin_semifinale__Q04]]
 
@@ -208,9 +211,9 @@ This item is intended to record the information provided for in the Annex to thi
 <div class="qlang-split" data-lang="en"></div>
 
 
-The time of the meeting shall be: *
+*time*
 
-> There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you feel a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 noon onwards, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
+> There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you hear a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 up to that moment included, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q05|src_kangourou_2023_benjamin_semifinale__Q05]]
 
@@ -241,7 +244,7 @@ The time of the meeting shall be: *
 
 *possible difference*
 
-> Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the number of hundreds and that of units are exchanged between them, while that of tens is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
+> Clara wrote an integer number of three digits, Dalia wrote the number that has the same digits as Clara's, but written in opposite order (i.e., in the two numbers, the hundreds digit and the units digit are exchanged, while the tens digit is the same). Which of the answers listed could be the difference between Clara's number and Dalia's? A) 378            B) 295            C) 196             D) 495            E) 504
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q06|src_kangourou_2023_benjamin_semifinale__Q06]]
 
@@ -329,7 +332,7 @@ The time of the meeting shall be: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the first time I've seen this.
+*Bill's lap*
 
 ![[src_kangourou_2023_benjamin_semifinale__prob7.png]]
 
@@ -354,7 +357,47 @@ This is the first time I've seen this.
 \end{document}
 ```
 
-> (Points 5) Numbered pitches are placed along a circular track, the distance between two adjacent pitches being always the same. Two kangaroos, Bill and Kan, jump from one slot to the next, Bill clockwise, Kan the other way, each at a steady but different speed: they left slot 1 at the same moment and crossed for the first time when they both arrived at slot 6. You know, sooner or later, they're both gonna cross paths on floor seven. When that happens for the first time, which track is Bill going to be doing? A) The first. (b) The second. (c) The third. D) The fourth. E) The fifth. A B C D E F G H I 1 2 3 4 5 9 8 7 6 10 11 12 13 14 18 17 16 15 19 20 ... ... ...
+> (Points 5) Along a circular track there are numbered stations as 
+> in the figure; the distance between two adjacent stations is always the same. Two kangaroos 
+> Bill and Kan jump from one station to the adjacent one, Bill clockwise, Kan 
+> in the opposite direction, each at constant speed, but different: in fact they started 
+> at the same instant from station 1 and met for the first time when 
+> both arrived at station 6. It is known that sooner or later they will both meet 
+> at station 7: when this happens for the first time, which lap of 
+> the track will Bill be doing?  
+> A) The first.         B) The second.          C) The third.            D) The fourth.          E) The fifth.
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> I
+> 1
+> 2
+> 3
+> 4
+> 5
+> 9
+> 8
+> 7
+> 6
+> 10
+> 11
+> 12
+> 13
+> 14
+> 18
+> 17
+> 16
+> 15
+> 19
+> 20
+> ...
+> ...
+> ...
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q07|src_kangourou_2023_benjamin_semifinale__Q07]]
 
@@ -380,7 +423,7 @@ This is the first time I've seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which now gives the minor acute angle*
+*which time gives the smaller acute angle*
 
 > (Points 5) In which of the following hours and minutes do the two hands of a clock (with a 12-hour dial) form the minor acute angle? A) 02:11             B) 04:22               C) 06:33            D) 08:44              E) 10:55
 
@@ -411,7 +454,7 @@ This is the first time I've seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers <40 with sum of squares of the square digits*
+*Numbers <40 with sum of squares of digits a perfect square*
 
 > (Points 6) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14 Open-ended questions
 
@@ -468,11 +511,11 @@ This is the first time I've seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*height and width, angle ACB*
+*height and bisector, angle ACB*
 
 ![[src_kangourou_2023_benjamin_semifinale__prob11.png]]
 
-> (Points 5) In the ABC triangle shown in the figure, the EC height of C meets the AD biset of the BAC angle at O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
+> (Points 5) In the ABC triangle shown in the figure, the height EC from C meets the bisector AD of angle BAC at O. Angle ABC measures 60 degrees, angle AOE measures 70. How many degrees does angle ACB measure?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q11|src_kangourou_2023_benjamin_semifinale__Q11]]
 
@@ -530,7 +573,7 @@ This is the first time I've seen this.
 \end{document}
 ```
 
-> With a black pencil, Lorenzo drew on a sheet of paper 10 squares of 1 cm side, 10 squares of 2 cm side and 10 squares of 3 cm side and then cut them (the edges remained clearly visible after cutting). Now you have to use some of them to get the same drawing that appears in the figure. In order to perform this task, they may be brought close together or partially overlapped. How many are enough for you?
+> With a black marker, Lorenzo drew on a sheet of paper 10 squares of 1 cm side, 10 squares of 2 cm side and 10 squares of 3 cm side and then cut them (the edges remained clearly visible after cutting). Now he has to use some of them to get the same drawing that appears in the figure. In order to perform this task, he may place them side by side or partially overlapped. How many are enough for him?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q12|src_kangourou_2023_benjamin_semifinale__Q12]]
 
@@ -558,9 +601,12 @@ This is the first time I've seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*not used*
+*unused pears*
 
-> I had 10 apples of different weights between them and 10 pairs of different weights between them. Each pear weighed more than every apple, but less than any pair of apples. I was lucky enough to pack three mixed bags, each of which weighs as much as the whole of the apples. Certainly I could not have hoped to use more pears than I did. How many pears have I not used?
+> (Points 6) I had 10 apples of different weights from each other and 10 pears of different weights from each other. Each pear weighed more than 
+> each apple, but less than any pair of apples. I was lucky and managed to make up three 
+> mixed bags, in each of which the set of pears weighs as much as the set of apples. Certainly 
+> I could not have hoped to use more pears than the ones I used. How many pears did I not use?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q13|src_kangourou_2023_benjamin_semifinale__Q13]]
 
@@ -589,9 +635,9 @@ This is the first time I've seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*weight Mauritius*
+*weight Maurizio*
 
-> (Points 6) Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
+> (Points 6) Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Carlo's box. Multiplying the weight of one of Maurizio's balls by that of one of Carlo's balls gets 81; adding up the weights of all the balls gets 1001. How many grams does each of Maurizio's balls weigh?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q14|src_kangourou_2023_benjamin_semifinale__Q14]]
 
@@ -618,7 +664,7 @@ This is the first time I've seen this.
 
 *n is 23*
 
-> (Points 6) How many positive integers are n such that the remainder of division 2023: n is 23?
+> (Points 6) How many positive integers n are there such that the remainder of the division 2023 : n is 23?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q15|src_kangourou_2023_benjamin_semifinale__Q15]]
 
@@ -645,9 +691,11 @@ This is the first time I've seen this.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many *
+*how many*
 
-> (Points 7) Some numbers, all different from each other, are written at different points in a conference so that each number is the product of the two numbers written next to it. How many numbers are written?
+> (7 points) Some numbers, all different from each other, are written next to distinct points of a circle
+> so that each one is the product of the two numbers written adjacent to it. How many numbers are
+> written?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q16|src_kangourou_2023_benjamin_semifinale__Q16]]
 
@@ -703,8 +751,11 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of removable figures*
+*sum of removable digits*
 
-> (Points 8) The number 7 2 3 1 1 2 3 7 2 1 3 7 2 1 3 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
+> (Points 8) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it we want to remove exactly one digit and
+> obtain from the alignment of the remaining digits (one fewer than before) a new number that is divisible
+> by 9. There are several ways to do this. What is the sum of the digits that can be removed as the
+> possible ways vary?
 
 [[Quesiti/src_kangourou_2023_benjamin_semifinale#q18|src_kangourou_2023_benjamin_semifinale__Q18]]

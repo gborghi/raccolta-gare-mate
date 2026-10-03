@@ -116,7 +116,7 @@ level: kangourou
 \end{document}
 ```
 
-> You see a trapezoid in the figure. A and B are the median points of the oblique sides and the area of the shaded rectangle is 13 cm2. How many square centimetres is the area of the trapezoid? A) 24 B) 25 C) 26 D) 27 E) 28
+> You see a trapezoid in the figure. A and B are the midpoints of the legs and the area of the shaded rectangle is 13 cm2. How many square centimetres is the area of the trapezoid? A) 24 B) 25 C) 26 D) 27 E) 28
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_junior#q02|src_kangourou_2011_junior__Q02]]
@@ -182,7 +182,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True relationship between X and Z*
+*True relationship between X, Y and Z*
 
 > Let's put X is 122 x 123 + 123 x 124 + 124 x 125, Y is 1222 + 1232 + 1242, Z is 121 x 122 + 122 x 123 + 123 x 124. Which of the following reports is true? A) Y < X < Z B) X < Y = Z C) X < Y < Z D) Z < Y < X E) X = Y < Z
 
@@ -294,11 +294,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2011 entry in the decreasing list sum 4*
+*Position of 2011 in the decreasing list of digit sum 4*
 
-> Suppose we write in descending order all positive integers of 4 significant digits (i.e. such that the number of thousands is not 0), the sum of which is 4. What position does the 2011 issue occupy on this list? A) The sixth B) The seventh C) The eighth D) The ninth E) The tenth A
+> Suppose we write in decreasing order all positive integers
+> with 4 significant digits (that is, such that the thousands digit is not 0), the sum
+> of whose digits is 4. What position does the number 2011 occupy in this list?  
+> A) The sixth
+> B) The seventh
+> C) The eighth      D) The ninth     E) The tenth
+> A
+> B
+> Testi_11Mat.qxp  19-05-2011  21:25  Page 22
 > 
-> I'm going to pay. I'm going to pay. 23 23 Kang 201 Kang 2011
+> Pag. 
+> Pag. 23
+> 23
+> Kang 201
+> Kang 2011
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_junior#q07|src_kangourou_2011_junior__Q07]]
@@ -376,7 +388,7 @@ level: kangourou
 
 ![[src_kangourou_2011_junior__prob9.png]]
 
-> The region in the figure can be broken down, as indicated, into a regular hexagon on side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
+> The region in the figure can be broken down, as indicated, into a regular hexagon of side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_junior#q09|src_kangourou_2011_junior__Q09]]
@@ -420,7 +432,7 @@ level: kangourou
 
 ![[src_kangourou_2011_junior__prob10.png]]
 
-> Three regular dice (i.e. such that the sum of points on opposite faces is always 7) are stacked as shown in the figure. From the lowest dice, the face is indicated by 1 point. You also know that every time two different dice faces match, the sum of the points on both faces is 5. How many dots are there on the face marked with X? A) 2 B) 3 C) 4 D) 5 E) 6 Questions from N. 11 al N. 20 is worth 4 points each.
+> Three regular dice (i.e. such that the sum of points on opposite faces is always 7) are stacked as shown in the figure. On the lowest die, the face with 1 point is indicated. You also know that every time two different dice faces match, the sum of the points on both faces is 5. How many dots are there on the face marked with X? A) 2 B) 3 C) 4 D) 5 E) 6 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_junior#q10|src_kangourou_2011_junior__Q10]]
@@ -492,7 +504,7 @@ level: kangourou
 
 *Order of arrival of the three pilots after the exchanges*
 
-> Three drivers, Michael, Fernando and Sebastian, are taking part in a Formula One race. As soon as you start, Michael leads, Fernando is second and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order do they finish the race? (a) Michael, Fernando, Sebastian B) Fernando, Sebastian, Michael C) Sebastian, Michael, Fernando D) Sebastian, Fernando, Michael E) Fernando, Michael, Sebastian
+> Three drivers, Michael, Fernando and Sebastian, are taking part in a Formula One race. At the start, Michael leads, Fernando is second and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order do they finish the race? A) Michael, Fernando, Sebastian B) Fernando, Sebastian, Michael C) Sebastian, Michael, Fernando D) Sebastian, Fernando, Michael E) Fernando, Michael, Sebastian
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_junior#q12|src_kangourou_2011_junior__Q12]]
@@ -538,11 +550,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n if 9^n summed three times by 3^2011*
+*Value of n if 9^n added three times gives 3^2011*
 
-> If 9n + 9n + 9n is 32011, what is n? A) 1005 B) 1006 C) 2010 D) 2011 E) None of the previous numbers √2 √3 √2 A B C D X Texts_11Mat.qxp 19-05-2011 21:25 Page 23
+> If  9n + 9n + 9n = 32011, what is n?
+> A) 1005
+> B) 1006
+> C) 2010
+> D) 2011          
+> E) None of the preceding numbers
+> √2
+> √3
+> √2
+> A
+> B
+> C
+> D
+> X
+> Testi_11Mat.qxp  19-05-2011  21:25  Page 23
 > 
-> I'm going to pay. I'm going to pay. This is a list of the countries of Central and Eastern Europe.
+> Pag. 
+> Pag. 24
+> 24
+> Kang 201
+> Kang 2011
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_junior#q13|src_kangourou_2011_junior__Q13]]
@@ -655,7 +685,7 @@ How many of the four girls lie?
 
 ![[src_kangourou_2011_junior__prob16.png]]
 
-> In the figure you see a 4x4 grid. You have to blacken some of the grid cells so that for each row, the number of cells in the blackened row coincides with the number shown to the right of the row itself and for each column, the number of cells in the blackened column coincides with the number shown to the bottom of the column itself. How many different ways can you do that? A) 0 (impossible) B) 1 C) 3 D) 5 E) 9
+> In the figure you see a 4x4 grid. You have to blacken some of the grid cells so that for each row, the number of blackened cells in the row coincides with the number shown to the right of the row itself and for each column, the number of blackened cells in the column coincides with the number shown to the bottom of the column itself. How many different ways can you do that? A) 0 (impossible) B) 1 C) 3 D) 5 E) 9
 
 **Answer:** D
 [[Quesiti/src_kangourou_2011_junior#q16|src_kangourou_2011_junior__Q16]]
@@ -725,7 +755,7 @@ How many of the four girls lie?
 
 *Capacity of small cubic container*
 
-> I have two cube-shaped containers; the larger side is a tenth of a meter longer than the other side. The big one is full of water, the other one is empty. If I turn the water from the big container to the small one until it's filled, the big container has 217 liters of water left. What is the capacity of the small container in litres? A) 343 B) 125 C) 1331 D) 729 E) A value different from the previous ones
+> I have two cube-shaped containers; the side of the larger cube is a tenth of a meter longer than the side of the other. The big one is full of water, the other one is empty. If I turn the water from the big container to the small one until it's filled, the big container has 217 liters of water left. What is the capacity of the small container in litres? A) 343 B) 125 C) 1331 D) 729 E) A value different from the previous ones
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_junior#q18|src_kangourou_2011_junior__Q18]]
@@ -787,13 +817,45 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which friend lives on Curva Street (not straight) *
+*Which friend lives on Curvy Street (not straight)*
 
 ![[src_kangourou_2011_junior__prob19.png]]
 
-> During a road trip by car on a rough road, Michela drew the sketch you see in the picture: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, the streets of Arccia, Righello and Chiodo are all straight. Fourth Avenue is Curva Street. Which one of the four friends lives on Curva Street? A) Angela B) White C) Clear D) Donated E) Can not be deduced from the sketch available 1 0 2 4 3 2 0 1 1 2 0 1 Clear Donated White Angela Testi_11Mat.qxp 19-05-2011 21:25 Page 24
+> During a car trip on a
+> bumpy road, Michela drew the sketch
+> you see in the figure: it indicates the houses of
+> her four friends, the streets where they live and the
+> intersections between these streets. In reality, however, Arrow Street,
+> Ruler Street and Nail Street are all
+> straight streets. The fourth street is Curvy Street. Which
+> of the four friends lives on Curvy Street?
+> A) Angela
+> B) Bianca
+> C) Chiara
+> D) Donata             
+> E) It cannot be deduced from the sketch available
+> 1
+> 0
+> 2
+> 4
+> 3
+> 2
+> 0
+> 1
+> 1
+> 2 0 1
+> 1
+> Donata
+> Chiara
+> Bianca
+> Angela
+> Testi_11Mat.qxp  19-05-2011  21:25  Page 24
 > 
-> I'm going to pay. I'm going to pay. 25 25 Kang 201 Kang 2011
+> Pag. 
+> Pag. 25
+> 25
+> Kang 201
+> Kang 2011
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_junior#q19|src_kangourou_2011_junior__Q19]]
@@ -829,7 +891,7 @@ How many of the four girls lie?
 
 *Which fraction has the highest value with x,y greater than 1*
 
-> The numbers x and y are both greater than 1. Which of the following fractions has the highest value? (A) B) C) D) E) Questions from N. 21 al N. 30 is worth 5 points each.
+> The numbers x and y are both greater than 1. Which of the following fractions has the highest value? A) B) C) D) E) Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_junior#q20|src_kangourou_2011_junior__Q20]]
@@ -870,7 +932,7 @@ How many of the four girls lie?
 
 ![[src_kangourou_2011_junior__prob21.png]]
 
-> Simone has a glass cube a tenth of an inch on the side. Using gold, square-shaped adhesives, all of which are equal, he decorated the surface of the cube as shown in the figure, so that the faces of the cube all have the same decoration. What is the area in square centimetres of the portion of the surface of the cube that appears golden? A) 37,5 B) 150 C) 375 D) 300 E) 225
+> Simone has a glass cube one decimetre on the side. Using gold, square-shaped adhesives, all of which are equal, he decorated the surface of the cube as shown in the figure, so that the faces of the cube all have the same decoration. What is the area in square centimetres of the portion of the surface of the cube that appears golden? A) 37,5 B) 150 C) 375 D) 300 E) 225
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_junior#q21|src_kangourou_2011_junior__Q21]]
@@ -943,11 +1005,11 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of two to two distinct angles*
+*Minimum number of pairwise distinct angles*
 
 ![[src_kangourou_2011_junior__prob23.png]]
 
-> In an ABC triangle, on the side BC a point D is chosen and on the segment AD a point E is chosen. So we're going to get 9 angles marked with the numbers 1 through 9, as shown in the figure. Whatever the ABC triangle is, some of these angles are necessarily two to two different from each other. In configurations where there are the fewest possible, how many are there? A) 2 B) 3 C) 4 D) 5 E) 6
+> In an ABC triangle, on the side BC a point D is chosen and on the segment AD a point E is chosen. So we're going to get 9 angles marked with the numbers 1 through 9, as shown in the figure. Whatever the ABC triangle is, some of these angles are necessarily pairwise different from each other. In configurations where there are the fewest possible, how many are there? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_junior#q23|src_kangourou_2011_junior__Q23]]
@@ -1070,7 +1132,7 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded region between two circumferences*
+*Area of the shaded region between two circles*
 
 ![[src_kangourou_2011_junior__prob25.png]]
 
@@ -1092,9 +1154,48 @@ How many of the four girls lie?
 \end{document}
 ```
 
-> The figure shows two different radial circumferences. Points A and B are on both. The segment AB is a diameter of the smaller segment, which passes through the centre S of the larger segment. The latter has radius 1. How much is the shaded area worth? A) π / 6 B) π /12 C) 1/2 D) /4 E) A number other than the previous one √3 √3 3x 3y + 1 2x 2y  1 2x 2y + 1 x y  1 x y + 1 B C A D E 1 9 2 3 4 5 6 7 8 A B S Tests_11Mat.qxp 19-05-2011 21:25 Page 25
+> The figure shows two circles with
+> different radii. Points A and B lie on both. Segment AB is a diameter of the one with the smaller radius, which passes through the center S of the one with the larger radius. The latter has radius 1. What
+> is the area of the shaded region?
+> A) π / 6     B) π
+> /12     C) 1/2      D) 
+> /4
+> E) A number different from the previous ones
+> √3
+> √3
+> 3x
+> 3y + 1
+> 2x
+> 2y — 1
+> 2x
+> 2y + 1
+> x
+> y — 1
+> x
+> y + 1
+> B
+> C
+> A
+> D
+> E
+> 1
+> 9
+> 2
+> 3 4
+> 5
+> 6
+> 7
+> 8
+> A
+> B
+> S
+> Testi_11Mat.qxp  19-05-2011  21:25  Pagina 25
 > 
-> I'm going to pay. I'm going to pay. This is a list of the official languages of the Republic of Kazakhstan.
+> Pag. 
+> Pag. 26
+> 26
+> Kang 201
+> Kang 2011
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_junior#q25|src_kangourou_2011_junior__Q25]]
@@ -1128,9 +1229,16 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cubic feet of cube shaft without common vertices*
+*How many quadruples of edges of the cube without common vertices*
 
-> How many squares of a cube are such that if two squares are chosen in the square, they have no vertices in common? (If two squares do not coincide but are obtained from each other by rotation of the cube, they shall be considered different.)
+> How many quadruples of edges of a cube are such that, however two
+> edges are chosen in the quadruple, these have no vertices in common? (If two quadruples do not coincide, but are obtainable one from the other by rotation of the cube,
+> they must be considered different.)
+> A) 9
+> B) 7
+> C) 6
+> D) 12
+> E) 8
 
 **Answer:** A
 [[Quesiti/src_kangourou_2011_junior#q26|src_kangourou_2011_junior__Q26]]
@@ -1164,9 +1272,16 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which k is equal to the first preceding *
+*For how many k does the equation with the previous prime hold*
 
-> For every integer n > 2, we denote with n the largest prime number not exceeding n. How many positive integers k satisfies the equation k + 1 + k + 2 = 2k + 3 ? A) 0 B) 1 C) 2 D) 3 E) More than 3.
+> For every integer n > 2, let «n» denote the largest prime number that
+> does not exceed n. For how many positive integers k is the equation  
+> «k + 1» + «k + 2» = «2k + 3» satisfied?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) More than 3.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2011_junior#q27|src_kangourou_2011_junior__Q27]]
@@ -1202,7 +1317,7 @@ How many of the four girls lie?
 
 *For which n blacken cells with n per subgrid 3x3*
 
-> You have a 5x5 grid and you want to blacken some of the cells in it so that in every 3x3 subgrid there are exactly n blackened cells. For which integers, from 1 to 8 inclusive, can you achieve the goal? (Sub-grids can be made by cutting only consecutive rows and columns.) A) Only 1 B) Only 1 and 2 C) Only 1, 2 and 3 D) Only 1, 2, 7 and 8 E) For each value of n (including 1 and 8)
+> You have a 5x5 grid and you want to blacken some of the cells in it so that in every 3x3 subgrid there are exactly n blackened cells. For which integers, from 1 to 8 inclusive, can you achieve the goal? (Sub-grids can be made by cutting only consecutive rows and columns.) A) Only 1 B) Only 1 and 2 C) Only 1, 2 and 3 D) Only 1, 2, 7 and 8 E) For every value of n (between 1 and 8 inclusive)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2011_junior#q28|src_kangourou_2011_junior__Q28]]
@@ -1236,7 +1351,7 @@ How many of the four girls lie?
 
 *Where the straight DE intersects the plane of the tetrahedron*
 
-> Assigned a regular tetrahedron ABCD, both Σ the plane containing the face ABC and s the straight line in Σ containing the spindle BC. Therefore, let BCDE be the regular tetrahedron that has in common with ABCD only the face BCD. Where does the straight line passing through D and E intersect plane S ? A) At a point in the triangle ABC B) In the semiplane of Σ determined by s containing A, but outside the triangle ABC C) In the semiplane of Σ determined by s not containing A D) At no point: the straight line is parallel to the plane Σ E) The answer depends on the length of the beam of the tetrahedron
+> Assigned a regular tetrahedron ABCD, both Σ the plane containing the face ABC and s the straight line in Σ containing the edge BC. Therefore, let BCDE be the regular tetrahedron that has in common with ABCD only the face BCD. Where does the straight line passing through D and E intersect plane Σ ? A) At a point in the triangle ABC B) In the semiplane of Σ determined by s containing A, but outside the triangle ABC C) In the semiplane of Σ determined by s not containing A D) At no point: the straight line is parallel to the plane Σ E) The answer depends on the length of the edge of the tetrahedron
 
 **Answer:** C
 [[Quesiti/src_kangourou_2011_junior#q29|src_kangourou_2011_junior__Q29]]
@@ -1294,11 +1409,11 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trip length h for the same spiral on the cylinder*
+*Width h of the strip for equal spirals on the cylinder*
 
 ![[src_kangourou_2011_junior__prob30.png]]
 
-> A rectangular cylinder with the base of radius 2, painted white, is placed on a rectangular strip of red cloth of width h, tilted 45 degrees from the strip as shown in the figure. The strip is wrapped around the cylinder, keeping it in tension. Looking at the cylinder now, you see a red spiral given by the strip and a white spiral given by the part of the cylinder not covered by the strip. How much should the width h of the red strip be worth if we want the two spirals to have the same width? A) B) π C) 4 D) 2 π E) A value different from the previous √2 h 45° Texts_11Mat.qxp 19-05-2011 21:25 Page 26
+> A right circular cylinder with the base of radius 2, painted white, is placed on a rectangular strip of red cloth of width h, tilted 45 degrees from the strip as shown in the figure. The strip is wrapped around the cylinder, keeping it in tension. Looking at the cylinder now, you see a red spiral given by the strip and a white spiral given by the part of the cylinder not covered by the strip. How much should the width h of the red strip be worth if we want the two spirals to have the same width? A) √2 B) π C) 4 D) 2 π E) A value different from the previous √2 h 45° Texts_11Mat.qxp 19-05-2011 21:25 Page 26
 > 
 >  
 >  

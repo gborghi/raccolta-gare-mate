@@ -34,9 +34,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the input data for each of the following categories:
+*Value of (2+0+0+7)x2x0x0x7*
 
-> (2 + 0 + 0 + 7) x 2 x 0 x 0 x 7 = A) 9 B) 1 C) 81 D) 0 E) 2007
+> (2 + 0 + 0 + 7) x 2 x 0 x 0 x 7 =
+> A) 9
+> B) 1
+> C) 81
+> D) 0
+> E) 2007
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q01|src_kangourou_2007_benjamin_marzo__Q01]]
@@ -105,7 +110,7 @@ This is the total value of the input data for each of the following categories:
 
 ![[src_kangourou_2007_benjamin_marzo__prob3.png]]
 
-> Matteo is building a route for the cars by approaching three sections. In order for the cars to finally be ordered as arriving, which of the following elements must replace the central section X?
+> Matteo is building a route for the cars by placing three sections side by side. In order for the cars to finally be ordered as at the finish, which of the following elements must replace the central section X?
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q03|src_kangourou_2007_benjamin_marzo__Q03]]
@@ -140,7 +145,7 @@ This is the total value of the input data for each of the following categories:
 
 *Tower height of 1000 cubes*
 
-> Elisa has a lot of side cubes. Using all of them, he could build a cube of volume 1 dm3. Instead, if he wanted to build a tower and put them on top of each other, how tall would the tower be? (a) 1 (b) 5 (c) 10 (d) 100 (e) a value different from the previous one
+> Elisa has many cubes with side 1 cm. Using all of them, she could build a cube of volume 1 dm3. Instead, if she wanted to build a tower and put them on top of each other, how tall would the tower be? (a) 1 (b) 5 (c) 10 (d) 100 (e) a value different from the previous one
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q04|src_kangourou_2007_benjamin_marzo__Q04]]
@@ -293,7 +298,7 @@ This is the total value of the input data for each of the following categories:
 
 *Perimeter of the other rectangle (cut square) *
 
-> Ada has a cardboard square with a perimeter of 20 centimeters. He cuts it and gets two rectangles, the perimeter of one of which measures 16 centimeters. How many centimetres does the perimeter of the other measure? A) 8 B) 9 C) 12 D) 14 E) 16
+> Ada has a cardboard square with a perimeter of 20 centimeters. She cuts it and gets two rectangles, the perimeter of one of which measures 16 centimeters. How many centimetres does the perimeter of the other measure? A) 8 B) 9 C) 12 D) 14 E) 16
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q07|src_kangourou_2007_benjamin_marzo__Q07]]
@@ -410,11 +415,27 @@ This is the total value of the input data for each of the following categories:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Conclusion on truthful and liars (3 inhabitants) *
+*Conclusion about truth-tellers and liars (3 inhabitants)*
 
-> On an island, every inhabitant either speaks the truth (and is said to be truthful) or lies (and is said to be a liar). Three of these inhabitants, A, B and C, meet and A and B make this same statement: C is at least one liar among us three. What conclusion can we draw? A) All three are liars. (b) All three are sincere. C) A and C are liars, while B is sincere. D) A and B are sincere, while C is a liar. E) A and B cannot make the same statement. A B Texts_07.qxp 16-04-2007 12:03 Page 11
+> On an island, every inhabitant either always tells the truth (and is called a truth-teller)
+> or always lies (and is called a liar). Three of these inhabitants, A, B
+> and C, meet and A and B make this same statement: "There is at least one
+> liar among the three of us". What conclusion can we draw?
+> A) all three are liars.
+> B) all three are truth-tellers.
+> C) A and C are liars, while B is a truth-teller.
+> D) A and B are truth-tellers, while C is a liar.
+> E) A and B cannot make the same statement.
+> A
+> B
+> Testi_07.qxp  16-04-2007  12:03  Page 11
 > 
-> I'm going to pay. I'm going to pay. 12 12 Kang 2007 Kang 2007 Questions from N. 11 al N. 20 is worth 4 points each.
+> Pag. 
+> Pag. 12
+> 12
+> Kang 2007
+> Kang 2007
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q10|src_kangourou_2007_benjamin_marzo__Q10]]
@@ -470,7 +491,7 @@ This is the total value of the input data for each of the following categories:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black holes on the diagonal (grid 4x4) *
+*Black boxes on the diagonal (grid 4x4)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob11.png]]
 
@@ -533,7 +554,7 @@ This is the total value of the input data for each of the following categories:
 
 ![[src_kangourou_2007_benjamin_marzo__prob12.png]]
 
-> Cristina has a 27 cm long paper tape. It divides it into 4 rectangles of different sizes and traces two segments so that each of the segments connects the centers of two adjacent rectangles, as shown in the figure. Find the sum of the lengths of the two segments. A) 12 cm B) 13.5 cm C) 14 cm D) 14.5 cm E) the number depends on how the tape is divided
+> Cristina has a 27 cm long paper tape. She divides it into 4 rectangles of different sizes and traces two segments so that each of the segments connects the centers of two adjacent rectangles, as shown in the figure. Find the sum of the lengths of the two segments. A) 12 cm B) 13.5 cm C) 14 cm D) 14.5 cm E) the number depends on how the tape is divided
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q12|src_kangourou_2007_benjamin_marzo__Q12]]
@@ -575,7 +596,7 @@ Where the robot stops in the grid
 
 ![[src_kangourou_2007_benjamin_marzo__prob13.png]]
 
-> A robot moves by walking inside the figure grid. It starts from position A2 moving in the direction indicated by the arrow and always walks straight until it encounters an obstacle (gray box or edge of the grid): at this point it can only continue by turning to its right and, if it does not find the path open, it must stop. Which box will you stop in? A) B2 B) A1 C) E1 D) D1 E) in none
+> A robot moves by walking inside the figure grid. It starts from position A2 moving in the direction indicated by the arrow and always walks straight until it encounters an obstacle (gray box or edge of the grid): at this point it can only continue by turning to its right and, if it does not find the path open, it must stop. Which box will it stop in? A) B2 B) A1 C) E1 D) D1 E) in none
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q13|src_kangourou_2007_benjamin_marzo__Q13]]
@@ -670,11 +691,42 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid size if 9 coloured squares*
+*Grid size if 9 colored small squares*
 
-> Anna colors the squares that lie on the diagonals of a square grid. What's the size of the grid, if Anna's colored in all nine squares? A) 3 x 3 B) 4 x 4 C) 8 x 8 D) 9 x 9 E) None of the above. 4 3 2 1 A B C D E B C 2 A + A B A = 4 B A 2 4 3 2 1 A 4 3 2 1
+> Anna colors the small squares that lie on the diagonals of a square grid. What is the size of the grid, if Anna colors 9 small squares in all? 
+> A) 3 x 3 
+> B) 4 x 4                   C) 8 x 8
+> D) 9 x 9
+> E) None of the above.
+> 4
+> 3
+> 2
+> 1
+> A
+> B
+> C
+> D
+> E
+> B C 2 A +
+> A B A =
+> 4 B A 2
+> 4
+> 3
+> 2
+> 1
+> A
+> 4
+> 3
+> 2
+> 1
+> B
+> Testi_07.qxp  16-04-2007  12:03  Page 12
 > 
-> I'm going to pay. I'm going to pay. 13 13 Kang 2007 Kang
+> Pag. 
+> Pag. 13
+> 13
+> Kang 2007
+> Kang 2007
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q15|src_kangourou_2007_benjamin_marzo__Q15]]
@@ -721,7 +773,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little inscribed square area (picture time) *
+*Area of the small inscribed square (Pitagora)*
 
 ![[src_kangourou_2007_benjamin_marzo__prob16.png]]
 
@@ -809,7 +861,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the broken ABC...P*
+*Length of the polyline ABC...P*
 
 ![[src_kangourou_2007_benjamin_marzo__prob18.png]]
 
@@ -848,7 +900,7 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to contain the group (partition) *
+*Number that the group must contain (partition)*
 
 > The collection of numbers 1, 2, 3, 4, 5, 6, 7, 8 is divided into two groups that have the same number of elements. You know the sum of the elements is the same in both groups. If numbers 1 and 3 are in the same group, then that group must necessarily contain number A) 2 B) 4 C) 5 D) 6 E) 7
 
@@ -886,7 +938,7 @@ Where the robot stops in the grid
 
 *Total time with at least a 2-digit time (clock) *
 
-> How long in total, for 24 hours, does at least a digit 2 appear on my digital clock where the hours are from 00:00 to 23:59? A) 3 hours 45 min B) 6 hours 45 min C) 10 hours 30 min D) 6 hours 00 min E) 5 hours 30 min The questions from N. 21 al N. 30 is worth 5 points each.
+> How long in total, for 24 hours, does at least a digit 2 appear on my digital clock where the hours are from 00:00 to 23:59? A) 3 hours 45 min B) 6 hours 45 min C) 10 hours 30 min D) 6 hours 00 min E) 5 hours 30 min The questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q20|src_kangourou_2007_benjamin_marzo__Q20]]
@@ -943,9 +995,9 @@ Where the robot stops in the grid
 
 *Squares with 2 common vertices with ABCD*
 
-> Give it an ABCD square. The number of squares that have exactly two vertices in common with ABCD is A) 4 B) 5 C) 6 D) 8 E) 12 3 5 A D E B C F G H I L M N O P Test_07.qxp 16-04-2007 12:03 Page 13
+> Let a square ABCD be given. The number of squares that have exactly two vertices in common with ABCD is A) 4 B) 5 C) 6 D) 8 E) 12 3 5 A D E B C F G H I L M N O P Test_07.qxp 16-04-2007 12:03 Page 13
 > 
-> I'm going to pay. I'm going to pay. 14 14 Kang 2007 Kang 2007
+> Page. Page. 14 14 Kang 2007 Kang 2007
 
 **Answer:** E
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q21|src_kangourou_2007_benjamin_marzo__Q21]]
@@ -1061,7 +1113,7 @@ Where the robot stops in the grid
 
 *How many times a 4-digit number exceeds that of 2*
 
-> It is assigned a 2-digit number. On your right, we rewrite the same number, so you get a 4-digit number. How many times is the four-digit number so obtained greater than the initial two-digit number? A) 100 B) 101 C) 1000 D) 1001 E) 10
+> A 2-digit number is given. To its right we rewrite the same number, so as to obtain a 4-digit number. How many times is the four-digit number so obtained greater than the initial two-digit number? A) 100 B) 101 C) 1000 D) 1001 E) 10
 
 **Answer:** B
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q24|src_kangourou_2007_benjamin_marzo__Q24]]
@@ -1102,7 +1154,7 @@ Where the robot stops in the grid
 
 ![[src_kangourou_2007_benjamin_marzo__prob25.png]]
 
-> In Figure A you can see 4 strips of paper attached, each of which (starting from the second) is more than 25 centimetres longer than the one on the left. The strips are restored as shown in Figure B. How many centimetres is the perimeter of Figure B longer than the perimeter of Figure A? A) 0 B) 25 C) 40 D) 50 E) 75
+> In Figure A you can see 4 strips of paper attached, each of which (starting from the second) is 25 centimetres longer than the one on the left. The strips are rearranged as shown in Figure B. How many centimetres is the perimeter of Figure B longer than the perimeter of Figure A? A) 0 B) 25 C) 40 D) 50 E) 75
 
 **Answer:** D
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q25|src_kangourou_2007_benjamin_marzo__Q25]]
@@ -1159,11 +1211,39 @@ Where the robot stops in the grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number thought by Elisa (unknown operations) *
+*Number thought of by Elisa (unknown operations)*
 
-> Elisa came up with a whole number. Marco multiplied it by 5 or by 6, but we don't know which of the two. Sonia added to Mark's result one of the two numbers 5 or 6, but we don't know which one. Dino subtracted from Sonia's result one of the two numbers 5 or 6, but we don't know which one. Finally, Dino communicated the result: 73. What number did Elisa think of? A) it is not possible to know B) 11 C) 12 D) 14 E) 15 A B 4 6 6 4 4 5 4 a b c d
+> Elisa thought of a positive integer. Marco multiplied it by 5 or by 6,
+> but we do not know by which of the two. Sonia added to the result obtained by
+> Marco one of the two numbers 5 or 6, but we do not know which. Dino subtracted from the
+> result obtained by Sonia one of the two numbers 5 or 6, but we do not know which.
+> In the end Dino told us the result obtained: 73. What number did Elisa think of?
+> A) it is not possible to know
+> B) 11
+> C) 12
+> D) 14 
+> E) 15
+> A
+> B
+> 4
+> 6
+> 6
+> 4
+> 4
+> 5
+> 5
+> 4
+> a
+> b
+> c
+> d
+> Testi_07.qxp  16-04-2007  12:03  Page 14
 > 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2007 Kang 2007
+> Pag. 
+> Pag. 15
+> 15
+> Kang 2007
+> Kang 2007
 
 **Answer:** C
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q26|src_kangourou_2007_benjamin_marzo__Q26]]
@@ -1204,7 +1284,7 @@ Number on the face? (closed data) *
 
 ![[src_kangourou_2007_benjamin_marzo__prob27.png]]
 
-> A dice is a cube whose faces have been numbered from 1 to 6. The sum of the numbers on two opposite sides is always 7. Using 4 of these dice, all of them equal to each other, Nicholas composes a parallelpipedo as shown in the figure: if two faces match, their two numbers are equal. Figures also show the numbers on some faces. What number shall appear on the face indicated with the question mark? A) 5 B) 6 C) 2 D) 3 E) The data are insufficient
+> A dice is a cube whose faces have been numbered from 1 to 6. The sum of the numbers on two opposite faces is always 7. Using 4 of these dice, all of them equal to each other, Nicholas composes a parallelepiped as shown in the figure: if two faces match, their two numbers are equal. Figures also show the numbers on some faces. What number shall appear on the face indicated with the question mark? A) 5 B) 6 C) 2 D) 3 E) The data are insufficient
 
 **Answer:** A
 [[Quesiti/src_kangourou_2007_benjamin_marzo#q27|src_kangourou_2007_benjamin_marzo__Q27]]
@@ -1340,7 +1420,7 @@ Number on the face? (closed data) *
 
 *False proposition on the sum of 4 consecutive odd numbers*
 
-> Which of the following is false for the sum S of four consecutive odd positive integers, however chosen? A) S is equal to B) S can be multiplied by 16 C) S is never a perfect square D) S can be a perfect cube E) S is always greater than or equal to 16. (Perfect square means a number that can be expressed as the product of two equal integers, e.g. 4, 9, 25, 64; perfect cube means a number that can be expressed as the product of three equal integers, e.g. 8, 27, 64.) 1 2 4 3 ? 6 A B D C E F H G Texts_07.qxp
+> Which of the following is false for the sum S of four consecutive odd positive integers, however chosen? A) S is even B) S can be a multiple of 16 C) S is never a perfect square D) S can be a perfect cube E) S is always greater than or equal to 16. (Perfect square means a number that can be expressed as the product of two equal integers, e.g. 4, 9, 25, 64; perfect cube means a number that can be expressed as the product of three equal integers, e.g. 8, 27, 64.) 1 2 4 3 ? 6 A B D C E F H G Texts_07.qxp
 > 
 > 1 Kangourou of Mathematics 2007 Category Benjamin For first or secondary school students of first grade
 

@@ -39,9 +39,9 @@ level: kangourou
 
 *Numbers to be entered to correct 2020+_=2022+_*
 
-> What numbers, among those listed in the answers, can you write in the box on the left and the box on the right respectively to correct the equality 2020 + = 2022 +? A) 3 e 5 B) 4 e 1 C) 2 e 4
+> What numbers, among those listed in the answers, can you write in the box on the left and the box on the right respectively to correct the equality 2020 + _ = 2022 + _ ? A) 3 and 5 B) 4 and 1 C) 2 and 4
 >  
-> D) 7 e 2 E) 9 e 7
+> D) 7 and 2 E) 9 and 7
 
 **Answer:** E
 [[Quesiti/src_kangourou_2022_ecolier_gara#q01|src_kangourou_2022_ecolier_gara__Q01]]
@@ -127,11 +127,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A set of arrows to bring the bee to bloom*
+*A set of arrows to bring the bee to the flower*
 
 ![[src_kangourou_2022_ecolier_gara__prob3.png]]
 
-> Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and direction indicated by the arrow. What set of arrows allows the bee to reach the flower? A) → → ↓ ↓ ↓       B) ↓ ↓ → ↓ ↓ C) → ↓ → ↓ → D) → ↓ → ↓ ↓ → E) ↓ → → ↓ ↓ ↓
+> Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and sense indicated by the arrow. What set of arrows allows the bee to reach the flower? A) → → ↓ ↓ ↓       B) ↓ ↓ → ↓ ↓ C) → ↓ → ↓ → D) → ↓ → ↓ ↓ → E) ↓ → → ↓ ↓ ↓
 
 **Answer:** D
 [[Quesiti/src_kangourou_2022_ecolier_gara#q03|src_kangourou_2022_ecolier_gara__Q03]]
@@ -180,21 +180,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pad to move by 2 pads per row and column*
+*Which piece to move for 2 pieces per row and column*
 
 ![[src_kangourou_2022_ecolier_gara__prob4.png]]
 
-> You see a chessboard next to it with some gray balls on it. Rossella wants every row and every column of this chessboard to have 2 and no more than 2 pawns. What kind of pedal should you move on an empty cell? A) A
+> Next to it you see a board on which 
+> there are some grey pieces. Rossella wants 
+> there to be 2 and no more than 2 pieces in every row and in every column of this 
+> board. 
+> Which piece must she move onto an empty cell?  
+> A) A  
 >   
-> B) B
+> B) B  
 >   
-> C) C
+> C) C  
 >   
-> D) D
+> D) D  
 >   
-> E) E
+> E) E 
 >  
-> A B C D E
+> A 
+> B 
+> C 
+> D 
+> E 
 >
 
 **Answer:** C
@@ -239,7 +248,7 @@ level: kangourou
 
 ![[src_kangourou_2022_ecolier_gara__prob5.png]]
 
-> Mathematical kangaroo enjoys jumping along the straight line. He makes a long jump followed by two short jumps, as shown in the figure, and repeats this pattern several times. It starts at 0 and gets to 16. How many jumps does he make in all? A) 4
+> Mathematical kangaroo enjoys jumping along the number line. He makes a long jump followed by two short jumps, as shown in the figure, and repeats this pattern several times. He starts at 0 and gets to 16. How many jumps does he make in all? A) 4
 >   
 > B) 7
 >   
@@ -291,11 +300,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-From which point the laser beam comes out between the mirrors
+From which point does the laser beam come out between the mirrors
 
 ![[src_kangourou_2022_ecolier_gara__prob6.png]]
 
-> Each oblique segment in the figures represents a mirror supported perpendicular to the plane of the sheet. A laser beam is reflected in the mirrors according to the law described in the figure to the right. If the mirrors are arranged as in the figure on the left and the beam hits the reflecting face, where will the laser beam come from?
+> Each oblique segment in the figures represents a mirror supported perpendicular to the plane of the sheet. A laser beam is reflected in the mirrors according to the law described in the figure to the right. If the mirrors are arranged as in the figure on the left and the beam hits the reflecting face, from which point will the laser beam come out?
 >  
 > A) A
 >   
@@ -364,29 +373,39 @@ From which point the laser beam comes out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which one and Michele's card
+*Which one is Michele's postcard*
 
 ![[src_kangourou_2022_ecolier_gara__prob7.png]]
 
-> There's no antithesis in Michele's postcard. On Chiara's postcard, the sun is visible. There's exactly two animals on Paola's card. The animals that appear in Luke and Nicholas' cards don't fly. What is Michele's card? A)
+> There are no ducks in Michele's postcard. The sun is visible on Chiara's 
+> postcard. There are exactly two animals on Paola's postcard. The animals 
+> that appear in Luca's and Nicola's postcards do not fly. Which is Michele's 
+> postcard? 
+> A)
 >    
-> What image do you see when you look at the tower from above? A)
+> What image does he see when he looks at the tower from above? 
+> A)  
 >  
-> The questions from N. 9 al N. 16 is worth 4 points each 9. Ivan entered numbers into a grid of 3×3 with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? A) 1
+> Questions from No. 9 to No. 16 are worth 4 points each 
+> 9. Ivan has entered some numbers into a 3×3 grid with the intention 
+> that the six sums obtained by adding the numbers in each row and 
+> in each column should be equal. However, Ivan has made a mistake:  
+> which number must be corrected? 
+> A) 1  
 >   
-> B) 3
+> B) 3  
 >   
-> C) One of the two 4.
+> C) One of the two 4s.  
 >   
-> D) 5
+> D) 5  
 >   
-> E) One of the two 7.
+> E) One of the two 7s.  
 >   
-> B)
+> B)   
 >   
-> C)
+> C)   
 >   
-> D)
+> D)  
 >   
 > E)
 
@@ -503,7 +522,7 @@ Which one and Michele's card
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight to be entered in accordance with the neighbours rule*
+*Piece to be inserted in accordance with the neighbours rule*
 
 ![[src_kangourou_2022_ecolier_gara__prob10.png]]
 
@@ -546,7 +565,7 @@ Which one and Michele's card
 
 ![[src_kangourou_2022_ecolier_gara__prob11.png]]
 
-> Kangaroo mother's children are 2, 4, 5, 6, 8, 10 years old. Four of them are girls and their combined ages are 22. How old are the two boys? A) 2 e 8 B) 4 e 5 C) 5 e 8 D) 6 e 8 E) 6 e 10
+> Kangaroo mother's children are 2, 4, 5, 6, 8, 10 years old. Four of them are girls and their combined ages are 22. How old are the two boys? A) 2 and 8 B) 4 and 5 C) 5 and 8 D) 6 and 8 E) 6 and 10
 
 **Answer:** C
 [[Quesiti/src_kangourou_2022_ecolier_gara#q11|src_kangourou_2022_ecolier_gara__Q11]]
@@ -585,7 +604,7 @@ Which one and Michele's card
 
 *How many seats in the yard*
 
-> In the school yard, a few rows of chairs were lined up. Each row contains the same number of seats. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on your left and 5 on your right in your row. How many chairs have been put in the yard? A) 24
+> In the school yard, a few rows of chairs were lined up. Each row contains the same number of chairs. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on his left and 5 on his right in his row. How many chairs have been put in the yard? A) 24
 >   
 > B) 27
 >   
@@ -632,7 +651,7 @@ Which one and Michele's card
 
 ![[src_kangourou_2022_ecolier_gara__prob13.png]]
 
-> Aladdin has a square rug. The carpet has an edge of dots distributed over two lines as the figure suggests, which however shows the carpet folded in part. Along each side of the carpet is the same number of dots: the one you see in the figure on the right side. How many are all over the dots on Aladdin's carpet? A) 20 B) 24
+> Aladdin has a square rug. The carpet has an edge of dots distributed over two lines as the figure suggests, which however shows the carpet folded in part. Along each side of the carpet is the same number of dots: the one you see in the figure on the right side. How many dots are there in all on Aladdin's carpet? A) 20 B) 24
 >   
 > C) 28 D) 32 E) 36
 
@@ -766,11 +785,11 @@ Which one and Michele's card
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What numbers are torn by folding the sheet*
+*What numbers are pierced by folding the sheet*
 
 ![[src_kangourou_2022_ecolier_gara__prob14.png]]
 
-> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then he drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? 3 2 5 4 2 1 1 4 3 1 3 4 2 5 5 2 1 4 1
+> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then she drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? 3 2 5 4 2 1 1 4 3 1 3 4 2 5 5 2 1 4 1
 >  
 > 3 3 2 4 2 5 2 4 1 3 1 3 4 4
 >   
@@ -819,7 +838,7 @@ Which one and Michele's card
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the four digits hidden in the addendum*
+*sum of the four digits hidden in the addition*
 
 ![[src_kangourou_2022_ecolier_gara__prob15.png]]
 
@@ -876,7 +895,7 @@ Which one and Michele's card
 
 ![[src_kangourou_2022_ecolier_gara__prob16.png]]
 
-> Viola picks some of the shapes you see in the figure and describes them like this: Of the shapes I've chosen, two are gray, two are big and two are round. What's the smallest number of characters that Viola could have chosen? A) 2
+> Viola picks some of the shapes you see in the figure and describes them like this: Of the shapes I've chosen, two are gray, two are big and two are round. What's the smallest number of figures that Viola could have chosen? A) 2
 >   
 > B) 3
 >   
@@ -884,7 +903,7 @@ Which one and Michele's card
 >   
 > D) 5
 >   
-> E) 6 Questions from N. 17 al N. Twenty-four is worth five points each.
+> E) 6 Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2022_ecolier_gara#q16|src_kangourou_2022_ecolier_gara__Q16]]
@@ -923,11 +942,11 @@ Which one and Michele's card
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white scales are used in the cube*
+*How many white tiles are used in the cube*
 
 ![[src_kangourou_2022_ecolier_gara__prob17.png]]
 
-> The cube in the picture is full and it was built using wooden planks of the three types you see next to it. How many white trays were used? A) 8
+> The cube in the picture is full and it was built using wooden tiles of the three types you see next to it. How many white tiles were used? A) 8
 >   
 > B) 11
 >   
@@ -1028,7 +1047,7 @@ Which one and Michele's card
 
 ![[src_kangourou_2022_ecolier_gara__prob19.png]]
 
-> I've got a lot of cubes 10 centimeters sideways, which I built a pyramid with. An ant has climbed up and down the pyramid following the thick line in the figure (on the left the path is symmetrical to the one clearly visible on the right). How long is the path taken by the ant to climb and descend from the pyramid? A) 30
+> I've got a lot of cubes with side 10 centimeters, which I built a pyramid with. An ant has climbed up and down the pyramid following the thick line in the figure (on the left the path is symmetrical to the one clearly visible on the right). How long is the path taken by the ant to climb and descend from the pyramid? A) 30
 >   
 > B) 60 C) 70 D) 80
 >   
@@ -1078,17 +1097,26 @@ Which one and Michele's card
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which axles can Alba use for connections*
+*Which tiles can Alba use for the connections*
 
 ![[src_kangourou_2022_ecolier_gara__prob20.png]]
 
-> There's a road out of each of the house in the puzzle. Alba wants to insert one of the cranes shown on the right, D, in the center to ensure that there is a road from A to B and one from A to E, but to rule out that you can go from A to D. Dawn can turn the five cranes. What kind of tails can he use? A) Both 1 and 2.
+> From each of the houses of the 
+> puzzle a road comes out. Alba 
+> wants to insert in the center one 
+> of the tiles shown on the right, 
+> D in order to guarantee that there 
+> is a road from A to B and 
+> one from A to E, but to exclude that 
+> one can go from A to  
+> D. Alba can rotate the five tiles. Which tiles can she use?  
+> A) Both 1 and 2.    
 >   
-> B) Both 2 and 3.
+> B) Both 2 and 3.  
 >   
-> C) Both 1 and 4.
+> C) Both 1 and 4.  
 >   
-> D) Both 4 and 5.
+> D) Both 4 and 5.  
 >   
 > E) Both 1 and 5.
 
@@ -1136,11 +1164,11 @@ Which one and Michele's card
 <div class="qlang-split" data-lang="en"></div>
 
 
-I'm going to take a few laps because George will meet Thea again in A.
+Minimum laps for George to meet Thea again in A.
 
 ![[src_kangourou_2022_ecolier_gara__prob21.png]]
 
-> George and Thea start walking from the same point A, with the same speed, which they always maintain, but in the opposite direction. George walks on the edge of the square aisle, Thea on the edge of the rectangular aisle: find the dimensions of the two aisles in the figure. What is the minimum number of turns around the square curtain completed by which George meets Thea again at point A? A) 1
+> George and Thea start walking from the same point A, with the same speed, which they always maintain, but in the opposite direction. George walks on the edge of the square flowerbed, Thea on the edge of the rectangular flowerbed: find the dimensions of the two flowerbeds in the figure. What is the minimum number of turns around the square flowerbed completed by which George meets Thea again at point A? A) 1
 >   
 > B) 2
 >   
@@ -1194,7 +1222,7 @@ I'm going to take a few laps because George will meet Thea again in A.
 
 *Which girls eat the same number of cookies*
 
-> Five girls are eating cookies. Laura eats two more cookies than Sofia; Betti eats three fewer cookies than Laura. Clara eats one cookie more than Betti and three fewer than Alice. Which girls eat the same number of cookies? A) Clara and Laura. (b) Clara and Sofia. C) Laura and Alice. D) Sofia and Alice. E) Alice and Betti. A B C E F 1 2 3 4 5
+> Five girls are eating cookies. Laura eats two more cookies than Sofia; Betti eats three fewer cookies than Laura. Clara eats one cookie more than Betti and three fewer than Alice. Which girls eat the same number of cookies? A) Clara and Laura. B) Clara and Sofia. C) Laura and Alice. D) Sofia and Alice. E) Alice and Betti. A B C E F 1 2 3 4 5
 >
 
 **Answer:** B
@@ -1228,11 +1256,14 @@ I'm going to take a few laps because George will meet Thea again in A.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form taken from the rolling stock*
+*Shape taken by the curled-up caterpillar*
 
 ![[src_kangourou_2022_ecolier_gara__prob23.png]]
 
-> The cockroach shown in the picture rolled over to sleep. Which of the following may have taken form? A)
+> The caterpillar shown in the figure has 
+> curled up to sleep. Which of the 
+> following shapes could it have taken? 
+> A)      
 >  
 > C)
 

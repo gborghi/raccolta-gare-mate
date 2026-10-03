@@ -30,9 +30,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 7 digits divisible by 4 with sum of 4 digits *
+*7-digit numbers divisible by 4 with digit sum 4*
 
-> Antonia and Luca play each other's heads or tails the eight-euro coin, throwing an unmade coin. They decide that the number will be stolen by the first of them who has six throws in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
+> Antonia and Luca are playing heads or tails for the sum of 8 euros, tossing a fair coin. They decide that the sum will be pocketed by the first of them to have had 6 tosses in their favor. When they are at the score of 5 for Antonia and 3 for Luca, however, they are forced to interrupt the game and discuss how to split the 8 euros (which neither has won so far). What is the fair way to split them (that is, the way that takes into account the probability of victory that each of the two has at the moment of the interruption)?
 
 **Answer:** 0041
 [[Quesiti/src_kangourou_2018_junior_finale#q01|src_kangourou_2018_junior_finale__Q01]]
@@ -61,7 +61,7 @@ level: kangourou
 
 *Maximum product ab with a^2+b^2+1007ab=2018*
 
-> The sides of a quadrilateral measure 1, 4, 7, 8. What's your maximum area?
+> The sides of a quadrilateral measure 1, 4, 7, 8. What can its area be, at most?
 
 **Answer:** 0002
 [[Quesiti/src_kangourou_2018_junior_finale#q02|src_kangourou_2018_junior_finale__Q02]]
@@ -88,9 +88,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with equal sum tripartite*
+*Maximum n with tripartition into equal sum*
 
-> From a standard 52-card deck, Chiara discarded some cards, making sure all four axes remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four axes is $\dfrac{1}{1001}$, how many cards did you throw away?
+> From a standard deck of 52 cards, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. Now she draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $\dfrac{1}{1001}$, how many cards did she throw away?
 
 **Answer:** 2018
 [[Quesiti/src_kangourou_2018_junior_finale#q03|src_kangourou_2018_junior_finale__Q03]]
@@ -148,9 +148,9 @@ level: kangourou
 
 Show that the solution of x^5+x=10 is irrational
 
-> It already considers that the $x^5 + x = 10$ equation admits only one solution (real positive). It shows that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
+> Consider as already proven that the $x^5 + x = 10$ equation admits only one solution (real positive). Show that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
 
-**Answer:** irrazionale (dim.)
+**Answer:** irrational (proof)
 [[Quesiti/src_kangourou_2018_junior_finale#q05|src_kangourou_2018_junior_finale__Q05]]
 
 
@@ -177,7 +177,7 @@ Show that the solution of x^5+x=10 is irrational
 
 *Maximum complementary number not multiple of 10*
 
-> Imagine the plane as a sheet of squares (all on the same side) boundless in every direction and call a node every vertex of every square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
+> Imagine the plane as a sheet of squares (all of the same side length) boundless in every direction and call a node every vertex of every square. Prove that for every $n$ there is a circle containing exactly $n$ nodes inside.
 
 **Answer:** 0315
 [[Quesiti/src_kangourou_2018_junior_finale#q06|src_kangourou_2018_junior_finale__Q06]]
@@ -209,7 +209,7 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the first two numbers sum of two squares*
+*Product of the first two numbers that are sums of two squares*
 
 > Adding the $25\%$ of $2018$ to the $2018\%$ of $25$ how much do you get?
 >
@@ -219,7 +219,7 @@ Show that the solution of x^5+x=10 is irrational
 > - **(D)** $3027$
 > - **(E)** $5045$
 
-**Answer:** 3250
+**Answer:** 5045
 [[Quesiti/src_kangourou_2018_junior_finale#q07|src_kangourou_2018_junior_finale__Q07]]
 
 
@@ -250,9 +250,9 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major radius of three tangent circles in a straight line*
+*Largest radius of three circles tangent to a line*
 
-> You can go from $A$ to $B$ in the figure only by following the directions and lines indicated by the arrows. How many different routes are possible? (see figure)
+> You can go from $A$ to $B$ in the figure only by following the directions and senses indicated by the arrows. How many different routes are possible? (see figure)
 >
 > - **(A)** $20$
 > - **(B)** $16$
@@ -333,7 +333,7 @@ Show that the solution of x^5+x=10 is irrational
 
 *Maximum first 3 digits with cascade of prime sums*
 
-> Two regular dice (faces numbered from one to six) are thrown without makeup. Which of the numbers $7$, $8$, $9$ and $10$ is most likely to be the sum of the two scores obtained?
+> Two regular dice (faces numbered from one to six) are thrown and are fair. Which of the numbers $7$, $8$, $9$ and $10$ is most likely to be the sum of the two scores obtained?
 >
 > - **(A)** $7$
 > - **(B)** $8$
@@ -372,9 +372,9 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pallindrome 4 digits with 17n perfect square*
+*Four-digit palindrome with 17n perfect square*
 
-> On the same street, at a distance of $250$ m from each other, two student residences arise. The first building houses students $100$, the second $150$. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
+> On the same street, at a distance of $250$ m from each other, two student residences arise. The first building houses $100$ students, the second $150$. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
 >
 > - **(A)** In front of the first building.
 > - **(B)** A $100$ metres from the first building (and $150$ from the second).
@@ -414,7 +414,7 @@ Show that the solution of x^5+x=10 is irrational
 
 *Area of intersection of two circles of the eye*
 
-> Imagine you've written in increasing order every natural number $n$ exactly $n$ times: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$ and so on. From the first to the $10^5$-eighth number of the list, how many of the written numbers are divisible by $3$?
+> Imagine you've written in increasing order every natural number $n$ exactly $n$ times: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$ and so on. From the first to the $10^5$-th number of the list, how many of the written numbers are divisible by $3$?
 >
 > - **(A)** $4$
 > - **(B)** $12$
@@ -455,7 +455,7 @@ Show that the solution of x^5+x=10 is irrational
 
 *Value of m^3+n^5 given m^5+n^3=7901*
 
-> Note the figure: in a side square $4$ $8$ semicirculars all of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What's the area of the unshaded part of the square? (see figure)
+> Note the figure: in a square of side $4$, $8$ semicircles all of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What's the area of the unshaded part of the square? (see figure)
 >
 > - **(A)** $2\pi$
 > - **(B)** $8$
@@ -546,9 +546,9 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-* Entire pairs with 2x offset+3 offset> < 23*offset
+*Integer pairs with 2|x|+3|y|<23*
 
-> In a training centre you can study foreign languages, programming and accounting. The $35\%$ of those studying a language study English; the $13\%$ of the students of the centre study a language other than English. No student studies more than one language. What percentage of students at the center study a language?
+> At a training center one can study foreign languages, programming and accounting. $35\%$ of those who study a language study English; $13\%$ of the center's students study a language other than English. No student studies more than one language. What percentage of the center's students study a language?
 >
 > - **(A)** $13\%$
 > - **(B)** $20\%$

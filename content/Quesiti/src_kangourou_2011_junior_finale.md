@@ -32,7 +32,7 @@ level: kangourou
 
 *Minimum difference between numbers with sum of digits divisible by 5*
 
-> Imagine a list in which all positive integers appear in increasing order whose sum is divisible by $5$ (the list will begin thus: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the one before it in this list?
+> Imagine a list in which all positive integers appear in increasing order whose digit sum is divisible by $5$ (the list will begin thus: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the one before it in this list?
 
 **Answer:** 1
 [[Quesiti/src_kangourou_2011_junior_finale#qj1|src_kangourou_2011_junior_finale__QJ1]]
@@ -61,7 +61,7 @@ level: kangourou
 
 *Max number of distinct digits divisible by each of its digits*
 
-> A positive integer, written in decimal notation, has the digits two to two different from each other and is divisible by each of its digits. How many digits can he have at most?
+> A positive integer, written in decimal notation, has all its digits different from each other and is divisible by each of its digits. How many digits can it have at most?
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2011_junior_finale#qj2|src_kangourou_2011_junior_finale__QJ2]]
@@ -89,7 +89,7 @@ level: kangourou
 
 Who skips a circuit with a ditch without falling and why
 
-> Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them performs jumps of the same length; the lengths are $70, 80, 85, 90$ and $95$ cm respectively. They all follow, starting from the same point and moving in the same direction, the same circular circuit length $400$ meters, which is traversed by a wide trench $73$ cm. It happens that only one of them can make full laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on ropes.)
+> Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them performs jumps of the same length; the lengths are $70, 80, 85, 90$ and $95$ cm respectively. They all follow, starting from the same point and moving in the same direction, the same circular circuit length $400$ meters, which is traversed by a trench $73$ cm wide. It happens that only one of them can make 6 full laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on chords.)
 
 **Answer:** Bruna
 [[Quesiti/src_kangourou_2011_junior_finale#qj3|src_kangourou_2011_junior_finale__QJ3]]
@@ -128,7 +128,7 @@ Who skips a circuit with a ditch without falling and why
 
 > You have a grid. You want to enter in each box one and only one of the letters $A$, $B$, $C$ so that: - in each row the number of boxes with the letter $A$ is not less than the number of boxes with the letter $B$ and the number of boxes with the letter $C$; - in each column the number of boxes with the letter $B$ is not less than the number of boxes with the letter $A$ and the number of boxes with the letter $C$.
 > 
-> It shows that you can achieve your goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why? Why?
+> Show that you can achieve the goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why?
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2011_junior_finale#qj4|src_kangourou_2011_junior_finale__QJ4]]
@@ -155,9 +155,9 @@ Who skips a circuit with a ditch without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct values sum the perimeter of 4 triangles area 1/4*
+*How many distinct values can the sum of the perimeters of 4 triangles of area 1/4 take*
 
-> There are several ways of dividing a square of a side $1$ into $4$ triangles each of an area $\frac{1}{4}$ (to divide  is to decompose without overlapping if not, possibly, of sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
+> There are several ways of dividing a square of side $1$ into $4$ triangles each of area $\frac{1}{4}$ (by "divide" we mean decompose without overlaps except, possibly, along sides). The sum of the perimeters of the triangles may vary as the ways vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2011_junior_finale#qj5|src_kangourou_2011_junior_finale__QJ5]]
@@ -188,7 +188,7 @@ Who skips a circuit with a ditch without falling and why
 
 *For which m the ant comes out of the tiled box*
 
-> An ant is trapped in a box whose floor is a square tiled with $m^2$ square tiles all on the same side and where the exit routes are only at the four vertices. The ant is located at the bottom left of the vertex and you can only move along the intercept of the tiles going right of one and up of one, then right of two and up of two, then right again of three and up of three and so on. When it encounters a wall, whether it has completed a straight line or not, it stops, turns $180°$ towards the inside of the box and starts moving again as described (i.e. moving from one tile to the right, then one up, then two to the right, and so on).
+> An ant is trapped in a box whose floor is a square tiled with $m^2$ square tiles all on the same side and where the exit routes are only at the four vertices. The ant is located at the bottom left vertex and can only move along the gaps between the tiles going right of one and up of one, then right of two and up of two, then right again of three and up of three and so on. When it encounters a wall, whether it has completed a straight line or not, it stops, turns $180°$ towards the inside of the box and starts moving again as described (i.e. moving from one tile to the right, then one up, then two to the right, and so on).
 > 
 > Are there values of $m$ for which the ant will be able to get out of the box? If so, what are they?
 

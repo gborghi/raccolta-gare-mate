@@ -35,7 +35,7 @@ level: squadre
 
 *Trapezoidal area given diagonal triangular areas*
 
-> A trapezoid A trapezoid is divided from its two diagonal sides into four triangles. If 5 and 125 are the areas of the two of these triangles that share one of their sides with one of the parallel sides of the trapezium, how much is the trapezium area?
+> A trapezoid is divided by its two diagonals into four triangles. If 5 and 125 are the areas of the two of these triangles that share one of their sides with one of the parallel sides of the trapezoid, what is the area of the trapezoid?
 
 **Answer:** 0180
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q01|src_kangourou_2023_junior_squadre_f2__Q01]]
@@ -64,7 +64,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inter whose square is a 6-digit palindrome*
+*Integer whose square is a 6-digit palindrome*
 
 > Palindrome An integer of at least two digits is called a palindrome if it coincides with the number obtained by reading its digits from right to left: for example 313 is palindrome, but 133 is not. There is only one integer (positive) whose square is a six-digit palindrome number: what is it?
 
@@ -96,7 +96,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in Figure *
+*How many triangles in the figure*
 
 ![[src_kangourou_2023_junior_squadre_f2__prob3.png]]
 
@@ -136,7 +136,7 @@ level: squadre
 
 *Max-min difference alignments of 4 digits*
 
-> By adding up the figures, the alignment 222222222211111111 is composed of ten digits 2 followed by as many digits 1. We pick a pair of adjacent numbers and we replace their sum with it. We get a 19-digit alignment, like 222222231111111 or 24222222211111111. We perform this operation from time to time on every alignment we get, with the restriction that the pair of digits we operate on provides a single digit sum, thus reducing the number of digits of the alignment by 1 at a time. What's the difference between the largest and the smallest of the numbers represented by the four-digit alignments that we can get?
+> By adding up the digits, the alignment 22222222221111111111 is composed of ten digits 2 followed by as many digits 1. We pick a pair of adjacent digits and replace them with their sum: We get a 19-digit alignment, like 2222222223111111111 or 2422222221111111111. We perform this operation from time to time on every alignment we get, with the restriction that the pair of digits we operate on provides a single digit sum, thus reducing the number of digits of the alignment by 1 at a time. What's the difference between the largest and the smallest of the numbers represented by the four-digit alignments that we can get?
 
 **Answer:** 3996
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q04|src_kangourou_2023_junior_squadre_f2__Q04]]
@@ -196,9 +196,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest side DC or ED in the rectangle*
+*Longest side DC or ED in the right pentagon*
 
-> The perimeter of an ABCDE pentagon measures 4,172 and all sides have full lengths. The sides AE and BC are 2,023 long and the angles in A, B and D are straight. What is the length of the longest between the two sides DC and ED?
+> The perimeter of an ABCDE pentagon measures 4,172 and all sides have integer lengths. The sides AE and BC are 2,023 long and the angles in A, B and D are straight. What is the length of the longest between the two sides DC and ED?
 
 **Answer:** 0045
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q06|src_kangourou_2023_junior_squadre_f2__Q06]]
@@ -233,7 +233,7 @@ level: squadre
 
 *Algebraic sum of numbers with digits 0,1,2*
 
-> Figures 0, 1, 2 Giorgio wrote, aligning them in increasing order, all positive integers up to 2021 including those in which no digits other than 0, 1, 2 appear. He then alternated the signs + and , starting from the sign +, in front of the written numbers: his alignment thus begins with 1  2 + 10  11 + 12  .... Finally, he executed (correctly) the algebraic sum indicated by the alignment. What result did he get?
+> Digits 0, 1, 2 Giorgio wrote, aligning them in increasing order, all positive integers up to 2021 including those in which no digits other than 0, 1, 2 appear. He then alternated the signs + and –, starting from the sign +, in front of the written numbers: his alignment thus begins with 1 – 2 + 10 – 11 + 12 – .... Finally, he executed (correctly) the algebraic sum indicated by the alignment. What result did he get?
 
 **Answer:** 1011
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q07|src_kangourou_2023_junior_squadre_f2__Q07]]
@@ -263,7 +263,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum winnings by 99% rounded*
+*Minimum matches won for 99% rounded*
 
 > You've played some games: you haven't won all of them, but you can say you've won 99% of them if you're asked to round (as usual) the percentage of those you've won to the nearest integer. What's the smallest number of games you have to win to make your claim correct?
 
@@ -298,7 +298,7 @@ level: squadre
 
 * Groups of 5 couples without siblings together*
 
-> To compete in a tournament, ten boys must be divided into five pairs. Among them, however, there are two pairs of brothers, and it is not desirable for two brothers to be in pairs together. How many different groups of five couples can be formed under this constraint? (Two groups of pairs shall be considered different if they differ by at least one pair.)
+> To compete in a tournament, ten boys must be divided into five pairs. Among them, however, there are two pairs of brothers, and it is not desirable for two brothers to be in pairs together. How many different groups of five pairs can be formed under this constraint? (Two groups of pairs shall be considered different if they differ by at least one pair.)
 
 **Answer:** 0750
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q09|src_kangourou_2023_junior_squadre_f2__Q09]]
@@ -364,7 +364,7 @@ level: squadre
 
 *Minimum n with side Qn greater than 2022*
 
-> The squares A Q0 square on side 3 is covered by a Q1 square (different from Q0) whose sides each contain a Q0 vertex. The same is done by covering Q1 with a Q2 square (different from Q1) whose sides each contain a Q1 vertex. This is sometimes done by following this rule until you get a Qn square. If the squares after Q0 are chosen appropriately, what is the smallest value of n such that the length of the Qn side exceeds 2022?
+> The squares A Q0 square with side 3 is covered by a Q1 square (different from Q0) whose sides each contain a Q0 vertex. The same is done by covering Q1 with a Q2 square (different from Q1) whose sides each contain a Q1 vertex. This is done several times following this rule until you get a Qn square. If the squares after Q0 are chosen appropriately, what is the smallest value of n such that the length of the Qn side exceeds 2022?
 
 **Answer:** 0019
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q11|src_kangourou_2023_junior_squadre_f2__Q11]]
@@ -394,9 +394,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many first 2023 Fibonacci numbers are left 2 mod 3
+How many of the first 2023 Fibonacci numbers leave a remainder of 2 mod 3
 
-> Fibonacci The sequence of integers called di Fibonacci is defined as follows: the first two terms are both 1, from the third to the next each term is the sum of the two preceding it. How many of the first 2023 terms in the Fibonacci sequence give 2 remaining when they're divided by 3?
+> Fibonacci The sequence of integers called di Fibonacci is defined as follows: the first two terms are both 1, from the third to the next each term is the sum of the two preceding it. How many of the first 2023 terms in the Fibonacci sequence leave a remainder of 2 when divided by 3?
 
 **Answer:** 0759
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q12|src_kangourou_2023_junior_squadre_f2__Q12]]
@@ -427,9 +427,9 @@ How many first 2023 Fibonacci numbers are left 2 mod 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum footpaths on a 8x8 chessboard*
+*Minimum paths of a pawn on an 8x8 chessboard*
 
-> A pawn is placed in the first upper left-hand box of a chessboard 8 × 8 (box (1, 1)) and must reach the last lower right-hand box of the chessboard (box (8, 8)). Each move consists of moving the pedal from each box in which it is in an adjacent box, that is, it shares a side with it. How many different routes require as few moves as possible?
+> A pawn is placed in the first upper left-hand square of a chessboard 8 × 8 (square (1, 1)) and must reach the last lower right-hand square of the chessboard (square (8, 8)). Each move consists of moving the pawn from each square in which it is to an adjacent square, that is, it shares a side with it. How many different routes require as few moves as possible?
 
 **Answer:** 3432
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q13|src_kangourou_2023_junior_squadre_f2__Q13]]
@@ -462,7 +462,7 @@ How many first 2023 Fibonacci numbers are left 2 mod 3
 
 *Summary of second common terms progressions*
 
-> Arithmetic progressions On two arithmetic progressions of a whole ratio, only the following information is available. One has as reason 76, the other has as initial term 20, the first term common to both is 95. Depending on the missing information, several possibilities for the second common term are open. What is the sum of all these possible second common terms?
+> Arithmetic progressions On two arithmetic progressions with integer common difference, only the following information is available. One has common difference 76, the other has initial term 20, the first common term of both is 95. Depending on the missing information, several possibilities for the second common term are open. What is the sum of all these possible second common terms?
 
 **Answer:** 9994
 [[Quesiti/src_kangourou_2023_junior_squadre_f2#q14|src_kangourou_2023_junior_squadre_f2__Q14]]
@@ -498,7 +498,7 @@ How many first 2023 Fibonacci numbers are left 2 mod 3
 
 How many friends does the mayor have?
 
-> There are 2,023 people living in a village, and one of them is the mayor. However two residents other than the mayor are chosen, they have a different number of friends among the villagers (it is understood that, among the friends of a resident, he himself must be excluded and that, if A is a friend of B, B is a friend of A). How many friends does the mayor have? (Write 9999 if you believe the answer is not uniquely determined.)
+> There are 2,023 people living in a village, and one of them is the mayor. Whatever two residents other than the mayor are chosen, they have a different number of friends among the villagers (it is understood that, among the friends of a resident, he himself must be excluded and that, if A is a friend of B, B is a friend of A). How many friends does the mayor have? (Write 9999 if you believe the answer is not uniquely determined.)
 > 
 >  
 > Questions and solutions

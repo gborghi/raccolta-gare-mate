@@ -179,6 +179,6 @@ level: kangourou
 
 > To the sequence $\{a_k\}$ associate $S_n=a_1+\cdots+a_n$ and $C_n=a_1^3+\cdots+a_n^3$. Do there exist sequences such that for every $n\ge 1$ we have $1\le S_n\le 2$, but such that $\{C_n\}$ is not bounded?
 
-**Answer:** esistono
+**Answer:** they exist
 
 [[Quesiti/src_kangourou_2026_student_finale#qs6|src_kangourou_2026_student_finale__QS6]]

@@ -66,7 +66,7 @@ level: kangourou
 
 ![[src_kangourou_2006_student_marzo__prob2.png]]
 
-> Note the figure: You can add more to the grey squares without increasing the perimeter of the grey region. How many more can you add? A) 0         B) 7          C) 18          D) 12          E) 16
+> Note the figure: You can add more squares to the grey region without increasing the perimeter of the grey region. How many more can you add? A) 0         B) 7          C) 18          D) 12          E) 16
 
 **Answer:** E
 [[Quesiti/src_kangourou_2006_student_marzo#q02|src_kangourou_2006_student_marzo__Q02]]
@@ -114,7 +114,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of the circle equivalent to the crown*
+*Radius of the circle equivalent to the crown*
 
 ![[src_kangourou_2006_student_marzo__prob3.png]]
 
@@ -129,7 +129,7 @@ level: kangourou
 \end{document}
 ```
 
-> Stefania has two hangings built of the same material, the same thickness and weight. Ignoring thickness, one is shaped like a circular crown with an outer radius of 6 cm and an inner radius of 4 cm, the other is simply shaped like a circle. What's its radius in centimeters? A) 4         B) C) 5 D) E)
+> Stefania has two pendants made of the same material, the same thickness and weight. Ignoring thickness, one is shaped like a circular crown with an outer radius of 6 cm and an inner radius of 4 cm, the other is simply shaped like a circle. What's its radius in centimeters? A) 4         B) C) 5 D) E)
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_student_marzo#q03|src_kangourou_2006_student_marzo__Q03]]
@@ -161,9 +161,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a in arithmetic progression*
+*Value of a in an arithmetic progression*
 
-> a, b, c, d, and are five numbers in arithmetic progression. We know that b is 5.5 and e is 10. How much is it worth? A) 0,5 B) 3 C) 4 D) 4,5 E) 5
+> a, b, c, d, e are five numbers in arithmetic progression. It is known that
+> b = 5.5 and e = 10. What is the value of a?
+> A) 0.5
+> B) 3
+> C) 4
+> D) 4.5
+> E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2006_student_marzo#q04|src_kangourou_2006_student_marzo__Q04]]
@@ -248,13 +254,35 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What cards to roll over (conditional logic) *
+*Which cards to turn over (conditional logic)*
 
 ![[src_kangourou_2006_student_marzo__prob6.png]]
 
-> Each of the four cards you see in the figure has a letter on one face and a number on the other. Peter says: "Whatever the paper is, if on one face there is a voice, on the opposite face there is an equal number". Alice doesn't trust you and she'd want to check. What papers is necessary and sufficient for Alice to roll over to establish whether Peter said the truth? A) U, 7 B) U C) U, 4, 7 D) U, 4 E) U, K, 4, 7 4 cm 6 cm 6 2 5 2 10 U K 4 7 Student_06.qxp 20/02/2006 23.38
+> Each of the four cards you see in the figure has a letter on
+> one face and a number on the opposite face. Pietro
+> states: "Whatever the card, if there is a vowel on one face, there is an even number on the opposite face". Alice does not trust him and
+> would like to check. Which cards is it necessary and sufficient
+> for Alice to turn over to establish whether Pietro has told the truth? 
+> A) U, 7      B) U         C) U, 4, 7            D) U, 4            E) U, K, 4, 7
+> 4 cm
+> 6 cm
+> 6
+> 2
+> 5
+> 2
+> 10
+> U
+> K
+> 4
+> 7
+> Student_06.qxp  20/02/2006  23.38  Page 28
 > 
-> I'm going to pay. I'm going to pay. 29 29 Kang 2006 Kang 2006 tudent
+> Pag. 
+> Pag. 29
+> 29
+> Kang 2006
+> Kang 2006
+> tudent
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_student_marzo#q06|src_kangourou_2006_student_marzo__Q06]]
@@ -354,9 +382,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of apple eaten by the crab*
+*Fraction of apple eaten by the seagull*
 
-> An apple, or a part of it, floating on the surface of a lake emerges from it by 1/3 of its mass. A fish and a crab jump on a floating whole apple at the same time and begin to eat the submerged part and the emerging part, respectively. In equal time, the crab eats twice as much fish. When the whole apple has been eaten, what fraction of the apple has the crab eaten? A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
+> An apple, or a part of it, floating on the surface of a lake emerges from it by 1/3 of its mass. A fish and a seagull jump on a floating whole apple at the same time and begin to eat the submerged part and the emerging part, respectively. In equal time, the seagull eats twice as much as the fish. When the whole apple has been eaten, what fraction of the apple has the seagull eaten? A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_student_marzo#q09|src_kangourou_2006_student_marzo__Q09]]
@@ -389,7 +417,7 @@ level: kangourou
 
 *Height of bus in semicircular tunnel*
 
-> A tunnel has a semicircular section with a diameter of 10 meters. The roof (flat) of a bus comes into contact with the tunnel's valve if its right wheels (wheel-drive) are two metres from the right edge of the tunnel. What is the height of the bus in meters? A) 2,70 B) 3,20 C) 3,60 D) 4,00 E) 4,50 The questions from N. 11 al N. Twenty is worth four points.
+> A tunnel has a semicircular section with a diameter of 10 meters. The roof (flat) of a bus comes into contact with the tunnel's vault if its right wheels (flush with the side) are two metres from the right edge of the tunnel. What is the height of the bus in meters? A) 2,70 B) 3,20 C) 3,60 D) 4,00 E) 4,50 The questions from N. 11 to N. 20 are worth four points.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_student_marzo#q10|src_kangourou_2006_student_marzo__Q10]]
@@ -422,9 +450,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2006 remainder with the same divider (rest 5 out of 1001) *
+*2006 remainder with the same divisor (rest 5 out of 1001) *
 
-> If you divide 1001 by an appropriate one-digit number, you get 5. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
+> If you divide 1001 by an appropriate one-digit number, you get 5 as remainder. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_student_marzo#q11|src_kangourou_2006_student_marzo__Q11]]
@@ -505,11 +533,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report sector and circle areas*
+*Ratio of sector and circle areas*
 
 ![[src_kangourou_2006_student_marzo__prob13.png]]
 
-> The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the relationship between the sector area and the circle area? A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
+> The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the ratio of the sector area to the circle area? A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_student_marzo#q13|src_kangourou_2006_student_marzo__Q13]]
@@ -541,7 +569,7 @@ level: kangourou
 
 *Elements of the choir this year (percentage) *
 
-> Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many elements does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
+> Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many members does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_student_marzo#q14|src_kangourou_2006_student_marzo__Q14]]
@@ -574,7 +602,7 @@ level: kangourou
 
 *Minimum sheets for two equal digits (pigeonhole) *
 
-> Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the oven if you want to be sure that, among the numbers shown on the extract sheets, there are at least two that, in some position, have the same number? A) 20160          B) 40320          C) 72            D) 10                E) 9
+> Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the urn if you want to be sure that, among the numbers shown on the extracted sheets, there are at least two that, in some position, have the same digit? A) 20160          B) 40320          C) 72            D) 10                E) 9
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_student_marzo#q15|src_kangourou_2006_student_marzo__Q15]]
@@ -612,7 +640,7 @@ level: kangourou
 
 ![[src_kangourou_2006_student_marzo__prob16.png]]
 
-> A cathedral window has a glass like the one in the figure, where the letters R, G, and B represent glass of red, yellow, and blue colors respectively. The area occupied by the yellow glass measures 400 dm2 . How many dm2 does blue glass cover? A) 396             B) 400           C) 120 π D) 90     π E) 382
+> A cathedral window has a glass like the one in the figure, where the letters R, G, and B represent glass of red, yellow, and blue colors respectively. The area occupied by the yellow glass measures 400 dm2 . How many dm2 does the area occupied by blue glass measure? A) 396             B) 400           C) 120 π D) 90     π E) 382
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_student_marzo#q16|src_kangourou_2006_student_marzo__Q16]]
@@ -711,11 +739,51 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Scores from the last qualifying round (prog. The following table shows the results of the calculations:
+*Points of the last-placed team (arithmetic progression tournament)*
 
-> Sixteen teams play a volleyball tournament. Each team faces each other once and only once: at each match, the winning team advances one point in the standings, while the losing team stays with the score they had (there can be no draws). At the end of the tournament, the ranking appears in arithmetic progression. How many points did the team that came in last score? A) 3 B) 2 C) 1 D) A score other than 3, 2, 1. (e) The situation described cannot be verified. B B B B R R R R R R G G G 2 1 − b a 1 + b a 1 2 2 + b a 1 2 2 − b a 1 3 3 + b a Student_06.qxp 20/02/2006 23.38 Page 30
+> Sixteen teams play a volleyball tournament. Each team
+> faces every other team exactly once: in each match, the
+> winning team advances by one point in the standings, while the losing
+> team remains with the score it had (there can be no
+> draws). At the end of the tournament, the standings appear in arithmetic
+> progression. How many points did the team that finished last obtain?
+> A) 3        B) 2            C) 1             D) A score different from 3, 2, 1.
+> E) The described situation cannot occur.            
+> 2
+> 1
+> −
+> b
+> a
+> 1
+> +
+> b
+> a
+> 1
+> 2
+> 2
+> +
+> b
+> a
+> 1
+> 2
+> 2
+> −
+> b
+> a
+> 1
+> 3
+> 3
+> +
+> b
+> a
+> Student_06.qxp  20/02/2006  23.38  Page 30
 > 
-> I'm going to pay. I'm going to pay. 31 31 Kang 2006 Kang 2006 tudent
+> Pag. 
+> Pag. 31
+> 31
+> Kang 2006
+> Kang 2006
+> tudent
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_student_marzo#q18|src_kangourou_2006_student_marzo__Q18]]
@@ -750,7 +818,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 
 *Max angles less than 60 in convex polygon*
 
-> How many angles of width less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
+> How many angles of measure less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_student_marzo#q19|src_kangourou_2006_student_marzo__Q19]]
@@ -783,11 +851,11 @@ Scores from the last qualifying round (prog. The following table shows the resul
 <div class="qlang-split" data-lang="en"></div>
 
 
-*XA diagonal of the parallel piped (Pitagora) *
+*XA diagonal of the rectangular parallelepiped (Pitagora) *
 
 ![[src_kangourou_2006_student_marzo__prob20.png]]
 
-> A rectangular parallel piped is shown in the figure. The dimensions, in centimetres, of the sides of the XYZ triangle are 8, 9 and . What is the size, in centimeters, of the XA diagonal? A) B) 10 C) D) 11 E) Questions from N. 21 al N. 30 is worth 5 points.
+> A rectangular rectangular parallelepiped is shown in the figure. The dimensions, in centimetres, of the sides of the XYZ triangle are 8, 9 and . What is the size, in centimeters, of the XA diagonal? A) B) 10 C) D) 11 E) Questions from N. 21 to N. 30 are worth 5 points.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_student_marzo#q20|src_kangourou_2006_student_marzo__Q20]]
@@ -821,11 +889,11 @@ Scores from the last qualifying round (prog. The following table shows the resul
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum movements to transform the grid*
+*Minimum moves to transform the grid*
 
 ![[src_kangourou_2006_student_marzo__prob21.png]]
 
-> Figure 1 shows a grid of 4×4 with white and grey cells. On it we are only allowed to make movements of the following type: exchange between two cells on the same line or column. What is the minimum number of moves that allows us to obtain the figure shown in Figure 2? A) We will never be able to achieve it if we only make authorized moves. B) 2                     C) 3                     D) 4                     E) 5
+> Figure 1 shows a grid of 4×4 with white and grey cells. On it we are only allowed to make moves of the following type: exchange between two cells on the same row or column. What is the minimum number of moves that allows us to obtain the figure shown in Figure 2? A) We will never be able to achieve it if we only make authorized moves. B) 2                     C) 3                     D) 4                     E) 5
 
 **Answer:** D
 [[Quesiti/src_kangourou_2006_student_marzo#q21|src_kangourou_2006_student_marzo__Q21]]
@@ -853,9 +921,9 @@ Scores from the last qualifying round (prog. The following table shows the resul
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For quantities n the power n^300 has <=100 digits*
+*For how many n the power n^300 has <=100 digits*
 
-> For how many positive integers n is the power n 300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
+> For how many positive integers n is the power n^300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2006_student_marzo#q22|src_kangourou_2006_student_marzo__Q22]]
@@ -1026,7 +1094,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of arranging 1.6. with boundary difference not 3*
+*Ways of arranging 1..6 with difference constraint not 3*
 
 ![[src_kangourou_2006_student_marzo__prob26.png]]
 
@@ -1108,7 +1176,7 @@ Scores from the last qualifying round (prog. The following table shows the resul
 <div class="qlang-split" data-lang="en"></div>
 
 
-Areas in the region? (rectangle divided by M,N) *
+*Area of region? (rectangle divided by M,N)*
 
 ![[src_kangourou_2006_student_marzo__prob28.png]]
 
@@ -1147,7 +1215,7 @@ Areas in the region? (rectangle divided by M,N) *
 
 ![[src_kangourou_2006_student_marzo__prob29.png]]
 
-> In the figure you see a side hexagon; XABC and XPQR are squares. How much is the area of the shaded triangle worth? A)              B)           C)        D)             E)
+> In the figure you see a hexagon with side length [missing]; XABC and XPQR are squares. What is the area of the shaded triangle? A)              B)           C)        D)             E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2006_student_marzo#q29|src_kangourou_2006_student_marzo__Q29]]
@@ -1214,9 +1282,9 @@ Areas in the region? (rectangle divided by M,N) *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersection points of ropes (8 points) *
+*Intersection points of chords (8 points) *
 
-> Eight points on a circumference have been selected to maximise the number of distinct points that are at least two of the strings they have identified. What are the intersection points (excluding the 8 points chosen)? A)  48         B) 56               C) 112                D) 140               E) 70 N C B M A D ? 20 3 2 3 A B C X P Q R 4 3 5 − 2 1 3 + 4 3 4 3 2 − 4 3 2 + Student_06.qxp 20/02/2006 23.38 Page 32
+> Eight points on a circumference have been selected to maximise the number of distinct points that are intersection of at least two of the chords they have identified. What are the intersection points (excluding the 8 points chosen)? A)  48         B) 56               C) 112                D) 140               E) 70 N C B M A D ? 20 3 2 3 A B C X P Q R 4 3 5 − 2 1 3 + 4 3 4 3 2 − 4 3 2 + Student_06.qxp 20/02/2006 23.38 Page 32
 > 
 >  
 > 1 Student category For students in fourth or fifth grades

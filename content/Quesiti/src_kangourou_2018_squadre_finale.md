@@ -32,9 +32,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decennies and united figures of 9^2017+9^2018*
+*Tens and units digits of 9^2017+9^2018*
 
-> Decades and units What is the number of decades and the number of units in the result of the sum 92017 + 92018 ?
+> Tens and units
+> What are, in order, the tens digit and the units digit of the result of the sum
+> 92017 + 92018 ?
 
 **Answer:** 0090
 [[Quesiti/src_kangourou_2018_squadre_finale#q01|src_kangourou_2018_squadre_finale__Q01]]
@@ -63,9 +65,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A quadrilateral ADC angle with known angles*
+*Angle ADC in a quadrilateral with known angles*
 
-> The quadrilateral In an ABCD quadrilateral, the angles ABD, CBD and CAD all measure 40 degrees. How many degrees does the angle ADC measure?
+> The quadrilateral In a (non-self-intersecting) quadrilateral ABCD, the angles ABD, CBD and CAD all measure 40 degrees. How many degrees does the angle ADC measure?
 
 **Answer:** 0100
 [[Quesiti/src_kangourou_2018_squadre_finale#q02|src_kangourou_2018_squadre_finale__Q02]]
@@ -95,9 +97,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum penalty figure of 5 divided by 495*
+*Digits of the smallest repunit of 5 divisible by 495*
 
-> How many digits Consider all the integers of type 5, 55, 555, 5555, 55555, ... , which is all positive integers whose decimal digit only shows up as 5. How many digits does the smallest of these numbers have that is divisible by 495?
+> How many digits
+> Consider all integers of the type 5, 55, 555, 5555, 55555, ... , that is, all positive integers
+> in whose decimal representation only the digit 5 appears. How many digits does the smallest of these numbers
+> that is divisible by 495 have?
 
 **Answer:** 0018
 [[Quesiti/src_kangourou_2018_squadre_finale#q03|src_kangourou_2018_squadre_finale__Q03]]
@@ -157,9 +162,10 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of two-digit divisors of 2^16-1*
+*Sum of 2-digit divisors of 2^16-1*
 
-> Divisors What is the sum of all the positive integers of 2 digits of the number 216  1?
+> The divisors  
+> What is the sum of all positive integer divisors of 2 digits of the number 216 – 1?
 
 **Answer:** 0168
 [[Quesiti/src_kangourou_2018_squadre_finale#q05|src_kangourou_2018_squadre_finale__Q05]]
@@ -307,7 +313,7 @@ level: squadre
 
 *Four-digit numbers with zero-digit product*
 
-> At product zero What are the numbers (positive integers) of 4 significant digits whose product is 0?
+> With product zero How many numbers (positive integers) with 4 significant digits have digit product 0?
 
 **Answer:** 2439
 [[Quesiti/src_kangourou_2018_squadre_finale#q08|src_kangourou_2018_squadre_finale__Q08]]
@@ -339,7 +345,7 @@ level: squadre
 
 *Percentage of the trapezoidal area occupied by the AHD triangle*
 
-> The trapezoid An ABCD isosceles trapezoid has bases AB and CD of 7 cm and 3 cm respectively. Its AC and BD diagonals intersect at an H-point. What percentage of the trapezoid area is occupied by the AHD triangle? Please note: % should be used in the answer.
+> An isosceles trapezoid ABCD has bases AB and CD of 7 cm and 3 cm respectively. Its AC and BD diagonals intersect at an H-point. What percentage of the trapezoid area is occupied by the AHD triangle? Note: the % sign is to be omitted in the answer.
 
 **Answer:** 0021
 [[Quesiti/src_kangourou_2018_squadre_finale#q09|src_kangourou_2018_squadre_finale__Q09]]
@@ -372,7 +378,7 @@ level: squadre
 
 *Maximum number of competing pairs sum >41*
 
-> Competition In a singing competition 41 contestants are numbered from 1 to 41. They can be performed in pairs (each pair only once), but only if the sum of the numbers assigned to the competitors that make up the pair is narrowly greater than 41. How many different couples can perform during the contest? (Two pairs are different if they differ by at least one of the components.)
+> Competition In a singing competition 41 contestants are numbered from 1 to 41. They can be performed in pairs (each pair only once), but only if the sum of the numbers assigned to the competitors that make up the pair is strictly greater than 41. How many different pairs can perform during the contest? (Two pairs are different if they differ by at least one of the components.)
 
 **Answer:** 0420
 [[Quesiti/src_kangourou_2018_squadre_finale#q10|src_kangourou_2018_squadre_finale__Q10]]
@@ -445,7 +451,7 @@ level: squadre
 
 *How many numbers are reduced to zero by multiplying the digits *
 
-> Reducing to a single digit Francis plays this game: multiply between them the numbers of a two-digit number and, if the result is a two-digit number, multiply the numbers again. He continues in this way until he gets a single digit number. From how many numbers can you get zero as the end result?
+> Reducing to a single digit Francis plays this game: multiply together the digits of a two-digit number and, if the result is a two-digit number, multiply the digits again. He continues in this way until he gets a single digit number. From how many numbers can you get zero as the end result?
 
 **Answer:** 0024
 [[Quesiti/src_kangourou_2018_squadre_finale#q12|src_kangourou_2018_squadre_finale__Q12]]
@@ -475,9 +481,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many relatives in 2018 with a sum of squares of digits*
+*How many relatives of 2018 with sum of squares of digits*
 
-> Relative numbers Let's say that two positive integers are relative if they have the same sum of the squares of the digits. For example, the numbers 1111, 20 and 2 are related. How many are the relative positive integers of 2018 and narrowly smaller ones of 2018?
+> Related numbers 
+> We say that two positive integers are "related" if they have the same sum of the squares of their 
+> digits. For example, the numbers 1111, 20 and 2 are related. How many positive integers are related to 
+> 2018 and strictly less than 2018?
 
 **Answer:** 0021
 [[Quesiti/src_kangourou_2018_squadre_finale#q13|src_kangourou_2018_squadre_finale__Q13]]
@@ -511,7 +520,7 @@ level: squadre
 
 *Probability sum 7 with two non-standard dice*
 
-> Two odd dice Nicola has two unmade, but not traditional dice: in one there is a face with 1 point, two faces with 2 points and three faces with 3 points; in the other a face with 6 points, two faces with 5 points and three faces with 4 points. What is the probability that, by throwing the two dice, the sum of the points that Nicholas gets is 7? Write the numerator of the fraction, reduced to the minimum terms, followed by the denominator: for example, if the result was 3/23, write 0323.
+> Two odd dice Nicola has two dice that are not loaded, but not traditional: in one there is a face with 1 point, two faces with 2 points and three faces with 3 points; in the other a face with 6 points, two faces with 5 points and three faces with 4 points. What is the probability that, by throwing the two dice, the sum of the points that Nicola gets is 7? Write the numerator of the fraction, reduced to the minimum terms, followed by the denominator: for example, if the result was 3/23, write 0323.
 
 **Answer:** 0718
 [[Quesiti/src_kangourou_2018_squadre_finale#q14|src_kangourou_2018_squadre_finale__Q14]]

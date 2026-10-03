@@ -40,7 +40,7 @@ level: kangourou
 
 *In how many angles identical to epsilon the plane is distributed*
 
-> (Points 2) Drawing in a plane 5 semicircles all originating in the same point O, we split the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by approximating (with vertices at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plan be divided? A) 12 B) 15 C) 18 D) 20 E) 24
+> (Points 2) Drawing in a plane 5 rays all originating in the same point O, we split the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by adjoining (with vertex at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plane be divided? A) 12 B) 15 C) 18 D) 20 E) 24
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_cadet_semif#q01|src_kangourou_2019_cadet_semif__Q01]]
@@ -87,9 +87,9 @@ level: kangourou
 
 > (Points 3) From a cardboard we cut a seven-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to separate from this polygon another polygon (like this one, not regular or even convex) with a different number of sides. Which of the following polygons can't be detached? A) A pentagon
 > 	
-> (b) A hexagon
+> B) A hexagon
 > 	
-> C) One octagon
+> C) An octagon
 > 	
 > D) A decagon
 > 	
@@ -175,7 +175,7 @@ level: kangourou
 
 *Minimum number of days for which the second proposal is suitable*
 
-> (Points 4) Maria is looking for work and has to consider two different salary proposals: the first proposal for a fixed daily salary of EUR 100 per working day; the second proposal for a salary that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
+> (Points 4) Maria is looking for work and has to consider two different salary proposals: the first proposal provides a fixed daily salary of EUR 100 per working day; the second proposal for a salary that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
 > 	
 > B) 10 C) 11 D) 12 E) 20
 
@@ -209,7 +209,7 @@ level: kangourou
 
 *What is the equality between b (product of divisors of 1024) and a*
 
-> (Points 4) If a = 1024 and b is the product of all positive integers of a, which of the following equations is true? A) b = a4 B) b2 = a11        	 C) b = a5           	D) b3 = a10       	 E) b = a6
+> (Points 4) If a = 1024 and b is the product of all (positive integer) divisors of a, which of the following equations is true? A) b = a4 B) b2 = a11        	 C) b = a5           	D) b3 = a10       	 E) b = a6
 
 **Answer:** B
 [[Quesiti/src_kangourou_2019_cadet_semif#q05|src_kangourou_2019_cadet_semif__Q05]]
@@ -335,7 +335,7 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 5) Approaching six equilateral triangles equals a regular hexagon. Assume that the starting equilateral triangles are each divided into three triangles (equal) with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always triangles of equal colour. How many different hexagonal decorations could you get? A) 6
+> (Points 5) By placing six equal equilateral triangles side by side, you get a regular hexagon. Assume that the starting equilateral triangles are each divided into three small triangles (equal) with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always small triangles of equal colour. How many different hexagonal decorations could you get? A) 6
 > 	
 > B) 5
 > 	
@@ -379,7 +379,7 @@ level: kangourou
 
 *sum of the smallest and largest of 1009 consecutive *
 
-> (Points 5) The sum of 1009 consecutive integers is 2018-2019. How much is the sum of the smallest and largest of these numbers? A) 4 × 20182018 B) 10092019
+> (Points 5) The sum of 1009 consecutive integers is 20182019. How much is the sum of the smallest and largest of these numbers? A) 4 × 20182018 B) 10092019
 > 	
 > C) 4 × 10092019 D) 20181010
 > 	
@@ -423,9 +423,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last figure for 2019*N data for the 2N and 3N dividers*
+*Last digit of 2019*N given the divisors of 2N and 3N*
 
-> (Points 6) The double of a positive integer N has 6 different integer divisors; whereas the triple of N has 4 different integer divisors. What is the last digit of the number 2019×N? Note: The divisors of a number include 1 and the number itself. A) 1
+> (Points 6) The double of a positive integer N has 6 different positive divisors; whereas the triple of N has 4 different positive divisors. What is the last digit of the number 2019×N? Note: The divisors of a number include 1 and the number itself. A) 1
 > 	
 > B) 3
 > 	
@@ -463,9 +463,10 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M value is a two digit number with M*k=2331*
+*Value of M two-digit number with M*k=2331*
 
-> David wrote a two-digit positive integer M (significant). He noted that, when many people ask for another positive integer less than M, he gets the number 2331. How much is M?
+> (4 points) Davide wrote a positive integer M with two (significant) digits. He noticed that, by multi­
+> plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M?
 
 **Answer:** 63
 [[Quesiti/src_kangourou_2019_cadet_semif#q10|src_kangourou_2019_cadet_semif__Q10]]
@@ -496,7 +497,7 @@ level: kangourou
 
 *How many minutes to fill the tank with 10 taps*
 
-> (Points 5) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and enough) are needed to fill the tank?
+> (Points 5) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and sufficient) are needed to fill the tank?
 
 **Answer:** 48
 [[Quesiti/src_kangourou_2019_cadet_semif#q11|src_kangourou_2019_cadet_semif__Q11]]
@@ -527,9 +528,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which paper has not been fished (residues mod 3.4,5) *
+*Which card has not been drawn (remainders mod 3,4,5) *
 
-> (Points 5) From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What paper hasn't been caught? Give 9999 as an answer if you think it's impossible to establish for sure.
+> (Points 5) From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. Which card has not been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
 
 **Answer:** 4
 [[Quesiti/src_kangourou_2019_cadet_semif#q12|src_kangourou_2019_cadet_semif__Q12]]
@@ -557,9 +558,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of rectangle R divided by 4 rectangles*
+*Perimeter of rectangle R divided into 4 rectangles*
 
-> (Points 6) A rectangle R is divided by two lines into 4 rectangles. It is known that three of the perimeter of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
+> (Points 6) A rectangle R is divided by two lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
 
 **Answer:** 30
 [[Quesiti/src_kangourou_2019_cadet_semif#q13|src_kangourou_2019_cadet_semif__Q13]]
@@ -640,7 +641,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major pedals on the 21-axle with all different distances*
+*Maximum counters on the 21-gon with all different distances*
 
 ![[src_kangourou_2019_cadet_semif__prob14.png]]
 
@@ -693,7 +694,10 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) In the figure you see a regular polygon of 21 sides. Andrea has a lot of pedals that she wants to place on the vertices of this polygon so that, for each pair of pedal-covered vertices, the distances between the vertices are all different. How many pedals can he place?
+> (Points 6) In the figure you see a regular polygon with 21 sides. Andrea has many
+> counters that he wants to place on the vertices of this polygon in such a way that, for every
+> pair of vertices covered by counters, the distances between the vertices are all different.
+> What is the maximum number of counters he can place?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2019_cadet_semif#q14|src_kangourou_2019_cadet_semif__Q14]]
@@ -722,9 +726,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to choose n with whole red percentage*
+*How many ways to choose n with integer red percentage*
 
-> (Points 6) Clear wants to colour each square of a grid 6×10 in red or blue. It requires that both colours are present and that the percentage of the surface which will be red after colouring is n%, with n being an integer. How many different ways can you choose n ?
+> (Points 6) Chiara wants to colour each square of a grid 6×10 in red or blue. It requires that both colours are present and that the percentage of the surface which will be red after colouring is n%, with n being an integer. How many different ways can you choose n ?
 
 **Answer:** 19
 [[Quesiti/src_kangourou_2019_cadet_semif#q15|src_kangourou_2019_cadet_semif__Q15]]
@@ -752,7 +756,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mother/Mother ratio between the same number of years *
+*Mother/Mara ratio between the same number of years *
 
 > Today is the birthday of Mara and her mother: her mother's age is five times that of Mara and some years ago she was seven times her age. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
 
@@ -782,9 +786,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pupils are present given the differences in middle age*
+*How many pupils are present given the differences in average age*
 
-> (Points 7) A teacher is in a classroom with some of his pupils. The average age of the teacher is 24 years above the average age of his pupils and 20 years above the average age of all present, teachers and pupils. How many students are there?
+> (Points 7) A teacher is in a classroom with some of his pupils. The average age of the teacher is 24 years above the average age of his pupils and 20 years above the average age of all present, teacher and pupils. How many pupils are present?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2019_cadet_semif#q17|src_kangourou_2019_cadet_semif__Q17]]
@@ -821,7 +825,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of vertices in the polygon with alternating angles 120 and 150*
+*Number of vertices in the polygon with alternating angles 120 and 150*
 
 > (Points 8) In a convex polygon the angles measure, alternately, 120 degrees and 150 degrees. How many vertices does the polygon have?
 > 	

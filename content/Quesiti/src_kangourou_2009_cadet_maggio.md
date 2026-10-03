@@ -31,9 +31,9 @@ level: kangourou
 
 *Sufficient area of a triangle per area of the parallelogram*
 
-> A parallelogram is divided by its diagonal into 4 triangles, one of which you know the area. Is this enough data to determine the area of the parallelogram? Justify your answer.
+> A parallelogram is divided by its diagonals into 4 triangles, one of which you know the area. Is this enough data to determine the area of the parallelogram? Justify your answer.
 
-**Answer:** si
+**Answer:** yes
 [[Quesiti/src_kangourou_2009_cadet_maggio#qc1|src_kangourou_2009_cadet_maggio__QC1]]
 
 
@@ -59,9 +59,9 @@ level: kangourou
 
 From which pizza to choose the largest slice
 
-> In a festicciola there are four circular-shaped pizzas: one has a radius $8$ cm and is cut into $3$ equal slices between them, a second has a radius $10$ cm and is cut into $4$ equal slices between them, a third has a radius $12$ cm and is cut into $6$ equal slices between them, the fourth has a radius $14$ cm and is cut into $8$ equal slices between them. You only have one slice and you want to eat as much pizza as possible. Which slice is best for you?
+> At a little party there are four circular-shaped pizzas: one has a radius $8$ cm and is cut into $3$ equal slices, a second has a radius $10$ cm and is cut into $4$ equal slices, a third has a radius $12$ cm and is cut into $6$ equal slices, the fourth has a radius $14$ cm and is cut into $8$ equal slices. You only have one slice and you want to eat as much pizza as possible. Which slice is best for you?
 
-**Answer:** raggio 10
+**Answer:** radius 10
 [[Quesiti/src_kangourou_2009_cadet_maggio#qc2|src_kangourou_2009_cadet_maggio__QC2]]
 
 
@@ -86,7 +86,7 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 29^28+4 and first*
+*The number 29^28+4 is prime*
 
 > Is the number $2^{928} + 4$ prime? Justify the answer.
 
@@ -117,7 +117,7 @@ From which pizza to choose the largest slice
 
 *Which sheets remain in the same position*
 
-> Consider an ordered stack of $5998$ sheets numbered from $1$ (i.e. the first sheet at the top returns the number $1$). Now build a new stack this way: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
+> Consider an ordered stack of $5998$ sheets numbered from $1$ (i.e. the first sheet at the top bears the number $1$). Now build a new stack this way: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
 
 **Answer:** 2000
 [[Quesiti/src_kangourou_2009_cadet_maggio#qc4|src_kangourou_2009_cadet_maggio__QC4]]
@@ -151,7 +151,7 @@ From which pizza to choose the largest slice
 
 ![[src_kangourou_2009_cadet_maggio__probc5.png]]
 
-> An ant is free to move on the surface of a parallel-piped rectangle measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a summit, it wants to reach the antipodal summit (i.e. the one farthest from it) by moving along the shortest path possible: how much path should it take?
+> An ant is free to move on the surface of a rectangular parallelepiped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a vertex, it wants to reach the antipodal vertex (i.e. the one farthest from it) by moving along the shortest path possible: how much distance must it travel?
 > 
 > Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
 
@@ -180,9 +180,9 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum red vertices with all different distances (21 axis) *
+*Maximum red vertices with all different distances (21-gon) *
 
-> Consider a regular polygon of $21$ sides. You want to color some vertices red so that, however you choose two pairs of vertices both red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
+> Consider a regular polygon of $21$ sides. You want to color some vertices red so that, however you choose two pairs of vertices both red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color at most?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2009_cadet_maggio#qc6|src_kangourou_2009_cadet_maggio__QC6]]

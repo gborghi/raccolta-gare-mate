@@ -41,7 +41,7 @@ level: kangourou
 
 What is the cost of the most expensive item (3 whole prices, total 7)
 
-> Rita pays 7 euros to buy three paper items, all at different prices. The price in euro for each item is an integer. How much is the most expensive? A) 2
+> Rita pays 7 euros to buy three stationery items, all at different prices. The price in euro for each item is an integer. How much is the most expensive? A) 2
 > 	
 > B) 3
 > 	
@@ -141,7 +141,7 @@ What is the cost of the most expensive item (3 whole prices, total 7)
 
 ![[src_kangourou_2024_ecolier__prob3.png]]
 
-> Look at the figure. The fire broke out on a very high level: the firefighter reached four floors below, at the point indicated, but could not make any jump. What's the minimum number of stairs you'll use to reach the fire? A) 4 B) 5	               C) 6 D) 7 E) 8
+> Look at the figure. The fire broke out on a very high level: the firefighter reached four floors below, at the point indicated, but could not make any jump. What's the minimum number of ladders he will use to reach the fire? A) 4 B) 5	               C) 6 D) 7 E) 8
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_ecolier#q03|src_kangourou_2024_ecolier__Q03]]
@@ -179,7 +179,7 @@ What the building might have looked like before the accident
 
 ![[src_kangourou_2024_ecolier__prob4.png]]
 
-> Look at the picture: a cat dropped a cubit of Felice's building. Before this incident, which of the following aspects could the construction of Felice have had? A) B) C) D)
+> Look at the picture: a cat dropped a small cube of Felice's building. Before this incident, which of the following aspects could the construction of Felice have had? A) B) C) D)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2024_ecolier#q04|src_kangourou_2024_ecolier__Q04]]
@@ -219,9 +219,9 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full figures in 3 consecutive 4-digit numbers*
+*Missing digits in 3 consecutive 4-digit numbers*
 
-> Michele had written three consecutive four-digit numbers on the same line. Now that your sister has deleted some numbers, this is what you see: _ _ 7, _ 898, 48 _ What are the missing numbers, from left to right? Note: an example of 3 consecutive 4-digit numbers is given from 2023, 2024, 2025. A) 389, 3, 99
+> Michele had written three consecutive four-digit numbers on the same line. Now that his sister has deleted some digits, this is what you see: _ _ 7, _ 898, 48 _ What are the missing digits, from left to right? Note: an example of 3 consecutive 4-digit numbers is given from 2023, 2024, 2025. A) 389, 3, 99
 > 	
 > B) 489, 3, 96
 > 	
@@ -229,7 +229,7 @@ What the building might have looked like before the accident
 > 	
 > D) 489, 4, 99
 > 	
-> E) 488, 4, 99 E)
+> E) 488, 4, 99
 >
 
 **Answer:** D
@@ -274,7 +274,7 @@ What the building might have looked like before the accident
 
 ![[src_kangourou_2024_ecolier__prob6.png]]
 
-> Players on a football team are arranged in a circle to respect the order of their jerseys, as the figure suggests. Each player, starting with number 1, throws the ball to the third player to his left. This series of pitches ends when the receiving player should throw the ball a second time. What is the name of the last player to throw the ball? A) 7 B) 8 C) 9 D) 10 E) 11
+> Players on a football team are arranged in a circle to respect the order of their jerseys, as the figure suggests. Each player, starting with number 1, throws the ball to the third player to his left. This series of throws ends when the receiving player should throw the ball a second time. What is the number of the last player to throw the ball? A) 7 B) 8 C) 9 D) 10 E) 11
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_ecolier#q06|src_kangourou_2024_ecolier__Q06]]
@@ -317,7 +317,7 @@ What the building might have looked like before the accident
 
 ![[src_kangourou_2024_ecolier__prob7.png]]
 
-> Alex's kitchen wall is lined with white and gray chessboard tiles. Now Alex has hung the poster you see in the picture on the wall. How many gray tiles are hidden in the poster? A) 15
+> Alex's kitchen wall is lined with white and gray chessboard tiles. Now Alex has hung the poster you see in the picture on the wall. How many gray tiles are hidden by the poster? A) 15
 > 	
 > B) 21
 > 	
@@ -365,9 +365,10 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which fruit does Bianca eat*
+*Which fruit does Bianca take*
 
-> Mother brings five different fruits to the table: an apple, a pear, an orange, a kiwi and a banana. Each of the five children takes a fruit he likes.
+> Mum brings five different fruits to the table: an apple, a pear, an orange,
+> a kiwi and a banana. Each of the five children takes a fruit that they like.
 > 	
 > Anna likes oranges.
 > 	
@@ -375,9 +376,16 @@ What the building might have looked like before the accident
 > 	
 > Carlo likes oranges, kiwis and bananas.
 > 	
-> Daniel likes oranges and bananas.
+> Daniele likes oranges and bananas.
 > 	
-> Emma likes pears and kiwis. What kind of fruit does Bianca eat? A) Orange. B) Banana. C) apple. (d) Kiwi. (e) the pen. The questions from N. 9 al N. 16 is worth 4 points each.
+> Emma likes pears and kiwis.
+> Which fruit does Bianca take?
+> A) Orange.	
+>  B) Banana. 	
+> C) Apple.	
+> D) Kiwi.	
+> E) Pear.
+> Questions from No. 9 to No. 16 are worth 4 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_ecolier#q08|src_kangourou_2024_ecolier__Q08]]
@@ -457,7 +465,7 @@ What the building might have looked like before the accident
 \end{document}
 ```
 
-> Lisa wants to replace each of the five letters in figure one of the numbers 1, 2, 4, 5, and 6, without repeating them. It also wants all three sums to be equal to 11: the sum of the numbers substituted for A, E, and C, that of the numbers substituted for B, E, and D, and that of the numbers substituted for C and D. What number should Lisa enter in box E? A) 1
+> Lisa wants to replace each of the five letters in the figure one of the numbers 1, 2, 4, 5, and 6, without repeating them. She also wants all three sums to be equal to 11: the sum of the numbers substituted for A, E, and C, that of the numbers substituted for B, E, and D, and that of the numbers substituted for C and D. What number should Lisa enter in box E? A) 1
 > 	
 > B) 2
 > 	
@@ -517,19 +525,34 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times and tail output (box game) *
+*How many times did tails come up (board game)*
 
-> On the school courtyard floor is drawn a path with 12 boxes. Antonia and Lucio are boasting in box 1 and play as follows: each throws the kangaroo coin in turn: if the coin shows the face test who has thrown it forward
+> On the courtyard floor of the
+> school a path is drawn with
+> 12 squares. Antonia and Lucio are in
+> front of square 1 and play like this: in
+> turn each one tosses the kangaroo
+> coin: if the coin shows the
+> face "heads" the one who tossed it moves
+> A
+> B
+> E
+> C
+> D
 > 
-> If the coin shows the face coda the person who threw it turns back by 1 box or remains standing, if he has no boxes behind him. They both throw the coin 4 times: Antonia comes in at number 4, Lucius at number 8. How many times did the face come out? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
-> E) 5
+> forward 3 squares; if the coin shows the face "tails" the one who tossed it goes back
+> 1 square or stays still, if there are no squares behind them. Both toss the
+> coin 4 times: Antonia arrives on number 4, Lucio on number 8. How many times in all
+> did the face "tails" come up?
+> A) 1	
+	
+ B) 2	
+	
+ C) 3	
+	
+ D) 4	
+	
+ E) 5
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_ecolier#q10|src_kangourou_2024_ecolier__Q10]]
@@ -573,7 +596,7 @@ What the building might have looked like before the accident
 
 ![[src_kangourou_2024_ecolier__prob11.png]]
 
-> The faucet in the figure is losing water. Below it you can see a number of vessels, all of the same size: three of them have exhaust pipes. Look closely at the figure: which vessel will be used first? A) 3
+> The faucet in the figure is losing water. Below it you can see a number of vessels, all of the same size: three of them have exhaust pipes. Look closely at the figure: which vessel will be filled first? A) 3
 > 	
 > B) 4
 > 	
@@ -617,9 +640,9 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish eaten by the other chicken (26 to one) *
+*Fish eaten by the other chick (26 to one) *
 
-> The penguin goes fishing every day and every day brings home 9 fish for his two chicks: 5 fish for the first chicken he sees, 4 fish per second; they eat all the fish. In the last few days, a chicken has eaten 26 fish. How many fish did the other chicken eat in the same days? A) 19
+> Gino the penguin goes fishing every day and every day brings home 9 fish for his two chicks: 5 fish to the first chick he sees, 4 fish per second; they eat all the fish. In the last few days, a chick has eaten 26 fish. How many fish did the other chick eat in the same days? A) 19
 > 	
 > B) 22
 > 	
@@ -723,19 +746,20 @@ What the building might have looked like before the accident
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to build the stump (head, tail, pieces) *
+*In how many ways can the centipede be built (head, tail, pieces)*
 
 ![[src_kangourou_2024_ecolier__prob14.png]]
 
-> Luca wants to build a bulkhead that opens the head, tail and one or two or three double-crossed pieces between the head and tail. The pieces must fit together well, without holes or overlapping. How many ways can you do that? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) 7
+> Luca wants to build a centipede that has the head, the tail and 1 or 2 or 3 pieces with double interlocking between the head and the tail. The pieces must interlock well, without holes or overlaps. In how many ways can he do it?
+> A) 3	
+	
+ B) 4	
+	
+C) 5	
+	
+D) 6	
+	
+E) 7
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_ecolier#q14|src_kangourou_2024_ecolier__Q14]]
@@ -801,7 +825,7 @@ What the building might have looked like before the accident
 
 ![[src_kangourou_2024_ecolier__prob15.png]]
 
-> John has a card with a dark face and a clear face. He writes the numbers from 1 to 4 on the cardboard's dark side; then he points it out and on the back he writes the numbers from 5 to 8, in the order indicated by the first figure. Finally, cut the cardboard into 4 rectangular cards and line them up as shown in the second figure. What is the sum of the numbers that should be written instead of the question marks? A) 3
+> John has a card with a dark side and a light side. He writes the numbers from 1 to 4 on the cardboard's dark side; then he flips it over and on the back he writes the numbers from 5 to 8, in the order indicated by the first figure. Finally, cut the cardboard into 4 rectangular cards and line them up as shown in the second figure. What is the sum of the numbers that should be written instead of the question marks? A) 3
 > 	
 > B) 4
 > 	
@@ -864,7 +888,7 @@ What the building might have looked like before the accident
 > 	
 > D) 6
 > 	
-> E) 7 Questions from N. 17 al N. Twenty-four is worth five points each.
+> E) 7 Questions from N. 17 to N. 24 are worth five points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_ecolier#q16|src_kangourou_2024_ecolier__Q16]]
@@ -917,13 +941,13 @@ Which tower Ada sees after removing disks
 
 > As the figure suggests, Ada built a tower with 8 disks of the same size.
 > 	
-> Then he removed the second disc from the bottom of this tower.
+> Then she removed the second disc from the bottom of this tower.
 > 	
-> Then he removed the third disc from the bottom of the tower so obtained.
+> Then she removed the third disc from the bottom of the tower so obtained.
 > 	
-> Then he removed the fourth disc from the bottom of the new tower.
+> Then she removed the fourth disc from the bottom of the new tower.
 > 	
-> Finally, he removed the fifth disc from the bottom of the last tower he got. Which of the following is the tower Ada sees at the end? A)
+> Finally, she removed the fifth disc from the bottom of the last tower she got. Which of the following is the tower Ada sees at the end? A)
 > 	
 > B)
 > 	
@@ -972,7 +996,7 @@ Which tower Ada sees after removing disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three missing digits (sum of three digits = 782) *
+*sum of the three missing digits (sum of three numbers = 782) *
 
 ![[src_kangourou_2024_ecolier__prob18.png]]
 
@@ -1095,7 +1119,7 @@ Which tower Ada sees after removing disks
 > 	
 > D) 28
 > 	
-> E) 30 2 3 1 4 4 1 200g 100g 240g ? + = + = × ×
+> E) 30
 >
 
 **Answer:** D
@@ -1143,7 +1167,7 @@ Which tower Ada sees after removing disks
 
 ![[src_kangourou_2024_ecolier__prob21.png]]
 
-> Look at the figure: there are exactly two frogs in each row and in each column. Two frogs jump at the same time and each lands in an empty box near the one from which it jumped, a box that has a side in common with it. After that, there are two frogs in each row and column. In how many ways can this happen? A) 1
+> Look at the figure: there are exactly two frogs in each row and in each column. Two frogs jump at the same time and each lands in an empty cell near the one from which it jumped, a cell that has a side in common with it. After that, there are two frogs in each row and column. In how many ways can this happen? A) 1
 > 	
 > B) 2
 > 	
@@ -1196,7 +1220,7 @@ Which tower Ada sees after removing disks
 
 ![[src_kangourou_2024_ecolier__prob22.png]]
 
-> The figure represents a nine-cell hive. Let's say two cells are close if they have a side in common. In some cells there is honey: the number in each cell indicates how many nearby cells contain honey. How many cells contain honey? A) 4
+> The figure represents a nine-cell hive. Let's say two cells are adjacent if they have a side in common. In some cells there is honey: the number in each cell indicates how many adjacent cells contain honey. How many cells contain honey? A) 4
 > 	
 > B) 5
 > 	
@@ -1258,7 +1282,7 @@ What set of candy was taken by a girl?
 
 ![[src_kangourou_2024_ecolier__prob23.png]]
 
-> Three girls came one after another to the tray you see in the picture to get candy. We don't know in what order they arrived at the tray, but we do know that • one of the girls took all the hearts she found on the tray and nothing else; • another took all the white candy she found on the tray and nothing else; • another took all the big candy she found on the tray and nothing else. The end result is that one girl took three candy bars, one took six and one took seven. Which of the following sets of candy was taken by one of the girls? A)
+> Three girls came one after another to the tray you see in the picture to get candy. We don't know in what order they arrived at the tray, but we do know that • one of the girls took all the hearts she found on the tray and nothing else; • another took all the white candy she found on the tray and nothing else; • another took all the big candy she found on the tray and nothing else. The end result is that one girl took 3 candy, one took 6 and one took 7. Which of the following sets of candy was taken by one of the girls? A)
 > 	
 > 	
 > B)
@@ -1322,7 +1346,7 @@ What set of candy was taken by a girl?
 
 ![[src_kangourou_2024_ecolier__prob24.png]]
 
-> There are two types of blocks: white and gray . A cube can be composed by joining 4 white blocks or 1 white and 1 grey block. The large cube in the figure is made of cubes. What's the smallest number of white blocks that make up the big cube? A) 811 B) 11
+> There are two types of blocks: white and gray . A small cube can be composed by joining 4 white blocks or 1 white and 1 grey block. The large cube in the figure is made of small cubes. What's the smallest number of white blocks that make up the big cube? A) 811 B) 11
 > 	
 > C) 13
 > 	

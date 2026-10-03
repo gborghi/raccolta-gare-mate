@@ -37,7 +37,7 @@ level: kangourou
 
 *Rate of number of cats and dogs*
 
-> There are dogs and cats in a room. The number of cat legs is twice the number of dog noses. So the number of cats is A) twice the number of dogs. (b) equal to the number of dogs. (c) half the number of dogs. D) 1/4 of the number of dogs. E) 1/6 of the number of dogs.
+> There are dogs and cats in a room. The number of cat legs is twice the number of dog noses. So the number of cats is A) twice the number of dogs. B) equal to the number of dogs. C) half the number of dogs. D) 1/4 of the number of dogs. E) 1/6 of the number of dogs.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_cadet_marzo#q01|src_kangourou_2009_cadet_marzo__Q01]]
@@ -74,7 +74,7 @@ level: kangourou
 
 With how many companions did the fourth girl dance?
 
-> Four girls and four boys attended a dance party. Eventually, the four boys claimed to have danced with 3, 1, 2, 2 different partners while three of the girls claimed to have danced with 2 different partners each. How many different girlfriends did the fourth girl dance with? A) 1 B) 3 C) 0 D) 4 E) 2
+> Four girls and four boys attended a dance party. Eventually, the four boys claimed to have danced with 3, 1, 2, 2 different partners while three of the girls claimed to have danced with 2 different partners each. How many different partners did the fourth girl dance with? A) 1 B) 3 C) 0 D) 4 E) 2
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_cadet_marzo#q02|src_kangourou_2009_cadet_marzo__Q02]]
@@ -129,7 +129,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Skyled hexagonal perimeter (star) *
+*Perimeter of the shaded hexagon (star)*
 
 ![[src_kangourou_2009_cadet_marzo__prob3.png]]
 
@@ -153,7 +153,7 @@ With how many companions did the fourth girl dance?
 \end{document}
 ```
 
-> The star depicted here is made up of 12 identical equilateral triangles. The perimeter of the star is 36 cm. How many centimetres does the perimeter of the shaded axis measure? A) 6 B) 12 C) 18 D) 24 E) 30
+> The star depicted here is made up of 12 identical equilateral triangles. The perimeter of the star is 36 cm. How many centimetres does the perimeter of the shaded hexagon measure? A) 6 B) 12 C) 18 D) 24 E) 30
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_cadet_marzo#q03|src_kangourou_2009_cadet_marzo__Q03]]
@@ -190,7 +190,7 @@ With how many companions did the fourth girl dance?
 
 *How many letters to deliver (odd numbers) *
 
-> The houses on Via Lunga are numbered from 1, without skipping numbers. Henry has to deliver letters to some houses: he has to deliver a letter to each house that has an odd civil number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in all? A) 19 B) 20 C) 27 D) 38 E) 53
+> The houses on Via Lunga are numbered from 1, without skipping numbers. Henry has to deliver letters to some houses: he has to deliver a letter to each house that has an odd house number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in all? A) 19 B) 20 C) 27 D) 38 E) 53
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_cadet_marzo#q04|src_kangourou_2009_cadet_marzo__Q04]]
@@ -269,11 +269,22 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of four distinct integers with product 100*
+*Sum of four distinct integers with product 100*
 
-> The product of four different positive integers is 100. What's their sum? A) 10 B) 12 C) 15 D) 18 E) 20 Texts_09.qxp 15-04-2009 20:26 Page 16
+> The product of four different positive integers is 100. What is their
+> sum?
+> A) 10
+> B) 12
+> C) 15
+> D) 18
+> E) 20
+> Testi_09.qxp  15-04-2009  20:26  Page 16
 > 
-> I'm going to pay. I'm going to pay. 17 17 Kang 2009 Kang
+> Pag. 
+> Pag. 17
+> 17
+> Kang 2009
+> Kang 2009
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_cadet_marzo#q06|src_kangourou_2009_cadet_marzo__Q06]]
@@ -307,7 +318,7 @@ With how many companions did the fourth girl dance?
 
 *How many children with 9 adults in an elevator*
 
-> An elevator can carry up to 12 adults or up to 20 children. How many children can climb up to 9 adults? A) 3 B) 4 C) 5 D) 6 E) 8
+> An elevator can carry up to 12 adults or up to 20 children. How many children can ride at most together with 9 adults? A) 3 B) 4 C) 5 D) 6 E) 8
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_cadet_marzo#q07|src_kangourou_2009_cadet_marzo__Q07]]
@@ -343,11 +354,18 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which weights do not have a single piece (parity) *
+*Which knots cannot be made with a single piece (parity)*
 
 ![[src_kangourou_2009_cadet_marzo__prob8.png]]
 
-> The figure shows five strings. Which of these cannot be done with a single piece of rope? A) All B) None C) All but II D) Only III, IV and V E) Only I, III and V
+> The figure shows five knots
+> of rope. Which of them cannot
+> be made with a single piece of rope?
+> A) All
+> B) None
+> C) All except II
+> D) Only III, IV and V       
+> E) Only I, III and V
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_cadet_marzo#q08|src_kangourou_2009_cadet_marzo__Q08]]
@@ -384,7 +402,7 @@ With how many companions did the fourth girl dance?
 
 *Litres in the half-sized container*
 
-> A rectangular parallel-piped container is of such size that, when filled to the brim, it contains one litre of water. Each of its three dimensions is halved, creating a new vessel of the same shape. If this container is also filled to the brim, how many liters of water is it? A) 0,0625 B) 0,125 C) 0,25 D) 0,5 E) A number different from the previous ones
+> A rectangular parallelepiped container is of such size that, when filled to the brim, it contains one litre of water. Each of its three dimensions is halved, creating a new vessel of the same shape. If this container is also filled to the brim, how many litres of water is it? A) 0,0625 B) 0,125 C) 0,25 D) 0,5 E) A number different from the previous ones
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_cadet_marzo#q09|src_kangourou_2009_cadet_marzo__Q09]]
@@ -424,7 +442,7 @@ With how many companions did the fourth girl dance?
 
 ![[src_kangourou_2009_cadet_marzo__prob10.png]]
 
-> The Q, R and S points shown in the figure are aligned, the QPS angle is 12 degrees and the PQ, PS and RS segments are the same length. How many degrees does the QPR angle measure? A) 60 B) 54 C) 42 D) 84 E) 36 Questions from N. 11 al N. 20 is worth 4 points each.
+> The Q, R and S points shown in the figure are aligned, the QPS angle is 12 degrees and the PQ, PS and RS segments are the same length. How many degrees does the QPR angle measure? A) 60 B) 54 C) 42 D) 84 E) 36 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_cadet_marzo#q10|src_kangourou_2009_cadet_marzo__Q10]]
@@ -458,7 +476,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of N with square and cube with same number of digits*
+*How many N with square and cube with same number of digits*
 
 > How many positive integers N have the following property: "the number of digits of the decimal representation of the square of N is equal to the number of digits of the decimal representation of the cube of N"? A) 2 B) 3 C) 4 D) 9 E) Infinite
 
@@ -505,7 +523,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum points to be removed for any aligned terns*
+*Minimum points to be removed for no three collinear points*
 
 ![[src_kangourou_2009_cadet_marzo__prob12.png]]
 
@@ -519,7 +537,7 @@ With how many companions did the fourth girl dance?
 \end{document}
 ```
 
-> What is the smallest number of points that you can remove from the figure so that there are no three points in the line? A) 1 B) 2 C) 3 D) 4 E) 7
+> What is the smallest number of points that you can remove from the figure so that there are no three collinear points? A) 1 B) 2 C) 3 D) 4 E) 7
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_cadet_marzo#q12|src_kangourou_2009_cadet_marzo__Q12]]
@@ -570,11 +588,33 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest angle in the acute triangle *
+*Smallest angle in the acute-angled triangle*
 
-> Nicholas measured the six corners of two triangles, one acutangol, the other octahangol. Recall the dimensions of four of these angles: 120°, 80°, 55° and 10°. How many degrees does the smallest angle in the acute triangle measure? A) 45 B) 55 C) 5 D) 10 E) The data are insufficient to answer. I II III IV V S P R Q 12° Texts_09.qxp 15-04-2009 20:26 Page 17
+> Nicola measured the six angles of two triangles, one acute-angled, the other obtuse-angled. He remembers the measures of four of these angles: 120°,
+> 80°, 55° and 10°. How many degrees does the smallest angle in the
+> acute-angled triangle measure?
+> A) 45
+> B) 55
+> C) 5
+> D) 10
+> E) The data are insufficient to answer.
+> I
+> II
+> III
+> IV
+> V
+> S
+> P
+> R
+> Q
+> 12°
+> Testi_09.qxp  15-04-2009  20:26  Page 17
 > 
-> I'm going to pay. I'm going to pay. 18 18 Kang 2009 Kang 2009
+> Pag. 
+> Pag. 18
+> 18
+> Kang 2009
+> Kang 2009
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_cadet_marzo#q13|src_kangourou_2009_cadet_marzo__Q13]]
@@ -647,7 +687,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the 25th row (sincere/liars) *
+*How many liars in the row of 25 (sincere/liars) *
 
 > There are two kinds of people living on an island: the sincere, who never lie, and the liars, who always lie. There are 25 people in line on this island. Everyone, except the first in line, says the person in front of him in line is a liar while the first says everyone behind him is a liar. How many liars are in line? (a) 24 (b) 13 (c) 12 (d) 0 (e) It is not possible to establish
 
@@ -727,9 +767,9 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many values of O*T*T*O (criterion) *
+*How many values of O*T*T*O (alphametic) *
 
-> In equality, different letters represent different numbers, whereas equal letters represent equal numbers. How many different values can the O•T•T•O product take? A) 1 B) 2 C) 3 D) 4 E) 5
+> In the equality, different letters represent different numbers, whereas equal letters represent equal numbers. How many different values can the O•T•T•O product take? A) 1 B) 2 C) 3 D) 4 E) 5
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_cadet_marzo#q17|src_kangourou_2009_cadet_marzo__Q17]]
@@ -798,13 +838,51 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What colours the shaded cell is in (4 colours) *
+*With which colours the shaded cell (4 colours)*
 
 ![[src_kangourou_2009_cadet_marzo__prob18.png]]
 
-> We want to color the grid cells in the figure using the four different colors X, Y, Z, W so that two cells that are in contact never receive the same color (two cells are considered to be in contact if they have at least one vertex in common). The figure shows that some colors have already been assigned. What colors can a shaded cell be colored with? A) Only Y. (b) Only Z. C) Only W. (D) Z or W. E) It is not possible to achieve colouration. D.O.D.I.C.I T.R.E = Q.U.A.T.T.R.O 1 3 π 4 π + 2 16 π 12 1 4 1 5 X Y Z W Y Y 1/2
+> We want to colour the cells of the grid in
+> the figure using the four different colours X, Y, Z, W
+> so that two cells that are in contact never
+> receive the same colour (two cells are considered in contact if they have in common at least one
+> vertex). The figure shows that some colours have
+> already been assigned. With which colours can
+> the shaded cell be coloured?
+> A) Only Y.
+> B) Only Z.
+> C) Only W.
+> D) Indifferently Z or W.
+> E) It is not possible to achieve the colouring.
+> D.O.D.I.C.I
+> T.R.E
+> = Q.U.A.T.T.R.O
+> 1
+> 3
+> π
+> 4
+> π + 2
+> 16
+> π
+> 12
+> 1
+> 4
+> 1
+> 5
+> X
+> Y
+> Z W
+> Y
+> Y
+> 1/2
+> 1/2
+> Testi_09.qxp  15-04-2009  20:26  Pagina 18
 > 
-> I'm going to pay. I'm going to pay. 19 19 Kang 2009 Kang
+> Pag. 
+> Pag. 19
+> 19
+> Kang 2009
+> Kang 2009
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_cadet_marzo#q18|src_kangourou_2009_cadet_marzo__Q18]]
@@ -885,7 +963,7 @@ With how many companions did the fourth girl dance?
 
 ![[src_kangourou_2009_cadet_marzo__prob20.png]]
 
-> The first three drawings of a sequence are shown in the figure: each of them consists of squares on side 1 surrounding a square hole (gray in the figure). How many squares on side 1 are needed to build the tenth drawing of the sequence? A) 76 B) 80 C) 84 D) 92 E) 100 Questions from N. 21 al N. 30 is worth 5 points each.
+> The first three drawings of a sequence are shown in the figure: each of them consists of squares of side 1 surrounding a square hole (gray in the figure). How many squares of side 1 are needed to build the tenth drawing of the sequence? A) 76 B) 80 C) 84 D) 92 E) 100 Questions from N. 21 to N. 30 are worth 5 points each.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_cadet_marzo#q20|src_kangourou_2009_cadet_marzo__Q20]]
@@ -924,11 +1002,11 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bars to return to P (right/left) *
+*How many edges to return to P (right/left) *
 
 ![[src_kangourou_2009_cadet_marzo__prob21.png]]
 
-> We move along the tips of the cube in the figure starting from point P, in the direction indicated by the arrow. At the end of the first line we have to decide whether to go to the right or to the left, and so at the end of each line we follow: we choose alternating right and left. How many spikes will we have traveled when we first return to point P? A) 2 B) 4 C) 6 D) 9 E) 12
+> We move along the edges of the cube in the figure starting from point P, in the direction indicated by the arrow. At the end of the first edge we have to decide whether to go to the right or to the left, and so at the end of each edge we follow: we choose alternating right and left. How many edges will we have traveled when we first return to point P? A) 2 B) 4 C) 6 D) 9 E) 12
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_cadet_marzo#q21|src_kangourou_2009_cadet_marzo__Q21]]
@@ -963,7 +1041,7 @@ With how many companions did the fourth girl dance?
 
 *Ten-digit numbers with adjacent digits that differ by 1*
 
-> How many are the ten-digit positive integers containing only the digits 1, 2 and 3 in which two of any adjacent digits differ from 1? A) 16 B) 32 C) 64 D) 80 E) 100
+> How many are the ten-digit positive integers containing only the digits 1, 2 and 3 in which two of any adjacent digits differ by 1? A) 16 B) 32 C) 64 D) 80 E) 100
 
 **Answer:** C
 [[Quesiti/src_kangourou_2009_cadet_marzo#q22|src_kangourou_2009_cadet_marzo__Q22]]
@@ -1015,13 +1093,35 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which height corresponds to 1/4 (between 1/5 and 1/3) *
+*Which mark corresponds to 1/4 (between 1/5 and 1/3)*
 
 ![[src_kangourou_2009_cadet_marzo__prob23.png]]
 
-> Figure 1 shows the number straight segment between fractions 1/5 and 1/3, divided by tiles into segments of equal length. Then 1/4 corresponds to the height indicated by A) to B) to C) to C) to D) to D) to E) and X P 1 5 1 3 to b c d and Testi_09.qxp 15-04-2009 20:26 Page 19
+> The figure shows the segment of the number line between the fractions 1/5 and 1/3, divided by marks into segments of equal
+> length. Then 1/4 corresponds to the mark indicated with
+> A) a 
+> B) b
+> C) c
+> D) d
+> E) e
+> X
+> P
+> 1
+> 5
+> 1
+> 3
+> a
+> b
+> c
+> d
+> e
+> Testi_09.qxp  15-04-2009  20:26  Page 19
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 2009 Kang
+> Pag. 
+> Pag. 20
+> 20
+> Kang 2009
+> Kang 2009
 
 **Answer:** A
 [[Quesiti/src_kangourou_2009_cadet_marzo#q23|src_kangourou_2009_cadet_marzo__Q23]]
@@ -1057,11 +1157,11 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eight parallel-piped area ratio on a cube*
+*Area ratio of eight parallelepipeds on a cube*
 
 ![[src_kangourou_2009_cadet_marzo__prob24.png]]
 
-> With three cuts we divided a large cube into eight parallel-piped rectangles. What is the ratio between the sum of the total surfaces of these eight parallel pipes and the total surface area of the original cube? A) 1:1 B) 4:3 C) 3:2 D) 4:1 E) 2:1
+> With three cuts we divided a large cube into eight rectangular parallelepipeds. What is the ratio between the sum of the total surfaces of these eight parallelepipeds and the total surface area of the original cube? A) 1:1 B) 4:3 C) 3:2 D) 4:1 E) 2:1
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_cadet_marzo#q24|src_kangourou_2009_cadet_marzo__Q24]]
@@ -1094,7 +1194,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N quantities with maximum divisor = 45 times the minimum*
+*How many N with maximum divisor = 45 times the minimum*
 
 > How many positive integers N satisfy the following condition: of all the divisors of N, other than N and 1, the largest is 45 times the smallest? A) 0 B) 1 C) 2 D) 3 E) more than 3
 
@@ -1133,7 +1233,7 @@ With how many companions did the fourth girl dance?
 
 *Minimum side length for 2009 whole squares*
 
-> A square was exactly divided (i.e. without surpluses and overlaps) into 2009 squares. If the length of the side of each of the squares we're talking about is an integer, what is the minimum length of the side of the original square that makes this possible? A) 46 B) 47 C) 503 D) A number different from the previous ones. (e) This breakdown is not feasible.
+> A square was exactly divided (i.e. without surpluses and overlaps) into 2009 squares. If the length of the side of each of the squares we're talking about is an integer, what is the minimum length of the side of the original square that makes this possible? A) 46 B) 47 C) 503 D) A number different from the previous ones. E) This breakdown is not feasible.
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_cadet_marzo#q26|src_kangourou_2009_cadet_marzo__Q26]]
@@ -1170,7 +1270,7 @@ With how many companions did the fourth girl dance?
 
 *Which angles of the quadrilateral are < 180 degrees*
 
-> In an unwoven PQRS quadrilateral the PQ side measures 2006, the QR side measures 2008, the RS side measures 2007 and the SP side measures 2009. What internal angles of the quadrilateral are necessarily less than 180°? A) P, Q, R, S B) P, Q, R C) Q, R, S D) P, Q, S E) P, R, S
+> In an non-self-intersecting PQRS quadrilateral the PQ side measures 2006, the QR side measures 2008, the RS side measures 2007 and the SP side measures 2009. What internal angles of the quadrilateral are necessarily less than 180°? A) P, Q, R, S B) P, Q, R C) Q, R, S D) P, Q, S E) P, R, S
 
 **Answer:** E
 [[Quesiti/src_kangourou_2009_cadet_marzo#q27|src_kangourou_2009_cadet_marzo__Q27]]
@@ -1208,7 +1308,7 @@ With how many companions did the fourth girl dance?
 
 *Area of the triangle (overlapping with the square) *
 
-> By overlapping a square of 6 centimeters on a triangle, I can cover up to 60% of the area of that triangle. By overlaying the triangle to the square, I can cover up to 2/3 of the square. What is the area of the triangle in square centimetres? A) 22,8 B) 24 C) 36 D) 40 E) 60
+> By overlapping a square of side 6 centimeters on a triangle, I can cover up to 60% of the area of that triangle. By overlapping the triangle on the square, I can cover up to 2/3 of the area of the square. What is the area of the triangle in square centimetres? A) 22,8 B) 24 C) 36 D) 40 E) 60
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_cadet_marzo#q28|src_kangourou_2009_cadet_marzo__Q28]]
@@ -1250,11 +1350,24 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum alignable numbers (adjacent divisibility) *
+*Maximum alignable numbers (adjacent divisibility)*
 
-> Pinocchio wrote in sequence some positive integers all different from each other and less than 11. The talking Grillo observes that in every pair of adjacent numbers, as Pinocchio aligned them, there is one that is divisible by the other. How many numbers could Pinocchio have written at most? A) 6 B) 7 C) 8 D) 9 E) 10 Texts_09.qxp 15-04-2009 20:26
+> Pinocchio wrote in sequence some positive integers, all
+> different from each other and less than 11. The Talking Cricket observes that in every
+> pair of adjacent numbers, as Pinocchio has aligned them, there is
+> one that is divisible by the other. What is the maximum number of numbers Pinocchio could have written?
+> A) 6
+> B) 7
+> C) 8
+> D) 9
+> E) 10
+> Testi_09.qxp  15-04-2009  20:26  Page 20
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 2009 Kang
+> Pag. 
+> Pag. 21
+> 21
+> Kang 2009
+> Kang 2009
 
 **Answer:** D
 [[Quesiti/src_kangourou_2009_cadet_marzo#q29|src_kangourou_2009_cadet_marzo__Q29]]
@@ -1296,12 +1409,12 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential BC-AB (long biset 2) *
+*Difference BC-AB (long bisector 2) *
 
-> In an ABC triangle the angle in B measures 20 degrees and the angle in C measures 40 degrees. The length of the beam of the angle in A is 2. What is the difference between the length of BC and the length of AB? A) 4 B) 2 C) 1,5 D) 1 E) A different value Tests_09.qxp 15-04-2009 20:26
+> In an ABC triangle the angle in B measures 20 degrees and the angle in C measures 40 degrees. The length of the bisector of the angle in A is 2. What is the difference between the length of BC and the length of AB? A) 4 B) 2 C) 1,5 D) 1 E) A different value Tests_09.qxp 15-04-2009 20:26
 > 
 >  
-> 1 2009 Cadet Category For third-year students of primary secondary school or first-year students of secondary school
+> 1 2009 Cadet Category For third-year students of lower secondary school or first-year students of upper secondary school
 
 **Answer:** B
 [[Quesiti/src_kangourou_2009_cadet_marzo#q30|src_kangourou_2009_cadet_marzo__Q30]]

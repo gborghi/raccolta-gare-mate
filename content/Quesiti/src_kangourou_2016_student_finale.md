@@ -32,7 +32,7 @@ level: kangourou
 
 *n with 2016 = root of the sum of the cubes of the first n integers*
 
-> 1) A polygonal tiles of the plane (i.e. each tiles is a polygon) are assigned. Proves or refutes each of the following statements. (a) If every circle with a center at a point P intersects infinite tiles, then P belongs to infinite tiles. (b) If each tile contains a circle of radius 1 and there is a positive number M such that each tile is contained in a circle of radius M, then each point belongs to a finite number of tiles.
+> 1) A polygonal tiling of the plane (i.e. each tile is a polygon) is assigned. Prove or refute each of the following statements. (a) If every circle with a center at a point P intersects infinite tiles, then P belongs to infinite tiles. (b) If each tile contains a circle of radius 1 and there is a positive number M such that each tile is contained in a circle of radius M, then each point belongs to a finite number of tiles.
 
 **Answer:** 63
 [[Quesiti/src_kangourou_2016_student_finale#qs1|src_kangourou_2016_student_finale__QS1]]
@@ -58,9 +58,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Additional holidays by adding bridges, year 3000 days
+*Additional holidays by adding bridge days, year 3000 days*
 
-> 2) A generic plan tiles are now assigned. It demonstrates or refutes the following statement: if every circle with a center at a point P intersects infinite tiles, there exists a straight line passing through P such that every segment of r containing P within it intersects infinite tiles. N.B. To provide some answers, you can simply trace sufficiently explanatory figures.
+> 2) Now let a generic tiling of the plane be given. Prove or disprove the following statement: if every circle with center at a point P intersects infinitely many tiles, there exists a line r passing through P such that every segment of r containing P in its interior intersects infinitely many tiles. N.B. To provide some answers, you may limit yourself to drawing sufficiently explanatory figures.
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2016_student_finale#qs2|src_kangourou_2016_student_finale__QS2]]
@@ -87,9 +87,9 @@ Additional holidays by adding bridges, year 3000 days
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of one vertex of the three vertex data cube*
+*Coordinates of one vertex of the cube given three vertices*
 
-> Compared to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4,0,3)$, $(6,4,1)$ and $(2,8,5)$. Determine, as quickly as you can, the coordinates (as compared to the same system) of one of the remaining vertices of the cube.
+> With respect to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4,0,3)$, $(6,4,1)$ and $(2,8,5)$. Determine, as quickly as you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
 
 **Answer:** (0,4,7)
 [[Quesiti/src_kangourou_2016_student_finale#qs3|src_kangourou_2016_student_finale__QS3]]
@@ -116,9 +116,9 @@ Additional holidays by adding bridges, year 3000 days
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of product reverses on all subset *
+*Sum of the inverses of the products over all subsets *
 
-> Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subsets is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
+> Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subset is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
 
 **Answer:** 2016
 [[Quesiti/src_kangourou_2016_student_finale#qs4|src_kangourou_2016_student_finale__QS4]]

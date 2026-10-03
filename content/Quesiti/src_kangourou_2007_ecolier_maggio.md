@@ -29,11 +29,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimize the time for the four digits to appear again
+Minimum time for the four digits to appear again
 
 > 1) Can you stay with 5 squares? How (or, if not, why not)?
 
-**Answer:** 4 ore e 20 minuti
+**Answer:** 4 hours and 20 minutes
 [[Quesiti/src_kangourou_2007_ecolier_maggio#qe1|src_kangourou_2007_ecolier_maggio__QE1]]
 
 
@@ -60,11 +60,11 @@ Minimize the time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square carpet area of the slurry*
+*Area of the tilted square carpet*
 
 ![[src_kangourou_2007_ecolier_maggio__probe2.png]]
 
-> 2) Can you stay with just one token? How (or, if not, why not)?
+> 2) Can you end up with only one token? In what way (or, if not possible, why not)?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2007_ecolier_maggio#qe2|src_kangourou_2007_ecolier_maggio__QE2]]
@@ -97,7 +97,7 @@ Minimize the time for the four digits to appear again
 
 ![[src_kangourou_2007_ecolier_maggio__probe3.png]]
 
-> 3) Can you remove all the tokens? How (or, if not, why not)? E6. (22 points) Some of the integers that have 6 as a unit number also have this property: if you move the unit number 6 before the first digit of the number, you get a new number that is the product of the starting number by 4. Find the smallest integer with this property. • Find others. •
+> 3) Can you remove all the tokens? How (or, if not, why not)? E6. (22 points) Some of the integers that have 6 as its units digit also have this property: if you move the units digit 6 before the first digit of the number, you get a new number that is the product of the starting number by 4. Find the smallest integer with this property. • Find others. •
 
 **Answer:** 7
 [[Quesiti/src_kangourou_2007_ecolier_maggio#qe3|src_kangourou_2007_ecolier_maggio__QE3]]
@@ -163,7 +163,7 @@ Minimize the time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Traditions of tokens (invariable of parity) *
+*Token transformations (parity invariant)*
 
 > You have four round, two triangular and five square tokens. Every time you give me a round and a triangle I give you a square - a square and a triangle I give you a round - a round and a square I give you no tokens
 > 
@@ -171,7 +171,7 @@ Minimize the time for the four digits to appear again
 > 
 > Answer the following questions. 1) Can you stay with 5 squares? How (or, if not, why not)? 2) Can you stay with just one token? How (or, if not, why not)? 3) Can you remove all the tokens? How (or, if not, why not)?
 
-**Answer:** si/si/no
+**Answer:** yes/yes/no
 [[Quesiti/src_kangourou_2007_ecolier_maggio#qe5|src_kangourou_2007_ecolier_maggio__QE5]]
 
 
@@ -199,11 +199,12 @@ Minimize the time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The smaller number that moves 6 to quadruple *
+*Smallest number that quadruples when moving the 6*
 
-> Some of the integers that have 6 as a unit number also have this property: if you move the unit number 6 before the first digit of the number, you get a new number that is the product of the starting number by 4.
+> Some of the integers that have 6 as their units digit also have this property: if you move the units digit 6 in front of the first digit of the number, you get a new number that is the product of the starting number by 4.
 > 
-> Find the smallest integer with this property. - Then he found others.
+> - Find the smallest integer with this property.
+> - Then find others.
 
 **Answer:** 153846
 [[Quesiti/src_kangourou_2007_ecolier_maggio#qe6|src_kangourou_2007_ecolier_maggio__QE6]]

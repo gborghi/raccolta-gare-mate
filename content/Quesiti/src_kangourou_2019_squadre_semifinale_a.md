@@ -32,9 +32,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the own funds of the institution.
+*Difference between the 2019th and 2018th terms of N^2-2019N+2019*
 
-> Substitution If you substitute the numbers N = 1, 2, 3, ... in the expression N 2  2019N + 2019 you get a sequence of integers. What's the difference between the number on the 2019th place and the number on the 2018th?
+> The substitution
+> If you substitute the numbers N = 1, 2, 3, … into the expression N 2  2019N + 2019 you obtain a sequence
+> of integers. What is the value of the difference between the number in the 2019th position and the one in the 2018-
+> th?
 
 **Answer:** 2018
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q01|src_kangourou_2019_squadre_semifinale_a__Q01]]
@@ -67,7 +70,7 @@ This is the total value of the own funds of the institution.
 
 *Minimum litres per minute to prevent the boat from sinking*
 
-> The boat A boat travels at a constant speed of 4 kilometers per hour. When it is two kilometers from the coast, it begins to boil water: 32 liters per minute. It can carry up to 150 litres of water without sinking. A pump shall be put into operation immediately to empty at least part of the water on board. If the pump is running constantly, how many litres of water at least must it be able to discharge every minute if the boat is to reach shore before sinking?
+> The boat A boat travels at a constant speed of 4 kilometers per hour. When it is two kilometers from the coast, it begins to take on water: 32 liters per minute. It can carry up to 150 litres of water without sinking. A pump shall be put into operation immediately to empty at least part of the water taken on board. If the pump is running constantly, how many litres of water at least must it be able to discharge every minute if the boat is to reach shore before sinking?
 
 **Answer:** 0027
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q02|src_kangourou_2019_squadre_semifinale_a__Q02]]
@@ -97,7 +100,7 @@ This is the total value of the own funds of the institution.
 
 *Maximum n with n^2+100 divisible by n-5*
 
-> Plus 100 What is the largest positive integer n such that n2 + 100 is divisible by n  5?
+> Plus 100 What is the largest positive integer n such that n2 + 100 is divisible by n - 5?
 
 **Answer:** 0130
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q03|src_kangourou_2019_squadre_semifinale_a__Q03]]
@@ -133,11 +136,11 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late room given the number of tiles side*
+*Room side given the number of tile sides*
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob4.png]]
 
-> The room The figure shows you any one of the four corners of the floor of a square room all floored the same way. The tiles are rectangular triangles, isosceles or squares, all of the same size. The sides of the angular tiles measure 25 cm. Counting the sides of all tiles, including those at the floor edge, but counting the common sides of two tiles only once, you get 3028. How many centimeters does the side of the room measure?
+> The room The figure shows you any one of the four corners of the floor of a square room all floored the same way. The tiles are right isosceles triangles or squares, all of the same size. The legs of the corner tiles measure 25 cm. Counting the sides of all tiles, including those at the floor edge, but counting the common sides of two tiles only once, you get 3028. How many centimeters does the side of the room measure?
 
 **Answer:** 1350
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q04|src_kangourou_2019_squadre_semifinale_a__Q04]]
@@ -166,9 +169,11 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lats of cells with at least an internal point of 25x30*
+*Sides of cells with at least one interior point 25x30*
 
-> At least one inner point In a grid of 25 square cells, how many sides of cells have at least one inner point in the grid?
+> At least one interior point 
+> In a 25×30 grid of square cells, how many sides of the cells have at least one point 
+> interior to the grid?
 
 **Answer:** 1445
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q05|src_kangourou_2019_squadre_semifinale_a__Q05]]
@@ -204,7 +209,7 @@ This is the total value of the own funds of the institution.
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob6.png]]
 
-> The tiled wall A wall is tiled with square tiles of 30 cm side, which have such a decoration that, when 9 of them are approached, two similar (non-regular) octagons are seen. How many square centimeters does the region between the two octagons measure?
+> The tiled wall A wall is tiled with square tiles of side 30 cm, which have such a decoration that, when 9 of them are approached, two similar (non-regular) octagons are seen. How many square centimeters does the region between the two octagons measure?
 
 **Answer:** 5600
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q06|src_kangourou_2019_squadre_semifinale_a__Q06]]
@@ -233,9 +238,12 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Originary length of rope (sling) *
+*Original length of the rope (tightrope walker)*
 
-> A rope was stretched horizontally between two poles. A rope began to walk over us, and now it is in the center of the rope: the rope has stretched evenly by 20 centimeters and its middle point has dropped by 90 centimeters. How many inches did the rope originally measure?
+> The tightrope walker  
+> An elastic rope was stretched horizontally between two poles. A tightrope walker began walking 
+> on it and is now at the central point of the rope: the rope has stretched uniformly by 20 cm and its 
+> midpoint has lowered by 90 cm. How many centimetres did the rope originally measure?
 
 **Answer:** 0800
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q07|src_kangourou_2019_squadre_semifinale_a__Q07]]
@@ -271,11 +279,19 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of sheet with four rectangular triangles*
+*Area of the sheet with four right triangles*
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob8.png]]
 
-> Four triangles The figure shows a sheet showing a region consisting of the approximation of 4 isosceles rectangles. The hypotenuse of the smallest is a catheter of the second, the hypotenuse of the second is a catheter of the third and the hypotenuse of the third is a catheter of the fourth. Some measurements in decimeter are given, including the distances of the region from the edges of the sheet. What is the area of the sheet of paper?
+> Four triangles 
+> The figure shows a sheet on which a 
+> region made by placing together 4 isosceles 
+> right triangles is highlighted. The hypotenuse of the smallest is a leg 
+> of the second, the hypotenuse of the second is a leg of the third and 
+> the hypotenuse of the third is a leg of the fourth. Some measurements 
+> are indicated in decimetres, including also the distances of the 
+> region from the edges of the sheet. How many square decimetres is 
+> the area of the sheet?
 
 **Answer:** 0028
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q08|src_kangourou_2019_squadre_semifinale_a__Q08]]
@@ -304,7 +320,7 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lats of the polygon with diagonal probability of 0,8*
+*Sides of the polygon with diagonal probability of 0.8*
 
 > Convex polygon Choosing at random two vertices of a convex polygon, the probability that they are vertices of a diagonal is 0.8. How many sides does the polygon have?
 
@@ -335,9 +351,9 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares < 9200 with unit number 6 *
+*Perfect squares < 9200 with units digit 6 *
 
-> Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as a unit number?
+> Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as their units digit?
 
 **Answer:** 0019
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q10|src_kangourou_2019_squadre_semifinale_a__Q10]]
@@ -468,7 +484,7 @@ This is the total value of the own funds of the institution.
 
 *Points reached by the flea after 30 jumps*
 
-> Flea A square grid is obtained by approximating 100×100 identical square cells. A flea is located at the point in the center of the grid (top of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting top. After 30 jumps, how many different spots could you be in?
+> Flea A square grid is obtained by placing 100×100 identical square cells side by side. A flea is located at the point in the center of the grid (vertex of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting vertex. After 30 jumps, how many different points could it be at?
 
 **Answer:** 0120
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q12|src_kangourou_2019_squadre_semifinale_a__Q12]]
@@ -497,9 +513,9 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume octahedron from the centers of the parallel-piped faces*
+*Volume octahedron from the centers of the parallelepiped faces*
 
-> In a right-angled parallel-piped the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
+> In a right-angled parallelepiped the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
 
 **Answer:** 0450
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q13|src_kangourou_2019_squadre_semifinale_a__Q13]]
@@ -528,9 +544,10 @@ This is the total value of the own funds of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer points per segment from (0,0) to (4200,3000) *
+*Integer points on the segment from (0,0) to (4200,3000)*
 
-> In the Cartesian plane, the segment of extremes (0, 0) and (4200, 3000) are considered. How many of your coordinate points are both integers, excluding the extremes?
+> Integer coordinates
+> In the Cartesian plane, consider the segment with endpoints (0, 0) and (4200, 3000). How many of its points, excluding the endpoints, have both coordinates integers?
 
 **Answer:** 0599
 [[Quesiti/src_kangourou_2019_squadre_semifinale_a#q14|src_kangourou_2019_squadre_semifinale_a__Q14]]
@@ -579,12 +596,12 @@ This is the total value of the own funds of the institution.
 
 *Agro number in KANGAROO divisible by 15*
 
-> AGRO I replaced each letter of the word KANGAROO with a digit from 1 to 9 (equal letters with equal numbers, different letters with different numbers) so that the result is the largest number of 8 digits (of this form) divisible by 15. With the same replacements, what number corresponds to AGRO? A K L M N B C 1 1 1 1 1
+> AGRO I replaced each letter of the word KANGAROO with a digit from 1 to 9 (equal letters with equal numbers, different letters with different numbers) so that the result is the largest number of 8 digits (of this form) divisible by 15. With the same replacements, what number corresponds to AGRO? A K L M N B C
 > 
 > 1
 >  
 >  
-> Kangourou of Mathematics 2019 Kangourou Cup to teams Semifinal round in Cervia, 3 May 2019
+> Kangourou of Mathematics 2019 Kangourou Cup for teams Semifinal round A Cervia, 3 May 2019
 >  
 > Questions and developments
 

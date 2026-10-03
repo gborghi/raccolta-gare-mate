@@ -35,7 +35,7 @@ level: kangourou
 
 ![[src_kangourou_2020_cadet_finale__probc1.png]]
 
-> The four arches that delimit the shaded region are all the same length, equal to the length of the two stretched arches. This length is a quarter of the length of a radius of 1 cm. How many square inches is the area of the shaded region? (see figure)
+> The four arcs that delimit the shaded region are all the same length, equal to the length of the two stretched arcs. This length is a quarter of the length of a circumference of radius 1 cm. How many square centimeters is the area of the shaded region? (see figure)
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2020_cadet_finale#qc1|src_kangourou_2020_cadet_finale__QC1]]
@@ -91,9 +91,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of n with 7n of 2021 digits*
+*Units digit of n where 7n has 2021 digits*
 
-> If $n$ is the smallest positive integer such that the number $7 \cdot n$ has 2021 digits. What is the unit number of $n$?
+> If $n$ is the smallest positive integer such that the number $7 \cdot n$ has 2021 digits. What is the units digit of $n$?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2020_cadet_finale#qc3|src_kangourou_2020_cadet_finale__QC3]]
@@ -128,11 +128,11 @@ level: kangourou
 
 *True statements on special grid position number 6x6*
 
-> We fill a square grid with the first 62 positive integers, one per box: if one of the numbers is the largest of all the numbers in its row and the smallest of all the numbers in its column, let's say that the number is in the special position**relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
+> We fill a square grid with the first 62 positive integers, one per box: if one of the numbers is the largest of all the numbers in its row and the smallest of all the numbers in its column, let's say that the number is in the special position** relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
 > 
 > (a) there is at least one special number for each method of filling the grid;
 > 
-> (b) there is at least one special number for any method of filling the grid;
+> (b) there is at least one special number for some method of filling the grid;
 > 
 > (c) for each method of filling the grid there is at most a special number.
 
@@ -174,7 +174,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pious convex polygons containing p or not containing p*
+*More convex polygons that contain p than those that do not*
 
 ![[src_kangourou_2020_cadet_finale__probc5.png]]
 
@@ -190,7 +190,7 @@ level: kangourou
 \end{document}
 ```
 
-> On a circumference, 10 points two to two apart are marked. All possible convex polygons (i.e. non-woven polygons having all the inner angles less than $180°$) whose vertices are some of the marked points shall be considered. Whether $p$ any of the points marked. Are there more polygons containing $p$ or those not containing it, or are they in the same number? (see figure)
+> On a circle, 10 points are marked, all distinct from one another. Consider all possible convex polygons (that is, non-self-intersecting polygons whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ or those that do not contain it, or are there an equal number? (see figure)
 
 **Answer:** piu p
 [[Quesiti/src_kangourou_2020_cadet_finale#qc5|src_kangourou_2020_cadet_finale__QC5]]
@@ -217,9 +217,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many whole pairs (x,y) are ordered with x^2+7y=xy*
+*How many ordered pairs (x,y) of integers with x^2+7y=xy*
 
-> How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
+> How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2020_cadet_finale#qc6|src_kangourou_2020_cadet_finale__QC6]]

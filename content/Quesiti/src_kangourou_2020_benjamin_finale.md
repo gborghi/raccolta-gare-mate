@@ -32,7 +32,7 @@ level: kangourou
 
 *Maximum four-pen bags with a maximum of two of the same colour*
 
-> Luisa has many pens: 29 red, 13 blue, and 20 black. He wants to pack bags containing four pens each, so that no bag contains more than two pens of the same color. How many bags can you pack?
+> Luisa has many pens: 29 red, 13 blue, and 20 black. She wants to pack bags containing four pens each, so that no bag contains more than two pens of the same color. How many bags can she pack?
 
 **Answer:** 15
 [[Quesiti/src_kangourou_2020_benjamin_finale#qb1|src_kangourou_2020_benjamin_finale__QB1]]
@@ -64,7 +64,7 @@ level: kangourou
 
 ![[src_kangourou_2020_benjamin_finale__probb2.png]]
 
-> The four arches that border the shaded region are all the same length, equal to the length of the two drawn arches. This length is a quarter of the length of a radius of 1 cm. How many square inches is the area of the shaded region? (see figure)
+> The four arcs that border the shaded region are all the same length, equal to the length of the two dashed arcs. This length is a quarter of the length of a circle of radius 1 cm. How many square centimetres is the area of the shaded region? (see figure)
 
 **Answer:** 2
 [[Quesiti/src_kangourou_2020_benjamin_finale#qb2|src_kangourou_2020_benjamin_finale__QB2]]
@@ -96,7 +96,7 @@ level: kangourou
 
 ![[src_kangourou_2020_benjamin_finale__probb3.png]]
 
-> Here on the side you see two square grids of 6 rows and 6 columns each: you can fill them in many different ways by entering, one for each box, all the integers from 1 to 36. If, after filling the grid, it happens that one of the numbers you entered is the largest of all those in its row and at the same time the smallest of all those in its column, you'll say that number is in a special position relative to the way you filled the grid. Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers. As long as you fill in the grids (searching the number in a special position in the first one), no explanation is required. (see figure)
+> Here on the side you see two square grids of 6 rows and 6 columns each: you can fill them in many different ways by entering, one for each box, all the integers from 1 to 36. If, after filling the grid, it happens that one of the numbers you entered is the largest of all those in its row and at the same time the smallest of all those in its column, you'll say that number is in a special position relative to the way you filled the grid. Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers. As long as you fill in the grids (circling the number in a special position in the first one), no explanation is required. (see figure)
 
 [[Quesiti/src_kangourou_2020_benjamin_finale#qb3|src_kangourou_2020_benjamin_finale__QB3]]
 
@@ -123,11 +123,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the number of candlesticks per serving (two cuts) *
+*Sum of the numbers of the candles per serving (two cuts) *
 
 ![[src_kangourou_2020_benjamin_finale__probb4.png]]
 
-> On Rita's birthday cake, 12 candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candlestick is on a single serving and the sum of the numbers on the candlesticks of each serving are all the same, what is the sum of the numbers on the candlesticks of each serving? (see figure)
+> On Rita's birthday cake, 12 candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candle is on a single serving and the sum of the numbers on the candles of each serving are all the same, what is the sum of the numbers on the candles of each serving? (see figure)
 
 **Answer:** 26
 [[Quesiti/src_kangourou_2020_benjamin_finale#qb4|src_kangourou_2020_benjamin_finale__QB4]]
@@ -221,9 +221,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of n with 7n of 2021 digits*
+*Units digit of n where 7n has 2021 digits*
 
-> If $n$ is the smallest positive integer such that the number $7 \times n$ has 2021 digits. What is the unit number of $n$?
+> If $n$ is the smallest positive integer such that the number $7 \times n$ has 2021 digits. What is the units digit of $n$?
 
 **Answer:** 9
 [[Quesiti/src_kangourou_2020_benjamin_finale#qb6|src_kangourou_2020_benjamin_finale__QB6]]

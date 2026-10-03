@@ -40,7 +40,7 @@ level: kangourou
 
 *As the Maya wrote the number 17 (point/bar) *
 
-> The Maya people did not write the numbers using our ten digits, but just two different symbols, point and bar. A point was 1, a bar was like 5 points, and the numbers were written using as few symbols as possible. What did number 17 say? A) B) C) D)
+> The Maya people did not write the numbers using our ten digits, but just two different symbols, point and bar. A point was 1, a bar was like 5 points, and the numbers were written using as few symbols as possible. How did they write the number 17? A) B) C) D)
 >   	
 > E)
 
@@ -74,9 +74,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image can be a regular dice (opposite faces 7) *
+*Which image can be a regular die (opposite faces 7) *
 
-> The sum of the dots on opposite sides of a regular dice is always 7. Which of the following is the image of a regular dice? A) B) C) D) E)
+> The sum of the dots on opposite sides of a regular die is always 7. Which of the following is the image of a regular die? A) B) C) D) E)
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q02|src_kangourou_2019_benjamin_marzo__Q02]]
@@ -119,13 +119,18 @@ level: kangourou
 
 ![[src_kangourou_2019_benjamin_marzo__prob3.png]]
 
-> The contours of the figures that make up the mosaic we are showing you are made up of straight segments all of the same length. Which of the following regular polygons does not appear in the mosaic? A) Triangle
+> The outlines of the figures that make up the mosaic we
+> show you are made up of straight segments all of the same
+> length. Which of the following regular polygons does not ap­
+> pear in the mosaic?
+> A) Triangle 	
 > 	
-> B) Square C) Hexagon
+> B) Square	
+> C) Hexagon	
 > 	
-> (D) The octagon
+> D) Octagon 	
 > 	
-> (e) Decoration of office
+> E) Dodecagon
 
 **Answer:** D
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q03|src_kangourou_2019_benjamin_marzo__Q03]]
@@ -251,7 +256,7 @@ In what order were the four photos taken?
 
 ![[src_kangourou_2019_benjamin_marzo__prob6.png]]
 
-> Tina took in a certain order the four photographs you see: they show the same group of people who are on their way, in the reverse from the bottom of the photos to the top. In what order were they taken? A) 2431 B) 4321 C) 1324 D) 4231 E) 2413
+> Tina took in a certain order the four photographs you see: they show the same group of people who are on their way, in the direction from the bottom of the photos to the top. In what order were they taken? A) 2431 B) 4321 C) 1324 D) 4231 E) 2413
 
 **Answer:** E
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q06|src_kangourou_2019_benjamin_marzo__Q06]]
@@ -290,7 +295,7 @@ In what order were the four photos taken?
 
 *What sum cannot be drawn from three dice with odd numbers 1-11 *
 
-> On the sides of a dice, instead of the numbers 1 to 6, the first six odd numbers appear. Anna pulled the dice three times and added the three scores. Which of the following is certainly not the result you have achieved? A) 31
+> On the faces of a die, instead of the numbers 1 to 6, the first six odd numbers appear. Anna rolled the die three times and added the three scores. Which of the following is certainly not the result she obtained? A) 31
 > 	
 > B) 5
 > 	
@@ -332,7 +337,7 @@ In what order were the four photos taken?
 
 *What day is the game in 2020*
 
-> Kangourou Day is always on the third Thursday of March: this year it corresponds to the 21st. And in 2020, what day will it be? A) Al 19	. B) Al 20	. C) Still at 21. D) Al 22	. E) Al 23.
+> Kangourou Day is always on the third Thursday of March: this year it corresponds to the 21st. And in 2020, what day will it be? A) The 19th. B) The 20th. C) Still the 21st. D) The 22nd. E) The 23rd.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q08|src_kangourou_2019_benjamin_marzo__Q08]]
@@ -418,7 +423,7 @@ In what order were the four photos taken?
 
 *How many days has the cat been very hungry*
 
-> On a normal day, the cat Lilli eats five mice; if it is very hungry, it eats 10. In the last nine days, he's eaten a total of 60 mice. How many days have you been very hungry? A) 1
+> On a normal day, the cat Lilli eats five mice; if it is very hungry, it eats 10. In the last nine days, she has eaten a total of 60 mice. How many days has she been very hungry? A) 1
 > 	
 > B) 2
 > 	
@@ -426,7 +431,7 @@ In what order were the four photos taken?
 > 	
 > D) 6
 > 	
-> E) 9 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 9 Questions from N. 11 to N. 20 are worth 4 points each.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q10|src_kangourou_2019_benjamin_marzo__Q10]]
@@ -459,7 +464,7 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*19 with the same figures *
+*19 with the same digits *
 
 > A digital clock marks 20:19. What is the closest time to 20:19 as opposed to 20:19, which is written using the same digits? A) 19:02 B) 2:19 C) 19:20 D) 9:12 E) None of the above.
 
@@ -595,7 +600,7 @@ In what order were the four photos taken?
 
 ![[src_kangourou_2019_benjamin_marzo__prob14.png]]
 
-> All the triangles shown in the figure are equilateral; the side of the smaller four is 1 m long. How many meters does the perimeter of the largest triangle measure? A) 15 B) 17
+> All the triangles shown in the figure are equilateral; the side of the four smallest is 1 m long. How many meters does the perimeter of the largest triangle measure? A) 15 B) 17
 > 	
 > C) 18
 > 	
@@ -639,7 +644,7 @@ In what order were the four photos taken?
 
 *How many cats at the start after the witch's transformations*
 
-> In a witch's garden there are 30 animals: dogs, cats and rats. The witch turns six dogs into as many cats, then turns five cats into as many mice. At this point there are 10 dogs, 10 cats and 10 mice. How many cats were there in the beginning? A) 4
+> In a witch's garden there are 30 animals: dogs, cats and mice. The witch turns six dogs into as many cats, then turns five cats into as many mice. At this point there are 10 dogs, 10 cats and 10 mice. How many cats were there at the beginning? A) 4
 > 	
 > B) 5
 > 	
@@ -683,11 +688,19 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape cannot be formed by double-meter rolling *
+*Which figure cannot be formed with the folding double-meter*
 
 ![[src_kangourou_2019_benjamin_marzo__prob16.png]]
 
-> In the figure you can see a double-meter folding made up of 10 segments each 20 centimeters long. Only one of the five figures you see below can't be formed with this double-meter: which? A) B) C) D) E)
+> In the figure you see a folding double-meter made of 
+> 10 segments of 20 centimetres each. Only one of the five 
+> figures that you see below cannot be formed with this 
+> double-meter: which one?
+> A)	
+>              B)	
+>           C)	
+>        D)	 	
+>     E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q16|src_kangourou_2019_benjamin_marzo__Q16]]
@@ -727,11 +740,11 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-In which mosaic is the blackest and largest area
+In which mosaic is the black area the largest
 
 ![[src_kangourou_2019_benjamin_marzo__prob17.png]]
 
-> The five square mosaics you see below are all the same size. Each one was formed from white or black square sheets that, in individual mosaics, all have the same size. Which mosaic has the largest black surface area? A)
+> The five square mosaics you see below are all the same size. Each one was formed from white or black square tiles that, in individual mosaics, all have the same size. Which mosaic has the largest black surface area? A)
 > 	
 > B)
 > 	
@@ -783,19 +796,25 @@ In which mosaic is the blackest and largest area
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the tower with 28 bricks according to the *
+*Height of the tower with 28 small blocks according to the pattern*
 
 ![[src_kangourou_2019_benjamin_marzo__prob18.png]]
 
-> Charles has 28 bricks, all two inches long, one inch wide, and one inch high. He wants to use all of them to build a tower: the figures show you with which clay Carlo intends to carry on his construction. How tall will the tower be when Charles finish it? A) 9
+> Carlo has 28 small blocks, all 2 centimetres long,
+> 1 wide and 1 high. He wants to use them all to build
+> a tower: the figures show you the criterion by which
+> Carlo intends to carry on with his construction.
+> How many centimetres tall will the tower be when Carlo has finished it?
+> A) 9	
 > 	
-> B) 11
+> B) 11	
 > 	
-> C) 12
+> C) 12	
 > 	
-> D) 14
+> D) 14	
 > 	
-> E) 17 1 m
+> E) 17
+> 1 m
 >
 
 **Answer:** B
@@ -895,19 +914,27 @@ In which mosaic is the blackest and largest area
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of paper after folding and cutting*
+*How many pieces of paper after the folds and cuts*
 
 ![[src_kangourou_2019_benjamin_marzo__prob20.png]]
 
-> The figure shows you how Emanuele folded a square sheet over himself in two volumes, so as to eventually get another square. Then he cut the square that he got along two lines, each parallel on two sides. How many different pieces of paper did you get? A) 9
+> The figure shows you how 
+> Emanuele folded a square sheet 
+> of paper onto itself twice, so as 
+> to obtain in the end still a square. 
+> Then he cut the square that 
+> he obtained along two straight lines, each parallel to two sides. How many different pieces of paper 
+> did he obtain?
+> A) 9	
 > 	
-> B) 4
+> B) 4	
 > 	
-> C) 8
+> C) 8	
 > 	
-> D) 12
+> D) 12	
 > 	
-> (E) 16 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) 16
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** A
 [[Quesiti/src_kangourou_2019_benjamin_marzo#q20|src_kangourou_2019_benjamin_marzo__Q20]]
@@ -992,11 +1019,11 @@ Who rode a bicycle given the implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many grams weigh the nine bags (balance sheet) *
+*How many grams weigh the nine balls (balances) *
 
 ![[src_kangourou_2019_benjamin_marzo__prob22.png]]
 
-> The two figures show you two balances that are balanced by two weights, one of 6 and the other of 30 grams, added to the plates on the right. The black bulbs all have the same weight, and so do the three white bulbs (obviously different from the black bulbs). How many grams do all nine balls weigh together? A) 100 B) 99
+> The two figures show you two balances that are balanced by two weights, one of 6 and the other of 30 grams, added to the plates on the right. The black balls all have the same weight, and so do the three white balls (obviously different from the black balls). How many grams do all nine balls weigh together? A) 100 B) 99
 > 	
 > C) 96 D) 94
 > 	
@@ -1038,9 +1065,9 @@ Who rode a bicycle given the implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which of the five papal statements is false
+Which of the five statements by Dad is false
 
-> Father Roberto made the following five statements. One and only one of them is false. What kind? A) My son Matteo has three sisters. B) My daughter Anna has two brothers. C) My daughter Anna has two sisters. D) My son Matteo has two brothers. E) Between males and females, I have five children in total.    6 g 30 g
+> Father Roberto made the following five statements. One and only one of them is false. Which one? A) My son Matteo has three sisters. B) My daughter Anna has two brothers. C) My daughter Anna has two sisters. D) My son Matteo has two brothers. E) Between males and females, I have five children in total.    6 g 30 g
 >
 
 **Answer:** D
@@ -1083,7 +1110,7 @@ Which of the five papal statements is false
 
 ![[src_kangourou_2019_benjamin_marzo__prob24.png]]
 
-> Benjamin wrote an integer greater than zero in the first circle to the left of the figure; then, by performing all the operations indicated in the order, he wrote the individual results obtained in the subsequent circles. How many of the six numbers you wrote are divisible by 3? A) Exactly 1 B) 1 or 2 depending on the initial number.
+> Benjamin wrote an integer greater than zero in the first circle to the left of the figure; then, by performing all the operations indicated in the order, he wrote the individual results obtained in the subsequent circles. How many of the six numbers he wrote are divisible by 3? A) Exactly 1 B) 1 or 2 depending on the initial number.
 >                 
 > C) Exactly 2. D) 2 or 3 depending on the initial number. E) 3 or 4 depending on the initial number.
 
@@ -1124,11 +1151,11 @@ Which of the five papal statements is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which development of the cube the line is closed*
+*For which net of the cube is the line closed*
 
 ![[src_kangourou_2019_benjamin_marzo__prob25.png]]
 
-> Each of the figures below shows the development of a cube on whose surface a line has been drawn. Only one of the developments happens that once the cube is reconstructed, the traced line appears closed. What kind? A)
+> Each of the figures below shows the net of a cube on whose surface a line has been drawn. For only one of the nets does it happen that, once the cube is reconstructed, the traced line appears closed. Which one? A)
 > 	
 > B)
 > 	
@@ -1233,7 +1260,7 @@ Which of the five papal statements is false
 
 ![[src_kangourou_2019_benjamin_marzo__prob27.png]]
 
-> There are two pyramids constructed of milk, each of which has a score. The pyramids are identical, including in scores and arrangement. Gianna raised 6 cans for a total of 25 points, Alberto raised to 4 cans: the figures show you what was left of the pyramids after each of the two operations. How many points did Alberto score? A) 22
+> There are two pyramids constructed of cans, each of which has a score. The pyramids are identical, including in scores and arrangement. Gianna removed 6 cans for a total of 25 points, Alberto removed 4 cans: the figures show you what was left of the pyramids after each of the two operations. How many points did Alberto score? A) 22
 > 	
 > B) 23
 > 	
@@ -1294,9 +1321,9 @@ Which of the five papal statements is false
 
 *Maximum white fraction of the surface of the cube 4x4x4*
 
-> Lina obtained a cube by approaching 64 cubes all of the same size, 32 white and 32 black, and made the white part of the surface of the large cube as wide as possible. What fraction of the surface of the large cube appears white? A) 3/4 B) 4/7
+> Lina obtained a cube by placing 64 small cubes together all of the same size, 32 white and 32 black, and made the white part of the surface of the large cube as large as possible. What fraction of the surface of the large cube appears white? A) 3/4 B) 4/7
 > 	
-> C) 1/2 D) 2/3 E) 5/12 +1 +1 × 3 + 2 × 2 1 9 7 6 8 6 4 5 9 1 9 7 3 6 6 8 2 5 3 4 after the intervention of Gianna after the intervention of Albert
+> C) 1/2 D) 2/3 E) 5/12 +1 +1 × 3 + 2 × 2 1 9 7 6 8 6 4 5 9 1 9 7 3 6 6 8 2 5 3 4 after the intervention of Gianna after the intervention of Alberto
 >
 
 **Answer:** A
@@ -1340,7 +1367,7 @@ Which of the five papal statements is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What I see in 3 hours to 45 minutes (off segments) *
+*What will I see in 3 hours and 45 minutes (off segments)*
 
 ![[src_kangourou_2019_benjamin_marzo__prob29.png]]
 
@@ -1393,16 +1420,21 @@ Which of the five papal statements is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many red chips does Philip have now after 10 games?
+*How many red tokens does Filippo have now after 10 plays*
 
-> Philip plays with two token-changing machines: one gives four red tokens for one white, the other gives three white tokens for one red. By placing one token at a time in one of the two machines and being able to use both, after playing 10 times, the Philippines finds 28 tokens. Knowing that, before you played, you had four white chips, how many red chips do you have now? A) 21
-> 	
-> B) 17
-> 	
-> C) 10
-> 	
-> D) 27
-> 	
+> Filippo plays with two token-changing machines: one gives four red tokens for
+> one white one, the other gives three white tokens for one red one. Inserting one token at a time
+> into one of the two machines and being able to use both, after having played 10 times Fi
+> lippo finds himself with 28 tokens. Knowing that, before playing, he had 4 white tokens,
+> how many red tokens does he have now?
+> A) 21	
+	
+> B) 17	
+	
+> C) 10	
+	
+> D) 27	
+	
 > E) 11
 >
 

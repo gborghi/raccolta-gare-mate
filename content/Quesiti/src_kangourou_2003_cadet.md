@@ -76,7 +76,7 @@ level: kangourou
 
 *Max 4x4 boxes intersected by a straight line*
 
-> A straight slices a 4x4 chessboard without going over the top of any box. What is the largest number of boxes (squares 1x1) that a straight line can intersect? A) 3 B) 4 C) 6 D) 7 E) 8
+> A straight line cuts a 4x4 chessboard without passing through the vertex of any box. What is the largest number of boxes (squares 1x1) that a straight line can intersect? A) 3 B) 4 C) 6 D) 7 E) 8
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_cadet#q02|src_kangourou_2003_cadet__Q02]]
@@ -145,9 +145,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max interior straight angles in a hexagon*
+*Max interior right angles in a hexagon*
 
-> In a hexagon (not necessarily convex) how many straight interior angles can be found at most? A) 2 B) 3 C) 4 D) 5 E) 6
+> In a hexagon (not necessarily convex) how many right interior angles can be found at most? A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_cadet#q04|src_kangourou_2003_cadet__Q04]]
@@ -187,11 +187,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equivalence between containers (cups/glass) *
+*Equivalences between containers (mug/glasses)*
 
-> In the Kangoo pub, all the same type of containers are the same. A bottle and a glass together contain as much as a carafe. A bottle contains as much as a glass and a spoon. Three mouths contain as much as two carafes. So a cup contains as much as A: 3 glasses B: 4 glasses C: 5 glasses D: 6 glasses E: 7 glasses
+> In the Kangoo pub all containers of the same type are identical. A bottle
+> and a glass together hold as much as a jug. A bottle holds
+> as much as a glass and a mug. Three mugs hold as much as two jugs.
+> Then a mug holds as much as
+> A) 3 glasses
+> B) 4 glasses 
+> C) 5 glasses   
+> D) 6 glasses
+> E) 7 glasses
 > 
-> I'm going to pay. I'm going to pay. 17 17 Kang 2003 Kang
+> Pag. 
+> Pag. 17
+> 17
+> Kang 2003
+> Kang 2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_cadet#q05|src_kangourou_2003_cadet__Q05]]
@@ -409,9 +421,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table-free trees after round-trip counts*
+*Trees without ribbon after counting going/returning*
 
-> There are 100 trees along the road from Louis' house to the pool. Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. Allandata marked the first tree and then the second of each pair of trees she encountered; on her return she marked the first tree and then the third of each trunk of trees she encountered. After that, how many trees don't have the red ribbon? A) 40 B) 33 C) 50 D) 25 E) 19 Questions from N. 11 al N. 20 is worth 4 points each.
+> Along the road from Luigi's house to the swimming pool there are 100 trees.
+> Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. On the way there he marked the first tree and
+> subsequently the second of every pair of trees he encountered; on the way back
+> instead he marked the first tree and subsequently the third of every group of three
+> trees he encountered. After that, how many trees do not have the red ribbon?
+> A) 40
+> B) 33
+> C) 50
+> D) 25
+> E) 19
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_cadet#q10|src_kangourou_2003_cadet__Q10]]
@@ -461,11 +483,33 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Transformations of the letter Y (rotations/turns) *
+*Transformations of the letter Y (rotations/flips)*
 
-> There's a clear square sheet of paper on the table. It's marked with the letter Y. We rotate the sheet 900 clockwise, then we flip it along the left side of the sheet, and finally we rotate it 1800 clockwise. What figure do we see? A) B) C) D) E) a b x c d e Y Y Y y Y
+> On the table there is a sheet of transparent squared paper. On it
+> the letter Y is drawn. We rotate the sheet by 900 clockwise, then we flip it along the left side of the sheet, finally we rotate it counterclockwise by
+> 1800. What figure do we see?
+> A)  
+> B)  
+> C)  
+> D)  
+> E)  
+> a
+> b
+> x
+> c
+> d
+> e
+> Y
+> Y
+> Y
+> y
+> Y
 > 
-> I'm going to pay. I'm going to pay. 18 18 Kang 2003 Kang
+> Pag. 
+> Pag. 18
+> 18
+> Kang 2003
+> Kang 2003
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_cadet#q11|src_kangourou_2003_cadet__Q11]]
@@ -498,9 +542,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of 42 cubic feet, base perimeter 18*
+*Height of a parallelepiped made of 42 cubes, base perimeter 18*
 
-> Andrea has 42 identical cubes, each with a 1 cm long tail. Using all of them, he constructed a rectangular parallel-piped, whose base has a perimeter of 18 cm. What is the height of the parallel piped? A) 1 cm B) 2 cm C) 3 cm       D) 4 cm E) 5 cm
+> Andrea has 42 identical cubes, each with an edge 1 cm long. Using them all
+> he built a right rectangular parallelepiped, whose base has a perimeter
+> 18 cm long. What is the height of the parallelepiped?
+> A) 1 cm
+> B) 2 cm
+> C) 3 cm       D) 4 cm
+> E) 5 cm
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_cadet#q12|src_kangourou_2003_cadet__Q12]]
@@ -538,7 +588,7 @@ level: kangourou
 
 ![[src_kangourou_2003_cadet__prob13.png]]
 
-> Eros fires three arrows at each of the three targets. He scores 29 on the first and 43 on the second. How many points do you total on the third? A) 31 B) 33 C) 36 D) 38 E) 39
+> Eros fires three arrows at each of the three targets. He scores 29 on the first and 43 on the second. How many points does he total on the third? A) 31 B) 33 C) 36 D) 38 E) 39
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_cadet#q13|src_kangourou_2003_cadet__Q13]]
@@ -645,7 +695,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rods with a triangle shape*
+*Number of triples of sticks that form a triangle*
 
 > You have six sticks, each 1 cm, 2 cm, 3 cm, 2001 cm, 2002 cm and 2003 cm long: you have to choose three to build a triangle (which is not reduced to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5           D) 6 E) 20
 
@@ -679,7 +729,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n with max divisor =15 times the min*
+*How many n with max divisor =15 times the min*
 
 > How many positive integers n have the following property: among the (positive) divisors of n other than 1 and n, the largest is 15 times the smallest? A) 0 B) 1 C) 2 D) infinite E) none of the above answers is correct
 
@@ -717,11 +767,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between segments on a straight line*
+*Relationship between segments on a line*
 
-> On a straight line, the six points A, B, C, D, E, F are marked from left to right in the order we have listed them. If AD = CF and BD = DF, it must necessarily happen that A) AB = BC B) BC = DE C) BD = EF D) AB = CD E) CD = EF
+> On a line, from left to right, the six points A, B, C, D, E, F are marked
+> in the order in which we have listed them. If AD = CF and BD = DF, it must
+> necessarily happen that
+> A) AB = BC         B) BC = DE      C) BD = EF      D) AB = CD           E) CD = EF 
 > 
-> I'm going to pay. I'm going to pay. 19 19 Kang 2003 Kang
+> Pag. 
+> Pag. 19
+> 19
+> Kang 2003
+> Kang 2003
 
 **Answer:** D
 [[Quesiti/src_kangourou_2003_cadet#q18|src_kangourou_2003_cadet__Q18]]
@@ -756,9 +813,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number on 6 cartons with sums given *
+*Minimum number on 6 cards with sums given*
 
-> Mary has six cards of different colors, each marked with a natural number. Choose three random cards and calculate the sum of the corresponding numbers. After doing this operation in all 20 possible ways, he finds that in 10 cases he got 16, and in the others he got 18. So the smallest of the numbers marked on the cards is A) 2 B) 3 C) 4 D) 5 E) 6
+> Mary has six cards of different colors, each marked with a natural number. Choose three random cards and calculate the sum of the corresponding numbers. After doing this operation in all 20 possible ways, she finds that in 10 cases she got 16, and in the others he got 18. So the smallest of the numbers marked on the cards is A) 2 B) 3 C) 4 D) 5 E) 6
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_cadet#q19|src_kangourou_2003_cadet__Q19]]
@@ -795,9 +852,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circular arrangement with named neighbors*
+*Circular arrangement with named neighbours*
 
-> Bruno, Claudius, Luke, Mark, and Paul sit in a circle, and for each of them, the distance from the neighbor on the left is different from that from the neighbor on the right. The teacher asks each one to say the name of the boy sitting nearest to him. Bruno and Claudio are nominated twice each, Luke only once. Then A) certainly Bruno and Claudius are not close B) certainly Mark and Paul are not close C) Mark and Paul are close D) the situation described is impossible E) none of the answers A) - D) the questions from N are correct. 21 al N. 30 is worth 5 points each.
+> Bruno, Claudio, Luca, Marco and Paolo sit in a circle and, for each of
+> them, the distance from the neighbour on the left is different from that from the neighbour on the right.
+> The teacher asks each of them to say the name of the boy sitting closest
+> to him. Bruno and Claudio are named twice each, Luca only once.
+> Then
+> A) certainly Bruno and Claudio are not neighbours     
+> B) certainly Marco and Paolo are not neighbours             
+> C) Marco and Paolo are neighbours   
+> D) the situation described is impossible        
+> E) none of the answers A) - D) is correct
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2003_cadet#q20|src_kangourou_2003_cadet__Q20]]
@@ -833,11 +900,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Identify the black module of the parallel piped*
+*Identify the black module of the parallelepiped*
 
 ![[src_kangourou_2003_cadet__prob21.png]]
 
-> The figure represents a rectangular parallel piped constructed by attaching 3 modules each of which is 4 cubes. Of the forms, the networked one is fully visible, the others only partially. Which of the following forms is the black-painted form? A) B) C) D) E)
+> The figure represents a rectangular parallelepiped constructed by attaching 3 modules each of which is 4 cubes. Of the modules, the cross-hatched one is fully visible, the others only partially. Which of the following modules is the black-painted module? A) B) C) D) E)
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_cadet#q21|src_kangourou_2003_cadet__Q21]]
@@ -948,9 +1015,9 @@ level: kangourou
 \end{document}
 ```
 
-> We denote with P, Q, R and S the mean points of the sides AB, BC, CD and AD respectively of the ABCD rectangle in the figure and with T the mean point of the RS segment. So the area of the PQT triangle is A) 5/16 B) 1/4 C) 1/5 D) 1/6 E) 3/8 of the area of the ABCD rectangle.
+> We denote with P, Q, R and S the midpoints of the sides AB, BC, CD and AD respectively of the ABCD rectangle in the figure and with T the midpoint of the RS segment. So the area of the PQT triangle is A) 5/16 B) 1/4 C) 1/5 D) 1/6 E) 3/8 of the area of the ABCD rectangle.
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 2003 Kang
+> Pag. 20 Kang 2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_cadet#q22|src_kangourou_2003_cadet__Q22]]
@@ -990,7 +1057,7 @@ level: kangourou
 
 ![[src_kangourou_2003_cadet__prob23.png]]
 
-> Carlo attempts to break down the figure on the left in the drawing into smaller figures (without overlapping), having the shape of those shown on the right of the drawing, composed of one of 3 and the other of 4 squares. What's the smallest number of three-square figures you can get? A) 1 B) 2 C) 3 D) 4 E) Charles cannot do this
+> Carlo attempts to break down the figure on the left in the drawing into smaller figures (without overlapping), having the shape of those shown on the right of the drawing, composed of one of 3 and the other of 4 squares. What's the smallest number of three-square figures you can get? A) 1 B) 2 C) 3 D) 4 E) Carlo cannot do this
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_cadet#q23|src_kangourou_2003_cadet__Q23]]
@@ -1025,7 +1092,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential grey and black area (4 squares) *
+*Difference between grey and black areas (4 squares)*
 
 ![[src_kangourou_2003_cadet__prob24.png]]
 
@@ -1066,7 +1133,7 @@ level: kangourou
 
 *What conclusions about books can be false*
 
-> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. (c) The number of physics books is not more than 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) I took nine books in a row, at least six of which are mathematical.
+> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. C) The number of physics books is at most 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) Given 9 books placed consecutively, at least 6 of them are mathematics books.
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_cadet#q25|src_kangourou_2003_cadet__Q25]]
@@ -1119,13 +1186,35 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of five angles in a 5x5 grid*
+*Sum of five angles in a 5x5 grid*
 
 ![[src_kangourou_2003_cadet__prob26.png]]
 
-> A square is divided into 25 squares of equal sides (see figure). The measurement of the sum of the angles MAN, MBN, MCN, MDN, MEN is A) 30° B) 45° C) 60° D) 75° E) 90° A B C D E M N 11 9 7 5
+> A square is divided into 25 small squares of equal
+> side (see figure). The measure of the angle sum of the
+> angles MAN, MBN, MCN, MDN, MEN is
+> A) 30°
+> B) 45°
+> C) 60°
+> D) 75°
+> E) 90°
+> A
+> B
+> C
+> D
+> E
+> M
+> N
+> 11
+> 9
+> 7
+> 5
 > 
-> I'm going to pay. I'm going to pay. 21 21 Kang 2003 Kang
+> Pag. 
+> Pag. 21
+> 21
+> Kang 2003
+> Kang 2003
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_cadet#q26|src_kangourou_2003_cadet__Q26]]
@@ -1163,11 +1252,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spiral of isosceles triangles first covering n.0*
+*Spiral of isosceles triangles, first to cover no. 0*
 
 ![[src_kangourou_2003_cadet__prob27.png]]
 
-> We want to form a spiral using equal isosceles triangles whose angle at the apex is 100°. As the figure suggests, let's start with the grey triangle to which we're going to give the number 0. Each of the following triangles (numbered 1, 2, 3, ...) is soldered to the previous one with exactly one of the same sides. How can you see the n-triangle? 3 partially covers triangle n. 0. What will be the number of the first triangle that exactly covers triangle n? 0? A) 20 B) 14 C) 16 D)12 E) 18
+> We intend to form a spiral using isosceles triangles
+> equal to each other, whose vertex angle measures 100°.
+> As the figure suggests, we start with the gray triangle
+> to which we will give the number 0. Each of the successive triangles
+> (numbered 1, 2, 3, ...) joins the previous one with exactly one of the equal sides. As you can see, triangle no. 3 partially covers triangle no. 0. What
+> will be the number of the first triangle that exactly covers triangle no. 0?
+> A) 20
+> B) 14
+> C) 16     
+> D)12
+> E) 18
 
 **Answer:** E
 [[Quesiti/src_kangourou_2003_cadet#q27|src_kangourou_2003_cadet__Q27]]
@@ -1200,9 +1299,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n by 2003 divided by n remaining 23*
+*How many n with 2003 divided by n remainder 23*
 
-> How many positive integers n are such that 2003 divided by n gives 23? A) 22 B) 19 C) 13 D) 12 E) 87
+> How many positive integers n are such that 2003 divided by n gives remainder
+> 23?
+> A) 22
+> B) 19
+> C) 13
+> D) 12
+> E) 87
 
 **Answer:** A
 [[Quesiti/src_kangourou_2003_cadet#q28|src_kangourou_2003_cadet__Q28]]
@@ -1239,7 +1344,7 @@ level: kangourou
 
 *Max segments crossed by a straight line (10 points) *
 
-> 10 distinct points are drawn on a sheet, so that no line of the plane has more than two. Each pair of points is connected by a segment. Let's draw a straight line that doesn't pass through any of these points: what is the maximum number of segments that the straight line can cross? A) 20 B) 25 C) 30 D) 35 E) 45
+> 10 distinct points are drawn on a sheet, so that no line of the plane contains more than two of them. Each pair of points is connected by a segment. Let's draw a straight line that doesn't pass through any of these points: what is the maximum number of segments that the straight line can cross? A) 20 B) 25 C) 30 D) 35 E) 45
 
 **Answer:** B
 [[Quesiti/src_kangourou_2003_cadet#q29|src_kangourou_2003_cadet__Q29]]

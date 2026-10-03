@@ -32,7 +32,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number 4 digits with product number 40*
+*Smallest 4-digit number with digit product 40*
 
 > The smallest Mariella wrote the smallest four-digit integer greater than zero, such that the product of its digits is 40. What number did Mariella write?
 
@@ -66,9 +66,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to go home with the clock fixed*
+*Time to return home with a stopped clock*
 
-> I'm home by now. The only watch I have stopped at 1:00. As soon as I realized it, I put it back on the bike without changing the time and went to a friend's house right away: I got to him at 15:00 (correct time) and left at 17:30 (correct time). Now I'm back home, and my watch (which in the meantime has been running regularly) is at 5:30. The time I spent on the trip is the same as the time I spent on the return. What time (correct) did I get home? (Write the four digits of the hour, without the two dots.)
+> The time 
+> I am at home. The only clock I have stopped at 13:00. As soon as I noticed it, I 
+> started it again without changing the time and immediately went to a friend's house: I arrived at his place at 
+> 15:00 (correct time) and I left his place at 17:30 (correct time). Now I am back home and my 
+> clock (which in the meantime has been running regularly) shows 17:30. The time I took 
+> on the way there is identical to the time I took on the way back. At what time (correct) did I return home? 
+> (Write the four digits of the time, without the colon.)
 
 **Answer:** 1830
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q02|src_kangourou_2023_ecolier_squadre_f2__Q02]]
@@ -97,9 +103,11 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies 2..2023 only divisible by pairs *
+*Integers 2..2023 divisible only by even numbers*
 
-> Divideable only by even quantities are the integers between 2 and 2023 included that, in addition to 1, are divisible only by numbers that are even?
+> Divisible only by even numbers  
+> How many integers between 2 and 2023 inclusive are there that, besides 1, are divisible only by numbers 
+> that are even?
 
 **Answer:** 0010
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q03|src_kangourou_2023_ecolier_squadre_f2__Q03]]
@@ -129,9 +137,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days of the year with a sum of 23 digits given *
+*Days of the year with digit sum 23 *
 
-> This year, the date of the Kangourou individual race is 16/03/2023: adding up all the figures for this date, you get 17. For how many days, from the first to the last day of this year, is the sum of the dates 23?
+> This year, the date of the Kangourou individual race is 16/03/2023: adding up all the digits of this date, you get 17. For how many days, from the first to the last day of this year, is the sum of the digits of the date 23?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q04|src_kangourou_2023_ecolier_squadre_f2__Q04]]
@@ -161,9 +169,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*100th cost of each Easter egg*
+*Cents cost of each Easter egg*
 
-> Easter egg I gave one Easter egg to each of my 13 friends. At first I had enough money to buy only nine eggs, and I would have advanced 20 cents, then my aunt lent me 40 euros. All eggs are the same price. How much did each egg cost?
+> The Easter egg
+> I gave an Easter egg to each of my 13 friends. Initially I had enough money
+> to buy only 9 eggs, and I would have had 20 cents left over, then my aunt lent me 40 euros:
+> in this way I bought all the eggs I needed and I had 1 euro left over. All the eggs
+> have the same price. How many cents did each egg cost?
 
 **Answer:** 0980
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q05|src_kangourou_2023_ecolier_squadre_f2__Q05]]
@@ -201,7 +213,7 @@ level: squadre
 
 ![[src_kangourou_2023_ecolier_squadre_f2__prob6.png]]
 
-> The pierced cube Luigi obtained a cube by approaching 4 × 4 × 4 identical cubes. He then mounted a section tip smaller than the face of each of the cubes on a drill bit and drilled the cube side by side six times, each time parallel to a shaft: black dots indicate the entry points of the drill bit. How many cubes haven't been touched by the tip of the drill?
+> The pierced cube Luigi obtained a cube by placing 4 × 4 × 4 identical small cubes side by side. He then mounted on a drill a bit with a cross-section smaller than the face of each of the cubes and drilled the cube through from side to side six times, each time parallel to an edge: in the figure the black dots indicate the entry points of the drill. How many cubes haven't been touched by the tip of the drill?
 
 **Answer:** 0044
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q06|src_kangourou_2023_ecolier_squadre_f2__Q06]]
@@ -233,7 +245,7 @@ level: squadre
 
 *Andrea's number with 2 on the right and left *
 
-> To the right and to the left Andrea wrote a two-digit integer, Beatrice wrote the three-digit number you get from Andrea's by placing a 2 to her right, Cecilia wrote the three-digit number you get from Andrea's by placing a 2 to her left. Adding 36 to Cecilia's number, you get the number of Beatrice. What number did Andrea write?
+> To the right and to the left Andrea wrote a two-digit integer, Beatrice wrote the three-digit number you get from Andrea's by placing a 2 to its right, Cecilia wrote the three-digit number you get from Andrea's by placing a 2 to its left. Adding 36 to Cecilia's number, you get the number of Beatrice. What number did Andrea write?
 
 **Answer:** 0026
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q07|src_kangourou_2023_ecolier_squadre_f2__Q07]]
@@ -265,9 +277,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Voice tank weight given turbine and consumption*
+*Empty tank weight given turbine and consumption*
 
-> A tank can hold enough fuel to power a turbine for 40 hours of uninterrupted operation, but no more; after seven hours of operation, the turbine's speed of rotation, and thus fuel consumption, is halved. The turbine started operating at 12:00 today with the tank full and has always been in operation. At 4 p.m., the tank with the remaining fuel weighed 90 pounds; at 10 p.m., it still weighed 72 pounds. How many pounds does the empty tank weigh?
+> A tank can hold enough fuel to power a turbine for 40 hours of uninterrupted operation, but no more; after seven hours of operation, the turbine's speed of rotation, and thus fuel consumption, is halved. The turbine started operating at 12:00 today with the tank full and has always been in operation. At 4 p.m., the tank with the remaining fuel weighed 90 kilograms; at 10 p.m., still today, it weighed 72 kilograms. How many kilograms does the empty tank weigh?
 
 **Answer:** 0012
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q08|src_kangourou_2023_ecolier_squadre_f2__Q08]]
@@ -300,7 +312,7 @@ level: squadre
 
 *Numbers written until first block 999*
 
-> Three 9 digits Mary began to write sequentially one after another, without separating elements, all positive integers: 12345678910111.... He promised to stop as soon as he got the first block of three consecutive 9 digits, i.e. 999 (even without finishing writing the last number). How many digits in total will he have written at the exact moment he stops?
+> Three 9 digits Mary began to write sequentially one after another, without separating elements, all positive integers: 12345678910111.... She promised to stop as soon as he got the first block of three consecutive 9 digits, i.e. 999 (even without finishing writing the last number). How many digits in total will she have written at the exact moment she stops?
 
 **Answer:** 2590
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q09|src_kangourou_2023_ecolier_squadre_f2__Q09]]
@@ -330,9 +342,9 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many postcards does Enrica have
+How many postcards has Enrica given envelopes
 
-> Enrica is collecting postcards. So far, she has 31 envelopes, each containing at least one card but no more than six. 25 of these envelopes contain at least 2, 17 contain at least 3, 15 at least 4, 9 at least 5 and envelopes containing 6 cards are 6. How many cards do you have, Enrica, for now?
+> Enrica is collecting postcards. So far, she has 31 envelopes, each containing at least one card but no more than six. 25 of these envelopes contain at least 2, 17 contain at least 3, 15 at least 4, 9 at least 5 and envelopes containing 6 cards are 6. How many cards does Enrica have, for now?
 
 **Answer:** 0103
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q10|src_kangourou_2023_ecolier_squadre_f2__Q10]]
@@ -429,7 +441,7 @@ How many postcards does Enrica have
 
 Handshakes with three brothers excluded
 
-> Twenty friends, including three brothers, are at a party. At the end, to greet each other, each shake hands with each other once and only once, but the three brothers, because they live together, do not shake hands with each other. Overall, how many handshakes are there?
+> Twenty friends, including three brothers, are at a party. At the end, to greet each other, each shakes hands with each other once and only once, but the three brothers, because they live together, do not shake hands with each other. Overall, how many handshakes are there?
 
 **Answer:** 0187
 [[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q13|src_kangourou_2023_ecolier_squadre_f2__Q13]]
@@ -498,7 +510,7 @@ How many of the 26 seats are red
 
 *Kilometres from A to B given road signs*
 
-> From A to B Traveling from city A to city B, Sergio encounters a road sign that says: 100 km to city B. After 12 km Sergio sees another sign on the other side of the road that says: 100 km to the city A. How many miles does Sergio have to travel to get from A to B?
+> From A to B Traveling from city A to city B, Sergio encounters a road sign that says: 100 km to city B. After 12 km Sergio sees another sign on the other side of the road that says: 100 km to the city A. How many kilometres does Sergio have to travel to get from A to B?
 > 
 >  
 > Questions and solutions

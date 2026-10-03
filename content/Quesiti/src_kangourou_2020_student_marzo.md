@@ -39,7 +39,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of the last two digits of the product 1x2x..x1*
+*Sum of the last two digits of the product 1x2x..x1*
 
 > What is the sum of the last two digits of product 1×2×3×4×5×4×3×2×1? A) 2
 > 	
@@ -93,7 +93,7 @@ level: kangourou
 
 ![[src_kangourou_2020_student_marzo__prob2.png]]
 
-> An ant moved every day, moving along a straight line, from point A to point B, which is 5 meters from A. One day he found two overlapping obstacles on his way, each 1 m high, as shown in the picture. From that day on, the ant moves from A to B, staying above the straight line it once traveled, but rising above the two obstacles and descending along the vertical. How many feet is your path now? A) 7
+> An ant moved every day, moving along a straight line, from point A to point B, which is 5 meters from A. One day he found two overlapping obstacles on his way, each 1 m high, as shown in the picture. From that day on, the ant moves from A to B, staying above the straight line it once traveled, but rising above the two obstacles and descending along the vertical. How many meters is its path now? A) 7
 > 	
 > B) 9
 > 	
@@ -135,7 +135,7 @@ level: kangourou
 
 *Position of the ab product on the real line*
 
-> Renata scored as accurately as possible two points a and b on the real line. One of the points p, q, r, s, t of the line represents the product ab. What kind? A) p
+> Renata marked as accurately as possible two points a and b on the real line. One of the points p, q, r, s, t of the line represents the product ab. Which one? A) p
 > 	
 > B) q
 > 	
@@ -198,11 +198,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of students who use motorcycles*
+*Percentage of students who use mopeds*
 
 ![[src_kangourou_2020_student_marzo__prob4.png]]
 
-> The cake diagram shows how students at a school reach the school building. Those using bicycles are about twice as many as those using public transportation, while those arriving by car are about as many as those who walk. Everybody else is coming in the motorcycle. What's the percentage of students using a motorcycle? A) 6 % B) 11 % C) 12 % D) 24 % E) 47 % x 0 1/4 1/2 3/4 1 5/4 a b p q r s t 11 % 47 % 12 % 24 % 6 %
+> The pie chart shows how students at a school reach the school building. Those using bicycles are about twice as many as those using public transportation, while those arriving by car are about as many as those who walk. Everybody else is coming by moped. What's the percentage of students using a moped? A) 6 % B) 11 % C) 12 % D) 24 % E) 47 % x 0 1/4 1/2 3/4 1 5/4 a b p q r s t 11 % 47 % 12 % 24 % 6 %
 >
 
 **Answer:** A
@@ -240,15 +240,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of A+B+C+D+E sum of five three-digit numbers*
+*Value of A+B+C+D+E sum of 5 three-digit numbers*
 
-> The sum of 5 three-digit numbers shown in Figure 2664 is equal to 2664. What is the value of A + B + C + D + E ? A) 4
+> The sum of 5 three-digit numbers shown in the figure equals 2664. 
+> What is the value of A + B + C + D + E ?
+> A) 4	
 > 	
-> B) 14
+> B) 14	
 > 	
-> C) 24
+> C) 24	
 > 	
-> D) 34
+> D) 34	
 > 	
 > E) 44
 
@@ -281,9 +283,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the assets of the institution.
+*Value of (1010^2+2020^2+3030^2)/2020*
 
-> What 's the value of ? A) 2020 B) 3030 C) 4040 D) 6060 E) 7070
+> What is the value of                                           ?
+> A) 2020		
+> B) 3030		
+> C) 4040		
+> D) 6060		
+> E) 7070
 
 **Answer:** E
 [[Quesiti/src_kangourou_2020_student_marzo#q06|src_kangourou_2020_student_marzo__Q06]]
@@ -505,7 +512,7 @@ This is the total value of the assets of the institution.
 
 ![[src_kangourou_2020_student_marzo__prob11.png]]
 
-> A grey rectangle and a black one overlap partially. The figure shows four different cases where this happens. Let us denote with G the area of the part of the grey rectangle that is not common to the two rectangles and with N the area of the part of the black rectangle that is not common to the two rectangles: which of the following statements on the difference G  N is true? (a) In case 1, the quantity G  N is higher than in other cases. B) In case 2, the quantity G  N is higher than in other cases. (c) In case 3, the quantity G  N is higher than in other cases. D) In case 4, the quantity G  N is higher than in other cases. E) The quantity G  N is the same in all cases. A B C C + B C D D D E + D E A + E A B 2 6 6 4 = 10102 + 20202 + 30302 ------------------------------ 2020 DK ------- EM KE ------- DM DM ------- KE KM ------- DE case 1 case 2 case 3 case 4
+> A grey rectangle and a black one overlap partially. The figure shows four different cases where this happens. Let us denote with G the area of the part of the grey rectangle that is not common to the two rectangles and with N the area of the part of the black rectangle that is not common to the two rectangles: which of the following statements on the difference G  N is true? A) In case 1, the quantity G – N is higher than in other cases. B) In case 2, the quantity G – N is higher than in other cases. C) In case 3, the quantity G – N is higher than in other cases. D) In case 4, the quantity G – N is higher than in other cases. E) The quantity G – N is the same in all cases. A B C C + B C D D D E + D E A + E A B 2 6 6 4 = 10102 + 20202 + 30302 ------------------------------ 2020 DK ------- EM KE ------- DM DM ------- KE KM ------- DE case 1 case 2 case 3 case 4
 >
 
 **Answer:** E
@@ -545,7 +552,7 @@ This is the total value of the assets of the institution.
 
 *Minimum moves to spin 5 coins by turning 3 coins at a time*
 
-> On a table there are five coins, all with their sides headed up. You can switch to the coins, but you have to turn exactly 3 of them with each move. What's the minimum number of moves that allows you to have all the coins with the cross side up? A) 2
+> On a table there are five coins, all with the heads side up. You can flip the coins, but you have to turn exactly 3 of them with each move. What's the minimum number of moves that allows you to have all the coins with the cross side up? A) 2
 > 	
 > B) 3
 > 	
@@ -588,13 +595,21 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litrate of paint for the structure of parallel pipes*
+*Litres of paint for the structure of parallelepipeds*
 
 ![[src_kangourou_2020_student_marzo__prob13.png]]
 
-> Four identical parallel pipes are glued together to get the structure you see in the figure. To paint the entire exterior of a single parallel piped would require 1 litre of paint. How many litres of paint are needed to paint the entire exterior of the structure? A) 2,5 B) 3
+> Four identical parallelepipeds are glued together 
+> to obtain the structure you see in the figure. To paint the entire outside of a single parallelepiped, 
+> 1 litre of paint would be 
+> needed. How many litres of paint are 
+> needed to paint the entire outside of the structure?
+> A) 2.5	 	
+> B) 3	
 > 	
-> C) 3,25 D) 3,5 E) 4
+> C) 3.25	 	
+> D) 3.5	 	
+> E) 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2020_student_marzo#q13|src_kangourou_2020_student_marzo__Q13]]
@@ -633,7 +648,7 @@ This is the total value of the assets of the institution.
 
 *Which cannot be (a-b)^2+(b-c)^2+(c-a)^2*
 
-> They're a, b, and c integers. Which of the following numbers is certainly NOT equal to (a  b) 2 + (b  c) 2 + (c  a) 2 ? A) 0
+> Let a, b, and c be integers. Which of the following numbers is certainly NOT equal to (a – b)2 + (b – c)2 + (c – a)2 ? A) 0
 > 	
 > B) 1
 > 	
@@ -828,9 +843,15 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities equal to the first 2020 items of the succession*
+*How many even numbers among the first 2020 elements of the sequence*
 
-> The sequence fn is defined as follows: f1 = 1, f2 = 3 and fn + 2 = fn + fn + 1 for n ≥ 1. Of the first 2020 items in the succession, how many are equal? A) 673 B) 674 C) 1010 D) 1011 E) 1347
+> The sequence fn is defined as follows: f1 = 1, f2 = 3 and fn + 2 = fn + fn + 1 
+> for n ≥ 1. Of the first 2020 elements of the sequence, how many are even?
+> A) 673	 	
+> B) 674	 	
+> C) 1010		
+> D) 1011		
+> E) 1347
 
 **Answer:** A
 [[Quesiti/src_kangourou_2020_student_marzo#q18|src_kangourou_2020_student_marzo__Q18]]
@@ -897,7 +918,7 @@ This is the total value of the assets of the institution.
 \end{document}
 ```
 
-> A circumference and a rectangle have been drawn so that the circumference is tangent to both sides of the rectangle and passes through one of its vertices. The distances of two vertices of the rectangle from the point of tangency on the side joining them are 5 and 4, as shown in the figure. What is the area of the rectangle? A) 27 π B) 25 π C) 72
+> A circle and a rectangle have been drawn so that the circle is tangent to two sides of the rectangle and passes through one of its vertices. The distances of two vertices of the rectangle from the point of tangency on the side joining them are 5 and 4, as shown in the figure. What is the area of the rectangle? A) 27 π B) 25 π C) 72
 > 	
 > D) 63
 > 	
@@ -943,19 +964,21 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Face area with the parallel-piped application point*
+*Area of the face with the question mark of rectangular parallelepipeds*
 
 ![[src_kangourou_2020_student_marzo__prob20.png]]
 
-> Three rectangular parallel pipes are arranged in such a way as to form a single parallel piped (rectangle) as shown in the figure. We know that the width of one of the faces is 6 and we know the areas of some faces, which are 14, 21, 16 and 30, arranged as shown in the figure. How much is the face area indicated by the point in question? A) 18
-> 	
-> B) 24
-> 	
-> C) 28
-> 	
-> D) 30
-> 	
-> E) There is insufficient data to determine it. The questions from N. 21 al N. 30 is worth 5 points each.
+> Three rectangular parallelepipeds are arranged so as to form a single (rectangular) parallelepiped as in the figure. It is known that the width of one of the faces is 6 and the areas of some faces are known, which are 14, 21, 16 and 30, arranged as in the figure. What is the area of the face indicated by the question mark?
+> A) 18	
+	
+> B) 24	
+	
+> C) 28	
+	
+> D) 30	
+	
+> E) The data are insufficient to determine it.
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** B
 [[Quesiti/src_kangourou_2020_student_marzo#q20|src_kangourou_2020_student_marzo__Q20]]
@@ -1084,7 +1107,7 @@ This is the total value of the assets of the institution.
 
 *Pair of numbers which do not divide N between 2 and 11*
 
-> A number N is divisible by all integers from 2 to 11, except two. Which of the following can be the pair of numbers that do not divide N ? A) 2 e 3 B) 4 e 5 C) 6 e 7 D) 7 e 8 E) 10 e 11 5 4 x y 0 P
+> A number N is divisible by all integers from 2 to 11, except two. Which of the following can be the pair of numbers that do not divide N ? A) 2 and 3 B) 4 and 5 C) 6 and 7 D) 7 and 8 E) 10 and 11 5 4 x y 0 P
 >
 
 **Answer:** D
@@ -1131,7 +1154,7 @@ This is the total value of the assets of the institution.
 
 ![[src_kangourou_2020_student_marzo__prob24.png]]
 
-> A rectangular garden has been enlarged by increasing the length of one side by 20% and the length of the other by 50%. The new garden is square. The area of the new garden, which lies between the diagonal of the old and the new garden, shaded in the figure, measures 30 m2. How many square feet did the garden cover before it was enlarged? A) 60
+> A rectangular garden has been enlarged by increasing the length of one side by 20% and the length of the other by 50%. The new garden is square. The area of the new garden, which lies between the diagonals of the old and the new garden, shaded in the figure, measures 30 m2. How many square meters did the garden cover before it was enlarged? A) 60
 > 	
 > B) 65
 > 	
@@ -1228,16 +1251,21 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of seeds remaining in the box*
+*Minimum number of marbles that remain in the box*
 
-> Antonio has a box with 71 balls. The rules of the game allow him, with each move, to remove exactly 30 cards or to re-enter the box exactly 18 of the cards removed in the previous moves. If Antonio can remove or re-put the seeds in the box as many times as he wants, what is the minimum number of seeds that will remain in the box anyway? A) 1
-> 	
-> B) 3
-> 	
-> C) 5
-> 	
-> D) 7
-> 	
+> Antonio has a box with 71 marbles. The rules of the game allow him, at each
+> move, to remove exactly 30 marbles or to put back into the box exactly 18
+> of the marbles removed in previous moves. If Antonio can remove or put back marbles
+> in the box as many times as he wants, what is the minimum number of marbles that will
+> remain in the box anyway?
+> A) 1	
+	
+> B) 3	
+	
+> C) 5	
+	
+> D) 7	
+	
 > E) 11
 
 **Answer:** C
@@ -1280,7 +1308,7 @@ This is the total value of the assets of the institution.
 
 ![[src_kangourou_2020_student_marzo__prob27.png]]
 
-> Vera took a square of paper from side 1 and folded two consecutive sides so as to overlay them to a diagonal, as shown in the figure, obtaining a quadrilateral. What is the area of this quadrilateral? A) 2 – √2 B)
+> Vera took a square of paper with side 1 and folded two consecutive sides so as to overlap them on a diagonal, as shown in the figure, obtaining a quadrilateral. What is the area of this quadrilateral? A) 2 – √2 B)
 > 	
 > C) √2 – 1 D)
 > 	
@@ -1327,11 +1355,24 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spin of the cube given 90% submerged and visible parts*
+*Cube edge given 90% submerged and visible parts*
 
-> An iceberg is shaped like a cube. The volume of the part that remains hidden beneath the surface of the water is exactly 90% of the volume of the iceberg. Above the surface of the water only three spikes are partially visible, the visible parts of which measure 24 m, 25 m and 27 m. How long is the cube's tail? A) 30 B) 33
-> 	
-> C) 34 D) 35 E) 39 7----- 10 3----- 5 √2 ----- 2
+> An iceberg has the shape of a cube. The volume of the part that remains hidden below the
+> surface of the water is exactly 90% of the volume of the iceberg. Above the surface
+> of the water only three edges are partially visible, whose visible parts measure 24
+> m, 25 m and 27 m. How many metres is the edge of the cube?
+> A) 30
+> B) 33
+> C) 34
+> D) 35
+> E) 39
+>  7-----
+> 10
+>  3-----
+>  5
+> √2
+> -----
+>  2
 >
 
 **Answer:** A
@@ -1384,7 +1425,7 @@ This is the total value of the assets of the institution.
 
 ![[src_kangourou_2020_student_marzo__prob29.png]]
 
-> In the lower row of the table in the figure, from left to right, n prime numbers p1, p2, ..., pn are written, all different from each other. For each pair of numbers in adjacent boxes of the same row, their product is written in the upper row box at the bottom of the two original boxes. In the box at the top of the table, the number K = p1 α1 p2 α2 ... pn αn is written. In a table where α2 = 8, how many of the numbers in the table are divisible by p4? A) 4
+> In the lower row of the table in the figure, from left to right, n prime numbers p1, p2, ..., pn are written, all different from each other. For each pair of numbers in adjacent boxes of the same row, their product is written in the upper row box above the two original boxes. In the box at the vertex of the table, the number K = p1 α1 p2 α2 ... pn αn is written. In a table where α2 = 8, how many of the numbers in the table are divisible by p4? A) 4
 > 	
 > B) 16
 > 	
@@ -1447,19 +1488,34 @@ This is the total value of the assets of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Charles' favourite figure from the logical dialogue*
+*Carlo's favourite figure from the logic dialogue*
 
 ![[src_kangourou_2020_student_marzo__prob30.png]]
 
-> Marco and Brigitta must guess which of the following figures is Carlo's favorite. Mark knows that Charles has revealed to Brigitte what the shape of his favorite figure is, and Brigitte knows that Charles has communicated the color to Mark. At this point the following conversation takes place between Marco and Brigitta. Marco: I don't know what Carlo's favorite figure is, but I know that even Brigitta can't know. At first I didn't know what Charles' favorite figure was, but now I do. MARC: I know that now. What's Carlo's favorite character? A)
+> Marco and Brigitta must guess which of the following figures is Carlo's favourite.
+> Marco knows that Carlo has revealed to Brigitta what the shape of his favourite figure is, and
+> Brigitta knows that Carlo has communicated its colour to Marco. At this point the following conversation takes place
+> between Marco and Brigitta. Marco: "I don't know which is the figure
+> preferred by Carlo, but I know that Brigitta cannot know it either". Brigitta: "At first
+> I didn't know which was Carlo's favourite figure, but now I know".
+> Marco: "Now I know too". Which is Carlo's favourite figure?
+> A) 	
 > 	
-> B)
+> B) 	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
-> E) K p1 p2 p2 p3 p1 p2 p3 pn-1 pn pn-1 pn
+> E) 
+> K
+> p1 p2 p2 p3
+> p1 
+>  p2
+>  p3
+>  pn-1
+>  pn
+> pn-1 pn
 >   
 > Answers
 

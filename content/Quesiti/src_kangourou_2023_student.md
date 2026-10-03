@@ -40,13 +40,14 @@ level: kangourou
 
 *Value of a numerical expression*
 
-> What 's the value of ? A) 1
+> What is the value of                              ?
+> A) 1	
 > 	
-> B)
+> B)	
 > 	
-> C)
+> C) 	
 > 	
-> D)
+> D) 	
 > 	
 > E) 49
 
@@ -86,7 +87,7 @@ level: kangourou
 
 *Maximum number of 6 with 5 dice totaling 19*
 
-> Throwing five traditional dice, Giulia scores 19 points. What's the maximum number of 6 you can make? A) 0
+> Throwing five traditional dice, Giulia scores 19 points. What is the maximum number of 6s she may have rolled? A) 0
 >        	
 > B) 1
 > 	
@@ -131,9 +132,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of the whole equation with square roots*
+*Integer solutions of the equation with square roots*
 
-> How many whole solutions does the equation √x2  45 + √50  x2 = x  4 have? A) 0
+> How many whole solutions does the equation √x2 – 45 + √50 – x2 = x – 4 have? A) 0
 > 	
 > B) 1
 > 	
@@ -205,7 +206,7 @@ level: kangourou
 \end{document}
 ```
 
-> Emma has four different colored brushes. He wants to paint the rectangular flag with three stripes in the figure so that each strip is all the same color and adjacent stripes are of different colors. How many different ways can you do that? A) 24
+> Emma has markers in four different colors. She wants to paint the rectangular flag with three stripes in the figure so that each strip is all the same color and adjacent stripes are of different colors. In how many distinct ways can she do it? A) 24
 > 	
 > B) 27 C) 32 D) 36 E) 64
 
@@ -239,9 +240,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two prime integers (exactly divisors 1,2,n) *
+*How many 2-prime integers (exactly divisors 1,2,n)*
 
-> Let's say a positive integer n is 2prime if it admits exactly 3 distinct divisors, precisely 1, 2 and n itself. How many integers are the first two? A) 0 B) 1 C) 2 D) 3 E) 4
+> We say that a positive integer n is "2-prime" if it has exactly 3 distinct
+> divisors, precisely 1, 2 and n itself. How many 2-prime integers are there?
+> A) 0	
+>             	 B) 1	
+>             	 C) 2	
+>             	 D) 3	
+>            	 E) 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2023_student#q05|src_kangourou_2023_student__Q05]]
@@ -277,9 +284,9 @@ level: kangourou
 
 *Pairs of positive integers with x+2^y=2^10*
 
-> How many pairs of positive integers x and y satisfy the equation x + 2y = 210 ? A) 29 – 1 B) 29
+> How many pairs of positive integers x and y satisfy the equation x + 2^y = 2^10 ? A) 2^9 – 1 B) 2^9
 > 	
-> C) 29 + 1 D)  29 + 2 E) 0
+> C) 2^9 + 1 D)  2^9 + 2 E) 0
 
 **Answer:** A
 [[Quesiti/src_kangourou_2023_student#q06|src_kangourou_2023_student__Q06]]
@@ -320,11 +327,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exagonal perimeter formed by two equilateral triangles overlapping*
+*Hexagon perimeter formed by two equilateral triangles overlapping*
 
 ![[src_kangourou_2023_student__prob7.png]]
 
-> Two equilateral triangles are partially superimposed to form an hexagon with opposite sides two to two parallels. The length of the four sides is known and shown in the figure. What is the perimeter of the axis? A) 64
+> Two equilateral triangles are partially superimposed to form a hexagon with opposite sides two to two parallels. The length of the four sides is known and shown in the figure. What is the perimeter of the hexagon? A) 64
 >     	
 > B) 66
 >     	
@@ -416,7 +423,7 @@ level: kangourou
 \end{document}
 ```
 
-> A square of area 84 is divided into 4 squares and the square in the upper left corner is painted black. The square in the lower right corner is in turn divided into 4 squares, of which the one in the upper left corner is painted black. The process is repeated countless times. In total, what area will the square part that will be painted black have? A) 24 B) 28
+> A square of area 84 is divided into 4 squares and the square in the upper left corner is painted black. The square in the lower right corner is in turn divided into 4 squares, of which the one in the upper left corner is painted black. The process is repeated infinitely many times. In total, what area will the square part that will be painted black have? A) 24 B) 28
 >  	
 > C) 31
 > 	
@@ -453,7 +460,12 @@ level: kangourou
 
 *find n*
 
-> The number can be written as n for an appropriate integer n. How much is n? A) 530 B) 56 C) 55 D) 30 E) 11
+> The number         can be written as nn for a suitable integer n. What is the value of n?
+> A) 530       	
+> B) 56              	
+> C) 55               	
+> D) 30          	
+> E) 11
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_student#q09|src_kangourou_2023_student__Q09]]
@@ -490,15 +502,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the product (5^5+1)
+*Units digit of the product (5^5+1)(5^10+1)(5^15+1)*
 
-> What is the number of units in the product (55 + 1)(510 + 1)(515 + 1)? A) 1
+> What is the units digit in the product 
+>  (55 + 1)(510 + 1)(515 + 1)?
+> A) 1	
 >          	
-> B)  2
+> B)  2	
 >   	
-> C) 4 D)  5
+> C) 4      		
+> D)  5	
 >     	
-> E) 6 Questions from N. 11 al N. 20 is worth 4 points each.
+> E)  6
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_student#q10|src_kangourou_2023_student__Q10]]
@@ -537,11 +553,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of lengths of the two missing beams of a pyramid*
+*sum of lengths of the two missing edges of a pyramid*
 
 ![[src_kangourou_2023_student__prob11.png]]
 
-> A triangular pyramid has all the spikes of full length. Four of these lengths are shown in the diagram. What is the sum of the lengths of the other two legs? A) 9
+> A triangular pyramid has all the edges of integer length. Four of these lengths are shown in the diagram. What is the sum of the lengths of the other two edges? A) 9
 > 	
 > B) 10
 > 	
@@ -634,7 +650,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common point to all cubic family graphs*
+*Common point to all graphs of a family of cubics*
 
 > Whatever the choice of the value assigned to the real parameter a, the graphs of the functions ya = x3 + 3x2 + ax + 2a + 4 all pass through the same point of the Cartesian plane. What is the sum of the coordinates of that point? A) 2
 > 	
@@ -733,15 +749,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Couples of integers with 2m-2023 dictionary
+*Pairs of integers with |2m-2023|+|2n-m|<=1*
 
-> How many pairs of integers m and n satisfy the inequality? A) 0
+> How many pairs of integers m and n satisfy the inequality
+> |2m – 2023| + |2n – m| ≤ 1?
+> A) 0	
 > 	
-> B) 1
+> B) 1	
 > 	
-> C) 2
+> C) 2	
 > 	
-> D) 3 E) 4
+> D) 3            	
+> E) 4
 
 **Answer:** B
 [[Quesiti/src_kangourou_2023_student#q15|src_kangourou_2023_student__Q15]]
@@ -823,7 +842,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 *Little n with an interval containing at least 4 integers*
 
-> What is the smallest nonnegative integer n such that the interval of extremes (n + 8)/2 and (2n + 14)/3, extremes included, contains at least four integers? A) 19
+> What is the smallest nonnegative integer n such that the interval with endpoints (n + 8)/2 and (2n + 14)/3, endpoints included, contains at least four integers? A) 19
 > 	
 > B) 18
 > 	
@@ -871,7 +890,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 *From how many numbers do you start to get 10 by adding the decimal part*
 
-> When a positive number appears on a computer screen (in decimal notation), pressing an appropriate button adds its decimal part to that number: for example, the number 1,3 is transformed into 1.6. How many different numbers can you start from if you want the result to be exactly 10 by pressing the button no more than four times? A) 3
+> When a positive number appears on a computer screen (in decimal notation), pressing an appropriate button adds its decimal part to that number: for example, the number 1,3 is transformed into 1,6. How many different numbers can you start from if you want the result to be exactly 10 by pressing the button no more than four times? A) 3
 > 	
 > B) 7
 > 	
@@ -966,9 +985,9 @@ Maximum number of koalas with each animal near a kangaroo
 \end{document}
 ```
 
-> The figure shows an ABCD rectangular trapezoid whose base AB measures 120 and whose base CD measures 30. Both E and the point where the diagonals intersect. What 's the distance of E to the BC side ? A) 22
+> The figure shows an ABCD rectangular trapezoid whose base AB measures 120 and whose base CD measures 30. Let E be the point where the diagonals intersect. What is the distance of E from side BC ? A) 22
 > 	
-> (B) 23 C) 24 D) 25 E) Measurement depends on the distance between the bases
+> B) 23 C) 24 D) 25 E) The measurement depends on the distance between the bases
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_student#q19|src_kangourou_2023_student__Q19]]
@@ -1004,13 +1023,18 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multi-dimensional dividers of 2^20*3^23 which do not divide 2^10*3^20*
+*Divisors of 2^20*3^23 that do not divide 2^10*3^20*
 
-> How many different positive integers are divisible by 220 323, but they're not divisible by 210 320? A) 13
+> How many different positive integers are divisors of 220 323, but are not divisors 
+> of 210 320 ?
+> A) 13	
 > 	
-> B) 30
+> B) 30	
 > 	
-> (C) 273 D) 400 E) None of the above. The questions from N. 21 al N. 30 is worth 5 points each.
+> C) 273	 	
+> D) 400 
+> E) None of the previous values.
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2023_student#q20|src_kangourou_2023_student__Q20]]
@@ -1066,13 +1090,37 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression of function f by functional system*
+*Expression of the function f from a system of functional equations*
 
-> Two real functions of a real variable, f and g, satisfy, for every real x, both the equations f(x) + 2 g(1  x) = x2 and f(1  x)  g(x) = x2. What is the expression of the function f ? A) f(x) = x2 –      x +
+> Two real functions of a real variable, f and g, satisfy, for every real x, both
+> equalities
+> f(x) + 2 g(1 – x) = x2    and    f(1 – x) – g(x) = x2.
+> What is the expression of the function f ?
+> A) f(x) = x2 –      x + 	
 > 	
-> B)  f(x) = x2 +     x + C) f(x) = – x2 –      x +
+> B)  f(x) = x2 +     x +     
+> C) f(x) = – x2 –      x +  	
 > 	
-> D) f(x) = x2  4x + 5 E) No such pair of functions f and g exists. A B C D E d 4 3 4 3 4 3 2 3 2 3 2 3
+> D)  f(x) = x2 – 4x + 5 
+> E) None, such a pair of functions f and g does not exist.
+> A
+> B
+> C
+> D
+> E
+> d
+>  4  
+>  3
+>  4  
+>  3
+>  4  
+>  3
+>  2  
+>  3
+>  2  
+>  3
+>  2  
+>  3
 >
 
 **Answer:** A
@@ -1264,7 +1312,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 ![[src_kangourou_2023_student__prob24.png]]
 
-> A regular tetrahedron has one colored face and three white faces. The flat figure on the right is a union of triangles congruent to the faces of the tetrahedron. The tetrahedron is placed on the figure so that its colored face overlaps the triangle with the START inscription; it is then rotated along one of its shoulders so that a face overlaps the adjacent triangle. By iterating the rotations (without ever turning back), on which triangle will the tetrahedron put its colored face again for the first time? A) A
+> A regular tetrahedron has one colored face and three white faces. The flat figure on the right is a union of triangles congruent to the faces of the tetrahedron. The tetrahedron is placed on the figure so that its colored face overlaps the triangle with the START inscription; it is then rotated along one of its edges so that a face overlaps the adjacent triangle. By iterating the rotations (without ever turning back), on which triangle will the tetrahedron put its colored face again for the first time? A) A
 > 	
 > B) B
 > 	
@@ -1278,7 +1326,7 @@ Maximum number of koalas with each animal near a kangaroo
 >   
 > 626 627 625 625         626 627 625 626
 >  
-> 627 625 626 627 A B C D and START
+> 627 625 626 627 A B C D E START
 >
 
 **Answer:** E
@@ -1367,7 +1415,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 ![[src_kangourou_2023_student__prob26.png]]
 
-> The axes of the sides of a square divide it into four smaller squares. In the square, a circle tangent to the square is drawn in the middle of one side. The circle determines on the axes of the sides the length segments indicated in the figure. What's the length of the side of the square? A) 18
+> The perpendicular bisectors of the sides of a square divide it into four smaller squares. In the square, a circle tangent to the square is drawn at the midpoint of one side. The circle determines on the perpendicular bisectors of the sides the segments of the length indicated in the figure. What's the length of the side of the square? A) 18
 > 	
 > B) 20
 > 	
@@ -1409,9 +1457,16 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer that divides n by n+1) by 3...(n+4) by 3*
+*Largest integer that divides n^3(n+1)^3...(n+4)^3*
 
-> What is the largest integer that divides all the numbers of the form n3 (n + 1)3(n + 2)3(n + 3)3(n + 4)3 , by varying the strictly positive integer n? A) 29 33 B) 23 33 53 C) 26 33 53 D) 28 32 53 E) 29 33 53
+> What is the largest integer that divides all numbers of the form 
+> n3 (n + 1)3(n + 2)3(n + 3)3(n + 4)3 , 
+> as the strictly positive integer n varies?
+> A) 29 33 		
+> B) 23 33 53 	
+> C) 26 33 53	
+> D) 28 32 53	
+> E) 29 33 53
 
 **Answer:** E
 [[Quesiti/src_kangourou_2023_student#q27|src_kangourou_2023_student__Q27]]
@@ -1459,7 +1514,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 ![[src_kangourou_2023_student__prob28.png]]
 
-> In each of the hexagons in the figure, an integer between 1 and 11 must be placed so that all these integers are used and do not vary, as the black ball varies, the sum of the numbers in the hexagons surrounding the ball itself. Three of the numbers have already been placed. What number should appear in the box with the question mark? A) 1
+> In each of the hexagons in the figure, an integer between 1 and 11 must be placed so that all these integers are used and do not vary, as the black ball varies, the sum of the numbers in the triple of hexagons surrounding the ball itself. Three of the numbers have already been placed. What number should appear in the hexagon with the question mark? A) 1
 > 	
 > B) 3
 > 	
@@ -1520,7 +1575,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 ![[src_kangourou_2023_student__prob29.png]]
 
-> Two identical cylinder tanks contain the same amount of water. One cylinder is in a vertical position while the other is oblique, resting on the first in such a position that the water level is the same in both, the lowest allowing the bottom of the tank to be covered, as shown in the figure. The base of each cylinder is a circle of 3 p m2. How many cubic meters of water does each tank contain? A) 3√3p B) 6 p C) 9 p D) p E) The information is not sufficient to answer. x5 −11x4 + 34x3 −46x2 + 29x −7 8 6 6 ? 4 11 3 4
+> Two identical cylinder tanks contain the same amount of water. One cylinder is in a vertical position while the other is oblique, resting on the first in such a position that the water level is the same in both, the lowest allowing the bottom of the tank to be covered, as shown in the figure. The base of each cylinder is a circle of area 3 p m2. How many cubic meters of water does each tank contain? A) 3√3p B) 6 p C) 9 p D) p E) The information is not sufficient to answer. x5 −11x4 + 34x3 −46x2 + 29x −7 8 6 6 ? 4 11 3 4
 >
 
 **Answer:** C
@@ -1569,7 +1624,7 @@ Maximum number of koalas with each animal near a kangaroo
 
 *Number d in the product of six consecutive integers of 12 digits*
 
-> The product of six consecutive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. What 's the value of the number d ? A) 1
+> The product of six consecutive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. What is the value of the number d ? A) 1
 > 	
 > B) 2
 > 	

@@ -29,7 +29,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer points in the radius 10 centered circle of origin*
+*Integer points in the circle of radius 10 centered at the origin*
 
 > year N: in the following 4 years, days are added according to the scheme: 1+1+1+2,
 
@@ -146,13 +146,42 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Giulio will total the first two wins.
+*Probability that Giulio totals two wins first*
 
-> year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but split (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period in which the bi-annual sequence is represented is 400 years, it is sufficient to verify what happens, for example, in the years from 2000 to 2400 excluded. • If the year of departure is 2000 + 4K or 2100 + 4K or 2200 + 4K with 8 < K < 25 after 68 years, the starting situation is repeated: in fact, in the 17 quadrennials under consideration, one has a multiple year of 4 non-biestyle years and 5 × 16 + 4 = 84 = 4 × 28. • If the starting year is 2300 + 4K with 0 ≤ K < 22 the situation repeats itself after 112 years, since the interval contains 2400 (which is bisestile) but not 2500; if it has the same shape but 22 ≤ K < 25 must pass 180 years, since after 112 years one day advances (since the interval contains 2500) and to compensate for it the other 27 days that accumulate over the next 44 years (all bisestiles since 2480 + 4K < 2600). • If the starting year is 2000 + 4K with 0 ≤ K < 5, after 68 years it does not exceed 2100 and then advances one day, but after another 112 years that day is lost as one bisetle is lost (one only because, if K < 5, 2180 + 4K < 2200) and thus serve in all 180 years. The same thing happens with years of the form 2100 + 4K, 2200 + 4K with 0 ≤ K < 5. • If the starting year is 2000 + 4K or 2100 + 4K with 5 ≤ K ≤ 8, the above considerations are valid and therefore 248 years are required. Instead, if it has the form 2200 + 4K with 5 ≤ K ≤ 8 is enough 180 years because after 68 years one day goes by which is recovered in the remaining 112 years which include the 2300 non-biestile and the 2400 bisestile.
+> the year N + 3: in the following 4 years days are added according to the pattern: 1+1+2+1. 
+> After the first 20 years needed to add 25 days, another 3 years suffice in the first case and only another 2 in the 
+> second and third case to add a lunar month; instead, in the fourth case 22 years add only 27 days and 
+> 23 add 29: to add 28+28=56=55+1 days, it suffices to let 44 + 1 = 45 years pass. If instead the day 
+> in question is between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). In any case 
+> one never reaches 2100. 
+> (**) More generally, one can note that the longest minimum time interval after which a certain lunar phase 
+> recurs on 29 February is always no greater than 248 years. Since the minimum period with which the 
+> sequence of leap years recurs is 400 years, it suffices to check what happens for example in the years from 2000 inclusive to 
+> 2400 exclusive. 
+> • 
+> If the starting year has the form 2000 + 4K  or  2100 + 4K  or  2200 + 4K with 8 < K < 25, after 68 years the 
+> starting situation repeats: indeed among the 17 four-year periods under examination one contains a multiple of 4 that is not 
+> a leap year and 5 × 16 + 4 = 84 = 4 × 28. 
+> • 
+> If the starting year has the form 2300 + 4K with 0 ≤ K < 22, the situation repeats after 112 years, since 
+> the interval contains 2400 (which is a leap year) but not 2500; if it has the same form but 22 ≤ K < 25, 
+> 180 years must pass, since after 112 years one day is left over (given that the interval contains 2500) and to compensate 
+> for it the other 27 days are needed, which accumulate in the following 44 years (all leap years since 2480 + 4K < 2600). 
+> • 
+> If the starting year has the form 2000 + 4K with 0 ≤ K < 5, after 68 years 2100 is not exceeded and therefore one 
+> day is left over, but after another 112 years that day is lost since a leap year is lost (only one since, if K < 5, 
+> 2180 + 4K < 2200) and therefore 180 years are needed in all. The same happens with years of the form 2100 + 4K, 2200 
+> + 4K with 0 ≤ K < 5. 
+> • 
+> If the starting year has the form 2000 + 4K or 2100 + 4K with 5 ≤ K ≤ 8, the considerations made above hold and 
+> therefore 248 years are needed. If instead it has the form 2200 + 4K with 5 ≤ K ≤ 8, 180 years suffice since after 68 years 
+> one day is left over which is recovered in the remaining 112 years that include the non-leap year 2300 and 
+> the leap year 2400. 
 > 
-> J5. (18 points) For which non-negative integers n, the number 55n+1 + 45n+2 + 35n is divisible by 11?
+> J5. (18 points )  For which non-negative integers n is the number 55n+1 + 45n+2 +35n  divisible 
+> by 11? 
 >  
-> Answer: For all of us.
+> Answer: For all.
 
 **Answer:** 2027
 [[Quesiti/src_kangourou_2019_junior_finale#q04|src_kangourou_2019_junior_finale__Q04]]
@@ -226,9 +255,9 @@ The probability that Giulio will total the first two wins.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n with [n/20]=[n/17]*
+*How many n with [n/20]=[n/17]*
 
-> Three objects each weigh an integer of kilograms, but they weigh two to two different things. In total, they weigh 200 pounds. How many kilos can the lightest object weigh at most?
+> Three objects each weigh an integer number of kilograms, but have pairwise different weights. Altogether they weigh 97 kilograms. How many kilograms can the lightest object weigh at most?
 >
 > - **(A)** 1
 > - **(B)** 30
@@ -268,13 +297,13 @@ The probability that Giulio will total the first two wins.
 
 *P'OQ' convex angle after three hours of running*
 
-> The square in the side figure is obtained by approximating 9 identical squares and is divided into three angular sectors. $\alpha$ and $\beta$ are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true?
+> The square in the side figure is obtained by placing 9 identical small squares side by side and is divided into three angular sectors. $\alpha$ and $\beta$ are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true?
 >
 > - **(A)** $\alpha = \beta$
 > - **(B)** $\beta = 30°$
 > - **(C)** $\alpha + \beta = 60°$
 > - **(D)** $2\beta + \alpha = 90°$
-> - **(E)** - None of them. (see figure)
+> - **(E)** None. (see figure)
 
 **Answer:** 0010
 [[Quesiti/src_kangourou_2019_junior_finale#q07|src_kangourou_2019_junior_finale__Q07]]
@@ -390,12 +419,12 @@ The probability that Giulio will total the first two wins.
 
 *Pairs of numbers (3 decimals) with sum = product*
 
-> Three five-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlapped. You know the sum of the three numbers is 57263. What are the hidden numbers?
+> Three five-digit numbers were each written on a plate. The figure shows how the plates are overlapped and the digits that remain visible. You know the sum of the three numbers is 57263. What are the hidden digits?
 >
-> - **(A)** 0, 2 e 2.
-> - **(B)** 2, 4 e 9.
-> - **(C)** 2, 7 e 8.
-> - **(D)** 5, 7 e 8.
+> - **(A)** 0, 2 and 2.
+> - **(B)** 2, 4 and 9.
+> - **(C)** 2, 7 and 8.
+> - **(D)** 5, 7 and 8.
 > - **(E)** None of the previous ones. (see figure)
 
 **Answer:** 0050
@@ -430,7 +459,7 @@ The probability that Giulio will total the first two wins.
 
 *Unknown side of the six rectangles in circumference*
 
-> The vertices of a square are $A$, $B$, $C$ and $D$ in the time direction. The vertices of an equilateral triangle are $A$, $B$ and $E$ in the time direction, where $A$ and $B$ are the same vertices of the square. What is the measurement in degrees of the angle $\angle CBE$?
+> The vertices of a square are $A$, $B$, $C$ and $D$ clockwise. The vertices of an equilateral triangle are $A$, $B$ and $E$ clockwise, where $A$ and $B$ are the same vertices of the square. What is the measurement in degrees of the angle $\angle CBE$?
 >
 > - **(A)** 30
 > - **(B)** 45
@@ -512,7 +541,7 @@ The probability that Giulio will total the first two wins.
 
 *Three-step achievable points (invariant MCD) *
 
-> Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance shall be covered on foot, and the distance to be covered by swimming shall be 2 km. How many miles is the entire route?
+> Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance shall be covered on foot, and the distance to be covered by swimming shall be 2 km. How many kilometers is the entire route?
 >
 > - **(A)** 10
 > - **(B)** 20
@@ -520,7 +549,7 @@ The probability that Giulio will total the first two wins.
 > - **(D)** 40
 > - **(E)** 60
 
-**Answer:** 2664
+**Answer:** 40
 [[Quesiti/src_kangourou_2019_junior_finale#q14|src_kangourou_2019_junior_finale__Q14]]
 
 
@@ -586,9 +615,9 @@ The probability that Giulio will total the first two wins.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategy in the 66-token game (who takes the last loss) *
+*Winning strategy in the 66-token game (who takes the last one loses) *
 
-> Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why? Why?
+> Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why?
 
 **Answer:** 35
 [[Quesiti/src_kangourou_2019_junior_finale#qj1|src_kangourou_2019_junior_finale__QJ1]]
@@ -644,7 +673,7 @@ The probability that Giulio will total the first two wins.
 
 *Bruno and Carlo can have a day of rest together (sports programmes) *
 
-> Bruno and Carlo practice three sports: soccer, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also provides for the reduction of rest days to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
+> Bruno and Carlo practice three sports: football, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also requires that rest days be reduced to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
 
 [[Quesiti/src_kangourou_2019_junior_finale#qj3|src_kangourou_2019_junior_finale__QJ3]]
 
@@ -672,7 +701,7 @@ The probability that Giulio will total the first two wins.
 
 *After how many years the full moon returns on the same day (cycle 28 days) *
 
-> 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but split (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period for which it is represented
+> 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period with which it recurs
 
 **Answer:** 248
 [[Quesiti/src_kangourou_2019_junior_finale#qj4|src_kangourou_2019_junior_finale__QJ4]]
@@ -703,7 +732,7 @@ The probability that Giulio will total the first two wins.
 
 > For which non-negative integers $n$, the number $5^{5n+1} + 4^{5n+2} + 3^{5n}$ is divisible by 11?
 
-**Answer:** tutti
+**Answer:** all
 [[Quesiti/src_kangourou_2019_junior_finale#qj5|src_kangourou_2019_junior_finale__QJ5]]
 
 
@@ -729,10 +758,10 @@ The probability that Giulio will total the first two wins.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AEF circle lies on the semicircle AB (acute triangle orthocentric) *
+*Circumcenter of AEF lies on the ray AB (acute triangle orthocenter)*
 
 ![[src_kangourou_2019_junior_finale__probj6.png]]
 
-> $ABC$ is an orthocentric triangle $H$, with the side $AB$ longer than the side $AC$; denotes with $E$ the symmetrical point of $C$ with respect to the height of $A$ and with $F$ the intersection of the passing line for $E$ and $H$ with the passing line for $A$ and $C$. It shows that the circumcenter of the $AEF$ triangle lies on the semicircle exiting $A$ and passing through $B$.
+> $ABC$ is an acute triangle with orthocenter $H$, with side $AB$ longer than side $AC$; denote by $E$ the point symmetric to $C$ with respect to the altitude drawn from $A$ and by $F$ the intersection of the line passing through $E$ and $H$ with the line passing through $A$ and $C$. Prove that the circumcenter of triangle $AEF$ lies on the ray starting from $A$ and passing through $B$.
 
 [[Quesiti/src_kangourou_2019_junior_finale#qj6|src_kangourou_2019_junior_finale__QJ6]]

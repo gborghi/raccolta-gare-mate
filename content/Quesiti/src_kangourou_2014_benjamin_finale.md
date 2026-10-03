@@ -62,7 +62,7 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Why number pairs = sum of prime n-1 integers*
+*Why number pairs = sum of the first n-1 integers*
 
 > AS BT CU DV
 
@@ -152,7 +152,7 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scoyattolo empties 15 plates in four visits*
+*Squirrel empties 15 plates in four visits*
 
 > AU BV CZ DR
 
@@ -181,9 +181,12 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To lead 16 8x8 squares with adjacent coverage*
+*Blacken 16 squares of an 8x8 with adjacent covering*
 
-> AV BZ CR DS
+> AV 
+> BZ 
+> CR 
+> DS
 
 [[Quesiti/src_kangourou_2014_benjamin_finale#q05|src_kangourou_2014_benjamin_finale__Q05]]
 
@@ -219,11 +222,11 @@ Minimum shifts for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary division of consecutive integers and minimum m*
+*Divisibility sum of consecutive integers and minimum m*
 
 > AZ BR CS DT
 >  
 >  
-> B2. (7 points) You have n objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: {A,B}, {A,C} and {B,C}). Whatever the number of n objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first n - 1 positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
+> B2. (7 points) You have n objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: {A,B}, {A,C} and {B,C}). Whatever the number n of objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first n - 1 positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
 
 [[Quesiti/src_kangourou_2014_benjamin_finale#q06|src_kangourou_2014_benjamin_finale__Q06]]

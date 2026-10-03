@@ -33,7 +33,7 @@ level: kangourou
 
 > Five girls and four boys took part in a competition where there were no positions of equal merit. The first place in the ranking is taken by a girl; by adding the numbers of the girls' positions you get twice the sum of the numbers of the boys' positions. What position did the last of the boys rank in?
 
-**Answer:** 6 (sesta)
+**Answer:** 6 (sixth)
 [[Quesiti/src_kangourou_2023_cadet_finale#qc1|src_kangourou_2023_cadet_finale__QC1]]
 
 
@@ -57,9 +57,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum tokens **
+*minimum tokens*
 
-> You want to place some tokens in as many square cells as a grid so that each cell either contains a token or shares a side with some cell that contains a token. What's the minimum number of tokens to achieve the goal?
+> We want to place some tokens in as many square cells of a $2 \times 9$ grid so that each cell either contains a token or shares a side with some cell that contains a token. What is the minimum number of tokens that allows achieving the goal?
 
 **Answer:** 5
 [[Quesiti/src_kangourou_2023_cadet_finale#qc2|src_kangourou_2023_cadet_finale__QC2]]
@@ -117,7 +117,7 @@ The following information shall be provided:
 
 > To form a secret code, the 21 letters of the Italian alphabet (therefore without the letters K, J, X, Y, W), written in alphabetical order, were progressively numbered starting from a letter that is not necessarily the A and starting again with the A after the Z (for example, if the letter E was the number 1, the F would be the number 2, the Z the number 17 and the A the number 18 until reaching the D, the number 21). The sum of the numbers assigned to the letters P, R, T is 24. The code $(3, 1, 11)$ corresponds to a word of complete meaning, i.e. present in the Italian vocabulary: which?
 
-**Answer:** TRE
+**Answer:** THREE
 [[Quesiti/src_kangourou_2023_cadet_finale#qc4|src_kangourou_2023_cadet_finale__QC4]]
 
 
@@ -147,7 +147,7 @@ This is the maximum amount of lying.
 
 ![[src_kangourou_2023_cadet_finale__probc5.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Every inhabitant says, "There's at least one person in my neighborhood who lies all the time". How many people can be at most lying all the time? (Two inhabitants mean neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Every inhabitant says, "Among my neighbours there is at least one person who always lies". How many people can be at most lying all the time? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
 
 **Answer:** 6
 [[Quesiti/src_kangourou_2023_cadet_finale#qc5|src_kangourou_2023_cadet_finale__QC5]]
@@ -217,7 +217,7 @@ This is the maximum amount of lying.
 \end{document}
 ```
 
-> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the middle point of the side $AB$. Let's rotate the square with a spindle in the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a spindle in $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
+> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the midpoint of the side $AB$. Let's rotate the square with a pivot at the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a pivot at $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
 
 **Answer:** (π/2)(1+√5)
 [[Quesiti/src_kangourou_2023_cadet_finale#qc6|src_kangourou_2023_cadet_finale__QC6]]

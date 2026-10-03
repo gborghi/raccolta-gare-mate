@@ -106,7 +106,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find the missing part of the box
+Find the missing part of the house
 
 ![[src_kangourou_2015_marzo_preecolier__prob3.png]]
 
@@ -146,7 +146,7 @@ Find the missing part of the box
 
 ![[src_kangourou_2015_marzo_preecolier__prob4.png]]
 
-> Five little pigs live in a bush. How many black spots do they have in total? (see figure)
+> Five ladybugs live in a bush. How many black spots do they have in total? (see figure)
 > 
 > (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
 
@@ -178,11 +178,11 @@ Find the missing part of the box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shorter *
+*the shortest*
 
 ![[src_kangourou_2015_marzo_preecolier__prob5.png]]
 
-> Henry has 10 stripes of metal equal to each other. It joins them in pairs to form longer stripes. What's the shortest? (see figure)
+> Henry has 10 strips of metal equal to each other. It joins them in pairs to form longer strips. What's the shortest? (see figure)
 > 
 > (A) (B) (C) (D) (E)
 
@@ -214,7 +214,7 @@ Find the missing part of the box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image rotated matches that date*
+*Which rotated image matches the given one*
 
 ![[src_kangourou_2015_marzo_preecolier__prob6.png]]
 
@@ -254,7 +254,7 @@ Find the missing part of the box
 
 ![[src_kangourou_2015_marzo_preecolier__prob7.png]]
 
-> What do we see when we look up at the round tower? (see figure)
+> What do we see when we look at the round tower from above? (see figure)
 > 
 > (A) (B) (C) (D) (E)
 
@@ -322,7 +322,7 @@ Find the missing part of the box
 
 *total time*
 
-> It takes Isabella half an hour to make halfway between home and school. How long does it take to get all the way from home to school?
+> It takes Isabella half an hour to go halfway between home and school. How long does it take to get all the way from home to school?
 > 
 > (A) $15$ minutes (B) $30$ minutes (C) $60$ minutes (D) $120$ minutes (E) $40$ minutes
 
@@ -358,7 +358,7 @@ Find the missing part of the box
 
 ![[src_kangourou_2015_marzo_preecolier__prob10.png]]
 
-> Matteo forms two bricks by gluing two cubes (see figure on the side). Which of the buildings presented below cannot be constructed using those two bricks? (see figure)
+> Matteo forms two bricks by gluing two cubes (see figure on the side). Which of the constructions presented below cannot be constructed using those two bricks? (see figure)
 > 
 > (A) (B) (C) (D) (E)
 
@@ -388,9 +388,9 @@ Find the missing part of the box
 <div class="qlang-split" data-lang="en"></div>
 
 
-♪ Caramels from Roberta to Cristina to match ♪
+*Candies from Roberta to Cristina to make them equal*
 
-> Cristina has candy while Roberta has candy. How many candies does Roberta have to give Cristina if we want them both to have the same number of candies?
+> Cristina has $9$ candies while Roberta has $17$. How many candies must Roberta give to Cristina if we want both to have the same number of candies?
 > 
 > (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) $6$
 
@@ -490,7 +490,7 @@ Find the missing part of the box
 
 *Next future date with three 5*
 
-> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date which will contain three more $5$ is:
+> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date which will contain still three $5$ is:
 > 
 > (A) $5/5/2025$ (B) $15/6/2055$ (C) $15/5/2050$ (D) $25/5/2015$ (E) $15/5/2015$
 
@@ -520,9 +520,9 @@ Find the missing part of the box
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*remaining slices*
 
-> The mother orders two pizzas and divides each into parts for her daughter Vera's birthday. $14$ guests, including Vera, are at the party. How many pizza pieces are left if Vera's mom gives each participant a piece?
+> Mum orders two pizzas and divides each into $8$ slices for her daughter Vera's birthday. $14$ guests, including Vera, are present at the party. How many slices of pizza remain if Vera's mum gives one slice to each participant?
 > 
 > (A) $5$ (B) $4$ (C) $3$ (D) $2$ (E) $1$
 
@@ -619,7 +619,7 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *how many ways*
 
-> A kangaroo can jump from a position to an adjacent one connected to a segment. He's not allowed to go through the same position twice. If it starts from $S$, how many different ways can it reach $F$ by jumping exactly $4$? (see figure)
+> A kangaroo can jump from a position to an adjacent one connected by a segment. He's not allowed to go through the same position twice. If it starts from $S$, how many different ways can it reach $F$ by jumping exactly $4$ times? (see figure)
 > 
 > (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
@@ -681,9 +681,9 @@ How many pirates?
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of*
+*total*
 
-> For$3$ days Joy's cat goes hunting mice. Each day Joy catches more mice than the previous day. On the third day, he caught twice as many mice as the first day. In total, how many mice did Joy catch during the $3$ days?
+> For $3$ days the cat Joy goes hunting for mice. Each day Joy catches $2$ more mice than the previous day. On the third day he caught twice the mice taken on the first day. In total, how many mice did Joy catch during the $3$ days?
 > 
 > (A) $12$ (B) $15$ (C) $18$ (D) $20$ (E) $24$
 
@@ -753,11 +753,11 @@ This is the total amount of*
 
 > Chiara builds a cube using gray and white cubes (see figure). Two cubes of the same color have no face in common. Which of the following statements regarding the number of cubes used is true?
 >
-> - **(A)** the grey cubes are $1$ in addition to the white cubes
-> - **(B)** the white cubes are $1$ in addition to the grey cubes
+> - **(A)** the grey cubes are $1$ more than the white cubes
+> - **(B)** the white cubes are $1$ more than the grey cubes
 > - **(C)** The grey cubes are as many as the white ones.
-> - **(D)** the white cubes are $2$ in addition to the grey cubes
-> - **(E)** the grey cubes are $2$ in addition to the white cubes
+> - **(D)** the white cubes are $2$ more than the grey cubes
+> - **(E)** the grey cubes are $2$ more than the white cubes
 
 **Answer:** A
 [[Quesiti/src_kangourou_2015_marzo_preecolier#q22|src_kangourou_2015_marzo_preecolier__Q22]]
@@ -789,9 +789,9 @@ This is the total amount of*
 <div class="qlang-split" data-lang="en"></div>
 
 
-I'm on my way. I'm coming in.
+*32, arrival 6:11: hours of travel*
 
-> We set off for the Scout Camp yesterday afternoon at$16{:}32$and arrived at our destination this morning at$6{:}11$. How many hours have we traveled?
+> We left for Scout Camp yesterday afternoon at $16{:}32$ and arrived at our destination this morning at $6{:}11$. How many hours did we travel?
 >
 > - **(A)** $13$ hours and $39$ minutes
 > - **(B)** $13$ hours and $21$ minutes
@@ -827,7 +827,7 @@ I'm on my way. I'm coming in.
 
 *central number*
 
-> Each of the numbers $3, 5, 7, 8$ and $9$ must be written in one of the squares in the figure. Each square must be written with only one number. You want to make sure that the sum of the numbers in the row is equal to the sum of the numbers in the column. What number do you have to type in the center box? (see figure)
+> Each of the numbers $3, 5, 7, 8$ and $9$ must be written in one of the squares in the figure. Each square must be written with only one number. You want to make sure that the sum of the numbers in the row is equal to the sum of the numbers in the column. What number do you have to write in the center box? (see figure)
 > 
 > (A) $3$ (B) $5$ (C) $7$ (D) $8$ (E) $9$
 

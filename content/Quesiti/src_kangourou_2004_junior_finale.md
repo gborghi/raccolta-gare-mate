@@ -29,9 +29,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-There are bases where 15x15=321*
+There are bases where 15x15=321
 
-> Are there grounds on which the expression $15 \times 15 = 321$ is correct?
+> Are there bases in which the expression $15 \times 15 = 321$ is correct?
 
 **Answer:** base 6
 [[Quesiti/src_kangourou_2004_junior_finale#qj1|src_kangourou_2004_junior_finale__QJ1]]
@@ -58,11 +58,11 @@ There are bases where 15x15=321*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres with x^2+y^2+xy=1*
+*Integer pairs with x^2+y^2+xy=1*
 
 > For which pairs of $(x, y)$ relative integers is $x^2 + y^2 + xy = 1$ true?
 
-**Answer:** 6 coppie
+**Answer:** 6 pairs
 [[Quesiti/src_kangourou_2004_junior_finale#qj2|src_kangourou_2004_junior_finale__QJ2]]
 
 
@@ -86,9 +86,9 @@ There are bases where 15x15=321*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five numbers from sums of two to two*
+*Five numbers from pairwise sums*
 
-> I wrote as many positive integers on five sheets. Adding them to two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
+> I wrote as many positive integers on five sheets. Adding them two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
 
 **Answer:** 3,11,14,17,25
 [[Quesiti/src_kangourou_2004_junior_finale#qj3|src_kangourou_2004_junior_finale__QJ3]]
@@ -140,7 +140,7 @@ There are bases where 15x15=321*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A/B/ABC area report (symmetry) *
+*Area ratio A'B'C' / ABC (symmetry)*
 
 ```tikz
 \begin{document}
@@ -167,7 +167,7 @@ There are bases where 15x15=321*
 \end{document}
 ```
 
-> Given a $ABC$ rectangle in $C$, consider the points $A'$ symmetric $A$ with respect to $BC$, $B'$ symmetric $B$ with respect to $AC$ and $C'$ symmetric $C$ with respect to $AB$. What is the ratio of $A'B'C'$ to $ABC$?
+> Given a triangle $ABC$ right-angled at $C$, consider the points $A'$ the reflection of $A$ with respect to $BC$, $B'$ the reflection of $B$ with respect to $AC$ and $C'$ the reflection of $C$ with respect to $AB$. What is the ratio of the area of $A'B'C'$ to that of $ABC$?
 
 **Answer:** 3
 [[Quesiti/src_kangourou_2004_junior_finale#qj4|src_kangourou_2004_junior_finale__QJ4]]
@@ -197,11 +197,13 @@ There are bases where 15x15=321*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configuration with sums of non-negative rows/columns*
+*Configuration with non-negative row/column sums*
 
-> Each box in a rectangular table consisting of $m$ rows and $n$ columns contains an integer. The permissible moves are: - change the signs of the elements of an entire row - change the signs of the elements of an entire column.
+> Each cell of a rectangular table consisting of $m$ rows and $n$ columns contains an integer. The allowed moves are:
+> - changing the signs of the elements of an entire row
+> - changing the signs of the elements of an entire column.
 > 
-> Is it true that after a number of these moves, each row is made up of elements whose sum is not negative and so is each column? I got a motive.
+> Is it true that after a suitable number of these moves, every row consists of elements whose sum is non-negative and likewise every column? Justify.
 
 **Answer:** si
 [[Quesiti/src_kangourou_2004_junior_finale#qj5|src_kangourou_2004_junior_finale__QJ5]]
@@ -228,9 +230,9 @@ There are bases where 15x15=321*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Switching of 1.9 with progressive divisibility*
+*Permutation of 1..9 with progressive divisibility*
 
 > Can the $1, 2, 3, 4, 5, 6, 7, 8, 9$ digits be exchanged so that for each $n \in \{1, 2, \ldots, 8, 9\}$ the number formed by the first $n$ digits (from left) is divisible by $n$? If so, is the permutation unique?
 
-**Answer:** 381654729 unica
+**Answer:** 381654729 unique
 [[Quesiti/src_kangourou_2004_junior_finale#qj6|src_kangourou_2004_junior_finale__QJ6]]

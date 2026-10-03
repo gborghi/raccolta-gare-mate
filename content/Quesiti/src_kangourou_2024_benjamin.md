@@ -42,11 +42,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square bounces off an identical one by folding the sheet*
+*Which square flips onto an identical one by folding the sheet*
 
 ![[src_kangourou_2024_benjamin__prob1.png]]
 
-> And the next one. After a certain number of shots, the letter C will be in front of the number 2: at that point, which number will be in front of the letter F? A) 1
+> And the next one. After a certain number of moves, the letter C will be in front of the number 2: at that point, which number will be in front of the letter F? A) 1
 > 	
 > B) 4
 > 	
@@ -87,7 +87,7 @@ In which square Mia lands only on the right foot
 
 ![[src_kangourou_2024_benjamin__prob2.png]]
 
-> 2. A long strip of equal squares is drawn on the courtyard floor. Mine plays jumping from one to the other, landing alternately on two feet or on one foot. In the figure (from the bottom to the top) you can see the prints of his first jump. Every four squares repeat the jump sequence. In which of the following squares will Mia land only on her right foot? (a) The tenth. B) The 15th. C) The 20th. D) The twenty-second. E) The 23rd.
+> 2. A long strip of equal squares is drawn on the courtyard floor. Mia plays jumping from one to the other, landing alternately on two feet or on one foot. In the figure (from the bottom to the top) you can see the prints of her first jumps. Every four squares repeat the jump sequence. In which of the following squares will Mia land only on her right foot? A) The tenth. B) The 15th. C) The 20th. D) The twenty-second. E) The 23rd.
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_benjamin#q02|src_kangourou_2024_benjamin__Q02]]
@@ -206,7 +206,7 @@ In which square Mia lands only on the right foot
 
 ![[src_kangourou_2024_benjamin__prob5.png]]
 
-> 5. Dinah laid three boxes on the floor, partially hidden by a wall. When you look at them standing in front of the wall, the boxes look like they're on the right. Kangourou 2024 page 11 Benjamin What do they look like when you look at them from the other side of the wall ? A) B) C) D) E)
+> 5. Dinah laid three boxes on the floor, partially hidden by a wall. When you look at them standing in front of the wall, the boxes look as shown on the right. Kangourou 2024 page 11 Benjamin What do they look like when you look at them from the other side of the wall ? A) B) C) D) E)
 
 **Answer:** B
 [[Quesiti/src_kangourou_2024_benjamin#q05|src_kangourou_2024_benjamin__Q05]]
@@ -235,11 +235,11 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which stack of boxes is not achievable*
+*Which pile of boxes cannot be made*
 
 ![[src_kangourou_2024_benjamin__prob6.png]]
 
-> 6. On the floor of a bus there are six boxes arranged as shown in Figure F. They're being carried to the ground by a squirrel. Move one BENJAMIN C D box at a time and only if there are no other boxes above it. Hold each box on the ground or on top of another box, without moving it. Which one of the following can't he make? B D B D A B A A C C A A C F F E D B E D B E F D E E F C F C A) B) C) D) E)
+> 6. On the bed of a truck there are six boxes arranged as shown in the figure. A porter carries them to the ground. He moves one box at a time and only if there are no other boxes on top of it. He places each box on the ground or on top of another box, without moving it again. Which of the following piles can he not make? B D B D A B A A C C A A C F F E D B E D B E F D E E F C F C A) B) C) D) E)
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_benjamin#q06|src_kangourou_2024_benjamin__Q06]]
@@ -272,7 +272,7 @@ In which square Mia lands only on the right foot
 
 ![[src_kangourou_2024_benjamin__prob7.png]]
 
-> 7. Look at the figure: Two wheels rotate around the same axle. Each of these is marked (with numbers or letters) by 7 points, the vertices of a regular hexagon. Each minute they take a shot, but in opposite directions as indicated by the arrows: each vertex takes the position of the next vertex according to the direction of rotation. In the figure you can see the initial position (the letter A is in front of the number
+> 7. Look at the figure: Two wheels rotate around the same axle. Each of these is marked (with numbers or letters) by 7 points, the vertices of a regular heptagon. Each minute they make a step, but in opposite directions as indicated by the arrows: each vertex takes the position of the next vertex according to the direction of rotation. In the figure you can see the initial position (the letter A is in front of the number
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_benjamin#q07|src_kangourou_2024_benjamin__Q07]]
@@ -406,9 +406,9 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of rooms with figures of 2 14 times and 5 3 times
+Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 
-> In a hotel, rooms are ordered in increasing order, starting with 1, without skipping any number. Philip counted how many times the same figure appears in the hotel room numbers and found that 2 appears 14 times and 5 appears 3 times. How many rooms can there be at the hotel? A) 25
+> In a hotel, rooms are ordered in increasing order, starting with 1, without skipping any number. Philip counted how many times the same digit appears in the hotel room numbers and found that 2 appears 14 times and 5 appears 3 times. How many rooms can there be at the hotel? A) 25
 > 	
 > B) 26
 > 	
@@ -416,7 +416,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 > 	
 > D) 35
 > 	
-> E) 41 A B C D E F E F C D A B E F D C A B E F C B A D F C E D B A F C E D B A 445g 20 100 200 500 50 5 20 200
+> E) 41
 >
 
 **Answer:** C
@@ -455,17 +455,21 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What label links the two babies to different equines*
+*Which label connects the two children to different kites*
 
 ![[src_kangourou_2024_benjamin__prob10.png]]
 
-> Which of the following labels completes the drawing here on the side so that the two babies are connected to different squid ? A)
+> Which of the following labels completes the drawing on the side here
+> so that the two children are connected to different kites ?
+> A) 	
 > 	
-> B)
+>    B) 	
 > 	
-> C) D)
+>       C) 
+> D) 	
 > 	
-> E) Questions from N. 11 al N. 20 is worth 4 points each.
+>    E) 
+> Questions from No. 11 to No. 20 are worth 4 points each
 
 **Answer:** D
 [[Quesiti/src_kangourou_2024_benjamin#q10|src_kangourou_2024_benjamin__Q10]]
@@ -512,7 +516,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 
 ![[src_kangourou_2024_benjamin__prob11.png]]
 
-> In the figure you can see a grid 4 × 5 with a black saddle and a grid and 4 tiles with which you can cover the grid without leaving empty spaces or creating overlapping. If the number 4 of one of the tiles is placed on the black box, what number is on the grey box? A) 1
+> In the figure you can see a grid 4 × 5 with a black cell and a grey cell and 4 tiles with which you can cover the grid without leaving empty spaces or creating overlaps. If the number 4 of one of the tiles is placed on the black box, what number is on the grey box? A) 1
 > 	
 > B) 2
 > 	
@@ -564,7 +568,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 
 ![[src_kangourou_2024_benjamin__prob12.png]]
 
-> Rosa drew several identical rectangles until he composed the figure on the right. The figure is 30 cm high and, at the base, 45 cm wide. How many square centimetres is the area of each rectangle? A) 24
+> Rosa drew several identical rectangles until she composed the figure on the right. The figure is 30 cm high and, at the base, 45 cm wide. How many square centimetres is the area of each rectangle? A) 24
 > 	
 > B) 27
 > 	
@@ -710,7 +714,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 
 ![[src_kangourou_2024_benjamin__prob14.png]]
 
-> Julius had five boxes of chocolates, designated in the figure by the letters A, B, C, D, and E. The number you see above each chocolate chip, represented by a circle, denotes its taste. Giulio ate almost all the chocolates, leaving one for each box as the second figure. What's the name of the box marked with X? A) A
+> Julius had five boxes of chocolates, designated in the figure by the letters A, B, C, D, and E. The number you see above each chocolate, represented by a circle, denotes its taste. Julius ate almost all the chocolates, leaving one for each box as the second figure. What's the name of the box marked with X? A) A
 > 	
 > B) B
 > 	
@@ -764,7 +768,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 
 ![[src_kangourou_2024_benjamin__prob15.png]]
 
-> Each of the 16 circles in the figure covers a natural number. Numbers covered by nearby circles differ by unit. One of the circles covers the number 5, the other covers the number 13. How many different numbers are covered by the 16 circles altogether? A) 9
+> Each of the 16 circles in the figure covers a natural number. Numbers covered by nearby circles differ by one. One of the circles covers the number 5, another covers the number 13. How many different numbers are covered by the 16 circles altogether? A) 9
 > 	
 > B) 10
 > 	
@@ -869,7 +873,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 \end{document}
 ```
 
-> The figure shows two large squares which do not have the same area. In the first square the midpoints of the sides were joined and the triangles thus formed were shaded. Four identical squares were drawn and shaded on the second square, the side of which is one third of the side of the large square. The shaded area in the first square is 9 cm2. How many square centimetres does the shaded surface measure in the second figure? A) 4
+> The figure shows two large squares which have the same area. In the first square the midpoints of the sides were joined and the triangles thus formed were shaded. Four identical squares were drawn and shaded on the second square, the side of which is one third of the side of the large square. The shaded area in the first square is 9 cm2. How many square centimetres does the shaded surface measure in the second figure? A) 4
 > 	
 > B) 8
 > 	
@@ -1039,7 +1043,7 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 
 ![[src_kangourou_2024_benjamin__prob19.png]]
 
-> Anna wants to insert the numbers 1 through 10, each in one of the circles in the figure. It wants that if four circles are aligned (like the four grey circles for example), the sum of the numbers in them is 23. What number should you put in the circle marked with the question mark? A) 4
+> Anna wants to insert the numbers 1 through 10, each in one of the circles in the figure. She wants that if four circles are aligned (like the four grey circles for example), the sum of the numbers in them is 23. What number should you put in the circle marked with the question mark? A) 4
 > 	
 > B) 5
 > 	
@@ -1087,17 +1091,22 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct inequality for n with 7 pairs more than terns*
+*Correct inequality for n with 7 more pairs than triples*
 
-> Roberto has no balls. He first groups them into pairs and records the number of pairs found; then he groups them into pairs and records the number of pairs found. In both cases, they are given a seed. The number of pairs is 7 units greater than the number of terns. Which of the following inequalities is correct? A) n < 29
+> Roberto has n marbles. He first groups them into pairs and notes the number of
+> pairs found; then he groups them into triples and notes the number of triples found. In nei­
+> ther of the two cases are there marbles left over. The number of pairs is 7 units greater
+> than the number of triples. Which of the following inequalities is correct?
+> A) n < 29 	
 > 	
-> B) 29 ≤ n < 37
+> B) 29 ≤ n < 37 	
 > 	
-> C) 37 ≤ n < 49
+> C) 37 ≤ n < 49	
 > 	
-> D) 49 ≤ n < 59
+> D) 49 ≤ n < 59	
 > 	
-> E) n ≥ 59 Questions from N. 21 al N. 30 is worth 5 points each.
+> E) n ≥ 59
+> Questions from No. 21 to No. 30 are worth 5 points each
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_benjamin#q20|src_kangourou_2024_benjamin__Q20]]
@@ -1136,11 +1145,11 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers on the faces supported (three dice) *
+*Sum of numbers on the faces resting on the table (three dice) *
 
 ![[src_kangourou_2024_benjamin__prob21.png]]
 
-> In the figure, you see three identical special dice resting on a table. What is the sum of the numbers on the faces on the table? A) 26
+> In the figure, you see three identical special dice resting on a table. What is the sum of the numbers on the faces resting on the table? A) 26
 > 	
 > B) 40
 > 	
@@ -1188,11 +1197,11 @@ Maximum number of rooms with figures of 2 14 times and 5 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the grey rectangle known as three areas and segments*
+*Area of the grey rectangle known three areas and segments*
 
 ![[src_kangourou_2024_benjamin__prob22.png]]
 
-> The drawing shows four adjacent rectangles and shows the areas of three of them and the length of some sections. How many square centimeters does the surface of the grey rectangle measure? A) 12
+> The drawing shows four adjacent rectangles and shows the areas of three of them and the length of some segments. How many square centimeters does the surface of the grey rectangle measure? A) 12
 > 	
 > B) 14
 > 	
@@ -1302,7 +1311,7 @@ How to colour the white face of the cube development
 
 ![[src_kangourou_2024_benjamin__prob24.png]]
 
-> Francesco wants to build a cube starting from his development plan. He has prepared the development plan you see in the figure. He has already begun to colour it so that if two faces share a spike, the triangles overlooking that spike have the same colour. How should the triangles of the still white face be coloured in the plane of development? A)
+> Francesco wants to build a cube starting from his net. He has prepared the net you see in the figure. He has already begun to colour it so that if two faces share an edge, the triangles overlooking that edge have the same colour. How should the triangles of the still white face be coloured in the net? A)
 > 	
 > B)
 > 	
@@ -1372,7 +1381,7 @@ How to colour the white face of the cube development
 
 *Numbers of 4 digits with a property of type 2024*
 
-> The four-digit number 2024 has three properties: it contains three distinct digits, all its digits are equal and the last digit is equal to the sum of the first three. How many four-digit numbers (including 2024) have all these properties? A) 2
+> The four-digit number 2024 has three properties: it contains three distinct digits, all its digits are even and the last digit is equal to the sum of the first three. How many four-digit numbers (including 2024) have all these properties? A) 2
 > 	
 > B) 4
 > 	
@@ -1424,11 +1433,11 @@ How to colour the white face of the cube development
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the question mark label (sum of cubic faces) *
+*Number on the question mark label (sum of cube faces) *
 
 ![[src_kangourou_2024_benjamin__prob26.png]]
 
-> Maria drew a cube with round labels in the vertices. In each of these labels, he wants to write a natural number between 1 and 8 (included), without repetition and on the condition that the sum of the numbers at the vertices of each face is always the same. As you can see, he's already written numbers 6, 7 and 8. What number should you write on the label with the question mark? A) 1
+> Maria drew a cube with round labels in the vertices. In each of these labels, she wants to write a natural number between 1 and 8 (inclusive), without repetition and on the condition that the sum of the numbers at the vertices of each face is always the same. As you can see, she has already written numbers 6, 7 and 8. What number should she write on the label with the question mark? A) 1
 > 	
 > B) 2
 > 	
@@ -1473,11 +1482,19 @@ How to colour the white face of the cube development
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of candies (20 per bag, 12 advanced) *
+*Minimum number of candies (20 per bag, 12 left over)*
 
-> Grandma has a lot of candy. He decides to divide them among his grandchildren so that they each receive a bag of candy with the same number. She puts as many candy as possible in each bag: eventually she discovers that there are 20 candy in each bag and 12 candies are given to her. How many candy do you think Grandma had? A) 52
+> Grandma has a bag of candies. She decides to divide them among her grandchildren so
+> that each receives a bag with the same number of candies. She puts the greatest
+> possible number of candies in each bag: in the end she discovers that there are 20 can­
+> dies in each bag and she has 12 candies left over. What is the minimum number of
+> candies Grandma could have had?
+> A) 52 	
 > 	
-> B) 232 C) 272 D) 411 E) 432
+> B) 232 	 	
+> C) 272 	 	
+> D) 411 	 	
+> E) 432
 
 **Answer:** C
 [[Quesiti/src_kangourou_2024_benjamin#q27|src_kangourou_2024_benjamin__Q27]]
@@ -1565,11 +1582,11 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to build the seven-piece plough*
+*How many ways to build the caterpillar with the seven pieces*
 
 ![[src_kangourou_2024_benjamin__prob29.png]]
 
-> With the seven pieces you see below, Emma wants to build a bug that has a head, a tail, and one or two or three double-enclosed pieces between the head and the tail. The pieces must fit together well, without holes or overlapping. How many different ways can you do that? A) 10
+> With the seven pieces you see below, Emma wants to build a caterpillar that has a head, a tail, and one or two or three interlocking pieces between the head and the tail. The pieces must fit together well, without holes or overlapping. How many different ways can you do that? A) 10
 > 	
 > B) 14
 > 	
@@ -1622,9 +1639,9 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure has Biagio added (increase to 2024) *
+*What digit did Biagio add (increase to 2024) *
 
-> Ada had written a three-digit number on the board. Biagio added a fourth digit to the right of Ada's number. Now Biagio observes: Look! Your number has increased by 2024. What number did Biagio add? A) 2
+> Ada had written a three-digit number on the board. Biagio added a fourth digit to the right of Ada's number. Now Biagio observes: "Look! Your number has increased by 2024". What digit did Biagio add? A) 2
 > 	
 > B) 3
 > 	
