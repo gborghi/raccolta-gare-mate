@@ -75,17 +75,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Telescopic product of increasing base logarithms*
+*Telescoping product of logarithms with increasing base*
 
-> What is log2(3) · log3(4) · log4(5) · . . . The Commission has already adopted a number of proposals for the amendment.
+> What is the value of log₂(3) · log₃(4) · log₄(5) · ... · log₁₂₆(127) · log₁₂₇(128)?
 >
 > - **(A)** 1
 > - **(B)** 4
 > - **(C)** 6
 > - **(D)** 7
-> - **(E)** None of the preceding
+> - **(E)** none of the above
 
 **Answer:** D
+
 [[Quesiti/src_archimede_2013_triennio#q04|src_archimede_2013_triennio__Q04]]
 
 

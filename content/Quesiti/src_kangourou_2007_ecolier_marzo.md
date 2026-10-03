@@ -641,13 +641,29 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Could the number be in the box? (Latin 3x3) *
+*Possible number in the cell? (Latin 3×3)*
 
-> The numbers 1, 2 and 3 shall be written in the boxes in the table in the figure so that each of the numbers 1, 2 and 3 appears in each row and column. Isabella began to insert some numbers into the table: which number can she write in the box with the question mark? A) only 1 B) only 2 C) only 3 D) 2 or 3 E) 1, 2 or 3 A B This is the main reason why the Commission has decided to extend its powers to the Member States.
+> The numbers 1, 2, and 3 must be written in the cells of the table shown so that each of the numbers 1, 2, and 3 appears exactly once in each row and each column. Isabella has already started filling in some numbers in the table: which number can be written in the cell marked with a question mark?
+>
+> A) only 1
+> B) only 2
+> C) only 3
+> D) 2 or 3
+> E) 1, 2, or 3
+>
+> A
+> B
+>
+> Machine B rotates the object by 45° clockwise
+> 1
+> ?
+> 2
+> 1
 > 
-> The questions from N. 17 al N. Twenty-four is worth five points each.
+> Questions 17 to 24 are worth 5 points each.
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q16|src_kangourou_2007_ecolier_marzo__Q16]]
 
 
@@ -796,13 +812,27 @@ How many seats can Arrigo sit in?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure cannot be obtained by folding and cutting*
+*Which shape cannot be obtained by folding and cutting?*
 
-> A square sheet of paper is folded twice so that the result is still a square. This square is cut into a corner. Which of the following figures cannot be obtained by this procedure? (a) (b) (c) (d) (e) no payment. I'm going to pay. This is the main reason why the Commission has decided to extend its powers to the Member States.
+> A square piece of paper is folded twice in such a way that the result is still a square. Then, one corner of this square is cut off. Which of the following figures cannot be obtained by this procedure?
+> A)
+> B)
+> C)
+> D)
+> E) none
+>
+> Page 8
+> Kang 2007
+> Kang 2007
+> Testi_07.qxp 16-04-2007 12:02 Page 8
 > 
-> I'm going to pay. I'm going to pay. 9 Kang 2007 Kang 2007
+> Page
+> Page 9
+> Kang 2007
+> Kang 2007
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2007_ecolier_marzo#q20|src_kangourou_2007_ecolier_marzo__Q20]]
 
 

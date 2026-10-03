@@ -417,13 +417,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exponent n which makes power of 2 a square*
+*Exponent n making a square a power of 2*
 
-> Brian is looking for some whole numbers so that the sum of them is a perfect square.
+> Brian is looking for some integer $n$ such that the sum $2^{2008} + 2^{3599} + 2^n$ becomes a perfect square.
 > 
-> What's the largest integer that Brian can find?
+> What is the largest integer $n$ that Brian can find?
 
 **Answer:** 5188
+
 [[Quesiti/src_gs_2008_squadre#q12|src_gs_2008_squadre__Q12]]
 
 

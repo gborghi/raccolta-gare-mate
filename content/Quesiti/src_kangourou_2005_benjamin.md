@@ -1153,15 +1153,25 @@ How many of the seven dwarfs lie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Readable in the mirror on the digital clock*
+*Clock digits readable upside down*
 
 ![[src_kangourou_2005_benjamin__prob27.png]]
 
-> Andrea looked at her digital wristwatch last night at 21:15 and noticed that, covering the two points with a mirror perpendicular to the plane of the dial, she could still read the exact time (two digits on the clock and two in the mirror). How many times in a day does the same thing happen? The Commission has not yet decided whether to proceed with the implementation of this Regulation.
+> Andrea looked at his digital wristwatch yesterday evening at 9:15 p.m. and noticed that, by covering the two dots with a mirror perpendicular to the watch face, he could still read the correct time (two digits on the watch and two in the mirror). How many times in a day does this same phenomenon occur?
+>
+> (A) 1
+> (B) 3
+> (C) 7
+> (D) 11
+> (E) 24
 > 
-> I'm going to pay. I'm going to pay. 15 15 Kang 2005 Kang
+> Page
+> Page 15
+> Kang 2005
+> Kang 2005
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2005_benjamin#q27|src_kangourou_2005_benjamin__Q27]]
 
 
@@ -1276,11 +1286,22 @@ How many of the seven dwarfs lie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure requiring a segment to be passed (Euler) *
+*Figure requiring to redraw a segment (Euler)*
 
 ![[src_kangourou_2005_benjamin__prob30.png]]
 
-> If you want to draw the following figures without ever taking the pen off the sheet, you need to draw a pen over some segment already drawn. What kind? The Commission has decided to extend the scope of this Regulation to the following areas:
+> In order to draw the following figures without ever lifting the pen from the paper, for only one of them is it necessary to trace over some segment that has already been drawn. Which one?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
+> 1
+> 2
+> 3
+> 4
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2005_benjamin#q30|src_kangourou_2005_benjamin__Q30]]

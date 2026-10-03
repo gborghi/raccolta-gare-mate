@@ -349,11 +349,22 @@ Other, of a kind used in the manufacture of bicycles and bicycles
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information is provided for in the Annex to Delegated Regulation (EU) 2015/61.
+*5 statements*
 
-> Druid or impostor? Gathered together a group of 5 self-styled druids, Archidrus listens to them one by one to determine if there are any impostors infiltrated by the Romans. All the suspects know who the druids are and who the impostors are. Druids always tell the truth, impostors always lie. The five suspects make the following statements: A: The number of druids present is a multiple of 3. B: There's only one impostor among us. C: A and B are both druids. D: Me and A are not impostors. E: D is lying. In the answer, use the numbers from left to right to indicate what you can say about each of the first 4 individuals: 1 if it's a druid, 2 if it's an impostor, 0 if it can't be determined uniquely.
+> Druid or impostor?
+> Having gathered a group of 5 self-proclaimed druids, the Archdruid listens to them one after another to determine whether there are impostors infiltrated
+> by the Romans. All the suspects know who the druids are and who the impostors are. The druids always tell the truth, the impostors always lie.
+> The 5 suspects make the following statements:
+> A: The number of druids present is a multiple of 3.
+> B: There is only one impostor among us.
+> C: A and B are both druids.
+> D: I and A are not impostors.
+> E: D is lying.
+> In the answer, use the digits from left to right to indicate what can be said about each of the first 4 individuals: 1 if he is a
+> druid, 2 if he is an impostor, 0 if it cannot be determined uniquely.
 
 **Answer:** 2222
+
 [[Quesiti/src_cesenatico_2011_semifinale_a#q10|src_cesenatico_2011_semifinale_a__Q10]]
 
 

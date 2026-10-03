@@ -1152,11 +1152,14 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x+y given system with absolute values*
+*Value of x + y given system with absolute values*
 
-> 28. If x is + x + y is equal to 5 and x + y is - y is equal to 10 what is x + y ? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+> 28. If |x| + x + y = 5 and x + |y| - y = 10, what is the value of x + y?
+> (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+> Kangourou 2017 page 30
 
 **Answer:** A
+
 [[Quesiti/src_kangourou_2017_student_marzo#q28|src_kangourou_2017_student_marzo__Q28]]
 
 
@@ -1210,9 +1213,11 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABC integers with (A+B)^C power of 2 to 3 digits*
+*Positive integers ABC such that (A+B)^C is a three-digit power of 2*
 
-> 30. How many positive integers of three digits ABC are such that (A + B) C is simultaneously a three-digit number and an integer power of 2? The Commission has therefore decided to take the necessary measures to ensure that the Community's financial resources are not used in the same way as those of the Member States.
+> 30. How many three-digit positive integers ABC are there such that (A + B)C is simultaneously a three-digit number and an integer power of 2?
+> (A) 15 (B) 16 (C) 18 (D) 20 (E) 21
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2017_student_marzo#q30|src_kangourou_2017_student_marzo__Q30]]

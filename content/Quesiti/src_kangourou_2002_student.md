@@ -449,21 +449,31 @@ Percentage of glasses with water at 45°C
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Word at 537th position*
+*Word at the 537th position*
 
-> The alphabet of the Martian people of the Berals consists of the six letters A, B, E, L, R, S taken in this order. The words in their language are exactly the alphabetically ordered sequences of these six letters, where each letter is used only once. What is the word in the 537th position of their dictionary?
+> The alphabet of the Martian people of the Berals consists of the six letters A, B, E,
+> L, R, S taken in this order. The words of their language are exactly
+> the sequences, ordered alphabetically, of these six letters, where each letter
+> is used once and only once. What is the word that is found at the 537th
+> position of their dictionary?
 >  
-> A. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. I 'm not sure . The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+> A. REBLAS
+> B. SBERLA
+> C. LERBAS
+> D. RABLES
 >  
-> E. Other articles
+> E. ARBELS
 >  
 >  
 >  
-> 60°
+> 60° 
 > 
-> Student of the year 2002. This item is not intended to be used. 3 Questions from N. 11 al N. Twenty is worth four points.
+> Student 2002. Page N.
+> 3
+> Questions from N. 11 to N. 20 are worth 4 points
 
 **Answer:** A
+
 [[Quesiti/src_kangourou_2002_student#q10|src_kangourou_2002_student__Q10]]
 
 

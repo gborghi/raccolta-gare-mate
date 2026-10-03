@@ -83,17 +83,23 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who makes the most ravioli between Alberto, Barbara and Ciro
+*Who makes more ravioli among Alberto, Barbara and Ciro*
 
-> Alberto, Barbara, and Ciro meet one day to prepare ravioli for a charity dinner for the mathematics Olympics. First, they decide to divide the working hours equally between morning and afternoon, and of course they work simultaneously and for the same amount of time. Alberto is very reliable: he prepares 90 ravioli per hour for the whole working day. Barbara makes 110 ravioli an hour in the morning, but in the afternoon she is more distracted and prepares 70 ravioli an hour. Cyrus makes 2/3 of his ravioli at a rate of 140 ravioli per hour and the last third at only 50 ravioli per hour. Who had more ravioli at the end of the day?
+> Alberto, Barbara and Ciro meet one day to prepare ravioli for a charity dinner in support of the mathematics olympiads. As a first thing, they decide to divide equally
+> the working hours between the morning and the afternoon, and obviously they work simultaneously and
+> for the same amount of time. Alberto is very reliable: he prepares 90 ravioli per hour throughout
+> the working day. Barbara makes 110 ravioli per hour during the morning, but in the afternoon she is more
+> distracted and prepares 70 ravioli per hour. Ciro makes 2/3 of his ravioli at a rate of 140 ravioli per hour
+> and the last third at only 50 ravioli per hour. Who made more ravioli at the end of the day?
 >
-> - **(A)** The Commission shall adopt delegated acts in accordance with this Article.
+> - **(A)** Alberto
 > - **(B)** Barbara
 > - **(C)** Ciro
-> - **(D)** Alberto and Barbara, in the same number.
-> - **(E)** Albert and Cyrus, in equal numbers.
+> - **(D)** Alberto and Barbara, in equal number.
+> - **(E)** Alberto and Ciro, in equal number.
 
 **Answer:** D
+
 [[Quesiti/src_archimede_2017_febb_2livello#q02|src_archimede_2017_febb_2livello__Q02]]
 
 
@@ -755,6 +761,8 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 \end{document}
 ```
 
-> DEMOSTRATIVE EXERCISE An equilateral triangle is divided into 9 triangles as shown in the figure, and the number 0 is initially written on each triangle. Marco, to pass the time, plays the following game: at each move he chooses 2 triangles with one side in common and sums or subtracts 1 from both numbers written on these triangles (it is understood that the operation carried out on the two triangles is the same). After a while you notice that the numbers written on the 9 triangles are, in some order, n, n+1, . . . , n+8, where n is a nonnegative integer. Prove that n can only be 0 or 2. The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1. The cases n = 0 and n = 2 can actually occur, but this claim is not required to be proven.
+> DEMONSTRATIVE PROBLEM
+> An equilateral triangle is divided into 9 small triangles as shown in the figure, and initially, the number 0 is written on each small triangle. Marco, to pass the time, plays the following game: at each move, he selects two small triangles sharing a common side and either adds 1 or subtracts 1 from both numbers written on these two triangles (the same operation is applied to both). After some time, he notices that the numbers written on the 9 small triangles are, in some order, n, n+1, ..., n+8, where n is a non-negative integer. Prove that n can only be 0 or 2.
+> Note. The cases n = 0 and n = 2 are indeed achievable, but it is not required to prove this statement.
 
 [[Quesiti/src_archimede_2017_febb_2livello#q17|src_archimede_2017_febb_2livello__Q17]]

@@ -818,11 +818,20 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of different/equal colour fractions for 2016 kangaroos*
+*Sum of fractions with different/same color for 2016 kangaroo*
 
-> There are 2016 kangaroos; each of them is either gray or red and there's at least one gray and at least one red. For each kangaroo K we write the ratio between the number of kangaroos that have a different color than K and the number of kangaroos that have the same color as K (K included). What's the sum of all these fractions? The Commission therefore concludes that the Commission is not in a position to take any further action. The questions from N. 21 al N. 30 is worth 5 points each.
+> There are 2016 kangaroos; each is either grey or red, and there is at least one grey and at least one red kangaroo. For each kangaroo K, we write the ratio between the number of kangaroos with a different color from K and the number of kangaroos with the same color as K (including K itself). What is the sum of all these fractions?
+>
+> (A) 2016
+> (B) 1344
+> (C) 1008
+> (D) 672
+> (E) Not enough information.
+>
+> Questions 21 to 30 are worth 5 points each.
 
 **Answer:** A
+
 [[Quesiti/src_kangourou_2016_junior_marzo#q20|src_kangourou_2016_junior_marzo__Q20]]
 
 

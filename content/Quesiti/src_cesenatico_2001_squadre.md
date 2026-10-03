@@ -133,13 +133,14 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum perimeter of triangle with double angle and side 55*
+*Maximum perimeter of a triangle with double angle and side 55*
 
-> The amount of the sum of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sum of the sum of the sum of the sums of the sum of the sums of the sum of the sum of the sum of the
+> **Imontecitorio** (60 points)
 > 
-> The confederation's parliament is based on a triangle whose angle is twice that of the other. All sides of the triangle have a full length and a measure of 55 mm. How long can the perimeter of the building be, at most?
+> The parliament of the confederation has as its base a triangle in which one angle is twice another. All sides of the triangle have integer length and one measures 55 imometri. What can the perimeter of the building be at most?
 
 **Answer:** 1540
+
 [[Quesiti/src_cesenatico_2001_squadre#q04|src_cesenatico_2001_squadre__Q04]]
 
 

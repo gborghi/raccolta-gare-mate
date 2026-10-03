@@ -64,13 +64,14 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three drummers play together every different time*
+*Three drummers play together at different intervals*
 
-> The three drummers of the musical complex are playing their instruments simultaneously at this time.
+> The three drummers of the musical group are, at this moment, simultaneously playing their instruments.
 > 
-> In how many seconds do we hear them again at the same time for the first time, knowing that the first musician beats his drum every second, the second every second, and the third every second?
+> **After how many seconds will we hear them simultaneously for the first time**, given that the first musician strikes his drum every $2$ seconds, the second every $3$ seconds, and the third every $4$ seconds?
 
 **Answer:** Tra 12 secondi
+
 [[Quesiti/src_bocconi_rosi_2010#q02|src_bocconi_rosi_2010__Q02]]
 
 

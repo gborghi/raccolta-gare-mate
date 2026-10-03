@@ -706,11 +706,18 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum minutes to cross the Tibetan Bridge*
+*Minimum minutes to cross the Tibetan bridge*
 
-> (8 points) On their way back from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can cross at a time; it is dark and therefore a stack is required for crossing, but they only have one that can accommodate two people and they cannot throw it from one side of the river to the other. How many minutes will it take to get everyone across if it takes Anna 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together, they do it at the slowest speed?
+> (8 points) Returning from a hike, Anna, Bob, Carla and Doris must cross a river
+> on a suspension bridge, on which at most two people can cross at a time; it is dark and therefore for
+> the crossing a flashlight is needed, but they have only one that can be enough for two people and they
+> cannot throw it from one side of the river to the other. How many minutes will they need at minimum to
+> all get to the other bank if for the crossing Anna takes 10 minutes, Bob 5, Carla 2 and Doris
+> 1 minute and, obviously, if two friends cross together, they do so at the speed of the slower one?
 >  
-> The Commission has already adopted a proposal for a regulation on the approximation of the laws of the Member States.
+> Answers
+> 0003 0015 0003 0025 0101 0017
 
 **Answer:** 17
+
 [[Quesiti/src_kangourou_2021_ecolier_semifinale#q15|src_kangourou_2021_ecolier_semifinale__Q15]]

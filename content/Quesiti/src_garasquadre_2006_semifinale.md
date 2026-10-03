@@ -126,11 +126,15 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
+*sum*
 
-> For a strange, mathematical coincidence, in the Middle Ages the director of the Higher Mathematical School was appointed only in the years with the following peculiar property: it was all the years N between 476 and 1492 for which the equation x4 −y4 = N has solution in positive integers. What's the sum of these years?
+> Sequences
+> By a strange, mathemagical coincidence, in the Middle Ages the director of the Higher Mathemagical School was
+> appointed only in the years with the following peculiar property: they were all the years N between 476 and
+> 1492 for which the equation x4 −y4 = N has a solution in positive integers. What is the sum of these years?
 
 **Answer:** 8383
+
 [[Quesiti/src_garasquadre_2006_semifinale#q04|src_garasquadre_2006_semifinale__Q04]]
 
 

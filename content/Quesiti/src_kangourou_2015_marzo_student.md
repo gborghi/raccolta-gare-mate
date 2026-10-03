@@ -1504,19 +1504,36 @@ This is the total value of the underlying asset.
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units of measurement.
+*common digit*
 
-> Robert and William replace the letters of the word KANGAROO with numbers, so that a number of 8 digits is significant multiple of 11. Each of the two substitutes the same letters with the same digits and different letters with different digits. In doing so, William writes the greatest multiple of 11 that he can get, and Robert the smallest, but in both cases the same letter is replaced by the same number. What's that number? A) 0
+> Roberto and Guglielmo replace digits with the letters in the word KANGAROO,
+> to form an 8-digit number divisible by 11. Each of them replaces identical letters with the same digit and different letters with different digits.
+> In doing so, Guglielmo writes the largest possible multiple of 11 he can form, and Roberto the smallest, but in both cases the same letter is replaced by the same digit.
+> What is this digit?
+>
+> (A) 0
 > 	
-> B) 3
+> B) 3	
 > 	
-> C) 4
+> C) 4	
 > 	
-> D) 5
+> D) 5	
 > 	
-> E) 6 KANGOUROU Scientific Committee of Mathematics Prof. A. In addition, the Commission has also adopted a number of proposals for a directive on the protection of workers' rights. Hair (Ligurian Regional Directorate) Prof. S. He is also a member of the European Parliament. G. L. Forti (University of Milan) Prof. M. Gobbino (University of Pisa) Prof. A. It is also important to note that the Commission has not yet adopted a proposal for a regulation on the protection of the environment. Maluta (Milan Polytechnic) Prof. A. The Commission has also adopted a number of proposals for a directive on the approximation of the laws of the Member States relating to the protection of the environment. C. Zanco (University of Milan)
+> E) 6
+> SCIENTIFIC COMMITTEE
+> of Kangaroo Mathematics
+> Prof. A. Arosio (University of Parma)
+> Ms. L. Capelli (Liguria Regional Directorate)
+> Ms. S. De Stefano (University of Milano)
+> Prof. G. L. Forti (University of Milano)
+> Prof. M. Gobbino (University of Pisa)
+> Prof. A. Lissoni (Kangourou Italia)
+> Ms. E. Maluta (Politecnico di Milano)
+> Ms. A. Rossi (Leonardo High School, Brescia)
+> Prof. C. Zanco (University of Milano)
 > 
-> Stringing Student 2015
+> STUDENT STRING 2015
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2015_marzo_student#q30|src_kangourou_2015_marzo_student__Q30]]

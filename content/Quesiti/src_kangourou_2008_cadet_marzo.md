@@ -248,11 +248,37 @@ level: kangourou
 
 ![[src_kangourou_2008_cadet_marzo__prob5.png]]
 
-> Pierino believes that if a triangle is isosceles, then all its angles are sharp. Which of the following figures can convince you otherwise? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013 laying down detailed rules for the application of this Regulation.
+> Pierino believes that if a triangle is isosceles, then all its angles are acute. Which of the following figures could convince him otherwise?
+>
+> 60°
+> 80°
+> 40°
+> 50°
+> 80°
+> 50°
+> 150°
+> 20°
+> 10°
+> 30°
+> 120°
+> 30°
+> 60°
+> 60°
+> 60°
+>
+> (A)
+> (B)
+> (C)
+> (D)
+> (E)
 > 
-> I'm going to pay. I'm going to pay. 17 17 Kang 2008 Kang 2008
+> Page
+> Page 17
+> Kang 2008
+> Kang 2008
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2008_cadet_marzo#q05|src_kangourou_2008_cadet_marzo__Q05]]
 
 
@@ -926,13 +952,24 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*KAN-GAR=OO, maximum KAN*
+*Cryptarithm KAN - GAR = OO, maximum KAN*
 
-> In the KAN  GAR = OO equality, each letter represents a digit (in decimal notation): different letters represent different digits, equal letters represent equal digits. What is the maximum value that can be assumed from the KAN number? The Commission has therefore decided to extend the scope of this Regulation to the following areas:
+> In the equation KAN – GAR = OO, each letter represents a digit (in decimal notation): different letters represent different digits, and identical letters represent the same digit. What is the maximum possible value that the number KAN can take?
+>
+> (A) 987
+> (B) 876
+> (C) 865
+> (D) 864
+> (E) 785
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 2008 Kang
+> Page
+> Page 20
+> 20
+> Kang 2008
+> Kang 2008
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2008_cadet_marzo#q21|src_kangourou_2008_cadet_marzo__Q21]]
 
 

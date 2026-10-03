@@ -220,13 +220,26 @@ The most likely event in the rolling of a dice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centiliters left in the bottle after pouring*
+*Milliliters remaining in the bottle after pouring*
 
-> A 1/3-liter bottle is 3/4 full. How many centimetres of liquid will it contain after pouring 20 centimetres into a glass? A) 24.5 B) 7.5 C) 5 D) 13 E) 0 (i.e. it will be empty) Pag. I'm going to pay. The Commission has not yet decided whether to proceed with the adoption of a decision on the application of this Regulation.
+> A 1/3 liter bottle is filled to 3/4 of its capacity. How many centiliters of liquid will it contain after pouring out 20 centiliters into a glass?
+> (A) 24.5 (B) 7.5 (C) 5 (D) 13 (E) 0 (i.e., it will be empty)
+> Page
+> Page 17
+> 17
+> Kang 2006
+> Kang 2006
+> O
+> Cadet_06bis.qxp  20/02/2006  23.52  Page 17
 > 
-> I'm going to pay. I'm going to pay. 18 18 Kang 2006 Kang
+> Page
+> Page 18
+> 18
+> Kang 2006
+> Kang 2006
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2006_cadet#q06|src_kangourou_2006_cadet__Q06]]
 
 
@@ -696,13 +709,31 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing sum on the sides of the hexagon of rocks*
+*Missing sum on the sides of the pebble hexagon*
 
-> On each of the hexagon's vertices you see in the figure there were a number of stones; on each side the sum of the stones that were present at the two adjacent vertices is shown. How much is the missing sum? A) 3 B) 4 C) 5 D) 6 E) 7 8 5 7 10 11 ? The Commission has also adopted a number of proposals for a new directive on the protection of workers' rights.
+> At each vertex of the hexagon shown in the figure there was a certain number of pebbles; on each side, the sum of the pebbles that were present at the two adjacent vertices is reported. What is the missing sum?
+>
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 7
+>
+> 8
+> 5
+> 7
+> 10
+> 11
+> ?
 > 
-> I'm going to pay. I'm going to pay. 20 20 Kang 2006 Kang
+> Page
+> Page 20
+> 20
+> Kang 2006
+> Kang 2006
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2006_cadet#q19|src_kangourou_2006_cadet__Q19]]
 
 
@@ -1180,12 +1211,18 @@ How many times faster by increasing by 6 m/s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a-b between sums of squares and products*
+*Value of a−b between sums of squares and products*
 
-> What is a-b, if a = 12 + 22 + 32 + ... + 20052 and b = 1x3 + 2x4 + 3x5 + ... + 2004x2006? The Commission has therefore decided to take the necessary measures in order to ensure that the Community's financial resources are adequately used to meet the needs of the Union.
+> What is the value of a - b, if
+> a = 1² + 2² + 3² + … + 2005² and
+> b = 1×3 + 2×4 + 3×5 + … + 2004×2006?
+> (A) 2000 (B) 2004 (C) 2005 (D) 2006 (E) 0
 > 
 >  
-> 1 Cadet category For third or upper secondary students
+> 1
+> Cadet Category
+> For students in third middle school or first year of high school
 
 **Answer:** C
+
 [[Quesiti/src_kangourou_2006_cadet#q30|src_kangourou_2006_cadet__Q30]]

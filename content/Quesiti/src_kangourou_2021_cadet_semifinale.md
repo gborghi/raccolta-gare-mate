@@ -843,13 +843,17 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining 5 of the product of non-divi-digit 5-digit numbers for 5*
+*Remainder modulo 5 of the product of 5-digit numbers not divisible by 5*
 
-> (8 points) If you multiply all positive integers by 5 that are not divisible by 5 and divide the result by 5, what do you get?
+> (8 points) If you multiply together all positive integers with 5 digits that are not divisible by 5, and then divide the result by 5, what remainder do you obtain?
 >  
-> The Commission has not yet taken any further action.
+> Answers
+> 0013 0101 4578 0356 0033 0040 0038 9901 0001
 >  
-> P Welding √ 3 cm
+> P
+> welding
+> √3 cm
 
 **Answer:** 1
+
 [[Quesiti/src_kangourou_2021_cadet_semifinale#q18|src_kangourou_2021_cadet_semifinale__Q18]]

@@ -149,11 +149,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the main reason why the Commission has decided to adopt a new strategy.
+*winning strategy*
 
-> Consider the following game for two players playing in turns, drawing the first player. He leaves with two piles of coins. The player who is called to play discards one and breaks the remainder into two new piles (of at least one coin each). He loses who can't play anymore. Discuss the existence of winning strategies.
+> Consider the following two-player game, where players take turns and the first player is determined by a random draw. The game starts with two piles of coins. On a player's turn, they discard one pile and split the remaining pile into two new piles (each containing at least one coin). The player who cannot make a move loses. Discuss the existence of winning strategies.
 
 **Answer:** strategia parita
+
 [[Quesiti/src_kangourou_2014_finale_student#qs3|src_kangourou_2014_finale_student__QS3]]
 
 

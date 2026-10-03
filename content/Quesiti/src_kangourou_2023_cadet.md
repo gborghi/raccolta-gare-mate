@@ -978,21 +978,36 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-* sum of major figures *
+*sum of digits greater*
 
-> The sum of 2023 consecutive integers is 2023. What is the sum of the major numbers in these numbers? A) 4
+> The sum of 2023 consecutive integers is 2023. What is the sum of the digits of the largest among these numbers?
+>
+> (A) 4
 > 	
-> B) 5
+> B) 5 	
 > 	
-> C) 6
+> C) 6 	
 > 	
-> D) 7
+> D) 7 	
 > 	
-> E) 8 A B C D E F 40° ? The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+> E) 8
+> A
+> B
+> C
+> D
+> E
+> F
+> 40°
+> ?
+> Giulio
+> Tom
+> Lidia
+> O
 > 
-> The questions from N. 21 al N. 30 is worth 5 points each.
+> Questions 21 to 30 are worth 5 points each.
 
 **Answer:** A
+
 [[Quesiti/src_kangourou_2023_cadet#q20|src_kangourou_2023_cadet__Q20]]
 
 

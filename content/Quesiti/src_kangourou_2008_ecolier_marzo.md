@@ -188,7 +188,7 @@ What a flower the mother receives
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of squares in the sixth figure*
+*How many squares in the sixth figure*
 
 ![[src_kangourou_2008_ecolier_marzo__prob4.png]]
 
@@ -218,21 +218,27 @@ What a flower the mother receives
 \end{document}
 ```
 
-> In the three figures you can see three large squares, each divided into smaller squares according to the following rule: going from one large square to the next, the square at the top right is divided into 4 smaller squares. If we do not count the squares that are divided * * * * * * * * * *
+> In the three figures you can observe three large squares, each subdivided into smaller squares according to the following rule: when passing from one large square to the next, the top-right small square is subdivided into 4 smaller squares. If we do not count the squares that are subdivided,
 >  
-> * * * * * * * * * * * * * * * * * * *
 >  
-> * * * * * * * * * * * * * * * * * * *
 >  
-> * * * * * * * * * * * * * * * * * * *
 >  
-> * * * * * * * * * * * * * * * * * * *
 >  
-> The Commission shall adopt delegated acts in accordance with the opinion of the European Parliament and of the Council concerning:
+> Text_08.qxp  9-03-2008  14:56  Page 5
 > 
-> I'm going to pay. I'm going to pay. 6 Kang 2008 Kang 2008 in smaller squares, in the first figure there are 4 squares, in the second 7, in the third 10. In this way, how many squares will there be in the sixth figure (always excluding squares containing others)? A) 16 B) 17 C) 18 D) 19 E) 20
+> On page
+> Page 6
+> Kang 2008
+> Kang 2008
+> in smaller squares, in the first figure there are 4 squares, in the second 7, in the third 10. Continuing in this way, how many squares will there be in the sixth figure (always excluding those that contain other squares)?
+> (A) 16
+> (B) 17
+> (C) 18
+> (D) 19
+> (E) 20
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q04|src_kangourou_2008_ecolier_marzo__Q04]]
 
 
@@ -1075,11 +1081,21 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first essay (parity) *
+*Sum of cards in the first essay (parity)*
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? The Commission has decided to extend the scope of this Regulation to the following areas:
+> A box contains seven cards numbered from 1 to 7. Two sages draw cards at random from the box: the first takes three cards, the second takes two of the remaining; the last two stay closed in the box. The first sage, after looking only at the numbers on his own cards, says to the second: "I am certain that the sum of the numbers on your cards is even." What is the sum of the numbers on the cards drawn by the first sage?
+>
+> (A) 10
+> (B) 12
+> (C) 6
+> (D) 9
+> (E) 15
 > 
-> 1 Kangourou of Mathematics 2008 Category Écolier For fourth or fifth graders of primary school
+> 1
+> Kangaroo Mathematics 2008
+> Category Écolier
+> For students in fourth or fifth grade of primary school
 
 **Answer:** B
+
 [[Quesiti/src_kangourou_2008_ecolier_marzo#q24|src_kangourou_2008_ecolier_marzo__Q24]]

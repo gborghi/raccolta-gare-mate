@@ -385,11 +385,16 @@ The value of *11 *8) + 13 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1 of this Article. on two sides)*
+*Aliens at the round table (statement on 2 sides)*
 
-> The ferocious aliens of the Uru System are invading Earth! The world will end unless the Earth Champion defeats the alien chief's daughter in a desperate race. The race is held on a 500-meter track, on multiple laps. The alien surpasses the Champion every three minutes. If one of them were to run in the opposite direction, they would cross each other every 20 seconds. What is the speed of the alien in centimeters per second?
+> Chase
+> The fierce aliens of the Uru System invade Earth! The world will end unless the Champion of Earth defeats the daughter of the
+> alien leader in a desperate race. The race takes place on a track 500 meters long, over multiple laps. The alien
+> laps the Champion every 3 minutes. If one of the two ran in the opposite direction, they would cross each other every 20 seconds. What is, in
+> centimeters per second, the speed of the alien?
 
 **Answer:** 4887
+
 [[Quesiti/src_cesenatico_2012_semifinale_b#q11|src_cesenatico_2012_semifinale_b__Q11]]
 
 

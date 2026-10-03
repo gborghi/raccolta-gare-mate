@@ -58,11 +58,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of two semicircles of fabric 100x50*
+*Maximum area of two semicircles from fabric 100x50*
 
-> Two semicircles are to be made from one piece of fabric long and wide so that as much fabric as possible is used. What is the total area of the fabric used?
+> From a piece of fabric with length $100\,\text{cm}$ and width $50\,\text{cm}$, two semicircles are to be cut out in such a way as to maximize the amount of fabric used. What is the total area of fabric used?
 
 **Answer:** 4263
+
 [[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q02|src_cesenatico_2005_squadre_semifinale_a__Q02]]
 
 

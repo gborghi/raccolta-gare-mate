@@ -336,17 +336,20 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time when cyclists travel 130 km *
+*Ora in cui i ciclisti distano 130 km*
 
-> Two cyclists leave the same spot at 2:10 p.m. The first is moving north at a speed of 32 km/h, while the second is moving east at a speed of 24 km/h. The distance between them will be 130 km at
+> Two cyclists start from the same point at 14:10. The first goes north at a
+> speed of 32 km / h, while the second goes east at a speed of 24 km / h.
+> The distance between them will be 130 km at
 >
 > - **(A)** 16.10
 > - **(B)** 16.20
 > - **(C)** 17.10
 > - **(D)** 17.25
-> - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . The Commission's proposal for a regulation on the protection of the environment in the Member States of the European Communities is to be adopted by the Council on 15 March 2001. Class of students. This item is not intended to be used. 3
+> - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . 9 1 (E) 3 2 (D) 6 1 (C) 3 1 (B) 2 1 ) A ( Kangourou 15 March 2001. Student Category. Page No. 3
 
 **Answer:** D
+
 [[Quesiti/src_kangourou_2001_student#q09|src_kangourou_2001_student__Q09]]
 
 
@@ -520,17 +523,21 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cents per packet of rubber*
+*Cents per pack of gum*
 
-> In New York City, 16 packs of chewing gum cost as many dollars as you can buy with a dollar. How many cents does a package cost? One dollar is 100 cents .
+> In New York 16 packets of chewing gum cost
+> as many dollars as the number of packets one can
+> buy with one dollar. How many cents does one
+> packet cost? (1 dollar = 100 cents).
 >
 > - **(A)** 4
 > - **(B)** 8
 > - **(C)** 12
 > - **(D)** 16
-> - **(E)** 25. . In the case of the Commission, the Commission considers that it is appropriate to take the necessary measures in order to ensure that the measures are implemented in accordance with the principle of proportionality. Class of students. This item is not intended to be used. 4
+> - **(E)** 25. . cm 64 (E) cm 3 32 (D) cm 3 64 (C) cm 32 (B) cm 3 16 ) A ( 3 3 3 3 3 Kangourou 15 March 2001. Student Category. Page No. 4
 
 **Answer:** E
+
 [[Quesiti/src_kangourou_2001_student#q13|src_kangourou_2001_student__Q13]]
 
 
